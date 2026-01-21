@@ -1,0 +1,14 @@
+{
+    "name": "estagia-backend",
+    "version": "0.1.1",
+    "type": "module",
+    "scripts": {
+        "start": "node --env-file=.env server.js",
+        "dev": "node --env-file=.env --watch server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^17.2.3",
+        "express": "^4.21.0"
+    }
+}

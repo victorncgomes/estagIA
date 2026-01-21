@@ -1,0 +1,1242 @@
+Modelo de Documento
+
+Descrição:	Remição parcial ENCCEJA indefere
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Vara de Execução em Meio Fechado e Semiaberto
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos, etc.
+
+Trata-se de execução de pena privativa de liberdade, em regime fechado, em que o apenado requereu remição pelo estudo, amparado na previsão do art. 126 da Lei 12.433/2011 e na Recomendação nº 44/2013, do CNJ, em razão de ter realizado a prova para declaração de proficiência no Ensino Fundamental por meio do ENCCEJA no ano de **, (evento *).
+
+Foi juntado, por meio de ofício do CPJC** da Cadeia Pública de Ceará Mirim** da Penitenciária Estadual **, a Declaração de Proficiência - ENCCEJA do Ensino Fundamental com o resultado satisfatório apenas na área de Ciências Naturais (evento *).
+
+Opinou o Ministério Público para que fossem remidos * dias (evento *).
+
+Relatados.
+
+O Exame Nacional de Educação para Jovens e Adultos (ENCCEJA) é uma prova realizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), autarquia vinculada ao Ministério da Educação do Brasil para buscar a certificação de conclusão no ensino fundamental ou médio.
+
+Dispõe a Resolução nº 391/2021 do CNJ, em seu art. 3º, Parágrafo Único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada  como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600  (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do  Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Desse modo, a recomendação supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO em exames nacionais.
+
+No caso, a documentação comprova que o apenado alcançara a nota mínima apenas em uma das cinco áreas da prova no ENCCEJA, contudo sem comprovar a aprovação, critério expressamente exigido pela Resolução CNJ nº 391/2021.
+
+É cediço que para o candidato ser aprovado deverá atingir determinada nota exigida para cada área de conhecimento, alcançando, assim, a certificação de competência para o ensino pretendido.
+
+Aqui, a nota obtida não fora suficiente para certificar a conclusão do Ensino Fundamental.
+
+Isto posto, indefiro o pedido de remição do evento *.
+
+P.R.I.
+
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+
+ 
+ 
+Modelo de Documento
+
+Descrição:	agravo retifica percentual único completo MODELO SEM USO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento ** que retificou os percentuais de cumprimento da pena para progressão de regime, seguindo entendimento assente no Superior Tribunal de Justiça, inclusive nas últimas semanas, até depois de proferida a decisão recorrida.
+
+O Ministério Público contrarrazoou pugnando pela reforma da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme anotado na decisão agravada, deve ser fixado apenas um patamar para todos os delitos, sendo todas penas são somadas ou unificadas para fins de fixação do regime prisional (LEP, art. 111, caput e seu parágrafo único):
+
+"Desse modo, não é juridicamente possível a utilização da fração de 1/6 para fins de progressão de regime apenas para o crime comum, e de 2/5 apenas para o crime hediondo, devendo ser fixado apenas um patamar de progressão para ambos os delitos" (AgRg nos EDcl no HC 668.301/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021)
+
+No mesmo sentido:
+
+"Não há justificativa para a consideração isolada de cada condenação, tampouco para a aplicação de percentual diferente a cada uma das reprimendas" (RECURSO ESPECIAL Nº 1957657 - MG,  RELATOR : MINISTRO JOÃO OTÁVIO DE NORONHA, j. 26.11.2021) .
+
+Aqui lembro que todas as penas são somadas ou unificadas para fins de fixação do regime prisional (LEP, art. 111, caput e seu parágrafo único).
+
+Muito recentemente o Superior Tribunal de Justiça decidiu, repetindo sua jurisprudência:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. COMBINAÇÃO DE LEIS. INVIABILIDADE. CONDIÇÃO DE REINCIDENTE APLICÁVEL A TODAS AS CONDENAÇÕES. 1. "O entendimento desta Corte Superior é o de impossibilidade de combinação de leis, formando uma terceira lei. Assim, deve o julgador analisar, de forma individualizada, qual redação do artigo 112 da Lei das Execuções Penais é a mais benéfica ao sentenciado para fins de alcance do requisito objetivo necessário à progressão de regime - aquela com ou sem as modificações trazidas pela Lei n. 13.964/2019" (AgRg no HC n. 699.653/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/11/2021). 2. A condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas. Precedente. 3. No caso, foi aplicada retroativamente a Lei nº 13.964/2019, que alterou o art. 112 da Lei de Execuções Penais, com incidência dos incisos V e VI, para os crimes hediondos, e dos incisos I a IV, para os crimes comuns, para fins de progressão de regime, o que significa a adoção de frações distintas, em desconformidade com a jurisprudência dessa Corte Superior. 4. Entretanto, além dos incisos V e VI, a fixação dos percentuais previstos nos incisos I a IV, do art. 112 da Lei de Execução Penal, para os crimes comuns, conforme a decisão proferida pelo Juízo de primeira instância e mantida pela Corte de origem, implica situação mais benéfica ao agravante, que também figura como condenado por crime hediondo. 5. Dessa forma, não se vislumbra constrangimento ilegal a ser sanado nesta via, devendo ser mantidas, ante à ausência de recurso da acusação, as frações adotadas/mantidas pelas instâncias ordinárias, em observância ao princípio do ne reformatio in pejus. 6. Agravo regimental improvido. (AgRg no HC n. 700.483/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022).
+
+No seu voto o relator expressamente anotou, em relação a entendimento diverso:
+
+"No caso, foi aplicada retroativamente a Lei nº 13.964/2019, que alterou o art. 112 da Lei de Execuções Penais, com incidência dos incisos V e VI, para os crimes hediondos, e dos incisos I a IV, para os crimes comuns, para fins de progressão de regime, o que significa a adoção de frações distintas, em desconformidade com a jurisprudência dessa Corte Superior."
+
+Em decisão monocrática do último 30 de junho de 2022, no HC n. 732.875, o Ministro Sebastião Reis Júnior reafirmou esse entendimento, verbis:
+
+"Dito de outra forma, é pacífico nesta Corte Superior o entendimento segundo o qual a condição de reincidente pode ser reconhecida na fase da execução e se estende sobre a totalidade das penas somadas, aplicando-se fração única, inclusive na primeira condenação quando o réu ainda ostentava a condição de primário (AgRg no HC n. 660.579/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 11/10/2021 - grifo nosso).
+Nessa mesma linha, o AgRg no REsp n. 1.986.299/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 26/5/2022; e REsp n. 1.957.657/MG, Ministro João Otávio de Noronha, Quinta Turma, DJe 26/11/2021".
+
+Na verdade, várias vezes o Superior Tribunal de Justiça  debruçou-se sobre o tema, deixando assentado, em acórdão que trata especificamente da questão, que o tema trata da individualização da pena.
+
+Verbis:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LAPSO PARA A PROGRESSÃO DE REGIME. CASO CONCRETO. EFETIVA REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO PARA FINS DE UNIFICAÇÃO DE PENAS. NOVO PACOTE ANTICRIME (LEI N. 13.964/2019). RECURSO DESPROVIDO.  I - A Terceira Seção desta eg. Corte Superior consagrou o entendimento de que "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp n. 1.910.240/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 31/5/2021).  II - Na hipótese concreta, contudo, é a efetiva reincidência específica da parte agravante em crimes hediondos que impossibilita a concessão da ordem para fins de unificação de penas em execução penal.  III - Assente na jurisprudência desta eg. Corte Superior que "As condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções para concessão de benefícios, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da LEP, descabendo falar-se em reformatio in pejus ou em violação da coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal (AgRg no HC n. 511.766/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 18/6/2019, DJe 27/6/2019)" (AgRg nos EDcl no HC n.668.301/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/6/2021). Agravo regimental desprovido. (AgRg no HC 676.203/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 14/09/2021, DJe 22/09/2021) - negritei.
+
+De tão didático, vale a pena transcrever parte do voto condutor:
+
+Assim, realizada a unificação das penas, não é possível o fracionamento das condenações impostas para fins de execução penal.
+
+No mesmo sentido, o art. 111 da Lei de Execução Penal:
+
+"Art. 1 11. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime."
+
+Igualmente, assente na jurisprudência desta eg. Corte Superior que "As condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções para concessão de benefícios, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da LEP, descabendo falar-se em reformatio in pejus ou em violação da coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal (AgRg no HC n. 511.766/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 18/6/2019, DJe 27/6/2019)" (AgRg nos EDcl no HC 668.301/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14/6/2021).
+
+Disso, se extrai que, se a parte agravante é reincidente, e esta condição deve afetar a totalidade da pena em cumprimento, apesar de a nova lei dividir os percentuais para crimes hediondos e comuns.
+
+Verifica-se, portanto, que o entendimento anterior está em consonância com a posição desta eg. Corte Superior, no sentido de que, "a condição de reincidente, uma vez  adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (AgRg no HC n. 616.696/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 18/12/2020).
+
+No mesmo sentido: HC n. 608.151, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 5/5/2021; e REsp n. 1.918.049, Quinta Turma, Rel. Min. Ribeiro Dantas, Dje de 28/4/2021.
+
+De seu lado, a eg. Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte, assentou recentemente:
+
+PROCESSUAL PENAL. AGEX. PRETENSO RECONHECIMENTO DE PERCENTUAL DE 40% PARA PROGRESSÃO DE REGIME DO CRIME COMUM, PREVISTO NO PACOTE ANTICRIME (LEI 13.964/19). APENADO POSTERIORMENTE CONDENADO POR CRIME HEDIONDO COM RESULTADO MORTE (50%). NECESSIDADE DE ANÁLISE SOB O CRIVO DO SOMATÓRIO DAS REPRIMENDAS (PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA). IMPOSSIBILIDADE DE CONSIDERAÇÃO ISOLADA DAS SANÇÕES E DE SEUS RESPECTIVOS PERCENTUAIS. PRECEDENTES. DECISUM MANTIDO. CONHECIMENTO E DESPROVIMENTO (Agravo em Execução nº 0812481-95.2021.8.20.0000, Relator: Desembargador Saraiva Sobrinho, j. em 13.01.2022). grifei.
+
+PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO CRIMINAL. RETIFICAÇÃO DA GEP. IMPOSSIBILIDADE DE CONSIDERAÇÃO ISOLADA DAS SANÇÕES PARA FIXAÇÃO DE PERCENTUAIS DIFERENTES. PRÁTICA DE CRIME HEDIONDO POR RÉU REINCIDENTE. INCIDÊNCIA DO PERCENTUAL DE 60% (3/5) PARA O CÁLCULO DA PROGRESSÃO DE REGIME. INTELIGÊNCIA DO ART. 112, INCISO VII, DA LEP. PRECEDENTES DA QUINTA TURMA DO STJ E DESTA CORTE. MANUTENÇÃO DA DECISÃO A QUO QUE SE IMPÕE. CONHECIMENTO E DESPROVIMENTO DO RECURSO. (Agravo Em Execução Criminal n.º 0810383-74.2020.8.20.0000. Relator:  Des. Glauber Rêgo, j. 27.01.2021).  grifei.
+
+Registro, por oportuno, que a decisão agravada mandou corrigir erro de lançamento do cálculo da pena (patamares do requisito objetivo para progressão de regime) efetivado por servidores do juízo, atendendo à jurisprudência do Superior Tribunal de Justiça, de forma a corrigir erro, individualizando a execução da pena.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo unificação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento **, que, confirmando a do evento **, unificou penas a ele impostas.
+
+O Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme restou claro na decisão agravada, a manutenção da prisão preventiva do apenado, com a negativa do direito de recorrer em liberdade, impõe-se a unificação provisória da pena, ainda que não haja trânsito em julgado da sentença penal condenatória.
+
+Assim:
+
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. AUSÊNCIA DE TRÂNSITO EM JULGADO. UNIFICAÇÃO DA PENA. POSSIBILIDADE. MARCO INICIAL DE NOVOS BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO OU DA ÚLTIMA INFRAÇÃO DISCIPLINAR.
+1. De acordo com a jurisprudência desta Corte Superior de Justiça, "a execução da pena não se inicia apenas com a superveniência do título judicial exequível. Já se admite a execução provisória nas hipóteses de existência de prisão cautelar e, atualmente, quando há a confirmação da condenação pelo Tribunal de Justiça/Tribunal Regional e não há prisão preventiva" (HC n. 381.248/MG, relator p/ o acórdão Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 3/4/2018).
+2. Uma vez admitida a execução provisória, deve-se, igualmente, permitir que seja realizada a unificação provisória da pena, ainda que não haja trânsito em julgado da sentença penal condenatória.
+3. Na linha da orientação jurisprudencial desta Corte, sobrevindo nova condenação no curso da execução, deverá o Juízo da execução realizar a unificação das penas impostas ao sentenciado, no entanto, não poderá, diante da ausência de previsão legal, considerar o trânsito em julgado dessa nova condenação - ou como no caso dos presentes autos, a data da última sentença penal condenatória - como marco inicial para novos benefícios, devendo, em casos como o presente, observar, como estabelecido pela Terceira Seção (REsp n. 1.557.461/SC), a data da última prisão ou da última falta disciplinar.
+4. Embargos de declaração parcialmente acolhidos, com efeitos infringentes, para manter a unificação das penas, determinando ao Juízo da execução que promova novo cálculo de pena no qual deve considerar como termo inicial para novos benefícios a data da última prisão ou da última falta disciplinar.
+(EDcl no HC 379.829/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 12/08/2020)
+
+Agravo em Execução Penal nº 0807642-27.2021.8.20.0000Origem: Juízo de Execuções Penais de Nísia FlorestaAgravante: Anjuly Bastos de CarvalhoAdvogado: Gabriel Bulhões Nóbrega DiasAgravado: Ministério PúblicoRelator:  Desembargador Saraiva Sobrinho EMENTA: PROCESSUAL PENAL. AGEX. POSSIBILIDADE DE UNIFICAÇÃO DE PENAS DEFINITIVAS E PROVISÓRIAS SUPERVENINTES, AINDA QUE A SENTENÇA NÃO TENHA TRANSITADO EM JULGADO. INTELIGÊNCIA DA SÚMULA 716 DO STF, ART. 111, PARÁGRAFO ÚNICO, DA LEP E DOS ARTS. 8° E 9°, §2°, DA RESOLUÇÃO 113/2010-CNJ. GUIA DE EXECUÇÃO PROVISÓRIA EMITIDA. INOCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PRECEDENTES. DECISUM MANTIDO. CONHECIMENTO E DESPROVIMENTO. ACÓRDÃOAcordam os Desembargadores integrantes da Câmara Criminal, à unanimidade de votos e em consonância com a 5ª Procuradoria de Justiça, conhecer e desprover o Recurso, nos termos do voto do Relator.
+No mesmo sentido decidiu a eg. Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte:
+
+PROCESSUAL PENAL. AGEX. POSSIBILIDADE DE UNIFICAÇÃO DE PENAS DEFINITIVAS E PROVISÓRIAS SUPERVENINTES, AINDA QUE A SENTENÇA NÃO TENHA TRANSITADO EM JULGADO. INTELIGÊNCIA DA SÚMULA 716 DO STF, ART. 111, PARÁGRAFO ÚNICO, DA LEP E DOS ARTS. 8° E 9°, §2°, DA RESOLUÇÃO 113/2010-CNJ. GUIA DE EXECUÇÃO PROVISÓRIA EMITIDA. INOCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. PRECEDENTES. DECISUM MANTIDO. CONHECIMENTO E DESPROVIMENTO (Agravo em Execução Penal nº 0807642-27.2021.8.20.0000. Relator: Desembargador Saraiva Sobrinho, j. 12.08.2021).
+
+Em assim sendo, por seus próprios fundamentos, acrescidos das contrarrazões ministeriais, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	LC neg obj e subj
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução penal em que o SEEU identificou requisito objetivo para concessão de livramento condicional, face à pena imposta.
+
+Relatados.
+
+Descabe o benefício, pois o apenado não atende aos seus requisitos objetivo e subjetivo.
+
+A uma por que os cálculos apresentados pelo SEEU não estão corretos.
+
+É que o apenado registra fuga em **, com recaptura apenas em **, ou seja, praticou falta grave há menos de doze meses, situação que confira ausência do requisito objetivo exigido pelo art. 83, III, b, do Código Penal para o livramento condicional.
+
+Neste sentido decidiu recentemente o Superior Tribunal de Justiça, confirmando decisão do ano anterior:
+
+No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020) (AgRg no HC 639.495/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/08/2021, DJe 17/08/2021)
+
+Ademais, o apenado também não atende ao requisito subjetivo ao benefício, pois resta demonstrada a falta de comportamento satisfatório (Código Penal, art. 83, III, a), já que ele fugiu ** vezes durante o cumprimento da pena.
+
+Isto posto, face não atender o apenado  aos requisitos do art. 83,  III, a e b, do Código Penal, indefiro o livramento condicional.
+
+P.R.I.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo prazo comportamento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que indeferiu progressão de regime, por não cumprido o tempo exigido pelo Regimento Disciplinar Penitenciário para aferição do requisito subjetivo para o benefício.
+
+O Ministério Público contrarrazoou, pugnando pela reforma da decisão agravada, por "inexistir na legislação" a exigência do prazo anotado.
+
+Relatados.
+
+Nos termos do art. 24, I, da Constituição da República Federativa do Brasil, compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre, entre outros, direito  penitenciário.
+
+No exercício de tal competência o Estado do Rio Grande do Norte publicou o Regulamento Disciplinar Penitenciário, o qual, no art. 95, inciso II, determina que a conduta disciplinar do preso em regime fechado classificar-se-á em "boa, quando no prazo mínimo de 06 (seis) meses, não tiver cometido infração disciplinar de natureza grave ou média".
+
+De seu lado, o art. 112, § 1º da Lei de Execução Penal, dispõe que "o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento".
+
+Ora, se o apenado não cumpriu os seis meses da pena no regime fechado não há como atender ao requisito subjetivo para a progressão de regime, já que seu comportamento será neutro ou regular e não bom.
+
+Assim, sem razão o agravante e o Ministério Público, pois, conforme esclarecido na decisão recorrida, o apenado não passou tempo suficiente no regime fechado para aferição do bom comportamento, exigível para a progressão de regime.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo prescrição anterior denúncia
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que indeferiu pedido de reconhecimento de prescrição executória.
+
+O Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme esclarecido na decisão recorrida, a incidência de causa interruptiva impediu o transcurso do prazo prescricional.
+
+Ora, nos termos do art. 110, parágrafo único, do Código Penal, transitada em julgada a ação penal, a prescrição não poderá em hipótese alguma ser regulada por período anterior a denúncia ou a queixa, verbis:
+
+Art. 110 - A prescrição depois de transitar em julgado a sentença condenatória regula-se pela pena aplicada e verifica-se nos prazos fixados no artigo anterior, os quais se aumentam de um terço, se o condenado é reincidente.
+
+§ 1o A prescrição, depois da sentença condenatória com trânsito em julgado para a acusação ou depois de improvido seu recurso, regula-se pela pena aplicada, não podendo, em nenhuma hipótese, ter por termo inicial data anterior à da denúncia ou queixa
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Agravo prescrição mantendo indef
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que indeferiu pedido de reconhecimento de prescrição executória.
+
+O Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme esclarecido na decisão recorrida, a incidência de causa interruptiva impediu o transcurso do prazo prescricional.
+
+Ora, é assente na jurisprudência do Supremo Tribunal Federal ser irrelevante que o crime tenha sido praticado antes ou depois da Lei nº 11.596/2007 para se considerar que  o acórdão de segundo grau, confirmando a condenação de primeira instância mas modificando a pena, deve ser considerado como uma nova causa de interrupção do prazo prescricional.
+
+Neste sentido, negritado por mim:
+
+Agravo regimental nos embargos de declaração no habeas corpus. 2. Condenação implementada pelo Tribunal de Justiça após sentença absolutória. Crime praticado antes da Lei 11.596/2007. Irrelevância. 3. Mesmo antes da Lei 11.596/2007, a condenação implementada de forma inaugural pelo Tribunal de Justiça, após absolvição em primeiro grau, é causa de interrupção da prescrição. 4. Agravo improvido.  (HC 205566 ED-AgR, Relator(a): GILMAR MENDES, Segunda Turma, julgado em 04/10/2021).
+
+PRETENSÃO PUNITIVA – PRESCRIÇÃO – ACÓRDÃO. Quer após a Lei nº 11.596/2007, quer antes dela, o acórdão de mérito alusivo à apelação surge como fator interruptivo da prescrição. [...]” (ARE 1.054.714-AgR-segundo-ED, Relator Ministro Marco Aurélio, Primeira Turma, DJe 1º.8.2018).
+
+PRESCRIÇÃO – ACÓRDÃO – INTERRUPÇÃO. Quer após a Lei nº 11.596/2007, quer antes dela, acórdão de mérito alusivo a apelação surge como fator interruptivo da prescrição. (HC 134853, Relator(a): MARCO AURÉLIO, Primeira Turma, julgado em 07/08/2018).
+
+“(...) mesmo antes da alteração introduzida pela Lei 11.596/2007, o Superior Tribunal de Justiça e esta Suprema Corte já haviam consolidado o entendimento de que o acórdão de segundo grau que, confirmando a condenação de primeira instância, modificasse a pena, de modo a refletir no cálculo do prazo prescricional, tinha relevância jurídica e, portanto, deveria ser considerado como uma nova causa de interrupção do prazo prescricional”. (HC 106.222, Rel. Min. Ricardo Lewandowski, DJe de 29/3/2011).
+
+ Recurso ordinário em habeas corpus. Direito Penal Militar. Extinção da punibilidade. Inocorrência. Eficácia interruptiva do acórdão condenatório que reforma sentença absolutória. Recurso desprovido. “O acórdão condenatório que reforma sentença penal absolutória reveste-se de eficácia interruptiva da prescrição penal, posto que equiparado, para tal fim, à sentença condenatória recorrível” (HC 70.810/RS, rel. min. Celso de Mello, DJ de 01.12.2006). A jurisprudência desta Corte, mesmo antes da alteração introduzida pela Lei nº 11.596/2007, já havia sedimentado o entendimento de que o acórdão de segundo grau que altera a pena aplicada ou impõe preceito condenatório possui relevância jurídica e deve ser considerado como causa interruptiva do prazo prescricional, entendimento este que também pode ser aplicado no Direito Penal Militar. Recurso ao qual se nega provimento. (RHC 109973, Relator(a): JOAQUIM BARBOSA, Segunda Turma, julgado em 22/11/2011).
+
+Bem significativa da posição jurisprudencial do Supremo Tribunal Federal é a afirmação, feita pelo em. Ministro Alexandre de Moraes, quando do julgamento do AG.REG. NO RECURSO EXTRAORDINÁRIO 1.210.551:
+
+“A ideia de prescrição está vinculada à inércia estatal e o que existe na confirmação da condenação, muito pelo contrário, é a atuação do Tribunal. Consequentemente, se o Estado não está inerte, há necessidade de se interromper a prescrição para o cumprimento do devido processo legal”.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Exame sanidade mental indef pedido genérico
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena de ** de reclusão em regime fechado em que o apenado requereu, através de advogado, instauração de incidente de insanidade mental, no que acostou atestado médico.
+
+Opinou o Ministério Público pelo indeferimento do pleito.
+
+Relatados.
+
+Não obstante os relevantes argumentos expostos pela defesa no afã de gerar dúvida quanto à higidez mental do apenado, o pleito de instauração de incidente de insanidade mental não merece deferimento.
+
+É que o fato de acostar aos autos atestado médico não basta para incitar fundadas dúvidas sobre a saúde mental do penitente, até porque o diagnóstico apontado no laudo corresponde a **transtornos mentais e comportamentais devido ao uso de múltiplas drogas e ao uso de outras substâncias psicoativas, prevista no CID 10 – F19.2**, e em nada menciona que tal doença o torna perigoso ao convício social e inteiramente incapaz de compreender o caráter da pena imposta ou de determinar-se de acordo com esse entendimento, de forma a  justificar possível inimputabilidade.
+
+O Código Penal define, em seu art. 26, que os inimputáveis são aqueles isentos de pena que, por doença mental ou desenvolvimento mental incompleto ou retardado, eram, ao tempo da ação ou omissão, inteiramente incapazes de entender o caráter ilícito do fato ou determinar-se de acordo com esse entendimento.
+
+Entretanto, a prova da inimputabilidade prevista no referido artigo é feita obrigatoriamente por meio do exame de sanidade mental que, nos termos do art. 149 do Código de Processo Penal, deverá ser instaurado quando houver dúvida sobre a integridade mental do acusado, o qual será submetido a exame médico-legal.
+
+Impende consignar que o mencionado exame somente se mostra indispensável quando houver dúvida razoável sobre a higidez mental do apenado, isto é, quando se entender presentes aos autos sérios indícios que ponham em dúvida a sua capacidade de entender o caráter da pena imposta, já que o fato fora trazido à baila no curso da execução penal.
+
+E no caso, não vislumbro dúvidas quanto a capacidade de o apenado entender o caráter do cumprimento da pena a ele aplicada, não bastando o simples requerimento da parte para que o procedimento seja instaurado.
+
+Nesse mesmo sentido é firme a jurisprudência do STJ ao entender que não caracteriza cerceamento de defesa o indeferimento de exame de sanidade mental se não há dúvidas sobre a sua integridade mental, como se observa dos seguintes precedentes:
+
+HABEAS CORPUS. CONCUSSÃO E FORMAÇÃO DE QUADRILHA. INSTAURAÇÃO DE INCIDENTE DE INSANIDADE MENTAL. ATESTADO MÉDICO ACOSTADO AOS AUTOS. INEXISTÊNCIA DE DÚVIDA RAZOÁVEL QUANTO À SAÚDE MENTAL DO PACIENTE. NÃO OBRIGATORIEDADE DO PROCEDIMENTO. DECISÃO DO JUÍZO SINGULAR BEM FUNDAMENTADA. ORDEM DENEGADA. 1. É pacífica a jurisprudência desta Corte de Justiça no sentido de que não caracteriza cerceamento de defesa o indeferimento de exame de sanidade mental se não há dúvidas sobre a integridade mental do acusado, não bastando o simples requerimento da parte para que o procedimento seja instaurado. 2. O fato de haver acostado aos autos um atestado médico não basta para incitar fundadas dúvidas sobre a saúde mental do paciente, até porque somente consta que ele estava em tratamento e que estaria sem condições de sanidade mental para a retomada das atividades laborais, em nada mencionando, de fato, a capacidade de compreender o caráter ilícito da conduta que justificasse uma possível inimputabilidade. 3. Sendo a dúvida sobre a integridade mental do acusado um pressuposto para a instauração do incidente e tendo a decisão do Juízo Singular - confirmada pelo acórdão objurgado - trazido fundamentação idônea a justificar a desnecessidade do procedimento ante a ausência de incertezas sobre as condições mentais do paciente, não se vislumbra o aventado constrangimento ilegal. 4. Ordem denegada. (HC 95.616/PA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/02/2010, DJe 12/04/2010).
+
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. RECURSO EM SENTIDO ESTRITO. INCIDENTE DE INSANIDADE MENTAL. NÃO OBRIGATORIEDADE. VIA ELEITA INADEQUADA PARA AFERIR A NECESSIDADE DE REALIZAÇÃO DESSA MEDIDA. SENTENÇA DE PRONÚNCIA PROFERIDA ANTES DO RESULTADO DAS PROVAS PERICIAIS. NULIDADE. INEXISTÊNCIA. 1. O exame a que se refere o art. 149 do Código de Processo Penal é imprescindível apenas quando houver dúvida a respeito da saúde mental do acusado, ou seja, indícios plausíveis de que o agente, no tempo dos fatos, era incapaz de entender o caráter ilícito de sua conduta. 2. No caso, o Juiz que presidiu o feito não detectou nenhuma anormalidade no interrogatório do acusado, ou mesmo durante a instrução processual, a fim de justificar a instauração de incidente de insanidade mental, sendo certo que somente na fase de alegações finais a defesa alegou ser o paciente portador de doença capaz de interferir no seu estado psíquico (epilepsia). 3. Com efeito, não se vislumbra nenhuma ilegalidade no acórdão hostilizado que, de maneira fundamentada, entendeu inexistir qualquer suspeita a respeito da perturbação mental do paciente. Assim, a inversão do decidido demandaria o exame aprofundado de matéria fático-probatória, inviável na via estreita do habeas corpus. (...). 7. Habeas corpus denegado. (HC nº 68.708/RS, rel. Ministro OG FERNANDES, Sexta Turma, julgado em 17-9-2009, DJe 13-10-2009).
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARTS. 213 E 217-A DO CÓDIGO PENAL. ARTS. 241-A E 241-B DO ECA. EXAME DE INSANIDADE MENTAL. INDEFERIMENTO DO PEDIDO. INEXISTÊNCIA DE DÚVIDA RAZOÁVEL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO. 1. Na linha da jurisprudência desta Corte, "a realização do exame de insanidade mental não é automática ou obrigatória, devendo existir dúvida razoável acerca da higidez mental do acusado para o seu deferimento" (RHC n. 88.626/DF, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2017, DJe 14/11/2017). 2. No caso, o Tribunal de origem concluiu, fundamentadamente e com base no amplo acervo de provas colacionadas aos autos, não haver dúvida razoável acerca da sanidade mental do acusado de modo a justificar o deferimento do pedido de realização do referido exame. Dessa forma, a reversão do julgado, como pretendido pelo agravante, exigiria o reexame do material fático-probatório, o que é inviável em recurso especial, tendo em vista o teor do enunciado 7 da Súmula desta Corte.
+3. Agravo regimental desprovido. (AgRg no REsp 1799314/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/04/2021, DJe 13/04/2021)
+
+Neste pórtico, entendo que **o atestado médico acostado aos autos é genérico, porquanto não traz qualquer elemento apto a demonstrar o comprometimento da lucidez e da ausência de compreensão da pena imposta, necessários ao reconhecimento da inimputabilidade.
+
+Isto posto, em consonância com o parecer ministerial, indefiro o pedido da defesa.
+
+P.R.I.
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Agravo progr indef subj
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado decisão do evento * que indeferiu-lhe a progressão de regime por ausente o requisito subjetivo.
+
+O Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois a noção de bom comportamento do apenado exigido como requisito subjetivo para a progressão de regime "abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos. (AgRg no HC 660.197/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/08/2021).
+
+Nestes termos:
+
+Em sede de execução penal, vale o princípio in dubio pro societate, o qual preconiza que, na dúvida quanto à aptidão para a promoção a regime mais brando, faz-se necessário o encarceramento por um período maior de tempo sob o olhar cauteloso do Estado, evitando-se que a sociedade seja posta em risco com uma reinserção prematura. Lado outro, o atestado de boa conduta carcerária emitido pelo diretor da unidade prisional é insuficiente para se aferir, por si só, o mérito subjetivo, na medida em que o comportamento disciplinado é dever de todos que se encontram temporariamente encarcerados, sob pena de imposição de sanções disciplinares. [...] (AgRg no HC 639.850/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/05/2021, DJe 01/06/2021).
+
+No caso, restou esclarecido na decisão agravada que ***
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo percentual único
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento ** que indeferiu seu  pedido para retificar os percentuais de cumprimento da pena para progressão de regime,.
+
+O Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme anotado na decisão agravada, deve ser fixado apenas um patamar para todos os delitos (AgRg nos EDcl no HC 668.301/SP), sendo todas penas são somadas ou unificadas para fins de fixação do regime prisional (LEP, art. 111, caput e seu parágrafo único).
+
+Registro, por oportuno, que a decisão agravada mandou corrigir erro de lançamento do cálculo da pena (patamares do requisito objetivo para progressão de regime) efetivado por servidores do juízo, atendendo à jurisprudência do Superior Tribunal de Justiça.
+
+Isto posto, mantenho a decisão agravada, por seus próprios fundamentos
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Retificação GEP regime inicial
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de condenação a  ** de reclusão em regime fechado, por crime de ***, em que o apenado requereu alteração do regime inicial de cumprimento da pena para o aberto, por preencher os requisitos legais (ev. **).
+
+Interveio o Ministério Público, opinando pelo indeferimento do pedido (ev. **).
+
+Relatados.
+
+Nos precisos termos do art. 66, I, da Lei de Execução Penal, compete ao juiz da execução aplicar aos casos julgados lei posterior que de qualquer modo favorecer o condenado.
+
+No mesmo sentido dispõe a Súmula nº 611 do Supremo Tribunal Federal, com a seguinte redação: “Transitada em julgado a sentença condenatória, compete ao juízo das execuções aplicação de lei mais benigna”.
+
+Indiscutível, portanto, a competência do Juízo das Execuções para a análise e aplicação das repercussões benignas advindas do STF ao reconhecer a inconstitucionalidade da obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e os a ele equiparados, de modo que a identificação do regime inicial deve observar os critérios do art. 33, §§ 2º e 3º do Código Penal.
+
+Refiro-me ao seguinte acórdão:
+
+Habeas corpus. Penal. Tráfico de entorpecentes. Crime praticado durante a vigência da Lei nº 11.464/07. Pena inferior a 8 anos de reclusão. Obrigatoriedade de imposição do regime inicial fechado. Declaração incidental de inconstitucionalidade do § 1º do art. 2º da Lei nº 8.072/90. Ofensa à garantia constitucional da individualização da pena (inciso XLVI do art. 5º da CF/88). Fundamentação necessária (CP, art. 33, § 3º, c/c o art. 59). Possibilidade de fixação, no caso em exame, do regime semiaberto para o início de cumprimento da pena privativa de liberdade. Ordem concedida. 1. Verifica-se que o delito foi praticado em 10/10/09, já na vigência da Lei nº 11.464/07, a qual instituiu a obrigatoriedade da imposição do regime inicialmente fechado aos crimes hediondos e assemelhados. 2. Se a Constituição Federal menciona que a lei regulará a individualização da pena, é natural que ela exista. Do mesmo modo, os critérios para a fixação do regime prisional inicial devem-se harmonizar com as garantias constitucionais, sendo necessário exigir-se sempre a fundamentação do regime imposto, ainda que se trate de crime hediondo ou equiparado. 3. Na situação em análise, em que o paciente, condenado a cumprir pena de seis (6) anos de reclusão, ostenta circunstâncias subjetivas favoráveis, o regime prisional, à luz do art. 33, § 2º, alínea b, deve ser o semiaberto. 4. Tais circunstâncias não elidem a possibilidade de o magistrado, em eventual apreciação das condições subjetivas desfavoráveis, vir a estabelecer regime prisional mais severo, desde que o faça em razão de elementos concretos e individualizados, aptos a demonstrar a necessidade de maior rigor da medida privativa de liberdade do indivíduo, nos termos do § 3º do art. 33, c/c o art. 59, do Código Penal. 5. Ordem concedida tão somente para remover o óbice constante do § 1º do art. 2º da Lei nº 8.072/90, com a redação dada pela Lei nº 11.464/07, o qual determina que “[a] pena por crime previsto neste artigo será cumprida inicialmente em regime fechado“. Declaração incidental de inconstitucionalidade, com efeito ex nunc, da obrigatoriedade de fixação do regime fechado para início do cumprimento de pena decorrente da condenação por crime hediondo ou equiparado. (HC 111840, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 27/06/2012, PROCESSO ELETRÔNICO DJe-249  DIVULG 16-12-2013  PUBLIC 17-12-2013) - negritei.
+
+Dessarte, ante a declaração pelo Supremo Tribunal Federal da inconstitucionalidade do art. 2º, § 1º, da Lei nº 8.072/1990, passou a ser possível aos condenado por crimes hediondos ou equiparados a fixação, em tese, de quaisquer dos regimes prisionais legalmente previstos.
+
+Assim sendo, mesmo em se tratando de crimes hediondos, para a imposição de regime mais severo do que o permitido segundo a sanção aplicada, faz-se necessário que a pena-base seja fixada acima do mínimo legal, por meio de motivação idônea, com demonstração concreta das circunstancias judiciais previstas no art. 59 do estatuto repressivo, que, necessariamente, devem ser desfavoráveis ao réu, para incidência do disposto no art. 33, § 3º, do Código Penal.
+
+*Na hipótese dos autos, conquanto o Juízo de conhecimento tenha feito ressalvas quanto às circunstâncias da culpabilidade, personalidade, motivação e consequências, verifico que elas fazem parte do próprio tipo penal; tanto é verdade que o julgador fixou a pena-base no mínimo legal (por ausência de circunstâncias judiciais desfavoráveis ao condenado), enquanto o eg. Tribunal Justiça nada fundamentou a respeito  (ev. **).
+
+*Na hipótese dos autos,  o Juízo de conhecimento não reconheceu quaisquer das circunstâncias judiciais como desfavoráveis ao condenado, o que também não ocorreu quando do julgamento do recurso pela eg. Câmara Criminal (ev.**).
+
+Quanto ao regime prisional, tem-se que o Juízo Condenatório fixou automaticamente o regime fechado para o seu cumprimento, apenas com base no § 7º, do art. 1º, da Lei 9.455/1997, violando a garantia fundamental da individualização da pena, conforme vaticina o art. 5º, XLVI, da Constituição Federal, sendo necessário, portando,  exigir-se sempre a fundamentação do regime imposto, ainda que se trate de crime hediondo ou equiparado.
+
+Em sendo assim, observo atender o apenado aos requisitos insertos no art. 33, §§ 2º, "c", e 3º do Código Penal, de modo que se impõe o início do cumprimento da pena em regime semiaberto.
+
+Isto posto, deixo de acolher o parecer ministerial e estabeleço o regime inicial semiaberto para o início do cumprimento da reprimenda corporal.
+
+P.R.I. Comunique-se à unidade prisional, para que providencie a transferência do apenado ao regime semiaberto harmonizado.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Progressão indeferimento pedir nova gep
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução penal em que o SEEU identificou o requisito objetivo para progressão de regime, tendo em vista a pena em imposta.
+
+No entanto, existe ação penal julgada, na qual o apenado foi condenado, sem direito a recorrer em liberdade, na **ª Vara Criminal de Natal/RN, sob o nº **.
+
+É o relatório. Decido.
+
+Apesar de atendido o requisito objetivo, agora não se há de conceder o benefício de progressão de regime, pois é necessária, antes, proceder à unificação das penas e consequente atualização dos cálculos dos benefícios, expedindo-se guia de execução penal atualizada.
+
+Ante o exposto, com fundamento nos arts. 111 c/c 118, II, da Lei de Execução Penal, a indefiro a progressão de regime e determino que se solicite a guia de recolhimento referente à ação penal nº **, para fins de unificação ou soma de penas.
+
+P.R. Cumpra-se. Ciência ao MP e à Defensoria Pública, se necessário
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo data falta média
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o Ministério Público da decisão do evento ** que concedeu progressão de regime ao apenado, por entender que seria necessário aguardar o prazo de 60 dias após o cumprimento de punição disciplinar por falta média que lhe fora imposta.
+
+Intimada, a defesa contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois a falta média foi praticada mais de 60 dias antes da progressão, em **l (data da última violação anotada), mesmo que a punição tenha sido cumprida posteriormente.
+
+Neste particular impõe-se anotar que a data de cumprimento da punição não está ao critério do apenado, pois depende da conveniência administrativa do sistema prisional, não podendo ele ser prejudicado por isso.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo mantendo alteração
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento ** que alterou os cálculos do requisito objetivo para progressão de regime, entendendo que deveria ser de 16% para o crime comum e 40% para o hediondo.
+
+Intimado, o Ministério Público contrarrazoou opinando pela alteração da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois os percentuais de atingimento do requisito objetivo para progressão de regime foram fixados nos termos da antiga redação do art. 112 da Lei de Execução Penal, que neste particular não difere da nova lei.
+
+Relembro, por oportuno, como o esclarece o Superior Tribunal de Justiça, que "não é juridicamente possível a utilização da fração de 1/6 para fins de progressão de regime apenas para o crime comum, e de 2/5 apenas para o crime hediondo, devendo ser fixado apenas um patamar de progressão para ambos os delitos" (AgRg nos EDcl no HC 668.301/SP, Rel. Ministro .REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021).
+
+De seu lado, observo que a decisão agravada não alterou o percentual aplicado, mas apenas corrigiu cálculos lançados erradamente na guia de execução penal, lembrando, neste ponto, que a decisão que homologa os cálculos da pena não faz coisa julgada, estando as decisões do juízo de execução penal, aliás, sujeitos à cláusula rebus sic stantibus.
+
+Neste particular, decidiu o Superior Tribunal de Justiça:
+
+PROCESSUAL PENAL. EXECUÇÃO. HABEAS CORPUS. PROGRESSÃO DE REGIME CONCEDIDA. POSTERIOR REVOGAÇÃO DIANTE DO NÃO PREENCHIMENTO DO REQUISITO OBJETIVO. COISA JULGADA. CLÁUSULA REBUS SIC STANDIBUS. ALTERAÇÃO DO SUBSTRATO FÁTICO-JURÍDICO. ERRO MATERIAL. POSSIBILIDADE DE CORREÇÃO. ORDEM DENEGADA.
+1. A força vinculativa do ato decisório, em sede de execução penal, subordina-se à cláusula rebus sic standibus, é dizer, está atrelada à manutenção dos pressupostos fáticos e jurídicos que lhe serviram de suporte.
+2. In casu, inexiste o alegado constrangimento ilegal, tendo em vista que a decisão que revogou a progressão de regime equivocadamente concedida ao paciente, diante do constatado erro material, não padece de nenhuma ilegalidade, tampouco caracteriza ofensa à coisa julgada. Uma vez constatada a existência de nova execução, até então desconhecida, agiu com acerto o Juízo singular ao reconhecer a alteração do substrato fático-jurídico e revogar a decisão que havia deferido o benefício, por ausência de lapso temporal, sob pena de, ao contrário, manter o apenado em um regime de cumprimento de pena do qual ele ainda não faz jus por não ter preenchido o requisito objetivo.
+3. Ordem denegada.
+(HC 385.541/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+
+Aqui, repito, houve apenas correção de erro quando dos cálculos antes lançados.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar  os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Multa despacho inicial
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+1. Recebo e defiro a petição inicial.
+
+2. Cite-se o executado, pelo correio, para, no prazo de 10 (dez) dias:
+
+a) pagar a dívida, que deverá ser recolhida diretamente ao Fundo Penitenciário Estadual, juntando-se a comprovação aos autos ao fim daquele prazo;
+
+b) garantir a execução, através de depósito em dinheiro, fiança bancária, nomeação de bens ou indicação à penhora de bens oferecidos por terceiros.
+
+Esclareça-se que o apenado/executado poderá requerer o pagamento parcelado (LEP, art. 169), inclusive mediante desconto no vencimento ou salário (art. 168).
+
+3. Ressalte-se que, recaindo a nomeação em bem imóvel, faz-se necessária a juntada aos autos, pelo executado, de certidão de sua matrícula, expedida pelo registro imobiliário competente, nos termos do art. 1.245, do Código Civil; recaindo em bens móveis, presume-se sua propriedade tão-somente pela posse, porquanto transferível pela tradição.
+
+4. Frustrada a citação pelo correio proceda-se à citação por oficial de justiça ou por edital, ressaltando-se que esta somente é possível após exauridas todas as diligências necessárias para a localização do devedor.
+
+5. Efetuada a citação e não paga ou garantida a execução, dê-se vista ao Ministério Público.
+
+6. Garantida a execução através de depósito em dinheiro ou fiança bancária, caso não sejam oferecidos embargos, dê-se vista dos autos ao Exeqüente, nos termos do art. 18, da LEF.
+
+7. Na hipótese do Executado nomear bem(ns) à penhora ou indicar à penhora bens oferecidos por terceiros, dê-se vista dos autos ao Exeqüente para, no prazo de 10 dias, oferecer manifestação, vindo, em seguida, os autos à conclusão.
+
+Cumpra-se e intimem-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Transf indefere Regional
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução da pena privativa de liberdade em regime semiaberto, em que o Ministério Público requereu a transferência do PEC para a Comarca de **, local onde o apenado reside.
+
+Relatados.
+
+Em razão da Resolução nº 33/2021, do eg. Tribunal de Justiça do Rio Grande do Norte, este juízo passou a ter competência territorial regional, abrangendo as execuções penais em regime fechado e semiaberto na área territorial de 15 comarcas, entre as quais aquela para onde o Ministério Público requereu a remessa dos autos.
+
+Isto posto, indefiro o pedido de declínio de competência.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Remição ENEM
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, em regime fechado, em que o apenado, amparado na previsão do art. 126 da Lei 12.433/2011 e na Resolução nº 391/2021, do CNJ, requereu remição pelo estudo, em razão de ter realizado o ENEM no ano de ** (evento **).
+
+Opinou o Ministério Público favoravelmente a procedência, para que fossem remidos 100 (cem) dias (evento **).
+
+Verifica-se que o apenado juntou comprovação da aprovação no ENEM obtendo pontuação mínima exigida em cada disciplina (evento *).
+
+Relatados.
+
+O Exame Nacional do Ensino Médio (ENEM) é uma prova realizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), autarquia vinculada ao Ministério da Educação do Brasil para avaliar a qualidade do ensino médio no país.
+
+O seu resultado serve para acesso ao ensino superior em universidades públicas brasileiras, através do Sistema de Seleção Unificada (SiSU), assim como em algumas universidades no exterior ou particulares.
+
+Além disso, o exame passou a servir também como certificação de conclusão do ensino médio em cursos de Educação de Jovens e Adultos (EJA), antigo supletivo, substituindo o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja).
+
+Para obter êxito no ENEM o estudante tem que alcançar pontuação exigida para cada curso de nível superior a partir da média das notas dos participantes, tendo cada curso superior uma média de corte, que à evidência irá depender dos concorrentes.
+
+Assim, para saber se um participante do ENEM foi aprovado verifica-se se atingiu a média para ingressar no curso de nível superior que deseja, fazendo depois sua inscrição através do SiSU.
+
+D’outro lado, o exame passou a servir como certificação de conclusão do ensino médio (EJA/ENCEJA), tendo o mesmo critério de idade (mínima de 18 anos) e exigência do participante obter nota superior a 450 (quatrocentos e cinquenta) pontos em cada uma das áreas de conhecimento e 500 (quinhentos) pontos na redação.
+
+Dispõe a Resolução nº 391/2021 do CNJ, em seu art. 3º, Parágrafo Único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Com ser assim, a recomendação supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO no Exame Nacional do Ensino Médio, e não apenas por tê-lo prestado.
+
+No caso, a documentação acostada pela defesa comprova que o apenado prestou o exame do ENEM durante o cumprimento de sua pena, bem como obteve a aprovação, critério expressamente exigido pela Resolução CNJ nº 391/2021.
+
+Outrossim, relativamente à base de cálculo, observa-se que ao mencionar a carga horária de 1.600 (mil e seiscentas) horas para o ensino fundamental, e 1.200 (mil e duzentas) horas para o ensino médio, a Resolução nº 391/2021 do CNJ já faz referência ao percentual de 50% da carga horária definida pela Resolução nº 03/2010 do Conselho Nacional de Educação, cujo art. 4º, III estabelece que a duração mínima dos cursos presenciais de EJA para o Ensino Médio deve ser de 1.200 (mil e duzentas) horas.
+
+A jurisprudência do Superior Tribunal de Justiça era oscilante acerca da base de cálculos para a remição nesses casos, algumas vezes que deveria ser calculada sobre 1600 horas e em outras sobre a metade delas. No dia 10 de março de 2021, porém, a Terceira Seção daquela Corte definiu a interpretação correta, firmando tese no HC 602.425-SC, que foi publicada como sendo o seguinte tema: Execução Penal. Remição da pena pelo estudo. Aprovação no Exame Nacional para Certificação de Competência de Jovens e Adultos - ENCCEJA. Recomendação n. 44/2013 do CNJ. Interpretação mais benéfica. Cálculo dos 50% da Carga Horária. Patamar equivalente a 1.600 horas. Remição de 133 dias. 26 dias por área de conhecimento. Reafirmação da jurisprudência da Terceira Seção.
+
+Dito de outra forma, entendeu a Terceira Seção do STJ que as 1.200 hs ou 1.600 hs, dispostas na Recomendação n. 44/2013 do CNJ, já equivalem aos 50% da carga horária definida legalmente para cada nível de ensino, com base nas quais serão calculados os dias a serem remidos. De mesmo modo, aplica-se tal entendimento ao disposto na Resolução nº 391/2021 do CNJ, por ter mantido seu posicionamento acerca da base de cálculo.
+
+Assim, temos que a base de cálculo para remição pela aprovação no ENEM é de 1.200 (mil e duzentas) horas.
+
+Consoante o art. 126, da LEP, a contagem do prazo se dará à razão de um dia de pena a cada 12 horas de frequência escolar, divididas, no mínimo, em três dias da atividade. Portanto, em tendo sido o apenado aprovado em todas as áreas de conhecimento do ENEM e considerando-se a carga horária de 1.200h, divide-se esse total por 12, alcançando-se 100 (cem) dias de remição.
+
+Isto posto, defiro o pedido de remição do evento 69.1, declarando remidos 100 (cem) dias da pena em execução.
+
+P.R.I. Atualize-se o Atestado de Penas.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo monitoramento rompimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado decisão do evento * que regrediu-lhe o regime prisional em razão de rompimento da tornozeleira eletrônica.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme iterativa jurisprudência do Superior Tribunal de Justiça, o rompimento do equipamento de monitoração eletrônica configura falta grave.
+
+Neste sentido:
+
+“...  II - Nos termos do art. 146-C, II, da LEP, o apenado submetido ao monitoramento eletrônico tem que observar o dever de inviolabilidade do equipamento, no caso a tornozeleira eletrônica, não podendo remover, violar, modificar ou danificar de qualquer forma o dispositivo de monitoração, ou mesmo permitir que outrem o faça. III - Ao romper a tornozeleira eletrônica, o paciente desrespeitou a ordem recebida para não violar o equipamento de monitoração, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da LEP, nos termos da jurisprudência deste Tribunal Superior. Precedentes. (...) (HC 460.440/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/09/2018, DJe 25/09/2018).
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	agravo falta média monitoramento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que lhe impôs punição por falta média, consistente em descumprimento das condições do monitoramento eletrônico, dado o não recolhimento ao local determinado no horário noturno.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme esclarecido na decisão agravada, desatendeu ele ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. IV, merecendo punição, que no caso foi a prevista no seu art. 66, III ( suspensão ou restrição de regalias) c/c art. 67.
+
+Registro, por oportuno, que a falta praticada também poderia, na dicção do Superior Tribunal de Justiça, ser considerada grave: "De acordo com o entendimento desta Corte, a violação da zona de monitoramento pode configurar falta grave, nos termos dos arts. 50, inciso VI, e 39, inciso V, ambos da Lei de Execução Penal, o que autoriza a regressão de regime e a alteração da data-base para progressão" (AgRg no HC 509.270/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 17/11/2020, DJe 27/11/2020).
+
+Este juízo, porém, preferiu considerar a falta como média.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo negando mudar para trânsito
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, atualmente em regime semiaberto, em que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição quanto a data-base para alcance da progressão ao regime aberto, requerendo que fosse aquele em que transitou em julgado a última condenação.
+
+Relatados.
+
+Sem razão o agravante, pois a jurisprudência do Superior Tribunal de Justiça segue o entendimento do Supremo Tribunal Federal, externado no julgamento do HC 115.254 (Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, julgado em 15.12.2015), para estabelecer, como marco para a subsequente progressão, a data em que o apenado preencheu os requisitos legais do art. 112 da LEP e não aquela em que o Juízo das Execuções, em decisão declaratória, deferiu o benefício ou aquela em que o apenado, efetivamente, foi inserido no atual regime: "A atual jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação do Pretório Excelso, firmou entendimento no sentido de que 'a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime' (AgRg no REsp 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/8/2016)."
+
+De seu lado, o Tribunal da Cidadania também  sedimentou o entendimento de que a alteração da data-base para a concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.
+
+Nestes termos:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO MONOCRATICAMENTE. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO. DATA-BASE PARA A CONCESSÃO DE NOVOS DIREITOS. DATA DA ÚLTIMA PRISÃO, RESSALVADO, QUANTO AO BENEFÍCIO DA PROGRESSÃO DE REGIME, EVENTUAL FALTA GRAVE SUBSEQUENTE. JURISPRUDÊNCIA PACIFICADA DO STJ. 1. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que a unificação das penas, por si só, não altera a data-base para concessão de novos benefícios, devendo ser considerada a data da última prisão ou a data da última infração disciplinar (REsp n. 1.557.461, Ministro Rogerio Schietti Cruz, DJe 15/3/2018). 2. A alteração do termo a quo para fins de concessão de benefícios durante a execução da pena constitui afronta ao princípio da legalidade e ofensa à individualização da pena, motivo pelo qual o marco interruptivo anterior à unificação das penas deve prevalecer.  Registre-se, ainda, que, caso o crime cometido no curso da execução tenha sido apenado como infração disciplinar, seus efeitos já repercutiram no bojo do cumprimento da pena, não podendo, portanto, a superveniência do trânsito em julgado da sentença condenatória servir para a análise do mérito do apenado, sob pena de flagrante bis in idem. Idêntico raciocínio aplica-se ao delito praticado antes do início da execução da pena, porquanto preexistente ao início da execução em curso, sendo estranho ao processo (REsp n. 1.835.094, Ministro Nefi Cordeiro, DJe 11/10/2019). 3. A nova orientação desta Casa alinha-se ao postulado pela defesa. 4. Agravo regimental improvido. (AgRg no HC 456.329/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)
+
+ 
+
+Isto posto, mantenho a decisão agravada, por seus próprios fundamentos.
+
+Intime-se o agravante, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Retificação mulher negando
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Tratam os autos de execução de pena em que a apenada pugnou pela retificação da guia, alegando atender aos requisitos do § 3º do art. 112 da LEP.
+
+Interveio o Ministério Público.
+
+Relatados.
+
+A Lei de Execução Penal cria, no art. 112, § 3º, lapso diferenciado para progressão de regime que beneficia as mulheres que, cumulativamente, atendam a determinados requisitos.
+
+Transcrevo:
+
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+
+(…)
+
+§ 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+
+II - não ter cometido o crime contra seu filho ou dependente;
+
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+
+V - não ter integrado organização criminosa.
+
+ 
+
+No caso, verifico que a apenada foi também condenada pelo crime do art. 35 da Lei de Drogas, o qual vem a ser espécie de organização criminosa, como destacado no acórdão que julgou o HC 645.236/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 30/03/2021, DJe 13/04/2021:
+
+O ordenamento jurídico brasileiro, possui mais de uma definição para o que vem a ser uma organização criminosa, dentre eles a Lei n.12.850/2013, Decreto n. 5.015/2004 (Convenção de Palermo) e Lei n.12.694/2012. Assim, o conceito de organização criminosa não está atrelado a apenas um dispositivo legal, tendo como traço característico uniforme a reunião de pessoas com a intenção de estabilidade para a prática de crimes. Tal característica também está presente no crime de associação para o tráfico de drogas.
+
+Assim, tenho afastada a possibilidade de incidência do lapso diferenciado para progressão, uma vez que, consoante previsto no art. 112, § 3º, V, da Lei de Execução Penal, é necessário que a sentenciada não integrado organização criminosa.
+
+Isto posto, não atendendo a apenada cumulativamente a todos os requisitos previstos no § 3º do art. 112 da Lei de Execução Penal, indefiro o pedido do ev. *** e mantenho a GEP como está.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação progressão indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, atualmente em regime semiaberto, em que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição quanto a data-base para alcance da progressão ao regime aberto, requerendo que fosse aquele em que alcançado o requisito objetivo para a progressão anterior:
+
+Relatados.
+
+A  data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo (AgRg no HC 655.303/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021, e AgRg no HC 662.160/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021).
+
+No caso, o apenado tivera a progressão de regime indeferida anteriormente por ausência do requisito subjetivo (evento ***), que só foi reconhecido adiante, na data já lançada na GEP como base para futura progressão.
+
+Isto posto, indefiro o requerimento do ministério Público, mantendo a GEP na forma em que se encontra.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Retificação hediondo+comum conf STJ MODELO SEM USO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Requereu o apenado retificação da GEP, fazendo constar como requisito para progressão de regime os percentuais previstos na nova redação do art. 112, já que não se trata de reincidência específica em crime hediondo.
+
+Interveio o Ministério Público, opinando favoravelmente. **contrariamente, pois ****.
+
+Relatados.
+
+Com razão o apenado.
+
+Inicialmente verifico que a exigência de 60% (LEP, art. 112, VII) só cabe no caso de reincidência específica em crime hediondo, o que não é o caso.
+
+É o que decidiu o Superior Tribunal de Justiça ao julgar em 26/05/2021 o Recurso Especial representativo da controvérsia (REsp) 1910240/MG, sendo relator o Ministro ROGERIO SCHIETTI CRUZ, quando fixou a seguinte tese:
+
+ É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante.
+
+Como antes o percentual fora fixado em 3/5, dada ao que dispunha a lei 8.072/90, a nova redação do art. 112 da LEP se mostra como novatio legis in mellius, devendo ser aplicada.
+
+Assim, em relação ao crime hediondo, é de se aplicar o percentual de 40% (LEP, art. 112, V).
+
+*Ressalte-se que no caso de crime hediondo com resultado morte esse percentual será de 50% (LEP, art. 112, VI).
+
+Neste sentido:
+
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. LEI Nº 13.964/2019 (PACOTE ANTICRIME). ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA PARA CONCESSÃO DA BENESSE. ARTIGO 112, INC. V, DA LEP. NOVA ORIENTAÇÃO JURISPRUDENCIAL. DECISÃO MANTIDA. VIOLAÇÃO A DISPOSITIVOS E A PRINCÍPIOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA. COMPETÊNCIA DO PRETÓRIO EXCELSO. I - Conforme ressaltado no decisum monocrático reprochado, nos termos da moderna jurisprudência desta Corte Superior de Justiça, "[...] para o condenado por crime hediondo que seja reincidente genérico, como se dá no caso em tela, deverá incidir o percentual equivalente ao que é previsto para o primário, vale dizer, de 40% ou 50%, na forma do art. 112, V e VI, a, da LEP, a depender do caso (se houve ou não resultado morte)" (AgRg no HC n. 598.839/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 04/12/2020). II - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedentes). Agravo regimental desprovido. (AgRg no REsp 1926562/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/05/2021, DJe 25/05/2021)
+
+No tocante às demais penas em execução impõe-se registrar que o caput do art. 112 da LEP dispõe que a “pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos” certo percentual dela, no caso, 40%, não dizendo que o cálculo será diferente para a pena de cada crime.
+
+De acordo com o Superior Tribunal de Justiça:  "Desse modo, não é juridicamente possível a utilização da fração de 1/6 para fins de progressão de regime apenas para o crime comum, e de 2/5 apenas para o crime hediondo, devendo ser fixado apenas um patamar de progressão para ambos os delitos" (AgRg nos EDcl no HC 668.301/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021)
+
+Aqui lembro que todas as penas são somadas ou unificadas para fins de fixação do regime prisional (LEP, art. 111, caput e seu parágrafo único).
+
+Várias vezes aquela Corte superior  debruçou-se sobre o tema, deixando assentado, em acórdão que trata especificamente da questão, que o tema trata da individualização da pena.
+
+Verbis:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LAPSO PARA A PROGRESSÃO DE REGIME. CASO CONCRETO. EFETIVA REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO PARA FINS DE UNIFICAÇÃO DE PENAS. NOVO PACOTE ANTICRIME (LEI N. 13.964/2019). RECURSO DESPROVIDO.  I - A Terceira Seção desta eg. Corte Superior consagrou o entendimento de que "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp n. 1.910.240/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe de 31/5/2021).  II - Na hipótese concreta, contudo, é a efetiva reincidência específica da parte agravante em crimes hediondos que impossibilita a concessão da ordem para fins de unificação de penas em execução penal.  III - Assente na jurisprudência desta eg. Corte Superior que "As condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções para concessão de benefícios, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da LEP, descabendo falar-se em reformatio in pejus ou em violação da coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal (AgRg no HC n. 511.766/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 18/6/2019, DJe 27/6/2019)" (AgRg nos EDcl no HC n.668.301/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 14/6/2021). Agravo regimental desprovido. (AgRg no HC 676.203/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 14/09/2021, DJe 22/09/2021) - negritei.
+
+De tão didático, vale a pena transcrever parte do voto condutor:
+
+Assim, realizada a unificação das penas, não é possível o fracionamento das condenações impostas para fins de execução penal.
+
+No mesmo sentido, o art. 111 da Lei de Execução Penal:
+
+"Art. 1 11. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+
+Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime."
+
+Igualmente, assente na jurisprudência desta eg. Corte Superior que "As condições pessoais do apenado, tal como a reincidência, ainda que não sejam reconhecidas na condenação, devem ser observadas pelo Juízo das execuções para concessão de benefícios, já que tal proceder encontra-se na sua esfera de competências, definida no art. 66 da LEP, descabendo falar-se em reformatio in pejus ou em violação da coisa julgada material, mas em individualização da pena relativa à apreciação de institutos próprios da execução penal (AgRg no HC n. 511.766/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 18/6/2019, DJe 27/6/2019)" (AgRg nos EDcl no HC 668.301/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 14/6/2021).
+
+Disso, se extrai que, se a parte agravante é reincidente, e esta condição deve afetar a totalidade da pena em cumprimento, apesar de a nova lei dividir os percentuais para crimes hediondos e comuns.
+
+Verifica-se, portanto, que o entendimento anterior está em consonância com a posição desta eg. Corte Superior, no sentido de que, "a condição de reincidente, uma vez  adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas" (AgRg no HC n. 616.696/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 18/12/2020).
+
+No mesmo sentido, as decisões: HC n. 608.151, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe de 5/5/2021; e REsp n. 1.918.049, Quinta Turma, Rel. Min. Ribeiro Dantas, Dje de 28/4/2021, e:
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. 1. De acordo com a jurisprudência desta Corte, “a reincidência é circunstância de caráter pessoal que pode ser reconhecida na fase da execução penal e estende-se sobre a totalidade das penas somadas para efeito de cálculo dos benefícios” (AgRg no REsp n. 1.824.437/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019). Precedentes. 2. Agravo regimental desprovido. (AgRg no REsp 1934159/MA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 19/10/2021, DJe 05/11/2021) .
+
+Por oportuno anoto que já decidi de forma diferente em outras situações, mas rendo-me à interpretação dada pelo Superior Tribunal de Justiça e evoluo minha forma de pensar, registrando que aqui não se trata de aplicar nova lei mas de corrigir erro, nos cálculos anteriormente feitos, de forma a individualizar a execução da pena.
+
+*No tocante ao livramento condicional, observo que aqui se trata de apenado por crime hediondo, mas não reincidente específico.
+
+Isto posto, mando corrigir a guia de execução penal, fixando como requisito objetivo para a progressão de regime o percentual de 40% **50% sobre as penas unificadas* e 2/3 para o livramento condicional.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Falta grave sem individualização da conduta
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Cumprindo pena privativa de liberdade em regime fechado foi o apenado punido disciplinarmente pela direção da unidade prisional por ter praticado falta grave, posto terem sido descobertos no alojamento onde estava recolhido ** objetos perfuro contundentes, fato apurado na Sindicância Sumária de n° **/2021, com enquadramento no art. 75, III, do Regimento Único dos Estabelecimentos Prisionais do Rio Grande do Norte ("Comete falta disciplinar de natureza grave o preso que: ... III - possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem") (evento **).
+
+Conforme o documento haviam ** internos no local, tendo apenas *** assumido a posse dos ** ferros pontiagudos e os demais apenas mantido o depoimento padrão de que “nada teriam a declarar", inclusive o ora executado. Foi acrescentado ser de conhecimento da direção que ***.
+
+Em conclusão, entendeu-se que um interno assumira a autoria única visando encobrir a verdadeira responsabilidade pelo fato.
+
+Oportunizado ao apenado justificar-se, alegou que não tinha conhecimento da existência dos ferros no interior da cela. Acrescentou que não viu o momento em que os objetos foram encontrados, sabendo que outro interno assumira a autoria da conduta.
+
+Interveio o Ministério Público, opinando pelo não reconhecimento da falta grave, dada a insuficiência de provas para atribuir alguma conduta ao apenado (evento **).
+
+Intimada, a Defensoria Pública nada declarou ou requereu (evento ***).
+
+Relatados.
+
+A conduta noticiada configura falta grave, conforme estabelecido na Lei nº 7.210/84, que no seu art. 50, inc. III, esclarece que a comete o condenado que possuir, indevidamente, instrumento capaz de ofender a integridade física de outrem.
+
+Contudo, a situação dos autos exige que se faça uma ponderação dos princípios que regem a execução penal e mesmo o ordenamento jurídico como um todo. Nesta senda, não restou inequivocamente comprovado em audiência e sindicância a autoria do fato, tampouco que algum interno teria logrado êxito em proceder com os atos de forma totalmente sigilosa, sem o conhecimento ou ajuda dos demais.
+
+A sindicância presumiu que o ora executado e demais internos tiveram participação ou conhecimento do fato, mas não passou disso, inexistindo qualquer prova que ultrapasse o campo da suposição de autoria e destinação, haja vista não ter sido delimitado de forma individualizada a conduta do penitente, ao passo que este limitou-se declarar desconhecimento dos fatos.
+
+Assim, não houve adequada especificação dos fatos e individualização das supostas ações configuradoras de falta, limitando-se à exposição de forma genérica, com mera presunção de autoria.
+
+Impossível homologar-se punição amparando-se apenas em suposições.
+
+Isto posto, dada a inexistência de provas da autoria da conduta pelo apenado,nego a homologação de falta grave.
+
+P. R. I., diligências necessárias, inclusive comunicação ao estabelecimento prisional para registro no prontuário do apenado, cujo comportamento não deverá ser negativado pelos fatos relatados na sindicância.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo novo crime
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que regrediu-lhe o regime prisional em razão da prática de fato previsto como crime doloso, alegando violação aos princípios da presunção de inocência e não culpabilidade, além da desproporcionalidade da medida.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme dispõe o verbete 526 da Súmula do Superior Tribunal de Justiça: O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato. (aprovado pela 3ª Seção em 13/05/2015).
+
+O entendimento, aliás, foi reconhecido pelo Supremo Tribunal Federal na seguinte tese com Repercussão Geral:
+
+O reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave (Tema 758, RE 776823).
+
+Ademais, nesse sentido também dispõe a Súmula do Superior Tribunal de Justiça:  O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato. (Verbete 526, aprovado pela 3ª Seção em 13/05/2015).
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  
+  
+ 	   
+  
+  
+ 	   
+  
+  
+ 	   
+  
+  
+  
+  
+  
+  
+ 	   
+  
+ 	   
+  
+  
+ 	   
+  
+  
+  
+ 
+
+
+ 	   
+  

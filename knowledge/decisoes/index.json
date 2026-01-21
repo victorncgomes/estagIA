@@ -1,0 +1,403 @@
+{
+    "version": "1.0.0",
+    "lastUpdated": "2026-01-20T20:20:00-03:00",
+    "description": "Índice de modelos de decisão armazenados em arquivos DOC/DOCX/ODT",
+    "totalModelos": 123,
+    "categorias": {
+        "decisoesvrep": {
+            "path": "knowledge/decisoes/decisoesvrep",
+            "totalArquivos": 82,
+            "modelos": [
+                {
+                    "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.docx",
+                    "nome": "Corregedoria - Compartilhamento de Provas CEME (Deferimento)",
+                    "agrupador": "outros",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.docx",
+                    "nome": "Corregedoria - Compartilhamento de Provas CEME (Deferimento 2)",
+                    "agrupador": "outros",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.docx",
+                    "nome": "Multa - Autoriza Parcelamento 10% Salário Mínimo",
+                    "agrupador": "multa",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.docx",
+                    "nome": "Multa - Defere Máximo Parcelamento Possível",
+                    "agrupador": "multa",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "multa defere parcelamento.docx",
+                    "nome": "Multa - Defere Parcelamento",
+                    "agrupador": "multa",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET - data base ultima prisao - defere.docx",
+                    "nome": "Retificação - Data Base Última Prisão (Defere)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+                    "nome": "Retificação - Detração de Monitoramento Cautelar (Indefere)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+                    "nome": "Retificação GEP - Corrige Frações Distintas Progressão",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - desclassificacao 28 lei 11343 improcedente.docx",
+                    "nome": "Retificação GEP - Desclassificação Art. 28 (Improcedente)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+                    "nome": "Retificação GEP - Fração 3/5 Crimes Hediondos Reincidente Específico",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - monitoramento cautelar como detracao indefere.docx",
+                    "nome": "Retificação GEP - Monitoramento Cautelar como Detração (Indefere)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - pedido generico.docx",
+                    "nome": "Retificação GEP - Pedido Genérico",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET GEP - pedido generico2.docx",
+                    "nome": "Retificação GEP - Pedido Genérico 2",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+                    "nome": "Retificação GEP - Indefere (Defesa Equivoca na Fórmula)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+                    "nome": "Retificação GEP - Defere Detração por Crime Posterior",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                }
+            ]
+        },
+        "indulto": {
+            "path": "knowledge/decisoes/indulto",
+            "totalArquivos": 12,
+            "modelos": [
+                {
+                    "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+                    "nome": "Comutação - Crime Violento (Impedimento)",
+                    "agrupador": "comutacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+                    "nome": "Indulto - Despacho (Erro Inexistente)",
+                    "agrupador": "indulto",
+                    "tipo": "despacho",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 1989 - INDEFERE.docx",
+                    "nome": "Indulto 1989 - Indeferimento",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 2022 - CONCEDENDO.docx",
+                    "nome": "Indulto 2022 - Deferimento",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.docx",
+                    "nome": "Indulto 2022 - Indeferimento (Não Atende Decreto)",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+                    "nome": "Indulto 2023 - Deferimento Parcial",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+                    "nome": "Indulto 2024 - Crime Patrimonial (Deferimento)",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.docx",
+                    "nome": "Indulto 2024 - Não Enquadra Hipóteses (Indeferimento)",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+                    "nome": "Indulto/Comutação 2017 - Ausência Requisito Objetivo",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+                    "nome": "Indulto/Comutação 2024 - Indefere (ORCRIM/Facção)",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.docx",
+                    "nome": "Indulto Multa - Indeferimento (Parecer MP)",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.docx",
+                    "nome": "Indulto Multa 2023 - Indeferimento",
+                    "agrupador": "indulto",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                }
+            ]
+        },
+        "remicao": {
+            "path": "knowledge/decisoes/remicao",
+            "totalArquivos": 21,
+            "modelos": [
+                {
+                    "arquivo": "ACORDAO - REFORMA ENEM.docx",
+                    "nome": "Acórdão - Reforma ENEM",
+                    "agrupador": "remicao",
+                    "tipo": "acordao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+                    "nome": "Agravo - ENEM/ENCCEJA Mesmo Fato Gerador",
+                    "agrupador": "agravo",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "AGRAVO ENEM.docx",
+                    "nome": "Agravo - ENEM",
+                    "agrupador": "agravo",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ENCCEJA PARCIAL.docx",
+                    "nome": "Remição ENCCEJA - Parcial",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+                    "nome": "Remição Estudo EAD - Indefere (Sem PPP)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+                    "nome": "Remição Estudo - Indefere (Ausência Acréscimo Intelectual)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO DUPLICIDADE INDEFERE.docx",
+                    "nome": "Remição Estudo - Indefere (Duplicidade)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO EJA - REGULAR.docx",
+                    "nome": "Remição Estudo EJA - Deferimento",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ENCCEJA COMPLETO.docx",
+                    "nome": "Remição ENCCEJA - Completo",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.docx",
+                    "nome": "Remição ENCCEJA - Descontando Dias Remidos",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ENCCEJA PARCIAL.docx",
+                    "nome": "Remição ENCCEJA - Parcial",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ENEM INDEFERE.docx",
+                    "nome": "Remição ENEM - Indefere",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ENEM INDEFERE2.docx",
+                    "nome": "Remição ENEM - Indefere 2",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO ESTUDOS DIVERSOS INDEFERE.docx",
+                    "nome": "Remição Estudos Diversos - Indefere",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "ESTUDO LIMITADOR DE HORAS.docx",
+                    "nome": "Remição Estudo - Limitador de Horas",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "MULTA DEFERE PARCELAMENTO.docx",
+                    "nome": "Multa - Defere Parcelamento",
+                    "agrupador": "multa",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.docx",
+                    "nome": "Remição Leitura - Indefere (Relatório Não Localizado)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+                    "nome": "Remição Leitura - Defere (Acordo MP)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).docx",
+                    "nome": "Remição Trabalho + Estudo (Curso Profissionalizante)",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "TRABALHO.docx",
+                    "nome": "Remição Trabalho",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "modelo completo remicao.docx",
+                    "nome": "Remição - Modelo Completo",
+                    "agrupador": "remicao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                }
+            ]
+        },
+        "retificacao": {
+            "path": "knowledge/decisoes/retificacao",
+            "totalArquivos": 8,
+            "modelos": [
+                {
+                    "arquivo": "RET - Feminicidio privilegiado - indefere.docx",
+                    "nome": "Retificação - Feminicídio Privilegiado (Indefere)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET - data base 1 prisao.docx",
+                    "nome": "Retificação - Data Base 1ª Prisão",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+                    "nome": "Retificação - Indefere (Pedido Sem Fundamentação)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "RET - pedido retificacao generico - indefere.docx",
+                    "nome": "Retificação - Pedido Genérico (Indefere)",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                },
+                {
+                    "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+                    "nome": "Retificação de Guia - Indulto/Fração/Remição",
+                    "agrupador": "retificacao",
+                    "tipo": "decisao",
+                    "formato": "docx"
+                }
+            ]
+        }
+    }
+}

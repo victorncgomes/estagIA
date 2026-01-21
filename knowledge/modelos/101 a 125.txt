@@ -1,0 +1,1497 @@
+Modelo de Documento
+
+Descrição:	Multa parcelamento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0592095
+Data da Criação:	12/03/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Executando-se pena privativa de liberdade em regime *****fechado, vieram-me conclusos os autos para análise das penas de multa impostas ao apenado, nos autos de nº ********, as quais totalizaram R$ ******** (******), conforme cálculos da secretaria (evento ****).
+
+Intimado, o apenado propôs parcelamento, nos seguintes termos: *********** (evento *****).
+
+Instado a se manifestar, o Ministério Público ***não concordou com a proposta (evento *******).
+
+Acrescento ao relatório que o apenado tem **** (****) anos, ****** (*****) meses e ***** (******) dias de pena a cumprir, consoante informações do SEEU, nesta data.
+
+Relatados.
+
+A pena de multa está prevista no art. 5º, inciso XLVI, alínea "c", da Constituição Federal e no art. 49 do Código Penal e seja ela cominada no preceito secundário do tipo penal ou substitutiva da pena privativa de liberdade (art. 44 do CP), constitui espécie de sanção penal patrimonial, consistente na obrigação imposta ao apenado recolher em favor do fundo penitenciário determinada quantia em dinheiro.
+
+Com o advento da Lei n. 9.268/1996 foi modificado o conceito da pena de multa, afastando-se a possibilidade de conversão dessa em privativa de liberdade, no caso de inadimplemento, passando a ser considerada como dívida de valor (art. 51, caput, do CP). Nessa esteira, o entendimento firmado pelo Supremo Tribunal Federal no julgamento da ADI n. 3.150/DF, "não retirou da multa o seu caráter de pena, de sanção criminal" (ADI n. 3.150, Rel. Ministro MARCO AURÉLIO, Rel. p/ Acórdão Ministro ROBERTO BARROSO, Tribunal Pleno, DJe-170, divulg. 5/8/2019, public. 6/8/2019).
+
+Ainda, na forma do art. 50, caput, do Código Penal, admite-se que, a requerimento do condenado e conforme as circunstâncias do caso concreto, seja deferido o pagamento da multa em parcelas mensais:
+
+Art. 50 - A multa deve ser paga dentro de 10 (dez) dias depois de transitada em julgado a sentença. A requerimento do condenado e conforme as circunstâncias, o juiz pode permitir que o pagamento se realize em parcelas mensais.
+
+É interesse do Estado garantir que o apenado pague o valor devido seja mediante o pagamento integral ou parcelado, não obstante há de se presumir o mínimo de razoabilidade em tal requerimento. Conforme deliberações anteriores deste juízo o parcelamento da pena de multa tem autorização legislativa, cabendo ao apenado apenas apresentar proposta razoável em equilíbrio com suas condições financeiras. A respeito do tema, aduz NUCCI:
+
+(…) trata-se de uma possibilidade ainda existente, embora se esteja seguindo o procedimento previsto na Lei de Execução Fiscal e não na Lei de Execução Penal. Não há conflito, uma vez que o interesse do Estado é que o condenado pague a multa, sofrendo a sanção cabível. Assim, de acordo com o disposto nos arts. 168 e 169 da Lei de Execução Penal, pode-se determinar a cobrança da multa através de desconto no vencimento ou salário do condenado, observado o limite máximo de 1/4 da remuneração percebida e o mínimo de 1/10. O parcelamento pode ser requerido pelo sentenciado e concedido pelo juiz, para ser realizado em prestações iguais e sucessivas, de acordo com a situação econômica que apresente (Guilherme de Souza Nucci, Código Penal Comentado, 17a edição, p. 270).
+
+Inexistindo previsão legislativa que melhor defina os parâmetros sobre o parcelamento da pena de multa, este juízo tem se mantido firme consoante a jurisprudência dos tribunais superiores, em interpretação extensiva ao disposto no inciso I do art. 168 da Lei de Execuções Penais,  adotando o entendimento de que o valor da parcela deve ser, pelo menos, 10% (dez por cento) do salário-mínimo.
+
+Ademais, a quantidade de prestações não pode exceder o tempo de pena a cumprir, sendo razoável que a integralidade do pagamento se dê dentro de um período de 2/3 (dois terços) dela, considerando que a pena a cumprir pelo apenado pode ser reduzida em razão de uma série de benefícios durante o seu cumprimento, tais como remição, indulto, comutação etc.
+
+Em sendo o parcelamento direito objetivo do apenado (norma agendi) incluído no art. 169 da Lei de Execuções Penais, ainda que não tenha apresentado proposta razoável ou pormenorização com sua situação financeira, deve ser examinada sua pretensão, restando ao juízo a análise da condição de forma  mais benéfica possível, de acordo com o que consta nos autos.
+
+Isso posto, defiro o parcelamento das penas de multa impostas ao apenado nas Ações Penais nº *****, em *** (***) parcelas iguais de R$ ****(****), devendo o pagamento ser feito através de depósito identificado em favor do Fundo Penitenciário do Rio Grande do Norte - SEJUC/RN, Instituição Financeira: Banco do Brasil; Agência: 3795-8, Conta Corrente: 11.934-2, com a respectiva comprovação do pagamento a ser juntada nestes autos, ressaltando a possibilidade de revogação ou revisão do benefício a qualquer tempo, conforme previsto no § 2º do art. 169 da LEP.
+
+P.R.I. Comprovado ou não o pagamento, certifique-se e dê-se vistas ao Ministério Público.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+
+ 	   Modelo de Documento
+
+Descrição:	Falta grave - novo crime sem denúncia - faccionados
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0594975
+Data da Criação:	13/03/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que juntou-se sindicância na qual concluiu-se que o apenado, juntamente com outros, alegou ter ingressado na facção criminosa Comando Vermelho, o que gerara “princípio de motim” e desavenças com grupos rivais dentro do ambiente carcerário.
+
+Tendo surgido dúvidas acerca da falta grave ocorrida, foi dada vista ao Ministério Público que, relatando os fatos, sustentou que o comportamento do apenado teria gerado “crime de hostilidade e provocação entre os internos da ala”, cuja maioria integraria a facção criminal rival Sindicato do Crime, com manifestações de insubordinação, desobediência e indisciplina, findando com o interno e seus companheiros da facção temendo por suas vidas, pois poderiam ser atacados pelos demais, sendo necessário transferi-los para outro pavilhão da unidade prisional.
+
+Ao fim, entendeu o Ministério Público que a conduta do apenado configuraria falta grave por consistir na prática de crimes tipificados no art. 1º, § 1º e art 2º, da lei federal 12.825 (integrar organização criminosa) e art. 354 do Código Penal (motim de presos).
+
+Diligenciado, certificou-se que o apenado não existe nenhuma denúncia recebida face ao apenado por crimes que teriam sido praticados desde outubro de 2023, quando ocorreram os supostos fatos.
+
+Relatados.
+
+Como diz o Ministério Público, a conduta noticiada configura falta grave, mas apenas se houve autuação em flagrante, denúncia ou condenação por novos crimes.
+
+E é induvidoso que não se exige o julgamento do novo crime para reconhecer-se a falta grave prevista no art. 52, primeira parte, da Lei 7.210/84.
+
+Entretanto, o não oferecimento da denúncia após quatro ou cinco meses do suposto fato demonstra que a Polícia Judiciária e o Ministério Público não conseguiram suficientes indícios quanto à conduta criminosa.
+
+A consequência é que não se pode punir o apenado por situação indefinida.
+
+Isto posto, dada a inexistência de indícios da falta grave, nego seguimento à apuração dos fatos relatados na sindicância.
+
+P.R.I., diligências necessárias, inclusive comunicação ao estabelecimento prisional para registro no prontuário do apenado, cujo comportamento não deverá ser negativado pelos fatos relatados na sindicância
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+Modelo de Documento
+
+Descrição:	incompetência
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567859
+Data da Criação:	19/03/2024
+Conteúdo:	
+$cabecalho
+$dadosProcesso
+ 
+Vistos etc.
+
+*Trata-se de execução da pena em que se verificou que a apenada está recolhida no Pavilhão Feminino do Complexo Penal Dr. João Chaves.
+
+*Trata-se de execução da pena em que se verificou que o apenado está recolhido na Cadeia Pública de Ceará Mirim
+
+*Trata-se de execução da pena em que se verificou que o apenado está recolhido na Penitenciária Estadual de Parnamirim.
+
+Relatados.
+
+Competente para a execução penal é o juízo do local onde recolhido o apenado.
+
+*No caso, está a apenada recolhida em unidade prisional onde as execuções penais são da competência da 2ª Vara Regional de Execução Penal.
+
+*No caso, está o apenado recolhido em unidade prisional onde as execuções penais são da competência da 2ª Vara Regional de Execução Penal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que está recolhida em outro município fora desta competência, determino a remessa dos autos para a 2ª Vara Regional de Execução Penal.
+
+P.R.I.
+
+*
+
+Trata-se de execução da pena em que verificou-se que o apenado está recolhido no Complexo Penal Estadual Agrícola Mário Negócio* na Cadeia Pública de Mossoró.
+
+Relatados.
+Competente para a execução penal é o juízo do local onde recolhido o apenado.
+
+No caso, está o apenado recolhido no município de Mossoró.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que está recolhida em outro município fora desta competência, determino a remessa dos autos para a 3ª Vara Regional de Execução Penal.
+
+P.R.I. Cumpra-se.
+
+*
+Trata-se de execução de pena em regime semiaberto em que se verificou que o apenado está monitorado eletronicamente e residindo em ***, município onde a competência para a execução penal é da 2ª Vara Regional de Execução Penal.
+
+Relatados.
+
+Competente para a execução pena em regime semiaberto harmonizado é o juízo do local onde reside o apenado.
+
+No caso, o apenado reside em município integrante da competência da 2ª Vara Regional de Execução Penal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que cumpre a pena em outro município fora desta competência, determino a remessa dos autos para a 2ª Vara Regional de Execução Penal.
+
+P.R.I. Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Regressão provisória - fuga
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0073229
+Data da Criação:	11/04/2024
+Conteúdo:	
+$cabecalho
+Processo nº. $autos.getNumeroUnicoFormatado()
+$dadosProcesso
+ 
+Vistos etc.
+Executando-se em regime semiaberto pena privativa de liberdade, informou a Direção do estabelecimento prisional a ausência do apenado desde  ***.
+
+Interveio o Ministério Público, requerendo a regressão cautelar do regime prisional.
+
+Relatados.
+
+A situação relatada nestes autos demonstra a ocorrência de falta grave (fuga), a ser devidamente apurada em audiência de justificação, com a aplicação do due process of law, reclamando, inclusive, exercício do direito de defesa. Ocorre que, tendo o apenado fugido da Unidade Prisional onde se executava regime mais brando, não é concebível que, ao ser recapturado e antes de ser ouvido pelo magistrado, para lá retorne, possibilitando torne ele a escafeder-se frustrando, assim, ad aeternum a execução, sendo necessária, para garantia do Juízo, como ocorre na prisão preventiva, seja recolhido sob regime de maior segurança e vigilância, o que se afina plenamente com o poder geral de cautela, que informa a atividade judicante (LEP, art. 2º, CPP, art. 3º e arts. 311 e segs; e CPP, arts. 798/799).
+
+Tal é, aliás, a posição da reiterada jurisprudência do Supremo Tribunal Federal:
+
+HABEAS CORPUS. REGISTRO DE FALTA GRAVE. REGRESSÃO CAUTELAR DE REGIME. PRESCINDIBILIDADE DA OITIVA PRÉVIA CONSTANTE DO ART. 118, § 2º, DA LEI DE EXECUÇÃO PENAL. INEXISTÊNCIA DE ILEGALIDADE. 1. O ato impugnado não apresenta ilegalidade, já que encontra amparo em julgados desta CORTE, no sentido de que a oitiva prévia disposta no art. 118, § 2º, da Lei de Execução Penal somente é indispensável na hipótese de regressão definitiva do regime prisional, circunstância não retratada nesta impetração. Precedentes. 2. Habeas corpus indeferido. (HC 163720, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Primeira Turma, julgado em 24-08-2020) - grifei
+
+A jurisprudência desta Corte é no sentido de que a fuga do condenado justifica a regressão cautelar do regime prisional, sendo que a oitiva prévia disposta no art. 118, § 2º, da Lei de Execução Penal somente é indispensável na hipótese de regressão definitiva (RHC 135554 AgR).
+
+No mesmo sentido entende o Superior Tribunal de Justiça, verbis:
+
+Este Superior Tribunal já firmou entendimento no sentido de que, cometida falta grave pelo condenado, é perfeitamente cabível a regressão cautelar do regime prisional promovida pelo Juízo da Execução, sem a oitiva prévia do condenado, que somente é exigida na regressão definitiva. Precedentes do STJ. (Rcl n. 2.649/SP, relator Ministro Arnaldo Esteves Lima, Terceira Seção, julgado em 13/8/2008, DJe de 17/10/2008.)
+
+Isto posto, decreto a regressão provisória, para fechado, do regime prisional imposto ao cumprimento da pena.
+
+Atualize-se o atestado de pena a cumprir, com o lançamento da fuga, caso ainda não inserida no quadro de eventos.
+
+P.I., expeça-se mandado de prisão. Se preso o apenado, designe-se data para audiência de justificação.
+
+Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	incompetência
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0073706
+Data da Criação:	17/04/2024
+Conteúdo:	
+$cabecalho
+ 
+$dadosProcesso
+ 
+Vistos etc.
+
+*Trata-se de execução da pena em que verificou-se que a apenada está recolhida no Pavilhão Feminino do Complexo Penal Dr. João Chaves.
+
+*Trata-se de execução da pena em que verificou-se que o apenado está recolhido na Cadeia Pública de Ceará Mirim*Penitenciária Estadual de Parnamirim.
+
+Relatados.
+
+Competente para a execução penal é o juízo do local onde recolhido o apenado.
+
+*No caso, está a apenada recolhida em unidade prisional onde as execuções penais são da competência da 2ª Vara Regional de Execução Penal.
+
+*No caso, está o apenado recolhido em unidade prisional onde as execuções penais são da competência da 2ª Vara Regional de Execução Penal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que está recolhida em outra Comarca, determino a remessa dos autos para a 2ª Vara Regional de Execução Penal.
+
+P.R.I.
+
+*
+
+Trata-se de execução da pena em que verificou-se que o apenado está recolhido no Complexo Penal Estadual Agrícola Mário Negócio.
+
+Relatados.
+Competente para a execução penal é o juízo do local onde recolhido o apenado.
+
+No caso, está o apenado recolhido na Comarca de Mossoró.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que está recolhida em outra Comarca, determino a remessa dos autos para a 3ª Vara Regional de Execução Penal.
+
+P.R.I. Cumpra-se.
+
+*
+Trata-se de execução de pena em regime semiaberto em que verificou-se que o apenado está monitorado eletronicamente e residindo em ***.
+
+Relatados.
+
+Competente para a execução pena em regime semiaberto é o juízo do local onde reside o apenado.
+
+No caso, o apenado reside na Comarca de Natal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que cumpre a pena em outra Comarca, determino a remessa dos autos para a Comarca de ***.
+
+P.R.I. Cumpra-se.
+
+***
+
+Trata-se de execução de pena em regime semiaberto em que verificou-se que o apenado está monitorado eletronicamente e residindo em **Natal, município cuja competência para a execução penal é da 2ª Vara Regional de Execução Penal.
+
+Relatados.
+
+Competente para a execução pena em regime semiaberto é o juízo do local onde reside o apenado.
+
+No caso, o apenado reside em município integrante da competência da 2ª Vara Regional de Execução Penal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que cumpre a pena em outra Comarca, determino a remessa dos autos para a 2ª Vara Regional de Execução Penal..
+
+P.R.I. Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	INDULTO PENA DE MULTA - 2023 - DEFERIMENTO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0589465
+Data da Criação:	17/04/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade de $penaTotalVEP imposta a $passivoNomeVEP pela prática de crimes do art. XXXX, ação penal XXX, art. XXXX, ação penal XXX.
+
+*
+
+A Defesa pediu o indulto da pena de multa com fulcro no art. 2º inciso X, do Decreto Presidencial nº 11.846/2023 (ev. XXX)
+
+Instado a se manifestar, o Ministério Público opinou pelo deferimento*indeferimento (ev. XXX).
+
+*
+
+O Ministério Público requereu a concessão do indulto da pena de multa, com fulcro no art. 2º inciso X, do Decreto Presidencial nº 11.846/2023 (ev. XXX)
+
+Anoto aqui que o penitente está cumprindo pena na PEA – Penitenciária Estadual de Alcaçuz/ PES - Penitenciária Estadual do Seridó/ PERCM - Penitenciária Rogério Coutinho Madruga/ Cadeia Pública de Nova Cruz/ CPJC - Complexo Prisional João Chaves, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+O pedido deve ser deferido uma vez que o apenado atende às regras do decreto concessivo.
+
+Explico:
+
+O art. 2º, do Decreto Presidencial nº 11.846/2023, em seu inciso X, bem como no art. 8º, exige que, para que a pena de multa seja indultada, não pode ser superior ao valor mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Pública, ou, sendo, deve o apenado comprovar que não tem capacidade econômica de quitá-la, verbis:
+
+
+Art. 2º.  Concede-se o indulto coletivo às pessoas, nacionais e migrantes:
+(...)
+X - condenadas a pena de multa, ainda que não quitada, independentemente da fase executória ou do juízo em que se encontre, aplicada isolada ou cumulativamente com pena privativa de liberdade, desde que não supere o valor mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Nacional, estabelecido em ato do Ministro de Estado da Fazenda, ou que não tenham capacidade econômica de quitá-la, ainda que supere o referido valor;
+(...)
+Art. 8º.  O indulto ou a comutação da pena privativa de liberdade ou restritiva de direitos alcança a pena de multa aplicada cumulativamente, desde que, nos termos do disposto no inciso X do caput do art. 2º, não supere o valor mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Nacional, estabelecido em ato do Ministro de Estado da Fazenda, ou que a pessoa condenada não tenha capacidade econômica de quitá-la, ainda que supere o referido valor.
+
+Por sua vez, a Portaria do Ministério da Fazenda Pública Federal de nº 75/2022, estabelece R$ 20.000,00 (vinte mil reais) como limite mínimo para o ajuizamento de execuções fiscais de débitos com a Fazenda Pública.
+
+É o caso, pois o apenado foi condenado a penas de multas que somadas totalizaram R$ XXXXXXXXXX.
+
+Aqui é de se observar que o pedido não esbarra em nenhum dos impedimentos previstos no Decreto, já que nenhum dos crimes praticados é crime impeditivo elencado no art. 1º do Decreto, como também não consta informação de que pertença à facção criminosa exercendo função de liderança.
+
+Diante do exposto, em consonância com o parecer ministerial, defiro o indulto da pena de multa a que foi condenado o apenado, o que faço com escopo no art. 2º, inciso X, e art. 8º, ambos do Decreto 11.846/2023.
+
+P.R.I.
+
+$assinaturaJuizDireito
+
+$rodape
+
+
+ 	   Modelo de Documento
+
+Descrição:	FALTA MÉDIA - AUSÊNCIA DE AUDIÊNCIA - MANTENDO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0599431
+Data da Criação:	17/04/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Cumprindo pena privativa de liberdade em regime **********fechado ********* semiaberto a unidade prisional juntou aos autos sindicância pelo cometimento de falta média (ev. XXXX).
+
+A **********Defensoria Pública **********Defesa pediu a anulação da sindicância, alegando que o apenado não foi submetido à audiência de justificação (ev. XXXXX), enquanto o Ministério Público alegou que nada havia a ser decidido, considerando a ausências de aptidão para modificar a data base relacionada a obtenção de futuros benefícios executórios (ev. XXXX).
+
+Relatados.
+
+Conforme informado pela administração penitenciária, desatendeu o apenado ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. XXXXXXX (ev. XXX) e merecendo punição, que no caso entendo deve ser a prevista no seu art. 66, III (suspensão ou restrição de regalias) c/c art. 67.
+
+Em relação ao pedido de anulação das sindicâncias formulados pela *********Defensoria Pública**********Defesa anoto que a falta média não comporta qualquer deliberação judicial, seja por inexistir previsão legal acerca da referida pretensão, ao contrário das faltas de natureza grave regulamentadas pela Lei federal nº 7.210, de 1984, seja por se revelarem matéria eminentemente administrativa, de competência interna da administração penitenciária, razão pela qual entendo não ser caso de designação de audiência de justificação, tampouco regressão cautelar e suspensão de benefícios.
+
+Aliás, o parágrafo único do art. 48 da LEP não deixou dúvidas de que somente as faltas consideradas graves deverão ser comunicadas ao juízo, após assim classificadas em procedimento administrativo a cargo da autoridade penitenciária e nos termos da lei. Ou seja, se determinada conduta não é classificada como falta grave por quem tem o dever/poder de exercer o poder disciplinar nas unidades prisionais, sequer necessita ser comunicada ao juízo para os fins supramencionados, conquanto não tem influência para efeito de cálculos dos benefícios, sendo que no caso nenhum incidente encontra-se em aberto para análise, não interferindo o prazo depurador do comportamento prisional.
+
+Friso aqui que o apenado só fará jus à progressão de regime em XXXXXX
+
+Isto posto, reconheço a prática de faltas médias e não faltas graves.
+
+P.R.I.
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+ 
+
+$rodape
+Modelo de Documento
+
+Descrição:	PRESTAÇÃO PECUNIÁRIA - PARCELAMENTO DEFERINDO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0599433
+Data da Criação:	17/04/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em regime fechado em que a Defesa pediu o parcelamento da prestação pecuniária de XXXXX salários mínimos (ação penal nº XXXXXXX) em XXXXX parcelas iguais e sucessivas, a serem recolhidas todo dia XXXXX de cada mês (ev. XXXXX).
+
+Instado a se manifestar, o Ministério Público concordou com o pedido, nos termos em que foi proposto pela Defesa (ev. XXXX).
+
+Acrescento que o penitente está custodiado na XXXXXXX, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+O pedido deve ser deferido, uma vez que o parcelamento possibilita o cumprimento da pena pecuniária, sendo razoável o prazo requerido para seu cumprimento.
+
+Na forma do art. 45, § 1º, do Código Penal, a prestação pecuniária é assim descrita:
+
+Art. 45. Na aplicação da substituição prevista no artigo anterior, proceder-se-á na forma deste e dos arts. 46, 47 e 48.
+
+(...)
+
+§ 1o A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários.
+
+(...) - grifei
+
+É interesse da sociedade garantir que o apenado pague o valor devido, seja mediante o pagamento integral ou parcelado, não obstante há de se presumir o mínimo de razoabilidade em tal requerimento.
+
+Por sua vez, a LEP trás em seu art. 66, V, "a" que:
+
+Art. 66. Compete ao Juiz da execução:
+
+(...)
+
+V - determinar:
+
+a) a forma de cumprimento da pena restritiva de direitos e fiscalizar sua execução;
+
+(...)
+
+Ademais, nada é dito em outros dispositivos legais quanto ao parcelamento da prestação pecuniária, sendo certo de que deve se adequar às condições econômicas do apenado.
+
+Quanto à forma de recolhimento, deve ser seguido o procedimento estabelecido na Portaria Conjunta nº 046/2023, verbis:
+
+Art. 4º O recolhimento dos valores de que trata o art. 1º desta Portaria Conjunta só poderá ser feito por meio de depósito na conta respectiva, emitido e gerenciado pelo sistema e-Guia, ficando expressamente vedado:
+
+I - o depósito de envelopes nos canais de autoatendimento; e
+
+II - a transferência bancária, na modalidade agendada ou qualquer outra forma similar, que seja passível de posterior cancelamento por iniciativa da instituição bancária ou do correntista.
+
+Em relação ao recolhimento, atendendo aos requisitos ainda da Portaria Conjunta nº 046/2023 - TJRN, este deverá ser feito através de depósito identificado na seguinte conta: Banco do Brasil, Agência: 3795-8, Conta Corrente: 100.032-2, CNPJ 08.546.459/0001-05.
+
+Esclareço que caberá à Defesa comprovar o pagamento juntado aos autos o respectivo comprovante, ressaltando que a falta de juntada será entendida como ausência de pagamento, pelo que, em hipótese alguma, será realizada qualquer diligência junto à instituição bancária para comprovação do pagamento.
+
+Isso posto, defiro o parcelamento da prestação pecuniária impostas ao apenado na ação penal nº XXXXXX, em XXXXX parcelas iguais e sucessivas de R$ XXXXX, devendo o pagamento ocorrer todo dia XXXXX de cada mês, sendo o primeiro em XXXXXXXXX, com juntada de comprovante a ser realizada em até 05 (cinco) dias após a realização de cada pagamento, nos termos e condições acima estabelecidos.
+
+P.R.I.
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+ 
+
+$rodape
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	REGRESSÃO - REVOGAÇÃO - NOVO CRIME ABSOLVIÇÃO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0599866
+Data da Criação:	19/04/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que o apenado foi regredido definitivamente para o regime fechado em razão de ter cometido novo crime, conforme decisão do ev. xxxx.
+
+A Defesa pediu reconsideração da decisão uma vez que o apenado foi absolvido do novo crime que motivou a regressão, conforme sentença exarada nos autos da ação penal nº xxxx (ev. xxx).
+
+Instado a se manifestar, o Ministério Público opinou favoravelmente ao pedido (ev. xxxxx).
+
+Anoto aqui que o penitente está custodiado na PES - Penitenciária Estadual do Seridó, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+O pedido deve ser deferido.
+
+É que ficou reconhecido em sentença penal absolutória a não ocorrência do delito que motivou a regressão do regime prisional (ação penal nº xxxxxxxxxx).
+
+Anoto aqui que o STJ já decidiu que:
+
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DESCABIMENTO. EXECUÇÃO PENAL. FALTA DISCIPLINAR. PRÁTICA DE CRIME DOLOSO. POSSE DE ENTORPECENTE PARA USO PESSOAL. POSTERIOR ABSOLVIÇÃO PELA JURISDIÇÃO CRIMINAL. DESCONSTITUIÇÃO DA HOMOLOGAÇÃO. POSSIBILIDADE. EXAME DE PROVAS. DESNECESSIDADE. CONSTRANGIMENTO ILEGAL CARACTERIZADO.
+1. Muito embora se reconheça a independência entre as instâncias administrativa, civil e penal, não pode subsistir o reconhecimento de falta disciplinar de natureza grave decorrente do suposto cometimento de crime diante da posterior absolvição. 2. Ordem concedida, de ofício, para cassar a decisão que homologou a falta disciplinar de natureza grave, desconstituindo os efeitos executórios dela decorrentes, porque da imputação foi a paciente absolvida. (HC 265.284 - SP. Relator Ministro Moura Ribeiro. Data: 22.05.2014)
+
+Diante do exposto, revogo as decisões dos evs. xxxxxx e determino o imediato retorno do apenado para o regime semiaberto harmonizado.
+
+P.I. Comunique-se ao estabelecimento prisional para que libere o apenado mediante a instalação de tornozeleira eletrônica, se por outro motivo não deva permanecer preso.
+
+$assinaturaJuizDireito
+$rodape
+
+Modelo de Documento
+
+Descrição:	AGRAVO - INDULTO/COMUTAÇÃO - 2023. MANTENDO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0599978
+Data da Criação:	22/04/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento XXX.1 que negou indulto por não atender o apenado aos critérios estabelecidos pelo próprio Decreto 11.846/2023 (ev. XXX.1).
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada (ev. XXX.1).
+
+Relatados.
+
+***************Sem razão o agravante, pois, conforme esclarecido na decisão agravada o Decreto 11.846/2023 exige, ao benefício, que o apenado tenha cumprido 2/3 (dois terços) da pena dos crimes impeditivos para se beneficiar da **********comutação *************indulto em relação a qualquer uma das penas, ainda que para crimes não impeditivos, conforme art. 9º, parágrafo único, do Decreto, verbis:
+
+Art. 9º As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2023.
+
+Parágrafo único. Na hipótese de haver concurso com crime descrito no art. 1º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo enquanto a pessoa condenada não cumprir dois terços da pena correspondente ao crime impeditivo dos benefícios. (grifei).
+
+***********
+
+Sem razão o agravante, pois, conforme esclarecido na decisão agravada o Decreto 11.846/2023 exige, ao benefício, que o apenado não tenha cometido falta grave disciplinar  para se beneficiar da comutação das penas, verbis:
+
+Art. 6º  A declaração do indulto e da comutação de penas prevista neste Decreto fica condicionada à inexistência de aplicação de sanção, reconhecida pelo juízo competente, em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, por falta disciplinar de natureza grave, prevista na Lei nº 7.210, de 1984 - Lei de Execução Penal, cometida nos doze meses de cumprimento da pena contados retroativamente a 25 de dezembro de 2023.
+
+Friso aqui que, como mencionado na decisão, a fuga é falta grave de natureza permanente, o que é ponto pacificado pela jurisprudência pátria:
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. INDULTO. EXECUTADO FORAGIDO. PRESCRIÇÃO DA APURAÇÃO DE FALTA GRAVE. INDEFERIDO. PRAZO PRESCRICIONAL. AGRAVO REGIMENTAL IMPROVIDO. 1. Nos termos da orientação jurisprudencial desta Corte, a fuga configura falta grave de natureza permanente, porquanto o ato de indisciplina se prolonga no tempo até a recaptura do apenado. 2. O marco inicial da prescrição para a apuração da falta grave, no caso de fuga, é o dia da recaptura, por se tratar de infração permanente. 3. Agravo regimental  improvido. (AgRg no REsp n. 1.781.494/CE, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 5/11/2019, DJe de 11/11/2019.) - grifei.
+
+
+PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS NÃO CONHECIDO. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DO COLEGIADO. AGRAVO EM EXECUÇÃO. FALTA GRAVE. APURAÇÃO. IMPOSSIBILIDADE. DECRETO PRESIDENCIAL N. 8.380/2014.. INDULTO NEGADO . INEXISTÊNCIA DE ILEGALIDADE. 1. Não constitui ofensa ao princípio da colegialidade a análise monocrática do habeas corpus pelo relator quando o pedido formulado na inicial estiver em evidente confronto com a jurisprudência dominante desta Corte. 2. A apuração da falta grave não foi devidamente concluída por culpa exclusiva do ora agravante que se colocou em condição de foragido. 3. Inexistência de qualquer ilegalidade na decisão que indeferiu o pedido de indulto. 4. Agravo regimental desprovido. (AgRg no HC n. 343.228/GO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 16/2/2017, DJe de 24/2/2017.) - grifei.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+ 
+
+$rodape
+
+
+ 	   Modelo de Documento
+
+Descrição:	Progressão indef multa
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0568970
+Data da Criação:	26/04/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de pedido de progressão de regime apresentado em que sustenta o apenado *,através de advogado,* ter preenchido os requisitos objetivo e subjetivo para progredir ao regime semiaberto (evento **), *afirmando não ter condições de arcar com o valor da multa arbitrada na sentença condenatória em razão da escassez de recursos patrimoniais.
+
+Interveio o Ministério Público, opinando pela concessão**indeferimento do benefício (evento  XX).
+
+Acrescento ao relatório que nestes autos o apenado cumpre uma pena unificada de **, onde também foi condenado ao pagamento de *** dias-multa.
+
+Relatados.
+
+Inicialmente, a análise da documentação aportada aos autos evidencia o cumprimento do requisito temporal (cumprimento de 1/6 da reprimenda) e da comprovação de bom comportamento penitenciário, nos termos do art. 112 da Lei de Execução Penal.
+
+Sem embargo do preenchimento do requisito temporal e do bom comportamento carcerário, não vejo como conceder a progressão no regime prisional. É que o apenado deixou de adimplir a pena de multa, sem comprovar insuficiência financeira ou requerer o parcelamento do pagamento.
+
+Nesse sentido, decidiu o Supremo Tribunal Federal:
+
+Execução Penal. Agravo Regimental. Inadimplemento deliberado da pena de multa. Progressão de regime. Impossibilidade. 1. O Plenário do Supremo Tribunal Federal firmou orientação no sentido de que o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional. Precedente: EP 12-AgR, Rel. Min. Luís Roberto Barroso. 2. Tal regra somente é excepcionada pela comprovação da absoluta impossibilidade econômica do apenado em pagar a multa, ainda que parceladamente. 3. Agravo regimental desprovido. (EP 16 ProgReg-AgR, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 15/04/2015, PROCESSO ELETRÔNICO DJe-093 DIVULG 19-05-2015 PUBLIC 20-05-2015).
+
+No julgamento da EP 12 ProgReg-AgR, o Plenário do Supremo Tribunal Federal firmou o entendimento no sentido de que a progressão de regime prisional, seja qual for a natureza do delito praticado, pressupõe o efetivo adimplemento da pena de multa caso imposta de forma cumulativa à reprimenda privativa de liberdade. (AP 1030 AgR-quinto, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 20/10/2020)
+
+O inadimplemento deliberado da pena de multa impede a progressão de regime: STF, HC 211.197-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 15/3/2022; HC 205.609, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 15/3/2022, (HC 227285 AgR, Rel: LUIZ FUX, Primeira Turma, j. 22/05/2023.
+
+*Anoto, por oportuno, que o só fato de ter advogado constituído já leva à presunção de suficiência financeira. E ainda que assim não fosse, seria necessário o esgotamento dos meios de execução requeridos ou a serem requeridos pelo Ministério Público, pois, como como bem ponderou o Ministro ROGERIO SCHIETTI CRUZ, no julgamento do HC n. 672.632, "é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa." (AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022).
+
+*Anoto, por oportuno, inviável a presunção da hipossuficiência econômica do apenado com base no fato de ele ser assistido pela Defensoria Pública, se não  esgotados os meios de execução requeridos ou a serem requeridos pelo Ministério Público, pois, como  como bem ponderou o Ministro ROGERIO SCHIETTI CRUZ, no julgamento do HC n. 672.632, "nem todos os processados criminalmente, patrocinados pela Defensoria Pública, são hipossuficientes. [...]. Assim, é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa." (AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022).
+
+*Anoto, por oportuno, ser inviável a presunção da hipossuficiência econômica do apenado com base no fato da companheira/esposa dele ser beneficiada do Bolsa-Família, já que existem situações noticiadas de pessoas de excelente situação financeira ali cadastradas, em claro desvio da finalidade do Programa. Assim, é necessário o esgotamento dos meios de execução requeridos ou a serem requeridos pelo Ministério Público, pois, como como bem ponderou o Ministro ROGERIO SCHIETTI CRUZ, no julgamento do HC n. 672.632, "é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa." (AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022).
+
+A propósito, o Supremo Tribunal Federal  deixou claro há poucos dias que o apenado precisa comprovar a impossibilidade de pagamento da multa, ainda que de forma parcelada, situação que não pode ser presumida. Verbis:
+
+O adimplemento da pena de multa conjuntamente cominada com a pena privativa de liberdade é condição para o reconhecimento da extinção da punibilidade, salvo na situação de comprovada impossibilidade pelo apenado, ainda que de forma parcelada. STF. Plenário. ADI 7032/DF, Rel. Min. Flávio Dino, julgado em 22/03/2024 (Info 1129).
+
+Ante o exposto, face à falta de comprovação do pagamento da multa, seu parcelamento ou mesmo da comprovação da impossibilidade real de fazê-lo, indefiro o pedido de progressão para o regime semiaberto.
+
+P.R. Intime-se. Ciência ao MP.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+Modelo de Documento
+
+Descrição:	Agravo não pagto multa
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0578297
+Data da Criação:	26/04/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado, da decisão do evento *** que lhe indeferiu a progressão de regime por ausência de comprovação do pagamento ou parcelamento da pena de multa, alegando que tal entendimento deve atingir somente os condenados pelos chamados crimes de colarinho branco (ev. **).
+
+Agrava o apenado, por intermédio de seu advogado, da decisão do evento ** que lhe indeferiu a progressão de regime por ausência de comprovação do pagamento ou parcelamento da pena de multa, alegando que ** (ev. **).
+
+Contrarrazoou o Ministério Público opinando pela manutenção da decisão agravada (ev.).
+
+Relatados.
+
+Sem razão o agravante, pois é entendimento jurisprudencial sedimentando que o inadimplemento da sanção pecuniária constitui óbice à progressão de regime, salvo inequívoca comprovação da incapacidade econômica do apenado.
+
+Neste sentido:
+
+AGRAVO INTERNO NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO PARA O REGIME ABERTO. INADIMPLEMENTO DA PENA DE MULTA. AUSÊNCIA DE EXAME COLEGIADO NA INSTÂNCIA PRECEDENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. INOBSERVÂNCIA DO DEVER DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO RECORRIDA. REITERAÇÃO DAS RAZÕES. AGRAVO INTERNO DESPROVIDO. 1. O inadimplemento deliberado da pena de multa impede a progressão de regime, consoante jurisprudência desta Corte, in verbis: HC 211.197-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 15/3/2022; HC 205.609, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 15/3/2022. 2. (...). 3. In casu, o Superior Tribunal de Justiça revogou a decisão do Juízo da Execução que havia concedido ao paciente a progressão para o regime aberto, em razão do inadimplemento da pena de multa, tendo sido determinado que “antes de seu retorno ao regime semiaberto, que o Juízo da execução penal intime o apenado para comprovar o pagamento da multa ou eventual falta de condições econômicas de fazê-lo”. 4. (...). 9. Agravo interno DESPROVIDO. (HC 227285 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 22/05/2023, PROCESSO ELETRÔNICO DJe-s/n DIVULG 24-05-2023 PUBLIC 25-05-2023) – transcrição parcial.
+
+Agravo regimental em habeas corpus. Penal e Execução Penal. Inviabilidade do regime aberto ante o inadimplemento deliberado da pena de multa. Ausência de ilegalidade. Parcelamento do valor em 50 (cinquenta) prestações mensais. Alegada incapacidade da agravante. Exame de fatos e provas. Não cabimento em habeas corpus. Agravo não provido. 1. Segundo a firme jurisprudência da Corte, “o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional” (EP nº 16-ProgReg-AgR, Tribunal Pleno, Rel. Min. Roberto Barroso, DJe de 20/5/15). 2. Avaliar a incapacidade da agravante para o cumprimento da referida obrigação, quando já facultado o parcelamento da pena de multa, demanda necessariamente o exame de fatos e provas, providência inviável por meio de habeas corpus. 3. Agravo regimental não provido. (HC 205609 AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, julgado em 11/11/2021, PROCESSO ELETRÔNICO DJe-049 DIVULG 14-03-2022 PUBLIC 15-03-2022)
+
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 51 DO CP. INADIMPLEMENTO DA PENA DE MULTA. EXTINÇÃO DA PUNIBILIDADE. IMPOSSIBILIDADE. HIPOSSUFICÊNCIA PRESUMIDA. INVIÁVEL. NECESSIDADE DE COMPROVAÇÃO. I - "[o] Supremo Tribunal Federal firmou entendimento no sentido de que "o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional", sendo tal condição excepcionada pela comprovação da absoluta impossibilidade econômica em pagar as parcelas do ajuste (EP 8 ProgReg-AgR, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 1º/7/2016, PROCESSO ELETRÔNICO DJe-213 DIVULG 19-09-2017 PUBLIC 20-09-2017)" (AgRg no HC n. 603.074/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 08/02/2021, grifei). II - A vinculação da progressão de regime ao pagamento da multa não representa incompatibilidade com as normas legais e constitucionais, cuja medida foi, inclusive, aplicada pelo próprio C. Supremo Tribunal Federal. Dessa forma, a ausência do pagamento da multa penal obsta a progressão de regime, salvo se houver inequívoca comprovação da hipossuficiência do reeducando, a qual não poderá ser presumida. III - No caso, o condenado sequer foi intimado para fazer o pagamento da multa, não se lhe abrindo a oportunidade de pagar, pedir parcelamento ou mesmo justificar a impossibilidade de fazê-lo. Agravo regimental desprovido. (AgRg no REsp n. 2.058.155/SP, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 15/8/2023, DJe de 22/8/2023.)
+
+No caso, o apenado não comprovou o adimplemento da pena de multa, tampouco a impossibilidade econômica de fazê-lo.
+
+Por oportuno, registro que para o reconhecimento da hipossuficiência do apenado seria necessário o esgotamento dos meios de execução requeridos ou a serem requeridos pelo Ministério Público, pois, como como bem ponderou o Ministro ROGERIO SCHIETTI CRUZ, no julgamento do HC n. 672.632, "é ônus do sentenciado, durante a execução, justificar o descumprimento da sentença, também no ponto relacionado à multa." (AgRg no REsp n. 1.990.425/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022).
+
+A propósito, o Supremo Tribunal Federal  deixou claro há poucos dias que o apenado precisa comprovar a impossibilidade de pagamento da multa, ainda que de forma parcelada, situação que não pode ser presumida. Verbis:
+
+O adimplemento da pena de multa conjuntamente cominada com a pena privativa de liberdade é condição para o reconhecimento da extinção da punibilidade, salvo na situação de comprovada impossibilidade pelo apenado, ainda que de forma parcelada. STF. Plenário. ADI 7032/DF, Rel. Min. Flávio Dino, julgado em 22/03/2024 (Info 1129).
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+Modelo de Documento
+
+Descrição:	Regressão - não iniciou aberto - cancela
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0601908
+Data da Criação:	06/05/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+ 
+
+Vistos etc.
+
+Trata-se de execução da pena de * (**) meses de detenção, a ser cumprida inicialmente em regime aberto, substituída por restritiva de direitos, imposta a **, que, após não ser localizado para participar da audiência admonitória (evento **), foi regredido para o regime fechado provisoriamente pelo juízo da ** Vara da Comarca de ** (evento **).
+
+Redistribuídos os autos para esta 1ª Vara Regional de Execução Penal em razão da mudança de competência promovida pela Resolução nº 62/2022 (evento **).
+
+Relatados.
+
+De logo, tenho que, apesar do apenado não ter sido localizado para ser intimado da audiência admonitória anteriormente designada, aqui é incabível a regressão cautelar do regime prisional, ainda que coubesse a conversão em pena privativa de liberdade e expedição de mandado de prisão a fim de que, após capturado, desse início ao cumprimento da pena no regime aberto.
+
+Observo que a regressão de regime só pode ser decretada após o início do cumprimento da pena e não antes disso, sob pena de ferir a coisa julgada, uma vez que a sentença penal condenatória transitada em julgado deve ser cumprida nos termos em  que foi proferida. Diferente seria o caso em que, após iniciar o cumprimento da pena, o apenado pratica falta grave e, portanto, pode passar a cumprir pena em regime mais gravoso por ter descumprido as condições do regime.
+
+No caso, caberia a expedição do mandado de prisão, após o que deveria ter se aguardado o seu cumprimento para definição da competência para seguimento do feito.
+
+Diante do exposto, revogo a decisão do evento ** e mando notificar o apenado para comparecer à secretaria da *ª Vara da Comarca de **, a fim de iniciar o cumprimento de pena no regime aberto, suspendendo-se o andamento do feito até que isso ocorra.
+
+P.R.I. Redistribua-se o feito no SEEU para o juízo de execução de pena no perfil aberto da comarca de residência do apenado ou, se não informado, para aquele onde estava antes o processo.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+Modelo de Documento
+
+Descrição:	INDULTO 2022. SOBRESTAMENTO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0605688
+Data da Criação:	04/06/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de cumprimento de pena privativa de liberdade que unificadas totalizaram xxxx de reclusão, em regime fechado********semiaberto.
+
+A Defesa do apenado ingressou com pedido de indulto natalino com fundamento no art. 5º do Decreto nº 11.302/2022, combinado com o art. 107 do Código Penal e com os art. 192 e 193, da Lei 7.2010/1984 (ev. XXXX).
+
+Interveio o Ministério Público que pugnou pelo sobrestamento da análise do pedido, conforme determinado no HC 0807178-32.2023.8.20.0000 de lavra do TJRN, bem como, no mérito, pediu XXXXXXX  (ev. XXXX).
+
+Anoto aqui que o penitente está custodiado na PEA - Penitenciária Estadual de Alcaçuz, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+A análise do indulto com base no Decreto 11.302/2022 deve ser sobrestada.
+
+É que o Tribunal de Justiça do Rio Grande do Norte determinou a suspensão da análise do pedido, conforme decisão proferida no HC 0807178-32.2023.8.20.0000, verbis:
+
+Ao exame dos apelos extremos, verifico que uma das matérias suscitadas nos recursos especial e extraordinário diz respeito à questão submetida a julgamento, em Repercussão  Geral, no Supremo Tribunal Federal, Tema 1267: “Constitucionalidade da concessão de indulto natalino, nos moldes previstos no art. 5º, caput e parágrafo único, do Decreto  Presidencial 11.302/2022, às pessoas condenadas por crime cuja pena privativa de liberdade máxima em abstrato não seja superior a cinco anos”.
+
+Ante o exposto, em consonância com o art. 1.030, III, do Código de Processo Civil, determino o SOBRESTAMENTO do recurso pendente de apreciação, até o julgamento definitivo da matéria perante o STF.
+
+Assim, seguindo o entendimento adotado pela instância superior, deve-se aguardar o julgamento definitivo da constitucionalidade do art. 5º do Decreto pelo STF.
+
+********************Em relação ao pedido ministerial de indeferimento em razão do cometimento de falta grave, tenho que não é deve ser analisado, já que exorbitaria os próprios termos do Decreto, uma vez que não há impedimento ao deferimento do indulto previsto no normativo pelo cometimento de falta grave disciplinar.
+
+Ante o exposto, em consonância com art. 1.030, III, do Código de Processo Civil e o entendimento adotado no HC 0807178-32.2023.8.20.0000/TJRN, determino o sobrestamento do pedido, até o julgamento definitivo da matéria perante o STF.
+
+P.I
+
+
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+ 
+
+$rodape
+
+
+ 	Modelo de Documento
+
+Descrição:	PRESTAÇÃO PECUNIÁRIA - CONVERSÃO EM PP
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0608753
+Data da Criação:	24/06/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena de $penaTotalVEP de reclusão no regime fechado e a XXXXXXXX de reclusão, cuja pena foi substituída por ***************01 (uma) pena *************02 (duas) penas restritivas de direitos consistentes em ********** (a) prestação de serviços à comunidade e (b) prestação pecuniária no valor de 01 (um) salário mínimo, conforme decisão de unificação do ev. XXXXX.
+
+O apenado foi intimado para pagar a prestação pecuniária em XXXXXX (ev. XXXXX), deixando o prazo transcorrer sem que tenha efetuado o pagamento ou pedido seu parcelamento (ev. XXXXXX).
+
+Anoto que o penitente encontra-se custodiado na  PEA - Penitenciária Estadual de Alcaçuz / PERCM - Penitenciária Estadual Rogério Coutinho Madruga / PES – Penitenciária Estadual do Seridó / CPJC - Complexo Prisional João Chaves / Cadeia Pública de Nova Cruz, conforme informações do SIAPEN nesta data.
+
+Relatados.
+
+Dispõe o art. 44, § 5º, do Código Penal que "sobrevindo condenação a pena privativa de liberdade, por outro crime, o juiz da execução penal decidirá sobre a conversão da pena restritiva de direitos anterior, podendo deixar de aplicá-la se for possível ao condenado cumpri-las concomitantemente.
+
+De seu lado, a consolidada jurisprudência do Superior Tribunal de Justiça, interpretando tal dispositivo, afirma que " independentemente de a condenação à pena restritiva de direitos ser anterior ou posterior à sanção privativa de liberdade, a conversão ou não da pena restritiva de direitos em privativa de liberdade fica unicamente na dependência da compatibilidade de cumprimento simultâneo das sanções" (AgRg no REsp 1688238/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019).
+
+Por sua vez, prevê o Código Penal:
+
+   Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando: (Redação dada pela Lei nº 9.714, de 1998)
+
+        (...)
+
+        § 4o A pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta. No cálculo da pena privativa de liberdade a executar será deduzido o tempo cumprido da pena restritiva de direitos, respeitado o saldo mínimo de trinta dias de detenção ou reclusão.  (Incluído pela Lei nº 9.714, de 1998) - Grifei.
+
+No caso, o apenado foi devidamente intimado para efetuar o pagamento da prestação pecuniária, deixando transcorrer o prazo sem dar cumprimento à obrigação, pelo que *********as penas restritivas de direitos ****a pena *********devem ser convertidas em pena privativa de liberdade ***********deve ser convertida em pena privativa de liberdade.
+
+Trata-se, na espécie, de concurso material de delitos, não se podendo ter os crimes como continuação entre si, impondo-se a soma das penas.
+
+Dispõe o art. 111, da Lei de Execução Penal:
+
+Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou em processos distintos, a determinação do regime de cumprimento será feita pelo resultado da soma ou unificação das penas, observada, quando for o caso, a detração ou remição.
+
+Parágrafo Único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime”.
+
+********Registro que a data-base para futuros benefícios deve ser a do último atingimento aos requisitos objetivo e subjetivo para progressão deferida ocorrida em XX.
+
+********Registro que a data-base para futuros benefícios deve ser a da ultima falta grave ocorrida em XX.
+
+********Registro que a data-base para futuros benefícios deve ser a do último crime ocorrido em XX
+
+********Registro que a data-base para futuros benefícios deve ser a da ultima prisão ocorrida em XX
+
+Isto posto, converto as penas restritivas de direitos em privativa de liberdade e unifico em XXXXXXXX de reclusão a pena privativa de liberdade em execução nestes autos, a ser cumprida inicialmente em regime ***********fechado / semiaberto, face ao regime já em cumprimento.
+
+P.R.I. Comunique-se ao estabelecimento prisional e expeça-se o competente Atestado de Pena unificador, retirando-se a anotação de suspensão da pena da ação penal nº XXXXXXXXXXXXXXXX.
+
+
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+ 
+
+$rodape
+Modelo de Documento
+
+Descrição:	FALTA GRAVE - NOVO CRIME - PRESCRIÇÃO - INOCORRÊNCIA
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0609452
+Data da Criação:	28/06/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade de $penaTotalVEP de reclusão referente à ação penal nº XXXXXX que foi imposta a $PartePoloPassivoVepma.
+
+A ***********Defensoria Pública ********Defesa pediu o reconhecimento da prescrição da falta grave ocorrida em relação aos fatos que deram origem à ação penal nº XXXXXXXX, considerando que se passaram mais de 03 (três) anos da ocorrência e, portanto, não podem ser homologados como falta grave disciplinar, devendo o apenado retornar ao cumprimento da pena em regime semiaberto (ev. XXXXX).
+
+Com vista dos autos, o Ministério Público pugnou pelo ****deferimento *****indeferimento do pedido (ev. XXXXXX).
+
+Anoto que o penitente está cumprindo pena na PEA - Penitenciária Estadual de Alcaçuz / PERCM - Penitenciária Estadual Rogério Coutinho Madruga / PES - Penitenciária Estadual do Seridó / Cadeia Pública de Nova Cruz / CPJC - Complexo Prisional João Chaves, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+O pedido deve ser indeferido.
+
+A pretensa ocorrência da prescrição em relação à apuração da falta grave disciplinar não procede posto que o novo crime (ação penal nº 5090172-83.2021.8.09.0051) transitou em julgado para o Ministério Público em 09.02.2024 e para a Defesa em 04.03.2024, o que supre qualquer a necessidade de instauração de PAD - Procedimento Administrativo Disciplinar para sua validação.
+É o que decidiu o STF - Supremo Tribunal Federal ao julgar o Tema 758 que versa sobre a constitucionalidade do art. 52, caput, e art. 118, I, da LEP, verbis:
+Ementa: RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. REPERCUSSÃO GERAL. TEMA DE REPERCUSSÃO GERAL 758: NECESSIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO PARA SE CONSIDERAR COMO FALTA GRAVE, NO ÂMBITO ADMINISTRATIVO CARCERÁRIO, A PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO. ARTS. 52, CAPUT, E 118, I, DA LEI DE EXECUÇÃO PENAL. CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CF). PRESUNÇÃO DE INOCÊNCIA (ART. 5º, LVII, DA CF). PRECEDENTES DO STF. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PROVIMENTO. 1. Os arts. 52, caput, e 118, inciso I, da Lei de Execução Penal, por regerem esfera distinta da formação de culpa no processo penal de conhecimento, não são incompatíveis com a norma inscrita no art. 5º, inciso LVII, da Constituição Federal. Dessa forma, descabe condicionar o reconhecimento da sanção administrativo-disciplinar de falta grave consistente na prática de fato definido como crime doloso pelo Juízo da Execução Penal ao trânsito em julgado da condenação oriunda do Juízo de Conhecimento. Independência das esferas de apuração e sancionamento de atos ilícitos. Juízes com competências diversas. Precedentes do Supremo Tribunal Federal. 2. A apuração da falta grave, todavia, deve observar os postulados constitucionais do devido processo legal, do contraditório e da ampla defesa, assegurado ao sentenciado defesa técnica e possibilidade de produção de provas. Tema de repercussão geral 941. Regras de Nelson Mandela das Nações Unidas. 3. Não se reconhece violação à cláusula de reserva de plenário quando o órgão fracionário do Tribunal de origem deixa de aplicar dispositivo infraconstitucional sem que o tenha declarado, expressa ou implicitamente, a inconstitucionalidade. 4. Recurso extraordinário a que se dá provimento, com a fixação da seguinte tese: o reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave. (RE 776823. Relator: Min. Edson Fachin. Data do Julgamento: 07.12.2020. Data da Publicação 23.02.2021). - Grifei.
+
+Portanto, existindo nos autos sentença penal condenatória e **************julgado o recurso de apelação (ev.XXXXXX), bem como presente a certidão de trânsito em julgado, a instauração do PAD foi suprida pela sentença criminal condenatória transitada em julgado, já que, sem sobra de dúvidas, foi reconhecida a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave, tornando-se fato jurídico irrefutável, pelo que não há o que se falar em prescrição da falta grave.
+
+Ademais, a oitiva do apenado seria mera formalidade, pois nenhuma justificativa apresentada mudaria a condenação.
+
+Diante do exposto, indeferido o pedido de reconhecimento da ocorrência da prescrição da falta grave disciplinar, mantendo a data-base para cálculo dos futuros benefícios como sendo a data do último crime praticado em XXXXXXXXX.
+
+P.I.
+
+$assinaturaJuizDireito
+ 
+
+$rodape
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	progressão indeferimento requisito objetivo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0073636
+Data da Criação:	05/07/2024
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Requer o apenado progressão de regime, alegando*.
+
+O pedido veio documentalmente instruído, registrando-se intervenção do Ministério Público, que opinou contrariamente, por entender ausente o critério objetivo.
+
+É o relatório.
+
+O pedido é improcedente.
+
+É que o sentenciado não cumpriu mais de um sexto/dois quintos da pena em execução, desimportando que *.
+
+***Trata-se, no caso, de crime hediondo, sendo oportuno lembrar o que decidiu o Supremo Tribunal Federal, verbis:
+
+Ementa: Constitucional e penal. Agravo regimental no Habeas corpus. HC substitutivo de recurso ordinário. Inadmissibilidade. Entendimento recente da Turma. Tráfico de entorpecentes. Progressão de regime após o cumprimento de 1/6 da pena. Improcedência: Exigência legal do cumprimento de 2/5 da pena, se o réu for primário, e de 3/5, se for reincidente. Ausência de error in judicando que justifique a concessão, ex officio, do writ. 1. A Primeira Turma desta Corte, em acórdão recente, proferido no HC n. 109.956, decidiu “não mais admitir habeas corpus que tenha por objetivo substituir o Recurso Ordinário em Habeas Corpus (RHC)”, não fazendo sentido qualquer retrocesso. 2. A minorante do art. 33, § 4º, da Lei nº 11.343/2006, não retirou o caráter hediondo do crime de tráfico de entorpecentes, limitando-se, por critérios de razoabilidade e proporcionalidade, a abrandar a pena do pequeno e eventual traficante, em contrapartida com o grande e contumaz traficante, ao qual a Lei de Drogas conferiu punição mais rigorosa que a prevista na lei anterior. 3. O reconhecimento da progressão de regime após o cumprimento de 1/6 da pena, pelo afastamento da hediondez do crime, desprezando-se as frações de 2/5, se primário, e de 3/5, se reincidente, previstas na Lei de Drogas, constituirá incentivo a que as pessoas cada vez mais se aventurem no tráfico, ante o ínfimo tempo em que permanecerão presas. 4. Agravo regimental desprovido. (HC 114452 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 16/10/2012, PROCESSO ELETRÔNICO DJe-220 DIVULG 07-11-2012 PUBLIC 08-11-2012)
+
+Isto posto, por ausência do requisito objetivo, indefiro o pedido de progressão de regime.
+
+P. R. I. Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos.
+
+
+$assinaturaJuizDireito
+
+Modelo de Documento
+
+Descrição:	Retificação pena em dobro Curado
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0525752
+Data da Criação:	08/07/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução penal em que a Defesa pugnou pela retificação do atestado de pena para fazer constar o cômputo em dobro do tempo que o apenado esteve recluso, afirmando que há um estado de coisas inconstitucional no sistema carcerário brasileiro, conforme já decidiu o STF em julgamentos de Habeas Corpus (ev. XXXX).
+
+Instado a se manifestar o Ministério Público pugnou pelo indeferimento uma vez a Defesa baseou seu pedido na Resolução da Corte Interamericana de Direitos Humanos que tratava de situação fática ocorrida em penitenciária de outro Estado da federação, mas não nos presídios do Rio Grande do Norte, pelo que entendeu não ser possível a aplicação da resolução da CIDH por analogia (ev. XXXXXXXX).
+
+Anoto que o penitente está cumprindo pena no regime semiaberto harmonizado, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+Inicialmente verifico que a Resolução de 28 de novembro de 2018 da Corte Interamericana de Direitos Humanos, que determinou o cômputo em dobro do tempo de cumprimento da pena na unidade prisional do Complexo do Curado, tem aplicabilidade inter partes, como bem citou o Ministério Público.
+
+É o que se vê no item 6 da Resolução, verbis:
+
+6. O Estado deverá arbitrar os meios para que, no prazo de seis meses a contar da presente decisão, se compute em dobro cada dia de privação de liberdade cumprido no Complexo de Curado, para todas as pessoas ali alojadas que não sejam acusadas de crimes contra a vida ou a integridade física, ou de crimes sexuais, ou não tenham sido por eles condenadas, nos termos dos Considerandos 118 a 133 da presente resolução. (grifei)
+
+No caso, verifico que o apenado nunca cumpriu pena no Complexo do Curado, não se enquadrando, portanto, na hipótese apontada pela Defesa.
+
+Reproduzo aqui a jurisprudência do STJ colacionada pelo Ministério Público:
+
+Ementa: AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. PEDIDO DE CÔMPUTO EM DOBRO DE PERÍODO DE PRIVAÇÃO DE LIBERDADE CUMPRIDO NA PENITENCIÁRIA ESTADUAL DE DOURADOS/MS. AUSÊNCIA DE AMPARO LEGAL E JURISPRUDENCIAL. RESOLUÇÃO CORTE IDH 28/11/ 2018 SOBRE A PRIVAÇÃO DE LIBERDADE NO COMPLEXO DO CURADO. EFICÁCIA INTER PARTES. AGRAVO IMPROVIDO. 1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus. ( AgRg no HC 437.522/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018) 2. A despeito de existir julgado desta Corte ( AgRg no RHC 136.961/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021) reconhecendo o direito ao cômputo em dobro do período de cumprimento da pena privativa de liberdade no Instituto Penal Plácido de Sá Carvalho, em atenção a comando exarado pela Corte Interamericana de Direitos Humanos em Resolucao de 22/11/2018, tal julgado possui eficácia apenas inter partes. 3. Esta Corte tem entendido que a Resolução da eg. Corte Interamericana de Direitos Humanos (CIDH) de 28/11/2018 reconheceu inadequado apenas o Complexo do Curado para a execução de penas, aos reeducandos que se encontram em situação degradante e desumana, determinando o cômputo, em dobro, de cada dia de pena privativa de liberdade lá cumprida. Em tal Resolução, não foi incluída a situação da Penitenciária Estadual de Dourados/MS. Precedentes em situações análogas: AgRg no HC n. 787.441/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/3/2023, DJe de 10/3/2023; AgRg no HC n. 706.114/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/11/2021, DJe de 29/ 11/2021; HC 752.326/CE, Rel. Min. JESUÍNO RISSATO (Desembargador convocado do TJDFT, DJe de 18/11/2022 (Casa de Privação Provisória de Liberdade Professor Clodoaldo Pinto - CPPL II); HC 709.333/SC, Rel. Min. ANTONIO SALDANHA PALHEIRO, DJe de 08/05/2023 e HC 719.646/SC, Rel. Min. RIBEIRO DANTAS, DJe de 18/05/2022 (Presídio Regional de Joinville); HC 738.767/RN, Rel. Min. JOEL ILAN PACIORNIK, DJe de 03/05/2022 (Presídio Estadual de Seridó); HC 709.652/SP, Rel. Min . JOÃO OTÁVIO DE NORONHA, DJe de 18/03/2022 ( Penitenciária de Franca/SP); AREsp 2.246.845/PA, Rel. Min. JOEL ILAN PACIORNIK, DJe de 11/04/2023 (Casas Penais de Santarém/PA); HC 715.126/RS, Rel. Ministro OLINDO MENEZES (Desembargador convocado do TRF 1ª Região), DJe de 15/06/2022 e o HC 737.693/RS, Rel. Min. RIBEIRO DANTAS, DJe de 29/04/2022 (Cadeia Pública de Porto Alegre).4. Dessa forma, não há amparo jurisprudencial nem legal à concessão do cômputo em dobro de cada dia de privação de liberdade cumprido pelo paciente na Penitenciária Estadual de Dourados/MS.5. Agravo regimental desprovido. (STJ - AgRg no HC: 839197 MS 2023/0249489-7, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 22/08/2023, T5 - QUINTA TURMA, Data de Publicação: DJe 28/08/2023)
+
+No mesmo sentido, o STF tem entendido que o cômputo em dobro não se aplica a qualquer situação e por penas cumpridas em qualquer unidade prisional:
+
+Portanto, não tendo a Resolução se referido a nenhuma das unidades prisionais do Rio Grande do Norte e não havendo nenhum julgado da CHDI em relação a tais unidades, bem como não tendo o apenado cumprido pena na unidade mencionada - Complexo do Curado, o pedido não deve ser acatado.
+
+Anoto ainda que um dos delitos que o apenado praticou é crime equiparado a crime de natureza hedionda, no caso, tráfico de drogas.
+
+Ante o exposto, indefiro o pedido de cômputo em dobro da pena cumprida.
+
+P.I.
+
+$assinaturaJuizDireito
+
+ 	   Modelo de Documento
+
+Descrição:	INDULTO 2022. FACÇÃO CRIMINOSA. INDEFERIMENTO
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0611111
+Data da Criação:	11/07/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de cumprimento de penas privativas de liberdade que foram unificadas em $penaTotalVEP em regime $regimePenaVEP.
+
+A Defesa ingressou com pedido de indulto natalino para as penas dos delitos do art. XXXXXXXX (ação penal nº XXXXXXXX), o que fez com base no art. 5º do Decreto 11.302/2022 (ev. XXXXXXX)
+
+Interveio o Ministério Público pugnando pelo indeferimento do pedido, considerando que o apenado é integrante de facção criminosa denominada "Sindicato do Crime" (ev. XXXXX).
+
+Anoto aqui que o penitente está cumprindo pena na PEA - Penitenciária Estadual de Alcaçuz, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+Desde já, sem adentrar no mérito da constitucionalidade do art. 5º, caput e parágrafo único, do Decreto 11.302/2022, nem no seu sobrestamento, tenho que o pedido não merece prosperar, uma vez que desconsidera regra estabelecida no próprio decreto.
+
+É que no caso o apenado é integrante de facção criminosa denominada "Sindicato do Crime", conforme classificação oriunda do DEPEN (ev. XXXXX).
+
+O art. 7º, do mesmo Decreto, preconiza que:
+
+Art. 7º  O indulto natalino concedido nos termos do disposto neste Decreto não abrange os crimes:
+
+(...)
+
+§ 1º  O indulto natalino também não será concedido aos integrantes de facções criminosas, ainda que sejam reconhecidas somente no julgamento do pedido de indulto.  (Grifei)
+
+Por oportuno, considero que a classificação dada pelo sistema penitenciário ao apenado é corroborada pelo fato dele ter sido condenado pelo crime do art. 288, caput, do Código Penal - quadrilha ou bando, o que reforça o entendimento de que é membro de facção criminosa, pois associou-se à outras pessoas para prática de crime (ação penal nº XXXXXXX).
+
+É o que tem decidido o STJ, pois não há diferenciação entre facção ou organização criminosa, verbis:
+
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INDULTO NATALINO. DECRETO PRESIDENCIAL Nº. 11.302/2022. VEDAÇÃO DO § 1º DO ART. 7º. FACÇÃO CRIMINOSA. ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO FUNDAMENTADO. INTERPRETAÇÃO IN MALAM PARTEM. INEXISTÊNCIA. I - O §1º do art. 7º do Decreto nº 11.302/2022 prescreve hipótese de vedação da concessão de indulto aos integrantes de facções criminosas, ainda que sejam reconhecidas somente no julgamento do pedido. II - Para fins de exame de pedido de indulto com fundamento no Decreto nº 11.302/2022, a discussão sobre eventual diferenciação entre organização criminosa e facção criminosa não tem relevância porque o §1º, art. 7º, do ato normativo, estabeleceu o dever do juízo de reconhecer, de forma fundamentada, ainda que somente no julgamento do pedido de indulto, a participação em facção criminosa. III - No caso dos autos, o indeferimento do indulto está fundamentado em elementos concretos que indicam a participação dos recorrentes em organização reconhecida pelas instâncias ordinárias como facção criminosa, nos moldes do §1º, art. 7º, do Decreto nº 11.302/2022. IV - A compreensão dada pelo Tribunal não implica interpretação extensiva in malam partem. Isso porque a vedação do §1º, art. 7º, Decreto nº 11.302/2022 impede a concessão de um benefício, derivado de discricionariedade do Presidente da República, que desconstitui uma sanção penal aplicada com observância do devido processo legal, nos exatos termos previstos pelo ato concessivo. A vedação, de forma literal, prevê a possibilidade de reconhecimento da participação em facção criminosa ainda que somente no julgamento do pedido de indulto. Agravo regimental desprovido. (AgRg no RHC n. 185.970/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024.) Ver tb: (HC n. 872.679, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), DJe de 01/07/2024.)
+
+Isto posto, reconhecendo que o apenado integra facção criminosa, tenho como não atendido o requisito do decreto do art. 7º, § 1º, do Decreto 11.302/2023, pelo que indefiro o indulto.
+
+P.R.I. 
+
+
+
+$assinaturaJuizDireito
+
+ 
+
+ 
+
+$rodape
+
+Modelo de Documento
+
+Descrição:	lc violações monitoramento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0611800
+Data da Criação:	18/07/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+ 
+
+Vistos etc.
+
+O SEEU identificou o apenado como tendo atingido o requisito objetivo para o livramento condicional.
+
+*Interveio o Ministério Público, opinando fundamentadamente pelo indeferimento.
+
+Relatados.
+
+Apesar de atingido o requisito objetivo, não cabe o benefício ao apenado.
+
+É que ficou claramente demonstrada a falta de bom comportamento no cumprimento da pena (Código Penal, art. 83, III, a), pois se verifica que o apenado foi punido ** vezes nos últimos 2 anos, por ** violações ao monitoramento eletrônico.
+
+Neste sentido colhe-se da jurisprudência da Câmara Criminal do Tribunal de Justiça do Rio Grande do Norte:
+
+PROCESSUAL PENAL. AGEX. PRETENSA PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO (ART. 112 DA LEP). APENADO COM HISTÓRICO DE REITERADAS VIOLAÇÕES AO MONITORAMENTO ELETRÔNICO. AUSÊNCIA DE COMPORTAMENTO SATISFATÓRIO E AFRONTA AO PODER PUNITIVO ESTATAL. CONDUTA CARCERÁRIA A SER AFERIDA HOLISTICAMENTE DURANTE TODO O CUMPRIMENTO DA PENA. PRECEDENTES. DECISUM MANTIDO. CONHECIMENTO E DESPROVIMENTO. (AGRAVO DE EXECUÇÃO PENAL, 0807155-52.2024.8.20.0000, Des. Saraiva Sobrinho, Câmara Criminal, JULGADO em 08/07/2024, PUBLICADO em 08/07/2024).
+
+Na mesma linha é o entendimento do Superior Tribunal de Justiça:
+
+“… ainda que o apenado não tenha incorrido em fuga, nem em novo crime, o descumprimento das regras do monitoramento é previsto como falta grave na LEP, porque significa descumprimento das ordens recebidas (regras) - art. 50,VI, c/c art. 39, V, ambos da LEP” (AgRg no HC 867.103/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, j. em 5/12/2023, DJe de 11/12/2023).
+
+Por oportuno, cabe anotar que o art. 83 do Codigo Penal não restringe o bom comportamento do apenado ao último ano, já que exige "bom comportamento durante a execução da pena" (alínea a), como, aliás, decidiu o Superior Tribunal de Justiça no Tema Repetitivo 1161:
+
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.  1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ. 2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso). 3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal. 4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena. 5. Recurso especial provido. (REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023.)
+
+Finalmente, lembro que a nova redação dada ao inciso III do art. 83 do Código Penal é requisito objetivo e não subjetivo:
+
+No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).
+
+Isto posto, face não atender o apenado  aos requisitos do art. 83,  III, do Código Penal, indefiro o livramento condicional.
+
+P.R.I. Faça-se o registro no SEEU.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+
+ 	   
+  
+ 	   
+  Modelo de Documento
+
+Descrição:	COMUTAÇÃO OU INDULTO 2023. QUADRILHA OU BANDO + 288. INDEFERE
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0612064
+Data da Criação:	19/07/2024
+Conteúdo:	
+$cabecalho
+
+Processo nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de cumprimento de penas privativas de liberdade que foram unificadas em $penaTotalVEP em regime $regimePenaVEP.
+
+A Defesa ingressou com pedido de comutação das penas, o que fez com base no art. 3º e 4º do Decreto 11.846/2023 (ev. xxxxxx).
+
+Interveio o Ministério Público pugnando pelo indeferimento do pedido, considerando que o apenado é integrante de facção criminosa denominada "Sindicato do Crime" bem como foi condenado por crime de quadrilha ou bando (ev. xxxxxx).
+
+Anoto aqui que o penitente está cumprindo pena na PEA - Penitenciária Estadual de Alcaçuz, conforme consulta SIAPEN desta data.
+
+Relatados.
+
+O pedido não merece prosperar, uma vez que desconsidera regra estabelecida no próprio decreto.
+
+É que no caso o apenado é integrante de facção criminosa denominada "Sindicato do Crime", conforme classificação oriunda do DEPEN.
+
+O art. 7º, do mesmo Decreto, preconiza que:
+
+Art. 1º  O indulto coletivo e a comutação de penas concedidos às pessoas nacionais e migrantes não alcançam as que tenham sido condenadas:
+
+(...)
+
+§ 1º  O indulto coletivo concedido a pessoas nacionais e migrantes, independentemente do crime cometido, não alcança as pessoas:
+
+I - integrantes de facções criminosas que nelas desempenhem ou tenham desempenhado função de liderança ou participado de forma relevante em organização criminal;
+
+(...) - Grifei.
+
+Por oportuno, considero que a classificação dada pelo sistema penitenciário ao apenado é corroborada pelo fato dele ter sido condenado pelo crime do art. 288, caput, do Código Penal - quadrilha ou bando, o que reforça o entendimento de que é membro de facção criminosa, pois associou-se à outras pessoas para prática de crime e nela exerceu papel relevante (ação penal nº XXXXXX).
+
+É o que tem decidido o STJ, pois não há diferenciação entre facção ou organização criminosa, verbis:
+
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INDULTO NATALINO. DECRETO PRESIDENCIAL Nº. 11.302/2022. VEDAÇÃO DO § 1º DO ART. 7º. FACÇÃO CRIMINOSA. ORGANIZAÇÃO CRIMINOSA. INDEFERIMENTO FUNDAMENTADO. INTERPRETAÇÃO IN MALAM PARTEM. INEXISTÊNCIA. I - O §1º do art. 7º do Decreto nº 11.302/2022 prescreve hipótese de vedação da concessão de indulto aos integrantes de facções criminosas, ainda que sejam reconhecidas somente no julgamento do pedido. II - Para fins de exame de pedido de indulto com fundamento no Decreto nº 11.302/2022, a discussão sobre eventual diferenciação entre organização criminosa e facção criminosa não tem relevância porque o §1º, art. 7º, do ato normativo, estabeleceu o dever do juízo de reconhecer, de forma fundamentada, ainda que somente no julgamento do pedido de indulto, a participação em facção criminosa. III - No caso dos autos, o indeferimento do indulto está fundamentado em elementos concretos que indicam a participação dos recorrentes em organização reconhecida pelas instâncias ordinárias como facção criminosa, nos moldes do §1º, art. 7º, do Decreto nº 11.302/2022. IV - A compreensão dada pelo Tribunal não implica interpretação extensiva in malam partem. Isso porque a vedação do §1º, art. 7º, Decreto nº 11.302/2022 impede a concessão de um benefício, derivado de discricionariedade do Presidente da República, que desconstitui uma sanção penal aplicada com observância do devido processo legal, nos exatos termos previstos pelo ato concessivo. A vedação, de forma literal, prevê a possibilidade de reconhecimento da participação em facção criminosa ainda que somente no julgamento do pedido de indulto. Agravo regimental desprovido. (AgRg no RHC n. 185.970/PR, relator Ministro Messod Azulay Neto, Quinta Turma, julgado em 7/5/2024, DJe de 15/5/2024.) Ver tb: (HC n. 872.679, Ministro Otávio de Almeida Toledo (Desembargador Convocado do TJSP), DJe de 01/07/2024.)
+
+Isto posto, reconhecendo que o apenado integra facção criminosa, tenho como não atendido o requisito do decreto do art. 1º, § 1º, I, do Decreto 11.846/2023, pelo que indefiro a comutação.
+
+P.R.I. 
+
+
+
+$assinaturaJuizDireito
+ 
+
+ 
+
+ 
+
+$rodape
+
+
+ 	   Modelo de Documento
+
+Descrição:	progressão indefere subjetivo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0073981
+Data da Criação:	23/07/2024
+Conteúdo:	
+$cabecalho
+$dadosProcesso
+Vistos etc.
+
+O SEEU identificou o apenado como tendo atingido o requisito objetivo para progressão de regime.
+
+Interveio o Ministério Público opinando contrariamente.
+
+É o relatório.
+
+***
+
+*A Lei de Execução Penal, no art. 112 (redação anterior), dispõe que cumprido ao menos um sexto da pena imposta ou dois quintos no caso de crime hediondos e equiparados, será transferido o apenado para regime menos rigoroso, se seu mérito indicar a progressão.
+
+*A Lei de Execução Penal, no art. 112, dispõe que cumprido ao menos 16% da pena imposta por crime crime cometido sem violência à pessoa ou grave ameaça  **20% (vinte por cento) da pena, imposta em se tratando de apenado reincidente em crime cometido sem violência à pessoa ou grave ameaça*, será transferido o apenado para regime menos rigoroso, se seu mérito indicar a progressão.
+
+*A Lei de Execução Penal, no art. 112, dispõe que cumprido ao menos  **% da pena imposta por crime praticado com violência à pessoa ou grave ameaça, será transferido o apenado para regime menos rigoroso, se seu mérito indicar a progressão.
+
+*A Lei de Execução Penal, no art. 112, dispõe que cumprido ao menos 40% da pena imposta por se tratar de primário em crime hediondo ou equiparado **60% da pena imposta, por se tratar de reincidente em crime hediondo ou equiparado**, será transferido o apenado para regime menos rigoroso, se seu mérito indicar a progressão.
+
+Sobre o assunto, oportuno lembrar a tradicional lição do Prof. Júlio Fabbrini Mirabete: "Tendo em vista a finalidade da pena, de integração ou reinserção social, o processo de execução deve ser dinâmico, sujeito a mutações ditadas pela resposta do condenado ao tratamento penitenciário.  Assim, ao dirigir a execução para a forma progressiva, estabelece o artigo 112 (da L.E.P) a progressão, ou seja, a transferência do condenado de regime mais rigoroso a outro menos rigoroso quando demonstra condições de adaptação ao mais suave. (...) Para que se processe a progressão exige a lei, em primeiro lugar, dois requisitos materiais; um de caráter objetivo, que é o cumprimento de um sexto da pena no regime anterior, e um de caráter subjetivo, que se refere ao mérito do condenado indicando a oportunidade da transferência" (in Execução Penal. São Paulo : Atlas, 5ª ed., 1992, p.283/283).
+
+Aqui, atende o apenado ao requisito objetivo.
+
+Quanto ao subjetivo, porém, diversa é a situação.
+
+Já dispunha a Exposição de Motivos da Lei de Execução Penal que "a progressão deve ser uma conquista do condenado pelo seu mérito".
+
+E, como lembrava o Prof. Mirabete: "...a aferição do mérito se refere à conduta global do preso e dela faz parte um acréscimo na confiança depositada no mesmo e a possibilidade de atribuição de maiores responsabilidades para o regime de mais liberdade. O condenado deve ser avaliado, aliás, em função do regime para o qual pretende progredir; terá que ser examinado tendo em vista as regalias de que irá gozar no regime progressivo seguinte. Não deve ser concedida a progressão quando se verificar que o apenado não apresenta condições para se ajustar ao novo regime".
+
+**
+
+*No caso, verifica-se que o(a) apenado(a) foi flagranteado por novo crime, tendo inclusive prisão preventiva decretada.
+
+*No caso, verifica-se que existe prisão preventiva decretada face ao apenado, em outra ação penal a que responde, situação que leva a presunção de periculosidade.
+
+Ora, a progressão depende da adaptação provável do apenado ao regime menos severo, o que se obtém de detalhes registrados no decorrer da execução penal, não se podendo correr tal consciente risco quando os autos ampara decisão contrária.
+
+**
+
+*No caso, verifica-se que o(a) apenado(a), cumprindo pena em regime semiaberto vem constantemente se ausentando do pernoite no estabelecimento prisional,  o que ocorreu por  *** vezes nos últimos meses, sendo punido por tal falta disciplinar média.
+
+*No caso, verifica-se que o(a) apenado(a), cumprindo pena em regime semiaberto em prisão domiciliar, com monitoração eletrônica, descumpriu ** vezes as regras do benefício, sendo punido disciplinarmente,.
+
+* No caso, verifica-se que o apenado registra XXX fugas durante o cumprimento da pena, sendo a última em XXX, com recaptura apenas em XXX, ou seja, há menos de um ano, denotando assim a sua não adaptação ao regime menos rigoroso.
+
+*No caso, verifica-se que o apenado, além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, registra conturbado histórico prisional, com xx fugas, além de responder a ações penais, *inclusive, por delito cometido no curso da execução penal, não se podendo sustentar que esteja reabilitado posto transcorridos menos de cinco anos da última falta grave praticada. Ademais, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+
+Neste sentido extrai-se da recente jurisprudência do Superior Tribunal de Justiça:  
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. HISTÓRICO PRISIONAL CONTURBADO. FUNDAMENTAÇÃO CONCRETA. FALTA GRAVE. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Assente que "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/2/2019).
+III - Para a concessão da progressão de regime, deve o acusado preencher tanto o requisito de natureza objetiva (lapso temporal) quanto os pressupostos de cunho subjetivo (aferidos segundo o mérito do apenado durante o cumprimento da pena).
+IV - Verificou-se que a r decisão agravada considerou que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não restou presente o requisito subjetivo, com base em elementos concretos extraídos da execução penal, tendo em vista o conturbado histórico prisional do apenado. Dos autos, o que se extraiu é que o apenado ostenta duas fugas do estabelecimento prisional, além de responder a ações penais, inclusive, por delito cometido no curso da execução penal (fl. 27).
+V - Ademais, o comportamento carcerário não se restringe ao período imediatamente anterior ao pedido de benefícios. Isso porque o Magistrado não é um mero "chancelador" de reabilitações, as quais costumam ter prazos ínfimos nas legislações penitenciárias estaduais. Verbis: "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC n. 477.887/SP, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe de 25/3/2019).
+VI - No caso concreto, não há sequer falar em termos de reabilitação. É o histórico prisional conturbado do apenado que afasta a constatação do requisito subjetivo apto à concessão da progressão de regime.
+VII - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 768.087/PB, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 14/11/2022, DJe de 29/11/2022.)
+
+Ora, a progressão depende da adaptação provável do apenado ao regime menos severo, sendo de anotar que na execução criminal prevalece o princípio do in dubio pro societate.
+
+Aqui, os autos demonstram claramente características de apenado não adequadas a alguém que está para ser beneficiado com a semiliberdade, já que não cumpre corretamente a pena (o cumprimento fiel da sentença, aliás, é primeiro dos deveres do apenado, conforme dispõe o art. 39, I, da Lei 7.210/84).
+
+Enfim, a progressão depende da adaptação provável do apenado ao regime menos severo, o que se obtém de detalhes registrados no decorrer da execução penal, não se podendo correr tal consciente risco quando os autos amparam decisão contrária.
+
+ATENÇÃO: SÓ DEIXE NA MINUTA A JURISPRUDÊNCIA QUE SE ADEQUA AO FATO QUE ESTÁ SENDO EXAMINADO.
+
+Para cotejo, lembro diversas outras decisões do STJ:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME INDEFERIDOS. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FALTA DISCIPLINAR GRAVE. DECISÃO DEVIDAMENTE FUNDAMENTADA. LIMITAÇÃO DO PERÍODO DE AFERIÇÃO DO REQUISITO SUBJETIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO. 
+1. De acordo com o entendimento assente nesta Corte Superior, "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo", bem como, "não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+2. "A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário" (HC n. 347.194/SP, Relator Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. No caso concreto, o Tribunal Estadual concluiu que o caso em questão requer cautela, diante do histórico carcerário conturbado do paciente que perpetrou faltas graves em reduzidíssimo período de tempo, reconhecidas e homologadas em 23/4/2020 e 17/6/2020, além de falta média em 18/6/2021, demonstrando que ao invés de aproveitar a chance para se reabilitar, o executado não assimilou a terapêutica penal.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 767.408/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EXECUÇÃO PENAL. PROGRESSÃO. AUSÊNCIA DO REQUISITO SUBJETIVO. PRISÃO EM FLAGRANTE NO LIVRAMENTO CONDICIONAL. INEXISTÊNCIA DE MANIFESTO CONSTRANGIMENTO ILEGAL 1. Não há como abrigar agravo regimental que não logra desconstituir os fundamentos da decisão atacada. 2. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo (HC n. 468.765/RS, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 18/12/2018). 3. O Tribunal local considerou não atendido o requisito subjetivo para o ora agravante progredir, diante da prisão em flagrante pelo crime de receptação, perpetrado quando se encontrava em livramento condicional em 12/11/2016. 4. Agravo regimental improvido. (AgRg no HC 498.061/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/06/2019, DJe 18/06/2019) -grifei.
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. FALTAS GRAVES (EVASÃO E PRÁTICA DE DOIS FATOS DEFINIDOS COMO CRIMES DOLOSOS). AGRAVO REGIMENTAL DESPROVIDO. 1. Não há limite temporal estabelecido na Lei de Execução Penal para o preenchimento do requisito subjetivo para progressão de regime, devendo ser considerado todo o período de execução da pena, a fim de se aferir o mérito do apenado, ainda que haja atestado de boa conduta carcerária. Precedentes do STJ. 2. "O período de reabilitação das faltas, previsto nos códigos penitenciários de cada unidade federativa, não pode ser adotado como referência para ignorar o comportamento do reeducando, sob pena de transformar o Juiz da Execução em mero chancelador de documentos emitidos pela unidade prisional" (AgRg no HC 477.887/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/03/2019, DJe 25/03/2019). 3. Sem embargo, tem-se que a gravidade abstrata dos crimes objeto da execução penal, a longa pena a cumprir e faltas graves muito antigas, isoladamente, não constituem fundamentos idôneos para indeferir o benefício. 4. Na hipótese em apreço, conforme decidido monocraticamente, o indeferimento da progressão de regime é válido, pois amparado na prática de faltas disciplinares de natureza grave - abandono do cumprimento de regime semiaberto anteriormente concedido (evasão) e prática de dois fatos definidos como crimes dolosos (roubos majorados) - ocorridas no curso da execução que se pretende a concessão do benefício. 5. Agravo regimental desprovido. (AgRg no HC 494.742/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 04/06/2019, DJe 14/06/2019).
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA. FATOS NOVOS. HISTÓRICO PRISIONAL DESFAVORÁVEL. HABITUALIDADE DELITIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO. 1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo. 2. Configura-se legítimo o indeferimento da progressão prisional, baseado em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico conturbado da agravante, que, beneficiada em execução penal anterior, cometeu nova prática delitiva, demonstrando, assim, a sua habitualidade em ilícitos penais.3. Agravo regimental improvido. (AgRg no HC 566.791/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020).
+
+Repito: não se pode causar à sociedade consciente risco, quando a não adaptabilidade do apenado a regime menos gravoso se apresenta manifesta.
+
+*
+
+Isto posto, por ausência do requisito subjetivo, indefiro a progressão de regime, devendo o apenado continuar a cumprir sua pena no regime semiaberto**fechado, por mais 90 dias, **quando deverão ser buscadas informações sobre o julgamento do outro processo a que responde.
+
+P..I. Registre-se no SEEU.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Minuta - monitoramento (falta média)
+Tipo de Documento:	Decisão
+Público:	Não
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0613247
+Data da Criação:	01/08/2024
+Conteúdo:	
+$cabecalho
+
+ 
+
+$dadosProcesso
+
+ 
+Vistos etc.    
+
+Executando-se em regime semiaberto pena privativa de liberdade, o apenado foi beneficiado com prisão domiciliar com monitoramento eletrônico, tendo a SEAP/CEME informado que violara as condições impostas (ev.114.2).
+
+Relatados.
+
+No caso, verificam-se diversas violações às regras da monitoração eletrônica.
+
+Ora, determina a Lei de Execução Penal, no art. 146-D, inciso II, que "A monitoração eletrônica poderá ser revogada: (...) se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência (...).
+
+Os deveres a que se sujeita o apenado beneficiado com a prisão domiciliar com monitoramento eletrônico estão previstas no art. 4º da Portaria nº 01/2022 deste juízo, tendo o apenado descumprido 10 (dez) vezes aquele previsto na sua alínea a, segundo a qual "deverá permanecer recolhido em sua residência, ou local indicado quando da instalação do equipamento, todos os dias no horário compreendido entre 20h e 05h, salvo autorização anterior do juízo" *(violações com duração igual ou superior a 15min ). 
+
+Nessa situação, resta claro que desatendeu o apenado ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. IV, merecendo punição.
+
+Ocorre que a referida falta não importa em regressão de regime, pelo que deverá o apenado continuar a cumprir a pena no regime semiaberto, com as consequências cabíveis no tocante ao registro de seu comportamento, o que também importará na suspensão da autorização para saída externa 10 (dez) dias, devendo ele ser recolhido ao presídio.
+
+Isto posto, reconheço a prática de falta média, suspendendo as autorizações de saídas externas desvigiadas do apenado por 10 (dez) dias, mandando recolhê-lo ao presídio, constando também no quadro de eventos o mesmo período como pena não cumprida.
+
+P. R. I., atualize-se o Atestado de Penas.
+
+Comunique-se à CEME e ao CPJC, para que se dê cumprimento à sanção. 
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	monitoramento violações req progr
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0087535
+Data da Criação:	01/08/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.    
+
+Executando-se em regime semiaberto pena privativa de liberdade, o apenado foi beneficiado com prisão domiciliar com monitoramento eletrônico, tendo a SEAP/CEME informado que violara as condições impostas.
+
+Acrescento ao relatório que o SEEU identificara o apenado como tendo atingido o requisito objetivo para progressão de regime.
+
+*Interveio o Ministério Público.
+
+Relatados.
+
+Conforme atestado de pena, o apenado cumpriu o requisito objetivo para concessão da progressão de regime.
+
+Quanto ao subjetivo, porém, diversa é a situação.
+
+Já dispunha a Exposição de Motivos da Lei de Execução Penal que "a progressão deve ser uma conquista do condenado pelo seu mérito".
+
+E, como lembrava o já referido Prof. Mirabete:
+
+"...a aferição do mérito se refere à conduta global do preso e dela faz parte um acréscimo na confiança depositada no mesmo e a possibilidade de atribuição de maiores responsabilidades para o regime de mais liberdade. O condenado deve ser avaliado, aliás, em função do regime para o qual pretende progredir; terá que ser examinado tendo em vista as regalias de que irá gozar no regime progressivo seguinte. Não deve ser concedida a progressão quando se verificar que o apenado não apresenta condições para se ajustar ao novo regime".
+
+No caso, verificam-se diversas violações às regras da monitoração eletrônica.
+
+Ora, determina a Lei de Execução Penal, no art. 146-D, inciso II, que "A monitoração eletrônica poderá ser revogada: (...) se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência (...).
+
+Os deveres a que se sujeita o apenado beneficiado com a prisão domiciliar com monitoramento eletrônico estão previstas no art. 4º da Portaria nº 01/2022 deste juízo, tendo o apenado descumprido ** vezes aquele previsto na sua ***alínea a, segundo a qual "deverá permanecer recolhido em sua residência, ou local indicado quando da instalação do equipamento, todos os dias no horário compreendido entre 20h e 05h, salvo autorização anterior do juízo" *(violações com duração igual ou superior a 15min nos dias xxx). ** vezes aquele previsto na ** alínea g, segundo a qual lhe caberia "impedir a descarga completa da bateria do equipamento de monitoração eletrônica" (violações com duração igual ou superior a 1h nos dias xxx).
+
+Nessa situação, resta claro que desatendeu o apenado ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. IV, merecendo punição.
+
+Ocorre que a referida falta não importa em regressão de regime, pelo que deverá o apenado continuar a cumprir a pena no regime semiaberto, com as consequências cabíveis no tocante ao registro de seu comportamento, o que também importará na suspensão da autorização para saída externa *pelo mesmo número de descumprimentos* pelo dobro do número de descumprimentos, dada a reiteração de condutas*, pelo triplo do número de descumprimentos, dada a persistente reiteração de condutas*devendo ele ser recolhido ao presídio.
+
+Isto posto, indefiro a progressão de regime e reconheço a prática de falta média, suspendendo as autorizações de saídas externas desvigiadas do apenado por *** dias, mandando recolhê-lo ao presídio, constando também no quadro de eventos *o mesmo período *x dias como pena não cumprida.
+
+P. R. I., atualize-se o Atestado de Penas.
+
+Comunique-se à CEME, para que notifique o apenado a iniciar o cumprimento em cinco dias, ou, no mesmo prazo, querendo, apresentar justificativa.
+
+**Esclareça-se se cumprida a punição imposta no evento **. Caso a resposta seja negativa, requisite-se à CEME para que notifique o apenado a comparecer, no prazo de 03 (três) dias, para o cumprimento da sanção imposta. Se não atender, certifique-se e voltem-me conclusos para examinar possível falta grave.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0613801
+Data da Criação:	07/08/2024
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+O apenado foi identificado como possível beneficiário de progressão de regime mas tem audiência de justificação agendada para apuração de falta grave alegadamente praticada em **.
+
+Relatados.
+
+A boa conduta carcerária é requisito subjetivo para progressão de regime (LEP, art. 112 § 1º). 
+
+Aqui, porém, existe incidente de apuração de falta grave em andamento, com audiência de justificação já agendada..
+
+Entretanto, é certo que o incidente de progressão, automaticamente aberto pelo SEEU não pode ficar em aberto.
+
+Em assim sendo, dada a noticiada falta grave em apuração, indefiro provisoriamente, por 60 dias, a progressão de regime, tempo suficiente para a realização da audiência e solução do incidente.
+
+*Cientifiquem-se as partes e a CEME e paute-se audiência de justificação. 
+
+*Cientifiquem-se as partes. 
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+
+
+ 	   
+  
+ 	   
+  
+  
+  
+ 	   
+  
+
+ 	   
+     
+  
+ 	   
+  
+
+ 	   
+  
+ 	   
+  
+  
+ 	   
+  
+
+ 	   
+  
+  
+ 	   
+  
+  
+ 	   
+  
+  

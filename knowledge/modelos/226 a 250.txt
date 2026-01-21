@@ -1,0 +1,1139 @@
+Modelo de Documento
+
+Descrição:	Agravo percentuais mantendo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que deferiu pedido ministerial para retificar os percentuais de cumprimento da pena para progressão de regime.
+
+Agrava o apenado da decisão do evento * que indeferiu seu pedido para retificar os percentuais de cumprimento da pena para progressão de regime, utilizando-se percentuais para umas e frações para outras, conforme lhe fosse mais benéfico.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois os percentuais de atingimento do requisito objetivo para progressão de regime foram fixados nos termos da nova redação do art. 112 da Lei de Execução Penal, já que mais benéfica ao apenado que a previsão anterior.
+
+Registro, por oportuno, que utilizar para uma (ou umas) pena(s) parte da redação imposta pela nova lei e para outras a redação anterior importaria em criar nova legislação combinando leis, prática vedada pelo verbete nº 501 da Súmula do Superior Tribunal de Justiça.
+
+Neste sentido anotou o Ministro Ribeiro Dantas, em decisão recentíssima:
+
+De acordo com a jurisprudência desta Corte, é cabível a aplicação retroativa da lei nova, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da lei mais antiga, sendo vedada a combinação de leis.
+
+(…)
+
+Assim, deve o julgador analisar, de forma individualizada, qual redação do artigo 112 da Lei das Execuções Penais é a mais benéfica ao sentenciado para fins de alcance do requisito objetivo necessário à progressão de regime - aquela com ou sem as modificações trazidas pela Lei n. 13.964/2019.
+
+(REsp n. 2.042.501, Ministro Ribeiro Dantas, DJe de 24/03/2023.)
+
+Destoa, portanto, da orientação jurisprudencial deste STJ, qualquer decisão que leve a efeito indevida combinação de leis, aplicando, na mesma execução penal, a norma do art. 112 da LEP, tanto com a redação anterior quanto com a redação posterior à alteração promovida pela Lei n. 13.964/2019.
+
+Esse entendimento, aliás, é exaustivamente repetido pela 5ª Turma do Tribunal da Cidadania:
+
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. ART. 112 DA LEP. REDAÇÃO DA LEI 13.964/2019 (PACOTE ANTICRIME). APLICAÇÃO DA LEI MAIS BENÉFICA EM SUA INTEGRALIDADE. COMBINAÇÃO DE LEIS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+
+1. O Tribunal a quo, ao decidir a controvérsia, consignou que, diante do conflito de leis no tempo, o exame da norma aplicável, no que tange às modificações operadas pela Lei n.º 13.964/2019 no art. 112 da Lei de Execução Penal, deve ser feito individualmente para cada condenação.
+
+2..Ocorre que a jurisprudência desta Corte possui o entendimento consolidado de que é cabível a aplicação retroativa da lei nova, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da lei mais antiga, sendo vedada a combinação de leis.
+
+3. Ademais, o verbete sumular n. 471 do STJ, segundo o qual "Os condenados por crimes hediondos ou assemelhados cometidos antes da vigência da Lei n. 11.464/2007 sujeitam-se ao disposto no art. 112 da Lei n. 7.210/1984 (Lei de Execução Penal) para a progressão de regime prisional", muito embora assegure a ultratividade da lei penal mais benéfica em relação a delitos praticados antes da superveniência de lei mais gravosa, não chega ao ponto de admitir a combinação de leis pretendida pela defesa.
+
+4. Agravo regimental não provido. (AgRg no REsp n. 2.011.151/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR CRIME COMUM E HEDIONDO. REINCIDENTE NÃO ESPECÍFICO EM DELITO HEDIONDO. LEI N. 13.964/2019. POSSIBILIDADE DE APLICAÇÃO DOS PERCENTUAIS PREVISTOS NOS INCISOS II E V DO ART. 112 DA LEI N. 7.210/84. IMPOSSIBILIDADE DE COMBINAÇÃO DE LEIS. SÚMULA 501 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. RECURSO DESPROVIDO.
+
+1. Conforme prevê o Enunciado n. 501 da Súmula do STJ, é vedada a combinação de leis, devendo o julgador aplicar, na íntegra, a norma que seja mais favorável ao indivíduo.
+
+No caso, o Tribunal a quo manteve a aplicação do percentual de 40% como requisito para a progressão referente à condenação por crime hediondo ou equiparado e 20% para a condenação por crime comum, praticado sem violência ou grave ameaça, tendo em vista que o apenado é reincidente não específico em crime hediondo, estando, portanto, em consonância com a jurisprudência desta Corte. Precedentes.
+
+2. Agravo regimental desprovido. (AgRg no HC n. 701.427/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+
+ 
+
+Em assim sendo, por seus próprios fundamentos, acrescidos das bem lançadas contrarrazões ministeriais, mantenho a decisão recorrida.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Incompetência monitorado Regional
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena em regime semiaberto em que verificou-se que o apenado está monitorado eletronicamente e residindo em outra comarca.
+
+Relatados.
+
+Competente para o acompanhamento do regime semiaberto harmonizado é o juízo do local onde reside o apenado, desde que na Comarca exista a devida estrutura para o processo de execução penal.
+
+No caso, o apenado reside em município integrante da área territorial de competência da 1a Vara Regional de Execução Penal.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal de pessoa que cumpre a pena em regime semiaberto harmonizado em região de outra competência, determino a remessa dos autos para a 1a Vara Regional de Execução Penal.
+
+P.R.I. Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	Modelo de Documento
+
+Descrição:	Regressão novo crime cancelamento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+*O regime de cumprimento de pena privativa de liberdade foi regredido de **semiaberto para fechado em razão do apenado ter sido denunciado por novo crime doloso, sendo, porém, posteriormente absolvido dessa nova acusação.
+
+*O regime de cumprimento de pena privativa de liberdade foi regredido de **semiaberto para fechado em razão do apenado ter sido preso por novo crime doloso, sendo, porém, posteriormente arquivado o procedimento policial em razão do Ministério Público não ter encontrado fundamento para denúncia.
+
+*O regime de cumprimento de pena privativa de liberdade foi regredido de **semiaberto para fechado em razão do apenado ter sido preso por novo crime doloso, não sendo até o momento concluído o procedimento policial, apesar de transcorridos mais de dois meses do suposto fato.
+
+Relatados.
+
+A Lei de Execução Penal indica como falta grave a prática de crime doloso, razão pela qual foi regredido o regime prisional imposto.
+
+Ocorre que após a regressão *cautelar* do regime foi o apenado absolvido da nova imputação.
+
+Ocorre que o apenado não foi denunciado pelo suposto novo crime.
+
+Em assim sendo, cancelo a regressão aplicada, retornando o regime de cumprimento de pena para o semiaberto.
+
+P.R.I., retificando-se a Guia de Execução Penal. Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos, o qual deverá providenciar o encaminhamento do apenado para o regime prisional adequado.
+   
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Competência visita menores
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de requerimento formulado por ** para autorização de visita de adolescente ao apenado ***, recolhido na cadeia pública desta comarca.
+
+Interveio o Ministério Público.
+
+Relatados.
+Nos termos da jurisprudência do eg Tribunal de Justiça do Rio Grande do Norte, a expedição de alvará para autorizar adolescente a entrar em presídio é do juízo competente para cumprimento dos atos previstos no art. 149 da Lei nº 8.069/1990, por possuir em seus quadros equipe multidisciplinar que pode lhe auxiliar na análise do pedido, sempre objetivando a proteção integral da pessoa em formação, ao contrário do Juízo da Vara Criminal, que, analisaria o pleito sob a ótica do preso, permitindo ou não a respectiva visita.
+
+É o que se lê nos acórdãos que julgaram o Conflito Negativo de Competência n° 2010.016014-9, em 20.04. 2011, relatora a Desembargadora Maria Zeneide Bezerra, e o Conflito Negativo de Competência nº  2010.016013-2, julgado em 16/03/2011, sendo relator o Desembargador AMAURY MOURA SOBRINHO;
+
+Isto posto, tendo por incompetente este juízo para decidir acerca de visita de adolescente a pessoa presa, nego seguimento ao pleito, que poderá ser requerido pelo interessado no juízo competente para os assuntos de infância de juventude nesta Comarca.
+P.R.I. Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	medida de segurança indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade de * anos  de reclusão por prática de crime de **, em que alegou-se que ao apenado sobreveio doença mental.
+
+Realizada perícia médica-psiquiátrica, esclareceu o laudo que o apenado tem a plena capacidade de entender o caráter da pena imposta, ou de determinar-se de acordo com esse entendimento.
+
+Interveio, então, o Ministério Público, opinando pelo indeferimento da conversão da pena privativa de liberdade em medida de segurança detentiva, enquanto a defesa ***. 
+
+Relatados.
+
+Nos termos do art. 183 da Lei nº 7.210/84, “quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juiz, de ofício, a requerimento do Ministério Público ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança”.
+
+**No caso, a perícia médica realizada pelo ITEP comprovou que o apenado, **mesmo sendo portador de transtorno mental (CID – 10 F**), tem a plena capacidade de entender o caráter da pena imposta, ou de determinar-se de acordo com esse entendimento.
+
+**No caso, a perícia médica realizada pelo ITEP comprovou que o apenado não é portador de transtorno mental.
+
+Como definiu o Superior Tribunal de Justiça, "Em sede de inimputabilidade (ou semi-imputabilidade), vigora, entre nós, o critério biopsicológico normativo. Dessa maneira, não basta simplesmente que o agente padeça de alguma enfermidade mental (critério biológico), faz-se mister, ainda, que exista prova (v.g. perícia) de que este transtorno realmente afetou a capacidade de compreensão do caráter ilícito do fato (requisito intelectual) ou de determinação segundo esse conhecimento (requisito volitivo) à época do fato, i.e., no momento da ação criminosa (critério psicológico)" (HC 55.230/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, j. em 06/06/2006)
+
+Ora, sendo a inimputabilidade penal do apenado afastada por prova pericial específica, não se é de deferir o pedido para conversão da pena em medida de segurança.
+
+Isto posto, demonstrada a imputabilidade penal do apenado, indefiro o pedido para converter a pena  em medida de segurança.
+
+P.R.I. Remeta-se cópia para a unidade prisional.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Visita indeferimento atribuição administ
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.                  
+
+Trata-se de requerimento formulado por ** para autorização de visita a ***, recolhido na cadeia pública desta comarca.
+
+Interveio o Ministério Público.
+
+Relatados.
+
+Dispõe o art. 41, X, da Lei de Execução Penal, constituir direito do preso "visita do cônjuge, da companheira, de parentes e amigos em dias determinados", que, esclarece o parágrafo único do dispositivo, pode ser suspenso ou restringido mediante ato motivado do diretor do estabelecimento.
+
+A competência do juiz de execução penal é prevista no art. 66 da Lei 7.210/84. Entre tais disposições não consta regular as visitas sociais ou íntimas a apenados ou presos provisórios.  Se a administração do estabelecimento prisional indeferir sem razão o pleito caberá providências junto à CoAPe e, mantida a situação, a irresignação do interessado poderá ser resolvida por este juízo, como medida genérica.
+
+Não é o caso, pois não se comprovou a busca da decisão administrativa, alegando-se apenas a negativa da direção do presídio a conceder a autorização.
+
+Não há, portanto, uma das condições da ação, pois falta à requerente interesse de agir, conforme o art. 267, inciso IV do Código de Processo Civil, posto que deveria ter buscado a via administrativa antes da judiciária.
+
+Em caso de admissão da procura direta e desnecessária pelo Poder Judiciário se estaria desconsiderando a atribuição da SEAP para gerência dos estabelecimentos prisionais, havendo uma intrusão desnecessária nos atos da administração direta, e admitindo procedimentos que venham a colaborar com o grande volume de atos judiciais, travando a eficiência deste poder.
+
+Isto posto, verificando a carência de ação, extingo o pedido sem julgamento do mérito, com arrimo no artigo 330, inciso III, do CPC.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	LC suspenso e pena cumprida
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que ao apenado foi concedido o livramento condicional, mas adiante certificou-se que ele foi novamente preso e denunciado por prática de outro delito, sendo então o benefício suspenso.
+
+Acrescento ao relatório que o novo processo ainda não foi julgado, mas o SEEU informa pena cumprida.
+
+É o relatório.
+
+Suspenso o livramento condicional e retornando o apenado ao cumprimento da pena, foi atingida a data em que previsto seu término.
+
+Ora, nos termos do art. 89 do Código Penal, "o juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento". Isso porque o período de prova, caso ocorra condenação no novo processo, não se desconta da pena o tempo em que esteve solto o apenado (CP, art. 88).
+
+Entretanto, sendo impossível antever se o apenado será condenado ou absolvido no novo processo, não pode permanecer cumprindo uma pena que não se sabe se já está extinta.
+
+Isto posto, suspendo o cumprimento da pena, mandando colocar o apenado  em liberdade desvigiada e sem qualquer outra medida cautelar, aguardando o julgamento do novo processo, o que deverá ser buscado após cem dias.
+
+P.R.I. Caso necessário, expeça-se alvará de soltura. Suspenda-se o andamento do PEC no SEEU e remeta-se cópia da presente decisão ao sistema prisional onde era cumprida a pena.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	LC suspensão novo crime
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que foi ao apenado concedido o livramento condicional, mas adiante certificou-se que ele foi novamente preso e denunciado por prática de outros delitos.
+
+Interveio o Ministério Público, requerendo a suspensão do livramento condicional.
+
+É o relatório.
+
+Aplica-se ao caso o art. 145 da Lei de Execução Penal, o qual esclarece que “praticada pelo liberado outra infração penal, o juiz poderá ordenar a sua prisão”, bem como poderá ser suspenso “curso do livramento condicional, cuja revogação, entretanto, ficará dependendo da decisão final” do novo processo.
+
+Isto posto, suspendo o curso do livramento condicional, retornando o apenado provisoriamente à execução da pena que lhe foi imposta.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Transferência APAC
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.   
+
+Trata-se de execução da pena  em regime *, tendo sido requerida a transferência do domicílio do apenado para a APAC de Macau, com o que concordou o Juízo de Direito competente.
+
+Interveio o Ministério Público opinando pelo deferimento.
+
+Relatados.
+
+A pretensão encontra amparo no art. 66, V, g, da Lei de Execução Penal (Lei nº 7.210/84) e no art. 38 da Lei Complementar nº 165/99, bem como na jurisprudência do Supremo Tribunal Federal, verbis:
+
+Transferência de preso. Natureza. Tanto quanto possível, incumbe ao Estado adotar medidas preparatórias ao retorno do condenado ao convívio social. Os valores humanos fulminam os enfoques segregacionistas. A ordem jurídica em vigor consagra o direito do preso de ser transferido para local em que possua raízes, visando à indispensável assistência pelos familiares. Os óbices ao acolhimento do pleito devem ser inafastáveis e exsurgir ao primeiro exame, consideradas as precárias condições do sistema carcerário pátrio. Eficácia do disposto nos arts. 1º e 86 da LEP”. (HC 71.179, Min. Marco Aurélio).
+
+Ademais, no caso da Apac, é de ver que o apenado teria que atender a certos critérios definidos pelo juízo competente, o que ocorreu.
+
+Isto posto, defiro o pedido para a transferência do apenado para a APAC de Macau.
+
+P.R.I. Comunique-se à unidade prisional onde ele se encontra e à Coeap, voltando-me os autos conclusos quando efetivada a transferência.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Insanidade mental indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de incidente de insanidade mental do apenado acima identificado, tendo sido apresentado o competente laudo referente ao exame e dadas vistas dos autos ao Ministério Público e à defesa, que concordaram com suas conclusões.
+
+Relatados.
+
+Submetido o apenado a exame de insanidade mental, os peritos do ITEP responderam que o apenado é portador de doença mental (*), a qual, entretanto não compromete sua capacidade de entender o caráter da pena e de se determinar de acordo com esse entendimento.
+
+As partes nada opuseram ao laudo pericial.
+
+Em assim sendo, homologo, para que seus jurídicos e legais efeitos produza, o incidente de sanidade mental, bem como o respectivo laudo oferecido pelos peritos médico-legais, e indefiro o pedido de conversão da pena em medida de segurança.
+
+P.R.I. Aguarde-se novo incidente na execução penal.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Incompetência regime aberto
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução da pena em regime aberto, onde verificou-se que o apenado reside na Comarca de **.
+Interveio o Ministério Público, pugnando pela remessa dos autos.
+Relatados.
+Competente para a execução penal no regime aberto é o juízo do local onde reside o apenado.
+No caso, está o apenado reside na Comarca de **.
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal  em regime aberto de pessoa que reside em outra Comarca, determino a remessa dos autos para a Comarca de **.
+P.R.I. Cumpra-se.
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Indulto comutação indefere obj
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+O SEEU identificou o apenado como tendo atingido o requisito objetivo para concessão de indulto**comutação de pena, com base no Decreto nº **8.615/2015**9.246/2017**.
+
+Interveio o Ministério Público.
+
+Relatados.
+
+De logo verifico que quando da publicação do Decreto 8.615/2015**9.246/2017 o apenado cumpria pena de *** anos e ** meses de reclusão.
+
+Dispõe o referido diploma legal, no seu art. 2º, que “Concede-se a comutação da pena remanescente, aferida em 25 de dezembro de 2015, de um quarto, se não reincidentes, e de um quinto, se reincidentes, às pessoas condenadas a pena privativa de liberdade, não beneficiadas coma suspensão condicional da pena que, até a referida data, tenham cumprido um quarto da pena, se não reincidentes, ou um terço, se reincidentes, e não preencham os requisitos deste Decreto para receber o indulto.”
+
+ATENÇÃO: VER TEOR DO DISPOSITIVO NO DEC DE 2017
+
+** Aqui, como o apenado era primário à época do decreto, ele teria que ter cumprido 1/4 (um quarto) da pena, ou seja, **, o que não ocorreu.
+
+**Aqui, como o apenado à época do decreto era reincidente, ele teria que ter cumprido 1/3 (um terço) da pena, ou seja, **, o que não ocorreu.
+
+Registro, por oportuno, que não se pode confundir detração com indulto, pois são institutos completamente diferentes.
+
+A lição é da em. Ministra Maria Thereza de Assis Moura:
+
+O indulto é um ato de clemência do Poder Público, é um benefício concedido privativamente pelo Presidente da República, que consiste em uma espécie de graça coletiva.
+
+A concessão do indulto atinge a pena, e pode ser pleno ou parcial. Será pleno quando extinguir a pena por completo, resultando na extinção da punibilidade. E será parcial, também chamado de comutação, quando o afastamento da pena não se der por completo. No entanto, permanecem inalterados os demais efeitos penais e civis do crime.
+
+(...)
+
+Além disso, a concessão do indulto pressupõe a existência de uma sentença penal condenatória com trânsito em julgado.
+
+Uma vez transitada em julgado a sentença penal condenatória, ocorrerá o início da punibilidade, com a pretensão de execução da pena. Se, posteriormente, o Estado desistir de prosseguir na execução da pena, haverá, tão somente, uma interrupção do cumprimento, mas não uma inidoneidade ou desnecessidade da pena.
+
+Vale ressaltar que essa interrupção, no caso do indulto, é um ato de clemência do Estado, que só será reconhecido ao apenado após regular procedimento judicial.
+
+Dessa forma, até a prolação da decisão que extinguir a punibilidade do agente, a sua custódia será decorrente de uma prisão pena.
+
+A detração, por sua vez, é decorrência do princípio constitucional da não culpabilidade. A Constituição Federal estabelece que "ninguém será considerado culpado até o trânsito em julgado de sentença penal condenatória".
+
+Ocorre que, mesmo antes do trânsito em julgado, em algumas situações se faz necessária a constrição provisória do acusado. Essa, no entanto, é uma prisão cautelar. E, por vezes, ao final do julgamento, pode ocorrer a absolvição do agente, ou a prescrição da pretensão punitiva...
+
+Portanto, este instituto visa a impedir que o Estado abuse do poder-dever que tem de punir, impondo ao agente uma fração desnecessária da pena quando houver a perda da liberdade ou a internação em momento anterior à sentença condenatória.
+
+Em razão desses casos, para amenizar a situação do réu, o Código Penal regulamentou que:
+
+Art. 42 - Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior.
+
+Dessa forma, a detração é uma operação matemática em que se subtrai da pena privativa de liberdade (ou medida de segurança) aplicada ao réu ao final do processo, o tempo de prisão provisória, prisão administrativa ou internação em hospital de custódia e tratamento psiquiátrico que o sentenciado já cumpriu anteriormente.
+
+Em razão da equidade, admite-se a detração inclusive em processos que não guardem relação entre si, desde que a segregação indevida seja posterior ao crime em que se requer a incidência do instituto. Nestes casos, embora a prisão processual fosse necessária no momento em que foi realizada, ao final do julgamento do processo, a conduta do agente não resultou em uma punição efetiva. Dessa forma, é possível utilizar esse período para descontar a pena referente a crime praticado em data anterior.
+
+Conclui-se, portanto, que a detração é um instituto que pretende amenizar as consequências de uma custódia processual, abatendo-se da pena efetivamente aplicada, o período em que o réu esteve preso por meio de medida cautelar, seja em razão de prisão provisória, prisão administrativa ou internação em hospital de custódia e tratamento psiquiátrico.
+
+Dessa forma, o instituto da detração não pode tangenciar o benefício do indulto porque, enquanto o período compreendido entre a publicação do Decreto Presidencial e a decisão que reconhece o indulto, decretando-se a extinção da punibilidade do agente, refere-se à uma prisão pena, a detração somente se opera em relação à medida cautelar, o que impede a sua aplicação no referido período (REsp 1557408/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/02/2016, DJe 24/02/2016)
+
+No mesmo sentido é copiosa a jurisprudência do Superior Tribunal de Justiça, sendo exemplos os seguintes recentes julgados:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCESSÃO DE INDULTO. DECRETO N. 9.246/2017. REQUISITOS AUSENTES. PRISÃO CAUTELAR ANTERIOR À SENTENÇA. AGRAVO DESPROVIDO.  1. Para a concessão do indulto é necessário que a pessoa tenha ao menos iniciado o cumprimento da pena fixada por sentença condenatória, ainda que recorrível, no período compreendido pelo decreto presidencial que pretende o benefício.  2. Agravo Regimental desprovido. (AgRg no HC 530.998/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/05/2020, DJe 13/05/2020)
+
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INDULTO NATALINO. DECRETO PRESIDENCIAL N. 9.246/17. CONSIDERAÇÃO DO TEMPO DE PRISÃO CAUTELAR PASSÍVEL DE DETRAÇÃO PENAL. IMPOSSIBILIDADE. SEGREGAÇÕES COM NATUREZAS DISTINTAS. AGRAVO REGIMENTAL IMPROVIDO. 1. Conforme precedentes desta Corte Superior, o período ao qual o Decreto Presidencial se refere para fins de indulto é aquele corresponde à prisão pena, não se alinhando para o preenchimento do requisito objetivo aquele alusivo ao da detração penal, no qual se está diante de constrição por medida cautelar. 2. Agravo regimental improvido. (AgRg no REsp 1868254/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/08/2020, DJe 04/09/2020)
+
+HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO PRESIDENCIAL N. 9.246/17. CONSIDERAÇÃO DO TEMPO DE PRISÃO CAUTELAR PASSÍVEL DE DETRAÇÃO PENAL. IMPOSSIBILIDADE. SEGREGAÇÕES COM NATUREZAS DISTINTAS. HABEAS CORPUS DENEGADO. 1. Conforme precedentes desta Corte Superior, o período ao qual o Decreto Presidencial se refere para fins de indulto é aquele corresponde à prisão pena, não se alinhando para o preenchimento do requisito objetivo aquele alusivo ao da detração penal, no qual se está diante de constrição por medida cautelar. 2. Habeas corpus denegado. (HC 534.826/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+
+No caso, o apenado até (**data**) cumpria prisão cautelar, cuja detração não se equipara à prisão-pena, que foi cumprida, portanto, apenas por *** anos, *** meses e *** dias, período inferior ao requisito objetivo exigido pelo decreto de indulto.
+
+Isto posto, como o período utilizado para detração penal não corresponde à prisão pena para fins de indulto, tenho como não cumpridos os requisitos do decreto em referência e indefiro o benefício.
+
+P.R.I.  
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Exame antecipação indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de medida de segurança em que a UPCT sugeriu antecipação do exame de cessação de periculosidade.
+
+Relatados.
+
+De início observo que a UPCT não apresentou indicativos de cessação da periculosidade do inimputável, apenas registrando o tempo em que ele está recolhido, nele somado o período em que esteve cumprindo pena privativa de liberdade.
+
+Ora, a pena privativa de liberdade foi convertida em medida de segurança detentiva em (data) (evento **), após exame realizado em (data) daquele ano (ev. **), sendo fixada internação por no mínimo três anos.
+
+Em assim sendo, apenas no ano de ** será atingido o requisito objetivo para novoexame, descabendo no momento a reanálise pugnada pela UPCT, especialmente se não anotados indícios de cessação de periculosidade.
+
+Cientifique-se a unidade prisional.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo retificação GEP negando
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava a Defensoria Pública da decisão do evento ** que indeferiu pedido para alteração dos percentuais necessários para atingimento do requisito objetivo para progressão de regime.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme anotado na decisão agravada, o § 2º do art. 2º da Lei nº 8.072/90, que previa a progressão de regime no patamar de 3/5 aos condenados por crimes hediondos ou equiparados quando reincidentes, não utilizava o termo "reincidente específico", da mesma forma que a Lei nº 13.964/19 - que o revogou expressamente, concentrando os lapsos para progressão de regime no artigo 112 da Lei de Execução Penal -, não sendo possível inferir que tenha criado categorias diferenciadas de reincidência.
+
+Aliás, no que concerne a nova redação dada ao art. 112 da Lei de Execução Penal, pela Lei n. 13.964/2019 (Pacote Anticrime), recentemente se pronunciou o Ministro FELIX FISCHER, ao apreciar o HC n. 596.572/SP:
+
+A jurisprudência desta eg. Corte Superior de Justiça é firme ao declarar que a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas.
+Deve-se recordar que as execuções são unificadas para fins de cálculos penais como um todo, não importando sequer as naturezas diferenciadas dos delitos pelos quais houve a condenação.
+
+No presente caso, verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, de forma bem fundamentada, com a aplicação do atual art. 112, VII, da Lei de Execução Penal, que, tal qual a redação anterior, não faz qualquer diferenciação entre a reincidência específica ou não. Verbis:
+
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+
+[...] V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+
+[...] VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado [...]" (grifei)
+
+Nesse passo, inclusive, consolidou-se, há muito, neste eg. Tribunal, o entendimento no sentido de que a condição de reincidência, uma vez reconhecida, se estende ao cumprimento dos demais crimes, não precisando sequer ser específica.
+
+[...] Por fim, deve-se deixar expressamente consignado que, no caso em tela, não há falar nem em lei mais benéfica e nem em, de qualquer forma, prejudicial ao apenado, tendo em vista que o percentual de 60% (consagrado hoje pelo denominado "Pacote Anticrime") corresponde exatamente à anterior fração de 3/5. (HC n. 596.572/SP, DJe 13/8/2020).
+
+Isto posto, mantenho a decisão agravada, por seus próprios fundamentos
+
+*Intime-se a defesa para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Monitoramento envelopamento regressão definitiva
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Executando-se pena privativa de liberdade em regime semiaberto, foi concedida prisão domiciliar com monitoramento eletrônico, tendo a Seap/CEME informado que o equipamento estava sem comunicação desde *, não tendo o apenado atendido às tentativas de contato.
+
+De seu lado, informou-se que o sistema detectara "envelopamento" do equipamento, o que pressupõe algum tipo de material que interrompe a transmissão do sinal do GRPS.
+
+Oportunizado ao apenado justificar-se, confirmou ter “envelopado” o equipamento de monitoramento, alegando que o fizera porque ***.
+
+Adiante, opinou o Ministério Público pelo reconhecimento da falta grave, com regressão de regime, enquanto o defensor requereu ***.
+
+Relatados.
+
+Determina a Lei de Execução Penal, no art. 146-C, inciso I, que o condenado fiscalizado por meio da monitoração eletrônica tem o dever de "abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça", esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+
+Ora, ao bloquear intencionalmente o sinal emitido pela tornozeleira eletrônica, possibilitando a perda do sinal do GRPS pelo "envelopamento" (ou seja, encapada com papel alumínio ou outro com as mesmas características) e permitindo-lhe circular livremente por onde queira, longe da esfera de vigilância das autoridades competentes, o apenado violou e danificou o regular funcionamento do equipamento de monitoração, ainda que temporariamente, descumprindo, dessa forma, o dever de sua inviolabilidade, o que importa em falta grave.
+
+De seu lado, com essa conduta o apenado também  desobedeceu à ordem de manter o aparelho em funcionamento, o que novamente configura falta grave,  situação que incide na hipótese do art. 50, inciso VI, c.c. o art. 39, inciso V, ambos da Lei de Execução Penal - LEP, para a qual o art. 146-C, parágrafo único, inciso I, do mesmo diploma autoriza a regressão de regime.
+
+Neste sentido:
+
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. PRISÃO DOMICILIAR COM MONITORAÇÃO ELETRÔNICA. BLOQUEIO INTENCIONAL DE SINAL EMITIDO PELA TORNOZELEIRA ELETRÔNICA. DESCUMPRIMENTO DO DEVER DE INVIOLABILIDADE DO EQUIPAMENTO. ART. 146-C, II, DA LEI DE EXECUÇÃO PENAL. FALTA GRAVE CARACTERIZADA. ART. 50, VI, C/C O ART. 39, V, AMBOS DA LEI DE EXECUÇÃO PENAL. DESPROPORCIONALIDADE DA MEDIDA. INOCORRÊNCIA.
+ALTERAÇÃO DA DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. POSSIBILIDADE. SÚMULA 534/STJ. HABEAS CORPUS NÃO CONHECIDO.
+I - (...).
+II - Nos termos do art. 146-C, II, da Lei de Execução Penal, o apenado submetido ao monitoramento eletrônico tem que observar o dever de inviolabilidade do equipamento de monitoração, no caso a tornozeleira eletrônica, não podendo remover, violar, modificar ou danificar de qualquer forma o dispositivo de monitoração eletrônica, ou mesmo permitir que outrem o faça.
+III - Ao bloquear de maneira intencional o sinal emitido pela tornozeleira eletrônica, o paciente, de alguma forma, violou e danificou o regular funcionamento do equipamento de monitoração, ainda que temporariamente, descumprindo, pois, o dever de inviolabilidade do equipamento eletrônico, do qual já havia sido previamente informado.
+IV - Por conseguinte, o paciente também desrespeitou a ordem recebida para não violar o equipamento de monitoração, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da Lei de Execução Penal. (...). (STJ, HC 400.495/RS, Rel. Min. FELIX FISCHER, 5ª TURMA, j.em 14/09/2017) - transcrição parcial.
+
+Finalmente, observo que, nos termos do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar fato definido como falta grave.
+
+Isto posto, torno definitiva a regressão do regime prisional para fechado, bem como considero perdido um terço**quinto (dada a confissão) do tempo já remido e o que viesse a ser remido até a data da falta disciplinar.
+
+Atualize-se a GEP e comunique-se à unidade prisional, remetendo-se cópia da presente decisão, que valerá como ofício.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação percentuais lei 13964 negando NÃO UTILIZAR
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Requereu a defesa retificação da GEP, fazendo constar como requisito para progressão de regime os percentuais previstos na nova redação do art. 112, já que não se trata de reincidência específica em crime hediondo.
+
+Interveio o Ministério Público, opinando favoravelmente. **contrariamente, pois ****.
+
+Relatados.
+
+Sem razão o apenado.
+
+O § 2º do art. 2º da Lei nº 8.072/90, que previa a progressão de regime no patamar de 3/5 aos condenados por crimes hediondos ou equiparados quando reincidentes, não utilizava  o termo "reincidente específico", da mesma forma que a Lei   nº 13.964/19  -  que o revogou expressamente, concentrando os lapsos para progressão de regime no artigo 112 da Lei de Execução Penal -,  não sendo possível inferir que tenha criado categorias diferenciadas de reincidência
+
+Cabe destacar que o Superior Tribunal de Justiça firmou o entendimento no sentido de que, para fins de progressão de regime, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5, pois não deve haver distinção entre se condenações anteriores, se o foram por crime comum ou por delito hediondo (AgRg no HC n. 494.404/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 20/5/2019).
+
+A Quinta Turma daquela Colenda Corte decidiu recentemente, à unanimidade:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.  EXECUÇÃO PENAL DEFINITIVA. PROGRESSÃO DE REGIME PRISIONAL. REINCIDÊNCIA. CRIME HEDIONDO. PACOTE ANTICRIME (LEI N. 13.964/2019). APLICAÇÃO DE 60% (SESSENTA POR CENTO) DO CUMPRIMENTO DA PENA PARA CONCESSÃO DA BENESSE. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. AGRAVO REGIMENTAL DESPROVIDO. 1. A decisão agravada deve ser mantida por seus próprios fundamentos. 2. O entendimento delineado pelo Tribunal de origem encontra-se alinhado ao desta Corte Superior no sentido de que a Lei dos Crimes Hediondos não faz distinção entre a reincidência comum ou específica ao determinar a fração de 3/5 (três quintos) como lapso temporal para a progressão de regime, e que, consistindo a reincidência em condição pessoal, uma vez reconhecida, influi sobre o requisito objetivo dos benefícios da execução em relação a todas as condenações. Importa acrescer que, não há falar nem em lei mais benéfica, e nem em de qualquer forma prejudicial ao apenado, tendo em vista que o percentual de 60% (consagrado hoje pelo denominado ?Pacote Anticrime?), corresponde exatamente à anterior fração de 3/5. Precedentes. 3. Agravo regimental desprovido. (AgRg no HC 608.770/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/11/2020, DJe 20/11/2020)
+
+No mesmo sentido vê em decisão monocrática:
+
+ “É certo que a Lei de Crimes Hediondos (8.072/90), alterada pela Lei nº 11.464/2007, também não fazia distinção entre os reincidentes comuns ou específicos. A progressão de regime dependia do cumprimento de 2/5 (dois quintos) da pena, se primário, ou 3/5 (três quintos) se reincidente. Com a edição da Lei 13.964/2019, estas frações foram equiparadas a 40% (quarenta por cento) e 60% (sessenta por cento).
+Estamos, pois, convictos de que nada mudou. A nova redação do art. 112 da lei 7.210/84 não faz alusão aos crimes praticados anteriormente, só impõe tratamento mais gravoso ao agente reincidente, que comete crime considerado hediondo ou equiparado.
+Nesses termos, é de se convir, não se há falar em novo status ou nova situação de direito material.” (HC 594350, Rel Min. Felix Fischer, 17.8.20)
+
+De seu lado, é inaceitável o que pede a defesa no sentido de aplicar-se ao reincidente o mesmo prazo para progressão de regime previsto aos apenados primários, sob pena de equiparar o sentenciado sem mácula em sua vida pregressa ao criminoso contumaz,  raciocínio que, como bem lembra o em. Ministro Nefi Cordeiro, é manifestamente contrário à proposta da Lei Anticrime (HC 585708, Min Nefi Cordeiro, 13.8.20).
+
+Ademais, quando o legislador se refere exclusivamente aos reincidentes específicos usa expressamente esta palavra, como se verifica no inciso VII art. 72 da Lei de Execução Penal: "VII - acompanhar a execução da pena das mulheres beneficiadas pela progressão especial de que trata o § 3º do art. 112 desta Lei, monitorando sua integração social e a ocorrência de reincidência, específica ou não, mediante a realização de avaliações periódicas e de estatísticas criminais." (Min Nefi Cordeiro, na mesma decisão acima referida).
+
+Ora, parece clara a intenção do legislador da Lei Anticrimes de exigir maior tempo de cumprimento de pena do reincidente, não sendo cabível que conferisse tratamento mais brando a aquele que praticara ao menos um crime hediondo.
+
+Dito de outro forma, entendo que ao revogar expressamente o art. 2º, § 2º, da Lei 8.072/90, o legislador buscou regulamentar toda a matéria ali tratada, apenas transformando em porcentagem o que antes era representado por fração, no mais conferindo tratamento menos brando aos reincidentes em crimes violentos ou praticado com grave ameaça.
+
+Isto posto, não extraindo da lei nº 13.964/2019 a interpretação buscada pela defesa, indefiro o pedido do evento ***.
+
+P.R.I.   
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação data-base crime anterior
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Tratam os autos de execução de pena em que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição, por entender que a data-base para as progressões deveria ser a do trânsito em julgado da última condenação, calculando-se o requisito objetivo sobre o saldo da pena, e não a última falta grave ou da última conduta delituosa, como atualmente lançado.
+
+A defesa, de seu lado, sustentou a manutenção da GEP.
+
+Relatados.
+
+A Terceira Seção do Superior Tribunal de Justiça, competente para unificar a jurisprudência criminal, firmou entendimento de que "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+
+O Supremo Tribunal Federal, porém, por praticamente todos os seus ministros, julgando Recursos Extradordinários face a tal entendimento, sustentou antiga jurisprudência da Corte para reconhecer a data do trânsito em julgado da última condenação do réu como data-base para a concessão de benefícios durante a execução penal ( RE 1215997, que faz referência a grande número de outros julgados).
+
+Entretanto, o caso em julgamento mostra excepcionalidade que deve ser observada.
+
+É que o último processo julgado é cronologicamente mais antigo, decorrendo a demora no seu julgamento não de ato do apenado, mas da morosidade judicial, pelo que aquele não pode ser por isso prejudicado.
+
+Isto posto, por não encontrar respaldo legal para entender que a data-base para concessão de novos benefícios executórios deva ser a do julgamento do último processo, quando o apenado não foi responsável pela demora no julgamento, mando retificar a guia de execução penal, mantenho como data-base para a próxima progressão de regime aquela que já se encontra lançada no quadro de evento.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação regime indefere
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena de XX anos de reclusão em regime fechado por prática de crime previsto no art. *** do Código Penal, em que o apenado requereu a modificação do regime inicial de cumprimento da pena, levando em conta o quantum da pena fixado na sentença condenatória para adequar a sua situação processual a consubstanciada no art. 33, § 2º, "b", do Código Penal.
+
+Interveio o Ministério Público, opinando contrariamente.
+
+Relatados.
+
+Verifico  dos autos que, embora a pena privativa de liberdade não exceda a oito anos de reclusão, mostra-se justificada a fixação do modo inicialmente fechado, nos termos do art. 33, § 2º, alínea "a", e § 3º, do Código Penal, haja vista a desfavorabilidade de circunstâncias judiciais que impedem seja estabelecido regime menos gravoso para cumprimento da reprimenda.
+
+Neste sentido é o entendimento do STJ:
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. (...). REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. (...) 3. A presença de circunstância judicial desfavorável e o quantum da pena superior a 4 anos justificam a fixação do regime inicial fechado, nos termos do art. 33 c/c o art. 59, ambos do Código Penal (AgRg no HC n. 525.512/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/9/2019). 4. Agravo regimental improvido. (AgRg no HC 556.858/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020).
+
+AGRAVO REGIMENTAL EM HABEAS CORPUS. (...). REGIME PRISIONAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. POSSIBILIDADE. PRECEDENTES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. (...). 3. A presença de circunstância judicial desfavorável e o quantum da pena superior a 4 anos justificam a fixação do regime inicial fechado, nos termos do art. 33 c/c o art. 59, ambos do Código Penal (AgRg no HC n. 525.512/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 17/9/2019). 4. Agravo regimental improvido. (AgRg no HC 556.858/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020).
+
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. (...).  REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. QUANTUM DE PENA APLICADO. ESTABELECIMENTO DO MODO MAIS GRAVOSO JUSTIFICADO. AGRAVO REGIMENTAL DESPROVIDO. (...). VII - Regime inicial fechado. A jurisprudência do STJ é iterativa no sentido de que, ainda que o condenado seja primário e o quantum de pena aplicada seja superior a 04 (quatro) anos e não exceda a 08 (oito) anos, justifica-se o regime inicial fechado, quando presente circunstâncias judiciais desfavoráveis. Desta feita, a despeito da menção ao art. 2º, § 1º, da Lei n. 8.072/1990, observa-se que a pena-base não foi fixada no mínimo legal e o quantum de pena aplicado - 5 (cinco) anos, 6 (seis) meses e 20 (vinte) dias de reclusão - são circunstâncias que autorizam a fixação do regime inicial fechado, conforme iterativa jurisprudência do STJ. Agravo regimental desprovido. (AgRg no HC 536.985/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020).
+
+Noutro pórtico, conquanto seja da competência do juiz da execução aplicar aos casos julgados a lei posterior que de qualquer modo favorecer o condenado, nos termos do art. 66, I, da Lei de Execução Penal, in casu, a modificação do regime inicial de cumprimento da pena, sem observar as circunstancias judiciais para sua concessão, constitui afronta à coisa julgada.
+
+Nesse sentido, o julgado do STJ:
+
+PROCESSUAL PENAL. HABEAS CORPUS. ESTUPRO. CUMPRIMENTO DA PENA NO REGIME INICIAL FECHADO. PEDIDO DE PROGRESSÃO DEFERIDO PELO JUÍZO DA EXECUÇÃO. REFORMA DA DECISÃO PELO TRIBUNAL A QUO EM SEDE DE AGRAVO POR AUSÊNCIA DOS REQUISITOS SUBJETIVOS. CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA. 1. Fixado na sentença o regime inicial fechado para cumprimento de pena privativa de liberdade pela prática de crime hediondo, e mantido pelo Tribunal a quo por ausência de recurso da acusação, não cabe modificação durante a execução criminal sob pena de violação à coisa julgada. 2. A reforma pelo Tribunal a quo, em sede de agravo, da decisão proferida pelo Juízo das Execuções, que defere pedido de progressão, por entender ausente requisito subjetivo, não maltrata a coisa julgada. 3. Não há falar em constrangimento ilegal quando mantido na fase da execução criminal o regime inicial fechado fixado na sentença transitada em julgado. 4. Ordem denegada. (46202 SP 2005/0122586-2, Relator: Ministro ARNALDO ESTEVES LIMA, Data de Julgamento: 06/02/2006, T5 - QUINTA TURMA, Data de Publicação: DJ 24.04.2006 p. 425)
+
+Isto posto, indefiro o pedido da defesa.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Agravo competência mantendo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o Ministério Público da decisão do evento ** que manteve a competência do juízo para o feito.
+
+Intimada, a contrarrazoou pugnando pela reforma da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, como esclarecido na decisão recorrida, inexiste no juízo para onde pretende seja remetido o PEC estrutura de secretaria judiciária e unidade prisional que possibilite o adequado acompanhamento da execução da pena.
+
+Ademais, há alguns foi acordado pelo COPEP (Colégio dos Juízes de Execução Penal), com interveniência da Corregedoria de Justiça, que este juízo ficaria responsável pela execução penal que fosse cumprido em regime semiaberto nas Comarcas da Grande Natal, já que dispunha de estrutura adequada para isso, ao contrário das demais comarcas que integram essa região.
+
+Em assim sendo, por seus próprios fundamentos,  mantenho a decisão que não reconheceu a incompetência deste juízo para o feito.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau. l..
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação lei 13964 primário comum e VGA
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de PEC com penas unificadas, em que verificadas condenações de apenado primário, por crimes não hediondos, mas um deles cometidos com violência à pessoa ou grave ameaça, sendo necessário verificar se cabível alteração do requisito objetivo para progressão de regime.
+
+Acrescento ao relatório que a defesa*Ministério Público requereu a retificação da GEP.
+
+Relatados.
+
+Dispõe o art. 112, inc. I, da LEP, com redação imposta pela lei 13964/2019, que a pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o apenado, primário, tiver cumprido ao menos 16% (dezesseis por cento) da pena por crime cometido sem violência à pessoa ou grave ameaça e 25% (vinte e cinco por cento) da pena em se tratando de crime praticado naquelas circunstâncias.
+
+No caso, o apenado, sendo primário quando de ambas as condutas, praticou um crime com e outro sem violência à pessoa ou grave ameaça.
+
+Como os delitos foram praticados antes da Lei 13964/2019, esta só se lhe aplica se mais favorável integralmente que a situação anterior, conforme entendimento sustentando pelo Superior Tribunal de Justiça quando da expedição da Súmula 501, a qual veda a combinação de leis.
+
+**
+
+Ora, 1/6 (um sexto) da pena unificada resulta em quantum inferior a 16% da pena pelo crime de *** mais 25% da pena imposta pelo crime de ***.
+
+Isto posto, sendo a nova situação prejudicial ao apenado, mantenho a GEP com os cálculos atuais.
+
+**
+
+Ora, 1/6 (um sexto) da pena unificada resulta em quantum superior a 16% da pena pelo crime de *** mais 25% da pena imposta pelo crime de ***.
+
+Isto posto, mando corrigir a guia de execução penal, fixando como requisitos objetivos para a progressão de regime o percentual  de 25% de cumprimento da pena pelo crime praticado com violência ou grave ameaça, e 16% da pena dos demais delitos anotados.
+
+P.R.I. 
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Retificação lei 13964 primário crime comum
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+*Trata-se de PEC em que verificada condenação por crime não hediondos, cometido sem violência à pessoa ou grave ameaça, ao que impõe-se a  alteração no percentual exigido como requisito objetivo para progressão de regime.
+
+*Trata-se de PEC em que verificadas condenações por crimes não hediondos, cometidos sem violência à pessoa ou grave ameaça, com apenado primário em todas elas, ao que impõe-se a  alteração no percentual exigido como requisito objetivo para progressão de regime.
+
+Relatados.
+
+Dispõe o art. 112, inc. I, da LEP, com redação imposta pela lei 13964/2019, que a pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça.
+
+É o caso
+
+Isto posto, mando corrigir a guia de execução penal, fixando como requisito objetivo para a progressão de regime o percentual  de 16% de cumprimento da pena.
+
+P.R.I.   
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	remição insuficiente
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de PEC que vieram conclusos para examinar possível remição por estudo, em razão do apenado ter concluído curso de ***.
+Interveio o Ministério Público, opinando pelo indeferimento em razão do curso, de X horas, ter-se realizado em apenas um dia.
+Decido.
+Com razão o parecer, pois, conforme dispõe o art. 126, § 1º, I, da Lei 7.210, a remição da pena por estudo se dará à razão de um dia de pena a cada doze horas de estudo, divididas, no mínimo, em três dias.
+No caso, porém, todo o curso decorreu em apenas um dia.
+Entretanto, os esforços do apenado devem ser aproveitados, o que poderá ocorrer posteriormente, quando nova carga horária de estudo for acrescentada.
+Isto posto, suspendo a análise do benefício até que sobrevenha nova informação horas de estudo do apenado.
+P.R.I.
+$juizo.getCidade(), $data.getDataPorExtenso()
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação data-base progressão
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+*Trata-se de execução de pena privativa de liberdade, atualmente em regime semiaberto, no que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição quanto a data-base para alcance da progressão ao regime aberto, requerendo que fosse aquele em que alcançado o requisito objetivo para a progressão anterior: *** (evento **).
+
+*Trata-se de execução de pena privativa de liberdade em que se verifica erro no lançamento da data-base para alcance da progressão ao regime aberto.
+
+Relatados.
+
+Com razão o parecer ministerial, pois, conforme entendimento do Supremo Tribunal Federal, a  data-base para a progressão do regime semiaberto para o aberto deve ser aquela em que o apenado atingiu o requisito objetivo para a progressão anterior, verbis:
+
+Habeas Corpus. 2. Execução Penal. Progressão de regime. Data-base. 3. (...) 4. Na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. 5. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. 6. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta. 7. Constrangimento ilegal reconhecido, ordem concedida. (HC 115254, Rel:  Min. GILMAR MENDES, Segunda Turma, julgado em 15/12/2015).
+
+A data-base para a progressão do regime semiaberto para o aberto deve ser aquela em que o apenado atingiu os requisitos para a progressão anterior. No caso, a progressão fora indeferida em ** em razão do apenado não ter atingido o requisito subjetivo, pelo que, inclusive em seu benefício, essa deve ser anotada como data-base para a futura progressão, e não aquela em que esse foi realmente deferido ou qualquer outra.
+
+*Isto posto, mando retificar a guia de execução penal, fazendo constar a data em que alcançados os requisitos para a progressão anterior como base para progressão ao regime aberto, no caso, **, data em que foi indeferido requerimento anterior por falta de requisito subjetivo.
+
+*Isto posto, defiro o requerimento do ministério Público, mandando retificar a guia de execução penal, fazendo constar a data em que alcançado o requisito objetivo para a progressão anterior como base para progressão ao regime aberto, no caso ***.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Agravo domiciliar mantendo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava ** da decisão do evento ** que negou-lhe a prisão domiciliar.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, como esclarecido na decisão recorrida, o sistema prisional adotou providências para evitar a contaminação dos presos, tendo inclusive suspendido a entrada de visitas nos presídios, não se anotando, ao menos até o presente momento, um só caso de coronavírus entre a população carcerária.
+
+Aliás,  o Conselho Regional de Medicina do Rio Grande do Norte, ao responder ao Processo-Consulta CREMERN nº 04/2020, oferecendo o Parecer CREMERN nº 03/2020, deixou expresso:
+...entendemos que a identificação pela administração penitenciária dos custodiados em grupo de risco, o seu monitoramento e isolamento dos demais presos nos casos indicados, em consonância com a portaria interministerial supracitada, como também as medidas elencadas na Nota Técnica 10/2020 da Secretaria de Saúde do Rio Grande do Norte, desde que estritamente observadas, são adequadas e suficientes para o enfrentamento da pandemia do coronavírus nas unidades prisionais, bem como para a preservação da saúde das pessoas privadas de liberdade.
+
+Cabe registrar, ainda, o que deixaram anotado o então Ministro da Justiça e Segurança Pública, Dr. Sérgio Moro, e Fabiano Bordignon é diretor-geral do Departamento Penitenciário Nacional, em artigo publicado no "sítio" do DEPEN:
+
+Não há nos normativos publicados pelo governo uma recomendação de concessão de regime domiciliar de forma generalizada para presos. Tais situações devem ser consideradas com muito cuidado, pois podem impactar na segurança pública e inclusive nos sistemas de saúde. Há muitos casos de presos que já não possuem mais uma família para voltar e, para os que possuem doenças como tuberculose, a saída pode representar suspensão de tratamento e contágios familiares graves.
+
+Finalmente,  vale a pena recordar as ponderações do eminente Ministro Rogério Schietti: "... a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal (STJ - HC n. 567.408/RJ).
+
+Em assim sendo, por seus próprios fundamentos, acrescido das razões ministeriais, mantenho a decisão que indeferiu a prisão domiciliar ao agravante.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo domiciliar mantendo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava ** da decisão do evento ** que negou-lhe a prisão domiciliar.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, como esclarecido na decisão recorrida, o sistema prisional adotou providências para evitar a contaminação dos presos, tendo inclusive suspendido a entrada de visitas nos presídios, não se anotando, ao menos até o presente momento, um só caso de coronavírus entre a população carcerária.
+
+Aliás,  o Conselho Regional de Medicina do Rio Grande do Norte, ao responder ao Processo-Consulta CREMERN nº 04/2020, oferecendo o Parecer CREMERN nº 03/2020, deixou expresso:
+...entendemos que a identificação pela administração penitenciária dos custodiados em grupo de risco, o seu monitoramento e isolamento dos demais presos nos casos indicados, em consonância com a portaria interministerial supracitada, como também as medidas elencadas na Nota Técnica 10/2020 da Secretaria de Saúde do Rio Grande do Norte, desde que estritamente observadas, são adequadas e suficientes para o enfrentamento da pandemia do coronavírus nas unidades prisionais, bem como para a preservação da saúde das pessoas privadas de liberdade.
+
+Cabe registrar, ainda, o que deixaram anotado o então Ministro da Justiça e Segurança Pública, Dr. Sérgio Moro, e Fabiano Bordignon é diretor-geral do Departamento Penitenciário Nacional, em artigo publicado no "sítio" do DEPEN:
+
+Não há nos normativos publicados pelo governo uma recomendação de concessão de regime domiciliar de forma generalizada para presos. Tais situações devem ser consideradas com muito cuidado, pois podem impactar na segurança pública e inclusive nos sistemas de saúde. Há muitos casos de presos que já não possuem mais uma família para voltar e, para os que possuem doenças como tuberculose, a saída pode representar suspensão de tratamento e contágios familiares graves.
+
+Em assim sendo, por seus próprios fundamentos, acrescido das razões ministeriais, mantenho a decisão que indeferiu a prisão domiciliar ao agravante.
+
+*Intime-se o agravante a indicar as peças dos autos cujas cópias deseja que acompanhe o recurso, providenciando a secretaria sua juntada e formando-se o instrumento, que deve subir para a egrégia Câmara Criminal.
+
+*Forme-se o instrumento, que deve subir para a egrégia Câmara Criminal.
+
+Intime-se a defesa para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau. .
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  
+ 	   
+  
+  
+  
+ 	   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 	   
+  
+  
+  
+ 	   
+  
+ 	   
+     
+  

@@ -1,0 +1,1255 @@
+Modelo de Documento
+
+Descrição:	agravo base trânsito
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava a Defensoria Pública da decisão do evento ** que fixou como data-base, para progressão de regime, a do último trânsito em julgado das condenações do apenado.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme iterativa jurisprudência do Supremo Tribunal Federal, que modificou o entendimento sustentado pela 3ª Seção do STJ, a data-base para progressão, no caso de apenados com mais de uma condenação, deve ser a do último trânsito em julgado.
+
+Isto posto, mantenho a decisão agravada, por seus próprios fundamentos.
+
+*Intime-se o agravante a indicar as peças dos autos cujas cópias deseja que acompanhe o recurso, providenciando a secretaria sua juntada e formando-se o instrumento, que deve subir para a egrégia Câmara Criminal.
+
+*Intime-se a defesa para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	incompetência monitorado
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução da pena em em regime semiaberto, com apenado monitorado eletronicamente e que reside na Comarca de **, cujo juízo concordou com a remessa dos autos..
+Interveio o Ministério Público.
+Relatados.
+Competente para a execução de pena em regime semiaberto, com apenado monitorado, é o juízo do local onde ele reside, se houve a devida concordância com a remessa dos autos.
+É o caso.
+Isto posto, tenho por incompetente este juízo para continuar a presidir o processo e  determino a remessa dos autos para a Comarca de **.
+P.R.I. Cumpra-se.
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Remição aprovação ENEM e SiSU
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, em regime semiaberto**fechado, em que o apenado, amparado na previsão do art. 126 da Lei 12.433/2011 e na Resolução nº 391/2021, do CNJ, requereu remição pelo estudo, em razão de ter realizado o ENEM no ano de ** (evento **).
+
+Juntou-se Histórico Escolar do Ensino médio, comprovando que o executado o concluiu em ** (evento **).
+
+Opinou o Ministério Público pela parcial procedência, para que fossem remidos 50 dias (evento **).
+
+Verifica-se que o apenado juntou comprovação da aprovação para curso superior através do ENEM e SiSU (evento ).
+
+Por derradeiro, tem-se que o apenado foi preso em ***, de acordo o quadro de eventos.
+
+Relatados.
+
+O Exame Nacional do Ensino Médio (ENEM) é uma prova realizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), autarquia vinculada ao Ministério da Educação do Brasil para avaliar a qualidade do ensino médio no país.
+
+O seu resultado serve para acesso ao ensino superior em universidades públicas brasileiras, através do Sistema de Seleção Unificada (SiSU), assim como em algumas universidades no exterior ou particulares.
+
+Além disso, o exame passou a servir também como certificação de conclusão do ensino médio em cursos de Educação de Jovens e Adultos (EJA), antigo supletivo, substituindo o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja).
+
+Para obter êxito no ENEM o estudante tem que alcançar pontuação exigida para cada curso de nível superior a partir da média das notas dos participantes, tendo cada curso superior uma média de corte, que à evidência irá depender dos concorrentes.
+
+Assim, para saber se um participante do ENEM foi aprovado verifica-se se atingiu a média para ingressar no curso de nível superior que deseja, fazendo depois sua inscrição através do SiSU.
+
+D’outro lado, o exame passou a servir como certificação de conclusão do ensino médio (EJA/Encceja), tendo o mesmo critério de idade (mínima de 18 anos) e exigência do participante obter nota superior a 450 (quatrocentos e cinquenta) pontos em cada uma das áreas de conhecimento e 500 (quinhentos) pontos na redação.
+
+Dispõe a Recomendação nº 391/2021 do CNJ, em seu art. 3º, Parágrafo único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Com ser assim, a resolução supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO no Exame Nacional do Ensino Médio, e não apenas por tê-lo prestado.
+
+No caso, a documentação acostada pela defesa comprova que o apenado prestou o exame do ENEM durante o cumprimento de sua pena, bem como obteve aprovação em curso de ensino superior, critério expressamente exigido pela Resolução CNJ nº 391/2021, por meio do SiSU.
+
+Outrossim, relativamente à base de cálculo, observa-se que ao mencionar a carga horária de 1.600 (mil e seiscentas) horas para o ensino fundamental, e 1.200 (mil e duzentas) horas para o ensino médio, a Resolução nº 391/2021 do CNJ já faz referência ao percentual de 50% da carga horária definida pela Resolução nº 03/2010 do Conselho Nacional de Educação, cujo art. 4º, II e III estabelece que a duração mínima dos cursos presenciais de EJA para os anos finais do Ensino Fundamental deve ser de 1.600 (mil e seiscentas) horas e do Ensino Médio deve ser de 1.200 (mil e duzentas) horas.
+
+A jurisprudência do Superior Tribunal de Justiça era oscilante acerca da base de cálculos para a remição nesses casos, algumas vezes que deveria ser calculada sobre 1600 horas e em outras sobre a metade delas. No dia 10 de março de 2021, porém, a Terceira Seção daquela Corte definiu a interpretação correta, firmando tese no HC 602.425-SC, que foi publicada como sendo o seguinte tema: Execução Penal. Remição da pena pelo estudo. Aprovação no Exame Nacional para Certificação de Competência de Jovens e Adultos - ENCCEJA. Recomendação n. 44/2013 do CNJ. Interpretação mais benéfica. Cálculo dos 50% da Carga Horária. Patamar equivalente a 1.600 horas. Remição de 133 dias. 26 dias por área de conhecimento. Reafirmação da jurisprudência da Terceira Seção.
+
+Dito de outra forma, entendeu a Terceira Seção do STJ que as 1.200 hs ou 1.600 hs, dispostas na Recomendação n. 44/2013 do CNJ, já equivalem aos 50% da carga horária definida legalmente para cada nível de ensino, com base nas quais serão calculados os dias a serem remidos. De mesmo modo, aplica-se tal entendimento ao disposto na Resolução nº 391/2021 do CNJ, por ter mantido seu posicionamento acerca da base de cálculo.
+
+Assim, temos que a base de cálculo para remição pela aprovação no ENEM é de 1200 (mil e duzentas) horas.
+
+Consoante o art. 126, da LEP, a contagem do prazo se dará à razão de um dia de pena a cada 12 horas de frequência escolar, divididas, no mínimo, em três dias da atividade. Portanto, em tendo sido o apenado aprovado em todas as áreas de conhecimento do ENEM e considerando-se a carga horária de 1200h, divide-se esse total por 12, alcançando-se 100 (cem) dias de remição.
+
+Isto posto, defiro o pedido de remição do evento **, declarando remidos 100 (cem) dias da pena em execução.
+
+P.R.I. Atualize-se o Atestado de Penas.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Remição ENEM sem SiSU indefere
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, em regime semiaberto**fechado, em que o apenado, dizendo-se amparado na previsão do art. 126 da Lei 12.433/2011 e na Recomendação nº 391/2021, do CNJ, requereu remição pelo estudo, em razão de ter realizado o ENEM no ano de *** (evento **).
+
+Juntou-se Histórico Escolar do Ensino médio, comprovando que o executado o concluiu em ** (evento **).
+
+Verifica-se que o apenado não juntou comprovação da aprovação para algum curso superior através do ENEM, pois a documentação colacionada somente comprova que prestou o exame durante o cumprimento de sua pena.
+
+Opinou o Ministério Público pela parcial procedência, para que fossem remidos 50 dias (evento **).
+
+Por derradeiro, tem-se que o apenado foi preso em 2002, de acordo o quadro de eventos.
+
+Relatados.
+
+O Exame Nacional do Ensino Médio (ENEM) é uma prova realizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), autarquia vinculada ao Ministério da Educação do Brasil para avaliar a qualidade do ensino médio no país.
+
+O seu resultado serve para acesso ao ensino superior em universidades públicas brasileiras, através do Sistema de Seleção Unificada (SiSU), assim como em algumas universidades no exterior ou particulares.
+
+Além disso, o exame passou a servir também como certificação de conclusão do ensino médio em cursos de Educação de Jovens e Adultos (EJA), antigo supletivo, substituindo o Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja).
+
+Para obter êxito no ENEM o estudante tem que alcançar pontuação exigida para cada curso de nível superior a partir da média das notas dos participantes, tendo cada curso superior uma média de corte, que à evidência irá depender dos concorrentes.
+
+Assim, para saber se um participante do ENEM foi aprovado, verifica-se se atingiu a média para ingressar no curso de nível superior que deseja, fazendo depois sua inscrição através do SiSU.
+
+D’outro lado, o exame passou a servir como certificação de conclusão do ensino médio (EJA/Encceja), tendo o mesmo critério de idade (mínima de 18 anos) e exigência do participante obter nota superior a 450 (quatrocentos e cinquenta) pontos em cada uma das áreas de conhecimento e 500 (quinhentos) pontos na redação.
+
+Dispõe a Recomendação nº 391/2021 do CNJ, em seu art. 3º, Parágrafo Único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Desse modo, a recomendação supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO no Exame Nacional do Ensino Médio, e não apenas por tê-lo prestado.
+
+No caso, a documentação acostada pela defesa somente comprova que o apenado prestou o exame do ENEM durante o cumprimento de sua pena, em ***, contudo sem comprovar a aprovação, critério expressamente exigido pela resolução CNJ nº 391/2021.
+
+É cediço que para o candidato ser aprovado deverá atingir determinada nota exigida para cada curso.
+
+Aqui, as notas obtidas pelo apenado não necessariamente podem ter sido suficientes para ingressar em algum curso superior.
+
+N'outro flanco, a lista de aprovados, contendo a nota e a situação (aprovada ou suplente) é divulgada pelo Sistema de Seleção Unificada – SISU, de modo que poderia o apenado a ele ter acesso, inclusive através de familiares, defesa ou direção da unidade prisional.
+
+***Por fim, esclareço que ainda que tivesse sido aprovado em algum curso de ensino superior não teria ele direito ao acréscimo previsto no § 5º do art. 126 da LEP.
+
+É que o § 5º vaticina que o tempo a remir em função das horas de estudo será acrescido de um terço no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação.
+
+No caso, o executado não concluiu ensino fundamental, médio no curso do cumprimento da pena, não importando que tenha prestado o ENEM no seu decorrer.
+
+Como consta no ev. **, o apenado concluiu o ensino médio em **, antes de ser preso em **, ou seja, ele já tinha nível médio completo antes do início do cumprimento da reprimenda.
+
+Isto posto, indefiro o pedido de remição do ev. **.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Remição aprovação ENCCEJA
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena privativa de liberdade, em regime semiaberto/fechado, em que o apenado requereu remição pelo estudo, amparado na previsão do art. 126 da Lei 12.433/2011 e na Recomendação nº 44/2013, do CNJ, em razão de ter concluído o Ensino Fundamental por meio do ENCCEJA no ano de ***, (evento **).
+
+Foram juntados, por meio de ofício do CPJC** da Cadeia Pública de Ceará Mirim** da Penitenciária Estadual **, o Certificado de Conclusão do Ensino Médio pelo ENCCEJA e o respectivo Histórico do Ensino Fundamental (evento ).
+
+Opinou o Ministério Público pela parcial procedência, para que fossem remidos ** dias (evento **).
+
+*Por derradeiro, tem-se que o apenado foi preso em ***, de acordo o quadro de eventos.
+
+Relatados.
+
+O Exame Nacional de Educação para Jovens e Adultos (ENCCEJA) é uma prova realizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), autarquia vinculada ao Ministério da Educação do Brasil para buscar a certificação de conclusão no ensino fundamental ou médio.
+
+Dispõe a Resolução nº 391/2021 do CNJ, em seu art. 3º, Parágrafo Único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada  como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600  (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do  Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Desse modo, a recomendação supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO em exames nacionais.
+
+No caso, a documentação comprova que o apenado fora aprovado no ENCCEJA, a fim de certificar a conclusão do Ensino Fundamental durante o cumprimento da pena, em ***, critério expressamente exigido pela Resolução CNJ nº 391/2021.
+
+Outrossim, relativamente à base de cálculo, observa-se que ao mencionar a carga horária de 1.600 (mil e seiscentas) horas para o ensino fundamental, e 1.200 (mil e duzentas) horas para o ensino médio, a Resolução nº 391/2021 do CNJ já faz referência ao percentual de 50% da carga horária definida pela Resolução nº 03/2010 do Conselho Nacional de Educação, cujo art. 4º, II e III estabelece que a duração mínima dos cursos presenciais de EJA para os anos finais do Ensino Fundamental deve ser de 1.600 (mil e seiscentas) horas e do Ensino Médio deve ser de 1.200 (mil e duzentas) horas.
+
+A jurisprudência do Superior Tribunal de Justiça era oscilante acerca da base de cálculos para a remição nesses casos, algumas vezes que deveria ser calculada sobre 1600 horas e em outras sobre a metade delas. No dia 10 de março de 2021, porém, a Terceira Seção daquela Corte definiu a interpretação correta, firmando tese no HC 602.425-SC, que foi publicada como sendo o seguinte tema: Execução Penal. Remição da pena pelo estudo. Aprovação no Exame Nacional para Certificação de Competência de Jovens e Adultos - ENCCEJA. Recomendação n. 44/2013 do CNJ. Interpretação mais benéfica. Cálculo dos 50% da Carga Horária. Patamar equivalente a 1.600 horas. Remição de 133 dias. 26 dias por área de conhecimento. Reafirmação da jurisprudência da Terceira Seção.
+
+Dito de outra forma, entendeu a Terceira Seção do STJ que as 1.200 hs ou 1.600 hs, dispostas na Recomendação n. 44/2013 do CNJ, já equivalem aos 50% da carga horária definida legalmente para cada nível de ensino, com base nas quais serão calculados os dias a serem remidos. De igual modo, aplica-se tal entendimento ao disposto na Resolução nº 391/2021 do CNJ, por ter mantido o posicionamento do Conselho acerca da base de cálculo.
+
+Assim,  temos que a base de cálculo para remição pela aprovação no ENCCEJA é de 1600 (mil e seiscentas) horas.
+
+Consoante o art. 126, da LEP, a contagem do prazo se dará à razão de um um dia de pena a cada 12 horas de frequência escolar, divididas, no mínimo, em três dias da atividade. Portanto, em tendo sido certificada a aprovação do apenado no ENCCEJA e considerando-se a carga horária de 1600h, divide-se esse total por 12, alcançando-se 133 (cento e trinta e três) dias de remição.
+
+**
+
+Por fim, esclareço ainda que, dada a conclusão do ensino **fundamental **médio **superior durante o cumprimento da pena, certificada pelo órgão competente do sistema de educação, tem o apenado direito ao acréscimo de um terço previsto no § 5º do art. 126 da LEP, em consonância ao entendimento do STJ:
+
+A Resolução CNJ nº 44/2013 menciona a carga horária de 1.600 horas para o ensino fundamental, e 1.200 horas para o ensino médio, que se refere ao percentual de 50 por cento da carga horária definida legalmente para cada nível de ensino.
+Considerando como base de cálculo 50 por cento da carga horária definida legalmente para o ensino médio, ou seja, 1.200 horas, deve-se dividir esse total por 12, encontrando-se o resultado de 100 dias de remição em caso de aprovação em todos os campos de conhecimento do ENEM.
+Se a aprovação foi no ENCCEJA (ensino fundamental), deve-se dividir as 1.600 horas por 12, encontrando-se o resultado de 133 dias, desprezando-se a fração. Se o apenado obteve aprovação em todas as cinco áreas de conhecimento, faz jus ao total de 133 dias de remição, acrescidos de bônus de 1/3, nos termos do art. 126, § 5º, da Lei de Execução Penal, perfazendo o total de 177 dias remidos por estudo.
+STJ. 3ª Seção. HC 602.425/SC, Rel. Min. Reynaldo Soares da Fonseca, julgado em 10/03/2021 (Info 689).
+
+**
+
+Isto posto, defiro o pedido de remição do evento ***, declarando remidos *** dias da pena.
+
+P.R.I. **, inclusive o apenado para que junte ao autos documento comprobatório do seu nível de escolaridade anterior à realização da prova do ENCCEJA, de modo a possibilitar a análise de possível acréscimo de um terço aos dias aqui remidos previsto no § 5º do art. 126 da LEP.
+
+Atualize-se o Atestado de Penas.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Medida de segurança regressão
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+*Trata-se de execução de medida de segurança restritiva em que se certificou que o inimputável foi preso/apreendido em flagrante pela prática de nova conduta delituosa, desta feita de ***.
+
+*Trata-se de execução de medida de segurança restritiva em que se certificou que o inimputável foi preso/apreendido em flagrante pela prática de nova conduta delituosa, desta feita de ***, sendo de acrescentar que tal fato ocorreu ** dias**meses após ele ser benefíciado com a desinternação.
+
+Relatados.
+
+Como ensinava o Prof. Julio Fabbrini Mirabete, “é indeterminado o tempo de duração da medida de segurança, perdurando sua execução enquanto não cessada a periculosidade do agente” (In: Código penal interpretado. 4ª ed.,  São Paulo : Atlas, 2003, p. 629).
+
+O Código Penal, por sua vez, no art. 97, § 3º, dispõe que "a desinternação, ou a liberação, será sempre condicional devendo ser restabelecida a situação anterior se o agente, antes do decurso de 1 (um) ano, pratica fato indicativo de persistência de sua periculosidade".
+
+É o caso, pois o desinternado praticou novo delito violento poucos dias após receber o benefício, demonstrando ser perigoso ao convívio social.
+
+Isto posto, regrido a medida de segurança para a forma detentiva, pelo prazo mínimo de dois anos.
+
+P.R.I. Comunique-se à unidade prisional e insira-se o inimputável na lista de espera de vagas da UPCT.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Multa indefere execução MP
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de pedido incidental de execução de multa fixada em sentença condenatória penal em face da parte Executada acima especificada.
+
+Por ocasião do julgamento de questão de ordem na Ação Penal 470 e na ADI 3150, o Supremo Tribunal Federal entendeu que a legitimidade para a execução de multa aplicada em sede de sentença penal condenatória é, prioritariamente, do Ministério Público, assim como que o Juízo competente para o seu processamento é o da Execução Penal, tendo sido o julgamento proclamado nos seguintes termos:
+
+“Decisão: O Tribunal, por maioria, julgou parcialmente procedente o pedido formulado na ação direta para, conferindo interpretação conforme à Constituição ao art. 51 do Código Penal, explicitar que a expressão “aplicando-se-lhes as normas da legislação relativa à dívida ativa da Fazenda Pública, inclusive no que concerne às causas interruptivas e suspensivas da prescrição”, não exclui a legitimação prioritária do Ministério Público para a cobrança da multa na Vara de Execução Penal, nos termos do voto do Ministro Roberto Barroso, Redator para o acórdão, vencidos os Ministros Marco Aurélio (Relator) e Edson Fachin, que o julgavam improcedente. Ausentes, justificadamente, os Ministros Celso de Mello e Gilmar Mendes. Presidência do Ministro Dias Toffoli. Plenário, 13.12.2018.
+
+Fixadas as premissas quanto à competência e à legitimidade ativa para a cobrança da multa, resta a definição do procedimento a ser seguido, considerando-se que a legislação criminal não esgota o procedimento a ser adotado e que o art. 51 do Código Penal textualmente prevê a aplicação de normas da legislação relativa à dívida ativa da Fazenda Pública.
+
+A legislação aplicável à cobrança de dívidas da Fazenda Pública é a Lei nº 6.830/80 – Lei de Execução Fiscal, sem prejuízo da aplicação subsidiária do CPC no que for necessário.
+
+Todavia, o mencionado corpo legal diverge em alguns aspectos do art. 164 da Lei de Execução Penal, que determina, verbis:
+
+“Extraída certidão da sentença condenatória com trânsito em julgado, que valerá como título executivo judicial, o Ministério Público requererá, em autos apartados, a citação do condenado para, no prazo de 10 (dez) dias, pagar o valor da multa ou nomear bens à penhora”.
+
+Diante da divergência apontada e levando-se em conta que, a despeito da aplicação da legislação cível à cobrança da multa em exame, como assentado pela jurisprudência dominante, esta não perde a natureza jurídica de instituto penal, a conclusão lógica é a de que as normas que informam a execução cível de dívidas da União somente serão aplicadas naquilo que não conflitar com o procedimento previsto na Lei de Execução Fiscal1.
+
+Em vista disso, uma primeira divergência identificável entre a LEP e a LEF é a desnecessidade de inscrição da multa em dívida ativa para que possa ser executada. Basta certidão de sentença condenatória com trânsito em julgado, que vem a ser o título executivo judicial, para que a execução penal da multa seja deflagrada.
+
+A segunda divergência diz respeito ao prazo para pagamento voluntário ou nomeação de bens à penhora. Enquanto a LEP prevê 10 (dez) dias, a LEF contempla apenas 5 (cinco) dias, de acordo com o seu art. 8º. Neste caso, como assentado acima, pelo primado da especialidade, aplica-se o prazo de 10 (dez) dias da legislação penal.
+
+O único entrave ao pleito ministerial, contudo, reside, a meu ver, em sua incidentalidade.
+
+Embora entenda que o art. 164 da LEP seja claro o suficiente ao exigir que a execução da multa se dê em autos apartados, compreendo que o assunto demanda um melhor esclarecimento.
+
+Em princípio, tratando-se de execução de título judicial, poder-se-ia defender que a fase de execução dessa verba ocorresse nos mesmos autos da execução penal que abranja outras modalidades de pena, já que tudo se trataria de sanção cominada por sentença de mérito.
+
+Inobstante, é inegável que a concomitância da execução de uma pena outra qualquer e da pena de multa, em um mesmo processo, acarretaria entraves processuais insuperáveis para o célere deslinde do processo.
+
+Basta atentar para o fato do Executado poder, por exemplo, uma vez garantida da dívida, embargar a execução, como previsto no art. 16 da Lei nº 6.830/80 ou mesmo interpor exceção de pré-executividade2, incidentalmente no processo de execução de quantia certa, de cuja decisão caberá, a depender de seu teor, agravo de instrumento ou recurso de apelação, criando, assim, claro entrave para a fiscalização do cumprimento de pena outra que tenha sido aplicada na sentença condenatória.
+
+Em vista do exposto, entendo não ser à toa a exigência do art. 164 da LEP, ao exigir que a execução da multa ocorra em autos apartados e não incidentalmente, como pleiteado pelo representante ministerial, razão pela qual INDEFIRO o pedido do evento ***.
+
+Intime-se o Ministério Publico da presente decisão, para que ajuíze processo autônomo de execução da multa; caso não o faça em 90 dias, encaminhe-se a certidão e anexos à Procuradoria da Dívida Ativa.
+
+Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+1Embora exija a inscrição em dívida ativa, a Lei de Execução Fiscal se presta para a cobrança de dívida tributária ou não tributária, assim definida na Lei nº 4.320, de 17 de março de 1964 (v. art. 2º da Lei nº 6.830/80 e art. 39, § 2º, da Lei nº 4.320/64).
+
+2A exceção de pré-executividade é amplamente aceita na jurisprudência e se presta para o conhecimento incidental de matéria de ordem pública, que pode ser conhecida de ofício pelo juiz, como previsto no art. 803, parágrafo único do CPC.
+
+ 
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Retificação percentuais hediondo e comum - NAO UTILIZAR
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+*Requereu a defesa retificação da GEP, fazendo constar como requisito para progressão de regime os percentuais previstos na nova redação do art. 112 da LEP, já que não se trata de reincidência específica em crime hediondo.
+
+*Requereu a defesa retificação da GEP, fazendo constar como requisito para progressão de regime o percentual de 1/6 previsto na antiga redação do art. 112 da LEP para os crimes comuns.
+
+*Interveio o Ministério Público, opinando favoravelmente. **contrariamente, pois ****.
+
+Relatados.
+
+Conforme decidiu o Superior Tribunal de Justiça, a fixação dos percentuais para progressão de regime devem considerar, em sua integralidade, a nova ou a anterior redação do art. 112 da LEP em sua integralidade, conforme seja mais benérico ao apenado.
+
+Neste sentido:
+
+"O entendimento desta Corte Superior é o de impossibilidade de combinação de leis, formando uma terceira lei. Deve o julgador analisar, de forma individualizada, qual redação do artigo 112 da Lei das Execuções Penais é a mais benéfica ao sentenciado para fins de alcance do requisito objetivo necessário à progressão de regime - aquela com ou sem as modificações trazidas pela Lei n. 13.964/2019" (AgRg no HC n. 699.653/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 16/11/2021).
+
+No caso, em aplicada a redação antiga, não importa que o apenado seja reincidente não específico em crime hediondo, deve ser imposto
+
+Com razão ****.
+
+Inicialmente verifico que a exigência de 60% (LEP, art. 112, VII) só cabe no caso de reincidência específica em crime hediondo, o que não é o caso.
+
+É o que atualmente tem decidido o Superior Tribunal de Justiça, verbis:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO. 1. Esta Corte vem decidindo no sentido de que, com a nova redação dos incisos IV e VI do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pela instância ordinária no caso em tela, por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento. Precedentes. 2. Agravo regimental desprovido. (AgRg no HC 642.977/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 10/03/2021
+
+Como antes o percentual fora fixado em 3/5, dada ao que dispunha a lei 8072/90, a nova redação do art. 112 da LEP se mostra como novatio legis in mellius, devendo ser aplicada.
+
+Assim, em relação ao crime hediondo, é de se aplicar o percentual de 40% (LEP, art. 112, V).
+
+***
+
+Quando ao crime de roubo, a nova redação fixa o percentual de 25% (inc. III), já que se trata de crime cometido com violência à pessoa ou grave ameaça.
+
+Registro, por oportuno, que neste ponto não utilizo a fração prevista na redação anterior da lei (1/6), pois importaria em criar nova legislação combinando leis, prática vedada pelo verbete nº 501 da Súmula do Superior Tribunal de Justiça. 
+
+Isto posto, mando corrigir a guia de execução penal, fixando como requisito objetivo para a progressão de regime os percentuais  de 25% e 40%, respectivamente para os crimes de roubo e de tráfico de drogas..
+
+***
+
+Quando aos demais crimes, a nova redação fixa o percentual de 20% (inc. II), já que se trata de apenado reincidente.
+
+Registro, por oportuno, que neste ponto não utilizo a fração prevista na redação anterior da lei (1/6), pois importaria em criar nova legislação combinando leis, prática vedada pelo verbete nº 501 da Súmula do Superior Tribunal de Justiça. 
+
+Isto posto, mando corrigir a guia de execução penal, fixando como requisito objetivo para a progressão de regime os percentuais  de 40% e 20%, respectivamente para o crime hediondo e os comuns.
+
+P.R.I.   
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	remição pelo estudo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Vara de Execução em Meio Fechado e Semiaberto
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+ 
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de remição de parte da pena pelo estudo, conforme declaração e tabela de presença do PROJOVEM URBANO (evento ), a partir dos quais elaborou-se cálculo de dias remidos (evento ), que obteve parecer favorável do Ministério Público (evento ).
+
+Relatados.
+
+Com razão o parecer, pois face à documentação junta, o apenado estudou, efetivamente, xx com carga horária diária de 4h, no período de XX, pelo que xx (xx) dias da pena a ele imposta se encontram remidos pelo estudo, conforme dispõe o art, 126, §1º, I:
+
+Art. 126.  O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+§ 1o  A contagem de tempo referida no caput será feita à razão de:
+I - 1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias;
+Isto posto, julgo procedente o pedido, para fim de julgar remidos xx (xx) dias da pena em execução.
+
+P.R.I. Atualize-se o Atestado de Penas.
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+
+ 
+ 
+
+ 
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	remição ENEM não aprovação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Cumprindo pena de *** de reclusão em regime fechado, requereu o apenado remição pelo estudo, amparada na previsão do art. 126 da Lei 12.433/2011 e na Resolução nº 391/2021, do CNJ, no que acostou as notas que comprovam aprovação no ENEM (evento 21).
+
+Opinou o Ministério Público pela parcial procedência, para que fossem remidos ** dias (evento **).
+
+Verifica-se que o apenado não juntou comprovação da aprovação para algum curso superior através do ENEM, pois a documentação colacionada somente comprova que prestou o aquele exame durante o cumprimento de sua pena, em 2019, inclusive não obtendo a pontuação mínima exigida para a disciplina **.
+
+Relatados.
+
+Dispõe a Recomendação nº 391/2021 do CNJ, em seu art. 3º, Parágrafo Único, expressamente que:
+
+Parágrafo único. Em caso de a pessoa privada de liberdade não estar vinculada a atividades regulares de ensino no interior da unidade e realizar estudos por conta própria, ou com acompanhamento pedagógico não-escolar, logrando, com isso, obter aprovação nos exames que certificam a conclusão do ensino fundamental ou médio (Encceja ou outros) e aprovação no Exame Nacional do Ensino Médio - Enem, será considerada como base de cálculo para fins de cômputo das horas visando à remição da pena 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino, fundamental ou médio, no montante de 1.600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1.200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio, conforme o art. 4o da Resolução no 03/2010 do Conselho Nacional de Educação, acrescida de 1/3 (um terço) por conclusão de nível de educação, a fim de se dar plena aplicação ao disposto no art. 126, § 5o, da LEP.
+
+Com ser assim, a recomendação supra viabiliza a remição pelo estudo alicerçada na APROVAÇÃO no Exame Nacional do Ensino Médio, e não apenas por tê-lo prestado.
+
+No caso, a documentação acostada pela defesa somente comprova que o apenado prestou o exame do ENEM durante o cumprimento de sua pena, em 2019, contudo sem comprovar a aprovação, critério expressamente exigido pela resolução CNJ nº 391/2021.
+
+É cediço que para o candidato ser aprovado deverá atingir determinada nota exigida para cada curso.
+
+Aqui, as notas obtidas não foram suficientes para ingressar em algum curso superior.
+
+Ademais, ele não obteve a pontuação mínima exigida para a disciplina Matemática e Suas Tecnologias, o que já o reprovaria no exame do ENEM.
+
+N'outro flanco, a lista de aprovados, contendo a nota e a situação (aprovada ou suplente) é divulgada pelo Sistema de Seleção Unificada – SISU, de modo que poderia ele ter acesso.
+
+Ademais, não se comprovou qual era o nível de escolaridade anterior do apenado e se sabe que o Superior Tribunal de Justiça esclareceu que  as horas expendidas para aprender as matérias da grade curricular em atividade escolar efetivada fora do ambiente prisional, no caso de conclusão do ensino médio antes do início da execução, não podem integrar o cálculo da remição, pois o aprendizado não ocorreu ao longo do período de cárcere (EDcl no HC n. 716.072/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022).
+
+Assim, descabe analogia ou interpretação extensiva do art. 126 da LEP, de modo a permitir ao agravante a remição das penas por aprovação no Enem quando estudou e concluiu o ensino médio antes de iniciar o cumprimento da pena, não evidenciando o estudo sob a responsabilidade do apenado quando já preso.
+
+Na lição do mesmo acórdão acima referido:
+
+8. Se o postulante valeu-se do Enem como espécie de vestibular, não há prejuízo de obter o nível superior e pleitear futura remição. Entretanto, a execução é regida pelo princípio da legalidade e a realização de provas por aquele que frequentou aulas e obteve o certificado do grau de ensino não pode ensejar premiação por aprendizado do nível de escolaridade não adquirido a encargo do próprio preso. 9. Entender de outra forma permitiria que alguém com nível superior obtivesse remições por realizar o ENCEJJA do ensino fundamental (133 dias), o ENCEJJA de ensino médio (100 dias) e, ainda, o ENEM (100 dias), o que resultaria no abatimento de 333 dias de sua pena, quando é manifesto que não houve dedicação no cárcere para aquisição do conhecimento.
+
+Nesse sentido:
+
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DO ART. 126 DA LEP. PLEITO DE RECONHECIMENTO DA REMIÇÃO PELO ESTUDO. APROVAÇÃO NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO) APÓS A CONCLUSÃO DO ENSINO MÉDIO. SENTENCIADO PORTADOR DE DIPLOMA DE CURSO SUPERIOR. IMPOSSIBILIDADE DE CONCESSÃO DA BENESSE.
+1. Visando à ressocialização do apenado e tendo como base o direito fundamental à Educação, o Conselho Nacional de Justiça (CNJ), por meio da Recomendação n. 44/2013 - posteriormente substituída pela Resolução n. 391/2021 -, estabeleceu a possibilidade de remição de pena à pessoa privada de liberdade, que, por meio de estudos por conta própria, vier a ser aprovada nos exames que certificam a conclusão do ensino fundamental ou médio (ENCCEJA ou outros) e aprovação no Exame Nacional do Ensino Médio - ENEM.
+2. Com efeito, o propósito da remição pelo estudo não é simplesmente diminuir o tempo de encarceramento, mas, sobretudo, fomentar a aquisição de novos conhecimentos e ferramentais educacionais por parte do apenado, de modo a facilitar a sua reintegração social.
+3. No caso, tendo o apenado concluído o ensino médio e superior antes do início do cumprimento da pena, incabível a remição penal por aprovação no Exame Nacional do Ensino Médio, visto que tal situação destoa do escopo da norma.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1.979.591/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.).
+
+Isto posto, indefiro o pedido de remição do ev.**.
+
+P.R.I
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Prisão domiciliar monitorado
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade, atualmente em regime semiaberto, tendo a Defensoria Pública requerido concessão de prisão domiciliar c/c monitoramento eletrônico, alegando que, conforme se extrai doSIAPEN, o apenado tem histórico de consultas médicas em razão de tuberculose, e,  *** , correndo o risco de contrair o Coronavírus - COVID-19, bem como de transmiti-lo aos policiais penais (evento **).
+
+Interveio o Ministério Público, opinando pelo indeferimento (evento **).
+
+Acrescento ao relatório que em ** fora concedida progressão de regime ao apenado (evento **),tendo ele sido inserido no regime semiaberto e e já estando monitorado eletronicamente.
+
+Relatados.
+
+De logo, quanto ao novo Coronavírus, o Poder Judiciário vem seguindo as recomendações do Ministério da Saúde e demais autoridades sanitárias, no sentido da população permanecer em isolamento social.
+
+De seu lado, o sistema prisional adotou providências para evitar a contaminação dos presos, tendo inclusive suspendido a entrada de visitas nos presídios.
+
+A Recomendação do CNJ de nº 62, no art. 5º, incisos III e IV, dispõe que a prisão domiciliar deve ser concedida em caso de diagnóstico suspeito ou confirmado do COVID-19, mediante relatório da equipe de saúde.
+
+Aqui, o apenado já está em prisão domiciliar, monitorado eletronicamente, pelo que o pedido está prejudicado.
+
+Ante o exposto, não conheço do pedido.P.R.I.
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	agravo falta média
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que lhe impôs punição por falta média, consistente em não recolhimento ao pernoite na unidade prisional.
+
+Agrava o apenado da decisão do evento * que lhe impôs punição por falta média, consistente em descumprimento das condições do monitoramento eletrônico.
+
+Intimado, o Ministério Público contrarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois, conforme esclarecido na decisão agravada, desatendeu ele ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. IV, merecendo punição, que no caso foi a prevista no seu art. 66, III ( suspensão ou restrição de regalias) c/c art. 67.
+
+Registro, por oportuno, que a falta praticada poderia também ser considerada grave (fuga), já que o apenado não se recolheu por mais de três dias à unidade prisional, tendo este juízo optado pela decisão mais benéfica porque depois ele retornou ao cumprimento da pena.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão recorrida.
+
+*Intime-se o agravante a indicar as peças dos autos cujas cópias deseja que acompanhe o recurso, providenciando a secretaria sua juntada e formando-se o instrumento, que deve subir para a egrégia Câmara Criminal.
+
+*Forme-se o instrumento, que deve subir para a egrégia Câmara Criminal.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Prisão domiciliar indeferimento covid19
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade, atualmente em regime fechado, tendo a defesa  requerido concessão de prisão domiciliar, alegando que o apenado é idoso e portador de **, sendo do grupo de risco quanto à pandemia do Coronavírus - COVID-19 (evento ***).
+
+Interveio o Ministério Público, opinando pelo indeferimento (evento ***).
+
+Relatados.
+
+De logo, quanto ao novo Coronavírus, o Poder Judiciário vem seguindo as recomendações do Ministério da Saúde e demais autoridades sanitárias, no sentido da população permanecer em isolamento social.
+
+De seu lado, o sistema prisional adotou providências para evitar a contaminação dos presos, tendo inclusive suspendido a entrada de visitas nos presídios.
+
+A Recomendação do CNJ de nº 62, no art. 5º, incisos III e IV, dispõe que  a concessão de prisão domiciliar deve ser  concedida em caso de diagnóstico suspeito ou confirmado do COVID-19, mediante relatório da equipe de saúde.
+
+Aqui, o apenado está em regime fechado, com mais de *** anos de pena a cumprir e previsão de progressão de regime apenas para ****, e não comprovou suspeita de COVID-19, de forma que a prisão domiciliar não se mostra indicada.
+
+De seu lado, o Conselho Regional de Medicina do Rio Grande do Norte, ao responder ao Processo-Consulta CREMERN nº 04/2020, oferecendo o Parecer CREMERN nº 03/2020, deixou expresso:
+
+"...entendemos que a identificação pela administração penitenciária dos custodiados em grupo de risco, o seu monitoramento e isolamento dos demais presos nos casos indicados, em consonância com a portaria interministerial supracitada, como também as medidas elencadas na Nota Técnica 10/2020 da Secretaria de Saúde do Rio Grande do Norte, desde que estritamente observadas, são adequadas e suficientes para o enfrentamento da pandemia do coronavírus nas unidades prisionais, bem como para a preservação da saúde das pessoas privadas de liberdade."
+
+Finalmente,  vale a pena recordar as ponderações do eminente Ministro Rogério Schietti:"... a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal (STJ - HC n. 567.408/RJ).
+
+Ante o exposto, e em consonância com o parecer ministerial, indefiro o pleito da defesa, que visava colocar o apenado em prisão domiciliar.
+
+P.R.I
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Progressão aberto cautelar
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena, atualmente em regime semiaberto, em que o SEEU identificou o atingimento do requisito objetivo para progressão, enquanto comprovado documentalmente bom comportamento carcerário.
+
+Acrescento ao relatório que foi dada vista ao Ministério Público há mais de cinco dias, o qual ainda não se manifestou.
+
+Relatados.
+
+Inicialmente registro que, apesar de ainda não transcorrido o prazo para manifestação ministerial, impõe-se a decisão cautelar, dada a atual situação de pandemia mundialmente reconhecida, bem como à Recomendação nº 62/2020, do Conselho Nacional de Justiça.
+
+É o que passo a fazer.  
+
+**Dispõe a Lei de Execução Penal, no art. 112 que cumprido ao menos 16% da pena imposta, será transferido o apenado para regime menos rigoroso, se ostentar bom comportamento carcerário, o que ficou explicitado nos documentos juntos.
+
+**Dispõe a Lei de Execução Penal, na redação anterior do art. 112 (aplicável ao caso), que cumpridos ao menos um sexto da pena imposta, será transferido o apenado para regime menos rigoroso, se ostentar bom comportamento carcerário, o que ficou explicitado nos documentos juntos.
+
+Isto posto, progrido cautelarmente para o regime aberto o cumprimento da pena.
+
+P. R. I. Comunique-se a unidade prisional, para que providencie a transferência do apenado ao regime adequado, dando-se em seguida vista ao Ministério Público.
+
+Caso não haja discordância ministerial, aguarde-se transferência para o novo incidente na execução penal. Ocorrendo o contrário, voltem-me para nova decisão.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Incompetência inimputável
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução da medida de segurança restritiva, em que o inimputável reside no Município de **, Comarca de ***. 
+Relatados.
+Competente para a execução de medida de segurança restritiva é o juízo do local onde reside o inimputável.
+No caso, o inimputável reside na Comarca de ***.
+Isto posto, tendo por incompetente este juízo para continuar a presidir processo de execução penal, determino a remessa dos autos para a Comarca de ***.
+P.R.I. Cumpra-se.
+ $juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Monitoramento pedido instalação tornozeleira
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de execução de pena unificada em **, atualmente em regime semiaberto, em que o apenado requereu a colocação da tornozeleira eletrônica, alegando, em síntese, que corre risco à sua vida ou integridade física, em razão de  (evento **).
+
+Relatados.
+
+A Portaria nº 02/2016 deste juízo já autorizou a inserção no monitoramento eletrônico de todos os apenados no regime semiaberto que tenham autorização para saídas externas desvigiadas, o que deve ser requerido à Central de Monitoramento Eletrônico - CEME.
+
+O atendimento ao pedido, portanto, trata-se de atribuição da autoridade administrativa.
+
+Isto posto, não conheço do pedido.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	Regressão negada novo crime sem denúncia
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+*Trata-se de processo de execução penal em que o Ministério Público pugnou pela regressão do regime prisional em razão do apenado ter sido autuado em flagrante por novo crime.
+
+*Trata-se de processo de execução penal em que vieram os autos conclusos em razão da informação de que o apenado fora autuado em flagrante por novo crime. Adiante, porém, certificou-se que ele não ainda não foi denunciado.
+
+É o relatório.
+
+Induvidoso que não se exige o julgamento do novo crime para reconhecer-se a falta grave prevista no art. 52, primeira parte, da Lei 7.210/84.
+
+Entretanto, o não oferecimento da denúncia após quase um ano do suposto fato demonstra que a polícia judiciária e o Ministério Público não conseguiram suficientes indícios quanto à conduta criminosa.
+
+A consequência é que não se pode punir o apenado por situação indefinida.
+
+Isto posto, indefiro a regressão de regime.
+
+P. R. I. Aguarde-se algum novo incidente na execução penal           
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+Modelo de Documento
+
+Descrição:	Retificação GEP data último trânsito NÃO USAR
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Tratam os autos de execução de pena em que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição, por entender que a data-base para as progressões deveria  ser a do trânsito em julgado da última condenação, calculando-se o requisito objetivo sobre o saldo da pena.
+
+A defesa, de seu lado, sustentou a manutenção da GEP.
+
+Relatados.
+
+A Terceira Seção do Superior Tribunal de Justiça, e, competente para unificar a jurisprudência criminal, firmou entendimento de que "A alteração da data-base para concessão de novos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.. (REsp 1557461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 22/02/2018, DJe 15/03/2018).
+
+O Supremo Tribunal Federal, porém, por praticamente todos os seus ministros, julgando Recursos Extradordinários face a tal entendimento, sustentou antiga jurisprudência da Corte para reconhecer a data do trânsito em julgado da última condenação do réu como data-base para a concessão de benefícios durante a execução penal ( RE 1215997, que faz referência a grande número de outros julgados).
+
+Isto posto, mando corrigir a guia de execução penal, lançando a data do trânsito em julgado da última condenação do apenado como data-base para futura progressão de regime
+
+P.R.I.   
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+
+ 	   Modelo de Documento
+
+Descrição:	Conversão pena medida de segurança
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que demonstrou-se, após perícia médica, que sobreveio doença mental ao apenado.
+
+Interveio, então, o Ministério Público, opinando pela conversão da pena privativa de liberdade em medida de segurança detentiva*, com a concordância da defesa. *A defesa, de seu lado, pugnou pela medida restritiva*.
+
+*Acrescento ao relatório que o apenado encontra-se recolhido na UPCT*provisoriamente na Cadeia Pública de Natal.
+
+Relatados.
+
+Nos termos do art. 183 da Lei nº 7.210/84, “quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o juiz, de ofício, a requerimento do Ministério Público ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança”.
+
+É o caso, pois a perícia médica realizada pelo ITEP comprovou que o apenado é, hoje, portador de transtorno mental (CID – 10 F****) de cura improvável, doença essa que o torna perigoso ao convívio social.
+
+Ora, conforme o dispositivo legal antes referido, suspende-se a execução e converte-se a pena em medida de segurança se sobrevier doença mental ou perturbação da saúde mental que deixe o condenado sem capacidade penal de submeter-se às obrigações da pena privativa de liberdade.
+
+Não há confundir com a mera transferência prevista no art. 108 da Lei de Execução Penal e art. 41 Código Penal.
+
+“Note-se que a opção entre a conversão dos arts. 183 e 184 da LEP e a simples transferência para o internamento deve ser feita pelo Juiz, e levará em conta a periculosidade do agente. Se a doença mental superveniente for muito séria e de caráter permanente, demonstrada estará a periculosidade do sentenciado, devendo o Juiz optar pela conversão, seguindo a execução todas as regras relativas às medidas de segurança. Se, porém, for de natureza transitória e de gravidade relativa, não estará demonstrada a periculosidade do sentenciado, devendo optar pela simples transferência” (MORAES, Alexandre de, SMANIO, Gianpaolo Poggio. Legislação penal especial. 4ª ed. São Paulo : Atlas, 2001, p. 212).
+
+No caso, é grave e permanente a doença mental diagnosticada, estando demonstrada a periculosidade do apenado, enquanto desaconselhável, ao menos no estádio atual, seu retorno ao convívio social.
+
+*Isto posto, converto em medida de segurança detentiva prevista no art. 96, I, do Código Penal, pelo prazo mínimo de três anos, a pena privativa de liberdade, devendo o inimputável ficar provisoriamente recolhido no estabelecimento prisional onde se encontra, enquanto não se providencia sua transferência para a UPCT (Unidade Psiquiátrica de Custódia e Tratamento).
+
+*Isto posto, converto em medida de segurança detentiva prevista no art. 96, I, do Código Penal, pelo prazo mínimo de três anos, a pena privativa de liberdade, devendo o inimputável permanecer recolhido à UPCT (Unidade Psiquiátrica de Custódia e Tratamento).
+
+Isto posto, converto a pena privativa de liberdade em medida de segurança restritiva prevista no art. 96, II, do Código Penal, pelo prazo mínimo de dois anos,  concedendo ao inimputável, conforme art. 97 do Código Penal, a liberação condicional, cabendo-lhe realizar tratamento psiquiátrico em CAPS ou outro serviço médico adequado, encaminhando-se relatórios trimestrais a este Juízo, esclarecendo, ainda, que, nos termos do que dispõe o artigo 178, c.c. com os artigos 132 e 133 da Lei de Execução Penal, deverá:
+
+Apresentar trimestralmente a Juízo comprovação de que se submete ao tratamento médico adequado;
+
+Não mudar de endereço sem comunicar ao Juízo e não mudar do território da comarca sem prévia autorização judicial;
+
+Recolher-se até às 22h00 à sua habitação;
+
+Não freqüentar lugares onde bebidas alcoólicas sejam vendidas em balcão, além de casas de jogo e prostituição; e,
+
+Após o decurso de dois anos requisite-se novo exame de sanidade mental e avaliação de periculosidade, dando-se vista ao Ministério Público após a juntada do laudo aos autos.
+
+P.R.I. Comunique-se à UPCT e ao curador do inimputável.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+Modelo de Documento
+
+Descrição:	visitas indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Trata-se de pena privativa de liberdade imposta a ***, atualmente em regime fechado, em que sua genitora, através da Defensoria Pública, requereu autorização para visitar o interno na Cadeia Pública de Ceará Mirim (evento *), que fora negado pela administração penitenciária.
+
+Interveio o Ministério Público opinando pelo ** (evento *).
+
+Relatados.
+
+*A genitora do apenado  foi recentemente condenada por crime de tráfico de drogas, estando em curso a ação de execução penal (PEC nº **), motivo pelo qual foi impedida de visitar o filho.
+
+*A genitora do apenado responde em liberdade a ação penal por crime de tráfico de drogas, motivo pelo qual foi impedida de visitar o filho.
+
+Justificável, portanto, o óbice ao direito de visita.
+
+Ademais, o indeferimento do pedido de visitas não gerará prejuízo ao processo de ressocialização do apenado, que pode receber visitas de outros pessoas, como companheira, filhos, irmãos etc.
+
+O indeferimento da visita de sua genitora decorre de uma condição dela, não dele.
+
+Sobre o assunto, a jurisprudência do Superior Tribunal de Justiça é no sentido de que o direito de visita, disposto no art. 41, inciso X, da Lei de Execução Penal, que confere aos presos o direito de serem visitados por cônjuge, companheira, parentes e amigos em dias determinados, embora seja relevante para o processo de reinserção do preso à sociedade e imprescindível para a manutenção dos seus laços familiares, não possui natureza absoluta e deve ser sopesado, de acordo com a situação específica vivenciada no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam (RE nº 1.845.849 - DF).
+
+No mesmo sentido:
+
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DIREITO DO PRESO DE RECEBER VISITAS.(...).  1. A competência para dispor sobre direito penitenciário é concorrente entre a União, os Estados e o Distrito Federal (art. 24, I, da CF), tendo a LEP outorgado à autoridade administrativa prisional o poder de regular a matéria, no que toca a questões disciplinares.  2. O direito do preso de receber visitas, assegurado pelo art. 41, X, da Lei de Execuções Penais (Lei 7.210/1.984), não é absoluto e deve ser sopesado, de acordo com a situação específica vivenciada no caso concreto, em conjunto com outros princípios, dentre os quais o que visa a garantir a disciplina e a segurança dentro dos estabelecimentos prisionais, velando, por consequência, também pela integridade física tanto dos reclusos quanto dos que os visitam. 3.  A administração disciplinar típica da competência da autoridade prisional diz respeito, por exemplo, ao número máximo de pessoas que podem efetuar visitas por vez (o que se justifica plenamente diante da capacidade física do presídio de acomodar um certo número de pessoas com um mínimo de conforto e segurança), à organização dos cadastros para controle dos que têm acesso ao estabelecimento prisional, os documentos, comprovantes e trâmites administrativos que lhes são exigidos, necessidade (ou não) de revista prévia do visitante, dia, local e duração das visitas, restrição de transporte de bens para o presídio, zelo pela ordem e atenção a regras durante o período de visita etc.  (...). (RMS 56.152/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/04/2018, DJe 13/04/2018).
+
+Isto posto, reconhecendo justificável o óbice da visita ao apenado por sua genitora, que também é apenada, indefiro o pedido.
+
+P.R.I
+
+Ceará Mirim, 23 de janeiro de 2020.
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	Medida de segurança - desinternação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de medida de segurança em que o inimputável foi submetido a exame de cessação de periculosidade, opinando a perícia pela continuidade do tratamento a nível ambulatorial.
+
+Interveio, então, o Ministério Público, opinando pela desinternação condicional.  
+
+Relatados.
+
+No parecer médico-psiquiátrico restou consignado que a custódia do sentenciado poderia ser encerrada, com seu desinternamento, submetendo-se a tratamento ambulatorial.
+
+O caso sob julgamento vem analisado com maestria por Guilherme de Souza Nucci (Código Penal Comentado. 2ª ed. São Paulo : Revista dos Tribunais, 2002, p. 324), ao comentar o art. 97, § 4º, do Código Penal, verbis:
+
+“Conversão da internação em tratamento ambulatorial (desinternação progressiva): prevê a lei penal que o tratamento ambulatorial pode ser convertido em internação, caso essa providência seja necessária para ‘fins curativos’. Nada fala, no entanto, quanto à conversão da internação em tratamento ambulatorial, o que se nos afigura perfeitamente possível. Muitas vezes o agente pode não revelar periculosidade suficiente para manter-se internado, mas ainda necessitar de um tratamento acompanhado. Assim, valendo-se da hipótese deste parágrafo, pode o magistrado determinar a desinternação do agente para o fim de se submeter a tratamento ambulatorial, que seria a conversão da internação em tratamento ambulatorial. Não é, pois, a desinternação prevista no parágrafo anterior – porque cessou a periculosidade –, mas sim para a continuidade dos cuidados médicos, sob outra forma. Essa medida torna-se particularmente importante, pois há vários casos em que os médicos sugerem a desinternação, para o bem do próprio doente, embora sem que haja a desvinculação do tratamento médico obrigatório. Ora, o art. 178 da Lei de Execução Penal é claro ao determinar que, havendo desinternação ou liberação, devem ser impostas ao apenado as condições obrigatórias e facultativas do livramento condicional (arts. 132 e 133, LEP). Ocorre que nenhuma delas prevê a possibilidade de se fixar, como condição, a obrigação de continuar o tratamento ambulatorial, após ter sido desinternado. Assim, o melhor a fazer é converter a internação em tratamento ambulatorial, pelo tempo que for necessário à recuperação, até que seja possível, verificando-se cessação da periculosidade, haver a liberação condicional”.
+
+Aplica-se ao caso o Código Penal, que no art. 97, §§ 1º e 3º, dispõe que a medida de segurança, consistente em internação ou tratamento ambulatorial, será por tempo indeterminado, persistindo enquanto não averiguada, mediante perícia médica, a cessação da periculosidade, sendo, de toda forma, a desinternação, condicional, pois a situação anterior será restabelecida se, antes do decurso de um ano, o agente pratica fato indicativo de persistência de sua periculosidade.  
+
+Isto posto, converto em medida de segurança restritiva prevista no art. 96, II, do Código Penal, pelo prazo mínimo de dois anos, a medida de segurança detentiva em execução, concedendo ao inimputável, conforme art. 97 dp Código Penal, a liberação condicional, cabendo-lhe realizar tratamento psiquiátrico em CAPS ou outro serviço médico adequado, encaminhando-se relatórios trimestrais a este Juízo, esclarecendo, ainda, que, nos termos do que dispõe o artigo 178, c.c. com os artigos 132 e 133 da Lei de Execução Penal, deverá:
+
+Apresentar trimestralmente a Juízo comprovação de que se submete ao tratamento médico adequado;
+
+Não mudar de endereço sem comunicar ao Juízo e não mudar do território da comarca sem prévia autorização judicial;
+
+Recolher-se até às 22h00 à sua habitação;
+
+Não freqüentar lugares onde bebidas alcoólicas sejam vendidas em balcão, além de casas de jogo e prostituição; e,
+
+Após o decurso de dois anos requisite-se novo exame de sanidade mental e avaliação de periculosidade, dando-se vista ao Ministério Público após a juntada do laudo aos autos.
+
+P.R.I. Comunique-se à UPCT e ao curador do inimputável.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Transf MP indefere
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução da pena privativa de liberdade em regime semiaberto, em que o Ministério Público requereu a transferência do PEC para a Comarca de **, local onde o apenado reside.
+
+Indagado, o juízo daquela Comarca informou a impossibilidade de receber o PEC.
+
+Relatados.
+
+De logo, anoto que não existe unidade prisional na Comarca de domicílio do apenado, a qual seria necessária para o recolhimento noturno ou cumprimento de punições por faltas médias, comuns no regime semiaberto harmonizado (prisão domiciliar monitorada eletronicamente), o que impossibilita o atendimento.
+
+Ademais, conforme decidiu a Terceira Seção do Superior Tribunal de Justiça:
+
+"A jurisprudência desta Corte entende que a transferência de preso para local próximo de sua família, onde possa obter resultados mais favoráveis no processo de ressocialização, depende de consulta prévia ao juízo de destino. 3. Inexistindo vaga, na localidade de domicílio do reeducando, no regime em que se encontra em cumprimento de pena, tanto a execução quanto a fiscalização da reprimenda devem ser mantidas com o Juízo originário da Execução" (CC n. 148.441/DF, Terceira Seção, Rel. Min. Nefi Cordeiro, DJe de 17/08/2017). .
+
+Por fim, além do juízo competente discordar com a transferência, existem problemas operacionais do SEEU a considerar, já que poucos servidores do TJRN foram treinados no uso do sistema, e menos ainda nas comarcas onde inexiste unidade prisional, não havendo qualquer prejuízo ao apenado na manutenção da situação atual.
+
+Isto posto, indefiro a transferência.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	incompetência da 13 para 17
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+ 
+
+$dadosProcesso
+
+ 
+
+Vistos etc.
+
+Trata-se de execução da pena em que verificou-se que o apenado responde a outro PEC na 17ª Vara Criminal, tendo sido solicitada a remessa destes autos.
+
+Relatados.
+
+Existindo outro PEC em andamento, em juízo diverso e com regime mais gravoso, impõe-se a remessa dos autos para unificação de penas.
+
+Isto posto, tendo por incompetente este juízo para continuar a presidir o feito, determino sua remessa à 17ª Vara Criminal de Natal.P.R.I.
+
+Cumpra-se.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+Modelo de Documento
+
+Descrição:	Medida de segurança mantendo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+*Trata-se de execução de medida de segurança detentiva onde, realizado exame de cessação de periculosidade por peritos do ITEP, opinaram esses pela continuidade do tratamento.
+
+*Trata-se de execução de medida de segurança restritiva onde, realizado exame de cessação de periculosidade por peritos do ITEP, opinaram esses pela continuidade do tratamento.
+
+Intervieram o Ministério Público e a defesa.
+
+Relatados.
+
+Como ensinava o Prof. Julio Fabbrini Mirabete, “é indeterminado o tempo de duração da medida de segurança, perdurando sua execução enquanto não cessada a periculosidade do agente” (In: Código penal interpretado. 4ª ed.,  São Paulo : Atlas, 2003, p. 629).
+
+**No caso, os peritos oficiais, psiquiatras forenses do Itep, concluíram que o periciando “em razão de transtorno de personalidade” (CID-10-F 60.0 – Personalidade Paranóica), é perigoso ao convívio social, sendo necessidade a manutenção do seu internamento**.
+
+**No caso, os peritos oficiais do ITEP, concluíram que o periciando continua necessitando de tratamento, não se verificando cessação de periculosidade.**
+
+*Isto posto, mantenho a medida de segurança detentiva pelo prazo mínimo de dois anos, cabendo à equipe técnica da Unidade Psiquiátrica de Custódia e Tratamento o seu acompanhamento, encaminhando relatórios semestrais a este Juízo.
+
+Isto posto, mantenho a medida de segurança restritiva pelo prazo mínimo de dois anos, cabendo ao curador do inimputável encaminhar a juízo comprovação trimestral de que o tratamento médico-psiquiátrico está sendo realizado.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	LC - pena cumprida durante suspensão
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que foi concedido o livramento condicional, mas adiante certificou-se que o apenado foi novamente preso e denunciado por prática de outro delito, sendo o benefício suspenso.
+
+Acrescento ao relatório que o novo processo ainda não foi julgado e que o SEEU identificou a pena como cumprida.
+
+É o relatório.
+
+Suspenso o livramento condicional e retornando o apenado ao cumprimento da pena, foi atingida a data em que previsto seu término.
+
+Ora, nos termos do art. 89 do Código Penal, "o juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento". Isso porque o período de prova, caso ocorra condenação no novo processo, não se desconta da pena o tempo em que esteve solto o apenado (CP, art. 88).
+
+Entretanto, sendo impossível antever se o apenado será condenado ou absolvido no novo processo, não pode permanecer cumprindo uma pena que não se sabe se já extinta.
+
+Isto posto, suspendo o cumprimento da pena, mandando colocar o apenado em liberdade, se inexistente outra ordem de prisão, aguardando o julgamento do novo processo, o que deverá ser buscado após três meses.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  
+  
+ 	   
+  
+  
+  
+ 	   
+  
+  
+ 	   
+  
+
+ 	   
+  

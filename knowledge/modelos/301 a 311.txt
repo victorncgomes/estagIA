@@ -1,0 +1,501 @@
+Modelo de Documento
+
+Descrição:	Amanda Pauxis - Decisão Genérica
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0521297
+Data da Criação:	12/06/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Trata-se de execução penal em desfavor do apenado acima nominado, em que a Defesa pugnou pela
+
+Instado a se manifestar, o Ministério Público opinou pelo
+
+Relatados.
+
+*Sem/Com razão a Defesa.
+
+*Com razão o Ministério Público.
+
+Isso porque
+
+ 
+
+ 
+
+P.R.I. Ciência ao MP.
+
+ 
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+ 
+Modelo de Documento
+
+Descrição:	Progressao Indeferimento ACC Regular preso menos 6 meses
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0568483
+Data da Criação:	26/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Trata-se de execução penal em desfavor do apenado acima nominado, em que o SEEU identificou o requisito objetivo para progressão de regime.
+
+Interveio o Ministério Público opinando pelo indeferimento, face a ausência de requisito subjetivo.
+
+Intimada, a Defesa pugnou pela progressão de regime.
+
+Relatados.
+
+A boa conduta carcerária é requisito subjetivo para progressão de regime (LEP, art. 112 § 1º).
+
+Já o Regulamento Disciplinar Penitenciário do Estado do Rio Grande do Norte fixa, para os apenados no regime fechado, o prazo de 06 meses sem prática de infração domiciliar de natureza grave para a conduta disciplinar ser classificada como boa.
+
+Tal prazo, à evidência, conta-se da entrada do apenado no regime fechado.
+
+Aqui, o apenado está há menos de seis meses nesse regime de cumprimento da pena, pelo que não atingiu ainda o requisito subjetivo para nova progressão.
+
+Em assim sendo, indefiro a progressão de regime, devendo o ACC ser buscado após o apenado cumprir seis meses no regime fechado.
+
+P.R.I. Ciência ao Ministério Público.
+
+Natal, data do sistema.
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	Agravo LC negado subj
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567887
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do evento * que indeferiu-lhe o livramento condicional, alegando que atingira os seus necessários requisitos.
+
+O Ministério Público contrarrazoou, pugnando pela manutenção da decisão agravada.
+
+Relatados .
+
+Sem razão o agravante, pois, apesar de atingido o requisito objetivo para o livramento condicional, não cabe o benefício.
+
+É que ficou claramente demonstrada a falta de comportamento satisfatório no cumprimento da pena (Código Penal, art. 83, III, a), pois se verifica que o apenado ***.
+
+Por oportuno, cabe anotar que o art. 83 do Codigo Penal não restringe o bom comportamento do apenado ao último ano, já que exige "bom comportamento durante a execução da pena" (alínea ).
+
+É, aliás, o teor do Tema Repetitivo 1161 da jurisprudência do Superior Tribunal de Justiça:
+
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+
+4. (...)
+
+5. Recurso especial provido. (REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023.) grifei.
+
+Em assim sendo, por seus próprios fundamentos, ou seja, por não atender o agravante aos requisitos do art. 83, III, do Código Penal, mantenho a decisão que indeferiu-lhe o livramento condicional.
+
+P.R.I. Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	progressão semiaberto comum
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567877
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+DECISÃO/OFÍCIO
+
+Executando-se pena privativa de liberdade em regime fechado o SEEU identificou que o apenado atingiu o requisito objetivo para progressão de regime, bem como informou a unidade prisional bom comportamento carcerário (evento  ).
+
+Interveio o Ministério Público, opinando pela concessão do benefício (evento  ).
+
+** Anoto que o apenado, custodiado no Complexo Penal Dr. João Chaves - CPJC, não tem em seu desfavor outro processo criminal em andamento, mandado de prisão aguardando cumprimento ou prisão preventiva decretada, conforme informações do Sistema de Automação da Justiça - SAJ, SEEU, PJe e BNMP nesta data.
+
+**Anoto que o apenado, custodiado no Complexo Penal Dr. João Chaves - CPJC, tem em seu desfavor as ações penais nºs *., sem mandado de prisão aguardando cumprimento ou prisão preventiva decretada, conforme informações do Sistema de Automação da Justiça - SAJ, SEEU, PJe e BNMP nesta data. 
+
+**Acrescento ao relatório que transcorreu o prazo determinado no evento ** para reanálise do incidente de progressão de regime.
+
+Relatados.
+
+Conforme atestado de pena, o apenado cumpriu o requisito objetivo para concessão da progressão de regime, como também apresenta bom comportamento carcerário, atendendo, portanto, aos requisitos previstos no art. 112 da LEP.
+
+Por oportuno, dada a inexistência de unidade prisional adequada ao regime semiaberto na região,  está sendo concedido o semiaberto harmonizado (semiaberto em prisão domiciliar com monitoramento eletrônico e recolhimento no horário noturno), visando possibilitar o exercício de trabalho, conforme orientação do Superior Tribunal de Justiça, verbis:
+
+Não há óbices à concessão de prisão domiciliar com monitoração eletrônica ao sentenciado em regime semiaberto, quando não há vagas no regime específico ou quando não há estabelecimento prisional adequado ou similar na localidade em que cumpre pena" (REsp 1710674/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 22/08/2018, DJe 03/09/2018).
+
+Isto posto, progrido o cumprimento da pena para o regime semiaberto, que pode ser cumprido como semiaberto harmonizado (semiaberto em prisão domiciliar com monitoramento eletrônico e recolhimento no horário noturno), obedecendo-se o regramento estipulado por portaria deste juízo.
+
+Atualize-se o atestado de pena.
+
+P. R. I. Remeta-se cópia desta decisão à unidade prisional, que valerá como determinação para transferência do apenado ao novo regime, observando-se que o apenado deverá ser  inserido no semiaberto harmonizado, ou seja, monitorado eletronicamente, em até três dias, exceto se houver algum motivo que o impeça, o que deverá ser imediatamente comunicado a este juízo.
+
+Providencie-se, se necessário, baixa de mandado de prisão no BNMP.
+
+$assinaturaJuizDireito
+
+ 	   Modelo de Documento
+
+Descrição:	agravo mantendo indeferimento LC
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567865
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Agrava o apenado da decisão do ev. * que indeferiu-lhe o livramento condicional.
+
+O Ministério Público contraarrazoou insistindo na manutenção da decisão agravada.
+
+Relatados.
+
+Sem razão o agravante, pois ficou demonstrada a falta de comportamento satisfatório no cumprimento da pena (Código Penal, art. 83, III, a), já que se verifica que o apenado praticou * falta*s grave*s.
+
+Sem razão o agravante, pois ficou demonstrada a falta do requisitos objetivo, pois o apenado praticou falta grave nos últimos doze meses, e subjetivo, já que demonstrou comportamento insatisfatório no cumprimento da pena, já que se verifica que o praticou * falta*s grave*s ((Código Penal, art. 83, III, a e b).
+
+Neste sentido, registro a jurisprudência do Superior Tribunal de Justiça que em recente julgamento de recurso repetitivo decidiu
+
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO. 1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ. 2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso). 3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal. 4. No caso concreto, o recorrido não preenche os requisitos para a obtenção do livramento condicional, diante da prática de falta grave, considerada pelo juízo da execução como demonstrativa de irresponsabilidade e indisciplina no cumprimento de pena. 5. Recurso especial provido. (Recurso Especial nº 1.970.217 - MG 2021/0361139-0. Relator Ministro Ribeiro Dantas. 24.02.2023)
+
+Houve, portanto, a pacificação do entendimento jurisprudencial para considerar que o elemento subjetivo não se limita aos últimos 12 meses e deve ser aferido durante todo o histórico prisional.
+
+Em assim sendo, por seus próprios fundamentos, mantenho a decisão que indeferiu o livramento condicional ao agravante.
+
+Intime-se o agravante para, nos termos o art. 2º, I, da Portaria nº 316-TJRN, de 29.05.2020, selecionar e gravar os arquivos das peças necessárias à formação do instrumento de agravo, que deverá protocolar diretamente no PJe de 2º grau.
+
+$assinaturaJuizDireito
+
+
+ 	   Modelo de Documento
+
+Descrição:	LC revogação nova condenação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567762
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Em gozo de livramento condicional o apenado preso e condenado definitivamente por prática de novo delito doloso, tendo sido recebida a correspondente Guia de Recolhimento neste juízo.
+
+Interveio o Ministério Público.
+
+É o relatório.
+
+Nos termos do art. 86, I, do Código Penal, revoga-se o livramento se o liberado vem a ser condenado a pena privativa de liberdade, em sentença irrecorrível, por crime cometido durante a vigência do benefício.
+
+É o caso, desnecessárias maiores considerações a respeito, especialmente quando se nota transitada em julgado a nova decisão condenatória***, inclusive depois de confirmada pela segunda instância.
+
+Por oportuno, anoto tratar-se de crime posterior ao benefício, não se descontando da pena, em conseqüência, o tempo em que esteve solto o apenado (Código Penal, art. 88).
+
+Isto posto, revogo o livramento condicional de que beneficiário o apenado.
+
+P.R.I., expedindo-se nova Guia de Execução Criminal,  não constando como pena cumprida o período em que o apenado esteve solto em razão do livramento condicional. *Voltem-me para decidir acerca da unificação ou soma das penas.
+
+$assinaturaJuizDireito
+Modelo de Documento
+
+Descrição:	Insanidade mental indeferimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567758
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de incidente de insanidade mental do apenado acima identificado, tendo sido apresentado o competente laudo referente ao exame e dadas vistas dos autos ao Ministério Público e à defesa, que concordaram com suas conclusões.
+
+Relatados.
+
+Submetido o apenado a exame de insanidade mental, os peritos do ITEP responderam que o apenado é portador de doença mental (*), a qual, entretanto não compromete sua capacidade de entender o caráter da pena e de se determinar de acordo com esse entendimento.
+
+As partes nada opuseram ao laudo pericial.
+
+Em assim sendo, homologo, para que seus jurídicos e legais efeitos produza, o incidente de sanidade mental, bem como o respectivo laudo oferecido pelos peritos médico-legais, e indefiro o pedido de conversão da pena em medida de segurança.
+
+P.R.I. Aguarde-se novo incidente na execução penal.
+
+$assinaturaJuizDireito
+
+
+ 	   Modelo de Documento
+
+Descrição:	LC preventiva negando
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0567682
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+O SEEU identificou o apenado como tendo atingido o requisito objetivo para livramento condicional, tendo o Ministério Público opinado pelo indeferimento, face a ausência de requisito subjetivo, enquanto a defesa  ***.
+
+Acrescento ao relatório que a secretaria (evento ***) certificou que consta prisão preventiva decretada em desfavor do apenado em ação penal a que responde.
+
+É o relatório.
+
+Apesar de atingido o requisito objetivo, não cabe o benefício ao apenado.
+
+É que ficou claramente demonstrada a falta de bom comportamento no cumprimento da pena (Código Penal, art. 83, III, a), pois se verifica que o apenado teve sua prisão preventiva decretada em outra ação penal a que responde, por suposto delito praticado durante a execução da pena.
+
+Neste sentido decidiram os Tribunal de Justiça do Rio Grande do Sul, São Paulo e Paraná:
+
+AGRAVO EM EXECUÇÃO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. SUPERVENIENTE DECRETAÇÃO DE PRISÃO PREVENTIVA EM PROCESSO DISTINTO. ALTERAÇÃO FÁTICA SUBSTANCIAL. TENDO EM VISTA QUE FOI DECRETADA A PRISÃO DO RÉU NOUTRO PROCESSO E EXPEDIDO MANDADO DE PRISÃO, A SITUAÇÃO FÁTICA DO APENADO NÃO AUTORIZA O DEFERIMENTO DO PEDIDO DE LIVRAMENTO CONDICIONAL. AGRAVO DESPROVIDO. (Agravo de Execução Penal, Nº 52360126520228217000, Primeira Câmara Criminal, Tribunal de Justiça do RS, Relator: Jayme Weingartner Neto, Julgado em: 27-04-2023).
+
+Agravo em Execução Penal - Pleitos de progressão ao regime semiaberto e de livramento condicional, indeferidos - Recurso da defesa - Impossibilidade de concessão dos benefícios prisionais almejados, ante a falta de preenchimento de requisito subjetivo - Agravante que responde a ações penais em curso em outro Estado da Federação (por furtos qualificados e associação criminosa), com ordens de prisão preventiva pendentes de cumprimento - Circunstância incompatível com as benesses em estudo - Ausência de juízo minimamente seguro para o deferimento de maior liberdade  - Retorno ao convívio social que deve se dar de forma gradativa, mediante a demonstração de assimilação da terapêutica penal, o que não se verifica, in casu – Agravo não provido (TJ-SP 00079249120178260026 SP, Relator: Juvenal Duarte, Data de Julgamento: 22/02/2018, 5ª Câmara de Direito Criminal).
+
+RECURSO DE AGRAVO. Pedido de reforma da r. Decisão que indeferiu o pedido de progressão de regime e livramento condicional. Requisito subjetivo não preenchido. Decreto de prisão preventiva em ação penal diversa. Incompatibilidade da prisão cautelar do apenado com a concessão dos benefícios pretendidos. Súmula no 716, do STF. Inaplicabilidade. Situação diversa. Decisão mantida. Recurso desprovido. (TJ-PR; RecAgrav 1642044-5; Maringá; Quarta Câmara Criminal; Rel. Des. Carvilio da Silveira Filho; Julg. 03/08/2017; DJPR 21/08/2017; Pág. 290)
+
+O Superior Tribunal de Justiça, aliás, já anotou que a decretação da prisão preventiva em outro processo por fato praticado durante a execução da pena mostra ausência do requisito subjetivo para o livramento condicional tornando o benefício, aliás, “sem efeito a prisão cautelar, colocando em risco a sociedade” (AgRg no HC n. 791.083/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/2/2023, DJe de 27/2/2023.)
+
+Ora, se há fundamento para manutenção da prisão preventiva por razões de ordem pública, por coerência, não haveria o preenchimento, em tese, do requisito subjetivo para o livramento condicional.
+
+Se a ordem pública resta ameaçada pela liberdade do apenado, inadequada seria sua liberdade.
+
+Isto posto, por ausência do requisito subjetivo, indefiro o livramento condicional ao apenado.
+
+P.I. Registre-se no SEEU.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	LC indefere subjetivo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0564607
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+O SEEU identificou o apenado como tendo atingido o requisito objetivo para o livramento condicional em **.
+
+Interveio o Ministério Público, opinando pelo indeferimento, considerando que, no curso da execução penal, o apenado foi penalizado com falta grave, enquanto a defesa ***.
+
+Relatados .
+
+Apesar de atingido o requisito objetivo para o livramento condicional, não cabe o benefício ao apenado.
+
+É que ficou claramente demonstrada a falta de comportamento satisfatório no cumprimento da pena (Código Penal, art. 83, III, a), pois se verifica que o apenado ***.
+
+Por oportuno, cabe anotar que o art. 83 do Codigo Penal não restringe o bom comportamento do apenado ao último ano, já que exige "bom comportamento durante a execução da pena" (alínea ).
+
+É, aliás, o teor do Tema Repetitivo 1161 da jurisprudência do Superior Tribunal de Justiça:
+
+PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. ÚLTIMOS 12 MESES. REQUISITO OBJETIVO. BOM COMPORTAMENTO. REQUISITO SUBJETIVO. AUSÊNCIA DE LIMITAÇÃO TEMPORAL. AFERIÇÃO DURANTE TODO O HISTÓRICO PRISIONAL. TESE FIRMADA. CASO CONCRETO. NÃO PREENCHIMENTO DOS REQUISITOS. RECURSO PROVIDO.
+1. Recurso representativo de controvérsia. Atendimento ao disposto no art. 1036 e seguintes do Código de Processo Civil e da Resolução n. 8/2008 do STJ.
+2. Delimitação da controvérsia: definir se o requisito objetivo do livramento condicional consistente em não ter cometido falta grave nos últimos 12 meses (art. 83, III, "b", do CP, inserido pela Lei Anticrime) limita a valoração do requisito subjetivo (bom comportamento durante a execução da pena, alínea "a" do referido inciso).
+3. Tese: a valoração do requisito subjetivo para concessão do livramento condicional - bom comportamento durante da execução da pena (art. 83, inciso III, alínea "a", do Código Penal) - deve considerar todo o histórico prisional, não se limitando ao período de 12 meses referido na alínea "b" do mesmo inciso III do art. 83 do Código Penal.
+4. (...)
+5. Recurso especial provido. (REsp n. 1.970.217/MG, relator Ministro Ribeiro Dantas, Terceira Seção, julgado em 24/5/2023, DJe de 1/6/2023.) grifei.
+Isto posto, face não atender o apenado aos requisitos do art. 83, III, do Código Penal, indefiro o livramento condicional.
+
+P.R.I. Faça-se o registro no SEEU
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+$rodape
+Modelo de Documento
+
+Descrição:	Conferir prescrição (novo)
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	TJRN.000172.003761.0564040
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Certifique-se, à vista do SAJ, SEEU, PJe, BNMP 2.0 e SIAPEN, se o apenado registra novas prisões após a data da fuga, bem como se constam outros processos criminais em seu desfavor (em andamento ou arquivados).
+
+*Após, dê-se vista ao Ministério Público para opinar  sobre possível prescrição.
+
+*Após, voltem-me conclusos para decidir sobre possível prescrição.
+
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+
+ 
+
+ 
+
+ 
+
+$rodape
+
+
+ 	   
+  
+
+ 	   Modelo de Documento
+
+Descrição:	Retificação GEP data-base crime único
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+O Superior Tribunal de Justiça, em decisão de sua Terceira Seção, competente para unificar a jurisprudência criminal, em hipótese de unificação do art. 111 da LEP, delimitou a tese jurídica, em recurso especial repetitivo, de que a fixação da data-base para benefícios executórios é pautada pelo princípio da legalidade.
+
+Por isso, para cálculos de progressão de regime, entendeu que a desconsideração do período de cumprimento de pena desde a prisão do apenado ou desde a prática de novo crime ou falta grave configura excesso de execução (ProAfR no REsp 1.753.509/PR, 3ª S., DJe 11/3/2019).
+
+Trata-se de ficção decorrente do art. 42 do CP, aplicável também em situação de condenação em apenas um processo, quando o período de prisão cautelar é considerado, na fase da execução penal, como pena efetivamente cumprida (arts. 42 do CP e 66, III, "c", da LEP).
+
+Claro que o raciocínio não pode culminar na detração do art. 42 do CP em duplicidade, na sentença (pelo Juiz de conhecimento) e, outra vez, na fase da sua execução. Dito de outra forma, computa-se, na pena privativa de liberdade, o tempo de prisão provisória, no Brasil ou no estrangeiro, mas não há previsão de que o período seja diminuído em duplicidade.
+
+Assim, são diferentes as situações que podem surgir, a depender do momento da observância do art. 42 do CP.
+
+O processo de execução penal poderá abranger: a) o saldo remanescente de pena aplicada ao crime, quando o Juiz de conhecimento já abateu o período de prisão provisória do total da condenação, para fixação do regime prisional, em conformidade com o art. 387, § 2°, do CPP ou b) o total da pena aplicada ao crime, quando a detração penal terá de ser feita pelo Juiz das Execuções.
+
+In casu, a detração penal não foi realizada na sentença e a guia de execução refere-se ao total da pena aplicada ao réu, sem nenhum abatimento anterior. O tempo de prisão provisória está sendo considerado como pena privativa de liberdade efetivamente cumprida (art. 66, III, "c", da LEP), não podendo desconsiderar seu termo inicial no cálculo da progressão de regime.
+
+Assim, a data da prisão preventiva será o termo inicial do benefício do art. 112 do CP e o cálculo penal não poderá ser interrompido sem previsão legal, vale dizer, sem notícia de prática de outro fato definido como crime doloso ou de falta grave.
+
+É verdade que se encontram precedentes do STJ e até do Supremo Tribunal Federal que consideram a data da última prisão como termo de benefícios.
+
+Entretanto, consoante o princípio da legalidade, apenas o legislador pode estabelecer hipóteses de interrupção da data-base de direitos executórios.
+
+O gozo de liberdade provisória ou o novo recolhimento do condenado para dar início à execução definitiva não são hipóteses, previstas na LEP, de reinício da contagem do prazo para progressão de regime e nem qualquer período em que o apenado permaneceu solto pode ser considerado como resgate de sua pena.
+
+A data da prisão preventiva é o termo inicial do benefício e a fração do art. 112 da LEP, por sua vez, deve incidir sobre o total da reprimenda aplicada na sentença, sem nenhum abatimento, pois, caso contrário, haveria a diminuição em dobro de período de recolhimento cautelar, o que não é albergado pelo art. 42 do CP.
+
+Ou seja, qualquer lapso de liberdade provisória em nenhuma hipótese será creditado como sanção privativa de liberdade efetivamente cumprida, pois não há permissivo legal para tanto.
+
+Nestes sentido:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. ÚNICA CONDENAÇÃO. DETRAÇÃO PENAL. TEMPO DE PRISÃO PROVISÓRIA COMPUTADO COMO PENA EFETIVAMENTE CUMPRIDA. CONSIDERAÇÃO NO PRAZO PARA PROGRESSÃO DE REGIME. INCIDÊNCIA DA FRAÇÃO SOBRE O TOTAL DA PENA, SEM ABATIMENTO ANTERIOR. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Esta Corte, em hipótese de unificação do art. 111 da LEP, delimitou a tese jurídica, em recurso especial repetitivo, de que a fixação da data-base para benefícios executórios é pautada pelo princípio da legalidade. Por isso, para cálculos de progressão de regime, a desconsideração do período de cumprimento de pena desde a prisão do apenado ou desde a prática de novo crime ou falta grave configura excesso de execução (ProAfR no REsp 1.753.509/PR, 3ª S., DJe 11/3/2019). 2. O raciocínio é em tudo aplicável à condenação relacionada a um único processo. Se o Juízo das Execuções (art. 66, III, "c", da LEP) considera o período de prisão ante tempus como pena efetivamente cumprida, não pode deixar de adotar seu termo inicial para individualizar a progressão de regime. Por ficção jurídica, entende-se que o reeducando iniciou o resgate da sanção antes mesmo de ser julgado e, portanto, é esse o marco temporal para o benefício, que somente poderá ser interrompido se houver previsão legal para tanto. A fração do art. 112 da LEP, por sua vez, incidirá sobre o total da reprimenda aplicada ao réu, sob pena de detração penal em dobro, o que não é albergado pelo art. 42 do CP. 3. O lapso de liberdade provisória em nenhuma hipótese será creditado como sanção privativa de liberdade efetivamente cumprida, pois não há permissivo legal para isso. 4. Agravo regimental não provido. (AgRg no HC n. 719.763/MS, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 29/3/2022, DJe de 1/4/2022.).
+
+Isto posto, por não encontrar respaldo legal para entender que a data-base para concessão de novos benefícios executórios deva ser a data da última prisão efetuada, *****mando retificar a guia de execução penal, fazendo constar como data-base para a progressão de regime o dia da segregação provisória do condenado, sendo irrelevante eventual lapso de liberdade, ou seja, observando que os períodos de soltura não serão reconhecidos como efetiva reclusão, para nenhum fim. *****mantenho a guia de execução penal como se encontra, ou seja, constar como data-base para a progressão de regime o dia da segregação provisória do condenado, sendo irrelevante eventual lapso de liberdade, de forma que os períodos de soltura não serão reconhecidos como efetiva reclusão, para nenhum fim.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  
+  
+  
+  
+
+ 	   
+  
+  
+  
+  
+ 	   
+  

@@ -1,0 +1,30 @@
+// Modelos extraídos da pasta OLD - faltaMedia
+// Total: 1 modelos
+// Tipos: decisao
+// Formatos: ODT
+// Data: 2026-01-21T00:41:14.321Z
+
+export const MODELOS_FALTAMEDIA_OLD = [
+    {
+        id: 'old_modelos_falta_m_dia_odt',
+        nome: 'MODELOS FALTA MÉDIA',
+        tipoDocumento: 'decisao',
+        magistrado: 'henriqueBaltazar',
+        agrupador: 'faltaMedia',
+        fonteOriginal: 'OLD_ODT',
+        dataExtracao: '2026-01-21',
+        conteudo: `DIOGO LIMA DE FARIAS
+
+Vistos etc.
+Cumprindo pena privativa de liberdade em regime semiaberto, com autorização para saídas externas, o apenado não se recolheu  por sete noites no mês de julho deste ano (ev. 50), quando já fora punido por faltas anteriores.
+Pelo que observo dos autos, embora determinado por este juízo que o sistema penitenciário comprovasse o cumprimento das sanções impostas nas decisões de eventos 35.1 e 40.1, o estabelecimento prisional apenas lavrou o "ciente" da determinação, sem qualquer comunicação a esta VEP acerca do recolhimento do apenado, acumulando portanto duas faltas aplicadas sem qualquer retorno a este juízo.
+Relatados.
+Conforme informado pela administração penitenciária, desatendeu o apenado ao previsto no inc. I, parte final, do art. 39 da lei nº 7.210/84 (“cumprimento fiel da sentença”), praticando falta disciplinar média, prevista no Regulamento Disciplinar do Sistema Penitenciário do Rio Grande do Norte, art. 74, inc. IV, merecendo punição.
+Ocorre que a referida falta não importa em regressão de regime, pelo que deverá o apenado continuar a cumprir a pena no regime semiaberto, com as consequências cabíveis no tocante ao registro de seu comportamento, o que, dada a reincidência e o ao extremo abuso demonstrado, também importará na suspensão da autorização para saída externa pelo triplo do número de faltas. 
+Quanto à ausência de informação do estabelecimento prisional acerca do cumprimento das decisões de eventos 35.1 e 40.1, a mera ciência da determinação judicial, registrada pela autoridade competente, não comprova a efetivação de seu conteúdo, tornando-se necessária a reiteração de comunicação ao estabelecimento competente para que cumpra a determinação deste juízo, sob as penas da legislação vigente. 
+Isto posto, reconheço a prática de falta média e suspendo as autorizações de saídas externas desvigiadas do apenado por vinte e um dias, mandando recolhê-lo ao presídio, constando também no quadro de eventos sete dias como pena não cumprida. Determino, ainda, que oficie-se ao estabelecimento prisional para que comprove, no prazo de cinco dias, o cumprimento das decisões de eventos 35.1 e 40.1, sob as penas da lei. 
+Encaminhe-se cópia do presente ao CPJC, servindo como comunicação para as providências devidas. 
+Decorrido o prazo de cinco dias, voltem-me conclusos. 
+P.R.I.`,
+    },
+];

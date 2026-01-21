@@ -1,0 +1,953 @@
+Modelo de Documento
+
+Descrição:	progressão CTC
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+ 
+Vistos etc
+Executando-se pena privativa de liberdade em regime fechado, certificou-se que o apenado atingiu o requisito objetivo para progressão, bem como informou a unidade prisional que ele apresenta bom comportamento prisional.
+Interveio o Ministério Público, opinando *pela progressão de regime. *contrariamente à progressão de regime, por entender que **submissão do apenado a exame criminológico.
+Relatados.
+Como se lê na jurisprudência do Supremo Tribunal Federal, mostra-se “viável a realização do exame criminológico nas situações em que o Juiz da Execução, forte no exercício do poder geral de cautela, considerar necessário para a formação do seu convencimento” (Rcl nº 22.685/SP, Primeira Turma,Relatora para o acórdão a MinistraRosa Weber, DJe de 16/9/2016).
+No mesmo sentido, já anotara a Suprema Corte, ao julgar reclamação em que relator o Ministro Celso de Mello:
+Reclamação – Alegado desrespeito ao enunciado constante da Súmula Vinculante nº 26/STF – Inocorrência – Progressão de regime – Reconhecimento a possibilidade de o Juízo da Execução Criminal ordenar, mediante decisão fundamentada, a realização de exame criminológico – Importância do mencionado exame na aferição da personalidade e do grau de periculosidade do sentenciado - Edição da Lei nº 10.792/2003, que deu nova redação ao art. 112 da LEP – Diploma legislativo que, embora omitindo qualquer referência ao exame criminológico, não lhe veda a realização, sempre que julgada necessária pelo magistrado competente - Consequente legitimidade jurídica da determinação, pelo Poder Judiciário, do exame criminológico - Precedentes - Parecer da PGR pela improcedência da reclamação - Recurso de agravo improvido. (Rcl 18734 AgR, Relator(a):  Min. CELSO DE MELLO, Segunda Turma, julgado em 16/12/2014, PROCESSO ELETRÔNICO DJe-038 DIVULG 26-02-2015 PUBLIC 27-02-2015).
+**No caso, trata-se de apenado que teve regressões de regime anteriores, pela prática de faltas graves, notadamente fugas (ocorridas duas vezes) quando beneficiado com progressão, mostrando-se imprescindível sua submissão a exame criminológico, com o escopo de verificar se se encontra satisfeito, na espécie, o requisito subjetivo legalmente exigido para a concessão de benefício, o qual não se subsume a simplesmente não ter praticado falta grave por alguns meses.
+**No caso, trata-se de apenado por crime hediondo e que responde a outras 3-4-5- ações penais, enquanto já foi condenado outra duas* vezes (penas já unificadas * penas ainda não unificadas, pois lhe foi permitido o recurso em liberdade), mostrando-se imprescindível sua submissão a exame criminológico, com o escopo de verificar se se encontra satisfeito, na espécie, o requisito subjetivo legalmente exigido para a concessão de benefício, o qual não se subsume a simplesmente não ter praticado falta grave por alguns meses.
+Isto posto, mando submeter o apenado a exame criminológico, que deve ser requisitado à Sejuc, fixando-se prazo de 15 dias para juntada do suas conclusões aos autos.
+Atendido, dê-se nova vista ao Ministério Público.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	monitoramento bateria sem carga definitiva
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Executando-se em regime semiaberto pena privativa de liberdade, foi ao apenado concedida prisão domiciliar com monitoramento eletrônico, tendo a SEAP/CEME informado que ele deixara descarregar completamente a bateria do equipamento desde ***.
+Oportunizado ao apenado justificar-se, disse que ***.
+Adiante, opinou o Ministério Público pelo reconhecimento da falta grave, com regressão de regime, enquanto o defensor observou que *.
+Relatados.
+Determina a Lei de Execução Penal, no art. 146-C, inciso I,  que o condenado fiscalizado por meio da monitoração eletrônica tem o dever de "receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações, esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+Por outro lado, o mesmo diploma estatui, no art. 50, inciso VI, c/c. art. 39, inciso V, configurar falta grave descumprir as ordens recebidas.
+No caso, ao  deixar  de  carregar  a  bateria  da  tornozeleira eletrônica,  com a perda do sinal do GRPS, e não ter atendido às ligações telefônicas, o  apenado  desobedeceu  à  ordem  de  manter o aparelho em funcionamento, o que configura falta grave, impedindo inclusive a vigilância eletrônica, o que, em última análise, configura fuga.
+Ora, consoante o art. 146-C da LEP, os apenados que são incluídos em prisão domiciliar com monitoramento eletrônico, são instruídos acerca dos cuidados que deverão adotar com o equipamento, sendo-lhe impostos deveres de abstenção, dentre os quais de remover, modificar ou danificar a tornozeleira. No caso, o fato de ter o apenado intencionalmente impedido a emissão de sinal, deixando sem carga a bateria do equipamento, é circunstância correspondente à falta grave consistente em fuga, uma vez que inviabiliza a fiscalização da execução da pena, o que equivale a estar em fuga.
+Neste sentido:
+"HABEAS  CORPUS.  EXECUÇÃO  PENAL. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ESPECIAL.  FALTA GRAVE. CONFIGURAÇÃO. REGRESSÃO. POSSIBILIDADE. WRIT NÃO CONHECIDO. 1. (...) 2.  Caso em que não se vislumbra constrangimento ilegal a ser sanado de ofício. Ao deixar de carregar a bateria da tornozeleira eletrônica e circular pela cidade livremente pela cidade, longe da esfera de vigilância das autoridades competentes, como consta dos autos, o paciente desobedeceu à ordem de manter o aparelho em funcionamento, incidindo na hipótese do art. 50, inciso VI, c.c. o art. 39, inciso V, ambos da Lei de Execução Penal - LEP. 3. O art. 146-C, parágrafo único, inciso I, da Lei de Execução Penal autoriza a regressão de regime, não se vislumbrando, no ponto, qualquer ilegalidade. 4. Writ não conhecido. (HC 342.466/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, j.em 02/06/2016).
+Finalmente, observo que, nos termos do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar fato definido como  falta grave.
+Isto posto, torno definitiva a regressão do regime prisional para fechado,  bem como considero perdido um terço**quinto (dada a confissão) do tempo já remido e o que viesse a ser remido até a data da falta disciplinar.
+Atualize-se a GEP.
+P.R.I.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	falta grave sem provas
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+*Cumprindo pena privativa de liberdade em regime fechado, foi o apenado punido disciplinarmente, por ter praticado falta grave consistente em **.
+*O apenado teve o regime prisional regredido para fechado em razão de **.
+Em audiência, o apenado apresentou justificativa, alegando que ...  
+Interveio o Ministério Público, opinando pelo não reconhecimento da falta grave, dada a falta de provas, enquanto a defesa pugnou pelo acatamento das justificativas apresentadas.
+Relatados.
+Além do apenado negar a conduta, a sindicância junta ao evento ** não apresenta provas suficientes de que ele a teria praticado.
+Impossível me parece homologar-se punição amparada em tal instrumento processual.
+*Em assim sendo, cancelo a punição disciplinar aplicada a *.
+*Em assim sendo, revogo a decisão que regrediu provisoriamente o regime prisional, retornando o apenado a cumprir a pena como antes imposta.
+Comunique-se ao estabelecimento prisional e atualize-se a Guia de Execução Penal.
+Diligencie-se.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	retificação tráfico privilegiado
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+Tratam os autos de execução de pena em que o Ministériio Público pugnou pela retificação da guia, posto ter utilizado fração errada de cumprimento da pena para benefício prisional, já que o delito de tráfico de drogas privilegiado (lei 11.343, art. 33, § 4º) não seria hediondo.
+Relatados.
+Com razão o Ministério Público, pois o Supremo Tribunal Federal, no julgamento do HC 118.533, Rel. Min. Cármen Lúcia, firmou orientação no sentido de que o tráfico privilegiado (art. 33, parágrafo 4º, da Lei 11.343/2006), não deve ser considerado crime de natureza hedionda.
+Isto posto, mando retificar a guia de execução penal, utilizando nos cálculos para benefícios prisionais as frações de pena adequadas aos crimes comuns (não hediondos).
+P.R.I.
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	prisão domiciliar indeferindo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução de pena privativa de liberdade imposta a , de * anos e ** meses de reclusão por delito capitulado no art. *** do Código Penal, atualmente em regime semiaberto, tendo ela apresentado justificativa dos dez dias de ausência, alegando doença intestinal não especificada por protozoários (fls. XX).
+Interveio o Ministério Público opinando pelo indeferimento (fl. 55).
+Relatados.
+O art. 117 da LEP somente autoriza a concessão de prisão domiciliar para condenado em regime aberto, nas hipóteses expressamente previstas: (a) condenado maior de 70 anos; (b) condenado acometido de doença grave; © condenada com filho menor ou deficiente físico ou mental; (d) condenada gestante.
+É cediço que a jurisprudência tem admitido a concessão de prisão domiciliar para condenados em regime fechado, mas somente em situações excepcionalíssimas, no caso de portadores de doença grave, quando comprovada a impossibilidade da assistência médica no estabelecimento prisional em que cumprem pena.
+Não é o caso, pois a apenada tem recebido a devida atenção à saúde. pois é atendida regularmente pela equipe médica da unidade prisional e conduzida para tratamento externo sempre que necessário.
+**Assim, verifica-se que a penitente não satisfaz os requisitos autorizadores para a concessão da prisão domiciliar, mesmo que por dez dias, porquanto cumpre pena em regime semiaberto, apenas assinando a lista de presença, sem recolhimento ao presídio, bem como não demonstrou a inviabilidade de tratamento concomitante ao cumprimento da pena.
+Ante o exposto, e em consonância com o parecer ministerial, indefiro o pleito da Defensoria Pública e tenho como pena não cumprida o período de XX deste ano, devendo-se, portanto, atualizar a GEP.
+P.I., solicite-se atestado de conduta carcerária atualizado, inclusive constando os dias de ausência da apenada
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	LC concessão
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Vara Criminal
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+ 
+Vistos etc.
+Trata-se de execução de pena de XXX de reclusão, atualmente em regime XX, sendo noticiado que o apenado atingiu requisito objetivo para possível concessão de livramento condicional, 
+**requer o livramento condicional face à pena pela qual condenado, alegando atender às condições estabelecidas na legislação penal em vigor**,
+no que mereceu parecer favorável do **Conselho Penitenciário** e do Ministério Público.
+Relatados.
+Trata-se de condenado por delito de *, cuja pena importou em * anos de reclusão, atualmente em regime *, mas já cumprida mais de **dois terços**, estando previsto seu término para *, sendo informado pelo estabelecimento penal como tendo boa conduta carcerária (fl. **).
+Interveio o Ministério Público, opinando pela concessão do livramento condicional.
+De seu lado, verifica-se atender o apenado às exigências dos diversos incisos do art. 83 do estatuto penal, pois cumpriu mais de **dois terços da pena**, comprovando no seu decorrer comportamento satisfatório, enquanto ressarciu os danos causados.
+Isto posto, com fundamento nos arts. 83 e seguintes do Código Penal c/c arts. 131 e segs. da Lei de Execução Penal, concedo ao apenado o livramento condicional, impondo-lhe, sob pena de revogação do benefício, a observância das seguintes condições, até a data do término do cumprimento da pena: comparecer mensalmente a este Juízo para comprovar residência fixa e trabalho honesto; recolher-se à sua residência até às 23h00; não freqüentar bares, casas de prostituição e de jogos ilícitos; não ingerir bebidas alcóolicas ou similares; não usar drogas ilícitas; não portar armas; não mudar de residência sem prévio aviso a este Juízo, do qual precisará de autorização para residir fora da Comarca.
+Expeça-se Carta de Livramento, nos termos do art. 136 da Lei 7.210/84.
+Comunique-se ao Conselho Penitenciário para designar cerimônia do livramento condicional.
+P.R.I., diligenciando-se como necessário.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	progressao cautelar
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução de pena do apenado acima nominado, atualmente em regime fechado, em que observado o cumprimento de mais de  um sexto da reprimenda** dois quintos da reprimenda**, enquanto comprovado documentalmente bom comportamento carcerário.
+Acrescento ao relatório que não consta intervenção do Ministério Público, face a proximidade do recesso natalino, evitando prejuízos ao apenado.
+
+Anoto existir (em) em desfavor do apenado ação penal nº XXX em curso na XXX, **ainda sem julgamento **com ordem de prisão decretada ** conclusa para sentença desde XX, consoante informação contida no Sistema de Automação do Judiciário – SAJ.
+
+Anoto que o apenado foi condenado pelo Juízo da XX, processo nº XX, a pena  de XX de reclusão, com direito a recorrer em liberdade ** sem direito a recorrer em liberdade, encontrando-se os autos remetidos ao eg. Tribunal de Justiça, consoante informação contida no Sistema de Automação do Judiciário – SAJ.
+
+Dispõe a Lei de Execução Penal, no art. 112, que cumprido ao menos um sexto da pena imposta, será transferido o apenado para regime menos rigoroso, se ostentar bom comportamento carcerário, o que ficou explicitado nos documentos juntos.
+**É o caso.
+**No caso de crime hediondo ou equiparado, porém, a Lei 8.072/90, com a redação que foi dada ao seu art. 2º, § 2º, pela Lei 11.464/2007, dispõe  que "a progressão de regime, no caso dos condenados aos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente".
+**Aqui, trata-se de crime hediondo, com apenado não reincidente e que já cumpriu mais de dois quintos da pena em execução, sendo comprovado **** comportamento carcerário (fl. **).
+
+Registro que dada a dificuldade na manifestação ministerial no curto prazo, a progressão será deferida cautelarmente, evitando prejuízos ao apenado.
+Isto posto, progrido cautelarmente para o regime semiaberto o cumprimento da pena.
+P. R. I. Comunique-se a unidade prisional, para que providencie a transferência do apenado ao regime adequado, dando-se em seguida vista ao Ministério Público.
+Caso não haja discordância ministerial, aguarde-se transferência para o novo incidente na execução penal. Ocorrendo o contrário, voltem-me para nova decisão.
+
+ 
+
+
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+
+ 
+
+ Modelo de Documento
+
+Descrição:	monitoramento bateria sem carga cautelar
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Executando-se pena privativa de liberdade em regime semiaberto, foi ao apenado concedida prisão domiciliar com monitoramento eletrônico, tendo a SEAP/CEME informado que deixara descarregar completamente a bateria do equipamento desde ***.
+
+Relatados.
+
+Determina a Lei de Execução Penal, no art. 146-C, inciso I, que o condenado fiscalizado por meio da monitoração eletrônica tem o dever de "receber visitas do servidor responsável pela monitoração eletrônica, responder aos seus contatos e cumprir suas orientações, esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+
+Por outro lado, o mesmo diploma estatui, no art. 50, inciso VI, c/c. art. 39, inciso V, configurar falta grave descumprir as ordens recebidas.
+
+No caso, ao deixar de carregar a bateria da tornozeleira eletrônica, com a perda do sinal do GRPS, e não ter atendido às ligações telefônicas, o apenado desobedeceu à ordem de manter o aparelho em funcionamento, o que configura falta grave.
+
+Neste sentido:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE. MANTER EQUIPAMENTO DE MONITORAMENTO ELETÔNICO DESCARREGADO. CARACTERIZAÇÃO. ART. 50, VI, C/C ART. 39, V, DA LEP. REGRESSÃO DE REGIME. LEGALIDADE. RECURSO NÃO PROVIDO. 1. In casu, ao deixar de carregar a bateria da tornozeleira eletrônica e circular pela cidade livremente, longe da esfera de vigilância das autoridades competentes, como consta dos autos, o paciente desobedeceu à ordem de manter o aparelho em funcionamento, incidindo na hipótese do art. 50, inciso VI, c.c. o art. 39, inciso V, ambos da Lei de Execução Penal – LEP. 2. A prática de infração disciplinar de natureza grave ocasiona a regressão de regime prisional. Precedentes desta Corte. 3. Agravo regimental não provido. (AgRg no HC n. 595.942/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/2/2021, DJe de 11/2/2021.)
+
+Finalmente, observo que, nos termos do art. 118, I, da LEP, a execução da pena privativa de liberdade ficará sujeita à forma regressiva, com a transferência para qualquer dos regimes mais rigorosos, quando o condenado praticar fato definido como falta grave.
+
+Isto posto, decreto cautelarmente a regressão provisória, para fechado, do regime prisional imposto ao cumprimento da pena.
+
+Expeça-se mandado de prisão e, quando cumprido, coloque-se o feito em pauta para audiência de justificação.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	retificação GEP data-base negando
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+Tratam os autos de execução de pena em que o Ministério Público pugnou pela retificação da guia, alegando erro na sua expedição, por entender que a data-base para as progressões deveria  ser a da última prisão, calculando-se o requisito objetivo sobre o saldo da pena.
+Relatados.
+Sem razão o Ministério Público, pois, no caso da execução de uma única condenação, o requisito objetivo deve ser calculado sobre a pena total, utilizando-se como data-base a data da primeira prisão (ou da última falta grave, se ocorrida), e não a última prisão ou mesmo a data do trânsito em julgado da sentença condenatória.
+Ademais, deve ser considerada como pena cumprida todo o período de recolhimento, aí incluída as prisões provisória e a definitiva.
+Nesse sentido:
+"(...) em se tratado de única condenação criminal com trânsito em julgado, o marco inicial da contagem do prazo para a concessão de benefícios da execução, permanecendo o réu segregado na fase processual, deve ser a data da sua prisão cautelar, e não o momento do trânsito em julgado da sentença penal condenatória." (AGRAVO EM RECURSO ESPECIAL Nº 208.602, Relator: Min. MARCO AURÉLIO BELLIZZE, j. 01/08/2014).
+(...) considerar a data do trânsito em julgado da sentença penal condenatória como data-base para a obtenção dos benefícios da execução, além de negar vigência à legislação penal em vigor e à jurisprudência assente nos Tribunais Superiores, causaria bis in idem contra e não em benefício do sentenciado, até porque tal instituto é de aplicabilidade em favor do réu e não do Estado. Além disso, poderia ocasionar que sentenciados ao cumprimento de penas mais curtas viessem a cumpri-la integralmente em regime fechado, sem a possibilidade de progressão, pois esta dependeria do trânsito em julgado da condenação. (AREsp 311676 Relª Ministra ALDERITA RAMOS DE OLIVEIRA - DESEMBARGADORA CONVOCADA DO TJ/PE - , Dje 25/04/2013)
+Isto posto, mantenho a guia de execução penal na forma como lançada.
+P.R.I.   
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	regressão fuga inexistente revogação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de execução da pena imposta a [Todas as Partes Passivas] em reque foi regredido cautelarmente o regime prisional em razão do CPJC ter informado que o apenado estaria foragido.
+Adiante a autoridade carcerária pediu fosse desconsiderada a informação de fuga do apenado, haja vista ele estar *se recolhendo regularmente*inserido no sistema de monitoração eletrônica, incorrendo a secretaria da unidade prisional em engano.
+Relatados.
+Resta evidente que a decisão de regressão de regime foi fundada em informação equivocada emitida pela Direção do estabelecimento prisional, sendo necessária a sua retificação.
+Diante do exposto, torno sem efeitos a decisão de regressão de regime,  mando cancelar o mandado de prisão expedido contra o apenado, inclusive com baixa no BNMP.
+P.R.I. Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	regressão rompimento monitoração definitiva
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+Autos nº. $autos.getNumeroUnicoFormatado()
+ 
+Vistos etc.
+Executando-se em regime semiaberto pena privativa de liberdade foi ao apenado concedida prisão domiciliar com monitoramento eletrônico, tendo a SEAP/CEME informado que ele rompera o equipamento.
+Ouvido em audiência de justificação, o apenado confirmou a conduta, alegando que o fizera porque ***
+Interveio o Ministério Público, opinando pela regressão de regime, enquanto a defesa pediu *a atualização da guia de execução penal *o acatamento da justificativa apresentada.
+Relatados.
+Determina a Lei de Execução Penal, no art. 146-C, inciso II,  que o condenado fiscalizado por meio da monitoração eletrônica tem o dever de "abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça" (art. 146-C, II), esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+O rompimento do equipamento de monitoração eletrônica ("tornozeleira"), a teor da jurisprudência do Superior Tribunal de Justiça, configura fuga, que é falta disciplinar de natureza grave.
+
+EXECUÇÃO  PENAL.  HABEAS  CORPUS  SUBSTITUTIVO  DE RECURSO ESPECIAL. ROMPIMENTO  DE TORNOZELEIRA ELETRÔNICA. CONFIGURAÇÃO DE FALTA GRAVE. REGRESSÃO   DE   REGIME.   INTERRUPÇÃO   DE  PRAZO  PARA  LIVRAMENTO CONDICIONAL,   INDULTO   E   COMUTAÇÃO   DE  PENA.  IMPOSSIBILIDADE. SÚMULAS/STJ  441, 534 E 535. MANIFESTA ILEGALIDADE VERIFICADA. ORDEM NÃO CONHECIDA. WRIT CONCEDIDO DE OFÍCIO. (...) 2.  Este  Superior  Tribunal de Justiça possui entendimento de que o rompimento da tornozeleira eletrônica configura falta disciplinar de natureza  grave,  nos  termos  do  art.  50,  VI, e 146-C, da Lei de Execução Penal. Precedentes. 3.  A  jurisprudência  desta  Corte  Superior firmou entendimento no sentido  de  que  a  prática  de falta disciplinar de natureza grave implica  a regressão de regime, conforme estabelecido pelo art. 118, I, da LEP. 4.  A  prática de falta grave pelo sentenciado, no curso da execução da  pena,  altera  a data-base para a concessão de novos benefícios, exceto  para  fins de livramento condicional, indulto e comutação da pena.  Entendimento  consolidado  nas  Súmulas  441, 535 e 534 desta Corte e no recurso repetitivo, REsp 1.364.192/RS. 5.  Habeas  corpus  não  conhecido. Ordem concedida, de ofício, para afastar  a  interrupção  da contagem do lapso temporal em relação ao livramento condicional, ao indulto e à comutação de pena. (HC 363.742/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+
+HABEAS   CORPUS.  IMPETRAÇÃO  ORIGINÁRIA.  SUBSTITUIÇÃO  AO  RECURSO ORDINÁRIO   CONSTITUCIONAL  CABÍVEL.  IMPOSSIBILIDADE.  RESPEITO  AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA. NÃO CONHECIMENTO. (...) EXECUÇÃO  PENAL.  REGIME  SEMIABERTO. AUSÊNCIA DE VAGA. COLOCAÇÃO DO SENTENCIADO EM PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. ROMPIMENTO  DA  TORNOZELEIRA. FALTA GRAVE. RECONHECIMENTO. REGRESSÃO DE  REGIME  E ADEQUAÇÃO DA DATA-BASE. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. 1. Descumprida a condição da prisão domiciliar, diante do rompimento da  tornozeleira, configurado está o cometimento da falta grave, nos termos  dos artigos 146-C, inciso II e parágrafo único, inciso I c/c 50,  inciso  VI,  todos  da  Lei n. de Execução Penal, autorizando a regressão do regime e alteração da data-base para nova progressão. 2. Habeas corpus não conhecido. (HC 304.614/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/04/2016, DJe 03/05/2016)
+ 
+***A justificativa é inaceitável, porque era obrigação do apenado zelar pelo equipamento de monitoramento eletrônico.
+Isto posto, regrido para fechado o regime de execução da pena privativa de liberdade, bem como considero perdido um quinto (dada a confissão) do tempo já remido e o que viesse a ser remido até a data da última falta grave.
+P.R. I. Atualize-se o quadro de eventos. Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+ 
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	progressão para semiaberto hediondo e comum
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Tratam os autos de execução de pena de *** de reclusão em regime ****,  por delitos de ***.
+
+Interveio o Ministério Publico, opinando pela progressão de regime.
+
+Relatados.
+
+Dispõe a Lei de Execução Penal, no art. 112, que cumprido ao menos um sexto da pena imposta, será transferido o apenado para regime menos rigoroso, se ostentar bom comportamento carcerário, o que ficou explicitado nos documentos juntos.
+
+No caso de crime hediondo ou equiparado, porém, o art. 112 da Lei exige o cumprimento de 40% da pena se primário e 60% se reincidente específico.
+
+**Aqui, tratam-se de crimes hediondo e comum, com apenado não reincidente específico e que já cumpriu mais de 40% daquela pena e 16% da imposta por esse, sendo comprovado bom comportamento carcerário.
+
+**Aqui, trata-se de crimes hediondo e comum, com apenado reincidente específico e que já cumpriu mais de 60% da pena em execução pelo crime hediondo e 16% da imposta pelo crime comum, sendo comprovado bom comportamento carcerário.
+
+**Aqui, trata-se de crimes hediondo e comum, aquele praticado antes da Lei 11.464, já cumprido mais de um sexto da pena em execução, sendo comprovado **** comportamento carcerário (fl. **).
+
+Por oportuno, dada a inexistência de unidade prisional adequada ao regime semiaberto na região,  está sendo concedido o semiaberto harmonizado (semiaberto em prisão domiciliar com monitoramento eletrônico e recolhimento no horário noturno), visando possibilitar o exercício de trabalho, conforme orientação do Superior Tribunal de Justiça, verbis:
+
+Não há óbices à concessão de prisão domiciliar com monitoração eletrônica ao sentenciado em regime semiaberto, quando não há vagas no regime específico ou quando não há estabelecimento prisional adequado ou similar na localidade em que cumpre pena" (REsp 1710674/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 22/08/2018, DJe 03/09/2018).
+
+Isto posto, progrido o cumprimento da pena para o regime semiaberto, que pode ser cumprido como semiaberto harmonizado (semiaberto em prisão domiciliar com monitoramento eletrônico e recolhimento no horário noturno), obedecendo-se o regramento estipulado por portaria deste juízo.
+
+P.R.I. Regularize-se a situação do apenado no BNMP, se for o caso, e requisite-se sua transferência para estabelecimento prisional adequado. Atualize-se a GEP.                         
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	monitoramento violação minutos
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+
+Vistos etc.
+Executando-se em regime semiaberto pena privativa de liberdade, foi ao apenado concedida prisão domiciliar com monitoramento eletrônico, tendo a Sejuc/CEME informado que descumprira as condições firmadas, pois ***.
+Interveio o Ministério Público, pedindo a suspensão do benefício da prisão domiciliar com monitoramento eletrônico.
+Relatados.
+
+Determina a Lei de Execução Penal, no art. 146-D, inciso II, que "A monitoração eletrônica poderá ser revogada: (...) se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave.
+No caso, o apenado descumpriu por ** minutos o dever de "permanecer recolhido em sua residência, ou local indicado quando da instalação do equipamento, todos os dias no horário compreendido entre 20h e 05h, salvo autorização anterior do juízo".
+Tal transgressão parece-me configurar apenas falta leve, devendo ser punido com advertência.
+Isto posto, reconheço como falta leve a transgressão anotada, mandando constar uma advertência no prontuário do apenado, com efeitos no seu comportamento.
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	indulto negando objetivo
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+*, condenado a cumprir pena de *** de reclusão, requereu indulto, tendo obtido parecer **favorável do Conselho Penitenciária e contrário do Ministério Público, por ausente o requisito objetivo**.
+
+Relatados.
+
+**Com**Sem razão o Ministério Público, pois o apenado, condenado por crime cometido com **violência**grave ameaça** à pessoa, foi punido por falta grave praticada em **, data da qual transcorreram até hoje menos de 24 meses, contados até a  da publicação do decreto nº **, o que ocorreu em **.
+
+**Com**Sem razão o Ministério Público, pois trata-se de apenado por crime cometido com **violência**grave ameaça** à pessoa, havendo impedimento legal ao benefício no art. ***, do decreto nº **..
+
+**Assim, verifica-se impedimento legal para o benefício perseguido, constante do art. ***, do decreto nº **.
+
+Isto posto, indefiro o pedido de fls., por falta do requisito objetivo.
+
+P. R. I., aguardando-se o cumprimento da pena.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+Henrique Baltazar Vilar dos Santos
+
+Juiz de Direito
+
+Modelo de Documento
+
+Descrição:	regressão definitiva fuga
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Então cumprindo pena em regime semiaberto o apenado deixou de se recolher ao estabelecimento prisional desde **, sendo recapturado/reapresentando-se em **.
+Oportunizado ao apenado justificar-se, ****.
+Opinou o Ministério Público pela regressão de regime, enquanto a defesa **observou que o afastamento daquele da Comarca se deu em razão de ameaças de morte recebidas**pediu o não reconhecimento da falta grave, em razão da inexistência de PAD com sua efetiva participação** pediu a atualização da GEP.
+Relatados.
+A Lei nº 7.210/84, no seu art. 118, inc. I, última figura, dispõe sobre a transferência do apenado para  regime  mais rigoroso de cumprimento de  pena privativa  de liberdade quando pratica falta grave, enquanto  o art.  50, inc. II, do mesmo estatuto esclarece, que a  comete  o condenado que fugir.
+É o caso dos autos, sendo inaceitável a justificativa apresentada, pois caberia ao apenado ter comunicado o fato a Juízo e pedido sua transferência para outro presídio ou sua inserção na monitoração eletrônica, não podendo decidir, a seu talante, quando e onde cumprir a pena, mesmo que alegue **ter inimigos**falta de condições financeiras.**
+**Lembro, por derradeiro e face ao alegado pela defesa, que a oitiva do condenado pelo juízo. o Supremo Tribunal Federal, no RE 972.598, com repercussão geral reconhecida, fixou a seguinte tese:
+A oitiva do condenado pelo juízo da execução penal, em audiência de justificação realizada na presença do defensor e do Ministério Publico, afasta a necessidade de prévio procedimento administrativo, e assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta greve durante o cumprimento da pena.
+
+Isto posto, regrido para fechado o regime de execução da pena privativa de liberdade, bem como considero perdido um quinto (dada a confissão) do tempo já remido e o que viesse a ser remido até a data da fuga.
+P.R. I. Atualize-se o quadro de eventos. Cópia desta decisão servirá como ofício dando ciência  ao estabelecimento prisional de seus termos.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	monitoramento rompimento definitiva
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Executando-se em regime semiaberto pena privativa de liberdade, foi ao apenado concedida prisão domiciliar com monitoramento eletrônico, tendo a Seap/CEME informado que ele rompera o equipamento.
+Ouvido em audiência de justificação, o apenado confirmou a conduta, alegando que o fizera porque ***
+Interveio o Ministério Público, opinando pela regressão de regime, enquanto a defesa pediu a atualização da guia de execução penal.
+Relatados.
+Determina a Lei de Execução Penal, no art. 146-C, inciso II, que o condenado fiscalizado por meio da monitoração eletrônica temo dever de "abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça" (art. 146-C, II), esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+Tal conduta, conforme decidiu o Colendo Superior Tribunal de Justiça, configura falta grave, verbis:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CONSTITUCIONAL CABÍVEL. IMPOSSIBILIDADE. RESPEITO AO SISTEMA RECURSAL PREVISTO NA CARTA MAGNA.NÃO CONHECIMENTO. 1. (...) EXECUÇÃO PENAL. REGIME SEMIABERTO. AUSÊNCIA DE VAGA. COLOCAÇÃO DO SENTENCIADO EM PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. ROMPIMENTO DA TORNOZELEIRA.FALTA GRAVE. RECONHECIMENTO. REGRESSÃO DE REGIME E ADEQUAÇÃO DA DATA-BASE. POSSIBILIDADE.CONSTRANGIMENTO ILEGAL. INEXISTÊNCIA. 1. Descumprida a condição da prisão domiciliar, diante do rompimento da tornozeleira, configurado está o cometimento da falta grave, nos termos dos artigos 146-C, inciso II e parágrafo único, inciso I c/c 50,inciso VI, todos da Lei n. de Execução Penal, autorizando a regressão do regime e alteração da data-base para nova progressão. 2. Habeas corpus não conhecido. (HC 304.614/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/04/2016, DJe 03/05/2016).
+Como no seu voto anotou o Ministro Jorge Mussi, "é dever do condenado submetido o monitoramento eletrônico zelar pelo equipamento,conforme orientação recebida, implicando sua violação na regressão do regime, nos termos do artigo 146-C, inciso II e parágrafo único,inciso I, da Lei de Execução Penal".
+Não o fazendo, rompendo o equipamento, configura-se, continuou Sua Excelência, o descumprimento da ordem e... "o cometimento da falta grave, como previsto no artigo 50, inciso VI, da LEP, que está assim redigido: Art. 50. Comete falta grave o condenado à pena privativa de liberdade que: [...]VI - inobservar os deveres previstos nos incisos II e V, do artigo 39, desta Lei. [E] O inciso V do artigo 39, da LEP, por sua vez, disciplina ser dever do condenado o fiel cumprimento das ordens recebidas."
+É o caso, sendo inaceitável a justificativa apresentada, pois ***
+Isto posto, decreto a regressão, para o fechado, do regime prisional imposto ao cumprimento da pena e considero perdido um quinto do tempo já remido e o que viesse a ser até a data da falta grave, dada a atenuante da confissão.
+P.R.I. Atualize-se o cálculo dos requisitos temporais e cientifique-se ao estabelecimento prisional.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   
+  Modelo de Documento
+
+Descrição:	regressão definitiva fuga e novo crime
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.  
+Então cumprindo pena em regime semiaberto, o apenado deixou de se recolher ao estabelecimento prisional desde *** (evento ***), sendo recapturado em ***, quando preso em flagrante por novo crime (evento ***)., pelo qual foi denunciado na ação penal nº ***, em curso no ** Vara Criminal da Comarca de Natal,  consoante informação contida no Sistema de Automação do Judiciário - SAJ/PG5.
+Oportunizado ao apenado justificar-se, disse que XX (fl. XX).
+Opinou o Ministério Público pela regressão definitiva, enquanto a Defensora ** Defesa pediu atualização da guia de execução penal.
+Relatados.
+A Lei nº 7.210/84, no seu art. 118, inc. I, última figura, dispõe sobre a transferência do apenado para  regime  mais rigoroso de cumprimento de  pena privativa  de liberdade quando pratica falta grave, enquanto  o art.  50, inc. II, do mesmo estatuto esclarece, que a  comete  o condenado que fugir.
+É o caso dos autos, sendo inaceitável a justificativa apresentada, pois caberia ao apenado ter comunicado o fato a Juízo e pedido sua transferência para outro presídio ou sua inserção na monitoração eletrônica, não podendo decidir, ao seu arbítrio, quando recolher-se ou não ao cumprimento de pena, mesmo que alegue dificuldade de locomoção ao presídio em razão de trabalho externo.
+Ademais, a situação relatada nestes autos também se encontra exposta no art. 118, primeira parte, da Lei nº 7210/84, como causa impositiva de regressão de regime de cumprimento de pena privativa de liberdade, e sobre a qual decidiu a Suprema Corte não ser necessário que o crime doloso tenha sido objeto de sentença condenatória transitada em julgado.
+Afinal, "a prática de 'fato definido como crime doloso', para fins de aplicação da sanção administrativa da regressão, não depende de trânsito em julgado da ação penal respectiva" (HC 93782, Relator(a): Min. RICARDO LEWANDOWSKI, Primeira Turma, j. em 16/09/2008).
+Nesse sentido dispõe a Súmula do Superior Tribunal de Justiça: O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato. (Verbete 526, aprovado pela 3ª Seção em 13/05/2015).
+Isto posto, homologo as faltas graves (fuga e novo crime) e decreto a regressão, para o fechado, do regime prisional imposto ao cumprimento da pena, considerando perdido um quinto do tempo já remido e o que viesse a ser até a data da última daquelas, dada a atenuante da confissão.
+P.R.I. Atualize-se o quadro de eventos e cientifique-se ao estabelecimento prisional.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	falta grave desconsiderando
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução de pena privativa de liberdade em que se noticiou a prática de falta grave, consistente em *fuga *posse de telefone celular *posse de drogas *desacato a agente penitenciário *, juntando-se aos autos a correspondente sindicância *informando a autoridade penitenciária, porém, que os fatos não foram apurados em sindicância.
+**Interveio o Ministério Público, opinando pela desconsideração da suposta falta disciplinar.
+Relatados.
+A conduta noticiada configura falta grave, conforme disposto nos artigos 50 e seguintes da Lei nº 7.210/84.
+*Contudo, da leitura da sindicância junta não se observa qualquer indício da conduta por parte do apenado, inexistindo fundamento para as conclusões da autoridade sindicante.
+*Contudo, da leitura da sindicância junta não se observa qualquer indício da conduta por parte do apenado, tendo inclusive a autoridade sindicante optado por não punir o sindicado.
+*Contudo, das informações recebidas da autoridade penitenciária não se observa qualquer indício da conduta por parte do apenado, inexistindo fundamento para a imputação feita.
+Isto posto, dada a inexistência de indícios da falta grave, nego seguimento à apuração dos fatos relatados na sindicância.
+P.R.I., diligências necessárias, inclusive comunicação ao estabelecimento prisional para registro no prontuário do apenado, cujo comportamento não deverá ser negativado pelos fatos relatados na sindicância.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+Modelo de Documento
+
+Descrição:	LC negando obj
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Trata-se de execução penal em que o SEEU identificou requisito objetivo para concessão de livramento condicional, face à pena imposta.
+
+Relatados.
+
+Os cálculos apresentados pelo SEEU não estão corretos.
+
+É que o apenado registra fuga em **, com recaptura em **, ou seja, praticou falta grave há menos de doze meses, situação que confira ausência do requisito objetivo exigido pelo art. 83, III, b, do Código Penal para o livramento condicional.
+
+Neste sentido decidiu recentemente o Superior Tribunal de Justiça, confirmando decisão do ano anterior:
+
+No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020) (AgRg no HC 639.495/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/08/2021, DJe 17/08/2021)
+
+Isto posto, face não atender o apenado  aos requisitos do art. 83,  III, do Código Penal, indefiro o livramento condicional.
+
+P.R.I.
+ 
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+ 	   Modelo de Documento
+
+Descrição:	monitoramento falta média
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+
+    Vistos etc.
+
+Executando-se em regime semiaberto harmonizado (com monitoramento eletrônico), informou a SEAP/CEME  que o apenado descumprira as condições firmadas, pois ***.
+
+Ouvido em audiência, o apenado alegou que ***
+
+Interveio o Ministério Público, opinando pela **regressão de regime**suspensão da prisão domiciliar**, enquanto a defesa requereu que *****
+
+Relatados.
+
+Determina a Lei de Execução Penal, no art. 146-D, inciso II, que "A monitoração eletrônica poderá ser revogada: (...) se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave.
+
+No caso, restou esclarecido que o apena descumpriu os deveres previstos nas alíneas a e g do art. 4º da Portaria nº 02/2016 deste juízo, tendo se ausentado do local de recolhimento por ****** vezes no horário em que ali deveria permanecer, enquanto deixou descarregar totalmente a  bateria do equipamento de monitoração eletrônica por outras *** vezes.
+
+De seu lado, a jurisprudência do Superior Tribunal de Justiça afirma que  "Comete falta grave o apenado que viola a zona de monitoramento eletrônico" (HC 462.719/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/10/2018, DJe 24/10/2018).
+
+Entretanto, registro que o art. 57 da LEP autoriza ao juiz aplicar punição disciplinar que seja suficiente à falta praticada, q utilizando-se o disposto no art. 55 do mesmo diploma.
+
+Assim, como o apenado retornou ao cumprimento regular da pena, entendo suficiente como punição a suspensão do benefício da prisão domiciliar pelo mesmo período de violações, e inclusive sem autorização para saídas externas desvigiadas (Regulamento Disciplinar Penitenciário do RN, art. 66, III, c/c art. 67).
+
+Isto posto, homologo como falta média o conjunto de transgressões anotadas, entendendo como suficiente a punição já recebida, com a devida anotação no prontuário, para fins de comportamento.
+
+Retorne-se o apenado à situação anterior, inclusive com com prisão domiciliar sob monitoramento eletrônico.
+
+P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+     Juiz de Direito
+
+
+ 	   
+  Modelo de Documento
+
+Descrição:	monitoramento falta média - modelo sem uso
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+
+    Vistos etc.
+    Executando-se em regime semiaberto pena privativa de liberdade aplicada a $partePoloPassivo, foi-lhe concedida prisão domiciliar com monitoramento eletrônico, tendo a Sejuc/CEME informado que o apenado descumprira as condições firmadas, pois ***.
+
+     Ouvido em audiência, o apenado alegou que ***
+
+     Interveio o Ministério Público, opinando pela *regressão de regime*suspensão da prisão domiciliar*, enquanto a defesa requereu que **
+     Relatados.
+     **Determina a Lei de Execução Penal, no art. 146-D, inciso II, que "A monitoração eletrônica poderá ser revogada: (...) se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave.
+     No caso, restou esclarecido que o apena descumpriu os deveres previstos nas alíneas a e g do art. 4º da Portaria nº 02/2016 deste juízo, tendo se ausentado do local de recolhimento por ** vezes no horário em que ali deveria permanecer, enquanto deixou descarregar totalmente a  bateria do equipamento de monitoração eletrônica por outras *** vezes.
+     **Entretanto, como "quase*todas as transgressões ocorreram por tempo inferior a uma hora, entendo suficiente como punição o período em que o apenado esteve com a prisão domiciliar suspensa, e inclusive sem autorização para saídas externas desvigiadas.
+     Isto posto, homologo como falta média o conjunto de transgressões anotadas, entendendo como suficiente a punição já recebida, com a devida anotação no prontuário, para fins de comportamento.
+     Retorne-se o apenado à situação anterior, inclusive com com prisão domiciliar sob monitoramento eletrônico.
+     P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+     Juiz de Direito
+Modelo de Documento
+
+Descrição:	monitoramento rompimento
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Executando-se em regime semiaberto harmonizado (com monitoramento eletrônico) a pena privativa de liberdade, informou a Seap/CEME que o apenado rompera o equipamento em ***, não tendo atendido às tentativas de contato.
+
+Relatados.
+
+Determina a Lei de Execução Penal, no art. 146-C, inciso II,  que o condenado fiscalizado por meio da monitoração eletrônica tem o dever de "abster-se de remover, de violar, de modificar, de danificar de qualquer forma o dispositivo de monitoração eletrônica ou de permitir que outrem o faça" (art. 146-C, II), esclarecendo, no seu parágrafo único, que "a violação comprovada dos deveres previstos neste artigo poderá acarretar, a critério do juiz da execução", entre outros, a regressão do regime ou a revogação da prisão domiciliar.
+
+O rompimento do equipamento de monitoração eletrônica ("tornozeleira"), a teor da jurisprudência do Superior Tribunal de Justiça, configura fuga, que é falta disciplinar de natureza grave.
+
+EXECUÇÃO  PENAL.  HABEAS  CORPUS  SUBSTITUTIVO  DE RECURSO ESPECIAL. ROMPIMENTO  DE TORNOZELEIRA ELETRÔNICA. CONFIGU-RAÇÃO DE FALTA GRAVE. REGRESSÃO   DE   REGIME.   (...) 2.  Este  Superior  Tribunal de Justiça possui entendimento de que o rompimento da tornozeleira eletrônica configura falta disciplinar de natureza  grave,  nos  termos  do  art.  50,  VI, e 146-C, da Lei de Execução Penal. Precedentes. 3. (...). (HC 363.742/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017).
+
+Ocorre que, tratando-se de fuga,  não é concebível que o apenado, ao ser recapturado e antes de ser ouvido pelo magistrado, retorne ao regime prisional mais brando, possibilitando que torne a escafeder-se frustrando, assim, ad aeternum a execução, sendo necessária, para garantia do Juízo, como ocorre na prisão preventiva, seja recolhido sob regime de maior segurança e vigilância, o que se afina plenamente com o poder geral de cautela, que informa a atividade judicante (LEP, art. 2º, CPP, art. 3º e arts. 311 e segs; e CPP, arts. 798/799).
+
+Tal é, aliás, a posição da Corte Suprema, verbis: Conforme interpretação dos ars. 50, II, 60 e 118, §§ 1º e 2º, da Lei 7.210/84, o Juízo das Execuções pode decretar, provisoriamente, a regressão de regime prisional do condenado foragido do presídio, sem a necessidade da prévia ouvida do sentenciado, pois essa providência cautelar não obsta a que o réu se defenda quando vier a ser preso, comprovando, se for o caso, que tinha justos motivos para o cometimento da falta grave (STF, RT 763/485).
+
+É o caso.
+
+Isto posto, decreto a regressão provisória, para  fechado, do regime prisional imposto ao cumprimento da pena.
+
+Expeça-se mandado de prisão e, quando cumprido, coloque-se o feito em pauta para audiência de justificação. Comunique-se à unidade prisional.
+
+    $juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	LC - suspensão - novo crime - pena cumprida
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+Autos nº. $autos.getNumeroUnicoFormatado()
+
+$dadosProcesso
+
+     Vistos etc.
+     Trata-se de execução de pena privativa de liberdade imposta a ***, em que foi-lhe concedido o livramento condicional, o qual adiante foi suspenso em razão do apenado ter sido novamente preso e denunciado por prática de outro(s) delito(s).
+     Interveio o Ministério Público, requerendo que se aguarde o julgamento do novo processo para decidir-se acerca do cumprimento da pena.
+     Acrescento ao relatório que, conforme a GEP de fls., a pena teria terminado em ***.
+     É o relatório.
+     Nos termos do art. 145 da Lei de Execução Penal, a revogação do livramento condicional, suspenso em razão da prática de novo crime, depende da decisão final do processo de conhecimento, enquanto dispõe o art. 89 do Código Penal que "O juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência do livramento".
+     No caso, porém, observa-se da GEP que a pena já teria sido integralmente cumprida, exceto se o apenado for condenado no novo processo, quando não se computará como pena cumprida o período de prova.
+     Enfim, a execução da pena não pode se prolongar de forma indefinida, em prejuízo do apenado, aguardando-se um julgamento que não se sabe quando ocorrerá, para que finalmente se esclareça se aquela foi ou não cumprida.
+     A solução, ao menos no momento, está em suspender a execução da pena.
+     Isto posto, suspendo a execução da pena, mandando que os autos aguardem a juntada de certidão acerca do julgamento do novo processo a que responde o apenado.
+     P.R.I.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	remição
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+Trata-se de remição de parte da pena pelo trabalho, conforme relatório e cálculos juntos, que obteve parecer favorável do Ministério Público.
+*Impende registrar que o relatório emitido pelo CPJC informa frequência  diária de 4h trabalhadas, quando o art. 33 da Lei de Execução Penal exige o mínimo de 6h/dia, razão pela qual não são considerados ** dias, mas ** dias trabalhados com remição de ** dias.
+Decido.
+Com razão o parecer, pois face à documentação junta, o apenado trabalhou, efetivamente, * em serviços internos na unidade prisional, durante o período de *, com carga horária diária de *, pelo que * dias da pena a ele imposta se encontram remidos pelo trabalho.
+Note-se, na lição do festejado Prof. Julio Fabbrini Mirabete, que “a Lei de Execução instituiu no País uma forma de redenção de parte da pena privativa de liberdade através de remição, na qual, pelo trabalho, o condenado abrevia parte do tempo de sua condenação”.
+Isto posto, julgo procedente o pedido de fls., para fim de julgar remidos * (*)  dias/ * mês e * dias da pena em execução.
+P.R.I. Insira-se o evento no SEEU, para correção dos cálculos de benefícios.
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+Modelo de Documento
+
+Descrição:	LC revogação nova condenação
+Tipo de Documento:	Decisão
+Público:	Sim
+Tipo de Competência:	Sem competência
+Tribunal:	Tribunal de Justiça do Estado do Rio Grande do Norte
+Serventia:	Usuário
+Minuta Expressa:	Não
+Código Modelo:	
+Data da Criação:	30/07/2023
+Conteúdo:	
+$cabecalho
+
+$dadosProcesso
+
+Vistos etc.
+
+Em gozo de livramento condicional o apenado preso e condenado definitivamente por prática de novo delito doloso, tendo sido recebida a correspondente Guia de Recolhimento neste juízo.
+
+Interveio o Ministério Público.
+
+É o relatório.
+
+Nos termos do art. 86, I, do Código Penal, revoga-se o livramento se o liberado vem a ser condenado a pena privativa de liberdade, em sentença irrecorrível, por crime cometido durante a vigência do benefício.
+
+É o caso, desnecessárias maiores considerações a respeito, especialmente quando se nota transitada em julgado a nova decisão condenatória***, inclusive depois de confirmada pela segunda instância.
+
+Por oportuno, anoto tratar-se de crime posterior ao benefício, não se descontando da pena, em conseqüência, o tempo em que esteve solto o apenado (Código Penal, art. 88).
+
+Isto posto, revogo o livramento condicional de que beneficiário o apenado.
+
+P.R.I., expedindo-se nova Guia de Execução Criminal,  não constando como pena cumprida o período em que o apenado esteve solto em razão do livramento condicional. *Voltem-me para decidir acerca da unificação ou soma das penas.
+
+$juizo.getCidade(), $data.getDataPorExtenso().
+
+Henrique Baltazar Vilar dos Santos
+Juiz de Direito
+
+
+ 	   
+  
+ 	   
+  
+
+ 	   
+  
+
+ 	   
+  
+
+ 	   
+  
+  
+ 	   
+  
+  
+  
+ 	   
+  
+
+ 	   
+  
+  
+  
+  
+  
+
+ 
+
+
+ 	   
+  
+  
+ 	   
+  
+ 	   
+  
+  
+  
