@@ -29,3 +29,9 @@ knowledge/doutrina/**/*.pdf
 
 # Arquivos temporários
 temp_*.txt
+
+# Credenciais e secrets (NÃO COMITAR)
+docs/DEPLOY_CREDENTIALS.md
+.env
+.env.*
+backend/.env

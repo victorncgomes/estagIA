@@ -9,11 +9,26 @@ import express from 'express';
 import cors from 'cors';
 
 const app = express();
-const PORT = 3108;
+const PORT = process.env.PORT || 3108;
+
+// Origens permitidas (local + produção)
+const ALLOWED_ORIGINS = [
+    'http://localhost:3008',
+    'https://estagia.vercel.app',
+    'https://estagia.up.railway.app',
+    process.env.FRONTEND_URL,
+].filter(Boolean);
 
 // Middleware
 app.use(cors({
-    origin: 'http://localhost:3008',
+    origin: (origin, callback) => {
+        // Permitir requests sem origin (ex: curl, Postman)
+        if (!origin) return callback(null, true);
+        if (ALLOWED_ORIGINS.some(allowed => origin.startsWith(allowed.replace(/\/$/, '')))) {
+            return callback(null, true);
+        }
+        callback(new Error('CORS não permitido'));
+    },
     methods: ['GET', 'POST'],
     credentials: true,
 }));

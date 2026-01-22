@@ -1,12 +1,15 @@
 /**
  * estagIA - Configuração dos Providers de IA
- * @version 0.1.1
+ * @version 0.1.2
  */
 
 import { AIProviderConfig, AIProvider } from './types';
 
-// URL do backend proxy
-const BACKEND_URL = 'http://localhost:3108';
+// URL do backend proxy - detecta ambiente automaticamente
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL
+    || (window.location.hostname === 'localhost'
+        ? 'http://localhost:3108'
+        : 'https://estagia.up.railway.app');
 
 // Configurações padrão dos providers
 export const AI_PROVIDERS: Record<AIProvider, Omit<AIProviderConfig, 'apiKey' | 'enabled'>> = {

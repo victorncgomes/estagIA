@@ -108,7 +108,11 @@ export interface ValidacaoResult {
     error?: string;
 }
 
-const BACKEND_URL = 'http://localhost:3108';
+const BACKEND_URL = typeof window !== 'undefined'
+    ? (window.location.hostname === 'localhost'
+        ? 'http://localhost:3108'
+        : 'https://estagia.up.railway.app')
+    : 'http://localhost:3108';
 
 /**
  * Valida uma decisão gerada e envia para o banco de modelos

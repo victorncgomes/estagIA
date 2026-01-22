@@ -1,7 +1,28 @@
 # estagIA - Changelog Consolidado
 
-> **Versão Atual**: 0.3.1  
+> **Versão Atual**: 0.3.2  
 > **Última Atualização**: 22/01/2026
+
+---
+
+## v0.3.2 - Configuração de Deploy (22/01/2026)
+
+### 🚀 Deploy Railway + Vercel
+
+**Arquivos Criados:**
+- `vercel.json` - Configuração para deploy frontend no Vercel
+- `railway.json` - Configuração para deploy backend no Railway
+- `src/vite-env.d.ts` - Tipos para variáveis de ambiente Vite
+
+**Arquivos Modificados:**
+- `backend/server.js` - Porta dinâmica (`process.env.PORT`) e CORS flexível
+- `services/ai/config.ts` - URL do backend com detecção automática de ambiente
+- `services/orchestration/ragIntegration.ts` - URL dinâmica para RAG
+- `services/feedbackService.ts` - URL dinâmica para feedback
+
+**URLs de Produção:**
+- Frontend: https://estagia.vercel.app
+- Backend: https://estagia.up.railway.app
 
 ---
 

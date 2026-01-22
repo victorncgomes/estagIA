@@ -14,7 +14,11 @@ import { getEmbedding } from '../vector/embeddings';
 import { findRelatedLaws, findSumulasByArtigo, isMemgraphAvailable } from '../graph/memgraphClient';
 
 // URL do backend proxy (fallback)
-const BACKEND_URL = 'http://localhost:3508';
+const BACKEND_URL = typeof window !== 'undefined'
+    ? (window.location.hostname === 'localhost'
+        ? 'http://localhost:3508'
+        : 'https://estagia.up.railway.app')
+    : 'http://localhost:3508';
 
 // Flags de disponibilidade
 let ragAvailable = false;
