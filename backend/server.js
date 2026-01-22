@@ -44,6 +44,25 @@ const API_KEYS = {
 };
 
 // ============================================
+// ROTA RAIZ
+// ============================================
+app.get('/', (req, res) => {
+    res.json({
+        name: 'estagIA Backend API',
+        version: '0.3.2',
+        status: 'online',
+        endpoints: [
+            'GET /api/health',
+            'POST /api/gemini',
+            'POST /api/anthropic',
+            'POST /api/grok',
+            'POST /api/perplexity',
+            'POST /api/openai'
+        ]
+    });
+});
+
+// ============================================
 // PROXY PARA GEMINI
 // ============================================
 app.post('/api/gemini', async (req, res) => {
