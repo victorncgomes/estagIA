@@ -1,0 +1,21 @@
+{
+  "dataExecucao": "2026-01-22T10:10:30.808Z",
+  "modeloTeste": "Acordao Reforma Enem",
+  "score": 64,
+  "tamanhoGolden": 797,
+  "tamanhoGerado": 1887,
+  "tempo": 4,
+  "metricas": {
+    "score": 64,
+    "estrutura": {
+      "vistos": 1,
+      "relatados": 1,
+      "issoPosto": 1,
+      "pri": 1
+    },
+    "estruturaScore": 100,
+    "tamanhoScore": 10,
+    "ratio": 2.3676286072772896
+  },
+  "textoGerado": "Vistos etc.\n\nApenado requer remição da pena por estudo, referente ao curso de Informática, com carga horária de 200 horas (evento X).\n\nO Ministério Público manifestou-se pelo indeferimento do pedido (evento Y).\n\nRelatados.\n\nRazão assiste ao Ministério Público.\n\nA remição da pena por estudo é um importante instrumento de ressocialização, incentivando o apenado a buscar o conhecimento e a qualificação profissional. No entanto, para que seja concedida, é necessário que o curso realizado pelo apenado atenda aos requisitos estabelecidos na legislação e na jurisprudência.\n\nNo caso em tela, o curso de Informática realizado pelo apenado possui carga horária de 200 horas, o que, em tese, atenderia ao requisito temporal previsto no artigo 126 da Lei de Execução Penal. Todavia, a documentação apresentada não comprova de forma inequívoca a frequência e o aproveitamento do apenado no curso.\n\nÉ imprescindível que a unidade prisional ateste a efetiva participação do apenado nas atividades educacionais, bem como o seu desempenho e aproveitamento. A simples apresentação de um certificado de conclusão não é suficiente para comprovar o cumprimento dos requisitos legais para a remição da pena.\n\nAdemais, a jurisprudência tem exigido que o curso realizado pelo apenado guarde relação com a sua futura inserção no mercado de trabalho, contribuindo para a sua ressocialização e a redução da reincidência criminal. No presente caso, não há elementos que demonstrem a relevância do curso de Informática para a reinserção social do apenado.\n\nDiante do exposto, e considerando o parecer desfavorável do Ministério Público, INDEFIRO o pedido de remição da pena por estudo formulado pelo apenado.\n\nIsso posto,\n\nP.R.I. Notifique-se o apenado da presente decisão, cientificando-o de que poderá interpor recurso de agravo em execução no prazo legal. Após o trânsito em julgado, arquivem-se os autos.\n"
+}

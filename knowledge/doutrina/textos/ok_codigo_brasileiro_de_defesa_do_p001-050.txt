@@ -1,0 +1,3735 @@
+[META]
+TITULO: Código Brasileiro de Defesa do Consumidor
+AUTOR: OK
+ANO: N/A
+EDICAO: 12
+EDITORA: Forense Universitária
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: #Código Brasileiro de Defesa do Consumidor - Comentado 12ª Ed. - Ada Pellegrini Grinover - OK.pdf
+CITACAO_ABNT: OK. Código Brasileiro de Defesa do Consumidor. 12. ed..
+[/META]
+
+[PAGINA 1]
+■
+■
+■
+■
+■
+■
+■
+A EDITORA FORENSE se responsabiliza pelos vícios do produto no que concerne à sua edição
+(impressão e apresentação a fim de possibilitar ao consumidor bem manuseá-lo e lê-lo). Nem a
+editora nem o autor assumem qualquer responsabilidade por eventuais danos ou perdas a pessoa ou
+bens, decorrentes do uso da presente obra.
+Todos os direitos reservados. Nos termos da Lei que resguarda os direitos autorais, é proibida a
+reprodução total ou parcial de qualquer forma ou por qualquer meio, eletrônico ou mecânico, inclusive
+através de processos xerográficos, fotocópia e gravação, sem permissão por escrito do autor e do
+editor.
+Impresso no Brasil – Printed in Brazil
+Direitos exclusivos para o Brasil na língua portuguesa
+Copyright © 2019 by EDITORA FORENSE LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11 – Térreo e 6º andar – 20040-040 – Rio de Janeiro – RJ
+Tel.: (21) 3543-0770 – Fax: (21) 3543-0896
+faleconosco@grupogen.com.br | www.grupogen.com.br
+O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de qualquer forma utilizada poderá
+requerer a apreensão dos exemplares reproduzidos ou a suspensão da divulgação, sem prejuízo da
+indenização cabível (art. 102 da Lei n. 9.610, de 19.02.1998).
+Quem  vender,  expuser  à  venda,  ocultar,  adquirir,  distribuir,  tiver  em  depósito  ou  utilizar  obra  ou
+fonograma reproduzidos com fraude, com a finalidade de vender, obter ganho, vantagem, proveito,
+lucro direto ou indireto, para si ou para outrem, será solidariamente responsável com o contrafator,
+nos termos dos artigos precedentes, respondendo como contrafatores o importador e o distribuidor
+em caso de reprodução no exterior (art. 104 da Lei n. 9.610/98).
+Capa: Danilo Oliveira
+Produção digital: Ozone
+Fechamento desta edição: 04.09.2018
+CIP – BRASIL. CATALOGAÇÃO NA FONTE.
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ.
+C61
+Código Brasileiro de Defesa do Consumidor: comentado pelos autores do anteprojeto: direito material
+e processo coletivo: volume único / Ada Pellegrini Grinover... [et al.]; colaboração Vicente Gomes de
+Oliveira Filho e João Ferreira Braga. – 12. ed. – Rio de Janeiro: Forense, 2019.
+
+Inclui bibliografia
+ISBN 978-85-309-8285-0
+1. Brasil. [Código de Defesa do Consumidor (1990)]. 2. Defesa do consumidor - Legislação - Brasil. I.
+Grinover, Ada Pellegrini.
+18-51398CDU: 34:366(81)(094.4)
+Meri Gleice Rodrigues de Souza – Bibliotecária CRB-7/6439
+
+–
+–
+–
+–
+I –
+II –
+–
+–
+–
+–
+–
+ÍNDICE GERAL
+Apresentação e estrutura da obra
+Prefácio à 1.ª edição
+Índice sistemático do Código de Defesa do Consumidor
+Introdução
+(Ada Pellegrini Grinover e Antônio Herman de Vasconcellos e Benjamin)
+Trabalhos de Elaboração – Anteprojeto de Código de Defesa do Consumidor
+Visão geral do Código
+Lei nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor –
+Comentada pelos Autores do Anteprojeto
+Bibliografia
+Anexo I – Jurisprudência do Superior Tribunal de Justiça sobre Processos
+Coletivos
+Os inst
+[/PAGINA 1]
+
+[PAGINA 2]
+itutos fundamentais do processo coletivo na Jurisprudência do Superior
+Tribunal de Justiça (Ada Pellegrini Grinover e João Ferreira Braga)
+Anexo II – Legislação
+Índice  Alfabético-Remissivo  do  Código  de  Defesa  do  Consumidor  e
+microssistema dos processos coletivos
+
+APRESENTAÇÃO E ESTRUTURA DA OBRA
+1. Os autores dos comentários
+Os  autores  dos  comentários  ora  apresentados  ao  leitor  foram  os  membros  da
+comissão do Conselho Nacional de Defesa do Consumidor, nomeados por seu então
+presidente,  Dr.  Flávio  Flores  da  Cunha  Bierrenbach.  Aos  cinco  membros  –  Ada
+Pellegrini  Grinover,  Daniel  Roberto  Fink,  José  Geraldo  Brito  Filomeno,  Kazuo
+Watanabe e Zelmo Denari – uniram-se, neste trabalho, os dois assessores que mais
+colaboraram para a elaboração do anteprojeto e que acompanharam sua evolução até
+a promulgação da lei: Antônio Herman de Vasconcellos e Benjamin e Nelson Nery
+Junior. Daí a afirmação de que esses comentários são escritos e apresentados pelos
+autores do Anteprojeto do Código de Defesa do Consumidor, compreendendo-se na
+expressão toda a sua evolução.
+2. A repartição dos comentários entre seus autores
+A matéria foi repartida de acordo com a participação de cada um na redação do
+Código. Embora o resultado final seja o produto de um trabalho conjunto, que contou
+com  a  colaboração  de  todos,  foi  possível  destacar  as  partes  em  que  foi  maior  o
+envolvimento de um ou outro.
+Assim  sendo,  a  parte  introdutória  desta  obra  foi  redigida  por Ada  Pellegrini
+Grinover e Antônio Herman de Vasconcellos e Benjamin; do Título I (“Dos Direitos
+do Consumidor”), couberam a José Geraldo Brito Filomeno as notas introdutórias e
+os  três  primeiros  capítulos  (“Disposições  Gerais”,  “Da  Política  Nacional  das
+Relações  de  Consumo”  e  “Dos  Direitos  Básicos  do  Consumidor”).  Desse  mesmo
+título, os comentários dos capítulos quarto e sétimo (“Da Qualidade de Produtos e
+Serviços,  da  Prevenção  e  da  Reparação  dos  Danos”  e  “Das  Sanções
+Administrativas”)  foram  atribuídos  a  Zelmo  Denari;  a  Antônio  Herman  de
+Vasconcellos e  Benjamin  o  do  capítulo  quinto  (“Das  Práticas  Comerciais”),  e  a
+
+Nelson  Nery  Junior,  o  do  sexto  (“Da  Proteção  Contratual”).  O  Título  II  (“Das
+Infrações Penais”) coube por inteiro a José Geraldo Brito Filomeno. Os Títulos IV e
+V (“Do Sistema Nacional de Defesa do Consumidor” e “Da Convenção Coletiva de
+Consumo”) foram atribuídos a Daniel Roberto Fink.
+O Título III (“Da Defesa do Consumidor em Juízo”) foi dividido entre Kazuo
+Watanabe  e Ada  Pellegrini  Grinover,  ficando  com  aquele  os  capítulos  primeiro  e
+terceiro (“Disposições Gerais” e “Das Ações de Responsabilidade do Fornecedor de
+Produtos  e  Serviços”),  e  com  esta  os  capítulos  segundo  e  quarto  (“Das  Ações
+Coletivas  para  a  Defesa  de  Interesses  Individuais  Homogêneos”  e  “Da  Coisa
+Julgada”); e, finalmente, o Título VI (“Disposições Finais”) foi atribuído a Nelson
+Nery Junior.
+O le
+[/PAGINA 2]
+
+[PAGINA 3]
+itor encontrará no início de cada título e capítulo o nome dos atualizadores,
+quando houver, e dos autores dos comentários.
+3. Técnica e objetivos dos comentários
+Antes dos comentários aos artigos do Código, o leitor encontrará observações
+introdutórias a cada título e capítulo. A numeração dos comentários é feita de acordo
+com a chamada existente em cada artigo, para possibilitar o imediato relacionamento
+do  conteúdo  do  artigo  com  seu  respectivo  comentário.  Enten-deu-se  oportuno
+comentar  também  os  artigos  vetados,  para  evidenciar  o  real  alcance  do  veto,
+frequentemente superado pela interpretação sistemática do Código ou pela existência
+de outros dispositivos que cuidam da mesma matéria e que permaneceram intactos.
+Sem  fugir  ao  rigor  científico  da  ciência  jurídica  conceitual,  os  autores  dos
+comentários pretenderam escrever obra que também preenchesse as suas finalidades
+práticas. Esperam, ainda, ter conseguido imprimir aos comentários uma visão unívoca
+e uma certa uniformidade, buscadas pela revisão conjunta do texto.
+
+PREFÁCIO À 1.ª EDIÇÃO
+Minha presença no pórtico deste livro tem uma explicação. É que a sua gênese se
+prende à iniciativa do Conselho de Defesa do Consumidor, do Ministério da Justiça,
+no  sentido  de  ser  elaborado  projeto  de  lei  que  dispusesse  sobre  a  defesa  do
+consumidor.  Os  autores  do  livro  são  também  do  projeto  de  lei  que  veio  a  ser
+elaborado  submetido  ao  Congresso  Nacional  e  convertido  em  lei.  Seus  nomes  me
+foram sugeridos pelo presidente do Conselho, Flávio Flores da Cunha Bierrenbach,
+antigo representante de São Paulo na Câmara dos Deputados. Os juristas convidados
+prontamente  anuíram  em  prestar  esse  serviço  ao  País  e  o  fizeram  de  maneira
+exemplar.  O Diário  Oficial  de  4  de  janeiro  de  1989  estampava  o  anteprojeto  já
+enriquecido pela crítica dos componentes em sucessivas ocasiões.
+Pouco depois, eu deixava o Ministério da Justiça, mas os trabalhos da comissão
+presidida  pela  professora  Ada  Pellegrini  Grinover  não  se  interromperam,  antes
+prosseguiram  com  igual  intensidade  e  se  prolongaram  durante  a  tramitação
+parlamentar.
+Pode-se dizer, sem favor, que desde a primeira formulação, ainda no Ministério
+da  Justiça,  até  a  promulgação  da  Lei  nº  8.078,  em  11  de  setembro  de  1990,  a
+comissão, designada em 1988, não cessou de funcionar e, com desvelo, cuidou de
+fazer  com  que  seu  trabalho  fosse  o  menos  imperfeito  e  mais  útil  à  sociedade
+brasileira.
+Depreendendo-se de seus autores com a promulgação da lei, nem por isso se
+deram eles por desobrigados. Entenderam que lhes cabia ainda expô-la em todos os
+seus  aspectos,  desde  a  inspiração  que  modelou  o  sistema  adotado,  até  as  suas
+disposições mais miúdas, em uma palavra, fazer-lhe a exegese completa e exaustiva,
+de maneira a facilitar sua aplicação em todos os termos e propósitos, com a pretensão
+de garantir a prevalência do seu pensamento original.
+[/PAGINA 3]
+
+[PAGINA 4]
+Por isto, esta obra não é apenas um livro de ciência. Também é de amor. O amor,
+mais  do  que  a  ciência,  assegura  a  fidelidade  aos  princípios  norteadores  da lei,
+
+intensamente vividos por seus autores – do livro e da lei. Essa relação doutrinária e
+afetiva assegura a esta obra uma situação singular em relação a quantas forem escritas
+a respeito da importante inovação legislativa, que, após a Resolução nº 39/248, de 9
+de  abril  de  1985,  da  Assembleia  Geral  da  ONU  e  depois  das  leis  editadas  na
+Espanha, em Portugal, no México, no Quebec, na Alemanha e nos Estados Unidos, se
+tornara evidente que entre nós não poderia tardar.
+A própria Constituição dela fez menção, inserindo entre os direitos individuais
+esta norma: “O Estado promoverá, na forma da lei, a defesa do consumidor”, art. 5º,
+XXXII.  E  não  ficou  nisso.  Determinou  noutro  passo  que  “o  Congresso  Nacional,
+dentro de cento e vinte dias da promulgação da Constituição, elaborará Código de
+Defesa do Consumidor”, art. 48, do ADCT.
+Agora começa a verdadeira vida da lei. Ela se encarregará de mostrar os seus
+acertos e, quiçá, suas imperfeições. A jurisprudência exercerá o papel de acrisolar os
+textos,  em  confronto  com  a  realidade  social.  A  doutrina  cumprirá  o  ofício  de
+esclarecer e apurar conceitos e preceitos.
+A mim compete agradecer duas vezes aos autores deste livro, que há de marcar
+época  no  tratamento  do  tema  relevante:  a  impagável  colaboração  que  me  deram
+quando Ministro da Justiça, bem como a honra de escrever esta página inaugural.
+Brasília, junho de 1991.
+Paulo Brossard
+
+Material
+Suplementar
+Para acessar o material suplementar entre em contato conosco através do e-mail
+(gendigital@grupogen.com.br).
+
+ÍNDICE SISTEMÁTICO DO CÓDIGO DE DEFESA
+DO CONSUMIDOR
+Comentado pelos Autores do Anteprojeto
+Introdução
+Ada Pellegrini Grinover, Antônio Herman de Vasconcellos e Benjamin
+I – TRABALHOS DE ELABORAÇÃO – Anteprojeto de Código de Defesa
+do Consumidor
+1. Escorço histórico
+2. Os vetos presidenciais
+II – VISÃO GERAL DO CÓDIGO
+1. A necessidade de tutela legal do consumidor
+2. O modelo intervencionista estatal
+3. A base constitucional do Código
+4. Código ou lei?
+5. A importância da codificação
+6. As fontes de inspiração
+7. Estrutura básica do Código
+8. Projetos de atualização
+TÍTULO I
+Dos Direitos do Consumidor
+José Geraldo Brito Filomeno
+1. Código do Consumidor: antes de tudo, uma filosofia de ação
+2. Desfazimento de mitos e direitos básicos
+3. Microssistema jurídico de caráter inter e multidisciplinar
+
+[1]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+[3]
+[4]
+[5]
+4. Consumo sustentável
+CAPÍTULO I
+Disposições Gerais
+José Geraldo Brito Filomeno
+Art. 1º
+Fundamento constitucional
+Art. 2º
+Conceito de consumidor
+A coletividade de consumidores
+Art. 3º
+Conceito de fornecedor
+Produto como objeto das relações de consumo
+Serviços como objeto das relações de consumo
+Relações locatícias
+Relações trabalhistas
+CAPÍTULO II
+Da Política Nacional de Relações de Consumo
+José Gera
+[/PAGINA 4]
+
+[PAGINA 5]
+ldo Brito Filomeno
+Art. 4º
+Política nacional de relações de consumo
+Vulnerabilidade do consumidor
+Ação governamental
+Harmonização dos interesses dos consumidores e fornecedores
+Educação e informação
+
+[6]
+[7]
+[8]
+[9]
+[10]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7 e 8]
+[9]
+Controle de qualidade e mecanismos de atendimento pelas próprias empresas
+Conflitos de consumo e juízo arbitral
+Coibição e repressão de abusos no mercado
+Racionalização e melhoria dos serviços públicos
+Estudo das modificações do mercado
+Art. 5º
+Instrumentos para execução da política nacional das relações de consumo: a
+assistência jurídica integral
+Promotorias de justiça de defesa do consumidor
+Delegacias especializadas
+Juizados especiais de pequenas causas e varas especializadas
+Associações de consumidores
+Órgãos de atendimento da União, Estados, Distrito Federal e Municípios
+Fiscalização de preços pela União, Estados, Distrito Federal e Municípios
+CAPÍTULO III
+Dos Direitos Básicos do Consumidor
+José Geraldo Brito Filomeno
+Art. 6º
+Direitos do consumidor
+Proteção da vida, saúde e segurança
+Educação do consumidor
+Informação sobre produtos e serviços
+Publicidade enganosa e abusiva, práticas comerciais condenáveis
+Cláusulas contratuais abusivas
+Prevenção e reparação de danos individuais e coletivos e acesso à justiça
+A inversão do ônus da prova
+
+[9a]
+[9b]
+[10]
+[11]
+[11a]
+[12]
+[1]
+[2]
+[3]
+[1]
+[2]
+[1]
+[2]
+[1]
+[2]
+[3]
+Verossimilhança
+Hipossuficiência
+Participação dos consumidores na formulação de políticas que os afetem
+Prestação de serviços públicos
+Serviços públicos uti universi
+No evento intitulado “Ministério Público e a comunidade”
+Art. 7º
+Fontes dos direitos do consumidor
+Regulamentação do Código do Consumidor
+Solidariedade em face dos danos infligidos
+CAPÍTULO IV
+Da Qualidade de Produtos e Serviços, da Prevenção e da Reparação dos Danos
+Zelmo Denari
+Seção I – Da proteção à saúde e segurança
+1. A saúde e a segurança dos consumidores
+Art. 8º
+Riscos à saúde e segurança
+Deveres do fabricante
+Art. 9º
+Nocividade e periculosidade
+Natureza da informação
+Art. 10
+Alto grau de nocividade ou periculosidade
+Nocividade futura
+Divulgação
+
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[5]
+Art. 11. Vetado
+Seção II – Da responsabilidade pelo fato do produto e do serviço
+1. Relação de consumo e de responsabilidade
+2. Modelos de responsabilidade
+3. Responsabilidade por danos
+4. Responsabilidade objetiva
+Art. 12
+Responsáveis
+Responsabilidade e seus elementos
+Tipologia dos defeitos
+Produtos defeituosos
+Riscos de desenvolvimento
+Inovações tecnológicas
+Causas excludentes
+Caso fortuito e força maior
+Art. 13
+Responsabilidade do comerciante
+Direito de regresso
+Art. 14
+Danos no fornecimento de serviços
+Serviço defeituoso
+Responsabilidade objetiva e causas excludentes
+Serviços públicos
+Profissionais liberais
+Art. 15. Vetado
+
+[1]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[1]
+[2]
+[1]
+[2]
+[3]
+[1]
+[1]
+[2]
+[3]
+Art. 16. Vetado
+Art. 17
+Propagação do dano
+Seção III – Da responsabilidade por vício do produto e d
+[/PAGINA 5]
+
+[PAGINA 6]
+o serviço
+1. Responsabilidade por vício
+Art. 18
+Sujeição passiva
+Vício de qualidade
+A disciplina das sanções
+Redução ou ampliação do prazo de saneamento
+Imediatização das reparações
+Produtos in natura
+Art. 19
+Vícios de quantidade
+Sanções alternativas
+Art. 20
+Vícios do serviço
+Serviços e danos morais
+Reexecução por terceiros
+Art. 21
+Consertos e reparações
+Art. 22
+Responsabilidade do poder público
+Continuidade dos serviços
+Falta do serviço público
+
+[4]
+[5]
+[1]
+[1]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[1]
+[2]
+Teoria do risco
+Causas excludentes
+Art. 23
+Ignorância dos vícios
+Art. 24
+Garantia de boa qualidade
+Art. 25
+Cláusulas de exoneração
+Responsáveis solidários
+Seção IV – Da decadência e da prescrição
+1. Direitos subjetivos: noção
+2. A decadência e a prescrição
+3. Decadência na construção civil
+Art. 26
+Alcance terminológico
+Prazos decadenciais
+Termo inicial de decadência
+Vícios ocultos e decadência
+Causas obstativas
+Inteligência do veto
+Art. 27
+Responsabilidade por danos e prescrição
+Suspensão da prescrição
+Seção V – Da desconsideração da personalidade jurídica
+1. Antecedentes doutrinários
+
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+2. Antecedentes legislativos
+3. Considerações finais
+Art. 28
+Hipóteses materiais de incidência
+Pressupostos inéditos
+Faculdade do juiz
+Legitimidade passiva
+Agrupamentos societários
+Sociedades consorciadas
+Sociedades coligadas
+Reexame do § 5º
+CAPÍTULO V
+Das Práticas Comerciais
+Antônio Herman de Vasconcellos e Benjamin
+1. As fontes deste capítulo
+2. O conceito de práticas comerciais
+3. A importância das práticas comerciais na sociedade de consumo
+4. Práticas comerciais e marketing
+5. O conceito de marketing
+6. As diversas manifestações do marketing
+7. As duas faces principais do marketing: a publicidade e as promoções de
+vendas
+8. O marketing no Código de Defesa do Consumidor
+9. Três momentos obrigacionais do marketing no CDC
+10. O desafio: compatibilizar marketing e defesa do consumidor
+11. As práticas comerciais, o marketing e a publicidade
+
+[1]
+[2]
+[3]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[1]
+[2]
+[3]
+[4]
+[5]
+Seção I – Das disposições gerais
+Art. 29
+O Código e seus múltiplos conceitos de consumidor
+Um conceito exclusivo de consumidor para as práticas comerciais
+A suficiência da exposição
+Seção II – Da oferta
+1. Oferta e marketing
+Art. 30
+A origem do dispositivo
+O princípio da vinculação
+O pressuposto da veiculação
+O pressuposto da precisão da informação
+A responsabilidade do fornecedor
+Fundamentos econômicos e jurídicos da responsabilidade civil em matéria
+publicitária
+Da oferta clássica à oferta publicitária
+O formalismo da oferta no direito tradicional
+A força obrigatória da oferta no direito tradicional
+Bases do novo paradigma da oferta publicitária
+Inaplicabilidade do art. 429 do novo Código Civil às relações de consumo
+Art. 31
+Dois tipos básicos de informação
+O dever de informar
+O caráter enumerativo do dispositivo
+A informação em português
+Os dados integrantes do dever de informar
+
+[6]
+[7]
+[8]
+[9]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[/PAGINA 6]
+
+[PAGINA 7]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[4.1]
+[4.2]
+As embalagens e rotulagem
+O destinatário da norma
+Preço e código de barras
+Informações nos produtos refrigerados
+Art. 32
+O dever de fornecimento de peças de reposição enquanto durar a fabricação do
+produto
+O dever de fornecimento de peças de reposição após o encerramento da fabricação
+do produto
+Art. 33
+O fornecimento por telefone ou reembolso postal
+A vulnerabilidade especial do consumidor na oferta telefônica ou por reembolso
+Fornecimento pela internet
+Chamada onerosa ao consumidor
+Art. 34
+A responsabilidade solidária do fornecedor pelos atos dos prepostos
+A isenção contratual
+Art. 35
+Recusa de cumprimento da oferta
+Os sujeitos responsáveis
+A enganosidade
+Recusa de cumprimento sob o argumento de equívoco no anúncio
+A fonte da vinculação contratual é a declaração publicitária, e não a vontade
+publicitária
+A publicidade é negócio jurídico unidirecional, destituído de qualquer
+negociação e sob controle exclusivo do anunciante
+
+[4.3]
+[4.4]
+[4.5]
+[4.6]
+[4.7]
+[5]
+3.1.
+3.2.
+3.3.
+10.1.
+10.2.
+10.2.1.
+10.2.2.
+Se os benefícios econômicos principais da publicidade são do anunciante, a
+assunção de seus riscos também com ele deve ficar
+A teoria do erro tem aplicação reduzida no direito do consumidor
+No regime geral do direito do consumidor, o equívoco inocente não exime a
+responsabilidade civil do fornecedor
+Só o anunciante tem os meios contratuais para acionar a agência e o veículo
+Liberalidades em matéria de preço, principalmente em economias inflacionárias,
+são comuns no mercado
+Irretratabilidade da oferta publicitária
+Seção III – Da Publicidade
+1. A importância da publicidade
+2. Dever de informar e publicidade
+3. Publicidade e controle
+O sistema exclusivamente estatal
+O sistema exclusivamente privado
+O sistema misto
+4. Publicidade, controle legal e garantias constitucionais
+5. O conceito de publicidade
+6. Publicidade x propaganda
+7. Os diversos tipos de publicidade: institucional e promocional
+8. Patrocínio
+9. Os dois grandes momentos de uma campanha publicitária
+10. Entendendo a gênese de uma criação publicitária
+A criação publicitária
+Análise da criação publicitária
+O briefing
+A reflexão estratégica
+
+10.2.3.
+17.1.
+17.2.
+17.3.
+17.4.
+17.5.
+17.6.
+17.7.
+17.8.
+[1]
+[2]
+[2.1]
+[2.2]
+[3]
+[1]
+A criação propriamente dita
+11. Da criação à produção
+12. A necessidade de um novo tratamento jurídico para a publicidade brasileira
+13. A situação anterior ao Código de Defesa do Consumidor
+14. O controle da publicidade no Código de Defesa do Consumidor
+15. Influência estrangeira no Código
+16. A regulamentação legal da publicidade no Código: civil, administrativa e
+penal
+17. Os princípios gerais adotados pelo Código
+O princípio da identificação da publicidade
+O princípio da vinculação contratual da publicidade
+O princípio da veracidade da publicidade
+O princípio da não abusividade da publicidade
+O princípio da inversão do ônus da prova
+O princípio da transparência da fundamentação da publicidade
+O princípio da correção do desvio publicit
+[/PAGINA 7]
+
+[PAGINA 8]
+ário
+O princípio da lealdade publicitária
+18. A regulamentação penal da publicidade
+Art. 36
+A origem do dispositivo
+O princípio da identificação da publicidade
+O merchandising
+O teaser
+O princípio da transparência da fundamentação
+Art. 37
+A origem do dispositivo
+
+[2]
+[3]
+[3.1]
+[3.2]
+[3.3]
+[3.4]
+[3.5]
+[3.6]
+[3.7]
+[3.7.1]
+[3.7.2]
+[3.7.3]
+[3.8]
+[3.8.1]
+[3.8.2]
+[3.8.3]
+[3.8.4]
+[4]
+[4.1]
+[4.2]
+[4.2.1]
+[4.2.2]
+[4.2.3]
+[4.2.4]
+[4.2.5]
+[4.2.6]
+[4.2.7]
+A proibição da publicidade enganosa e abusiva
+A publicidade enganosa
+Os diversos tipos de publicidade enganosa
+O elemento subjetivo
+Capacidade de enganar e erro real
+O consumidor desinformado e ignorante é protegido
+Os consumidores mais frágeis são especialmente tutelados
+A impressão total
+A publicidade enganosa comissiva
+O exagero publicitário
+O anúncio ambíguo
+Alegações expressas e alegações implícitas
+A publicidade enganosa por omissão
+O conceito de dado essencial
+Alguns exemplos concretos
+As demonstrações simuladas
+A língua portuguesa
+A publicidade abusiva
+O conceito de publicidade abusiva
+Alguns exemplos de publicidade abusiva
+A publicidade discriminatória
+A publicidade exploradora do medo ou superstição
+A publicidade incitadora de violência
+A publicidade antiambiental
+A publicidade indutora de insegurança
+A publicidade dirigida aos hipossuficientes
+Publicidade abusiva por correio eletrônico
+
+[5]
+[6]
+[6.1]
+[6.2]
+[6.3]
+[6.4]
+[6.5]
+[6.6]
+[6.7]
+[6.8]
+[6.9]
+[6.10]
+[6.11]
+[7]
+[8]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+A questão da publicidade comparativa
+Controle da publicidade de tabaco, bebidas alcoólicas, agrotóxicos, medicamentos
+e terapias
+Fundamentos constitucionais do controle
+Liberdade e abuso na publicidade de tabaco
+A Lei Murad
+A Lei Serra
+Controle tríplice da adequação legal da publicidade de tabaco, bebidas
+alcoólicas, agrotóxicos e medicamentos
+Regra geral de restrição da forma de comunicação na publicidade de tabaco
+Limites de conteúdo na publicidade de tabaco
+A publicidade de estilo de vida
+Outras proibições
+Patrocínio de atividade cultural ou esportiva
+Sanções administrativas
+A responsabilidade civil da agência, do veículo e da celebridade
+A contrapropaganda
+Art. 38
+A inversão do ônus da prova na publicidade
+A fonte do dispositivo
+A extensão da inversão
+Outras hipóteses de inversão do ônus da prova em matéria publicitária
+Desnecessidade de declaração judicial da inversão
+O decreto regulamentador
+Conteúdo da inversão
+Seção IV – Das práticas abusivas
+1. As práticas abusivas no Código
+
+[1]
+[1.1]
+[1.2]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[9.1]
+[9.2]
+[9.3]
+[9.4]
+[9.5]
+[9.6]
+[9.7]
+[9.8]
+[9.9]
+[10]
+[11]
+2. O conceito de prática abusiva
+3. Classificação
+4. A impossibilidade de exaustão legislativa
+5. As sanções
+Art. 39
+O elenco exemplificativo das práticas abusivas
+Corte de energia e água
+Circulação e uso não autorizados de informações prestadas por consumidores
+Condicionamento do fornecimento de produto ou serviço
+Recusa de atendimento à demanda do consumidor
+Fornecimento não solicitado
+O aproveitamento da hiposs
+[/PAGINA 8]
+
+[PAGINA 9]
+uficiência do consumidor
+A exigência de vantagem excessiva
+Serviços sem orçamento e autorização do consumidor
+Divulgação de informações negativas sobre o consumidor
+Produtos ou serviços em desacordo com as normas técnicas
+A normalização
+Normalização e regulamentação
+A norma
+A obrigatoriedade da norma
+A atividade de controle
+O sistema brasileiro de normalização
+A Associação Brasileira de Normas Técnicas
+O SINMETRO, o CONMETRO e o INMETRO
+Os diversos tipos de normas brasileiras
+Recusa de venda direta
+Elevação de preço sem justa causa
+
+[12]
+[13]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[5]
+[5.1]
+[5.1.1]
+[5.1.2]
+[5.1.3]
+[5.2]
+[5.2.1]
+Reajuste diverso do previsto em lei ou no contrato
+A inexistência ou deficiência de prazo para cumprimento da obrigação
+Art. 40
+A falta de orçamento como prática abusiva
+A exigência de orçamento prévio
+A validade da proposta de preço
+O orçamento como verdadeiro contrato
+Os serviços de terceiro
+Art. 41
+O tabelamento de preços
+As opções do consumidor
+Seção V – Da cobrança de dívidas
+Art. 42
+Art. 42-A
+A fonte de inspiração da seção
+A cobrança de dívidas de consumo
+O objeto do dispositivo
+Os contatos do credor com terceiros
+As práticas proibidas
+As proibições absolutas
+A ameaça
+A coação e o constrangimento físico ou moral
+O emprego de afirmações falsas, incorretas ou enganosas
+As proibições relativas
+A exposição do consumidor a ridículo
+
+[5.2.2]
+[6]
+[7]
+[8]
+[9]
+[9.1]
+[9.2]
+[9.2.1]
+[9.2.2]
+[9.2.3]
+[9.3]
+[9.4]
+[9.5]
+[9.6]
+[10]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+A interferência no trabalho, descanso ou lazer
+As perdas e danos
+As sanções administrativas
+As sanções penais
+A repetição do indébito
+O regime do Código Civil
+Pressupostos da sanção no regime do CDC
+O pressuposto da cobrança de dívida
+O pressuposto da extrajudicialidade da cobrança
+O pressuposto da qualidade de consumo da dívida cobrada
+A suficiência de culpa para a aplicação da sanção
+Cobrança indevida por uso de cláusulas ou critérios abusivos
+Os juros e a correção monetária
+O valor da sanção
+Identificação do fornecedor
+Seção VI – Dos bancos de dados e cadastros de consumidores
+Art. 43
+Fontes de inspiração desta seção
+Evolução histórica e organização dos bancos de dados brasileiros
+Duas questões teóricas prévias
+Direitos constitucionais do cidadão e o caráter invasivo dos arquivos de consumo
+Arquivos sobre consumidores e sociedade de consumo
+Necessidade de controle dos arquivos de consumo
+Natureza jurídica dos arquivos de consumo
+Venda de cadastros de consumidores e práticas abusivas
+Antinomia entre regulação privada e estatal dos bancos de dados. Prevalência das
+normas constitucionais e legais em detrimento dos estatutos de caráter
+
+[10]
+[10.1]
+[10.2]
+[11]
+[12]
+[12.1]
+[12.2]
+[12.2.1]
+[12.2.2]
+[12.3]
+[12.3.1]
+[12.3.2]
+[12.3.2.1]
+[12.3.2.2]
+[12.3.2.3]
+[12.3.2.4]
+[12.4]
+[12.4.1]
+[12.4.2]
+[12.4.3]
+[12.4.4]
+[12.4.4.1]
+[12.4.4.2]
+[12.4.4.3]
+[12.4.5]
+[12.4.6]
+autorregulamentar e contratual
+Irrelevância, para fins de controle, da origem oficial das informações coletadas
+[/PAGINA 9]
+
+[PAGINA 10]
+Limitações legais à coleta de dados – “Cartórios de protestos paralelos”?
+Medidas judiciais e administrativas adotadas
+Modalidades de arquivos de consumo disciplinadas pelo CDC
+Pressupostos de legitimidade dos arquivos de consumo
+O pressuposto teleológico
+Pressupostos substantivos
+Inquestionamento do débito e registro
+O tipo de informação arquivada
+Pressupostos procedimentais
+Acessibilidade limitada
+Linguagem dos arquivos de consumo
+Direito à informação veraz
+Direito à informação objetiva
+Direito à informação clara
+Direito à informação de fácil compreensão
+Pressupostos temporais
+Fundamentos para a tutela temporal do devedor
+A vida útil da informação
+Prazo genérico de cinco anos
+O prazo específico da ação de cobrança
+Prescrição da ação de cobrança
+Prescrição da ação cambiária
+Prescrição vintenária: uma questão superada
+Destinatário da norma do art. 43, § 5º
+Expurgo de dados inviabilizadores do crédito. Conceito de informação
+
+[12.4.7]
+[12.4.8]
+[13]
+[13.1]
+[13.1.1]
+[13.1.2]
+[13.1.3]
+[13.1.4]
+[13.1.5]
+[13.1.6]
+[13.1.7]
+[13.1.8]
+[13.2]
+[13.2.1]
+[13.2.2]
+[13.2.3]
+[13.3]
+[13.3.1]
+[13.3.2]
+[13.3.3]
+[13.3.4]
+[13.4]
+[14]
+[14.1]
+[14.2]
+negativa explícita e implícita
+Termo inicial do prazo
+Efeitos jurídicos do decurso do prazo
+Direitos básicos do consumidor objeto de arquivo
+Direito de comunicação do assento
+Caracterização do direito
+O sentido do vocábulo “abertura”
+Dever que não abriga exceções
+Momento da comunicação
+Forma de comunicação ao consumidor
+Conteúdo da comunicação
+Responsáveis pela comunicação
+Consequências cíveis, administrativas e penais para o descumprimento do
+dever de comunicar
+Direito de acesso
+Caracterização do direito
+Campo de aplicação do direito de acesso
+Rapidez e gratuidade do acesso
+Direito à correção
+Caracterização do direito
+Prazo para a correção
+Sentido do vocábulo correção
+Ônus probatório
+Despesas no exercício dos direitos de acesso e de retificação
+Responsabilidade civil dos arquivos de consumo
+Sujeitos responsáveis
+Comportamentos infrativos
+
+[14.3]
+[14.3.1]
+[14.3.2]
+[14.4]
+[14.5]
+[15]
+[16]
+[17]
+[17.1]
+[17.2]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+Danos indenizáveis
+Danos patrimoniais
+Danos morais
+Regime jurídico da responsabilidade civil pela inscrição, manutenção e
+comunicação indevidas do registro
+Ônus da prova e inversão
+Sanções administrativas
+Sanções penais
+Instrumentos processuais
+Habeas data
+Tutela de urgência
+Art. 44
+Art. 45. Vetado
+Os arquivos de consumo estatais
+A atualização dos arquivos estatais
+Sentido da expressão “reclamações”
+Conteúdo dos arquivos estatais
+O dever de divulgação das informações
+Os requisitos da divulgação
+O direito de acesso às informações
+A aplicação subsidiária das regras dos arquivos de consumo privados
+Prazo máximo
+O cumprimento forçado das obrigações de arquivar e divulgar
+Uso em publicidade comparativa
+CAPÍTULO VI
+Da Proteção Contratual
+
+1.1.
+[1]
+[2]
+[3]
+Nelson Nery Junior
+Introdução
+1. Ideologia e filosofia do Código de Defesa do Consumidor
+Relações de consumo
+2. Dirigismo contratu
+[/PAGINA 10]
+
+[PAGINA 11]
+al e decadência do voluntarismo: morte do contrato?
+3. A boa-fé como princípio basilar das relações jurídicas de consumo
+4. A oferta como elemento vinculante do dever de prestar: execução específica
+da obrigação de contratar
+5. Formas de contratação
+6. Comportamentos socialmente típicos
+7. Contratos de adesão
+8. Cláusulas gerais dos contratos
+9. Proteção contra cláusulas abusivas
+10. Controle das cláusulas gerais dos contratos
+11. Contratos bancários
+12. Modificação das cláusulas contratuais por excessiva onerosidade
+13. Interpretação dos contratos de consumo
+14. Responsabilidade derivada dos contratos de consumo
+15. Aplicação da disciplina contratual do Código de Defesa do Consumidor a
+outras relações jurídicas
+Seção I – Disposições Gerais
+Art. 46
+Relações de consumo
+Conhecimento prévio do consumidor sobre o conteúdo do contrato
+Redação clara e compreensível
+Art. 47
+
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+[3]
+Cláusulas contratuais
+Interpretação mais favorável ao consumidor
+Art. 48
+Escritos, pré-contratos e contrato preliminar
+Imposição ao fornecedor do dever de prestar
+Execução forçada da obrigação de fazer
+Procedimento da execução específica
+Art. 49
+Direito de arrependimento
+Prazo de reflexão
+Contagem do prazo de reflexão
+Relação de consumo fora do estabelecimento comercial
+Elenco exemplificativo
+Devolução das quantias pagas
+Despesas de envio, frete e outros encargos
+Art. 50
+Caráter complementar da garantia contratual
+Padronização do termo de garantia
+Conteúdo e forma do termo de garantia
+Preenchimento e entrega do termo de garantia
+Manual de instrução
+Seção II – Das Cláusulas Abusivas
+Art. 51
+Cláusulas abusivas
+Nulidade das cláusulas abusivas
+Elenco exemplificativo das cláusulas abusivas
+
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[30]
+Proteção do consumidor nos contratos de consumo
+Cláusula de não indenizar nos contratos de consumo
+Cláusula de renúncia ou disposição de direitos
+Cláusula de limitação da indenização e o consumidor-pessoa jurídica
+Reembolso da quantia paga pelo consumidor
+Transferência de responsabilidades a terceiros
+Obrigações iníquas e vantagem exagerada
+Cláusula incompatível com a boa-fé e a equidade
+Cláusula-surpresa
+Inversão prejudicial do ônus da prova
+Arbitragem compulsória
+Representante imposto
+Outro negócio jurídico pelo consumidor
+Opção exclusiva do fornecedor
+Alteração unilateral do preço
+Cancelamento unilateral do contrato
+Ressarcimento unilateral dos custos de cobrança
+Modificação unilateral do contrato
+Violação de normas ambientais
+Desacordo com o sistema de proteção ao consumidor
+Renúncia à indenização por benfeitorias necessárias
+Presunção relativa da vantagem exagerada
+Ofensa aos princípios fundamentais do sistema
+Ameaça do objeto ou do equilíbrio do contrato
+Onerosidade excessiva para o consumidor
+Conservação do contrato
+Resolução por ônus excessivo a uma das partes
+
+[31]
+[32]
+[33]
+[34]
+[35
+[/PAGINA 11]
+
+[PAGINA 12]
+]
+[36]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[1]
+[2]
+[3]
+[4]
+[5]
+Controle administrativo das cláusulas contratuais gerais pelo Ministério Público
+Representação ao Ministério Público para o ajuizamento de ação visando ao
+controle judicial das cláusulas contratuais gerais
+Diretiva nº 93/13, de 5.4.93, do Conselho da Europa (Comunidade Econômica
+Europeia – União Europeia), sobre cláusulas contratuais abusivas
+Cláusulas abusivas. Rol estabelecido pela Portaria nº 4, de 13.3.98, da SDE-MJ
+Cláusulas abusivas estipuladas na Portaria nº 3/99, da Secretaria de Direito
+Econômico do Ministério da Justiça
+Cláusulas abusivas estipuladas na Portaria nº 3/01, da Secretaria de Direito
+Econômico do Ministério da Justiça
+Art. 52
+Crédito ao consumidor
+Informação prévia e adequada
+Preço em moeda corrente nacional
+Montante e taxa efetiva de juros
+Acréscimos legais
+Número e periodicidade das prestações
+Total a pagar, com e sem financiamento
+Multa moratória
+Liquidação antecipada do débito financiado
+Multa civil
+Art. 53
+Compra e venda a prestação
+Alienação fiduciária em garantia
+Nulidade de pleno direito
+Perda total das prestações pagas
+Restituição das parcelas quitadas
+
+[6]
+[7]
+[8]
+[9]
+[10]
+[10.1]
+[10.2]
+[10.3]
+[10.4]
+[10.5]
+[10.6]
+[10.7]
+[10.8]
+[10.9]
+[10.10]
+[10.11]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+Desconto da vantagem econômica auferida com a fruição
+Consórcio de produtos duráveis
+Desconto da vantagem auferida e dos prejuízos causados ao grupo
+Contratos de consumo expressos em moeda corrente nacional
+Natureza jurídica e conceito de cláusula penal
+Conceito (Códigos Civis brasileiros não a conceituaram) – Legislação
+comparada e doutrina
+Cláusula penal como pré-estimativa alternativa de perdas e danos
+Dificuldades de pré-estimativa de perdas e danos e critérios utilizados (questão
+da justa indenização)
+Fórmulas de estimativa de perdas e danos (partes, meios judiciais ou
+determinação legal)
+Vantagens da pré-estimativa
+Cláusula penal moratória e compensatória
+Cláusula penal compensatória: limites
+Cláusula penal moratória
+Insuficiência da cláusula penal (danos a demonstrar em ação autônoma)
+Alcance do art. 53 do Código do Consumidor
+Entendimento jurisprudencial
+Seção III – Dos Contratos de Adesão
+Art. 54
+Definição de contrato de adesão
+Inserção de cláusula no formulário
+Cláusula resolutória alternativa
+Escolha é direito do consumidor
+Contrato de adesão escrito e verbal
+Redação clara em caracteres ostensivos e legíveis
+
+[7]
+[8]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[1]
+[2]
+[3]
+[1]
+[1]
+Destaque para as cláusulas limitativas de direito do consumidor
+Controle administrativo das cláusulas gerais dos contratos de adesão pelo
+Ministério Público
+CAPÍTULO VII
+Das Sanções Administrativas
+Zelmo Denari
+1. Normas gerais de consumo
+2. Decreto nº 2.181, de 1997
+Art. 55
+Normas gerais de consumo
+Normas de consumo
+Comissões permanentes
+Notificação dos fornecedores
+Revisão periódica das normas de consumo
+Art. 56
+Modalidades de sanções administrativas
+Art. 57
+Graduação da multa
+Fundos especiais
+Aplicação da mul
+[/PAGINA 12]
+
+[PAGINA 13]
+ta
+Art. 58
+Sanções por vício
+Art. 59
+Sanções subjetivas
+
+[2]
+[3]
+[1]
+[2]
+5.1.
+5.2.
+5.3.
+5.4.
+[1]
+Intervenção administrativa
+Reincidência
+Art. 60
+Imposição de contrapropaganda
+Execução da medida
+TÍTULO II
+Das Infrações Penais
+José Geraldo Brito Filomeno
+1. Da defesa do consumidor no âmbito penal
+2. Desinformação e desinteresse individual
+3. Parâmetros para a defesa do consumidor no âmbito penal
+4. Dilema inicial da comissão elaboradora do anteprojeto
+5. Da legislação comparada
+A Lei mexicana e infrações contra o consumidor
+A Lei venezuelana de proteção ao consumidor e infrações
+Infrações e sanções na lei espanhola de proteção ao consumidor
+O novo Código Penal espanhol
+6. Conclusões
+7. Críticas à concepção penal do Código
+Art. 61
+A advertência do art. 61
+Art. 62. Vetado
+Art. 63
+Art. 64
+
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[1]
+[2]
+[3]
+[1]
+[2]
+[1]
+Art. 65
+Colocação no mercado de produtos ou serviços impróprios
+Omissão de dizeres ou sinais ostensivos
+Culpa
+Omissão na comunicação às autoridades competentes
+Execução de serviços perigosos
+O concurso material do § 1º do art. 65 e novo tipo do § 2º
+Da publicidade enganosa e seus efeitos (introdução aos comentários aos arts.
+66 a 69)
+1. Dos abusos na publicidade
+2. Tentativa de criminalização da publicidade/oferta enganosa ou abusiva
+3. Anteprojeto do Código Penal (Portaria nº 790, de 27.10.87)
+4. Inserção de tipo específico na Lei nº 1.521/51
+5. Publicidade enganosa como “concorrência desleal”
+6. Críticas ao sistema de publicidade enganosa como concorrência desleal
+7. Tipo criado pela Lei nº 8.137/90
+8. Criminalização da publicidade enganosa
+Art. 66
+Falsidade, engano e omissão em informações sobre produtos e serviços
+Patrocínio
+Culpa
+Art. 67
+Elaboração ou promoção de publicidade sabidamente enganosa ou abusiva
+O veto ao parágrafo único
+Art. 68
+Elaboração ou promoção de publicidade tendenciosa
+
+[2]
+[1]
+[2]
+[1]
+[1]
+[1]
+[1]
+[1]
+[1]
+[1]
+[1]
+[1]
+[2]
+Veto ao parágrafo único
+Art. 69
+Omissão na organização de dados que dão base à publicidade
+Conclusões quanto aos abusos na publicidade
+Art. 70
+Emprego de peças e componentes de reposição usados
+Art. 71
+Meios vexatórios na cobrança de dívidas do consumidor
+Art. 72
+Impedimento de acesso a banco de dados
+Art. 73
+Omissão na correção de dados incorretos
+Art. 74
+Omissão na entrega de termos de garantia
+Art. 75
+Da responsabilidade e concurso de pessoas
+Art. 76
+Circunstâncias agravantes
+Art. 77
+Penas de multa
+Art. 78
+Outras penas
+Da responsabilidade penal da pessoa jurídica
+
+[1]
+[1]
+I –
+II –
+Art. 79
+Da fiança
+Art. 80
+Intervenção de assistentes de acusação e ação penal subsidiária
+TÍTULO III
+Da Defesa do Consumidor em Juízo
+Processo Coletivo e Processo Individual
+DA DEFESA DO CONSUMIDOR EM JUÍZO
+Ada Pellegrini Grinover
+1. Da tutela jurisdicional dos direitos e interesses do consumidor
+2. Conteúdo do Título III
+DAS DEMANDAS INDIVIDUAIS E DEMANDAS COLETIVAS DE DEFESA
+DO CONSUMIDOR – Considerações gerais, peculiaridades, relação entre elas,
+carga dinâmica da prova e inversão do ônus da pro
+[/PAGINA 13]
+
+[PAGINA 14]
+va; despesas com provas;
+conversão da ação individual em ação coletiva
+Kazuo Watanabe
+1. Relevância das demandas coletivas e das individuais
+2. Aplicação do CPC nos processos individuais do consumidor, com algumas
+especificidades
+3. Inadmissibilidade da denunciação da lide nos processos individuais do
+consumidor
+4. Teoria da carga dinâmica da prova e inversão do ônus da prova
+5. Ônus da prova e sua inversão no Código de Defesa do Consumidor (arts. 6º,
+VIII, e 38, CDC)
+6. Inversão do ônus da prova e inversão da responsabilidade pelo adiantamento
+de despesas processuais
+
+III –
+1.1
+1.2
+1.2.1
+1.2.2
+1.2.3
+1.2.4
+1.2.5
+1.2.6
+1.2.7
+1.3
+1.4
+1.4.1
+1.4.2
+1.4.3
+1.4.4
+1.4.5
+1.4.6
+1.4.7
+1.4.8
+1.4.9
+1.4.10
+1.4.11
+7. Relação entre demanda coletiva e demandas individuais
+8. Conversão da ação individual em ação coletiva
+DIREITO PROCESSUAL COLETIVO
+Ada Pellegrini Grinover
+1. Introdução
+O “estado da arte”
+Princípios do direito processual coletivo
+Princípio do acesso à justiça
+Princípio da universalidade da jurisdição
+Princípio de participação
+Princípio da ação
+Princípio do impulso oficial
+Princípio da economia
+Princípio da instrumentalidade das formas
+Conclusão quanto aos princípios
+Institutos fundamentais do processo coletivo
+Legitimação
+Representatividade adequada
+Coisa julgada
+Pedido e causa de pedir
+Conexão, continência e litispendência
+Preclusões
+Competência
+Ônus da prova
+Liquidação da sentença
+Indenização pelos danos provocados
+Outros institutos
+
+1.5
+1.6
+2.1
+2.2
+2.3
+2.4
+2.5
+2.5.1
+2.5.2
+2.5.3
+2.6
+3.1
+3.2
+3.3
+3.4
+3.5
+3.6
+3.7
+4.1
+4.2
+4.2.1
+4.2.2
+Conclusão quanto aos institutos
+Direito processual coletivo
+2. Da necessidade de um novo sistema de processos coletivos
+O minissistema brasileiro de processos coletivos
+Código Modelo de Processos Coletivos para Ibero-Amé-rica
+O surgimento do Anteprojeto de Código Brasileiro de Processos
+Coletivos
+Inovações do Anteprojeto
+O Projeto de Lei sobre ações coletivas
+Vantagens gerais
+Pontos específicos
+Retrocessos em relação ao Anteprojeto de Código Brasileiro
+de Processos Coletivos
+O triste fim do projeto de lei
+3. Significado social, político e jurídico da tutela jurisdicional coletiva
+O surgimento dos interesses difusos
+Dimensão social
+Configuração política
+A transformação do direito processual
+Evolução da tutela jurisdicional no Brasil
+Influência do minissistema brasileiro em outros países
+Transformação do direito processual brasileiro
+4. Os processos coletivos nos países de civil law
+O relatório geral para o XIII Congresso Mundial
+As novas tendências
+Direitos tutelados
+As ações cabíveis
+
+4.2.3
+4.2.4
+4.2.5
+4.2.6
+4.2.7
+4.2.8
+4.2.8.1
+4.2.8.2
+4.2.8.3
+4.2.8.4
+4.2.9
+4.2.10
+IV –
+3a.
+Os esquemas do processo civil individual utilizados para
+a tutela coletiva
+Legitimação ativa
+A “representatividade adequada”
+Ação coletiva passiva
+Coisa julgada: direitos difusos e coletivos
+Coisa julgada: direitos individuais homogêneos
+O critério do opt out
+O critério do opt in
+Combinação do opt in com o opt out
+A coisa julgada secundum eventum litis
+[/PAGINA 14]
+
+[PAGINA 15]
+Coisa julgada secundum probationem
+O aproveitamento da coisa julgada coletiva para beneficiar as
+pretensões individuais
+5. Correspondência da tutela coletiva nos países de civil law com as categorias
+das class actions norte-americanas
+CAPÍTULO I
+Disposições Gerais
+COMENTÁRIOS SOBRE A DEFESA DO CONSUMIDOR EM JUÍZO
+Kazuo Watanabe
+1. Formação de nova mentalidade
+2. Sociedade civil mais bem organizada e participativa
+3. Ampliação da legitimação para agir
+Da representatividade adequada e da legitimação passiva do grupo
+4. Ampliação dos poderes do magistrado
+5. Conceituação dos interesses ou direitos difusos e coletivos
+
+[1]
+[1a]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[8]
+[9]
+[1]
+[2]
+[3]
+[3a]
+[4]
+[5]
+[6]
+[6a]
+[6b]
+[7]
+6. Interação entre o Código e a Lei de Ação Civil Pública
+Art. 81
+Tutela dos interesses e direitos dos consumidores e das vítimas de danos
+Danos morais coletivos
+Tutela individual dos consumidores
+Tutela coletiva dos consumidores
+Interesses ou direitos “difusos”
+Interesses ou direitos “coletivos”
+Interesses ou direitos “individuais homogêneos”
+Interesses “difusos” e “coletivos” – Da correta distinção entre eles depende a
+fixação do objeto litigioso do processo (pedido e causa de pedir)
+Conceito sociológico e conceito jurídico de interesses ou direitos “difusos”,
+“coletivos” e “individuais homogêneos”
+As distinções conceituais acima expostas não foram observadas na prática com a
+precisão desejável
+Art. 82
+Correção do erro de remissão
+Ampliação da legitimação para agir
+Legitimação do Ministério Público
+Legitimação da Defensoria Pública
+Legitimação da União, Estados, Distrito Federal e Municípios
+Legitimação de entes públicos sem personalidade jurídica
+Legitimação das associações
+A Medida Provisória nº 2.180-35, de 24 de agosto de 2001 (anteriormente
+Medida Provisória nº 1.984-18, de 1º de junho de 2000)
+A falta de legitimação da pessoa física
+Dispensa pelo juiz do requisito da pré-constituição
+
+[7a]
+[7b]
+[7c]
+[8]
+[9]
+[1]
+[1a]
+[2]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[1]
+[2]
+[1]
+A representatividade adequada no ordenamento brasileiro
+A legitimação passiva do grupo
+A legitimação passiva do grupo no sistema brasileiro
+§ 2º vetado: litisconsórcio entre os órgãos do Ministério Público
+§ 3º vetado: novo título executivo extrajudicial
+Art. 83
+Efetividade da tutela jurídica processual
+Proibição de cautelares satisfativas e de execução provisória contra a Fazenda
+Pública
+Parágrafo único: vetado
+Art. 84
+Fonte inspiradora
+Interação entre os arts. 83 e 84
+Conversão da obrigação em perdas e danos
+Multa e perdas e danos
+Medida liminar
+Multa e poder ampliado do juiz
+Poderes do juiz e novos tipos de provimentos jurisdicionais
+Art. 85. Vetado
+Art. 86. Vetado
+Necessidade de ação mandamental de provimento eficaz e procedimento célere
+para a tutela de direitos entre particulares
+Admissibilidade do habeas data apesar do veto
+Art. 87
+Ações coletivas e facilitação do acesso à justiça
+
+[2]
+[3]
+[4]
+[1]
+[2]
+[1]
+[1]
+3a.
+3b.
+[1]
+[2]
+Ações coletivas e sucumbência
+Litigância de má-fé e associa
+[/PAGINA 15]
+
+[PAGINA 16]
+ção civil
+Litigância de má-fé e demais legitimados para as ações coletivas
+Art. 88
+Ação autônoma de regresso nos mesmos autos da ação de indenização
+Vedação de denunciação da lide na ação de indenização pelo fato do produto ou do
+serviço
+Art. 89. Vetado
+Extensão da disciplina processual do Código a outros direitos ou interesses
+difusos, coletivos e individuais homogêneos apesar do veto
+Art. 90
+Interação entre o Código e a Lei nº 7.347/85
+CAPÍTULO II
+Das Ações Coletivas para a Defesa de Interesses Individuais Homogêneos
+Ada Pellegrini Grinover
+1. As class actions do sistema norte-americano
+2. As class actions for damages em outros países de common law
+3. As class actions no sistema brasileiro
+A prevalência e a superioridade das class actions for damages
+reconduzidas ao sistema brasileiro
+As ações coletivas para a defesa de interesses individuais homogêneos
+Art. 91
+A ação civil coletiva de responsabilidade pelos danos individualmente sofridos
+A legitimação para a ação
+
+[1]
+[2]
+[3]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[7]
+[1]
+[2]
+[1]
+[1]
+[1]
+[2]
+[3]
+[4]
+[5]
+Art. 92
+O Ministério Público como autor
+Atuação obrigatória do Ministério Público
+O veto e a aplicação das normas da Lei nº 7.347/85
+Art. 93
+Âmbito de aplicação do art. 93
+Competência objetiva em razão da matéria
+O local do dano como critério para a fixação da competência territorial
+A determinação do foro competente: dano de âmbito local
+A determinação do foro competente: dano de âmbito regional ou nacional
+Competência territorial absoluta
+A competência perante a Medida Provisória nº 1.570, de 26 de março de 1997
+Art. 94
+Divulgação da propositura da ação para conhecimento dos interessados
+Intervenção dos interessados como litisconsortes
+Art. 95
+O conteúdo da sentença favorável
+Art. 96. Vetado
+Divulgação da sentença condenatória
+Art. 97
+Liquidação e execução da sentença
+Prazo para a liquidação
+Legitimação e representação para a liquidação e execução
+Modalidade e objeto da liquidação
+Foro competente para a liquidação: o dispositivo vetado
+
+[1]
+[2]
+[3]
+[1]
+[2]
+[1]
+[2]
+[3]
+[4]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+Art. 98
+Execução individual e coletiva
+Execução coletiva definitiva e provisória
+Competência de juízo para execução
+Art. 99
+Concurso de créditos
+Garantia da preferência
+Art. 100
+A fluid recovery do direito brasileiro
+A legitimação para a liquidação e execução
+Modalidade e objeto da liquidação
+Destinação da fluid recovery
+CAPÍTULO III
+Das Ações de Responsabilidade do Fornecedor de Produtos e Serviços
+Kazuo Watanabe
+1. Rápidas considerações sobre o Capítulo III
+Art. 101
+Ação de responsabilidade civil
+Competência territorial
+Chamamento ao processo em vez de denunciação da lide
+Acionabilidade direta do segurador pelos consumidores e pelas vítimas de danos
+Vedação de denunciação da lide ao Instituto de Resseguros do Brasil
+Art. 102
+Ação preventiva de natureza mandamental
+§ 1º vetado
+
+[3]
+5.1.
+5.2.
+5.3.
+[1]
+[2]
+[2a]
+[2b]
+[2c]
+[3]
+[3a]
+[4]
+[5]
+§ 2º vetado
+CAPÍTULO IV
+Da Coisa Julgada
+Ada Pellegrini Grinover
+1. A coisa
+[/PAGINA 16]
+
+[PAGINA 17]
+julgada nas ações coletivas
+2. A extensão subjetiva da coisa julgada e a fórmula da representatividade
+adequada
+3. A representatividade adequada no sistema brasileiro
+4. A opção do Código
+5. A coisa julgada secundum eventum litis
+Efeitos da sentença coletiva nos juízos individuais: a ampliação do
+objeto do processo
+Litispendência, continência e coisa julgada
+Novas questões sobre a coisa julgada
+Art. 103
+A coisa julgada nas ações coletivas. Abrangência da disciplina
+O alcance da coisa julgada erga omnes e ultra partes
+A coisa julgada e a Lei nº 9.494, de 10 de setembro de 1997
+Novo ataque à coisa julgada erga omnes ou ultra partes: a Medida Provisória
+2.180-35, de 2001
+O controle difuso da constitucionalidade e a coisa julgada erga omnes
+A disciplina da coisa julgada nas ações em defesa de interesses difusos
+A coisa julgada secundum eventum probationis
+A coisa julgada negativa nas ações em defesa de interesses difusos e a
+possibilidade de ações individuais
+A disciplina da coisa julgada nas ações em defesa de interesses difusos: os casos
+
+[6]
+[7]
+[8]
+[9]
+[10a]
+[10b]
+[1]
+[2]
+[3]
+[4]
+[5]
+[6]
+[1]
+[1]
+possíveis
+A disciplina da coisa julgada nas ações em defesa de interesses coletivos
+A disciplina da coisa julgada nas ações coletivas em defesa de interesses ou
+direitos individuais homogêneos
+A coisa julgada da Lei nº 7.347/85 Transportada, in utilibus, às ações de
+indenização por danos pessoalmente sofridos
+A coisa julgada penal transportada, in utilibus, às ações de indenização por danos
+pessoalmente sofridos
+A coisa julgada na ação coletiva passiva
+Coisa julgada, questões prejudiciais e processos coletivos
+Art. 104
+Identidade total ou parcial de demandas
+Identidade total ou parcial entre demandas coletivas
+Identidade parcial entre a demanda coletiva e as individuais
+O erro de remissão do art. 104
+Exclusão da litispendência
+Ações coletivas de responsabilidade civil e ações reparatórias individuais:
+continência e coisa julgada
+TÍTULO IV
+Do Sistema Nacional de Defesa do Consumidor
+Daniel Roberto Fink
+Art. 105
+Instrumentos do sistema
+Art. 106
+Os órgãos de defesa do consumidor e a efetiva realização da Política Nacional de
+Relações de Consumo
+
+[2]
+[3]
+[3.1]
+[3.2]
+[3.3]
+[3.4]
+[3.5]
+[3.6]
+[3.7]
+[3.8]
+[3.9]
+[3.10]
+[4]
+[5]
+Departamento de Proteção e Defesa do Consumidor – DPDC
+Atribuições
+Planejamento, elaboração, proposta, coordenação e execução da Política
+Nacional de Proteção ao Consumidor
+Recebimento, análise, avaliação e encaminhamento de consultas, denúncias ou
+sugestões apresentadas por entidades representativas ou pessoas jurídicas de
+direito público ou privado
+Prestação aos consumidores de orientação permanente sobre seus direitos e
+garantias
+Informação, conscientização e motivação do consumidor através dos diferentes
+meios de comunicação
+Solicitação à polícia judiciária de instauração de inquérito policial para a
+apreciação de delitos contra os consumidores, nos termos da legislação
+vigente
+Representação ao Ministério Público competente para fins de
+[/PAGINA 17]
+
+[PAGINA 18]
+adoção de medidas
+processuais no âmbito de suas atribuições
+Levar ao conhecimento dos órgãos competentes as infrações de ordem
+administrativa que violarem os interesses difusos, coletivos ou individuais
+dos consumidores
+Solicitação do concurso de órgãos e entidades da União, Estados, Distrito
+Federal e dos Municípios, bem como auxílio na fiscalização de preços,
+abastecimento, quantidade e segurança de bens e serviços
+Incentivo, inclusive com recursos financeiros e outros programas especiais, à
+formação de entidades de defesa do consumidor pela população e pelos
+órgãos públicos estaduais e municipais
+Desenvolvimento de outras atividades compatíveis com suas finalidades
+Os vetos
+Apoio técnico-científico
+
+[1]
+[2]
+[3]
+[1]
+[1]
+[1]
+[2]
+TÍTULO V
+Da Convenção Coletiva de Consumo
+Daniel Roberto Fink
+Art. 107
+Conceito, objeto e natureza jurídica
+Condições e requisitos
+Desligamento do fornecedor
+Art. 108. Vetado
+Sanções convencionais
+TÍTULO VI
+Disposições Finais
+Nelson Nery Junior
+Introdução
+1. Disposições processuais do Código de Defesa do Consumidor e outras normas
+sobre a tutela processual dos interesses difusos e coletivos
+2. O Código de Defesa do Consumidor e o Código de Processo Civil
+3. Integração dos Sistemas do CDC e da LACP
+4. Código de Defesa do Consumidor, Lei da Ação Civil Pública e mandado de
+segurança coletivo
+5. Principais modificações introduzidas pelo CDC na LACP
+Art. 109. Vetado
+Veto do preâmbulo da lei
+Art. 110
+Caracterização do direito como difuso, coletivo ou individual homogêneo
+Tutela dos interesses difusos
+
+[3]
+[4]
+[5]
+[6]
+[7]
+[1]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+[3]
+[4]
+[4a]
+[5]
+[6]
+[1]
+[2]
+[3]
+Direitos difusos e coletivos
+Legitimidade do Ministério Público do Trabalho
+Legitimidade dos sindicatos
+Legitimidade da Defensoria Pública
+Tutela dos interesses coletivos
+Art. 111
+Defesa de outros interesses difusos e coletivos como finalidade da associação e
+dos sindicatos
+Art. 112
+Desistência infundada da ação
+Abandono da ação
+Desistência por associação ou sindicato
+Desistência da ação pelo Ministério Público
+Assunção da ação por outro legitimado que não o Ministério Público
+Art. 113
+Pré-constituição dispensada pelo juiz
+Manifesto interesse social
+Litisconsórcio facultativo
+Representação do Ministério Público
+Compromisso tomado pelos órgãos legitimados
+Compromisso como título executivo extrajudicial
+Eficácia executiva do compromisso de ajustamento de conduta
+Art. 114
+Sentença condenatória
+Inércia da associação ou sindicato autor
+Dever de o Ministério Público promover a execução
+
+[4]
+[1]
+[2]
+[3]
+[4]
+[5]
+[1]
+[2]
+[1]
+[2]
+[3]
+[1]
+[2]
+[3]
+[4]
+[1]
+Faculdade da execução pelos demais legitimados
+Art. 115
+Redação do dispositivo
+Litigância de má-fé
+Solidariedade entre a associação e seus diretores
+Honorários de advogado e décuplo das custas
+Indenização por perdas e danos
+Art. 116
+Adiantamento de custas e despesas processuais
+Condenação nas verbas de sucumbência
+Art. 117
+Aplicabilidade do Título III do Código de Defesa do Consumidor às ações
+propostas com
+[/PAGINA 18]
+
+[PAGINA 19]
+base na Lei da Ação Civil Pública
+Mandado de segurança coletivo
+Aplicação das normas processuais às ações em curso
+Art. 118
+Data da entrada em vigor da lei
+Normas que dependem de regulamento
+Leis editadas no período da vacatio legis
+Contratos celebrados antes da entrada em vigor da lei
+Art. 119
+Sobrevivência do Código Civil, Código Comercial e leis extravagantes
+Bibliografia
+ANEXOS
+
+1.1
+1.1.1
+1.1.2
+1.1.3
+1.1.4
+1.1.5
+1.2
+1.3
+2.1
+2.2
+2.3
+3.1
+3.2
+4.1
+ANEXO I – Jurisprudência do Superior Tribunal de Justiça sobre processos
+coletivos
+Os Institutos Fundamentais do Processo Coletivo na Jurisprudência do
+Superior Tribunal de Justiça: um Patrimônio Hermenêutico em Formação
+Ada Pellegrini Grinover e João Ferreira Braga
+Introdução
+1. Legitimidade ad causam
+Legitimidade ad causam ativa
+Legitimidade ad causam do Ministério Público
+Legitimidade concorrente e autônoma entre Ministério Público
+Federal e Estadual
+Legitimidade ad causam das associações: representação ou
+substituição processual
+Legitimidade ad causam das associações e a pertinência
+temática. Representatividade adequada
+Legitimação da Defensoria Pública
+Ação coletiva passiva
+Comentários dos autores – Legitimidade ad causam
+2. Limites territoriais da coisa julgada
+Coisa julgada erga omnes restrita aos limites da competência do órgão
+prolator da decisão
+Abrangência nacional da coisa julgada
+Comentários dos autores
+3. Competência
+Competência do juízo para os atos de execução do julgado coletivo
+Comentários dos autores
+4. Prescrição
+Aplicação analógica do art. 21 da Lei nº 4.717/65 (Lei da ação popular)
+
+4.2
+4.3
+4.4
+4.5
+4.6
+5.1
+5.2
+5.3
+6.1
+Imprescritibilidade, em se tratando de ACP que vise ao ressarcimento
+do erário
+Imprescritibilidade da pretensão, nos casos de nulidade do ato
+administrativo, por falta de licitação, e de danos ao meio ambiente
+Prazo prescricional para o ajuizamento da execução
+Súmula 150 do STF
+Comentários dos autores
+5. Concomitância de ações individuais e ações coletivas
+Suspensão do curso dos processos individuais determinada de ofício
+Pela simultaneidade do processamento de ações individuais e coletivas
+Comentários dos autores
+6. Liquidação e execução da sentença
+Comentários dos autores
+7. Conclusões
+ANEXO II – Legislação
+Lei nº 8.078, de 11 de setembro de 1990
+Lei nº 7.347, de 24 de julho de 1985
+Código Modelo de Processos Coletivos para Ibero-América
+
+I –
+1.
+INTRODUÇÃO
+Ada Pellegrini Grinover Antônio Herman de Vasconcellos e Benjamin
+TRABALHOS DE ELABORAÇÃO – Anteprojeto de Código
+de Defesa do Consumidor
+Escorço histórico
+Antes mesmo da promulgação da Constituição de 1988, o então presidente do
+Conselho  Nacional  de  Defesa  do  Consumidor,  Dr.  Flávio  Flores  da  Cunha
+Bierrenbach, constituiu comissão, no âmbito do referido Conselho, com o objetivo de
+apresentar  Anteprojeto  de  Código  de  Defesa  do  Consumidor,  previsto,  com  essa
+denominação, pelos trabalhos da Assembleia Nacional Constituinte. A comissão foi
+composta pelos seguintes juristas: Ada  Pellegrini  Grinov
+[/PAGINA 19]
+
+[PAGINA 20]
+er (coordenadora),  Daniel
+Roberto  Fink,  José  Geraldo  Brito  Filomeno,  Kazuo  Watanabe  e  Zelmo  Denari.
+Durante os trabalhos de elaboração do anteprojeto, a coordenação foi dividida com
+José  Geraldo  Brito  Filomeno,  e  a  comissão  contou  com  a  assessoria  de  Antônio
+Herman  de  Vasconcellos  e  Benjamin,  Eliana  Cáceres,  Marcelo  Gomes  Sodré,
+Mariângela  Sarrubo,  Nelson  Nery  Junior  e  Régis  Rodrigues  Bonvicino.  Também
+contribuíram com valiosos subsídios diversos promotores de Justiça de São Paulo. A
+comissão  ainda  levou  em  consideração  trabalhos  anteriores  do  CNDC,  que  havia
+contado  com  a  colaboração  de  Fábio  Konder  Comparato,  Waldemar  Mariz  de
+Oliveira Júnior e Cândido Dinamarco.
+Finalmente,  a  comissão  apresentou  ao  ministro  Paulo  Brossard  o  primeiro
+anteprojeto,  que  foi  amplamente  divulgado  e  debatido  em  diversas  capitais,
+recebendo, assim, críticas e sugestões. Desse trabalho conjunto, longo e ponderado
+resultou  a  reformulação  do  anteprojeto,  que  veio  a  ser  publicado  no DO  de  4  de
+janeiro de 1989, acompanhado do parecer da comissão, justificando o acolhimento ou
+a rejeição das propostas recebidas.
+
+2.
+Diversos  projetos  haviam  sido  apresentados,  quando  o  Congresso  Nacional
+constituiu Comissão Mista destinada a elaborar Projeto do Código do Consumidor.
+Presidiu a Comissão Mista o sen. José Agripino Maia, sendo seu vice-presi-dente o
+sen. Carlos Patrocínio e relator o dep. Joaci Goes.
+Distinguindo  com  sua  confiança  os  membros  da  comissão  do  CNDC,  por
+intermédio de Ada Pellegrini Grinover, Antônio Herman de Vasconcellos e Benjamin
+e  Nelson  Nery  Junior,  o  relator  da  comissão  incumbiu-os  de  preparar  uma
+consolidação  dos  trabalhos  legislativos  existentes,  a  partir  do  quadro  comparativo
+organizado  pela  PRODASEN.  Verificados,  assim,  os  pontos  de  convergência  e
+divergência, pudemos preparar um novo texto consolidado, que tomou essencialmente
+por base o Projeto Michel Temer – que espelhava a fase mais adiantada dos trabalhos
+da  comissão  –  e  o  Substitutivo  Alckmin,  que  oferecia  algumas  novidades
+interessantes.
+Para  debate  dos  pontos  polêmicos  do  Código  e  apresentação  de  sugestões,  a
+Comissão  Mista  realizou  ampla  audiência  pública,  colhendo  o  depoimento  e  as
+sugestões  de  representantes  dos  mais  variados  segmentos  da  sociedade:  indústria,
+comércio, serviços, governo, consumidores, cidadãos. A absoluta transparência e a
+isenção do relator da Comissão Mista criaram um clima de conciliação, em que se
+pôde chegar ao consenso, adotando-se posições intermediárias, que atendiam a todos
+os  interessados.  É  mister  salientar,  nesta  fase,  a  importante  obra  de  mediação  e
+colaboração do Dr. Bruno Onurb.
+E, finalmente, o Código de Defesa do Consumidor (Lei nº 8.078/90) veio coroar
+o  trabalho  legislativo,  ampliando  o  âmbito  de  incidência  da  Lei  da  Ação  Civil
+Pública,  ao  determinar  sua
+[/PAGINA 20]
+
+[PAGINA 21]
+aplicação  a  todos  os  interesses  difusos  e  coletivos,  e
+criando  uma  nova  categoria  de  direitos  ou  interesses,  individuais  por  natureza  e
+tradicionalmente  tratados  apenas  a  título  pessoal,  mas  conduzíveis  coletivamente
+perante  a  justiça  civil,  em  função  da  origem  comum,  que  denominou  direitos
+individuais homogêneos.
+Os vetos presidenciais
+
+O Projeto do Congresso Nacional sofreu nada menos que 42 vetos. Alguns foram
+o resultado de lobbies que não haviam conseguido sensibilizar a Comissão Mista e
+que, vencidos nas audiências públicas, voltaram à carga na instância governamental.
+Outros  parecem  trair  a  pouca  familiaridade  dos  assessores  com  as  técnicas  de
+proteção  ao  consumidor.  Outros,  ainda,  recaíram  em  pontos  verdadeiramente
+polêmicos, sendo até certo ponto justificáveis.
+Mas o que vale salientar é que o balanço geral dos vetos aponta a existência de
+alguns verdadeiramente lamentáveis: por exemplo, aqueles que suprimiram todas as
+multas  civis,  criadas  para  compensar  a  suavidade  das  sanções  penais  e
+universalmente  reconhecidas  como  instrumento  idôneo  de  punição  no  campo  das
+relações de consumo (arts. 16, 45 e 52, § 3º); ou aquele que se insurgiu contra a
+participação  dos  consumidores  e  dos  órgãos  instituídos  para  a  sua  defesa  na
+formulação  das  políticas  de  consumo,  tão  consentânea  com  os  princípios  da
+democracia participativa traçados pela Constituição (art. 6º, inc. IV; art. 106, incs. X
+e XI); ou ainda o que impediu a instituição de um novo tipo de mandado de segurança
+contra  atos  de  particulares,  preconizado  em  nível  de  Constituição  e  relegado  para
+criação em lei ordinária, sede apropriada à matéria (art. 85).
+Outros  são  compreensíveis,  por  recaírem  em  assuntos  polêmicos  e  não
+totalmente  pacificados,  como,  por  exemplo,  a  retirada  do  mercado  de  produtos
+nocivos,  mesmo  quando  adequadamente  utilizados  (art.  11);  ou  a  atribuição  do
+controle  administrativo  abstrato  e  preventivo  das  cláusulas  gerais  de  todos  os
+contratos de adesão ao Ministério Público (art. 54, § 5º).
+Outros vetos são irrelevantes, por incidirem sobre dispositivos didáticos, cuja
+ausência não acarreta qualquer consequência maior: é o caso dos parágrafos do art.
+5º; do § 1º do art. 28; do § 2º do art. 55; do § 2º do art. 82; do § 1º do art. 102; do inc.
+XII do art. 106.
+E, finalmente, a grande maioria é totalmente ineficaz, por ter ficado o assunto
+regulado  em  outros  dispositivos  não  vetados;  assim  ocorre,  por  exemplo,  com  as
+sanções  para  a  publicidade  enganosa,  objeto  de  veto  no  §  4º  do  art.  37  e  nos
+parágrafos do art. 60, mas decorrentes do caput do art. 37 e da previsão do inc. XII
+
+II –
+1.
+do  art.  56;  com  o  direito  à  compensação  ou  à  restituição  em  favor  do  devedor
+inadimplente nos contratos de compra e venda mediante pagamento em prestações,
+vetado no § 1º do art. 53, mas extraído do preceito sobr
+[/PAGINA 21]
+
+[PAGINA 22]
+e a nulidade de cláusulas que
+estabeleçam a perda total (caput do dispositivo); a cominação de sanções penais para
+certas modalidades de publicidade enganosa (parágrafos únicos dos arts. 67 e 68),
+que decorrem do conceito do caput do art. 67; a previsão de processo visando ao
+controle  abstrato  e  preventivo  das  cláusulas  contratuais  gerais  (art.  83,  parágrafo
+único),  absorvida  pela  ampla  dicção  do caput;  a  aplicabilidade  do habeas data  à
+tutela dos direitos e interesses dos consumidores (art. 86), que continua mantida pelo
+§ 4º do art. 43; a aplicabilidade da matéria processual à defesa de outros interesses
+difusos, coletivos e individuais homogêneos, vetada no art. 89, mas permanecendo
+íntegra no art. 90 c/c art. 110, IV.
+À  doutrina  e  à  jurisprudência  caberá  o  trabalho  de  construção  em  torno  do
+verdadeiro  alcance  dos  vetos.  Mas,  seja  como  for,  o  Código  de  Defesa  do
+Consumidor está aí, a significar um indiscutível avanço, graças ao qual o Brasil passa
+a ocupar um lugar de destaque  entre  os  países  que  legislaram  ou  estão  legislando
+sobre a matéria.
+VISÃO GERAL DO CÓDIGO
+A necessidade de tutela legal do consumidor
+A proteção do consumidor é um desafio da nossa era e representa, em todo o
+mundo, um dos temas mais atuais do Direito.
+Não é difícil explicar tão grande dimensão para um fenômeno jurídico totalmente
+desconhecido no século passado e em boa parte deste. O homem do século XX vive
+em  função  de  um  modelo  novo  de  associativismo:  a  sociedade  de  consumo (mass
+consumption society ou Konsumgesellschaft), caracterizada por um número crescente
+de produtos e serviços, pelo domínio do crédito e do marketing, assim como pelas
+dificuldades de acesso à justiça. São esses aspectos que marcaram o nascimento e
+desenvolvimento do Direito do Consumidor como disciplina jurídica autônoma.
+
+A  sociedade  de  consumo,  ao  contrário  do  que  se  imagina,  não  trouxe  apenas
+benefícios  para  os  seus  atores.  Muito  ao  revés,  em  certos  casos,  a  posição  do
+consumidor, dentro desse modelo, piorou em vez de melhorar. Se antes fornecedor e
+consumidor  encontravam-se  em  uma  situação  de  relativo  equilíbrio  de  poder  de
+barganha  (até  porque  se  conheciam),  agora  é  o  fornecedor  (fabricante,  produtor,
+construtor, importador ou comerciante) que, inegavelmente, assume a posição de força
+na relação de consumo e que, por isso mesmo, “dita as regras”. E o Direito não pode
+ficar alheio a tal fenômeno.
+O  mercado,  por  sua  vez,  não  apresenta,  em  si  mesmo,  mecanismos  eficientes
+para superar tal vulnerabilidade do consumidor. Nem mesmo para mitigá-la. Logo,
+imprescindível  a  intervenção  do  Estado  nas  suas  três  esferas:  o  Legislativo,
+formulando  as  normas  jurídicas  de  consumo;  o  Executivo,  implementando-as;  e  o
+Judiciário,  dirimindo  os  conflitos  decorrentes  dos  esforços  de  formulação  e  de
+implementação.
+Por ter a vulnerabilidade do consumidor diversas causas,
+[/PAGINA 22]
+
+[PAGINA 23]
+não pode o  Direito
+proteger a parte mais fraca da relação de consumo somente em relação a alguma ou
+mesmo  a  algumas  das  facetas  do  mercado.  Não  se  busca  uma  tutela  manca  do
+consumidor. Almeja-se uma proteção integral, sistemática e dinâmica. E tal requer o
+regramento  de todos os aspectos da relação de consumo, sejam aqueles pertinentes
+aos próprios produtos e serviços, sejam outros que se manifestam como verdadeiros
+instrumentos fundamentais  para  a  produção  e  circulação  destes  mesmos  bens:  o
+crédito e o marketing.
+É com os olhos postos nessa vulnerabilidade do consumidor que se funda a nova
+disciplina  jurídica.  Que  enorme  tarefa,  quando  se  sabe  que  essa  fragilidade  é
+multifária, decorrendo ora da atuação dos monopólios e oligopólios, ora da carência
+de informação sobre qualidade, preço, crédito e outras características dos produtos e
+serviços.  Não  bastasse  tal,  o  consumidor  ainda  é  cercado  por  uma  publicidade
+crescente, não estando, ademais, tão organizado quanto os fornecedores.
+1
+Toda e qualquer legislação de proteção ao consumidor tem, portanto, a mesma
+ratio,  vale  dizer,  reequilibrar  a  relação  de  consumo,  seja  reforçando,  quando
+
+2.
+possível, a posição do consumidor, seja proibindo ou limitando certas práticas de
+mercado.
+O modelo intervencionista estatal
+A “purificação” do mercado pode ser feita por dois modos básicos.
+O  primeiro  é  meramente  “privado”,  com  os  próprios  consumidores  e
+fornecedores autocompondo-se e encarregando-se de extirpar as práticas perniciosas.
+Seria o modelo da autorregulamentação, das convenções coletivas de consumo e do
+boicote.  Como  já  alertamos,  tal  regime  não  se  tem  mostrado  capaz  de  suprir  a
+vulnerabilidade do consumidor.
+O segundo modo é aquele que, não descartando o primeiro, funda-se em normas
+(aí se incluindo, no sistema da common law, as decisões dos tribunais) imperativas de
+controle do relacionamento consumidor-fornecedor. É o modelo do intervencionismo
+estatal,  que  se  manifesta  particularmente  em  sociedades  de  capitalismo  avançado,
+como os Estados Unidos e países europeus.
+Nenhum  país  do  mundo  protege  seus  consumidores  apenas  com  o  modelo
+privado. Todos, de uma forma ou de outra, possuem leis que, em menor ou maior grau,
+traduzem-se em um regramento pelo Estado daquilo que, conforme preconizado pelos
+economistas liberais, deveria permanecer na esfera exclusiva de decisão dos sujeitos
+envolvidos.
+O  modelo  do  intervencionismo  estatal  pode  se  manifestar  de  duas  formas
+principais. De um lado, há o exemplo, ainda majoritário, daqueles países que regram
+o  mercado  de  consumo  mediante  leis  esparsas,  específicas  para  cada  uma  das
+atividades  econômicas  diretamente  relacionadas  com  o  consumidor  (publicidade,
+crédito, responsabilidade civil pelos acidentes de consumo, garantias etc.). De outra
+parte,  existem  aqueles  ordenamentos  que  preferem  tutelar  o  consumidor  de  modo
+sistemático,
+[/PAGINA 23]
+
+[PAGINA 24]
+optando  por  um  “código”,  como  conjunto  de  normas  gerais,  em
+detrimento de leis esparsas. Este modelo, pregado pelos maiores juristas da matéria e
+em vias de se tornar realidade na França, Bélgica e Holanda, foi o adotado no Brasil,
+que  surge  como  o  pioneiro  da  codificação  do  Direito  do  Consumidor  em  todo  o
+
+3.
+4.
+mundo.
+A base constitucional do Código
+A opção por uma “codificação” das normas de consumo, no caso brasileiro, foi
+feita pela Assembleia Nacional Constituinte. A elaboração do Código, portanto, ao
+contrário  da  experiência  francesa,  decorrente  de  uma  simples  decisão  ministerial,
+encontra sua fonte inspiradora diretamente no corpo da Constituição Federal.
+De  fato,  a  Constituição,  ao  cuidar  dos  Direitos  e  Garantias  Fundamentais,
+estabelece, no inc. XXXII do art. 5º, que “o Estado promoverá, na forma da lei, a
+defesa do consumidor”. O legislador maior, entretanto, entendeu que tal não bastava.
+Assim, mais adiante, no art. 48 do Ato das Disposições Constitucionais Transitórias,
+determina que o “Congresso Nacional, dentro de cento e vinte dias da promulgação da
+Constituição, elaborará Código de Defesa do Consumidor”.
+Código ou lei?
+O Brasil tem hoje um Código de Defesa do Consumidor ou uma mera lei geral?
+A indagação merece ao menos uma rápida abordagem.
+Não  resta  a  menor  dúvida  de  que  o  texto  constitucional,  expressamente,
+reconheceu que o consumidor não pode ser protegido – pelo menos adequadamente –
+com  base  apenas  em  um  modelo  privado  ou  em  leis  esparsas,  muitas  vezes
+contraditórias  ou  lacunosas.  O  constituinte,  claramente,  adotou  a  concepção  da
+codificação, nos passos da melhor doutrina estrangeira, admitindo a necessidade da
+promulgação de um arcabouço geral para o regramento do mercado de consumo.
+Ora, se a Constituição optou por um Código, é exatamente o que temos hoje. A
+dissimulação  daquilo  que  era  Código  em  lei  foi  meramente  cosmética  e
+circunstancial. É que, na tramitação do Código, o lobby dos empresários, notadamente
+o da construção civil, dos consórcios e dos supermercados, prevendo sua derrota nos
+plenários das duas Casas, buscou, por meio de uma manobra procedimental, impedir a
+votação do texto ainda naquela legislatura, sob o argumento de que, por se tratar de
+
+5.
+6.
+Código,  necessário  era  respeitar  um iter  legislativo  extremamente  formal,  o  que,
+naquele caso, não tinha sido observado. A artimanha foi superada rapidamente com o
+contra-argumento de que aquilo que a Constituição chamava de Código assim não o
+era.
+E, dessa forma, o Código foi votado com outra qualidade, transformando-se na
+Lei  nº  8.078,  de  11  de  setembro  de  1990.  Mas,  repita-se,  não  obstante  a  nova
+denominação, estamos, verdadeiramente, diante de um Código, seja pelo mandamento
+constitucional, seja pelo seu caráter sistemático. Tanto isso é certo que o Congresso
+Nacional  sequer  se  deu  ao  trabalho  de  extirpar  do  corpo  legal  as  menções  ao
+vocábulo
+[/PAGINA 24]
+
+[PAGINA 25]
+Código (arts. 1º, 7º, 28, 37, 44, 51 etc.).
+A importância da codificação
+Muitos  são  os  benefícios  da  codificação,  e  não  é  nosso  intuito  analisá-los
+detalhadamente  aqui.  De  qualquer  modo,  é  importante  ressaltar  que  o  trabalho  de
+codificação,  realmente,  além  de  permitir  a  reforma  do  Direito  vigente,  apresenta,
+ainda, outras vantagens.
+Primeiramente,  dá  coerência  e  homogeneidade  a  um  determinado  ramo  do
+Direito, possibilitando sua autonomia. De outro, simplifica e clarifica o regramento
+legal da matéria, favorecendo, de uma maneira geral, os destinatários e os aplicadores
+da norma.
+2
+As fontes de inspiração
+O  Código,  como  não  poderia  deixar  de  ser,  foi  buscar  sua  inspiração  em
+modelos legislativos estrangeiros já vigentes. Os seus redatores, contudo, tomaram a
+precaução de evitar, a todo custo, a transcrição pura e simples de textos alienígenas.
+A ideia de que o Brasil – e o seu mercado de consumo – tem peculiaridades e
+problemas  próprios  acompanhou  todo  o  trabalho  de  elaboração.  Como  resultado
+dessa preocupação, inúmeros são os dispositivos do Código que, de tão adaptados à
+nossa realidade, mostram-se arredios a qualquer tentativa de comparação com esta ou
+
+7.
+aquela lei estrangeira. Mas aqui e ali é possível identificar-se a influência de outros
+ordenamentos.
+Na origem dos direitos básicos do consumidor está a Resolução nº 39/248, de 9
+de abril de 1985, da Assembleia-Geral da Organização das Nações Unidas.
+A maior influência sofrida pelo Código veio, sem dúvida, do Projet de Code de
+la  Consommation,  redigido  sob  a  presidência  do  professor  Jean  Calais-Auloy.
+Também importantes no processo de elaboração foram as leis gerais da Espanha (Ley
+General  para  la  Defensa  de  los  Consumidores  y  Usuarios,  Lei  nº  26/1984),  de
+Portugal (Lei nº 29/81, de 22 de agosto), do México (Lei Federal de Protección al
+Consumidor,  de  5  de  fevereiro  de  1976)  e  de  Quebec  (Loi sur la  Protection du
+Consommateur, promulgada em 1979).
+Visto agora pelo prisma mais específico de algumas de suas matérias, o Código
+buscou inspiração, fundamentalmente, no Direito comunitário europeu: as Diretivas
+n
+os
+  84/450  (publicidade)  e  85/374  (responsabilidade  civil  pelos  acidentes  de
+consumo).  Foram  utilizadas,  igualmente,  na  formulação  do  traçado  legal  para  o
+controle das cláusulas gerais de contratação, as legislações de Portugal (Decreto-Lei
+nº 446, de 25 de outubro de 1985) e Alemanha (Gesetz zur Regelung des Rechts der
+Allgemeinen Geschaftsbedingungen – AGB Gesetz, de 9 de dezembro de 1976).
+Uma  palavra  à  parte  merece  a  influição  do  Direito  norte-americano.  Foi  ela
+dupla. Indiretamente, ao se usarem as regras europeias mais modernas de tutela do
+consumidor, todas inspiradas nos cases e statutes americanos. Diretamente, mediante
+análise atenta do sistema legal de proteção ao consumidor nos Estados Unidos. Aqui
+foram úteis, em particular, o Federal Trade Commission Act
+[/PAGINA 25]
+
+[PAGINA 26]
+,  o Consumer Product
+Safety  Act,  o Truth in  Lending  Act,  o Fair  Credit  Reporting  Act  e  o Fair  Debt
+Collection Practices Act.
+Estrutura básica do Código
+O Código apresenta estrutura e conteúdo modernos, em sintonia com a realidade
+brasileira.
+Entre suas principais inovações cabe ressaltar as seguintes: formulação de um
+
+8.
+conceito amplo de fornecedor, incluindo, a um só tempo, todos os agentes econômicos
+que atuam, direta ou indiretamente, no mercado de consumo, abrangendo inclusive as
+operações de crédito e securitárias; um elenco de direitos básicos dos consumidores e
+instrumentos  de  implementação;  proteção  contra  todos  os  desvios  de  quantidade  e
+qualidade  (vícios  de  qualidade  por  insegurança  e  vícios  de  qualidade  por
+inadequação); melhoria do regime jurídico dos prazos prescricionais e decadenciais;
+ampliação  das  hipóteses  de  desconsideração  da  personalidade  jurídica  das
+sociedades; regramento do marketing (oferta e publicidade); controle das práticas e
+cláusulas abusivas, bancos de dados e cobrança de dívidas de consumo; introdução de
+um sistema sancionatório administrativo e penal; facilitação do acesso à justiça para o
+consumidor;  incentivo  à  composição  privada  entre  consumidores  e  fornecedores,
+notadamente com a previsão de convenções coletivas de consumo.
+Projetos de atualização
+Após mais de vinte anos de vigência, sentiu-se a necessidade de atualização do
+Código. Na parte de direito material, fazia-se necessário inserir novos temas, que não
+existiam  nas  relações  de  consumo  de  1990.  O  comércio  eletrônico  e  o
+superindividamento do consumidor, o primeiro absolutamente desconhecido à época e
+o segundo que se tornara problema de magna importância em função da abertura e
+facilitação do crédito.
+Na  parte  das  ações  coletivas,  era  preciso  adequar  a  legislação  à  solução  de
+questões  que  haviam  surgido  durante  sua  aplicação,  assegurando-lhes  agilidade  e
+efetividade, para garantia da fruição dos direitos materiais, incluindo os novos.
+Em dezembro de 2010, o Presidente do Senado, José Sarney, constituiu comissão
+de juristas para propor anteprojetos de lei que assegurassem a atualização do Código,
+tendo  sido  vetada  pelo  Próprio  Sarney  qualquer  possibilidade  de  retrocessos.  A
+Comissão  atuou  sob  a  presidência  do  Ministro  do  Superior  Tribunal  de  Justiça,
+Herman Benjamin, sendo relatora geral a Professora Claudia Lima Marques. Dela,
+participando especialistas nos temas de direito material e Ada Pellegrini Grinover e
+Kazuo  Watanabe,  em  relação  ao  direito  processual.  Foram  três  anteprojetos,
+
+2
+1
+convertidos  em  projetos.  submetidos  a  37  audiências  públicas  com  senadores,
+procuradores  da  República,  organismos  de  defesa  do  consumidor  e  outros
+especialistas. Finalmente os projetos foram aprovados pelo Senado. O PLS 281/2012
+cria nova seção no Código do Consumidor para tratar de comércio eletrônico. Suas
+regras  cuidam  da  divulgação
+[/PAGINA 26]
+
+[PAGINA 27]
+dos  dados  do  fornecedor,  da  proibição  de spam,  do
+direito  de  arrependimento  da  compra  e  das  penas  para  práticas  abusivas  contra  o
+consumidor. O PLS 282/2012 disciplina as ações coletivas, assegurando agilidade em
+seu  andamento  na  Justiça  e  prioridade  para  julgamento,  além  de  garantir  eficácia
+nacional  para  a  decisão  dos  casos,  quando  tiver  alcance  em  todo  o  território
+brasileiro.  Já  o  PLS  283/2012  regulamenta  o  crédito  ao  consumidor  e  previne  o
+superendividamento,  regulamentando  o  crédito  ao  consumidor  e  prevendo  a
+renegociação das dívidas. Entre as medidas propostas no texto, estão a proibição de
+promover publicidade de crédito com referência a “crédito gratuito”, “sem juros”,
+“sem  acréscimo”  e  expressões  semelhantes;  a  exigência  de  informações  claras  e
+completas sobre o serviço ou produto oferecido; a criação da figura do “assédio de
+consumo”, quando há pressão para que o consumidor contrate o crédito e a adoção da
+conciliação para estimular a renegociação das dívidas dos consumidores.
+Os projetos de lei sobre comércio eletrônico e superendividamento encontram--
+se atualmente em tramitação na Câmara dos Deputados. Mas o projeto sobre ações
+coletivas foi arquivado no final da legislatura passada e está parado. Retornaremos ao
+assunto quando analisarmos o processo coletivo do consumidor (Título III).
+Eike von Hippel, Verbraucherschutz. Tubingen, J.C.B. Mohr, 1986, p. 3.
+No  mesmo  sentido,  Françoise  Maniet,  “La  Codification  du  Droit  de  la
+Consommation,  um  Mythe  ou  une  Nécessité?”.  Conferência  proferida  no  I
+Congresso Internacional de Direito do Consumidor, São Paulo, 29 de maio – 2 de
+junho de 1989.
+
+1.
+LEI Nº 8.078, DE 11 DE SETEMBRO DE 1990
+Dispõe sobre a proteção do consumidor e dá outras providências
+Título I
+DOS DIREITOS DO CONSUMIDOR
+José Geraldo Brito Filomeno
+Código do Consumidor: antes de tudo, uma filosofia de
+ação
+Embora se saiba ser em princípio desaconselhável constarem definições em uma
+lei (“omnia definitio periculosa est”), são elas essenciais no Código Brasileiro do
+Consumidor  (Lei  nº  8.078,  de  11  de  setembro  de  1990).  E  isso  até  por razões
+didáticas,  preferindo-se  então  definir  “consumidor”,  mas  do ponto  de  vista
+exclusivamente econômico, dando-se ainda máxima amplitude à outra parte do que se
+convencionou denominar relações de consumo, ou seja, o fornecedor de produtos e
+serviços, como se verá oportunamente.
+Trata  ainda  o  Código  de  uma  “política  nacional  de  relações  de  consumo”,
+justificando nossa assertiva já feita no pórtico do presente tópico no sentido de que se
+trata, em última análise, de uma “filosofia de ação”, exatamente porque não se trata
+tão somente do consumidor, senão da almejada harmonia das sobreditas “relações de
+consumo”.
+Assim, embora se fale das necessidades dos consumidores e do respeito à sua
+dignidade, saúde e segurança, proteção de seus interesses econômicos, melhoria da
+sua qualidade
+[/PAGINA 27]
+
+[PAGINA 28]
+de vida, já que sem dúvida são eles a parte vulnerável no mercado de
+consumo,   justificando-se   dessarte   um tratamento  desigual  para  partes
+manifestamente desiguais, por outro lado se cuida de compatibilizar a mencionada
+tutela com a necessidade de desenvolvimento econômico e tecnológico, viabilizan-
+
+2.
+do-se  os princípios da ordem econômica  de  que  trata  o  art.  170  da  Constituição
+Federal, e educação – informação de fornecedores e consumidores quanto aos seus
+direitos e obrigações.
+Nesse  sentido  é  que  tem  fundamental  importância,  como  será  também  tratado
+noutro passo destes comentários, o incentivo à criação pelos fornecedores de meios
+eficientes do controle de qualidade e segurança de produtos e serviços, assim como
+de mecanismos alternativos de solução de conflitos; e aqui estão inseridos, porque
+de relevância manifesta, os chamados “departamentos ou serviços de atendimento
+aos consumidores como uma via de duas mãos”.
+Ou  mais  precisamente:  no  atendimento  de reclamações,  mas  também  no
+recebimento  de,  sem  dúvida,  valiosas sugestões dos próprios consumidores, bene-
+ficiando-se com isso ambas as partes das relações de consumo.
+Mas  não  é  só.  Mencionada harmonia  que  se  visa  a  alcançar  mediante  a
+implementação e efetiva execução do  Código de  Defesa do  Consumidor também é
+buscada,  ainda  sob  a  inspiração  do  art.  170  da  Constituição  da  República,  pela
+coibição  de  abusos  como  a concorrência  desleal  nas  práticas  comerciais,  pela
+racionalização dos serviços públicos e pelo estudo constante das modificações do
+mercado de consumo.
+Desfazimento de mitos e direitos básicos
+É  mister  que  se  diga,  entretanto,  que  o  Código  Brasileiro  de  Defesa  do
+Consumidor não é uma panaceia para todos os males que o afligem, e não é por ele
+ter  sido  criado  que  deixaram  de  existir  outras  normas  relativas  às  relações  de
+consumo,  e  existentes  nos  Códigos  Civil,  Comercial,  Penal  etc.,  bem  como  na
+legislação esparsa, a menos que com ele sejam incompatíveis, dentro do princípio
+geral da revogação de uma lei antiga por outra nova, como é o caso, por exemplo, dos
+“vícios  redibitórios”,  que  receberam  disciplina  totalmente  nova,  a  começar  pela
+dicotomia  operada  entre  aqueles  propriamente  ditos  (rebatizados  de  “vícios  do
+produto e do serviço”), e os chamados “defeitos do produto e do serviço”,  estes
+decorrentes do simples fato de sua colocação no mercado de consumo, e cada qual
+
+com tratamento diferenciado.
+A matéria “proteção e defesa do consumidor” é, por si só, vasta  e complexa,
+donde ser na prática impossível a previsão de tudo que diga respeito aos direitos e
+deveres dos consumidores e fornecedores.
+Por  isso  mesmo  é  que  o  novo  Código vale  muito  mais  pela  perspectiva  e
+diretrizes que fixa para a efetiva defesa ou proteção do consumidor, bem como pelo
+devido equacionamento da harmonia buscada, do que pela exaustão das normas que
+tendem a esses objet
+[/PAGINA 28]
+
+[PAGINA 29]
+ivos, como já visto, apontando ainda para a utilização de certos
+instrumentos.
+E por instrumentos de defesa há que se entender não apenas os institucionais,
+como,  por  exemplo,  a assistência jurídica  integral  e  gratuita  para  o  consumidor
+carente,  a  criação  de promotorias  de  justiça  de  proteção  ao  consumidor,  de
+delegacias especializadas, mormente na investigação de crimes contra as relações de
+consumo, de juizados especiais de pequenas causas, bem como para o julgamento de
+demandas onde também são sobreditas relações discutidas, concessão de estímulos à
+criação de associações de consumidores etc., como também normas e leis das mais
+variadas fontes e tipos, e não apenas as do Código, ganhando aquelas, porém, ainda
+que de forma esquemática, uma sistematização em face da mesma diretriz imposta.
+Outro mito que precisa ser desfeito desde logo é o de que os direitos básicos do
+consumidor previstos no art. 6º do novo Código são a grande novidade. Em verdade,
+constam já de resolução da ONU, de 1985, que fala em direito de proteção à vida,
+saúde  e  segurança  contra  riscos  provocados  por  práticas  no  fornecimento  de
+produtos  e  serviços,  educação  e  divulgação  sobre  o  consumo  adequado  dos
+produtos  e  serviços,  informação  clara  e  adequada  sobre  os  mesmos,  proteção
+contra a publicidade enganosa e abusiva, meios coercitivos ou desleais, cláusulas
+abusivas em contratos, principalmente de adesão, modificação de suas cláusulas,
+prevenção e reparação de danos, acesso aos órgãos judiciários e administrativos
+com vistas à reparação dos danos patrimoniais e morais, individuais, coletivos e
+difusos.
+Talvez  a  grande novidade,  isso  sim,  seja  o  direito  previsto  no  inc.  VIII  do
+
+3.
+4.
+mencionado art. 6º do Código de Defesa do Consumidor, quando fala da inversão do
+ônus da prova, a seu favor, mas apenas no processo civil quando, a critério do juiz,
+for verossímil a alegação do consumidor, ou quando for ele hipossuficiente, segundo
+as regras ordinárias de experiência.
+Digno de nota, igualmente, é o disposto no art. 7º do mencionado Código, ora
+comentado, que trata das fontes dos direitos do consumidor, igualmente da maneira
+mais ampla possível.
+Microssistema jurídico de caráter inter e multidisciplinar
+Pelo que se pode observar, por conseguinte, trata-se de uma lei de cunho inter e
+multidisciplinar, além de ter o caráter de um verdadeiro microssistema jurídico.
+Ou  seja:  ao  lado  de  princípios  que  lhe  são  próprios,  no  âmbito  da  chamada
+ciência consumerista, o Código Brasileiro do Consumidor relaciona-se com outros
+ramos do Direito, ao mesmo tempo em que atualiza e dá nova roupagem a antigos
+institutos jurídicos.
+Por outro lado, reveste-se de caráter multidisciplinar, eis que cuida de questões
+que se acham inseridas nos Direitos Constitucional, Civil, Penal, Processuais Civil e
+Penal, Administrativo, mas sempre tendo por pedra de toque a vulnerabilidade do
+consumidor ante o fornecedor, e sua condição de desti
+[/PAGINA 29]
+
+[PAGINA 30]
+natário final de produtos e
+serviços, ou desde que não visem a uso profissional.
+Sem  essa  conotação,  aliás,  não  haveria  necessidade  desse  microssistema
+jurídico, já que os Códigos Civil e Penal, por exemplo, já disciplinam as relações
+jurídicas fundamentais entre as pessoas físicas e jurídicas.
+Só  que  pessoas  tais  são  encaradas como iguais,  ao  contrário  do  Código  do
+Consumidor, que dispensa tratamento desigual aos desiguais.
+Consumo sustentável
+Declarado pela Resolução ONU nº 153/1995, o chamado consumo sustentável
+exsurge como nova preocupação da ciência consumerista.
+
+Com efeito, o próprio consumo de produtos e serviços, em grande parte, pode e
+deve ser considerado como atividade predatória dos recursos naturais.
+E,  como  se  sabe,  enquanto  as necessidades do ser humano, sobretudo quando
+alimentado pelos meios de comunicação em massa e pelos processos de marketing,
+são infinitas, os recursos naturais são finitos, sobretudo quando não renováveis.
+A nova vertente, pois, do consumerismo visa exatamente a buscar o necessário
+equilíbrio entre essas duas realidades, a fim de que a natureza não se veja privada de
+seus recursos, o que, em consequência, estará a ameaçar a própria sobrevivência do
+ser humano neste planeta. É o que se verá em passo oportuno destes comentários.
+
+Capítulo I
+DISPOSIÇÕES GERAIS
+José Geraldo Brito Filomeno
+Art.  1º  O  presente  código  estabelece  normas  de  proteção  e  defesa  do
+consumidor, de ordem pública e interesse social, nos termos dos arts. 5º,
+inciso  XXXII,  170,  inciso  V,  da  Constituição  Federal  e  art.  48  de  suas
+Disposições Transitórias. [1]
+COMENTÁRIOS
+[1]  FUNDAMENTO  CONSTITUCIONAL  –  Como  se  observa  do  próprio
+enunciado  do  art.  1º  do  Código  Brasileiro  de  Defesa  do  Consumidor,  sua
+promulgação se deve a mandamento constitucional expresso. Assim, a começar pelo
+inc.  XXXII  do  art.  5º  da  mesma  Constituição, impõe-se ao  Estado promover, na
+forma de lei, a defesa do consumidor.
+Referida  preocupação,  como  já  mencionado  em  passo  anterior,  é  também
+encontrada  no  texto  do  art.  170  que  cuida  da  “ordem  econômica,  fundada  na
+valorização  do  trabalho  humano  e  na  livre  iniciativa”,  tendo  por  fim  “assegurar  a
+todos  existência  digna,  conforme  os  ditames  da  justiça  social”,  e  desde  que
+observados  determinados  princípios  fundamentais,  encontrando-se  dentre  eles
+exatamente  a defesa  do  consumidor  (cf.  inc.  V  do  mencionado  art.  170  da
+Constituição Federal).
+O  art.  150,  que  trata  das  limitações  do  poder  de  tributar  por  parte  do  Poder
+Público e no âmbito da União, Estados, Distrito Federal e Municípios, estabelece em
+seu § 5º que a “lei determinará medidas para que os consumidores sejam esclarecidos
+acerca dos impostos que incidam sobre mercadorias e serviços”.
+Ainda em nível constitucional, a preocupação com a preservação dos interesses
+
+e direitos do consumidor aparece no inc. II do art. 175 da Carta fe
+[/PAGINA 30]
+
+[PAGINA 31]
+deral, quando alude
+a  “usuários”  de  serviços  públicos  por  intermédio  de  concessão  ou  permissão  do
+Poder Público, dizendo que “incumbe ao Poder Público, na forma da lei, diretamente
+ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de
+serviços públicos”. E seu parágrafo único diz que a lei disporá sobre “os direitos dos
+usuários”,  no  caso,  e  à  evidência,  “usuários-consu-midores”  dos  mencionados
+serviços públicos concedidos ou permitidos.
+1
+Por fim, o art. 48 do Ato das Disposições Constitucionais Transitórias dispunha
+–  já  que  dispositivo  de  eficácia  já  exaurida  –,  de  forma  categórica,  que:  “O
+Congresso Nacional, dentro de 120 dias da promulgação da Constituição, elaborará
+Código de Defesa do Consumidor”, prazo esse já de há muito ultrapassado quando foi
+finalmente promulgado o texto da Lei nº 8.078, de 11 setembro de 1990, sabendo-se
+que a Constituição o fora em 5 de outubro de 1988.
+Referida conquista, é mister salientar-se, deveu-se ao “movimento consumerista
+brasileiro”, apesar de sua inicial fragilidade, e sempre em franca ascensão, sobretudo
+após  a  vigência  do  Código  de  Defesa  do  Consumidor,  e  da  implementação  do
+chamado  Sistema  Nacional  de  Defesa  do  Consumidor,  além  do  fortalecimento  e
+criação de novas entidades públicas não governamentais de relevo nessa área. Com
+efeito, esse movimento, desde a década de 1980, mediante a realização de encontros
+nacionais  de  entidades  de  defesa  e  proteção  do  consumidor,  tem  contribuído
+decisivamente para a implementação das diretrizes dessa defesa e proteção, no plano
+constitucional, inclusive.
+Assim  é  que,  em  1985,  no  Rio  de  Janeiro,  ao  ensejo  da  realização  do  sexto
+encontro das referidas entidades, foram aprovadas moções concretas no sentido de
+que se incluíssem, no texto constitucional então em vigor (Emenda Constitucional nº 1,
+de  1969),  dispositivos  que  contemplassem  a  preocupação  estatal  com  a  defesa  e
+proteção do consumidor, e mediante emendas constitucionais.
+Em  1987,  quando  os  constituintes  estavam  no  início  das  discussões  sobre  tal
+assunto,  novas  propostas  foram  extraídas  de  outro  encontro  nacional  daquelas
+entidades de defesa do consumidor, desta feita o de nº 7, realizado estrategicamente
+
+em  Brasília,  em  abril  do  referido  ano.  As  mencionadas  propostas  foram
+consubstanciadas em anteprojeto formalmente protocolado junto àquela Assembleia
+Nacional  Constituinte,  recebendo  o  nº  2.875,  em  8.5.87.  No  caso,  foram  feitas
+sugestões  de  modificações  da  redação  dos  então  arts.  36  e  74  do  anteprojeto
+elaborado  pela  chamada  Comissão  Afonso  Arino,  merecendo  destaque  a  menção
+expressa já aos direitos fundamentais ou básicos dos consumidores, como o relativo
+ao  consumo  de  produtos  e  serviços,  à  segurança,  à  escolha,  à  informação,  de  ser
+ouvido, à indenização, à educação para o consumo e a um meio ambiente sadio.
+Destaq
+[/PAGINA 31]
+
+[PAGINA 32]
+ue-se,  igualmente,  o  trabalho  desenvolvido  pelo  Ministério  Público
+brasileiro, reunido em dois simpósios nacionais, ou seja, o VI Congresso Nacional de
+São  Paulo,  em  junho  de  1985,  e  o  VII,  em  Belo  Horizonte,  em  março  de  1987,
+oportunidades  em  que  foram  oferecidas  teses  –  aprovadas  por  unanimidade  –  que
+também  propugnavam  não  apenas  pela  instituição  de  Promotorias  de  Justiça
+especializadas na proteção e defesa do consumidor, como também pela consagração
+daquelas preocupações no texto constitucional.
+2-3
+Por fim, ainda neste tópico, destaque-se que as normas ora instituídas são de
+ordem pública e interesse social, o que equivale a dizer que são inderrogáveis por
+vontade dos interessados em determinada relação de consumo, embora se admita a
+livre disposição de alguns interesses de caráter patrimonial, como, por exemplo, ao
+tratar o Código da convenção coletiva de consumo em seu art. 107, dispondo que “as
+entidades civis de consumidores e as associações de fornecedores ou sindicatos de
+categoria econômica podem regular, por convenção escrita, relações de consumo que
+tenham  por  objeto  estabelecer  condições  relativas  ao  preço,  à  qualidade,  à
+quantidade,  à  garantia  e  características  de  produtos  e  serviços,  bem  como  à
+reclamação e composição do conflito de consumo”.
+4
+O caráter cogente, todavia, fica bem marcado, sobretudo na Seção II do Capítulo
+VI ainda do Título I, quando se trata das chamadas “cláusulas abusivas”, fulminadas
+de nulidade (cf. art. 51 do Código), ou então já antes, nos arts. 39 a 41, que versam
+sobre as “práticas abusivas”.
+E, com efeito, consoante bem anotado por Nilton da Silva Combre
+5
+ ao comentar
+
+o dirigismo contratual, “ocorre (...) que certas relações jurídicas sofrem, cada  vez
+mais, a intervenção do Estado na sua regulamentação; é o fenômeno que se denomina
+dirigismo contratual”.
+“Como observa José Lopes de Oliveira (Contratos, cit., p. 9)”, argumenta,
+“é frequentemente sob o império da necessidade que o indivíduo contrata;
+daí  ceder  facilmente  ante  a  pressão  das  circunstâncias;  premido  pelas
+dificuldades  do  momento,  o  economicamente  mais  fraco  cede  sempre  às
+exigências  do  economicamente  mais  forte;  e  transforma  em  tirania  a
+liberdade,  que  será  de  um  só  dos  contratantes;  tanto  se  abusou  dessa
+liberdade  durante  o  liberalismo  econômico,  que  não  tardou  a  reação,
+criando-se normas tendentes a limitá-las; e, assim, surgiu um sistema de leis
+e garantias, visando a impedir a exploração do mais fraco”.
+Ao  dizer  que  esse  dirigismo  tem-se  verificado  tradicionalmente  em  matéria
+locatícia, o citado autor enfatiza que, “visando a impedir a exploração do mais fraco
+pelo mais forte, e os abusos decorrentes do acentuado desequilíbrio econômico entre
+as  partes,  o  Estado  procura  regular, através  de  disposições  legais  cogentes,  o
+conteúdo de certos contratos, de modo que as partes fiquem obrigadas a aceitar o que
+est
+[/PAGINA 32]
+
+[PAGINA 33]
+á  previsto  na  lei,  não  podendo,  naquelas  matérias,  regular  diferentemente  seus
+interesses”.
+A  grande  questão  que  se  colocou,  tão  logo  entrou  em  vigor  o  Código  do
+Consumidor,  foi  a  de  saber-se  se  a  nova  sistemática  das  chamadas  “cláusulas
+abusivas” atingiria ou não os atos jurídicos praticados anteriormente.
+E  a  orientação  do  Superior  Tribunal  de  Justiça  é  no  sentido  de  que,  em  se
+tratando de normas de Direito Econômico, sua incidência é imediata, alcançando, sim,
+os  contratos  em  curso,  notadamente  os  chamados  “de  trato  sucessivo”  ou  de
+“execução continuada”
+6
+, em decorrência exatamente do caráter de normas de ordem
+pública.  Como  foi  o  caso,  por  exemplo,  das  Leis  n
+os
+  8.170/1991  e  8.178/1991,
+versando a primeira sobre reajustes de mensalidades escolares, e a segunda sobre o
+plano econômico intentado pelo governo Collor, notadamente no que diz respeito à
+criação da TR (taxa referencial de juros).
+
+É  o  que  se  extrai  de  voto  proferido  no  Recurso  Especial  nº  2.595/SP  pelo
+ministro Sálvio de Figueiredo Teixeira, a saber:
+“Orlando Gomes, em obra dedicada ao Direito Econômico, analisando os
+aspectos jurídicos do dirigismo econômico nos dias atuais, após assinalar
+que a sanção pela transgressão de norma de ordem pública é a nulidade,
+afirma: ‘Outro princípio que sofre alteração frente à ordem pública dirigista
+é o da intangibilidade dos contratos. Sempre que uma nova lei é editada
+nesse domínio, o conteúdo dos contratos que atinge tem de se adaptar às
+suas inovações. Semelhante adaptação verifica-se por força de aplicação
+imediata  das  leis  desse  teor,  sustentada  com  prática  necessária  à
+funcionalidade  da  legislação  econômica  dirigista.  Derroga-se  com  o
+princípio da aplicação imediata a regra clássica do Direito Intertemporal
+que resguarda os contratos de qualquer intervenção legislativa decorrente
+de lei posterior à sua conclusão’ (Direito Econômico,  Saraiva,  1977,  p.
+59).  Atento  a  essa  qualidade  das  normas  de  Direito  Econômico  que  se
+revestem  do  atributo  de  ordem  pública,  esta  Corte  vem  prestigiando  a
+aplicação imediata de tais normas, atingindo contratos em curso. Confiram-
+se, dentre outros, os Recursos Especiais n
+os
+ 3, 29, 557, 602, 667, 692, 701,
+815 e 819, nos quais a tese jurídica central é a da aplicação imediata de
+normas  de  Direito  Econômico  cujo  caráter  de  ordem  pública  afasta  a
+alegação de direito adquirido.”
+Da  mesma  forma  decidiu  o  STJ  no  REsp  nº  735.168/RJ  (rel.  Min.  Nancy
+Andrighi, 3ª Turma, j. de 11.03.2008, DJ de 23.03.2008:
+“Direito Civil e Consumidor. Seguro saúde. Contratação anterior à vigência
+do CDC e à Lei nº 9.656/1998. Existência de trato sucessivo. Incidência do
+CDC, mas não da Lei nº 9.656/1998. Boa-fé objetiva. Prótese necessária à
+cirurgia de angioplastia.  Ilegalidade da exclusão de ‘stents’ da cobertura
+securitária. Dano moral configurado. Dever de reparar os danos materiais.
+[/PAGINA 33]
+
+[PAGINA 34]
+–  As  disposições  da  Lei  nº  9.656/1998  só  se  aplicam  aos  contratos
+celebrados  a  partir  de  sua  vigência,  bem  como  para  os  contratos  que,
+celebrados  anteriormente,  foram  adaptados  para  seu  regime.  A  Lei  nº
+9.656/1998 não retroage, entretanto, para atingir o contrato celebrado por
+
+segurados que, no exercício de sua liberdade de escolha, mantiveram seus
+planos antigos sem qualquer adaptação.
+– Embora o CDC não retroaja para alcançar efeitos presentes e futuros
+de  contratos  celebrados  anteriormente  a  sua  vigência,  a  legislação
+consumerista regula os efeitos presentes de contratos de trato sucessivo e
+que, por isso, foram renovados já no período de sua vigência.
+– Dada a natureza de trato sucessivo do contrato de seguro saúde, o CDC
+rege as renovações que se deram sob sua vigência, não havendo que se falar
+aí em retroação da lei nova.
+–  A  cláusula  geral  de  boa-fé  objetiva,  implícita  em  nosso  ordenamento
+antes da vigência do CDC e do CC/2002, mas explicitada a partir desses
+marcos  legislativos,  impõe  deveres  de  conduta  leal  aos  contratantes  e
+funciona como um limite ao exercício abusivo de direitos. [...]”.
+Eis, por conseguinte, a extensão relevante da enunciação do art. 1º do Código do
+Consumidor ao cunhar as locuções “ordem pública” e “interesse social”.
+7
+No que tange, agora especificamente, ao “interesse social”, tenha-se em conta
+que o Código ora comentado visa a resgatar a imensa coletividade de consumidores
+da marginalização não apenas em face do poder econômico, como também dotá-la de
+instrumentos  adequados  para  o  acesso  à  justiça  do  ponto  de  vista  individual  e,
+sobretudo, coletivo.
+Assim, embora destinatária final de tudo que é produzido em termos de bens e
+serviços,  a  comunidade  de  consumidores  é  sabidamente  frágil  em  face  da  outra
+personagem  das  relações  de  consumo,  donde  pretender  o  Código  do  Consumidor
+estabelecer o necessário equilíbrio de forças.
+E, para tanto, como se verá noutros passos desta obra, haverá muitas vezes que
+tratar  desigualmente  as  duas  personagens  das  sobreditas  relações  de  consumo  –
+fornecedores e consumidores –, porque claramente desiguais.
+Veja-se, como exemplo, o entendimento manifestado no acórdão proferido em
+sede do Recurso Especial nº 658.748/RJ (rel. min. Nancy Andrighi, 3ª Turma do STJ,
+j.  de  4.8.2005, in  DJU  de  22.8.2005,  p.  268),  no  qual  se  optou  claramente  pela
+prevalência dos critérios do Código de Defesa do Consumidor sobre os do chamado
+
+“Código  Brasileiro  de  Aeronáutica”,  consubstanciado  na  Lei  nº  7.565/86  e
+regulamentado pelos Decretos n
+os
+ 20.704/31 e 56.463/65, os quais, por sua vez, se
+reportam à “Convenção de Varsóvia”:
+“Consumidor.  Recurso  especial.  Embargos  de  declaração.  Omissão.
+Prequestionamemento.  Extravio  de  mercadoria  em  transporte  aéreo
+internacional.  Limitação  do  ressarcimento  pela  Convenção  de  Varsóvia.
+CDC. Aplicabilidade. – Não incorre em omissão
+[/PAGINA 34]
+
+[PAGINA 35]
+o acórdão que analisa a
+questão sob enfoque legal diverso do consignado pela parte. – Inviável o
+recurso  especial  quando  ausente  o  prequestionamento  dos  dispositivos
+legais  tidos  por  violados.  –  Não  prevalece  a  limitação  da  indenização
+preconizada  pela  Convenção  de  Varsóvia  na  vigência  do  CDC.  Recurso
+provido.”
+Ainda  nesse  sentido,  outro  acórdão  do  STJ,  em  sede  de  Recurso  Especial  nº
+151.401/SP  (rel.  min.  Humberto  Gomes  de  Barros,  j.  de  17.6.2004, in  DJU  de
+1.7.2004, p. 188):
+“Responsabilidade civil objetiva. Voo internacional. Atraso. Aplicação do
+CDC.  –  Se  o  fato  ocorreu  na  vigência  do  CDC,  a  responsabilidade  por
+atraso em voo internacional afasta a limitação tarifada da  Convenção de
+Varsóvia  (CDC:  arts.  6º,  VI,  e  14).  –  O  contrato  de  transporte  constitui
+obrigação de resultado. Não basta que o transportador leve o transportado
+ao destino contratado. É necessário que o faça nos termos avençados (dia,
+horário, local de embarque e desembarque, acomodações, aeronave etc.). –
+O Protocolo Adicional nº 3, sem vigência no direito internacional, não se
+aplica no direito interno. A indenização deve ser fixada em moeda nacional
+Decreto nº 97.505/89).”
+8
+É forçoso reconhecer, por conseguinte, que, diante do exposto linhas atrás (i.e., o
+princípio  da  vulnerabilidade  do  consumidor,  o  caráter  de  lei  de  ordem  pública  e
+interesse social de seu Código), prevalece o espectro mais abrangente do Código do
+Consumidor, para o qual não há limite “tarifado” para as indenizações decorrentes de
+acidentes aéreos ou extravio de mercadorias e bagagens.
+
+Art. 2º Consumidor é toda pessoa física ou jurídica que adquire ou utiliza
+produto ou serviço como destinatário final. [1]
+Parágrafo  único.  Equipara-se  a  consumidor  a  coletividade  de  pessoas,
+ainda que indetermináveis, que haja intervindo nas relações de consumo.
+[2]
+[1] CONCEITO DE CONSUMIDOR – Consoante já salientado, o conceito de
+consumidor adotado pelo Código foi exclusivamente de caráter econômico, ou seja,
+levando-se em consideração tão somente o personagem que no mercado de consumo
+adquire  bens  ou  então  contrata  a  prestação  de  serviços,  como  destinatário  final,
+pressupondo-se que assim age com vistas ao atendimento de uma necessidade própria
+e não para o desenvolvimento de uma outra atividade negocial.
+Assim,  procurou-se  abstrair  de  tal  conceituação  componentes  de  natureza
+sociológica  –  “consumidor”  é  qualquer  indivíduo  que  frui  ou  se  utiliza  de  bens  e
+serviços  e  pertence  a  uma  determinada  categoria  ou  classe  social  –  ou  então
+psicológica – aqui se encarando o “consumidor” como o indivíduo sobre o qual se
+estudam as reações a fim de se individualizarem os critérios para a produção e as
+motivações internas que o levam ao consumo.
+9
+Igualmente,  procurou-se  abstrair considerações  de  ordem  literária  e  até
+filosófica,  embora  relevantes  para  efeitos  da  análise  da  publici
+[/PAGINA 35]
+
+[PAGINA 36]
+dade,  consoante  o
+magistério de Guido Alpa.
+10
+Para Othon Sidou,
+11
+ “definem os léxicos como consumidor quem compra para
+gastar  em  uso  próprio”  e,  “respeitada  a  concisão  vocabular,  o  Direito  exige
+explicação  mais  precisa”,  concluindo  então  que  “consumidor  é  qualquer  pessoa,
+natural  ou  jurídica,  que  contrata,  para  utilização,  a  aquisição  de  mercadoria  ou  a
+prestação de serviço, independentemente do modo de manifestação da vontade, isto é,
+sem forma especial, salvo quando a lei expressamente a exigir”.
+Vê-se que tal conceituação é a que se aproxima mais de perto da adotada pelo
+Código, eis que acentua tão somente o aspecto econômico-jurídico do termo.
+A lei sueca de proteção ao consumidor, de 1973, conceitua “consumidor” como
+
+“a pessoa privada que compra de um comerciante uma mercadoria, principalmente
+destinada ao seu uso privado e que é vendida no âmbito da atividade profissional do
+comerciante” (art. 1º).
+Já a do México, de 1976, traz no art. 3º a definição segundo a qual “consumidor
+é  quem  contrata,  para  sua  utilização,  a  aquisição,  uso  ou  desfrute,  de  bens  ou  a
+prestação de um serviço”.
+Ainda  no  que  tange  ao  Direito  Comparado,  em  estudo  elaborado  por  Plínio
+Lacerda Martins,
+12
+ destacamos o seguinte:
+“Verificamos  que  na  legislação  hispânica  o  conceito  de  consumidor
+previsto na ‘Ley Defensa de Consumidores y Usuarios’ (Lei espanhola nº
+26/84) é aferido por exclusão, ou seja, é considerado consumidor quando
+há  oferta  de  produto  ou  serviço  a  um  não  profissional  (conceito  de
+consumidor definido nos arts. 2º e 3º). Analogicamente, a Lei nº 24/96, que
+introduziu a legislação de defesa do consumidor em Portugal, estabelece no
+art. 2º, item nº 1, que se considera consumidor qualquer pessoa que adquirir
+bens  ou  serviços  prestados  como  destinatário  final,  ou  seja,  na  relação
+produção/consumo  este  sendo  o  último  desta  cadeia,  passa  a  adquirir
+direitos e proteção de consumidor previsto no referido Código. De igual
+forma prescreve a lei portuguesa que consumidor é também todo aquele a
+quem  são  transmitidos  quaisquer  direitos,  destinados  ao  uso  não
+profissional,  ou  seja,  uso  pessoal  ou  próprio.  Na  França,  o Code de la
+Consommation regula as relações de consumo, estabelecendo normas para
+o equilíbrio entre um profissional e um não profissional (...). Na Itália, o
+ordenamento jurídico que cuida da relação de consumo é previsto na Lege
+281,  de  30  Iuglio  1998,  que  disciplina  ‘Dei  Diritti  dei  Consumatori  e
+Degli Utenti’, estabelecendo o art. 2º que são consumidores e usuários as
+pessoas físicas que adquirem ou utilizam bens ou serviços não referindo a
+atividade empresarial ou mesmo do profissional eventual.  Fato relevante
+destacado  pela  pesquisa  é  que  o  Código  de  Defesa  do  Consumidor
+brasileiro  considera  toda  pessoa  física  ou  jurídica.  Já  a  legislação
+consumerista  italiana  faz  referência  somente  a  consumidores
+[/PAGINA 36]
+
+[PAGINA 37]
+às  pessoas
+físicas.  Na  Suíça  não  há  um  Código  próprio,  sendo  regulado  pela  Lei
+Federal complementar de Código Civil suíço, que não possui um conceito
+
+específico  deixando  explícito  os  direitos  das  obrigações,  ou  seja,
+consumidor  (comprador)  e  fornecedor  são  obrigados  a  cumprir
+simultaneamente  suas  obrigações.  Na  Argentina  a  ‘Ley  de  Defensa  del
+Consumidor’ (Lei nº 24.240, de 22 de setembro de 1993), estabelece que
+consumidor ou usuário são as pessoas físicas ou jurídicas que ‘contratan a
+título oneroso para su consumo final o benefício próprio o de su grupo
+familiar o social’ a aquisição ou locação de coisas móveis, a prestação de
+serviços e a aquisição de imóveis novos destinados à moradia, inclusos os
+lotes de terreno adquiridos com o mesmo fim, quando a oferta seja pública
+e dirigida a pessoas indeterminadas (art. 1º).  O mesmo dispositivo legal
+estabelece que não terão o caráter de consumidores ou usuários aqueles que
+adquirirem, armazenarem, utilizarem ou consumirem bens ou serviços para
+integrá--los em processos de produção, transformação, comercialização ou
+empréstimo  a  terceiros.  A  pesquisa  destacou  também  que  não  estão
+compreendidos  na  lei  do  consumidor  da  Argentina  os  serviços  de
+profissionais liberais que requeiram para seu exercício título universitário e
+matrícula outorgada por colégios profissionais reconhecidos oficialmente,
+fato  este  contemplado  no  nosso  Código  do  Consumidor,  estabelecendo  a
+responsabilidade  dos  profissionais  liberais  no  art.  14,  §  4º,  da  Lei  nº
+8.078/90.  Outro  aspecto  interessante  destacado  pela  pesquisa  na  lei  do
+consumidor da Argentina é que ‘Se excluyen del ámbito de esta ley los
+contratos realizados entre consumidores cuyo objeto sean cosas usadas’,
+não  podendo  o  consumidor  utilizar  o  CDC  argentino  no  caso  de  bens
+adquiridos que não sejam novos, diversamente do consignado pela nossa
+legislação do consumidor.
+13
+ No Uruguai, a Ley nº 17.250, de ‘Defensa del
+Consumidor’, estabelece no art. 1º que a relação de consumo é regulada
+por  este  ordenamento  jurídico,  sendo  que  ‘La presente ley es de orden
+público’ (idem dispositivo no art. 1º do CDC brasileiro). O art. 2º define o
+conceito  de  consumidor  como  sendo  toda  pessoa  física  ou  jurídica  que
+adquire  ou  utiliza  produtos  ou  serviços  como  destinatário  final.  Não  é
+considerado consumidor ou usuário aquele que utiliza ou consome produtos
+ou serviços com fim de integrar em processos de produção, transformação
+ou  comercialização.  Verifica-se  que  o  conceito  é  muito  semelhante  ao
+conceito  brasileiro  no  art.  2º  do  CDC.  Em  relação  ao  produto/serviço
+adquirido/utilizado  pelo  fornecedor  como  destinatário  final,  mas  com
+intuito profissional (incorporação e empresa), o conceito de consumidor no
+
+Uruguai  parece  apresentar-se  mais  avançado  que  o  brasileiro,  pois  o
+legislador uruguaio não deixou margem para nenhuma interpretação
+[/PAGINA 37]
+
+[PAGINA 38]
+errônea
+do que seja consumidor, através de uma norma legal expressa e precisa. A
+legislação uruguaia estabelece ainda que o fornecimento de produtos e a
+prestação  de  serviços  efetuados  gratuitamente,  quando  se  realizam  em
+função de uma eventual relação de consumo, se equiparam às relações de
+consumo. Isto é, uma empresa, por exemplo, poderá ser responsabilizada e
+considerada fornecedora, se configurada a relação de consumo, mesmo que
+o serviço tenha sido feito de maneira gratuita. (...) No Paraguai, a Ley nº
+1.334/98, ‘De Defensa del Consumidor y del Usuario’, regula a proteção e
+defesa dos consumidores e usuários, estabelecendo o art. 4º do  CDC do
+Paraguai  o  conceito  de  consumidor  como  sendo  ‘toda  persona  física  o
+jurídica,  nacional  o  extranjera  que  adquiera,  utilice  o  disfrute  como
+destinatário final de biens o servicios de cualquier natureza’. No Peru o
+decreto  legislativo  de  7.11.91,  modificado  por  Decreto-Lei  nº  25.868,
+defende os direitos do consumidor peruano. Estabelece o art. 3º do CDC
+peruano  que  ‘se  entiende  por:  Consumidores  o  usuários,  las  personas
+naturales  o  jurídicas  que  adquierem,  utilizan  o  disfrutan  como
+destinatários  finales  productos  o  servicios’.  Na  Venezuela  a  ‘Ley  de
+Protección  al  Consumidor  y  al  Usuario’  (Lei  nº  4.898/95)  regula  as
+relações de consumo. Estabelece o art. 2º da lei consumerista da Venezuela
+que ‘se consideran consumidores y usuarios a las personas naturales o
+jurídicas que, como destinatários finales, adquieran, usen o disfruten, a
+título oneroso, bienes o servicios cualquiera sea la natu-
+raleza  pública  o  privada,  individual  o  colectiva,  de  quienes  los
+produzcan,  expidan,  faciliten,  suministren,  presten  u  ordenen’,  não
+contemplando como consumidor as pessoas que adquirem bens e serviços
+com  o  fim  de  integrá-los  em  processo  de  produção,  transformação  e
+comercialização.”
+Abstraídas  todas  as  conotações  de  ordem  filosófica,  psicológica  e  outras,
+entendemos  por  “consumidor”  qualquer  pessoa  física  ou  jurídica  que,  isolada  ou
+coletivamente,  contrate  para  consumo  final,  em  benefício  próprio  ou  de  outrem,  a
+aquisição ou a locação de bens, bem como a prestação de um serviço.
+No passo seguinte, iremos analisar o “consumidor”, não encarado do ponto de
+
+vista isolado, mas sim coletivamente, sobretudo quando se tem em vista sua sujeição
+a campanhas publicitárias enganosas e abusivas, ou então ao consumo de produtos e
+serviços perigosos ou nocivos à saúde e segurança.
+Desde logo, todavia, não há como escapar da conceituação de consumidor como
+um  dos  partícipes  das  “relações  de  consumo”,  ou  seja,  “relações  jurídicas  por
+excelência”, embora, e como também já enfatizado, procurando tratar desigualmente
+pessoas  desiguais,  levando-se  em  conta  que  o  consumidor  está  em  situação  de
+manifesta inferioridade ante o fornecedor de bens e serviços.
+Pode-se dessarte inferir que toda relaç
+[/PAGINA 38]
+
+[PAGINA 39]
+ão de consumo: a) envolve basicamente
+duas  partes  bem  definidas:  de  um  lado,  o  adquirente  de  um  produto  ou  serviço
+(“consumidor”),  e,  de  outro,  o  fornecedor  ou  vendedor  de  um  produto  ou  serviço
+(“produtor/fornecedor”); b) tal relação destina-se à satisfação de uma necessidade
+privada do consumidor; c) o consumidor, não dispondo, por si só, de controle sobre a
+produção  de  bens  de  consumo  ou  prestação  de  serviços  que  lhe  são  destinados,
+arrisca-se a submeter-se ao poder e condições dos produtores daqueles mesmos bens
+e serviços.
+O traço marcante da conceituação de “consumidor”, no nosso entender, está na
+perspectiva  que  se  deve  adotar,  ou  seja,  no  sentido  de  se  o  considerar  como
+vulnerável, não sendo, aliás, por acaso, que o mencionado “movimento consumerista”
+apareceu ao mesmo tempo em que o sindicalista, principalmente a partir da segunda
+metade do século XIX, em que se reivindicaram melhores condições de trabalho e
+melhoria  da  qualidade  de  vida,  e,  pois,  em  plena  sintonia  com  o  binômio  “poder
+aquisitivo/aquisição de mais e melhores bens e serviços”.
+Em  razão  de  tais  considerações  é  que  discordamos  da  definição  de
+“consumidor”  concebida  por  Othon  Sidou,  quando  também  considera  as pessoas
+jurídicas como tal para fins de proteção efetiva nos moldes atrás preconizados, ao
+menos no que tange à sua literal “proteção” ou “defesa” jurídica.
+E isto pela simples constatação de que dispõem as pessoas jurídicas de força
+suficiente  para  sua  defesa,  enquanto  o  consumidor,  ou,  ainda,  a  coletividade  de
+consumidores ficam inteiramente desprotegidos e imobilizados pelos altos custos e
+
+morosidade crônica da justiça comum.
+Prevaleceu,  entretanto,  como  de  resto  em  algumas  legislações  alienígenas
+inspiradas  na  nossa,  a  inclusão  das  pessoas  jurídicas  igualmente  como
+“consumidores”  de  produtos  e  serviços,  embora  com  a  ressalva  de  que  assim  são
+entendidas aquelas como destinatárias finais dos produtos e serviços que adquirem, e
+não como insumos necessários ao desempenho de sua atividade lucrativa.
+Entendemos,  contudo,  mais  racional  que  sejam  consideradas  aqui  as  pessoas
+jurídicas equiparadas aos consumidores vulneráveis, ou seja, as que não tenham fins
+lucrativos, mesmo porque, insista-se, a conceituação é indissociável do aspecto da
+mencionada fragilidade. E, por outro lado, complementando essa pedra de toque do
+“consumerismo”, diríamos que a “destinação final” de produtos e serviços, ou seja,
+sem fim negocial, ou “uso não profissional”, encerra esse conceito fundamental.
+Assim,  como  bem  ponderado  pelo  prof.  Fábio  Konder  Comparato,
+14
+  os
+consumidores são aqueles “que não dispõem de controle sobre bens de produção e,
+por conseguinte, devem se submeter ao poder dos titulares destes”, enfatizando ainda
+que  “o  consumidor  é,  pois,  de  modo  geral,  aquele  que  se  submete  ao  poder  de
+controle dos titulares de bens de produção,
+[/PAGINA 39]
+
+[PAGINA 40]
+isto é, os empresários”.
+Insistimos,  ainda  neste  tópico,  na  exclusão  relativa  do  próprio  fornecedor  –
+considerado seu conceito amplo dado pelo art. 3º do Código em comento, como se
+verá no passo seguinte – como consumidor.
+Ao cuidar da questão, José Reinaldo de Lima Lopes
+15
+ pondera que, tendo o art.
+2º do Código definido como consumidor toda pessoa física ou jurídica que adquire ou
+utiliza produto ou serviço como destinatário final, tal enfoque pode perder, a seu ver,
+“um  elemento  essencial,  que  no  fundo  é  o  que  justifica  a  existência  da  própria
+disciplina da relação de consumo: a subordinação econômica do consumidor”.
+“É  certo”,  continua,  “que  uma  pessoa  jurídica  pode  ser  consumidora  em
+relação a outra; mas tal condição depende de dois elementos que não foram
+adequadamente explicitados neste particular artigo do Código”.
+E sua ponderação merece destaque, porque revela precisamente o ponto fulcral
+
+de toda a discussão, como de resto já se assinalou linhas atrás:
+“Em primeiro lugar, o fato de que os bens adquiridos devem ser bens de
+consumo  e  não  bens  de  capital.  Em  segundo  lugar, que  haja  entre
+fornecedor e consumidor um desequilíbrio que favoreça o primeiro. Em
+outras palavras, o Código de Defesa do Consumidor não veio para revogar
+o  Código  Comercial  ou  o  Código  Civil  no  que  diz  respeito  a  relações
+jurídicas  entre  partes  iguais,  do  ponto  de  vista  econômico.  Uma  grande
+empresa  oligopolista  não  pode  valer-se  do  Código  de  Defesa  do
+Consumidor da mesma forma que um microempresário. Este critério, cuja
+explicitação na lei é insuficiente, é, no entanto, o único que dá sentido a
+todo o texto. Sem ele, teríamos um sem sentido jurídico.”
+Cita   ainda   interessante   entendimento   jurisprudencial   norte-americano,
+demonstrando a tendência de se levar em conta a posição econômica do consumidor,
+como sugerido em suas ponderações, a saber:
+16
+“Alguns  tribunais  têm  feito  distinção  entre  perdas  econômicas
+experimentadas pelo consumidor comum e perdas sofridas em transações
+econômicas primárias (...). Para o juiz Peters (no caso Seely), o homem que
+dispõe de um caminhão apenas para conduzir seu negócio é um consumidor
+com  relação  ao  grande  fabricante  do  caminhão  com  relação  ao  qual
+dificilmente se poderia dizer que tivesse igual poder de barganha (...). Cada
+vez com maior intensidade a ênfase nos casos de perda econômica parece
+desviar-se  do  critério  da  natureza  dos  danos  para  o  da  consideração  da
+relação entre as partes” (Noel & Phillips, Products liability, cit., p. 326).
+Não menos perspicaz é a observação de Claudia Lima Marques
+17
+ ao sintetizar as
+duas  grandes  tendências  do  consumerismo  ao  interpretarem  o  art.  2º  do  Código
+Brasileiro do Consumidor: a dos finalistas e a dos maximalistas.
+“Para os finalistas, pioneiros do consumerismo”, assinala, “a definição de
+consumidor é o pilar que sustenta a tutela especial, agora concedida aos
+consumi
+[/PAGINA 40]
+
+[PAGINA 41]
+dores.  Esta  tutela  só  existe  porque  o  consumidor é  a  parte
+vulnerável  nas  relações  contratuais  no  mercado,  como  afirma  o  próprio
+
+CDC no art. 4º, inc. I. Logo, convém delimitar claramente quem merece esta
+tutela e quem não a necessita, quem é o consumidor e quem não é. Propõem,
+então,  que  se  interprete  a  expressão  ‘destinatário  final’  do  art.  2º  de
+maneira restrita, como requerem os princípios básicos do CDC, expostos
+nos arts. 4º e 6º”.
+E, nessa hipótese, não bastaria a interpretação meramente teleológica ou que se
+prenda à destinação final do serviço ou do produto. Consumidor seria apenas aquele
+que adquire o bem para utilizá-lo em proveito próprio, satisfazendo uma necessidade
+pessoal e não para revenda ou então para acrescentá--lo à cadeia produtiva.
+“Esta  interpretação”,  conclui,  “restringe  a  figura  do  consumidor  àquele  que
+adquire (utiliza) um produto para uso próprio e de sua família; consumidor seria o não
+profissional, pois o fim do CDC é tutelar de maneira especial um grupo da sociedade
+que é mais vulnerável”.
+18
+Quanto aos maximalistas, pondera a autora citada, “veem nas normas do CDC o
+novo regulamento do mercado de consumo brasileiro, e não normas orientadas para
+proteger somente o consumidor não profissional”.
+E merece destaque o ponto a seguir tratado:
+“O  CDC  seria  um  Código  geral  sobre  o  consumo,  um  Código  para  a
+sociedade de consumo, o qual institui normas e princípios para todos os
+agentes do mercado, os quais podem assumir os papéis ora de fornecedores,
+ora de consumidores. A definição do art. 2º deve ser interpretada o mais
+extensivamente  possível,  segundo  esta  corrente,  para  que  as  normas  do
+CDC possam ser aplicadas a um número cada vez maior de relações de
+mercado. Consideram que a definição do art. 2º é puramente objetiva, não
+importando se a pessoa física ou jurídica tem ou não fim de lucro quando
+adquire  um  produto  ou  utiliza  um  serviço.  Destinatário  final  seria  o
+destinatário fático do produto, aquele que o retira do mercado e o utiliza, o
+consome;  por  exemplo,  a  fábrica  de  celulose  que  compra  carros  para  o
+transporte dos visitantes, o advogado que compra uma máquina de escrever
+para o seu escritório, ou mesmo o Estado quando adquire canetas para uso
+nas repartições e, é claro, dona de casa que adquire produtos alimentícios
+
+a)
+b)
+para a família.”
+19
+Consoante  já  tivemos  a  oportunidade  de  salientar  linhas  atrás,  na  verdade,  o
+critério conceitual do Código brasileiro discrepa da própria filosofia consumerista ao
+colocar a pessoa jurídica como também consumidora de produtos e serviços. E isto
+exatamente  pela  simples  razão  de  que  o  consumidor,  geralmente  vulnerável  como
+pessoa física, defronta-se com o poder econômico dos fornecedores em geral, o que
+não ocorre com estes que, bem ou mal, grandes ou pequenos, detêm maior informação
+e  meios  de  defenderem-se  uns  dos  outros  quando  houver  impasses  e  conflitos  de
+inter
+[/PAGINA 41]
+
+[PAGINA 42]
+esses.
+Aliás, é basicamente, hoje, o Código Civil, consubstanciado na Lei nº 10.406, de
+10.1.2002, o repositório desses interesses e direitos, e não propriamente o Código de
+Defesa do Consumidor. Com efeito, consagra o novo estatuto civil material um livro
+inteiro  ao  “Direito  de  Empresa”,  desde  a  caracterização  de  empresário  e  sua
+inscrição como tal, passando depois pela sua capacidade, sociedades empresariais
+etc.
+Todavia,  como  o  mesmo  Código  do  Consumidor  contempla  a  pessoa  jurídica
+como consumidora, a interpretação deve ser objetiva e caso a caso.
+Dizer-se,  como  querem  os  assim  denominados  pela  autora  retrocitada
+“maximalistas”, que se aplica o Código, sem qualquer distinção, às pessoas jurídicas,
+ainda que fornecedoras de bens e serviços, seria negar-se a própria epistemologia do
+microssistema jurídico de que se reveste.
+E nesse sentido parece-nos essencial verificar-se o seguinte:
+se o “consumidor-fornecedor” na hipótese concreta adquiriu bem de capital
+ou não;
+se contratou serviço para satisfazer uma necessidade ou que lhe é imposta por
+lei ou natureza de seu negócio, principalmente por órgãos públicos.
+No primeiro caso, trazemos como exemplo a aquisição de alimentos, preparados
+ou  não,  para  fornecimento  aos  operários  de  uma  fábrica  ou  então  a  compra  de
+
+máscaras protetoras contra poeiras tóxicas. No segundo, a contratação de serviços de
+dedetização de um galpão industrial ou serviços de educação para a creche construída
+para os filhos dos operários.
+Resta evidente, por conseguinte, que eventuais deteriorações ou contaminações
+dos referidos alimentos em prejuízo da empresa adquirente a transforma em manifesta
+consumidora,  assim  como  na  hipótese  de  descumprimento  das  normas  atinentes  à
+fabricação das mencionadas máscaras contra poeiras tóxicas.
+Ou ainda, e por fim, no caso de prestação de serviços de educação de forma
+insuficiente ou em desacordo com o que ficara estipulado.
+Diferentemente, não pode ser considerada consumidora a empresa que adquire
+máquinas  para  a  fabricação  de  seus  produtos  ou  mesmo  uma  copiadora  para  seu
+escritório e que venha a apresentar algum vício. Isto porque referidos bens certamente
+entram na cadeia produtiva e nada têm a ver com o conceito de destinação final.
+A vulnerabilidade  econômica  também  deve  ser  levada  em  conta  para  a
+distinção.
+20
+Suponha-se, ainda no campo dos exemplos, uma fundação ou associação sem fins
+lucrativos e beneficentes.
+Ninguém por certo negará sua condição de consumidoras ao adquirirem produtos
+defeituosos ou contratarem serviços deficientes.
+Embora,  em  princípio,  repita-se,  não  se  conceba  a  pessoa  jurídica  como
+consumidora, a realidade é que o próprio texto legal sob análise assim dispõe. Fá-lo,
+todavia,  de  maneira  limitada,  não  apenas  em  decorrência  do  princípio  da
+vulnerabilidade  da  pessoa  jurídica-consumidora,  tal  como  a  pessoa  física,  como
+também pela utilização não profissional dos prod
+[/PAGINA 42]
+
+[PAGINA 43]
+utos e serviços.
+Dissemos de forma limitada, já que o art. 51 do  Código do  Consumidor, que
+cuida  das  chamadas cláusulas abusivas, tidas como nulas de pleno direito, em seu
+inc. I, ao estabelecer serem assim consideradas aquelas que impossibilitem, exonerem
+ou atenuem a responsabilidade do fornecedor por vícios de qualquer natureza dos
+produtos e serviços ou impliquem renúncia ou disposição de direitos, ressalva que,
+“nas  relações  de  consumo  entre  o  fornecedor  e  o  consumidor--pessoa  jurídica,  a
+
+indenização poderá ser limitada, em situações justificáveis”.
+Cada caso, portanto, deverá ser analisado em separado, até porque o Código é,
+em princípio, destinado às pessoas mais fragilizadas no mercado de consumo, sendo a
+pessoa jurídica considerada como tal se equiparável à pessoa física.
+Interessante,  por  fim,  salientar,  neste  passo,  que  algumas  decisões  judiciais,
+embora  concernentes  a  conflitos  entre não  consumidores,  mas  comerciantes,  têm
+aplicado para sua dirimição preceitos do Código de Defesa do Consumidor. Se por
+um lado isso é salutar, já que o Código do Consumidor, além de enunciar princípios
+que  lhe  são  próprios,  apenas  relembra  princípios  tão  antigos  quanto  a  própria
+consciência do Direito pelos povos mais antigos (equilíbrio, boa-fé, harmonia etc.), e
+que  devem  permear  todas  as  relações  humanas,  por  outro  lado  estende
+demasiadamente seu raio de ação.
+Algumas decisões, por exemplo, apegam-se às condições gerais dos contratos
+estabelecidas pelo Código de Defesa do Consumidor, já a partir do seu art. 30, e mais
+marcadamente no que tange às práticas e cláusulas contratuais abusivas, ainda que as
+partes não sejam, a rigor, consumidoras, esquecendo-se de princípios semelhantes já
+existentes no Código Civil de 1916, por exemplo, e revigorados no ora vigente.
+Desta forma, bem andou o legislador ao traçar, no Código Civil de 2002, uma
+disciplina semelhante à do Código do Consumidor, no que tange às condições gerais
+dos contratos (Título V), dispondo, por exemplo, em seu art. 421, que “a liberdade de
+contratar  será  exercida  em  razão  e  nos  limites  da  função  social  do  contrato”.  Ou
+ainda,  em  seu  art.  422,  que  “os  contratantes  são  obrigados  a  guardar,  assim  na
+conclusão do contrato como em sua execução, os princípios de probidade e boa-fé”. E
+em arremate a essa ordem de ideias, veja-se o que dispõe o art. 423, ainda do ora
+vigente Código Civil: “Quando houver no contrato de adesão cláusulas ambíguas ou
+contraditórias, dever-se-á adotar a interpretação mais favorável ao aderente.” Ora,
+isto  quer  dizer  que,  embora  os  princípios  ora  enunciados  de  maneira  explícita
+estivessem já difusos no ordenamento jurídico nacional, num primeiro momento os
+julgadores preferiram aplicar aqueles já previstos no Código do Consumidor, como
+no  caso  da  boa-fé,  equilíbrio,  vulnerabilidade,  em  face  da  parte  mais  forte
+
+contratante, embora em muitos casos não se cuidassem de rela
+[/PAGINA 43]
+
+[PAGINA 44]
+ções propriamente de
+consumo,  a  teor  do  já  explicitado;  e,  num  segundo  momento,  o  próprio  legislador
+achou  por  bem  estender  esses  princípios  a  relações  que  não  de  consumo,  mas  de
+cunho nitidamente civil e comercial. Talvez doravante não haja mais a necessidade de
+aplicação do Código do Consumidor, de forma analógica, àquelas relações não de
+consumo, portanto.
+Ou seja, partes em pé de igualdade, presuntivamente, merecerão, a partir dos
+enunciados  do  Código  Civil,  praticamente  o  mesmo  tratamento  outrora  dispensado
+pelos  princípios  inovadores  do  Código  do  Consumidor.  Sempre  se  deverá  ter  em
+vista, entretanto, que tais relações se dão no campo do Direito Privado, de cunho civil
+e comercial.
+21
+ Apesar disso, vejamos o teor de acórdão proferido pelo STJ, pela sua
+3ª  Turma,  tendo  como  relatora  a  min.  Nancy  Andrighi  (Recurso  Especial  nº
+476.428/SC, j. de 19.4.2005, in DJU de 9.5.2005, p. 390):
+“Direito  do  consumidor.  Recurso  especial.  Conceito  de  consumidor.
+Critério   subjetivo   ou   finalista.   Mitigação.   Pessoa   jurídica.
+Excepcionalidade.  Vulnerabilidade.  Constatação  na  hipótese  dos  autos.
+Prática  abusiva.  Oferta  inadequada.  Característica,  quantidade  e
+composição  do  produto.  Equiparação  (art.  29).  Decadência.  Inexistência.
+Relação  jurídica  sob  a  premissa  de  tratos  sucessivos.  Renovação  do
+compromisso.  Vício oculto. – A relação jurídica qualificada por ser ‘de
+consumo’ não se caracteriza pela presença de pessoa física ou jurídica em
+seus  polos,  mas  pela  presença  de  uma  parte  vulnerável  de  um  lado
+(consumidor), e de um fornecedor, de outro. – Mesmo nas relações entre
+pessoas  jurídicas,  se  da  análise  da  hipótese  concreta  decorrer  inegável
+vulnerabilidade entre a pessoa jurídica consumidora e a fornecedora, deve-
+se aplicar o CDC na busca do equilíbrio entre as partes. Ao consagrar o
+critério  finalista  para  interpretação  do  conceito  de  consumidor,  a
+jurisprudência deste STJ também reconhece a necessidade de, em situações
+específicas,  abrandar  o  rigor  do  critério  subjetivo  do  conceito  de
+consumidor,  para  admitir  a  aplicabilidade  do  CDC  nas  relações  entre
+fornecedores  e  consumidores-empresários  em  que  fique  evidenciada  a
+relação de consumo. –  São equiparáveis a consumidor todas as pessoas,
+determináveis ou não, expostas às práticas comerciais abusivas. – Não se
+
+conhece de matéria levantada em sede de embargos de declaração, fora dos
+limites da lide (inovação recursal). Recurso especial não conhecido.”
+Ainda  nesse  aspecto,  o  aresto  proferido  no  RMS  nº  27.512/BA,  tendo  como
+relatora a ministra Nancy Andrighi, 3ª Turma do STJ, em julgamento de 20.8.2009,
+DJe de 23.9.2009:
+“Processo civil e consumidor. Agravo de instrumento. Concessão de efeito
+suspensivo.  Mandado  de  segurança.  Cabimento.  Agravo.  Deficiente
+formação do instrumento. Ausência de peça essencial. Não conhecimento.
+Relação de cons
+[/PAGINA 44]
+
+[PAGINA 45]
+umo. Caracterização. Destinação final fática e econômica
+do  produto  ou  serviço.  Atividade  empresarial.  Mitigação  da  regra.
+Vulnerabilidade  da  pessoa  jurídica.  Presunção  relativa.  [...]  –  A
+jurisprudência consolidada pela 2ª Seção deste STJ entende que, a rigor, a
+efetiva  incidência  do  CDC  a  uma  relação  de  consumo  está  pautada  na
+existência de destinação final fática e econômica do produto ou serviço,
+isto é, exige-se total desvinculação entre o destino do produto ou serviço
+consumido  e  qualquer  atividade  produtiva  desempenhada  pelo utente  ou
+adquirente. Entretanto, o próprio STJ tem admitido o temperamento desta
+regra, com fulcro no art. 4º, I, do CDC, fazendo a lei consumerista incidir
+sobre situações em que, apesar de o produto ou serviço ser adquirido no
+curso  do  desenvolvimento  de  uma  atividade  empresarial,  haja
+vulnerabilidade de uma parte frente à outra. – Uma interpretação sistemática
+e  teleológica  do  CDC  aponta  para  a  existência  de  uma  vulnerabilidade
+presumida  do  consumidor,  inclusive  pessoas  jurídicas,  visto  que  a
+imposição de limites à presunção de vulnerabilidade implicaria restrição
+excessiva, incompatível com o próprio espírito de facilitação da defesa do
+consumidor e do reconhecimento de sua hipossuficiência, circunstância que
+não se coaduna com o princípio constitucional de defesa do consumidor,
+previsto nos arts. 5º, XXXII, e 170, V, da CF. Em suma, prevalece a regra
+geral de que a caracterização da condição de consumidor exige destinação
+final  fática  e  econômica  do  bem  ou  serviço,  mas  a  presunção  de
+vulnerabilidade  do  consumidor  dá  margem  à  incidência  excepcional  do
+CDC às atividades empresariais, que só serão privadas da proteção da lei
+consumerista quando comprovada, pelo fornecedor, a não vulnerabilidade
+do  consumidor  pessoa  jurídica.  –  Ao  encampar  a  pessoa  jurídica  no
+
+conceito de consumidor, a intenção do legislador foi conferir proteção à
+empresa  nas  hipóteses  em  que,  participando  de  uma  relação  jurídica  na
+qualidade de consumidora, sua condição ordinária de fornecedora não lhe
+proporcione uma posição de igualdade frente à parte contrária. Em outras
+palavras,  a  pessoa  jurídica  deve  contar  com  o  mesmo  grau  de
+vulnerabilidade  que  qualquer  pessoa  comum  se  encontraria  ao  celebrar
+aquele negócio, de sorte a manter o desequilíbrio da relação de consumo. A
+‘paridade  de  armas’  entre  a  empresa-fornecedora  e  a  empresa--
+consumidora afasta a presunção de fragilidade desta. Tal consideração se
+mostra de extrema relevância, pois uma mesma pessoa jurídica, enquanto
+consumidora,  pode  se  mostrar  vulnerável  em  determinadas  relações  de
+consumo e em outras não. Recurso provido”.
+E,  no  mesmo  sentido,  o  Recurso  Especial  nº  684.613/SP  (rel.  min.  Nancy
+Andrighi, j. de 21.6.2005, 3ª Turma do STJ, in DJU de 1.7.2005, p. 530).
+Mais  recentemente,  todavia,  o  STJ,  no  Conflito  de  Competência  nº
+2004/014
+[/PAGINA 45]
+
+[PAGINA 46]
+7617-1, por sua 2ª Seção, sendo relator o min. Jorge Scartezzini, em j. de
+8.3.2006, entendeu que a compra por hospital de equipamentos médicos não pode ser
+considerada relação de consumo. Com efeito:
+“1.  A  2ª  Seção  deste  Colegiado  pacificou  entendimento  acerca  da  não
+abusividade de cláusula de eleição de foro constante de contrato referente à
+aquisição  de  equipamentos  médicos  de  vultoso  valor.  Concluiu-se  que,
+mesmo  em  se  cogitando  de  configuração  de  relação  de  consumo,  não  se
+haveria  de  falar  na  hipossuficiência  da  adquirente  de  tais  equipamentos,
+presumindo-se, ao revés, a ausência de dificuldades ao respectivo acesso à
+justiça e ao exercício do direito de defesa perante o foro livremente eleito.
+Precedentes. 2. Na assentada do dia 10.11.2004, porém, ao julgar o REsp.
+nº 541.867/BA, a 2ª Seção, quanto à conceituação de consumidor e, pois, à
+caracterização  de  relação  de  consumo,  adotou  a  interpretação  finalista,
+consoante a qual se reputa imprescindível que a destinação final a ser dada
+a  um  produto/serviço  seja  entendida  como  econômica,  é  dizer,  que  a
+aquisição  de  um  bem  ou  a  utilização  de  um  serviço  satisfaça  uma
+necessidade pessoal do adquirente ou utente, pessoa física ou jurídica, e
+não objetive a incrementação de atividade profissional lucrativa. 3. In casu,
+
+o hospital adquirente do equipamento médico não se utiliza do mesmo
+como  destinatário  final,  mas  para  desenvolvimento  de  sua  própria
+atividade negocial; não se caracteriza, tampouco, como hipossuficiente
+na  relação  contratual  travada,  pelo  que,  ausente  a  presença  do
+consumidor, não se há de falar em relação merecedora de tutela legal
+especial. Em outros termos, ausente a relação de consumo, afasta-se a
+incidência do CDC, não se havendo falar em abusividade de cláusula de
+eleição  de  foro  livremente  pactuada  pelas  partes,  em  atenção  ao
+princípio da autonomia volitiva dos contratantes” (in DJU de 20.3.2006,
+p. 189).
+Mesmo  após  a  entrada  em  vigor,  em  2003,  do  Código  Civil  de  2002,  que
+resgatou  diversos  valores  já  encontradiços  no  Código  de  Defesa  do  Consumidor,
+conforme assinalado passos atrás, essa matéria não parecia pacificada. Com efeito, no
+Agravo Regimental nº 656.816/MG, tendo por relator o min. Aldir Passarinho Jr., em
+julgamento da 4ª Turma do STJ, no dia 28.6.2005, decidiu da seguinte maneira feito
+relativo à execução de cédula rural, o que nos parece totalmente infundado, a saber:
+“Civil.  Contrato bancário.  Execução.  Cédula de crédito rural.  Código de
+Defesa do Consumidor. Incidência. Precedentes. I. Nos termos da Súmula nº
+297/STJ,  aplica-se  o  Código  de  Defesa  do  Consumidor  às  instituições
+financeiras. II. Jurisprudência desta Corte tem admitido a incidência da Lei
+nº 8.078/90 também nos contratos de cédula de crédito rural. Precedentes:
+AgR-Resp.  nº  292.571/MG,  rel.  min.  Castro  Filho,  DJ  6.6.2002,  p.  286;
+REsp. nº 337.957/RS, de minha rel
+[/PAGINA 46]
+
+[PAGINA 47]
+atoria, DJ 10.2.2003, p. 214; REsp. nº
+586.634/MT, rel. min. Carlos Alberto Menezes Direito, DJ 17.12.2004, p.
+531;  AgRg  no  REsp.  nº  671.866/SP,  rel.  min.  Carlos  Alberto  Menezes
+Direito, DJ  9.5.2005,  p.  402;  AgRg  no  Ag.  nº  431.239/GO,  rel.  min.
+Antônio de Pádua Ribeiro, DJ 1.2.2005, p. 538. III. Agravo regimental não
+provido” (in DJU de 5.9.2005, p. 422).
+O mesmo entendimento pode ser encontrado no acórdão proferido em sede de
+Recurso Especial nº 660.026/RJ (rel. min. Jorge Scartezzini, 4ª Turma do STJ, j. de
+3.5.2005, in  DJU  de  27.6.2005,  p.  409).  Cf.,  ainda,  o  Recurso  Especial  nº
+661.137/SP, da 4ª Turma do STJ, tendo como relator o min. Fernando Gonçalves, em
+
+j. de 26.4.2005, in DJU de 23.5.2005, p. 299):
+“Processo civil. Contrato. Arrendamento mercantil. Aparelhos eletrônicos.
+Diagnóstico  médico.  Foro  de  eleição.  Validade.  CDC.  Hipossuficiência.
+Afastamento.  1.  Em  contrato  de  arrendamento  mercantil  de  sofisticados
+aparelhos de diagnóstico médico é válido o foro de eleição, porque não se
+aplica  o  CDC  e,  por  isso  mesmo,  fica  afastada  a  alegação  da
+hipossuficiência  do  arrendante.  Precedentes  da  2ª  Seção.  2.  Recurso
+especial não conhecido.”
+Ou, ainda, no Recurso Especial nº 541.867/BA (relator o min. Antônio de Pádua
+Ribeiro, 2ª Seção do STJ, j. de 10.11.2004, in DJU de 16.5.2005, p. 227):
+“Competência.  Relação  de  consumo.  Utilização  de  equipamento  e  de
+serviços  de  crédito  prestado  por  empresa  administradora  de  cartão  de
+crédito. Destinação final. Inexistente. – A aquisição de bens ou a utilização
+de serviços, por pessoa natural ou jurídica, com o escopo de implementar
+ou  incrementar  a  sua  atividade  negocial,  não  se  reputa  como  relação  de
+consumo e, sim, como uma atividade de consumo intermediária.  Recurso
+especial conhecido e provido para reconhecer a incompetência absoluta da
+Vara Especializada de Defesa do Consumidor, para decretar a nulidade dos
+atos praticados e, por conseguinte, para determinar a remessa do feito a uma
+das Varas Cíveis da Comarca.”
+Também nesse sentido o acórdão do STJ em sede de REsp nº 1084291/RS, rel.
+Min. Massami Uyeda, 3ª Turma, j. de 5.5.2009, DJe de 4.8.2009:
+“Recurso especial. Exceção de incompetência. Pessoa jurídica. Código de
+Defesa  do  Consumidor.  Aplicação.  Impossibilidade,  na  espécie.
+Vulnerabilidade.  Não  caracterização.  Entendimento  obtido  da  análise  do
+conjunto  fático  probatório.  Impossibilidade  de  reexame  nesta  instância
+especial.  Inteligência  da  Súmula  nº  7/STJ.  Cláusula  de  eleição  do  foro.
+Contrato  de  adesão.  Licitude,  em  princípio.  Previsão  contratual  que  não
+impede o regular exercício do direito de defesa do aderente. Abusividade
+descaracterizada.  Alegação  de  dissídio  jurisprudencial.  Ausência  de
+
+similitude fática. Precedentes. Recurso especial a que nega provimento. 1.
+São  aplicáveis  as  disposições  do  Código  de  Defesa  do  Consumidor  às
+pessoas  jurídicas,
+[/PAGINA 47]
+
+[PAGINA 48]
+desde  que  sejam  destinatárias  finais  de  produtos  ou
+serviços  e,  ainda,  vulneráveis. Afastada  na  origem  a  vulnerabilidade  da
+sociedade  empresária  recorrente,  inviável  é  a  aplicação, in casu,  da  lei
+consumerista.  2.  A  cláusula  de  eleição  de  foro  inserta  em  contrato  de
+adesão não é, por si, nula de pleno direito. Contudo, em hipóteses em que
+da  sua  obrigatoriedade  resultar  prejuízo  à  defesa  dos  interesses  do
+aderente, o que não ocorre na espécie, é de rigor do reconhecimento de sua
+nulidade.  3.  A  admissibilidade  do  apelo  nobre  pela  alínea  ‘c’  do
+permissivo constitucional, exige, para que haja a correta demonstração da
+alegada  divergência  pretoriana,  o  cotejo  analítico,  expondo-se  as
+circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim
+de demonstrar a perfeita similitude fática entre o acórdão impugnado e os
+paradigmas colacionados. 4. Recurso especial a que se nega provimento.”
+É  mister  acrescentar,  ainda  nesse  passo,  que  a  pedra  de  toque  para  que  se
+considere que uma dada relação jurídica é ou não de consumo é a destinação final
+(de caráter prevalecente) e a vulnerabilidade (de caráter secundário). Sim, pois se
+não fosse isso, sobretudo diante da vigência do citado  Código  Civil de 2002, não
+haveria necessidade de um Código de Defesa do Consumidor, já que a maioria dos
+princípios  por  ele  elencados  pioneiramente  em  1990  ali  foram  oportunamente
+embutidos.
+E, com efeito, o Superior Tribunal de Justiça pacificou esta questão no sentido
+de  que  a  compra  e  venda  de  insumos  agrícolas,  por  exemplo,  não  é  relação  de
+consumo:
+“Conflito positivo de competência. Medida cautelar de arresto de grãos de
+soja proposta no foro de eleição contratual. Expedição de carta precatória.
+Conflito  suscitado  pelo  juízo  deprecado,  ao  entendimento  de  que  tal
+cláusula  seria  nula,  porquanto  existente  relação  de  consumo.  Contrato
+firmado  entre  empresa  de  insumos  e  grande  produtor  rural. Ausência  de
+prejuízos à defesa pela manutenção do foro de eleição. Não configuração de
+relação de consumo. – A jurisprudência atual do STJ reconhece a existência
+
+da relação de consumo apenas quando ocorre destinação final do produto
+ou serviço, e não na hipótese em que estes são alocados na prática de outra
+atividade  produtiva.  – A  jurisprudência  do  STJ  entende  ainda  que  deva
+prevalecer  o  foro  de  eleição  quando  verificado  o  expressivo  (porte
+financeiro  ou  econômico  da  pessoa  tida  por  consumidora  do  contrato
+celebrado  entre  as  partes).  Conflito  de  competência  conhecido  para
+declarar competente o Juízo de Direito da 33ª Vara Cível do Foro Central
+de São Paulo – SP, suscitado, devendo o juízo suscitante cumprir a carta
+precatória por aquele expedida” (CC 64.524 – MT (2006/0123705-0), Rel.
+Min. Nancy Andrighi, DJ de 9.10.2006, grifos nossos).
+Conforme assinalado no texto do v. acórdão ora colacionado, exatamente dando
+conta
+[/PAGINA 48]
+
+[PAGINA 49]
+da  existência  anterior  de  alguns  outros  arestos  que  profligavam  a  posição
+maximalista, ou seja, com vistas a se estender ao máximo o conceito de consumidor –
+mas totalmente superados –, assim se manifesta a douta relatora do acórdão acima
+referido, e uma das autoridades nessa matéria, a saber:
+“(...) II – b) Da existência de relação de consumo entre produtor rural e
+empresa fabricante de insumos agrícolas. É sabido que há duas teorias a
+respeito  da  configuração  da  definição  de  consumidor:  a  subjetiva  ou
+finalista, e a subjetiva ou maximalista. Esta exige, apenas, a existência de
+destinação  final  fática  do  produto  ou  serviço,  enquanto  aquela,  mais
+restritiva, exige a presença de destinatário final fática e econômica. Com
+isso, quer-se dizer que, para o conceito subjetivo ou finalista, exige-se
+total desvinculação entre o destino do produto ou serviço consumido e
+qualquer atividade produtiva desempenhada pelo utente ou adquirente;
+portanto,  a  empresa  que  adquire  um  caminhão  para  transportar  as
+mercadorias  que  produz  não  deve  ser  considerada  consumidor  em
+relação à montadora, na medida em que tal veículo, de alguma forma,
+integra sua cadeia produtiva. Já para o conceito objetivo ou maximalista,
+basta o ato de consumo, com a destinação final fática do produto ou
+serviço  para  alguém,  que  será  considerado  consumidor  destes,  pouco
+importando  se  a  necessidade  a  ser  suprida  é  de  natureza  pessoal  ou
+profissional. Sob tal perspectiva, o caminhão comprado com o intuito de
+auxiliar  no  transporte  de  mercadorias  de  uma  empresa  atinge,  nessa
+
+atividade,  sua  destinação  final,  uma  vez  que  não  será  objeto  de
+transformação ou beneficiamento” (grifos nossos).
+E  prossegue  a  douta  relatora,  inclusive,  comentando  os  arestos  exatamente
+colacionados pelos autores-apelados, já superados, a saber:
+“O levantamento histórico da jurisprudência do STJ demonstra que, até
+meados  de  2004,  a  3ª  Turma  tendia  a  adotar  a  posição  maximalista,
+enquanto  a  4ª  Turma  tendia  a  seguir  a  corrente  finalista,  conforme
+levantamento transcrito no voto-vista que proferi no CC nº 41.056/SP,
+julgado pela 2ª Seção em 23.06.2004. Entre os acórdãos da 3ª Turma ali
+citados,  há  dois  que  apresentam  relevo  para  a  presente  hipótese.  O
+primeiro deles, o REsp. nº 208.793/MT, Rel. Min. Menezes Direito, DJ de
+01.08.2000, com base na teoria maximalista, entendeu existir relação de
+consumo entre produtor rural e empresa fornecedora de adubo, pois a
+utilização deste pelo agricultor representaria o fim da cadeia produtiva
+relativa ao fertilizante, nos termos da seguinte ementa:
+‘Código de Defesa do Consumidor. Destinatário final: conceito. Compra de
+adubo.  Prescrição.  Lucros  cessantes.  1.  A  expressão destinatário  final,
+constante da parte final do art. 2º do  Código de  Defesa do  Consumidor,
+alcança o produtor agrícola que compra adubo para o preparo do plantio, à
+medida que o bem adqui
+[/PAGINA 49]
+
+[PAGINA 50]
+rido foi utilizado pelo profissional, encerrando-se a
+cadeia  produtiva  respectiva,  não  sendo  objeto  de  transformação  ou
+beneficiamento. 2. Estando o contrato submetido ao Código de Defesa do
+Consumidor a prescrição é de cinco anos. 3. Deixando o Acórdão recorrido
+para  a liquidação por artigos a condenação por lucros cessantes, não há
+prequestionamento dos artigos 284 e 462 do Código de Processo Civil, e
+1.059  e  1.060  do  Código  Civil,  que  não  podem  ser  superiores  ao  valor
+indicado  na  inicial.  4.  Recurso  especial  não  conhecido’  (REsp  nº
+208.793/MT; 3ª Turma, Rel. Min. Menezes Direito, DJ de 1.8.2000).
+“Em contexto semelhante, no REsp nº 445.854/MS, Rel. Min. Castro Filho,
+DJ de 19.12.2003, a 3ª Turma entendeu que havia relação de consumo entre
+agricultor  e  financeira,  quando  aquele  compra  colheitadeira  de  algodão
+para incrementar sua produção (...) Tais acórdãos são, claramente, fundados
+na  teoria  objetiva  ou  maximalista,  pois  levam  em  conta,  apenas,  a
+
+destinação final fática do produto ou serviço, e não sua destinação fática
+econômica, que, tanto na hipótese da compra do adubo, quanto na hipótese
+da compra de colheitadeira, é a de incrementar a atividade produtiva do
+agricultor. Contudo, em 10.11.2004, a 2ª Seção, no julgamento do Resp nº
+541.867/BA, Rel. p/ Acórdão o Min. Barros Monteiro (DJ de 16.05.2005),
+acabou por firmar entendimento centrado na teoria subjetiva ou finalista,
+em  situação  fática  na  qual  se  analisava  a  prestação  de  serviços  de
+empresa  administradora  de  cartão  de  crédito  a  estabelecimento
+comercial.  Naquela  oportunidade,  ficou  estabelecido  que  a  facilidade
+relativa à oferta de meios de crédito eletrônico como forma de pagamento
+devia  ser  considerada  um  incremento  da  atividade  empresarial,
+afastando, assim, a existência de destinação final do serviço.
+“O  acórdão  está  assim  ementado: ‘Competência.  Relação  de  consumo.
+Utilização de equipamento e de serviços de crédito prestado por empresa
+administradora de cartão de crédito.  Destinação final inexistente. –  A
+aquisição  de  bens  ou  a  utilização  de  serviços,  por  pessoa  natural  ou
+jurídica, com o escopo de implementar ou incrementar a sua atividade
+negocial,  não  se  reputa  como  relação  de  consumo  e,  sim,  como  uma
+atividade  de  consumo  intermediária.  –  Recurso  especial  conhecido  e
+provido  para  reconhecer  a  incompetência  absoluta  da  Vara
+Especializada de Defesa do Consumidor, para decretar a nulidade dos
+atos praticados e, por conseguinte, para determinar a remessa do feito a
+uma das Varas Cíveis da Comarca’.
+“Na  presente  hipótese,  verifica-se  que a empresa forneceu ao produtor
+rural ‘diversos produtos’, nos termos da petição de arresto a fls. 16/24,
+sendo  que  sua  área  de  atuação  é,  especificamente,  a  de  defensivos
+agrícolas (fls. 17). Nesses termos, e adotando-se o entendimento atual da
+2ª Seção que provocou a superação daqueles precedentes da 3ª Turm
+[/PAGINA 50]
+

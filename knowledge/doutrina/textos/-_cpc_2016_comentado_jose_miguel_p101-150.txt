@@ -1,0 +1,1973 @@
+[META]
+TITULO: CPC 2016 Comentado José Miguel Garcia Medina
+AUTOR: 3ª ed.  2016 -
+ANO: N/A
+EDICAO: 3
+EDITORA: RT
+PAGINAS: 101-150
+ARQUIVO_ORIGINAL: CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf
+CITACAO_ABNT: -, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..
+[/META]
+
+[PAGINA 101]
+102,	I,	f,	da	CF/1988,	decidiu	o	STF	que	não	tem	este	Tribunal	competência	para	julgar
+litígios	entre	empresas	públicas	federais	e	municípios	brasileiros,	mas	apenas	para	julgar	processos	que
+coloquem	em	lados	opostos	a	União	e	seus	Estados-membros,	ou	entre	os	próprios	Estados-membros,
+não	se	podendo	estender	essa	interpretação	para	que	se	incluam	os	municípios	nesse	rol:	STF,	ACO
+1364,	rel.	Min.	Celso	de	Mello,	j.
+06.05.2009.	Decidiu-se	que	“compete	ao	Superior	Tribunal	de	Justiça	o	processo	e	o	julgamento	de	ação
+de	improbidade	administrativa	proposta	contra	juiz	de	Tribunal	Regional	do	Trabalho,	de	que	possa
+resultar	a	perda	do	cargo”	(STJ,	Rcl	4927/DF,	rel.	Min.	Felix	Fischer,	Corte	Especial,	j.	15.06.2011).
+Note-se	que,	de	acordo	com	o	§	1.º	do	art.	125	da	Constituição,	“a	competência	dos	tribunais	será
+definida	na	Constituição	do	Estado”	(a	respeito,	cf.	Enunciado	236	do	FPPC,	nota	supra);	(2)
+competência	de	justiça	especializada	(p.ex.,	trabalhista);	(3)	em	se	tratando	da	justiça	comum,	se	federal,
+que	é	ratione	personae	(art.	109	da	CF/1988;	cf.	STJ,	CC	48.609/MS,	1.ª	Seção,	j.	14.05.2008,	rel.	Min.
+Luiz	Fux)	ou,	residualmente,	estadual.
+Uma	vez	se	tendo	identificado	se	se	trata	de	justiça	estadual	ou	federal,	há,	ainda,	que	se	perquirir	o
+seguinte:	(4)	qual	o	foro	territorialmente	competente,	isso	é,	comarca	ou	seção	judiciária,	conforme	se
+trate	de	justiça	estadual	ou	federal	(cf.	arts.	46
+ss.	do	CPC/2015).	“Comarca	é	área	de	competência	jurisdicional	prevista	na	organização	judiciária	do
+Estado.	Corresponde,	em	regra,	ao	território	municipal,	mas	pode	abranger	mais	de	um	município.	Seção
+judiciária	(em	alguns	casos	subseção	judiciária)	é	o	equivalente	à	comarca	na	organização	judiciária
+federal.	Se	na	seção	judiciária	não	houver	subdivisões,	ela	abrange	o	território	do	Estado.	Se	existir
+seccionamento,	cada	subseção	judiciária	abrange	um	determinado	número	de	municípios”	(STJ,	CC
+61.954/BA,	1.ª	Seção,	rel.	Min.	Castro	Meira).	Assim,	p.ex.,	dispõe	o	art.	109,	§	1.º,	da	CF/1988	que	“as
+causas	em	que	a	União	for	autora	serão	aforadas	na	seção	judiciária	onde	tiver	domicílio	a	outra	parte”;
+(5)	se,	no	juízo	competente	territorialmente,	há	vara	especializada	(p.ex.,	vara	de	família).	Decidiu-se,
+com	acerto,	que	inexiste	“hierarquia	entre	os	ramos	do	Poder	Judiciário”,	o	que	conduz	à
+“impossibilidade	de	revogação	de	decisão	da	Justiça	estadual	pelo	Judiciário	Federal”	(STJ,	CC
+120.788/SP,	2.ª	Seção,	j.	22.05.2013,	rel.	Min.	Antonio	Carlos	Ferreira).
+III.	Juízo	competente	para	a	ação	civil	pública.	A	competência	para	o	julgamento	da	ação	civil	pública
+é	absoluta	(STJ,	REsp	1.320.693/SP,	rel.	Min.	Mauro	Campbell	Marques,	2.ª	T.,	j.	27.11.2012),	definida
+em	atenção	ao	local	do	dano	(STJ,	AgRg	nos	EDcl	no	CC	113.788/DF,	rel.	Min.	Arnaldo	Esteves	Lima,
+1.ª	Seção,	j.	14.11.2012).	No	caso,	parece	tratar-se,	em	princípio,	de	critério	de	competência	funcional
+(cf.	comentário	aos	arts.	62	e	63	do	CPC/2015).	Mas,	em	se	tratando	de	dano	de	alcance	nac
+[/PAGINA 101]
+
+[PAGINA 102]
+ional,	há
+competência	concorrente	entre	os	juízos	da	capital	do	Estado	e	o	do	Distrito	Federal	(cf.	art.	2.º,	caput,
+da	LACP	–
+Lei	7.347/1985,	c/c	art.	93	do	CDC	–	Lei	8.078/1990).	Decidiu-se	que	“inexiste	competência	exclusiva
+do	Distrito	Federal	para	julgamento	de	ações	civis	públicas	cuja	controvérsia	gravite	em	torno	de	dano
+ao	consumidor	em	escala	nacional,	podendo	a	demanda	também	ser	proposta	na	capital	dos	Estados	da
+
+Federação,	cabendo	ao	autor	a	escolha	do	foro	que	lhe	melhor	convier”;	e	que,	“muito	embora	o	inciso	II
+do	art.	93	do	CDC	tenha	criado	uma	vedação	específica,	de	natureza	absoluta	–	não	podendo	o	autor	da
+ação	civil	pública	ajuizá-la	em	uma	comarca	do	interior,	p.ex.	–,	a	verdade	é	que,	entre	os	foros
+absolutamente	competentes,	como	entre	o	foro	da	capital	do	Estado	e	do	Distrito	Federal,	há
+concorrência	de	competência,	cuidando-se,	portanto,	de	competência	relativa”	(STJ,	REsp	712.006/DF,
+4.ª	T.,	j.	05.08.2010,	rel.	Min.	Luis	Felipe	Salomão).	A	respeito	do	tema,	cf.,	amplamente,	o	que
+escrevemos,	em	coautoria	com	Fábio	Caldas	de	Araújo	e	Fernando	da	Fonseca	Gajardoni,	em
+Procedimentos	cautelares	e	especiais	(	Processo	civil	moderno,	v.	4).
+IV.	Competência	dos	juizados	especiais	cíveis	(Lei	9.099/1995).	Os	Juizado	Especiais	Cíveis,	de
+acordo	com	o	art.	3.º	da	Lei	9.099/1995,	têm	competência	para	o	julgamento	de	causas	de	menor
+complexidade,	assim	consideradas:	aquelas	cujo	valor	não	ultrapasse	40	salários	mínimos,	as	previstas
+no	art.	275,	II,	do	CPC/1973	(mantido	em	vigor	pelo	art.	1.063	do	CPC/2015),	as	ações	de	despejo	para
+uso	próprio	e	as	ações	possessórias	sobre	bens	imóveis,	cujo	valor	não	exceda	a	40
+salários	mínimos.	O	Juizado	Especial	instituído	pela	Lei	9.099/1995	não	tem	competência	absoluta,
+diversamente	do	que	ocorre	com	o	Juizado	Especial	Federal	(art.	3.º,	§	3.º,	da	Lei	10.259/2001)	e	o	da
+Fazenda	Pública	(art.	2.º,	§	4.º,	da	Lei	12.153/2009).	Cf.	comentário	a	seguir.	O	Juizado	também	será
+competente	para	a	execução	dos	seus	julgados,	bem	como	para	a	execução	de	títulos	extrajudiciais,	cujo
+valor	da	execução	não	ultrapasse	o	teto	de	40	salários	mínimos.	De	acordo	com	a	lei,	optando	a	parte
+pela	condenação	ou	execução	de	valores	superiores	ao	limite	de	40	salários	mínimos,	considerase	ter
+havido	renúncia	em	relação	ao	excesso	(cf.	art.	3.º,	§	3.º,	da	Lei	9.099/1995).	O	enunciado	do	Fonaje	58,
+porém,	dispõe:	“As	causas	cíveis	enumeradas	no	art.	275,	II	[do	CPC/1973],	admitem	condenação
+superior	a	40	(quarenta)	salários	mínimos	e	sua	respectiva	execução,	no	próprio	Juizado.”	Decidiu-se,	a
+respeito,	que	“a	competência	do	Juizado	Especial	é	verificada	no	momento	da	propositura	da	ação.	Se,
+em	sede	de	execução,	o	valor	ultrapassar	o	teto	de	40	salários	mínimos,	em	razão	do	acréscimo	de
+encargos	decorrentes	da	própria	condenação,	isso	não	será	motivo	para	afastar	a	competência	dos
+Juizados	e	não	implicará	a	renúncia	do	excedente.	A	multa	cominatória,	que,	na	hipótese,	decorre	do
+descumprimento	de	tutela	antecipada	c
+[/PAGINA 102]
+
+[PAGINA 103]
+onfirmada	na	sentença,	inclui-se	nessa	categoria	de	encargos	da
+condenação	e,	embora	tenha	atingido	patamar	elevado,	superior	ao	teto	de	40	salários	mínimos,	deve	ser
+executada	no	próprio	Juizado	Especial”	(STJ,	RMS	38.884/AC,	rel.
+Min.	Nancy	Andrighi,	3.ª	T,	j.	07.05.2013).	Sobre	o	tema,	cf.,	amplamente,	o	que	escrevemos,	em
+coautoria	com	Fábio	Caldas	de	Araújo	e	Fernando	da	Fonseca	Gajardoni,	em	Procedimentos	cautelares
+e	especiais	(	Processo	civil	moderno,	v.	4).
+V.	Competência	dos	juizados	especiais	cíveis	da	Justiça	Federal	(Lei	10.259/2001).	Havendo,	na
+mesma	seção	judiciária,	vara	cível	federal	e	de	juizado	especial	federal,	terá	este	competência	absoluta
+(art.	3.º,	§	3.º,	da	Lei	10.259/2001).	A
+Lei	10.259/2001	não	pode	ser	aplicada	no	Juizado	Especial	Estadual	(cf.	art.	20	da	Lei),	não	incidindo,
+no	caso,	o	art.	109,	§	3.º,	da	CF/1988.	Compete	aos	Juizados	Especiais	Federais	o	processamento	das
+causas	de	até	60	salários	mínimos,	bem	como	para	a	execução	dos	seus	julgados,	sendo	excluídas	de	sua
+competência	(cf.	art.	3.º,	§	1.º,	da	Lei	10.259/2001)	as	causas	referidas	no	art.	109,	incisos	II,	III	e	XI,	da
+CF/1988;	os	mandado	de	segurança;	as	ações	de	desapropriação,	de	divisão	e	demarcação;	ações
+populares,	ações	de	improbidade	administrativa;	outras	ações	relativas	a	direitos	difusos,	coletivos	ou
+individuais	homogêneos;	ações	relacionadas	a	bens	imóveis	da	União,	autarquias	e	fundações	públicas
+
+federais;	as	que	versem	sobre	anulação	ou	cancelamento	de	ato	administrativo	federal,	salvo	o	de
+natureza	previdenciária	e	o	de	lançamento	fiscal;	execuções	fiscais;	e	ações	que	tenham	como	objeto	a
+impugnação	da	pena	de	demissão	imposta	a	servidores	públicos	civis	ou	de	sanções	disciplinares
+aplicadas	a	militares.	Dispõe	o	Enunciado	9	do	Fonajef	que,	“além	das	exceções	constantes	do	§	1.º
+do	art.	3.º	da	Lei	10.259/2001,	não	se	incluem	na	competência	dos	Juizados	Especiais	Federais	os
+procedimentos	especiais	previstos	no	Código	de	Processo	Civil,	salvo	quando	possível	a	adequação	ao
+rito	da	Lei	10.259/2001”.	A	respeito	do	tema,	cf.,	amplamente,	o	que	escrevemos,	em	coautoria	com
+Fábio	Caldas	de	Araújo	e	Fernando	da	Fonseca	Gajardoni,	em	Procedimentos	cautelares	e	especiais	(
+Processo	civil	moderno,	v.	4).
+VI.	Competência	dos	juizados	especiais	da	Fazenda	Pública	(Lei	12.153/2009).	Os	Juizados	Especiais
+da	Fazenda	Pública	têm	competência	absoluta	(cf.	art.	2.º,	§	4.º	da	Lei	12.153/2009).	A	competência	dos
+Juizados	da	Fazenda	Pública	é	delimitada	para	as	causas	de	até	60	salários	mínimos,	excluindo-se	as
+ações	de	mandado	de	segurança,	de	desapropriação,	de	divisão	e	demarcação,	populares,	por
+improbidade	administrativa,	execuções	fiscais	e	as	demandas	sobre	direitos	ou	interesses	difusos	e
+coletivos;	as	causas	sobre	bens	imóveis	dos	Estados,	Distrito	Federal,	Territórios	e	Municípios,
+autarquias	e	fundações	públicas	a	eles	vinculadas;	as	causas	que	tenham	como	objeto	a	impugnação	da
+pena	de	demissão	imposta	a	servidores	públicos	civis	ou	sanções	di
+[/PAGINA 103]
+
+[PAGINA 104]
+sciplinares	aplicadas	a	militares.
+Não	há	vedação	ao	ajuizamento	de	ações	coletivas	(cf.
+comentário	supra,	ref.	aos	juizados	especiais	federais).	A	vedação	a	ações	coletivas	não	impede	a
+formação	de	litisconsórcio	ativo:	“A	exclusão	da	competência	dos	Juizados	Especiais	Federais	quanto	às
+demandas	sobre	direitos	ou	interesses	difusos,	coletivos	ou	individuais	homogêneos	somente	se	aplica
+quanto	a	ações	coletivas”	(Enunciado	22	do	Fonajef).	Deve-se	observar,	no	entanto,	o	disposto	nos
+parágrafos	do	art.	113	do	CPC/2015	(cf.	Enunciado	19	do	Fonajef,	que	se	refere	ao	parágrafo	único	do
+art.	46	do	CPC/1973).	A	respeito	do	tema,	cf.,	amplamente,	o	que	escrevemos,	em	coautoria	com	Fábio
+Caldas	de	Araújo	e	Fernando	da	Fonseca	Gajardoni,	em	Procedimentos	cautelares	e	especiais	(
+Processo	civil	moderno,	v.	4).
+VII.	União	estável	homoafetiva.	Competência	para	julgamento	de	ação	de	reconhecimento	e
+dissolução.	Decidiu-se	que	“a	plena	equiparação	das	uniões	estáveis	homoafetivas,	às	uniões	estáveis
+heteroafetivas	trouxe,	como	corolário,	a	extensão	automática	àquelas,	das	prerrogativas	já	outorgadas	aos
+companheiros	dentro	de	uma	união	estável	tradicional.
+Apesar	da	organização	judiciária	de	cada	Estado	ser	afeta	ao	Judiciário	local,	a	outorga	de	competências
+privativas	a	determinadas	Varas,	impõe	a	submissão	dessas	varas	às	respectivas	vinculações	legais
+construídas	em	nível	federal,	sob	pena	de	ofensa	à	lógica	do	razoável	e,	in	casu,	também	agressão	ao
+princípio	da	igualdade.	Se	a	prerrogativa	de	vara	privativa	é	outorgada	ao	extrato	heterossexual	da
+população	brasileira,	para	a	solução	de	determinadas	lides,	também	o	será	à	fração	homossexual,
+assexual	ou	transexual,	e	todos	os	demais	grupos	representativos	de	minorias	de	qualquer	natureza	que
+tenham	similar	demanda.	Havendo	vara	privativa	para	julgamento	de	processos	de	família,	esta	é
+competente	para	apreciar	e	julgar	pedido	de	reconhecimento	e	dissolução	de	união	estável	homoafetiva,
+independentemente	das	limitações	inseridas	no	Código	de	Organização	e	Divisão	Judiciária	local”	(STJ,
+REsp	1.291.924/RJ,	rel.	Min	Nancy	AndrighiI,	3.ª	T.,	j.
+28.05.2013).
+
+Art.	45.	Tramitando	o	processo	perante	outro	juízo,	os	autos	serão	remetidos	ao	juízo	federal	competente
+se	nele	intervier	a	União,	suas	empresas	públicas,	entidades	autárquicas	e	fundações,	ou	conselho	de
+fiscalização	de	atividade	profissional,	na	qualidade	de	parte	ou	de	terceiro	interveniente,	exceto	as
+ações:	I	-	de	recuperação	judicial,	falência,	insolvência	civil	e	acidente	de	trabalho;	II	-	sujeitas	à	justiça
+eleitoral	e	à	justiça	do	trabalho.
+§	1º	Os	autos	não	serão	remetidos	se	houver	pedido	cuja	apreciação	seja	de	competência	do	juízo	perante
+o	qual	foi	proposta	a	ação.
+§	2º	Na	hipótese	do	§	1º,	o	juiz,	ao	não	admitir	a	cumulação	de	pedidos	em	razão	da	incompetência	para
+apreciar	qualquer	deles,	não	examinará	o	mérito	daquele	em	que	exista	interesse	da	União,	de	suas
+entidades	autárquicas	ou	de	suas	empresas	públicas.
+§	3º	O	juízo	federal	restit
+[/PAGINA 104]
+
+[PAGINA 105]
+uirá	os	autos	ao	juízo	estadual	sem	suscitar	conflito	se	o	ente	federal	cuja
+presença	ensejou	a	remessa	for	excluído	do	processo.
+CPC/1973:	Sem	correspondente;	art.	99	(relacionado).
+V.	art.	109,	I	e	§	3.º,	CF/1988.
+•	STF,	Súmula	218:	É	competente	o	juízo	da	Fazenda	Nacional	da	Capital	do	Estado,	e	não	o	da
+situação	da	coisa,	para	a	desapropriação	promovida	por	empresa	de	energia	elétrica,	se	a	União
+Federal	intervém	como	assistente.
+•	STJ,	Súmula	365:	A	intervenção	da	União	como	sucessora	da	Rede	Ferroviária	Federal	S/A	(RFFSA)
+desloca	a	competência	para	a	Justiça	Federal	ainda	que	a	sentença	tenha	sido	proferida	por	Juízo
+Estadual.
+•	STJ,	REsp	(repetitivo)	1.111.159/RJ:	1.	Demanda	envolvendo	questões	referentes	ao	empréstimo
+compulsório	sobre	energia	elétrica	proposta	unicamente	contra	a	Eletrobrás,	perante	a	justiça
+estadual.	Na	hipótese,	a	União	requereu	o	ingresso	no	feito,	com	fundamento	nos	arts.	5.º,	da	Lei
+9.469/97	e	50,	do	CPC	[de	1973],	após	a	prolação	da	sentença	pela	justiça	estadual.	2.	No	que	se
+refere	à	competência	para	dirimir	questões	referentes	ao	empréstimo	compulsório	sobre	energia
+elétrica,	a	jurisprudência	desta	Corte	se	firmou	no	sentido	que	a	competência	da	justiça	federal	é
+definida	em	razão	das	partes	litigantes	e	não	da	matéria	em	discussão,	de	sorte	que,	sendo	a	demanda
+proposta	unicamente	em	desfavor	da	Eletrobrás,	a	competência	para	sua	apreciação	é	da	justiça
+estadual,	ao	passo	que,	ingressando	a	União	no	feito,	a	competência	passa	a	ser	da	justiça	federal,
+por	força	do	que	determina	o	art.	109,	inciso	I,	da	CF/1988.	3.	O	pedido	de	intervenção	da	União
+realizado	após	a	prolação	da	sentença	enseja	tão	somente	o	deslocamento	do	processo	para	o	Tribunal
+Regional	Federal,	para	que	examine	o	requerimento	de	ingresso	na	lide	e	prossiga	(se	for	o	caso)	seu
+julgamento,	sem	a	automática	anulação	da	sentença	proferida	pelo	juízo	estadual	(STJ,	REsp
+1.111.159/RJ,	rel.	Min.	Benedito	Gonçalves,	1.ª	Seção,	j.	11.11.2009).
+SUMÁRIO:	I.	Competência	da	Justiça	Federal	–	II.	Interesse	e	intervenção	da	União	e	suas	autarquias	e
+deslocamento	do	feito	para	a	Justiça	Federal	–	III.	Mandado	de	segurança	impetrado	contra	dirigente	de
+instituição	particular	de	ensino	superior	–	IV.	Competência	do	juízo	falimentar	e	de	recuperação	judicial.
+I.	Competência	da	Justiça	Federal.	A	competência	da	Justiça	Federal	é	definida	pelo	art.	109	da
+
+Constituição	Federal.	“A	competência	estabelecida	para	essa	esfera,	inserta	no	artigo	109	da
+Constituição	Federal,	não	pode	ser	estendida	por	presunção”	(STJ,	AgRg	no	CC	115.232/TO,	rel.	Min.
+Ricardo	Villas	Bôas	Cueva,	2.ª	Seção,	j.	14.03.2012).	Exclui	a	regra	constitucional,	expressamente,	a
+competência	da	Justiça	Federal	para	julgar	feitos	de	falência,	acidente	de	trabalho	e	sujeitos	à	justiça
+Eleitoral	e	à	Justiça	do	Trabalho	(CF/1988,	art.	109,	I),	seguindo	na	mesma	linha	os	incisos	do	art.	45,
+caput,	do	CPC/2015.	Decidiu-se	que	“o	fato	de	se	tratar	de	pedido	de	falência	de	empresa	em	liquidação
+extrajudic
+[/PAGINA 105]
+
+[PAGINA 106]
+ial,	ou	seja,	sob	intervenção	do	Banco	Central,	não	tem	o	condão	de	deslocar	a	competência	do
+feito	para	a	Justiça	Federal”	(STJ,	REsp	1.162.469/PR,	3.ª	T.,	j.	12.04.2012,	rel.	Min.	Paulo	de	Tarso
+Sanseverino).
+II.	Interesse	e	intervenção	da	União	e	suas	autarquias	e	deslocamento	do	feito	para	a	Justiça
+Federal.	De	acordo	com	o	art.	109,	I,	da	CF/1988,	compete	à	Justiça	Federal	julgar	“as	causas	em	que	a
+União,	entidade	autárquica	ou	empresa	pública	federal	forem	interessadas	na	condição	de	autoras,	rés,
+assistentes	ou	oponentes,	exceto	as	de	falência,	as	de	acidentes	de	trabalho	e	as	sujeitas	à	Justiça
+Eleitoral	e	à	Justiça	do	Trabalho”.	Na	vigência	do	CPC/1973,	vinha	se	decidindo	que,	havendo
+intervenção	no	feito	formulado	pela	União,	deve	ser	este	deslocado	para	a	Justiça	Federal	a	fim	de	ser
+analisado	o	pedido	(STJ,	REsp	1.111.159/RJ,	rel.	Min.	Benedito	Gonçalves,	1.ª	Seção,	j.	11.11.2009;	no
+mesmo	sentido,	STJ,	AgRg	no	Ag	1.357.673/RS,	2.ª	T.,	j.	22.02.2011,	rel.	Min.	Mauro	Campbell
+Marques).	O	art.	45,	caput	do	CPC/2015	incorpora	essa	orientação,	expressamente,	na	lei	processual.
+III.	Mandado	de	segurança	impetrado	contra	dirigente	de	instituição	particular	de	ensino	superior.
+De	acordo	com	o	art.	2.º	da	Lei	12.016/2009,	“considerar-se-á	federal	a	autoridade	coatora	se	as
+consequências	de	ordem	patrimonial	do	ato	contra	o	qual	se	requer	o	mandado	houverem	de	ser
+suportadas	pela	União	ou	entidade	por	ela	controlada”.	Tem	decidido	o	STJ,	considerando	que	“a
+competência	para	o	julgamento	de	mandado	de	segurança	é	estabelecida	em	razão	da	função	ou	da
+categoria	funcional	da	autoridade	indicada	como	coatora”,	que	“a	competência	será	federal	quando	a
+impetração	voltar-se	contra	ato	de	dirigente	de	universidade	pública	federal	ou	de	universidade
+particular;	ao	revés,	a	competência	será	estadual	quando	o	mandamus	for	impetrado	contra	dirigentes	de
+universidades	públicas	estaduais	e	municipais,	componentes	do	sistema	estadual	de	ensino”	(STJ,	CC
+113.305/TO,	decisão	monocrática,	j.	25.05.2011,	rel.	Min.	Cesar	Asfor	Rocha).
+IV.	Competência	do	juízo	falimentar	e	de	recuperação	judicial.	Tem-se	decidido	que	“o	juízo
+responsável	pela	recuperação	judicial	detém	a	competência	para	dirimir	todas	as	questões	relacionadas,
+direta	ou	indiretamente,	com	tal	procedimento	(p.	ex.,	“para	julgar	ação	que	pretende	anular	protesto
+extrajudicial	de	sentença	trabalhista,	cuja	dívida	se	sujeita	ao	plano	de	recuperação	judicial”	–	STJ,	CC
+118.819/MG,	rel.	Min.	Ricardo	Villas	Bôas	Cueva,	2.ª	seção,	j.	26.09.2012),	inclusive	aquelas	que
+digam	respeito	à	alienação	judicial	conjunta	ou	separada	de	ativos	da	empresa	recuperanda,	diante	do
+que	estabelecem	os	arts.	6.º,	caput	e	§	2.º,	47,	59	e	60,	parágrafo	único,	da	Lei	11.101/2005”	(STJ,	AgRg
+no	CC	97.732/RJ,	rel.	Min.
+João	Otávio	de	Noronha,	2.ª	Seção,	j.	27.10.2010).	Isso	é	assim	porque	“são	dois	valores	a	serem
+ponderados:	a	manutenção	ou	tentativa	de	soerguimento	da	empresa	em	recuperação,	com	todas	as
+consequências	socia
+[/PAGINA 106]
+
+[PAGINA 107]
+is	e	econômicas	daí	decorrentes	–
+como,	por	exemplo,	a	preservação	de	empregos,	o	giro	comercial	da	recuperanda	e	o	tratamento	igual
+aos	credores	da	mesma	classe,	na	busca	da	‘melhor	solução	para	todos’;	e,	de	outro	lado,	o	pagamento
+dos	créditos	trabalhistas	reconhecidos	perante	a	justiça	laboral”	(STJ,	CC	112.799/DF,	2.ª	Seção,	j.
+
+14.03.2011,	rel.	Min.	Luis	Felipe	Salomão).	Assim,	“após	a	liquidação	do	crédito,	o	juízo	falimentar	é
+competente	para	a	execução	dos	julgados	da	Justiça	Trabalhista	contra	a	empresa	em	recuperação
+judicial”	(STJ,	AgRg	no	CC	112.673/DF,	2.ª	Seção,	j.	13.10.2010,	rel.	Min.	Aldir	Passarinho	Junior;	no
+mesmo	sentido,	STJ,	CC	112.390/PA,	2.ª	Seção,	j.	23.03.2011,	rel.	Min.	Sidnei	Beneti).	Note-se,	porém,
+que,	de	acordo	com	a	Súmula	480
+do	STJ,	“o	juízo	da	recuperação	judicial	não	é	competente	para	decidir	sobre	a	constrição	de	bens	não
+abrangidos	pelo	plano	de	recuperação	da	empresa”.
+Art.	46.	A	ação	fundada	em	direito	pessoal	ou	em	direito	real	sobre	bens	móveis	será	proposta,	em
+regra,	no	foro	de
+domicílio	do	réu.
+§	1º	Tendo	mais	de	um	domicílio,	o	réu	será	demandado	no	foro	de	qualquer	deles.
+§	2º	Sendo	incerto	ou	desconhecido	o	domicílio	do	réu,	ele	poderá	ser	demandado	onde	for	encontrado
+ou	no	foro	de	domicílio	do	autor.
+§	3º	Quando	o	réu	não	tiver	domicílio	ou	residência	no	Brasil,	a	ação	será	proposta	no	foro	de	domicílio
+do	autor,	e,	se	este	também	residir	fora	do	Brasil,	a	ação	será	proposta	em	qualquer	foro.
+§	4º	Havendo	2	(dois)	ou	mais	réus	com	diferentes	domicílios,	serão	demandados	no	foro	de	qualquer
+deles,	à	escolha	do	autor.
+§	5º	A	execução	fiscal	será	proposta	no	foro	de	domicílio	do	réu,	no	de	sua	residência	ou	no	do	lugar
+onde	for	encontrado.
+CPC/1973:	Art.	94	(correspondente).
+V.	arts.	70	a	78,	CC/2002;	art.	12	do	Dec.-lei	4.657/1942	(Lei	de	Introdução	às	normas	do	Direito
+Brasileiro);	arts.	127	e	159,	CTN.
+SUMÁRIO:	I.	Competência	territorial.	Regra	geral	–	II.	Competência	territorial.	Riscos	do	forum
+shopping	e	doutrina	do	forum	non	conveniens.
+I.	Competência	territorial.	Regra	geral.	Não	havendo	regra	específica,	deverá	a	ação	ser	proposta	no
+foro	do	domicílio	do	réu.	É	o	que	ocorre,	p.	ex.,	com	a	ação	de	abstenção	do	uso	de	marca	(STJ,	REsp
+686.242/RS,	4.ª	T.,	j.	18.05.2010,	rel.	Min.
+Aldir	Passarinho	Junior;	STJ,	EDiv	em	Ag	783.280/RS,	rel.	Min.	Nancy	Andrighi,	2.ª	Seção,	j.
+23.02.2011).	Nos	casos	em	que	a	ação	pode	ser	movida	no	foro	do	domicílio	do	autor	(	v.g.	,	ações
+contra	a	União,	ex	vi	do	art.	109,	§	2.º	da	CF/1988	e	do	art.	51
+do	CPC/2015),	“havendo	litisconsórcio	ativo	facultativo,	em	que	os	autores	são	domiciliados	em	Estados
+diversos,	faz-se	necessária	a	aplicação	análoga	e	inversa	da	regra	de	competência	expressa	no	art.	94,	§
+4.º,	do	CPC	[de	1973,	correspondente	ao	art.	46,	§	4.º	do	CPC/2015],	de	sorte	a	possibilitar	a	demanda
+no	foro	de	qualquer	um	deles,	hipótese	em	que	competência	se	estende	a	todos	os	integrantes	do
+litisconsórcio”	(STJ,	REsp	942.185/RJ,	5.ª	T.,	j.	02.06.2009,	r
+[/PAGINA 107]
+
+[PAGINA 108]
+el.	Min.	Jorge	Mussi;	cf.	também
+
+comentário	ao	art.	51	do	CPC/2015).
+II.	Competência	territorial.	Riscos	do	forum	shopping	e	doutrina	do	forum	non	conveniens	.	O	uso
+da	doutrina	do	forum	non	conveniens	como	limite	para	os	possíveis	abusos	decorrentes	do	forum
+shopping,	embora	habitualmente	empregado	em	relação	a	questões	atinentes	a	conflitos	de	jurisdições
+(cf.	comentário	ao	art.	24	do	CPC/2015),	pode	ser	feito,	a	nosso	ver,	também	para	se	resolver	problemas
+relativos	à	competência	interna.	Decidiu	o	STJ	que	“esses	princípios	são	amplamente	reconhecidos	no
+direito	estrangeiro,	mas	não	têm	previsão	expressa	no	ordenamento	jurídico	brasileiro”	(STJ,	MC
+15.398/RJ,	3.ª	T.,	rel.	Min.	Nancy	Andrighi,	j.	02.04.2009).	Pensamos,	diversamente,	que	a	doutrina	do
+forum	non	conveniens	pode	ser	aplicada	no	direito	brasileiro,	a	fim	de	se	evitar	abusos	decorrentes	da
+aplicação	irrestrita	do	forum	shopping	e	se	propiciar	a	escolha	do	juízo	mais	adequado	para	julgar	a	lide
+(semelhantemente,	cf.	Fredie	Didier	Jr.,	Curso.	.	,	cit.,	v.	1,	p.	136	ss.;	o	autor	referido	afirma	que,	no
+caso,	deve	ser	observado	o	que	denomina	de	“princípio	da	competência	adequada”).	Entendemos	que	a
+doutrina	do	forum	non	conveniens	aplica-se	não	apenas	em	casos	em	que	há	conflito	de	jurisdições,	mas,
+também	em	situações	em	que	há	dois	ou	mais	juízos	com	competência	concorrente	para	julgar	a	causa.	É
+o	que	pode	ocorrer,	p.ex.,	no	caso	previsto	no	art.	53,	V	do	CPC/2015:	pode-se	considerar	que	mais
+adequado	para	o	julgamento	da	causa	é	o	juízo	em	cujo	âmbito	de	competência	territorial	ocorreu	o	ato
+ilícito,	e	não	o	juízo	do	domicílio	do	autor.	A	respeito,	decidiu-se	que	“a	competência	deve	prevalecer
+também	por	questões	de	ordem	prática	e	processual,	na	medida	em	que	a	realização	de	perícia	ou
+inspeção	judicial	no	juízo	será	facilitada,	porquanto	lá	já	se	encontra	o	produto	objeto	da	divergência
+entre	as	partes;	o	que,	sem	dúvida,	contribui	para	a	celeridade	da	prestação	jurisdicional”	(STJ,	AgRg
+nos	EDcl	no	AgRg	no	Ag	727.699/ES,	3.ª	T.,	rel.	Min.	Nancy	Andrighi;	semelhantemente,	cf.	STJ,	AgRg
+no	Ag	1.137.193/GO,	Rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	27.10.2009).
+Art.	47.	Para	as	ações	fundadas	em	direito	real	sobre	imóveis	é	competente	o	foro	de	situação	da	coisa.
+§	1º	O	autor	pode	optar	pelo	foro	de	domicílio	do	réu	ou	pelo	foro	de	eleição	se	o	litígio	não	recair
+sobre	direito	de	propriedade,	vizinhança,	servidão,	divisão	e	demarcação	de	terras	e	de	nunciação	de
+obra	nova.
+§	2º	A	ação	possessória	imobiliária	será	proposta	no	foro	de	situação	da	coisa,	cujo	juízo	tem
+competência	absoluta.
+CPC/1973:	Art.	95	(correspondente).
+V.	arts.	70	a	78,	328	e	341,	CC/2002;	arts.	127	e	159,	CTN;	art.	12,	Dec.-lei	4.657/1942	(Lei	de
+Introdução	às	normas	do	Direito	Brasileiro);	art.	48,	Lei	6.766/1979	(Parcelamento	do	solo	urbano);	art.
+58,	II,	Lei	8.245/1991	(Locação	de	imóveis	urbanos).
+•	STF,	Súmula	218:	É	competente	o	juízo	da	Fazenda	Nacional	da	Capital	do	Estado,	e	não	o	da
+situação	da	cois
+[/PAGINA 108]
+
+[PAGINA 109]
+a,	para	a	desapropriação	promovida	por	empresa	de	energia	elétrica,	se	a	União
+Federal	intervém	como	assistente.
+SUMÁRIO:	I.	Ação	relativa	a	imóvel.	Regra	geral	–	II.	Ação	de	desapropriação,	competência	absoluta	e
+perpetuatio	jurisdictionis	–	III.	Ação	relativa	a	contrato	que	tenha	por	objeto	imóvel.
+I.	Ação	relativa	a	imóvel.	Regra	geral.	De	acordo	com	o	art.	47	do	CPC/2015,	nas	“ações	fundadas	em
+direito	real	sobre	imóveis	é	competente	o	foro	de	situação	da	coisa”.	Prossegue-se,	afirmando	no	§	1.º,
+
+que	“o	autor	pode	optar	pelo	foro	de	domicílio	do	réu	ou	pelo	foro	de	eleição”	caso	a	ação	não	diga
+respeito,	p.ex.,	à	propriedade	sobre	o	bem.	Tem-se,	assim,	que,	nas	hipóteses	que	enuncia	a	primeira
+parte	do	dispositivo,	a	norma	trata	de	competência	absoluta;	nos	demais	casos,	de	competência	relativa.
+Naquele	caso,	pode-se	dizer	que	há	critério	de	competência	funcional	(cf.	comentário	aos	arts.	62	e	63
+do	CPC/2015).	A	doutrina,	de	modo	geral,	reporta-se	à	lição	de	Chiovenda	para	indicar	haver,	no	caso,
+tal	critério.	Afirmava	o	autor	italiano	que	haveria	competência	funcional	também	quando	atribuída	“al
+giudice	di	un	determinato	territorio	pel	fatto	che	la	sua	funzione	sarà	ivi	piu	facile	o	piu	efficace”	(assim,
+p.ex.,	Barbosa	Moreira,	que	cita	o	trecho	transcrito	no	artigo,	Pode	o	juiz	declarar	de	ofício	a
+competência	relativa?,	RePro	62/28,	embora	não	aceite	essa	concepção;	semelhantemente,	Brunela	Vieira
+de	Vincenzi,	no	artigo	Competência	funcional	–	Distorções,	RePro	105/265,	afirma	que	em	tais	casos	há
+competência	territorial	absoluta,	mas	não	funcional).	Por	semelhantes	razões,	o	§	2.º	do	art.	47	do
+CPC/2015	dispõe	que	“a	ação	possessória	imobiliária	será	proposta	no	foro	de	situação	da	coisa,	cujo
+juízo	tem	competência	absoluta”.	Sobre	competência	funcional,	cf.	também	comentário	aos	arts.	62	e	63
+do	CPC/2015;	sobre	a	prevenção	em	caso	de	imóvel	cuja	extensão	abrange	duas	ou	mais	unidades
+jurisdicionais,	cf.	comentário	ao	art.	60	do	CPC/2015.
+II.	Ação	de	desapropriação,	competência	absoluta	e	perpetuatio	jurisdictionis	.	Tendo	em	vista	a
+regra	disposta	no	art.	47,	caput	do	CPC/2015,	a	competência	para	a	ação	de	desapropriação	é	a	do	“foro
+da	situação	da	coisa”.	Trata-se	de	competência	absoluta,	razão	pela	qual	não	incide	o	princípio	da
+perpetuatio	jurisdictionis	(cf.	comentário	ao	art.	43	do	CPC/2015):	“A	perpetuatio	jurisdictionis	tem
+como	ratio	essendi	a	competência	territorial	relativa,	no	afã	de	fixar-se	no	domicílio	do	réu,	no	momento
+da	demanda,	ainda	que	o	demandado	altere	a	posteriori	o	seu	domicílio.	A	competência	para	as	ações
+fundadas	em	direito	real	sobre	bem	imóvel	(art.	95	[do	CPC/1973,	correspondente	ao	art.	47	do
+CPC/2015)	é	absoluta	e,	portando,	inderrogável,	de	modo	a	incindir	o	princípio	do	forum	rei	sitae,
+tornando-se	inaplicável	o	princípio	da	perpetuatio	jurisdictionis”	(STJ,	REsp	885.557/CE,	1.ª	T.,	j.
+11.12.2007,	rel.	Min.	Luiz	Fux).	Tem-se	decidido	que,	ajuizada	ação	de	desapropriação	de	imóvel
+perante	a	justiça	esta
+[/PAGINA 109]
+
+[PAGINA 110]
+dual,	a	criação	de	vara	federal,	situada	no	local	do	imóvel,	desloca	a	competência
+para	esse	juízo	(cf.	STJ,	REsp	1.033.980/CE,	1.ª	T.,	j.	20.05.2008,	rel.	Min.	José	Delgado;	STJ,	EREsp
+1028117/CE,	1.ª
+Seção,	j.	14.10.2009,	rel.	Min.	Herman	Benjamin;	STJ,	REsp	1.150.489/CE,	Rel.	Min.	Mauro	Campbell
+Marques,	2.ª	T.,	j.
+10.08.2010).
+III.	Ação	relativa	a	contrato	que	tenha	por	objeto	imóvel.	A	regra	a	que	se	refere	o	art.	47,	§	1.º	do
+CPC/2015	não	alcança	as	ações	referentes,	p.ex.,	a	contrato	de	compra	e	venda	relativa	ao	bem,	que,
+portanto,	poderá	ser	ajuizada	no	foro	de	eleição	ou	no	domicílio	do	réu	(cf.	STJ,	AgRg	na	MC
+14.534/GO,	3.ª	T.,	j.	16.09.2008,	rel.	Min.	Nancy	Andrighi,	referindo-se	ao	art.	95	do	CPC/1973).
+Decidiu-se,	de	modo	semelhante,	em	relação	a	ação	de	extinção	de	hipoteca.	Afirmou-se,	no	caso,	que,
+“para	que	a	ação	seja	necessariamente	ajuizada	na	comarca	em	que	situado	o	bem	imóvel,	esta	deve	ser
+fundada	em	direito	real	(naqueles	expressamente	delineados	pelo	art.	95	do	CPC	[de	1973,
+correspondente	ao	art.	47,	§	1.º,	do	CPC/2015),	não	sendo	suficiente,	para	tanto,	a	mera	repercussão
+indireta	sobre	tais	direitos”	(STJ,	REsp	1.048.937/PB,	rel.	Min.	Massami	Uyeda,	3.ª	T.,	j.	22.02.2011).
+Decidiu-se	de	igual	modo	em	relação	a	ação	anulatória	de	escritura	pública	de	cessão	e	transferência	de
+direitos	sucessórios	(STJ,	CC	111.572/SC,	Rel.	Min.	Nancy	Andrighi,	2.ª	Seção,	j.	09.04.2014).
+
+Art.	48.	O	foro	de	domicílio	do	autor	da	herança,	no	Brasil,	é	o	competente	para	o	inventário,	a	partilha,
+a	arrecadação,	o	cumprimento	de	disposições	de	última	vontade,	a	impugnação	ou	anulação	de	partilha
+extrajudicial	e	para	todas	as	ações	em	que	o	espólio	for	réu,	ainda	que	o	óbito	tenha	ocorrido	no
+estrangeiro.
+Parágrafo	único.	Se	o	autor	da	herança	não	possuía	domicílio	certo,	é	competente:	I	-	o	foro	de	situação
+dos	bens	imóveis;	II	-	havendo	bens	imóveis	em	foros	diferentes,	qualquer	destes;	III	-	não	havendo	bens
+imóveis,	o	foro	do	local	de	qualquer	dos	bens	do	espólio.
+CPC/1973:	Art.	96	(correspondente).
+V.	arts.	73	e	1.785,	CC/2002.
+SUMÁRIO:	I.	Inventário.	Competência	relativa	–	II.	Ação	de	reparação	por	danos	causados	pelo	de
+cujus	–	III.	Ação	de	anulação	de	testamento.
+I.	Inventário.	Competência	relativa.	É	competente	para	processar	o	inventário	o	foro	do	domicílio	do
+autor	da	herança,	sendo	irrelevante	o	lugar	da	situação	dos	bens	ou	do	óbito	(STJ,	REsp	32.213/SP,	4.ª
+T.,	rel.	Min.	Antonio	Torreão	Braz).	Trata-se,	porém,	de	competência	territorial;	logo,	relativa	(STJ,	CC
+19.334/MG,	2.ª	Seção,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).
+II.	Ação	de	reparação	por	danos	causados	pelo	de	cujus	.	Decidiu-se	que	“o	foro	do	inventário	não
+exerce	a	vis	attractiva	sobre	o	processo	em	que	se	pleiteia	reparação	de	danos	decorrentes	de	ato	ilícito
+do	de	cujus,	por	não	ser	o	objeto
+da	ação	relativo	ao	espólio”	(	RT	580/158).
+III.	Ação	de	anulação	de	testamento.	Decidiu	o	STJ	que	“não	há	conexão	entre	o	inventário	e	a	ação
+anulatória	porque	ausente	a	i
+[/PAGINA 110]
+
+[PAGINA 111]
+dentidade	entre	os	elementos	objetivos	das	demandas.	Todavia,	a
+prejudicialidade	é	evidente.	Com	efeito,	a	conclusão	do	processo	de	inventário,	ao	final,	dependerá	do
+resultado	da	ação	anulatória.	Ainda	que	a	ação	anulatória	não	tenha	sido	proposta	em	face	do	Espólio,	a
+declaração	de	nulidade	do	testamento	interessa	à	herança	e,	por	isso,	deve	ser	apreciada	pelo	juízo	do
+inventário.	A	denominada	vis	atrativa	do	inventário	(art.	96	do	CPC	[de	1973,	correspondente	ao	art.
+48	do	CPC/2015])	é	abrangente,	sendo	conveniente	que	todas	as	demais	ações	que	digam	respeito	à
+sucessão,	dentre	elas	o	cumprimento	das	suas	disposições	de	última	vontade	(art.	96	do	CPC	[de	1973,
+correspondente	ao	art.	48	do	CPC/2015]),	também	sejam	apreciadas	pelo	juízo	do	inventário”	(STJ,
+REsp	1.153.194/MS,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	13.11.2012).
+Art.	49.	A	ação	em	que	o	ausente	for	réu	será	proposta	no	foro	de	seu	último	domicílio,	também
+competente	para	a	arrecadação,	o	inventário,	a	partilha	e	o	cumprimento	de	disposições	testamentárias.
+CPC/1973:	Art.	97	(correspondente).
+V.	arts.	22	a	26,	38	e	39,	CC/2002.
+Ação	em	que	o	ausente	é	réu.	A	ação	contra	ausente	deve	ser	proposta	em	seu	último	domicílio.
+Escrevemos,	em	outro	estudo,	que	“o	instituto	da	ausência	representa	uma	comprovação	nítida	sobre	a
+necessidade	de	determinação	da	titularidade	dos	bens	e	direitos	em	relação	a	uma	determinada	pessoa.	O
+
+desaparecimento	da	pessoa	do	seu	domicílio	provoca	uma	situação	de	crise	quanto	à	gestão	e
+administração	do	patrimônio	jurídico,	que	poderá	culminar	com	a	declaração	de	sua	ausência.	Não	se
+trata,	unicamente,	de	um	interesse	patrimonial,	pois	a	certeza	quanto	à	existência	é	fundamental	para	a
+segurança	das	relações	jurídicas	em	geral,	incluindo	o	direito	de	família.	Além	disso,	o	interesse	público
+é	manifesto	quanto	ao	paradeiro	do	desaparecido,	em	virtude	da	possibilidade	de	mudança	do	seu	estado
+civil	(morte)”
+(	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo,	comentário	ao	art.	22	do	CC).
+Art.	50.	A	ação	em	que	o	incapaz	for	réu	será	proposta	no	foro	de	domicílio	de	seu	representante	ou
+assistente.
+CPC/1973:	Art.	98	(correspondente).
+Juízo	competente	para	ação	movida	por	ou	contra	incapaz.	“Descabe	declinar	a	competência	de	juízo
+em	que	se	processa	a	ação	de	interdição,	quando	comprovado	que	o	atual	domicílio	da	interditada,	é	o
+mesmo	de	sua	filha,	nomeada	sua	curadora	provisória,	com	quem	reside	há	dois	anos,	em	cidade	diversa
+daquela	em	que	até	então	a	agravada	detinha	seu	domicílio”	(TJRS,	AgIn	70034912055,	7.ª	Câm.	Cív.,
+rel.	Des.	André	Luiz	Planella	Villarinho,	j.	12.05.2010).	Decidiu	o	STJ,	com	acerto,	que	“a	regra
+processual	do	art.	98	[do	CPC/1973,	correspondente	ao	art.	50	do	CPC/2015]	protege	pessoa	absoluta	ou
+relativamente	incapaz,	por	considerá-la	mais	frágil	na	relação	jurídica	processual,	quando	litiga	em
+qualquer	ação.	Assim,	na	melhor	compreensão	a	ser	extraída	dessa	norma,	não	há	razão	para	diferenciar-
+se	a	posição	processual
+[/PAGINA 111]
+
+[PAGINA 112]
+do	incapaz.	Figure	o	incapaz	como	autor	ou	réu	em	qualquer	ação,	deve-se
+possibilitar	ao	seu	representante	litigar	no	foro	de	seu	domicílio,	pois,	normalmente,	sempre	necessitará
+de	proteção,	de	amparo,	de	facilitação	da	defesa	dos	seus	interesses,	mormente	em	ações	de	estado”
+(STJ,	REsp	875.612/MG,	Rel.	Min.	Raul	Araújo,	4.ª	T.,	j.	04.09.2014).
+Art.	51.	É	competente	o	foro	de	domicílio	do	réu	para	as	causas	em	que	seja	autora	a	União.
+Parágrafo	único.	Se	a	União	for	a	demandada,	a	ação	poderá	ser	proposta	no	foro	de	domicílio	do	autor,
+no	de	ocorrência	do	ato	ou	fato	que	originou	a	demanda,	no	de	situação	da	coisa	ou	no	Distrito	Federal.
+CPC/1973:	Art.	99	(correspondente).
+Ações	contra	a	União	e	opções	do	demandante.	As	regras	referentes	ao	foro	competente	para	a	ação
+em	que	a	União	for	parte	são	estabelecidas	pela	Constituição	Federal	(cf.	§§	do	art.	109	da	CF/1988).	O
+art.	51	do	CPC/2015	reproduz	o	que	estabelecem	os	§§	1.º	e	2.º	do	art.	109	da	Constituição.	Em	ação
+ajuizada	contra	a	União,	cabe	ao	autor	a	escolha	do	foro	conveniente	(STJ,	AgRg	no	REsp	1.176.229/RJ,
+2.ª	T.,	j.	13.04.2010,	rel.	Min.	Herman	Benjamin),	podendo	a	parte	autora	ajuizar	a	ação	no	foro	de	seu
+domicílio,	cf.	art.	109,	§	2.º,	da	CF/1988	(STJ,	REsp	942.185/RJ,	5.ª	T.,	j.	02.06.2009,	rel.	Min.	Jorge
+Mussi).
+Cf.	também	comentário	ao	art.	46	do	CPC/2015.	“A	jurisprudência	do	STF	tem	entendido	pela
+aplicabilidade	do	disposto	no	art.	109,	§	2.º,	da	CF	às	autarquias	federais”	(STF,	RE	499.093-AgRg-
+segundo,	rel.	Min.	Ricardo	Lewandowski,	j.	09.11.2010).
+Art.	52.	É	competente	o	foro	de	domicílio	do	réu	para	as	causas	em	que	seja	autor	Estado	ou	o	Distrito
+Federal.
+
+Parágrafo	único.	Se	Estado	ou	o	Distrito	Federal	for	o	demandado,	a	ação	poderá	ser	proposta	no	foro
+de	domicílio	do	autor,	no	de	ocorrência	do	ato	ou	fato	que	originou	a	demanda,	no	de	situação	da	coisa
+ou	na	capital	do	respectivo	ente	federado.
+CPC/1973:	Sem	correspondente;	art.	100,	IV,	d	(relacionado).
+Ações	contra	Estado	e	Distrito	Federal	e	opções	do	demandante.	O	princípio	estabelecido	no	art.	51
+do	CPC/2015	é	observado	também	em	se	tratando	de	ação	em	que	figura	como	parte	o	Estado	ou	o
+Distrito	Federal,	nos	termos	do	art.	52	do
+CPC/2015.	A	jurisprudência,	na	vigência	do	CPC/1973,	já	era	nesse	sentido,	aplicando,	ao	caso,	o	art.
+100,	IV,	d	do	CPC/1973
+(nesse	sentido,	STJ,	REsp	192.896/RS,	Rel.	Min.	Milton	Luiz	Pereira,	1.ª	T.,	j.	22.05.2001;	STJ,	REsp
+193.725/SC,	Rel.	Min.	João	Otávio	de	Noronha,	2.ª	T.,	j.	17.02.2005;	STJ,	REsp	879.675/SP,	Rel.	Min.
+Arnaldo	Esteves	Lima,	5.ª	T.,	j.	29.11.2007).
+Art.	53.	É	competente	o	foro:	I	-	para	a	ação	de	divórcio,	separação,	anulação	de	casamento	e
+reconhecimento	ou	dissolução	de	união	estável:	a)	de	domicílio	do	guardião	de	filho	incapaz;	b)	do
+último	domicílio	do	casal,	caso	não	haja	filho	incapaz;	c)	de	domicílio	do	réu,	se	nenhuma	das	partes
+residir	no	antigo	domicílio	do	casal;	II	-	de	domicílio	ou	residência	do	alimentando,	para	a	ação	em	que
+se	pedem	alimentos;
+[/PAGINA 112]
+
+[PAGINA 113]
+III	-	do	lugar:	a)	onde	está	a	sede,	para	a	ação	em	que	for	ré	pessoa	jurídica;	b)	onde
+se	acha	agência	ou	sucursal,	quanto	às	obrigações	que	a	pessoa	jurídica	contraiu;	c)	onde	exerce	suas
+atividades,	para	a	ação	em	que	for	ré	sociedade	ou	associação	sem	personalidade	jurídica;	d)	onde	a
+obrigação	deve	ser	satisfeita,	para	a	ação	em	que	se	lhe	exigir	o	cumprimento;	e)	de	residência	do	idoso,
+para	a	causa	que	verse	sobre	direito	previsto	no	respectivo	estatuto;	f)	da	sede	da	serventia	notarial	ou	de
+registro,	para	a	ação	de	reparação	de	dano	por	ato	praticado	em	razão	do	ofício;	IV	-	do	lugar	do	ato	ou
+fato	para	a	ação:	a)	de	reparação	de	dano;	b)	em	que	for	réu	administrador	ou	gestor	de	negócios	alheios;
+V	-	de	domicílio	do	autor	ou	do	local	do	fato,	para	a	ação	de	reparação	de	dano	sofrido	em	razão	de
+delito	ou	acidente	de	veículos,	inclusive	aeronaves.
+CPC/1973:	Art.	100	(correspondente).
+V.	arts.	5.º,	I,	109,	110	e	226,	§	5.º,	CF/1988;	arts.	22	a	25,	27,	29	a	36,	38,	39,	73,	75,	76,	327,	328,	861
+a	875	e	1.785,	CC/2002;	art.	26,	Lei	5.478/1968	(Ação	de	alimentos).
+•	STF,	Súmula	363:	A	pessoa	jurídica	de	direito	privado	pode	ser	demandada	no	domicílio	da	agência,
+ou	estabelecimento,	em	que	se	praticou	o	ato.
+•	STJ,	Súmula	1:	O	foro	do	domicílio	ou	da	residência	do	alimentando	é	o	competente	para	a	ação	de
+investigação	de	paternidade,	quando	cumulada	com	a	de	alimentos.
+•	STJ,	Súmula	383:	A	competência	para	processar	e	julgar	as	ações	conexas	de	interesse	de	menor	é,
+em	princípio,	do	foro	do	domicílio	do	detentor	de	sua	guarda.
+•	STJ,	REsp	(repetitivo)	1357813/RJ:	Em	ação	de	cobrança	objetivando	indenização	decorrente	de
+Seguro	Obrigatório	de	Danos	Pessoais	Causados	por	Veículos	Automotores	de	Vias	Terrestres	–
+DPVAT,	constitui	faculdade	do	autor	escolher	entre	os	seguintes	foros	para	ajuizamento	da	ação:	o	do
+
+local	do	acidente	ou	o	do	seu	domicílio	(parágrafo	único	do	art.	100	do	Código	de	Processo	Civil	[de
+1973,	correspondente	ao	art.	53,	V	do	CPC/2015]);	bem	como,	ainda,	o	do	domicílio	do	réu	(art.	94	do
+mesmo	Diploma	[CPC	de	1973,	correspondente	ao	art.	46	do	CPC/2015])	(STJ,	REsp	1.357.813/RJ,
+Rel.	Min.	Luis	Felipe	Salomão,	2.ª	Seção,	j.	11.09.2013).
+SUMÁRIO:	I.	Foro	especial	para	a	mulher	em	ações	previstas	no	CPC/1973	e	princípio	da	isonomia.
+Nova	regra	prevista	no	CPC/2015	–	II.	Ação	que	envolva	interesse	de	criança	ou	adolescente	–	III.	Ação
+de	alimentos.	Relativização	da	competência	funcional	para	a	execução	de	sentença	–	IV.	Ações
+indenizatórias	relativas	a	ilícitos	civis	ou	penais.	Regra	geral	–	V.	Ação	relativa	a	acidente	de	veículos	–
+VI.	Ação	de	reparação	de	danos,	responsabilidade	contratual	e	foro	de	eleição	–	VII.	Ação	de
+arbitramento	de	honorários	advocatícios	–	VIII.	Ação	movida	por	consumidor	contra	fornecedor	–	IX.
+Ação	de	indenização	proposta	por	dependente	de	trabalhador	falecido	em	acidente	de	trabalho	–	X.	Ação
+indenizatória	relativa	a	danos	morais	decorrentes	de	matéria	publicada	na	internet.
+I.	Foro	especial	para
+[/PAGINA 113]
+
+[PAGINA 114]
+a	mulher	em	ações	previstas	no	CPC/1973	e	princípio	da	isonomia.	Nova	regra
+prevista	no	CPC/2015.	Decidiu	o	STF	que	“o	inciso	I	do	artigo	100	do	Código	de	Processo	Civil	[de
+1973],	com	redação	dada	pela	Lei
+6.515/1977,	foi	recepcionado	pela	Constituição	Federal	de	1988.	O	foro	especial	para	a	mulher	nas
+ações	de	separação	judicial	e	de	conversão	da	separação	judicial	em	divórcio	não	ofende	o	princípio	da
+isonomia	entre	homens	e	mulheres	ou	da	igualdade	entre	os	cônjuges”	(STF,	RE	227.114,	rel.	Min.
+Joaquim	Barbosa,	2ª	T.,	j.	22.11.2011).	O	CPC/2015	não	reproduziu	a	referida	regra.	O	foro	competente
+para	tais	ações	será	o	do	domicílio	do	guardião	de	filho	incapaz,	o	de	último	domicílio	do	casal	ou,
+então,	o	de	domicílio	do	réu	(cf.	art.	53,	I	do	CPC/2015).	Cf.	também	comentário	ao	art.	50	do
+CPC/2015.
+II.	Ação	que	envolva	interesse	de	criança	ou	adolescente.	De	acordo	com	o	art.	147,	I	da	Lei
+8.069/1990	(ECA),	a	competência	para	o	julgamento	de	ações	que	digam	respeito	a	crianças	e
+adolescentes	é	determinada	“pelo	domicílio	dos	pais	ou	responsável”.	Está-se,	no	caso,	diante	de
+competência	absoluta	(cf.	STJ,	AgRg	no	CC	94.250/MG,	2.ª	Seção,	j.	11.06.2008,	rel.
+Min.	Aldir	Passarinho	Junior;	STJ,	CC	102.849/CE,	2.ª	Seção,	j.	27.05.2009,	rel.	Min.	Fernando
+Gonçalves).	Trata-se	de	interpretação	que	se	coaduna	com	os	princípios	traçados	nos	arts.	3.º	e	6.º	da
+Lei	8.069/1990.	Aplica-se	esta	orientação	também	nos	casos	em	que	litigam	os	pais	contra	aquele	que
+exerce	a	guarda	da	criança	ou	adolescente.	A	respeito,	o	STJ
+editou	a	Súmula	383,	segundo	a	qual	“a	competência	para	processar	e	julgar	as	ações	conexas	de
+interesse	de	menor	é,	em	princípio,	do	foro	do	domicílio	do	detentor	de	sua	guarda”.	O	CPC/2015,	no	art.
+53,	I,	a,	dá	ênfase	ao	mesmo	princípio,	ao	indicar	que	é	competente	para	as	ações	relacionadas	ao	estado
+do	casal	o	foro	“de	domicílio	do	guardião	de	filho	incapaz”.
+III.	Ação	de	alimentos.	Relativização	da	competência	funcional	para	a	execução	de	sentença.
+Decidiu-se	que,	“em	se	tratando	de	execução	de	prestação	alimentícia,	a	aparente	antinomia	havida	entre
+o	art.	475-P	e	parágrafo	único	(e	também	o	art.	575,	II)	e	o	art.	100,	II,	todos	do	CPC	[de	1973,
+correspondentes,	respectivamente,	ao	art.	516	e	parágrafo	único	e	ao	art.
+53,	II	do	CPC/2015],	resolve-se	em	favor	do	reconhecimento	de	uma	regra	de	foro	concorrente,	que
+permite	ao	alimentando	escolher	entre:	(I)	o	foro	do	seu	domicílio	ou	residência;	(II)	o	Juízo	que	proferiu
+
+a	sentença	exequenda;	(III)	o	Juízo	do	local	onde	se	encontram	bens	do	alimentante,	sujeitos	à
+expropriação;	e	(IV)	o	Juízo	do	atual	domicílio	do	alimentante.	Na	hipótese,	é	competente	para	o
+processamento	da	execução	de	alimentos	o	foro	do	domicílio	ou	residência	do	alimentando,	eleito	por
+ele	para	o	ajuizamento	da	ação,	ainda	que	a	sentença	exequenda	tenha	sido	proferida	em	foro	diverso.
+Relativização	da	competência	funcional	prevista	no	art.	475-P	do	CPC	[de	1973,	correspondente	ao	art.
+516	do	CPC/2015].”
+(STJ,	CC	1
+[/PAGINA 114]
+
+[PAGINA 115]
+18.340/MS,	Rel.	Min.	Nancy	Andrighi,	2.ª	Seção,	j.	11.09.2013).
+IV.	Ações	indenizatórias	relativas	a	ilícitos	civis	ou	penais.	Regra	geral.	“A	norma	do	art.	100,	V,	a,
+parágrafo	único,	do	CPC	[do	CPC/1973,	correspondentes	ao	art.	53,	IV,	a	e	V	do	CPC/2015]	(	forum
+commissi	delicti)	refere-se	aos	delitos	de	modo	geral,	tanto	civis	quanto	penais”	(STJ,	EAg	783.280/RS,
+rel.	Min.	Nancy	Andrighi,	2.ª	Seção,	j.	23.02.2011).
+V.	Ação	relativa	a	acidente	de	veículos.	Na	ação	por	danos	decorrentes	de	acidente	de	veículos,	pode	o
+autor	optar	em	propor	a	demanda	no	foro	que	lhe	é	mais	conveniente,	tendo	a	faculdade	de	propor	a	ação
+no	foro	do	seu	próprio	domicílio,	no	foro	do	local	do	acidente	ou,	ainda,	no	foro	do	domicílio	do	réu,	nos
+termos	do	art.	53,	V,	do	CPC/2015	(correspondente	ao	art.	100,	parágrafo	único,	do	CPC/1973,	cf.	STJ,
+CC	106.676/RJ,	2.ª	Seção,	j.	14.10.2009,	rel.	Min.	Fernando	Gonçalves).	Cf.
+também	STJ,	REsp	(repetitivo)	1.357.813/RJ,	nota	jurisprudencial	supra.
+VI.	Ação	de	reparação	de	danos,	responsabilidade	contratual	e	foro	de	eleição.	Decidiu-se	que	“a
+competência	para	a	ação	que	visa	à	reparação	de	danos,	fundada	em	responsabilidade	contratual	ou
+extracontratual,	deve	ser	proposta	no	local	onde	se	produziu	o	dano	não	no	domicílio	do	réu.	Trata-se,	no
+entanto,	de	competência	territorial	relativa	que,	portanto,	pode	ser	derrogada	por	contrato,	de	modo	a
+prevalecer	o	foro	de	eleição”	(STJ,	REsp	1.087.471/MT,	rel.	Min.	Sidnei	Beneti,	3ª
+T.,	j.	14.06.2011).	Sobre	a	cláusula	de	eleição	de	foro,	cf.	comentário	ao	art.	63	do	CPC/2015.
+VII.	Ação	de	arbitramento	de	honorários	advocatícios.	É	competente	o	foro	do	lugar	“onde	a
+obrigação	deve	ser	satisfeita,	para	a	ação	em	que	se	lhe	exigir	o	cumprimento”	(art.	100,	IV,	d	do
+CPC/1973,	correspondente	ao	art.	53,	III,	d	do	CPC/2015)	em	se	tratando	de	ação	de	arbitramento	de
+honorários	advocatícios:	“A	ação	de	arbitramento	de	honorários	possui	cunho	eminentemente
+condenatório,	não	obstante	a	ausência	de	certeza	acerca	da	existência	da	relação	contratual	também
+conferir-lhe	carga	declaratória.	Ante	a	ausência	de	eleição	de	foro	pelas	partes,	é	competente	para
+processar	e	julgar	a	ação	de	arbitramento	de	honorários,	em	processo	de	conhecimento,	o	foro	do	lugar
+em	que	a	obrigação	deve,	ou	devesse,	ser	satisfeita”	(STJ,	REsp	1.072.318/SP,	rel.	Min.	Nancy	Andrighi,
+3.ª	T.,	j.	07.04.2011).
+VIII.	Ação	movida	por	consumidor	contra	fornecedor.	Permite-se	o	reconhecimento,	ex	officio,	de
+nulidade	de	cláusula	de	eleição	de	foro	celebrada	em	contrato	de	adesão,	bem	como	a	remessa	dos	autos
+para	o	juízo	de	domicílio	do	réu	(cf.
+comentário	ao	art.	63	do	CPC/2015).	Semelhante	princípio	é	aplicado	no	caso	em	que	a	parte
+supostamente	mais	fraca	da	relação	de	direito	material	não	é	o	réu,	mas	o	autor	da	ação.	Assim,	nos
+casos	em	que	o	consumidor	ajuíza	ação	de	responsabilidade	civil	do	fornecedor	de	produtos	e	serviços,
+
+dispõe	o	art.	101,	I	da	Lei	8.078/1990	(CDC)	que	“a	ação	pode	ser	proposta	no	domicílio	do	auto
+[/PAGINA 115]
+
+[PAGINA 116]
+r”.
+Quanto	à	“ação	de	indenização	proposta	por	beneficiários	de	contrato	de	seguro	de	vida	celebrado	com
+fundação	pública	federal”,	cf.	STJ,	CC	37.681/SC,	2.ª	Seção,	rel.	Min.	Nancy	Andrighi;	em	relação	à
+ação	referente	a	perda	ou	extravio	de	bagagens,	cf.	STJ,	REsp	247.724/SP,	4.ª	T.,	rel.	Min.	Ruy	Rosado
+de	Aguiar;	em	se	tratando	de	ação	relacionada	à	prestação	de	serviços	médicos,	cf.	STJ,	CC	23.921/SC,
+2.ª	Seção,	rel.	Min.	Waldemar	Zveiter;	quanto	à	obrigação	de	indenizar	oriunda	de	contrato	de	seguro,	cf.
+STJ,	REsp	193.327/MT,	4.ª	T.,	rel.	Min.	Ruy	Rosado	de	Aguiar;	em	relação	a	ação	de	revisão	de
+aposentadoria	ajuizada	contra	plano	de	previdência	privada,	cf.	STJ,	CC	78.765/SP,	2.ª	Seção,	j.
+26.03.2008,	rel.	Min.	Sidnei	Beneti.	Decidiu-se	que	“a	coleta	de	sangue	de	doador,	exercida	pelo
+hemocentro	como	parte	de	sua	atividade	comercial,	configura-se	como	serviço	para	fins	de
+enquadramento	no	Código	de	Defesa	do	Consumidor,	de
+sorte	que	a	regra	de	foro	privilegiado	prevista	no	art.	101,	I,	se	impõe	para	efeito	de	firmar	a
+competência	do	foro	do	domicílio	da	autora	para	julgar	ação	indenizatória	por	dano	moral	em	razão	de
+alegado	erro	no	fornecimento	de	informação	sobre	doença	inexistente	e	registro	negativo	em	bancos	de
+sangue	do	país”	(STJ,	REsp	540.922/PR,	4.ª	T.,	j.	15.09.2009,	v.u.,	rel.
+Min.	Aldir	Passarinho	Junior).
+IX.	Ação	de	indenização	proposta	por	dependente	de	trabalhador	falecido	em	acidente	de	trabalho.
+Estabelecia	a	Súmula	366	do	STJ	que	“compete	à	Justiça	estadual	processar	e	julgar	ação	indenizatória
+proposta	por	viúva	e	filhos	de	empregado	falecido	em	acidente	de	trabalho”.	A	jurisprudência	do	STF,	no
+entanto,	firmou-se	no	sentido	de	que	a	competência	para	julgar	tais	ações	é	da	Justiça	do	Trabalho:	“A
+competência	para	julgar	ações	de	indenização	por	danos	morais	e	materiais	decorrentes	de	acidente	de
+trabalho,	após	a	edição	da	EC	45/04,	é	da	Justiça	do	Trabalho.	(.	.).	O
+ajuizamento	da	ação	de	indenização	pelos	sucessores	não	altera	a	competência	da	Justiça	especializada.
+A	transferência	do	direito	patrimonial	em	decorrência	do	óbito	do	empregado	é	irrelevante”	(STF,	CC
+7.545,	Pleno,	j.	03.06.2009,	rel.	Min.	Eros	Grau).	Diante	disso,	o	STJ	cancelou	a	Súmula	mencionada	(cf.
+STJ,	CC	101.977/SP,	Corte	Especial,	j.	16.09.2009,	rel.	Min.	Teori	Albino	Zavascki).
+X.	Ação	indenizatória	relativa	a	danos	morais	decorrentes	de	matéria	publicada	na	internet.	Nos
+casos	de	ação	de	indenização	referente	a	danos	morais,	nem	sempre	é	possível	definir,	com	precisão,	o
+“lugar	do	ato	ou	fato”	(art.	53,	IV,	do	CPC/2015).	P.ex.,	em	se	tratando	de	lesão	decorrente	de	matéria
+jornalística,	considerase	“lugar	do	ato	ou	fato”	aquele	“em	que	residem	e	trabalham	as	pessoas
+prejudicadas”	(STJ,	REsp	191.169/DF,	4.ª	T.,	rel.	Min.	Aldir	Passarinho	Júnior),	já	que	é	nessa
+localidade	que	“houve	a	repercussão	efetiva	da	notícia”	(STJ,	REsp	509.203/AL,	3.ª	T.,	rel.	Min.	Carlos
+Alberto	Menezes	Direito).	Aplica-se	a	mesma	orientação	à	hipótese	em	que	a	matéria
+[/PAGINA 116]
+
+[PAGINA 117]
+é	divulgada	na
+internet	(STJ,	AgRg	no	Ag	965.530/RJ,	4.ª	T.,	j.	05.08.2008,	rel.	Min.	Aldir	Passarinho	Júnior).	Em	se
+tratando	de	mensagens	eletrônicas	(	e-mail)	difamatórias,	admite-se	o	ajuizamento	de	ação	contra	o
+provedor	detentor	dos	dados	cadastrais	do	autor	de	tais	mensagens	(STJ,	REsp	1.068.904/RS,	rel.
+Min.	Massami	Uyeda,	3.ª	T.,	DJe	30.03.2011).	Decidiu-se	que,	em	razão	de	não	haver	lei	que
+regulamente	a	jurisdição	no	ciberespaço,	a	ação	pode	ser	promovida	no	foro	do	local	onde	ocorreu	o	ato
+ou	fato,	mesmo	que	a	ré	seja	pessoa	jurídica	com	sede	em	outro	lugar,	pois	é	no	local	em	que	reside	e
+trabalha	a	pessoa	supostamente	prejudicada,	que	o	evento	negativo	terá	maior	repercussão	(STJ,	REsp
+1.168.547/RJ,	j.	06.04.2010,	rel.	Min.	Luis	Felipe	Salomão).	Assenta-se	o	julgado	citado	nos	seguintes
+
+fundamentos,	dentre	outros:	“A	origem	da	internet,	além	de	seu	posterior	desenvolvimento,	ocorre	em	um
+ambiente	com	características	de	autorregulação,	pois	os	padrões	e	as	regras	do	sistema	não	emanam,
+necessariamente,	de	órgãos	estatais,	mas	de	entidades	e	usuários	que	assumem	o	desafio	de	expandir	a
+rede	globalmente.	A	questão	principal	relaciona-se	à	possibilidade	de	pessoa	física,	com	domicílio	no
+Brasil,	invocar	a	jurisdição	brasileira,	em	caso	envolvendo	contrato	de	prestação	de	serviço	contendo
+cláusula	de	foro	na	Espanha.	A	autora,	percebendo	que	sua	imagem	está	sendo	utilizada	indevidamente
+por	intermédio	de	sítio	eletrônico	veiculado	no	exterior,	mas	acessível	pela	rede	mundial	de
+computadores,	ajuíza	ação	pleiteando	ressarcimento	por	danos	material	e	moral.	Os	artigos	100,	inciso
+IV,	alíneas	b	e	c	c/c	art.	12,	incisos	VII	e	VIII,	ambos	do	CPC	[de	1973,	correspondentes,
+respectivamente,	aos	arts.	53,	III,	b	e	c	c/c	art.	75,	VIII	e	IX
+do	CPC/2015],	devem	receber	interpretação	extensiva,	pois	quando	a	legislação	menciona	a	perspectiva
+de	citação	de	pessoa	jurídica	estabelecida	por	meio	de	agência,	filial	ou	sucursal,	está	se	referindo	à
+existência	de	estabelecimento	de	pessoa	jurídica	estrangeira	no	Brasil,	qualquer	que	seja	o	nome	e	a
+situação	jurídica	desse	estabelecimento.	(.	.)	O	exercício	da	jurisdição,	função	estatal	que	busca
+composição	de	conflitos	de	interesse,	deve	observar	certos	princípios,	decorrentes	da	própria
+organização	do	Estado	moderno,	que	se	constituem	em	elementos	essenciais	para	a	concretude	do
+exercício	jurisdicional,	sendo	que	dentre	eles	avultam:	inevitabilidade,	investidura,	indelegabilidade,
+inércia,	unicidade,	inafastabilidade	e	aderência.	No	tocante	ao	princípio	da	aderência,	especificamente,
+este	pressupõe	que,	para	que	a	jurisdição	seja	exercida,	deve	haver	correlação	com	um	território.	Assim,
+para	as	lesões	a	direitos	ocorridos	no	âmbito	do	território	brasileiro,	em	linha	de	princípio,	a	autoridade
+judiciária	nacional	detém	competência	para	processar	e	julgar	o	litígio.	O	art.	88	do	CPC	[de	1973,
+correspondente	ao	art.	21	do	CPC/2015],	mitigando	o	princípio	da	aderência,	cuida	das	hipóteses	de
+jurisdição	conc
+[/PAGINA 117]
+
+[PAGINA 118]
+orrente	(cumulativa),	sendo	que	a	jurisdição	do	Poder	Judiciário	Brasileiro	não	exclui	a
+de	outro	Estado,	competente	a	justiça	brasileira	apenas	por	razões	de	viabilidade	e	efetividade	da
+prestação	jurisdicional,	estas	corroboradas	pelo	princípio	da	inafastabilidade	da	jurisdição,	que	imprime
+ao	Estado	a	obrigação	de	solucionar	as	lides	que	lhe	são	apresentadas,	com	vistas	à	consecução	da	paz
+social.	(.	.).	Quando	a	alegada	atividade	ilícita	tiver	sido	praticada	pela	internet,	independentemente	de
+foro	previsto	no	contrato	de	prestação	de	serviço,	ainda	que	no	exterior,	é	competente	a	autoridade
+judiciária	brasileira	caso	acionada	para	dirimir	o	conflito,	pois	aqui	tem	domicílio	a	autora	e	é	o	local
+onde	houve	acesso	ao	sítio	eletrônico	onde	a	informação	foi	veiculada,	interpretando-se	como	ato
+praticado	no	Brasil,	aplicando-se	à	hipótese	o	disposto	no	art.	88,	III,	do	CPC	[de	1973,	correspondente
+ao	art.	21,	III	do	CPC/2015].”
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+Livro	II.	DA	FUNÇÃO	JURISDICIONAL
+TÍTULO	III.	DA	COMPETÊNCIA	INTERNA	Capítulo	I.	DA	COMPETÊNCIA	Seção	II.	Da	modificação
+da	competência	Seção	II
+
+Da	modificação	da	competência	Art.	54.	A	competência	relativa	poderá	modificar-se	pela	conexão	ou
+pela	continência,	observado	o	disposto	nesta	Seção.
+CPC/1973:	Art.	102	(correspondente).
+Modificação	da	competência	relativa.	O	Código	regula	hipóteses	de	modificação	de	competência
+relativa,	o	mesmo	não	valendo	para	competência	absoluta.	Assim,	por	exemplo,	“o	foro	da	situação	da
+coisa	é	absolutamente	competente	para	conhecer	de	ação	fundada	em	direito	possessório	sobre	imóveis.
+Por	força	da	interpretação	sistemática	dos	arts.	95,	in	fine,	e	102	[do	CPC/1973,	correspondentes	aos
+arts.	47	e	54	do	CPC/2015],	a	competência	do	foro	da	situação	do	imóvel	não	pode	ser	modificada	pela
+conexão	ou	continência.	É	irrelevante,	portanto,	que	anteriormente	ao	ajuizamento	da	ação	possessória
+pelo	adquirente	do	bem	tenha	sido	ajuizada	outra	ação,	pelos	alienantes,	em	que	se	busca	questionar	a
+causa	que	ensejou	a	transferência	da	propriedade	dos	bens”	(STJ,	REsp	660.094/SP,	3.ª	T.,	rel.	Min.
+Nancy	Andrighi,	RT	868/192).	Sobre	a	definição	de	conexão,	cf.	comentário	ao	art.	55	do	CPC/2015;
+sobre	a	definição	de	continência,	cf.	comentário	ao	art.	56	do	CPC/2015.
+Art.	55.	Reputam-se	conexas	duas	ou	mais	ações	quando	lhes	for	comum	o	pedido	ou	a	causa	de	pedir.
+§	1º	Os	processos	de	ações	conexas	serão	reunidos	para	decisão	conjunta,	salvo	se	um	deles	já	houver
+sido	sentenciado.
+§	2º	Aplica-se	o	disposto	no	caput:	I	-	à	execução	de	título	extrajudicial	e	à	ação	de	conhecimento
+relativa	ao	mesmo	ato	jurídico;	II	-	às	execuções	fundadas	no	mesmo	título	executivo.
+§	3º	Serão	reunidos	para	julgamento	conjunto	os	processos	que	possam	gerar	risco	de	prolação	de
+decisões	conflitantes	ou	contraditórias	caso	decididos	separadamente,	mesmo	sem
+[/PAGINA 118]
+
+[PAGINA 119]
+conexão	entre	eles.
+CPC/1973:	Art.	103	(correspondente).
+V.	arts.	7.º,	§§	2.º	e	3.º,	56	e	202,	§	1.º,	Dec.-lei	7.661/1945	(Lei	de	Falências,	revogada	pela	Lei
+11.101/2005,	mas	aplicável	aos	processos	iniciados	antes	do	início	da	vigência	desta	Lei),	e	arts.	6.º,	§
+8.º,	76	e	134,	Lei	11.101/2005	(Nova	Lei	de	Recuperação	e	Falência).
+•	STJ,	Súmula	235:	A	conexão	não	determina	a	reunião	dos	processos,	se	um	deles	já	foi	julgado.
+•	STJ,	Súmula	383:	A	competência	para	processar	e	julgar	as	ações	conexas	de	interesse	de	menor	é,
+em	princípio,	do	foro	do	domicílio	do	detentor	de	sua	guarda.
+•	FPPC,	Enunciado	237:	O	rol	do	art.	55,	§	2.º,	I	e	II	[do	CPC/2015],	é	exemplificativo.
+SUMÁRIO:	I.	Relação	entre	causas.	Conexão	–	II.	Risco	de	prolação	de	decisões	contraditórias	e
+reunião	de	ações	para	julgamento	conjunto	–	III.	“Conexão	por	prejudicialidade”	–	IV.	Conexão	para	a
+reconvenção	–	V.	Identidade	entre	pedido	e	causa	de	pedir	em	ações	coletivas:	litispendência	ou
+conexão?	–	VI.	Mandados	de	segurança	com	mesmos	pedido	e	causa	de	pedir	e	autoridades	coatoras
+diversas.
+I.	Relação	entre	causas.	Conexão.	Para	que	ocorra	conexão,	basta	que	em	meio	às	ações	haja
+identidade	entre	pedido	ou	causa	de	pedir	(CPC/2015,	art.	55,	caput),	sendo	desnecessário	que	as	partes
+sejam	idênticas.	A	jurisprudência,	à	luz	do	art.
+
+103	do	CPC/1973	(correspondente	ao	art.	55	do	CPC/2015),	dava	sentido	amplíssimo	ao	conceito	legal,
+alargando-o	para	permitir	a	reunião	de	causas	sempre	que	houvesse	alguma	afinidade	que	justificasse	o
+julgamento	conjunto:	“A	conexão	pressupõe	a	existência	de	causas	que,	embora	não	sejam	iguais,
+guardam	entre	si	algum	vínculo,	uma	relação	de	afinidade,	o
+que	denota	que	o	alcance	da	regra	de	conexão	tem	sido	alargado,	de	modo	a	se	interpretar	o	vocábulo
+‘comum’,	contido	no	texto	legal,	como	uma	indicação	do	legislador	de	que,	para	caracterizar	a	conexão,
+seria	desnecessária	a	identidade	total	dos	elementos	da	ação,	bastando	tão	somente	uma	identidade
+parcial”	(STJ,	REsp	1.226.016/RJ,	3.ª	T.,	j.	15.03.2011,	rel.	Min.	Nancy	Andrighi).	Assim,	p.	ex.,	há
+conexão	“entre	a	ação	de	busca,	apreensão	e	restituição	e	a	ação	de	reconhecimento	de	paternidade
+socioafetiva	cumulada	com	posse	e	guarda,	ambas	com	o	mesmo	objeto	comum,	qual	seja,	a	guarda	do
+menor”
+(STJ,	CComp	100.345/RJ,	2.ª	Seção,	j.	11.02.2009,	rel.	Min.	Luis	Felipe	Salomão).	Essa	orientação
+jurisprudencial	ajusta-se	ao	modo	como	devem	ser	compreendidos,	a	nosso	ver,	os	elementos	que
+identificam	a	ação	(partes,	objeto	e	causa	de	pedir;	cf.
+comentário	ao	art.	337	do	CPC/2015,	a	respeito	das	teorias	da	tríplice	identidade	e	da	identidade	da
+relação	jurídica	material).
+II.	Risco	de	prolação	de	decisões	contraditórias	e	reunião	de	ações	para	julgamento	conjunto.	A
+jurisprudência,	à	luz	do	CPC/1973,	dava	sentido	amplíssimo	à	conexão:	“não	precisa	ser	absoluta	a
+identidade	entre	os	objetos	ou	as	causas	de	pedir	das	ações	tidas	por	conexas.	Basta	existir	liame	que
+torne	necessário	o	julgamento	unificado	d
+[/PAGINA 119]
+
+[PAGINA 120]
+as	demandas”	(STJ,	REsp	780.509/MG,	4.ª	T.,	j.	25.09.2012,
+rel.	Min.	Raul	Araújo,).	O	CPC/2015,	embora	não	tenha	modificado	o	conceito	legal	de	conexão,	se
+comparado	com	o	Código	revogado,	estabeleceu	que,	havendo	risco	de	decisões	contraditórias,	justifica-
+se	a	reunião	de	ações	para	que	sejam	julgadas	em	conjunto	(cf.	art.	55,	§	3.º,	do	CPC/2015).	Trata-se	de
+solução	que	ajusta-se	não	apenas	à	ideia	de	segurança	jurídica	–	já	que	é	desejável	que	haja	coerência
+entre	julgados	que	versem	sobre	ações	que	tenham	alguma	afinidade	–	e,	também,	à	de	economia
+processual,	já	que	pode	se	permitir	a	realização	de	atos	processuais	que	possam	ser	aproveitadas	por
+duas	ou	mais	ações.
+III.	“Conexão	por	prejudicialidade”	.	Embora	inexista,	no	sentido	mais	restrito	do	art.	55,	caput,	do
+CPC/2015,	conexão	entre	ação	de	conhecimento	relacionada	à	determinada	dívida	e	a	ação	de	execução
+do	título	executivo	oriundo	da	mesma	relação	de	direito	material,	aplica-se	a	referida	disciplina	legal
+também	a	essa	hipótese	(cf.	§	2.º	do	art.	55	do	CPC/2015,	cujo	rol	é	exemplificativo,	cf.	Enunciado	237
+do	FPPC,	nota	supra).	Afirma-se	que,	no	caso,	há	“conexão	por	prejudicialidade”,	o	que	justifica	a
+reunião	de	tais	causas	(nesse	sentido,	STJ,	CComp	95.840/SP,	1.ª	Seção,	j.	24.09.2008,	rel.	Min.	Mauro
+Campbell	Marques;	STJ,	REsp	899.979/SP,	1.ª	T.,	j.	23.09.2008,	rel.	Min.	Teori	Zavascki).	Sobre	o
+tema,	cf.,	amplamente,	Olavo	de	Oliveira	Neto,	Conexão	por	prejudicialidade,	passim.	No	mesmo
+sentido:	“Na	espécie,	há	estrito	liame	de	conexão	entre	a	ação	de	execução	das	notas	promissórias	e	a
+ação	declaratória	de	inexistência	de	relação	obrigacional,	a	determinar,	em	nome	da	segurança	jurídica	e
+da	economia	processual,	a	reunião	dos	processos”	(STJ,	REsp	1.169.422/AL,	3.ª	T.,	rel.	Min.	Massami
+Uyeda,	DJe	22.06.2012).	Evidentemente,	a	reunião	só	pode	ocorrer	em	caso	de	competência	relativa,
+“seja	porque	a	conexão	não	possibilita	a	modificação	da	competência	absoluta,	seja	porque	é	vedada	a
+cumulação	em	juízo	incompetente	para	apreciar	uma	das	demandas”	(STJ,	CComp	106.041/SP,	1.ª	Seção,
+j.	28.10.2009,	rel.	Min.	Castro	Meira).
+
+IV.	Conexão	para	a	reconvenção.	A	conexão	referida	no	art.	55	do	CPC/2015	é	subjetivamente	similar
+àquela	que	se	exige	para	a	admissibilidade	de	reconvenção	(já	que,	nesse	caso,	a	reconvenção	deve	ser
+apresentada	pelo	réu	em	litisconsórcio	com	terceiro	ou	contra	o	autor	e	terceiro,	cf.	art.	343,	§§	3.º	e	4.º,
+do	CPC/2015).	Admite-se,	contudo,	reconvenção	com	base	em
+“fundamento	da	defesa”,	nos	termos	do	art.	343,	caput,	do	CPC/2015	(p.	ex.,	compensação	alegada	na
+contestação),	o	que	não	se	amolda,	propriamente,	à	conexão	a	que	se	refere	o	art.	55,	caput,	do
+CPC/2015.	As	variações	previstas	nos	§§	do	art.	55	do	CPC/2015,	a	que	nos	referimos	acima,	contudo,
+permitem	entrever	que	há,	também	objetivamente	(isso	é,	do	sob	o	prisma	dos	litígios	que	serão
+julgados)	uma	semelhança	de	tratamento	entre	as	figuras.
+V.	Identidade	entre	pedido	e	causa	de	pedir	em	ações	c
+[/PAGINA 120]
+
+[PAGINA 121]
+oletivas:	litispendência	ou	conexão?	Nas
+ações	“individuais”,	em	princípio,	há	correspondência	entre	a	parte	que	figura	no	processo	e	o	titular	do
+direito	material	(cf.	comentário	ao	art.
+18	do	CPC/2015).	Diferentemente	ocorre	nas	ações	coletivas,	em	que	não	existe	esta	correspondência,
+podendo	haver	o	ajuizamento	de	várias	ações	coletivas,	por	autores	(processuais)	diferentes,	com	o
+intuito	de	proteger	o	mesmo	direito	material	–	ao	qual	correspondem,	portanto,	os	mesmos	titulares	de
+direito	subjetivo	(como,	p.ex.,	ações	civis	públicas	movidas	por	associações	diferentes,	ou	por	uma
+associação	e	pelo	Ministério	Público,	para	a	defesa	dos	mesmos	direitos	individuais	homogêneos,	ou	do
+mesmo	direito	difuso).	Caso	se	procure	adaptar	tal	situação	ao	que	prevê	o	Código	de	Processo	Civil,
+notar-se-á	que	a	figura	se	aproxima	da	conexão,	já	que	não	há	identidade	de	partes	processuais,	embora
+sejam	os	mesmos	os	pedidos	e	as	causas	de	pedir	das	ações	(a	respeito,	cf.	Teresa	Arruda	Alvim
+Wambier,	Litispendência	em	ações	coletivas,	in	Processo	civil	coletivo,	p.	279	ss.).	Sob	outro	ponto	de
+vista,	porém,	parece	que	a	figura	mais	se	ajusta	à	litispendência,	já	que	a	titularidade	material	do	direito
+posto	em	juízo	é	a	mesma,	nas	duas	ações.	“Para	a	configuração	do	instituto	da	litispendência	em	ações
+coletivas,	deve-se	levar	em	conta	os	beneficiários	da	tutela	pleiteada	e	não	o	substituto	processual	que
+figura	no	polo	ativo,	para	fins	de	verificação	da	identidade	de	partes	no	processo”	(STJ,	AgRg	na	MC
+14.216/RS,	3.ª	Seção,	j.	08.10.2008,	rel.	Min.	Napoleão	Nunes	Maia	Filho;	no	mesmo	sentido,	STJ,
+REsp	1.168.391/SC,	2.ª	T.,	j.	20.05.2010,	rel.	Min.	Eliana	Calmon).	Nesse	caso,	notando-se	que	as
+sentenças	a	serem	proferidas	nas	duas	ações	coletivas	terão	a	mesma	abrangência,	deverão	as	causas	ser
+reunidas	para	julgamento	conjunto.	Ex.:	“Havendo	causa	de	modificação	da	competência	relativa
+decorrente	de	conexão,	mediante	requerimento	de	qualquer	das	partes,	esta	Corte	Superior	tem	admitido
+a	suscitação	de	conflito	para	a	reunião	das	ações	propostas	em	separado,	a	fim	de	que	sejam	decididas
+conjuntamente	(	simultaneus	processus)	e	não	sejam	proferidas	decisões	divergentes,	em	observância
+aos	princípios	da	economia	processual	e	da	segurança	jurídica.	A	tutela	coletiva	de	interesses
+individuais	homogêneos	de	âmbito	nacional	atribui	à	sentença	a	mesma	eficácia,	de	modo	a	proteger	o
+direito	em	sua	integralidade,	ficando	o	juízo	onde	foi	ajuizada	a	primeira	ação	prevento	para	as	ações
+conexas	em	que	detiver	competência,	nos	termos	do	art.	2.º,	parágrafo	único,	da	Lei	7.347/1985.
+Ajuizadas	seis	ações	civis	públicas	e	uma	ação	cautelar	preparatória	visando	à	tutela	coletiva	de
+interesse	de	amplitude
+nacional,	em	que	se	pretende	a	alteração	da	norma	(edital)	que	rege	a	relação	jurídica	do	grupo	de
+participantes	do	Enem	com	a	União	e	o	Inep,	autarquia	federal	vinculada	ao	Ministério	da	Educação,
+impõe-se	ordenar	a	reunião	das	ações	conexas	propostas	em	separado,	a	fim	de	que
+[/PAGINA 121]
+
+[PAGINA 122]
+sejam	decididas
+simultaneamente	pelo	juízo	federal	prevento”	(STJ,	CComp	115.532/MA,	1.ª	Seção,	j.	14.03.2011,	rel.
+
+Min.	Hamilton	Carvalhido).	Cf.,	na	nota	jurisprudencial	ao	art.	58	do	CPC/2015,	Súmula	489	do	STJ.
+VI.	Mandados	de	segurança	com	mesmos	pedido	e	causa	de	pedir	e	autoridades	coatoras	diversas.
+Algo	similar	ao	que	se	disse	acima	ocorre	em	relação	ao	mandado	de	segurança.	A	autoridade	coatora
+contra	a	qual	se	dirige	o	mandado	de	segurança	não	é	parte,	mas	apenas	representa	a	pessoa	jurídica	de
+direito	público	responsável	pelo	ato	(cf.	o	que	escrevemos	em	coautoria	com	Fábio	Caldas	de	Araújo	em
+Mandado	de	segurança	individual	e	coletivo,	cit.).	Assim,	“não	é	possível	repetir	mandado	de
+segurança	contra	um	mesmo	ato,	já	denegado,	apenas	pelo	fato	de	ser	dirigido	à	autoridade	que,	embora
+tenha	seu	âmbito	de	atuação	territorial	diverso	do	primeiro,	represente	o	mesmo	ente	público”	(STJ,
+REsp	1.120.000/SP,	1.ª	T.,	j.
+17.08.2010,	rel.	Min.	Benedito	Gonçalves).
+Art.	56.	Dá-se	a	continência	entre	2	(duas)	ou	mais	ações	quando	houver	identidade	quanto	às	partes	e	à
+causa	de	pedir,	mas	o	pedido	de	uma,	por	ser	mais	amplo,	abrange	o	das	demais.
+CPC/1973:	Art.	104	(correspondente).
+Continência	e	litispendência	parcial.	Na	continência	há	identidade	integral	entre	partes	e	causas	de
+pedir	de	duas	ações.	O	pedido	realizado	em	uma	das	ações,	porém,	é	mais	amplo	que	o	pedido	feito	na
+outra.	No	caso,	haverá	litispendência	parcial	(STJ,	RMS	24.196/ES,	5.ª	T.,	rel.	Min.	Felix	Fischer),	já
+que	“uma	ação	está	contida	na	outra”	(STJ,	REsp	627.975/PB,	1.ª	T.,	rel.	Min.	Luiz	Fux).	Cf.	comentário
+ao	art.	57	do	CPC/2015.
+Art.	57.	Quando	houver	continência	e	a	ação	continente	tiver	sido	proposta	anteriormente,	no	processo
+relativo	à	ação	contida	será	proferida	sentença	sem	resolução	de	mérito,	caso	contrário,	as	ações	serão
+necessariamente	reunidas.
+CPC/1973:	Art.	105	(correspondente).
+Reunião	de	causas	ou	extinção	da	segunda	ação	ajuizada.	Havendo	continência,	de	duas,	uma:	se	mais
+abrangente	o	pedido	veiculado	na	primeira	ação,	deverá	a	segunda	ser	extinta;	diversamente,	sendo	o
+segundo	pedido	mais	abrangente,	devem-se	reunir	as	causas,	havendo	que	ser	parcialmente	extinta	a
+segunda	ação.	Se	houver	identidade	entre	partes	e	causas	de	pedir,	mas	os	pedidos	forem	diferentes	(isto
+é,	não	havendo	sequer	identidade	parcial	entre	os	pedidos),	tratar-se-á	de	conexão,	e	não	de	continência.
+Art.	58.	A	reunião	das	ações	propostas	em	separado	far-se-á	no	juízo	prevento,	onde	serão	decididas
+simultaneamente.
+CPC/1973:	Art.	106	(correspondente).
+•	STJ,	Súmula	235:	A	conexão	não	determina	a	reunião	dos	processos,	se	um	deles	já	foi	julgado.
+•	STJ,	Súmula	489:	Reconhecida	a	continência,	devem	ser	reunidas	na	Justiça	Federal	as	ações	civis
+públicas	propostas	nesta	e	na	Justiça	estadual.
+SUMÁRIO:	I.	Prevenção	–	II.	Obrigatoriedade	da	reunião	de	causas	perante	o	juízo	prevento.
+I.	Prevenção.	Os	elementos	que	identificam	a	ação	são	partes,	causa	de	pedir	(próxima	e	remota)	e
+[/PAGINA 122]
+
+[PAGINA 123]
+pedido	(imediato	e	mediato)	(art.	337,	§	2.º,	do	CPC/2015).	Reconhecida	a	presença	destes	elementos,
+permite-se	saber	se	com	esta	ação	se	relaciona	outra,	justificando	a	reunião	das	mesmas	(em	caso	de
+conexão	ou	de	continência)	ou,	sendo	o	caso,	a	extinção	da	segunda	delas	(havendo	litispendência	ou
+coisa	julgada).	Nas	hipóteses	em	que	há	relação	entre	causas	(conexão,	continência,	acessoriedade	etc.),
+torna-se	relevante	a	identificação	do	juízo	prevento,	isto	é,	o	juízo	para	o	qual	deverão	ser	distribuídas
+as	demais	causas	relacionadas	à	primeira	que	tiver	sido	ajuizada.	A	questão	tem	importância	apenas
+quando	dois	ou	mais	órgãos	têm,	abstratamente,	competência	relativa	para	julgar	a	ação.	Assim,	não	é	o
+caso	de	reunião	das	causas	perante	o	juízo	prevento	se	os	autos	tiverem	que	ser	remetidos	para	juízo	que
+detém	competência	absoluta	(cf.	STJ,	CComp	100.345/RJ,	2.ª	Seção,	j.	11.02.2009,	rel.	Min.	Luis	Felipe
+Salomão).	Em	observância	a	esse	princípio,	o	STJ	editou	a	Súmula	489,	com	o	seguinte	teor:
+“Reconhecida	a	continência,	devem	ser	reunidas	na	Justiça	Federal	as	ações	civis	públicas	propostas
+nesta	e	na	Justiça	estadual”.	Sobre	o	critério	para	a	definição	da	prevenção,	cf.	comentário	ao	art.	59	do
+CPC/2015.
+II.	Obrigatoriedade	da	reunião	de	causas	perante	o	juízo	prevento.	A	reunião	de	causas	conexas	para
+julgamento	tem	por	finalidade	propiciar	a	prolação	de	decisões	coerentes	e	harmônicas	entre	si.	Diante
+de	tal	circunstância,	não	se	permite	ao	juiz	deixar	de	determinar	a	reunião	de	causas	(cf.	§	1.º	do	art.	55
+do	CPC/2015;	nesse	sentido,	à	luz	do	CPC/1973,	já	se	decidia:	STJ,	CComp	95.868/RJ,	1.ª	Seção,	j.
+13.08.2008,	rel.	Min.	Teori	Albino	Zavascki).	À	luz	do	art.	105	do	CPC/1973,	preponderava	o
+entendimento	de	que	o	juiz	teria	faculdade	de	discricionariamente,	reunir	ou	não	as	ações	(STJ,	REsp
+5.270/SP,	4.ª	T.,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	no	mesmo	sentido,	STJ,	REsp	1.087.783/RJ,
+rel.	Min.	Nancy	Andrighi,	3.ª
+T.,	j.	01.09.2009).	Essa	orientação,	à	luz	do	CPC/2015,	resta	ultrapassada.	Com	efeito,	dispõe	o	§	1.º	do
+art.	55	do	CPC/2015	que
+“os	processos	de	ações	conexas	serão	reunidos	para	decisão	conjunta”.	Note-se,	porém,	que	a	finalidade
+da	regra	somente
+será	alcançada	se	as	causas	estiverem	tramitando	em	fases	processuais	similares.	Não	sendo	assim,	não
+se	justificará	a	reunião	das	ações.	Nesse	sentido,	dispõe	a	Súmula	235	do	STJ	que	“a	conexão	não
+determina	a	reunião	dos	processos,	se	um	deles	já	foi	julgado”.	A	reunião	de	causas	poderá	ser
+determinada	pelo	juiz	de	ofício	ou	a	requerimento	das	partes.
+Art.	59.	O	registro	ou	a	distribuição	da	petição	inicial	torna	prevento	o	juízo.
+CPC/1973:	Arts.	106	e	219,	caput	(correspondentes,	em	parte).
+V.	art.	202,	§	1.º,	Dec.-lei	7.661/1945	(Lei	de	Falências,	revogada	pela	Lei	11.101/2005,	mas	aplicável
+aos	processos	iniciados	antes	do	início	da	vigência	desta	Lei);	e	art.	6.º,	§	8.º,	Lei	11.101/2005	(Nova
+Lei	de	Recuperação	e	Falência).
+Regra	para	a	definição	do	juízo	prevento.	O	CP
+[/PAGINA 123]
+
+[PAGINA 124]
+C/1973	previa	dois	critérios	para	a	definição	do	juízo
+prevento:	em	se	tratando	de	ações	ajuizadas	perante	juízos	com	a	mesma	competência	territorial,	o	juízo
+prevento	seria	aquele	que	despachou	em	primeiro	lugar	(art.	106	do	CPC/1973);	se	de	competência
+territorial	diversa,	aquele	em	que	antes	ocorreu	a	citação	(art.	219	do	CPC/1973;	cf.	STJ,	CC	1.395/SP,
+2.ª	Seção,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	O	CPC/2015	prevê	uma	única	regra	para	ambas	as
+hipóteses,	mais	simples,	ao	dispor	que	o	registro	ou	a	distribuição	da	petição	inicial	torna	prevento	o
+
+juízo	(art.	59	do	CPC/2015).	Algo	parecido	já	se	previa,	p.ex.,	no	art.	6.º,	§	8.º,	da	Lei	11.101/2005.
+Art.	60.	Se	o	imóvel	se	achar	situado	em	mais	de	um	Estado,	comarca,	seção	ou	subseção	judiciária,	a
+competência	territorial	do	juízo	prevento	estender-se-á	sobre	a	totalidade	do	imóvel.
+CPC/1973:	Art.	107	(correspondente).
+Imóvel	situado	em	mais	de	um	Estado,	comarca	ou	seção	judiciária.	Em	se	tratando	de	ação	referente
+a	imóvel,	nos	termos	do	art.	47	do	CPC/2015,	é	competente	o	foro	da	situação	da	coisa.	Se	esta,	porém,
+extrapolar	os	limites	territoriais	da	competência	de	um	órgão	jurisdicional,	estendendo-se	por	dois	ou
+mais	juízos,	o	foro	competente	será	determinado	pela	prevenção	(nesse	sentido,	STJ,	CComp	39.766/BA,
+2.ª	Seção,	j.	25.08.2004,	rel.	Min.	Antônio	de	Pádua	Ribeiro).	Aplica-se	a	regra,	por	analogia,	quando
+imprecisos	os	limites	territoriais	das	unidades	jurisdicionais	(cf.	STJ,	CComp	9.981/GO,	2.ª	Seção,	j.
+30.11.1994,	rel.	Min.	Ruy	Rosado	de	Aguiar).
+Art.	61.	A	ação	acessória	será	proposta	no	juízo	competente	para	a	ação	principal.
+CPC/1973:	Art.	108	(correspondente).
+Competência	e	“ação	acessória”	.	A	lei	processual	chama	de	“acessória”	a	ação	ajuizada	com	vistas	ao
+ajuizamento	de	outra	(assim,	p.	ex.,	o	pedido	de	tutela	provisória	antecedente,	cf.	art.	299	do	CPC/2015),
+ou	porque,	formalmente,	ligada	a	outra	(como	sucede,	p.	ex.,	com	os	embargos	de	terceiro,	que	ligam-se	à
+“ação	principal”,	cf.	art.	677,	§	3.º,	do	CPC/2015).	Egas	Dirceu	Moniz	de	Aragão	refere-se	a	obrigações
+principal	e	acessória	e,	por	consequência,	à	relação	entre	ação	principal	e	acessória.	É	o	que	acontece
+com	as	obrigações	solidárias,	uma	principal	e	outra	acessória:	“O	credor	cita	o	devedor	principal	em	seu
+propósito	domicílio,	e,	por	conexão	de	causas,	aí	também	cita	o	fiador,	embora	domiciliado	em	comarca
+diversa.
+Também	aqui	as	ações	e	causas	são	distintas,	por	diversidade	de	pessoas,	mas	o	título	da	demanda	e	a
+coisa	pretendida	são	comuns	a	uma	e	outra.	Mas	a	jurisdição	principal,	do	domicílio	do	devedor,	atrai	a
+ação	acessória	contra	o	fiador	e	não	permite	ao	autor	escolher.	E,	semelhantemente,	perante	o	Tribunal	do
+lugar	em	que	se	disputa	sobre	a	existência	e	sobre	a	extensão	do	débito,	será,	também,	citado,	por
+conexão	e	por	acessão	de	causas,	o	possuidor	do	imóvel	hipotecado,	toda	vez	que	da	existência	e	da
+extensão	do	débito	se	faça	depender	a	hipoteca”.	Semelhantemente,	em	relação	às	ações
+[/PAGINA 124]
+
+[PAGINA 125]
+de	garantia:
+“O	réu	da	causa	principal	chama,	por	conexão,	o	seu	garantidor	onde	quer	que	seja	domiciliado,	isto	é,
+aquele	que	o	deve	garantir	ou	mantê-lo	indene;	pois	o	título	produzido,	e	a	questão	promovida	pelo
+molestante	principal	contra	o	garantido,	reflete	também	sobre	o	garantidor,	ao	qual	o	garantido	pede,	por
+sua	vez,	nesta	ou	naquela	forma,	a	mesma	coisa.	Assim,	se	nas	duas	causas,	de	moléstia	e	de	garantia,	as
+pessoas	são	diversas,	em	ambas,	porém,	deduzem-se	eadem	quaestio	et	eadem	res.	É	verdade	que	entre
+o	garantido	e	garantidor	podem	intercorrer	questões	particulares;	mas	estas,	e	singularmente	a	própria
+questão	preliminar,	se	o	chamado	em	garantia	a	esta	esteja	realmente	sujeito,	obedecem,	na	qualidade	de
+controvérsias	acessórias	ou	incidentais,	a	competência	da	ação	principal”	(Conexão	e	“tríplice
+identidade”,	RePro	29/50).	Na	jurisprudência,	colhem-se	outros	exemplos:	“Se	a	ação	de	oferta	de
+alimentos	deriva	do	reconhecimento	da	paternidade,	está	claro	que	a	ação	acessória	é	a	primeira,	e	a
+principal	é	a	de	investigação	de	paternidade	c/c	alimentos”	(	RT	743/356);	“A	ação	anulatória	de	ato
+jurídico,	no	qual	se	pretende	a	declaração	de	nulidade	de	arrematação	por	vícios	insanáveis	praticados
+em	processo	de	execução,	deve	ser	ajuizada	e	processada	no	juízo	por	onde	correu	a	ação	executiva,
+
+pois,	dado	o	vínculo	de	acessoriedade	entre	aquela	e	a	ação	em	cujo	curso	se	praticou	o	ato	impugnado,
+incide	a	regra	do	art.	108	do	CPC	[de	1973,	correspondente	ao	art.	61	do	CPC/2015]”	(	RT	767/226);	“A
+ação	para	indenizar	o	dano	processual	é	oriunda	do	processo	em	que	ele	foi	produzido.	Quando	uma	ação
+é	oriunda	de	outra,	estabelece-se	entre	ambas	o	nexo	de	acessoriedade”	(	RT	603/52).
+É	o	que	sucede,	também,	em	relação	à	ação	anulatória	de	transação	homologada	judicialmente	(STJ,
+REsp	1150745/MG,	4.ª	T.,	j.	11.02.2014,	rel.	Min.	Marco	Buzzi).
+Art.	62.	A	competência	determinada	em	razão	da	matéria,	da	pessoa	ou	da	função	é	inderrogável	por
+convenção	das	partes.
+CPC/1973:	Art.	111,	caput,	1.ª	parte	(correspondente).
+SUMÁRIO:	I.	Competência	quanto	à	matéria,	à	pessoa	e	à	função.	Vedação	à	modificação,	pelas	partes
+–	II.	Competência	quanto	à	pessoa	e	à	função.
+I.	Competência	quanto	à	matéria,	à	pessoa	e	à	função.	Vedação	à	modificação,	pelas	partes.	Diz	o
+art.	62	do	CPC/2015
+que	não	podem	as	partes	modificar	a	competência	referente	à	matéria,	à	pessoa	e	à	função.	O	mesmo	não
+sucede	em	se	tratando	de	competência	relacionada	ao	valor	e	ao	território	(cf.	comentário	ao	art.	63	do
+CPC/2015.
+II.	Competência	quanto	à	pessoa	e	à	função.	A	competência	em	razão	da	pessoa,	segundo	pensamos,
+enquadra-se	ou	na	competência	relacionada	à	matéria	ou	na	relacionada	à	função.	Ada	Pellegrini
+Grinover,	ao	se	referir	aos	casos	de
+“competências	criadas	ratione	personae,	na	Constituição,	para	os	ocupantes	de	altos	cargos	ou	funções
+públicas”,	afirma	que
+“não	se	trata,	nesse	caso,	de	juízos	especializados,	mas	de	competência	pela	denominada	prerrogativa	da
+função,
+[/PAGINA 125]
+
+[PAGINA 126]
+correspondendo	à	competência	funcional”	(O	princípio	do	juiz	natural.	.,	RePro	29/11).	De	todo
+modo,	a	competência	não	diz	respeito	à	pessoa	em	si	mesmo	considerada,	mas	à	função	que	a	pessoa,
+ainda	que	transitoriamente,	exerce.	P.	ex.,	Arruda	Alvim	destaca	a	circunstância	de	a	competência,	em
+mandado	de	segurança,	ser	definida	em	atenção	à	qualificação,	hierarquia,	categoria	ou	classe	da
+autoridade	coatora,	afirmando	que	“competência	definida	em	função	da	autoridade	coatora,	à	evidência
+trata-se	de	competência	funcional”	(Competência	em	mandado	de	segurança,	Soluções	práticas,	v.	1,	p.
+275).	A	competência	funcional	é	estabelecida	em	razão	das	funções	a	serem	exercidas	pelo	órgão
+jurisdicional,	no	processo.
+Explica	Arruda	Alvim	que	o	critério	da	competência	funcional	“leva	precipuamente	em	consideração	a
+função	a	ser	exercida	pelo	juízo	ou	Tribunal,	para	que	seja	finalmente	aplicada	a	vontade	concreta	da	lei
+a	uma	dada	causa,	uma	ou	mais	de	uma	vez	(recursos),	tendo	o	legislador,	particularmente,	enfatizado	a
+modalidade	hierárquica	da	competência	funcional”
+(Anotações	sobre	o	tema	da	competência,	RePro	24/9).	Pode	suceder	que,	no	curso	do	processo,	um	ou
+mais	órgãos	jurisdicionais	atuem	no	desempenho	de	funções	distintas.	P.	ex.,	competência	para
+
+julgamento	da	arguição	de	constitucionalidade	(art.	949,	II,	do	CPC/2015)	e	do	incidente	de	resolução	de
+demandas	repetitivas	(art.	978	do	CPC/2015).	Na	doutrina,	afirma-se	ser	funcional	a	competência
+estabelecida	em	razão	do	foro	da	“situação	da	coisa”	(art.	47	do	CPC/2015,	correspondente	ao	art.	95	do
+CPC/1973).	Lembra	Leonardo	Greco	de	“hipóteses	em	que	a	competência	absoluta	é	de	caráter
+territorial,	frequentemente	chamada,	até	pela	própria	lei,	de	competência	funcional,	como	nas	situações
+previstas	na	parte	final	do	art.	95	do	CPC	[de	1973,	correspondente	ao	art.	47	do	CPC/2015],	na	ação
+civil	pública	(art.	2.º	da	Lei	7.347/1985)	ou	na	competência	das	varas	de	bairro	das	grandes	cidades,
+como	as	varas	regionais	da	cidade	do	Rio	de	Janeiro.	Ainda	que	se	entenda	que	o	vínculo	com
+determinada	área	geográfica	não	decorre	de	um	elemento	objetivo	ou	subjetivo	da	própria	relação
+jurídica	de	direito	material,	como	o	domicílio	de	uma	das	partes,	a	situação	do	imóvel	ou	o	local	do
+dano,	cumpre	verificar,	no	momento	da	retomada	do	processo	perante	o	juízo	competente,	em	que	medida
+os	atos	anteriormente	praticados	podem	ter	sido	prejudicados	em	razão	da	incompetência.	Poder-se-ia
+argumentar,	nas	ações	fundadas	em	direitos	reais	sobre	imóveis	e	na	ação	civil	pública,	que	a	regra	de
+competência	territorial	seria	imposta	pela	lei	como	absoluta	para	atender	a	uma	necessidade	probatória,
+pois	a	apuração	da	verdade	dos	fatos	será	mais	acessível	nas	proximidades	do	imóvel	ou	do	local	do
+dano.	Ainda	que	isso	possa	eventualmente	ocorrer,	nada	justificaria	invalidar	as	provas	colhidas	no	juízo
+incompetente,	mas	apenas	repeti-las	ou	complementá-las	no	juízo	competente,	se	por	este	for	considerado
+necessário	ou	se	alguma
+[/PAGINA 126]
+
+[PAGINA 127]
+das	partes	puder	demonstrar	ter	sofrido	algum	prejuízo	à	ampla	defesa	em	razão
+da	sua	produção	no	juízo	incompetente”	(	Translatio	judicii	e	reassunção	do	processo,	RePro	166/9).	Já
+se	decidiu	que	“a	competência	para	o	cumprimento	de	sentença”	prevista	no	art.	516	do	CPC/2015
+(correspondente	ao	art.	475-P	do	CPC/1973)	“é	funcional	e,	consectariamente,	absoluta”	(STJ,	CComp
+62.083/SP,	1.ª	Seção,	j.	24.06.2009,	rel.	Min.	Luiz	Fux;	no	mesmo	sentido,	STJ,	CComp	112.219/RS,	rel.
+Min.	Gilson	Dipp,	3.ª	Seção	j.	27.10.2010).	Mais	recentemente,	decidiu-se	no	sentido	da	relativização	da
+referida	regra	(STJ,	CComp	118.340/MS,	2.ª	Seção,	j.	11.09.2013,	rel.	Min.	Nancy	Andrighi;	cf.	também
+comentário	ao	art.	53	do	CPC/2015).
+Art.	63.	As	partes	podem	modificar	a	competência	em	razão	do	valor	e	do	território,	elegendo	foro	onde
+será	proposta	ação	oriunda	de	direitos	e	obrigações.
+§	1º	A	eleição	de	foro	só	produz	efeito	quando	constar	de	instrumento	escrito	e	aludir	expressamente	a
+determinado	negócio	jurídico.
+§	2º	O	foro	contratual	obriga	os	herdeiros	e	sucessores	das	partes.
+§	3º	Antes	da	citação,	a	cláusula	de	eleição	de	foro,	se	abusiva,	pode	ser	reputada	ineficaz	de	ofício	pelo
+juiz,	que	determinará	a	remessa	dos	autos	ao	juízo	do	foro	de	domicílio	do	réu.
+§	4º	Citado,	incumbe	ao	réu	alegar	a	abusividade	da	cláusula	de	eleição	de	foro	na	contestação,	sob	pena
+de	preclusão.
+CPC/1973:	Art.	111,	caput,	2.ª	parte,	e	parágrafos	(correspondente).
+V.	art.	78,	CC/2002;	art.	1.º,	Dec.-lei	4.597/1942	(Prescrição	das	ações	contra	a	Fazenda	Pública);	art.
+58,	II,	Lei	8.245/1991
+(Locação	de	imóveis	urbanos).
+•	STF,	Súmula	335:	É	válida	a	cláusula	de	eleição	do	foro	para	os	processos	oriundos	do	contrato.
+
+•	STJ,	Súmula	33:	A	incompetência	relativa	não	pode	ser	declarada	de	ofício.
+SUMÁRIO:	I.	Validade	da	cláusula	de	eleição	do	foro,	em	se	tratando	de	competência	quanto	ao	valor	e
+ao	território	–	II.
+Cláusula	de	eleição	de	foro	em	contrato	de	adesão	–	III.	Manifestação	judicial	sobre	a	invalidade	de
+cláusula	de	eleição	de	foro	em	contrato	de	adesão.	Prorrogação	da	competência.
+I.	Validade	da	cláusula	de	eleição	do	foro,	em	se	tratando	de	competência	quanto	ao	valor	e	ao
+território.	Podem	as	partes	modificar	a	competência	em	razão	do	valor	e	do	território,	elegendo	foro
+onde	deverão	ser	propostas	as	ações	relacionadas	aos	direitos	e	obrigações	oriundos	de	determinado
+negócio	jurídico	(art.	63	do	CPC/2015).	De	acordo	com	a	Súmula	335	do	STF,	“é	válida	a	cláusula	de
+eleição	do	foro	para	os	processos	oriundos	do	contrato”.	Essa	é	a	regra	geral.
+II.	Cláusula	de	eleição	de	foro	em	contrato	de	adesão.	A	jurisprudência	sedimentou-se	no	sentido	de
+que	a	cláusula	de	eleição	de	foro	é,	em	regra,	válida	e	eficaz,	somente	se	considerando	nula	se	contida
+em	contrato	de	adesão,	nos	casos	em	que	se	verifique	a	hipossuficiência	do	consumidor	(STJ,	REsp
+629.049/MT.,	3.ª	T,	rel.	Min.	Menezes	Direito;	STJ,	REsp	684.613/SP,	3.ª
+T.,	rel.	Min.	Nancy	Andrighi)	e	tal	cláusula	dificulte	sua	defe
+[/PAGINA 127]
+
+[PAGINA 128]
+sa	(STJ,	CComp	41.728/PR,	2.ª	Seção,	rel.
+Min.	Fernando	Gonçalves;	STJ,	CC	40.562/BA,	2.ª	Seção,	rel.	Min.	Ari	Pargendler).	Esse	entendimento
+foi	assim	sintetizado:	“A	jurisprudência	desta	Corte	firmou	a	orientação	de	que	a	cláusula	de	eleição	de
+foro	inserida	em	contrato	de	adesão	é,	em	princípio,	válida	e	eficaz,	salvo:	a)	se,	no	momento	da
+celebração,	a	parte	aderente	não	dispunha	de	intelecção	suficiente	para	compreender	o	sentido	e	as
+consequências	da	estipulação	contratual;	b)	se	da	prevalência	de	tal	estipulação	resultar	inviabilidade	ou
+especial	dificuldade	de	acesso	ao	Judiciário;	c)	se	se	tratar	de	contrato	de	obrigatória	adesão,	assim
+entendido	o	que	tenha	por	objeto	produto	ou	serviço	fornecido	com	exclusividade	por	determinada
+empresa”	(STJ,	REsp	379949/PR,	4.ª	T.,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	No	julgamento	do
+REsp	471921/BA,	reiterou-se	que	a	declaração	da	nulidade	da	cláusula	de	eleição	de	foro	em	contrato
+de	adesão	–	mesmo	em	se	tratando	de	relação	de	consumo	–	depende	do	reconhecimento	da
+hipossuficiência	da	parte	prejudicada,	e	que	a	eleição	de	foro	seja	“capaz	de	dificultar	seu	acesso	ao
+Judiciário”	(3.ª	T.,	rel.
+Min.	Nancy	Andrighi).	Evidentemente,	“se	a	autoria	do	feito	pertence	ao	consumidor,	contudo,	permite-se
+a	escolha	do	foro	de	eleição	contratual,	considerando	que	a	norma	protetiva,	erigida	em	seu	benefício,
+não	o	obriga	quando	puder	deduzir	sem	prejuízo	a	defesa	dos	seus	interesses	fora	do	seu	domicílio”
+(STJ,	CComp	107.441/SP,	2.ª	Seção,	j.	22.06.2011,	rel.	Min.
+Maria	Isabel	Gallotti).	Cf.	também,	a	respeito,	STJ,	REsp	300.340/RN,	4.ª	T.,	j.	18.09.2008,	rel.	Min.
+Luis	Felipe	Salomão;	STJ,	AgRg	no	Ag	1275006/RS,	4.ª	T.,	j.	02.09.2010,	rel.	Min.	Aldir	Passarinho
+Júnior;	STJ,	REsp	1089993/SP,	3.ª	T.,	j.	18.02.2010,	rel.
+Min.	Massami	Uyeda;	STJ,	REsp	1055185/PR,	4.ª	T.,	rel.	Min.	Marco	Buzzi,	DJe	07.04.2014.
+III.	Manifestação	judicial	sobre	a	invalidade	de	cláusula	de	eleição	de	foro	em	contrato	de	adesão.
+Prorrogação	da	competência.	A	Súmula	33	do	STJ	dispõe	que	“a	incompetência	relativa	não	pode	ser
+declarada	de	ofício”.	O	tema	passou	a	merecer	tratamento	diferente,	ainda	à	luz	do	CPC/1973,	após	a
+alteração	dos	arts.	112,	parágrafo	único	e	114	pela	Lei	11.280/2006.	Assim	estabeleciam	referidos
+
+dispositivos	legais,	respectivamente:	“A	nulidade	da	cláusula	de	eleição	de	foro,	em	contrato	de	adesão,
+pode	ser	declarada	de	ofício	pelo	juiz,	que	declinará	de	competência	para	o	juízo	de	domicílio	do	réu”.
+“Prorrogar-se-á	a	competência	se	dela	o	juiz	não	declinar	na	forma	do	parágrafo	único	do	art.	112	desta
+Lei	ou	o	réu	não	opuser	exceção	declinatória	nos	casos	e	prazos	legais”.	Sustentamos,	em	outros	estudos
+realizados	a	respeito	desses	dispositivos	legais	(cf.,	a	respeito,	o	que	escrevemos	em	Breves
+comentários.	.	2,	cit.,	em	coautoria	com	Luiz	Rodrigues	Wambier	e	Teresa	Arruda	Alvim	Wambier,	p.	17
+ss.	e	23	ss.;	e	em	Processo	civil	moderno,	v.	1,	Parte	geral	e	processo	de	conhecimento,	em	coautoria
+com	Teresa	A
+[/PAGINA 128]
+
+[PAGINA 129]
+rruda	Alvim	Wambier,	n.	2.3.7.5,	p.	127	ss.;	cf.	também	2.	ed.	do	presente	trabalho,	com
+comentário	ao	CPC/1973),	e	o	reafirmamos,	agora,	à	luz	do	CPC/2015,	que,	no	caso,	apesar	de	se
+permitir	a	manifestação	pelo	juiz	ex	officio,	a	competência	é	relativa.	Essa	é	a	conclusão	que	extraímos
+dos	arts.	63,	§§	3.º	e	4.º,	e	65	do	CPC/2015.	Com	efeito,	não	tendo	havido	anterior	manifestação	do	juiz
+acerca	da	nulidade	da	cláusula	de	eleição	de	foro,	e	se	o	réu	não	alegar,	oportunamente,	a	incompetência,
+não	se	poderá	dizer	que	a	cláusula	de	eleição	de	foro	é	inválida,	já	que	não	terá	representado	efetivo
+estorvo	à	apresentação	de	defesa	pelo	réu.	Diante	disso,	ocorrerá	a	prorrogação	da	competência,	se	não
+reconhecida	ex	officio	pelo	juiz,	ou	se	não	arguida	regularmente	pela	parte.	Ademais,	caso	a	parte
+apresente	resposta,	sem	arguir	a	incompetência	relativa,	inexistirá	motivo	sequer	para	a	indagação,	ex
+officio,	acerca	da	validade	da	cláusula	de	eleição	de	foro,	razão	pela	qual	seria	contraditório	permitir-se
+ao	juiz	manifestar-se	a	respeito	do	assunto,	após	a	resposta	do	réu.	Por	isso,	a	nulidade	da	cláusula	de
+eleição	de	foro	somente	poderá	ser	reconhecida	de	ofício	pelo	juiz	enquanto	o	réu	não	apresentar	sua
+resposta.	Tendo	havido	a	prorrogação	da	competência,	o	eventual	vício	processual	que	poderia	ter
+existido	restará	sanado.	Esse	ponto	de	vista,	que	defendíamos	à	luz	do	CPC/1973	(que	era	menos	claro,	a
+respeito),	restou	consagrado	nos	arts.	63,	§§	3.º	e	4.º,	e	65	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+Livro	II.	DA	FUNÇÃO	JURISDICIONAL
+TÍTULO	III.	DA	COMPETÊNCIA	INTERNA	Capítulo	I.	DA	COMPETÊNCIA	Seção	III.	Da
+incompetência	Seção	III
+Da	incompetência	Art.	64.	A	incompetência,	absoluta	ou	relativa,	será	alegada	como	questão	preliminar
+de	contestação.
+§	1º	A	incompetência	absoluta	pode	ser	alegada	em	qualquer	tempo	e	grau	de	jurisdição	e	deve	ser
+declarada	de	ofício.
+§	2º	Após	manifestação	da	parte	contrária,	o	juiz	decidirá	imediatamente	a	alegação	de	incompetência.
+§	3º	Caso	a	alegação	de	incompetência	seja	acolhida,	os	autos	serão	remetidos	ao	juízo	competente.
+
+§	4º	Salvo	decisão	judicial	em	sentido	contrário,	conservar-se-ão	os	efeitos	de	decisão	proferida	pelo
+juízo	incompetente	até	que	outra	seja	proferida,	se	for	o	caso,	pelo	juízo	competente.
+CPC/1973:	Arts.	112	e	113	(correspondentes);	art.	301,	II	(relacionado).
+•	STJ,	Súmula	33:	A	incompetência	relativa	não	pode	ser	declarada	de	ofício.
+•	STJ,	Súmula	59:	Não	há	conflito	de	competência	se	já	existe	sentença	com	trânsito	em	julgado,
+proferida	por	um	dos	juízos	conflitantes.
+•	FPPC,	Enunciado	238:	O	aproveitamento	dos	efeitos	de	decisão	proferida	por	juízo	incompetente
+aplica-se	tanto	à	competência	absoluta	quanto	à	relativa.
+SUMÁRIO:	I.	Incompetência	absoluta	e	relativa	–	II.	Modo	de	alegação	da	incompetência	e	decisão	do
+juiz,	a	respeito	–	III.
+Me
+[/PAGINA 129]
+
+[PAGINA 130]
+didas	de	urgência	e	incompetência	absoluta	–	IV.	Decisão	proferida	por	juízo	absolutamente
+incompetente.	Translatio	iudicii	–	V.	Remessa	dos	autos	ao	juízo	competente.	Aplicação	da	regra	aos
+Juizados	Especiais	Cíveis.
+I.	Incompetência	absoluta	e	relativa.	A	incompetência	absoluta	deve	ser	pronunciada	de	ofício	pelo
+órgão	jurisdicional	(cf.	art.	64,	§	1.º,	do	CPC/2015).	Cabe	ação	rescisória	se	transitar	em	julgado
+sentença	de	mérito	proferida	por	juízo	absolutamente	incompetente	(cf.	art.	966,	II	do	CPC/2015).	Sobre
+a	incompetência	relativa,	como	regra,	não	pode	o	órgão	jurisdicional	pronunciarse	de	ofício,	devendo
+aguardar	a	provocação	da	parte.	Não	reconhecida	a	incompetência	relativa,	não	se	considerará	haver
+vício	processual,	já	que,	neste	caso,	ocorrerá	a	prorrogação	da	competência	(cf.	art.	65	do	CPC/2015).
+Cf.	também	comentário	ao	art.	63	do	CPC/2015.
+II.	Modo	de	alegação	da	incompetência	e	decisão	do	juiz,	a	respeito.	O	CPC/2015	dispõe	que	tanto	a
+incompetência	absoluta	quanto	a	relativa	devem	ser	alegadas	como	preliminar	na	contestação	(cf.	art.	64,
+caput	do	CPC/2015).	Diversamente,	o	CPC/1973	estabelecia	que	a	incompetência	relativa	devia	ser
+alegada	por	exceção	de	incompetência,	e	a	incompetência	absoluta,	por	preliminar	na	contestação.	A
+jurisprudência	de	outrora,	de	todo	modo,	vinha	admitindo	a	alegação	de	incompetência	relativa	como
+preliminar	de	contestação,	em	atenção	ao	princípio	da	instrumentalidade	das	formas	(STJ,	AgRg	no	Ag
+696779/RS,	3.ª	T.,	rel.	Min.	Nancy	Andrighi)	e	do	aproveitamento	(STJ,	REsp	885.960/CE,	2.ª	T.,	rel.
+Min.	Humberto	Martins),	desde	que	não	houvesse	prejuízo	à	parte	contrária	(STJ,	REsp	169176/DF,	2.ª
+Seção,	rel.	Min.	Castro	Filho;	STJ,	CC
+76.002/SP,	rel.	Min.	Paulo	Furtado,	2.ª	Seção).	No	regime	do	CPC/2015,	alegada	a	incompetência,
+deverá	o	juiz	manifestar-se	de	imediato,	a	respeito,	para,	se	for	o	caso,	remeter	os	autos	ao	juízo
+competente.	Cf.	também	comentário	infra.
+III.	Medidas	de	urgência	e	incompetência	absoluta.	O	juiz,	como	se	disse,	deve	manifestar-se	ex
+officio	sobre	a	incompetência	absoluta	(cf.	§	1.º	do	art.	64	do	CPC/2015).	Pode	o	magistrado	deparar-se,
+no	entanto,	com	situação	que	careça	de	manifestação	judicial	urgente,	com	o	fito	de	impedir	a	ocorrência
+de	lesão	a	direito.	Ora,	o	processo	fica	vinculado	às	garantias	mínimas	decorrentes	do	princípio	do
+devido	processo	legal	(cf.,	especialmente,	comentário	aos	arts.	2.º	e	3.º	do	CPC/2015),	mesmo	que	se
+desenvolva	perante	juízo	incompetente.	Assim,	se	é	certo	que	a	lei	não	pode	excluir	da	apreciação	do
+
+Poder	Judiciário	a	ameaça	a	direito	(CF,	art.	5.º,	XXXV),	deve	ser	considerada	contrária	a	esse	direito
+fundamental	orientação	que	retire	do	juízo	incompetente	a	possibilidade	de	conceder	medida	de	urgência
+para	impedir	lesão	a	direito.
+Decidiu-se	que	“embora	caiba	a	concessão	de	liminar	por	juízo	absolutamente	incompetente,	tal	ocorre
+somente	em	caráter	excepcional,	apenas	quando	material	e	juridicamente	irremediável	e	irreversível	o
+dano,	c
+[/PAGINA 130]
+
+[PAGINA 131]
+ujas	proporções	sejam	relevantes,	de	modo	a	justificar	a	proteção	como	forma	de	impedir	o
+perecimento	do	direito”	(TRF-3.ª	Reg.,	AgIn	234283,	rel.	Des.	Carlos	Muta;	cf.	também	STJ,	MC
+14.015/RS,	rel.	Min.	Eliana	Calmon,	2.ª	T.,	j.	17.02.2009).	Deparando-se	com	esta	situação,	deve	o	juiz,
+presentes	os	requisitos	necessários	à	concessão	da	liminar,	deferir	a	medida,	remetendo,	em	seguida,	os
+autos	ao	juízo	competente.
+IV.	Decisão	proferida	por	juízo	absolutamente	incompetente.	Translatio	iudicii	.	As	regras	relativas	à
+definição	do	juízo	competente	nem	sempre	são	de	fácil	interpretação	e,	não	raro,	há,	mesmo	na
+jurisprudência	dos	tribunais	superiores,	controvérsia	a	respeito.	Se	é	certo,	de	um	lado,	que	as	partes
+podem	ter	errado	ao	ajuizar	a	ação	perante	órgão	incompetente,	não	menos	certo	é	dizer	que,	tendo	em
+vista	que	as	hipóteses	de	incompetência	absoluta	devem	ser	conhecidas	ex	officio	pelo	juiz,	não	podem
+as	partes	ser	prejudicadas	nos	casos	em	que	o	vício	não	é	corrigido	antes	de	proferida	a	decisão.	De
+qualquer	forma,	terá	havido	prestação	jurisdicional,	ainda	que	proporcionada	por	órgão	incompetente.	As
+regras	relativas	à	atribuição	de	competência	aos	órgãos	jurisdicionais	existem	para	se	aperfeiçoar	a
+prestação	do	serviço	jurisdicional,	e	os	requisitos	processuais	existem	para	propiciar	a	obtenção,	do
+melhor	modo	possível,	da	solução	da	lide.	Por	tal	razão,	deve	ser	afastada	qualquer	interpretação	que
+não	seja	condizente	com	esta	finalidade.	Dispunha	o	art.	113,	§	2.º	do	CPC/1973	que,	reconhecida	a
+incompetência	absoluta,	os	atos	decisórios	seriam	nulos.	Sustentávamos	ser	incorreto	entender,	com
+fundamento	em	tal	regra	processual,	que,	reconhecida	a	nulidade,	deveriam	ser	automaticamente	cassados
+os	efeitos	da	decisão	judicial.	Nos	casos	em	que	o	vício	resume-se	à	incompetência	do	juízo	do	qual
+emanou	a	decisão	judicial,	devem	os	efeitos	(substanciais	e	processuais)	ser	conservados,	até	que	outra
+decisão	seja	proferida	pelo	juízo	competente.
+Coerentemente	com	esse	modo	de	pensar,	o	CPC/2015	não	reproduziu	a	regra	antes	contida	no	§	2.º	do
+art.	113	do	CPC/1973,	e	dispôs,	no	art.	64,	§	3.º,	que	“salvo	decisão	judicial	em	sentido	contrário,
+conservar-se-ão	os	efeitos	das	decisões	proferidas	pelo	juízo	incompetente,	até	que	outra	seja	proferida,
+se	for	o	caso,	pelo	juízo	competente”	(art.	64,	§	3.º,	do	CPC/2015).	Aplica-se	a	regra,	como	é	evidente,
+não	apenas	à	hipótese	de	incompetência	absoluta,	como	também,	a	fortiori,	em	casos	de	incompetência
+relativa	(nesse	sentido,	cf.	Enunciado	238	do	FPPC,	nota	supra)	Semelhantemente,	decidiu-se	que	“ainda
+que	o	art.	113,	§	2.º	[do	CPC/1973],	seja	preciso	ao	determinar	a	nulidade	de	todos	os	atos	decisórios
+proferidos	por	juízo	absolutamente	incompetente,	torna-se	prudente,	diante	da	supremacia	do	interesse
+público,	que	a	medida	liminar	que	determinou	a	indisponibilidade	dos	bens	do	Agravante	seja	mantida,
+até	a	sua	reapreciação	pelo	MM.	Juízo	Estadual”	(TRF-2.ª	Reg.,	AgIn	159918,	j.	30.04.2008,	rel.
+[/PAGINA 131]
+
+[PAGINA 132]
+Des.
+Reis	Friede).	Sobre	o	princípio	da	translatio	iudicii,	cf.	Aldo	Attardi,	Sulla	translazione	del	processo
+dal	giudice	incompetente	a	quello	competente,	Rivista	di	diritto	processuale,	1951,	I,	p.	142	e	ss.;
+Giovanni	Arieta	et	al.	,	Corso.	.	,	3.	ed.,	cit.,	n.	235,	p.	494;	Leonardo	Greco,	Translatio	iudicii	e
+assunção	do	processo,	RePro	166/9.	Cf.	também	comentário	ao	art.	299	do	CPC/2015,	sobre	tutelas	de
+urgência	e	de	evidência	concedidas	por	juízo	incompetente,	e,	também,	concedidas	por	órgão
+jurisdicional	estatal,	enquanto	não	constituído	juízo	arbitral.
+V.	Remessa	dos	autos	ao	juízo	competente.	Aplicação	da	regra	aos	Juizados	Especiais	Cíveis.
+
+Alegada	a	incompetência,	deverá	o	juiz	manifestar-se	de	imediato,	a	respeito,	para,	se	for	o	caso,	remeter
+os	autos	ao	juízo	competente	(cf.	§	2.º	do	art.	64	do	CPC/2015).	Mesmo	as	hipóteses	previstas	no	art.	51
+da	Lei	9.099/1995	(de	incompetência	territorial,	cf.
+inc.	III,	e	de	incompetência	decorrente	de	inadequação	procedimental,	cf.	inc.	II	e,	de	certo	modo,	inc.
+IV)	a	incompetência	não	deve	conduzir	à	extinção	do	processo,	mas	à	remessa	dos	autos	ao	juízo
+competente.	Deve	aplicar-se	o	princípio	a	que	nos	referimos,	acima,	referente	à	translatio	judicii,	mas,
+sobretudo,	entenderse	que	os	incs.	II	a	IV	do	art.	51	da	Lei	9.099/1995	são	incompatíveis	com	o	inc.
+LXXVIII	do	art.	5.º	da	CF/1988	(inserido	pela	EC	45/2004),	devendo	ser	considerados	tacitamente
+revogados	(nesse	sentido,	com	acerto,	cf.	Leonardo	Greco,	op.	loc.	cits.,	e	Leonardo	Cunha,	A	translatio
+judicii.	.,	RePro	208/257).
+Art.	65.	Prorrogar-se-á	a	competência	relativa	se	o	réu	não	alegar	a	incompetência	em	preliminar	de
+contestação.
+Parágrafo	único.	A	incompetência	relativa	pode	ser	alegada	pelo	Ministério	Público	nas	causas	em	que
+atuar.
+CPC/1973:	Art.	114	(correspondente).
+Incompetência	relativa	e	prorrogação	da	competência.	A	incompetência	relativa	é	vício	que,	se	não
+pronunciada	no	momento	adequado,	conduz	à	prorrogação	da	competência.	Ao	contrário	do	que	ocorre
+com	a	incompetência	absoluta,	a	incompetência	relativa	não	pode	ser	reconhecida	de	ofício.	Os	§§	3.º	e
+4.º	do	art.	63	e	o	art.	65	do	CPC/2015	contém	exceção	à	regra	(cf.	comentário	aos	referidos
+dispositivos).
+Art.	66.	Há	conflito	de	competência	quando:	I	-	2	(dois)	ou	mais	juízes	se	declaram	competentes;	II	-	2
+(dois)	ou	mais	juízes	se	consideram	incompetentes,	atribuindo	um	ao	outro	a	competência;	III	-	entre	2
+(dois)	ou	mais	juízes	surge	controvérsia	acerca	da	reunião	ou	separação	de	processos.
+Parágrafo	único.	O	juiz	que	não	acolher	a	competência	declinada	deverá	suscitar	o	conflito,	salvo	se	a
+atribuir	a	outro	juízo.
+CPC/1973:	Art.	115	(correspondente).
+V.	arts.	102,	I,	o,	105,	I,	d,	e	108,	I,	e,	CF.
+•	STJ,	Súmula	22:	Não	há	conflito	de	competência	entre	o	Tribunal	de	Justiça	e	Tribunal	de	Alçada	do
+mesmo	Estado-membro.
+•	STJ,	Súmula	59:	Não	há	conflito	de	competência	se	já	existe	sentença	com	trânsito	em	julgado,
+proferida	por	um	dos	juízos	conflitantes.
+•	STJ,	Súm
+[/PAGINA 132]
+
+[PAGINA 133]
+ula	428:	Compete	ao	Tribunal	Regional	Federal	decidir	os	conflitos	de	competência	entre
+juizado	especial	federal	e	juízo	federal	da	mesma	seção	judiciária.
+SUMÁRIO:	I.	Conflitos	positivo	e	negativo	de	competência	–	II.	Conflitos	explícito	e	implícito	de
+competência.
+
+I.	Conflitos	positivo	e	negativo	de	competência.	Não	se	admite	a	atuação	concomitante	de	dois	órgãos
+jurisdicionais	distintos	sobre	uma	mesma	causa	(quanto	à	necessidade	de	o	conflito	dizer	respeito	à
+“mesma	causa”,	cf.	STJ,	AgRg	no	CC
+97.643/ES,	2.ª	Seção,	j.	24.09.2008,	rel.	Min.	Fernando	Gonçalves).	Há	conflito	de	competência	quando,
+ao	mesmo	tempo,	mais	de	um	juízo	dá-se	por	competente	(conflito	positivo)	ou	incompetente	(conflito
+negativo)	para	julgar	uma	ação,	bem	como,	ainda,	quando	entre	dois	ou	mais	juízes	surge	a	controvérsia
+acerca	da	reunião	ou	separação	dos	processos.	Decidiu-se,	com	acerto,	que	inexiste	“hierarquia	entre	os
+ramos	do	Poder	Judiciário”,	o	que	conduz	à	“impossibilidade	de	revogação	de	decisão	da	Justiça
+estadual	pelo	Judiciário	Federal”	(STJ,	CC	120788/SP,	rel.	Min.	Antonio	Carlos	Ferreira,	2.ª	S.,	j.
+22.05.2013).
+II.	Conflitos	explícito	e	implícito	de	competência.	Há	conflito	de	competência	quando	os	órgãos
+jurisdicionais	envolvidos	manifestam-se	explicitamente	a	respeito	da	questão	atinente	à	competência	(cf.
+STJ,	AgRg	nos	EDcl	no	CC
+83.138/PR,	1.ª	Seção,	j.	27.08.2008,	rel.	Min.	Mauro	Campbell	Marques).	Mas	pode	também	haver
+conflito	“quando	há	mais	de	um	juiz	praticando	atos	processuais	na	mesma	causa”,	“indicando	que
+implicitamente	consideram-se	competentes”:	“É
+pressuposto	para	a	configuração	do	conflito	positivo	de	competência	que	dois	ou	mais	juízos	se	declarem
+competentes	para	apreciar	a	mesma	causa,	ou	que	haja	a	prática	de	atos	por	ambos	os	Juízos,	indicando
+que	implicitamente	consideram-se	competentes”	(STJ,	CC	39.063/PE,	1.ª	Seção,	rel.	Min.	Luiz	Fux).
+Decidiu-se,	também,	que	“o	conflito	positivo	de	competência	caracteriza-se	pela	divergência	entre	dois
+ou	mais	juízes	que	se	dizem	competentes	para	julgar	a	mesma	causa,	ou	quando	há	mais	de	um	juiz
+praticando	atos	processuais	na	mesma	causa”	(STJ,	CC	21093/MG,	2.ª	Seção,	rel.	Min.	Sálvio	de
+Figueiredo	Teixeira).	Pode,	portanto,	ocorrer	o	conflito	diante	de	“demandas	que,	tratando	de	idênticas
+questões	fáticas	e	objetos	assemelhados,	apresentam-se	suscetíveis	de	decisões	conflitantes,	sem	que
+tenha	qualquer	dos	juízos	se	declarado	competente	para	apreciar	a	causa	em	curso	perante	o	outro,	mas
+exsurge	a	manifesta	prática	de	atos	que	denotem	implicitamente	tal	declaração”	(STJ,	AgRg	no	CC
+58.229/RJ,	1.ª	Seção,	j.	26.04.2006,	rel.	Min.	João	Otávio	de	Noronha).	Já	se	admitiu,	diante	disso,	ainda
+que	“excepcionalmente,	a	instauração	de	incidente	de	conflito	de	competência	antes	do	pronunciamento
+dos	juízos	envolvidos	sobre	a	reunião	dos	processos”	(STJ,	CC	94.788/DF,	1.ª	Seção,	j.	13.08.2008,	rel.
+Min.
+Eliana	Calmon;	no	mesmo	sentido,	STJ,	AgRg	no	CC	66.507/DF,	1.ª	T.,	rel.	Min.	Castro	Meira,	j.
+23.0
+[/PAGINA 133]
+
+[PAGINA 134]
+4.2008;	STJ,	AgRg	no	CC
+112.956-MS,	rel.	Min.	Nancy	Andrighi,	2.ª	S.,	j.	25.04.2012).	Sobre	o	procedimento	para	o	julgamento
+do	conflito	de	competência,	cf.	comentário	aos	arts.	951	ss.	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+
+Parte	Geral.
+Livro	II.	DA	FUNÇÃO	JURISDICIONAL
+TÍTULO	III.	DA	COMPETÊNCIA	INTERNA	Capítulo	II.	DA	COOPERAÇÃO	NACIONAL
+Capítulo	II
+DA	COOPERAÇÃO	NACIONAL
+Art.	67.	Aos	órgãos	do	Poder	Judiciário,	estadual	ou	federal,	especializado	ou	comum,	em	todas	as
+instâncias	e	graus	de	jurisdição,	inclusive	aos	tribunais	superiores,	incumbe	o	dever	de	recíproca
+cooperação,	por	meio	de	seus	magistrados	e	servidores.
+CPC/1973:	Sem	correspondente.
+Cooperação	jurisdicional	nacional.	Rede	jurisdicional.	No	sistema	do	CPC/1973,	a	cooperação	entre
+juízos	de	competência	diversa	dava-se	através	das	cartas	precatória	e	de	ordem.	Mais	modernamente,
+porém,	para	além	de	tais	mecanismos	restritos	de	comunicação,	há	tendência	em	se	considerar	os	órgãos
+que	compõem	o	aparato	jurisdicional	(que	denomino	de	organismo	jurisdicional)	não	mais	como
+compartimentos	fechados	entre	si	e	totalmente	separados	(e,	não	raro,	em	conflito,	como	atesta	o	art.	66
+do	CPC/2015),	mas	como	entes	que	devem	atuar	de	modo	coordenado,	colaborando	entre	si	mutuamente,
+formando	uma	rede	jurisdicional	(sobre	as	variadas	redes	de	cooperação	jurídica	que	têm	se	formado	no
+âmbito	internacional,	cf.	Flávia	Pereira	Hill,	A	cooperação	jurídica.	.,	cit.,	RePro	205/347;	cf.	também
+Caio	Gonzalez	de	Babo,	Fundamentos.	.,	Revista	de	direito	constitucional	e	internacional,	82/335,
+Ricardo	Perlingeiro,	A	jurisdição	internacional.	.,	RePro	197/299).	Naturalmente,	para	que	uma	estrutura
+assim	concebida	funcione,	é	imprescindível	que	haja	por	parte	dos	juristas	a	aceitação	dessa	mudança	de
+paradigma,	em	favor	da	cooperação	e	coordenação	(cf.,	sob	semelhante	perspectiva,	J.J.
+Gomes	Canotilho,	Justiça	constitucional.	.,	Doutrinas	essenciais	de	direito	constitucional,	v.	4,	p.	785).
+O	CPC/2015	prevê,	ao	lado	das	cartas	precatórias	e	de	ordem,	outros	mecanismos	de	cooperação
+judiciária	(cf.	art.	69	do	CPC/2015).	De	acordo	com	o	art.	67	do	CPC/2015,	todos	os	órgãos	da
+Jurisdição	têm	dever	de	recíproca	cooperação,	e,	de	acordo	com	o	art.	69,	caput,	do	CPC/2015,	os
+pedidos	de	cooperação	devem	ser	prontamente	atendidos.	O	CPC/2015,	no	que	diz	respeito	à
+cooperação	nacional,	alude	apenas	à	cooperação	jurisdicional,	isso	é,	entre	órgãos	jurisdicionais;	algo
+diverso	pode	suceder	em	relação	à	cooperação	jurídica	internacional,	que	pode	ser	jurisdicional	ou	não.
+Sobre	a	cooperação	jurídica	internacional	e	cooperação	interjurisdicional,	cf.	comentário	aos	arts.	26	ss.
+do	CPC/2015.
+Art.	68.	Os	juízos	poderão	formular	entre	si	pedido	de	cooperação	para	prática	de	qualquer	ato
+processual.
+CPC/1973:	Sem	correspondente.
+Art.	69.	O	pedido	de	cooperação	jurisdicional	deve	ser	prontament
+[/PAGINA 134]
+
+[PAGINA 135]
+e	atendido,	prescinde	de	forma
+específica	e	pode	ser	executado	como:	I	-	auxílio	direto;	II	-	reunião	ou	apensamento	de	processos;	III	-
+prestação	de	informações;	IV	-	atos	concertados	entre	os	juízes	cooperantes.
+
+§	1º	As	cartas	de	ordem,	precatória	e	arbitral	seguirão	o	regime	previsto	neste	Código.
+§	2º	Os	atos	concertados	entre	os	juízes	cooperantes	poderão	consistir,	além	de	outros,	no
+estabelecimento	de	procedimento	para:	I	-	a	prática	de	citação,	intimação	ou	notificação	de	ato;	II	-	a
+obtenção	e	apresentação	de	provas	e	a	coleta	de	depoimentos;	III	-	a	efetivação	de	tutela	provisória;	IV	-
+a	efetivação	de	medidas	e	providências	para	recuperação	e	preservação	de	empresas;
+V	-	a	facilitação	de	habilitação	de	créditos	na	falência	e	na	recuperação	judicial;	VI	-	a	centralização	de
+processos	repetitivos;	VII	-	a	execução	de	decisão	jurisdicional.
+§	3º	O	pedido	de	cooperação	judiciária	pode	ser	realizado	entre	órgãos	jurisdicionais	de	diferentes
+ramos	do	Poder	Judiciário.
+CPC/1973:	Sem	correspondente.
+•	FPPC,	Enunciado	4:	A	carta	arbitral	tramitará	e	será	processada	no	Poder	Judiciário	de	acordo
+com	o	regime	previsto	no	Código	de	Processo	Civil,	respeitada	a	legislação	aplicável.
+•	FPPC,	Enunciado	5:	O	pedido	de	cooperação	jurisdicional	poderá	ser	realizado	também	entre	o
+árbitro	e	o	Poder	Judiciário.
+Amplitude	da	cooperação	jurídica	(ou	judiciária)	nacional.	Rede	jurisdicional.	Os	órgãos	da
+jurisdição	têm	dever	de	recíproca	cooperação,	que	abrange	todas	as	instâncias	e	graus	(cf.	art.	67	do
+CPC/2015)	e,	também,	órgãos	jurisdicionais	de	diferentes	ramos	(cf.	art.	69,	§	3.º	do	CPC/2015).	Os
+pedidos	de	cooperação	podem	dizer	respeito	à	prática	de	qualquer	ato	processual	(art.	68	do	CPC/2015).
+Nos	termos	do	art.	69,	caput,	do	CPC/2015,	os	pedidos	de	cooperação	devem	ser	prontamente
+atendidos,	não	dependem	da	observância	de	forma	específica	e	podem	ser	executados	como	auxílio
+direto,	reunião	ou	apensamento	de	processo,	prestação	de	informações	e	atos	concertados	entre	os	juízos
+cooperantes	(art.	69	do	CPC/2015).	Os	atos	concertados	entre	juízes	cooperantes	podem	ter	amplo	objeto
+(cf.	§	2.º	do	art.	69	do	CPC/2015,	que	contém	rol	exemplificativo	de	atos	e	procedimentos	que	podem	ser
+realizados	por	essa	via).	Sobre	cooperação	entre	árbitro	e	juiz	estatal,	cf.	comentário	ao	art.	42	do
+CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+Livro	III.	DOS	SUJEITOS	DO	PROCESSO
+Livro	III
+
+DOS	SUJEITOS	DO	PROCESSO
+TÍTULO	I
+
+DAS	PARTES	E	DOS	PROCURADORES
+Capítulo	I
+
+DA	CAPACIDADE	PROCESSUAL
+Art.	70.	Toda	pessoa	que	se	encontre	no	exercício	de	seus	direitos	tem	capacidade	para	estar	em	juízo.
+CPC/1973:	Art.	7.º	(correspondente).
+V.	arts.	3.º,	4.º,	1.690,	1.692,	1.747,	I,	1.748,	V,	1.767,	1.774,	1.775,	1.778,	1.779,	1.781	e	1.782	do
+CC/2002;	arts.	7.º	a	11	da	Lei	6.001/1973	(Estatuto	do	Índio);	art.	21	da	Lei	8.069/1990	(Estatuto	da
+C
+[/PAGINA 135]
+
+[PAGINA 136]
+riança	e	do	Adolescente);	art.	15,	§	1.º,	Lei	8.906/1994
+(Estatuto	da	Advocacia	e	da	OAB);	art.	8.º,	§	2.º,	Lei	9.099/1995	(Juizados	Especiais).
+SUMÁRIO:	I.	Partes	processuais	–	II.	Capacidade	processual	e	legitimidade	processual	–	III.
+Capacidade	processual	e	capacidade	de	ser	parte.
+I.	Partes	processuais.	Partes	processuais	são	aquelas	que	pedem	e	aquelas	contra	quem	se	pede	a	tutela
+jurisdicional.
+Interessa	a	definição	de	parte,	dentre	outras	razões,	para	a	aferição	de	identidade	entre	ações	(cf.	art.
+337,	§	2.º,	do	CPC/2015).
+É	necessário	que	se	façam	algumas	distinções,	a	fim	de	se	precisar	o	conceito.	P.ex.,	representante	não	é
+a	parte,	mas	a	integra	(cf.	comentário	infra)	e,	embora	seja	parte,	o	substituto	processual	não	é	titular	do
+direito	subjetivo	que	é	objeto	do	processo	(cf.	comentário	abaixo	e,	também,	comentário	ao	art.	18	do
+CPC/2015).	A	doutrina	em	geral	adota,	para	com	o	terceiro,	um	conceito	negativo:	é	terceiro	aquele	que
+não	é	parte	(cf.	o	que	escrevemos	em	Chamamento	ao	processo.	.	RePro	101/235,	jan./2001).
+II.	Capacidade	processual	e	legitimidade	processual.	Não	se	confundem	capacidade	processual	e
+legitimidade	processual.	Como	afirma	Marcos	Bernardes	de	Mello,	“a	legitimidade	para	a	causa	se
+refere	à	titularidade	da	pretensão	(ativa)	ou	da	obrigação	(passiva)	controvertidas	em	juízo;	relaciona-se
+à	res	in	iudicio	deducta,	não	à	capacidade	de	ser	parte.
+É	verdade	que,	para	que	alguém	possa	exercer	sua	capacidade	de	ser	parte	com	êxito	(possa	obter	a
+prestação	jurisdicional	com	a	prolação	da	sentença	de	mérito)	é	necessário	que	as	partes	no	processo
+tenham	legitimação	processual	(	legitimatio	ad	processum)	e	também	legitimação	para	a	causa	(
+legitimatio	ad	causam).	No	entanto,	nada	impede	que	alguém	que	não	tenha	legitimidade	para	a	causa	ou
+capacidade	processual	exerça	sua	capacidade	de	ser	parte,	porque	esta	é	abstrata	e	genérica,	mas	não
+poderá	obter	a	prestação	jurisdicional	desejada”	(Achegas	para	uma	teoria	das	capacidades	em	direito,
+Revista	de	direito	privado,	vol.	3,	p.	9	ss.).	Semelhantemente,	para	Teresa	Arruda	Alvim	Wambier
+“capacidade	processual	é	a	aptidão	conferida	pela	lei	processual	(.	.)	para	agir	em	juízo.	Esta	aptidão
+tem	caráter	genérico.	Legitimidade	processual	é	a	situação	jurídica	específica	que	liga	o	sujeito,	que	tem
+a	condição	genérica	de	capacidade	processual,	a	um	dado	objeto	e/ou	a	outro	sujeito	determinado.	No
+caso	do	processo,	verifica-se	quando	a	lei	processual	outorga	a	alguém	a	possibilidade	de	exercer
+concretamente	sua	capacidade	processual	em	relação	a	determinada	situação”	(	Nulidades.	.	cit.,	n.
+1.2.2).	Sobre	o	conceito	de	legitimidade,	cf.	comentário	ao	art.	17	do	CPC/2015.
+III.	Capacidade	processual	e	capacidade	de	ser	parte.	A	capacidade	processual	é	mais	restrita	que	a
+capacidade	de	ser	parte.	Esta	é	a	aptidão	figurar	no	processo	como	parte.	Escreve	Marcos	Bernardes	de
+
+Mello	que	“ter	capacidade	de	ser	parte	é	ser	titular	de	pretensão	à	tutela	jurídica.	A	pretensão	à	tutela
+jurídic
+[/PAGINA 136]
+
+[PAGINA 137]
+a,	apesar	de	referir-se,	especificamente,	a	matéria	processual,	porque	diz	respeito	ao	direito	de
+provocar	a	jurisdição	estatal	no	sentido	de	obter	a	prestação	jurisdicional,	que,	no	Brasil,	resulta	da
+incidência	do	art.	5.º,	I,	XXXV	e	LV,	da	CF/1988,	é	de	direito	material	e	pré-processual,	porque	existe
+antes	do	processo,	constituindo	pressuposto	para	que	se	possa	invocar	a	proteção	da	jurisdição	estatal.
+Por	isso,	a	capacidade	de	ser	parte	tem	natureza	de	direito	material,	não	processual.	A	capacidade	de	ser
+parte	das	pessoas	é	ilimitada,	independentemente	mesmo	de	nacionalidade,	e	nem	a	lei	lhe	pode	impor
+qualquer	limitação,	sob	pena	de	inconstitucionalidade	no	direito	brasileiro,	em	face	da	norma	contida	no
+art.	5.º,	XXXV,	da	CF/1988.	A	capacidade	de	ser	parte	não	se	confunde	com	a	capacidade	de	estar	em
+juízo,	dita	capacidade	processual	ou	legitimatio	ad	processum	(art.	7.º	do	CPC
+[de	1973,	correspondente	ao	art.	70	do	CPC/2015]),	porque:	(a)	essa	tem	como	pressuposto	aquela;	(b)
+essa	é	de	direito
+processual	enquanto	aquela	tem	natureza	pré-processual	(de	direito	material).	Por	isso,	é	possível	ter-se
+capacidade	de	ser	parte,	sem	que	se	seja	processualmente	capaz.	O	inverso,	porém,	é	inadmissível.	Os
+incapazes	processualmente	(art.	8.º	do	CPC	[de	1973,	correspondente	ao	art.	71	do	CPC/2015])	têm
+capacidade	de	ser	parte,	mas	não	têm	capacidade	processual”
+(Achegas	para	uma	teoria	das	capacidades	em	direito,	Revista	de	direito	privado,	vol.	3,	p.	9	ss.).
+Assim,	p.ex.,	o	menor	pode	ser	parte,	mas	para	agir	em	juízo	(ter	capacidade	processual)	deverá	estar
+representado	ou	assistido,	conforme	o	caso	(art.	71
+do	CPC/2015	c/c	arts.	3.º,	4.º	e	1.690	do	CC).	A	capacidade	processual	liga-se	à	capacidade	jurídica:	O
+legitimado	ordinário	deve	reunir	capacidade	jurídica	(	Parteifähigkeit)	e	processual	(	Prozessfähigkeit).
+A	incidência	dos	arts.	3.º,	4.º	e	6.º	do	CC	provoca	alteração	ou	extinção	da	capacidade	processual,
+impondo	suspensão	do	processo	para	regularização	(cf.	comentário	aos	art.
+110	do	CPC/2015).	Sobre	a	personalidade	e	capacidade,	cf.	o	que	escrevemos,	de	modo	mais	amplo,	em
+Código	Civil	comentado,	em	coautoria	com	Fábio	Caldas	de	Araújo,	comentário	aos	arts.	2.º	ss.	do
+Código	Civil;	sobre	a	legitimidade	ordinária	e	extraordinária,	cf.	comentário	ao	art.	18	do	CPC/2015;
+sobre	representação	e	capacidade	postulatória,	cf.
+comentário	ao	art.	71	do	CPC/2015.
+Art.	71.	O	incapaz	será	representado	ou	assistido	por	seus	pais,	por	tutor	ou	por	curador,	na	forma	da	lei.
+CPC/1973:	Art.	8.º	(correspondente).
+V.	arts.	3.º,	4.º,	1.690,	1.692,	1.747,	I,	1.748,	V,	1.767,	1.774,	1.775,	1.778,	1.779,	1.781	e	1.782,
+CC/2002;	arts.	7.º	a	11,	Lei	6.001/1973	(Estatuto	do	Índio);	art.	21,	Lei	8.069/1990	(Estatuto	da	Criança
+e	do	Adolescente);	art.	15,	§	1.º,	Lei	8.906/1994
+(Estatuto	da	Advocacia	e	da	OAB);	art.	8.º,	§	2.º,	Lei	9.099/1995	(Juizados	Especiais).
+SUMÁRIO:	I.	Capacidades	processual	e	capacidade	postulatória	–	II.	Capacidades	processual	e
+postulatória
+[/PAGINA 137]
+
+[PAGINA 138]
+como	requisitos	do	ato	de	demandar.
+
+I.	Capacidade	processual	e	capacidade	postulatória.	A	noção	de	parte	não	diz	respeito	apenas	ao
+sujeito	que	postula	em	juízo.	Normalmente,	quando	se	designa	a	parte	processual,	refere-se	à	parte
+representada	por	seu	advogado	–	quando	se	diz,	p.	ex.,	que	deve	haver	capacidade	postulatória.	Pode
+suceder,	ainda,	que,	para	ter	capacidade	processual,	a	parte	deva	ser	representada,	ou	assistida	(p.ex.,
+em	se	tratando	de	absoluta	ou	relativamente	incapaz,	respectivamente).	“A	capacidade	processual,
+pressuposto	de	validade	do	processo,	é	a	aptidão	para	praticar	atos	processuais	independentemente	de
+assistência	e	representação,	pessoalmente,	ou	por	pessoas	apontadas	pela	lei.	Necessário	frisar	que	tal
+espécie	de	capacidade	não	se	confunde	com	a	capacidade	postulatória,	que	consiste	na	aptidão	de
+realizar	atos	no	processo	de	modo	eficaz.	No	sistema	processual	pátrio,	tal	mister	incumbe
+exclusivamente	ao	advogado,	que	representa	a	parte	em	juízo”	(TJDFT,	20090110644112APC,	rel.
+Flavio	Rostirola,	1.ª	Turma	Cível,	j.	18.11.2009).	Em	qualquer	caso,	não	é	correto	dizer	que	o
+representante	seja	parte,	embora	integre	tal	centro	de	interesse	(cf.	Cândido	Rangel	Dinamarco,
+Instituições.	.	,	v.	2,	n.	439,	p.
+114;	Thereza	Alvim,	O	direito	processual	de	estar	em	juízo,	p.	13	e	ss.).	Pode,	então,	suceder	que	a
+parte	seja	composta	pelo	titular	do	direito	material,	representado	por	seu	pai	(capacidade	processual),
+praticando	atos	processuais	através	de	seu	advogado	(capacidade	postulatória).	Embora	sejam
+identificáveis,	aí,	várias	pessoas,	nota-se	que	há	apenas	um	centro	de	interesse.	Cf.	também	comentário
+ao	art.	70	do	CPC/2015.
+II.	Capacidades	processual	e	postulatória	como	requisitos	do	ato	de	demandar.	Como	se	disse	acima,
+para	demandar,	deve	a	parte	ter	capacidade	processual,	isto	é,	aptidão	para	exercitar	direitos	em	juízo,	e,
+além	disso,	capacidade	postulatória,	que	é	a	aptidão	para	pleitear	algo	em	juízo.	No	direito	brasileiro,
+para	se	requerer	algo	em	juízo	exige-se,	como	regra,	a	representação	por	advogado.	Os	atos	praticados
+por	advogado	sem	procuração,	caso	não	ratificados,	devem	ser	considerados	inexistentes,	no	processo,	e
+são	ineficazes,	em	relação	àquele	em	cujo	nome	foi	praticado	(cf.	comentário	ao	art.	104,	§	2.º	do
+CPC/2015).
+Art.	72.	O	juiz	nomeará	curador	especial	ao:	I	-	incapaz,	se	não	tiver	representante	legal	ou	se	os
+interesses	deste	colidirem	com	os	daquele,	enquanto	durar	a	incapacidade;
+II	-	réu	preso	revel,	bem	como	ao	réu	revel	citado	por	edital	ou	com	hora	certa,	enquanto	não	for
+constituído	advogado.
+Parágrafo	único.	A	curatela	especial	será	exercida	pela	Defensoria	Pública,	nos	termos	da	lei.
+CPC/1973:	Art.	9.º	(correspondente).
+V.	art.	1.692,	CC/2002;	art.	8.º,	Lei	9.099/1995	(Juizados	Especiais).
+•	STJ,	Súmula	196:	Ao	executado	que,	citado	por	edital	ou	por	hora	certa,	permanecer	revel,	será
+nomeado	curador	especial,	com	legitimidade	para	apresentação	de	embargos.
+SUMÁRIO:	I.	Precariedade	de	defesa
+[/PAGINA 138]
+
+[PAGINA 139]
+e	nomeação	de	curador	especial	–	II.	Defesa	do	revel	por	curador
+especial.
+I.	Precariedade	de	defesa	e	nomeação	de	curador	especial.	A	norma	processual	impõe	a	nomeação	de
+curador	especial	sempre	que,	de	algum	modo,	a	defesa	dos	interesses	da	parte	mostrar-se	precária.	Tal	é
+
+o	que	ocorre	na	hipótese	prevista	no
+inc.	I	do	art.	72	do	CPC/2015	(correspondente	ao	inc.	I	do	art.	9.º	do	CPC/1973).	Desse	modo,	“no
+inventário,	será	dado	curador	especial	ao	incapaz	que	concorrer	com	seu	representante	legal	na	partilha,
+ante	a	presunção	legal	de	conflito	de	interesses”
+(TJDFT,	20060510093969APC,	rel.	Jair	Soares,	6.ª	T.	Cível,	j.	14.04.2010).	O	art.	671,	I	do	CPC/2015
+impõe	a	designação	de	curador	especial	também	ao	ausente.	Decidiu-se,	além	disso,	que	é	caso	de
+designação	de	curador	especial	ao	paciente,	em	caso	de	internação	compulsória	para	tratamento	contra
+drogadição	(TJRS,	Ap.	Cív.	70049974504,	8.ª	Câm.,	j.	28.03.2013,	rel.
+Des.	Rui	Portanova).	Sobre	a	curatela	no	âmbito	do	direito	civil,	cf.	o	que	escrevemos	em	Código	Civil
+comentado,	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo,	especialmente	comentário	aos	arts.	1.767	ss.
+do	Código	Civil.
+II.	Defesa	do	revel	por	curador	especial.	As	citações	feitas	com	hora	certa	pelo	oficial	de	justiça	e	por
+edital	são	consideradas	fictas,	e,	por	serem	excepcionais,	devem	cercarse	de	maiores	cuidados
+processuais,	a	fim	de	se	assegurar	o	due	process,	em	favor	do	réu	(sobre	a	citação	ficta,	cf.	comentário
+ao	art.	256	do	CPC/2015).	Decidiu-se	que	“a	interpretação	teleológica	do	disposto	no	art.	9.º,	II	[do
+CPC/1973,	correspondente	ao	art.	72,	II	do	CPC/2015],	presta-se	a	resguardar	os	interesses	do	devedor
+citado	por	edital,	tanto	no	processo	de	conhecimento	quanto	no	de	execução,	ante	os	princípios
+constitucionais	do	contraditório	e	da	ampla	defesa	(art.	5.º,	LV,	da	CF/1988)”	(STJ,	REsp	771.860/RJ,	2.ª
+T.,	j.	04.09.2008,	rel.	Min.
+Castro	Meira).	Decidiu-se,	também,	que	a	nomeação	de	curador	especial	“é	imperativa,	cogente,	porque
+sobre	a	citação	ficta	(seja	por	hora	certa,	ou	pela	via	editalícia)	pesa	a	presunção	de	que	poderá	o	réu
+não	ter	tido	efetivo	conhecimento	da	existência	da	demanda.	Visa,	portanto,	garantir	o	contraditório
+efetivo	e	real	quando	não	se	tem	certeza	de	que	o	réu	tomou	ciência	da	ação	em	face	dele	aforada.	Trata-
+se	de	múnus	público	imposto	com	o	objetivo	de	preservar	o	direito	de	defesa,	consubstanciando	a
+bilateralidade	do	processo”	(STJ,	AgRg	no	REsp	1089338/SP,	4.ª	T.,	rel.	Min.	Marco	Buzzi,	DJe
+04/02/2014).
+Por	isso,	ao	revel	citado	por	edital	ou	com	hora	certa	deverá	ser	dado	curador	especial,	regra	esta
+aplicável	também	à	execução	(cf.	Súmula	196	do	STJ).	Nos	casos	em	que	se	exige	que	o	executado	tenha
+bens	penhorados	antes	de	embargada	a	execução	(	v.g.	,	execução	fiscal,	regida	pela	Lei	6.830/80),	tal
+requisito	não	pode	ser	imposto	ao	curador	do	executado	revel	(STJ,	REsp	1110548/PB,	j.	25.02.2010,
+rel.	Min.	Laurita	Vaz,	Corte	Especial).	Não	se	nomeia	curador	especial	se	o	demandad
+[/PAGINA 139]
+
+[PAGINA 140]
+o,	embora	citado
+fictamente,	apresenta	defesa	intempestiva:	“Não	há	falar	em	nomeação	de	curador	especial	ao	revel,
+mesmo	que	ficta	tenha	sido	sua	citação,	quando	o	mesmo	comparece	aos	autos,	regularizando	sua
+representação	processual,	e	apresenta	contestação	intempestiva	ou	deixa	de	fazê-lo	sponte	propria.
+Aplica-se	à	espécie	a	máxima	dormientibus	non	sucurrit	jus”	(STJ,	REsp	1229361/SP,	3.ª	T.,	j.
+12.04.2011,	rel.	Min.	Vasco	Della	Giustina).	Ao	curador	especial,	nos	termos	do	art.
+341,	parágrafo	único	do	CPC/2015,	não	se	aplica	o	ônus	da	impugnação	específica	dos	fatos	na
+contestação,	admitindo-se	que	este	apresente	contestação	por	“negativa	geral”:	“Na	falta	de	elementos,	é
+permitido	ao	curador	especial	contestar	o	pedido	inicial	de	modo	genérico,	não	se	lhe	aplicando	o	ônus
+da	impugnação	especificada”	(STJ,	REsp	101.337/DF,	3.ª	T.,	j.	05.12.1997,	rel.	Min.	Waldermar
+Zveiter).	Assim	é	porque,	“dadas	as	circunstâncias	em	que	é	admitido	no	processo,	o	curador	de	ausentes
+
+não	conhece	o	réu,	não	tem	acesso	a	ele,	tampouco	detém	informações	exatas	sobre	os	fatos	narrados	na
+petição	inicial”	(STJ,	REsp	1009293/SP,	rel.	Min.	Nancy	Andrighi,	j.	06.04.2010).	Decidiu-se	que	“a
+falta	de	nomeação	de	curador	especial	não	invalida	imediatamente	a	citação	editalícia,	mas	acarreta	a
+nulidade	do	processo,	nos	casos	em	que	haja	prejuízo	para	a	defesa	do	executado”	(STJ,	REsp
+1164558/SP,	2.ª	T.,	j.	09.03.2010,	rel.	Min.	Castro	Meira;	no	mesmo	sentido,	STJ,	AgRg	nos	EDcl	no
+AREsp	459.256/MG,	rel.	Ministro	Humberto	Martins,	2.ª	T.,	j.	27/03/2014).
+Art.	73.	O	cônjuge	necessitará	do	consentimento	do	outro	para	propor	ação	que	verse	sobre	direito	real
+imobiliário,	salvo	quando	casados	sob	o	regime	de	separação	absoluta	de	bens.
+§	1º	Ambos	os	cônjuges	serão	necessariamente	citados	para	a	ação:	I	-	que	verse	sobre	direito	real
+imobiliário,	salvo	quando	casados	sob	o	regime	de	separação	absoluta	de	bens;	II	-	resultante	de	fato	que
+diga	respeito	a	ambos	os	cônjuges	ou	de	ato	praticado	por	eles;	III	-	fundada	em	dívida	contraída	por	um
+dos	cônjuges	a	bem	da	família;	IV	-	que	tenha	por	objeto	o	reconhecimento,	a	constituição	ou	a	extinção
+de	ônus	sobre	imóvel	de	um	ou	de	ambos	os	cônjuges.
+§	2º	Nas	ações	possessórias,	a	participação	do	cônjuge	do	autor	ou	do	réu	somente	é	indispensável	nas
+hipóteses	de	composse	ou	de	ato	por	ambos	praticado.
+§	3º	Aplica-se	o	disposto	neste	artigo	à	união	estável	comprovada	nos	autos.
+CPC/1973:	Art.	10	(correspondente).
+V.	art.	226,	§	5.º,	da	CF/1988;	arts.	1.225,	1.567,	1.570,	1.644,	1.647	a	1.649,	1.651,	1.663,	caput	e	§	1.º,
+e	1.666,	1.697,	III,	e	1.647	a	1.650,	do	CC/2002.
+SUMÁRIO:	I.	Consentimento	do	cônjuge	–	II.	Incidência	do	art.	1.647	do	CC/2002	–	III.	Participação	do
+cônjuge,	ao	longo	do	processo	–	IV.	União	estável.
+I.	Consentimento	do	cônjuge.	O	art.	73	do	CPC/2015	contém	espécie	de	legitimação	específica	para
+atuar	em	juízo,	nos	casos	que	enuncia.	De	igual	modo,	a	citação	de	ambos	os	cônjuges	é	essencial,	sob
+pena	de	nulidade
+[/PAGINA 140]
+
+[PAGINA 141]
+do	processo,	quando	o
+fato	jurídico	diga	respeito	ao	casal,	consoante	dispõe	o	art.	73,	§	1.º	do	CPC/2015.	Está-se,	no	caso,
+diante	de	litisconsórcio	necessário	no	polo	passivo:	“Nas	ações	que	versem	sobre	direitos	reais
+imobiliários,	tal	como	a	reivindicatória,	é	obrigatória	a	citação	de	ambos	os	cônjuges	(.	.)	A	hipótese
+contempla	litisconsórcio	necessário,	onde	a	eficácia	da	sentença	dependerá	da	citação	de	ambos	os
+cônjuges”	(	RT	836/260).	No	mesmo	sentido:	“Sendo	a	fiança	prestada	pelos	cônjuges,	imprescindível	é
+a	citação	de	ambos	para	responder	em	juízo	pelos	débitos	decorrentes	da	garantia	prestada,	sob	pena	de
+nulidade,	por	se	tratar	de	litisconsórcio	passivo	necessário”	(STJ,	AgRg	no	REsp	954.709/RS,	5.ª	T.,	j.
+03/05/2011,	rel.	Min.	Laurita	Vaz).
+II.	Incidência	do	art.	1.647	do	CC/2002.	De	acordo	com	o	art.	1.647,	I	e	II,	do	CC/2002,	nenhum	dos
+cônjuges	pode,	sem	autorização	do	outro,	pleitear,	como	autor	ou	réu,	acerca	de	direitos	reais	sobre
+imóveis,	salvo	se	casados	em	regime	de	separação	absoluta	de	bens.	À	luz	do	art.	235	do	Código	Civil
+revogado,	era	indispensável	a	participação	do	cônjuge	no	processo,	qualquer	que	fosse	o	regime	de	bens.
+De	acordo	com	o	que	dispõe	o	art.	1.647,	caput	e	I	e	II,	do	CC/2002,	porém,	se	os	cônjuges	forem
+casados	em	regime	de	separação	absoluta	de	bens	tal	participação	é	desnecessária	(cf.	o	que	escrevemos
+
+a	respeito	do	tema	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo).	O
+CPC/1973	nada	dispunha,	a	respeito.	Corretamente,	o	art.	73	do	CPC/2015	excepciona	a	hipótese	de
+cônjuges	casados	sob	o	regime	de	separação	absoluta	de	bens.
+III.	Participação	do	cônjuge,	ao	longo	do	processo.	De	acordo	com	a	norma	processual,	deve	haver:	a)
+o	consentimento	do	cônjuge,	para	a	confissão	em	ação	relacionada	a	imóveis	(art.	391,	parágrafo	único,
+do	CPC/2015);	b)	a	intimação	do	cônjuge,	quanto	à	penhora	sobre	imóvel	ou	direito	real	sobre	imóvel
+(art.	842	do	CPC/2015);	c)	o	consentimento	do	cônjuge,	quando	o	executado	oferecer	bem	imóvel	à
+penhora	(art.	847,	§	3.º,	do	CPC/2015).
+IV.	União	estável.	De	acordo	com	o	art.	1.725	do	CC/2002,	na	união	estável,	aplica-se	o	regime	da
+comunhão	parcial	de	bens	às	relações	patrimoniais,	salvo	contrato	escrito	entre	os	companheiros.
+Decidiu-se	que,	em	ação	de	reintegração	de	posse	movida	contra	“arrendatários	que	viviam	em	união
+estável,	exercendo	composse	sobre	o	imóvel”,	incide	o	disposto	no
+§	2.º	do	art.	10	do	CPC/1973,	correspondente	ao	§	2.º	do	art.	73	do	CPC/2015	(TRF-4.ª	Reg.,	Ag	em
+AgIn	2007.04.00.020502-9/SC,	3.ª	T.,	j.	14.08.2007,	v.u.	,	rel.	Des.	Fed.	Carlos	Eduardo	Thompson
+Flores	Lenz,	RT	867/419).	De	acordo	com	o	§	3.º	do	art.	73	do	CPC/2015,	aplica-se	a	exigência	à	união
+estável	comprovada	nos	autos.
+Art.	74.	O	consentimento	previsto	no	art.	73	pode	ser	suprido	judicialmente	quando	for	negado	por	um
+dos	cônjuges	sem	justo	motivo,	ou	quando	lhe	seja	impossível	concedê-lo.
+Parágrafo	único.	A	falta	de	consentimento,	quando	necessário	e	não	supr
+[/PAGINA 141]
+
+[PAGINA 142]
+ido	pelo	juiz,	invalida	o
+processo.
+CPC/1973:	Art.	11	(correspondente).
+V.	art.	226,	§	5.º,	da	CF/1988;	arts.	1.225,	1.567,	1.570,	1.644,	1.647	a	1.649,	1.651,	1.663,	caput	e	§	1.º,
+e	1.666,	1.697,	III,	e	1.647	a	1.650,	CC/2002.
+Integração	do	cônjuge	à	relação	processual.	A	ausência	de	autorização	do	cônjuge	para	propositura	da
+ação	deve	ser	suprida,	sob	pena	de	extinção	do	processo	sem	resolução	do	mérito	(cf.	art.	495	do
+CPC/2015).	Antes	de	extinguir	o	processo,	deverão	ser	tomadas	medidas	tendentes	a	sanar	o	vício	(cf.
+art.	317	do	CPC/2015).	Intimado	(cf.	art.	351	do	CPC/2015),	poderá	o	autor	justificar	a	ausência	de
+consentimento	do	cônjuge,	ou	afirmar	ser	a	discordância	deste	injustificável,	requerendo	ao	magistrado	o
+suprimento	judicial	(art.	74	do	CPC/2015).	Cumpre	ao	magistrado	ouvir	o	cônjuge,	antes	de	decidir	a
+respeito,	em	observância	ao	princípio	do	contraditório.	Caso	o	cônjuge	não	se	manifeste,	ou,	assim	o
+fazendo,	não	apresente	justo	motivo,	a	decisão	do	juiz	que	assim	o	declarar	fará	com	que	se	considere
+suprido	o	consentimento.
+Art.	75.	Serão	representados	em	juízo,	ativa	e	passivamente:	I	-	a	União,	pela	Advocacia-Geral	da
+União,	diretamente	ou	mediante	órgão	vinculado;	II	-	o	Estado	e	o	Distrito	Federal,	por	seus
+procuradores;	III	-	o	Município,	por	seu	prefeito	ou	procurador;	IV	-	a	autarquia	e	a	fundação	de	direito
+público,	por	quem	a	lei	do	ente	federado	designar;	V	-	a	massa	falida,	pelo	administrador	judicial;	VI	-	a
+herança	jacente	ou	vacante,	por	seu	curador;	VII	-	o	espólio,	pelo	inventariante;	VIII	-	a	pessoa	jurídica,
+por	quem	os	respectivos	atos	constitutivos	designarem	ou,	não	havendo	essa	designação,	por	seus
+diretores;	IX	-	a	sociedade	e	a	associação	irregulares	e	outros	entes	organizados	sem	personalidade
+
+jurídica,	pela	pessoa	a	quem	couber	a	administração	de	seus	bens;
+X	-	a	pessoa	jurídica	estrangeira,	pelo	gerente,	representante	ou	administrador	de	sua	filial,	agência	ou
+sucursal	aberta	ou	instalada	no	Brasil;	XI	-	o	condomínio,	pelo	administrador	ou	síndico.
+§	1º	Quando	o	inventariante	for	dativo,	os	sucessores	do	falecido	serão	intimados	no	processo	no	qual	o
+espólio	seja	parte.
+§	2º	A	sociedade	ou	associação	sem	personalidade	jurídica	não	poderá	opor	a	irregularidade	de	sua
+constituição	quando	demandada.
+§	3º	O	gerente	de	filial	ou	agência	presume-se	autorizado	pela	pessoa	jurídica	estrangeira	a	receber
+citação	para	qualquer	processo.
+§	4º	Os	Estados	e	o	Distrito	Federal	poderão	ajustar	compromisso	recíproco	para	prática	de	ato
+processual	por	seus	procuradores	em	favor	de	outro	ente	federado,	mediante	convênio	firmado	pelas
+respectivas	procuradorias.
+CPC/1973:	Art.	12	(correspondente).
+V.	art.	132	da	CF/1988;	arts.	47,	987,	1.323	a	1.326,	1.819	e	1.820	do	CC/2002;	art.	22,	§	1.º,	da	Lei
+4.591/1964	(Condomínio	em	edificações	e	as	incorporações	imobiliárias);	art.	68,	§	3.º,	da	Lei
+6.404/1976	(Sociedades	por	ações);	art.	63,	XVI,	do	Dec.-lei	7.661/1945	(Antiga	Lei	de	Falências);	e
+art.	22,	III,	n,	da	Lei	11.
+[/PAGINA 142]
+
+[PAGINA 143]
+101/2005	(Nova	Lei	de	Recuperação	e	Falência).
+SUMÁRIO:	I.	Representação	e	capacidade	processual	–	II.	Representação	e	“presentação”	–	III.
+Representação	da	União,	dos	Estados	e	do	Distrito	Federal	–	IV.	Câmaras	municipais	e	assembleias
+legislativas	–	V.	Massa	falida	deve	ser	representada	pelo	administrador	judicial,	e	não	pelo	falido	–	VI.
+Espólio	–	VII.	Inventariante	dativo	e	legitimidade	dos	herdeiros	e	sucessores	–	VIII.	Pessoa	jurídica	e
+dúvida	sobre	quem	deva	representá-la	–	IX.	Condomínio	e	representação	pelo	síndico.
+I.	Representação	e	capacidade	processual.	O	art.	75	do	CPC/2015	trata	da	representação,	necessária
+para	que	a	parte	tenha	capacidade	processual	(cf.	comentário	ao	art.	70	do	CPC/2015).	Representante	e
+representado	integram	o	mesmo	centro	de	interesses,	ou	seja,	a	mesma	parte	processual.	Na
+representação,	“o	representante	age	em	nome	alheio”	(“Der	Vertreter	handelt	in	fremdem	Namen”;	Otmar
+Jauernig,	Zivilprozessrecht,	p.	62).
+II.	Representação	e	“presentação”	.	Parte	da	doutrina	prefere	o	uso	da	expressão	“presentação”,	em
+certos	casos.	Afirma	Pontes	de	Miranda	que	“onde	há	órgão	não	há	representação”	e	que	“o	órgão	é	parte
+do	ser,	como	acontece	às	entidades	jurídicas”.	Assim,	“o	Presidente	da	República	é	órgão;	o	Governador
+de	Estado-membro	e	o	Prefeito	são	órgãos.	Quando	uma	entidade	social,	que	se	constitui,	diz	qual	a
+pessoa	que	por	ela	figura	nos	negócios	jurídicos	e	nas	atividades	com	a	Justiça,	aponta-a	como	o	seu
+órgão,	que	pode	presentá-la	(isto	é,	estar	presente	para	dar	presença	à	entidade	de	que	é	órgão)”	(Pontes
+de	Miranda,	Comentários	ao	CPC,	cit.,	t.	I,	p.	288).	Nesse	sentido,	decidiu	o	STJ:	“A	jurisprudência
+desta	Corte	Superior	é	uníssona	no	sentido	de	que,	na	ação	de	mandado	de	segurança,	não	há	que	se	falar
+em	litisconsórcio	passivo	necessário	entre	a	pessoa	jurídica	de	direito	público	e	a	autoridade	coatora,
+porquanto	esta	já	é	parte	integrante	daquela”	(STJ,	1.ª	T.,	AG
+
+no	REsp	255.902/SP,	rel.	Min.	Francisco	Falcão).
+III.	Representação	da	União,	dos	Estados	e	do	Distrito	Federal.	A	representação	judicial,	a
+consultoria	e	o	assessoramento	jurídico	de	União,	Estados	e	Distrito	Federal	se	dão	através	da
+Advocacia	Pública:	em	relação	à	União,	pela	Advocacia-Geral	da	União	(CF/1988,	art.	131)	e
+Procuradoria-Geral	da	Fazenda	Nacional,	para	a	“execução	de	dívida	ativa	de	natureza	tributária”
+(CF/1988,	art.	131,	§	3.º);	quanto	aos	Estados	e	Distrito	Federal,	pelos	Procuradores	(CF/1988,	art.
+132).	O
+Advogado-Geral	da	União	é	de	livre	nomeação	do	Presidente	da	República	(art.	131,	§	1.º),	o	mesmo
+ocorrendo	com	o	Procurador-Geral	do	Estado	(cf.	STF,	ADIn	291	e	ADIn	2.682).	“Os	procuradores	dos
+Estados	ou	do	Distrito	Federal	estão	desobrigados	de	provar	sua	capacidade	postulatória,	pois	se	trata
+de	delegação	de	poderes	decorrentes	de	sua	nomeação”
+(STJ,	AgRg	no	AREsp	100.391/GO,	2.ª	T.,	j.	20.03.2012,	rel.	Min.	Mauro	Campbell	Marques).	Nos
+casos	de	Municípios	que	não	tenham	procuradoria	jurídica	organizada,	a	repres
+[/PAGINA 143]
+
+[PAGINA 144]
+entação	em	juízo	se	dá
+por	procuração,	mas	é	desnecessária	sua	juntada	quando	o	Município	é	representado	por	procurador
+municipal	(cf.	STJ,	AgRg	no	Ag	741.593/PR,	1.ª	T.,	j.	23.05.2006,	rel.	Min.
+Luiz	Fux;	STJ,	AgRg	nos	EDcl	no	Ag	1.097.282/SP,	2.ª	T.,	j.	28.04.2009,	rel.	Min.	Castro	Meira;	STJ,
+REsp	925.032/SC,	1.ª	T.,	j.
+02.08.2011,	rel.	Min.	Teori	Albino	Zavascki).
+IV.	Câmaras	municipais	e	assembleias	legislativas.	“Doutrina	e	jurisprudência	entendem	que	as	Casas
+Legislativas	–
+câmaras	municipais	e	assembleias	legislativas	–	têm	apenas	personalidade	judiciária,	e	não	jurídica.
+Assim,	podem	estar	em	juízo	tão	somente	na	defesa	de	suas	prerrogativas	institucionais.	Não	têm,	por
+conseguinte,	legitimidade	para	recorrer	ou	apresentar	contrarrazões	em	ação	envolvendo	direitos
+estatutários	de	servidores.	Tratandose	de	ação	ordinária	em	que	os	autores,	servidores	do	quadro	de
+pessoal	da	Assembleia	Legislativa	do	Estado	de	Goiás,	postulam	a	equiparação	de	seus	vencimentos,	a
+qual	fora	julgada	procedente,	a	legitimidade	recursal	recai	na	Fazenda	Pública	do	Estado	de	Goiás,	tendo
+em	vista	que	tal	matéria	extrapola	a	mera	defesa	das	prerrogativas	institucionais	da	Assembleia
+Legislativa,	assim	compreendidas	aquelas	eminentemente	de	natureza	política”	(STJ,	AgRg	no	AREsp
+44.971/GO,	1.ª	T.,	j.	22.05.2012,	rel.	Min.
+Arnaldo	Esteves	Lima).	No	mesmo	sentido,	STJ,	REsp	1.429.322/AL,	2.ª	T.,	j.	20/02/2014,	rel.	Min.
+Mauro	Campbell	Marques.
+V.	Massa	falida	deve	ser	representada	pelo	administrador	judicial,	e	não	pelo	falido.	O	falido	não
+pode	pleitear,	em	nome	próprio,	em	favor	da	massa	falida:	“Não	se	confundem	o	estabelecimento
+empresarial,	dotado	de	personalidade	jurídica,	e	a	massa	falida,	titular	de	personalidade	judiciária	e	de
+pretensões	específicas	à	sua	peculiar	condição”	(STJ,	REsp	438.013/RS,	2.ª	T.,	j.	05.11.2008,	rel.	Min.
+Herman	Benjamin).	Faculta-se	ao	mesmo,	no	entanto,	intervir	como	assistente	no	processo	em	que	a
+massa	falida	for	parte	(STJ,	REsp	41.967/SP,	1.ª	T.,	j.	20.06.1994,	rel.	Min.	Demócrito	Reinaldo;	STJ,
+REsp	144537/SP,	4.ª	T.,	j.	15.06.1999,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	STJ,	EDcl	no	AgRg	no
+REsp	902.632/RS,	2.ª	T.,	j.
+
+19.02.2009,	rel.	Min.	Humberto	Martins).
+VI.	Espólio.	Decidiu-se	que	o	espólio	tem	“capacidade	processual,	tanto	ativa,	como	passiva,	de	modo	é
+em	face	dele	que	devem	ser	propostas	as	ações	que	originariamente	se	dirigiriam	contra	o	de	cujus”
+(STJ,	REsp	1080614/SP,	3.ª	T.,	j.	01.09.2009,	rel.	Min.	Nancy	Andrighi).	Assim,	falecido	o	titular	do
+direito,	a	ação	deverá	ser	movida	pelo	(ou	contra	o)	espólio	(STJ,	REsp	1.222.561/RS,	2.ª	T.,	j.
+26.04.2011,	rel.	Min.	Mauro	Campbell	Marques).	Admite-se,	porém,	“somente	por	exceção,	que	os
+herdeiros,	ou	sucessores,	aperfeiçoem	a	sucessão	processual,	nos	termos	dos	arts.	1.055	e	seguintes	do
+CPC	[de	1973,	correspondentes	aos	arts.	687	ss.	do	CPC/2015]”	(STJ,	AgRg	na	ExeMS	115/DF,	1.ª
+Seção,	j.	24.06.2009,	rel.	Min.	Luiz	Fux).
+Decidiu-se,	também,	que	se	a	dívida	contraí
+[/PAGINA 144]
+
+[PAGINA 145]
+da	pelo	de	cujus	atinge	até	o	limite	dos	bens	deixados	por
+ele,	é	prescindível	a	participação	dos	herdeiros	necessários	como	litisconsortes	no	processo	de	execução
+do	referido	débito,	mormente	se	o	espólio	está	devidamente	representado	em	juízo	pelo	inventariante.	A
+participação	dos	herdeiros	na	lide	é	admitida,	porém	como	meros	assistentes	(STJ,	REsp	302.134/MG,
+RT	844/188).	A	nosso	ver,	o	art.	75,	VI	do	CPC/2015	não	retira	dos	herdeiros	legitimidade	para	defender
+a	herança.	Nesse	sentido:	“A	teor	do	disposto	no	art.	12,	V	[do	CPC/1973,	correspondente	ao	art.
+75,	VI	do	CPC/2015],	a	representação	judicial	do	espólio	compete	ao	inventariante.	Nada	obstante,	tal
+regra	não	retira	dos	herdeiros	a	legitimidade	para	defender	a	herança,	até	porque	são	eles	que	adquirem,
+com	a	ocorrência	do	evento	morte,	os	direitos	e	obrigações	do	de	cujus,	por	força	do	disposto	no	art.
+1.784	do	CC/2002”	(TJDF,	Ap	20070110127834,	1.ª	T.,	j.
+24.02.2010,	rel.	Flavio	Rostirola).
+VII.	Inventariante	dativo	e	legitimidade	dos	herdeiros	e	sucessores.	“No	caso	de	inventariante	dativo,
+o	legislador	entendeu	que	não	haveria	legitimidade	para	representação	plena	do	espólio,	razão	pela	qual
+todos	os	herdeiros	e	sucessores	são	chamados	a	compor	a	lide”	(STJ,	REsp	1.053.806/MG,	2.ª	T.,	j.
+14.04.2009,	rel.	Min.	Herman	Benjamin).	Admitiu-se	o	exercício	de	inventariança	por	ex-companheira,
+em	hipótese	em	que	a	única	herdeira	conhecida	era	filha	menor	do	falecido	e	da	inventariante	(STJ,	REsp
+725.456/PR,	j.	05.10.2010,	rel.	Min.	Luis	Felipe	Salomão).
+VIII.	Pessoa	jurídica	e	dúvida	sobre	quem	deva	representá-la.	A	pessoa	jurídica	deve	ser
+representada	por	quem	os	respectivos	estatutos	designarem,	ou,	não	havendo	tal	designação,	por	seus
+diretores	(cf.	art.	12,	VI	do	CPC/1973,	correspondente	ao	art.	75,	VII	do	CPC/2015).	“A	exigência	da
+juntada	dos	atos	constitutivos	da	pessoa	jurídica	como	condição	para	estar	em	juízo	só	é	admissível
+quando	haja	fundada	dúvida	sobre	a	habilitação	do	outorgante	da	procuração	ao	advogado”	(STJ,	AgRg
+no	Ag	1.084.141/RS,	4.ª	T.,	j.	18.08.2009,	rel.	Min.	João	Otávio	de	Noronha).	No	que	diz	respeito	a
+pessoa	jurídica	estrangeira	representada	por	outra	pessoa	jurídica	no	Brasil,	decidiu-se	que	“a	empresa
+que	no	país	representa	outra,	ainda	que	do	mesmo	grupo	econômico,	não	pode	postular	em	nome	próprio
+direito	que	é	da	representada”	(STJ,	REsp	1.002.811/SP,	3.ª	T.,	j.	07.08.2008,	rel.	p/	Acórdão	Min.	Ari
+Pargendler).
+IX.	Condomínio	e	representação	pelo	síndico.	Decidiu-se	que	“o	condomínio,	na	pessoa	do	síndico,	tem
+legitimidade	ativa	para	ajuizar	ação	com	escopo	de	reparar	vícios	na	construção,	sejam	nas	partes
+comuns,	sejam	em	unidades	autônomas,	por	força	do	art.	22,	§	1.º,	a,	da	Lei	4.591,	de	16.12.1964”	(STJ,
+REsp	950.522/PR,	4.ª	T.,	j.	18.08.2009,	rel.	Min.	Luis	Felipe	Salomão).	O	síndico,	porém,	não	responde
+pelas	obrigações	do	condomínio	em	nome	próprio:	o	síndico	apenas	representa	o	condomínio	(nesse
+
+sentido,	TJRS,	Ap	70032147688,	5.ª	Câm.	Cív.,	j.	14.
+[/PAGINA 145]
+
+[PAGINA 146]
+04.2010,	rel.	Des.	Luiz	Felipe	Brasil	Santos).
+Art.	76.	Verificada	a	incapacidade	processual	ou	a	irregularidade	da	representação	da	parte,	o	juiz
+suspenderá	o	processo	e	designará	prazo	razoável	para	que	seja	sanado	o	vício.
+§	1º	Descumprida	a	determinação,	caso	o	processo	esteja	na	instância	originária:	I	-	o	processo	será
+extinto,	se	a	providência	couber	ao	autor;	II	-	o	réu	será	considerado	revel,	se	a	providência	lhe	couber;
+III	-	o	terceiro	será	considerado	revel	ou	excluído	do	processo,	dependendo	do	polo	em	que	se	encontre.
+§	2º	Descumprida	a	determinação	em	fase	recursal	perante	tribunal	de	justiça,	tribunal	regional	federal	ou
+tribunal	superior,	o	relator:	I	-	não	conhecerá	do	recurso,	se	a	providência	couber	ao	recorrente;	II	-
+determinará	o	desentranhamento	das	contrarrazões,	se	a	providência	couber	ao	recorrido.
+CPC/1973:	Art.	13	(correspondente).
+•	STJ,	Súmula	115:	Na	instância	especial	é	inexistente	recurso	interposto	por	advogado	sem
+procuração	nos	autos.	[V.	§	2.º	do
+art.	76	do	CPC/2015].
+•	FPPC,	Enunciado	83:	Fica	superado	o	enunciado	115	da	súmula	do	STJ	após	a	entrada	em	vigor	do
+CPC	[de	2015]	(“Na	instância	especial	é	inexistente	recurso	interposto	por	advogado	sem	procuração
+nos	autos”	).
+SUMÁRIO:	I.	Correção	do	vício	relativo	às	capacidades	processual	e	postulatória	–	II.	Saneamento	do
+vício	em	sede	recursal	–	III.	Correção	do	vício	em	instâncias	extraordinárias.	Não	recepção	da	Súmula
+115	do	STJ	pelo	CPC/2015.
+I.	Correção	do	vício	relativo	às	capacidades	processual	e	postulatória.	De	acordo	com	o	art.	76	do
+CPC/2015,	deve	ser	viabilizada	a	correção	do	vício	relativo	à	ausência	de	capacidade	processual	ou
+postulatória.	Aplica-se	a	regra	quando	o	processo	estiver	em	trâmite	na	instância	originária	ou	em	grau
+de	recurso,	seja	diante	de	tribunal	de	justiça	e	regional	federal,	seja	perante	tribunal	superior	(cf.	§§	do
+art.	76	do	CPC/2015;	v.	também	comentário	a	seguir).
+II.	Saneamento	do	vício	em	sede	recursal.	Incide	o	art.	76	do	CPC/2015	não	só	em	primeira	instância,
+mas	também	em	sede	recursal,	inclusive	quando	se	tratar	de	tribunal	superior.	A	jurisprudência	era	no
+sentido	de	aplicação	do	art.	13	do	CPC/1973,	correspondente	ao	art.	76	do	CPC/2015,	em	se	tratando	de
+instância	recursal	“ordinária”:	“Verificada	a	ausência	da	procuração	outorgada	ao	subscritor	do	recurso
+de	apelação,	cabe	ao	Relator	abrir	prazo	razoável	para	que	seja	sanada	a	omissão.	Aplicação	do	art.	13
+[do	CPC/1973]	aos	dois	graus	da	instância	ordinária”	(STJ,	Corte	Especial,	j.	09.05.2002,	EREsp
+74101/MG).	No	mesmo	sentido,	cf.	STJ,	REsp	734.998/RS,	4.ª	T.,	j.	17.05.2007,	rel.	Min.	Hélio	Quaglia
+Barbosa;	STJ,	REsp	619.343/RS,	1.ª	T.,	j.	05.10.2006,	rel.	Min.	Luiz	Fux.	Não	sanado	o	vício,	o	recurso
+interposto	não	deve	ser	conhecido	(nesse	sentido,	TJRS,	Ap	70028330710,	9.ª	Câm.	Cív.,	j.	11.11.2009,
+rel.	Tasso	Caubi	Soares	Delabary).	Essa	orientação,	que	já	era	pacífica	na	vigência	do	CPC/1973,	restou
+consolidada,	ante	o	que	dispõe	§	2.º	do	art.	76	do	CPC/201
+[/PAGINA 146]
+
+[PAGINA 147]
+5.	Cf.	também	comentário	a	seguir.
+III.	Correção	do	vício	em	instâncias	extraordinárias.	Não	recepção	da	Súmula	115	do	STJ	pelo
+CPC/2015.	Na	vigência	do	CPC/1973,	os	tribunais	superiores	não	admitiam	a	correção	de	vício	relativo
+
+à	capacidade	postulatória	em	relação	aos	recursos	que	lhes	fossem	dirigidos	(cf.	Súmula	115	do	STJ,
+segundo	a	qual	“na	instância	especial	é	inexistente	recurso	interposto	por	advogado	sem	procuração	nos
+autos”).	Não	tínhamos	tal	orientação	por	acertada.	A	correção	do	vício	vinha	sendo	admitida	somente
+enquanto	o	recurso	especial	e/ou	extraordinário	ainda	se	encontrasse	em	trâmite	no	tribunal	a	quo	(nesse
+sentido,	cf.	STJ,	AgRg	nos	EREsp	797.481/SP,	rel.	Min.	Eliana	Calmon,	Corte	Especial,	j.	18.12.2009).
+Decidia-se,	também,	que	a	Súmula	115/STJ	não	se	aplicava	à	hipótese	de	haver	pedido	expresso	de
+posterior	juntada	do	mandato	(cf.	STJ,	EDcl	no	AgRg	no	REsp	672.997/CE,	2.ª	T.,	j.	13.04.2010,	rel.
+Min.	Mauro	Campbell	Marques).	A	orientação	outrora	firmada	na	Súmula	115/STJ,	de	todo	modo,	não
+tem	aplicação	à	luz	do	CPC/2015.	Com	efeito,	o	§	2.º	do	art.	76	do	CPC/2015,	textualmente,	determina
+sua	aplicação	também	a	“tribunal	superior”.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+Livro	III.	DOS	SUJEITOS	DO	PROCESSO
+TÍTULO	I.	DAS	PARTES	E	DOS	PROCURADORES
+Capítulo	II.	DOS	DEVERES	DAS	PARTES	E	DE	SEUS	PROCURADORES
+Capítulo	II
+DOS	DEVERES	DAS	PARTES	E	DE	SEUS	PROCURADORES
+Seção	I
+
+Dos	deveres
+Art.	77.	Além	de	outros	previstos	neste	Código,	são	deveres	das	partes,	de	seus	procuradores	e	de	todos
+aqueles	que	de	qualquer	forma	participem	do	processo:	I	-	expor	os	fatos	em	juízo	conforme	a	verdade;	II
+-	não	formular	pretensão	ou	de	apresentar	defesa	quando	cientes	de	que	são	destituídas	de	fundamento;	III
+-	não	produzir	provas	e	não	praticar	atos	inúteis	ou	desnecessários	à	declaração	ou	à	defesa	do	direito;
+IV	-	cumprir	com	exatidão	as	decisões	jurisdicionais,	de	natureza	provisória	ou	final,	e	não	criar
+embaraços	à	sua	efetivação;
+V	-	declinar,	no	primeiro	momento	que	lhes	couber	falar	nos	autos,	o	endereço	residencial	ou	profissional
+onde	receberão	intimações,	atualizando	essa	informação	sempre	que	ocorrer	qualquer	modificação
+temporária	ou	definitiva;	VI	-	não	praticar	inovação	ilegal	no	estado	de	fato	de	bem	ou	direito	litigioso.
+§	1º	Nas	hipóteses	dos	incisos	IV	e	VI,	o	juiz	advertirá	qualquer	das	pessoas	mencionadas	no	caput	de
+que	sua	conduta	poderá	ser	punida	como	ato	atentatório	à	dignidade	da	justiça.
+§	2º	A	violação	ao	disposto	nos	incisos	IV	e	VI	constitui	ato	atentatório	à	dignidade	da	justiça,	devendo	o
+juiz,	sem	prejuízo	das	sanções	criminais,	civis	e	processuais	cabíveis,	aplicar	ao	responsável	multa	de
+até	20%	(vinte	por	cento)	do	valor	da	causa,	de	acordo	com	a	gravidade	da	conduta.
+§	3º	Não	sendo	paga	no	prazo	a	ser	fixado	pelo	juiz,	a	multa	prevista	no	§	2º	será	inscrita	como	dívida
+a
+[/PAGINA 147]
+
+[PAGINA 148]
+tiva	da	União	ou	do	Estado	após	o	trânsito	em	julgado	da	decisão	que	a	fixou,	e	sua	execução	observará
+o	procedimento	da	execução	fiscal,	revertendo-se	aos	fundos	previstos	no	art.	97.
+§	4º	A	multa	estabelecida	no	§	2º	poderá	ser	fixada	independentemente	da	incidência	das	previstas	nos
+arts.	523,	§	1º,	e	536,	§	1º.
+§	5º	Quando	o	valor	da	causa	for	irrisório	ou	inestimável,	a	multa	prevista	no	§	2º	poderá	ser	fixada	em
+até	10	(dez)	vezes	o	valor	do	salário	mínimo.
+§	6º	Aos	advogados	públicos	ou	privados	e	aos	membros	da	Defensoria	Pública	e	do	Ministério	Público
+não	se	aplica	o	disposto	nos	§§	2º	a	5º,	devendo	eventual	responsabilidade	disciplinar	ser	apurada	pelo
+respectivo	órgão	de	classe	ou	corregedoria,	ao	qual	o	juiz	oficiará.
+§	7º	Reconhecida	violação	ao	disposto	no	inciso	VI,	o	juiz	determinará	o	restabelecimento	do	estado
+anterior,	podendo,	ainda,	proibir	a	parte	de	falar	nos	autos	até	a	purgação	do	atentado,	sem	prejuízo	da
+aplicação	do	§	2º.
+§	8º	O	representante	judicial	da	parte	não	pode	ser	compelido	a	cumprir	decisão	em	seu	lugar.
+CPC/1973:	Art.	14	(correspondente);	art.	879	(relacionado).
+V.	art.	142,	I,	do	CP.
+SUMÁRIO:	I.	Deveres	de	todos	os	sujeitos	do	processo	–	II.	Contempt	of	Court	–	III.	Atentado	–	IV.
+Sanção	pelo	descumprimento	de	deveres	processuais.	Distinção	entre	as	multas	previstas	no	art.	77	do
+CPC/2015	e	multas	de	caráter	coercitivo.	Possibilidade	de	cumulação.
+
+I.	Deveres	de	todos	os	sujeitos	do	processo.	Os	deveres	descritos	no	art.	77	do	CPC/2015	são
+consectários	do	princípio	da	boa-fé	objetiva	(cf.	comentário	ao	art.	5.º	do	CPC/2015),	e	dizem	respeito,
+de	acordo	com	o	caput	do	dispositivo,	a	“todos	aqueles	que	de	qualquer	forma	participam	do	processo”,
+isso	é,	não	apenas	às	partes,	a	terceiros	etc.,	mas,	também,	ao	órgão	jurisdicional	(no
+qualquer	forma	participam	do	processo”,	isso	é,	não	apenas	às	partes,	a	terceiros	etc.,	mas,	também,	ao
+órgão	jurisdicional	(no	mesmo	sentido,	cf.	Carlos	Alberto	Alvaro	de	Oliveira,	O	formalismo-valorativo.
+.,	RePro	137/7).	Trata-se,	nesse	caso,	de	decorrência	do	princípio	da	proteção	à	legítima	confiança	(cf.
+comentário	ao	art.	5.º	do	CPC/2015).	Na	vigência	do	CPC/1973,	o	STF,	no	julgamento	da	ADIn	2.652-
+6/DF	(j.	08.05.2003),	determinou	que	a	expressão	“ressalvados	os	advogados	que	se	sujeitam
+exclusivamente	aos	estatutos	da	OAB”,	contida	no	parágrafo	único	do	art.	14	do	CPC/1973,	deveria	ser
+interpretada	conforme	a	Constituição	Federal,	sem	redução	de	texto,	para	“abranger	advogados	do	setor
+privado	e	do	setor	público”.	Nesse	sentido,	o	§	6.º
+do	art.	77	do	CPC/2015	estabelece	que	os	advogados	(públicos	ou	privados),	bem	como	os	membros	da
+Defensoria	Pública	e	do	Ministério	Público	não	se	sujeitam	à	multa	prevista	no	referido	dispositivo,
+“devendo	eventual	responsabilidade	disciplinar	ser	apurada	pelo	respectivo	órgão	de	classe	ou
+corregedoria”.	Decidiu-se	que	“o	advogado	não	pode	ser	penalizado	nos	autos	em	que	supostamente	atua
+como	litigante	de	má-fé,	ainda	que	incorra	em	falt
+[/PAGINA 148]
+
+[PAGINA 149]
+a	profissional.	Eventual	conduta	desleal	do	advogado
+deve	ser	apurada	em	processo	autônomo,	nos	termos	do	art.	32	do	Estatuto	da	Advocacia	(Lei
+8.906/1994)”	(STJ,	REsp	1.247.820/AL,	rel.
+Min.	Humberto	Martins,	2.ª	T.,	j.	28.06.2011).	A	respeito	da	pessoalidade	da	sanção,	cf.	também
+comentário	ao	art.	81	do	CPC/2015.
+Cf.	comentário	ao	art.	5.º	do	CPC/2015.
+II.	Contempt	of	Court	.	Nos	sistemas	jurídicos	de	common	law	predomina	a	orientação	de	que	o	não-
+cumprimento	do	determinado	em	decisão	judicial	caracteriza	contempt	of	Court.	O	fundamento	de	tal
+orientação	está	em	que	a	Jurisdição,	se	não	tivesse	poder	de	fazer	respeitar	suas	decisões,	seria	atividade
+jurisdicional	na	forma,	mas	careceria	de	substância.	Em	decorrência	de	alterações	legislativas	realizadas
+no	CPC/1973,	a	ideia	acabou	sendo	incorporada	ao	direito	brasileiro:	“como	deflui	de	certas
+disposições	incriminatórias	[.	.]	embora	desconhecendo	a	genérica	possibilidade	de	qualificar	o
+comportamento	concreto	do	executado	como	ofensivo	à	dignidade	da	jurisdição,	caracterizando	desacato,
+o	direito	pátrio	sanciona	penalmente	situações	análogas.	Caminha	o	ordenamento,	portanto,	nos	rumos	do
+contempt	of	Court,	que	a	generalização	da	eficácia	mandamental	tanto	clama”	(Araken	de	Assis,	ob.	cit.,
+n.	12,	p.	108).	O	CPC/2015	mantém	essa	ordem	de	ideias.	Diversamente,	em	sistemas	jurídicos	de
+common	law,	antes	de	depender	de	norma	jurídica	que	o	autorize,	entende-se	que	esse	poder	é	implícito
+ao	atribuído	aos	órgãos	jurisdicionais	pelo	ordenamento	jurídico	(cf.	Marcelo	Lima	Guerra,	ob.	cit.,	n.
+3.1.4,	p.	90-91;	Guido	Fernando	Silva	Soares,	Common	Law:	Introdução	ao	direito	dos	EUA,	n.	7.1,	p.
+124).	C.	J.	Miller,	justificando	o	Contempt	of	Court	no	direito	inglês,	ressalta	a	necessidade	da
+disposição	de	um	sistema	para	a	administração	da	justiça	pelos	tribunais,	para	que	neles	se	mantenha	a	fé
+pública	(	Contempt	of	Court,	p.	1).	Dentre	outras	classificações,	a	doutrina	norte-americana	distingue	o
+civil	contempt	do	criminal	contempt.
+No	segundo	caso,	a	sanção	consiste	em	punir	criminalmente	uma	conduta	desrespeitosa	(cf.	Richard	L.
+Marcus,	Martin	H.	Redish	e	Edward	F.	Sherman,	Civil	procedure	–	A	modern	approach,	p.	91).	Entre
+nós,	o	descumprimento	de	ordem	judicial	(tutela	mandamental)	pode	configurar	crime	de	desobediência
+
+(cf.	§	3.º	do	art.	536	do	CPC/2015,	e	respectivo	comentário).	Sobre	o	tema,	cf.	o	que	escrevemos	em
+Execução	civil,	1.	ed.,	2002,	n.	5.5.6.1	ss.,	p.	337	ss.;	2.	ed.,	2004,	n.	25.1	ss.,	p.	463	ss.
+III.	Atentado.	Atentado,	consoante	escrevemos	em	outro	estudo,	é	a	inovação	ilícita	da	situação	de	fato
+sobre	a	qual	incida	ou	deva	incidir	algum	ato	ou	decisão	judicial:	“A	inovação	ilícita	pode	ocorrer	em
+relação:	(a)	ao	objeto	do	processo:	alterações	fáticas	em	relação	ao	bem	material	objeto	da	demanda,
+visando	tornar	inexequível	ou	dificilmente	exequível	a	sentença	que	ao	final	se	proferir;	e	(b)	ao	objeto
+da	prova:	alterações	fáticas	no	local	ou	bem	que	será	objeto	de	perícia	ou	inspe
+[/PAGINA 149]
+
+[PAGINA 150]
+ção	judicial,	com
+inovação	prejudicial	à	apuração	da	verdade”	(	Processo	civil	moderno,	v.	4.,	Procedimentos	cautelares
+e	especiais,	5.	ed.,	n.	7.14.1,	item	escrito	em	coautoria	com	Fernando	da	Fonseca	Gajardoni,	p.	212).	A
+medida	era	prevista,	no	CPC/1973	(arts.	879	a	881),	como	cautelar,	situação	que	criticávamos	(cf.	o	que
+escrevemos	na	obra	citada	acima,	n.	7.14.3,	p.	213).	À	época	do	CPC/1939,	a	figura	era	cuidada	como
+mero	incidente,	embora	autuado	em	apartado	(cf.	Eduardo	Cunha	de	Abreu,	Do	atentado.	.,	Doutrinas
+essenciais.	.	5/789).	O
+CPC/2015,	corretamente,	deu	novo	tratamento	à	matéria	(art.	77,	§	7.º,	do	CPC/2015).
+IV.	Sanção	pelo	descumprimento	de	deveres	processuais.	Distinção	entre	as	multas	previstas	no	art.
+77	do	CPC/2015	e	multas	de	caráter	coercitivo.	Possibilidade	de	cumulação.	A	multa	mencionada	nos
+arts.	536,	§	1.º	e	537	do	CPC/2015	distingue-se	da	referida	no	art.	77	do	CPC/2015.	A	respeito,	cf.	o	que
+escrevemos	em	Execução	civil,	1.	ed.,	2002,	n.	5.5.6.1	e	ss.,	p.	337	e	ss.;	2.
+ed.,	2004,	n.	25.1	e	ss.,	p.	463	e	ss.	A	multa	prevista	no	art.	77	do	CPC/2015	tem	caráter	punitivo,	sendo
+definida	após	a	prática	de	ato	considerado	atentatório	à	dignidade	da	Jurisdição.	Não	se	trata,	portanto,
+de	multa	pré-estabelecida,	com	caráter	coercitivo,	tal	como	ocorre	no	caso	do	art.	537	do	CPC/2015.
+Além	disso,	enquanto	esta	multa	é	devida	ao	à	outra	parte	(cf.	art.	537,	§	2.º,	do	CPC/2015;	assim
+também	se	decidiu,	à	luz	do	CPC/1973,	cf.	STJ,	REsp	949.509/RS,	rel.	p/	acórdão	Min.	Marco	Buzzi,	j.
+08.05.2012),	a	multa	a	que	se	refere	o	art.	77	do	CPC/2015	é	devida	ao	Estado	(cf.	§	3.º	do	art.	77	do
+CPC/2015).	Nada	impede,	por	outro	lado,	que	se	cumulem	as	multas	referidas	nos	dispositivos	citados,
+já	que	as	mesmas	têm	pressupostos	distintos	(cf.	§	4.º	do	art.	77	do	CPC/2015).	Note-se	que	as	condutas
+referidas	nos	incs.	I	a	III	e	V	não	se	submetem	à	multa	(cf.	§	2.º	do	mesmo	artigo),	no	entanto,	podem
+configurar	litigância	de	má-fé	(cf.	art.	80	do	CPC/2015),	sujeitando-se,	então,	à	sanção	respectiva	(cf.
+art.	81	do	CPC/2015).	O
+que	se	disse	em	relação	à	multa	referida	no	art.	536,	§	1.º	e	537	do	CPC/2015	também	aplica-se	à	multa
+prevista	no	art.	523,	§	1.º,	do	CPC/2015.
+Art.	78.	É	vedado	às	partes,	a	seus	procuradores,	aos	juízes,	aos	membros	do	Ministério	Público	e	da
+Defensoria	Pública	e	a	qualquer	pessoa	que	participe	do	processo	empregar	expressões	ofensivas	nos
+escritos	apresentados.
+§	1º	Quando	expressões	ou	condutas	ofensivas	forem	manifestadas	oral	ou	presencialmente,	o	juiz
+advertirá	o	ofensor	de	que	não	as	deve	usar	ou	repetir,	sob	pena	de	lhe	ser	cassada	a	palavra.
+§	2º	De	ofício	ou	a	requerimento	do	ofendido,	o	juiz	determinará	que	as	expressões	ofensivas	sejam
+riscadas	e,	a	requerimento	do	ofendido,	determinará	a	expedição	de	certidão	com	inteiro	teor	das
+expressões	ofensivas	e	a	colocará	à	disposição	da	parte	interessada.
+
+CPC/1973:	Art.	15	(correspondente).
+Expressões	ofensivas.	Veda-se	aos	sujeitos	do	processo	o	uso	de	expre
+[/PAGINA 150]
+

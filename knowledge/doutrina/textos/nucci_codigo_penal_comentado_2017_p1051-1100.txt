@@ -1,0 +1,1683 @@
+[META]
+TITULO: Código Penal Comentado
+AUTOR: Guilherme de Souza Nucci
+ANO: 2017
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 1051-1100
+ARQUIVO_ORIGINAL: #Código Penal Comentado (2017) - Guilherme de Souza Nucci.pdf
+CITACAO_ABNT: NUCCI, Guilherme de Souza. Código Penal Comentado. São Paulo: Forense, 2017.
+[/META]
+
+[PAGINA 1051]
+falar  a  respeito  do  que  lhe  contou  o
+curatelado  ou  a  respeito  de  sua  confissão  extrajudicial,  buscando  confirmá-la  em  juízo,  a  contragosto  da  pessoa  a  quem  deveria
+proteger. Exerce função especial no processo penal, não podendo concordar em depor contra o menor de 21 anos. Defendemos, em
+nosso Código de Processo Penal comentado, em nota 50 ao art. 208, que ele é impedido de prestar depoimento. Caso assim aja,
+pode ser processado por violação de segredo profissional, previsto neste artigo. T
+ORNAGHI assim também pensa (Compêndio de
+processo penal, t. III, p. 881). Cumpre ressaltar, no entanto, que, com a edição no novo Código Civil, não há mais sentido em se
+nomear curador ao réu menor de 21 anos, que se tornou plenamente capaz, para todos os fins, aos 18 anos. Ver nota 81-A ao art.
+15 do nosso Código de Processo Penal comentado.
+155. Elemento  normativo  do  tipo:  a  expressão  “sem  justa  causa”  está  a  evidenciar  que  não  é  criminosa  qualquer
+revelação  de  segredo,  mas  somente  aquela  que  não  possuir  amparo  legal.  Ex.:  o  funcionário  que,  durante  a  condução  de  uma
+sindicância,  toma  conhecimento  de  um  segredo,  passível  de  incriminar  outro  servidor;  revelando-o  e  dando  margem  a  outro
+processo administrativo, está cumprindo seu dever, no interesse da Administração Pública. Por outro lado, é preciso destacar que
+
+há muitas profissões protegidas pelo sigilo, ou seja, estão impedidas legalmente de divulgar o segredo, mesmo que autorizado pelo
+interessado (como ocorre com médicos e advogados).
+156. Elemento subjetivo: é o dolo, inexistindo a forma culposa. Não há, também, elemento subjetivo específico.
+157. Segredo: é todo assunto ou fato que não deve ser divulgado, tornado público ou conhecido de pessoas não autorizadas.
+158. Função:  é  a  prática  ou  o  exercício  de  uma  atividade  inerente  a  um  cargo,  que  é  todo  emprego  público  ou  particular.
+Ex.: a escrevente de sala de um juiz toma conhecimento, em razão de sua função, de segredos narrados durante uma audiência de
+divórcio, que corre em segredo de justiça, revelando-os a terceiros.
+159. Ministério:  é  o  exercício  de  uma  atividade  religiosa.  Ex.:  é  próprio  do  sacerdote  ouvir  a  confissão  de  fiéis,  devendo
+guardar segredo. A revelação do que lhe foi contado pode constituir crime.
+160. Ofício:  é  uma  ocupação  manual  ou  mecânica,  que  demanda  habilidade,  sendo  útil  a  alguém.  Ex.:  a  empregada
+doméstica  que,  tomando  conhecimento  de  um  segredo  dos  patrões,  por  trabalhar  no  interior  da  residência,  revela-o  a  terceiros
+comete o delito.
+161. Profissão: é uma atividade especializada, que exige preparo. Ex.: o médico que, ouvindo segredo do paciente, revela-o
+a terceiros.
+162. Objetos  material  e  jurídico:  o  objeto  material  é  o  assunto  transmitido  em  caráter  sigiloso,  que  sofre  a  conduta
+criminosa; o objeto jurídico é a inviolabilidade da intimidade e da vida privada
+[/PAGINA 1051]
+
+[PAGINA 1052]
+das pessoas.
+163. Classificação: trata-se de crime próprio (aquele que demanda sujeito ativo qualificado ou especial); formal (delito que
+não  exige  necessariamente  resultado  naturalístico  –  dano  para  a  vítima  –  embora  possa  ocorrer);  de  forma  livre  (podendo  ser
+cometido por qualquer meio eleito pelo agente); comissivo (“revelar” implica ação) e, excepcionalmente, comissivo por omissão
+(omissivo  impróprio,  ou  seja,  é  a  aplicação  do  art.  13,  §  2.º,  do  Código  Penal);  instantâneo  (cujo  resultado  se  dá  de  maneira
+instantânea,  não  se  prolongando  no  tempo);  unissubjetivo  (que  pode  ser  praticado  por  um  só  agente);  unissubsistente  ou
+plurissubsistente (pode constituir-se por um ou mais atos); admite tentativa.
+164. Ação  pública  condicionada:  sem  representação  da  vítima,  o  Ministério  Público  não  pode  ingressar  com  a  ação
+penal.
+Invasão de dispositivo informático
+165
+Art.  154-A.  Invadir
+166-168-A
+  dispositivo  informático  alheio,  conectado  ou  não  à  rede  de  computadores,
+mediante violação indevida de mecanismo de segurança
+169
+ e com o fim de obter, adulterar ou destruir dados
+ou informações sem autorização expressa ou tácita do titular do dispositivo ou instalar vulnerabilidades para
+obter vantagem ilícita:
+170-172
+Pena – detenção, de 3 (três) meses a 1 (um) ano, e multa.
+173
+§  1.º  Na  mesma  pena  incorre  quem  produz,
+174-176
+  oferece,  distribui,  vende  ou  difunde  dispositivo  ou
+programa de computador com o intuito de permitir a prática da conduta definida no caput.
+177-178
+§ 2.º Aumenta-se a pena de um sexto a um terço se da invasão resulta prejuízo econômico.
+179
+§  3.º  Se  da  invasão  resultar  a  obtenção  de  conteúdo  de  comunicações  eletrônicas  privadas,  segredos
+comerciais ou industriais, informações sigilosas, assim definidas em lei, ou o controle remoto não autorizado
+do dispositivo invadido:
+180
+Pena – reclusão, de 6 (seis) meses a 2 (dois) anos, e multa, se a conduta não constitui crime mais grave.
+181
+§ 4.º Na hipótese do § 3.º, aumenta-se a pena de um a dois terços se houver divulgação, comercialização
+ou transmissão a terceiro, a qualquer título, dos dados ou informações obtidos.
+182-183
+§ 5.º Aumenta-se a pena de um terço à metade se o crime for praticado contra:
+184
+I – Presidente da República, governadores e prefeitos;
+II – Presidente do Supremo Tribunal Federal;
+III  –  Presidente  da  Câmara  dos  Deputados,  do  Senado  Federal,  de  Assembleia  Legislativa  de  Estado,  da
+Câmara Legislativa do Distrito Federal ou de Câmara Municipal; ou
+IV – dirigente máximo da administração direta e indireta federal, estadual, municipal ou do Distrito Federal.
+165. Bem jurídico mediato e imediato: a nova figura típica – invasão de dispositivo informático – insere-se no contexto
+dos  crimes  contra  a  liberdade  individual,  bem  jurídico  mediato  a  ser  tutelado.  Porém,  de  forma  imediata,  ingressou,  com
+
+propriedade,  no  campo  dos  crimes  con
+[/PAGINA 1052]
+
+[PAGINA 1053]
+tra  a  inviolabilidade  dos  segredos,  cuja  proteção  se  volta  à  intimidade,  à  vida  privada,  à
+honra, à inviolabilidade de comunicação e correspondência, enfim, à livre manifestação do pensamento, sem qualquer intromissão
+de terceiros. Sabe-se, por certo, constituir a comunicação telemática o atual meio mais difundido de transmissão de mensagens de
+toda ordem entre pessoas físicas e jurídicas. O e-mail tornou-se uma forma padrão de enviar informes e mensagens a profissionais
+e particulares, seja para fins comerciais, seja para outras finalidades das mais diversas possíveis. As redes sociais criaram, também,
+mecanismos de comunicação, com dispositivos próprios de transmissão de mensagens. Torna-se cada vez mais rara a utilização de
+cartas  e  outras  bases  físicas,  suportando  escritos,  para  a  comunicação  de  dados  e  informes.  Diante  disso,  criou-se  novel  figura
+típica incriminadora, buscando punir quem viole não apenas a comunicação telemática, mas também os dispositivos informáticos,
+que mantém dados relevantes do seu proprietário.
+166. Análise do núcleo do tipo: invadir significa violar, transgredir, entrar à força em algum lugar, carregando o verbo
+nuclear  do  tipo  um  forte  conteúdo  normativo.  Logo,  a  conduta  do  agente  não  é  simplesmente  entrar  no  dispositivo  informático
+alheio, o que se pode dar por mero acidente, mas ocupar um espaço não permitido. O objeto da conduta é o dispositivo informático
+(qualquer  mecanismo  apto  a  concentrar  informação  por  meio  de  computador  ou  equipamento  similar).  São  dispositivos
+informáticos:  computador  de  mesa  (desktop), notebook,  tablet  (ipad  e  outros),  laptop,  bem  como  os  smartphones,  que  hoje
+constituem verdadeiros “minicomputadores”, dentre outros a surgir com idêntica finalidade. Tal dispositivo informático há de ser
+alheio (pertencente a terceira pessoa), elemento normativo do tipo, tal como figura no furto (art. 155, CP). Faz-se menção expressa
+ao  estado  do  dispositivo  no  tocante  à  rede  de  computadores,  incluindo,  por  óbvio,  a  internet  (rede  mundial  de  computadores):  é
+indiferente  haja  conexão  ou  não.  E  está  correta  tal  medida,  pois  o  agente  pode  invadir  computadores  desconectados  de  redes,
+conseguindo  obter  dados,  adulterar  ou  destruir  informes  ali  constantes.  Pode,  ainda,  instalar  vulnerabilidades,  que  somente  se
+manifestarão quando houver conexão futura à rede. Há finalidade específica para a conduta, como se verá em nota própria. Incluiu-
+se,  ainda,  elemento  normativo  do  ilícito,  a  analisar  em  tópico  destacado.  Finalmente,  a  outra  conduta,  de  caráter  alternativo
+(praticar  a  invasão  ou  a  instalação  constitui  tipo  misto  alternativo,  vale  dizer,  cometer  uma  ou  as  duas  condutas  implica  crime
+único)  é  instalar  (preparar  algo  para  funcionar)  vulnerabilidade  (mecanismos  aptos  a  gerar  aberturas  ou  flancos  em  qualquer
+sistema). Deve-se comp
+[/PAGINA 1053]
+
+[PAGINA 1054]
+lementar o objeto dessa conduta, que é o dispositivo informático. Portanto, o propósito do agente é obter
+qualquer vantagem ilícita, tornando o dispositivo informático, como, por exemplo, o computador de alguém, acessível à violação.
+Nota-se  que  a  mera  instalação  de  vulnerabilidade  (ex.:  softwares  mal  intencionados,  que  permitem  o  acesso  ao  conteúdo  do
+dispositivo informático tão logo seja conectado à rede) não causa a violação, mas é nitidamente o seu preparo. Optou o legislador
+por  equiparar  a  preparação  e  a  execução  em  igual  quilate,  para  fins  de  criminalização.  Assim,  o  autor  pode  apenas  instalar
+vulnerabilidade  no  dispositivo  informático  para  que,  no  futuro,  outrem  dele  se  valha,  como  também  pode,  ele  mesmo,  utilizar  o
+mecanismo de espionagem para a violação de dados e informes. Se o mesmo agente instalar a vulnerabilidade e, depois, invadir o
+dispositivo informático cometerá um só crime. Caso ele instale, mas outro invada, cada qual cometerá o seu delito distinto, ambos
+tipificados no art. 154-A. Se duas pessoas, mancomunadas, dividem tarefas (um instala; outro invade), trata-se de crime único, em
+concurso de agentes (art. 29, CP).
+167. Sujeitos ativo e passivo: podem ser qualquer pessoa. Quanto ao sujeito ativo, não se demanda nenhuma qualidade
+especial,  razão  pela  qual  é  indiferente  seja  um  técnico  em  informática  ou  um  aventureiro  na  área.  No  tocante  ao  sujeito  passivo,
+aponta-se  seja  o  dispositivo  informático  de  outra  pessoa,  porém,  a  qualquer  título  (propriedade  ou  posse).  Tratando-se  de  mera
+detenção  (ex.:  Fulano  entrega  o  notebook  a  Beltrano  para  que  este  o  leve  ao  conserto,  momento  em  que  ocorre  a  violação),  o
+sujeito passivo é o proprietário ou possuidor e não o detentor.
+168. Elemento subjetivo do tipo: é o dolo. Há elemento subjetivo do tipo específico para as duas condutas previstas no
+tipo. No tocante à invasão de dispositivo informático é o fim de obter, adulterar ou destruir dados ou informações. Focaliza-se a
+obtenção (ter acesso a algo), a adulteração (modificação do estado original) ou a destruição (eliminação total ou parcial) de dados
+(elementos  apropriados  à  utilização  de  algo)  ou  informações  (conhecimentos  de  algo  em  relação  a  pessoa,  coisa  ou  situação).
+Quanto  à  instalação  de  vulnerabilidade  é  a  obtenção  de  vantagem  ilícita  (qualquer  lucro  ou  proveito  contrário  ao  ordenamento
+jurídico).  Pode  ser,  inclusive,  a  obtenção  da  invasão  do  dispositivo  informático  em  momento  posterior  para  obter  dados  e
+informações. Não se pune a forma culposa.
+168-A.  Confusão  com  o  delito  de  exercício  arbitrário  das  próprias  razões:  quando  a  invasão  tiver  como  meta
+provocar  algum  dano  no  ambiente  informático,  mas  justificado  pelo  débito  que  o  dono  do  computador  ainda  possui,  deve-se
+dispensar a fórmula do art. 154-A, adotando-se o tipo do art. 345 do
+[/PAGINA 1054]
+
+[PAGINA 1055]
+Código Penal. Na jurisprudência: TJDF: “Trata-se de apelação
+criminal  interposta  contra  a  sentença  que  extinguiu  a  punibilidade  do  autor  do  fato,  com  fundamento  no  art.  107,  IV,  do  Código
+Penal. O recorrente representou ao Ministério Público para que fosse apurada a prática, em tese, de crime previsto no art. 154-A,
+CP, ao argumento de que o apelante celebrou contrato com o representado (G. L. O.), para que fossem prestados serviços de design
+
+de sítio na internet. Alega que o serviço foi prestado com atraso e ficaram pendentes algumas alterações de layout, o que motivou o
+não pagamento integral dos serviços. Todavia, o representado, inconformado com o não pagamento integral pelo serviço, invadiu o
+servidor onde o sítio da internet estava hospedado e deletou os arquivos que nele se encontravam. 2. O entendimento esposado na
+sentença guerreada não merece reparos, uma vez que a conduta de G. L. se amolda ao crime previsto no art. 345 do Código Penal,
+ou seja, exercício arbitrário das próprias razões. Ressalta-se que o autor do fato retirou da internet a página criada por ele e pela
+qual,  segundo  seu  entendimento,  não  foi  devidamente  remunerado,  buscando,  assim,  fazer  justiça  pelas  próprias  mãos,  para
+satisfazer pretensão que entendia ser legítima. 3. Percebe-se, portanto, que o representado possuía o acesso necessário para colocar
+a  página  na  rede,  bem  como  para  excluí--la,  não  havendo  falar-se  em  invasão  de  dispositivo  informático,  mediante  indevida
+violação de mecanismo de segurança e com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa
+ou tácita do titular do dispositivo ou instalar vulnerabilidade para obter vantagem ilícita. Destarte, o elemento subjetivo do tipo não
+era  o  dolo  de  invadir  dispositivo  informático  alheio,  e  sim  o  de  fazer  valer  um  direito  que  o  representado  acreditava  possuir,
+descaracterizando a conduta prevista no art. 154-A do CP, restando, todavia, configurada a conduta prevista no art. 345 do Código
+Penal. 4. Conforme bem salientado pelo Parquet, no parecer de fls. 101/103, exarado pela Promotora de Justiça Wanessa Alpino
+Bigonha  Alvim,  que  bem  analisou  a  questão,  é  forçoso  reconhecer  que  o  ora  apelante  já  tinha  conhecimento  do  fato  e  de  sua
+autoria, desde o dia 22.08.2014 e já possuía elementos suficientes para oferecer a queixa-crime, dentro do prazo decadencial de 06
+(seis)  meses.  Contudo,  o  apelante  se  manteve  inerte,  deixando  decair  o  direito  de  oferecer  queixa-crime  pela  prática  do  crime
+previsto  no  art.  345  do  Código  Penal.  5.  Recurso  conhecido  e  desprovido,  correta  a  fundamentação  realizada  pelo  Douto
+Magistrado a  quo,  ao  prolatar  a  r.  sentença,  a  qual  deve  ser  mantida  em  sua  integralidade  e  pelos  seus  fundamentos”  (APJ
+20140111998169, 3.
+a
+ T. Recursal, rel. Robson Barbosa de Azevedo, 28.07.2015, DJe 08.09.2015, p. 312).
+169. Elemento n
+[/PAGINA 1055]
+
+[PAGINA 1056]
+ormativo do tipo:  a  expressão  mediante  violação  indevida  de  mecanismo  de  segurança  é  de  valoração
+fático-jurídica.  Segundo  cremos,  em  primeiro  plano,  desnecessária  a  sua  inserção.  Afinal,  se  o  verbo  nuclear  é  invadir  (e  não
+simplesmente ingressar), já existe a forte conotação de transgressão e violação. Além disso, tratando-se de violação (infringência,
+entrar  sem  autorização),  automaticamente,  deduz-se  ser  indevida.  Por  outro  lado,  se  houver  violação  (ofensa  violenta  a  algo)
+devida,  cuida-se  de  exercício  regular  de  direito  ou  estrito  cumprimento  do  dever  legal  (até  mesmo,  legítima  defesa  ou  estado  de
+necessidade). Mas é preciso conectar a violação indevida ao mecanismo de segurança (qualquer utilitário instalado para proteger o
+acesso ao dispositivo informático), o que reputamos o calcanhar de Aquiles do tipo em comento. Afinal, somente se configura o
+crime se a invasão do dispositivo informático se der por meio de violação de mecanismo de segurança. Ora, estão alijados da tutela
+penal  todos  os  dispositivos  informáticos  que  não  possuam  tal  mecanismo.  Noutros  termos,  se  a  vítima  mantém  computador  com
+programa específico de proteção, necessitando-se de senha para se ter acesso ao aparelho, a invasão pode configurar-se, desde que
+o agente viole esse mecanismo de segurança. Mas, caso o ofendido se esqueça de ativar a senha de proteção ou mesmo não haja
+programa nesse prisma, está desguarnecido da proteção penal, o que não consideramos correto. Mas assim é o tipo incriminador.
+Invadir  computador,  conectado  à  internet,  que  não  possua  mecanismo  de  segurança  (como  um  firewall)  é  fato  atípico.  Quer-se,
+pois, que a vítima se proteja de algum modo; se não o fizer, a tutela penal não a alcança.
+170. Elemento  normativo  do  ilícito:  a  expressão  sem  autorização  expressa  ou  tácita  do  titular  do  dispositivo  contém
+nítido  elemento  do  injusto,  que  não  precisaria  constar  do  tipo  penal.  Afinal,  por  óbvio,  somente  se  pode  falar  em  crime  quando
+houver  ingresso  em  dispositivo  informático  alheio  sem  o  consentimento  deste.  Mas,  optou  o  legislador  por  incluir  na  descrição
+típica o elemento vinculado à ilicitude. Diante disso, havendo autorização, o fato é atípico. Outro aspecto a se ressaltar foi a inédita
+cautela de se apontar as modalidades de consentimento – o que não ocorre em vários outros dispositivos legais similares: pode ser
+expresso  (visualizado  facilmente  por  meio  escrito  ou  falado)  ou  tácito  (deduzido  da  ação  do  proprietário  ou  possuidor  do
+dispositivo).
+171. Objetos material e jurídico:  o  objeto  material  é  o  dispositivo  informático;  o  objeto  jurídico  é  a  inviolabilidade  da
+intimidade e da vida privada das pessoas.
+172. Classificação:  trata-se  de  crime  comum  (pode  ser  cometido  por  qualquer  pessoa);  formal  (delito  que  não  exige
+resultado naturalístico, consistente na e
+[/PAGINA 1056]
+
+[PAGINA 1057]
+fetiva lesão à intimidade ou vida privada da vítima, embora possa ocorrer); de forma livre
+(pode ser cometido por qualquer meio eleito pelo agente); comissivo (as condutas implicam ações); instantâneo (o resultado se dá
+de maneira determinada na linha do tempo), podendo assumir a forma de instantâneo de efeitos permanentes, quando a invasão ou
+a  instalação  de  vulnerabilidade  perpetua-se  no  tempo,  como  rastro  da  conduta;  unissubjetivo  (pode  ser  cometido  por  uma  só
+pessoa); plurissubsistente (cometido por vários atos); admite tentativa.
+173. Benefícios  penais:  trata-se  de  infração  de  menor  potencial  ofensivo.  Admite  transação.  Se  houver  condenação,
+admite-se substituição por restritivas de direitos ou aplicação de outros benefícios (sursis, regime aberto).
+174. Análise do núcleo do tipo: a figura de equiparação, em verdade, tem a finalidade de punir os atos preparatórios do
+
+crime  de  invasão  de  dispositivo  informático.  Para  que  a  violação  se  concretize,  torna-se  fundamental  existir  mecanismo  apto  a
+viabilizá-la. Portanto, os verbos do tipo são: produzir (dar origem a algo, criar, fabricar); oferecer (apresentar algo a alguém para
+que  seja  aceito);  distribuir  (entregar  a  várias  pessoas);  vender  (alienar  mediante  a  entrega  de  certo  preço);  difundir  (tornar  algo
+conhecido,  propagar).  São  condutas  alternativas,  significando  que  a  prática  de  uma  ou  várias  delas  provoca  a  concretização  de
+crime único, quando no mesmo contexto. O objeto é o dispositivo (entendido, neste cenário, como mecanismo) ou programa (é o
+software,  destinado  a  exercer  funções  preparadas  a  atingir  certas  finalidades)  de  computador  (compreendido  em  sentido  lato,
+abrangendo  todas  as  espécies  cabíveis,  tais  como  desktop,  notebook,  tablet,  smartphone  etc.).  Noutros  termos,  esta  figura  típica
+busca  punir  a  preparação  do  crime  descrito  no  caput,  alcançando  quem  permite,  de  qualquer  forma,  o  acesso  a  mecanismos  ou
+programas específicos para a violação de dispositivo informático.
+175. Sujeitos ativo e passivo: podem ser qualquer pessoa. Entretanto, há um problema no tocante ao sujeito passivo. A
+mera produção, oferecimento, distribuição, venda ou difusão de dispositivo ou programa de computador, que permita a prática do
+delito  de  invasão  de  dispositivo  informático  não  possui  nenhum  sujeito  passivo  determinado.  Afinal,  consiste  na  preparação  do
+delito do caput. Diante disso, o interesse punitivo estatal, nesta hipótese, volta-se à proteção da sociedade, em nítido crime vago.
+Não  se  quer  a  produção  desse  tipo  de  programa  para  que  o  crime  de  invasão  de  dispositivo  informático  não  ocorra.  Ora,  se  o
+sujeito  passivo,  na  realidade,  é  a  sociedade,  este  delito  poderá  não  ser  autonomamente  punido,  pois  o  art.  154-B  estipula  seja  a
+ação pública condicionada à representação da vítima, salvo se o crime é cometido cont
+[/PAGINA 1057]
+
+[PAGINA 1058]
+ra administração direta ou indireta. Portanto,
+quando o agente produz software para invadir computador de pessoa física ou jurídica, não vinculada à administração, constitui-se
+crime de ação pública condicionada, motivo pelo qual não há quem possa representar, na exata medida em que o sujeito passivo é
+a sociedade. Inviável punir-se. Se o agente produz programa para invadir computador da administração pública, direta ou indireta,
+sendo  ação  pública  incondicionada,  há  viabilidade  de  punição.  Outra  hipótese,  para  permitir  a  ação  penal,  advém  da  junção  da
+figura  prevista  no  §  1.º  com  a  do  caput.  Se  Fulano  produz  o  software  viabilizador  da  invasão,  transmitindo-o  a  Beltrano,  que  o
+utiliza  para  violar  o  computador  de  Sicrano,  pode-se  dizer,  em  apuração  conjunta,  ter  sido  sujeito  passivo  de  ambos  os  crimes
+Sicrano, que precisa representar contra Fulano e Beltrano. Entretanto, detectando-se somente Fulano e seu programa invasor, sem
+qualquer nexo com a invasão concretizada, inexiste quem possa contra ele representar.
+176. Elemento subjetivo do tipo: é o dolo. Há elemento subjetivo específico, consistente no intuito de permitir a prática
+da conduta definida no caput (invasão de dispositivo informático). Não se pune a forma culposa.
+177. Objetos  material  e  jurídico:  o  objeto  material  é  o  dispositivo  ou  programa  de  computador.  O  objeto  jurídico  é  a
+inviolabilidade da intimidade e da vida privada.
+178. Classificação:  trata-se  de  crime  comum  (pode  ser  cometido  por  qualquer  pessoa);  formal  (delito  que  não  exige
+resultado naturalístico, consistente na efetiva lesão à intimidade ou vida privada da vítima, embora possa ocorrer); de forma livre
+(pode ser cometido por qualquer meio eleito pelo agente); comissivo (as condutas implicam ações); instantâneo (o resultado se dá
+de maneira determinada na linha do tempo); unissubjetivo (pode ser cometido por uma só pessoa); plurissubsistente (cometido por
+vários  atos);  não  admite  tentativa  por  se  tratar  de  figura  típica  de  exceção,  cuja  finalidade  é  punir  atos  preparatórios  do  crime
+previsto no caput.
+179. Causa de aumento e exaurimento: o delito é formal, bastando a invasão de dispositivo informático ou a instalação
+de vulnerabilidade para se consumar. Entretanto, é possível que, além da mera invasão de privacidade, ocorra prejuízo econômico
+para  a  vítima,  constituindo  o  exaurimento  do  delito.  O  esgotamento  da  prática  criminosa  provoca  o  aumento  da  pena,  graduável
+entre  um  sexto  e  um  terço.  O  critério  para  a  elevação  deve  cingir-se,  apenas,  ao  grau  de  prejuízo  havido.  Quanto  mais  elevado,
+maior o aumento; quanto menos, menor o aumento.
+180. Forma qualificada: trata-se de figura peculiar. Pela redação conferida pelo legislador, num primeiro momento, poder-
+se-ia  sustentar  a  existência  de  um  crime  qualificado  pelo  resultado,  pois  se  menciona:  se  da  invasão  res
+[/PAGINA 1058]
+
+[PAGINA 1059]
+ultar...  Imagina-se  que,
+diante  da  invasão  ao  dispositivo  informático,  ocorreria  um  segundo  resultado  qualificador.  Entretanto,  tal  avaliação  é  somente
+aparente. Na essência, cuida-se de crime qualificado. O foco da qualificação é a valoração feita no tocante aos dados e informações
+obtidos. Quando o agente alcança qualquer dado ou informe, configura-se o caput. Porém, quando obtiver, como dado ou informe,
+o conteúdo de comunicação eletrônica privada (como o e-mail armazenado no disco rígido do computador), segredos comerciais
+ou  industriais  (informes  sigilosos  de  interesse  dos  negócios  comerciais  ou  da  atividade  produtiva  da  indústria)  ou  informações
+sigilosas,  assim  definidas  em  lei  (consultar  a  nota  145  ao  art.  153)  qualifica-se  o  delito,  elevando-se  a  faixa  de  cominação  das
+penas. A segunda parte do § 3.º espelha uma autêntica situação de qualificação pelo resultado, vale dizer, o agente obtém dados ou
+informes do computador da vítima e ainda mantém controle remoto do dispositivo invadido. O controle remoto significa instalar
+mecanismo  apropriado  para  dominar  o  dispositivo  informático  à  distância,  sem  autorização.  Portanto,  além  de  violar  dados  e
+
+informes  da  vítima,  provoca  o  agente  a  possibilidade  de  controlar  o  aparelho  quando  bem  quiser.  O  duplo  resultado  qualifica  o
+crime, embora ambos continuem voltados à tutela da intimidade e da vida privada.
+181. Benefícios  penais  e  figura  subsidiária:  mesmo  a  forma  qualificada  é  infração  de  menor  potencial  ofensivo,
+comportando transação. À sua falta, outros institutos podem ser aplicados (penas restritivas de direitos, regime aberto etc.). Outro
+fator peculiar diz respeito à forma qualificada do delito consistir figura subsidiária, ou seja, somente se pune caso inexista delito
+mais grave, como, por exemplo, a divulgação de segredo prevista no art. 153, § 1.º-A, do Código Penal.
+182. Causa de aumento e exaurimento sequencial: a preocupação legislativa em face da violação da intimidade, da
+vida privada, dos segredos comerciais e outros dados sigilosos foi manifestada em quatro níveis: a) a singela invasão de dispositivo
+informático,  com  o  fim  de  obter  dados  ou  informações,  mesmo  que  não  as  consiga,  já  é  delito  (figura  do  caput);  b)  caso  essa
+invasão provoque algum prejuízo econômico à vítima, aumenta-se a pena de um sexto a um terço (§ 2.º); c) se a invasão permitir a
+obtenção de dados vindos de comunicações eletrônicas privadas, segredos comerciais ou industriais, informes sigilosos ou controle
+remoto,  qualifica-se  o  crime  (§  3.º);  d)  se  os  referidos  dados  privados,  secretos  ou  sigilosos  forem  divulgados  (espalhados  a
+terceiros),  comercializados  (objetos  de  alienação  por  certo  preço)  ou  transmitidos  a  outros  (passados  ao  conhecimento  alheio),
+configura-se o máximo exaurimento, elevando-se a pena de um a dois terços (§ 4.º).
+183. Transmissão de e
+[/PAGINA 1059]
+
+[PAGINA 1060]
+-mail e suas peculiaridades: o novo tipo penal permite a punição de quem invade dispositivo
+informático alheio e toma conhecimento do conteúdo das comunicações eletrônicas privadas (onde se situa o e-mail, mas também
+outras formas, como MSN, Facebook etc.). Em verdade, o cerne do delito é a invasão na intimidade e privacidade alheia. Cria-se,
+entretanto,  uma  figura  de  aumento  de  pena,  caso  haja  transmissão  a  terceiros,  a  qualquer  título.  Logo,  pouco  importa  tenha  o
+agente  a  intenção  de  lucro  ou  não;  é  irrelevante  se  a  divulgação  ou  transmissão  se  faz  por  utilidade  pública  ou  social;
+desinteressante se o agente tem somente intuito de informar, sem denegrir a imagem de qualquer pessoa. Afinal, houve invasão à
+privacidade alheia e, a partir disso, a divulgação do que era defeso. De outra parte, quem recebe um e-mail, mesmo que sigiloso,
+transmitindo-o  a  terceiros,  não  pode  ser  encaixado  neste  artigo,  pois  não  se  trata  de  invasão  de  dispositivo  informático.
+Eventualmente, cuida-se da figura típica prevista no art. 153, pois o e-mail é equiparado a documento.
+184. Causa  de  aumento  em  função  da  vítima:  as  pessoas  enumeradas  no  §  5.º  representam  maior  gravidade  para  a
+infração penal, pois a violação à intimidade atinge interesses de governantes, o que, de certo modo, termina por afetar também a
+sociedade. Determinados segredos ou informes sigilosos, quando detidos por chefes de Poderes da República, são mais relevantes,
+no interesse geral. Por isso, além do aumento da pena, a ação é pública incondicionada. Essa elevação é aplicável a qualquer das
+figuras do art. 154-A.
+Ação penal
+Art. 154-B.  Nos  crimes  definidos  no  art.  154-A,  somente  se  procede  mediante  representação,  salvo  se  o
+crime  é  cometido  contra  a  administração  pública  direta  ou  indireta  de  qualquer  dos  Poderes  da  União,
+Estados, Distrito Federal ou Municípios ou contra empresas concessionárias de serviços públicos.
+185
+185. Ação  penal:  é  pública  condicionada  à  representação,  como  regra.  Entretanto,  há  figuras  típicas  inadequadas  a  tal
+disposição, como já mencionamos ao comentar o § 1.º do art. 154-A. A produção, oferecimento, distribuição, venda ou difusão de
+dispositivo  ou  programa  de  computador  que  possa  permitir  a  invasão  a  dispositivo  informático  não  tem  vítima  determinada.
+Interessa à sociedade a sua punição, impe-dindo-se que chegue a violar dados de alguém. No entanto, constituindo crime de ação
+pública condicionada à representação, inexiste quem possa fazê-lo. A única hipótese viável seria encontrar a pessoa ofendida pela
+conduta do caput, que se seguiu à do § 1.º De outra parte, se o crime for cometido contra a administração pública direta ou indireta
+de qualquer dos Poderes da República ou empresas concessionárias de serviços públicos a ação é pública incondicionada.
+
+Título II
+Dos crimes contra o patrimônio
+1
+1. Proteção  constitucional:  preceitua  o
+[/PAGINA 1060]
+
+[PAGINA 1061]
+art.  5.º,  caput,  da  Constituição  Federal  que  todos  são  iguais  perante  a  lei,
+garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à propriedade, considerado, pois, um
+dos direitos humanos fundamentais. Por isso, o Código Penal tutela e protege o direito de propriedade especificamente neste Título
+II.
+Capítulo I
+DO FURTO
+Furto
+2
+Art. 155. Subtrair,
+3-5
+ para si ou para outrem,
+6
+ coisa
+7-9
+ alheia
+10
+ móvel:
+11-13
+  Pena  –  reclusão,  de  1  (um)  a  4
+(quatro) anos, e multa.
+§ 1.º A pena aumenta-se de um terço,
+14
+ se o crime é praticado durante o repouso noturno.
+15-16
+§ 2.º Se o criminoso
+17-17-A
+ é primário,
+18
+ e é de pequeno valor
+19
+ a coisa furtada, o juiz pode substituir a pena
+de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa.
+20-21-A
+§ 3.º Equipara-se à coisa móvel a energia elétrica ou qualquer outra que tenha valor econômico.
+22-22-A
+Furto qualificado
+23
+§ 4.º A pena é de reclusão de 2 (dois) a 8 (oito) anos, e multa, se o crime é cometido:
+I – com destruição
+24
+ ou rompimento
+25
+ de obstáculo à subtração da coisa;
+26-28-B
+II – com abuso de confiança,
+29
+ ou mediante fraude,
+30-30-A
+ escalada
+31-31-A
+ ou destreza;
+32
+III – com emprego de chave falsa;
+33
+IV – mediante concurso de duas ou mais pessoas.
+34
+§  5.º  A  pena  é  de  reclusão  de  3  (três)  a  8  (oito)  anos,
+35-36
+  se  a  subtração  for  de  veículo  automotor
+37
+ que
+venha a ser transportado
+38
+ para outro Estado
+39
+ ou para o exterior.
+40-41
+§ 6.º A pena é de reclusão de 2 (dois) a 5 (cinco) anos se a subtração for de semovente domesticável de
+produção, ainda que abatido ou dividido em partes no local da subtração.
+41-A
+2. Conceito de furto: furtar significa apoderar-se ou assenhorear-se de coisa pertencente a outrem, ou seja, tornar-se senhor
+ou dono daquilo que, juridicamente, não lhe pertence. O nomen juris do crime, por si só, dá uma bem definida noção do que vem a
+ser a conduta descrita no tipo penal.
+3. Análise  do  núcleo  do  tipo: subtrair  significa  tirar,  fazer  desaparecer  ou  retirar  e,  somente  em  última  análise,  furtar
+(apoderar-se).  É  verdade  que  o  verbo  “furtar”  tem  um  alcance  mais  amplo  do  que  “subtrair”,  e  justamente  por  isso  o  tipo  penal
+preferiu identificar o crime como sendo furto e a conduta que o concretiza como subtrair, seguida, é lógico, de outros importantes
+elementos  descritivos  e  normativos.  Assim,  o  simples  fato  de  alguém  tirar  coisa  pertencente  a  outra  pessoa  não  quer  dizer,
+automaticamente,  ter  havido  um  furto,  já  que  se  exige,  ainda,  o  ânimo  fundamental,  componente  da  conduta  de  furtar,  que  é
+assenhorear-se do que não lhe pertence.
+4. Sujeitos ativo e passivo: podem ser qualquer pessoa. Nas palavras de Laje Ros, “pode ser sujeito passivo, aquele que
+alugou a coisa móvel do proprietário, pode ser quem a tivesse recebido por comodato, ou por qualquer outro título, que o
+[/PAGINA 1061]
+
+[PAGINA 1062]
+tivesse
+constituído  efetivamente  em  detenção  da  coisa.  Até  mesmo  por  ter  sido  vítima  de  um  delito  contra  a  propriedade.  Tampouco  se
+
+requer que o ofendido sejam um possuidor, no sentido de ter a coisa sob seu poder com intenção de submetê-la ao exercício de um
+direito de propriedade (...). É possível, ainda, que a vítima seja o ladrão que furtou a coisa e logo alguém a tenha subtraído dele. O
+contrário suporia que o ladrão que furtou o anterior ladrão deveria ficar impune, tão somente porque o último ladrão não furtou o
+proprietário ou o legítimo detentor” (La interpretación penal en el hurto, el robo y la extorsión, p. 87-88, traduzi). Discordamos de
+dois  aspectos.  O  primeiro  diz  respeito  ao  mero  detentor  da  coisa;  se  não  é  proprietário  nem  possuidor,  não  pode  figurar  como
+sujeito passivo de crime patrimonial, pois a detenção não possui valor econômico. Exemplo: o funcionário da empresa, ao levar o
+dinheiro  ao  banco  para  efetuar  um  pagamento  referente  ao  empregador,  caso  tenha  a  quantia  subtraída,  o  sujeito  passivo  é  a
+empresa. O segundo refere-se ao caso do ladrão que subtrai coisa já furtada de outro ladrão. Há crime de furto, embora a vítima
+seja  o  legítimo  dono  ou  possuidor  do  objeto.  Portanto,  inexiste  impunidade:  o  primeiro  ladrão,  bem  como  o  segundo  respondem
+por furto, tendo por sujeito passivo o proprietário da coisa.
+5. Consumação  do  furto:  trata-se  de  tema  polêmico  e  de  difícil  visualização  na  prática.  Esclarece  Laje  Ros:  “o  furto
+consiste,  de  um  ponto  de  vista  material,  em  apoderar--se  da  coisa  alheia  que  se  encontra  em  poder  de  outro,  que,  por
+apoderamento, resulta desapoderado daquela coisa. Isso implica dizer que o objeto deixou de ser detido por este e que é detido
+pelo ladrão. Também importa entender que o apoderamento implica que o objeto deixou de pertencer a uma esfera de custódia e
+incorporou-se à de quem se apoderou” (La interpretación penal en el hurto, el robo y la extorsión, p. 97). Há, basicamente, quatro
+teorias para fundamentar a consumação do furto: a) o furto se consuma apenas com o toque na coisa móvel alheia para apoderar-se
+dela  (teoria  do  contato);  b)  concretiza-se  no  momento  da  remoção  ou  mudança  de  lugar,  vale  dizer,  o  furto  se  consuma  apenas
+quando a coisa é removida do local onde fora colocada pelo proprietário; c) distingue a remo-ção em dois momentos: a apreensão
+(aprehensio) e o traslado de um lugar a outro (amotio de loco in locum); para a consumação, requer-se que a coisa seja trasladada
+do lugar onde estava a outro local; somente assim se completa a subtração (ablatio). Há de sair da esfera de vigilância do dono; d)
+o furto se consuma quando a coisa é transportada pelo agente ao lugar por ele pretendido (eo loco quo destinaverat) para colocá-la
+a salvo (ob. cit., p. 207-208). Segundo nos parece, o furto está consumado tão logo a coisa subtraída saia da esfera de proteção
+[/PAGINA 1062]
+
+[PAGINA 1063]
+e
+disponibilidade  da  vítima,  ingressando  na  do  agente.  Cuida-se  da  terceira  teoria:  apreender  e  retirar  da  esfera  de  proteção  da
+vítima. Não se demanda a posse mansa e pacífica,  mas,  repita-se,  a  retirada  do  bem  da  esfera  de  disponibilidade  do  ofendido.  É
+imprescindível, por tratar-se de crime material (aquele que se consuma com o resultado naturalístico), que o bem seja tomado do
+ofendido, estando, ainda que por breve tempo, em posse mansa e tranquila do agente. Se houver perseguição e em momento algum
+conseguir o autor a livre disposição da coisa, trata-se de tentativa. Não se deve desprezar essa fase (retirada da esfera de proteção
+da  vítima),  sob  pena  de  se  transformar  o  furto  em  um  crime  formal,  punindo-se  unicamente  a  conduta,  não  se  demandando  o
+resultado naturalístico. Essa é a posição majoritária na jurisprudência. Consultar a nota 13-B ao art. 157. Nesse sentido: STF: “1.
+Para a consumação do furto, é suficiente que se efetive a inversão da posse, ainda que a coisa subtraída venha a ser retomada em
+momento  imediatamente  posterior.  Jurisprudência  consolidada  do  Supremo  Tribunal  Federal.  2.  Ordem  denegada”  (HC  114329-
+RS, 1.
+a
+T., rel. Roberto Barroso, 01.10.2013, m.v.). TJSP: “(...) O crime se consumou, eis que o acusado logrou sair da residência
+levando  a  bicicleta,  dois  estojos  porta  CDs  e  a  frente  descartável  do  toca  CDs,  de  modo  que  houve  a  inversão  da  posse  das  rei
+furtivae, que indubitavelmente deixaram a esfera de vigilância da vítima, tendo sido o agente encontrado já a alguns quarteirões de
+distância  do  local  dos  fatos,  agindo  como  se  fosse  dono  dos  bens  furtados.  Além  disso,  o  simples  fato  de  os  objetos  terem  sido
+recuperados  não  autoriza,  por  si  só,  o  reconhecimento  da  figura  tentada,  pois  não  afasta  a  diminuição,  por  mais  que  passageira,
+havida  no  patrimônio  do  ofendido  e,  portanto,  a  efetiva  lesão  do  bem  jurídico  tutelado”  (Ap.  990.08.049100-8,  16.
+a
+  C.,  rel.
+Almeida Toledo, 11.01.2011, v.u.). TJMG: “O delito de furto se consuma quando o agente tem a posse mais ou menos tranquila da
+coisa, ainda que por breve momento, fora da esfera de vigilância da vítima, sendo desnecessária a posse tranquila da res subtraída”
+(Ap. Crim. 1.0024.13.379224-2/001-MG, 6.
+a
+ C. Crim., rel. Rubens Gabriel Soares, 02.06.2015); “O furto se consuma a partir do
+momento em que há a inversão da posse da res furtiva, não bastando para descaracterizar a consumação o fato de o agente ter sido
+preso  logo  em  seguida  à  prática  criminosa”  (Ap.  Crim.  1.0331.14.000966-2/001-MG,  5.
+a
+  C.  Crim.,  rel.  Adilson  Lamounier,
+01.09.2015);  “O  crime  de  furto  se  consuma  com  a  inversão  da  posse  da  coisa,  ainda  que  por  breve  lapso,  longe  da  área  de
+vigilância do ofendido, sendo irrelevante que a prisão tenha se dado logo em seguida à consumação, após acionamento da polícia
+pela vítima, circuns
+[/PAGINA 1063]
+
+[PAGINA 1064]
+tância que não aponta, per se, a ocorrência do crime tentado” (Ap. Crim. 1.0637.12.007803-4/001-MG, 4.
+a
+ C.
+Crim.,  rel.  Júlio  Cezar  Guttierrez,  02.09.2015).  TJSC:  “O  Código  Penal  brasileiro  adotou  a  teoria  da  aprehensio  ou  amotio,
+segundo a qual a configuração do crime de furto ocorre com a inversão da posse da res, de modo que seja assegurado ao agente o
+domínio  pacífico  do  bem  subtraído,  ainda  que  de  forma  efêmera”  (2014.077809-6-Santo  Amaro  da  Imperatriz,  1.
+a
+  C.  Crim.,
+rel. Carlos Alberto Civinski, 19.05.2015, v.u.). TJAC: “O momento consumativo no crime de furto ocorre quando o bem é retirado
+da esfera de disponibilidade do seu proprietário e passa para a posse do criminoso, ainda que tal não se dê de forma tranquila e seja
+por breve espaço de tempo” (Ap. 0000616-81.2013.8.01.0012-AC, C. Crim., rel. Samoel Evangelista, 14.05.2015, v.u.). TJAM: “I
+– Ainda que o apelado tenha mantido em sua posse a res furtivae por um curto período, deve ser condenado pelo delito de furto
+
+consumado, uma vez que no referido lapso temporal as mercadorias saíram da esfera de posse da vítima e foram para a do agente
+de  forma  efetiva;  II  –  Reconhecida  a  consumação  do  delito,  inaplicável  a  redução  de  pena  do  art.  14,  II,  do  Código  Penal;  III  –
+Diante da confirmação da prática de delito consumado, foi reestruturada a pena privativa de liberdade aplicada ao apelado; IV –
+Apelação conhecida e provida” (Ap. 0209766-54.2013.8.04.0001-AM, 2.
+a
+ C. Crim., rel. Encarnação das Graças Sampaio Salgado,
+03.09.2015, v.u.). TJGO: “Para a consumação do furto é necessário que o agente detenha a posse da res fora da esfera de vigilância
+da  vítima.  Há  furto  tentado,  e  não  consumado,  se  embora  o  agente  tenha  retirado  determinados  bens  de  dentro  do  veículo
+arrombado, sequer saiu com a res furtiva do local dos fatos, diante da chegada da polícia no momento consumativo” (Ap. Crim.
+103229-22.2014.8.09.0175-GO, 1.
+a
+ C. Crim., rel. Itaney Francisco Campos, 28.04.2015, v.u.). Ver, também, a nota 13 ao art. 157.
+Observa-se,  entretanto,  uma  complexa  avaliação  do  momento  consumativo  na  jurisprudência.  Há  vários  julgados  considerando
+consumado  o  furto  desde  que  haja  a  simples  tomada  da  coisa  das  mãos  da  vítima,  independentemente  de  sair  da  sua  esfera  de
+vigilância.  Essas  decisões,  na  essência,  têm  adotado  a  primeira  teoria  (basta  tocar  a  coisa),  embora  se  diga  que  esse  “toque”
+constitua “posse”. Outras afirmam que é preciso tomar a coisa da vítima, mesmo que por alguns momentos. Contudo, tomando-se
+por base os julgados do STF, verifica-se a tendência de haver inversão de posse, ainda que por pouco tempo. Para análise, confira-
+se: STF: “O paciente retirou a coisa móvel da esfera de disponibilidade da vítima e, ainda que por um curto período, teve a livre
+disposição  da  coisa,  moldura  fática  suficiente  para,  na  linha  de  precedentes  desta  Corte,  caracteriz
+[/PAGINA 1064]
+
+[PAGINA 1065]
+ar  o  crime  de  furto  na
+modalidade consumada” (HC 114877-MG, 2.
+a
+ T., rel. Teori Zavascki, 18.03.2014, v.u.); “A jurisprudência do Supremo Tribunal
+Federal dispensa, para a consumação do furto ou do roubo, o critério da saída da coisa da chamada ‘esfera de vigilância da vítima’
+e se contenta com a verificação de que, cessada a clandestinidade ou a violência, o agente tenha tido a posse da res furtiva, ainda
+que  retomada,  em  seguida,  pela  perseguição  imediata”  (HC  108.678-RS,  1.
+a
+  T.,  rel.  Rosa  Weber,  17.04.2012,  m.v.).  STJ:  “A
+Terceira  Seção  desta  Corte,  ao  apreciar  o  Recurso  Especial  Representativo  de  Controvérsia  n.º  1.524.450/RJ,  firmou  o
+entendimento  no  sentido  de  que  se  consuma  o  crime  de  furto  com  a  posse  de  fato  da  res furtiva,  ainda  que  por  breve  espaço  de
+tempo e seguida de perseguição ao agente, sendo prescindível a posse mansa e pacífica ou desvigiada” (AgRg no REsp 1483770-
+RS,  6.
+a
+  T.,  rel.  Nefi  Cordeiro,  04.02.2016,  DJe  16.02.2016);  “Segundo  jurisprudência  pacífica  deste  Superior  Tribunal  e  do
+Supremo  Tribunal  Federal,  o  crime  de  furto  consuma-se  com  a  simples  posse,  ainda  que  breve,  do  bem  subtraído,  não  sendo
+necessária que esta se dê de forma mansa e pacífica, sendo inclusive prescindível que o objeto do delito saia da esfera de vigilância
+da vítima” (HC 174.259-SP, 6.
+a
+ T., rel. Sebastião Reis Junior, 07.02.2012, v.u.). “Esta Corte e o Supremo Tribunal, para balizar o
+debate sobre a consumação do crime de furto, adotam a teoria da apprehensio, também denominada de amotio, segundo a qual se
+considera consumado o delito no momento em que o agente obtém a posse da res furtiva, ainda que não seja mansa e pacífica e/ou
+haja  perseguição  policial,  sendo  prescindível  que  o  objeto  do  crime  saia  da  esfera  de  vigilância  da  vítima”  (AgRg  no  REsp
+1.300.954-RS, 5.
+a
+ T., rel. Laurita Vaz, 15.05.2012, v.u.). Com a devida vênia, muitos julgados interpretam de maneira diversa, e
+até equívoca, o momento consumativo do furto, mencionando situações diferentes como se fossem a mesma coisa. Embora várias
+decisões indiquem não ser preciso retirar a coisa da esfera de vigilância do ofendido, ao mesmo tempo coloca-se a necessidade de
+ter o agente a posse do bem. Ora, como é possível, no plano fático, ter a posse de algo sem que outrem a perca? Duas pessoas não
+podem ter, com objetivos diversos, a posse de uma só coisa: ou bem a tem a vítima (dono da coisa ou seu possuidor) ou o ladrão.
+Sob outro prisma, não são sinônimos a apprehensio e a amotio; na realidade, são fases sequenciais e constituem a terceira teoria,
+como  explicitado  linhas  acima.  Primeiro,  o  agente  apreende  (apprehensio)  e  depois  transfere  de  um  lugar  a  outro  (amotio),
+justamente o que retira o bem da esfera de proteção da vítima. Dando-se ambas as fases, atinge-se a ablatio (subtração). Em suma,
+inexiste uniformidade nesse contexto. Há julgados permitindo a
+[/PAGINA 1065]
+
+[PAGINA 1066]
+consumação com o toque do ladrão na coisa visada – o que se nos
+afigura erro, pois seria transformar o furto em delito formal, sem qualquer resultado naturalístico; há decisões demandando a posse
+da coisa subtraída – o que, em nosso entendimento, faz par com a retirada da coisa da esfera de vigilância da vítima; há julgados
+apontando para a posse mansa e pacífica, permitindo que o agente tenha livre disposição do bem. Por vezes, pela simples leitura da
+ementa,  não  se  consegue  aferir  qual  das  teorias  realmente  foi  adotada,  pois  dependeria  de  saber  exatamente  como  os  fatos  se
+deram. Sintetizando, a maior parte dos julgados demanda a inversão de posse, mesmo que por curto espaço de tempo para atingir a
+consumação do furto (e do roubo).
+6. Elemento  subjetivo  do  tipo:  exige-se  o  dolo  (vontade  do  agente  de  subtrair  coisa  alheia  móvel),  mas,  além  disso,
+reclama-se o elemento subjetivo do tipo específico, que é a vontade de apossamento do que não lhe pertence, consubstanciada na
+expressão  “para  si  ou  para  outrem”.  Essa  intenção  deve  espelhar  um  desejo  do  agente  de  apoderar-se,  definitivamente,  da  coisa
+alheia. É o que se chama tradicionalmente de dolo específico. Não existe a forma culposa.
+7. Conceito de coisa:  é  tudo  aquilo  que  existe,  podendo  tratar-se  de  objetos  inanimados  ou  de  semoventes.  No  contexto
+dos  delitos  contra  o  patrimônio  (conjunto  de  bens  suscetíveis  de  apreciação  econômica),  cremos  ser  imprescindível  que  a  coisa
+tenha, para seu dono ou possuidor, algum valor econômico.
+
+8. Furto de coisa puramente de estimação: entendemos não ser objeto material do crime de furto, pois é objeto sem
+qualquer  valor  econômico.  Não  se  pode  conceber  seja  passível  de  subtração,  penalmente  punível,  por  exemplo,  uma  caixa  de
+fósforos vazia, desgastada, que a vítima possui somente porque lhe foi dada por uma namorada, no passado, símbolo de um amor
+antigo. Caso seja subtraída por alguém, cremos que a dor moral causada no ofendido deve ser resolvida na esfera civil, mas jamais
+na penal, que não se presta a esse tipo de reparação. Há posição em sentido contrário: TJPR: “Pode haver concurso de crimes entre
+a violação de sepultura e furto, desde que o objeto material do furto não seja o cadáver ou de próteses do cadáver. A lei não exige
+que a coisa furtada tenha valor comercial ou de troca, bastando que seja bem patrimonial, isto é, que represente alguma utilidade
+para  quem  detenha  a  posse,  ou  até  mesmo  um  significado  ditado  pelo  valor  afetivo”  (Ap.  Crim.  225248-0-PR,  1.
+a
+  C.  Crim.,  rel.
+Cunha Ribas, 15.05.2003, v.u.).
+8-A. Furto de cadáver: pode ser objeto material do crime de furto caso tenha valor econômico e esteja na posse legítima de
+alguém (ex.: subtrair o corpo pertencente a um museu, que o exibe por motivos científicos ou didáticos). Não sendo este o caso, a
+subtração do cadáver pode constituir crime contra o respeito aos mortos (art.
+[/PAGINA 1066]
+
+[PAGINA 1067]
+211, CP). “Os mortos são coisas, e são suscetíveis de
+ser  levados  de  um  lugar  a  outro.  No  entanto,  não  podem  ser  objeto  de  furto  porque  não  são  coisas  alheias,  e  por  isso  não
+pertencem  como  coisas  próprias  a  pessoa  alguma.  Não  obstante,  quem  se  apodera  do  corpo  de  um  animal  morto,  em  posse  de
+outrem, comete furto, porque é uma coisa alheia” (L
+AJE ROS, La interpretación penal en el hurto, el robo y la extorsión, p. 115).
+Assim: TJSP: “O cadáver – salvo quando perde sua individualidade, o que se dá, por exemplo, se constituir patrimônio de algum
+instituto científico, passando a ter valor econômico e a ser coisa alheia – é coisa fora do comércio e sua proteção é erigida em razão
+de  princípios  éticos,  religiosos,  sanitários  e  de  ordem  pública  impostos  pelo  direito  positivo”  (1.
+a
+  C.,  18.05.1987,  rel.  Marino
+Falcão, RT 619/291, acórdão antigo, mas mantido para ilustrar, em face da raridade de realização do crime).
+8-B. Furto  de  coisas  abandonadas  (res derelicta)  não  pertencentes  a  ninguém  (res  nullius)  ou  perdidas
+(res deperdita): as duas primeiras situações não podem ser objeto do crime de furto, uma vez que não integram o patrimônio de
+outrem;  a  terceira  hipótese  também  não  se  encaixa  como  objeto  de  furto,  pois  há  tipo  específico  para  tal  caso,  cuidando-se  de
+apropriação indébita (art. 169, parágrafo único, II, CP). Na jurisprudência: TJMA: “Coisa abandonada (res derelicta) é aquela que
+não  pertence  a  ninguém,  não  podendo  ser  objeto  de  furto  por  não  integrar  o  patrimônio  de  outrem.  Se  o  objeto  do  crime  é  de
+propriedade conhecida, estando apenas em local desabitado, seu apoderamento implica conduta ilícita” (Ap. 0118342013-MA, 2.
+a
+C. Crim., rel. José Bernardo Silva Rodrigues, 30.01.2014, v.u.).
+8-C. Furto de coisas de ínfimo valor e princípio da insignificância: em tese, as coisas de pequeno valor podem ser
+objetos  do  crime  de  furto,  embora  se  deva  agir  com  cautela  nesse  contexto,  em  face  do  princípio  da  insignificância  (crimes  de
+bagatela). O Direito Penal não se ocupa de insignificâncias (aquilo que a própria sociedade concebe ser de somenos importância),
+deixando  de  se  considerar  fato  típico  a  subtração  de  pequeninas  coisas  de  valor  nitidamente  irrelevante.  Ex.:  o  sujeito  que  leva,
+sem autorização, do banco, onde vai sacar uma determinada quantia em dinheiro, o clipe que está sobre o guichê do caixa, embora
+não lhe pertença. Não se deve exagerar, no entanto, na aplicação do princípio da bagatela, pois o que é irrelevante para uns pode
+ser extremamente importante para outros. Ex.: subtrair uma galinha, de quem só possui um galinheiro com quatro, representa um
+valor  significativo,  que  necessitará  ser  recomposto.  Por  outro  lado,  subtrair  um  pintinho  de  uma  granja  imensa,  com  milhares  de
+aves, pode ser insignificante, sem qualquer afetação ao patrimônio. Por outro lado, deve-se
+[/PAGINA 1067]
+
+[PAGINA 1068]
+analisar, cuidadosamente, a conduta do
+agente  do  furto,  pois,  assim  fazendo,  a  insignificância  pode  ser  afastada  em  face  do  caso  concreto.  Além  disso,  há  vários  outros
+fatores  a  considerar,  como  as  condições  pessoais  do  réu  (primário  ou  reincidente,  bons  ou  maus  antecedentes),  bem  como  a
+situação fática concreta, não se admitindo a insignificância, quando se trata de delito qualificado. Na jurisprudência: STF: “Habeas
+corpus.  Direito  penal.  Furto  qualificado.  Ínfimo  valor  da  res  furtiva.  Rompimento  de  obstáculo.  Princípio  da  insignificância.
+Inaplicabilidade. 1. A pertinência do princípio da insignificância deve ser avaliada, em casos de pequenos furtos, considerando não
+só o valor do bem subtraído, mas igualmente outros aspectos relevantes da conduta imputada. 2. Não tem pertinência o princípio
+da insignificância em crime de furto qualificado cometido mediante rompimento de obstáculo. Precedentes. 3. Ordem denegada”
+(HC 121760-MT, 1.
+a
+  T.,  rel.  Rosa  Weber,  14.10.2014,  v.u.);  “Habeas corpus.  2.  Tentativa  de  furto  qualificado  com  emprego  de
+chave falsa (rádio CD player automotivo, avaliado em cento e noventa e nove reais). Absolvição sumária. Reforma da decisão pelo
+TJMG.  3.  Pedido  de  aplicação  do  princípio  da  insignificância.  4.  Ausência  de  um  dos  vetores  considerados  na  aplicação  do
+princípio  da  bagatela:  o  reduzido  grau  de  reprovabilidade  da  conduta.  5.  Reiteração  delitiva.  Precedentes  no  sentido  de  afastar  o
+princípio  da  insignificância  a  acusados  reincidentes  ou  de  habitualidade  delitiva  comprovada.  6.  Ordem  denegada”  (HC  122529-
+MG,  2.
+a
+  T.,  rel.  Gilmar  Mendes,  02.09.2014,  v.u.);  “Habeas  corpus.  Constitucional.  Penal.  Furto.  Princípio  da  insignificância.
+Valor ínfimo do bem. Não caracterização de contumácia delitiva. Ordem concedida. 1. Tipicidade penal: interpretação e adequação
+do fato concreto à norma abstrata e elementos concretos do caso. Além da correspondência formal, a tipicidade demanda análise
+materialmente valorativa das circunstâncias do caso concreto, para se verificar a ocorrência de lesão penalmente relevante do bem
+
+jurídico tutelado. 2. Furto de onze barras de chocolate. Bem de valor ínfimo e restituído. Inexistência de dano ao estabelecimento
+comercial. 3. Ordem concedida para o trancamento da ação penal” (HC 122936-RJ, 2.
+a
+ T., rel. Cármen Lúcia, 05.08.2014, v.u.);
+“1. Embora seja reduzida a expressividade financeira dos bens subtraídos (avaliados em R$ 114,00), não se mostra possível acatar
+a tese de irrelevância material da conduta, pois, além de o delito ter sido praticado com o rompimento de obstáculo, noticiam os
+autos que o paciente responde a outro processo por crime contra o patrimônio, o que demonstra que sua personalidade está voltada
+para a prática delitiva. 2. Essas circunstâncias inibem a aplicabilidade do postulado da insignificância ao caso concreto. 3. Ordem
+denegada” (HC
+[/PAGINA 1068]
+
+[PAGINA 1069]
+121134-ES, 1.
+a
+ T., rel. Dias Toffoli, 06.05.2014, v.u.); “O valor da res furtiva não pode ser o único parâmetro a ser
+avaliado, devendo ser analisadas as circunstâncias do fato para decidir-se sobre seu efetivo enquadramento na hipótese de crime de
+bagatela, bem assim o reflexo da conduta no âmbito da sociedade. In casu, a) o paciente foi condenado a 2 (dois) anos de reclusão,
+em regime inicial semiaberto, por ter arrombado a porta de aço do Bar Rei Momo, na cidade de Vitória/ES e subtraído do interior
+do  estabelecimento  a  quantia  de  R$  6,00  (seis  reais)  em  notas,  bem  como  um  porta  moedas  de  plástico,  contendo  R$  19,00
+(dezenove reais) em moedas. Na sentença condenatória, o magistrado destacou que, além da quantia subtraída, a vítima ainda teve
+um  prejuízo  de  R$  80,00  (oitenta  reais),  referente  ao  conserto  da  porta  do  estabelecimento  que  foi  arrombada.  As  instâncias
+precedentes  deixaram  de  aplicar  o  princípio  da  insignificância  em  razão  de  ser  o  paciente  contumaz  na  prática  criminosa.  O
+legislador  ordinário,  ao  qualificar  a  conduta  incriminada,  apontou  o  grau  de  afetação  social  do  crime,  de  sorte  que  a  relação
+existente entre o texto e o contexto (círculo hermenêutico) não pode conduzir o intérprete à inserção de uma norma não abrangida
+pelos  signos  do  texto  legal.  In casu,  a  conduta  do  paciente,  como  narrada  na  denúncia  –  furto  qualificado  pelo  rompimento  de
+obstáculo e pelo concurso de agentes –, não pode ser considerada como inexpressiva para fins penais, nem há de ser qualificada
+como  sendo  de  menor  afetação  social.  O  reconhecimento  da  atipicidade  da  conduta  do  paciente,  pela  adoção  do  princípio  da
+insignificância,  poderia,  por  via  transversa,  imprimir  nas  consciências  a  ideia  de  estar  sendo  avalizada  a  prática  de  delitos  e  de
+desvios  de  conduta,  porquanto  trata-se  de  condenado  reincidente”  (HC  118853-ES,  1.
+a
+  T.,  rel.  Luiz  Fux,  29.04.2014,  v.u.).  STJ:
+“Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em correlação com os
+postulados da fragmentariedade e da intervenção mínima do Direito Penal, no sentido de excluir ou afastar a própria tipicidade da
+conduta,  examinada  em  seu  caráter  material,  observando-se,  ainda,  a  presença  dos  seguintes  vetores:  (I)  mínima  ofensividade  da
+conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento; e
+(IV) inexpressividade da lesão jurídica ocasionada (conforme decidido nos autos do HC 84.412-SP, de relatoria do Ministro Celso
+de Mello, DJU 19.04.2004)” (AgRg no REsp 1445876-MG, 6.
+a
+ T., rel. Rogerio Schietti Cruz, v.u.); “Para a aplicação do princípio
+da  insignificância,  devem  ser  preenchidos  quatro  requisitos,  a  saber:  a)  mínima  ofensividade  da  conduta  do  agente;  b)  nenhuma
+periculosidade social da ação;
+[/PAGINA 1069]
+
+[PAGINA 1070]
+c) reduzidíssimo grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica
+provocada”  (AgRg  no  AREsp  608038-DF,  5.
+a
+  T.,  rel.  Walter  de  Almeida  Guilherme,  03.02.2015,  v.u.);  “Trata-se  de  furto
+qualificado  com  destruição  de  obstáculo  para  subtração  de  res furtiva,  pois  o  paciente  quebrou  o  vidro  do  carro  para  furtar  um
+guarda-chuva  e  uma  chave  de  roda.  O  habeas  corpus  objetiva  absolver  o  paciente,  sustentando  que  a  conduta  atribuída  é
+materialmente atípica pela aplicação do princípio da insignificância. Nessa circunstância, explica o Min. Relator, a questão suscita
+polêmica no que se refere aos limites e às características do princípio da insignificância, que se caracteriza como causa supralegal
+de atipia penal. Então, a questão está em saber se o objeto pretendido no furto, ao ser este consumado, estaria caracterizando um
+ilícito  penal,  um  ilícito  extrapenal  ou  algo  até  juridicamente  indiferente.  Aponta,  citando  a  doutrina,  que,  se,  por  um  lado,  na
+moderna dogmática jurídico-penal, não se pode negar a relevância desse princípio; por outro, ele não pode ser manejado de forma
+a  incentivar  condutas  atentatórias  que,  toleradas  pelo  Estado,  afetariam  seriamente  a  vida  coletiva.  Dessa  forma,  observa  que  no
+furto, para efeito de aplicação do princípio da insignificância, é imprescindível a distinção entre o ínfimo (ninharia desprezível) e o
+pequeno  valor.  Este  último  implica  eventualmente  o  furto  privilegiado  (art.  155,  §  2.º,  CP),  e  aquele  primeiro,  na  atipia
+conglobante  (dada  a  mínima  gravidade).  A  interpretação  de  insignificância  deve  necessariamente  considerar  o  bem  jurídico
+tutelado e o tipo de injusto para sua aplicação. Daí, ainda que se considere o delito como de pouca gravidade e esse delito não se
+identifica  com  o  indiferente  penal  se,  como  um  todo,  observado  o  binômio  o  tipo  de  injusto  e  o  bem  jurídico,  ele  deixa  de
+caracterizar  a  sua  insignificância.  Assevera  que  esse  é  o  caso  dos  autos,  o  valor  da  res  furtiva  é  insignificante,  um  delito  de
+bagatela (guarda-chuva e chave de roda), entretanto a vítima teve de desembolsar a quantia de R$ 333,00 para recolocar o vidro
+quebrado,  logo  o  valor  total  do  prejuízo  causado  pelo  paciente  não  é  insignificante.  Diante  do  exposto,  como  não  é  o  caso  de
+reconhecer  a  irrelevância  penal  da  conduta,  a  Turma  denegou  a  ordem  de  habeas corpus”  (HC  136.297-MG,  5.
+a
+  T.,  rel.  Felix
+Fischer, 06.10.2009, v.u.).
+8-D. Furto de talão de cheques: pode ser objeto do crime de furto, visto possuir nítido valor econômico, tanto para quem
+subtrai,  que  o  vende  a  estelionatários,  quanto  para  a  vítima,  que  é  obrigada  a  sustar  os  cheques,  retirar  outro  talão,  pagando  ao
+estabelecimento  bancário  taxas  elevadas  e  sofrendo  prejuízo  material.  “É  suficiente  que  tenham  um valor,
+[/PAGINA 1070]
+
+[PAGINA 1071]
+ou  algum  valor,  sem
+importar  que  esse  valor  traduza  sempre  uma  estrita  referência  ao  econômico.  O  valor  da  coisa  não  equivale  a  que  ela  deva  ser
+
+intrinsecamente  valiosa  para  todos.  Por  isso  é  que  pode  ter  um  valor  afetivo  e  pode  ser  furtada”  (LAJE ROS, La  interpretación
+penal en el hurto, el robo y la extorsión, p. 113).
+8-E. Furto de uso: não se trata de crime, pois, como mencionado nos comentários feitos na análise do núcleo do tipo e do
+elemento subjetivo, há necessidade do ânimo de assenhoreamento. Se o agente retirar a coisa da posse da vítima apenas para usar
+por  pouco  tempo,  devolvendo-a  intacta,  é  de  se  considerar  não  ter  havido  crime.  Cremos  ser  indispensável,  entretanto,  para  a
+caracterização do furto de uso, a devolução da coisa no estado original, sem perda ou destruição do todo ou de parte. Se houver a
+retirada  de  um  veículo  para  dar  uma  volta,  por  exemplo,  devolvendo-o  com  o  para-lama  batido,  entendemos  haver  furto,  pois
+houve  perda  patrimonial  para  a  vítima.  De  um  modo  indireto,  o  sujeito  apropriou-se  do  bem  de  terceiro,  causando-lhe  prejuízo.
+Lembremos que a intenção de se apoderar implica, também, na possibilidade de dispor do que é do outro, justamente o que ocorre
+quando o agente trata a coisa como se sua fosse. Utilizar um automóvel para uma volta, provocando uma colisão e devolvendo-o
+danificado, é o modo que o autor possui de demonstrar a sua franca intenção de dispor da coisa como se não pertencesse a outrem.
+Além  disso,  é  preciso  haver  imediata  restituição,  não  se  podendo  aceitar  lapsos  temporais  exagerados.  E,  por  fim,  torna-se
+indispensável que a vítima não descubra a subtração antes da devolução do bem. Se constatou que o bem de sua propriedade foi
+levado, registrando a ocorrência, dá-se o furto por consumado. É que, nesse cenário, novamente o agente desprezou por completo a
+livre  disposição  da  coisa  pelo  seu  dono,  estando  a  demonstrar  o  seu  ânimo  de  apossamento  ilegítimo.  Em  síntese:  admitimos  o
+furto  de  uso  desde  que  presentes  os  seguintes  requisitos,  demonstrativos  da  total  ausência  do  ânimo  de  assenhoreamento:  1.º)
+rápida  devolução  da  coisa;  2.º)  restituição  integral  e  sem  qualquer  dano  do  objeto  subtraído;  3.º)  devolução  antes  que  a  vítima
+perceba a subtração, dando falta do bem. Na ótica de L
+AJE ROS, “não furta, embora use, porque não pode apoderar-se do que tem
+em seu poder, e não pode violar a propriedade alheia porque o objeto detido não se encontra na esfera de custódia distinta da sua.
+(...) Por constituir propriamente furto de coisa alheia, não pode assimilar-se ao uso ilegítimo de coisa alheia, o fato de apoderar-se
+da coisa, servir-se dela e logo restituí-la” (La interpretación penal en el hurto, el robo y la extorsión, p. 139). Na jurisprudência:
+TJSP: “não há falar-se em furto de uso, pois os apelantes chegaram a se deslocar com o veícu
+[/PAGINA 1071]
+
+[PAGINA 1072]
+lo até outro Estado, vindo o mesmo a
+ser  localizado  apenas  três  dias  após  a  subtração.  A  vítima  sofreu  prejuízo,  tanto  que  foram  subtraídas  algumas  peças  do  veículo,
+inclusive o motor, o que não se coaduna com a tese do furto de uso” (Ap. 0000994-55.2009.8.26.0279, 2.
+a
+ C., rel. Antonio Luiz
+Pires Neto, 16.12.2013, v.u.). TJRS: “Nenhuma prova veio aos autos de que o réu necessitou fazer uso do veículo da vítima para
+levar sua mãe ao médico. Para configuração do furto de uso é necessário que o agente tenha a intenção exclusiva de usar o bem por
+um curtíssimo período de tempo e de devolvê-lo ao seu proprietário logo após o uso, de livre e espontânea vontade, o que não é o
+caso dos autos. Não comprovadas as circunstâncias caracterizadoras do estado de necessidade, conforme art. 24 do CP” (Ap. Crim.
+70059853374-RS, 7.
+a
+  C.  Crim.,  rel.  Carlos  Alberto  Etcheverry,  20.08.2015,  v.u.);  “O  furto  de  uso  caracteriza-se  pelo  animus do
+agente de ter a coisa consigo, momentaneamente, sem a intenção de tomá-la para si, em caráter definitivo, devolvendo-a intacta ao
+local de onde foi retirada. Não se configurando a restitutio res in loco et in integro, descaracterizado estará o furto de uso” (Ap.
+Crim. 70056318645-RS, 8.
+a
+ C. Crim., rel. Fabianne Breton Baisch, 12.08.2015, v.u.). TJMG: “Não se agasalha a tese de ‘furto de
+uso’ quando não houver a devolução espontânea do bem e no seu estado original à vítima” (Ap. Crim. 1.0479.12.024141-5/001-
+MG, 5.
+a
+  C.  Crim.,  rel.  Adilson  Lamounier,  25.08.2015).  TJPR:  “A  ocorrência  do  furto  de  uso  pressupõe  a  devolução  rápida  da
+coisa no estado original, sem qualquer perda ou destruição no todo ou em parte, antes que a vítima dê falta do objeto furtado” (Ap.
+Crim. 1327937-3-PR, 5.
+a
+ C. Crim., rel. José Laurindo de Souza Netto, 30.07.2015, v.u.).
+8-F. Furto em túmulos e sepulturas: cremos haver, como regra, apenas o crime de violação de sepultura (art. 210, CP)
+ou, conforme o caso, destruição, subtração ou ocultação de cadáver (art. 211, CP), pois os objetos materiais que estão dentro da
+cova  não  pertencem  a  ninguém.  Foram  ali  abandonados  pela  família.  Entretanto,  se  o  agente  subtrai  adornos  ou  bens  que
+guarnecem o próprio túmulo, como castiçais ou estátuas de bronze, naturalmente há furto. Na jurisprudência: TJMG: “A violação
+de  túmulo  com  a  consequente  subtração  do  crânio  ali  sepultado  configura  tão  somente  o  crime  de  violação  de  sepultura,  não
+havendo que se falar em concurso material com o delito de furto em razão de as partes do esqueleto do defunto não configurarem
+coisas  alheias  móveis”  (Ap.  Crim.  1.0281.01.000374-3/001-MG,  5.
+a
+  C.  Crim.,  rel.  Adilson  Lamounier,  05.08.2008,  v.u.).  E
+tratando de furto da arcada dentária do defunto: “Não se pretenda dizer que pertence ele à família, que é coisa que faz parte do
+patrimônio  dos  herdeiros  do  morto  e  que  estes  seriam,  de  conseguinte,  as  vítimas  do  crime  de
+[/PAGINA 1072]
+
+[PAGINA 1073]
+furto.  Seria  risível  pensar  tal
+hipótese. Se fosse assim, teria o cadáver que ser sempre objeto de inventário... E, se não tivesse o defunto família, passaria ele a
+constituir res nullius e não poderia ser objeto de furto!” (RT 619/291, julgado antigo, mas peculiar).
+8-G. Furto sob vigilância: é possível ocorrer a hipótese descrita no art. 17 do Código Penal, ou seja, o sujeito eleger um
+meio absolutamente ineficaz ou voltar-se contra um objeto absolutamente impróprio no cometimento do furto. Haveria, nesse caso,
+tentativa  inidônea  ou  quase  crime,  que  não  é  punida.  O  importante  é  analisar  se  o  meio  eleito  é,  de  fato,  absolutamente ineficaz
+para a prática do crime, no caso concreto e não simplesmente em tese. O mesmo se diga de ser o objeto absolutamente impróprio,
+
+no  caso  concreto.  Se  um  indivíduo  é  vigiado  num  supermercado  o  tempo  todo  por  seguranças  e  câmeras  internas,  de  modo  a
+tornar, naquela situação concreta, impossível a consumação do delito de furto, trata-se da hipótese do art. 17. Mas se a vigilância
+for falha ou incompleta, cremos ser cabível falar em tentativa. O mesmo se diga de uma tentativa de furto de quem não possui bens
+economicamente  viáveis.  Se,  de  fato,  nada  puder  ser  levado,  pois  a  vítima  está  completamente  depauperada,  pode  ser  crime
+impossível, embora, quando exista algo passível de se constituir objeto do furto – com algum valor, portanto –, cremos tratar-se de
+tentativa  de  furto.  No  entanto,  dispositivo  antifurto  instalado  em  veículo  ou  outro  bem  qualquer  não  torna  impossível  o  delito.
+Preceitua  a  Súmula  567  do  STJ  o  seguinte:  “sistema  de  vigilância  realizado  por  monitoramento  eletrônico  ou  por  existência  de
+segurança no interior de estabelecimento comercial, por si só, não torna impossível a configuração do crime de furto”. Cuida-se de
+dispositivo supérfluo, pois, como se sustenta, o sistema de vigilância pode ou não permitir a consumação do delito, a depender do
+caso concreto. Logo, os termos da referida súmula dizem exatamente isso: a simples existência do sistema de vigilância – por si só
+–  não  torna  impossível  a  consumação.  Porém,  dependendo  do  sistema  de  monitoramento,  pode  gerar  a  hipótese  do  art.  17  do
+Código Penal. Na jurisprudência: STF: “Havendo possibilidade, ainda que remota, de burlar a vigilância exercida sobre a coisa e,
+por  conseguinte,  de  ofender  o  bem  jurídico  tutelado  pela  norma  penal,  não  se  configura  o  crime  impossível.  Precedentes”  (HC
+107.577-MG, 1.
+a
+  T.,  rel.  Cármen  Lúcia,  10.05.2012,  m.v.).  STJ:  “1.  É  possível  a  consumação  do  delito  de  furto,  ainda  que  haja
+vigilância por meios eletrônicos no local dos fatos. Vale dizer, a existência de sistema de segurança não torna, por si só, o crime
+impossível. 2. Agravo regimental não provido” (AgRg no REsp 1413041-MG, 6.
+a
+ T., rel. Rogerio Schietti Cruz, 24.03.2015, v.u.);
+“A existência de sistema de m
+[/PAGINA 1073]
+
+[PAGINA 1074]
+onitoramento eletrônico ou a observação dos passos do praticante do furto pelos seguranças da loja
+não  rende  ensejo,  por  si  só,  ao  automático  reconhecimento  da  existência  de  crime  impossível,  porquanto,  mesmo  assim,  há
+possibilidade  de  o  delito  ocorrer.  Precedentes  das  Turmas  componentes  da  Terceira  Seção”  (HC  216114-RJ,  6.
+a
+  T.,  rel.  Maria
+Thereza de Assis Moura, 07.11.2013, v.u.). “A vigilância exercida no interior de estabelecimento comercial, seja por seguranças
+seja  pela  existência  de  circuito  interno  de  monitoramento  não  afasta,  de  forma  peremptória,  a  potencialidade  lesiva  de  condutas
+que visem à subtração ou dano do patrimônio de estabelecimentos com esta característica. Precedentes” (REsp 1.306.229-RS, 5.
+a
+T., rel. Gilson Dipp, 17.05.2012, v.u.); “A presença de sistema eletrônico de vigilância no estabelecimento comercial não torna o
+agente completamente incapaz de consumar o furto. Logo, não se pode afastar a punição, pela configuração do crime impossível,
+pela  absoluta  ineficácia  dos  meios  empregados.  Precedentes”  (HC  223.710-SP,  5.
+a
+  T.,  rel.  Laurita  Vaz,  28.02.2012,  v.u.);  “O
+Superior  Tribunal  de  Justiça  afastou  a  tese  de  crime  impossível  pela  só  existência  de  sistema  de  vigilância  instalado  em
+estabelecimento comercial. Precedentes” (HC 209.512-RS, 5.
+a
+ T., rel. Marco Aurélio Bellizze, 06.10.2011, v.u.). Consultar, ainda,
+a nota 59-B ao art. 17.
+8-H. A questão da trombada: cremos não se tratar de furto, e sim de roubo. A violência utilizada na trombada, por menor
+que seja, é voltada contra a pessoa para arrancar-lhe a bolsa, a corrente, o relógio ou qualquer outro bem que possua, de forma que
+configurada  está  a  figura  do  art.  157.  Dizer  que  o  ato  violento  tem  por  objetivo  apenas  a  coisa  é  desconhecer  o  significado  da
+“trombada”,  que  inexoravelmente  provoca  o  toque  físico  ao  corpo  da  vítima,  com  uso  da  força  bruta.  O  furto  deve  prescindir  de
+todo e qualquer tipo de violência contra a pessoa, não havendo lesão à integridade física do ofendido. Pode-se falar em furto – mas,
+nesse  caso,  não  acreditamos  tratar-se  de  “trombada”  –  quando  o  agente  ludibria  a  vítima,  retirando-lhe  o  bem  que  possui.  Ex.:
+fingindo  limpar  o  líquido  que  propositadamente  derrubou  na  roupa  do  ofendido,  o  autor  toma-lhe  a  carteira.  Há  toque  físico  no
+corpo da vítima, embora esta conduta seja típica do furto, porque não houve violência contra a pessoa.
+8-I. Furto  de  cartão  de  crédito  e  bancário:  a  simples  subtração  do  cartão  de  plástico  pode  ser  considerada  crime  de
+bagatela,  ou  seja,  fato  atípico.  O  cartão  não  tem  valor  algum  e  a  administradora  ou  o  estabelecimento  bancário,  comunicado  o
+furto,  repõe  o  mesmo  ao  cliente  sem  nenhum  custo,  como  regra.  Por  isso,  a  situação  é  diversa  daquela  que  apresenta  o  talão  de
+cheques. Neste caso, há a nece
+[/PAGINA 1074]
+
+[PAGINA 1075]
+ssária e custosa sustação das folhas e o reenvio de outro, muitas vezes cobrado. Se o agente do furto
+utilizar o cartão para fazer saques ou comprar algum produto em lugar do titular da conta, configura-se o estelionato.
+8-J. Furto de imagem: a coisa, objeto do delito, deve ser palpável, não podendo tratar-se de uma imagem, como a captada
+por  meio  de  uma  foto  ou  filme.  Se  uma  pessoa  invade  um  lugar  para  fotografar  ou  filmar  alguma  coisa,  pode  responder  por
+violação de domicílio e até violação de direito autoral, no tocante ao uso da imagem, mas não por furto. “O furto deve ser furto de
+coisa,  ou  recair  em  uma  coisa;  a  coisa  mesma  deve  ser  subtraída.  É  por  isso  que  não  comete  furto  o  fotógrafo  do  Santo  Sudário
+que, em 1898, em Turim, porque se limitou tão somente a fotografá-lo” (L
+AJE ROS, La interpretación penal en el hurto, el robo y
+la extorsión, p. 100).
+9. Furto famélico: pode, em tese, constituir estado de necessidade. É a hipótese de se subtrair alimento para saciar a fome.
+O art. 24 do Código Penal estabelece ser possível o perecimento de um direito (patrimônio) para salvaguardar outro de maior valor
+(vida,  integridade  física  ou  saúde  humana),  desde  que  o  sacrifício  seja  indispensável  e  inevitável.  Atualmente,  não  é  qualquer
+situação que pode configurar o furto famélico, tendo em vista o estado de pobreza que prevalece em muitas regiões de nosso país.
+
+Fosse ele admitido sempre e jamais se teria proteção segura ao patrimônio. Portanto, reserva-se tal hipótese a casos excepcionais,
+como, por exemplo, a mãe que, tendo o filho pequeno adoentado, subtrai um litro de leite ou um remédio, visto não ter condições
+materiais para adquirir o bem desejado e imprescindível para o momento. Na jurisprudência: “Admite-se o furto famélico àqueles
+que, vivendo em condições de maior indigência, subtraíram objetos, aptos a satisfazer privação inadiável, na qual padeciam tanto
+eles  como  seus  familiares  e  dependentes.  Ninguém  furta  gêneros  alimentícios  para  acrescentá-los  a  seu  patrimônio;  fá-lo,  tão
+somente, para saciar a fome e atender suas vicissitudes imediatas, pois que apenas a isso se prestam mercadorias de tal natureza”
+(TJPB,  Ap.  99.004701-5,  C.  Crim.,  rel.  Júlio  Aurélio  Moreira  Coutinho,  16.11.1999,  v.u.,  RT  773/647,  julgado  antigo,  mas
+mantido para ilustrar a situação).
+10. Elemento normativo do tipo: alheia é toda coisa que pertence a outrem, seja a posse ou a propriedade.
+11. Conceito de móvel: é a coisa que se desloca de um lugar para outro. Tra-ta-se do sentido real, e não jurídico. Assim,
+ainda  que  determinados  bens  possam  ser  considerados  imóveis  pelo  direito  civil,  como  é  o  caso  dos  materiais  provisoriamente
+separados de um prédio (art. 81, II, CC: “Não perdem o caráter de imóveis: (...) II – os materiais provisoriamente separados de um
+prédio, para nele se reempregarem”), para o Direito Penal são considerados móveis, portanto suscet
+[/PAGINA 1075]
+
+[PAGINA 1076]
+íveis de serem objeto do delito
+de furto. No mesmo sentido: “ainda que o Código Civil considere que as coisas móveis postas intencionalmente pelo proprietário,
+como acessórias de um imóvel, devem ser consideradas como tais, quem se apodera delas não comete usurpação de imóvel, mas
+furto” (L
+AJE ROS, La interpretación penal en el hurto, el robo y la extorsión, p. 111).
+12. Objetos material e jurídico: o objeto material é a coisa sujeita à subtração, que sofre a conduta criminosa; o objeto
+jurídico é o patrimônio do indivíduo, que pode ser constituído de coisas de sua propriedade ou posse, desde que legítimas. A mera
+detenção, em nosso entender, não é protegida pelo Direito Penal, pois não integra o patrimônio da vítima.
+13. Classificação:  trata-se  de  crime  comum  (aquele  que  não  demanda  sujeito  ativo  qualificado  ou  especial);  material
+(delito que exige resultado naturalístico, consistente na diminuição do patrimônio da vítima); de forma livre (podendo ser cometido
+por qualquer meio eleito pelo agente); comissivo (“subtrair” implica ação) e, excepcionalmente, comissivo por omissão (omissivo
+impróprio,  ou  seja,  é  a  aplicação  do  art.  13,  §  2.º,  CP);  instantâneo  (cujo  resultado  se  dá  de  maneira  instantânea,  não  se
+prolongando no tempo), na maior parte dos casos, embora seja permanente na forma prevista no § 3.º (furto de energia); de dano
+(consuma-se  apenas  com  efetiva  lesão  a  um  bem  jurídico  tutelado);  unissubjetivo  (que  pode  ser  praticado  por  um  só  agente);
+plurissubsistente (em regra, vários atos integram a conduta); admite tentativa.
+14. Causa específica de aumento de pena:  trata-se  do  furto  cometido  durante  o  repouso  noturno  –  ou  simplesmente
+furto noturno  –,  especial  circunstância  que  torna  mais  grave  o  delito,  tendo  em  vista  a  menor  vigilância  que,  durante  a  noite,  as
+pessoas  efetivamente  exercem  sobre  os  seus  bens,  seja  porque  estão  repousando,  seja  porque  há  menor  movimentação  na
+comunidade,  facilitando  a  perpetração  do  crime.  O  legislador,  reconhecendo  o  maior  gravame,  impõe  um  aumento  de  um  terço
+para a pena, em quantidade fixa e predeterminada. A jurisprudência majoritária tem entendido que essa causa de aumento deve ser
+aplicada somente ao furto simples, isto é, à figura prevista no caput, tendo em vista a sua posição sistemática na construção do tipo
+penal. A pena do furto qualificado, já aumentada nas suas balizas mínima e máxima, não seria por este aumento afetada. Ademais,
+as circunstâncias que envolvem o furto previsto no § 4.º já são graves o suficiente para determinar uma justa punição ao autor da
+infração penal. Era a nossa posição. Mais detidamente refletindo sobre o tema, verificamos o seu desacerto no processo de fixação
+da pena. Em redor do tipo básico (caput), giram várias circunstâncias, algumas gerando aumento de pena, outras, diminuição. As
+elevações  são  obtidas  por  meio  de  qualificadoras  e  causas  de
+[/PAGINA 1076]
+
+[PAGINA 1077]
+aumento;  as  diminuições,  por  meio  de  privilégios  e  causas  de
+diminuição. A qualificadora, quando presente, altera a faixa de fixação abstrata da pena (no caso do furto, pode-se alterá-la para
+dois a oito anos e multa – conforme § 4.º – ou para três a oito – conforme § 5.º). Na concomitante presença de qualificadora do §
+4.º  e  do  §  5.º,  somente  se  pode  eleger  uma  faixa  para  a  pena,  logo,  escolhe-se  a  mais  grave:  de  três  a  oito  anos.  A  circunstância
+remanescente,  pertencente  à  outra  qualificadora  do  §  4.º  (por  exemplo,  rompimento  de  obstáculo),  deve  ser  levada  em  conta  na
+aplicação da pena-base, como circunstância judicial. Entretanto, a incidência concomitante de causas de aumento e de diminuição,
+previstas no mesmo tipo penal, podem (e devem) ser aplicadas umas sobre as outras. Por isso, se houver furto noturno, cometido
+por  primário,  com  coisa  de  pouco  valor,  pode-se  fazer  incidir  os  §§  1.º  e  2.º.  Diante  disso,  presente  apenas  uma  circunstância
+qualificadora do § 4.º (ilustrando, a escalada), além da causa de aumento de ter sido o crime cometido durante o repouso noturno,
+prevista no § 1.º, nada impede a aplicação de ambas. O juiz parte da faixa indicada pelo § 4.º, por conta da escalada, logo, dois a
+oito anos; fixa a pena-base, com fruto no art. 59 do CP; verifica se há agravantes ou atenuantes (arts. 61 a 65); finalmente, insere as
+causas de aumento, no caso, um terço a mais, por consideração ao §. 1.º. A posição da causa de aumento no tipo penal, bem como
+da   qualificadora,   é   completamente   indiferente,   levando-se   em   conta   o   processo   trifásico   de   aplicação   da   pena.   Outras
+considerações, para não aplicar o aumento do § 1.º às formas qualificadas (§ 4.º ou 5.º), constituem pura política criminal, visando
+à  menor  apenação  ao  acusado,  embora  distante  da  técnica  de  individualização  da  pena.  Na  jurisprudência:  STJ:  “Entretanto,  a
+
+causa especial de aumento de pena do repouso noturno é aplicável somente às hipóteses de furto simples, sendo incabível no caso
+do  delito  qualificado  (Precedente)”  (REsp  940.245-RS,  5.
+a
+  T.,  rel.  Felix  Fischer,  13.12.2007,  v.u.);  HC  10.240-RS,  6.
+a
+  T.,  rel.
+Fernando  Gonçalves,  21.10.1999,  v.u.,  DJ  14.02.2000,  p.  79.  Em  posição  intermediária:  TJSC:  “O  fato  de  o  crime  ter  sido
+praticado  durante  o  repouso  noturno  não  pode  ser  reconhecido  como  causa  especial  de  aumento  de  pena  por  se  tratar  de  furto
+qualificado, mas incide como circunstância do crime” (2015.005616-8-São Domingos, 1.
+a
+ C. Crim., rel. Carlos Alberto Civinski,
+28.04.2015, v.u.).
+15. Repouso noturno: entende-se por repouso noturno, a fim de dar segurança à interpretação do tipo penal, uma vez que
+as pessoas podem dar início ao repouso noturno em variados horários, mormente em grandes cidades, o período que medeia entre o
+início da noite, com o pôr do sol, e o surgimento do dia, com o alvo
+[/PAGINA 1077]
+
+[PAGINA 1078]
+recer. A vigilância tende a ser naturalmente dificultada quando
+a luz do dia é substituída pelas luzes artificiais da urbe, de modo que o objetivo do legislador foi justamente agravar a pena daquele
+que se utiliza desse período para praticar o delito contra o patrimônio. Ensina J
+ORGE ALBERTO ROMEIRO que ocorreu na Índia a
+primeira  anotação  encontrada  na  lei  penal  acerca  da  circunstância  agravante  de  furto  praticado  durante  a  noite:  “Se  os  ladrões,
+depois de haverem feito uma brecha num muro, cometem um roubo durante a noite, que o rei ordene a sua empalação em pontudo
+dardo, após a amputação das duas mãos” (parágrafo 276 do Código de Manu). Continua o mestre dizendo que Moisés já definia o
+período noturno “como o espaço de tempo que medeia entre o pôr e o nascer do sol” (A noite no direito e no processo penal, p.
+181). Assim, no contexto desta causa de aumento, se a vítima dorme durante o dia – por ser vigilante noturno, por exemplo –, não
+incide a agravação da pena. Por outro lado, é possível haver o aumento caso o furto seja cometido em zona rural (sítio ou fazenda),
+fora da casa-sede, desde que os moradores estejam repousando.
+16. Condições  para  a  aplicação  do  aumento:  há  duas  posições  a  respeito  do  tema:  a)  é  indispensável  que  o  furto
+ocorra  em  casa  habitada,  com  os  moradores  nela  repousando.  Justamente  porque  prevalecia  esse  entendimento,  não  se  admitia  a
+incidência  do  aumento  quando  o  furto  ocorresse  em  casa  comercial.  É  posição  ultrapassada  na  jurisprudência;  b)  a  causa  de
+aumento está presente desde que a subtração ocorra durante o repouso noturno, ou seja, quando as pessoas de um modo geral estão
+menos atentas, com menor chance de vigilância dos seus e dos bens alheios, porque anoiteceu. Se um imóvel é invadido durante a
+noite, estando ou não habitado, com ou sem moradores no seu interior repousando, o furto merece pena mais severa. É a solução
+correta, pois sustentar o contrário faz com que a circunstância agravante se concentre no fato de haver maior perigo para a vítima –
+que  está  em  casa  dormindo  –  quando  a  subtração  se  realiza  no  mesmo  local,  o  que  não  nos  parece  tenha  sido  o  objetivo  da  lei.
+Nessa visão: STJ: “Para a incidência da causa especial de aumento prevista no § 1.º do art. 155 do Código Penal, é suficiente que a
+infração ocorra durante o repouso noturno, período de maior vulnerabilidade para as residências, lojas e veículos, sendo irrelevante
+o  fato  de  que  o  crime  tenha  sido  cometido  em  estabelecimento  comercial  que  se  encontrava  fechado.  Precedentes”  (REsp
+1.191.065-MG, 5.
+a
+  T.,  rel.  Gilson  Dipp,  17.04.2012,  v.u.).  “Incide  a  majorante  prevista  no  art.  155,  §  1.º,  do  Código  Penal  se  o
+delito é praticado durante o repouso noturno, período de maior vulnerabilidade inclusive para estabelecimentos comerciais, como
+ocorreu in casu  (Precedentes)”  (REsp  940.245-RS,  5.
+a
+  T.,  rel.  Felix  Fisc
+[/PAGINA 1078]
+
+[PAGINA 1079]
+her,  13.12.2007,  v.u.).  TJSP:  “sustenta  o  apelante  não
+incidir  a  causa  de  aumento  referente  ao  repouso  noturno  vez  não  se  encontrar  a  vítima  em  repouso,  e  sim  em  uma  festa.  O
+argumento  não  prospera.  A  causa  de  aumento  não  se  relaciona  exclusivamente  com  o  repouso  da  vítima,  e  sim  à  diminuição  da
+visibilidade e consequente redução da segurança, seja por parte da vítima quanto de terceiros. Tanto assim o é que, supondo-se um
+vigilante  noturno  que  repousa  durante  o  dia,  caso  sua  residência  seja  furtada  durante  o  seu  período  de  repouso,  muito  embora  a
+atenção da própria esteja reduzida, não haverá incidência da causa de aumento. Deve-se considerar a redução da segurança como
+um mundo, seja em virtude da menor luminosidade, seja devido ao repouso de possíveis testemunhas, não se limitando a análise à
+pessoa  do  ofendido”  (Ap.  0001007-44.2011.8.26.0486,  1.
+a
+  C.  Extraordinária,  rel.  Guilherme  de  Souza  Nucci,  21.07.2014,  v.u.).
+TJDF:  “Para  configurar-se  a  causa  de  aumento  de  pena  prevista  no  §  1.º  do  artigo  155  do  Código  Penal,  basta  que  o  furto  tenha
+ocorrido  durante  o  período  do  repouso  noturno,  sendo  irrelevante  se  a  vítima  estava  ou  não  em  repouso.  2.1  Da  mesma  forma,
+irrelevante é o local onde ocorreu o furto, pois o tipo penal tutela o patrimônio que, durante a noite, torna-se mais vulnerável, dada
+a carência de vigilância” (Ap. 2007 03 1 002152-5-DF, 1.
+a
+ T.C., rel. João Egmont, 22.07.2010, v.u.).
+17. Furto privilegiado: difundiu-se o entendimento de a figura prevista no § 2.º tratar-se do furto privilegiado, em que pese
+ser somente uma causa de diminuição da pena. Poder-se-ia falar em privilégio em sentido amplo. A autêntica figura do privilégio
+haveria de representar uma nova faixa para a fixação da pena, diminuindo-se o mínimo e o máximo em abstrato, estabelecidos pelo
+legislador no preceito sancionador do tipo penal. Entretanto, analisando-se a especial circunstância prevista, conclui-se significar
+uma  causa  obrigatória  de  diminuição  da  pena  em  limites  variáveis  entre  um  a  dois  terços  e  até  mesmo  a  substituição  da  pena  de
+reclusão  pela  de  detenção  e  da  pena  privativa  de  liberdade  pela  de  multa  (aliás,  nessa  última  hipótese,  está-se  diante  de  um
+autêntico privilégio, pois a pena em abstrato se altera completamente para menor).
+17-A. Diferença da insignificância: esta gera a atipicidade da conduta, pois o bem subtraído possui ínfimo valor, incapaz
+
+de afetar o patrimônio da vítima. A figura do furto privilegiado permite a concretização do delito, embora com atenuação da pena.
+O  valor  do  bem  afetado  foge  da  esfera  da  bagatela,  permitindo,  entretanto,  a  sua  consideração  como  de  pequena  monta.  Nesse
+sentido:  STF:  “Num  juízo  de  tipicidade  conglobante,  que  envolve  não  apenas  o  resultado  material  da  conduta,  mas  o  seu
+significado  social  mais  ampl
+[/PAGINA 1079]
+
+[PAGINA 1080]
+o,  não  se  pode  admitir  a  aplicação  do  princípio  da  insignificância  indiscriminadamente.  Nesse
+contexto,  é  necessário  distinguir  o  ‘furto  insignificante’  daquele  referente  à  subtração  de  bem  de  pequeno  valor,  de  modo  a  não
+estimular  a  prática  de  condutas  criminosas  e  obstar  a  aplicação  da  figura  do  ‘furto  privilegiado’,  previsto  no  art.  155,  §  2.º,  do
+Código Penal. O valor dos bens subtraídos não pode ser considerado ínfimo de modo a caracterizar a conduta como minimamente
+ofensiva.  O  Tribunal  de  Justiça  do  Estado  de  Minas  Gerais  destacou  que  ‘os  objetos  subtraídos  valiam  R$  140,11,  sendo  que  a
+época dos fatos o salário mínimo vigente perfazia o valor de R$ 380,00, tratando-se o montante subtraído de quase metade de seu
+importe’. Precedentes. 5. Ordem denegada” (HC 118264-MG, 2.
+a
+ T., rel. Teori Zavascki, 05.08.2014, m. v.); “Convém distinguir,
+ainda,  a  figura  do  furto  insignificante  daquele  de  pequeno  valor.  O  primeiro,  como  é  cediço,  autoriza  o  reconhecimento  da
+atipicidade  da  conduta,  ante  a  aplicação  do  princípio  da  insignificância.  Já  no  que  tange  à  coisa  de  pequeno  valor,  criou  o
+legislador a causa de diminuição referente ao furto privilegiado, prevista no art. 155, § 2.º, do Código Penal” (HC 111.331-RS, 2.
+a
+T., rel. Ricardo Lewandowski, 20.03.2012, v.u.). “A teor do disposto no art. 155, § 2.º, do Código Penal, se o criminoso é primário
+e a coisa furtada possui pequeno valor, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços
+ou aplicar somente a pena de multa’. Mostra-se inadmissível assentar a atipicidade, mormente quando o furto ou a tentativa se fez
+mediante  destruição  ou  rompimento  de  obstáculo”  (HC  107.119-RS,  1.
+a
+  T.,  j.  06.11.2012,  m.v.,  rel.  Marco  Aurélio).  STJ:
+“Consoante a jurisprudência do STJ, ‘no caso do furto, não se pode confundir bem de pequeno valor com o de valor insignificante.
+Apenas  o  segundo,  necessariamente,  exclui  o  crime  em  face  da  ausência  de  ofensa  ao  bem  jurídico  tutelado,  aplicando-se-lhe  o
+princípio da insignificância’ (STJ, HC 212.518-MS, 5.
+a
+ T., j. 17.04.2012, rel. Min. Laurita Vaz, DJe 27.04.2012)” (HC 250.512-
+MG, 6.
+a
+ T., j. 23.10.2012, v.u., rel. Assusete Magalhães).
+18. Primariedade:  é  o  primeiro  requisito  para  o  reconhecimento  do  furto  privilegiado.  A  primariedade  é  um  conceito
+negativo, ou seja, significa não ser reincidente. Portanto, quem não é reincidente, é primário. A reincidência ocorre quando o réu
+comete  novo  crime,  após  já  ter  sido  condenado  definitivamente,  no  Brasil  ou  no  exterior.  Lembremos,  no  entanto,  que  a
+condenação anterior somente surte efeito para provocar a reincidência desde que não tenha ocorrido o lapso temporal de cinco anos
+entre  a  data  do  cumprimento  ou  da  extinção  da  pena  e  o  cometimento  da  nova  infração  penal.  Ver  comentários  ao  art.
+[/PAGINA 1080]
+
+[PAGINA 1081]
+63  do
+Código Penal. É preciso anotar que a lei foi bem clara ao exigir somente a primariedade para a aplicação do benefício, de modo
+que descabe, em nosso entendimento, clamar também pela existência de bons antecedentes.
+19. Pequeno valor:  não  se  trata  de  conceituação  pacífica  na  doutrina  e  na  jurisprudência,  tendo  em  vista  que  se  leva  em
+conta ora o valor do prejuízo causado à vítima, ora o valor da coisa em si. Preferimos o entendimento que privilegia, nesse caso, a
+interpretação  literal,  ou  seja,  deve-se  ponderar  unicamente  o  valor  da  coisa,  pouco  interessando  se,  para  a  vítima,  o  prejuízo  foi
+irrelevante.  Afinal,  quando  o  legislador  quer  considerar  o  montante  do  prejuízo  deixa  isso  bem  claro,  como  o  fez  no  caso  do
+estelionato (art. 171, § 1.º, CP). Por isso, concordamos plenamente com a corrente majoritária, que sustenta ser de pequeno valor a
+coisa que não ultrapassa quantia equivalente ao salário mínimo. De fato, seria por demais ousado defender a tese de que um objeto
+cujo  valor  seja  superior  ao  do  salário  mínimo  –  auferido  por  grande  parte  da  população  –  possa  ser  considerado  de  “pequeno
+valor”. Nessa linha: STJ: “O furto de R$ 500,00 (quinhentos reais) não se encaixa nos parâmetros previstos no art. 155, § 2.º, do
+Código Penal, porquanto não se trata de pequeno valor. Outrossim, não se deve levar em consideração referido fato isoladamente,
+haja vista a continuidade delitiva já noticiada anteriormente. Dessa forma, quer pelo valor total subtraído, quer pelo maior desvalor
+da conduta praticada em continuidade delitiva, não é cabível a incidência do privilégio” (AgRg no REsp 1436308-RS, 5.
+a
+ T., rel.
+Walter de Almeida Guilherme, 03.02.2015, v.u.); “Conforme o entendimento deste Superior Tribunal, se o valor da res subtraída
+não excede a importância correspondente ao salário mínimo vigente à época dos fatos e o agente é primário, mostra-se possível o
+reconhecimento  do  furto  privilegiado”  (AgRg  no  REsp  1447688-SP,  5.
+a
+  T.,  rel.  Jorge  Mussi,  12.02.2015,  v.u.);  “Afasta-se  a
+incidência  do  furto  privilegiado  quando  o  valor  dos  bens  subtraí-dos  é  muito  superior  ao  salário  mínimo”  (AgRg  no  REsp
+1.265.654-RS,  6.
+a
+  T.,  rel.  Sebastião  Reis  Júnior,  02.02.2012,  v.u.).  TJDF:  “Melhor  sorte  também  não  assiste  à  recorrente  ao
+pleitear  pela  desclassificação  do  delito  para  o  crime  de  furto  privilegiado,  eis  que  os  bens  foram  avaliados  em  R$  450,20
+(quatrocentos e cinquenta reais e vinte centavos), portanto, superior ao salário mínimo vigente à época, não havendo que se falar
+em  coisa  de  pequeno  valor  e,  por  consequência,  em  furto  privilegiado”  (Ap.  2006.01.1.107316-0,  Juizado  Especial,  rel.  Alfeu
+Machado, 26.06.2007, v.u.). Por derradeiro, deve-se salientar que o “pequeno valor” precisa ser constatado à época da consumação
+do furto, e não quando o juiz for aplicar a pena. Sob outro enfoque, lev
+[/PAGINA 1081]
+
+[PAGINA 1082]
+ando em consideração a posição da vítima: TJPB: “De outra
+parte, o conceito de pequeno valor da coisa furtada há que ser delimitado pela capacidade econômica da vítima. Então, se aquela é
+pessoa  pobre,  simples  trabalhador  braçal,  as  sandálias  que  usa  e  a  pequena  quantidade  de  dinheiro  que  conduz  na  carteira
+
+representam bens de induvidosa relevância para a sua pessoa, afastada resta a possibilidade de desclassificação do furto para a sua
+modalidade privilegiada” (Ap. 200.2004.023798-0/001, C. Criminal, rel. Raphael Carneiro Arnaud, 01.06.2006, v.u.).
+20. Aplicação  do  privilégio  à  figura  qualificada:  há  polêmica  quanto  à  possibilidade  de  aplicação  do  privilégio  às
+figuras  qualificadas  previstas  no  §  4.º,  prevalecendo  o  entendimento  acerca  da  possibilidade.  Assim,  segundo  a  orientação  hoje
+minoritária,  o  privilégio  seria  útil  somente  às  figuras  do  caput  e  do  §  1.º,  mas  não  ao  tipo  qualificado.  Discordamos  desse
+posicionamento.  No  caso  do  homicídio,  o  §  1.º  do  art.  121,  que  é  considerado  o  homicídio  privilegiado,  aplica-se,  conforme
+doutrina e jurisprudência majoritárias, não somente ao caput, mas também ao § 2.º, que cuida das qualificadoras. Por que não fazer
+o mesmo com o furto? Inexistindo razão para dar tratamento desigual a situações semelhantes, cremos ser possível a aplicação da
+causa  de  diminuição  da  pena  às  hipóteses  qualificadas  do  §  4.º.  Ademais,  ao  se  cuidar  do  chamado  privilégio,  aponta-se,  na
+realidade,  uma  causa  de  diminuição  de  pena  incidindo  sobre  um  tipo  qualificado.  Assim,  não  vemos  razão  para  punir  o  réu
+primário, que subtraiu coisa de pequeno valor, valendo-se de escalada, com a mesma pena daquele que subtraiu coisas de elevado
+valor,  utilizando  o  mesmo  expediente.  São  situações  diferentes,  que  merecem  o  cuidado  de  aplicações  diferenciadas  quanto  à
+reprimenda:  para  um,  a  pena  de  dois  anos,  diminuída  de  um  a  dois  terços;  para  o  segundo,  a  pena  de  dois  anos,  sem  qualquer
+diminuição. Deve-se incentivar, segundo cremos, as hipóteses de diminuição de pena – e não simplesmente de atenuantes – com
+possibilidade  de  fixação  da  pena  abaixo  do  mínimo  legal  em  casos  nitidamente  menos  graves.  Nesse  prisma:  STF:  “Habeas
+corpus.  Penal.  Furto.  Compatibilidade  entre  o  privilégio  e  a  qualificadora  do  crime  de  furto:  possibilidade.  Precedentes.  Habeas
+corpus concedido. 1. As causas especiais de diminuição (privilégio) são compatíveis com as de aumento (qualificadora) de pena
+previstas,  respectivamente,  nos  §§  2.º  e  4.º  do  artigo  155  do  Código  Penal.  Precedentes.  2.  Habeas  corpus  concedido”  (HC
+123934-MG,  2.
+a
+  T.,  rel.  Cármen  Lúcia,  11.11.2014,  v.u.);  “Não  há  vedação  legal  ao  reconhecimento  do  furto  como  sendo
+concomitantemente  qualificado  (art.  155,  §  4.º)  e  privilegiado  (art.  155,  §  2.º)”  (HC  101.256-RS,
+[/PAGINA 1082]
+
+[PAGINA 1083]
+1.
+a
+  T.,  rel.  Dias  Toffoli,
+02.08.2011, m.v.); “A jurisprudência do Supremo Tribunal Federal é firme no sentido de não haver vedação legal para incidência
+do  privilégio  (CP,  art.  155,  §  2.º)  nos  casos  de  furtos  qualificados  (CP,  art.  155,  §  4.º)”  (HC  102.490-SP,  1.
+a
+  T.,  rel.  Ricardo
+Lewandowski, 01.06.2010, v.u.); “A jurisprudência do Supremo Tribunal Federal é firme no sentido da possibilidade de homicídio
+privilegiado-qualificado,  desde  que  não  haja  incompatibilidade  entre  as  circunstâncias  do  caso.  Noutro  dizer,  tratando-se  de
+qualificadora  de  caráter  objetivo  (meios  e  modos  de  execução  do  crime),  é  possível  o  reconhecimento  do  privilégio  (sempre  de
+natureza subjetiva). A mesma regra de interpretação é de ser aplicada no caso concreto, dado que as qualificadoras do concurso de
+pessoas e da destreza em nada se mostram incompatíveis com: a) o fato de ser a acusada penalmente primária; b) inexpressividade
+financeira da coisa subtraída. Precedentes de ambas as Turmas do STF: HCs 94.765 e 96.843, da relatoria da ministra Ellen Gracie
+(Segunda Turma); HC 97.051, da relatoria da ministra Cármen Lúcia (Primeira Turma); e HC 98.265, da minha relatoria (Primeira
+Turma)” (HC 97.034-MG, 1.
+a
+ T., rel. Ayres Britto, 06.04.2010, m.v.); “Considero que, para se admitir a figura do crime de furto
+qualificado--privilegiado, o critério norteador deve ser o da verificação da compatibilidade entre as qualificadoras (CP, art. 155, §
+4.º) e o privilégio (CP, art. 155, § 2.º). E, a esse respeito, no segmento do crime de furto, não há incompatibilidade entre as regras
+constantes  dos  dois  parágrafos  referidos”  (HC  99.569-MG,  2.
+a
+  T.,  rel.  Ellen  Gracie,  09.02.2010,  v.u.);  “A  Turma,  por  maioria,
+deferiu habeas corpus para admitir a compatibilidade entre a hipótese do furto qualificado e o privilégio de que trata o § 2.º do art.
+155  do  CP.  No  caso,  os  pacientes  foram  condenados  pela  prática  do  crime  previsto  no  art.  155,  §  4.º,  IV,  do  CP,  em  virtude  da
+subtração  de  uma  novilha  holandesa,  no  valor  de  R$  200,00  (duzentos  reais).  Pleiteava  a  impetração  a  aplicação  do  princípio  da
+insignificância ou o reconhecimento da causa especial de diminuição da pena prevista no art. 155, § 2.º, do CP (furto privilegiado).
+Inicialmente,  rejeitou-se  o  primeiro  pedido  ao  fundamento  de  que  os  requisitos  essenciais  à  incidência  do  princípio  da
+insignificância  não  estariam  presentes  na  espécie,  porquanto,  embora  se  cuidasse  de  bem  de  pequeno  valor,  a  sentença
+condenatória  realçara  a  situação  econômica  da  vítima,  a  relevância  do  seu  prejuízo,  bem  como  o  aspecto  socioeconômico  da
+região,  na  qual  predomina  o  minifúndio.  Em  seguida,  quanto  ao  furto  qualificado--privilegiado,  asseverou-se  que,  recentemente,
+em que pesem julgados mais antigos em sentido contrário, a Corte vem se afastando da ortodoxia que dava como
+[/PAGINA 1083]
+
+[PAGINA 1084]
+inconciliável o
+tratamento privilegiado do crime de furto com suas hipóteses qualificadas. Vencido, no ponto, o Min. Marco Aurélio, que indeferia
+o writ  por  não  conciliar  o  furto  privilegiado  com  o  furto  qualificado,  sob  pena  de  a  junção  fazer  surgir  terceiro  tipo  penal.
+Precedente citado: HC 94.765-RS (DJe 26.09.2008)” (HC 97.051-RS, 1.
+a
+ T., rel. Cármen Lúcia, 13.10.2009, m.v.). O STJ editou a
+Súmula  511:  “É  possível  o  reconhecimento  do  privilégio  previsto  no  §  2.º  do  art.  155  do  CP  nos  casos  de  crime  de  furto
+qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva”. E
+ainda: “A Terceira Sessão desta Corte decidiu não haver incompatibilidade entre o furto privilegiado e o qualificado, desde que o
+réu seja primário, a res furtiva de pequeno valor, as qualificadoras de ordem objetiva e o fato delituoso não possua maior gravidade
+(EREsp  842.425-RS)”  (HC  166.736-ES,  6.
+a
+  T.,  rel.  Og  Fernandes,  22.05.2012,  v.u.).  “Sendo  o  paciente  primário  e  de  pequeno
+valor a res furtiva, e verificando-se que a qualificadora do delito é de natureza objetiva – destruição ou rompimento de obstáculo à
+subtração da coisa  –  e  que  o  fato  criminoso  não  se  revestiu  de  maior  gravidade,  devida  a  incidência  do  benefício  legal  do  furto
+
+privilegiado,  pois  presente  a  excepcionalidade  devida  para  o  seu  reconhecimento  na  espécie”  (HC  186.994-RS,  5.
+a
+ T., rel. Jorge
+Mussi, 14.06.2012, v.u.).
+21. Aplicação dos §§ 1.º e 2.º concomitantemente: há perfeita possibilidade. Trata-se de um concurso entre causa de
+aumento e causa de diminuição da pena, devendo o juiz aplicar as regras gerais para a fixação da pena. Assim, poderá aumentar de
+um  terço  a  pena,  por  conta  do  furto  praticado  durante  o  repouso  noturno,  bem  como,  em  seguida,  compensar  a  elevação  com  a
+diminuição de um terço, por conta do disposto no § 2.º. Poderá, também, aumentar a pena em um terço (§ 1.º) e dimi-nuí-la de dois
+terços  (§  2.º).  Se  preferir  aplicar  o  privilégio,  que  é  a  substituição  da  pena  privativa  de  liberdade  pela  multa,  logicamente,  o
+aumento do § 1.º deixará de ter importância. Enfim, conforme o caso, o § 1.º entra em sintonia com o § 2.º, cabendo a aplicação de
+ambos, mas pode o § 2.º suplantar o aumento do § 1.º, como já exposto.
+21-A. Critérios  gerais  para  aplicação  do  privilégio,  segundo  o  STJ:  “1.  O  reconhecimento  do  privilégio  legal  –
+direito subjetivo do réu – exige a conjugação de dois requisitos objetivos, consubstanciados na primariedade e no pequeno valor da
+coisa  furtada  que,  na  linha  do  entendimento  pacificado  neste  Superior  Tribunal,  deve  ter  como  parâmetro  o  valor  do  salário
+mínimo  vigente  à  época  dos  fatos.  2.  A  Terceira  Seção  desta  Corte  Superior  consolidou  o  entendimento,  no  julgamento  dos
+Recursos   Especiais   Representativos   de   C
+[/PAGINA 1084]
+
+[PAGINA 1085]
+ontrovérsia   n.   1.193.932/MG,   1.193.558/MG,   1.193.554/MG   e   1.193.194/MG,
+submetidos  ao  rito  do  art.  543-C  do  CPC,  de  que  o  privilégio  previsto  no  §  2.º  do  art.  155  do  Código  Penal  pode  ser  aplicado
+mesmo  quando  o  acusado  for  condenado  pela  prática  de  furto  qualificado,  desde  que,  como  na  espécie,  a(s)  qualificadora(s)
+seja(m)  de  natureza  objetiva.  Súmula  n.  511  do  STJ.  3.  A  aplicação  da  minorante  abre  um  leque  de  possibilidades  para  o
+magistrado, que deve fundamentar a escolha que faz entre as alternativas legais: a) substituir a pena de reclusão por detenção; b)
+diminuir  a  pena  privativa  de  liberdade  de  um  a  dois  terços;  c)  aplicar  somente  a  pena  de  multa.  4.  Como  se  trata  de  delito
+duplamente  qualificado  –  o  que  demonstra  maior  reprovabilidade  da  conduta  –,  não  é  possível  substituir  a  pena  privativa  de
+liberdade  por  multa.  5.  Diante  da  ausência  de  outros  elementos  que  permitam  identificar  maior  gravidade  do  delito  perpetrado
+(tanto que a pena-base foi exasperada pela presença das duas qualificadoras, sem mencionar as circunstâncias judiciais do art. 59
+do CP), deve a pena privativa de liberdade ser reduzida na fração máxima prevista no § 2.º do art. 155 do Código Penal. 6. Habeas
+corpus  não  conhecido.  Ordem  concedida  de  ofício  para,  reconhecida  a  incidência  do  privilégio  descrito  no  art.  155,  §  2.º,  do
+Código Penal, determinar a diminuição da pena imposta aos pacientes em 2/3” (HC 208.685-SP, 6.
+a
+ T., rel. Rogerio Schietti Cruz,
+21.06.2016, DJe 29.06.2016).
+22. Equiparação a coisa móvel: para não haver qualquer dúvida, deixou o legislador expressa a intenção de equiparar a
+energia elétrica ou qualquer outra que possua valor econômico à coisa móvel, de modo que constitui furto a conduta de desvio de
+energia de sua fonte natural. Energia é a qualidade de um sistema que realiza trabalhos de variadas ordens, como elétrica, química,
+radiativa, genética, mecânica, entre outras. Assim, quem faz uma ligação clandestina, evitando o medidor de energia elétrica, por
+exemplo, está praticando furto. Nessa hipótese, realiza-se o crime na forma permanente, vale dizer, a consumação se prolonga no
+tempo. Enquanto o desvio estiver sendo feito, está-se consumando a subtração de energia elétrica.
+22-A. Furto  de  sinal  de  TV  a  cabo  e  internet:  é  válido  para  encaixar-se  na  figura  prevista  neste  parágrafo,  pois  são
+formas de energia. Nessa ótica: STJ: “(...) o sinal de TV a cabo pode ser equiparado à energia elétrica para fins de incidência do
+artigo 155, § 3.º, do Código Penal. Doutrina. Precedentes” (RHC 30847-RJ, 5.
+a
+  T.,  rel.  Jorge  Mussi,  20.08.2013,  v.u.).  “Indícios
+apontando  o  uso  irregular  de  sinais  de  TV  a  cabo  por  um  período  de  cerca  de  1  ano  e  9  meses,  sem  o  pagamento  da  taxa  de
+assinatura ou das mensalidades pelo uso, apesar da cientificação pela empresa vít
+[/PAGINA 1085]
+
+[PAGINA 1086]
+ima da irregularidade da forma como recebiam o
+sinal,  tendo  sido  refeita,  inclusive,  a  ligação  clandestina  após  a  primeira  desativação”  (HC  17.867-SP,  5.
+a
+  T.,  rel.  Gilson  Dipp,
+17.12.2002, v.u., DJ 17.03.2003). TJRJ: “Sentença que absolveu sumariamente o apelado do crime previsto no art. 155, § 3.º, do
+Código  Penal,  com  fulcro  no  inciso  III  do  artigo  397  do  Código  de  Processo  Penal,  por  entender  atípica  a  conduta  narrada  na
+denúncia. O Ministério Público busca a reforma da sentença, com o consequente prosseguimento do processo em seus ulteriores
+termos. Para tanto, alega que a subtração de sinal de internet é fato típico. Revela a denúncia que o recorrido há aproximadamente
+um ano distribuía sinal de internet (Velox) para oito residências da Comunidade Pavão-Pavãozinho, recebendo R$ 40,00 (quarenta
+reais) mensais de cada usuário. Essa conduta adéqua-se perfeitamente ao tipo penal descrito no art. 155, § 3.º, do Código Penal, em
+sua parte final. Não se trata de analogia in malam partem, mas sim de interpretação analógica, autorizada no art. 3.º do Código de
+Processo  Penal.  No  caso,  o  furto  de  sinal  de  internet  é  válido  para  encaixar-se  na  figura  típica  em  questão,  pois  é  uma  forma  de
+energia por equiparação com valor econômico. Precedente do Superior Tribunal de Justiça, ao analisar o crime de furto de sinal de
+TV  a  cabo.  Recurso  ministerial  provido,  para  reformar  a  sentença  e  determinar  o  prosseguimento  da  ação  penal  perante  o  juiz
+tabelar,  em  observância  ao  princípio  do  livre  convencimento  motivado  do  julgador”  (Ap.  0414389-34.2011.8.19.0001-RJ,  7.
+a
+  C.
+Crim., rel. Siro Darlan de Oliveira, 18.11.2014, m.v.).
+23. Conceito  de  qualificadora:  convém  relembrar  que  o  crime  é  qualificado  quando  o  tipo  penal  faz  prever
+
+circunstâncias  acrescentadas  ao  tipo  básico,  tornando-o  mais  grave.  O  gravame  é  exposto  na  forma  da  alteração  do  mínimo  e  do
+máximo em abstrato das penas previstas para o delito. Assim, enquanto o furto simples (figura básica ou elementar) tem uma pena
+de  reclusão  de  1  a  4  anos  e  multa,  o  furto  qualificado  (contendo  circunstâncias  específicas)  altera  a  pena  para  reclusão  de  2  a  8
+anos e multa.
+24. Destruição: é a conduta que provoca o aniquilamento ou faz desaparecer alguma coisa.
+25. Rompimento: é a conduta que estraga ou faz em pedaços alguma coisa. O rompimento parcial da coisa é suficiente para
+configurar a qualificadora: STJ: “A subtração de objetos situados no interior do veículo mediante rompimento de obstáculo, como
+na  hipótese,  com  rompimento  do  vidro  traseiro  direito  de  automóvel  e  destruição  da  máquina  elétrica,  qualifica  o  delito.
+(Precedentes)” (REsp 982.895-RS, 5.
+a
+ T., Felix Fischer, 27.03.2008, v.u.).
+26. Obstáculo: é o embaraço, a barreira ou a armadilha montada para dificultar ou impedir o acesso a alguma coisa. Nessa
+ótica: STF: “A jurisprudência da
+[/PAGINA 1086]
+
+[PAGINA 1087]
+Corte está consolidada no sentido de que ‘configura o furto qualificado a violência contra coisa,
+considerado veículo, visando adentrar no recinto para retirada de bens que nele se encontravam’ (HC 98.606-RS, 1.
+a
+ T., rel. Min.
+Marco  Aurélio,  DJe  28.05.2010)”  (HC  110.119-MG,  1.
+a
+  T.,  rel.  Dias  Toffoli,  13.12.2011,  v.u.).  “1.  Consoante  já  decidiu  esta
+Corte, ‘a destruição ou avaria de automóvel para a subtração de objeto que se encontra em seu interior faz incidir a qualificadora
+prevista no inciso I do § 4.º do art. 155 do Código Penal’ (HC 95.351-RS, rel. Min, Ricardo Lewandowski, 1.
+a
+ T., unânime, DJe
+07.11.2008).  2.  Tendo  o  paciente  usado  de  violência  contra  obstáculo  que  dificultava  a  subtração  dos  objetos,  deve  incidir  a
+qualificadora  do  §  4.º,  I,  do  art.  155  do  CP.  3.  Habeas corpus  denegado”  (HC  98.406-RS,  2.
+a
+  T.,  rel.  Ellen  Gracie,  16.06.2009,
+v.u.).  STJ:  “Segundo  o  entendimento  da  Quinta  Turma  do  Superior  Tribunal  de  Justiça,  configura  circunstância  qualificadora  do
+rompimento de obstáculo, prevista no art. 155, § 4.º, inciso I, do Código Penal o furto cometido com o rompimento dos vidros de
+veículo para a subtração de objetos do seu interior” (HC 185.817-SP, 5.
+a
+ T., rel. Marco Aurélio Bellizze, 03.05.2012, v.u.).
+27. Destruição ou rompimento da própria coisa furtada: há duas correntes, fundamentalmente, analisando o assunto:
+a) não se aplica a qualificadora quando o agente atua contra a própria coisa. Assim, quem rompe o vidro do veículo para ter acesso
+ao  seu  interior,  levando-o  depois  com  uma  “ligação  direta”,  praticaria  furto  simples.  Na  jurisprudência:  STJ:  “A  incidência  da
+qualificadora  do  art.  155,  §  4.º,  inciso  I,  do  Código  Penal,  pressupõe  conduta  praticada  pelo  réu  objetivada  à  destruição  ou  ao
+rompimento do óbice que dificulta a obtenção da coisa. Se o dano é contra o próprio objeto do furto, sendo o obstáculo peculiar à
+res  furtiva,  não  incide  a  majorante”  (AgRg  no  AREsp  230117-DF,  5.
+a
+  T.,  rel.  Felix  Fischer,  24.02.2015,  v.u.);  “A  prática  de
+violência  caracterizada  pelo  rompimento  de  obstáculo  contra  o  próprio  objeto  do  furto,  sendo  o  empecilho  peculiar  à  coisa,  não
+gera a incidência da qualificadora do art. 155, § 4.º, I, do Código Penal” (REsp 618.236-RS, 5.
+a
+ T., rel. Laurita Vaz, 03.02.2005,
+m. v., DJ 07.03.2005, p. 326); b) aplica-se a qualificadora quando a conduta do agente se volta contra obstáculo inerente à própria
+coisa.  No  exemplo  supracitado,  estaria  presente  a  qualificadora.  Pensávamos,  quando  iniciamos  o  estudo  do  assunto,  ser  mais
+adequada a primeira posição, pela fiel leitura do tipo penal. Afinal, a norma estipula ser qualificado o furto quando o autor destrói
+(aniquila)  ou  rompe  (faz  em  pedaços)  uma  barreira  que  impede  a  subtração  da  coisa.  É  razoável  supor,  portanto,  que  o  agente,
+pretendendo  subtrair  joias  de  um
+[/PAGINA 1087]
+
+[PAGINA 1088]
+cofre  situado  numa  residência,  seja  levado  a  romper  ou  destruir  obstáculos.  Arrombando  uma
+porta ou uma janela, ingressa no recinto. Depois, torna-se necessário romper ou destruir a porta do cofre. Com isso, tem acesso às
+joias. É um furto qualificado pela maior audácia e poder de destruição do autor da infração penal. No caso do ladrão que destrói o
+vidro de uma das janelas do carro, estaria ele, em verdade, estragando a própria coisa que pretende levar. Essa primeira impressão
+cessa  quando  percebemos  que  há  coisas  cujo  obstáculo  a  sua  subtração  é  inerente  ao  próprio  objeto  desejado.  É  o  exemplo  do
+veículo. O vidro de um carro não funciona exclusivamente como protetor do motorista contra chuva ou vento, mas também é um
+obstáculo natural aos que pretendem subtraí-lo. O dono, ao largar seu automóvel na rua, faz questão de trancá-lo, fechando bem os
+vidros, que podem, inclusive, estar conectados a alarmes e outros dispositivos de emergência. Portanto, acredita que está mais bem
+protegido do que se o largasse com os vidros abertos. O agente que destrói o vidro para ter acesso ao carro certamente está sendo
+mais audaz e causando mais danos do que aquele que encontra o veículo aberto, levando-o. Não se podem fechar os olhos para a
+realidade. O proprietário de um automóvel sem capota, por exemplo, pode não deixá-lo na rua justamente porque sabe estar sem
+proteção alguma, mais sujeito ao furto, portanto. Aquele que possui o veículo protegido por portas e vidros não possui a mesma
+desconfiança. Sabe-se, aliás, ser mais dificultosa a subtração quando o carro está devidamente fechado do que quando está aberto,
+sem qualquer obstáculo. Uma árvore, noutro exemplo, pode estar sujeita a furto. O seu proprietário somente não colocou a planta
+sob maior proteção porque acredita que ela está naturalmente preservada pelas raízes grudadas ao chão. Assim, aquele que leva a
+árvore,  arrancando-a  do  solo,  estragando  seu  vínculo  natural  com  a  terra,  deve  responder  por  furto  qualificado.  Nem  todos  os
+obstáculos  são  externos  à  coisa.  Cremos,  pois,  mais  acertada  a  segunda  posição.  E  mais:  não  vemos  necessidade  alguma  de  a
+subtração  consumar-se  para  incidir  a  qualificadora.  O  sujeito  que  destrói  o  vidro  do  carro,  sendo  surpreendido  quando  fazia  a
+“ligação direta”, deve responder por tentativa de furto qualificado.
+
+28. Necessidade do exame de corpo de delito: se o crime deixa vestígios, é indispensável o exame de corpo de delito
+(art.  158,  CPP),  não  podendo  supri-lo  a  prova  testemunhal.  Esta  somente  será  admitida,  em  lugar  do  exame,  caso  os  vestígios
+tenham desaparecido, conforme preceitua o art. 167 do Código de Processo Penal. Nesse prisma: STJ: “Consoante a jurisprudência
+desta Corte, para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art. 155, § 4°, I, do Código Penal, é
+imprescindível  a  realização  de  exame  pericial,  sendo  possível
+[/PAGINA 1088]
+
+[PAGINA 1089]
+a  sua  substituição  por  outros  meios  probatórios  somente  se  não
+existirem  vestígios  ou  tenham  esses  desaparecido,  ou  quando  as  circunstâncias  do  crime  não  permitirem  a  confecção  do  laudo.
+Hipótese em que o laudo pericial foi realizado, porém de forma indireta, apenas com base em material fotográfico, não tendo sido
+apontado  nenhum  fundamento  capaz  de  justificar  a  não  realização  da  perícia  de  forma  direta,  impondo,  assim,  o  afastamento  da
+qualificadora  do  rompimento  de  obstáculo.  Precedentes”  (HC  331.100-MS,  5.
+a
+  T.,  rel.  Ribeiro  Dantas,  26.04.2016,  DJe
+03.05.2016);  “1.  Ressalvado  o  entendimento  pessoal  do  relator,  a  jurisprudência  desta  Corte  de  Justiça  é  pacífica  quanto  à
+necessidade de realização de exame pericial para o reconhecimento da qualificadora do rompimento de obstáculo, prevista no art.
+155,  §  4.º,  I,  do  Código  Penal,  sendo  possível  a  sua  substituição  por  outros  meios  probatórios  somente  quando  a  infração  não
+deixar vestígio ou se o corpo de delito houver desaparecido, a teor do disposto nos arts. 158 e 167 do Código de Processo Penal. 2.
+No caso, o laudo pericial não foi realizado em virtude do desaparecimento do cadeado destruído, o que justifica a consideração dos
+depoimentos  testemunhais  como  prova  para  a  incidência  da  referida  qualificadora.  3.  Agravo  regimental  a  que  se  nega
+provimento”  (AgRg  no  AgRg  no  REsp  1419093-DF,  5.
+a
+  T.,  rel.  Gurgel  de  Faria,  10.03.2015,  v.u.);  “1.  A  qualificadora  da
+destruição  ou  rompimento  de  obstáculo  só  pode  ser  aplicada  ao  crime  de  furto  mediante  realização  de  exame  pericial,  tendo  em
+vista  que,  por  ser  infração  que  deixa  vestígio,  é  imprescindível  a  realização  de  exame  de  corpo  de  delito  direto,  por  expressa
+imposição  legal.  Precedentes.  2.  A  substituição  do  laudo  pericial  por  outros  meios  de  prova  apenas  pode  ocorrer  se  o  delito  não
+deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, o que
+não  foi  demonstrado  no  presente  caso.  3.  Ressalte-se  que  é  manifestamente  ilegal  o  reconhecimento  da  qualificadora  do
+rompimento de obstáculo no furto, tão somente, pelas declarações das vítimas, confissão da ré e imagens fotográficas colacionada
+aos  autos,  quando  o  arrombamento  deixa  vestígios,  sendo  imprescindível  para  sua  incidência  a  confecção  de  laudo  pericial  (art.
+158 e art. 167 do CPP) – HC 257.765-MS, Min. Marilza Maynard (Desembargadora convocada do TJSE), 5.
+a
+ T., DJe 28.06.2013.
+4. Agravo regimental improvido” (AgRg no REsp 1501462-MT, 6.
+a
+ T., rel. Sebastião Reis Júnior, 24.03.2015, v.u.); “O Superior
+Tribunal de Justiça possui entendimento pacífico no sentido de que, tratando-se o furto qualificado pelo rompimento de obstáculo
+de delito que deixa vestígio, é indispensável a realização de perícia para a sua
+[/PAGINA 1089]
+
+[PAGINA 1090]
+comprovação, a qual somente pode ser suprida por
+prova  testemunhal  quando  desaparecerem  os  vestígios  de  seu  cometimento  ou  estes  não  puderem  ser  constatados  pelos  peritos.
+Precedentes” (AgRg no HC 220.462-MG, 5.
+a
+ T., rel. Marco Aurélio Bellizze, 19.04.2012, v.u.); “Pela interpretação dos arts. 158 e
+167 do Código de Processo Penal, conclui-se que, relativamente às infrações que deixam vestígio, a realização de exame pericial
+se  mostra  indispensável,  podendo  a  prova  testemunhal  supri-lo  apenas  na  hipótese  em  que  os  vestígios  do  crime  tiverem
+desaparecido. No caso dos autos, a qualificadora do rompimento de obstáculo apenas poderia ser comprovada pela realização de
+exame pericial e a prova testemunhal somente poderia suprir o exame de corpo de delito se os vestígios houvessem desaparecido, o
+que não ocorreu no caso. Precedentes. Ordem concedida para, reformando a sentença condenatória e o acórdão impugnado, afastar
+da  condenação  a  qualificadora  do  art.  155,  §  4.º,  I,  do  Código  Penal”  (HC  92.687-MS,  5.
+a
+  T.,  rel.  Arnaldo  Esteves  de  Lima,
+06.03.2008,  v.u.);  “De  outro  lado,  o  exame  de  corpo  de  delito  direto,  por  expressa  determinação  legal,  é  indispensável  nas
+infrações  que  deixam  vestígios,  podendo  apenas  supletivamente  ser  suprido  pela  prova  testemunhal  quando  os  vestígios  tenham
+desaparecido. Portanto, se era possível sua realização, e esta não ocorreu de acordo com as normas pertinentes (art. 159 do CPP), a
+prova  testemunhal  não  supre  sua  ausência”  (REsp  982.895-RS,  5.
+a
+  T.,  Felix  Fischer,  27.03.2008,  v.u.);  “A  Turma,  por  maioria,
+entendeu que, para a aplicação da causa de aumento do art. 155, § 4.º, I, do CP, é necessária a realização de perícia (se viável). Os
+votos  vencidos  entendiam  que  o  rompimento  do  obstáculo  poderia  ser  demonstrado  por  outros  meios  de  prova,  tais  como  a
+testemunhal  ou  a  documental”  (AgReg  no  REsp  942.341-RS,  6.
+a
+  T.,  rel.  orig.  Hamilton  Carvalhido,  rel.  para  acórdão  Maria
+Thereza  de  Assis  Moura,  07.10.2008).  Idem:  HC  92.687-MS.  TJMG:  “Inexistindo  laudo  pericial  que  constate  o  arrombamento,
+não  se  pode  qualificar  o  crime  de  furto  pela  incidência  do  inciso  I,  do  §  4.º,  do  artigo  155  do  Código  Penal”  (Ap.  Crim.
+1.0441.10.001277-8/001-MG, 7.
+a
+ C. Crim., rel. Marcílio Eustáquio Santos, 07.05.2015). Em outro sentido: TJSC: “É desnecessária
+a comprovação da qualificadora do furto mediante arrombamento de obstáculo por prova pericial quando os elementos dos autos, a
+exemplo da confissão dos agentes e relatos da vítima, evidenciam que o agente arrombou a janela da residência da vítima com uma
+chave  de  fenda  para  subtrair  a  res”  (2014.077809-6-Santo  Amaro  da  Imperatriz,  1.
+a
+  C.  Crim.,  rel.  Carlos  Alberto  Civinski,
+19.05.2015,  v.u.).  TJMA:  “A  qualificadora  relacionada  ao  rompimento  de  obstáculo,  prevista  no  inc.  I,  do  §
+[/PAGINA 1090]
+
+[PAGINA 1091]
+4.º,  do  art.  155  do
+Código Penal, não encontra sustentação nas provas angariadas, ante a ausência do respectivo exame técnico-científico” (Ap. Crim.
+0003314-66.2010.8.10.0060-MA, 3.
+a
+ C. Crim., rel. José de Ribamar Froz Sobrinho, 18.05.2015, v.u.).
+
+28-A. Desnecessidade  do  exame  pericial:  há  corrente  sustentando  a  viabilidade  de  suprimento  do  laudo  pericial,
+atestando o rompimento de obstáculo, por outros meios de prova, tais como o auto de constatação e testemunhas. Conferir: TJRS:
+“Frente  à  demonstração  do  rompimento  de  uma  porta  do  veículo  da  vítima  para  a  realização  da  subtração,  deve  ser  mantida  a
+incidência  da  respectiva  qualificadora.  Auto  de  constatação  referendado  pela  prova  oral,  especialmente  os  depoimentos  dos
+policiais militares que atenderam à ocorrência” (Ap. Crim. 70060526720-RS, 8.
+a
+ C. Crim., rel. Naele Ochoa Piazzeta, 13.05.2015,
+v.u.).
+28-B. Destaque  para  o  furto  de  água:  verifica-se  em  decisão  proferida  pelo  STJ  que  o  furto  de  água  não  pode  ser
+considerado insignificante, diante da crise hídrica pela qual atravessa o país. Além disso, o pagamento da quantia devida não afasta
+o crime. Conferir: STJ: “Esta Corte Superior tem entendido ser inviável a aplicação do princípio da insignificância na hipótese de
+furto  qualificado  pelo  rompimento  de  obstáculo,  ante  a  audácia  demonstrada  pelo  agente,  a  caracterizar  maior  grau  de
+reprovabilidade  da  sua  conduta.  O  reconhecimento  do  privilégio  legal  –  direito  subjetivo  do  réu  –  exige  a  conjugação  de  dois
+requisitos  objetivos,  consubstanciados  na  primariedade  e  no  pequeno  valor  da  coisa  furtada,  que,  na  linha  do  entendimento
+pacificado neste Superior Tribunal, deve ter como parâmetro o valor do salário mínimo vigente à época dos fatos. A conduta do
+paciente  –  da  subtração  da  água  mediante  rompimento  de  obstáculo  (lacre  do  hidrômetro  e  uso  de  um  by pass)  –  não  se  revela
+como de escassa ofensividade penal e social, visto que a lesão jurídica não se resume à água subtraída da empresa vítima, mas, mas
+da  imposição  de  uma  série  de  riscos  a  toda  sociedade.  Em  tempos  de  escassez  hídrica,  aquele  que  furta  água  não  precisa  se
+preocupar em economizar, pois sobre ele não incidirão dispositivos como bandeiras tarifárias, multas por excesso de consumo etc.
+Ademais, as perdas de água não se apresentam apenas como um problema econômico decorrente da falta de pagamento pela água
+consumida,  pois  têm  implicações  mais  amplas,  com  repercussões  significativas  no  que  concerne  à  saúde  pública,  com  a
+possibilidade  de  contaminação  da  rede  por  ligações  clandestinas,  à  necessidade  de  investimentos  para  as  ações  de  redução  ou
+manutenção das perdas – que não são cobertos pelo eventual pagamento da água furtada –, à perda de funcionamento eficiente do
+sistema,  entre  outros.  A  importância  em  se  coibir  a  prática  do
+[/PAGINA 1091]
+
+[PAGINA 1092]
+furto  de  bem  tão  precioso  para  a  vida  e  a  cidadania  tem  movido
+inúmeras agências governamentais e internacionais em torno da preservação da água, a ponto do Painel de especialistas em perdas
+de águas da IWA (Associação Internacional da Água) estabelecer entre as metas de manejo da água – desde a captação, passando
+pelo  tratamento,  até  a  distribuição  –  a  necessidade  de  reduzir  os  impactos  dos  furtos  que  causam  perdas  desnecessárias  para  o
+sistema  de  distribuição.  A  prática  disseminada  das  ligações  clandestinas  de  água  –  os  ‘gatos’  –  acabam  por  ter  um  último  efeito
+deletério:  por  aumentarem  demasiadamente  os  índices  de  perda  das  companhias  de  abastecimento  –  risco  esse  avaliado  pelos
+bancos  no  momento  de  avaliar  os  projetos  de  investimento  –  inviabilizam  o  acesso  a  linhas  de  financiamento  do  Banco
+Interamericano  de  Desenvolvimento  e  do  Banco  Mundial,  atrasando,  assim,  o  cronograma  de  expansão  das  companhias  de
+abastecimento  e  de  saneamento,  postergando,  assim,  o  acesso  da  população  mais  carente  à  água  limpa  e  à  rede  de  coleta  de
+resíduos,  direitos  humanos  garantidos  na  Constituição  Federal  de  1988.  Situação  que  se  diferencia  –  pela  exclusividade  da  tese
+defensiva da insignificância da conduta – da julgada no RHC nº 59.656-MG, em que a Sexta Turma, por maioria, deu provimento
+ao  recurso  (este  relator  ficou  vencido),  por  considerar  que  o  pagamento  do  débito  perante  a  companhia  de  água  antes  do
+oferecimento da denúncia extingue a punibilidade, mediante aplicação analógica do disposto nos arts. 34 da Lei n.º 9.249/1995 e
+9.º  da  Lei  n.º  10.684/2003.  Agravo  regimental  não  provido”  (AgRg  no  HC  308.536-MG,  6.
+a
+  T.,  rel.  Rogerio  Schietti  Cruz,
+24.05.2016, DJe 06.06.2016).
+29. Abuso  de  confiança:  confiança  é  um  sentimento  interior  de  segurança  em  algo  ou  alguém;  portanto,  implica
+credibilidade. O abuso é sempre um excesso, um exagero em regra condenável. Portanto, aquele que viola a confiança, traindo-a,
+está abusando. A qualificadora que diz respeito ao abuso de confiança pressupõe a existência prévia de credibilidade, rompida por
+aquele que violou o sentimento de segurança anteriormente estabelecido. Ex.: uma empregada doméstica que há anos goza da mais
+absoluta  confiança  dos  patrões,  que  lhe  entregam  a  chave  da  casa  e  várias  outras  atividades  pessoais  (como  o  pagamento  de
+contas), caso pratique um furto, incidirá na figura qualificada. Por outro lado, a empregada doméstica recém-contratada, sem gozar
+da  confiança  plena  dos  patrões,  cometendo  furto  incide  na  figura  simples.  Note-se  que  a  simples  relação  de  emprego  entre
+funcionário e empregador não faz nascer a confiança entre as partes, que é um sentimento cultivado com o passar do tempo. Pode
+aplicar-se, no entanto, a agravante de crime cometido valendo-se da relação doméstica ou d
+[/PAGINA 1092]
+
+[PAGINA 1093]
+e coabitação. Cabe, ainda, uma última
+análise, especialmente voltada à relação empregatícia. Não se deve excluir, automaticamente, a incidência da qualificadora quando
+um empregado qualquer, recém-contratado, praticar furto contra o patrão. Deve-se verificar a forma de contratação. É possível que
+o empregador tome todas as cautelas possíveis para contratar alguém, tomando referências e buscando uma relação de confiança
+acima de tudo. Encontrada a pessoa – algo que é atualmente típico no contexto da empregada doméstica –, instala o empregado no
+seu  posto,  já  acreditando  estar  diante  de  uma  pessoa  de  confiança.  Se  for  cometida  a  subtração,  cremos  estar  configurada  a
+qualificadora.  De  outra  parte,  há  empregadores  que  não  se  preocupam,  primordialmente,  com  a  relação  de  confiança  a  ser
+
+estabelecida com o empregado. Contratam pessoas sem grande cautela. Nesse caso, sofrendo um furto, não há de incidir a figura
+qualificada.  Entendemos  que  afastar  a  qualificadora  do  abuso  de  confiança  unicamente  porque  o  empregado  é  novel  seria
+desconectar o Direito Penal da realidade, uma vez que se sabe a enorme diferença existente entre patrões que buscam estabelecer,
+logo de início e como pressuposto para a contratação, uma relação de confiança e segurança com a pessoa empregada e outros que
+não agem da mesma forma. Por isso, conforme o caso concreto, o abuso de confiança pode figurar como qualificadora no contexto
+do  empregado  que,  recém-con-tratado,  pratica  furto  contra  o  patrão.  Na  jurisprudência:  STJ:  “Estando  comprovada  a  relação  de
+confiança  entre  a  empregada  doméstica  e  a  vítima  que  a  contrata  –  seja  pela  entrega  das  chaves  do  imóvel  ou  pelas  boas
+referências  de  que  detinha  a  Acusada  –  cabível  a  incidência  da  qualificadora  ‘abuso  de  confiança’  para  o  crime  de  furto  ora  sob
+exame.  Precedente”  (HC  192.922-SP,  5.
+a
+  T.,  rel.  Laurita  Vaz,  28.02.2012,  v.u.).  “1.  O  furto  praticado  por  agente-diarista,
+contratada  em  função  de  boas  referências,  a  quem  se  entregou  as  próprias  chaves  do  imóvel,  enquanto  viajavam  os  patrões,
+caracteriza  a  forma  qualificada  prevista  no  art.  155,  §  4.º,  II,  do  Código  Penal.  2.  Ordem  denegada”  (HC  82.828-MS,  6.
+a
+ T., rel.
+Hamilton  Carvalhido,  21.02.2008,  v.u.).  TJSC:  “Pratica  furto  qualificado  a  empregada  doméstica  que,  valendo-se  da  confiança
+depositada  por  seus  empregadores,  subtrai  bens  que  teve  acesso  em  decorrência  de  seu  labor  e  de  diminuta  vigilância”  (Ap.
+2011.047727-4, 4.
+a
+ C., rel. Roberto Lucas Pacheco, 19.09.2012, v.u.). TJDF: “Não merece acolhida o pleito recursal de exclusão
+da qualificadora, quando o acervo probatório demonstra que o furto ocorreu com abuso de confiança, por ter um dos réus se valido
+da qualidade de funcionário da oficina para ter acesso à res furtiva e efetuar a subtração” (Ap. 0007380-45.2013.8.07.0003, 3.
+a
+ T.,
+[/PAGINA 1093]
+
+[PAGINA 1094]
+Humberto  Adjuto  Ulhôa,  14.08.2014,  v.u.).  TJMG:  “Encontra-se  configurada  a  qualificadora  do  abuso  de  confiança,  prevista  no
+inciso II do § 4.º do art. 155 do CP quando a ré se aproveita da menor proteção dispensada pelas vítimas em relação aos objetos e
+valores  diante  da  confiança  que  lhe  foi  depositada”  (Ap.  10024097364087001,  6.
+a
+  C.  Criminal,  rel.  Jaubert  Carneiro  Jaques,
+29.01.2013, v.u.). Deve haver cautela para evitar o bis in idem: TJMG: “Tendo sido considerado o delito de furto como qualificado
+pelo abuso de confiança (furto em residência de genitora) e, na segunda fase da dosimetria da pena, aplicada a agravante genérica
+de  se  praticar  o  crime  contra  ascendente  (art.  61,  II,  alínea  ‘e’,  do  Código  Penal),  configurada  a  dupla  ponderação  da  mesma
+característica, revelando-se bis in idem” (Ap. Crim. 1.0518.10.024140-6/001-MG, 1.
+a
+ C. Crim., rel. Kárin Emmerich, 26.05.2015).
+30. Fraude: é uma manobra enganosa destinada a iludir alguém, configurando, também, uma forma de ludibriar a confiança
+que se estabelece naturalmente nas relações humanas. Assim, o agente que criar uma situação especial, voltada a gerar na vítima
+um  engano,  tendo  por  objetivo  praticar  uma  subtração  de  coisa  alheia  móvel,  incide  da  figura  qualificada.  Ex.:  o  funcionário  de
+uma  companhia  aérea  que,  no  aeroporto,  a  pretexto  de  prestar  auxílio  a  um  turista  desorientado,  prometendo  tomar  conta  da
+bagagem  da  vítima,  enquanto  esta  é  enviada  a  outro  balcão  de  informações,  subtrai  bens  contidos  nas  malas  incide  na  figura
+qualificada.  A  fraude  está  caracterizada  pelo  desapego  que  o  proprietário  teve  diante  de  seus  bens,  uma  vez  que  acreditou  na
+estratégia criada pelo referido funcionário. Crendo ter os seus pertences guardados por pessoa credenciada por companhia aérea,
+deixou-os sem proteção e viu-se vítima de um furto. Foi enganado, logrado, ludibriado. Nota-se, pois, como a fraude implica num
+modo particularizado de abuso de confiança. Este, por si só, exige uma relação específica de segurança concretizada entre autor e
+vítima, enquanto a fraude requer, apenas, um plano ardiloso que supere a vigilância da vítima, fazendo com que deixe seus bens
+desprotegidos, facilitando a ação criminosa. A fraude é uma “relação de confiança instantânea”, formada a partir de um ardil. Na
+jurisprudência: STJ: “A Terceira Seção desta Corte Superior firmou o entendimento no sentido de que a subtração de valores de
+conta-corrente,  mediante  transferência  fraudulenta,  utilizada  para  ludibriar  o  sistema  informatizado  de  proteção  de  valores,
+mantidos sob guarda bancária, sem consentimento da vítima, configura crime de furto mediante fraude, previsto no art. 155, § 4.º,
+inciso II, do Código Penal – CP. O delito em questão consuma-se no local da agência bancária onde o correntista fraudado possui a
+conta,  nos  termos  do  art.  70  do  Código  de  Processo  Penal
+[/PAGINA 1094]
+
+[PAGINA 1095]
+–  CPP”  (CC  145.576-MA,  3.
+a
+  Seção,  rel.  Joel  Ilan  Paciornik,
+13.04.2016, DJe 20.04.2016).
+30-A. Furto com fraude versus estelionato: eis polêmica estabelecida no caso concreto, provocando variadas posições
+na  jurisprudência.  O  cerne  da  questão  diz  respeito  ao  modo  de  atuação  da  vítima,  diante  do  engodo  programado  pelo  agente.  Se
+este  consegue  convencer  o  ofendido,  fazendo-o  incidir  em  erro,  a  entregar,  voluntariamente,  o  que  lhe  pertence,  trata-se  de
+estelionato; porém, se o autor, em razão do quadro enganoso, ludibria a vigilância da vítima, retirando-lhe o bem, trata-se de furto
+com fraude. No estelionato, a vítima entrega o bem ao agente, acreditando fazer o melhor para si; no furto com fraude, o ofendido
+não dispõe de seu bem, podendo até entregá-lo, momentaneamente, ao autor do delito, mas pensando em tê-lo de volta. Ilustrando:
+Fulano  apresenta-se  como  comprador  do  carro  anunciado  no  jornal  por  Beltrano;  pede  para  dar  uma  volta;  Beltrano  entrega  a
+chave do veículo para o “teste”; Fulano foge com o carro. Houve furto com fraude. Por outro lado, Fulano, apresentando-se como
+comprador,  entrega  cheque  falsificado  a  Beltrano,  que  lhe  passa  a  chave,  o  manual  do  carro,  um  recibo  e  pensa  ter  efetivamente
+vendido o veículo. O cheque, por óbvio, não é compensado. Houve estelionato. Na jurisprudência: STJ: “No furto mediante abuso
+de  confiança,  tem-se  o  bem  subtraído  por  desatenção,  uma  vez  que  o  agente,  de  forma  fraudulenta,  burla  a  vigilância  da  vítima
+
+para  furtá-la.  Já  no  estelionato,  a  fraude  é  usada  como  meio  para  obter  o  consentimento  da  vítima  que,  iludida,  entrega
+voluntariamente o bem ao agente. Hipótese em que a paciente se valeu da condição de enfermeira doméstica para, mediante abuso
+de confiança, furtar talões de cheques e utilizá-los de forma fraudulenta, restando caracterizado o crime previsto no art. 155, § 4.º,
+II, do Código Penal. 4. Habeas corpus não conhecido” (HC 305864-SC, 5.
+a
+ T., rel. Gurgel de Faria, 05.02.2015, v.u.); “1. Embora
+esteja  presente  tanto  no  crime  de  estelionato  quanto  no  de  furto  qualificado,  a  fraude  atua  de  maneira  diversa  em  cada  qual.  No
+primeiro caso, é utilizada para induzir a vítima ao erro, de modo que ela própria entrega seu patrimônio ao agente. Por seu turno,
+no furto, a fraude visa burlar a vigilância da vítima, que, em razão dela, não percebe que a coisa lhe está sendo subtraída. 2. Na
+hipótese  de  transações  bancárias  fraudulentas,  onde  o  agente  se  valeu  de  meios  eletrônicos  para  efetivá-las,  o  cliente  titular  da
+conta  lesada  não  é  induzido  a  entregar  os  valores  ao  criminoso,  por  qualquer  artifício  fraudulento.  Na  verdade,  o  dinheiro  sai  de
+sua conta sem qualquer ato de vontade ou consentimento. A fraude, de fato, é utilizada para burlar a vigilância do Banco, motivo
+pelo  qual  a  melhor  tipificação  dessa  conduta
+[/PAGINA 1095]
+
+[PAGINA 1096]
+é  a  de  furto  mediante  fraude.  3.  O  Processo  Penal  brasileiro  adotou,  para  fins  de
+fixação da competência em matéria penal, a teoria do resultado, segundo a qual é competente para apurar infração penal, aplicando
+a medida cabível ao agente, o juízo do foro onde se deu a consumação do delito, ou onde o mesmo deveria ter se consumado, na
+hipótese  de  crime  tentado.  4.  No  crime  de  furto,  a  infração  consuma-se  no  local  onde  ocorre  a  retirada  do  bem  da  esfera  de
+disponibilidade da vítima, isto é, no momento em que ocorre o prejuízo advindo da ação criminosa. 5. No caso de fraude eletrônica
+para subtração de valores, o desapossamento da res furtiva se dá de forma instantânea, já que o dinheiro é imediatamente tirado da
+esfera de disponibilidade do correntista. Logo, a competência para processar e julgar o delito em questão é o do lugar de onde o
+dinheiro foi retirado, em obediência a norma do art. 70 do CPP. 6. Conflito conhecido para declarar competente o Juízo Federal da
+Vara  Criminal  da  Seção  Judiciária  do  Estado  de  Santa  Catarina,  o  suscitado,  em  conformidade  com  o  parecer  ministerial”  (CC
+86862-GO, 3.
+a
+ S., rel. Napoleão Nunes Maia Filho, 08.08.2007, v.u.); “No furto qualificado com fraude, o agente subtrai a coisa
+com  discordância  expressa  ou  presumida  da  vítima,  sendo  a  fraude  meio  para  retirar  a  res  da  esfera  de  vigilância  da  vítima,
+enquanto no estelionato o autor obtém o bem através de transferência empreendida pelo próprio ofendido por ter sido induzido em
+erro”  (AgRg  no  REsp  1.279.802-SP,  5.
+a
+  T.,  rel.  Jorge  Mussi,  08.05.2012,  v.u.).  TJDF:  “1.  Pratica  crime  de  estelionato  e  não  de
+furto  mediante  fraude  o  agente  que  obtém  para  si  vantagem  ilícita,  em  prejuízo  alheio,  induzindo  alguém  em  erro,  mediante
+artifício, consistente em fazer-se ali estar a mando do representante legal de uma igreja evangélica, apresentando-se como ‘irmão’,
+levando  equipamento  de  som  para  conserto,  induzindo  outrem  acreditar  que  o  pastor  houvesse  mesmo  autorizado  o  réu  e  seus
+comparsas a assim agirem. 2. Doutrina. Guilherme de Souza Nucci. 2.1 No furto, a fraude ‘requer, apenas, um plano ardiloso que
+supere a vigilância da vítima, fazendo com que deixe seus bens desprotegidos, facilitando a ação criminosa’. 2.2 No estelionato, ‘o
+agente coloca – ou mantém – a vítima numa situação enganosa, fazendo parecer realidade o que efetivamente não é’ (Código Penal
+Comentado, 8. ed., Ed. RT, 2008)” (Emb. Inf. 2008 03 1 007872-3-DF, C. Crim., rel. João Egmont, 19.10.2009, m.v.).
+31. Escalada: é a subida de alguém a algum lugar, valendo-se de escada. Escalar implica subir ou galgar. Portanto, torna-se
+fundamental que o sujeito suba a algum ponto mais alto do que o seu caminho natural, ou seja, é o ingresso anormal de alguém em
+algum lugar, implicando acesso por aclive. Ex.: subir no telhado para, removendo telhas, invadir uma casa. Nesse sentido: TJRN:
+[/PAGINA 1096]
+
+[PAGINA 1097]
+“Comprovado  nos  autos  que  houve  a  remoção  de  telhas  do  telhado  da  residência  da  vítima,  onde  ocorreu  o  furto,  impõe-se  o
+reconhecimento da qualificadora do art. 155, § 4.º, II, do Código Penal” (Ap. 2007.003571-2, Macau, C. Crim., rel. Caio Alencar,
+24.08.2007, v.u.). Por outro lado, quando o agente ingressar no imóvel por uma janela que está próxima ao solo não se configura a
+qualificadora,  por  não  ter  obrado  ele  com  esforço  incomum.  Se  houver  arrombamento,  pode-se  falar  na  figura  do  inciso  I;  se  a
+janela estiver aberta, há furto simples. Acrescentamos, no entanto, a posição de N
+ÉLSON HUNGRIA, com a qual concordávamos,
+para incluir no contexto desta qualificadora outras possibilidades anormais de ingresso em algum lugar, mediante a utilização de
+meios artificiais não violentos ou contando com a própria agilidade. Dessa forma, poder-se-ia falar em escalada, quando o agente
+invadisse  uma  casa,  por  exemplo,  através  de  uma  via  subterrânea,  normalmente  não  transitável,  como  o  túnel  de  um  esgoto
+(Comentários ao Código Penal, v. VII, p. 44). A interpretação extensiva, firmada por H
+UNGRIA, é desnecessária para dar sentido à
+norma.  Logo,  torna-se  inadequada  em  face  do  princípio  da  legalidade.  Admitimos  a  utilização  da  interpretação  extensiva,  mas
+somente  quando  indispensável  para  conferir  racionalidade  à  aplicação  da  lei  penal,  seja  ela  incriminadora  ou  não.  Não  é  o  caso.
+Escalar  é  subir  por  escada,  galgar  um  obstáculo,  mas  não  aprofundar-se  num  porão  ou  num  subterrâneo.  Quisesse  o  legislador
+punir  mais  severamente,  como  furto  qualificado,  quem  ingressa  numa  residência  pelo  túnel  do  esgoto,  deveria  ter  usado  outra
+fórmula,  como,  por  exemplo,  mediante  ingresso  por  meio  anormal.  No  entanto,  nada  impede  que  o  juiz,  valendo-se  das
+circunstâncias  judiciais  do  art.  59,  valore  o  ingresso  em  determinado  lugar  pelo  porão  ou  subterrâneo,  mas  não  como  a
+qualificadora de escalada. Conferir ainda a lição de L
+AJE ROS: “o autor deve vencer as defesas que resguardam as coisas, e as deve
+vencer mediante esforço, toda vez que o obstáculo seja vencido sem aquela circunstância, a agravante não poderá ser aplicada, em
+razão de que o obstáculo não se apresentava como defesa, mas apenas como um puro e simples ornamento. (...) É preciso saber se
+
+o ingresso ou a entrada por um lugar não destinado a isso equivale à escalada. É evidente que o ladrão, ao escalar um muro, o faz
+por um lugar que não está destinado à entrada. O muro é o que impede a entrada. No entanto, pode o autor do delito ter acesso por
+um lugar não destinado a servir de entrada e o faça sem escalada. Neste sentido, uma janela de baixa altura não tem por fim servir
+de entrada. O ingresso por esse lugar, sem ser por escalada, não agrava a infração, porque a razão do maior aumento da pena não
+se funda na entrada por um lugar não destinado a isso, mas n
+[/PAGINA 1097]
+
+[PAGINA 1098]
+o fato de que se deve vencer, ou superar algo que se apresenta como
+um  obstáculo,  e  que  tenha  sido  posto  para  dar  maior  proteção  às  coisas”  (La  interpretación  penal  en  el  hurto,  el  robo  y  la
+extorsión, p. 196-200).
+31-A. Laudo  pericial:   como   regra,   deve   ser   realizado,   pois   os   vestígios   são   visíveis   após   a   prática   do   crime.
+Excepcionalmente,  pode  ser  substituído  por  testemunhas.  O  importante  é  não  ter  o  Estado  contribuído  para  a  não  realização  do
+exame  pericial.  Na  jurisprudência:  STJ:  “No  caso  dos  autos,  não  tendo  sido  realizada  perícia  no  local  e  inexistindo  no  aresto
+combatido  qualquer  menção  sobre  a  impossibilidade  da  sua  realização,  deve  ser  afastada  a  incidência  da  qualificadora  relativa  à
+escalada,  prevista  no  artigo  155,  §  4.º,  inciso  II,  do  Código  Penal”  (AgRg  no  REsp  1594566-SC,  5.
+a
+  T.,  rel.  Jorge  Mussi,
+28.06.2016, DJe 01.08.2016); “1. A pacífica jurisprudência desta Corte, com ressalva do entendimento pessoal do relator, entende
+que  para  o  reconhecimento  da  incidência  da  qualificadora  da  escalada,  prevista  no  art.  155,  §  4.º,  II,  do  Código  Penal,  não  se
+prescinde da realização de exame pericial, devendo restar consignado que a sua substituição por outros meios probatórios somente
+é possível quando não existirem vestígios ou se o corpo de delito houver desaparecido. Em último caso, o exame pericial pode ser
+afastado  quando  as  circunstâncias  do  crime  não  permitirem  a  confecção  do  laudo.  2.  Hipótese  em  que,  embora  as  instâncias
+ordinárias  tenham  se  utilizado  dos  depoimentos  da  vítima  e  das  testemunhas,  além  da  confissão  do  réu,  para  concluir  pela
+incidência da qualificadora da escalada, deixaram de proceder à realização de perícia técnica, inviabilizando o seu reconhecimento.
+3. Agravo desprovido” (AgRg no REsp 1468309-MG, 5.
+a
+ T., rel. Gurgel de Faria, 24.02.2015, v.u.).
+32. Destreza: é a agilidade ímpar dos movimentos de alguém, configurando uma especial habilidade. O batedor de carteira
+(figura praticamente extinta diante da ousadia dos criminosos atuais) era o melhor exemplo. Por conta da agilidade de suas mãos,
+conseguia retirar a carteira de alguém, sem que a vítima percebesse. Não se trata do “trombadinha”, que investe contra a vítima,
+arrancando-lhe,  com  violência,  os  pertences.  Como  vimos,  nessa  hipótese  trata-se  de  roubo.  Na  jurisprudência:  STJ:  “Somente  a
+excepcional, incomum, habilidade do agente, que com movimento das mãos consegue subtrair a coisa que se encontra na posse da
+vítima sem despertar-lhe a atenção, é que caracteriza, revela, a ‘destreza’. Não configuram essa qualificadora os atos dissimulados
+comuns aos crimes contra o patrimônio – que, por óbvio, não são praticados às escâncaras” (REsp 1478648-PR, 5.
+a
+ T., rel. Newton
+Trisotto, 16.12.2014, v.u.).
+33. Chave falsa: é o instrumento destinado a abrir fechaduras ou f
+[/PAGINA 1098]
+
+[PAGINA 1099]
+azer funcionar aparelhos. A chave original, subtraída sub-
+repticiamente,  não  provoca  a  configuração  da  qualificadora.  Pode  haver,  nessa  hipótese,  conforme  o  caso  concreto,  abuso  de
+confiança  ou  fraude.  A  mixa  –  ferro  curvo  destinado  a  abrir  fechaduras  –,  segundo  nos  parece,  pode  configurar  a  qualificadora.
+Afinal, deve-se notar que se a chave é falsa não há de possuir o mesmo aspecto ou a mesma forma da chave original.
+34. Concurso  de  duas  ou  mais  pessoas:  quando  mais  de  um  agente  se  reúnem  para  a  prática  do  crime  de  furto  é
+natural que se torne mais acessível a concretização do delito. Por isso, configura-se a qualificadora. O apoio prestado, seja como
+coautor, seja como partícipe, segundo entendemos, pode servir para configurar a figura do inciso IV. O agente que furta uma casa,
+enquanto o comparsa, na rua, vigia o local, está praticando um furto qualificado. Inexiste, na lei, qualquer obrigatoriedade para que
+o concurso se dê exclusivamente na forma de coautoria (quem pratica o núcleo do tipo, executando o crime), podendo configurar-
+se  na  forma  de  participação  (auxílio  a  quem  pratica  a  ação  de  subtrair).  Na  jurisprudência:  TJRS:  “Para  o  reconhecimento  da
+qualificadora  prevista  no  art.  155,  §  4.º,  inc.  IV,  do  CP,  prescindível  que  os  autores  tenham  previamente  ajustado  a  prática
+subtrativa.  Basta  a  prova  da  participação  de  duas  ou  mais  pessoas  no  delito  e  que  estas  possuam  o  completo  domínio  da  ação
+criminosa” (Ap. Crim. 70060526720-RS, 8.
+a
+ C. Crim., rel. Naele Ochoa Piazzeta, 13.05.2015, v.u.).
+35. Nova qualificadora:  trata-se  de  uma  segunda  figura  de  crime  qualificado.  A  pena  aumenta  ainda  mais  –  nas  faixas
+abstratas  mínima  e  máxima  –,  para  reclusão  de  3  a  8  anos,  quando  o  veículo  automotor  for  transportado  para  outro  Estado  da
+Federação  ou  para  o  exterior.  Esta  qualificadora  foi  introduzida  pela  Lei  9.426/96,  depois  de  intensa  pressão  exercida  pelas
+companhias de seguro, fartas de indenizar subtrações de veículos automotores, cujo destino, na maioria das vezes, era outro Estado
+da Federação ou mesmo outro país.
+36. Esquecimento da pena de multa: o tipo penal, quando foi modificado para receber mais uma qualificadora, teve um
+defeito: olvidou o legislador a pena de multa, típica sanção penal dos delitos contra o patrimônio.
+37. Veículo  automotor:  todo  veículo  que  é  dotado  de  instrumentos  de  automovimentação.  Há  de  ter  um  motor  de
+propulsão, circulando por seus próprios meios. Pode ser um automóvel, um barco, uma moto, entre outros.
+
+38. Análise do tipo penal: a expressão “venha a ser transportado” acabou configurando um delito material, ou seja, exige-
+se  o  resultado  naturalístico  previsto  no  tipo  penal,  sendo  preciso  que  o  veículo  automotor  efetivamente  seja  levado  para  outro
+Estado da Federação ou ainda a outro país. Se ficar na mesma unid
+[/PAGINA 1099]
+
+[PAGINA 1100]
+ade federativa, não há a incidência da qualificadora. Portanto,
+cremos não haver tentativa de furto qualificado se o ladrão está conduzindo o veículo para outro Estado ou país e é surpreendido
+pela  polícia.  Segundo  a  redação  do  tipo  penal,  trata-se  de  uma  situação  mista,  abrangendo  um  crime  qualificado  pelo  resultado
+(transpor as fronteiras do Estado ou do País) e uma finalidade específica de agir (ter o fim de transpor as fronteiras do Estado ou do
+País).  O  ladrão,  ao  subtrair  o  veículo  automotor,  pode  ou  não  ter  o  fim  de  conduzi-lo  a  outro  Estado  brasileiro  ou  a  outro  país,
+embora  a  qualificadora  só  se  configure  quando,  realmente,  essa  finalidade  se  delinear  na  mente  do  agente,  além  de  ser,  de  fato,
+atingida.  O  veículo  que  efetivamente  vai  para  outro  Estado  ou  país  torna  o  delito  mais  grave,  pois  dificulta  sobremaneira  a
+recuperação do bem pela vítima.
+39. Interpretação extensiva do termo Estado: equiparado a Estado, para inúmeras finalidades, está o Distrito Federal.
+Veja-se o disposto nos arts. 32 e 34 da Constituição Federal. O Distrito Federal não poderá dividir-se em Municípios, mas tem a
+competência legislativa reservada aos Estados e Municípios, sendo dirigido por um Governador, contando com leis aprovadas por
+Deputados Distritais. Ademais, salva-guarda-se o Distrito Federal, tanto quanto o Estado, da intervenção federal da União, exceto
+em  algumas  situações,  expressamente  previstas  na  Constituição.  E  mais:  muitas  leis  equiparam,  para  seus  propósitos,  o  Distrito
+Federal  ao  Estado.  Como  exemplo,  pode-se  mencionar  o  disposto  no  art.  1.º,  §  3.º,  II,  da  Lei  Complementar  101/2000:  “Nas
+referências: (...) a Estados entende-se considerado o Distrito Federal”. Por isso, se o agente do furto encaminhar o veículo para o
+Distrito Federal, saindo de qualquer outro Estado da Federação, terá incidido na hipótese desta qualificadora.
+40. Conhecimento e adesão à qualificadora:  é  imperioso  que  o  agente  ou  seus  comparsas  tenham  perfeita  noção  de
+que o veículo foi subtraído com a finalidade de ser levado a outro Estado da Federação ou ao exterior, aceitando tal situação. Caso
+algum dos concorrentes para a prática do delito desconheça totalmente a remessa do automóvel para esses lugares, não pode incidir
+a qualificadora, por inexistência de dolo. Não se pune a forma culposa de furto em caso algum.
+41. Preponderância da qualificadora: caso o agente furte um veículo, incidindo inicialmente na figura do caput (furto
+simples) e depois leve o objeto subtraído para fora do País, a figura é qualificada (§ 5.º). Se o autor do furto rompeu obstáculo para
+a subtração da coisa (figura do § 4.º, I, do art. 155) e, em seguida, levou o veículo automotor para fora do Estado ou do País, incide
+somente  a  qualificadora  mais  grave,  que  é  a  do  §  5.º.  O  mesmo  se  dá  se  o  furto  for  praticado  durante  o  repouso  noturno:  se  o
+veículo
+[/PAGINA 1100]
+

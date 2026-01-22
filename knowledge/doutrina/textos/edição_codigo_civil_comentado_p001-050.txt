@@ -1,0 +1,2307 @@
+[META]
+TITULO: Código Civil Comentado
+AUTOR: 1ª Edição
+ANO: N/A
+EDICAO: 1
+EDITORA: N/A
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: Código Civil Comentado - Doutrina e Jurisprudência - 1ª Edição.pdf
+CITACAO_ABNT: EDIÇÃO, 1ª. Código Civil Comentado. 1. ed..
+[/META]
+
+[PAGINA 1]
+■
+■
+■
+■
+■
+■
+■
+■
+A EDITORA FORENSE se responsabiliza pelos vícios do produto no que concerne à sua edição
+(impressão e apresentação a fim de possibilitar ao consumidor bem manuseá-lo e lê-lo). Nem a
+editora nem o autor assumem qualquer responsabilidade por eventuais danos ou perdas a pessoa ou
+bens, decorrentes do uso da presente obra.
+Nas obras em que há material suplementar on-line, o acesso a esse material será disponibilizado
+somente durante a vigência da respectiva edição. Não obstante, a editora poderá franquear o acesso
+a ele por mais uma edição.
+Todos os direitos reservados. Nos termos da Lei que resguarda os direitos autorais, é proibida a
+reprodução total ou parcial de qualquer forma ou por qualquer meio, eletrônico ou mecânico, inclusive
+através de processos xerográficos, fotocópia e gravação, sem permissão por escrito do autor e do
+editor.
+Impresso no Brasil – Printed in Brazil
+Direitos exclusivos para o Brasil na língua portuguesa
+Copyright © 2019 by
+EDITORA FORENSE LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11 – Térreo e 6º andar – 20040-040 – Rio de Janeiro – RJ
+Tel.: (21) 3543-0770 – Fax: (21) 3543-0896
+faleconosco@grupogen.com.br | www.grupogen.com.br
+O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de qualquer forma utilizada poderá
+requerer a apreensão dos exemplares reproduzidos ou a suspensão da divulgação, sem prejuízo da
+indenização cabível (art. 102 da Lei n. 9.610, de 19.02.1998).
+Quem  vender,  expuser  à  venda,  ocultar,  adquirir,  distribuir,  tiver  em  depósito  ou  utilizar  obra  ou
+fonograma reproduzidos com fraude, com a finalidade de vender, obter ganho, vantagem, proveito,
+lucro direto ou indireto, para si ou para outrem, será solidariamente responsável com o contrafator,
+nos termos dos artigos precedentes, respondendo como contrafatores o importador e o distribuidor
+em caso de reprodução no exterior (art. 104 da Lei n. 9.610/98).
+ 
+Capa: Aurélio Corrêa
+Produção digital: Geethik
+Data de fechamento: 03.05.2019
+ 
+ 
+CIP – BRASIL. CATALOGAÇÃO NA FONTE.
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ.
+
+C61
+Código Civil comentado – doutrina e jurisprudência / Anderson Schreiber ... [et al.]. – Rio de Janeiro:
+Forense, 2019.
+ISBN 978-85-309-8688-9
+1. Brasil. [Código Civil (2002)]. 2. Direito civil – Brasil. I. Schreiber, Anderson.
+19-56210
+CDU: 347(81)
+(094.4)
+Leandra Felix da Cruz – Bibliotecária – CRB-7/6135
+
+Para minha filha Marina, com amor.
+Anderson Schreiber
+À minha Família: Leia, Laís, Enzo e Pietro, pelo tempo sonegado, agradecendo o
+apoio e o amor de sempre. Aos civilistas de todas as gerações, pelo legado deixado e
+pelos debates constantes.
+Flávio Tartuce
+Aos meus pais, a razão de ser de meu sucesso, de meus valores e de minha carreira,
+que desde cedo incentivaram não só os estudos, mas uma sólida formação moral.
+Aos meus professores de Direito Civil, em especial meus amigos Álvaro Villaça
+Azevedo, Giselda Hironaka e Teresa Ancona Lopez, qu
+[/PAGINA 1]
+
+[PAGINA 2]
+e me ensinaram a amar aquilo
+que seria meu vício, desde o início, e que exerce diariamente sobre mim uma atração
+e embriaguez inexplicáveis.
+José Fernando Simão
+Aos meus pais, Manoel e Nicéa, às minhas filhas, Madalena e Maria Rosa, e à minha
+mulher, Daniela, pelo amor verdadeiro e intenso compartilhado diariamente.
+Aos professores e alunos pelas trocas de aprendizado e progresso, com gratidão e
+carinho.
+Marco Aurélio Bezerra de Melo
+Aos meus filhos queridos, Mário e Luiz Afonso, a todos os meus mestres do passado,
+especialmente minha eterna orientadora Maria Helena Diniz, e ao amigo Flávio
+Tartuce pela inciativa tão feliz de reunir este grupo e pela oportunidade que me deu
+de integrá-lo.
+
+Mário Luiz Delgado
+
+Anderson Schreiber
+Professor Titular de Direito Civil da Universidade do Estado do Rio de Janeiro –
+UERJ.  Professor  Permanente  do  Programa  de  Pós-Graduação Stricto  Sensu
+(Mestrado  e  Doutorado)  da  UERJ.  Doutor  em  Direito  Privado  Comparado  pela
+Università  degli  studi  del  Molise  (Itália).  Mestre  em  Direito  Civil  pela  UERJ.
+Pesquisador Visitante do Max Planck Institut für ausländisches und internationales
+Privatrecht (Alemanha). Membro da Academia Internacional de Direito Comparado.
+Membro do Comitê Brasileiro da Association Henri Capitant des Amis de la Culture
+Juridique  Française.  Procurador  do  Estado  do  Rio  de  Janeiro.  Advogado  e
+parecerista.
+Flávio Tartuce
+Doutor em Direito Civil pela USP. Mestre em Direito Civil Comparado pela PUCSP.
+Professor  Titular  permanente  do  programa  de  mestrado  e  doutorado  da  FADISP.
+Coordenador e Professor dos cursos de especialização em Direito Privado da Escola
+Paulista de Direito (EPD). Advogado, consultor jurídico e parecerista em São Paulo.
+José Fernando Simão
+Livre-docente, Doutor e Mestre pela Faculdade de Direito do Largo de São Francisco
+– USP. Professor-associado do Departamento de Direito Civil – Faculdade de Direito
+do Largo de São Francisco – USP. Advogado e parecerista.
+Marco Aurélio Bezerra de Melo
+Mestre  e  Doutor  em  Direito  pela  Universidade  Estácio  de  Sá.  Desembargador  do
+Tribunal de Justiça do Estado do  Rio  de  Janeiro.  Professor  emérito  da  Escola  de
+Magistratura do Estado do Rio de Janeiro (EMERJ). Professor titular de Direito Civil
+do IBMEC/RJ. Membro da Academia Brasileira de Direito Civil.
+Mário Luiz Delgado
+
+Doutor em Direito Civil pela USP. Mestre em Direito Civil Comparado pela PUC-SP.
+Professor Titular do programa de mestrado e doutorado da FADISP. Professor dos
+cursos de especialização em Direito Privado da Escola Paulista de Direito (EPD).
+Membro do Conselho Superior de Assuntos Jurídicos e Legislativos da Federação das
+Indústrias do Estado de São Paulo – FIESP. Conselheiro da Câmara de Mediação e
+Arbitragem  do  Instituto  dos  Advogados  de  São  Paulo  –  IASP.  Advogado  e
+parecerista.
+
+–
+–
+–
+–
+–
+Apresentamos  à  comunidade  jurídica  nacional  este Código Civil Comentado  –
+Doutrina e Jurisprudência, fruto de um proje
+[/PAGINA 2]
+
+[PAGINA 3]
+to comum, de autores de uma mesma
+geração, atualmente entre os 40 e 50 anos de idade, todos com experiências anteriores
+com Manuais, Cursos, Código Civil comentados ou anotados e coordenação de obras
+coletivas.  Além  dessa vivência editorial,  trabalhamos  com  o  Direito  Privado  em
+nossa  atividade  profissional,  seja  na  advocacia,  na  atividade  consultiva,  em
+pareceres, em arbitragens ou mesmo no Tribunal. Somos professores de praticamente
+todos os ramos do Direito Civil – da Parte Geral ao Direito das Sucessões –, com
+experiência  docente  de  mais  de  duas  décadas.  Temos  origens  diferentes:  há  um
+mineiro,  que  mora  em  São  Paulo;  um  paraibano,  que  vive  na  mesma  cidade;  um
+paulista que foi para o Rio de Janeiro; e, por fim, um paulistano e um fluminense “da
+gema”.
+Procuramos dividir a obra de acordo com as nossas maiores especialidades e com
+as preferências de cada um, concebendo os comentários da seguinte forma:
+Anderson Schreiber – Parte Geral do Código Civil, Teoria Geral dos Contratos e Responsabilidade Civil.
+Flávio Tartuce – Contratos em Espécie – do mandato até o compromisso – e Direito de Família.
+José Fernando Simão – Direito das Obrigações e Direito das Sucessões.
+Marco Aurélio Bezerra de Melo – Contratos em Espécie – da compra e venda até o depósito – e Direito das
+Coisas.
+Mário Luiz Delgado – Direito de Empresa, Títulos de Crédito, Atos Unilaterais, Preferências Creditícias e
+Disposições Finais e Transitórias.
+A estrutura dos comentários que desenvolvemos é dividida substancialmente em
+duas partes. Na primeira delas, procuramos analisar o dispositivo, expressando nossa
+posição  sobre  a  norma  e  expondo  as  interpretações  doutrinárias  constantes  das
+Jornadas de Direito Civil, de Direito Processual Civil e de Direito Comercial do
+Conselho  da  Justiça  Federal.  Na  segunda  parte,  comentamos  os  julgados
+
+emblemáticos  a  respeito  do  dispositivo,  em  uma  visão  crítica  e dialogal  com  as
+Cortes brasileiras.
+Ademais, a obra está acompanhada de um Código Civil Comentado Interativo,
+em  que  serão  postadas  aulas,  complementos,  esquemas  explicativos  e  outros
+conteúdos de atualização. Desse modo, o livro não ficará desatualizado ano a ano, e
+será possível uma constante interação nossa com vocês, leitores. Cada autor terá uma
+seção  específica  nesse  projeto  digital,  ou  seja,  sua sala própria. As instruções de
+acesso estão na contracapa da obra.
+Agradecendo  à  Professora  Giselda  Hironaka, madrinha  desta  obra,  pelo  seu
+lindo prefácio, esperamos que o livro atenda ao que buscam os civilistas e também
+aqueles que trabalham com o Direito Civil em seu dia a dia.
+Uma boa leitura e bons estudos.
+São Paulo e Rio de Janeiro, abril de 2019.
+Os Autores
+
+Muito  me  honrou  o  convite  formulado  pelos  jovens  e  ilustres  civilistas  que
+compõem   esta   obra,   intitulada Código  Civil  Comentado  –  Doutrina  e
+Jurisprudência,  lançado  pela  secular  Editora  Forense,  que  compõe  atua
+[/PAGINA 3]
+
+[PAGINA 4]
+lmente  o
+Grupo Editorial Nacional. Trata-se de livro que, sem dúvida alguma, vem para se
+alinhar às fileiras dos mais importantes comentários feitos à codificação privada de
+2002.
+A obra foi concebida por cinco prestigiados civilistas de uma mesma geração,
+todos entre a idade de 40 e 50 anos quando do lançamento desta primeira edição e
+com experiências anteriores. Convidaram-me para prefaciar esta obra – foi assim que
+exageradamente me disseram – pela influência doutrinária que tenho sobre os seus
+trabalhos  e  sobre  os  comentários  que  foram  aqui  desenvolvidos,  o  que  me  deixou
+muito  feliz  e  emocionada.  Fui  escolhida  como  “madrinha”  da  obra,  representando
+também a minha própria geração de civilistas, e, por isso, venho aqui recomendá-la à
+comunidade jurídica.
+Como  primeiro  autor  –  e  também  coordenador-geral  do  livro  –,  o  Professor
+Flávio Tartuce ficou responsável pelos comentários de parte dos contratos em espécie
+(do  mandato  ao  compromisso)  e  por  todo  o  Direito  de  Família,  seara  do  Direito
+Privado que se tornou uma das suas especialidades, principalmente por influência dos
+estudos desenvolvidos junto ao IBDFAM (Instituto Brasileiro de Direito de Família).
+Tartuce há tempos atua comigo na atividade acadêmica, tanto na Escola Paulista de
+Direito  –  em  cursos  de  especialização  que  coordenamos  em  conjunto  –,  como  no
+programa de mestrado e doutorado da Faculdade Autônoma de Direito (FADISP), na
+qual temos disciplinas comuns. Foi meu orientando no doutorado da Faculdade de
+Direito  da  USP,  sendo  hoje  um  dos  meus  principais  discípulos  ou,  como  gosto  e
+prefiro dizer, meu caríssimo filho acadêmico.
+O Professor Anderson Schreiber – destacado membro da escola do Direito Civil
+
+Constitucional  –  ficou  responsável  pela  Parte  Geral  do  Código  Civil,  pela  Teoria
+Geral dos Contratos e pela Responsabilidade Civil, temas que são de sua predileção
+e formam suas linhas de pesquisa principais. É ele Professor Titular da Faculdade de
+Direito da UERJ e tem se destacado com obras de grande impacto para o Direito
+Privado Contemporâneo Brasileiro. Além de uma apurada técnica, Schreiber tem o
+belo dom de analisar muito bem  os  fatos  sociais  contemporâneos,  o  que  pode  ser
+percebido  por  seus  ótimos  comentários  nesta  obra.  É  Doutor  pela  Universidade
+Molise, na Itália, e Mestre em Direito Civil pela própria UERJ. Nessa Universidade,
+Schreiber leciona em todos os níveis do ensino jurídico.
+O  terceiro  autor  deste Código Civil  é  o  Professor  José  Fernando  Simão,  meu
+colega  no  Departamento  de  Direito  Civil  na  Faculdade  de  Direito  Civil  da  USP.
+Graduou-se  por  essa  mesma  Universidade  e  por  ela  também  obteve  os  títulos  de
+Mestre,  Doutor  e  Livre-Docente  em  Direito  Civil.  Simão  ficou  responsável,  nesta
+obra, pelos comentários relacionados às suas maiores especialidades, quais sejam: a
+Teoria Geral das Obrigações e o Direito das Sucessões. Merecem dest
+[/PAGINA 4]
+
+[PAGINA 5]
+aque o seu
+rigor científico e a sua constante preocupação em explicar o Direito Privado por meio
+de exemplos concretos, o que pode ser percebido pelo trabalho aqui desenvolvido.
+Não posso deixar de destacar a constante presença de Simão na Europa, notadamente
+em Portugal: lá tem coordenado eventos jurídicos importantes que congregam juristas
+do Brasil e daquele País.
+O  Professor  Mário  Luiz  Delgado  é  o  quarto  participante  da  obra,  tendo
+desenvolvido seus escritos sobre o Direito de Empresa, os Títulos de Crédito, os
+Atos Unilaterais e as Disposições Finais e Transitórias da codificação privada, com
+participação ativa na fase final de elaboração do Código Civil, como assessor do
+Deputado  Ricardo  Fiúza.  Tem,  também,  grande  experiência  na  elaboração  de
+trabalhos em Códigos Comentados e Anotados, como já fez pela Editora Método, que
+hoje faz parte do Grupo Editorial Nacional. Mário Delgado também atua nos cursos
+que  coordeno  na  FADISP  e  na  EPD,  sendo  um  dos  mais  ativos  civilistas  da
+atualidade.  É  Doutor  em  Direito  Civil  pela  USP  e  Mestre  em  Direito  Civil
+Comparado  pela  PUCSP,  além  de  líder  de  várias  entidades  representativas  de
+
+advogados e juristas.
+Por fim, há a participação do Desembargador e Professor Marco Aurélio Bezerra
+de Melo, do Tribunal de Justiça do Rio de Janeiro, que dá o toque jurisprudencial a
+este trabalho coletivo. Ex-Defensor Público, Doutor em Direito pela Universidade
+Estácio de Sá e Professor Emérito da Escola da Magistratura do Estado do Rio de
+Janeiro, há tempos tem se dedicado ao estudo do Direito das Coisas e dos Contratos
+em  Espécie,  tendo  ficado  a  seu  cargo  os  comentários  desses  temas  nesta  obra.
+Relativamente aos Contratos em Espécie, o Desembargador comentou e analisou os
+dispositivos que tratam da compra e venda ao depósito. Pode aqui, com precisão,
+compartilhar algumas de suas experiências como julgador, sem deixar de demonstrar
+o dedicado civilista que é.
+A interação entre a doutrina e a jurisprudência – sempre tão apreciada e buscada
+também  por  mim  própria  –  parece  ser  o  grande  destaque  deste Código  Civil
+Comentado.  Os  julgados  não  foram  tão  somente  expostos  ou  colacionados,  mas
+analisados em uma abordagem crítica, logo após os comentários doutrinários e em
+constante conexão. O livro também traz um inédito complemento digital, o que tem
+sido  uma  preocupação  desta  casa  editorial,  propiciando  uma  rica  e  importante
+interação entre os autores e os seus leitores.
+Assim, e por tudo isso, não posso esperar mais do que o sucesso pleno deste
+livro. Como honrada “madrinha” deste trabalho, portanto, tenho o grande prazer de
+indicá-lo ao público leitor que certamente terá êxito no que busca e procura numa
+obra deste perfil, isto é, num Código Civil Comentado, especialmente voltado para o
+bom desempenho da atividade profissional do operador do direito.
+São Paulo, abril de 2019.
+Giselda Maria Fernandes Novaes Hironaka.
+Professora Titul
+[/PAGINA 5]
+
+[PAGINA 6]
+ar do Departamento de Direito Civil da Faculdade de Direito da USP.
+Coordenadora Titular do programa de mestrado de doutorado da Faculdade Autônoma
+de Direito (FADISP). Coordenadora Titular dos cursos de pós-graduação lato sensu
+
+da Escola Paulista de Direito (EPD). Livre-Docente e Doutora em Direito Civil pela
+USP. Advogada e consultora jurídica em São Paulo.
+
+PARTE GERAL
+LIVRO I
+DAS PESSOAS
+ANDERSON SCHREIBER
+TÍTULO I – Das Pessoas Naturais – Arts. 1º a 39
+Capítulo I – Da Personalidade e da Capacidade – Arts. 1º a 10
+Capítulo II – Dos Direitos da Personalidade – Arts. 11 a 21
+Capítulo III – Da Ausência – Arts. 22 a 39
+Seção I – Da Curadoria dos Bens do Ausente – Arts. 22 a 25
+Seção II – Da Sucessão Provisória – Arts. 26 a 36
+Seção III – Da Sucessão Definitiva – Arts. 37 a 39
+TÍTULO II – Das Pessoas Jurídicas – Arts. 40 a 69
+Capítulo I – Disposições Gerais – Arts. 40 a 52
+Capítulo II – Das Associações – Arts. 53 a 61
+Capítulo III – Das Fundações – Arts. 62 a 69
+TÍTULO III – Do Domicílio – Arts. 70 a 78
+LIVRO II
+DOS BENS
+TÍTULO ÚNICO – Das Diferentes Classes de Bens – Arts. 79 a 103
+Capítulo I – Dos Bens Considerados em Si Mesmos – Arts. 79 a 91
+Seção I – Dos Bens Imóveis – Arts. 79 a 81
+Seção II – Dos Bens Móveis – Arts. 82 a 84
+Seção III – Dos Bens Fungíveis e Consumíveis – Arts. 85 e 86
+Seção IV – Dos Bens Divisíveis – Arts. 87 e 88
+Seção V – Dos Bens Singulares e Coletivos – Arts. 89 a 91
+Capítulo II – Dos Bens Reciprocamente Considerados – Arts. 92 a 97
+Capítulo III – Dos Bens Públicos – Arts. 98 a 103
+
+LIVRO III
+DOS FATOS JURÍDICOS
+TÍTULO I – Do Negócio Jurídico – Arts. 104 a 184
+Capítulo I – Disposições Gerais – Arts. 104 a 114
+Capítulo II – Da Representação – Arts. 115 a 120
+Capítulo III – Da Condição, do Termo e do Encargo – Arts. 121 a 137
+Capítulo IV – Dos Defeitos do Negócio Jurídico – Arts. 138 a 165
+Seção I – Do Erro ou Ignorância – Arts. 138 a 144
+Seção II – Do Dolo – Arts. 145 a 150
+Seção III – Da Coação – Arts. 151 a 155
+Seção IV – Do Estado de Perigo – Art. 156
+Seção V – Da Lesão – Art. 157
+Seção VI – Da Fraude Contra Credores – Arts. 158 a 165
+Capítulo V – Da Invalidade do Negócio Jurídico – Arts. 166 a 184
+TÍTULO II – Dos Atos Jurídicos Lícitos – Art. 185
+TÍTULO III – Dos Atos Ilícitos – Arts. 186 a 188
+TÍTULO IV – Da Prescrição e da Decadência – Arts. 189 a 211
+Capítulo I – Da Prescrição – Arts. 189 a 206
+Seção I – Disposições Gerais – Arts. 189 a 196
+Seção II – Das Causas que Impedem ou Suspendem a Prescrição – Arts. 197 a 201
+Seção III – Das Causas que Interrompem a Prescrição – Arts. 202 a 204
+Seção IV – Dos Prazos da Prescrição – Arts. 205 e 206
+Capítulo II – Da Decadência – Arts. 207 a 211
+TÍTULO V – Da Prova – Arts. 212 a 232
+PARTE ESPECIAL
+LIVRO I
+DO DIREITO DAS OBRIGAÇÕES
+JOSÉ FERNANDO SIMÃO
+TÍTULO I – Das Modalidades das Obrigações – Arts. 233 a 285
+Capítulo I – Das Obrigações de Dar – Arts. 233 a 246
+Seção I – Das Obrigações de Dar Coisa Certa – Arts. 233 a 242
+Seção II – Das Obrigações de Dar Coisa Incerta – Arts.
+[/PAGINA 6]
+
+[PAGINA 7]
+243 a 246
+
+Capítulo II – Das Obrigações de Fazer – Arts. 247 a 249
+Capítulo III – Das Obrigações de Não Fazer – Arts. 250 e 251
+Capítulo IV – Das Obrigações Alternativas – Arts. 252 a 256
+Capítulo V – Das Obrigações Divisíveis e Indivisíveis – Arts. 257 a 263
+Capítulo VI – Das Obrigações Solidárias – Arts. 264 a 285
+Seção I – Disposições Gerais – Arts. 264 a 266
+Seção II – Da Solidariedade Ativa – Arts. 267 a 274
+Seção III – Da Solidariedade Passiva – Arts. 275 a 285
+TÍTULO II – Da Transmissão das Obrigações – Arts. 286 a 303
+Capítulo I – Da Cessão de Crédito – Arts. 286 a 298
+Capítulo II – Da Assunção de Dívida – Arts. 299 a 303
+TÍTULO III – Do Adimplemento e Extinção das Obrigações – Arts. 304 a 388
+Capítulo I – Do Pagamento – Arts. 304 a 333
+Seção I – De Quem Deve Pagar – Arts. 304 a 307
+Seção II – Daqueles a Quem se Deve Pagar – Arts. 308 a 312
+Seção III – Do Objeto do Pagamento e Sua Prova – Arts. 313 a 326
+Seção IV – Do Lugar do Pagamento – Arts. 327 a 330
+Seção V – Do Tempo do Pagamento – Arts. 331 a 333
+Capítulo II – Do Pagamento em Consignação – Arts. 334 a 345
+Capítulo III – Do Pagamento com Sub-Rogação – Arts. 346 a 351
+Capítulo IV – Da Imputação do Pagamento – Arts. 352 a 355
+Capítulo V – Da Dação em Pagamento – Arts. 356 a 359
+Capítulo VI – Da Novação – Arts. 360 a 367
+Capítulo VII – Da Compensação – Arts. 368 a 380
+Capítulo VIII – Da Confusão – Arts. 381 a 384
+Capítulo IX – Da Remissão das Dívidas – Arts. 385 a 388
+TÍTULO IV – Do Inadimplemento das Obrigações – Arts. 389 a 420
+Capítulo I – Disposições Gerais – Arts. 389 a 393
+Capítulo II – Da Mora – Arts. 394 a 401
+Capítulo III – Das Perdas e Danos – Arts. 402 a 405
+Capítulo IV – Dos Juros Legais – Arts. 406 e 407
+Capítulo V – Da Cláusula Penal – Arts. 408 a 416
+Capítulo VI – Das Arras ou Sinal – Arts. 417 a 420
+ANDERSON SCHREIBER
+
+TÍTULO V – Dos Contratos em Geral – Arts. 421 a 480-B
+Capítulo I – Disposições Gerais – Arts. 421 a 471
+Seção I – Preliminares – Arts. 421 a 426
+Seção II – Da Formação dos Contratos – Arts. 427 a 435
+Seção III – Da Estipulação em Favor de Terceiro – Arts. 436 a 438
+Seção IV – Da Promessa de Fato de Terceiro – Arts. 439 e 440
+Seção V – Dos Vícios Redibitórios – Arts. 441 a 446
+Seção VI – Da Evicção – Arts. 447 a 457
+Seção VII – Dos Contratos Aleatórios – Arts. 458 a 461
+Seção VIII – Do Contrato Preliminar – Arts. 462 a 466
+Seção IX – Do Contrato com Pessoa a Declarar – Arts. 467 a 471
+Capítulo II – Da Extinção do Contrato – Arts. 472 a 480-B
+Seção I – Do Distrato – Arts. 472 e 473
+Seção II – Da Cláusula Resolutiva – Arts. 474 e 475
+Seção III – Da Exceção de Contrato Não Cumprido – Arts. 476 e 477
+Seção IV – Da Resolução por Onerosidade Excessiva – Arts. 478 a 480-B
+MARCO AURÉLIO BEZERRA DE MELO
+TÍTULO VI – Das Várias Espécies de Contrato – Arts. 481 a 853
+Capítulo I – Da Compra e Venda – Arts. 481 a 532
+Seção I – Disposições Gerais – Arts. 481 a 504
+Seção II – Das Cláusulas Especiais da Compra e Venda – Arts. 505 a 532
+Subseção I – Da Retrovenda – Arts. 50
+[/PAGINA 7]
+
+[PAGINA 8]
+5 a 508
+Subseção II – Da Venda a Contento e da Sujeita a Prova – Arts. 509 a 512
+Subseção III – Da Preempção ou Preferência – Arts. 513 a 520
+Subseção IV – Da Venda com Reserva de Domínio – Arts. 521 a 528
+Subseção V – Da Venda Sobre Documentos – Arts. 529 a 532
+Capítulo II – Da Troca ou Permuta – Art. 533
+Capítulo III – Do Contrato Estimatório – Arts. 534 a 537
+Capítulo IV – Da Doação – Arts. 538 a 564
+Seção I – Disposições Gerais – Arts. 538 a 554
+Seção II – Da Revogação da Doação – Arts. 555 a 564
+Capítulo V – Da Locação de Coisas – Arts. 565 a 578
+Capítulo VI – Do Empréstimo – Arts. 579 a 592
+Seção I – Do Comodato – Arts. 579 a 585
+Seção II – Do Mútuo – Arts. 586 a 592
+
+Capítulo VII – Da Prestação de Serviço – Arts. 593 a 609
+Capítulo VIII – Da Empreitada – Arts. 610 a 626
+Capítulo IX – Do Depósito – Arts. 627 a 652
+Seção I – Do Depósito Voluntário – Arts. 627 a 646
+Seção II – Do Depósito Necessário – Arts. 647 a 652
+FLÁVIO TARTUCE
+Capítulo X – Do Mandato – Arts. 653 a 692
+Seção I – Disposições Gerais – Arts. 653 a 666
+Seção II – Das Obrigações do Mandatário – Arts. 667 a 674
+Seção III – Das Obrigações do Mandante – Arts. 675 a 681
+Seção IV – Da Extinção do Mandato – Arts. 682 a 691
+Seção V – Do Mandato Judicial – Art. 692
+Capítulo XI – Da Comissão – Arts. 693 a 709
+Capítulo XII – Da Agência e Distribuição – Arts. 710 a 721
+Capítulo XIII – Da Corretagem – Arts. 722 a 729
+Capítulo XIV – Do Transporte – Arts. 730 a 756
+Seção I – Disposições Gerais – Arts. 730 a 733
+Seção II – Do Transporte de Pessoas – Arts. 734 a 742
+Seção III – Do Transporte de Coisas – Arts. 743 a 756
+Capítulo XV – Do Seguro – Arts. 757 a 802
+Seção I – Disposições Gerais – Arts. 757 a 777
+Seção II – Do Seguro de Dano – Arts. 778 a 788
+Seção III – Do Seguro de Pessoa – Arts. 789 a 802
+Capítulo XVI – Da Constituição de Renda – Arts. 803 a 813
+Capítulo XVII – Do Jogo e da Aposta – Arts. 814 a 817
+Capítulo XVIII – Da Fiança – Arts. 818 a 839
+Seção I – Disposições Gerais – Arts. 818 a 826
+Seção II – Dos Efeitos da Fiança – Arts. 827 a 836
+Seção III – Da Extinção da Fiança – Arts. 837 a 839
+Capítulo XIX – Da Transação – Arts. 840 a 850
+Capítulo XX – Do Compromisso – Arts. 851 a 853
+MÁRIO LUIZ DELGADO
+TÍTULO VII – Dos Atos Unilaterais – Arts. 854 a 886
+Capítulo I – Da Promessa de Recompensa – Arts. 854 a 860
+Capítulo II – Da Gestão de Negócios – Arts. 861 a 875
+
+Capítulo III – Do Pagamento Indevido – Arts. 876 a 883
+Capítulo IV – Do Enriquecimento sem Causa – Arts. 884 a 886
+TÍTULO VIII – Dos Títulos de Crédito – Arts. 887 a 926
+Capítulo I – Disposições Gerais – Arts. 887 a 903
+Capítulo II – Do Título ao Portador – Arts. 904 a 909
+Capítulo III – Do Título à Ordem – Arts. 910 a 920
+Capítulo IV – Do Título Nominativo – Arts. 921 a 926
+ANDERSON SCHREIBER
+TÍTULO IX – Da Responsabilidade Civil – Arts. 927 a 954
+Capítulo I – Da Obrigação de Indenizar – Arts. 927 a 943
+Capítulo II – Da Indenização – Arts. 944 a 954
+MÁRIO LUIZ DELGADO
+TÍTULO X – Das Preferências e Privilégios Creditórios –
+[/PAGINA 8]
+
+[PAGINA 9]
+Arts. 955 a 965
+LIVRO II
+DO DIREITO DE EMPRESA
+TÍTULO I – Do Empresário – Arts. 966 a 980
+Capítulo I – Da Caracterização e da Inscrição – Arts. 966 a 971
+Capítulo II – Da Capacidade – Arts. 972 a 980
+TÍTULO I-A – Da Empresa Individual de Responsabilidade Limitada – Art. 980-A
+TÍTULO II – Da Sociedade – Arts. 981 a 1.141
+Capítulo Único – Disposições Gerais – Arts. 981 a 985
+SUBTÍTULO I – Da Sociedade não Personificada – Arts. 986 a 996
+Capítulo I – Da Sociedade em Comum – Arts. 986 a 990
+Capítulo II – Da Sociedade em Conta de Participação – Arts. 991 a 996
+SUBTÍTULO II – Da Sociedade Personificada – Arts. 997 a 1.141
+Capítulo I – Da Sociedade Simples – Arts. 997 a 1.038
+Seção I – Do Contrato Social – Arts. 997 a 1.000
+Seção II – Dos Direitos e Obrigações dos Sócios – Arts. 1.001 a 1.009
+Seção III – Da Administração – Arts. 1.010 a 1.021
+Seção IV – Das Relações com Terceiros – Arts. 1.022 a 1.027
+Seção V – Da Resolução da Sociedade em Relação a um Sócio – Arts. 1.028 a 1.032
+Seção VI – Da Dissolução – Arts. 1.033 a 1.038
+
+Capítulo II – Da Sociedade em Nome Coletivo – Arts. 1.039 a 1.044
+Capítulo III – Da Sociedade em Comandita Simples – Arts. 1.045 a 1.051
+Capítulo IV – Da Sociedade Limitada – Arts. 1.052 a 1.087
+Seção I – Disposições Preliminares – Arts. 1.052 a 1.054
+Seção II – Das Quotas – Arts. 1.055 a 1.059
+Seção III – Da Administração – Arts. 1.060 a 1.065
+Seção IV – Do Conselho Fiscal – Arts. 1.066 a 1.070
+Seção V – Das Deliberações dos Sócios – Arts. 1.071 a 1.080
+Seção VI – Do Aumento e da Redução do Capital – Arts. 1.081 a 1.084
+Seção VII – Da Resolução da Sociedade em relação a Sócios Minoritários – Arts. 1.085 e 1.086
+Seção VIII – Da Dissolução – Art. 1.087
+Capítulo V – Da Sociedade Anônima – Arts. 1.088 e 1.089
+Seção Única – Da Caracterização – Arts. 1.088 e 1.089
+Capítulo VI – Da Sociedade em Comandita por Ações – Arts. 1.090 a 1.092
+Capítulo VII – Da sociedade Cooperativa – Arts. 1.093 a 1.096
+Capítulo VIII – Das Sociedades Coligadas – Arts. 1.097 a 1.101
+Capítulo IX – Da Liquidação da Sociedade – Arts. 1.102 a 1.112
+Capítulo X – Da Transformação, da Incorporação, da Fusão e da Cisão das Sociedades – Arts. 1.113 a 1.122
+Capítulo XI – Da Sociedade Dependente de Autorização – Arts. 1.123 a 1.141
+Seção I – Disposições Gerais – Arts. 1.123 a 1.125
+Seção II – Da sociedade Nacional – Arts. 1.126 a 1.133
+Seção III – Da sociedade Estrangeira – Arts. 1.134 a 1.141
+TÍTULO III – Do Estabelecimento – Arts. 1.142 a 1.149
+Capítulo Único – Disposições Gerais – Arts. 1.142 a 1.149
+TÍTULO IV – Dos Institutos Complementares – Arts. 1.150 a 1.195
+Capítulo I – Do Registro – Arts. 1.150 a 1.154
+Capítulo II – Do Nome Empresarial – Arts. 1.155 a 1.168
+Capítulo III – Dos Prepostos – Arts. 1.169 a 1.178
+Seção I – Disposições Gerais – Arts. 1.169 a 1.171
+Seção II – Do Gerente – Arts. 1.172 a 1.176
+Seção III – Do Contabilista e outros auxiliares – Arts. 1.177 e 1.178
+Capítulo IV – Da Escrituração – Arts. 1.179 a 1.195
+LIVRO III
+DO DIREITO DAS COISAS
+
+MARCO AU
+[/PAGINA 9]
+
+[PAGINA 10]
+RÉLIO BEZERRA DE MELO
+TÍTULO I – Da posse – Arts. 1.196 a 1.224
+Capítulo I – Da Posse e sua Classificação – Arts. 1.196 a 1.203
+Capítulo II – Da Aquisição da Posse – Arts. 1.204 a 1.209
+Capítulo III – Dos Efeitos da Posse – Arts. 1.210 a 1.222
+Capítulo IV – Da Perda da Posse – Arts. 1.223 e 1.224
+TÍTULO II – Dos Direitos Reais – Arts. 1.225 a 1.227
+Capítulo Único – Disposições Gerais – Arts. 1.225 a 1.227
+TÍTULO III – Da Propriedade – Arts. 1.228 a 1.368-E
+Capítulo I – Da Propriedade em Geral – Arts. 1.228 a 1.237
+Seção I – Disposições Preliminares – Arts. 1.228 a 1.232
+Seção II – Da Descoberta – Arts. 1.233 a 1.237
+Capítulo II – Da Aquisição da Propriedade Imóvel – Arts. 1.238 a 1.259
+Seção I – Da Usucapião – Arts. 1.238 a 1.244
+Seção II – Da Aquisição pelo Registro do Título – Arts. 1.245 a 1.247
+Seção III – Da Aquisição por Acessão – Arts. 1.248 a 1.259
+Subseção I – Das Ilhas – Art. 1.249
+Subseção II – Da Aluvião – Art. 1.250
+Subseção III – Da Avulsão – Art. 1.251
+Subseção IV – Do Álveo Abandonado – Art. 1.252
+Subseção V – Das Construções e Plantações – Arts. 1.253 a 1.259
+Capítulo III – Da Aquisição da Propriedade Móvel – Arts. 1.260 a 1.274
+Seção I – Da Usucapião – Arts. 1.260 a 1.262
+Seção II – Da Ocupação – Art. 1.263
+Seção III – Do Achado do Tesouro – Arts. 1.264 a 1.266
+Seção IV – Da Tradição – Arts. 1.267 e 1.268
+Seção V – Da Especificação – Arts. 1.269 a 1.271
+Seção VI – Da Confusão, da Comissão e da Adjunção – Arts. 1.272 a 1.274
+Capítulo IV – Da Perda da Propriedade – Arts. 1.275 e 1.276
+Capítulo V – Dos Direitos de Vizinhança – Arts. 1.277 a 1.313
+Seção I – Do Uso Anormal da Propriedade – Arts. 1.277 a 1.281
+Seção II – Das Árvores Limítrofes – Arts. 1.282 a 1.284
+Seção III – Da Passagem Forçada – Art. 1.285
+Seção IV – Da Passagem de Cabos e Tubulações – Arts. 1.286 e 1.287
+
+Seção V – Das Águas – Arts. 1.288 a 1.296
+Seção VI – Dos Limites entre Prédios e do Direito de Tapagem – Arts. 1.297 e 1.298
+Seção VII – Do Direito de Construir – Arts. 1.299 a 1.313
+Capítulo VI – Do Condomínio Geral – Arts. 1.314 a 1.330
+Seção I – Do Condomínio Voluntário – Arts. 1.314 a 1.326
+Subseção I – Dos Direitos e Deveres dos Condôminos – Arts. 1.314 a 1.322
+Subseção II – Da Administração do Condomínio – Arts. 1.323 a 1.326
+Seção II – Do Condomínio Necessário – Arts. 1.327 a 1.330
+Capítulo VII – Do Condomínio Edilício – Arts. 1.331 a 1.358-A
+Seção I – Disposições Gerais – Arts. 1.331 a 1.346
+Seção II – Da Administração do Condomínio – Arts. 1.347 a 1.356
+Seção III – Da Extinção do Condomínio – Arts. 1.357 e 1.358
+Seção IV – Do Condomínio de Lotes (Incluído pela Lei n. 13.465, de 2017) – Art. 1.358-A
+Capítulo VII-A – Do Condomínio em Multipropriedade – Arts. 1.358-B a 1.358-U
+Seção I – Disposições Gerais – Arts. 1.358-B a 1.358-E
+Seção II – Da Instituição da Multipropriedade – Arts. 1.358-F a 1.358-H
+Seção III – Dos Direitos e das Obrigações do Multiproprietário – Arts. 1.358-I a 1.358-K
+Seção IV – Da Transferência da Multipropriedade – Art. 1.358-L
+Seção
+[/PAGINA 10]
+
+[PAGINA 11]
+V – Da Administração da Multipropriedade – Arts. 1.358-M e 1.358-N
+Seção VI – Disposições Específicas Relativas às Unidades Autônomas de Condomínios Edilícios – Arts. 1.358-
+O a 1.358-U
+Capítulo VIII – Da Propriedade Resolúvel – Arts. 1.359 e 1.360
+Capítulo IX – Da Propriedade Fiduciária – Arts. 1.361 a 1.368-B
+Capítulo X – Do Fundo de Investimento – Arts. 1.368-C a 1.368-E
+TÍTULO IV – Da Superfície – Arts. 1.369 a 1.377
+TÍTULO V – Das Servidões – Arts. 1.378 a 1.389
+Capítulo I – Da Constituição das Servidões – Arts. 1.378 e 1.379
+Capítulo II – Do Exercício das Servidões – Arts. 1.380 a 1.386
+Capítulo III – Da Extinção das Servidões – Arts. 1.387 a 1.389
+TÍTULO VI – Do Usufruto – Arts. 1.390 a 1.411
+Capítulo I – Disposições Gerais – Arts. 1.390 a 1.393
+Capítulo II – Dos Direitos do Usufrutuário – Arts. 1.394 a 1.399
+Capítulo III – Dos Deveres do Usufrutuário – Arts. 1.400 a 1.409
+Capítulo IV – Da Extinção do Usufruto – Arts. 1.410 e 1.411
+
+TÍTULO VII – Do Uso – Arts. 1.412 e 1.413
+TÍTULO VIII – Da Habitação – Arts. 1.414 a 1.416
+TÍTULO IX – Do Direito do Promitente Comprador – Arts. 1.417 e 1.418
+TÍTULO X – Do Penhor, da Hipoteca e da Anticrese – Arts. 1.419 a 1.510
+Capítulo I – Disposições Gerais – Arts. 1.419 a 1.430
+Capítulo II – Do Penhor – Arts. 1.431 a 1.472
+Seção I – Da Constituição do Penhor – Arts. 1.431 e 1.432
+Seção II – Dos Direitos do Credor Pignoratício – Arts. 1.433 e 1.434
+Seção III – Das Obrigações do Credor Pignoratício – Art. 1.435
+Seção IV – Da Extinção do Penhor – Arts. 1.436 e 1.437
+Seção V – Do Penhor Rural – Arts. 1.438 a 1.446
+Subseção I – Disposições Gerais – Arts. 1.438 a 1.441
+Subseção II – Do Penhor Agrícola – Arts. 1.442 e 1.443
+Subseção III – Do Penhor Pecuário – Arts. 1.444 a 1.446
+Seção VI – Do Penhor Industrial e Mercantil – Arts. 1.447 a 1.450
+Seção VII – Do Penhor de Direitos e Títulos de Crédito – Arts. 1.451 a 1.460
+Seção VIII – Do Penhor de Veículos – Arts. 1.461 a 1.466
+Seção IX – Do Penhor Legal – Arts. 1.467 a 1.472
+Capítulo III – Da Hipoteca – Arts. 1.473 a 1.505
+Seção I – Disposições Gerais – Arts. 1.473 a 1.488
+Seção II – Da Hipoteca Legal – Arts. 1.489 a 1.491
+Seção III – Do Registro da Hipoteca – Arts. 1.492 a 1.498
+Seção IV – Da Extinção da Hipoteca – Arts. 1.499 a 1.501
+Seção V – Da Hipoteca de Vias Férreas – Arts. 1.502 a 1.505
+Capítulo IV – Da Anticrese – Arts. 1.506 a 1.510
+TÍTULO XI – Da Laje – Arts. 1.510-A a 1.510-E
+LIVRO IV
+DO DIREITO DE FAMÍLIA
+FLÁVIO TARTUCE
+TÍTULO I – Do Direito Pessoal – Arts. 1.511 a 1.638
+SUBTÍTULO I – Do Casamento – Arts. 1.511 a 1.590
+Capítulo I – Disposições Gerais – Arts. 1.511 a 1.516
+Capítulo II – Da Capacidade para o Casamento – Arts. 1.517 a 1.520
+
+Capítulo III – Dos Impedimentos – Arts. 1.521 e 1.522
+Capítulo IV – Das Causas Suspensivas – Arts. 1.523 e 1.524
+Capítulo V – Do Processo de Habilitação para o Casamento – Arts. 1.525 a 1.532
+Capítulo VI – Da Celebração do Casamento – Arts. 1.533 a 1.542
+Capítulo VII – Das Provas do Casamento – Arts. 1.543 a 1.547
+Ca
+[/PAGINA 11]
+
+[PAGINA 12]
+pítulo VIII – Da Invalidade do Casamento – Arts. 1.548 a 1.564
+Capítulo IX – Da Eficácia do Casamento – Arts. 1.565 a 1.570
+Capítulo X – Da Dissolução da Sociedade e do Vínculo Conjugal – Arts. 1.571 a 1.582
+Capítulo XI – Da Proteção da Pessoa dos Filhos – Arts. 1.583 a 1.590
+SUBTÍTULO II – Das Relações de Parentesco – Arts. 1.591 a 1.638
+Capítulo I – Disposições Gerais – Arts. 1.591 a 1.595
+Capítulo II – Da Filiação – Arts. 1.596 a 1.606
+Capítulo III – Do Reconhecimento dos Filhos – Arts. 1.607 a 1.617
+Capítulo IV – Da Adoção – Arts. 1.618 a 1.629
+Capítulo V – Do Poder Familiar – Arts. 1.630 a 1.638
+Seção I – Disposições Gerais – Arts. 1.630 a 1.633
+Seção II – Do Exercício do Poder Familiar – Art. 1.634
+Seção III – Da Suspensão e Extinção do Poder Familiar – Arts. 1.635 a 1.638
+TÍTULO II – Do Direito Patrimonial – Arts. 1.639 a 1.722
+SUBTÍTULO I – Do Regime de Bens entre os Cônjuges – Arts. 1.639 a 1.688
+Capítulo I – Disposições Gerais – Arts. 1.639 a 1.652
+Capítulo II – Do Pacto Antenupcial – Arts. 1.653 a 1.657
+Capítulo III – Do Regime de Comunhão Parcial – Arts. 1.658 a 1.666
+Capítulo IV – Do Regime de Comunhão Universal – Arts. 1.667 a 1.671
+Capítulo V – Do Regime de Participação Final nos Aquestos – Arts. 1.672 a 1.686
+Capítulo VI – Do Regime de Separação de Bens – Arts. 1.687 e 1.688
+SUBTÍTULO II – Do Usufruto e da Administração dos Bens de Filhos Menores – Arts. 1.689 a 1.693
+SUBTÍTULO III – Dos Alimentos – Arts. 1.694 a 1.710
+SUBTÍTULO IV – Do Bem de Família – Arts. 1.711 a 1.722
+TÍTULO III – Da União Estável – Arts. 1.723 a 1.727
+TÍTULO IV – Da Tutela, da Curatela e da Tomada de Decisão Apoiada – Arts. 1.728 a 1.783-A
+Capítulo I – Da Tutela – Arts. 1.728 a 1.766
+Seção I – Dos Tutores – Arts. 1.728 a 1.734
+Seção II – Dos Incapazes de Exercer a Tutela – Art. 1.735
+
+Seção III – Da Escusa dos Tutores – Art. 1.736 a 1.739
+Seção IV – Do Exercício da Tutela – Arts. 1.740 a 1.752
+Seção V – Dos Bens do Tutelado – Arts. 1.753 e 1.754
+Seção VI – Da Prestação de Contas – Arts. 1.755 a 1.762
+Seção VII – Da Cessação da Tutela – Arts. 1.763 a 1.766
+Capítulo II – Da Curatela – Arts. 1.767 a 1.783
+Seção I – Dos Interditos – Arts. 1.767 a 1.778
+Seção II – Da Curatela do Nascituro e do Enfermo ou Portador de Deficiência Física – Arts. 1.779 e 1.780
+Seção III – Do Exercício da Curatela – Arts. 1.781 a 1.783
+Capítulo III – Da Tomada de Decisão Apoiada – Art. 1.783-A
+LIVRO V
+DO DIREITO DAS SUCESSÕES
+JOSÉ FERNANDO SIMÃO
+TÍTULO I – Da Sucessão em Geral – Arts. 1.784 a 1.828
+Capítulo I – Disposições Gerais – Arts. 1.784 a 1.790
+Capítulo II – Da Herança e de sua Administração – Arts. 1.791 a 1.797
+Capítulo III – Da Vocação Hereditária – Arts. 1.798 a 1.803
+Capítulo IV – Da Aceitação e Renúncia da Herança – Arts. 1.804 a 1.813
+Capítulo V – Dos Excluídos da Sucessão – Arts. 1.814 a 1.818
+Capítulo VI – Da Herança Jacente – Arts. 1.819 a 1.823
+Capítulo VII – Da Petição de Herança – Arts. 1.824 a 1.828
+TÍTULO II – Da Sucessão Legítima – Arts. 1.829 a 1.856.
+Capítulo
+[/PAGINA 12]
+
+[PAGINA 13]
+I – Da Ordem da Vocação Hereditária – Arts. 1.829 a 1.844
+Capítulo II – Dos Herdeiros Necessários – Arts. 1.845 a 1.850
+Capítulo III – Do Direito de Representação – Arts. 1.851 a 1.856
+TÍTULO III – Da Sucessão Testamentária – Arts. 1.857 a 1.990
+Capítulo I – Do Testamento em Geral – Arts. 1.857 a 1.859
+Capítulo II – Da Capacidade de Testar – Arts. 1.860 e 1.861
+Capítulo III – Das Formas Ordinárias do Testamento – Arts. 1.862 a 1.880
+Seção I – Disposições Gerais – Arts. 1.862 e 1.863
+Seção II – Do Testamento Público – Arts. 1.864 a 1.867
+Seção III – Do Testamento Cerrado – Arts. 1.868 a 1.875
+Seção IV – Do Testamento Particular – Arts. 1.876 a 1.880
+Capítulo IV – Dos Codicilos – Arts. 1.881 a 1.885
+
+Capítulo V – Dos Testamentos Especiais – Arts. 1.886 a 1.896
+Seção I – Disposições Gerais – Arts. 1.886 e 1.887
+Seção II – Do Testamento Marítimo e do Testamento Aeronáutico – Arts. 1.888 a 1.892
+Seção III – Do Testamento Militar – Arts. 1.893 a 1.896
+Capítulo VI – Das Disposições Testamentárias – Arts. 1.897 a 1.911
+Capítulo VII – Dos Legados – Arts. 1.912 a 1.940
+Seção I – Disposições Gerais – Arts. 1.912 a 1.922
+Seção II – Dos Efeitos do Legado e do seu Pagamento – Arts. 1.923 a 1.938
+Seção III – Da Caducidade dos Legados – Arts. 1.939 e 1.940
+Capítulo VIII – Do Direito de Acrescer entre Herdeiros e Legatários – Arts. 1.941 a 1.946
+Capítulo IX – Das Substituições – Arts. 1.947 a 1.960
+Seção I – Da Substituição Vulgar e da Recíproca – Arts. 1.947 a 1.950
+Seção II – Da Substituição Fideicomissária – Arts. 1.951 a 1.960
+Capítulo X – Da Deserdação – Arts. 1.961 a 1.965
+Capítulo XI – Da Redução das Disposições Testamentárias – Arts. 1.966 a 1.968
+Capítulo XII – Da Revogação do Testamento – Arts. 1.969 a 1.972
+Capítulo XIII – Do Rompimento do Testamento – Arts. 1.973 a 1.975
+Capítulo XIV – Do Testamenteiro – Arts. 1.976 a 1.990
+TÍTULO IV – Do Inventário e da Partilha – Arts. 1991 a 2.027
+Capítulo I – Do Inventário – Art. 1.991
+Capítulo II – Dos Sonegados – Arts. 1.992 a 1.996
+Capítulo III – Do Pagamento das Dívidas – Arts. 1.997 a 2.001
+Capítulo IV – Da Colação – Arts. 2.002 a 2.012
+Capítulo V – Da Partilha – Arts. 2.013 a 2.022
+Capítulo VI – Da Garantia dos Quinhões Hereditários – Arts. 2.023 a 2.026
+Capítulo VII – Da Anulação da Partilha – Art. 2.027
+LIVRO
+COMPLEMENTAR
+MÁRIO LUIZ DELGADO
+Das Disposições Finais e Transitórias – Arts. 2.028 a 2.046
+
+ 
+
+O Presidente da República,
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+
+ 
+
+CAPÍTULO I
+DA PERSONALIDADE E DA CAPACIDADE
+Comentários de
+ANDERSON SCHREIBER
+Art. 1º Toda pessoa é capaz de direitos e deveres na ordem civil.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  Código  Civil  inicia  a  disciplina  das
+relações  privadas  tratando  da pessoa humana,  denominada  pelo  legislador  como
+“pessoa  natural”.  A  Constituição  da  República  consagra  a  dignidade  da  pessoa
+humana como um dos valores fundamentais da ordem jurídica (art. 1º, III), impondo a
+proteção  e  a  promoção  dos  múltip
+[/PAGINA 13]
+
+[PAGINA 14]
+los  aspectos  da  personalidade  humana,  o  que
+justifica  a  sua  posição  privilegiada  na  codificação  civil.  O  Código  distingue  duas
+noções fundamentais: a) personalidade e b) capacidade. A expressão personalidade,
+na  teoria  do  Direito  Civil,  possui  duas  possíveis  acepções,  ambas  refletidas  no
+Código. Em sentido subjetivo, personalidade é a aptidão genérica para ser titular de
+direitos  e  obrigações.  Isto  significa  que  a  pessoa  pode  figurar  como  parte  de  um
+contrato,  ser  devedora  de  tributos,  proprietária  de  certo  bem.  Em  síntese:  pode
+estabelecer relações jurídicas. Daí se afirmar que aqueles dotados de personalidade
+são sujeitos de direitos. É neste sentido que se fala em personalidade no capítulo
+inicial do Código. A acepção objetiva, por sua vez, é a contida na alusão aos direitos
+da personalidade, tratados nos arts. 11 a 21 (ver comentários a tais artigos). Para que
+possa exercer pessoalmente os direitos de que é titular, a ordem jurídica exige que a
+pessoa  humana,  além  de  personalidade,  seja  dotada  de capacidade.  A  doutrina
+
+costuma  distinguir  a  capacidade  em  duas  espécies:  a)  capacidade  de  direito;  e  b)
+capacidade de fato. A capacidade de direito, também chamada capacidade de gozo
+ou  capacidade  de  aquisição,  é  usualmente  definida  como  a  aptidão  para  adquirir
+direitos na vida civil. Na ordem jurídica brasileira, na qual a personalidade é dotada
+de um sentido não meramente formal, mas substancial, reconhecendo-se a toda pessoa
+humana, sem restrições, a possibilidade de contrair direitos e obrigações – conforme
+elucida  o  artigo  em  comento  –,  a  noção  de  capacidade  de  direito  identifica-se
+inteiramente com a personalidade, razão pela qual se discute se a distinção mantém
+utilidade. Nosso Código Civil preserva a distinção, como se pode ver da comparação
+deste art. 1º, que emprega o termo “capaz” no sentido de capacidade de direito, com
+outros  dispositivos  da  codificação,  que  aludem  à  “pessoa  capaz”,  referindo-se  à
+capacidade de fato (ver comentários ao art. 3º).
+Art. 2º A personalidade civil da pessoa começa do nascimento com vida; mas a lei põe a salvo,
+desde a concepção, os direitos do nascituro.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  Código  Civil  estipula,  como  marco
+inicial  da  personalidade  (em  sentido  subjetivo)  da  pessoa  natural,  o  momento  do
+nascimento  com  vida.  Com  isso,  o  Direito  Civil  brasileiro  filia-se  à  corrente
+natalista,  que  se  contrapõe  à  corrente concepcionista,  segundo  a  qual  a
+personalidade  da  pessoa  humana  inicia-se  no  momento  da  concepção.  Embora  o
+Código Civil brasileiro tenha seguido indiscutivelmente a corrente natalista, a parte
+final do dispositivo “põe, a salvo, desde a concepção, os direitos do nascituro”. Vale
+dizer: embora não seja ainda dotado de personalidade em sentido subjetivo, isto é, de
+aptidão genérica para ser titular de direitos e obrigações, o nascituro tem alguns de
+seu
+[/PAGINA 14]
+
+[PAGINA 15]
+s interesses (futuros e eventuais) protegidos, desde logo, pela ordem jurídica. Por
+exemplo,  o  Código  Civil  admite  que  seja  feita  doação  ao  nascituro  (art.  542)  e
+reconhece vocação hereditária a pessoas “já concebidas” no momento da abertura da
+sucessão  (arts.  1.798,  1.799,  I,  e  1.800,  §  3º). A  legislação  especial  também  está
+repleta de exemplos de proteção aos interesses do nascituro. O Estatuto da Criança e
+do Adolescente (Lei n. 8.069/1990), por exemplo, declara expressamente, em seu art.
+26, parágrafo único, a possibilidade de reconhecimento de paternidade, mesmo antes
+
+do nascimento. A doutrina discute se tais hipóteses configuram tecnicamente “direitos
+do  nascituro”,  como  afirma  literalmente  o  art.  2º  do  Código  Civil,  ou  mera
+expectativa  de  direito,  a  depender  de  um  fato  futuro  (nascimento  com  vida)  para
+produzir efeitos. Se o nascituro não detém personalidade, parece claro que não pode
+ser  titular  de  direitos  de  nenhuma  natureza.  Tampouco  a  expectativa  de  direito  é
+categoria que possa encontrar aqui adequada aplicação. Na expectativa de direito, o
+direito não existe por completo, mas já existe o sujeito, o que, no caso do nascituro,
+tecnicamente inexiste. O que ocorre em relação ao nascituro, a rigor, é a proteção
+objetiva pela ordem jurídica de interesses futuros e eventuais que poderão vir a se
+converter  em  direitos  no  momento  do  nascimento  com  vida  do  seu  titular.  Esses
+interesses futuros e eventuais do nascituro são protegidos objetivamente pela ordem
+jurídica, em atenção à probabilidade de que o titular venha a existir em breve e por
+razões de conveniência social. Questão que tem suscitado amplo debate na sociedade
+brasileira diz respeito à chamada proteção jurídica dos embriões, especialmente em
+face  dos  procedimentos  de  fertilização in vitro.  Os  embriões  somente  se  tornam
+nascituros no momento em que são implantados no útero materno. Por isso, não gozam
+de  personalidade,  nem  sequer  têm  interesses  futuros  e  eventuais  tutelados  pela
+legislação. Ainda assim, há autores que sustentam que os embriões in vitro têm direito
+à vida e ao tratamento digno, por serem potencialmente pessoas humanas. A proposta
+deve  ser  examinada  com  extrema  cautela,  porque  poderia  criar  obstáculo  jurídico
+insuperável à discussão de temas importantíssimos, como as pesquisas com células-
+tronco  e  a  descriminalização  do  aborto.  A  melhor  abordagem  aqui  parece  ser  a
+imposição,  em  procedimentos  de  fertilização  e  pesquisas  científicas  que  possam
+resultar  no  descarte  de  embriões  humanos,  de  deveres  de  segurança  e  cuidado
+compatíveis  com  a  especial  natureza  dos  embriões,  sem,  contudo,  pretender  lhes
+atribuir  personalidade  jurídica.  Nessa  direção,  o  Enunciado  n.  2  da I Jornada de
+Direito Civil afirma: “Sem prejuízo dos direitos da personalidade nele assegurados, o
+art.  2º  do  Código  Civil  não  é  sede  adequada  para
+[/PAGINA 15]
+
+[PAGINA 16]
+questões  emergentes  da
+reprogenética humana, que deve ser objeto de um Estatuto próprio”.
+ JURISPRUDÊNCIA  COMENTADA:  A  extensão  da  proteção  conferida  à
+
+pessoa  humana  antes  do  nascimento  é  tema  extremamente  polêmico,  que  suscita
+acalorados debates na jurisprudência. O Superior Tribunal de Justiça já reconheceu a
+possibilidade  de  se  indenizar  com  o  seguro  DPVAT  mulher  que  teve  a  gravidez
+interrompida em razão de acidente automobilístico. Segundo a Lei n. 6.194/1974, os
+danos pessoais cobertos pelo seguro incluem a hipótese de morte (art. 3º), a ser paga
+na forma do art. 792 do Código Civil (art. 4º). Para caracterizar a ocorrência do dano
+indenizável (morte), o STJ defendeu a adoção da teoria concepcionista pela ordem
+jurídica brasileira: “(...) ao que parece, o ordenamento jurídico como um todo – e não
+apenas  o  Código  Civil  de  2002  –  alinhou-se  mais  à  teoria  concepcionista  para  a
+construção da situação jurídica do nascituro, conclusão enfaticamente sufragada pela
+majoritária  doutrina  contemporânea.  (...)  Por  outro  ângulo,  cumpre  frisar  que  as
+teorias  mais  restritivas  dos  direitos  do  nascituro  –  natalista  e  da  personalidade
+condicional – fincam raízes na ordem jurídica superada pela Constituição Federal de
+1988 e pelo Código Civil de 2002. O paradigma no qual foram edificadas observava
+o cariz nitidamente patrimonialista dos direitos, razão pela qual se mostrava até mais
+confortável a defesa da tese de que o nascituro só detinha expectativa de direitos ou
+direitos condicionados a evento futuro, haja vista que se raciocinava, essencialmente,
+dentro da órbita dos direitos patrimoniais” (STJ, REsp 1.415.727/SC, 4.ª Turma, Rel.
+Min.  Luis  Felipe  Salomão,  j.  04.09.2014).  Embora  se  concorde  com  o  resultado
+obtido (indenização em virtude da interrupção da gravidez), não se concorda com os
+fundamentos empregados pelo tribunal, pelas razões já expostas. O Supremo Tribunal
+Federal,  por  sua  vez,  no  que  concerne  à  proteção  do  embrião,  declarou  a
+constitucionalidade  do  art.  5º  da  Lei  de  Biossegurança  (Lei  n.  11.105/2005),  que
+permite “para fins de pesquisa e terapia, a utilização de células-tronco embrionárias
+obtidas de embriões humanos produzidos por fertilização in vitro e não utilizados no
+respectivo  procedimento”.  Em  significativa  passagem  da  ementa  do  acórdão,  que
+reflete  o  voto  do  relator,  Min.  Carlos  Ayres  Britto,  afirma-se:  “O  Magno  Texto
+Federal não dispõe sobre o início da vida humana ou o preciso instante em que ela
+começa. Não faz de todo e qualquer estádio da vida humana um autonomizado bem
+jurídico, mas da vida que já é própria de uma concreta pessoa, porque nativiva (teoria
+‘natalista’,  em  contraposição  às  teorias  ‘concepcionista’  ou  da  ‘personalidade
+
+condicional’). E quando se reporta a ‘direitos da pessoa humana’ e até dos ‘direitos e
+garantias individuais’ como cláusula pétrea está falando de direitos e garantias d
+[/PAGINA 16]
+
+[PAGINA 17]
+o
+indivíduo-pessoa,  que  se  faz  destinatário  dos  direitos  fundamentais  ‘à  vida,  à
+liberdade, à igualdade, à segurança e à propriedade’, entre outros direitos e garantias
+igualmente distinguidos com o timbre da fundamentalidade (como direito à saúde e ao
+planejamento  familiar).  Mutismo  constitucional  hermeneuticamente  significante  de
+transpasse de poder normativo para a legislação ordinária. A potencialidade de algo
+para  se  tornar  pessoa  humana  já  é  meritória  o  bastante  para  acobertá-la,
+infraconstitucionalmente, contra tentativas levianas ou frívolas de obstar sua natural
+continuidade fisiológica. Mas as três realidades não se confundem: o embrião é o
+embrião, o feto é o feto e a pessoa humana é a pessoa humana. Donde não existir
+pessoa humana embrionária, mas embrião de pessoa humana. O embrião referido na
+Lei de Biossegurança (‘in vitro’ apenas) não é uma vida a caminho de outra vida
+virginalmente  nova,  porquanto  lhe  faltam  possibilidades  de  ganhar  as  primeiras
+terminações nervosas, sem as quais o ser humano não tem factibilidade como projeto
+de  vida  autônoma  e  irrepetível.  O  direito  infraconstitucional  protege  por  modo
+variado cada etapa do desenvolvimento biológico do ser humano. Os momentos da
+vida  humana  anteriores  ao  nascimento  devem  ser  objeto  de  proteção  pelo  direito
+comum. O embrião pré-implanto é um bem a ser protegido, mas não uma pessoa no
+sentido  biográfico  a  que  se  refere  a  Constituição”  (STF, ADI  3.510/DF,  Tribunal
+Pleno, j. 29.05.2008).
+Art. 3º São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores
+de 16 (dezesseis) anos. (Redação dada pela Lei n. 13.146, de 2015)
+ COMENTÁRIOS  DOUTRINÁRIOS:  A capacidade  de  fato  é  a  faculdade
+concreta  de  exercer  por  si  mesmo  os  direitos,  sem  necessidade  de  assistente  ou
+representante. Toda pessoa humana tem personalidade e capacidade de direito, mas
+não  tem  necessariamente  capacidade  de  fato.  Enquanto  a  capacidade  de  direito
+exprime a aptidão para ser titular de direitos (titularidade), a capacidade de fato diz
+respeito  ao  exercício  de  direitos.  O  Código  Civil,  na  esteira  da  tradição  romano-
+germânica, não estabelece requisitos para a aquisição da capacidade de fato. Emprega
+
+técnica diversa: lista as causas que privam as pessoas da capacidade de fato, ou, em
+outras palavras, lista as incapacidades. O regime das incapacidades priva o sujeito
+de direito do livre consentimento, na medida em que o condiciona à assistência ou à
+representação para a prática de atos da vida civil. Tal privação, contudo, encontrava
+justificativa  no  propósito  de  proteger  o  incapaz,  mostrando-se  historicamente
+aceitável na medida em que impedia que seu patrimônio fosse dilapidado por atos
+praticados sem o pleno discernimento acerca das consequências. As “escolhas” do
+incapaz ficavam, assim, pendentes de participação alheia, indispensável à validade e
+eficácia  da  sua  própria  de
+[/PAGINA 17]
+
+[PAGINA 18]
+claração  de  vontade.  O  instituto  das  incapacidades,
+entretanto,  tem  sido  objeto  de  releitura  crítica  nos  últimos  anos.  A  proteção  à
+dignidade humana, que se reflete na garantia de autodeterminação da pessoa natural,
+impõe a flexibilização do regime codificado das incapacidades, que pretendia retirar
+por  completo  o  incapaz  da  vida  privada.  A  lógica  empregada  no  Código  Civil,
+segundo a qual a pessoa ou é capaz ou é incapaz (lógica binária, lógica do tudo ou
+nada),  não  mais  se  coaduna  com  a  máxima  proteção  à  pessoa.  Hoje,  impõe-se  a
+modulação  da  incapacidade,  reconhecendo-se  à  pessoa  a  mais  ampla  participação
+possível nos atos da vida civil. A lógica da capacidade versus incapacidade deve ser
+substituída  por  uma  análise  concreta  da  pessoa  humana,  verificando  as  suas  reais
+possibilidades  na  vida  civil.  O  Código  Civil  de  2002  falhou  nesse  sentido,  ao
+reproduzir,  com  impressionante  dose  de  desatualidade,  o  regime  de  incapacidade
+contido na codificação de 1916. A incapacidade se divide em duas espécies: a) a
+incapacidade  absoluta  e  b)  a  incapacidade  relativa.  O  art.  3º  apresenta  os
+absolutamente incapazes,  ou  seja,  as  pessoas  que  devem  ser representadas  por
+outras nos atos da vida civil (arts. 115 e ss.), sendo nulos os atos por eles praticados
+sem representação (art. 166, I). Os absolutamente incapazes são, atualmente, apenas
+os menores de 16 anos. A restrição da capacidade encontra fundamento na ausência
+de  discernimento  e  maturidade,  ínsita  à  condição  dos  menores  de  16  anos  na
+qualidade  de  pessoas  em  desenvolvimento.  Ainda  assim,  não  se  deve  excluir
+aprioristicamente a autonomia do menor no que se refere à sua esfera existencial – ou
+seja, seu projeto de vida, e não apenas a gestão de seu patrimônio –, no âmbito da
+qual  deve  prevalecer  a  aferição  de  seu  concreto  discernimento,  e  não  critérios
+
+abstratos,  sob  pena  de  afronta  à  sua  dignidade:  “A  vontade  dos  absolutamente
+incapazes, na hipótese do inc. I do art. 3º (menores de dezesseis anos) é juridicamente
+relevante na concretização de situações existenciais a eles concernentes, desde que
+demonstrem discernimento bastante para tanto” (Enunciado n. 138 da III Jornada de
+Direito Civil). Em sua redação originária, o art. 3º trazia um rol mais extenso de
+pessoas  absolutamente  incapazes.  A  redução  da  lista  foi  promovida  pela  Lei  n.
+13.146/2015,  o Estatuto da Pessoa com Deficiência,  que,  no  afã  de  combater  os
+efeitos discriminatórios produzidos pela consideração de determinadas pessoas como
+absolutamente  incapazes,  reclassificou  as  situações  antes  enumeradas  pelo
+dispositivo.
+Art. 4º São incapazes, relativamente a certos atos, ou à maneira de os exercer: (Redação dada
+pela Lei n. 13.146, de 2015)
+I – os maiores de dezesseis e menores de dezoito anos;
+II – os ébrios habituais e os viciados em tóxico; (Redação dada pela Lei n. 13.146, de 20
+[/PAGINA 18]
+
+[PAGINA 19]
+15)
+III  –  aqueles  que,  por  causa  transitória  ou  permanente,  não  puderem  exprimir  sua  vontade;
+(Redação dada pela Lei n. 13.146, de 2015)
+IV – os pródigos.
+Parágrafo único. A capacidade dos indígenas será regulada por legislação especial. (Redação
+dada pela Lei n. 13.146, de 2015)
+ COMENTÁRIOS DOUTRINÁRIOS: Ainda tratando da capacidade de fato, o
+artigo em comento enumera as hipóteses de incapacidade relativa, nas quais se exige,
+para a realização dos atos jurídicos em geral, que o incapaz seja assistido, sob pena
+de anulabilidade do ato (ver comentários ao art. 171, I). As situações ensejadoras de
+incapacidade  relativa  exprimem,  em  teoria,  um  menor  comprometimento  da
+capacidade  de  discernimento  da  pessoa  natural,  em  comparação  às  situações  que
+ensejam  incapacidade  absoluta  (art.  3º).  É  o  caso  das pessoas  maiores  de  16  e
+menores de 18 anos. Em consonância com a lógica adotada pelo Estatuto da Criança
+e do Adolescente, que ressalta sua condição peculiar de pessoa em desenvolvimento,
+o Código Civil lhes reconhece uma progressiva ampliação de autonomia. Também são
+considerados relativamente incapazes os ébrios habituais (dipsômanos ou alcoólatras)
+e  os viciados  em  tóxicos  (toxicômanos).  Destaque-se  que  não  basta  o  consumo
+
+eventual ou mesmo frequente para subtrair da pessoa a plena capacidade, exigindo-se,
+isso sim, que o vício comprometa de modo contínuo a sua capacidade de condução da
+própria vida, fazendo-se necessária a assistência por um terceiro para a realização
+dos atos civis. A impossibilidade, permanente ou transitória, de exprimir a vontade
+figurava,  até  o  ano  de  2015,  entre  as  causas  de  incapacidade  absoluta. A  razão  é
+intuitiva: não é possível assistir alguém incapaz de exprimir qualquer vontade, sendo
+necessário que essa pessoa seja representada por outra. É o caso, por exemplo, da
+pessoa em estado de coma. Nada obstante, impulsionado pelo ímpeto de afastar o
+estigma  da  incapacidade  absoluta,  o  Estatuto  da  Pessoa  com  Deficiência  (Lei  n.
+13.146/2015)  converteu  a  hipótese  em  causa  de  incapacidade  meramente  relativa,
+ensejando  alguma  perplexidade  entre  os  civilistas.  Para  atribuir  uma  proteção
+adequada  a  tais  pessoas,  deverá  se  reconhecer  ao  “assistente”  (curador)  efetivos
+poderes de representação, permitindo sua atuação em nome do incapaz. Ademais, o
+inciso III deve ser interpretado de modo a abarcar apenas a efetiva impossibilidade
+fática  de  manifestação  da  vontade,  excluindo  as  situações  em  que  o  processo  de
+formação da vontade seja afetado por qualquer razão. É que, de acordo com o art. 6º
+do Estatuto da Pessoa com Deficiência, “a deficiência não afeta a plena capacidade
+civil da pessoa”. Assim, a pessoa com deficiência mental ou intelectual é reputada
+por lei plenamente capaz. Trata-se de mais uma inovação que recebeu duras críticas
+de parte significativa da doutrina civilista, convicta de que, na prática, a alteração
+p
+[/PAGINA 19]
+
+[PAGINA 20]
+ode  implicar  verdadeira  “desproteção”  da  pessoa.  Com  efeito,  a  deficiência
+intelectual pode se manifestar em diferentes intensidades, podendo comprometer de
+modo  tão  severo  o  discernimento  da  pessoa  que  algum  regime  protetivo  será
+necessário. A  possibilidade  de  instituição  de  curatela  da  pessoa  com  deficiência,
+prevista no art. 84, § 1º, do Estatuto, não parece suficiente para oferecer uma proteção
+satisfatória, pois não afeta a validade dos atos praticados anteriormente ao decreto da
+curatela.  O  artigo  em  comento  também  atribui  incapacidade  relativa  aos pródigos,
+assim entendidos aqueles que dilapidam o próprio patrimônio desordenadamente. A
+adequação do enquadramento da prodigalidade como causa de incapacidade já era
+questionada ao tempo da edição do Código de 1916, mas acabou sendo mantida pelo
+legislador de 2002. A incapacidade dos pródigos, no entanto, se limita aos atos de
+
+disposição excessiva, que excedam a normal administração de bens, comprometendo
+de modo severo o patrimônio da pessoa. Por fim, em relação à capacidade dos índios,
+o  parágrafo  único  do  artigo  em  comento  reconhece  a  especificidade  da  matéria,
+remetendo a regulação para lei especial. Nesse campo, merece destaque o Estatuto do
+Índio (Lei n. 6.001/1973), que submete os índios ainda não integrados à comunhão
+nacional a um regime tutelar (art. 7º), estabelecendo a nulidade dos “atos praticados
+entre o índio não integrado e qualquer pessoa estranha à comunidade indígena quando
+não  tenha  havido  assistência  do  órgão  tutelar  competente”  (art.  8º).  Garante-se  a
+qualquer  índio,  contudo,  a  possibilidade  de  requerer,  mediante  o  atendimento  de
+determinados requisitos, sua liberação do regime tutelar, investindo-o na plenitude da
+capacidade civil (art. 9º).
+ JURISPRUDÊNCIA COMENTADA: Questão reiteradamente enfrentada pelos
+Tribunais e que já chegou ao STJ diz respeito à da capacidade das pessoas idosas. A
+jurisprudência tem acertadamente afirmado que o simples fato da idade avançada não
+interfere  na  plena  capacidade  da  pessoa,  que  tem  como  pedra  de  toque  o  seu
+discernimento: “A condição de idoso e o acometimento de doença incurável à época
+da celebração do contrato de convivência, por si, não é motivo de incapacidade para
+o  exercício  de  direito  ou  empecilho  para  contrair  obrigações,  quando  não  há
+elementos  indicativos  da  ausência  de  discernimento  para  compreensão  do  negócio
+jurídico  realizado.  Com  o  aumento  da  expectativa  de  vida  do  povo  brasileiro,
+conforme pesquisa do IBGE, com a notória recente melhoria na qualidade de vida dos
+idosos e, com os avanços da medicina, não é razoável afirmar que a pessoa maior de
+60 anos não tenha capacidade para praticar os atos da vida civil. Afirmar o contrário
+afrontaria diretamente o princípio da dignidade da pessoa humana e o da igualdade”
+(STJ, REsp 1.383.624/MG, 3.ª Turma, Rel. Min. Moura Ribeiro, j. 02.06.2015). O
+mesmo raciocínio se
+[/PAGINA 20]
+
+[PAGINA 21]
+aplica ao analfabetismo, como também já decidiu o STJ: “Não
+padece  de  ineficácia  a  procuração  outorgada  pelo  recorrente  em  face  do
+analfabetismo, condição que não lhe retira a capacidade para os atos da vida civil,
+nos termos dos arts. 3º e 4º do CC” (STJ, REsp 1.111.676/PB, 5.ª Turma, Rel. Min.
+Arnaldo Esteves Lima, j. 19.11.2005).
+
+Art. 5º A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática
+de todos os atos da vida civil.
+Parágrafo único. Cessará, para os menores, a incapacidade:
+I – pela concessão dos pais, ou de um deles na falta do outro, mediante instrumento público,
+independentemente  de  homologação  judicial,  ou  por  sentença  do  juiz,  ouvido  o  tutor,  se  o
+menor tiver dezesseis anos completos;
+II – pelo casamento;
+III – pelo exercício de emprego público efetivo;
+IV – pela colação de grau em curso de ensino superior;
+V – pelo estabelecimento civil ou comercial, ou pela existência de relação de emprego, desde
+que, em função deles, o menor com dezesseis anos completos tenha economia própria.
+ COMENTÁRIOS DOUTRINÁRIOS: Ao completar 18 anos, a pessoa ingressa
+na maioridade, completando o desenvolvimento necessário para, de acordo com a lei,
+poder realizar de modo completamente autônomo os atos da vida civil, atingindo a
+capacidade plena. Este limite etário era de 21 anos na codificação anterior, mas foi
+reduzido  atendendo  às  críticas  de  parcela  da  doutrina  no  sentido  de  que  a  vida
+contemporânea,  especialmente  com  o  desenvolvimento  das  tecnologias  de
+comunicação,  proporciona  aos  jovens  acesso  a  um  volume  maior  de  informações,
+justificando a cessação antecipada da incapacidade. Note-se, contudo, que “a redução
+do  limite  etário  para  a  definição  da  capacidade  civil  aos  18  anos  não  altera  o
+disposto  no  art.  16,  I,  da  Lei  n.  8.213/1991,  que  regula  específica  situação  de
+dependência  econômica  para  fins  previdenciários  e  outras  situações  similares  de
+proteção, previstas em legislação especial” (Enunciado n. 3 da I Jornada de Direito
+Civil). A emancipação consiste na aquisição da plena capacidade civil antes da idade
+legal. O parágrafo único do artigo em comento enuncia as hipóteses nas quais o menor
+poderá  ser  emancipado,  sendo  a  emancipação  classificada  pela  doutrina  em:  a)
+voluntária; b) judicial; e c) legal. A emancipação voluntária é aquela concedida por
+ambos os pais, no exercício do poder familiar, não se submetendo à homologação
+judicial. Com o reconhecimento da possibilidade de multiparentalidade pelo STF (RE
+898.060, j. 22.09.2016), essa regra deve ser interpretada como exigindo a concessão
+por todos os pais, não bastando dois deles. Na falta de um dos pais (ou seja, em caso
+de  falecimento,  ausência,  perda  do  poder  familiar  etc.),  poderá  ser  concedida  por
+
+apenas um deles, ou melhor, sem a anuência do pai faltante. A falta não se confunde
+com a recusa de um dos pais em conceder a emancipação, hipótese
+[/PAGINA 21]
+
+[PAGINA 22]
+na qual aqueles
+que  desejam  emancipar  o  filho  deverão  buscar  o  suprimento  da  vontade  do  pai
+discordante  em  juízo  (art.  1.631,  parágrafo  único).  Em  razão  dos  efeitos  perante
+terceiros,  a  lei  exige  a  adoção  de  instrumento  público. A emancipação judicial  é
+aquela concedida pelo magistrado ao menor sob tutela. A lei não confere ao tutor o
+poder de emancipar o menor. O pupilo que desejar ser emancipado deverá buscar o
+Poder Judiciário, em procedimento de jurisdição voluntária (art. 725, I, do CPC) que
+deverá contar com a oitiva do tutor. Uma vez concedida a emancipação, cessa a tutela
+(art. 1.763, I, do CC). Nas modalidades voluntária e judicial, exige-se que o menor
+tenha  16  anos  completos.  Uma  vez  concedida  a  emancipação,  ela  será,  em  regra,
+irretratável, admitindo-se, contudo, seu desfazimento caso constatado algum vício de
+vontade: “A emancipação por concessão dos pais ou por sentença do juiz está sujeita
+à desconstituição por vício de vontade” (Enunciado n. 397 da V Jornada de Direito
+Civil). Por outro lado, a emancipação legal é aquela que se opera automaticamente
+por força dos fatos elencados nos incisos II a V. Impõe-se, portanto, examinar mais
+detidamente  tais  fatos.  O casamento  se  revela  incompatível  com  a  incapacidade,
+entendendo o legislador que a condução da vida familiar requer uma maior autonomia
+dos  consortes.  A  constituição  de  união  estável,  por  sua  vez,  não  afeta  a
+(in)capacidade de seus integrantes, pois, tratando-se de situação fática, não é dotada
+da mesma publicidade do casamento, o que impede, em teoria, que produza efeitos
+que repercutem sobre a esfera de terceiros (por exemplo, aqueles que contratam com
+o menor). A meu ver, contudo, se os companheiros tiverem realizado a publicização
+da união estável por meio de registro no livro “E” do Registro Civil das Pessoas
+Naturais, conforme autorizou, a partir de 2014, o Provimento 37 do CNJ, não há razão
+para deixar de aplicar, analogicamente, aos companheiros, o disposto no inciso II do
+artigo  em  comento.  O  exercício  de emprego  público  efetivo,  ou  seja,  o  vínculo
+profissional  da  pessoa  com  a  Administração  Pública,  direta  ou  indireta,  seja  em
+emprego público (vínculo contratual, regido pela CLT) ou em cargo público (regime
+estatutário) também faz cessar a incapacidade do menor. Se o Estado reconhece a
+aptidão  da  pessoa  para  ingressar  no  serviço  público  deverá,  por  coerência,
+
+reconhecê-la  em  suas  demais  relações  sociais.  O  vínculo  com  a  administração,
+contudo, deve ser dotado de efetividade, não se operando a emancipação nos casos de
+cargo em comissão ou de contratos temporários, por exemplo. Essa modalidade de
+emancipação é rara, em razão dos limites etários impostos pelos diversos regimes
+jurídicos aplicáveis aos cargos e empregos públicos. Outra hipótese de emancipação
+indicada no artigo é a colação de grau em ensino superior, presumindo-se que, neste
+estágio do processo educ
+[/PAGINA 22]
+
+[PAGINA 23]
+acional, a pessoa já terá amealhado conhecimento suficiente
+para gerir a própria vida. Em razão do tempo necessário para a conclusão do ensino
+básico e, depois, do ensino superior, dificilmente essa situação se verifica na prática.
+Cessará a incapacidade, ainda, pelo ingresso do menor em uma relação de emprego
+ou pelo “estabelecimento civil ou comercial”. Com esta expressão, o Código se refere
+à exploração de atividade econômica pelo menor, sem a relação de subordinação que
+caracteriza o contrato de trabalho. Será o caso do menor empresário individual ou
+profissional  liberal.  Note-se  que  a  referência  a  estabelecimento  “civil”  ou
+“comercial”,  já  constante  do  Código  anterior,  revela-se  anacrônica,  superada  pela
+parcial unificação das relações obrigacionais operada pelo próprio Código Civil de
+2002, revogando parte substancial do Código Comercial de 1850, bem como pela
+adoção da teoria da empresa (CC, arts. 966 e ss.), em detrimento da teoria dos atos de
+comércio.  Exige  a  lei,  em  ambos  os  casos  descritos  no  inciso  V,  dois  requisitos
+cumulativos para que se opere a emancipação: a) ter o menor 16 anos completos e b)
+que o desenvolvimento de suas atividades lhe permita ter uma economia própria, ou
+seja,  obter  proveitos  suficientes  para  seu  sustento.  O  exercício  da  atividade
+econômica (com ou sem subordinação), que requer dedicação e seriedade, aliada à
+autonomia financeira, evidencia a efetiva capacidade do menor. Há que se destacar
+que a cessação superveniente do estado de fato autorizativo da emancipação (como
+ocorre, por exemplo, no caso de divórcio, exoneração do cargo público ou demissão
+do menor empregado) não reverte o menor emancipado à condição de incapaz: uma
+vez adquirida a “autonomia” necessária para a plena capacidade, esta se perpetua,
+salvo verificação de causa específica de incapacitação (por exemplo, a embriaguez
+habitual). Destaque-se, por fim, que a emancipação faz cessar a incapacidade, mas
+não antecipa a maioridade. Vale dizer: continuam incidindo sobre o emancipado as
+
+regras  cujo  suporte  fático  seja  especificamente  sua  idade,  e  não  sua  capacidade.
+Justamente por isso, esclarece o Enunciado n. 530 da VI Jornada de Direito Civil que
+“a  emancipação,  por  si  só,  não  elide  a  incidência  do  Estatuto  da  Criança  e  do
+Adolescente”.
+ JURISPRUDÊNCIA COMENTADA: No tocante à responsabilidade civil, tem
+entendido o STJ que “a emancipação voluntária, diversamente da operada por força
+de lei, não exclui a responsabilidade civil dos pais pelos atos praticados por seus
+filhos menores” (STJ, AgRg no Ag 1.239.557/RJ, 4.ª Turma, Rel. Min. Maria Isabel
+Gallotti, j. 09.10.2012). Trata-se de interpretação que busca evitar que os pais se
+utilizem da emancipação como meio de afastar a responsabilidade civil que lhes é
+legalmente imposta pelos atos do filho.
+Art.  6º  A  existência  da  pessoa  natural  termina  com  a  morte;  presume-se  esta,  quanto  aos
+ausentes, nos casos em que a lei au
+[/PAGINA 23]
+
+[PAGINA 24]
+toriza a abertura de sucessão definitiva.
+ COMENTÁRIOS DOUTRINÁRIOS: O fim da personalidade se dá com a morte
+da pessoa natural, segundo o disposto no art. 6º do Código Civil. Precisar o momento
+da  morte  não  é,  contudo,  tarefa  simples. A  doutrina  mais  recente  se  inclina  pelo
+momento  da  morte  cerebral,  também  chamada  morte  encefálica.  O  entendimento
+favorece  a  técnica  dos  transplantes,  de  capital  importância  na  sociedade
+contemporânea,   e   tempera   alguns   efeitos   tormentosos   do   extraordinário
+desenvolvimento  tecnológico  dos  meios  de  prolongamento  artificial  da  vida.  Com
+efeito, esse critério foi adotado pela Lei n. 9.434/1997, ao dispor que “a retirada post
+mortem de tecidos, órgãos ou partes do corpo humano destinados a transplante ou
+tratamento  deverá  ser  precedida  de  diagnóstico  de  morte  encefálica,  constatada  e
+registrada por dois médicos não participantes das equipes de remoção e transplante,
+mediante a utilização de critérios clínicos e tecnológicos definidos por resolução do
+Conselho  Federal  de  Medicina”.  Há  determinadas  situações  nas  quais  há  dúvida
+sobre  o  falecimento  ou  não  de  certa  pessoa,  optando  a  legislação,  diante  de
+determinadas circunstâncias qualificadoras, por presumir a sua morte. É o que ocorre,
+entre outros casos (ver comentários ao art. 7º), nas hipóteses em que a lei, diante da
+
+ausência, autoriza a abertura de sucessão definitiva: após dez anos do trânsito em
+julgado da sentença que concede a abertura da sucessão provisória (art. 37) e quando
+o ausente possui oitenta anos ou mais, datando de cinco anos as últimas notícias dele
+(art. 38).
+Art. 7º Pode ser declarada a morte presumida, sem decretação de ausência:
+I – se for extremamente provável a morte de quem estava em perigo de vida;
+II – se alguém, desaparecido em campanha ou feito prisioneiro, não for encontrado até dois anos
+após o término da guerra.
+Parágrafo único. A declaração da morte presumida, nesses casos, somente poderá ser requerida
+depois de esgotadas as buscas e averiguações, devendo a sentença fixar a data provável do
+falecimento.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  Direito  Brasileiro  não  admite  a
+chamada morte civil, prática aceita entre os romanos, que consistia na privação da
+personalidade  de  pessoa  ainda  viva,  a  título  de  punição.  Muito  diversa  é  a  morte
+presumida, que o Código Civil brasileiro admite em determinadas situações nas quais
+há  dúvida  sobre  o  falecimento  ou  não  de  certa  pessoa.  Seu  propósito  consiste
+exclusivamente em facilitar a vida de familiares próximos, permitindo, por exemplo, a
+celebração  de  novo  casamento  e  a  sucessão  nos  bens  do  desaparecido.  O  art.  6º,
+conforme já analisado, presume a morte do ausente nos casos em que a lei autoriza a
+abertura da sua sucessão definitiva. O presente artigo, por sua vez, trata das situações
+que a morte é presumida independentemente da decretação da ausência da pessoa. A
+presunção se
+[/PAGINA 24]
+
+[PAGINA 25]
+operará, em primeiro lugar, sobre aquelas pessoas que sabidamente se
+encontravam  em  perigo  de  vida,  mas,  desconhecendo-se  o  desfecho  da  situação,
+afigura-se  extremamente  provável  a  sua  morte.  Também  se  presumirá,  em  caso  de
+guerra,  a  morte  da  pessoa  desaparecida  em  campanha  militar  ou  feita  prisioneira.
+Nesse caso, a lei estabelece um prazo de dois anos após o término da guerra para que
+se presuma a morte. A declaração da morte presumida somente pode ocorrer após a
+realização  de  esforços  significativos  para  a  localização  da  pessoa  desaparecida,
+evitando os transtornos decorrentes de uma possível declaração precipitada. Exige-
+se, em resguardo à segurança jurídica, que a sentença judicial que declare a morte
+presumida fixe a data do provável falecimento. Recorde-se que a presunção consiste
+
+em  mero  expediente  de  facilitação  probatória:  uma  vez  constatado  que  a  pessoa
+presumida morta se encontra viva, afastam-se imediatamente os efeitos jurídicos da
+“morte”. Solução diversa, negando o reconhecimento de personalidade a pessoa ainda
+viva,  afrontaria  gravemente  a  dignidade  da  pessoa  humana.  Relevante  efeito
+patrimonial decorrente da morte é a sucessão dos bens do falecido, que passam a seus
+herdeiros.  Admitir  que  o  retorno  do  presumidamente  morto  pudesse  a  qualquer
+momento  desfazer  a  transmissão  da  titularidade  do  patrimônio  implicaria  grave
+insegurança jurídica. De outro lado, parece excessivamente severo privar a pessoa de
+reaver  os  seus  bens  em  qualquer  circunstância.  Daí  parcela  da  doutrina  admitir  a
+aplicação analógica do art. 39 do Código Civil, que disciplina os efeitos patrimoniais
+do retorno do ausente após a sucessão provisória (quando, por força do art. 6º, passa
+também a ser presumidamente morto), permitindo que aquele que regressou nos dez
+anos seguintes à presunção de morte obtenha dos herdeiros a devolução dos bens no
+estado  em  que  se  encontram:  “Os  efeitos  patrimoniais  da  presunção  de  morte
+posterior à declaração da ausência são aplicáveis aos casos do art. 7º, de modo que,
+se o presumivelmente morto reaparecer nos dez anos seguintes à abertura da sucessão,
+receberá igualmente os bens existentes no estado em que se acharem” (Enunciado n.
+614 da VIII Jornada de Direito Civil).
+Art. 8º Se dois ou mais indivíduos falecerem na mesma ocasião, não se podendo averiguar se
+algum dos comorientes precedeu aos outros, presumir-se-ão simultaneamente mortos.
+ COMENTÁRIOS DOUTRINÁRIOS: A comoriência é a morte de duas ou mais
+pessoas em uma mesma ocasião. Quando isto ocorre, não se podendo determinar qual
+a ordem em que faleceram, o Código Civil presume, de modo relativo, que morreram
+simultaneamente. A regra tem importante aplicação em casos de acidentes aéreos e
+outras catástrofes que vitimam membros da mesma família, impedindo que se dê a
+sucessão entre os comorientes, o que poderia produzir resultados diversificados sobre
+os herdeiros sobreviven
+[/PAGINA 25]
+
+[PAGINA 26]
+tes. Embora o dispositivo se refira ao falecimento “na mesma
+ocasião”, seu objetivo é disciplinar a questão da dúvida sobre o tempo da morte, daí
+não se exigir que os óbitos tenham uma causa comum, podendo se dar em contextos
+absolutamente  distintos,  bastando  que  não  se  possa  “averiguar  se  algum  dos
+
+comorientes precedeu aos outros”.
+Art. 9º Serão registrados em registro público:
+I – os nascimentos, casamentos e óbitos;
+II – a emancipação por outorga dos pais ou por sentença do juiz;
+III – a interdição por incapacidade absoluta ou relativa;
+IV – a sentença declaratória de ausência e de morte presumida.
+ COMENTÁRIOS DOUTRINÁRIOS: O Código Civil elenca os fatos jurídicos
+concernentes ao estado civil da pessoa que devem ser registrados em registro público
+– no caso, o Registro Civil de Pessoas Naturais. O registro lhes confere publicidade,
+possibilitando que terceiros possam saber, por exemplo, se a pessoa com quem estão
+contratando é casada ou emancipada, antecipando o reflexo disso sobre a validade do
+negócio celebrado. Facilita, ainda, a prova de tais fatos, permitindo a emissão de
+certidões que atestem sua ocorrência. A questão é regulada pormenorizadamente na
+Lei n. 6.015/1973, a Lei de Registros Públicos, a partir de seu art. 29.
+Art. 10. Far-se-á averbação em registro público:
+I – das sentenças que decretarem a nulidade ou anulação do casamento, o divórcio, a separação
+judicial e o restabelecimento da sociedade conjugal;
+II – dos atos judiciais ou extrajudiciais que declararem ou reconhecerem a filiação;
+III – (Revogado pela Lei n. 12.010, de 2009)
+ COMENTÁRIOS DOUTRINÁRIOS: Além dos fatos que devem ser registrados,
+o  Código  também  elenca  aqueles  que  devem  ser averbados  no  Registro  Civil  de
+Pessoas  Naturais. A  averbação  é  o  assentamento  de  atos  acessórios,  destinados  a
+modificar um registro já realizado, merecendo a mesma publicidade desse último. O
+ato de averbação no RCPN encontra-se disciplinado nos arts. 97 e seguintes da Lei n.
+6.015/1973, a Lei de Registros Públicos. Quanto ao inciso II do artigo em comento,
+que se refere a “atos judiciais ou extrajudiciais que declararem ou reconhecerem a
+filiação”, esclarece o Enunciado n. 272 da IV Jornada de Direito Civil que a adoção
+não pode ser realizada por ato extrajudicial: “Não é admitida em nosso ordenamento
+jurídico a adoção por ato extrajudicial, sendo indispensável a atuação jurisdicional,
+inclusive  para  a  adoção  de  maiores  de  dezoito  anos”.  Trata  do  mesmo  tema  o
+
+Enunciado  n.  273  da IV  Jornada  de  Direito  Civil,  dispondo:  “Tanto  na  adoção
+bilateral quanto na unilateral, quando não se preserva o vínculo com qualquer dos
+genitores originários, deverá ser averbado o cancelamento do registro originário de
+nascimento  do  adotado,  lavrando-se  novo  registro.  Sendo  unilateral  a  adoção,  e
+sempre  que  se  preserve  o  vínculo  originário  com  um  dos  genitores,  deverá  ser
+averbada a substituição do nome do pai ou mãe naturais pelo
+[/PAGINA 26]
+
+[PAGINA 27]
+nome do pai ou mãe
+adotivos”.
+CAPÍTULO II
+DOS DIREITOS DA PERSONALIDADE
+Art.  11.  Com  exceção  dos  casos  previstos  em  lei,  os  direitos  da  personalidade  são
+intransmissíveis e irrenunciáveis, não podendo o seu exercício sofrer limitação voluntária.
+ COMENTÁRIOS DOUTRINÁRIOS: Os direitos da personalidade são aqueles
+direitos  essenciais  à  proteção  e  promoção  da  dignidade  da  pessoa  humana,
+encontrando  seu  fundamento  normativo  nos  arts.  1º,  III,  e  5º  da  Constituição  da
+República. A noção de personalidade, como já mencionado, deve ser considerada sob
+dois aspectos distintos: a) um subjetivo, que se identifica com a capacidade que tem
+toda  pessoa  (física  ou  jurídica)  de  ser  titular  de  direitos  e  obrigações;  e  b)  um
+objetivo, que exprime o conjunto de atributos próprios e exclusivos da pessoa humana
+merecedores de especial proteção da ordem jurídica. Nesse último sentido é que se
+fala em direitos da personalidade. O Código Civil de 2002, diferentemente de seu
+antecessor, passou a dedicar um capítulo aos direitos da personalidade em sua Parte
+Geral. A inserção dos direitos da personalidade na Parte Geral do Código Civil já
+exprime, por si só, admirável evolução em relação ao Código Civil de 1916, que era
+silente sobre a matéria. A inauguração de um capítulo dedicado à proteção da pessoa,
+em seus aspectos essenciais, deve ser interpretada como afirmação do compromisso
+de  todo  o  Direito  Civil  com  a  tutela  e  a  promoção  da  personalidade  humana
+garantidas  pela  Constituição  brasileira.  Em  que  pese  esse  indiscutível  mérito,  o
+tratamento  normativo  dispensado  aos  direitos  da  personalidade  pela  nossa
+codificação afigura-se, em larga medida, insuficiente e anacrônico. De fato, o Código
+
+Civil contempla os direitos da personalidade à imagem e semelhança do paradigma
+dos  direitos  subjetivos,  em  especial  o  direito  de  propriedade,  em  orientação
+largamente equivocada. Além disso, deixa de oferecer parâmetros ao intérprete para
+ponderações diante de outros interesses merecedores de tutela, preferindo soluções
+prontas e acabadas, de caráter puramente estrutural, que dificilmente se conformam à
+realidade  concreta.  Nesse  capítulo,  tratou  a  codificação  dos  seguintes  direitos  da
+personalidade: direito ao próprio corpo, direito ao nome, direito à honra, direito à
+imagem  (embora  apenas  reflexamente)  e  direito  à  privacidade.  A  primeira
+advertência diz respeito ao caráter não taxativo do rol de direitos da personalidade
+contemplados pelo Código Civil. Com efeito, a ausência de previsão no Código Civil
+não impede que outras manifestações da personalidade humana sejam consideradas
+merecedoras de tutela, por força da aplicação direta do art. 1º, III, da Constituição
+(como o direito à identidade pessoal, o direito à integridade psíquica, o direito à
+diferença,  o  direito  ao  esquecimento,  entre  outros),  que  funciona  como  verdadeira
+cláusula geral de tutela da pessoa huma
+[/PAGINA 27]
+
+[PAGINA 28]
+na. Na dicção do Enunciado n. 274 da IV
+Jornada de Direito Civil: “Os direitos da personalidade, regulados de maneira não
+exaustiva pelo Código Civil, são expressões da cláusula geral de tutela da pessoa
+humana, contida no art. 1º, inc. III, da Constituição (princípio da dignidade da pessoa
+humana). Em caso de colisão entre eles, como nenhum pode sobrelevar os demais,
+deve-se aplicar a técnica da ponderação”. O art. 11 inaugura o capítulo de direitos da
+personalidade,  atribuindo-lhes  duas  características:  a intransmissibilidade  e  a
+irrenunciabilidade. Como manifestações essenciais da condição humana, os direitos
+da  personalidade  não  podem  ser  alienados  ou  transmitidos  a  outrem,  quer  por  ato
+entre vivos, quer em virtude da morte do seu titular. Nascem e morrem com aquela
+pessoa, não podendo ser cedidos, doados, emprestados, vendidos ou recebidos por
+herança. Não podem, igualmente, ser objeto de renúncia geral e permanente. Afinal,
+as situações existenciais encontram sua razão de ser na realização do interesse do
+titular, sendo dele indissociável – daí se falar em “titularidade orgânica” dos direitos
+da  personalidade.  Afirma,  ainda,  o  art.  11  que  os  direitos  da  personalidade  não
+podem no seu exercício “sofrer limitação voluntária”. A redação do legislador aqui
+foi infeliz. Celebram-se cotidianamente contratos em que as pessoas concordam com
+
+certas limitações voluntárias ao exercício dos seus direitos da personalidade (como
+em contratos de licenciamento de uso de imagem celebrados por artistas e atletas ou,
+ainda, em contratos celebrados pelos participantes de reality shows que concordam
+em sofrer limitações voluntárias à sua privacidade). Tomado em sua literalidade, o
+dispositivo negaria qualquer efeito ao consentimento do titular no campo dos direitos
+da  personalidade,  representando  uma  restrição  inconstitucional  à  autonomia
+existencial da pessoa humana. O tratamento radical conferido pelo Código deu ensejo
+à  elaboração  de  enunciado  em  sentido  diametralmente  oposto,  aprovado  já  na I
+Jornada de Direito Civil: “O exercício dos direitos da personalidade pode sofrer
+limitação  voluntária,  desde  que  não  seja  permanente  nem  geral”  (Enunciado  n.  4).
+Isso, contudo, não basta: ao lado da duração e do alcance da autolimitação, cumpre
+também  analisar  a  sua  intensidade  (grau  de  restrição  que  impõe  ao  exercício  dos
+direitos da personalidade) e sua finalidade (que deve estar vinculada a um interesse
+direto  e  imediato  do  seu  próprio  titular).  Em  outras  palavras,  compete  ao  jurista,
+através  desses  quatro  parâmetros  (duração,  abrangência,  intensidade  e  finalidade),
+verificar em cada situação concreta a legitimidade das autolimitações ao exercício
+dos direitos da personalidade. Em suma, a autolimitação ao exercício dos direitos da
+personalidade deve ser admitida pela ordem jurídica quando atenda genuinamente ao
+propósito de realização da personalidade do seu titular.
+Art. 12.
+[/PAGINA 28]
+
+[PAGINA 29]
+Pode-se exigir que cesse a ameaça, ou a lesão, a direito da personalidade, e reclamar
+perdas e danos, sem prejuízo de outras sanções previstas em lei.
+Parágrafo único. Em se tratando de morto, terá legitimação para requerer a medida prevista
+neste  artigo  o  cônjuge  sobrevivente,  ou  qualquer  parente  em  linha  reta,  ou  colateral  até  o
+quarto grau.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  presente  artigo  tem  por  objetivo
+reforçar os mecanismos de proteção da pessoa humana no momento patológico da
+violação  dos  direitos  da  personalidade,  autorizando  o  recurso  às  tutelas  a)
+ressarcitória  (indenização  ou  reparação  não  pecuniária  por  danos);  b)  repressiva
+(cessação da lesão); e c) inibitória (cessação da ameaça ou lesão). Apesar disso, o
+debate  em  torno  dos  remédios  cabíveis  evidencia  a  insuficiência  dessas  técnicas,
+
+calcadas no binômio lesão-sanção, para propiciar a proteção integral que se deve
+dispensar à dignidade humana. É papel do intérprete não se ater somente às previsões
+estabelecidas no dispositivo, mas extrair do ordenamento meios adequados não só
+para proteger a pessoa humana, mas também para, na medida do possível, promover a
+sua dignidade na realidade brasileira. O parágrafo único do dispositivo em comento
+trata,  por  sua  vez,  de  assunto  tecnicamente  delicado:  a  tutela  dos  direitos  de
+personalidade após a morte. Não há dúvida de que, com a morte, a personalidade em
+sentido subjetivo (aptidão para adquirir direitos e obrigações) se extingue. Mas o que
+ocorre  com  a  personalidade  em  sentido  objetivo,  assim  entendido  o  conjunto  de
+atributos essenciais da pessoa humana? Extingue-se com a pessoa? Se não se extingue,
+tampouco se transmite a quem quer que seja, já que é intransmissível por definição
+(art.  11).  A  ofensa  fica,  então,  sem  consequência?  Diante  desses  impasses,  o
+legislador optou por solução pragmática, atribuindo aos herdeiros legitimação para
+requerer  medidas  destinadas  a  fazer  cessar  a  lesão  ou  ameaça  aos  direitos  da
+personalidade do morto. Não se trata de uma concessão fantasmagórica, destinada a
+preservar a existencialidade do morto, mas de norma ditada pelo interesse social. Os
+direitos da personalidade projetam-se além da vida do seu titular. O atentado à honra
+do morto não repercute, por óbvio, sobre a esfera existencial da pessoa já falecida,
+mas  produz  efeitos  no  meio  social.  Deixar  sem  consequência  uma  violação  desse
+direito poderia não apenas causar conflitos com familiares e admiradores do morto,
+mas  também  contribuir  para  um  ambiente  de  baixa  efetividade  dos  direitos  da
+personalidade.  O  direito  quer  justamente  o  contrário:  proteção  máxima  para  os
+atributos  essenciais  à  condição  humana.  Daí  a  necessidade  de  se  proteger post
+mortem  a  personalidade,  como  valor  objetivo,  reservando  a  outras  pessoas  uma
+extraordinária legitimidade para pleitear a adoção das medidas necessárias a inibir,
+interromp
+[/PAGINA 29]
+
+[PAGINA 30]
+er  ou  remediar  a  violação.  No  que  se  refere  aos  legitimados  para  tal
+medida, tema que é objeto do parágrafo único do artigo em comento, o legislador
+parece ter se apegado excessivamente ao rol dos herdeiros, pensado e construído sob
+a  ótica  patrimonial.  A  postura  cria  abertura  para  uma  invocação  oportunista  de
+direitos da personalidade por parte de parentes que, algumas vezes, não perseguem
+nada mais que o próprio enriquecimento. Nesses casos, trata-se de exercício abusivo
+
+da faculdade concedida pelo Código Civil, que deve ser sempre empregada de acordo
+com  aquele  que  seria,  em  vida,  o  interesse  do  falecido.  Além  disso,  deixou  de
+mencionar  entre  os  legitimados  o  companheiro,  limitando-se  ao  “cônjuge
+sobrevivente”, o que não tem impedido a doutrina de reconhecer, acertadamente, sua
+legitimidade: “O rol dos legitimados de que tratam os arts. 12, parágrafo único, e 20,
+parágrafo único, do Código Civil também compreende o companheiro” (Enunciado n.
+275 da IV Jornada de Direito Civil).
+ JURISPRUDÊNCIA COMENTADA: Ao se referir à possibilidade de o lesado
+“reclamar perdas e danos” pela violação a direito da personalidade, o Código parece
+limitar  a  tutela  reparatória  dos  danos  morais  ao  pagamento  de  indenizações  em
+dinheiro. Com efeito, no Direito Brasileiro, despatrimonializou-se o dano, mas não
+ainda a reparação. A lesão a um interesse extrapatrimonial continua recebendo uma
+única  resposta  na  imensa  maioria  dos  casos:  a  indenização  em  dinheiro,  remédio
+típico  de  uma  abordagem  econômica  do  dano.  Essa  dualidade  entre  dano  moral  e
+indenização  em  dinheiro  não  gera  apenas  dificuldades  de  quantificação,  mas
+sobretudo propaga nas vítimas o sentimento de impunidade, vinculado à percepção de
+quem  pode  pagar  pode  causar  danos.  Daí  o  surgimento,  nos  últimos  anos,  de  um
+movimento de despatrimonialização não do dano, mas da sua reparação. Doutrina e
+jurisprudência  têm  se  associado  na  criação  e  no  desenvolvimento  de  meios  não
+pecuniários  de  reparação  do  dano  moral,  como  a  retratação  pública,  a  retratação
+privada e a veiculação de notícia da decisão judicial. Tais meios, esclareça-se, não
+necessariamente substituem ou eliminam a indenização em dinheiro, mas podem se
+somar a ela no sentido de reparar tanto quanto possível o dano moral sofrido pela
+vítima.  E,  por  menos  importantes  que  pareçam  à  primeira  vista,  os  meios  não
+pecuniários  assumem  muitas  vezes  mais  efetividade  na  satisfação  da  vítima  e  na
+pacificação  dos  conflitos  sociais.  Exemplo  interessante  se  extrai  da  recente
+jurisprudência do Supremo Tribunal Federal, em caso que discutia o dever do Estado
+de indenizar presos em condições degradantes. O Ministro Luís Roberto Barroso, em
+seu voto, ponderou que “diante do caráter estrutural e sistêmico das graves disfunções
+verificadas no sistema prisional brasileiro, a entrega de uma indenização em dinheiro
+
+confere
+[/PAGINA 30]
+
+[PAGINA 31]
+uma resposta pouco efetiva aos danos morais suportados pelos detentos, além
+de drenar recursos escassos que poderiam ser empregados na melhoria das condições
+de encarceramento. É preciso, assim, adotar um mecanismo de reparação alternativo,
+que confira primazia ao ressarcimento in natura ou na forma específica dos danos,
+por meio da remição de parte do tempo de execução da pena, em analogia ao art. 126
+da  Lei  de  Execução  Penal.  A  indenização  em  pecúnia  deve  ostentar  caráter
+subsidiário, sendo cabível apenas nas hipóteses em que o preso já tenha cumprido
+integralmente a pena ou não seja possível aplicar-lhe a remição”. Propôs, então, que
+se adotasse como fórmula preferencial de compensação pelos danos morais sofridos a
+“remição  de  1  dia  de  pena  por  cada  3  a  7  dias  de  pena  cumprida  em  condições
+atentatórias  à  dignidade  humana”.  Embora  a  proposta  não  tenha  sido,  por  razões
+específicas daquele caso, acolhida pelo plenário, contou com a adesão dos Ministros
+Luiz Fux e Celso de Mello (STF, RE 580.252/MS, j. 16.02.2017), exprimindo avanço
+significativo  em  direção  à  abertura  da  jurisprudência  brasileira  à  reparação  não
+pecuniária de danos morais nos casos em que tal remédio se revele adequado.
+Art. 13. Salvo por exigência médica, é defeso o ato de disposição do próprio corpo, quando
+importar diminuição permanente da integridade física, ou contrariar os bons costumes.
+Parágrafo único. O ato previsto neste artigo será admitido para fins de transplante, na forma
+estabelecida em lei especial.
+ COMENTÁRIOS DOUTRINÁRIOS: O tratamento jurídico reservado ao corpo
+humano sofreu, ao longo da História, profunda influência do pensamento religioso.
+Visto, por muitos séculos, como uma dádiva divina, o corpo humano era considerado
+como merecedor de uma proteção superior aos desígnios individuais. O pensamento
+moderno  rompeu  com  essa  perspectiva,  recolocando  gradativamente  a  integridade
+corporal  no  campo  da  autonomia  do  sujeito.  Nesse  sentido,  passou-se  a  falar  em
+“direito ao próprio corpo”, expressão que procura enfatizar que o corpo deve atender
+à realização da própria pessoa, e não aos interesses de qualquer entidade abstrata,
+como  a  Igreja,  a  família  ou  o  Estado.  A  Constituição  brasileira  de  1988,  em
+particular, reconhece o direito do ser humano à integridade psicofísica em uma série
+de dispositivos. Alguns ainda passam muito ao largo da realidade nacional, como o
+
+comando do art. 5º, inciso XLIX, que assegura “aos presos o respeito à integridade
+física e moral”. Há longos caminhos a serem percorridos para se atribuir efetividade
+à tutela física e psíquica do ser humano, especialmente quando se pensa na população
+de  rua,  nos  moradores  de  comunidades  dominadas  pelo  crime  e  na  população
+carcerária.  O  Código  Civil  de  2002  poderia  ter  contribuído  de  modo  mais
+significativo  para  esse  propósito.  Limitou-se,  contudo,  a  contemplar  o  direito  à
+integridade  psicofí
+[/PAGINA 31]
+
+[PAGINA 32]
+sica  sob  um  único  aspecto:  a  prática  de  atos  de  disposição  do
+corpo humano. Em outras palavras, a codificação veio cuidar tão somente da relação
+entre a proteção ao corpo e a vontade do seu titular, procurando determinar em quais
+circunstâncias pode uma pessoa “dispor”, no todo ou em parte, do seu próprio corpo.
+Reproduziu, assim, um paradigma antigo, centrado sobre o liberalismo jurídico. Em
+relação ao conteúdo da norma estampada no art. 13, três críticas importantes devem
+ser  formuladas.  Primeiramente,  ao  autorizar  qualquer  disposição  do  próprio  corpo
+por “exigência médica”, o art. 13 parece elevar a recomendação clínica a um patamar
+superior a qualquer avaliação ética ou jurídica. O termo “exigência” sugere um rigor
+terapêutico nem sempre presente em intervenções socialmente aceitas e amplamente
+difundidas,  como  as  cirurgias  plásticas  puramente  embelezadoras  e  os  tratamentos
+estéticos definitivos (depilação permanente etc.). Daí a sugestão da doutrina de uma
+interpretação mais abrandada da expressão: “A expressão ‘exigência médica’ contida
+no  art.  13  refere-se  tanto  ao  bem-estar  físico  quanto  ao  bem-estar  psíquico  do
+disponente” (Enunciado n. 6 da I Jornada de Direito Civil). Em segundo lugar, ao
+vedar  a  disposição  do  próprio  corpo  que  importe  “diminuição  permanente  da
+integridade  física”,  o  preceito  sugere, a contrario sensu,  que  estariam  autorizadas
+reduções não permanentes, o que se mostra extremamente perigoso. Interpretando-se
+de  modo  literal  o  dispositivo,  as  inserções  de microchips  subcutâneos  e  outros
+mecanismos removíveis seriam considerados lícitos no Direito Brasileiro, mesmo que
+com finalidade puramente comercial. Além disso, resta consagrada, por via indireta, a
+ideia de que as partes regeneráveis do corpo humano merecem menor proteção do que
+as  irrecuperáveis,  protegendo-se  apenas  estas  últimas  contra  os  impulsos  da
+autonomia privada. Tal concepção é perigosa e tem feito estrada especialmente no
+que diz respeito ao tratamento jurídico reservado às chamadas partes destacadas do
+
+corpo humano, como fio de cabelo, saliva, sêmen. Encaradas tradicionalmente como
+res derelicta, tais partículas carregam, hoje, a intimidade mais profunda da pessoa,
+representada pelo seu código genético (DNA). Por último, o artigo elege a noção de
+“bons  costumes”,  ideia  vaga  e  imprecisa,  como  critério  limitador  do  exercício  da
+autonomia corporal, o que pode causar sérias dificuldades em um terreno que sofre
+decisiva influência de inovações tecnológicas e científicas. Em uma sociedade plural,
+conceder aptidão proibitiva a uma noção tão imprecisa como a de “bons costumes”
+implica frear atitudes que podem vir a configurar modos inovadores de expressão
+artística,  de  manifestação  intelectual  ou  de  simples  entretenimento  (pense-se  nas
+performances artísticas que utilizam o corpo, por vezes de modo extremo; em casos
+de body modification; ou, ainda, em modalidades des
+[/PAGINA 32]
+
+[PAGINA 33]
+portivas extremas que implicam
+ferimentos frequentes como os torneios de mixed-martial arts). O parágrafo único do
+dispositivo  autoriza  expressamente  a  disposição  do  próprio  corpo  para  fins  de
+transplante,  remetendo  a  sua  regulamentação  para  lei  especial.  Trata-se  da  Lei  do
+Transplante (Lei n. 9.434/1997), que versa sobre a “doação” de órgãos tanto em vida
+quanto post mortem. A legislação em questão impõe diversos requisitos específicos à
+“doação”,  muitos  deles  capazes,  inclusive,  de  inviabilizar  o  procedimento  (ver
+comentários  ao  art.  14).  Por  exemplo,  no  que  tange  às  “doações”  em  vida  para
+pessoas que não sejam cônjuges ou parentes do doador, a Lei n. 10.211 alterou o art.
+9º da Lei n. 9.434 para passar a exigir a autorização judicial, dispensada apenas em
+caso de medula óssea. Não se faz necessário advertir para o caráter emergencial das
+situações que exigem a disposição de órgãos e tecidos, incompatíveis, por definição,
+com a necessidade de prévia aprovação formal por parte do Poder Judiciário.
+ JURISPRUDÊNCIA COMENTADA: Acusada  de  corrupção  de  menores  em
+seu país, a cantora mexicana Gloria Trevi foi detida no Brasil. Enquanto aguardava
+extradição para o México, descobriu-se grávida na carceragem da Polícia Federal,
+onde não tinha direito a receber visitas íntimas. O fato foi divulgado pela imprensa e
+gerou especulações de corrupção e até de um possível estupro por parte dos agentes
+federais  brasileiros,  suscitando  ainda  a  inusitada  tese  de  que  teria  havido  uma
+inseminação artificial por meio de uma caneta. Gloria se recusou expressamente a
+
+realizar o exame de DNA que revelaria a paternidade da criança. Ainda assim, viu
+sua placenta coletada no momento do parto e congelada para a posterior realização do
+exame, tudo com a chancela do Supremo Tribunal Federal, que, no caso, prestigiou os
+“bens jurídicos constitucionais como ‘moralidade administrativa’, ‘persecução penal
+pública’  e  ‘segurança  pública’  que  se  acrescem  –  como  bens  da  comunidade,  na
+expressão de Canotilho – ao direito fundamental à honra (art. 5º, X, da CF), bem
+assim  direito  à  honra  e  à  imagem  de  policiais  federais  acusados  de  estupro  da
+extraditanda,  nas  dependências  da  Polícia  Federal,  e  direito  à  imagem  da  própria
+instituição,  em  confronto  com  o  alegado  direito  da  reclamante  à  intimidade  e  a
+preservar a identidade do pai de seu filho” (Rcl 2.040 QO/DF, Tribunal Pleno, Rel.
+Min. Neri da Silveira, j. 21.02.2002). Casos assim evidenciam a necessidade de se
+redimensionar  a  proteção  legal  reservada  às  partes  destacadas  do  corpo.  Na
+contramão  do  art.  13  do  Código  Civil,  as  diminuições  físicas  não  permanentes
+assumem uma importância cada vez maior, diante de sua utilidade para procedimentos
+como a fecundação in vitro, o mapeamento genético e até mesmo a clonagem.
+Art. 14. É válida, com objetivo científico, ou altruístico, a disposição gratuita do próprio cor
+[/PAGINA 33]
+
+[PAGINA 34]
+po, no
+todo ou em parte, para depois da morte.
+Parágrafo único. O ato de disposição pode ser livremente revogado a qualquer tempo.
+ COMENTÁRIOS DOUTRINÁRIOS: Após tratar da disposição do corpo em
+vida, o Código Civil disciplina a sua disposição post mortem. Ao contrário do que
+fez ao tratar da disposição de órgãos em vida (art. 13, parágrafo único), a codificação
+eximiu-se  de  remeter  a  regulação  da  disposição post mortem  para  a  lei  especial.
+Pode-se concluir, portanto, que avocou para si o tratamento da matéria. O dispositivo
+exige  a  gratuidade  do  ato  de  disposição,  afastando  qualquer  possibilidade  de
+exploração econômica do cadáver. Vai além o dispositivo em comento, vinculando a
+validade do ato à persecução de um objetivo científico ou altruístico. Cogita-se, no
+primeiro caso, da transferência do corpo para universidades, a fim de viabilizar o
+estudo e pesquisa por alunos das áreas biomédicas. Já no segundo, tem-se em mira os
+transplantes de órgãos após a morte, disciplinados pela Lei n. 9.434/1997, a Lei do
+Transplante. O art. 4º da referida Lei prevê que “a retirada de tecidos, órgãos e partes
+
+do  corpo  de  pessoas  falecidas  para  transplantes  ou  outra  finalidade  terapêutica,
+dependerá da autorização do cônjuge ou parente, maior de idade, obedecida a linha
+sucessória,  reta  ou  colateral,  até  o  segundo  grau  inclusive,  firmada  em  documento
+subscrito por duas testemunhas presentes à verificação da morte”. O dispositivo é
+regulamentado  pelos  arts.  20  e  21  do  Decreto  n.  9.175/2017,  que,  confirmando  a
+orientação  adotada  pela  lei,  exigem  que  o  consentimento  livre  e  esclarecido  dos
+familiares seja expressamente consignado em um termo específico de autorização. No
+entanto, exigir autorização de cônjuge ou parente, firmada em documento subscrito por
+duas testemunhas presentes à verificação da morte, é impor burocracia que dificulta
+ao extremo a via já tormentosa do transplante post mortem. Pior: como restou vetado
+o  parágrafo  único  que  dispensava  a  autorização  dos  familiares  para  a  retirada  de
+órgãos diante de registro feito em vida pelo próprio falecido, a nova redação criada
+pela Lei n. 10.211 tem sido interpretada no sentido de que o aval da família se faz
+necessário mesmo nos casos em que o morto tenha deixado expressa autorização para
+o  transplante.  Tal  interpretação  subordina  a  autonomia  corporal  do  indivíduo  à
+vontade de terceiros, atribuindo a cônjuges e parentes um inusitado “direito sobre o
+corpo alheio”, capaz de prevalecer mesmo contra a vontade do falecido. Trata-se de
+grave atentado contra o valor constitucional da dignidade humana, que pressupõe a
+plena autodeterminação individual em tudo aquilo que não gere risco para si ou para a
+coletividade. Esta interpretação revela-se, em uma palavra, inconstitucional. Deve-se,
+a meu ver, recorrer nessa matéria ao próprio art. 14 do Código Civil, que permite uma
+construção  interpretativa  mais  compatível  com  os
+[/PAGINA 34]
+
+[PAGINA 35]
+valores  constitucionais.  Isso
+porque, embora não tenha chegado a revogar expressamente a legislação especial, o
+art. 14 reconheceu sem qualquer ressalva a validade do ato de disposição gratuita do
+próprio corpo “para depois da morte”, com fins altruísticos. Não exigiu, vale dizer, o
+aval dos familiares. Como o Código Civil de 2002 é norma posterior à Lei n. 10.211,
+de  2001,  o  reconhecimento  irrestrito  de  validade  da  manifestação  da  vontade  do
+“doador” deve assumir algum efeito inovador na ordem jurídica. Não se pode admitir
+que  o  legislador  tenha  trazido  regra  nova  desprovida  de  qualquer  utilidade
+simplesmente  para  confirmar  o  que  a  lei  especial  já  afirmava.  É  possível,  nessa
+direção, entender que o art. 14 da codificação inova em relação ao tecido legislativo
+
+anterior, tornando válido o ato praticado em vida pela pessoa humana com vistas à
+disposição  gratuita  do  próprio  corpo  para  depois  da  morte,  independentemente  de
+qualquer requisito adicional. O ato praticado em vida pelo falecido vale, portanto,
+mesmo sem o consentimento de cônjuges ou parentes, ou qualquer outra formalidade
+prevista no texto atual da Lei n. 9.434. Com isso, o art. 4º da Lei n. 9.434 passa a ter
+sua incidência limitada àqueles casos em que, não tendo havido manifestação em vida
+do doador, não seja possível aplicar o reconhecimento incondicional de validade do
+art. 14 do Código Civil. Em tais hipóteses, e apenas em tais hipóteses, dependerá de
+autorização  dos  familiares  o  transplante  de  órgãos,  tecidos  ou  partes  do  corpo  do
+falecido – já aí sem qualquer prevalência sobre a vontade do falecido, que jamais se
+exteriorizara num ou noutro sentido. Trata-se de interpretação acolhida expressamente
+pelo Enunciado n. 277 da IV Jornada de Direito Civil: “O art. 14 do Código Civil, ao
+afirmar a validade da disposição gratuita do próprio corpo, com objetivo científico
+ou  altruístico,  para  depois  da  morte,  determinou  que  a  manifestação  expressa  do
+doador  de  órgãos  em  vida  prevalece  sobre  a  vontade  dos  familiares,  portanto,  a
+aplicação  do  art.  4º  da  Lei  n.  9.434/1997  ficou  restrita  à  hipótese  de  silêncio  do
+potencial  doador”.  O  parágrafo  único  do  artigo  em  comento  explicita  a  livre
+revogabilidade do ato de disposição pelo titular do direito ao corpo, não se admitindo
+que qualquer pessoa seja obrigada a dispor do seu direito à integridade física por
+força de declaração de vontade unilateral pretérita.
+Art. 15. Ninguém pode ser constrangido a submeter-se, com risco de vida, a tratamento médico
+ou a intervenção cirúrgica.
+ COMENTÁRIOS DOUTRINÁRIOS: O art. 15 dá continuidade ao tratamento do
+direito ao corpo. Incorre, contudo, em imprecisão redacional. Ao afirmar que ninguém
+pode ser constrangido a submeter-se a tratamento médico ou intervenção cirúrgica,
+“com risco de vida”, o legislador sugere, a contrario sensu, que, não havendo risco
+de vida, qualquer pessoa poderia ser constrangida
+[/PAGINA 35]
+
+[PAGINA 36]
+a tratamentos médicos contrários à
+sua vontade. A despeito do que sugere o art. 15 do Código Civil, não há dúvida de
+que  compelir  pessoa  consciente  a  se  submeter,  contra  a  sua  vontade,  a  tratamento
+médico ou a intervenção cirúrgica, mesmo sem risco de vida, é conduta vedada, em
+
+regra, pelo ordenamento brasileiro. Toda a produção jurídica das últimas décadas em
+matéria  de  responsabilidade  médica  tem  se  concentrado  sobre  a  necessidade  de
+obtenção  da  concordância  do  paciente  para  qualquer  espécie  de  tratamento.  Em
+oposição à cultura paternalista que presidiu, no passado, a relação médico-paciente,
+tem-se  ressaltado  cada  vez  mais  a  necessidade  de  participação  do  enfermo  nas
+decisões concernentes ao seu tratamento. Enfatiza-se, ademais, que tal participação
+não  se  restringe  a  uma  autorização  genérica  para  a  realização  dos  procedimentos
+médicos necessários ou dirigidos à cura, mas importa no consentimento informado
+em relação a cada passo ou etapa da terapia. Somente em casos excepcionalíssimos,
+resultantes  da  ponderação  com  outros  interesses  constitucionalmente  protegidos,
+poderá haver a submissão de pessoa a tratamento médico compulsório. É o caso das
+campanhas de vacinação obrigatória para prevenir epidemias ou, ainda, da internação
+compulsória  imposta  judicialmente  a  criminosos  que  sofrem  de  certos  distúrbios
+psiquiátricos, instituídos com foco na tutela do direito à saúde do próprio paciente e
+da coletividade. Afora hipóteses dessa natureza, o consentimento do paciente deve ser
+sempre buscado, fornecendo-se a ele, de modo claro e palatável, toda a informação
+relevante sobre o tratamento e seus potenciais efeitos, positivos ou negativos, além de
+alternativas eventualmente disponíveis. Esta a concepção que restou consagrada no
+Enunciado n. 533 da VI Jornada de Direito Civil, ao dispor: “O paciente plenamente
+capaz poderá deliberar sobre todos os aspectos concernentes a tratamento médico que
+possa  lhe  causar  risco  de  vida,  seja  imediato  ou  mediato,  salvo  as  situações  de
+emergência ou no curso de procedimentos médicos cirúrgicos que não possam ser
+interrompidos”.
+ JURISPRUDÊNCIA  COMENTADA:  Religião  que  conta  com  numerosos
+adeptos no território brasileiro, as Testemunhas de Jeová não podem, consoante sua
+crença, receber transfusão de sangue. Apesar disso, muitos de seus seguidores acabam
+sendo  submetidos  contra  sua  vontade  a  procedimentos  de  transfusão,  após  serem
+sedados por médicos ou enfermeiros em hospitais e clínicas de todo o país. A prática,
+que pode resultar aos olhos do paciente em uma condenação divina ao tormento, vem
+quase sempre justificada com base em um direito do próprio paciente: o direito à
+
+vida. Diversos julgados acolhem esta tese, como se vê, a título ilustrativo, do seguinte
+acórdão do TJSP: “Em que pesem as convicções religiosas da apelante que, frise-se,
+lhe  são  asseguradas  constitucionalmente,  a  verdade  é  que  o  que  deve
+[/PAGINA 36]
+
+[PAGINA 37]
+prevalecer,
+acima de qualquer credo, religião, é o bem maior tutelado pela Constituição Federal,
+a vida. Ora, sendo o direito à vida o principal direito individual, o bem jurídico de
+maior  relevância  tutelado  pela  ordem  constitucional,  à  evidência  que  os  demais
+direitos  individuais  dependem  de  sua  existência.  De  que  valeria  a  Constituição
+Federal tutelar direitos como a liberdade, igualdade, integridade moral, entre outros,
+sem  que  fosse  assegurado  o  direito  à  vida?”  (TJSP,  Apelação  9131552-
+72.1999.8.26.0000,  3.ª  Câmara  de  Direito  Privado,  Rel.  Des.  Flavio  Pinheiro,  j.
+07.05.2002). Embora possa consistir em uma opção legítima do ponto de vista moral
+ou  filosófico,  a  alegada  supremacia  do  direito  à  vida  não  encontra  qualquer
+fundamento jurídico em nosso sistema normativo. A Constituição de 1988 não reserva
+tratamento  privilegiado  à  vida  em  face  de  outros  interesses  pessoais.  Menciona  o
+direito à vida no art. 5º, juntamente com tantos outros direitos como a igualdade, a
+segurança, a propriedade e a própria liberdade religiosa. Tal liberdade não abrange
+apenas o aspecto positivo, ou seja, a permissão para a realização de atos que atendam
+aos preceitos de cada religião, mas também o aspecto negativo, consubstanciado no
+direito  de  recusa  à  prática  de  atos  que  possam  implicar  violação  às  crenças  da
+pessoa.  Como  se  vê,  nosso  texto  constitucional  eximiu-se  de  estabelecer  qualquer
+hierarquia entre a vida e outros direitos individuais. Papel prioritário reservou, isso
+sim, à dignidade da pessoa humana, eleita como fundamento da República no art. 1º,
+inciso  III,  da  Constituição.  Assim,  os  direitos  individuais  são  protegidos  apenas
+enquanto  e  na  medida  em  que  se  dirigem  à  promoção  da  dignidade  humana.
+Intolerável, portanto, que uma Testemunha de Jeová seja compelida, contra a sua livre
+manifestação  de  vontade,  a  receber  transfusão  de  sangue,  com  base  na  pretensa
+superioridade  do  direito  à  vida  sobre  a  sua  liberdade  de  crença.  Note-se  que  a
+priorização  da  vida  representa,  ela  própria,  uma  “crença”,  já  que  não  encontra
+amparo  em  nossa  Constituição,  refletindo,  muitas  vezes,  convicções  científicas  e
+religiosas da comunidade médica, em detrimento das convicções do próprio paciente.
+A  vontade  do  paciente  deve  ser  respeitada,  porque  assim  determina  a  tutela  da
+
+dignidade  humana,  valor  fundamental  do  ordenamento  jurídico  brasileiro.  Também
+esta concepção, que se afigura mais adequada à luz da ordem constitucional, encontra
+reflexo em nossa jurisprudência: “A postulante é pessoa capaz, está lúcida e desde o
+primeiro  momento  em  que  buscou  atendimento  médico  dispôs,  expressamente,  a
+respeito de sua discordância com tratamentos que violem suas convicções religiosas,
+especialmente a transfusão de sangue. Impossibilidade de ser a recorrente submetida a
+tratamento médico com o qual não concor
+[/PAGINA 37]
+
+[PAGINA 38]
+da e que para ser procedido necessita do
+uso  de  força  policial.  Tratamento  médico  que,  embora  pretenda  a  preservação  da
+vida,  dela  retira  a  dignidade  proveniente  da  crença  religiosa,  podendo  tornar  a
+existência  restante  sem  sentido.  Livre-arbítrio.  Inexistência  do  direito  estatal  de
+‘salvar a pessoa dela própria’, quando sua escolha não implica violação de direitos
+sociais  ou  de  terceiros.  Proteção  do  direito  de  escolha,  direito  calcado  na
+preservação da dignidade, para que a agravante somente seja submetida a tratamento
+médico  compatível  com  suas  crenças  religiosas”  (TJRS,  Agravo  de  Instrumento
+70032799041, 12.ª Câmara Cível, Rel. Des. Cláudio Baldino Maciel, j. 06.05.2010).
+No  intuito  de  contribuir  para  a  solução  destes  casos,  o  Enunciado  n.  403  da V
+Jornada de Direito Civil sugere critérios para o controle de legitimidade da recusa:
+“O Direito à inviolabilidade de consciência e de crença, previsto no art. 5º, VI, da
+Constituição Federal, aplica-se também à pessoa que se nega a tratamento médico,
+inclusive transfusão de sangue, com ou sem risco de morte, em razão do tratamento ou
+da falta dele, desde que observados os seguintes critérios: a) capacidade civil plena,
+excluído o suprimento pelo representante ou assistente; b) manifestação de vontade
+livre,  consciente  e  informada;  e  c)  oposição  que  diga  respeito  exclusivamente  à
+própria pessoa do declarante”.
+Art. 16. Toda pessoa tem direito ao nome, nele compreendidos o prenome e o sobrenome.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  art.  16  do  Código  Civil  inicia  o
+tratamento do direito ao nome, esclarecendo de modo didático a sua composição por
+prenome e sobrenome (também referido como patronímico). A disciplina jurídica do
+nome abrange três aspectos: a) o direito de ter um nome, que é, na verdade, um poder-
+
+dever, já que, por força do caráter compulsório do registro de nascimento, ninguém
+pode deixar de ostentar um nome como signo que o identifica no meio social; b) o
+direito  de  interferir  no  próprio  nome,  que  é  a  faculdade  de  obter  a  alteração  do
+próprio nome nas hipóteses em que a lei assim autoriza; e, por fim, c) o direito de
+impedir o uso indevido do próprio nome por terceiros (presentes nos arts. 17 e 18). O
+Código Civil de 2002, no artigo em comento, reforça o primeiro desses aspectos, qual
+seja,  a  ideia  de  poder-dever  do  nome.  Compreendido,  historicamente,  como
+instrumento  necessário  para  garantir  a  segurança  coletiva  por  meio  da  precisa
+identificação de cada indivíduo no meio social, o nome foi regulado no Brasil como
+verdadeira questão de Estado. Na esteira das normas que lhe antecederam, a Lei de
+Registros  Públicos  (Lei  n.  6.015,  de  31.12.1973)  declarou  a  obrigatoriedade  do
+registro do nascimento, com a indicação de nome composto de prenome e sobrenome.
+O referido diploma legislativo acolheu como regra geral a imutabilidade do nome,
+salvo raras exceções relacionadas a em
+[/PAGINA 38]
+
+[PAGINA 39]
+endas e alterações previstas expressamente
+naquela lei e subordinadas à autorização judicial. A concepção rígida do nome, como
+sinal  distintivo  imodificável,  foi  sendo  gradativamente  temperada  pela  legislação
+brasileira. Permite-se, hoje, a alteração em um conjunto variado de hipóteses, que
+abrange  a)  a  retificação  da  grafia  do  nome  em  virtude  do  erro  no  registro,  b)  a
+tradução do nome estrangeiro em casos de naturalização, c) a alteração do prenome
+suscetível de expor o seu titular ao ridículo, d) a alteração ou substituição do prenome
+com a inclusão de apelido público notório, e) a alteração do nome em virtude de
+adoção, f) a alteração do nome no primeiro ano após a maioridade civil desde que
+não prejudique os nomes de família, g) a possibilidade de adoção do sobrenome de
+padrasto ou madrasta, e assim por diante. O nome deixa, assim, de ser uma imposição
+do  destino,  cuja  alteração  restava  vedada  pela  ordem  jurídica,  para  se  tornar
+progressivamente um espaço de autonomia existencial da pessoa humana. O Código
+Civil, contudo, perdeu a oportunidade de consagrar o nome como verdadeiro espaço
+de autodeterminação da pessoa, ampliando as hipóteses de sua alteração por vontade
+do   seu   titular. Direito  à  identidade  pessoal.  Contemporaneamente,  tem-se
+reconhecido que à pessoa humana deve-se resguardar o direito de ter associado a seu
+nome aquilo que lhe diz respeito e, do mesmo modo, de não ter vinculados a si fatos
+
+ou coisas que nada digam consigo. Trata-se de enxergar o direito ao nome em uma
+nova perspectiva, mais ampla e mais substancial, que pode ser denominada de direito
+à identidade pessoal, abrangendo não só o nome como também os diferentes traços
+pelos quais a pessoa humana vem representada no meio social. Em um cenário de
+massificação  das  relações  sociais  e  padronização  dos  procedimentos  adotados  em
+todas  as  searas  da  vida  civil,  o  ser  humano  raramente  é  contemplado  em  sua
+particularidade única e genuína. O ritmo acelerado da vida contemporânea estimula a
+apreensão meramente parcial dos fatos e também das pessoas. A pessoa humana, em
+sua  imensa  complexidade,  acaba  representada  sempre  de  modo  apressado,
+incompleto, provisório e, não raro, falso. O direito à identidade pessoal não surge aí
+como  mero  instrumento  de  reação  a  violações  pontuais  ou  como  remédio  para
+momentos patológicos. Atua também de modo promocional, estimulando o encontro
+do ser humano com a sua autêntica identidade.
+ JURISPRUDÊNCIA COMENTADA: Evidenciando o indissociável nexo entre
+nome  e  identidade  pessoal,  o  Supremo  Tribunal  Federal,  em  decisão  histórica,
+decidiu que “(1) O transgênero tem direito fundamental subjetivo à alteração de seu
+prenome e de sua classificação de gênero no registro civil, não se exigindo para tanto
+nada  além  da  manifestação  de  vontade  do  indivíduo,  o  qual  poderá  exercer  tal
+faculdade tanto pela via judicial como diretamente pela via administrativa.
+[/PAGINA 39]
+
+[PAGINA 40]
+(2) Essa
+alteração deve ser averbada à margem do assento de nascimento, vedada a inclusão
+do  termo  ‘transgênero’.  (3)  Nas  certidões  do  registro  não  constará  nenhuma
+observação sobre a origem do ato, vedada a expedição de certidão de inteiro teor,
+salvo  a  requerimento  do  próprio  interessado  ou  por  determinação  judicial.  (4)
+Efetuando-se o procedimento pela via judicial, caberá ao magistrado determinar, de
+ofício ou a requerimento do interessado, a expedição de mandados específicos para a
+alteração dos demais registros nos órgãos públicos ou privados pertinentes, os quais
+deverão  preservar  o  sigilo  sobre  a  origem  dos  atos”  (STF,  Tribunal  Pleno,  ADI
+4.275, j. 1º.03.2018 e RE 670.422, j. 15.08.2018). Com efeito, a função do registro
+civil é dar segurança à vida em sociedade. Um registro civil que atribua a uma pessoa
+atributos que ela não ostenta na vida social é um registro “falso”, “errado”, que exige
+
+retificação. Nome e gênero devem ser vistos não como estados registrais imutáveis ou
+verdades superiores ao seu titular, mas como um espaço essencial de realização da
+pessoa humana. O condicionamento da retificação à realização de procedimentos de
+adequação  do  sexo  sobrepõe  indevidamente  uma  suposta  verdade  biológica  aos
+valores  fundantes  da  ordem  jurídica,  calcados  na  dignidade  humana.  Na  citada
+decisão da ADI 4.275, o STF não se limitou a extirpar a injustificável exigência de
+cirurgia.  Afastou,  ainda,  a  possibilidade  de  qualquer  exigência  referente  a  idade,
+perícia médica ou outros limites que pudessem obstar a tutela do direito à identidade.
+Nessa  esteira,  a  maioria  da  Corte  concluiu  ser  desnecessário  que  o  pedido  de
+retificação fosse realizado pela via judicial, podendo ser apresentado diretamente em
+cartório.  Ponderou-se  que,  na  ausência  de  requisitos  para  a  alteração,  a  atuação
+jurisdicional ficaria esvaziada, nada impedindo que o oficial do registro civil suscite
+o  procedimento  de  dúvida,  submetendo  a  apreciação  da  matéria  a  um  magistrado.
+Assegurou-se,  por  fim,  o  sigilo  em  relação  ao  procedimento,  de  modo  que  os
+documentos  retificados  não  podem  fazer  referência  às  alterações,  expondo  a
+intimidade  da  pessoa  transgênero.  Na  esteira  da  decisão  do  STF,  foi  editado  o
+Provimento  n.  73/2018  do  CNJ,  que  dispõe  sobre  a  averbação  da  alteração  do
+prenome e do gênero nos assentos de nascimento e casamento de pessoa transgênero
+no  Registro  Civil  das  Pessoas  Naturais,  de  modo  a  viabilizar  o  cumprimento  da
+decisão.
+Art.  17.  O  nome  da  pessoa  não  pode  ser  empregado  por  outrem  em  publicações  ou
+representações  que  a  exponham  ao  desprezo  público,  ainda  quando  não  haja  intenção
+difamatória.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Há  na  redação  do  art.  17  evidente
+confusão  entre  o  direito  ao  nome  e  o  direito  à  honra.  O  direito  ao  nome  possui
+autonomia e sua tutela não pode ficar
+[/PAGINA 40]
+
+[PAGINA 41]
+a depender da configuração de uma lesão à
+honra  ou  a  qualquer  outro  atributo  da  personalidade.  Já  a  exposição  de  qualquer
+pessoa “ao desprezo público” é vedada por afetar seu direito à honra, sendo evidente
+que o uso do nome assume, na redação do dispositivo, o caráter de mero instrumento
+da violação a outro atributo da personalidade. O direito à honra é consagrado pela
+
+Constituição da República em seu art. 5º, inciso X, ao lado de outros direitos da
+personalidade.  No  âmbito  infraconstitucional,  é  marcante  a  atenção  que  o  Código
+Penal dispensa ao tema, regulando especificamente os crimes de injúria, calúnia e
+difamação. Esse enfoque penal influenciou de modo inegável a tutela civil da honra. O
+Código Civil de 2002, como seu antecessor, emprega, em inúmeras oportunidades, os
+termos injúria, calúnia e difamação, tomando por empréstimo as noções do direito
+penal. Da doutrina penalista advém, ainda, a distinção entre a) honra objetiva, assim
+entendida a reputação de que goza a pessoa no meio social; e b) honra subjetiva,
+consubstanciada  no  sentimento  que  a  própria  pessoa  ostenta  em  relação  à  sua
+integridade moral. No direito penal, a honra subjetiva é associada ao crime de injúria,
+enquanto  a  honra  objetiva  é  o  bem  lesado  pelos  crimes  de  calúnia  e  difamação,
+extraindo-se  da  distinção  importantes  consequências  na  disciplina  jurídica  desses
+delitos.  Os  civilistas  abraçam  a  dicotomia,  dando-lhe  novos  usos,  como  casos  de
+indenização por dano moral à pessoa jurídica, por exemplo, com base em reportagens
+que relatam fatos falsos, afetando a reputação da pessoa jurídica na sociedade (ver
+comentários  ao  art.  52). Além  da  confusão  entre  dois  direitos  autônomos,  deve-se
+atentar para o risco de interpretação literal do dispositivo. Não é verdade que o nome
+de  uma  pessoa  não  pode  ser  empregado  em  publicações  ou  representações  que  a
+exponham ao desprezo público. A liberdade de informação, por exemplo, autoriza o
+uso de nome alheio para relatar fatos de interesse público e pode ocorrer que tais
+fatos,  embora  reflexos  de  uma  situação  verdadeira,  acabem  por  expor  a  pessoa  a
+desprezo público, como ocorre no caso das reportagens que denunciam situações de
+corrupção  ou  outros  delitos.  Também  aqui  o  legislador  parece  ter  optado  por  um
+enunciado  normativo  de  aparência  garantista  e  aplicação  simples,  mas  não  logrou
+solucionar diversos problemas que dizem respeito ao direito à honra e ao nome na
+atualidade,  especialmente  aqueles  decorrentes  de  sua  colisão  com  a  liberdade  de
+informação.
+Art. 18. Sem autorização, não se pode usar o nome alheio em propaganda comercial.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  propósito  do  legislador  no  presente
+
+artigo foi impedir que alguém obtenha benefícios econômicos com base na utilização
+do nome alheio. Aqui, a codificação parece ter se deixado levar pelo patrimonialismo
+que  marcou  o  Código  Civil  de  1916.
+[/PAGINA 41]
+
+[PAGINA 42]
+Todo  o  problema  do  uso  indevido  do  nome
+aparece reduzido à sua repercussão econômica. A expressa coibição do uso do nome
+alheio em uma única hipótese (uso em propaganda comercial) sugere que, nos demais
+casos,  a  autorização  é  dispensada,  o  que  não  corresponde  à  melhor  orientação  na
+matéria. Muito ao contrário, é preciso estabelecer interpretação em que não se limite
+a vedação a simples “propaganda comercial”. O art. 18 deve ser interpretado, com
+efeito, como norma puramente exemplificativa, destinada a regular apenas uma das
+muitas  situações  em  que  a  utilização  não  autorizada  do  nome  alheio  pode  ser
+considerada indevida. Outras há que não encontram previsão nem no art. 18, nem nos
+demais dispositivos que regulam a tutela do nome, como, por exemplo, o uso não
+autorizado  do  nome  de  alguém  em  propaganda  eleitoral  (não  comercial)  como
+evidência de apoio a determinado candidato. Outro aspecto relevante diz respeito ao
+reconhecimento pelo art. 18 da possibilidade de uso de nome alheio quando houver
+autorização  do  seu  titular.  A  autorização,  que  pode  ser  emitida  gratuitamente  ou
+mediante remuneração, não será válida se assumir caráter geral e irrestrito, devendo o
+consentimento  dirigir-se  sempre  a  situação  específica  e  bem  delimitada.  Como
+limitação  ao  exercício  de  um  direito  da  personalidade,  a  autorização  deve  ser
+interpretada restritivamente, entendendo-se abrangida apenas a utilização com a qual
+tenha havido efetiva concordância do titular. Sem prejuízo disso, a autorização pode
+ser  tácita,  derivando  do  comportamento  inequívoco  do  titular  do  nome,  como  no
+exemplo corriqueiro do passante que responde a uma pergunta formulada por repórter,
+informando,  em  seguida,  o  seu  nome  completo.  Também  aqui,  entretanto,  a
+interpretação há de ser restritiva, tomando-se como autorizado tão somente o uso do
+nome  do  entrevistado  em  relação  ao  fornecimento  daquela  resposta  específica  e
+contextualizada,  sem  que  haja  sugestão  de  associação  a  aspectos  não  abordados
+expressamente na pergunta.
+ JURISPRUDÊNCIA  COMENTADA:  O  famoso  apresentador  de  televisão
+Luciano  Huck  recorreu  ao  Poder  Judiciário  quando  viu  seu  nome  veiculado,  sem
+
+qualquer autorização, no informe publicitário de um lançamento imobiliário de alto
+luxo.  A  construtora  do  imóvel  e  a  sociedade  de  consultoria  responsável  pela
+comercialização das unidades foram citadas para contestar a ação. Em sua defesa,
+alegaram que tinham se limitado a reproduzir matéria jornalística publicada, tempos
+antes, na Revista Veja São Paulo. A matéria dava notícia da concentração de imóveis
+de alto luxo em certa rua da cidade, citando o apresentador Luciano Huck como um
+dos seus ilustres moradores. As rés reproduziram, em anexo ao informe publicitário,
+parte de reportagem, sustentando que, por essa razão, a autorização do mencionado
+era dispensável. O juiz de primeiro grau julgou improcedente
+[/PAGINA 42]
+
+[PAGINA 43]
+o pedido formulado na
+ação  proposta  pelo  apresentador.  Sustentou,  em  síntese,  que  a  situação  não  se
+enquadrava no art. 18 do Código Civil, por falta de vinculação direta e específica
+entre o anúncio e o nome de Luciano Huck. Afirmou, ademais, que o episódio não
+teria  gerado  mais  que  o  mero  aborrecimento  do  autor,  sendo  insuficiente  para  a
+configuração do dano moral. A sentença foi reformada pela 1.ª Câmara de Direito
+Privado do Tribunal de Justiça de São Paulo. Entenderam os Desembargadores que “é
+incontroversa a citação do nome do autor vinculado ao anúncio publicitário veiculado
+pelas  rés.  É  certo  que  o  informe  publicitário  das  rés  apenas  anexou  a  matéria
+jornalística, contendo o nome do autor, já publicada em periódico semanal, mas não
+menos  certo  é  que  tal  inserção  deu  enfoque  comercial  e  econômico  ao
+empreendimento  imobiliário  Brazilian Art.  O  autor  faz  jus  à  indenização  por  uso
+indevido  de  seu  nome”  (Apelação  Cível  9072060-76.2004.8.26.0000,  Rel.  Des.
+Paulo  Eduardo  Razuk,  j.  28.09.2010).  O  acórdão  demonstra,  com  razão,  que  o
+importante não é tanto a forma da utilização do nome alheio, mas a sua finalidade, que
+somente quando exprima outro interesse de igual hierarquia poderá ser invocada para
+dispensar a autorização do titular do nome.
+Art. 19. O pseudônimo adotado para atividades lícitas goza da proteção que se dá ao nome.
+ COMENTÁRIOS DOUTRINÁRIOS: O pseudônimo é um nome fictício criado
+pelo  indivíduo. A  repercussão  marcante  que  o  pseudônimo  pode  assumir  no  meio
+social justifica lhe seja reservada proteção legal idêntica àquela do nome. O uso de
+
+pseudônimo em propaganda comercial ou sua utilização de modo a expor seu titular
+ao desprezo público são práticas vedadas, por força da aplicação conjunta dos arts.
+17, 18 e 19 do Código Civil. Além disso, embora seja livre a criação do pseudônimo,
+deve-se  coibir  a  usurpação  de  pseudônimos  já  estabelecidos  no  meio  social.  No
+termo pseudônimo deve se entender incluída qualquer modalidade de nome fictício
+desenvolvida com finalidade lícita, ainda que tecnicamente distinta do pseudônimo.
+Exemplo  ilustrativo  é  o  da  heteronímia,  que  se  caracteriza  pela  criação  de  vários
+nomes aos quais se atribuem personalidades distintas. Ricardo Reis, Alberto Caeiro e
+Álvaro  de  Campos  não  são  apenas  nomes  fictícios  de  Fernando  Pessoa,  mas
+instrumentos  de  manifestação  artística  de  personalidades  distintas  e,  sob  diversos
+aspectos, contraditórias. Figura diversa do pseudônimo é o apelido, quase sempre,
+produto da iniciativa alheia, que ganha força no meio social, independentemente e às
+vezes até contra a vontade do apelidado. Justamente por essa razão, a lei não estende
+ao apelido a proteção do pseudônimo, nítida manifestação da liberdade intelectual do
+seu titular. Ainda assim, a lei autoriza que quem o desejar inclua no próprio nome o
+apelido,  desde  que  público  e  notório  (art.  58  d
+[/PAGINA 43]
+
+[PAGINA 44]
+a  Lei  n.  6.015).  Desse  modo,  por
+iniciativa do titular, o apelido público notório pode vir a integrar ou mesmo substituir
+o prenome originário, passando a contar com a proteção jurídica que o ordenamento
+reserva  ao  nome.  Embora  esteja  ao  alcance  de  todos,  o  recurso  vem  normalmente
+utilizado por pessoas célebres, cujo apelido assume importância comercial, eleitoral
+ou institucional.
+Art. 20. Salvo se autorizadas, ou se necessárias à administração da justiça ou à manutenção da
+ordem pública, a divulgação de escritos, a transmissão da palavra, ou a publicação, a exposição
+ou a utilização da imagem de uma pessoa poderão ser proibidas, a seu requerimento e sem
+prejuízo da indenização que couber, se lhe atingirem a honra, a boa fama ou a respeitabilidade,
+ou se se destinarem a fins comerciais.
+Parágrafo único. Em se tratando de morto ou de ausente, são partes legítimas para requerer
+essa proteção o cônjuge, os ascendentes ou os descendentes.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  direito  à  imagem  exprime  o  controle
+que cada pessoa detém sobre sua representação externa, abrangendo qualquer tipo de
+reprodução de sua imagem ou de sua voz. O Código Civil, em momento infeliz, tratou
+
+da imagem conjuntamente com a honra, deixando de reconhecer autonomia ao direito à
+imagem. De fato, uma interpretação literal do art. 20 sugere que uma pessoa somente
+poderia se insurgir contra os usos não autorizados da sua imagem se “lhe atingirem a
+honra, a boa fama ou a respeitabilidade, ou se se destinarem a fins comerciais”. A
+proteção da imagem ficaria, assim, dependendo da configuração de uma lesão à honra
+ou  de  uma  finalidade  comercial  do  uso  da  imagem.  Muito  ao  contrário,  a  própria
+Constituição da República reconhece a autonomia do direito à imagem (art. 5º, X). É
+nesse sentido que deve ser lida a Súmula n. 403 do Superior Tribunal de Justiça,
+aprovada em 2009, segundo a qual “independe de prova do prejuízo a indenização
+pela  publicação  não  autorizada  de  imagem  de  pessoa  com  fins  econômicos  ou
+comerciais”. O art. 20 do Código Civil incorre em um segundo equívoco grave: deixa
+de contemplar a frequente colisão entre direito à imagem e liberdade de informação,
+direito fundamental que mais comumente entra em choque com o direito à imagem. Na
+literalidade do art. 20, não seria possível divulgar a imagem de uma pessoa sem sua
+autorização ainda que o fato retratado fosse verídico e houvesse legítimo interesse na
+circulação  da  informação  no  meio  social,  salvo  no  caso  de  ser  necessária  a
+divulgação à administração da justiça ou à manutenção da ordem pública. Por essa
+razão, alguns autores chegaram mesmo a sustentar a inconstitucionalidade do art. 20
+do Código Civil brasileiro, em face das liberdades de expressão e de informação,
+consagradas no art. 5º da Constituição. Independentemente de se aderir ou não à tese
+da inconstitucionalidade do art. 20, o certo é que o Poder Judiciário deve, na análise
+dos  casos  envolvendo  o  us
+[/PAGINA 44]
+
+[PAGINA 45]
+o  indevido  de  imagem,  avaliar  se  está  diante  de  um
+legítimo exercício da liberdade de expressão ou de informação. Havendo, de um lado,
+legítimo exercício da liberdade de expressão ou informação e, de outro lado, uma
+ameaça ou lesão ao direito à imagem, competirá ao magistrado empregar a técnica da
+ponderação, a fim de verificar qual dos dois interesses deve prevalecer à luz das
+circunstâncias fáticas envolvidas. Para auxiliar o Poder Judiciário nessa difícil tarefa,
+a doutrina tem proposto parâmetros para tal ponderação: “A proteção à imagem deve
+ser ponderada com outros interesses constitucionalmente tutelados, especialmente em
+face do direito de amplo acesso à informação e da liberdade de imprensa. Em caso de
+colisão, levar-se-á em conta a notoriedade do retratado e dos fatos abordados, bem
+
+como a veracidade destes e, ainda, as características de sua utilização (comercial,
+informativa, biográfica), privilegiando-se medidas que não restrinjam a divulgação de
+informações” (Enunciado n. 279 da IV Jornada de Direito Civil). O parágrafo único
+do dispositivo tem o mesmo propósito do parágrafo único do art. 12, ou seja, elencar
+os legitimados para a tutela post mortem dos direitos da personalidade. A duplicação
+enseja  perplexidade  especialmente  por  veicular  um  rol  diverso,  excluindo  sem
+qualquer razão aparente os colaterais. Ademais, aplicam-se a este parágrafo único as
+observações e críticas já apresentadas nos comentários ao art. 12.
+ JURISPRUDÊNCIA  COMENTADA:  A  impossibilidade  de  utilização  da
+imagem da pessoa “salvo se autorizada” serviu de fundamento para que, a partir da
+vigência  do  Código  Civil,  setores  importantes  da  sociedade  e  mesmo  diversas
+decisões  judiciais  afirmassem  existir  uma  verdadeira  proibição  de  venda  de
+biografias não autorizadas. A questão, a rigor, se relaciona de modo mais íntimo com
+o  direito  à  privacidade  que  com  o  direito  à  imagem. A  tese  de  que  biografias  só
+podem  circular  se  forem  precedidas  da  autorização  do  biografado  é  uma  tese
+inconstitucional porque faz com que o direito à privacidade prevaleça, a priori e em
+abstrato, sobre a liberdade de expressão. Foi o que reconheceu o Supremo Tribunal
+Federal  no  julgamento  da  ADI  4.815,  ao  conferir  “interpretação  conforme  à
+Constituição  aos  arts.  20  e  21  do  Código  Civil,  sem  redução  de  texto,  para,  em
+consonância  com  os  direitos  fundamentais  à  liberdade  de  pensamento  e  de  sua
+expressão, de criação artística, produção científica, declarar inexigível autorização
+de  pessoa  biografada  relativamente  a  obras  biográficas  literárias  ou  audiovisuais,
+sendo  também  desnecessária  autorização  de  pessoas  retratadas  como  coadjuvantes
+(ou de seus familiares, em caso de pessoas falecidas ou ausentes)” (STF, Tribunal
+Pleno,  Rel.  Min.  Cármen  Lúcia,  j.  10.06.2015).  A  associação  autora  da  ADI
+pretendia, ainda, ver reconhecida a impossibilidade de proibição de circulação
+[/PAGINA 45]
+
+[PAGINA 46]
+de
+livros em razão da tutela da honra ou da privacidade do biografado, o que não restou
+expressamente  acolhido  pela  Corte. Ainda  que  alguns  Ministros  revelem  adotar  o
+entendimento segundo o qual a liberdade de expressão goza de proteção preferencial
+em relação aos direitos da personalidade – na esteira da posição norte-americana
+
+sobre o tema –, a Corte não se definiu a respeito disso. Com efeito, a tese de que uma
+biografia pode tratar de todo e qualquer aspecto da vida privada do biografado, sendo
+eventuais  conflitos  resolvidos  por  meio  de  indenização  posterior  ao  biografado,  é
+uma tese tecnicamente inconstitucional, pois faz com que a liberdade de expressão
+prevaleça a priori e em abstrato sobre a privacidade. A tese da indenização, note-se,
+não representa um “meio-termo” porque, em última análise, permite que a privacidade
+seja violada por quem quer que se disponha a pagar o preço da violação. Ora, o que a
+Constituição assegura a todo cidadão não é o direito a ser indenizado por violações à
+privacidade; é o direito à privacidade em si. A indenização é um remédio subsidiário,
+para quando nada mais funciona; não pode ser o remédio principal para a violação de
+um direito fundamental, protegido pelo Constituinte.
+Art. 21. A vida privada da pessoa natural é inviolável, e o juiz, a requerimento do interessado,
+adotará as providências necessárias para impedir ou fazer cessar ato contrário a esta norma.
+ COMENTÁRIOS DOUTRINÁRIOS: Como a honra e a imagem, a privacidade
+encontra proteção no mais elevado patamar da ordem jurídica. O art. 5º, inciso X, da
+Constituição  alude  expressamente  à  inviolabilidade  da  “intimidade”  e  da “vida
+privada”,  assegurando  “o  direito  a  indenização  pelo  dano  material  ou  moral
+decorrente de sua violação”. Do legislador ordinário esperava-se que desenvolvesse
+o  comando  constitucional,  especificando-o,  de  modo  a  regular  situações  mais
+corriqueiras  e  oferecer  remédios  para  violações  mais  frequentes.  Em  vez  disso,  o
+Código Civil de 2002 preferiu se limitar a repetir, em seu art. 21, que a vida privada
+é  inviolável.  A  redação  não  parece  fazer  jus  à  complexidade  da  questão  da
+privacidade no mundo contemporâneo. A mera observação da vida cotidiana revela a
+violação  sistemática  da  privacidade  e,  em  alguns  casos,  justificadamente  à  luz  da
+ordem jurídica. Por exemplo, o passageiro compelido a permitir a inspeção de sua
+bagagem  de  mão  pelo  raio  X  de  um  aeroporto  tem,  inegavelmente,  violada  a  sua
+privacidade, mas compreenderá facilmente que tal violação justifica-se, na situação
+concreta, pelo direito de todos os passageiros, inclusive o próprio, à segurança nos
+aviões. A  privacidade,  portanto,  se  sujeita,  como  outros  interesses  existenciais,  a
+ponderações  que,  à  luz  das  circunstâncias  concretas,  a  fazem  ora  prevalecer,  ora
+
+assentir com a prevalência de outros interesses que, também voltados à proteção da
+pessoa  humana,  se
+[/PAGINA 46]
+
+[PAGINA 47]
+mostram  dignos  em  abstrato  de  igual  proteção. A  Constituição,
+nesse  particular,  tem  a  peculiar  característica  de  ser  mais  específica  que  a
+codificação, chegando a detalhar instrumentos específicos de tutela da privacidade
+como  o habeas data. A tradição inovadora inaugurada pela concepção do remédio
+heroico  em  pleno  texto  constitucional  foi  interrompida  pelo  Código  Civil,  que
+disciplinou a privacidade com olhos voltados para o passado, deixando sem resposta
+uma  série  de  problemas  debatidos  na  atualidade.  O  direito  à  intimidade  e  à  vida
+privada  são  usualmente  tratados  como  facetas  do  direito  à  privacidade.  Parte  da
+doutrina distingue os termos intimidade  e vida privada, afirmando que a intimidade
+seria  uma  esfera  mais  restrita,  correspondendo  ao  campo  exclusivo  que  alguém
+reserva  para  si  próprio,  a  salvo  de  qualquer  intromissão  social,  enquanto  a  vida
+privada corresponderia a uma esfera mais ampla, que abrangeria também as relações
+pessoais  mantidas  pelo  titular  do  direito.  Nenhum  dos  dois  conceitos  afigura-se
+suficiente para dar conta da amplitude reservada, hoje, ao direito à privacidade, que
+passa a abranger também a faculdade de exercer controle sobre o uso, a circulação e
+o  armazenamento  dos  seus  próprios  dados  pessoais:  “A  tutela  da  privacidade  da
+pessoa humana compreende os controles espacial, contextual e temporal dos próprios
+dados, sendo necessário seu expresso consentimento para tratamento de informações
+que versem especialmente o estado de saúde, a condição sexual, a origem racial ou
+étnica,  as  convicções  religiosas,  filosóficas  e  políticas”  (Enunciado  n.  404  da V
+Jornada de Direito Civil).  Com  efeito,  a  proteção  dos  dados  referentes  à  pessoa
+humana  consiste  em  um  dos  mais  sensíveis  desafios  decorrentes  do  extraordinário
+avanço  tecnológico  ocorrido  nas  últimas  décadas.  A  aprovação  da  Lei  Geral  de
+Proteção de Dados Pessoais (Lei n. 13.709/2018) veio, enfim, inserir o Brasil entre
+os países que contam com instrumentos para a proteção desse importante aspecto do
+direito fundamental à privacidade.
+ JURISPRUDÊNCIA  COMENTADA:  Sempre  associado  ao  direito  à
+privacidade, o chamado direito ao esquecimento tem ganhado destaque na mídia. O
+nome “direito ao esquecimento” induz em erro: não se trata de exigir o esquecimento
+
+de fatos pretéritos, nem de apagar o passado ou reescrever a História. O direito ao
+esquecimento deve ser visto não como direito a eliminar dados históricos (o nome
+esquecimento é, por isso mesmo, a rigor, impróprio), mas como direito da pessoa
+humana  de  se  defender  contra  uma recordação opressiva de fatos pretéritos  que
+podem minar a construção e reconstrução da sua identidade pessoal, apresentando-a à
+sociedade  sob  falsas  luzes,  de  modo  a  fornecer  ao  público  uma  projeção  do  ser
+humano  que  não  corresponde  à  sua  realidade  atual.  Tecnicamente,  o  direito  ao
+es
+[/PAGINA 47]
+
+[PAGINA 48]
+quecimento  é,  portanto,  um  direito  a)  exercido  necessariamente  por  uma  pessoa
+humana, b) em face de agentes públicos ou privados que tenham a aptidão fática de
+promover  representações  daquela  pessoa  sobre  a  esfera  pública  (opinião  social),
+incluindo veículos de imprensa, emissoras de TV, fornecedores de serviços de busca
+na  internet  etc.,  c)  em  oposição  a  uma  recordação  opressiva  dos  fatos,  assim
+entendida a recordação que se caracteriza, a um só tempo, por ser desatual e recair
+sobre  aspecto  sensível  da  personalidade,  comprometendo  a  plena  realização  da
+identidade daquela pessoa humana, ao apresentá-la sob falsas luzes à sociedade. A
+própria  existência  desse  direito  na  ordem  jurídica  brasileira  se  afigura  polêmica,
+sendo certo que parcela considerável da doutrina brasileira entende que simplesmente
+não existe um direito ao esquecimento, que, além de não constar expressamente da
+legislação brasileira, não poderia ser extraído de qualquer direito fundamental, nem
+mesmo do direito à privacidade e à intimidade. Um direito ao esquecimento seria,
+ademais,  contrário  à  memória  de  um  povo  e  à  própria  História  da  sociedade. A
+liberdade  de  informação  prevaleceria  sempre  e a priori. Entendo, contudo, que  a
+Constituição brasileira não permite hierarquização prévia e abstrata entre liberdade
+de  informação  e  privacidade  (da  qual  o  direito  ao  esquecimento  seria  um
+desdobramento).  Figurando  ambos  como  direitos  fundamentais,  não  haveria  outra
+solução  tecnicamente  viável  que  não  a  aplicação  do  método  de  ponderação,  com
+vistas  à  obtenção  do  menor  sacrifício  possível  para  cada  um  dos  interesses  em
+colisão. A jurisprudência do Superior Tribunal de Justiça já reconheceu a existência
+do direito ao esquecimento, afirmando, contudo, se tratar de “um direito de não ser
+lembrado contra sua vontade” (STJ, REsp 1.334.097/RJ, 4.ª Turma, Rel. Min. Luis
+Felipe  Salomão,  j.  28.05.2013).  Tal  interpretação  acaba  por  convertê-lo  em
+
+verdadeiro  direito  de  propriedade  sobre  os  acontecimentos  pretéritos,  caindo  no
+equívoco de aplicar aos direitos da personalidade a lógica proprietária e produzindo
+um poder individual de controle sobre os fatos que não se coaduna com a liberdade
+de  expressão  e  informação,  protegida  constitucionalmente.  A  matéria  aguarda
+posicionamento do Supremo Tribunal Federal no RE n. 1.010.606/RJ, de relatoria do
+Ministro Dias Toffoli. O tema, bem ou mal posto, tangencia diversas outras questões
+polêmicas, como a indexação de resultados por motores de busca da internet.
+CAPÍTULO III
+DA AUSÊNCIA
+SEÇÃO I
+DA CURADORIA DOS BENS DO AUSENTE
+Art. 22. Desaparecendo uma pessoa do seu domicílio sem dela haver notícia, se não houver
+deixado  representante  ou  procurador  a  quem  caiba  administrar-lhe  os  bens,  o  juiz,  a
+requerimento de qualquer interessado ou do Ministério Público, declarará a ausência, e nomear-
+lhe-á curador.
+ COMENTÁ
+[/PAGINA 48]
+
+[PAGINA 49]
+RIOS  DOUTRINÁRIOS:  Ausência  é  o  estado,  declarado  por
+decisão judicial, da pessoa natural que se encontra em lugar incerto e da qual não se
+tem nenhuma notícia por prolongado período de tempo. De longa tradição no Direito
+Civil,  o  instituto  da  ausência  tem  forte  conotação  patrimonial.  Toda  a  minuciosa
+disciplina da ausência é dirigida à transferência da administração e, em seguida, da
+propriedade  dos  bens  do  ausente,  com  o  escopo  de  evitar  que  seu  patrimônio
+permaneça  à  deriva,  suscitando  conflitos  sociais.  Note-se,  nessa  esteira,  que  o
+presente artigo condiciona a declaração de ausência à circunstância de a pessoa não
+haver deixado um representante, procurador ou outra pessoa para administrar seus
+bens e negócios. Sem embargo da forte conotação patrimonial do instituto, o Código
+Civil reconhece que a decretação de ausência produz alguns efeitos que transcendem
+os bens do ausente. Por exemplo, o art. 1.728, I, determina que os filhos menores de
+pais declarados ausentes sejam postos sob tutela. Problema dramático dizia respeito
+
+ao casamento, tendo a doutrina discutido, sob a vigência da codificação anterior, se a
+declaração de ausência rompia ou não o vínculo conjugal. O Código Civil de 1916
+encaminhava-se pela negativa (art. 315). O Código Civil atual inverteu a orientação,
+determinando em seu art. 1.571, § 1º, que a sociedade conjugal extingue-se não apenas
+pela morte efetiva do cônjuge, mas também pela presunção de morte decorrente da
+ausência. No sistema atual, portanto, a abertura da sucessão definitiva opera, de pleno
+direito, o fim do matrimônio. Entretanto, como tal abertura leva mais de dez anos para
+ocorrer (CC, arts. 26 e 37), a via do divórcio, hoje ampla e incondicionada, pode se
+revelar,  em  certos  casos,  um  caminho  mais  efetivo  para  o  cônjuge  do  ausente.
+Verificada  a  presença  de  seus  pressupostos,  a  ausência  deve  ser  reconhecida  por
+sentença  judicial,  de natureza constitutiva  –  vale  dizer,  essencial  para  a  própria
+configuração do estado de ausência – e não meramente declaratória, como poderia
+parecer. O procedimento judicial poderá ser deflagrado por qualquer interessado ou
+mesmo  pelo  Ministério  Público.  Efeito  da  declaração  de  ausência,  conforme  o
+dispositivo em comento, é a nomeação de um curador para administrar os bens do
+ausente. Note-se que, ao contrário da declaração de ausência, a nomeação de curador
+só tem lugar no caso da existência de bens em abandono, uma vez que o propósito da
+curadoria  é  a  gestão  dos  bens  (cura  rei),  e  não  da  pessoa  do  ausente.  O  CPC
+disciplina  o  procedimento  de  jurisdição  voluntária  de  arrecadação  dos  bens  do
+ausente  nos  seus  arts.  744  e  745. A  ausência  ocorre  em  três  fases  sucessivas:  a)
+curadoria dos bens do ausente (arts. 22 a 25); b) sucessão provisória do ausente (arts.
+26 a 36); e c) sucessão definitiva do ausente (arts. 37 a 39). A primeira fase, como
+registrado, será merament
+[/PAGINA 49]
+
+[PAGINA 50]
+e eventual, condicionada à existência dos bens do ausente
+que necessitem de curadoria.
+ JURISPRUDÊNCIA COMENTADA: Não obstante a tônica patrimonialista da
+disciplina  legal  do  instituto,  já  decidiu  o  Superior  Tribunal  de  Justiça,  adotando
+orientação de viés personalista, que “a comprovação da propriedade não é condição
+sine qua non  para  a  declaração  de  ausência”,  de  modo  que  “se  o  ausente  deixa
+interessados em condições de sucedê-lo, em direitos e obrigações, ainda que os bens
+por ele deixados sejam, a princípio, não arrecadáveis, há viabilidade de se utilizar o
+
+procedimento que objetiva a declaração de ausência” (STJ, REsp 1.016.023/DF, 3.ª
+Turma, Rel. Min. Nancy Andrighi, j. 27.05.2008).
+Art.  23.  Também  se  declarará  a  ausência,  e  se  nomeará  curador,  quando  o  ausente  deixar
+mandatário  que  não  queira  ou  não  possa  exercer  ou  continuar  o  mandato,  ou  se  os  seus
+poderes forem insuficientes.
+ COMENTÁRIOS DOUTRINÁRIOS: O art. 22 do Código Civil, como visto,
+condicionou a declaração de ausência à circunstância de a pessoa não haver deixado
+um representante, procurador ou outra pessoa para administrar seus bens e negócios.
+O presente artigo equipara à inexistência de representante as hipóteses de presença de
+representante quando a) este não puder, ou mesmo quiser, exercer a curadoria, ou b)
+não possuir poderes suficientes para exercê-la adequadamente. Em ambos os casos,
+será necessário, além da declaração da ausência, a nomeação de um curador para
+administrar os bens do ausente.
+Art.  24.  O  juiz,  que  nomear  o  curador,  fixar-lhe-á  os  poderes  e  obrigações,  conforme  as
+circunstâncias, observando, no que for aplicável, o disposto a respeito dos tutores e curadores.
+ COMENTÁRIOS DOUTRINÁRIOS: Na decisão em que nomear o curador, o
+juiz  deverá  fixar  seus  deveres  e  obrigações,  que  irão  variar  de  acordo  com  as
+necessidades do caso concreto (por exemplo, os tipos de bens que o ausente possui, o
+tipo de atividade econômica que ele desenvolvia etc.). Atribui-se ao juiz uma ampla
+flexibilidade  na  determinação  dos  poderes  do  curador,  mas  a  lei  determina  a
+observância, naquilo que for compatível, das regras que disciplinam a atuação dos
+tutores e dos curadores (CC, arts. 1.728 a 1.783). A semelhança entre as situações
+jurídicas, que envolvem a atuação sobre a esfera jurídica de um terceiro, no interesse
+deste, recomendam o tratamento similar.
+Art. 25. O cônjuge do ausente, sempre que não esteja separado judicialmente, ou de fato por
+mais de dois anos antes da declaração da ausência, será o seu legítimo curador.
+§  1º  Em  falta  do  cônjuge,  a  curadoria  dos  bens  do  ausente  incumbe  aos  pais  ou  aos
+descendentes, nesta ordem, não havendo impedimento que os iniba de exercer o cargo.
+§ 2º Entre os descendentes, os mais próximos precedem os mais remotos.
+§ 3º Na falta das pessoas mencionadas, compete ao juiz a escolha do curador.
+
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  artigo  em  co
+[/PAGINA 50]
+

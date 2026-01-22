@@ -1,0 +1,3265 @@
+[META]
+TITULO: Curso de Direito Processual Civ
+AUTOR: Humberto Theodoro Junior
+ANO: N/A
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 901-950
+ARQUIVO_ORIGINAL: Curso de Direito Processual Civ - Humberto Theodoro Junior.pdf
+CITACAO_ABNT: JUNIOR, Humberto Theodoro. Curso de Direito Processual Civ.
+[/META]
+
+[PAGINA 901]
+sofreu alguma alteração posterior e quando isso teria se dado.
+O  documento  eletrônico  acompanhado  do  certificado  digital,  emitido  de
+acordo com o ICP-Brasil, presume-se verdadeiro em relação ao seu signatário
+(Medida Provisória 2.200-2/2001, art. 10, § 1º).
+Para a legislação especial, do processo eletrônico, a regra é a mesma: “os
+documentos produzidos eletronicamente e juntados com garantia de origem e de
+
+737.
+seu signatário, na forma estabelecida nesta lei, serão considerados originais para
+todos os efeitos legais” (Lei 11.419/2006, art. 11).
+O  novo  Código  de  Processo  Civil,  por  fim,  reconhece  como  prova,  em
+qualquer processo (eletrônico ou físico), o documento eletrônico, que gozará da
+força de documento particular autêntico quando verificada “sua autenticidade, na
+forma  da  lei”  (arts.  439  a  441).  Ou  seja:  não  se  discute  a  força  probante  do
+documento  eletrônico  emitido  a  partir  do  mecanismo  da  assinatura  digital,
+prevista na Medida Provisória 2.200-2/2001.
+Documento eletrônico não certificado
+O documento eletrônico desacompanhado da certificação digital não perde
+por inteiro sua eficácia probatória. O não uso da assinatura digital não pode alijar,
+por si só, o documento eletrônico do rol dos meios de prova com que conta a
+instrução  processual.  “Cumprirá  ao  juiz  dar  o  valor  que  julgar  o  documento
+merecer”.
+187
+ Em outros termos, dispõe o NCPC que o juiz apreciará o valor
+probante do documento eletrônico, verificando sua autenticidade, na forma da lei
+(arts. 436 e 437). Como o sistema da valoração probatória civil é o da convicção
+formada sobre todo o conjunto dos meios disponíveis nos autos, sem hierarquia
+entre  eles,  é  perfeitamente  possível  que  o  juiz  admita  a  autenticidade  do
+documento eletrônico, ainda quando não tenha sido formado com obediência aos
+requisitos da certificação digital.
+Para tanto, poderá se valer de outras provas capazes de esclarecer a origem
+e  assegurar  a  veracidade  do  documento  eletrônico,  que  não  passou  pelos
+mecanismos  certificatórios  do  ICP-Brasil.  Será  lícito,  por  exemplo,  completar
+sua  avaliação  por  meio  de  perícia  que  ateste  sua  origem  e  inteireza,  ou  que
+demonstre a presença de adulterações.
+A  troca  de  correspondência  entre  os  interessados  e  a  existência  de
+depoimentos  testemunhais  podem  ser  esclarecedoras  acerca  da  realidade  do
+documento digital não certificado. Outro elemento importante para preservar a
+inteireza do documento eletrônico é o recurso à ata notarial, para certificação,
+em dado momento, do conteúdo da mensagem disponibilizada, por exemplo, em
+site da internet. A par disso, a não impugnação do documento pela parte contra
+quem foi produzido nos autos equivale ao reconhecimento de sua autenticidade,
+segundo a regra geral do art. 411, II, do NCPC.
+Em síntese, o regime da prova por documento eletrônico, segundo o novo
+CPC, é o seguinte:
+
+(a) o documento emitido por meio de assinatura digita
+[/PAGINA 901]
+
+[PAGINA 902]
+l, acompanhado de
+certificação nos moldes do ICP-Brasil, equivale a documento particular autêntico
+(art. 439);
+(b) o documento eletrônico formado sem as cautelas da assinatura digital é
+meio de prova, cuja força de convencimento, entretanto, será avaliada dentro
+das circunstâncias do caso concreto;
+(c)  para  a  utilização  do  documento  eletrônico  no  processo  convencional,
+deverá  ele  ser  convertido  à  forma  impressa,  e  submeter-se  à  verificação  de
+autenticidade, na forma da lei (art. 439);
+(d) no processo digital, o documento eletrônico não convertido será avaliado
+pelo  juiz  em  seu  valor  probante,  assegurado  sempre  às  partes  o  acesso  ao
+respectivo teor (não poderá, por exemplo, permanecer cifrado) (art. 440);
+(e)  a  produção  e  conservação  dos  documentos  eletrônicos  utilizados  no
+processo judicial observará a legislação específica (Lei 11.419/2006, arts. 11 e
+12) (art. 441);
+(f) a exibição e o envio de dados e de documentos existentes em cadastros
+públicos, mantidos por entidades públicas, concessionárias de serviço público ou
+empresas privadas, e que contenham informações indispensáveis ao exercício da
+função  judicante,  poderão  ocorrer  por  meio  eletrônico,  se  o  juiz  assim
+determinar (Lei 11.419/2006, art. 13) (art. 425, V); e
+(g) a digitalização de documento físico para uso em processo comum ou
+eletrônico  equivale  a  cópia  reprográfica  (xerox),  devendo  o  original  ser
+conservado pela parte, para conferência em juízo, se ocorrer futura impugnação
+(art. 425, VI e § 1º).
+
+738.
+§ 91. PROVA TESTEMUNHAL
+Sumário: 738. Conceito. 739. Valor probante das testemunhas. 740.
+Inadmissibilidade da prova testemunhal. 741. Direitos e deveres da
+testemunha. 742. A produção da prova testemunhal.
+Conceito
+Prova testemunhal é a que se obtém por meio do relato prestado, em juízo,
+por pessoas que conhecem o fato litigioso. Testemunhas, pois, são – no dizer de
+Paula Batista – “as pessoas que vêm a juízo depor sobre o fato controvertido”.
+188
+Não  podem  ter  interesse  na  causa  e  devem  satisfazer  a  requisitos  legais  de
+capacidade para o ato que vão praticar. Assim, é completa a definição de João
+Monteiro que conceitua a testemunha como “a pessoa, capaz e estranha ao feito,
+chamada a juízo para depor o que sabe sobre o fato litigioso”.
+189
+Não se confunde com o perito, porquanto este informa sobre dados atuais
+extraídos do exame do objeto litigioso, feito após a ocorrência do fato que serviu
+de base à pretensão da parte. Já a testemunha reproduz apenas os acontecimentos
+passados  que  ficaram  retidos  em  sua  memória,  desde  o  momento  em  que
+presenciou o fato litigioso ou dele tomou conhecimento.
+Só  é  prova  testemunhal  a  colhida  com  as  garantias  que  cercam  o
+depoimento oral, que obrigatoriamente se faz em audiência, em presença do juiz
+e  das  partes,  sob  compromisso  legal  previamente  assumido  pelo  depoente  e
+sujeição  à  contradita  e  reperguntas  daquele  contra  quem  o  meio  de
+con
+[/PAGINA 902]
+
+[PAGINA 903]
+vencimento foi produzido. Não se pode atribuir valor de prova testemunhal,
+portanto,  às  declarações  ou  cartas  obtidas,  particular  e  graciosamente,  pela
+parte.
+190
+Há testemunhas presenciais, de referência e referidas. As presenciais são as
+que, pessoalmente, assistiram ao fato litigioso; as de referência, as que souberam
+dele  por  meio  de  terceiras  pessoas;  e  referidas,  aquelas  cuja  existência  foi
+apurada por meio do depoimento de outra testemunha.
+Costuma-se,  também,  classificar  as  testemunhas  em judiciárias  e
+instrumentárias.  Aquelas  são  as  que  relatam  em  juízo  o  seu  conhecimento  a
+
+739.
+respeito do litígio e estas as que presenciaram a assinatura do instrumento do ato
+jurídico e, juntamente com as partes, o firmaram.
+Valor probante das testemunhas
+Segundo o prisma histórico, a prova testemunhal é o mais antigo dos meios
+de convencimento utilizados pela Justiça. Deplorada por muitos, dada à notória
+falibilidade humana, e pelo mau uso que não poucos inescrupulosos fazem do
+testemunho, a verdade é que o processo não pode prescindir do concurso das
+testemunhas para solucionar a grande maioria dos litígios que são deduzidos em
+juízo. Daí ver Bentham nas testemunhas “os olhos e os ouvidos da Justiça”.
+191
+Por  isso  mesmo,  para  o  nosso  Código,  “a  prova  testemunhal  é  sempre
+admissível, não dispondo a lei de modo diverso” (art. 442).
+192
+ A inquirição de
+testemunhas,  assim,  só  não  terá  cabimento  naqueles  casos  em  que  o  próprio
+Código veda esse tipo de prova (art. 443).
+193-194
+Dentro do sistema de valoração das provas do Código (art. 371), a prova
+testemunhal  não  é  mais  nem  menos  importante  do  que  os  outros  meios
+probatórios, a não ser naqueles casos em que a lei exija a forma solene para
+reconhecer eficácia ao ato jurídico.
+Nas  hipóteses  comuns,  o  valor  probante  das  testemunhas  será  aferido
+livremente  por  meio  do  cotejo  com  as  alegações  das  partes  e  com  os
+documentos, perícias e mais elementos do processo.
+Já vigorou, no direito antigo, a regra de que o testemunho de uma só pessoa
+seria ineficaz para demonstrar a veracidade de um fato (testis unus testis nullus).
+Hoje, no sistema do Código, não é o número de testemunhas, mas a credibilidade
+delas que importa.
+Há, no dizer de Paula Batista, uma multidão de motivos que influencia na
+grande  força  probante  dos  depoimentos  testemunhais  e  que  não  pode  ser
+submetida  a  regras,  mas  que  representa  para  o  juiz  elementos  de  apreciação
+livre e moral. “Assim, umas vezes o mérito interno do depoimento, outras vezes
+as  qualidades  e  reputação  das  testemunhas,  outras  o  seu  número,  outras  as
+coincidências que venham em socorro de algumas, tais são as circunstâncias, que
+o juiz deverá examinar com religiosa atenção, escrupulosa imparcialidade”.
+195
+A verossimilhança e a improbabilidade do relato, a honorabilidade ou má
+fama da testemunha, a coerência entre os vários depoimentos são, sem dúvida,
+element
+[/PAGINA 903]
+
+[PAGINA 904]
+os  valiosos  a  serem  computados  pelo  juiz  na  aferição  do  valor  de
+
+740.
+convencimento da prova testemunhal.
+São, outrossim, quase inevitáveis as contradições e abusos nessa prova. Mas,
+à luz do bom senso e do critério do juiz, poderão ser superados os conflitos que
+ordinariamente ocorrem entre os depoimentos das várias testemunhas ouvidas no
+mesmo processo.
+Inadmissibilidade da prova testemunhal
+Embora a regra seja a admissibilidade da ouvida de testemunhas em todos
+os  processos,  o  Código  permite  ao  juiz  dispensar  essa  prova  oral,  quando  a
+documental for suficiente para fornecer os dados esclarecedores do litígio, ou
+quando inexistirem fatos controvertidos a apurar, casos em que o julgamento do
+mérito  poderá  ser  antecipado  e  proferido  até  mesmo  sem  audiência,  se
+configuradas as hipóteses do art. 355.
+196
+Haverá,  por  isso  mesmo,  indeferimento  da  inquirição  de  testemunhas,
+segundo o art. 443, quando a prova versar sobre fatos:
+(a) já provados por documento ou confissão da parte (inciso I);
+(b)  que  só  por  documento  ou  por  exame  pericial  puderem  ser  provados
+(inciso II).
+Incide o inc. I se o documento é autêntico e não houve impugnação à sua
+veracidade, pois em tais casos há presunção legal da verdade da declaração nele
+contida contra o autor do documento. Quando, porém, houver discussão em torno
+da autenticidade ou veracidade do próprio documento, não ocorrerá restrição à
+produção de testemunhas.
+Contudo, se o documento exibido em juízo é incompleto ou insuficiente para
+solucionar o litígio, pode a prova testemunhal ser deferida como complementar
+(art. 444).
+197
+O Código anterior limitava a prova exclusivamente testemunhal aos contratos
+cujo valor não excedia o décuplo do maior salário mínimo vigente no País, ao
+tempo  em  que  foram  celebrados  (art.  401  do  CPC/1973).  A  norma  não  foi
+repetida pelo NCPC. Assim, atualmente, a prova exclusivamente testemunhal é
+admitida,  independente  do  valor  do  contrato,  desde  que  a  lei  não  exija  prova
+escrita (art. 444).
+Tratando-se de contrato solene, a respeito do qual a lei material exige pelo
+menos a forma escrita, a prova por testemunhas somente será admitida:
+(a) quando houver começo de prova por escrito emanado da parte contra a
+
+qual se pretende produzir (art. 444);
+198
+ ou
+(b) quando o credor não pode ou não podia, moral ou materialmente, obter
+prova escrita da obrigação, em casos como: (i) o do parentesco, (ii) o do depósito
+necessário, (iii)  o  da  hospedagem  em  hotel  ou (iv)  em  razão  das  práticas
+comerciais do local onde contraída a obrigação (art. 445).
+199
+Uma  ressalva  se  impõe:  não  se  pode  confundir  provar  um  contrato  com
+provar os seus efeitos já produzidos. Se um contrato só pode ser comprovado pela
+forma escrita, e foi ajustado por convenção oral, é claro que esse negócio solene
+não pode ser reconhecido como eficaz em juízo. No entanto, se prestações foram
+pagas, ou posse e exploração do bem negociado foram ce
+[/PAGINA 904]
+
+[PAGINA 905]
+didas e usufruídas, não
+pode, quem assim se beneficiou, se locupletar em prejuízo do outro contratante.
+Em casos como estes, a parte lesada pode, sem qualquer documento escrito, e
+com  base  em  testemunhas,  demandar  o  ressarcimento  do  dano  sofrido  em
+virtude do contrato inválido. A pretensão não terá sido de forçar o cumprimento
+do contrato, mas de evitar o locupletamento ilícito e recuperar o prejuízo injusto
+daquele que sofreu lesão em virtude de efeitos concretos do negócio. Assim, se
+passa, também, com todos os contratos afetados por vícios de consentimento, já
+que a fraude, o dolo, o erro, a coação e tudo mais que gera nulidade e dever de
+indenizar são práticas ilícitas cujo meio natural de comprovação são as provas
+orais e as indiciárias.
+Daí que o contrato, mesmo sem ser reduzido à forma escrita necessária,
+tendo  gerado,  de  fato,  efeitos  econômicos  entre  as  partes,  poderão  eles,
+perfeitamente, ser provados por testemunhas.
+Com essa orientação, tem-se decidido, por exemplo, que, em se tratando de
+contratos de locação de serviços ou avenças dessa mesma natureza, não importa
+o valor, “é admissível a prova exclusivamente testemunhal para comprovação
+dos serviços prestados, porque, caso contrário, estar-se-ia infringindo o salutar
+princípio de direito, segundo o qual a ninguém é lícito locupletar-se com a jactura
+alheia”.
+200
+Nessa  linha  de  cogitação,  o  art.  446
+201
+  do  NCPC  prevê,  expressamente,
+sem menção à natureza do contrato, ser lícito à parte provar com testemunhas:
+(a) a divergência entre a vontade real e a vontade declarada, nos casos de
+contratos simulados;
+(b) os vícios de consentimento, nos contratos em geral.
+Em conclusão, a prova testemunhal, que é, no sistema do novo Código, regra
+
+741.
+geral, só não será admitida, nos moldes do art. 443:
+(a) se o fato já estiver provado por documento, ou confissão, expressa ou
+presumida; ou
+(b) se o fato só puder ser demonstrado por documento ou perícia.
+Direitos e deveres da testemunha
+I – Deveres:
+É dever de todo cidadão colaborar com o Poder Judiciário na apuração da
+verdade  a  fim  de  que  os  litígios  sejam  legitimamente  compostos.
+202
+  O
+depoimento testemunhal, assim, não é uma faculdade, mas um dever, imposto
+expressamente pelo art. 380, I.
+203
+Qualquer  pessoa,  desde  que  não  seja  considerada,  pela  lei,  incapaz,
+impedida ou suspeita, pode ser chamada a depor como testemunha (art. 447).
+204
+Até as impedidas, menores ou suspeitas, porém, poderão ser ouvidas pelo juiz,
+“sendo necessário”. Mas seus depoimentos serão prestados independentemente
+de compromisso e o juiz lhes atribuirá o valor que possam merecer (art. 447, §
+4º).
+205
+ O juiz da causa, também, poderá ser arrolado como testemunha, o que
+lhe acarretará o seguinte procedimento (art. 452):
+206
+(a) Se realmente tiver conhecimento de fatos que possam influir na decisão
+da causa, o juiz se declarará impedido
+207
+ de continuar funcionando no processo
+e  determinará  a  remessa  dos  autos  a  seu
+[/PAGINA 905]
+
+[PAGINA 906]
+substituto  legal.  Nesse  caso,  “será
+vedado à parte, que o incluiu no rol, desistir de seu depoimento” (art. 452, I).
+208
+Com isso, evita-se manobra de má-fé para simplesmente excluir o juiz natural do
+processo.
+(b) Se o juiz nada souber, simplesmente mandará excluir seu nome do rol de
+testemunhas (art. 452, II).
+II – Incapacidade:
+Os incapazes de prestar depoimento são (art. 447, § 1º):
+209
+(a) o interdito por enfermidade ou deficiência mental (inciso I);
+(b) o que, acometido por enfermidade ou retardamento mental, ao tempo
+em que ocorreram os fatos, não podia discerni-los; ou, ao tempo em que deve
+depor, não está habilitado a transmitir as percepções (inciso II);
+
+(c) o menor de dezesseis anos (inciso III);
+(d) o cego e o surdo, quando a ciência do fato depender dos sentidos que lhes
+faltam (inciso IV).
+III – Impedimentos:
+São impedidos de depor (art. 447, § 2º):
+210
+(a) o cônjuge, o companheiro, o ascendente e o descendente em qualquer
+grau,  e  o  colateral,  até  o  terceiro  grau,  de  alguma  das  partes,  por
+consanguinidade  ou  afinidade.  Não  prevalecerá  esse  impedimento  quando  o
+testemunho  for  exigível  em  razão  de  interesse  público;  e  também  quando,
+tratando-se de causa relativa ao estado da pessoa, não se puder obter de outro
+modo a prova que o juiz repute necessária ao julgamento do mérito (inciso I);
+211
+(b)  o  que  é  parte  na  causa,  incluindo-se  nessa  categoria  o  assistente  e  o
+terceiro interveniente (inciso II);
+212
+(c)  o  que  intervém  em  nome  de  uma  parte,  como  o  tutor  na  causa  do
+menor, o representante legal da pessoa jurídica, o juiz, o advogado e outros, que
+assistam ou tenham assistido às partes (inciso III).
+IV – Suspeições:
+São suspeitas  as  testemunhas  que  se  enquadrarem  numa  das  seguintes
+situações (art. 447, § 3º):
+213
+(a) O inimigo da parte ou o seu amigo íntimo (inciso I). O Código anterior
+exigia,  para  reconhecer  a  suspeição,  que  o  inimigo  da  parte  fosse  qualificado
+como “inimigo capital”. O NCPC é mais singelo e veda o testemunho a partir
+apenas da inimizade sem adjetivos. De fato, o inimigo, até psicologicamente, terá
+dificuldade  de  evitar  as  distorções  de  percepção  dos  fatos  que  envolvam  seu
+desafeto. O estranho é que o qualificativo tenha sido excluído apenas do inimigo,
+quando o mesmo defeito de percepção ocorre, também, entre os amigos. Nada
+obstante, a regra legal só contempla a suspeição da testemunha amiga de uma
+das partes, quando tal amizade seja íntima, o que acarretará sempre dificuldades
+para o adversário e o juiz, visto que, na prática, é muito problemático distinguir
+uma amizade de uma amizade íntima.
+(b)  O  que  tiver  interesse  no  litígio  (inciso  II),
+214
+  como,  por  exemplo,  o
+preponente em relação ao preposto, em ação de responsabilidade civil movida
+contra este; o agente policial, apontado como autor de espancamento, na ação de
+indenização movida contra o Estado;
+215
+ e o assistente técnico que participou do
+
+trabalho
+[/PAGINA 906]
+
+[PAGINA 907]
+da parte, objeto da causa.
+216
+O novo Código excluiu do rol de suspeitos o condenado por crime de falso
+testemunho,  havendo  transitado  em  julgado  a  sentença;  e  o  que,  por  seus
+costumes, não for digno de fé.
+V – Testemunhas informantes:
+As  testemunhas  incapazes,  impedidas  ou  suspeitas  podem  ser,  em  casos
+excepcionais, ouvidas como meras informantes (art. 457, § 2º), quando o juiz,
+com a necessária cautela, dará à prova assim aproveitada “apenas o valor que
+dela se pode extrair nessas circunstâncias e sem torná-la o principal fundamento
+da decisão”.
+217
+VI – Deveres principais:
+A doutrina reconhece como os principais deveres das testemunhas:
+(a) o de comparecer em juízo;
+(b) o de prestar depoimento (art. 455);
+218
+(c) o de dizer a verdade (art. 458).
+219
+Se a testemunha deixar de comparecer à audiência, sem motivo justificado,
+será  conduzida  coercitivamente  para  a  nova  audiência  que  o  juiz  designar  e
+responderá pelas despesas da diligência decorrente do adiamento do ato judicial
+(art. 455, § 5º).
+220
+VII – Direitos:
+Quanto ao dever de depor, o Código prevê, no art. 448,
+221
+ hipóteses em que
+a  testemunha  pode  se  recusar  a  prestar  depoimento.  Essas  exceções  ocorrem
+quando tiver que depor sobre:
+(a)  fatos  que  lhe  acarretam  grave  dano,  bem  como  ao  seu  cônjuge  ou
+companheiro e aos seus parentes consanguíneos ou afins, em linha reta ou na
+colateral até o terceiro grau (inciso I);
+(b) fatos a cujo respeito, por estado ou profissão, deva guardar sigilo (inciso
+II).
+A violação do segredo profissional é crime (Código Penal, art. 154).
+222
+ E
+ninguém deve ser obrigado a depor sobre fatos que importem desonra própria ou
+dos que lhe são próximos.
+223
+Acobertam-se, porém, pelo sigilo profissional, apenas os fatos que foram
+
+742.
+confiados pela parte à testemunha, no estrito exercício de sua profissão. “Sobre
+os  fatos  que,  por  outros  meios,  tenham  chegado  ao  seu  conhecimento,  não
+prevalece o sigilo” (TJSP – RT 127/212), ainda que haja relação com a atividade
+profissional do depoente.
+A desobediência ao dever da verdade, sobre o qual a testemunha é advertida
+expressamente antes de depor (art. 458), acarreta-lhe pena criminal de um a três
+anos de reclusão (art. 342 do Código Penal). O crime de falso testemunho ocorre
+tanto quando se faz afirmação falsa, como quando se nega ou oculta a verdade
+(NCPC, art. 458, parágrafo único).
+Reconhecem-se às testemunhas, em suma, os seguintes direitos:
+(a) o de se recusar a depor. Quando ocorrerem as hipóteses do art. 448 a
+testemunha requererá ao juiz a dispensa e este, ouvidas as partes, decidirá de
+plano (art. 457, § 3º);
+224
+(b)  o  de  ser  tratado  pelas  partes  com  urbanidade,  às  quais  não  é  lícito
+formular perguntas ou considerações impertinentes, capciosas ou vexatórias (art.
+459, § 2º);
+225
+(c)  o  de  ser  reembolsada  pela  despesa  que  efetuou  para  comparecer  à
+audiência,  “devendo  a  parte  pagá-la  logo  que  arbitrada,  ou  depositá-la
+[/PAGINA 907]
+
+[PAGINA 908]
+em
+cartório dentro de três dias” (art. 462);
+226
+(d)  o  depoimento  prestado  em  juízo  é  considerado  serviço  público.  E  a
+testemunha, quando sujeita ao regime da legislação trabalhista, não pode sofrer,
+por comparecer à audiência, perda de salário nem desconto no tempo de serviço
+(art. 463).
+227
+A produção da prova testemunhal
+I – Requerimento:
+O momento adequado para requerer a prova testemunhal é a petição inicial
+(NCPC, art. 319, VI),
+228
+ para o autor, ou a contestação, para o réu (art. 336),
+229
+ou então na fase de especificação de prova, durante as providências preliminares
+(art. 348).
+230
+É na decisão de saneamento que o juiz admitirá, ou não, essa espécie de
+prova  (art.  357,  II).
+231
+  Entende-se,  porém,  implicitamente  deferida  a  prova
+testemunhal  previamente  requerida  quando  o  juiz  simplesmente  designa  a
+
+audiência de instrução e julgamento.
+A parte que desejar produzir essa prova deverá, no prazo que o juiz fixar na
+decisão  de  saneamento,  depositar,  em  Cartório,  o  respectivo  rol,  no  qual
+figurarão nomes, profissões, estado civil, idade, o número de cadastro de pessoa
+física e do registro de identidade e endereço completo da residência e local de
+trabalho das testemunhas a ouvir (arts. 357, § 4º, e 450).
+232-233
+Se a causa apresentar complexidade em matéria de fato ou de direito, o juiz
+deverá designar audiência para que o saneamento seja feito em cooperação com
+as partes (art. 357, § 3º). Nesses casos, elas deverão levar o respectivo rol de
+testemunhas à audiência (art. 354, § 5º).
+Quando não há a audiência de saneamento e o juiz deferir a produção de
+prova  testemunhal  na  decisão  saneadora,  marcará  o  prazo  dentro  do  qual  as
+partes deverão depositar o respectivo rol. A lei diz que tal prazo é comum e não
+poderá  ser  superior  a  quinze  dias  (art.  357,  §  4º).  Omitindo-se  o  juiz  na
+estipulação do referido prazo, prevalecerá aquele fixado pela lei em seu limite
+maior, ou seja, quinze dias.
+Esse prazo é estabelecido pelo Código em benefício da parte contrária, a fim
+de que possa conhecer com a necessária antecedência a idoneidade da prova que
+contra  si  será  produzida.  Há,  por  isso,  de  ser  observado  tanto  nos  casos  de
+testemunhas   a   serem   intimadas   como   daquelas   que   comparecerão
+independentemente de intimação.
+Cada  parte  poderá  arrolar,  no  máximo,  dez  testemunhas;  mas  ao  juiz  é
+permitido  dispensar,  na  audiência,  as  excedentes  de  três,  quando  destinadas  à
+prova do mesmo fato (art. 357, § 6º).
+234
+Tem, outrossim, entendido a jurisprudência que a falta de requerimento ou
+especificação da prova testemunhal pela parte, antes do saneador, não a impede
+de  arrolar  testemunhas  quando  o  juiz  designa  audiência  de  instrução  e
+julgamento, desde, é claro, que não tenha havido expresso indeferimento desse
+tipo  de  prova.
+235
+  Mesmo  ao  revel,  isto  é,  ao  que  não  contestou  a  ação,  é
+assegurado o direito de produzir testemunhas, quando os
+[/PAGINA 908]
+
+[PAGINA 909]
+efeitos da revelia não
+ocorreram, nos termos do art. 349.
+236-237
+Depois de apresentado o rol de que fala o art. 357, §§ 4º e 5º, a parte só pode
+substituir a testemunha (art. 451):
+238-239
+(a) que falecer (inciso I);
+
+(b) que, por enfermidade, não estiver em condições de depor (inciso II);
+(c)  que,  tendo  mudado  de  residência  ou  de  local  de  trabalho,  não  for
+encontrada (inciso III).
+II – Intimação:
+Uma inovação importante do novo Código foi a atribuição ao advogado da
+obrigação de informar ou intimar a testemunha que arrolou do local, do dia e do
+horário da audiência designada, dispensando-se a intimação do juízo (art. 455,
+caput).
+240
+ Essa intimação feita pelo próprio advogado deverá ser realizada por
+carta  com  aviso  de  recebimento,  devendo  ser  juntada  aos  autos,  com
+antecedência  de  pelo  menos  três  dias  da  data  da  audiência,  cópia  da
+correspondência  de  intimação  e  do  comprovante  de  recebimento  (art.  455,  §
+1º).
+241
+Se  o  advogado  não  diligenciar  a  intimação,  implicará  a  desistência  da
+inquirição  da  testemunha  (art.  455,  §  3º).
+242
+  Se,  intimada,  a  testemunha  não
+comparecer sem motivo justificado, será conduzida e responderá pelas despesas
+do adiamento (art. 455, § 5º).
+243
+Admite, contudo, o novo Código a intimação da testemunha pela via judicial
+quando (art. 455, § 4º):
+244
+(a) frustrada a intimação realizada pelo próprio advogado (inciso I);
+(b) a necessidade da realização via judicial for devidamente demonstrada
+pela parte ao juiz (inciso II);
+(c)  figurar  no  rol  servidor  público  ou  militar,  hipótese  em  que  o  juiz
+requisitará a intimação ao chefe da repartição ou ao comando do corpo em que
+servir (inciso III);
+(d)  a  testemunha  houver  sido  arrolada  pelo  Ministério  Público  ou  pela
+Defensoria Pública (inciso IV); e
+(e)  a  testemunha  for  uma  daquelas  que  devam  ser  ouvidas  em  sua
+residência ou onde exercem sua função (inciso V).
+É possível, ainda, à parte comprometer-se a levar à audiência a testemunha,
+independentemente  de  intimação.  Nessa  hipótese,  o  não  comparecimento  da
+testemunha à audiência faz presumir a desistência de sua inquirição pela parte
+(art. 455, § 2º).
+245-246
+A testemunha intimada, não importa de que forma, deverá comparecer em
+
+juízo,  no  dia,  hora  e  local  que  forem  designados  para  a  audiência.  E  haverá
+condução coercitiva caso a testemunha deixe de atender à intimação sem motivo
+justificado (art. 455, § 5º).
+III – Audiência:
+As  testemunhas  são  ouvidas  pelo  juiz  na  audiência  de  instrução  e
+julgamento, depois dos esclarecimentos dos peritos e dos depoimentos pessoais
+das partes (art. 361, I, II e III).
+247
+Fora  da  audiência,  mas  em  juízo,  são  inquiridas  as  testemunhas  que
+“prestam depoimento antecipadamente” e as que “são inquiridas por carta” (art.
+453).
+248
+A  oitiva  de  testemunha  que  residir  em  comarca,  seção  ou  subseção
+judiciárias  diversa  daquela  onde  tramita  o  processo  poder
+[/PAGINA 909]
+
+[PAGINA 910]
+á  ser  realizada  por
+meio de videoconferência ou outro recurso tecnológico de transmissão de sons e
+imagens em tempo real, o que poderá ocorrer, inclusive, durante a realização da
+audiência  de  instrução  e  julgamento  (art.  453,  §  1º).
+249
+  Para  tanto,  os  juízos
+deverão manter equipamento para a transmissão e recepção dos sons e imagens
+(art. 453, § 2º).
+250
+IV – Ouvida fora de audiência:
+Fora  do  juízo,  serão  ouvidas  as  testemunhas  que  possuem  privilégio  de
+função e, portanto, são inquiridas em sua residência ou onde exercem sua função
+(art. 454).
+251
+ São elas:
+(a) o Presidente e o Vice-Presidente da República (inciso I);
+(b) os Ministros de Estado (inciso II);
+(c) os Ministros do Supremo Tribunal Federal, os conselheiros do Conselho
+Nacional  de  Justiça,  os  ministros  do  Superior  Tribunal  de  Justiça,  do  Superior
+Tribunal Militar, do Tribunal Superior Eleitoral, do Tribunal Superior do Trabalho
+e do Tribunal de Contas da União (inciso III);
+(d)  o  Procurador-Geral  da  República  e  os  conselheiros  do  Conselho
+Nacional do Ministério Público (inciso IV);
+(e) o advogado-geral da União, o procurador-geral do Estado, o procurador-
+geral do Município, o defensor público-geral federal e o defensor público-geral
+do Estado (inciso V);
+(f) os senadores e deputados federais (inciso VI);
+(g) os governadores dos Estados e do Distrito Federal (inciso VII);
+
+(h) o prefeito (inciso VIII);
+(i) os deputados estaduais e distritais (inciso IX);
+(j)  os  desembargadores  dos  Tribunais  de  Justiça,  de  Tribunais  Regionais
+Federais,  dos  Tribunais  Regionais  do  Trabalho  e  dos  Tribunais  Regionais
+Eleitorais  e  os  conselheiros  dos  Tribunais  de  Contas  dos  Estados  e  do  Distrito
+Federal (inciso X);
+(k) o procurador-geral de justiça (inciso XI);
+(l)  o  embaixador  de  país  que,  por  lei  ou  tratado,  concede  idêntica
+prerrogativa ao agente diplomático do Brasil (inciso XII).
+Nesses casos, o juiz oficiará à autoridade que deve depor, solicitando que
+designe dia, hora e local, a fim de ser inquirida. Remeterá, com o ofício, cópia da
+petição inicial ou da defesa oferecida pela parte, que a arrolou como testemunha
+(art. 454, § 1º).
+252
+Caso a autoridade não responda ao ofício em um mês, o juiz designará dia,
+hora e local para o depoimento, preferencialmente na sede do juízo (art. 454, §
+2º).
+253
+  O  mesmo  será  feito  pelo  juiz  caso  a  autoridade  não  compareça,
+injustificadamente, à sessão agendada para a colheita do seu testemunho, nos dia,
+hora e local por ela mesma indicados (art. 454, § 3º).
+254
+Ocorrendo  impossibilidade  de  a  testemunha  ser  ouvida  na  audiência  de
+instrução  e  julgamento,  por  doença  ou  outro  motivo  relevante,  o  juiz  poderá
+tratar do problema dentro das regras emergenciais de prova antecipada (art. 381,
+I). Designará, na hipótese, dia e hora para realizar a inquirição no local em que o
+depoente se encontrar.
+V – Inquirição:
+Na  audiência  de  instrução  e  julgamento,  as
+[/PAGINA 910]
+
+[PAGINA 911]
+testemunhas  serão  inquiridas
+separada  e  sucessivamente;  primeiro  as  do  autor  e  depois  as  do  réu,
+providenciando  de  modo  que  uma  não  ouça  o  depoimento  das  outras  (art.
+456).
+255
+ A ordem em questão não deve ser vista como absoluta, podendo ser
+alterada  segundo  conveniências  do  caso  concreto,  desde  que  não  acarrete
+prejuízo para nenhuma das partes.
+256
+ É a hipótese, v.g., das testemunhas ouvidas
+em audiências diferentes ou em juízos diversos. A alteração da ordem, contudo,
+deverá ter a concordância das partes (art. 456, parágrafo único).
+257
+Antes de depor, a testemunha será qualificada, i.e., declarará ou confirmará
+o nome por inteiro, a profissão, a residência e o estado civil, bem como se tem
+
+relações de parentesco com a parte, ou interesse no objeto do processo (art. 457,
+caput).
+258
+Nessa fase, é lícito à parte contrária contraditar a testemunha por meio de
+arguição  de  incapacidade,  impedimento  ou  suspeição,  de  acordo  com  o  art.
+447.
+259
+ Sobre a contradita, o juiz ouvirá a testemunha e a parte que a arrolou. Se
+reconhecida a procedência da arguição, o § 2º do art. 457 determina que o juiz
+dispensará a testemunha ou lhe tomará o depoimento como informante.
+Se,  todavia,  a  testemunha  negar  os  fatos  que  lhe  são  imputados,  a  parte
+poderá  provar  a  contradita  com  documentos  ou  com  testemunha  até  três,
+apresentadas no ato e inquiridas em separado (art. 457, § 1º).
+Após a qualificação, e antes do início da inquirição, a testemunha prestará o
+compromisso  de  dizer  a  verdade  do  que  souber  e  lhe  for  perguntado  e  será
+advertida pelo juiz que se sujeita à sanção penal quem faz afirmação falsa, cala
+ou oculta a verdade (art. 458 e seu parágrafo).
+260
+O novo Código alterou a forma do interrogatório, que antes era ato exclusivo
+do juiz. Agora será feito pelas partes diretamente à testemunha, começando por
+quem a arrolou. Entretanto, o juiz não admitirá as perguntas que puderem induzir
+a  resposta,  não  tiverem  relação  com  as  questões  de  fato  objeto  da  atividade
+probatória ou importarem repetição de outra já respondida (art. 459, caput).
+261
+As perguntas que o juiz indeferir serão transcritas no termo, se a parte o requerer
+(art. 459, § 3º).
+262
+Não foi subtraído ao juiz o poder de inquirir a testemunha. O novo Código
+continua assegurando-lhe a possibilidade de fazê-lo, a seu critério, antes e depois
+da inquirição efetuada pelas partes (art. 459, § 1º).
+O depoimento é sempre oral, de modo que não é lícito à parte substituí-lo
+por declaração escrita adrede preparada.
+263
+ Isso não impede que se permita à
+testemunha consultar breves anotações ou documentos em seu poder.
+Findo o depoimento, lavrará o escrivão o competente termo, que deve ser
+digitado, taquigrafado ou estenotipado, e assinado pelo juiz, pela testemunha e
+pelos advogados das partes (art. 460, § 1º).
+264
+ Destina-se o termo a documentar,
+para os autos, as declarações do depoente.
+Segundo o novo Código, o depoi
+[/PAGINA 911]
+
+[PAGINA 912]
+mento poderá também ser documentado por
+meio de gravação (art. 460, caput). Se houver recurso em processo em autos não
+eletrônicos, o depoimento gravado somente será digitado quando for impossível o
+
+envio de sua documentação eletrônica (art. 460, § 2º).
+265
+ Tratando-se de autos
+eletrônicos,  deve-se  observar  o  disposto  no  Código  e  na  legislação  específica
+sobre a prática eletrônica de atos processuais (art. 460, § 3º) (ver item 340 retro).
+VI – Incidentes:
+Dois incidentes podem se seguir à tomada de depoimento da testemunha:
+(a) a acareação; e
+(b) a ouvida de testemunhas referidas.
+Testemunha referida é a pessoa estranha ao processo, que foi mencionada no
+depoimento  de  outra  testemunha,  ou  da  parte.  A  audiência  daquela  pode  se
+destinar a confirmar ou esclarecer o depoimento já tomado.
+A acareação consiste em promover o confronto pessoal numa só audiência,
+das pessoas que prestaram depoimentos contraditórios. É cabível também entre
+testemunhas e parte, mas não entre as duas partes.
+266
+Essas duas diligências podem ser determinadas pelo juiz, a requerimento da
+parte  ou  de  ofício  (art.  461).
+267
+  Sua  efetivação  pode  ocorrer  na  própria
+audiência de instrução e julgamento, se estiverem presentes os interessados; ou
+em outra data, designada pelo juiz, caso em que a conclusão dos trabalhos da
+audiência   ficará   suspensa.
+268
+   Pode,   ainda,   ocorrer   por   meio   de
+videoconferência ou outro recurso tecnológico de transmissão de sons e imagens
+em tempo real (art. 461, § 2º).
+269
+Os  acareados  serão  reperguntados  para  que  expliquem  os  pontos  de
+divergência, reduzindo-se a termo o ato de acareação (art. 461, § 1º).
+270
+
+743.
+§ 92. PROVA PERICIAL
+Sumário: 743. Conceito. 744. Admissibilidade da perícia. 745.  O
+perito. 746. O procedimento da prova pericial. 747. Valor probante
+da perícia. 748. Nova perícia.
+Conceito
+Os fatos litigiosos nem sempre são simples de forma a permitir sua integral
+revelação ao juiz, ou sua inteira compreensão por ele, através apenas dos meios
+usuais  de  prova,  que  são  as  testemunhas  e  os  documentos.  Nem  é  admissível
+exigir  que  o  juiz  disponha  de  conhecimentos  universais  a  ponto  de  examinar
+cientificamente  tudo  sobre  a  veracidade  e  as  consequências  de  todos  os
+fenômenos possíveis de figurar nos pleitos judiciais.
+Não raras vezes, portanto, terá o juiz de se socorrer de auxílio de pessoas
+especializadas, como engenheiros, agrimensores, médicos, contadores, químicos
+etc.,  para  examinar  as  pessoas,  coisas  ou  documentos  envolvidos  no  litígio  e
+formar  sua  convicção  para  julgar  a  causa,  com  a  indispensável  segurança.
+Aparece,  então,  a  prova  pericial  como  o  meio  de  suprir  a  carência  de
+conhecimentos  técnicos  de  que  se  ressente  o  juiz  para  apuração  dos  fatos
+litigiosos.
+Como ensina Amaral Santos, a perícia pode consistir “numa declaração de
+ciência ou na afirmação de um juízo, ou, mais comumente, naquilo e nisto”. É
+de
+[/PAGINA 912]
+
+[PAGINA 913]
+claração  de  ciência  “quando  relata  as  percepções  colhidas,  quando  se
+apresenta como prova representativa de fatos verificados ou constatados”, como,
+v.g., no caso em que são descritos os danos sofridos pelo veículo acidentado, bem
+como  os  sinais  materiais  encontrados  na  via  pública  onde  se  deu  a  colisão. É
+afirmação  de  um  juízo  “quando  constitui  parecer  que  auxilie  o  juiz  na
+interpretação  ou  apreciação  dos  fatos  da  causa”,  como, v.g.,  ao  dar  sua
+explicação de como ocorreu o choque dos veículos e qual foi a causa dele.
+271
+É a perícia, destarte, meio probatório que, de certa forma, se aproxima da
+prova  testemunhal,  e  no  direito  antigo  os  peritos  foram,  mesmo,  considerados
+como  testemunhas.  Mas,  na  verdade,  há  uma  profunda  diferença  entre  esses
+
+instrumentos de convencimento judicial. O fim da prova testemunhal é apenas
+reconstituir o fato tal qual existiu no passado; a perícia, ao contrário, descreve o
+estado  atual  dos  fatos;  das  testemunhas,  no  dizer  de  Lessona,  invoca-se  a
+memória, dos peritos, a ciência.
+272
+Segundo o art. 464
+273
+ do atual Código de Processo Civil, “a prova pericial
+consiste em exame, vistoria ou avaliação”.
+O exame  é  a  inspeção  sobre  coisas,  pessoas  ou  documentos,  para
+verificação de qualquer fato ou circunstância que tenha interesse para a solução
+do litígio. Vistoria é a mesma inspeção, quando realizada sobre bens imóveis. E
+avaliação ou arbitramento é a apuração de valor, em dinheiro, de coisas, direitos
+ou obrigações em litígio.
+274
+A perícia regulada pelo Código é a judicial, i.e., a realizada em juízo, por
+perito  nomeado  pelo  juiz.  Mas  existem  também  perícias extrajudiciais
+promovidas por iniciativa das partes, por meio de técnicos particulares ou agentes
+administrativos.  Sua  força  de  convencimento  não  pode,  naturalmente,  ser  a
+mesma  da  perícia  judicial,  e  o  juiz  examinará  tais  laudos  como  simples
+pareceres, dando-lhes a credibilidade que merecem.
+A jurisprudência, no entanto, tem entendido que “o laudo do exame pericial
+administrativo realizado, logo após a colisão dos veículos, por agente do DNER,
+órgão  incumbido  da  fiscalização  do  trânsito  nas  rodovias  federais,  tem  a
+presunção de verdade dos atos administrativos em geral”. De sorte que não se
+pode  admitir  que  suas  conclusões  sejam  elididas  por  “depoimentos  de
+testemunhas  que,  nada  podendo  relatar,  por  não  haverem  presenciado  o  fato,
+permitiram-se emitir apreciações opinativas”.
+275
+Milita  em  favor  dos  laudos  oficiais  expedidos  pela  administração  pública
+uma  presunção iuris  tantum  de  veracidade,  que,  segundo  a  jurisprudência
+dominante, não pode ser infirmada por “simples suscitação de dúvidas”.
+276
+ Suas
+conclusões, por isso, devem prevalecer até prova em contrário.
+277
+Contudo, se o laudo administrativo foi elaborado tardiamente, ou se entra em
+conflito  com  as  testemunhas  que  presenciaram  o  evento,  deve  p
+[/PAGINA 913]
+
+[PAGINA 914]
+revalecer  a
+prova oral e não a do documento elaborado pelos agentes públicos.
+278
+Ainda, dentro do conceito de perícia judicial, os tribunais têm admitido, em
+casos  de  acidentes  automobilísticos,  que  “as  custosas  e  demoradas  vistorias”
+sejam substituídas “por orçamentos de oficinas idôneas” a respeito do custo dos
+
+744.
+reparos do veículo.
+279
+A  legislação  atual  abre  grande  área  para  utilização  das  perícias
+extrajudiciais,  visto  que  o  juiz  ficou  autorizado  a  dispensar  a  perícia  judicial
+“quando as partes, na inicial e na contestação, apresentarem sobre as questões de
+fato pareceres técnicos ou documentos elucidativos que considerar suficientes”
+(art. 472) (v., adiante, o nº 746).
+Admissibilidade da perícia
+Por  se  tratar  de  prova  especial,  subordinada  a  requisitos  específicos,  a
+perícia só pode ser admitida, pelo juiz, quando a apuração do fato litigioso não se
+puder fazer pelos meios ordinários de convencimento. Somente haverá perícia,
+portanto, quando o exame do fato probando depender de conhecimentos técnicos
+ou especiais e essa prova, ainda, tiver utilidade, diante dos elementos disponíveis
+para exame.
+Assim, dispõe o art. 464, § 1º,
+280
+ do NCPC que o juiz indeferirá a perícia
+quando:
+(a)  a  prova  do  fato  não  depender  do  conhecimento  especial  de  técnico
+(inciso I): bastará, para apuração da verdade, em tal hipótese, que sejam ouvidas
+as testemunhas e compulsados os documentos acaso existentes;
+(b) a verificação pretendida for impraticável (inciso II): é o caso dos eventos
+transitórios que não deixam vestígios materiais a examinar. A perícia, in  casu,
+seria completamente inócua por falta de objeto.
+No entanto, mesmo quando não exista mais o objeto a ser periciado, ainda
+será admissível, em alguns casos, a perícia indireta. Se existem, por exemplo,
+registros oficiais acerca de dados do acidente, é possível ao perito, muitas vezes,
+um  juízo  lógico  acerca  de  suas  causas,  conforme  o  teor  de  tais  dados  e  sua
+idoneidade para uma análise técnica. O mesmo pode ocorrer com a aferição,
+numa determinada época, da capacidade da pessoa já falecida. Se existem dados
+convincentes  a  respeito  de  enfermidade  de  que  padecia,  internamentos
+psiquiátricos,  medicamentos  de  que  fazia  uso,  prontuários  e  outros  elementos
+similares,  o  perito  psiquiátrico  pode  emitir  laudo  para  concluir  se,  em
+determinado momento, a pessoa estava ou não incapacitada de gerir sua pessoa e
+seus bens.
+281
+Situação interessante surge quando a perícia deve recair sobre a pessoa do
+litigante, o que frequentemente ocorre nos exames hematológicos nas ações de
+
+745.
+paternidade.  Prevalece  o  entendimento  de  que  ninguém  deve  ser  coagido
+fisicamente a submeter-se a exame ou inspeção corporal.
+282
+ Todavia, a recusa
+in casu será interpretada como indício autorizador da presunção de veracidade do
+fato que se desejaria provar por meio da perícia (Código Civil, art. 232). Trata-
+se, no entanto, de presun
+[/PAGINA 914]
+
+[PAGINA 915]
+ção relativa que pode ser derrubada por outras provas
+nos autos e que não pode ser formulada apenas com base na recusa; haverá de
+ser  apreciada  sempre  no  cotejo  com  o  conjunto  probatório  disponível,  com  o
+qual deverá harmonizar-se.
+283
+Enfim,  cabe  ao  juiz,  na  direção  da  instrução  da  causa,  deliberar  sobre  o
+cabimento, ou não, da prova pericial (art. 370). Mas quando, pela natureza dos
+fatos, sua verificação e avaliação somente forem possíveis por meio de técnicos,
+não  cabe  ao  magistrado  denegar  a  prova  técnica,  sob  pena  de  cometer
+cerceamento de defesa ao litigante que a requereu.
+284
+Quando o ponto controvertido da demanda for de menor complexidade, o
+novo Código autoriza que o juiz, de ofício ou a requerimento, substitua a prova
+pericial  pela  produção  de  prova  técnica  simplificada  (art.  464,  §  2º).
+285
+  Essa
+prova simplificada consistirá na inquirição pelo juiz de especialista, que deverá
+ter formação acadêmica específica na área objeto de seu depoimento, sobre o
+ponto controvertido da causa, que demande especial conhecimento científico ou
+técnico (art. 464, § 3º).
+286
+ O profissional poderá valer-se de qualquer recurso
+tecnológico de transmissão de sons e imagens com o fim de esclarecer os pontos
+necessários (art. 464, § 4º).
+287
+O perito
+I – Escolha do perito pelo juiz:
+O  técnico  que  deve  servir  no  processo  como  perito  é  escolhido  pelo  juiz
+(NCPC, art. 465).
+288
+ Uma vez nomeado, passa a exercer a função pública de
+órgão auxiliar da Justiça (art. 149),
+289
+ com o encargo de assistir o juiz na prova
+do fato que depender de seu conhecimento técnico ou científico (art. 156).
+290
+ O
+perito pode escusar-se, deixando de aceitar o encargo que o juiz lhe destinou.
+Pode, também, ser recusado pelas partes, por impedimento ou suspeição (art.
+467).
+Tratando-se  de  perícia  complexa,  que  abranja  mais  de  uma  área  de
+
+conhecimento  especializado,  o  juiz  poderá  nomear  mais  de  um  perito  (art.
+475).
+291
+ É o caso, por exemplo, do julgamento de uma demanda indenizatória
+por falha de equipamentos industriais, cuja solução reclamará trabalho técnico
+de engenheiro e de economista, ou de técnico em contabilidade; ou a hipótese de
+avaliação de sequelas de lesões pessoais que tenham afetado as funções motora e
+psíquica da vítima, reclamando laudos de ortopedista e de psiquiatra etc.
+A nomeação do perito é feita pelo juiz na decisão de saneamento, quando
+houver por bem deferir a prova técnica, estabelecendo, de logo, o prazo para a
+entrega  do  laudo  e  o  calendário  para  sua  realização  (arts.  357,  §  8º,  e  465,
+caput).
+292
+Ao tomar ciência de sua nomeação, o perito deverá apresentar, em cinco
+dias: (i) sua proposta de honorários; (ii) o seu currículo, com a comprovação de
+sua especialização; e, (iii)  seus  contatos  profissionais,  em  especial  o  endereço
+eletrônico, para onde serão dirigidas as intimações pessoais (art. 465, § 2º).
+293
+As partes, então, serão intimadas da proposta
+[/PAGINA 915]
+
+[PAGINA 916]
+de honorários para, querendo,
+manifestar-se no prazo comum de cinco dias. Posteriormente, o juiz arbitrará o
+valor, intimando-se as partes para depositar os honorários, nos moldes do art. 95
+(art. 465, § 3º).
+294
+ Os honorários periciais devem ser depositados pela parte por
+eles  responsável  antes  do  início  da  prova  técnica.  Poderá  o  juiz  autorizar  o
+pagamento de até 50% no início dos trabalhos, devendo o remanescente ser pago
+apenas ao final, depois de entregue o laudo e prestados todos os esclarecimentos
+necessários (art. 465, § 4º)
+295
+ (sobre o processo promovido sob os benefícios da
+assistência judiciária gratuita, v., retro, os itens 199 e 218).
+Quando  a  perícia  for  inconclusiva  ou  deficiente,  o  juiz  poderá  reduzir  a
+remuneração inicialmente arbitrada para o trabalho (art. 465, § 5º).
+296
+II – Escolha do perito pelas partes:
+O novo Código permite que as partes, de comum acordo, escolham o perito,
+indicando-o  ao  juiz  mediante  requerimento.  Essa  possibilidade  depende  dos
+seguintes requisitos: (i)  que  as  partes  sejam  plenamente  capazes;  e, (ii)  que  a
+causa possa ser resolvida por autocomposição (art. 471, caput).
+Ao escolherem o perito, as partes já devem indicar seus assistentes técnicos
+para acompanharem a realização da perícia, que se realizará em data e local
+previamente anunciados (art. 471, § 1º).
+Estabelece  o  novo  Código  que  o  perito  e  os  assistentes  entreguem,
+
+respectivamente, seu laudo e pareceres em prazo que deverá ser fixado pelo juiz
+(art. 471, § 2º). Essa perícia consensual substitui, para todos os efeitos, a que seria
+realizada por perito nomeado pelo juiz (art. 471, § 3º), e porque nasce de um
+consenso  entre  as  partes  pode  ser  bastante  simplificada  e  agilizada.  No
+requerimento conjunto, por exemplo, já poderão ser formulados os quesitos e
+identificados o lugar e a hora da perícia, predeterminados por ajuste com o perito
+consensualmente escolhido.
+III  –  Escolha  do  perito  quando  o  objeto  da  prova  for  autenticidade  ou
+falsidade  de  documento,  de  autenticidade  da  letra  e  da  firma  ou  de  natureza
+médico-legal:
+Quando  o  exame  tiver  por  objeto  a  autenticidade  ou  a  falsidade  de
+documento  ou  for  de  natureza  médico-legal,  o  perito  será  escolhido,  de
+preferência, entre os técnicos dos estabelecimentos oficiais especializados (art.
+478, caput).  Se  a  autenticidade  a  pesquisar  for  de  letra  e  de  firma,  o  perito
+procederá de acordo com o § 3º do art. 478.
+297
+ Nos demais casos, a escolha dos
+peritos recairá sobre profissionais de nível universitário, devidamente inscritos no
+órgão  de  classe  competente,  salvo  se  na  localidade  inexistir  quem  detenha  a
+necessária qualificação técnica, hipótese em que a indicação do experto será de
+livre escolha do juiz (art. 156, §§ 1º e 5º).
+298
+O  juiz  autorizará,  em  tais  hipóteses,  a  remessa  dos  autos,  bem  como  do
+material sujeito a exame ao diretor do estabelecimento oficia
+[/PAGINA 916]
+
+[PAGINA 917]
+l especializado (art.
+478, caput).
+299
+Se  a  parte  for  beneficiária  da  justiça  gratuita,  os  órgãos  e  as  repartições
+oficiais  deverão  cumprir  a  determinação  judicial  com  preferência,  no  prazo
+estipulado  (art.  478,  §  1º).
+300
+  Mas,  se  for  necessário,  poderão  requerer,
+motivadamente, a prorrogação do prazo (art. 478, § 2º).
+301
+IV – Participação dos assistentes técnicos na elaboração da perícia:
+Permite o sistema do Código que os litigantes participem da perícia por meio
+da formulação de quesitos e da escolha de assistentes técnicos (art. 465, § 1º, II e
+III),
+302
+  cuja  qualificação  profissional  deve  respeitar  as  mesmas  exigências
+impostas  ao  perito  do  juízo.  Se  o  juiz  nomear  mais  de  um  perito,  com
+conhecimentos  técnicos  diferenciados,  também  as  partes  poderão,  cada  uma,
+designar assistentes técnicos diferentes para cada experto do juiz (art. 475).
+303
+V – Substituição do perito ou de assistente:
+
+746.
+Admite o Código que o perito ou o assistente possa ser substituído, no curso
+da prova, quando:
+(a) carecer de conhecimento técnico ou científico;
+(b) sem motivo legítimo, deixar de cumprir o encargo no prazo que lhe foi
+assinado  (art.  468).
+304
+  Nessa  hipótese,  o  juiz  comunicará  a  ocorrência  à
+corporação profissional respectiva, podendo, ainda, impor multa ao perito, fixada
+em  função  do  valor  da  causa  e  do  possível  prejuízo  decorrente  do  atraso  no
+processo (art. 468, § 1º).
+305
+Substituído o perito, terá ele de restituir, em quinze dias, os valores recebidos
+pelo trabalho não realizado, sob pena de ficar impedido de atuar como perito
+judicial pelo prazo de cinco anos (art. 468, § 2º). À parte que efetuou o gasto da
+perícia  frustrada  caberá  execução  para  recuperar  o quantum  levantado  pelo
+perito substituído, caso não ocorra a restituição voluntária (art. 468, § 3º).
+Sobre a escusa do perito (art. 157)
+306
+ ou sua recusa pelas partes (art. 148,
+III),
+307
+ bem como sobre a responsabilidade civil por dolo ou culpa (art. 158),
+308
+consulte-se o nº 310, retro.
+VI – Suspeição e impedimento do perito:
+Como  agente  auxiliar  do  juízo,  está  o  perito  sujeito  a  impedimento  e
+suspeição, nos mesmos casos em que o juiz se submete a essas interdições de
+atuação no processo (art. 148, II).
+309-310
+ O mesmo não ocorre com o assistente
+técnico, que é considerado apenas elemento de confiança da parte, e por isso não
+se sujeita a impedimento ou suspeição (art. 466, § 1º).
+A  arguição  de  suspeição  ou  de  impedimento  do  perito  deve  ser  feita  na
+primeira  oportunidade  em  que  couber  à  parte  falar  nos  autos,  “sob  pena  de
+preclusão da matéria”.
+311
+  A  propósito,  o  art.  465,  §  1º,  estabelece  o  prazo  de
+quinze dias, a contar da intimação do ato de nomeação do perito, para arguir seu
+impedimento ou suspeição.
+O procedimento da prova pericial
+I – Generalidades:
+O  pedido  de  perícia  pode  ser  formulado  na  inicial,  na  contestação  ou  na
+reconvenç
+[/PAGINA 917]
+
+[PAGINA 918]
+ão, bem como na réplica do autor à resposta do réu. O juiz o apreciará
+na decisão de saneamento, oportunidade em que, se deferir a perícia, nomeará,
+desde logo, o perito e determinará a intimação das partes para que, em quinze
+
+dias,  indiquem  seus  assistentes  técnicos,  apresentem  os  quesitos  a  serem
+respondidos pelos louvados e arguam o impedimento ou a suspeição do expert, se
+for o caso (art. 465, § 1º).
+312
+Dispõe  o  juiz  de  poderes  para (i)  indeferir  quesitos  impertinentes  e (ii)
+formular, de ofício, os quesitos que considerar necessários ao esclarecimento da
+causa (art. 470).
+Segundo entendimento majoritário da jurisprudência, o prazo de que dispõe
+a  parte  para  indicar  assistente  técnico  e  formular  quesitos  não  é  preclusivo,
+podendo o ato ser praticado posteriormente, “desde que não iniciada a realização
+da prova”.
+313
+ Tanto assim é que o art. 469 permite às partes a apresentação de
+quesitos  suplementares  até  mesmo  durante  a  diligência  pericial,  enquanto  não
+apresentado o laudo em juízo.
+Quando  a  perícia  for  complexa  e  abranger  mais  de  uma  área  de
+conhecimento  especializado,  o  juiz  é  autorizado  a  nomear  mais  de  um  perito
+oficial.  Igual  faculdade  toca  também  às  partes,  na  indicação  de  mais  de  um
+assistente técnico para as perícias complexas (art. 475). A medida corresponde a
+uma necessidade lógica e intuitiva, e, por isso mesmo, já vinha sendo observada
+na prática forense, independentemente da previsão expressa da lei.
+No  regime  do  Código  de  1973,  após  a  Lei  8.455,  de  24.08.1992,  que
+cancelou a nomeação de assistente único para os litisconsortes, antes prevista no
+seu art. 421, § 1º, I, passou-se a entender que cada um deles poderia indicar seu
+próprio assistente. O novo Código não alterou dita norma, pois seu art. 465, § 1º,
+II, contém disposição similar. Logo, continuam os litisconsortes com a faculdade
+de se assessorar, cada um deles, por assistente técnico próprio.
+O  novo  Código,  a  exemplo  do  anterior,  dispensa  a  formalidade  do
+compromisso  do  perito,  impondo-lhe,  porém,  a  obrigação  de  cumprir
+escrupulosamente o encargo judicial que lhe foi cometido (art. 466, caput).
+314
+O  perito  deverá,  ainda,  assegurar  aos  assistentes  das  partes  o  acesso  e  o
+acompanhamento  das  diligências  e  dos  exames  que  realizar,  com  prévia
+comunicação, comprovada nos autos, com antecedência mínima de cinco dias
+(art.  466,  §  2º).
+315
+  O  juiz  assinará  o  prazo  para  a  conclusão  da  diligência  e
+entrega do laudo, quando de sua determinação na decisão de saneamento (art.
+357, § 8º). Depois de examinar os quesitos apresentados pelas partes, indeferirá
+os  impertinentes  e  formulará,  de  ofício,  os  que  entender  necessários  ao
+esclarecimento da causa (art. 470).
+316
+
+Havendo escusa do perito, ou recusa dele pela parte, o juiz, se acolher a
+alegação, nomeará outro técnico (art. 467, parágrafo único).
+317
+II – Nomeação do perito e perícia
+[/PAGINA 918]
+
+[PAGINA 919]
+consensual:
+Cabe  ao  juiz  nomear,  em  cada  processo,  o  perito  que  deverá  ser
+especializado no objeto a ser submetido à prova técnica (art. 465, caput). O novo
+CPC, no entanto, apresenta uma novidade na matéria, ao prever que as partes, de
+comum acordo, podem escolher o perito, antecipando-se, portanto, à nomeação
+do juiz (art. 471, caput). O requerimento será acolhido pelo juiz, desde que (i) as
+partes  sejam  plenamente  capazes,  e (ii)  a  causa  possa  ser  resolvida  por
+autocomposição (art. 471, I e II).
+Ao  escolher  o  perito,  as  partes  já  deverão  indicar,  no  requerimento,  os
+respectivos assistentes técnicos que acompanharão a perícia, cuja realização dar-
+se-á  em  data  e  local  previamente  anunciados  (art.  471,  §  1º).  Nessa  perícia
+consensual,  perito  e  assistentes  técnicos  entregarão  o  laudo  e  os  pareceres  no
+prazo desde logo fixado pelo juiz (art. 471, § 2º).
+Admitida a perícia consensual, substituirá ela, para todos os efeitos, a que
+seria realizada por perito nomeado pelo juiz, na forma ordinária da prova técnica
+(art. 471, § 3º).
+III – Coleta dos elementos necessários à perícia:
+Para desempenho de sua função, poderão os peritos e os assistentes utilizar-
+se  de  todos  os  meios  necessários,  ouvindo  testemunhas,  obtendo  informações,
+solicitando  documentos  que  estejam  em  poder  de  parte,  de  terceiros  ou  em
+repartições públicas, bem como instruir o laudo com planilhas, mapas, plantas,
+desenhos,  fotografias  ou  outros  elementos  necessários  ao  esclarecimento  do
+objeto da perícia (art. 473, § 3º).
+318
+Antes de proceder aos trabalhos técnicos, as partes serão intimadas da data e
+local designados para início da perícia, seja tal designação de iniciativa do juiz ou
+do perito (art. 474).
+319
+ Se a deliberação for do juiz, constará dos autos e será
+intimada  como  todas  as  deliberações  processuais.  Se  for  do  perito,  deverá
+informar  ao  escrivão  para  que  este  tome  as  providências  intimatórias.  A
+intimação far-se-á na pessoa dos advogados, salvo se a perícia tiver de recair
+sobre o próprio litigante (exames médicos, psiquiátricos etc.).
+320
+Quando o exame tiver por objeto a autenticidade da letra e firma, o perito
+poderá fazer a verificação de duas maneiras: (i) por confronto com documentos
+requisitados  de  repartições  públicas,  como  cartões  de  firmas  ou  escrituras
+
+existentes em poder de tabeliães; ou (ii)  com  originais  colhidos  em  juízo,  em
+papel que o sindicado preencherá por cópia ou sob ditado, com dizeres diferentes
+do documento periciado (art. 478, § 3º).
+321
+IV – O laudo pericial:
+O trabalho do perito é reduzido a laudo, que será depositado em cartório,
+pelo menos vinte dias antes da audiência de instrução e julgamento (art. 477).
+322
+O laudo, conforme o art. 473, deverá conter:
+(a) a exposição do objeto da perícia (inciso I);
+(b) a análise técnica ou científica realizada pelo perito (inciso II);
+(c)  a  indicação  do  método  utilizado,  esclarec
+[/PAGINA 919]
+
+[PAGINA 920]
+endo-o  e  demonstrando  ser
+predominantemente aceito pelos especialistas da área do conhecimento da qual
+se originou (inciso III); e
+(d)  resposta  conclusiva  a  todos  os  quesitos  apresentados  pelo  juiz,  pelas
+partes e pelo órgão do Ministério Público (inciso IV).
+323
+O  perito  deverá  fundamentar  o  laudo  em  linguagem  simples  e  com
+coerência lógica, indicando como alcançou suas conclusões (art. 473, § 1º),
+324
+sendo-lhe  vedado  ultrapassar  os  limites  de  sua  designação,  bem  assim  emitir
+opiniões  pessoais  que  excedam  o  exame  técnico  ou  científico  do  objeto  da
+perícia  (§  2º).
+325
+  O  perito  não  substitui  o  juiz,  pelo  que  não  lhe  cabe  extrair
+conclusões  jurídicas  dos  fatos  periciados.  Seu  papel  é  o  de  fornecedor  de
+informação  de  dados  relevantes  para  a  instrução  probatória.  Mas  a  avaliação
+desses dados no plano jurídico é ato de competência exclusiva do juiz.
+A  entrega  do  laudo,  em  regra,  ocorrerá  dentro  do  prazo  fixado,  mas,
+havendo motivo legítimo, o juiz poderá conceder ampliação daquele prazo, pela
+metade  e  apenas  por  uma  única  vez  (art.  476).
+326
+  Mesmo  além  do  termo
+assinalado,  poder-se-á  aceitar  o  laudo,  desde  que  se  respeite  a  antecedência
+mínima de vinte dias da audiência. As regras dos arts. 465, 477 e 476 não devem
+ser entendidas como inflexíveis, cumprindo evitar inteligência que as considere
+como geradoras de prazos fatais e irremediáveis.
+Em hipótese alguma, admite-se que o juiz proceda ao julgamento da causa
+imediatamente  após  a  juntada  do  laudo  pericial,  sem  ouvir  as  partes  a  seu
+respeito (art. 477, § 1º). Semelhante proceder representaria grave violação ao
+contraditório, acarretando nulidade da sentença por cerceamento de defesa.
+327
+
+V – O parecer dos assistentes técnicos:
+Os assistentes não estão obrigados a subscrever o laudo do perito, embora
+possam fazê-lo, quando estiverem de acordo com suas conclusões. Seu encargo é
+o de apresentar parecer, seja para apoiar o laudo, seja para dele discordar. Terão
+o prazo comum de quinze dias, que corre da intimação das partes sobre a juntada
+do laudo (art. 477, § 1º).
+328
+ Não há intimação pessoal dos assistentes. Cumpre à
+parte  interessada  diligenciar  para  que  o  trabalho  de  seus  assistentes  seja
+produzido no referido prazo.
+VI – Prazos:
+O prazo que o juiz inicialmente marca para a prova técnica (art. 357, § 8º) é
+o  que  se  julga  razoável  para  a  conclusão  da  perícia,  em  face  de  suas
+peculiaridades.  É  um  ponto  de  referência,  a  partir  do  qual  o  juiz  se  sentirá
+habilitado  a  escolher  a  data  da  audiência,  sem  risco  de  cercear  a  prova.  Os
+próprios  peritos,  todavia,  podem  demonstrar  que  ele  não  foi  suficiente  para
+concluir a diligência. Daí a permissão legal para sua prorrogação (art. 476).
+O prazo  para  os  assistentes  técnicos,  como  já se  viu,  não  é  o  mesmo  do
+perito. Se tiverem acompanhado a perícia e concordado com
+[/PAGINA 920]
+
+[PAGINA 921]
+as conclusões do
+perito, poderão, naturalmente, subscrever o seu laudo. Se não o fizerem, terão
+todos os assistentes o prazo comum de quinze dias para a apresentação de seus
+pareceres, contados na forma do art. 477, § 1º.
+329-330
+Com ou  sem  o  laudo  e  os pareceres, o  juiz  pode  marcar  a  audiência  de
+instrução  e  julgamento.  Eventual  atraso  na  produção  do  laudo  não  pode  ser
+tratado como causa de preclusão a respeito da prova técnica, mesmo porque não
+se trata, na espécie, de prazo destinado à prática de ato da parte, mas de prazo
+endereçado a ato de agente auxiliar de juízo, e a preclusão, na melhor técnica, é
+fenômeno  que  diz  respeito  às  faculdades  atribuídas  aos  litigantes,  durante  a
+marcha processual.
+De qualquer forma, o laudo do perito judicial terá de ser protocolado em
+juízo pelo menos vinte dias antes da audiência de instrução e julgamento, a fim
+de  proporcionar  tempo  às  partes  para  se  inteirarem  do  respectivo  conteúdo  e
+requererem os eventuais esclarecimentos que o louvado prestará durante aquela
+audiência (art. 477, § 3º).
+A  não  apresentação  do  parecer  do  assistente  técnico  não  é  empecilho  à
+realização  da  audiência.  Mas  se  a  falta  for  do  laudo  do  perito  do  juízo,  a
+audiência terá que ser suspensa, caso em que o juiz nomeará substituto para o
+técnico (art. 468, II), podendo impor multa ao remisso (art. 468, § 1º).
+
+VII – Quesitos suplementares:
+Os quesitos suplementares não são simples pedidos de esclarecimento. Estes
+se formulam depois de apresentado o laudo, e não se destinam a ampliar o objeto
+da perícia, mas apenas a esclarecer dados e informações trazidos pelo técnico
+(art. 477, §§ 2º e 3º). Os suplementares são quesitos novos, que, de certa forma,
+ampliam o objeto do trabalho pericial e que são permitidos pelo art. 469. Não
+podem,  por  isso  mesmo,  ser  formulados  depois  de  concluída  a  perícia  e
+apresentado o laudo em juízo.
+Autoriza,  porém,  o  dispositivo  citado,  que  os  quesitos  suplementares
+apresentados e aprovados pelo juiz sejam submetidos ao perito e assistentes, com
+prévia ciência ao outro litigante, podendo ser respondidos pelo perito, desde logo,
+ou na audiência de instrução e julgamento (art. 469 e parágrafo único).
+331
+VIII – Perícia a ser realizada fora da comarca:
+Quando  o  objeto  da  perícia  estiver  fora  da  comarca  por  onde  corre  o
+processo, a diligência será realizada por meio de carta precatória. Nesse caso, a
+nomeação de perito e a indicação de assistentes técnicos tanto poderão se dar no
+juízo deprecante como no deprecado, conforme for da conveniência do juiz ou
+das partes (art. 465, § 6º)
+332
+ (vide, retro, nº 384).
+IX – Esclarecimentos do perito:
+O perito do juízo tem o dever de prestar esclarecimentos, em quinze dias,
+contados  de  sua  intimação,  a  requerimento  de  qualquer  das  partes  ou  do
+Ministério Público, ou por determinação do juiz de ofício, nos casos enumerados
+no § 2º do art. 477, ou seja:
+(a) quando se est
+[/PAGINA 921]
+
+[PAGINA 922]
+abelecer divergência ou dúvida, sobre o laudo, oriunda da
+parte, do juiz ou do órgão do Ministério Público (inciso I);
+(b)  quando  ocorrer  divergência  entre  o  laudo  e  o  parecer  do  assistente
+técnico da parte (inciso II).
+Os esclarecimentos serão prestados por escrito, nos autos, dentro do prazo do
+art. 477, § 2º. Se persistir a inconformidade da parte, requererá ela, ao juiz, que
+mande  intimar  o  perito  ou  o  assistente  técnico  a  comparecer  à  audiência  de
+instrução e julgamento para responder aos quesitos esclarecedores, desde logo
+formulados. O perito, nessa hipótese, deverá ser intimado por meio eletrônico,
+com pelo menos dez dias de antecedência da audiência (§ 4º).
+X – Perícia extrajudicial:
+As partes, na inicial ou na contestação, podem apresentar sobre as questões
+
+747.
+da causa (de fato apenas) pareceres técnicos ou documentos elucidativos. Se o
+juiz  os  considerar  suficientes  para  a  solução  da  lide,  poderá  dispensar  a
+realização  da  perícia  judicial  (art.  472).  A  providência,  como  é  natural,  será
+aplicada com prudente arbítrio, para não se cercear o direito de defesa da parte
+contrária.  Havendo  qualquer  dúvida  a  respeito  do  laudo  ou  do  documento,
+necessária  se  fará  a  produção  da  prova  técnica  em  juízo,  pois  só  assim  se
+cumprirá a garantia maior do contraditório e ampla defesa (Constituição, art. 5º,
+LV).
+XI – Prova técnica simplificada:
+Em lugar da perícia judicial minuciosamente regulada pela lei, o novo CPC
+permite a denominada produção de prova técnica simplificada, aplicável quando
+o  ponto  controvertido  for  de  menor  complexidade  (art.  464,  §  2º).  Essa
+substituição da perícia pode ocorrer a requerimento das partes ou de deliberação
+do juiz de ofício.
+Consiste a prova técnica simplificada na simples inquirição em audiência de
+especialista, pelo juiz, sobre ponto controvertido da causa que demande especial
+conhecimento  científico  ou  técnico  (art.  464,  §  3º).  O  especialista  deverá  ter
+formação acadêmica específica na área, objeto de seu depoimento, e ao prestá-
+lo  poderá  valer-se  de  qualquer  recurso  tecnológico  de  transmissão  de  sons  e
+imagens, com o fim de esclarecer os pontos controvertidos da causa (art. 464, §
+4º).
+Valor probante da perícia
+O laudo pericial é o relato das impressões captadas pelo técnico, em torno
+do  fato  litigioso,  por  meio  dos  conhecimentos  especiais  de  quem  o  examinou.
+Vale  pelas  informações  que  contenha,  não  pela  autoridade  de  quem  o
+subscreveu, razão pela qual deve o perito indicar as razões em que se fundou
+para chegar às conclusões enunciadas em seu laudo (art. 473).
+O  perito  é  apenas  um  auxiliar  da  Justiça  e  não  um  substituto  do  juiz  na
+apreciação do evento probando. “Deve apenas apurar a existência de fatos cuja
+certificação  dependa  de  conhecimento  técnico”.
+333
+  Seu  parecer  não  é  uma
+sentença, mas apenas fonte de informação para o juiz, que não fica adstrito ao
+laudo  e
+[/PAGINA 922]
+
+[PAGINA 923]
+pode  formar  sua  convicção  de  modo  contrário  à  base  de  outros
+elementos ou fatos provados no processo (art. 479).
+334
+ E, realmente, deve ser
+assim, pois, do contrário, o laudo pericial deixaria de ser simples meio de prova
+
+para assumir o feitio de decisão arbitral
+335
+ e o perito se colocaria numa posição
+superior à do próprio juiz, tornando dispensável até mesmo o pronunciamento
+jurisdicional.
+Assim, “o parecer do perito é meramente opinativo e vale pela força dos
+argumentos em que repousa”.
+336
+Deles, em consequência, o juiz pode divergir, em duas hipóteses:
+(a)  quando  carecer  de  fundamentação  lógica.  “Se  o  perito  subtrair  ao
+conhecimento do juiz e dos interessados os motivos em que se baseou para emitir
+a  sua  opinião,  nenhum  valor  se  poderá  atribuir  ao  seu  laudo:  é  como  se  não
+existisse laudo pericial”;
+337
+(b) quando outros elementos de prova do processo o conduzirem à formação
+de  convicção  diversa  daquela  apontada  pelo  perito,  posto  que  a  perícia  não  é
+prova hierarquicamente superior às demais provas; e, na técnica do Código, o
+juiz não se vincula à opinião do perito, mas apenas à própria convicção.
+O  juiz,  enfim,  não  está  adstrito  ao  laudo  (art.  479),  mas,  ao  recusar  o
+trabalho  técnico,  deve  motivar  fundamentadamente  a  formação  de  seu
+convencimento em rumo diverso.
+338
+O que de forma alguma se tolera é desprezar o juiz o laudo técnico para
+substituí-lo  por  seus  próprios  conhecimentos  científicos  em  torno  do  fato
+periciado.  Eventualmente,  o  magistrado  pode  deter  cultura  técnica  além  da
+jurídica,  mas  não  poderá  utilizá-la  nos  autos,  porque  isso  equivaleria  a  uma
+inaceitável cumulação de funções inconciliáveis. Assim como o juiz não pode ser
+testemunha no processo submetido a seu julgamento, também não pode ser, no
+mesmo feito,  juiz  e  perito.  A  razão é  muito  simples:  se,  ao  julgar,  ele  invoca
+dados  que  só  seu  conhecimento  científico  lhe  permite  alcançar,  na  verdade
+estará  formando  sua  convicção  a  partir  de  elementos  que  previamente  não
+passaram pelo crivo do contraditório e que, efetivamente, sequer existem no bojo
+dos  autos.  Todo  meio  de  convencimento,  para  ser  útil  ao  processo,  tem  de
+obedecer ao respectivo procedimento legal de produção dentro dos autos, sempre
+com inteira submissão ao princípio do contraditório. Quod non est in actis non est
+in mundo.  Informes  técnicos,  estranhos  ao  campo  jurídico,  portanto,  somente
+podem penetrar no processo por intermédio de laudo pericial produzido na forma
+da lei, por perito regularmente nomeado para a diligência probatória,
+339
+ e sob
+controle procedimental das partes.
+
+748.
+Ao juiz não cabe, no sistema processual brasileiro, representar, reproduzir
+ou  fixar  os  fatos,  isto  é,  “não  cabem  funções  próprias  de  testemunhas  ou
+peritos”.
+340
+  Mesmo  quando  procede  à  inspeção  judicial,  deve  fazê-lo
+acompanhado de peritos e dos representantes d
+[/PAGINA 923]
+
+[PAGINA 924]
+as partes, a fim de que o caráter
+técnico e o contraditório prevaleçam na diligência (arts. 482 e 483, parágrafo
+único).
+341
+Nova perícia
+Quando o juiz entender que, não obstante o laudo, a matéria controvertida
+não  restou  “suficientemente  esclarecida”,  poderá  determinar  “a  realização  de
+nova perícia” (art. 480, caput).
+342
+ Essa deliberação poderá ser tomada, de ofício
+ou a requerimento da parte, logo após a juntada do laudo ao processo, ou em
+diligência após os esclarecimentos dos peritos em audiência e coleta dos demais
+meios de prova, desde que persista a dúvida em torno do thema probandum.
+A nova perícia é uma exceção e não uma faculdade da parte, de sorte que o
+juiz só a determinará quando julgá-la realmente imprescindível diante de uma
+situação obscura refletida nos elementos de prova dos autos.
+Conforme  o  sábio  conselho  de  Batista  Martins,  “o  juiz  deverá  usar  desse
+arbítrio com moderação e prudência, para evitar a perda de tempo e o aumento
+das  despesas,  mas  semelhantes  preocupações  não  lhe  deverão  embaraçar  a
+ação,  desde  que  o  laudo  pericial  e  a  crítica  não  lhe  hajam  subministrado  os
+conhecimentos de que precisa”.
+343
+Sua  finalidade,  portanto,  é  apenas  eliminar  a  perplexidade  do  julgador,
+gerada pela prova existente nos autos. Mas se o laudo é, de fato, inconclusivo,
+incoerente ou inconvincente, a prova técnica não terá cumprido o papel que lhe
+cabe na pesquisa da verdade em torno das alegações fáticas das partes. Se este
+for  o  quadro  dos  autos,  não  se  pode  considerar  a  renovação  da  perícia  como
+simples faculdade do juiz. O que estará em jogo será o direito à ampla defesa,
+que é inerente à garantia constitucional do devido processo legal (CF, art. 5º, LIV
+e LV). A parte prejudicada pela inépcia da prova técnica, então, não poderá ser
+privada de uma segunda perícia, sob pena de cerceamento de defesa.
+Determinada a segunda perícia, seu objeto serão os mesmos fatos sobre que
+recaiu  a  primeira  e  sua  finalidade  corrigir  as  omissões  ou  inexatidões  dos
+resultados  a  que  esta  conduziu  (art.  480,  §  1º).
+344
+  O  procedimento  da  nova
+
+perícia é o comum das provas da espécie (art. 480, § 2º),
+345
+ e, logicamente, o
+perito e assistentes não poderão ser os mesmos que serviram na anterior.
+O segundo laudo não anula ou invalida o primeiro. Ambos permanecerão
+nos autos e o juiz fará o cotejo entre eles, apreciando livremente o valor de um e
+outro (art. 480, § 3º),
+346
+ a fim de formar seu convencimento, segundo a regra
+geral  do  art.  371.
+347
+  Poderão,  destarte,  ser  extraídos  dados  ou  elementos  de
+convicção  de  ambos  os  trabalhos  periciais,  não  obstante  as  imperfeições  do
+primeiro laudo.
+
+749.
+750.
+§ 93. INSPEÇÃO JUDICIAL
+Sumário: 749. Conceito. 750. Procedimento.
+Conceito
+Inspeção  judicial  é  o  meio  de  prova  que  consiste  na  percepção  sensorial
+direta do juiz sobre qualidades ou circunstâncias corpóreas de pessoas ou coisas
+relacionadas  com
+[/PAGINA 924]
+
+[PAGINA 925]
+litígio.
+348
+  Como  regulamentação  legal,  acha-se  consagrada
+pelo art. 481 do NCPC, que confere, expressamente, ao juiz o poder de, ex officio
+ou a requerimento da parte, “em qualquer fase do processo, inspecionar pessoas
+ou coisas, a fim de se esclarecer sobre fato que interesse à decisão da causa”.
+Entretanto, a praxe forense e a opinião doutrinária já, mesmo antes dos dois
+últimos Códigos, acolhiam esse meio de prova. O objeto da inspeção pode ser:
+(a)  pessoas:  podem  ser  partes  ou  não  do  processo,  desde  que  haja
+necessidade de verificar seu estado de saúde, suas condições de vida etc.;
+(b) coisas: móveis ou imóveis e mesmo documentos de arquivos, de onde
+não possam ser retirados;
+(c)  lugares:  quando,  por  exemplo,  houver  conveniência  de  se  conhecer
+detalhes de uma via pública onde se deu um acidente ou outro acontecimento
+relevante para a solução da causa.
+Não  se  reconhece  à  parte  o  direito  de  exigir  a  inspeção  judicial.  Cabe
+apenas ao juiz deliberar sobre a conveniência, ou não, de realizá-la, de sorte que
+seu indeferimento não configura cerceamento de defesa.
+349
+Procedimento
+A exibição da coisa ou pessoa a ser inspecionada, normalmente, deve ser
+feita  em  juízo,  em  audiência,  para  isso  determinada,  com  prévia  ciência  das
+partes. O juiz, no entanto, pode também deslocar-se e realizar a diligência no
+próprio  local  onde  se  encontre  a  pessoa  ou  coisa.  Isso  ocorrerá  quando  (art.
+483):
+350
+(a) julgar necessário para melhor verificação ou interpretação dos fatos que
+
+deva observar (inciso I);
+(b) a coisa não puder ser apresentada em juízo sem consideráveis despesas
+ou graves dificuldades (inciso II);
+(c) determinar a reconstituição dos fatos (inciso III).
+Durante a inspeção, o juiz poderá ser assistido de um ou mais peritos, se
+julgar conveniente (art. 482),
+351
+ os quais serão de sua exclusiva escolha, por se
+tratar, a inspeção, de ato pessoal do magistrado. Pode, naturalmente, ser o perito
+já nomeado no processo, ou outro escolhido para o ato.
+Às  partes  é  assegurado  o  direito  de  assistir  à  inspeção,  prestando
+esclarecimentos e fazendo observações que reputem de interesse para a causa
+(art. 483, parágrafo único).
+352
+ Nada impede, outrossim, que sejam assessoradas
+por  técnicos  de  sua  confiança,
+353
+  os  quais,  porém,  lhes  prestarão
+esclarecimentos  particulares,  sem  assumir  a  posição  processual  de assistentes
+técnicos, como ocorre na prova pericial.
+Concluída a diligência, mandará o juiz que seja, logo em seguida, lavrado
+auto circunstanciado, mencionando nele tudo quanto for útil ao julgamento da
+causa (art. 484, caput).
+354
+O mais interessante é iniciar a lavratura do auto já no curso da inspeção, de
+modo  que  cada  fato,  circunstância  ou  esclarecimento  apurado  pelo  juiz  vá
+ficando  logo  registrado,  para  evitar  controvérsias  ou  impugnações  que  são
+comuns diante de documentos redigidos a posteriori. Para tanto, o juiz se fará
+acompanhar  do  escrivão
+[/PAGINA 925]
+
+[PAGINA 926]
+do  feito,  que  redigirá  o  auto  no  próprio  local  da
+inspeção, colhendo, ao final, a assinatura do juiz, das partes e demais pessoas que
+tenham tido participação na diligência.
+Para melhor documentação da prova, o juiz poderá determinar que o auto
+seja instruído com desenho, gráfico ou fotografia (art. 484, parágrafo único).
+355
+A iniciativa dessa medida pode, também, partir das partes presentes.
+Observe-se, finalmente, que o auto não é local adequado para o juiz proferir
+julgamento de valor quanto ao fato inspecionado, apreciação que deverá ficar
+reservada para a sentença. O auto deve ser objetivo, limitando-se à enunciação
+ou notícia dos fatos apurados.
+356
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+13
+_________
+CPC/1973, sem correspondência.
+CHAVES, Carlos Fernando Brasil; REZENDE, Afonso Celso F. Tabelionato de
+notas e o notário perfeito. 5. ed. Campinas: Millennium, 2010, p. 172.
+RIBEIRO,  Juliana  de  Oliveira  Xavier. Direito  notarial  e  registral.  Rio  de
+Janeiro: Elsevier, 2008, p. 219.
+ORLANDI  NETO,  Narciso.  Ata  notarial  e  a  retificação  no  registro
+imobiliário. In: BRANDELLI, Leonardo (coord.). Ata notarial. Porto Alegre:
+Instituto de Registro Imobiliário do Brasil: S/A, 2004, p. 156.
+BARIONI, Rodrigo. Os limites da ata notarial como meio de prova em juízo.
+In:  OLIVEIRA  NETO,  Olavo  de;  MEDEIROS  NETO,  Elias  Marques  de;
+LOPES, Ricardo Augusto de Castro (coords.). A prova no direito processual
+civil cit., p. 558.
+A fé pública é definida como “a veracidade presumida das afirmações de
+Oficiais de Justiça, de Escrivães e Notários. A fé pública é o princípio legal,
+mas  é  presunção tantum”  (MOREIRA,  Alberto  Camiña.  Ata  notarial.  In:
+OLIVEIRA NETO, Olavo de; MEDEIROS NETO, Elias Marques de; LOPES,
+Ricardo  Augusto  de  Castro  (coords.). A  prova  no  direito  processual  civil:
+estudos em homenagem ao professor João Batista Lopes. São Paulo: Verbatim,
+2013, p. 16).
+MOREIRA, Alberto Camiña. Ata notarial. In: OLIVEIRA NETO, Olavo de;
+MEDEIROS NETO, Elias Marques de; LOPES, Ricardo Augusto de Castro
+(coords.). A prova no direito processual civil cit., p. 24.
+CHICUTA, Kioitsi. In: BRANDELLI, Leonardo (coord.). Ata notarial. Porto
+Alegre: SAFE, 2004, p. 180.
+CARNELUTTI,  Francesco. Sistema  de  derecho  procesal  civil.  Trad.  de
+Niceto Alcalá-Zamora Y Castillo e Santiago Sentís Melendo. Buenos Aires:
+Uteha, 1944, p. 409, v. II.
+BARIONI, Rodrigo. Os limites da ata notarial como meio de prova em juízo
+cit., p. 560.
+TJSP,  17ª  Câm.  Direito  Privado,  AI  0480425-03.2010.8.26.0000,  Rel.  Des.
+Souza Lopes, ac. 11.05.2011.
+TJSP, 1ª Câm. Direito Privado, AI 990.10.146753-4, Rel. Des. Rui Cascaldi,
+ac. 05.10.2010.
+CPC/1973, arts. 342 e 343.
+
+15
+22
+23
+25
+26
+30
+14
+16
+17
+18
+19
+20
+21
+24
+27
+28
+29
+CPC/1973, sem correspondência.
+LOPES, João Batista. Ônus da prova e teoria das cargas dinâmicas no novo
+Código de Processo Civil. Revista de Processo, São Paulo, n. 204, p. 233.
+CPC/1973, art. 343, § 2º.
+CPC/1973, art. 343, § 1º.
+CPC/1973, art
+[/PAGINA 926]
+
+[PAGINA 927]
+. 345.
+CPC/1973, art. 347.
+CPC/1973, art. 347, parágrafo único.
+CPC/1973, arts. 342, 343 e 346.
+MARQUES, José Frederico. Manual de Direito Processual Civil. São Paulo:
+Saraiva, 1974, v. II, n. 463, p. 195. No mesmo sentido: RT 640/137; 651/116;
+RJTJESP  89/94,  101/198  e  107/304; RSTJ  191/321.  Admitindo  depoimento
+pessoal  por  procurador,  desde  que  disponha  de  poderes  específicos: RT
+481/165, 679/147, RJ 175/74; RP 1/199, 6/307; RBDP 40/134; RF 256/258.
+AMARAL SANTOS, Moacyr. Comentários ao Código de Processo Civil. São
+Paulo: RT, 1974, v. IV, n. 58, pp. 79-80.
+CPC/1973, art. 411.
+TJPR, 1ª CC., Ag. 14.653, Rel. Des. Sydney Zappa, ac. 23.03.1998, Juis  –
+Jurisprudência  Informatizada  Saraiva,  n.  23.  PONTES  DE  MIRANDA,
+Francisco Cavalcanti. Comentários ao Código de Processo Civil. 3. ed. Rio de
+Janeiro: Forense, 1996, t. IV, p. 311; SANTOS, Ernane Fidélis dos. Manual de
+Direito Processual Civil. 8. ed. São Paulo: Saraiva, 2001, v. I, p. 230.
+PONTES DE MIRANDA, Francisco Cavalcanti. Comentários ao Código de
+Processo  Civil.  São  Paulo:  RT,  1974,  v.  IV,  p.  271;  LOPES,  João  Batista.
+Manual das Provas no Processo Civil. Campinas: Kennedy, 1974, p. 48.
+CPC/1973, sem correspondência.
+CPC/1973, art. 452, II.
+CPC/1973, art. 346.
+“O depoimento pessoal é ato personalíssimo em que a parte revela ciência
+própria  sobre  determinado  fato.  Assim,  nem  o  mandatário  com  poderes
+especiais  pode  prestar  depoimento  pessoal  no  lugar  da  parte”  (STJ,  3ª  T.,
+REsp 623.575/RO, Rel. Min. Nancy Andrighi, ac. 18.11.2004, RSTJ 191/321;
+STJ,  4ª  T.,  REsp  54.809/MG,  Rel.  Min.  Sálvio  de  Figueiredo  Teixeira,  ac.
+08.05.1996, DJU  10.06.1996,  p.  20.335).  Há,  porém,  precedentes  que
+permitem  o  depoimento  por  procurador  com  poderes  especiais,  ora  sem
+
+33
+35
+37
+39
+46
+31
+32
+34
+36
+38
+40
+41
+42
+43
+44
+45
+restrições  (STF,  2ª  T.,  RE  85.655/SP,  Rel.  Min.  Cordeiro  Guerra,  ac.
+05.10.1976, RePro  6/307),  ora  em  circunstâncias  excepcionais  (TJSP,  10ª
+Câm. Dir. Privado, Ap. 9.411-4, Rel. Des. Quaglia Barbosa, ac. 15.10.1996,
+JTJ  186/144).  A  pessoa  jurídica  prestará  depoimento  pessoal  por  seu
+representante legal ou por preposto especialmente credenciado (STJ, 3ª T.,
+REsp  191.078/MA,  Rel.  Min.  Ari  Pargendler,  ac.  15.09.2000, DJU
+09.10.2000, p. 142).
+CPC/1973, art. 344, parágrafo único.
+CPC/1973, art. 348.
+MONTEIRO, João. Programa do Curso de Processo Civil. 3. ed. São Paulo:
+Duprat, 1912, v. II, § 144, p. 190.
+CPC/1973, art. 345. 269, II.
+LOPES,  João  Batista. Manual  das  Provas  no  Processo  Civil.  Campinas:
+Kennedy, 1974, p. 45.
+CPC/1973, art. 14, I e II.
+MARQUES, José Frederico. Manual de Direito Processual Civil. Campinas:
+Bookseller, 1997, v. II, n. 469.
+CPC/1973, art. 351.
+LOPES, João Batista. Op. cit.,  p.  45.  O  Código  Civil,  ao  tratar  do  mesmo
+tema, dispõe que “não tem eficácia a confissão se provém de quem não é
+capaz de dispor do direito a que se referem os fatos confessados” (art
+[/PAGINA 927]
+
+[PAGINA 928]
+. 213).
+Barbosa Moreira considera melhor o texto do Código Civil que o do Código de
+Processo  Civil  (art.  351  [NCPC,  art.  389]:  “Não  vale  como  confissão  a
+admissão,  em  juízo,  de  fatos  relativos  a  direitos  indisponíveis”).  É  que  a
+hipótese “é realmente de eficácia, não de validade” (BARBOSA MOREIRA,
+José  Carlos.  Anotações  sobre  o  título  “Da  prova”  do  Novo  Código  Civil.
+Revista Jurídica, v. 370, p. 27, ago. 2008).
+CPC/1973, art. 353.
+CPC/1973, art. 349, parágrafo único.
+CPC/1973, sem correspondência.
+MONTEIRO, João. Op. cit., II, § 153, p. 210.
+CPC/1973, art. 350.
+CPC/1973, art. 350, parágrafo único.
+MARQUES, José Frederico. Manual de Direito Processual Civil cit., v. II, n.
+467, p. 200.
+
+49
+50
+54
+56
+61
+47
+48
+51
+52
+53
+55
+57
+58
+59
+60
+62
+63
+MONTEIRO, João. Op. cit., v. II, § 152, p. 209.
+CPC/1973, art. 352, caput.
+O Código Civil admite a anulação da confissão com base apenas no erro de
+fato e na coação (art. 214). É que, mesmo sendo o confitente induzido por
+dolo do adversário a respeito da conveniência de depor, o fato confessado,
+sendo verdadeiro, não há de ser ignorado pelo juiz. No entanto, se o dolo for
+utilizado  para  induzir  o  depoente  a  supor  verdadeiro  fato  que  não  o  é,
+subsistirá a possibilidade de anular a confissão, não por dolo, mas por erro
+(conferir:  THEODORO  JÚNIOR,  Humberto. Comentários  ao  novo  Código
+Civil. 3. ed. Rio de Janeiro: Forense, 2005, v. III, t. II, n. 431, p. 431-433;
+MARINONI,  Luiz  Guilherme;  ARENHART,  Sérgio  Cruz. Comentários  ao
+Código de Processo Civil. 2. ed. São Paulo: RT, 2005, v. 5, t. II, pp. 147-149).
+Barbosa Moreira aplaude o aprimoramento redacional feito pelo atual Código
+Civil  (BARBOSA  MOREIRA,  José  Carlos.  Anotações  sobre  o  título  “Da
+prova” do Novo Código Civil. Revista Jurídica, v. 370, p. 27, ago. 2008).
+CPC/1973, art. 352, parágrafo único.
+CPC/1973, art. 354.
+MONTEIRO, João. Op. cit., II, § 151, p. 204.
+AMARAL SANTOS, Moacyr. Comentários ao Código de Processo Civil. São
+Paulo: RT, 1976, v. IV, n. 100, p. 133.
+CPC/1973, arts. 33 a 341.
+BETTI, Emilio. Diritto Processuale Civile. 2. ed. Roma: Società editrice del
+“Foro Romano”, 1936, p. 355.
+CPC/1973, art. 358.
+CPC/1973, art. 359, II.
+CPC/1973, arts. 355 a 363.
+CPC/1973, art. 844 e 845.
+Amaral  Santos  entende  que  o  juiz  não  tem  poderes  para  determinar  a
+exibição ex officio (AMARAL SANTOS, Moacyr. Comentários ao Código de
+Processo Civil. 2. ed. São Paulo: RT, 1977, v. IV, n. 107, p. 141). Concessa
+venia, não aceitamos como válida a restrição do renomado mestre porque há
+de  prevalecer  o  poder  de  iniciativa,  assegurado  pelo  art.  367  ao  juiz,  no
+tocante à completa instrução da causa.
+CPC/1973, art. 356.
+CPC/1973, art. 359, I.
+
+73
+75
+78
+79
+80
+81
+84
+64
+65
+66
+67
+68
+69
+70
+71
+72
+74
+76
+77
+82
+83
+85
+CPC/1973, art. 359, II.
+CPC/1973, art. 363.
+STF, 2ª T., RE 91.218/SP, Rel. Min. Djaci Falcão, ac. 10.11.1981, RTJ 101/676.
+CPC/1973, art. 363, parágrafo único.
+CPC/1973, arts. 360 a 362.
+C
+[/PAGINA 928]
+
+[PAGINA 929]
+PC/1973, art. 360.
+CPC/1973, art. 319.
+CPC/1973, art. 330, II.
+CPC/1973, art. 362.
+1º  TACiv.SP,  M.  Seg.  197.442,  ac.  21.11.1973,  Rel.  Juiz  Machado  Alvim,
+Revista Forense 247/169; TJSP, MS 226.098-1/8, Rel. Des. Villa da Costa, ac.
+21.10.1994, RT 712/151.
+CPC/1973, art. 381.
+PONTES DE MIRANDA, Francisco Cavalcanti. Comentários ao Código de
+Processo Civil, 1974, v. IV, p. 329.
+PONTES DE MIRANDA, Francisco Cavalcanti. Op. cit., IV, p. 332.
+PONTES DE MIRANDA, Francisco Cavalcanti. Op. cit., IV, p. 333.
+CARNELUTTI, Francesco. La Prueba Civil. Buenos Aires: Ed. Arayú, 1955,
+n.  34-35,  pp.  154-156, apud  PESTANA  DE  AGUIAR,  João  Carlos.
+Comentários ao Código de Processo Civil. São Paulo: RT, 1974, v. IV, p. 158.
+MARQUES, José Frederico. Manual de Direito Processual Civil. Campinas:
+Bookseller, 1974, v. II, n. 472, p. 206.
+CARNELUTTI,  Francesco. Sistema  di  diritto  processuale  civile.  Padova:
+Cedam, 1936, I, p. 691.
+AMARAL SANTOS, Moacyr. Comentários ao Código de Processo Civil.  2.
+ed.  São  Paulo:  RT,  1976,  v.  IV,  n.  131  e  132,  p.  164-165.  “A  certeza  da
+proveniência  do  documento  do  autor  indicado  chama-se autenticidade”
+(CARNELUTTI,  Francesco. Op.  cit.,  v.  I,  p.  701, apud  BARBI,  Celso
+Agrícola. Ação Declaratória. 3. ed., p. 108).
+CPC/1973, art. 366.
+CPC/1973, art. 157.
+STJ,  3ª  T.,  REsp  924.992/PR,  Rel.  Min.  Paulo  de  Tarso  Sanseverino,  ac.
+19.05.2011, DJe 26.05.2011.
+CPC/1973, art. 364.
+
+86
+90
+91
+94
+95
+87
+88
+89
+92
+93
+96
+97
+98
+99
+Apud LOPES, João Batista. Manual das Provas no Processo Civil. Campinas,
+Kennedy, 1974, p. 40.
+CPC/1973, art. 387.
+CPC/1973, arts. 390 a 395.
+CPC/1973, art. 366.
+TJMG, Apel. 28.232, Rel. Des. Hélio Costa, ac. 11.09.1967, Minas  Forense
+52/163;  e  Apel.  28.260,  Rel.  Des.  Sylvio  Cerqueira,  ac.  14.11.1967, Minas
+Forense 53/25; TJSP, 29ª Câmara de Direito Privado, Apel. 992090533193/SP,
+Rel. Des. Reinaldo Caldas, ac. 17.03.2010, pub. 31.03.2010.
+MONTEIRO, João. Programa do Curso de Processo Civil. 3. ed. São Paulo:
+Duprat, 1912, v. II, § 134, p. 138. Os requisitos formais de escritura pública
+constam do art. 215 do Código Civil de 2002.
+CPC/1973, art. 367.
+CPC/1973, art. 365.
+O art. 216 do Código Civil de 2002 acrescenta uma solenidade ao traslado: a
+necessidade  de  ser  a  reprodução  conferida,  também,  por  outro  escrivão.
+Trata-se de um retrocesso em relação ao Código de Processo Civil, que se
+contenta com a fé pública daquele que formou o traslado. De qualquer forma
+a exigência é inócua, porque a certidão tem a mesma força do traslado e se
+este  não  valer  como  tal  valerá  como  certidão,  independentemente  do
+conserto aludido na lei material. Em suma, não foi abalado o sistema do art.
+365 do Código de Processo Civil [NCPC, art. 425] que colhe o traslado e a
+certidão  como  provas  equivalentes,  sem  o  requisito  da  dupla  conferência
+com  o  original,  sendo  suficiente  a  fé  pública  do  escrivão  ou  notário  que
+subscreve a reprodução.
+Os originai
+[/PAGINA 929]
+
+[PAGINA 930]
+s dos documentos digitalizados, a que alude o inciso VI do art. 365
+[NCPC, art. 425, VI], deverão ser preservados pelo seu detentor até o final do
+prazo para interposição de ação rescisória. Essa regra não se aplica ao título
+executivo  extrajudicial,  ou  outro  documento  relevante  à  instrução  do
+processo, casos em que o juiz poderá determinar o depósito do original em
+cartório ou secretaria (art. 365, § 2º, CPC [NCPC, art. 425, § 2º].
+CPC/1973, art. 371, I e II.
+CPC/1973, art. 371, III.
+CPC/1973, art. 369.
+CPC/1973, art. 372.
+
+103
+112
+116
+119
+100
+101
+102
+104
+105
+106
+107
+108
+109
+110
+111
+113
+114
+115
+117
+118
+CPC/1973, art. 372.
+CPC/1973, arts. 388, I, e 389, II.
+CPC/1973, art. 368, caput.
+Dispõe o art. 221 do Código Civil de 2002: “O instrumento particular, feito e
+assinado,  ou  somente  assinado  por  quem  esteja  na  livre  disposição  e
+administração de seus bens, prova as obrigações convencionais de qualquer
+valor”. Aboliu a nova lei civil, portanto, a velha exigência de testemunhas
+para condicionar o valor probante dos instrumentos negociais por documento
+particular.
+CPC/1973, art. 373.
+CPC/1973, art. 373, parágrafo único.
+CPC/1973, art. 368, parágrafo único.
+CPC/1973, art. 370.
+CPC/1973, art. 374, caput.
+CPC/1973, art. 374, parágrafo único.
+CPC/1973, art. 375.
+CPC/1973, art. 376.
+AMARAL  SANTOS,  Moacyr. Op.  cit.,  n.  157,  p.  198;  PONTES  DE
+MIRANDA, Francisco Cavalcanti. Comentários ao Código de Processo Civil,
+1974, v. IV, p. 352.
+CPC/1973, art. 377.
+CPC/1973, art. 377, parágrafo único.
+CPC/1973, art. 379.
+Sobre o tema dispõe o Código Civil de 2002: “Art. 226. Os livros e fichas dos
+empresários e sociedades provam contra as pessoas a que pertencem, e, em
+seu  favor,  quando,  escriturados  sem  vício  extrínseco  ou  intrínseco,  forem
+confirmados  por  outros  subsídios.  Parágrafo  único.  A  prova  resultante  dos
+livros e fichas não é bastante nos casos em que a lei exige escritura pública,
+ou escrito particular revestido de requisitos especiais, e pode ser ilidida pela
+comprovação da falsidade ou inexatidão dos lançamentos”.
+CPC/1973, art. 380.
+CPC/1973, art. 381.
+Dispõe  o  art.  1.191, caput,  do  Código  Civil  de  2002:  “O  juiz  só  poderá
+autorizar  a  exibição  integral  dos  livros  e  papéis  de  escrituração  quando
+necessária  para  resolver  questões  relativas  à  sucessão,  comunhão  ou
+
+120
+127
+128
+129
+131
+121
+122
+123
+124
+125
+126
+130
+sociedade,  administração  ou  gestão  à  conta  de  outrem,  ou  em  caso  de
+falência”.
+Dispõem os parágrafos do art. 1.191 do Código Civil de 2002: “§ 1º O juiz ou
+tribunal que conhecer de medida cautelar ou de ação pode, a requerimento
+ou  de  ofício,  ordenar  que  os  livros  de  qualquer  das  partes,  ou  de  ambas,
+sejam examinados na presença do empresário ou da sociedade empresária a
+que pertencerem, ou de pessoas por estes nomeadas, para deles se extrair o
+que interessar à questão. § 2º Achando-se os livros em outra jurisdição, nela
+se fará o exame, perante o respect
+[/PAGINA 930]
+
+[PAGINA 931]
+ivo juiz”.
+CPC/1973, art. 482.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 365, IV.
+CPC/1973, art. 385.
+STJ,  3ª  T.,  REsp  11.725,  Rel.  Min.  Eduardo  Ribeiro,  ac.  18.02.1992, DJU
+16.03.1992,  p.  3.098;  STJ,  1ª  T.,  AgRg  no  Ag  535.018/RJ,  Rel.  Min.  José
+Delgado, ac. 16.03.2004, DJU 10.05.2004, p. 178.
+STJ, 1ª T., Mand. Seg. 919-PE, Rel. Min. Garcia Vieira, ac. 22.05.1991, DJU
+01.07.1991, p. 9.161; STJ, 2ª T., REsp 622.804/RJ, Rel. Min. Eliana Calmon,
+ac. 21.09.2004, DJU 29.11.2004, p. 296.
+2º TACIV.SP, Ap. 206.355-2, Rel. Juiz Boris Kauffmann, ac. 21.10.1987, RT
+624/146; STJ, REsp 162.807/SP, Rel. Min. Humberto Gomes de Barros, ac.
+11.05.1998, DJU  26.06.1998,  p.  70;  STJ,  Emb.  Div.  em  REsp  101.814/SP,
+Corte Especial, Rel. Min. Humberto Gomes de Barros, ac. 18.02.1998, DJU
+27.04.1998,  p.  58;  STJ,  5ª  T.,  REsp  803.113/PR,  Rel.  Min.  Laurita  Vaz,  ac.
+16.06.2009, DJe  03.08.2009.  Com  relação  às  pessoas  jurídicas  de  direito
+público,  as  cópias  reprográficas  podem  ser  autenticadas  por  servidor  da
+própria repartição interessada (STJ, Emb. Div. em REsp 125.196/SP, Corte
+Especial,  Rel.  Min.  Waldemar  Zveiter,  ac.  01.04.1998, RSTJ  109/15;  STJ,
+Corte  Especial,  EREsp  135.107/SP,  Rel.  Min.  Waldemar  Zveiter,  ac.
+07.10.1998, DJU 14.12.1998, p. 80).
+CPC/1973, art. 383.
+Há  interessante  artigo  de  Hermano  Duval  sobre  a  prova  à  base  de  fitas
+magnéticas, Revista Forense 251/384. Sobre o mesmo tema consultar nossos
+estudos  “A  gravação  telefônica  como  meio  de  prova  no  processo  civil”
+
+137
+138
+139
+144
+146
+132
+133
+134
+135
+136
+140
+141
+142
+143
+145
+(Boletim Técnico da OAB, v. 1º, EAOAB, Belo Horizonte, 1994, pp. 11-22);
+“Aspectos relevantes da prova no processo civil” (Rev. Jurídica, v. 195, Porto
+Alegre, jan. 1994, pp. 5-27 e Rev. Julgados do Tribunal de Alçada de Minas
+Gerais, v. 51, Belo Horizonte, abr.-jun. 1993, pp. 15-38).
+CPC/1973, art. 385, § 2º.
+CPC/1973, art. 486.
+CPC/1973, art. 387.
+CPC/1973, art. 4º, II.
+CPC/1973, art. 388, I.
+PESTANA DE AGUIAR, João Carlos. Comentários ao Código de Processo
+Civil. São Paulo: RT, 1974, v. IV, p. 213.
+MARQUES, José Frederico Marques. Op. cit., v. III, n. 568, p. 79; BUZAID,
+Alfredo. Apud  BARBI,  Celso  Agrícola. Ação  Declaratória.  3.  ed.  p.  109;
+PESTANA DE AGUIAR, João Carlos. Op. cit., p. 213-214; GRINOVER, Ada
+Pellegrini. Ação Declaratória Incidental.  São  Paulo:  Revista  dos  Tribunais,
+1972, n. 56, p. 85-86.
+Cf.  THEODORO  JÚNIOR,  Humberto.  Ação  Declaratória  e  Incidente  de
+Falsidade: Falso Ideológico e Intervenção de Terceiros. Rev. de Processo, São
+Paulo, 51/32. No sentido do texto: REsp 19.920-0/PR, 4ª T., Rel. Min. Sálvio de
+Figueiredo, ac. 15.06.1993, DJU 25.10.1993, p. 2.298; e LEX – JSTJ 54/187.
+CPC/1973, art. 387.
+CPC/1973, art. 389, II.
+CPC/1973, art. 388, parágrafo único.
+CPC/1973, art. 389.
+“Contestada  a  assinatura  aposta  em  documento  particular  nã
+[/PAGINA 931]
+
+[PAGINA 932]
+o  autenticado,
+cabe à parte que o apresentou em Juízo o ônus de provar, na instrução da
+causa, sua veracidade, dispensando-se o incidente de falsidade” (TAMG, Ap.
+145.655-9, Rel. Juiz Herondes de Andrade, ac. 24.11.1992, RJTAMG 49/245).
+Nesse  sentido:  STJ,  3ª  T.,  REsp  15.706/SP,  Rel.  Min.  Nilson  Naves,  ac.
+24.03.1992, DJU 13.04.1992, p. 4.998.
+CPC/1973, art. 369.
+TJMG, Apel. 44.294, Rel. Des. Régulo Peixoto, D. Jud. MG, de 17.09.1976;
+STJ,  REsp  69.895/SP,  Rel.  Min.  Carlos  Alberto  Menezes  Direito,  ac.
+26.05.1997, DJU 04.08.1997, p. 34.739; TJSP, 24ª Câmara de Direito Privado,
+Apel.  7240587500/SP,  Rel.  Des.  José  Luiz  Germano,  ac.  22.08.2008,  pub.
+
+156
+162
+164
+165
+147
+148
+149
+150
+151
+152
+153
+154
+155
+157
+158
+159
+160
+161
+163
+16.09.2008.
+MARQUES, José Frederico. Op. cit., v. III, n. 568, p. 80.
+PONTES DE MIRANDA, Francisco Cavalcanti. Op. cit., v. IV, p. 364.
+PESTANA DE AGUIAR, João Carlos. Op. cit., v. IV, p. 219.
+GRINOVER, Ada Pellegrini. Op. cit., n. 56, p. 85.
+CPC/1973, art. 472, in fine.
+CPC/1973, art. 391.
+CPC/1973, art. 392, parágrafo único.
+CPC/1973, sem correspondência.
+PESTANA DE AGUIAR, João Carlos. Op. cit., p. 223.
+GRINOVER, Ada Pellegrini. Ação Declaratória Incidental.  São  Paulo:  RT,
+1972, n. 56, p. 85.
+CPC/1973, art. 469, I.
+CPC/1973, art. 396.
+CPC/1973, art. 283.
+CPC/1973, art. 297.
+MARQUES, José Frederico. Op. cit., II, n. 396, p. 219-220.
+AMARAL SANTOS, Moacyr. Prova Judiciária.  São  Paulo:  Max  Limonad,
+1966, v. IV, n. 200, p. 396.
+CPC/1973, art. 130.
+TJMG, Ag. Inst. 14.014, Rel. Des. Horta Pereira, ac. 18.12.1975, D. Jud. MG,
+de  26.02.1976;  STJ,  REsp  114.052/PB,  Rel.  Min.  Sálvio  de  Figueiredo,  ac.
+15.10.1998, DJU 14.12.1998, p. 243; STJ, REsp 83.751/SP, Rel. Min. Sálvio de
+Figueiredo Teixeira, ac. 19.06.1997, DJU 25.08.1997, p. 39.376; STJ, 4ª T.,
+REsp  826.660/RS,  Rel.  Min.  Luis  Felipe  Salomão,  ac.  19.05.2011, DJe
+26.05.2011.  Assim  também  entendeu  o  Simpósio  Brasileiro  de  Direito
+Processual  Civil  realizado  em  Curitiba,  em  1975  (artigo  de  Édson  Prata,
+Revista Forense, 252/26).
+Apel. 243.627, Rel. Des. Moretzohn de Castro, ac. 03.07.1975, RT 484/93. De
+igual  sentido:  TJMG,  Apel.  44.217,  ac.  20.05.1976,  Rel.  Des.  Helvécio
+Rosenburg, D. Jud. MG, de 15.09.1976; STF, RE 65.256, Rel. Min. Amaral
+Santos, ac. 30.09.1969, RTJ 54/552; STJ, REsp 181.627/SP, Rel. Min. Sálvio de
+Figueiredo  Teixeira,  ac.  18.03.1999, DJU  21.06.1999,  p.  164;  STJ,  REsp
+165.572/SP, Rel. Min. César Asfor Rocha, ac. 06.10.1998, DJU 18.12.1998, p.
+364; STJ, 4ª T., REsp 431.716/PB, Rel. Min. Sálvio de Figueiredo Teixeira, ac.
+
+175
+180
+181
+182
+183
+166
+167
+168
+169
+170
+171
+172
+173
+174
+176
+177
+178
+179
+22.10.2002, DJU 19.12.2002, p. 370; STJ, 4ª T., AgRg no REsp 785.422/DF,
+Rel. Min. Luis Felipe Salomão, ac. 05.04.2011, DJe 12.04.2011.
+CPC/1973, sem correspondência.
+CPC/1973, art. 397.
+CPC/1973, sem correspondência.
+CPC/1973, art. 398.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspond
+[/PAGINA 932]
+
+[PAGINA 933]
+ência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 399, I.
+PESTANA DE AGUIAR, João Carlos. Op. cit., v. IV, p. 245.
+SILVEIRA, Marco Antonio Karam. Lei de acesso à informação pública (Lei
+nº  12.527/2011).  Democracia,  República  e  Transparência  no  Estado
+Constitucional. Revista dos Tribunais, v. 927, p. 140, jan. 2013.
+CPC/1973, art. 399, § 2º.
+CPC/1973, art. 399, II.
+CPC/1973, art. 399, § 1º.
+CPC/1973, art. 130.
+TJMG,  Apel.  33.871,  Rel.  Des.  Ribeiro  do  Valle,  ac. D.  Jud.  MG,  de
+13.03.1971;  TJSP,  AI  128.271-1,  Rel.  Des.  Jorge  Almeida,  ac.  27.12.1989,
+RJTJSP 125/349. “Ausentes os elementos ensejadores da conexão, é de rigor
+o desentranhamento e a remessa à origem de documentação que não guarda
+pertinência”  (STJ,  4ª  T.,  AgRg  no  REsp  968.458/GO,  Rel.  Min.  Luis  Felipe
+Salomão, ac. 20.11.2008, DJe 15.12.2008). Sobre a necessidade de cautela no
+desentranhamento: TJMG, 8ª Câmara Cível, AI 1.0090.07.017757-2/002(1),
+Rel. Des. Teresa Cristina da Cunha Peixoto, ac. 26.03.2009, pub. 20.05.2009;
+TJSP, 16ª Câmara de Direito Público, AI 0246582-65.2009.8.26.000, Rel. Des.
+Amaral Vieira, ac. 27.07.2010, pub. 26.08.2010.
+2º TACivSP, Apel. 34.631, Rel. Juiz Sabino Neto, ac. 21.10.1975, RT 481/157;
+TRF 3ª Região, 4ª T., MC 2000.03.00.053738-8/SP, Rel. Batista Gonçalves, ac.
+14.10.2010, DJe 22.10.2010.
+2º TACivSP, Apel. 34.430, Rel. Juiz Rebouças de Carvalho, ac. 16.10.1975, RT
+484/155; TJSP, 13ª Câmara de Direito Privado, AI 0364729-50.2009.8.26.000,
+Rel. Des. Zélia Maria Antunes Alves, ac. 07.04.2010, pub. 19.04.2010.
+TJMG, Ag. Inst. 14.271, Rel. Des. Hélio Costa, ac. 05.08.1976, D. Jud. MG,
+
+184
+185
+186
+188
+189
+190
+194
+187
+191
+192
+193
+195
+196
+197
+198
+de  05.11.1976.  Nesse  sentido:  TJSP,  16ª  Câmara  de  Direito  Público,  AI
+9018215-56.2009.8.26.0000,  Rel.  Des.  Amaral  Vieira,  ac.  09.03.2010,  pub.
+29.03.2010.
+MARCACINI, Augusto Tavares Rosa. O documento eletrônico como meio de
+prova. Apud MARIANI, Rômulo Greff. O documento eletrônico como meio
+de prova no processo civil. Revista Síntese de Direito Civil e Processo Civil, n.
+79, p. 75, set.-out. 2012.
+“Os computadores ‘entendem’ impulsos elétricos, positivos ou negativos, que
+são representados por 1 ou 0. A cada impulso elétrico damos o nome de bit
+(BInary digiT)” (MARIANI, Rômulo Greff. Op. cit., p. 75, nota 7).
+CASTRO, Aldemario Araujo. O documento eletrônico e a assinatura digital
+(uma visão geral). Apud MARIANI, Rômulo Greff. Op. cit., loc. cit., nota 6.
+MARIANI, Rômulo Greff. Op. cit., p. 96.
+PAULA  BATISTA,  Francisco  de.  Compêndio  de  Teoria  e  Prática.  Rio  de
+Janeiro: Garnier, 1901, § 149, p. 194.
+MONTEIRO, João. Programa do Curso de Processo Civil. 3. ed. São Paulo:
+Duprat, 1912, v. II, § 162, p. 240.
+“A carta-missiva de pessoa não impedida de depor em juízo é documento
+gracioso que não merece fé, porque o signatário fica livre de contradita, de
+responder a perguntas e, sobretudo, da pena do delito de perjúrio, por não
+haver prestado a promessa legal d
+[/PAGINA 933]
+
+[PAGINA 934]
+e dizer a verdade” (TJPR, Apel. 423/72, ac.
+25.09.1973, RT  461/177.  No  mesmo  sentido:  TJMT,  ac.  27.08.1973, RT
+458/187;  TJMG,  1º  Grupo  de  Câmaras  Criminais,  Revisão  Criminal,
+1.0000.06.447293-9/000(1),  Rel.  Des.  Márcia  Milanez,  ac.  12.11.2007,  pub.
+17.01.2008).
+Apud PESTANA DE AGUIAR, João Carlos. Op. cit., v. IV, p. 250.
+CPC/1973, art. 400.
+CPC/1973, art. 400.
+NCPC, Art. 443: “O juiz indeferirá a inquirição de testemunhas sobre fatos: I
+–  já  provados  por  documento  ou  confissão  da  parte;  II  –  que  só  por
+documento ou por exame pericial puderem ser provados”.
+PAULA BATISTA, Francisco de. Op. cit., § 159, p. 207.
+CPC/1973, art. 330.
+CPC/1973, art. 402, I.
+CPC/1973, art. 402.
+
+200
+202
+207
+211
+199
+201
+203
+204
+205
+206
+208
+209
+210
+CPC/1973, art. 402.
+TJMG, Apel. 32.769, Rel. Des. Jacomino Inacarato, DJMG  06.06.1970;  no
+mesmo sentido: STF, RE 68.704, Rel. Min. Barros Monteiro, RTJ 54/63; TJSP,
+ac. 10.08.1972, RT 449/100; TJMG, Apel. 34.112, Rel. Des. Ribeiro do Valle,
+Jurisprudência  Mineira  48/262;  STJ,  REsp  13.508-0/SP,  Rel.  Min.  Cláudio
+Santos, ac. 14.12.1992, DJU 08.03.1993, p. 3.113; STJ, 3ª T., REsp 895.792/RJ,
+Rel. Min. Paulo de Tarso Sanseverino, ac. 07.04.2011, DJe 25.04.2011.
+CPC/1973, art. 404.
+“Não  pode  o  terceiro,  injustificadamente,  recusar  sua  colaboração  para
+esclarecer  fatos  necessários  ao  julgamento  da  causa”  (STJ,  RO  em  HC
+8.448/PR,  Rel.  Min.  Eduardo  Ribeiro,  ac.  11.05.1999, DJU  21.06.1999,  p.
+148).  Nesse  sentido:  STJ,  2ª  T.,  AgRg  no  REsp  1.265.174/PR,  Rel.  Min.
+Humberto Martins, ac. 13.09.2011, DJe 21.09.2011.
+CPC/1973, art. 341, I.
+CPC/1973, art. 405.
+CPC/1973, art. 405, § 4º.
+CPC/1973, art. 409.
+Sobre o impedimento do juiz-testemunha, mesmo quando não arrolado pelas
+partes, v. o item 303, retro.
+CPC/1973, art. 409, I.
+CPC/1973, art. 405, § 1º.
+CPC/1973, art. 405, § 2º.
+Decidiu  o  Tribunal  de  Justiça  de  Minas  Gerais  que  “o  que  tanto  a  lei
+substantiva,  como  a  adjetiva  falam,  expressamente,  no  tocante  ao
+impedimento para testemunhar em juízo, é apenas o parentesco com uma
+das partes  litigantes”.  Por  isso,  se  a  testemunha  for  parente  de  ambas  as
+partes, “não há falar-se em impedimento em tal caso, porque a interpretação
+diversa implicaria distinguir onde a lei não distingue” (Ag. Inst. 13.777, ac.
+07.10.1974, Rel. Des. Régulo Peixoto, Rev. Lemi 86/257). No mesmo sentido:
+TAMG, 3ª Câmara Cível, Ap. Civ. 2.0000.00.377497-8/000(1), Rel. Maurício
+Barros, ac. 18.12.2002, pub. 08.02.2003. Por outro lado, “a jurisprudência é
+pacífica,  no  entendimento  de  que,  a  exemplo  do  Direito  Canônico,  os
+descendentes  prestem  depoimento  em  causas  matrimoniais”  (TJSP,  Apel.
+224.760, ac. 01.11.1973, Rel. Des. Barbosa Pereira, Revista Forense 248/201;
+TJSP, 3ª Câmara de Direito Privado, Apel. 0001072-55.2009.8.26.0471, Rel.
+João Pazine Neto, ac. 26.04.2011, pub. 28.04.2011).
+
+212
+214
+215
+216
+217
+222
+223
+213
+218
+219
+220
+221
+Satta equi
+[/PAGINA 934]
+
+[PAGINA 935]
+para o sócio à própria parte, nos casos de sociedade de pessoas,
+para  efeito  de  impedimento  de  testemunhar  (SATTA,  Salvatore. Direito
+Processual Civil. Rio de Janeiro: Borsoi, 1973, v. I, n. 51, p. 134).
+CPC/1973, art. 405, § 3º.
+O TAMG decidiu que não são suspeitos os depoimentos de empregados da
+parte  (Apel.  141,  ac.  22.10.1965,  Rel.  Juiz  Paula  Ricardo, Jurisprudência
+Mineira  43/482).  Nesse  sentido:  TAMG,  Ap.  53.060-3/01,  Rel.  Juiz  João
+Quintino, ac. 27.02.1991, RJTAMG 43/222; TARS, Ap. 190.042.507, Rel. Juiz
+Moacir  Adiers,  ac.  23.08.1990, Julgs.  TARS  79/304;  TJSP,  3ª  Câmara  de
+Direito  Privado,  Apel.  9214495-39.2005.8.26.0000,  Rel.  Des.  Adilson  de
+Andrade,  ac.  26.04.2011,  pub.  28.04.2011.  O  STF,  porém,  considerou
+suspeitos os depoimentos prestados em execução fiscal de dívida ativa, por
+funcionários que tenham participação na arrecadação do imposto em litígio
+(RTJ 51/778).
+STJ, 2ª T., AgRg no Ag 652.861/RJ, Rel. Min. Francisco Peçanha Martins, ac.
+21.02.2006, DJU 27.03.2006, p. 247.
+STJ, 3ª T., AgRg no Ag 283.323/SP, Rel. Min. Carlos Alberto Menezes Direito,
+ac. 27.04.2000, DJU 26.06.2000, p. 171.
+STJ, 3ª T., REsp 732.150/SP, Rel. Min. Nancy Andrighi, ac. 03.08.2006, DJU
+21.08.2006, p. 248.
+CPC/1973, art. 414.
+CPC/1973, art. 415.
+CPC/1973, art. 412.
+CPC/1973, art. 406.
+“Não é de deferir-se requerimento para audiência da parte contrária, a fim
+de desobrigar a testemunha, que se escusa a revelar segredo profissional”
+(PAULA, Alexandre de. Código de Processo Civil Anotado. São Paulo: RT,
+1976, v. II, p. 286, ac. do TJBA).
+“A pessoa apontada como cúmplice do cônjuge adúltero não é obrigada a
+depor sobre fatos que importam em desonra própria. Mas, desde que consinta
+em  depor,  deve  ser  tomado  o  seu  depoimento”  (TJSP,  ac.  08.11.1974,  na
+Apel. 226.065, Rel. Des. Weiss de Andrade, in Alexandre de Paula, op. cit.,
+II,  n.  286).  “A  testemunha  pode  escusar-se  a  prestar  depoimento  se  este
+colidir com o dever de guardar sigilo” (STF, HC 71.039-5, Rel. Min. Paulo
+Brossard, ac. 07.04.1994, RF 333/329). O advogado tem direito de recusar-se
+a  depor  sobre  fatos  de  “que  teve  conhecimento  no  exercício  profissional”
+
+233
+235
+224
+225
+226
+227
+228
+229
+230
+231
+232
+234
+(TJMG, AI 14.248/9, Rel. Des. Lúcio Urbano, ac. 09.09.1993, Jurisp.  Min.
+124/66). Nesse sentido: STJ, 6ª T., MS 48.843, Rel. Min. Nilson Naves, ac.
+30.10.2007, DJU 11.02.2008, p. 1.
+CPC/1973, art. 414, § 2º.
+CPC/1973, art. 416, § 1º.
+CPC/1973, art. 419.
+CPC/1973, art. 419, § 1º.
+CPC/1973, art. 282, VI.
+CPC/1973, art. 333.
+CPC/1973, art. 324.
+CPC/1973, art. 331.
+CPC/1973, art. 407.
+“Se  o  rol  foi  junto  aos  autos  fora  do  quinquídio  legal  e  sem  depósito  da
+importância  necessária  para  fazer  face  às  despesas  com  a  intimação  das
+testemunhas,  a  falta  de  realização  dessa  não  impõe  o  adiamento  da
+audiência” (TAMG, Apel. 4.500, ac. 19.10.1973, Rel. Juiz Vilhena Valadão,
+Jurisprudência Mineira  60/216).  “
+[/PAGINA 935]
+
+[PAGINA 936]
+Não  pode  ser  tomado  o  depoimento  de
+testemunhas cujo rol haja sido depositado sem observância do prazo legal”
+(STJ,  REsp  67.007-1/MG,  Rel.  Min.  Eduardo  Ribeiro,  ac.  06.08.1996, DJU
+29.10.1996, p. 41.642). Nesse sentido: STJ, 3ª T., AgRg no Ag 954.677/RJ, Rel.
+Min. Humberto Gomes de Barros, ac. 06.12.2007, DJU 18.12.2007, p. 277.
+CPC/1973, art. 407, parágrafo único.
+STF, RE 75.743, ac. 23.03.1973, Rel. Oswaldo Trigueiro, RT 453/272: “A falta
+anterior  de  especificação  de  provas  não  prejudica  o  direito  da  parte  de
+oferecer suas testemunhas, a qualquer tempo, observado o disposto no art.
+239,  §  1º,  do  Cód.  de  Processo  Civil”  (hoje:  art.  407, caput).  No  mesmo
+sentido:  TAMG,  Ag.  197.340-6,  Rel.  Juiz  Páris  Pena,  ac.  05.09.1995, in
+Alexandre de Paula, Código de Processo Civil Anotado, 7. ed., São Paulo: RT,
+1998, v. II, p. 1.745. Em sentido contrário: “O silêncio da parte, em responder
+ao despacho de especificação de provas, faz precluir o direito à produção
+probatória, implicando desistência do pedido genérico formulado na inicial”
+(STJ, 3ª T., REsp 329.034/MG, Rel. Min. Gomes de Barros, ac. 14.02.2006,
+DJU  20.03.2006,  p.  263).  No  entanto,  quando  o  requerimento  de  prova
+testemunhal constar expressamente da petição inicial, haverá cerceamento
+de  defesa  se  o  juiz  deixar  de  colher  aquela  prova,  mesmo  que  não
+especificada  no  prazo  assinado  no  saneador  (STJ,  3ª  T.,  AI  388.759/MG
+
+237
+239
+246
+256
+236
+238
+240
+241
+242
+243
+244
+245
+247
+248
+249
+250
+251
+252
+253
+254
+255
+257
+AgRg, Rel. Min. Gomes de Barros, ac. 25.09.2006, DJU 16.10.2006, p. 362).
+CPC/1973, art. 320.
+TAMG, Apel. 2.443, ac. 22.10.1969, Rel. Juiz Agostinho de Oliveira, Revista
+Forense 230/189; STJ, 2ª T., REsp 1.198.159/RS, Rel. Min. Mauro Campbell
+Marques, ac. 02.09.2010, DJe 04.10.2010.
+CPC/1973, art. 408.
+Fora dos permissivos legais, “não é admissível a substituição de testemunha
+no  correr  da  audiência”  (TJMG,  Apel.  16.601,  ac.  06.11.1959,  Rel.  Des.
+Lahyre Santos, Minas Forense 33/119); TJRJ, Ap. 651/97, Rel. Des. Marlan
+Moraes Marinho, Adcoas 22.08.1997, n. 8.155.359.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 412, caput.
+CPC/1973, sem correspondência.
+CPC/1973, art. 412, § 1º.
+“A  parte  que  arrola  testemunha  para  comparecer  independentemente  de
+intimação corre o risco de perder o seu depoimento, se ela não comparece”
+(TARS, ac. 17.08.1973, RT 458/234). Nesse sentido: STJ, REsp 57.144-8, Rel.
+Min. Garcia Vieira, ac. 06.02.1995, RT 715/297; STJ, 5ª T., HC 117.952/PB,
+Rel. Min. Napoleão Nunes Maia Filho, ac. 27.05.2010, DJe 28.06.2010.
+CPC/1973, arts. 410 e 452, II e III.
+CPC/1973, arts. 200 e 336, parágrafo único.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 419, § 1º.
+CPC/1973, art. 411, parágrafo único.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 413.
+TJRGS, 18ª C. Civ., Ag. I
+[/PAGINA 936]
+
+[PAGINA 937]
+nst. 70007613417, Rel. Des. Planella Villarinho, ac.
+24.06.2004, RJTJRGS  237/170;  STJ,  5ª  T.,  HC  160.794/RS,  Rel.  Min.  Jorge
+Mussi, ac. 12.04.2011, DJe 04.05.2011.
+CPC/1973, sem correspondência.
+
+263
+266
+268
+271
+258
+259
+260
+261
+262
+264
+265
+267
+269
+270
+CPC/1973, art. 414, caput.
+CPC/1973, art. 405.
+CPC/1973, art. 415 e seu parágrafo.
+CPC/1973, art. 416.
+CPC/1973, art. 416, § 2º.
+“Ensina  Costa  Manso  que  os  escritos  particulares  provam  apenas  contra
+quem os fez; o testemunho de um terceiro, salvo o caso de fé pública, deve
+ser  produzido  sempre  sob  a  forma  de  depoimento.  Do  contrário,  ficariam
+anuladas as prescrições legais relativas à prova testemunhal, bem como as
+garantias  outorgadas  à  parte  contrária,  consistentes  nas  contraditas,
+reperguntas e contestações”. Por isso, “não é possível reconhecer-se numa
+simples declaração o efeito de prova testemunhal...” (TJMG, Apel. 33.302,
+ac. 31.08.1971, Rel. Des. Ribeiro do Valle, D. Jud. MG, de 30.09.1971). Nesse
+sentido: TJSP, Ap. 133.590-1, Rel. Des. Ernâni de Paiva, ac. 20.12.1990, RF
+317/235; STJ, 3ª Seção, AR 2.043/SP, Rel. Min. Arnaldo Esteves Lima, ac.
+14.12.2009, DJe 01.02.2010.
+CPC/1973, art. 417.
+CPC/1973, art. 417, § 1º.
+MARQUES, José Frederico. Manual de Direito Processual Civil. Op. cit., v. II,
+n. 498, p. 241.
+CPC/1973, art. 418.
+“Ao  líbito  do  juiz  será  ou  não  ouvido  terceiro  a  quem  as  partes  ou
+testemunhas hajam feito referência, como sabedor de fatos ou circunstâncias
+em discussão no processo” (TJMG, Apel. 22.948, ac. 16.03.1964, Rel. Des.
+Correia de Almeida, Jurisprudência Mineira 41/48). Da mesma forma se dá
+com a acareação de testemunhas: TAMG, Ag. Inst. 8.918-9, Rel. Juiz Ney
+Paolinelli, ac. 28.11.1990, RJ 178/80. “Indeferimento motivado do pedido de
+acareação  de  testemunhas  (...)  não  importa  em  cerceamento  de  defesa
+quando o conjunto probatório dos autos tornar desnecessária a produção de
+tais provas” (STJ, 5ª T., RMS 13.144/BA, Rel. Min. Arnaldo Esteves Lima, ac.
+21.03.2006, DJU 10.04.2006, p. 229).
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+AMARAL SANTOS, Moacyr. Comentários ao Código de Processo Civil.  2.
+ed. São Paulo: RT, 1976, v. IV, n. 245, p. 334.
+
+272
+275
+276
+277
+278
+279
+281
+273
+274
+280
+MONTEIRO, João. Programa do Curso de Processo Civil. 3. ed. São Paulo:
+Duprat, 1912, v. II, § 178, nota 1, p. 318.
+CPC/1973, art. 420.
+AMARAL SANTOS, Moacyr. Op. cit., n. 247, p. 336.
+STF,  RE  77.458,  ac.  25.03.1974,  Rel.  Min.  Xavier  de  Albuquerque, RTJ
+69/865.
+TJMT, Apel. 8.679, ac. 19.01.1976, Rel. Des. Athaíde Monteiro da Silva, RT
+486/168; TJGO, Ap. 36.412-2/188, Rel. Des. Fenelon Teodoro Reis, Adcoas
+30.08.1995, n. 1000486.
+TAPR,  Apel.  413,  ac.  25.10.1977,  Rel.  Juiz  Jorge  Andriguetto, Rev.  Lemi
+69/221.
+TJSP, Apel. 245/666, ac. 09.10.1975, Rel. Des. Carlos Ortiz, RT  484/88;  no
+mesmo sentido: TJPR, Apel. 437/72, RT 456/195; TAMG, Ap. 197.839-8, Rel.
+Juiz Antônio Carlos Cruvinel, ac. 23.11.1995, DJM
+[/PAGINA 937]
+
+[PAGINA 938]
+G 28.05.1996, p. 17.
+TJSP, Apel. 239.585, ac. 13.12.1975, Rel. Des. Penido Burnier, RT  479/75.
+“Inadmissível  nova  prova  pericial,  em  juízo,  decorridos  vários  meses  do
+sinistro,  para  comprovar  despesas  necessárias.  Outrossim,  basta  um
+orçamento idôneo, condizente com a realidade do sinistro, para comprovar as
+despesas necessárias” (TAPR, Apel. 315/73, Rel. Juiz Jorge Andriguetto, ac.
+19.09.1973, RT  470/241).  “O  orçamento  de  oficina  especializada,  não
+impugnado,  deve  prevalecer  sobre  a  previsão  dos  peritos,  pois  estes
+vistoriaram  o  veículo  apenas  exteriormente,  enquanto  aquela  o  examinou
+minuciosamente”  (TAMG,  Apel.  4.437,  Rel.  Juiz  Vilhena  Valadão,  ac.
+08.06.1973, Jurisprudência Mineira 55/244). No mesmo sentido: STJ, 4ª T.,
+REsp 260.742/RJ, Rel. Min. Barros Monteiro, ac. 10.04.2001, DJU 13.08.2001,
+p. 164.
+CPC/1973, art. 420, parágrafo único.
+AMARAL SANTOS, Moacyr. Prova Judiciária no Civil e Comercial. 3. ed.
+São Paulo: Max Limonad, 1971, v. V, p. 181. “Despacho que deferiu a perícia
+indireta.  Prova  indispensável  ao  deslinde  da  causa.  Recurso  conhecido  e
+improvido. Ao juiz processante cabe decidir da utilidade e admissibilidade da
+prova  requerida,  dizendo  melhor  que  ninguém,  a  necessidade  da  prova  à
+cabal cognição. É direito e até dever do juiz, de ofício ou a requerimento de
+parte,  determinar  a  realização  de  perícia,  quando  entender  de  sua
+necessidade” (TAPR, Ag. 146007700, Rel. Juiz Anny Mary Kuss, 6ª CC, j.
+em 07.02.2000, JUIS-Saraiva n. 24). No mesmo sentido: TJSP, Ap. 9.411-4,
+
+282
+283
+284
+297
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+298
+299
+Rel. Des. Quaglia Barbosa, ac. 15.10.1996, JUIS-Saraiva  n.  24;  STJ,  2ª  T.,
+REsp 1.060.753/SP, Rel. Min. Eliana Calmon, ac. 01.12.2009, DJe 14.12.2009.
+STF,  Pleno,  HC  71.373/RS,  Rel.  Min.  Marco  Aurélio,  ac.  10.11.1994, DJU
+18.11.1994,  p.  31.390;  STF,  1ª  T.,  HC  76.060-4/SC,  Rel.  Min.  Sepúlveda
+Pertence, ac. 31.03.1998, DJU 15.05.1998, p. 44.
+STJ, 4ª T., REsp 409.285/PR, Rel. Min. Aldir Passarinho Jr., ac. 07.05.2002,
+DJU  26.08.2002,  p.  241;  STJ,  3ª  T.,  REsp  1.046.105/SE,  Rel.  Min.  Nancy
+Andrighi, ac. 01.09.2009, DJe 16.10.2009. STJ, Súmula 301.
+É o que ocorre, por exemplo, com o caso de “análise dos balanços contábeis
+da empresa”, medida que “depende de conhecimentos técnicos específicos,
+sendo matéria que escapa às regras da experiência comum ao magistrado”.
+Se, pois, a matéria em discussão no processo envolve fato e demanda análise
+técnica, terá de ser instruída “com a realização da perícia por profissional
+habilitado”.  Para  que  tal  se  cumprisse,  o  STJ  proveu  o  recurso  especial
+manejado  pela  parte  prejudicada  na  instância  local  (STJ,  3ª  T.,  REsp
+1.324.681/SC, Rel. Min. Nancy Andrighi, ac. 09.04.2013, DJe 15.04.2013).
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 421.
+CPC/1973, art. 139.
+CPC/1973, art. 145
+[/PAGINA 938]
+
+[PAGINA 939]
+.
+CPC/1973, art. 431-B.
+CPC/1973, art. 331, § 2º.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+Se o caso for exame de autenticidade da letra e da firma, a comparação
+poderá  ser  feita  pelo  perito  com  documentos  existentes  em  repartições
+públicas, ou com paradigmas colhidos, de forma manuscrita, em juízo (art.
+478, § 3º).
+CPC/1973, art. 145, §§ 1º e 3º.
+CPC/1973, art. 434, caput.
+CPC/1973, sem correspondência.
+
+303
+310
+311
+313
+300301
+302
+304
+305
+306
+307
+308
+309
+312
+314
+315
+316
+317
+CPC/1973, sem correspondência.
+CPC/1973, art. 421, § 1º.
+“Não  veda  o  sistema  processual  vigente  que  pessoa  jurídica  possa  servir
+como assistente técnico, sobretudo após a edição da Lei nº 8.455/92” (STJ, 4ª
+T., REsp 36.578/SP, Rel. Min. Sálvio de Figueiredo, ac. 24.08.1993, Revista
+Forense 325/155). No mesmo sentido: STJ, 4ª T., AgRg no Ag 38.839/SP, Rel.
+Min. Sálvio de Figueiredo Teixeira, ac. 07.02.1995, DJU 20.03.1995, p. 6.121.
+CPC/1973, art. 424.
+CPC/1973, art. 424, parágrafo único.
+CPC/1973, art. 146.
+CPC/1973, art. 138.
+CPC/1973, art. 147.
+CPC/1973, art. 138, II.
+O STJ já decidiu que o parentesco entre o juiz e o perito não figura entre as
+hipóteses de suspeição previstas no CPC, embora seja prática não exemplar
+de ética profissional. Não há, porém, na lei processual, “nada que impeça o
+juiz  de  nomear  o  seu  próprio  irmão  para  oficiar  nos  autos  como  seu
+assistente, não sendo causa suficiente, portanto, para se declarar, de ofício, a
+nulidade do julgamento”, se a parte interessada não arguiu oportunamente a
+suspeição do perito (1ª T., REsp 906.598/MT, Rel. Min. Denise Arruda, ac.
+19.06.2007, DJU 02.08.2007, p. 407).
+STJ, 1ª T., REsp 906.598/MT, cit.; STJ, 3ª T., AgRg no REsp 1.157.079/MT, Rel.
+Min.  Sidnei  Beneti,  ac.  09.02.2010, DJe  24.02.2010;  TJRS,  6ª  C.  Civ.,  AI
+70011874872,  Rel.  Des.  Cacildo  de  Andrade  Xavier,  ac.  21.09.2005, in
+ARRUDA ALVIM, et al., Comentários ao Código de Processo Civil. 3. ed. São
+Paulo: RT, 2014, p. 741.
+CPC/1973, art. 421, § 1º, I e II.
+STJ,  4ª  T.,  REsp  148.204/SP,  Rel.  Min.  Sálvio  de  Figueiredo  Teixeira,  ac.
+21.10.1997, DJU 09.12.1997, p. 64.742; STJ, 2ª T., REsp 193.178/SP, Rel. Min.
+Castro  Meira,  ac.  04.10.2005, DJU  24.10.2005,  p.  225;  STJ,  1ª  T.,  REsp
+639.257/MT, Rel. Min. Luiz Fux, ac. 13.12.2005, DJU 13.02.2006, p. 667.
+CPC/1973, art. 422.
+CPC/1973, sem correspondência.
+CPC/1973, art. 426.
+CPC/1973, art. 423.
+
+320
+327
+330
+318
+319
+321
+322
+323
+324
+325
+326
+328
+329
+331
+332
+CPC/1973, art. 429.
+CPC/1973, art. 431-A.
+As partes devem ser cientificadas da data e local do início da perícia, quer a
+designação  seja  feita  pelo  juiz,  quer  por  deliberação  do  perito.  A
+preocupação da norma contida no art. 431-A [NCPC, art. 474], criado pela
+Lei  10.358,  é  a  de  evitar  perícias  levadas  a  efeito  em  segredo  e  sem
+condições de acompanhamento pelas partes e seus assistentes. Portanto, ant
+[/PAGINA 939]
+
+[PAGINA 940]
+es
+de dar início a suas tarefas técnicas, o perito tem de certificar-se da prévia
+intimação dos litigantes.
+CPC/1973, art. 434, parágrafo único.
+CPC/1973, art. 433.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 432.
+É  nula  a  sentença  se  o  juiz  a  profere  sem  dar  oportunidade  às  partes  de
+falarem sobre o laudo apresentado (STF, 2ª T., RE 69.661/PA, Rel. Min. Aldir
+Passarinho, ac. 19.04.1983, RTJ 107/76). “Apresentado o laudo, não pode o
+juiz proferir sentença sem antes propiciar às partes que se pronunciem sobre
+o mesmo. Não atendida essa exigência do contraditório, anula-se aquele ato
+decisório”  (STJ,  3ª  T.,  REsp  6.102/AM,  Rel.  Min.  Eduardo  Ribeiro,  ac.
+11.03.1991, DJU 22.04.1991, p. 4.784). No mesmo sentido: STJ, 3ª T., REsp
+275.686/PR, Rel. Min. Ari Pargendler, ac. 23.10.2000, DJU 04.12.2000, p. 65.
+CPC/1973, art. 433, parágrafo único.
+CPC/1973, art. 433, parágrafo único.
+Desde  a  alteração  do  texto  do  parágrafo  único  do  art.  433  do  CPC/1973
+[NCPC, art. 477, § 1º], a sistemática da produção do parecer do assistente
+técnico passou a ser a seguinte: (a) o perito do juízo deposita seu laudo em
+cartório, e após juntado aos autos as partes são intimadas; (b) dessa intimação
+corre o prazo comum de quinze dias para que os assistentes técnicos de ambas
+as partes ofereçam seus pareceres. O prazo dos assistentes não é mais comum
+ao perito, é posterior à conclusão da tarefa deste. É comum, todavia, o prazo
+para todos os assistentes.
+CPC/1973, art. 425.
+CPC/1973, art. 428.
+
+333
+336
+338
+339
+348
+334
+335
+337
+340
+341
+342
+343
+344
+345
+346
+347
+TJMG, Apel. 24.249, Rel. Des. Hélio Costa, ac. 31.08.1964, Jurisprudência
+Mineira 41/79; TJMG, Ap. 10.025/5, Rel. Des. José Loyola, ac. 30.06.1994,
+Jurisp. Min.  128/103;  STJ,  REsp  30.380-5/RJ,  Rel.  Min.  Nilson  Naves,  ac.
+22.11.1994, RT 718/253.
+CPC/1973, art. 436.
+MONTEIRO, João. Op. cit., v. II, § 180, p. 322.
+BATISTA MARTINS, Pedro. Comentários ao Código de Processo Civil. 2. ed.
+Rio de Janeiro: Forense, 1961, v. III, t. 2, n. 77, p. 99.
+BATISTA MARTINS, Pedro. Op. cit., loc. cit.
+STJ, 3ª T., REsp 30.380-5/RJ, ac. 22.11.1994, RT 718/253; RSTJ 77/145; STJ, 1ª
+T.,  AgRg  no  REsp  1.156.222/SP,  Rel.  Min.  Hamilton  Carvalhido,  ac.
+02.12.2010, DJe 02.02.2011; STJ, 5ª T., HC 161.158/RJ, Rel. Min. Gilson Dipp,
+ac. 16.08.2011, DJe 31.08.2011.
+“Manifesta  a  incompatibilidade  entre  a  função  do  juiz  e  a  de  perito.  Se  o
+próprio juiz da causa pudesse servir de perito, o seu parecer, proferido nessa
+qualidade, constituiria muitas vezes legítimo prejulgamento. Aliás, os juízes
+não podem ser senão juízes” (AMARAL SANTOS, Moacyr. Prova Judiciária
+no Civil e Comercial. 3. ed. São Paulo: Max Limonad, 1971, v. V, n. 38, p. 97).
+Na  jurisprudência  já  se  decidiu  que  é  ilegal  a  alteração  técnica  do  laudo
+pericial por parte do juiz:
+“I – Não pode o juiz interferir na confecção do laudo pericial determinando,
+no cas
+[/PAGINA 940]
+
+[PAGINA 941]
+o da desapropriação, a inclusão ou exclusão da área. II – Havendo
+discordância do laudo, poderá o juiz desconsiderar a referida prova” (TRF 1ª
+Região,  AI  207.01.00.018886-8/MT,  Rel.  Des.  Cândido  Ribeiro,  ac.
+24.09.2007, DJU 09.11.2007).
+AMARAL SANTOS, Moacyr. Op. cit., v. V, n. 75, p. 171.
+CPC/1973, arts. 441 e 442.
+CPC/1973, art. 437.
+BATISTA MARTINS, Pedro. Op. cit., n. 83, p. 106.
+CPC/1973, art. 438.
+CPC/1973, art. 439.
+CPC/1973, art. 439, parágrafo único.
+CPC/1973, art. 131.
+ROSENBERG, Leo. Tratado de Derecho Procesal Civil.  1955,  v.  II,  §  177;
+LIEBMAN, Enrico Tullio. Manuale di Diritto Processuale Civile. 1959, v. II,
+
+349
+353
+356
+350
+351
+352
+354
+355
+n. 238; FRAGA, Afonso. Instituições do Processo Civil do Brasil. 1940, v. II, p.
+568;  MARQUES,  José  Frederico. Manual  de  Direito  Processual  Civil.
+Campinas:  Bookseller,  1974,  v.  II,  n.  493;  AMARAL  SANTOS,  Moacyr.
+Comentários ao Código de Processo Civil. 2. ed. São Paulo: RT, 1976, v. IV, n.
+284, p. 386.
+TJSC, Ap. 28.044, ac. 15.03.1988, RT 629/206; 2º TACiv.-SP, Ap. 220.383-5,
+ac. 19.07.1988, RT  633/134;  STJ,  3ª  T.,  REsp  480.697/RJ,  Rel.  Min.  Nancy
+Andrighi, ac. 07.12.2004, DJU 04.04.2005, p. 300.
+CPC/1973, art. 442.
+CPC/1973, art. 441.
+CPC/1973, art. 442, parágrafo único.
+PESTANA DE AGUIAR, João Carlos. Comentários ao Código de Processo
+Civil. São Paulo: RT, 1974, v. IV, p. 390.
+CPC/1973, art. 443, caput.
+CPC/1973, art. 443, parágrafo único.
+PAULA, Alexandre de. Código de Processo Civil Anotado.  São  Paulo:  RT,
+1976, v. II, p. 345.
+
+751.
+Capítulo XXVIII
+FASE DECISÓRIA
+§ 94. NOÇÕES INTRODUTÓRIAS
+Sumário: 751. Conceito de processo. 752. Conteúdo e finalidade do
+processo.
+Conceito de processo
+Antes de penetrarmos no estudo da sentença, convém recapitular as noções
+básicas do direito processual. A convivência do homem em sociedade é possível
+graças  ao  Direito,  que  traça  e  impõe  aos  indivíduos  as  normas  de  conduta
+indispensáveis  à  manutenção  da  justiça  e  da  segurança  de  cada  um  e  da
+comunidade.
+As  normas  do  Direito  são  traçadas  abstratamente  como  previsão  a  ser
+observada nas relações intersubjetivas. São normas de conduta (norma agendi)
+ditadas  para  a  generalidade  dos  membros  da  coletividade.  Em  situações
+concretas, geram, para determinadas pessoas, a faculdade de exigir de outras
+uma certa conduta, positiva ou negativa (facultas agendi).
+Quando a pessoa pretende satisfazer uma necessidade, ela procura o objeto
+adequado:  o  bem  apto.  Pode,  no  entanto,  ocorrer  que  outra  pessoa  também
+avoque a si a faculdade de satisfazer-se à custa do mesmo bem.
+Surge,  então,  o  conflito  de  interesses,  que  ocorre  justamente  quando  “a
+situação favorável à satisfação de uma necessidade, se verificada em relação a
+um  sujeito,  exclui  a  possibilidade  de  constituir-se  a  mesma  situação
+relativamente a outro sujeito”.
+1
+Esse conflito pode ser resolvido particularmente pelos próprios interessados,
+quer por intermédio
+[/PAGINA 941]
+
+[PAGINA 942]
+do reconhecimento do direito subjetivo da outra parte, quer
+por meio de renúncia à própria facultas agendi.
+Se o conflito persiste, pela impossibilidade de composição voluntária e pela
+resistência  oposta  por  uma  parte  à  pretensão  da  outra,  temos  a lide.  Para
+solucioná-la,  a  ordem  jurídica  instituiu  o  remédio  denominado  processo,  que,
+segundo Chiovenda, é o complexo dos atos coordenados ao objetivo da atuação
+da vontade da lei (com respeito a um bem que se pretende garantido por ela) por
+
+752.
+parte dos órgãos jurisdicionais.
+2
+Conteúdo e finalidade do processo
+Consiste o processo, praticamente, no fenômeno que ocorre quando alguém,
+com ou sem razão, propõe ao juiz uma demanda. Este, atendidas as exigências
+formais, apreciará o pedido e seus fundamentos, convocará a parte contrária,
+ouvirá sua defesa (se houver), e, depois de uma série mais ou menos complexa
+de atividade intermediária, concluirá por acolher ou rejeitar a demanda. Eis aí,
+no dizer de Redenti, o que vem a ser o processo.
+3
+Uma  vez  que  o  Estado  moderno  não  tolera  a  justiça  privada,  “o  fim  do
+processo é a entrega da prestação jurisdicional, que satisfaz a pretensão à tutela
+jurídica”.
+4
+  Por  meio  dele,  desenvolve-se  “uma  atividade  de  órgãos  públicos
+destinada ao exercício de uma função estatal”.
+5
+ É o processo “um instrumento
+que  o  Estado  põe  à  disposição  dos  litigantes  (sujeitos  da lide),  a  fim  de
+administrar justiça”.
+6
+Não  se  limita,  porém,  à  simples  definição  dos  direitos  dos  litigantes.  Por
+meio dos interesses em conflito, o processo atinge um interesse maior, que é o
+interesse público da atuação da lei na composição dos conflitos. “A aspiração de
+cada uma das partes é a de ter razão: a finalidade do processo é a de dar razão a
+quem efetivamente a tem. Ora, dar razão a quem a tem é, na realidade, não um
+interesse privado das partes, mas um interesse público de toda a sociedade”.
+7
+Eis por que se pode afirmar que o processo civil é preordenado a assegurar
+a  observância  da  lei,
+8
+  atuando  como  método  para  a  aplicação  do  direito  e
+realização da paz, que seja justa e certa.
+9
+A pendência do processo dá lugar, entre os seus participantes, a uma relação
+jurídica, que é “a relação jurídica processual”, gerando uma série de direitos e
+deveres que a doutrina denomina direitos e deveres processuais, que vinculam as
+partes  e  o  próprio  Estado,  por  meio  do  juiz: judicium  est  actus  trium
+personarum.
+10
+Para realizar o objetivo do processo, que é a aplicação do direito à situação
+concreta  exposta  pelas  partes,  o  Órgão  Judicial  exerce,  ordinariamente,  dupla
+atividade:
+1ª – examina os fatos demonstrados pelas partes; e
+
+2ª – examina o direito como vontade abstrata da lei.
+Conjugando as duas premissas, extrai a conclusão por meio da sentença, que
+é a manifestação concreta da vontade da lei.
+11
+Uma  vez,  porém,  que,  para  compor  o  litígio  e  realizar  a  prestação
+jurisdicional,  a  lei  exige  q
+[/PAGINA 942]
+
+[PAGINA 943]
+ue  a  relação  processual  se  estabeleça  de  modo  a
+atender a determinados requisitos e certas condições, o juiz, antes de enfrentar o
+mérito da causa, terá de exercer juízo de admissibilidade do processo. Há ou
+pode  haver  em  cada  processo  julgamento,  portanto,  sobre  a  demanda  e  as
+preliminares processuais que autorizam ou impedem a apreciação do mérito da
+causa.
+Corresponde,  portanto,  a  sentença  ao  ato  judicial  que  põe  fim  à  fase
+cognitiva  do  processo  judicial  (e  às  vezes  encerra  a  execução),  resolvendo  o
+litígio  retratado  na  propositura  da  demanda,  ou  abstendo-se  de  solucioná-lo,
+quando faltarem pressupostos ou condições necessárias ao provimento de mérito.
+
+753.
+§ 95. SENTENÇA (I)
+Sumário: 753.  Definição  legal  e  classificação  doutrinária. 754.
+Sentença  terminativa:  extinção  do  processo  sem  julgamento  do
+mérito: 754.1. Indeferimento da inicial; 754.2. Abandono da causa;
+754.3.  Ausência  de  pressupostos  processuais;  754.4.  Perempção;
+754.5. Litispendência e coisa julgada; 754.6. Condições da ação;
+754.7. Perda do objeto; 754.8. Convenção de arbitragem; 754.9.
+Desistência da ação; 754.10. Intransmissibilidade da ação; 754.11.
+Confusão entre autor e réu. 755.  Efeito  da  extinção  do  processo
+sem julgamento do mérito. 756. Iniciativa da extinção do processo.
+757. Saneamento do processo, quando o defeito for suprível. 758.
+Juízo de retratação.
+Definição legal e classificação doutrinária
+O  sujeito  da  lide  (parte)  tem  o  direito  subjetivo  à  prestação  jurisdicional
+(ação), a que corresponde o dever do Estado de declarar a vontade concreta da
+lei,  para  solucionar  o  litígio.  No  processo  de  conhecimento,  é  por  meio  da
+sentença que o Estado cumpre esse dever.
+A sentença, portanto, “é emitida como prestação do Estado, em virtude da
+obrigação assumida na relação jurídico-processual (processo), quando a parte ou
+as partes vierem a juízo, isto é, exercerem a pretensão à tutela jurídica”.
+12
+Nem  sempre,  porém,  a  parte  satisfaz  os  requisitos  legais  para  obter  do
+Estado a solução de mérito, de modo que, muitas vezes, o juiz tem de encerrar o
+processo sem penetrar no âmago da controvérsia que causou o ajuizamento da
+ação.
+No caso do processo de execução, que não é destinado a solucionar uma
+controvérsia, mas a realizar atos materiais de satisfação do direito do exequente,
+a  sentença  tem  função  meramente  processual,  qual  seja,  a  de  encerrar  o
+processo  apenas.  Nela  não  se  manifesta  declaração  alguma  sobre  o  crédito
+executado  em  juízo.  O  juiz  reconhece  tão  somente  que  não  há  mais  atos
+executivos a realizar e, por isso, decreta a extinção do processo, cuja função já
+
+se exauriu.
+Para o novo Código, sentença é o pronunciamento por meio do qual o juiz,
+com  fundamento  nos  arts.  485  e  487  do  NCPC,  põe  fim  à  fase  cognitiva  do
+procedimento  comum,  bem  como  extingue  a  execução  (art.  201,  §  1º),
+13
+  ou
+seja, é tanto o ato
+[/PAGINA 943]
+
+[PAGINA 944]
+que extingue o processo sem resolução de mérito como o que o
+faz  resolvendo  o  mérito  da  causa.  Mas,  teórica  e  praticamente,  há  que  se
+distinguir,  dada  a  completa  diversidade  de  efeitos,  entre  os  provimentos  que
+solucionam a lide e os que não a alcançam.
+Assim, as sentenças são tradicionalmente classificadas em:
+(a) sentenças terminativas; e
+(b) sentenças definitivas.
+Terminativas  são  as  que  “põem  fim  ao  processo,  sem  lhe  resolverem,
+entretanto, o mérito”. São as que correspondem aos casos de extinção previstos
+no  art.  484.
+14
+  Importam  reconhecimento  de  inadmissibilidade  da  tutela
+jurisdicional nas circunstâncias em que foi invocada pela parte. O direito de ação
+permanece latente, mesmo depois de proferida a sentença (ver itens 351 e 763).
+Definitivas são as sentenças “que decidem o mérito da causa, no todo ou em
+parte”.  Apresentam  à  parte  a  prestação  jurisdicional  postulada  e,  de  tal  sorte,
+extinguem  o  direito  de  ação,
+15
+  no  pertinente  ao  acertamento  pretendido  pela
+parte. Como a resolução do mérito da causa pode ser fracionada, não se deve
+considerar sentença senão o julgamento que completa o acertamento em torno
+do  objeto  do  processo.  As  soluções  incidentais  de  fragmentos  do  mérito  são
+decisões interlocutórias (art. 203, § 2º),
+16
+ ainda quando versem sobre questões de
+direito  material.  Sentença,  realmente,  só  ocorre  quando,  no  primeiro  grau  de
+jurisdição, o juiz conclui a fase cognitiva do processo. O novo Código corrigiu a
+incorreção da legislação anterior e qualificou a sentença de forma objetiva, sem
+se importar com o seu conteúdo, que tanto pode referir-se ao mérito, como a
+preliminares processuais. Não é, pois, o conteúdo que qualifica a decisão como
+sentença, mas, sim, o fato de ela extinguir ou não o processo ou uma de suas
+fases.
+Entretanto, essa unidade conceitual não impede que, no plano da eficácia, se
+encontre tratamento legal diferenciado para uma e outra modalidade sentencial.
+Por  exemplo,  só  as  sentenças  definitivas  se  revestem  da  autoridade  da  coisa
+julgada  material,  tornando  impossível  a  rediscussão  judicial  sobre  a  mesma
+causa  (art.  502).  As  sentenças  terminativas  só  produzem  efeitos  dentro  do
+
+754.
+processo, de modo que não vedam às partes voltar a discutir o litígio em outro
+processo (art. 486). Ainda no plano dos efeitos, somente a sentença de mérito
+tem  a  força  de  produzir  a  hipoteca  judicial  (art.  495).  Procedeu  o  legislador,
+porém, a uma salutar unificação em matéria recursal, de maneira que, de toda
+sentença (seja definitiva ou terminativa), o recurso será sempre de apelação (art.
+1.009).
+Embora  o  Código  considere  a  força  de  extinguir  o  processo  ou  a  fase
+cognitiva do processo como um dos traços distintivos da sentença, na verdade, a
+relação processual nunca se encerra com a simples prolação de uma sentença.
+Isso  só  ocorre  quando  se  dá  a  coisa  julgada  formal,  ou  seja,  qua
+[/PAGINA 944]
+
+[PAGINA 945]
+ndo  o
+pronunciamento judicial se torna irrecorrível.
+17
+ Com a sentença, na verdade, o
+que finda é a função do órgão jurisdicional, perante o qual fluía o processo, já
+que o objetivo com que profere o ato decisório, naquele momento, é encerrar o
+seu encargo diante da pretensão de acertamento que lhe foi submetida pela parte.
+Publicada a sentença, já não mais poderá alterar seu julgamento (arts. 494 e
+505).
+18
+Sentença terminativa: extinção do processo sem julgamento do
+mérito
+Dá-se a extinção do processo, sem julgamento do mérito, quando o juiz põe
+fim à relação processual sem dar uma resposta (positiva ou negativa) ao pedido
+do  autor,  ou  seja,  sem  outorgar-lhe  a  tutela  jurisdicional,  que  se  revelou
+inadmissível diante das circunstâncias do caso concreto.
+A  negativa  da  prestação  jurisdicional,  com  a  consequente  extinção  do
+processo  sem  julgamento  de  mérito,  pode  se  dar  nas  seguintes  fases  do
+procedimento:
+1) logo após a propositura da ação, por meio do indeferimento da petição
+inicial (NCPC, art. 485, I);
+19
+2) na fase destinada ao saneamento do processo, ou seja, na sentença que
+acolhe,  no  julgamento  conforme  o  estado  do  processo  (art.  354),  alguma
+preliminar dentre as previstas no art. 485;
+3) na sentença proferida ao final do procedimento (art. 366);
+20
+4)  em  qualquer  fase  do  processo,  quando  ocorrer  abandono  da  causa  ou
+outros  fatos  impeditivos  do  prosseguimento  da  relação  processual,  como  o
+compromisso arbitral, a desistência da ação etc. (art. 485, § 3º).
+
+754.1.
+754.2.
+Segundo  o  texto  do  art.  485,  são  os  seguintes  os  casos  que  provocam  a
+extinção do processo sem resolução de mérito:
+(a) indeferimento da inicial (inciso I);
+(b)  paralisação  do  processo  durante  mais  de  um  ano  por  negligência  das
+partes (inciso II);
+(c) abandono da causa, pelo autor, que deixa o processo paralisado por mais
+de trinta dias, sem promover os atos e diligências que lhe competir (inciso III);
+(d) ausência de pressupostos de constituição e de desenvolvimento válido e
+regular do processo (inciso IV);
+(e)  acolhimento  da  alegação  de  perempção,  litispendência  ou  de  coisa
+julgada (inciso V);
+(f)  inocorrência  de  legitimidade  das  partes  ou  de  interesse  processual
+(condições da ação) (inciso VI);
+(g) acolhimento da alegação de convenção de arbitragem ou quando o juízo
+arbitral reconhecer sua competência (inciso VII);
+(h) desistência da ação (inciso VIII);
+(i) intransmissibilidade da ação (inciso IX), em caso de morte da parte;
+(j) demais casos prescritos no Código (inciso X) (como, v.g., o dos arts. 76, §
+1º, I;
+21
+ 115, parágrafo único;
+22
+ 313, § 3º
+23
+ etc.).
+Analisaremos,  a  seguir,  cada  uma  dessas  hipóteses  de  sentenças
+terminativas.
+Indeferimento da inicial
+Ocorre  o  indeferimento  da  petição  inicial  nas  hipóteses  do  art.  330
+24
+  do
+NCPC (veja-se, supra, o nº 564).
+Note-se que o deferimento da inicial é simples despacho, que, por isso, não
+tem efeito
+[/PAGINA 945]
+
+[PAGINA 946]
+preclusivo, de sorte que, mesmo depois da contestação, o juiz poderá
+voltar ao exame da matéria e, uma vez reconhecida a inépcia da petição com
+que o autor abriu a relação processual, ser-lhe-á lícito decretar a extinção do
+processo.
+Abandono da causa
+A inércia das partes diante dos deveres e ônus processuais, acarretando a
+paralisação  do  processo,  faz  presumir  desistência  da  pretensão  à  tutela
+jurisdicional. Equivale ao desaparecimento do interesse, que é condição para o
+
+regular exercício do direito de ação.
+25
+Presume-se,  legalmente,  essa  desistência  quando  ambas  as  partes  se
+desinteressam e, por negligência, deixam o processo paralisado por mais de um
+ano,  ou  quando  o  autor  não  promove  os  atos  ou  diligências  que  lhe  competir,
+abandonando a causa por mais de trinta dias.
+A extinção, de que ora se cuida, pode dar-se por provocação da parte ou do
+Ministério Público; pode, ainda, ser decretada de ofício pelo juiz, salvo no caso de
+abandono pelo autor, pois mesmo que após sua intimação permaneça inerte, o
+réu  que  já  ofereceu  contestação  pode  ter  interesse  no  prosseguimento  do
+processo e na resolução do mérito da causa.
+Em qualquer hipótese, porém, a decretação não será de imediato. Após os
+prazos dos incisos II e III do art. 485, o juiz terá, ainda, que mandar intimar a
+parte, pessoalmente, por mandado, para suprir a falta (i.e., dar andamento ao
+feito), em cinco dias. Só depois dessa diligência é que, persistindo a inércia, será
+possível  a  sentença  de  extinção  do  processo,  bem  como  a  ordem  de
+arquivamento dos autos (art. 485, § 1º).
+26
+A intimação pessoal da parte, exigida textualmente pelo Código, visa a evitar
+a  extinção  nos  casos  em  que  a  negligência  e  o  desinteresse  são  apenas  do
+advogado, e não do sujeito processual propriamente dito. Ciente do fato, a parte
+poderá substituir seu procurador ou cobrar dele a diligência necessária para que o
+processo retome o curso normal.
+O STJ, em decisão não unânime, já entendeu ser desnecessária a intimação
+pessoal quando o advogado litiga em causa própria, e nessa condição já estaria
+ciente  do  ato  judicial  respectivo.
+27
+  O  voto  vencido,  do  Min.  Aldir  Passarinho
+Júnior,  ressaltou,  porém,  que  a  exigência  legal  não  se  restringe  apenas  ao
+problema da “ciência” do evento, “mas à própria formalidade do ato, de que seja
+inequívoco esse conhecimento de que a causa (...) está prestes a se extinguir por
+omissão  sua”.  O  legislador  solenizou  a  intimação  porque  entendeu  que,  na
+espécie,  não  seria  suficiente  para  alcançar  a  meta  visada  a  intimação  do
+advogado  ordinariamente  feita  pela  imprensa,  de  eficiência,  portanto,  apenas
+presumida.  Essa  ponderação  é  procedente.  Quando  se  trata  de  solenidade
+imposta pela lei às intimações e citações, não é dado ao intérprete ser liberal para
+dispensá-la.  Para  a  hipótese,  o  Código  é  rigoroso,  cominando  de  maneira
+categórica a sanção de nulidade para
+[/PAGINA 946]
+
+[PAGINA 947]
+o ato praticado em desconformidade com
+os requisitos legais.
+28
+ A regra é, pois, de ordem pública, não podendo, por isso,
+
+754.3.
+ser afastada por exegese pretoriana.
+Quando a extinção decorre de negligência de ambas as partes (art. 485, II),
+as custas serão rateadas entre elas, proporcionalmente, e não haverá condenação
+à verba de honorários de advogado. Se, porém, o abandono for cometido apenas
+pelo  autor  (art.  485,  III),  será  este  condenado  nas  despesas  e  honorários
+advocatícios (art. 485, § 2º).
+29
+Diante do sistema de impulso oficial do processo (art. 2º),
+30
+ o juiz não está
+jungido  a  aguardar  a  provocação  de  interessado  para  extinguir  a  relação
+processual  abandonada  pela  parte.  Verificada  a  paralisação  por  culpa  dos
+litigantes, de ofício será determinada a intimação pessoal da parte (ou partes), na
+forma recomendada  pelo  §  1º  do  art.  485. E,  não  sanada  a  falta,  decretará  a
+extinção, mesmo sem postulação do interessado ou do Ministério Público.
+31
+A situação é idêntica à que autoriza o indeferimento da inicial, que, também,
+não se condiciona à provocação da outra parte.
+Quando, porém, o abandono for só do autor (art. 485, III), e o réu não for
+revel, o juiz só pode decretar a extinção a requerimento do demandado (art. 485,
+§ 6º). É que, também, o réu tem legítimo interesse na composição da lide, por
+meio da sentença de mérito e, por isso, pode tomar diligência para contornar a
+omissão do autor e ensejar o andamento do feito paralisado. Só quando a inércia
+de ambos os litigantes demonstrar que há total desinteresse pela causa é que o
+juiz, então, decretará a extinção do processo sem julgamento de mérito.
+32
+Ausência de pressupostos processuais
+O processo é uma relação jurídica e, como tal, reclama certos requisitos ou
+pressupostos para se formar e desenvolver validamente. Podem, ordinariamente,
+se  agrupar  em  duas  categorias:  os subjetivos  e  os objetivos.  Os  primeiros  se
+referem aos sujeitos do processo, que são o juiz e as partes. Manifestam-se por
+meio do requisito da competência e da ausência de impedimento ou suspeição do
+órgão jurisdicional. Do lado dos litigantes, relacionam-se com a capacidade civil
+de exercício, bem como com a necessidade de representação por advogado.
+Pressupostos objetivos são, por sua vez, os que dizem respeito à regularidade
+dos atos processuais, segundo a lei que os disciplina, principalmente no tocante à
+forma do rito, quando for da substância do ato, e à ausência de fatos impeditivos
+do processo (veja-se, retro, o nº 87).
+O reconhecimento da falta de pressuposto pode verificar-se logo no início da
+
+754.4.
+754.5.
+relação processual, o que levará a indeferimento da inicial. Ainda em toda a fase
+de  saneamento  a  questão  continua  sujeita  à  apreciação.  E,  até  mesmo  no
+julgamento  final,  o  tema  poderá  ser  objeto  de  exame,  pois  não  há  preclusão
+temporal  para  a  matéria  de  pressupostos  do  processo  e  condições  da  ação
+(NCPC, art. 482, §
+[/PAGINA 947]
+
+[PAGINA 948]
+3º).
+33
+Os  pressupostos  processuais  são  requisitos  de  ordem  pública,  que
+condicionam  a  legitimidade  do  próprio  exercício  da  jurisdição.  Por  isso,  não
+precluem e podem, a qualquer tempo, ser objeto de exame, em qualquer fase do
+processo  e  em  qualquer  grau  de  jurisdição,  desde  que  ainda  não  decidido  o
+mérito da causa, com trânsito em julgado.
+Até  aqui  cogitamos  de  pressupostos  que  deveriam  ser  atendidos  desde  a
+origem  do  processo.  Mas  a  ausência  de  requisito  de  procedibilidade  pode
+decorrer,  também,  de  fato  superveniente  à  regular  instauração  do  processo,
+como, por exemplo, se dá com a perda de capacidade da parte ou com a não
+substituição de advogado falecido no curso do processo. Em tais circunstâncias,
+não  sendo  superado  o  defeito  surgido  incidentemente,  haverá  de  ser  extinto  o
+processo, na fase em que estiver, sem julgamento do mérito (art. 313, § 3º).
+34
+O mesmo se passa quando o advogado do autor renuncia ao mandato que
+lhe foi conferido. Se a parte não o substitui por outro causídico, no prazo do art.
+112,
+35
+  o  processo  não  terá  condições  de  prosseguir  e  será  extinto,  sem
+julgamento do mérito, por falta de um pressuposto de desenvolvimento regular.
+Perempção
+A extinção do processo por abandono da causa não impede que o autor volte
+a propor, em nova relação processual, a mesma ação (NCPC, art. 486).
+36
+ Se der
+causa, porém, por três vezes, à extinção do processo pelo fundamento previsto no
+art. 485, III (abandono de causa), ocorrerá o fenômeno denominado perempção,
+que consiste na perda do direito de renovar a propositura da mesma ação (art.
+486, § 3º).
+37
+Embora a perempção cause a perda do direito de ação, não impede que a
+parte invoque o seu eventual direito material em defesa, quando sobre ele vier a
+se abrir processo por iniciativa da outra parte (art. 486, § 3º, in fine)
+38
+ (veja-se,
+supra, o nº 600).
+Litispendência e coisa julgada
+
+754.6.
+Não se tolera, em direito processual, que uma mesma lide seja objeto de
+mais de um processo simultaneamente (ver n.
+os
+ 402 e 600); nem que, após o
+trânsito em julgado, volte a mesma lide a ser discutida em outro processo (ver
+n.
+os
+ 600, 796 e 800). Demonstrada, pois, a ocorrência de litispendência ou de
+coisa  julgada  (isto  é,  verificada  a  identidade  de  partes,  de  objeto  e  de  causa
+petendi) entre dois processos, o segundo deverá ser extinto, sem apreciação do
+mérito.
+39
+A  decretação  dessa  extinção  faz-se  de  ofício  ou  a  requerimento  da  parte
+(NCPC, art. 485, § 3º) e, ao contrário das demais causas extintivas do art. 485,
+impede  que  o  autor  intente  de  novo  a  mesma  ação  (art.  486, caput).  Assim,
+embora não se trate de sentença de mérito, sua força é equivalente à da coisa
+julgada material (art. 502).
+40
+No que toca particularmente à litispendência, entende-se em doutrina que a
+exceção  não  afeta  a  competência  do  juiz  da  segunda  causa  e  que  se  afigura
+apenas como uma condiçã
+[/PAGINA 948]
+
+[PAGINA 949]
+o objetiva de improcedibilidade.  Sua  repercussão  é
+menor, portanto, do que a da res iudicata. Em consequência, é lícito ao juiz do
+segundo feito examinar as particularidades da primeira causa, para verificar se
+há possibilidade de afastar a improcedibilidade, o que será possível em hipótese
+como  a  de  nulidade  da  citação  ou  de  extinção  do  processo  primitivo  sem
+julgamento de mérito.
+41
+Por outro lado, a litispendência é fenômeno típico da competência interna,
+de sorte que nunca ocorre entre causas ajuizadas no País e no exterior. O mesmo
+pode-se  afirmar  da  coisa  julgada.  Somente  no  caso  de  sentença  estrangeira
+homologada pelo Supremo Tribunal Federal é que será lícito arguir exceção de
+coisa julgada perante a Justiça nacional (vide tratamento do tema no vol. III).
+Condições da ação
+O direito de ação é o direito público subjetivo à prestação jurisdicional do
+Estado. Para obter a solução da lide (sentença de mérito), incumbe, porém, ao
+autor  atender  a  determinadas  condições,  sem  as  quais  o  juiz  se  recusará  a
+apreciar seu pedido: são elas as condições da ação, ou condições do exercício do
+direito de ação.
+Não  se  confundem  com  os  pressupostos  processuais,  pois  estes  dizem
+respeito apenas à validade da relação processual, enquanto as condições da ação
+se relacionam com a possibilidade ou não de obter-se, dentro de um processo
+
+válido,  a  sentença  de  mérito.  Há,  dessa  forma,  para  perfeita  consecução  do
+objetivo do processo, um trinômio a ser apreciado sucessivamente pelo julgador:
+“os pressupostos processuais – as condições da ação – o mérito”.
+Antes  do  Código  de  1973,  havia  séria  controvérsia  sobre  a  natureza  das
+questões relativas às condições da ação. O Código regulou expressamente o caso
+e colocou essas condições fora do âmbito do mérito da causa. “Na realidade” –
+como explica Ada Pellegrini Grinover – “as condições da ação situam-se em
+posição intermediária, entre o mérito e os pressupostos processuais”.
+42
+Assim, para se obter uma composição do litígio (mérito), a parte tem de não
+só  constituir  uma  relação  processual  válida,  como  também  satisfazer  as
+condições jurídicas requeridas, para que o juiz, dentro do processo, se manifeste
+sobre seu pedido.
+As condições da ação, segundo o novo Código, são:
+(a) a legitimidade de parte para a causa;
+(b) o interesse jurídico na tutela jurisdicional.
+43
+Sobre a conceituação dessas condições, consulte-se o que ficou exposto nos
+n.
+os
+ 95 e 96, retro.
+O  reconhecimento  da  inexistência  de  condição  da  ação  conduz  ao
+julgamento que se denomina carência de ação e que, por não dizer respeito ao
+mérito, não produz a eficácia de coisa julgada material. Por essa mesma razão,
+não impede que a parte venha novamente a propor a ação sobre a mesma lide
+(NCPC, art. 486),
+44
+ uma vez superado o defeito da postulação primitiva.
+A  proclamação  da  ausência  de  condição  da  ação  e  a  consequente
+decretação de extinção do processo podem ocorre
+[/PAGINA 949]
+
+[PAGINA 950]
+r por provocação da parte ou
+por iniciativa oficial do juiz (art. 485, § 3º).
+As condições da ação, sendo requisitos de legitimidade da própria atuação
+do Poder Jurisdicional (arts. 2º e 17),
+45
+ podem ser examinadas a qualquer tempo,
+não se sujeitando à preclusão, enquanto não houver sentença de mérito, ainda
+que o saneador reste irrecorrido.
+46
+ Há, porém, dois casos em que se verifica a
+preclusão pro iudicato, para o juiz de primeiro grau de jurisdição, acerca das
+condições da ação: “a) quando o juiz publica a sua sentença de mérito, definindo
+a  lide  (CPC/1973,  art.  463)  [NCPC,  art.  494];
+47
+  b)  quando  decidida  em  grau
+recursal a questão controvertida (CPC/1973, art. 471) [NCPC, art. 502),
+48
+ pena
+
+754.7.
+de instaurar-se a insegurança jurídica”.
+49
+ Vale dizer: ao juiz de primeiro grau
+não é dado retornar ao exame das condições da ação depois de já ter julgado o
+mérito da causa, ou depois que a questão a elas relativa já tenha sido solucionada
+em acórdão do tribunal de grau superior, mesmo que a sentença de mérito ainda
+não tenha sido pronunciada. É que, operada a substituição da decisão recorrida
+pelo julgamento do tribunal (art. 1.008), faltaria competência ao juiz a quo para
+rever a decisão do órgão hierárquico a ele superior.
+Por outro lado, as condições da ação devem existir no momento em que se
+julga o mérito da causa e não apenas no ato da instauração do processo. Quer
+isso  dizer  que,  se  existirem  na  formação  da  relação  processual,  mas
+desaparecerem  ao  tempo  da  sentença,  o  julgamento  deve  ser  de  extinção  do
+processo por carência de ação, isto é, sem apreciação do mérito.
+50
+Na  mesma  ordem  de  ideias,  se  alguma  condição  inexistia  ao  tempo  do
+ajuizamento da causa, mas, antes que se declarasse a carência de ação, veio a
+ser suprida, cabível será o julgamento de mérito, não havendo mais razão para o
+trancamento do processo mediante simples sentença terminativa (art. 493).
+51
+Em suma, as condições da ação devem necessariamente se manifestar, não
+só  no  momento  da  propositura  da  ação,  mas  também  na  ocasião  de  seu
+julgamento.
+52
+Perda do objeto
+Usa-se  o  argumento  da perda  de  objeto  para  extinguir  o  processo  ou  o
+recurso,  sempre  que  algum  evento  ulterior  venha  a  prejudicar  a  solução  de
+questão  pendente,  privando-a  de  relevância  atual,  de  modo  que  se  tornaria
+meramente acadêmica ou hipotética a decisão a seu respeito. É o que se passa,
+por exemplo, com a ação de cobrança diante do pagamento voluntário da dívida
+antes da sentença, ou com o agravo manejado contra o indeferimento de uma
+prova, depois que o agravante saiu vitorioso na sentença de mérito transitada em
+julgado.
+Na  verdade,  o  que  ocorre  nesses  casos  e  em  tantos  outros  similares  é  o
+desaparecimento  do interesse,  já  que  a  parte  não  teria  mais  necessidade  da
+medida postulada para sustentar a situação de vantagem que pretendia preservar
+ou recuperar, por seu intermédio.
+Contudo, é
+[/PAGINA 950]
+

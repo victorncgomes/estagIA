@@ -1,0 +1,54 @@
+{
+    "suite": "saida_temporaria",
+    "descricao": "Testes para matéria de saída temporária",
+    "casos": [
+        {
+            "id": "sai-001",
+            "nome": "Saída temporária - Deferimento visita familiar",
+            "insumos": "Apenado em regime semiaberto, 1/6 cumprida, bom comportamento. Requer saída para visita à mãe enferma.",
+            "orientacao": "Deferir saída temporária de 7 dias",
+            "agrupador": "saida_temporaria",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "citacao_art122_lep",
+                "prazo_saida"
+            ]
+        },
+        {
+            "id": "sai-002",
+            "nome": "Saída temporária - Indeferimento falta disciplinar",
+            "insumos": "Apenado requer saída. Falta média homologada há 2 meses.",
+            "orientacao": "Indeferir - comportamento insatisfatório",
+            "agrupador": "saida_temporaria",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_comportamento"
+            ]
+        },
+        {
+            "id": "sai-003",
+            "nome": "Saída automatizada - Deferimento datas comemorativas",
+            "insumos": "MP requer inclusão do apenado no calendário de saídas automáticas. Requisitos preenchidos.",
+            "orientacao": "Deferir saídas automatizadas conforme Provimento",
+            "agrupador": "saida_temporaria",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "calendario_saidas"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

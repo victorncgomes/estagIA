@@ -1,0 +1,2840 @@
+[META]
+TITULO: Execução Penal
+AUTOR: 2021
+ANO: 2021
+EDICAO: 5
+EDITORA: Saraiva
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: Execução Penal - Teoria Crítica - 5ª Edição - Rodrigo Duque Estrada Roig - 2021.pdf
+CITACAO_ABNT: 2021. Execução Penal. 5. ed.. São Paulo: Saraiva, 2021.
+[/META]
+
+[PAGINA 1]
+Diretora de Conteúdo e Operações Editoriais
+JULIANA MAYUMI ONO
+Gerente de Conteúdo
+MILISA CRISTINE ROMERA
+Editorial: Aline Marchesi da Silva, Diego Garcia Mendonça, Karolina de
+Albuquerque Araújo e Quenia Becker
+Gerente de Conteúdo Tax: Vanessa Miranda de M. Pereira
+Direitos Autorais: Viviane M. C. Carmezim
+Assistente de Conteúdo Editorial: Juliana Menezes Drumond
+Analista de Projetos: Camilla Dantara Ventura
+Estagiárias: Ana Amalia Strojnowski, Bárbara Baraldi e Bruna Mestriner
+Produção Editorial
+Coordenação
+ANDRÉIA R. SCHNEIDER NUNES CARVALHAES
+Especialistas Editoriais: Gabriele Lais Sant’Anna dos Santos e Maria
+Angélica Leite
+Analista de Projetos: Larissa Gonçalves de Moura
+Analistas de Operações Editoriais: Alana Fagundes Valério, Caroline Vieira,
+Danielle Castro de Morais, Mariana Plastino Andrade, Mayara Macioni
+Pinto, Patrícia Melhado Navarra e Vanessa Mafra
+Analistas de Qualidade Editorial: Ana Paula Cavalcanti, Fernanda Lessa,
+Thaís Pereira e Victória Menezes Pereira
+Designer Editorial: Lucas Kfouri
+Estagiárias: Bianca Satie Abduch, Maria Carolina Ferreira, Sofia Mattos e
+Tainá Luz Carvalho
+Capa: Lucas Kfouri
+Líder de Inovações de Conteúdo para Print
+CAMILLA FUREGATO DA SILVA
+
+Visual Law: Danielle Castro de Morais, Maria Angélica Leite e Renata B.
+Borowski
+Equipe de Conteúdo Digital
+Coordenação
+MARCELLO ANTONIO MASTROROSA PEDRO
+Analistas: Gabriel George Martins, Jonatan Souza, Maria Cristina Lopes
+Araujo e Rodrigo Araujo
+Gerente de Operações e Produção Gráfica
+MAURICIO ALVES MONTE
+Analistas de Produção Gráfica: Aline Ferrarezi Regis e Jéssica Maria
+Ferreira Bueno
+Assistente de Produção Gráfica: Ana Paula Evangelista
+Dados Internacionais de Catalogação na Publicação (CIP)
+(Câmara Brasileira do Livro, SP, Brasil)
+Roig, Rodrigo Duque Estrada
+Execução penal [livro eletrônico] : teoria e prática / Rodrigo Duque Estrada Roig. -- 5. ed.
+-- São Paulo : Thomson Reuters Brasil, 2021.
+Bibliografia.
+ISBN 978-65-5614-701-7
+1. Direito penal 2. Direito penal - Brasil 3. Execução penal 4. Penas (Direito penal) 5.
+Princípio da legalidade I. Título.
+21-58820                         CDU-343.8
+Índices para catálogo sistemático:
+1. Execução penal : Legalidade : Direito penal 343.8
+Cibele Maria Dias - Bibliotecária - CRB-8/9427
+
+
+
+EXECUÇÃO PENAL
+Teoria Crítica
+RODRIGO DUQUE ESTRADA ROIG
+5
+a
+ edição
+1
+a
+ edição: 2014, Saraiva; 2
+a
+ edição: 2016, Saraiva;
+3
+a
+ edição: 2017, Saraiva; 4
+a
+ edição: 2018, Saraiva
+© desta edição [2021]
+THOMSON REUTERS BRASIL CONTEÚDO E TECNOLOGIA
+LTDA.
+JULIANA MAYUMI ONO
+Diretora Responsável
+Av. Dr. Cardoso de Melo, 1855 – 13º andar – Vila Olímpia
+CEP 04548-005, São Paulo, SP, Brasil
+TODOS OS DIREITOS RESERVADOS. Proibida a reprodução total ou parcial, por qualquer
+meio ou processo, especialmente por sistemas gráficos, microfílmicos, fotográficos,
+reprográficos, fonográficos, videográficos. Vedada a memorização e/ou a recuperação total
+ou parcial, bem como a inclusão de qualquer parte desta obra em qualquer sistema de
+processa
+[/PAGINA 1]
+
+[PAGINA 2]
+mento de dados. Essas proibições aplicam-se também às características gráficas
+da obra e à sua editoração. A violação dos direitos autorais é punível como crime (art. 184 e
+parágrafos, do Código Penal), com pena de prisão e multa, conjuntamente com busca e
+apreensão e indenizações diversas (arts. 101 a 110 da Lei 9.610, de 19.02.1998, Lei dos
+Direitos Autorais).
+O autor goza da mais ampla liberdade de opinião e de crítica, cabendo-lhe a responsabilidade
+das ideias e dos conceitos emitidos em seu trabalho.
+CENTRAL DE RELACIONAMENTO THOMSON REUTERS SELO REVISTA DOS
+TRIBUNAIS
+(atendimento, em dias úteis, das 09h às 18h)
+Tel. 0800-702-2433
+e-mail de atendimento ao consumidor: sacrt@thomsonreuters.com
+e-mail para submissão dos originais: aval.livro@thomsonreuters.com
+Conheça mais sobre Thomson Reuters: www.thomsonreuters.com.br
+Acesse o nosso eComm
+
+www.livrariart.com.br
+Profissional
+Fechamento desta edição [04.03.2021]
+ISBN 978-65-5614-701-7
+
+
+
+PRÓLOGO
+Pocas veces una obra contiene un análisis tan rico y detallado sobre la 
+ejecución penal, alcanzando un nivel que excede en mu cho la exégesis de la 
+ley, para configurar una verdadera construcción dogmático-jurídica.
+Desde los orígenes   de la au  tonomización del derecho penal ejecutivo han 
+aparecido  tendencias autoritarias  o  antiliberales tratando  de escindirlo  del 
+tronco del derecho penal, para asignarle reglas de interpretación propias, que 
+burlaban las garantías impuestas al intérprete de la ley penal.
+Uno  de los  recursos  para hacer de  la  ejecución penal  una  materia 
+independiente fu e negarle carácter penal, asignándole una simple naturaleza 
+administrativa  o,  más   disimuladamente, mixta.  De ese  modo  se intentaba 
+dejar a la ejecución penal fuera del ámbito jurisdiccional, entregando a los 
+condenados al poder ejecutivo y a sus reglamentos. El condenado era un ente 
+del que debía hacerse cargo la   administración y la  normativa que lo regía no 
+pasaba de  ser una  ley  administrativa  o un  reglamento  complejo.  Si 
+extremamos el  argumento,  el magisterio  judicial de  control  sería su  rama 
+contenciosa.
+Pretendidos principios propios, como la retroactividad de la su  puesta ley 
+aptior en tiempos del fascismo italiano, oscurecieron el tratamiento del tema, 
+incluso en nuestra región, donde con frecuencia arriban tesis que son acogidas 
+con entusiasmo y adoptadas con ingenuidad reverente, cuando en realidad son 
+producto  de marcos teóricos  políticamente incompatibles con los  que 
+imponen nuestras Constituciones y el derecho internacional de los Derechos 
+Humanos. Es obvio que   una ley ejecutiva más   gravosa retroactiva burla el 
+principio  de legalidad  de la  pena,  dado  que dos  penas  que  se ejecutan de 
+modo diferente son dos penas diferentes.
+Es incuestionable que el derecho penal ejecutivo sigue perteneciendo al 
+derecho penal. Incluso, ante de su complejización se hallaba legislado en los 
+viejos códigos,  que detallaban la  ejecución  de  las  penas.  La
+[/PAGINA 2]
+
+[PAGINA 3]
+legislación 
+especializada fue resultado de una larga evolución, en cuyo curso se vio la 
+conveniencia de una regulación legislativa separada, fuera del código penal, 
+pero  como mejor técnica  legislativa y  nunca  como  pretexto  para el 
+desconocimiento de su naturaleza y, por ende, para que la ley ejecutiva sea
+
+interpretada conforme a principios diferentes de los que rigen las garantías en 
+toda la materia penal.
+La  diferencia conceptual que se deriva de la materia a in terpretar en las 
+normas ejecutivas no puede consistir más  que en extensiones adaptativas de 
+los  mismos  principios interpretativos penales  ajustados por especialidad, 
+pero nunca alterados en cuanto a los límites al poder punitivo que rige todo el 
+campo penal.
+El autor toma aquí decidida posición por la tesis correcta tanto en   cuanto 
+a la naturaleza de la legislación penal ejecutiva como, en   consecuencia, a los 
+principios interpretativos del  derecho  penal para el  entendimiento  de la 
+detallada ley  brasileña. En  este  aspecto lleva a  cabo una  cuidadosa 
+exposición de estos principios, con verdadera maestría dogmática.
+No es labor del prologuista entrar en los múltiples y complejos temas que 
+aborda el autor a lo largo de la obra, que   constituye un verdadero tratado del 
+derecho penal ejecutivo. No obstante, su análisis de los principios llama la 
+atención por su originalidad y, en  particular, porque eleva a la categoría de 
+principio  el del numerus clausus.  De la  observancia  de  este  principio 
+depende en  nuestra región  la  vigencia efectiva  de  todo el  resto de  la 
+legislación penal  ejecutiva.  Sin este principio, nuestras legislaciones 
+ejecutivas son  letra muerta,  que sólo  sirve para  entretenimiento  de los 
+comparatistas.
+Las   cárceles  superpobladas de  América Latina van  dejando  de ser 
+prisiones para  convertirse en campos  de  concentración y, en  ocasiones, en 
+campos de exterminio, en razón de las frecuentes masacres –con pretexto de 
+motines– o de las masacres por goteo que a diario cobran vidas, porque el 
+riesgo  de muerte violenta  carcelaria  se multiplica exponencialmente en 
+relación con el de la vida libre.
+La  cárcel superpoblada implica no sólo una pena cruel, sino directamente 
+una tortura y, teniendo en cuenta   la potenciación de la violencia, una pena de 
+mu erte por azar, aunque   la misma expresión pena resulta inadecuada, dado 
+que   en Latinoamérica más  de la mitad de los presos no se  hallan condenados, 
+sino  que cumplen detención  en  prisión  preventiva. Nuestro  derecho  penal 
+judicial se  ha  vuelto cautelar,  caracterizado  por imponer penas por  las 
+dudas. Se ha hablado con frecuencia de la inversión del sistema penal, lo que 
+también es dudoso, dado que nunca ha funcionado
+
+cabeza arriba, con lo que   se constata históricamente que esa y no otra es su 
+normalidad de funcional.
+Además de  los  antecedentes europeos y  de  la  jurisprudencia 
+norteamericana de los últimos años, el autor funda lega
+[/PAGINA 3]
+
+[PAGINA 4]
+lmente el principio del 
+numerus clausus en  el propio derecho vigente, con mu y sólidos argumentos.
+Vivimos un  momento mundial en  que  predomina   una  tendencia 
+francamente autoritaria y los  derechos  humanos se  hallan en retroceso. El 
+mundo se debate entre el poder de las grandes corporaciones trasnacionales y 
+el de los estados, las primeras procurando imponer un modelo de sociedad 
+excluyente  y   algunos  de  los  segundos  esforzándose por  una  sociedad 
+incluyente.
+Nuestros medios masivos de  comunicación son  parte de  las grandes 
+corporaciones y generan constantemente un pánico moral que es funcional a 
+la  violencia  con  que  se  pretende  contener a  los  excluidos de  nuestras 
+sociedades marcadamente estratificadas. Lamentablemente,  los poderes 
+judiciales de nuestra región son amedrentados por estos medios –en especial 
+los audiovisuales– y por políticos temerosos u oportunistas, lo que les impide 
+imponer el numerus clausus en  la forma en que lo argumenta este texto.
+En estas condiciones, en casi toda nuestra región se insiste en la respuesta 
+más  insensata frente a la verificación de la su  perpoblación carcelaria, que es 
+la construcción de nuevas prisiones, lo que es correctamente rechazada por el 
+autor y por toda la opinión técnica responsable. Salvo que se lleve a cabo una 
+política integradora –como en los países nórdicos, es decir, a contramano de 
+la dominante en la región–   no existe espacio carcelario ocioso en el mundo, 
+pues la  demanda de prisionización de  las  corporaciones  trasnacionales, 
+conforme a  su   modelo  de exclusión social, exige un incesante aumento  de 
+presos.
+La   propia  burocracia internacional es  incapaz de  poner  coto a  esta 
+tendencia, pues se halla básicamente   financiada por los países que tratan de 
+imponer el  modelo  de dominio  corporativo,  insistiendo  en las  tesis  de 
+absoluta libertad de mercado,  cuyo  fracaso ha  iniciado un  proceso de 
+decadencia de la   hegemonía mu ndial vigente, dando lugar a una transición del 
+poder planetario en que aún no se   vislumbra el nuevo modelo. En medio de 
+esta incertidumbre, nuestra región debe sortear sus dificultades de la
+
+mejor manera,  para lo  cual   u
+na  de  su  s  prioridades  es  la contención de  la 
+violencia institucional reproductora y  potenciadora de  la  conflictividad 
+social. En este orden, el  principio del numerus clausus es el remedio más 
+urgente a adoptar para bajar el nivel gravísimo de violencia carcelaria y una 
+de las más  flagrantes burlas a los derechos humanos. Lamentablemente, es un 
+tema que  no  ha  sido  asumido  por los  congresos de  la  ONU,  donde los 
+ministros de justicia tienen la palabra y, por  lo general, producen documentos 
+ambiguos  y  en  ocasiones  ininteligibles en  su  acostumbrado dialecto no 
+comprometido.
+Desde una  perspectiva  realista, la  inclusión de  este  principio  en la 
+reconstrucción dogmática que de la ley de ejecución penal realiza el autor, 
+resulta la vig  a
+[/PAGINA 4]
+
+[PAGINA 5]
+maestra en la que asentar el resto de las disposiciones de la ley 
+misma.
+La   dogmática penal  latinoamericana no  puede seguir  construyéndose 
+sobre modelos importados y pretendidamente neutrales  o  asépticos  en lo 
+político. No podemos ser ajenos a los modelos de sociedad que   se debaten y 
+que, sustancialmente son el incluyente y  el excluyente.
+Si  nos  decidimos  por  el  último,  sigamos construyendo  prisiones, 
+comprando  las que  en  forma  premoldeada nos  venden  desde el  norte  (la 
+prisión prêt  à porter),  sobrepoblemos las  nuevas  cárceles, aumentemos el 
+número  de presos muertos,  lesionados,  enfermos,  deteriorados y,  por otra 
+parte, sigamos fomentando la autonomización de las policías entrelazadas con 
+el crimen organizado, potenciemos la estigmatización de los adolescentes de 
+nuestros barrios  precarios  (favelas,  villas miseria, pueblos jóvenes) y 
+hagamos caso  omiso  de las  ejecuciones sin proceso. Este  camino tiene un 
+único  final posible: no  puede ser  otro  que   la  masacre,  el genocidio  y la 
+dictadura.
+Si  n
+os  decidimos  por  el  modelo incluyente  tratemos  de  controlar y 
+desandar todo lo anterior –que es el camino por el que el norte nos emplaza a 
+andar–  y hagamos una  dogmática penal  conforme a  este modelo,  como 
+propuesta de ju  risprudencia para nuestras agencias judiciales. Esta obra se 
+inscribe decididamente   en esta segunda opción.
+E. RAÚL ZAFFARONI
+Profesor Emérito de la Universidad de Buenos Aires.
+
+
+
+APRESENTAÇÃO
+O presente trabalho não possui a pretensão de esgotar o tema. Trata-se de 
+um estudo eminentemente crítico dos diversos institutos e normas executivo-
+penais,  baseado  em pesquisas  doutrinárias,  jurisprudenciais e legislativas 
+realizadas no Brasil e no exterior, em especial no Max-Planck-Institut für 
+ausländisches und  internationales Strafrecht   (Alemanha)   e   nas 
+Universidades de  Grenoble (França),  Barcelona e  Castilla-La  Mancha
+(Espanha)  e  Bolonha   (Itália), esta  última  durante  o  período  de pós-
+doutoramento em Direito Penitenciário, sob a supervisão do querido amigo e 
+mestre Massimo Pavarini e com as preciosas lições criminológicas de Dario 
+Melossi.
+Muitas das discussões aqui presentes foram também retiradas das aulas 
+de  Execução  Penal ministradas nos  Cursos  de  Pós-graduação  em Ciências 
+Criminais e Segurança Pública da Universidade do Estado do Rio de Janeiro 
+e de Pós-graduação em Direito e Processo Penal da Universidade Cândido 
+Mendes/RJ.
+Este trabalho é   fruto ainda de ex  periências vivenciadas com a atuação 
+como Defensor Público junto à   Vara  de Execuções Penais do Estado do Rio 
+de  Janeiro,  ex-membro  do  Conselho  Nacional de  Política  Criminal   e 
+Penitenciária e ex -Ouvidor Nacional do Sistema Penitenciário.
+Ao  longo  das lições  e experiências obtidas, muitas dúvidas nasceram, 
+mas   algumas   certezas  ficaram.  A primeira  delas de  que,  como  bem 
+observaram Nilo Batista e Eu genio Raúl Zaffaroni, a pena não pa
+[/PAGINA 5]
+
+[PAGINA 6]
+ssa de um 
+ato de poder que impõe privação de direitos ou dor, sem,    no entanto, reparar, 
+restituir, nem  tampouco  deter lesões em  curso  ou neutralizar perigos 
+iminentes. Daí não nos resta outra opção senão reconhecer que a principal 
+função dos juristas e agências jurídicas é a de conter a ação do poder punitivo 
+(e executório) do Estado de Polícia em prol do fortalecimento das bases do 
+Estado  de Direito. E  isto  se  faz  por  meio  de decisões legitimadas pelo 
+manejo racional dos Direitos Penal e da Execução Penal. Raúl tem razão, se 
+não servimos para isso, não servimos para nada. Daí nasceu outra certeza: a 
+de qu  e não podemos continuar construindo discursos dogmáticos
+
+mera   me nte  descritivos, assépticos ou desco  mpro   missados com a conte nção 
+racional do poder punitivo e executório do Estado.
+Construindo  discursos jurídicos consequentes e  contra-hegemônicos na 
+execução  penal,  certamente somos  estigmatizados de  idealistas, radicais,
+“defensores de  bandidos”  e  ou  tros  adjetivos  impublicáveis.  Mas outra 
+certeza me  alenta: a    de qu  e não devemos temer adjetivações. Esses ataques 
+que   sofremos  decorrem de  outra  certeza: a  de  que  vivenciamos tempos 
+difíceis para os direitos humanos em sede de ex  ecução penal, vistos como 
+verdadeiras heresias pela cultura   penal pós-moderna, cultura esta midiática, 
+populista, paradoxalmente legitimada pelos próprios segmentos que são alvos 
+do sistema penal e, sobretudo, cega diante da ameaça que a flexibilização de 
+princípios e garantias constitucionais produz à própria democracia.
+Não me  cabe dissertar indefinidamente sobre certezas, mas   uma  última 
+merece apreço: a de qu  e tive mu ita sorte. Sorte de en  contrar no meu  caminho 
+espiritual Andréa, Enzo e Liz, bem como “esbarrar” em grandes mestres e 
+amigos,  que deixaram em  mim   uma   impagável (e  inapagável) dívida de 
+gratidão pelas lições aprendidas e enormes honras e alegrias pelo convívio. 
+Nilo  Batista, Vera Malaguti  Batista, Eugenio  Raúl Zaffaroni,  Massimo 
+Pavarini, Dario Melossi, Juarez Tavares, Salo de Carvalho, Sérgio Salomão 
+Shecaira, Luís   Guilherme Vieira,  Carlos Weis,  Guilherme Reche  e  Daniel 
+Scharth,  entre outros companheiros que  me   fariam também dissertar 
+indefinidamente. Espero, com as “sedições” a seg uir, poder honrar as lições 
+de vida e de Direito que me  deram.
+Rio de Janeiro, março de 2021.
+
+SUMÁRIO
+ANTERROSTO
+PÁGINA DE DIREITOS AUTORAIS
+FOLHA DE ROSTO
+PRÓLOGO
+APRESENTAÇÃO
+SUMÁRIO
+INTRODUÇÃO
+1. PRINCÍPIOS DA EXECUÇÃO PENAL
+1.1. Princípio da humanidade
+1.2. Princípio da legalidade
+1.3. Princípio da não marginalização (ou não discriminação) das pessoas
+presas ou internadas
+1.4. Princípio da individualização da pena
+1.5. Princípio da intervenção mínima
+1.6. Princípio da culpabilidade
+1.7. Princípio da lesividade
+1.8. Princípio da transcendência mínima
+1.9. Princípio da presunção de inocência
+1.10. Princípio da proporcionalidade
+1.11. Princípio da celeridade (ou ra
+[/PAGINA 6]
+
+[PAGINA 7]
+zoável duração) do processo de
+execução penal
+1.12. Princípio do numerus clausus (número fechado)
+2. NATUREZA JURÍDICA DA EXECUÇÃO PENAL
+
+3. JURISDIÇÃO NA EXECUÇÃO PENAL
+4. EXECUÇÃO PROVISÓRIA DA PENA
+4.1. Execução provisória de pena restritiva de direitos
+5. DIREITOS NÃO ATINGIDOS NA EXECUÇÃO
+6. DISPOSIÇÕES RELATIVAS AOS CONDENADOS E AOS
+INTERNADOS
+6.1. Assistência ao preso, internado ou egresso
+7. TRABALHO PENITENCIÁRIO
+7.1. Trabalho externo
+8. DEVERES E DISCIPLINA
+8.1. Deveres
+8.2. Disciplina
+8.2.1. Poder disciplinar na execução penal
+8.2.2. Faltas disciplinares de natureza grave
+8.2.3. Regime disciplinar diferenciado
+8.2.4. Transferência e inclusão de presos em estabelecimentos penais
+federais de segurança máxima
+8.2.5. Prescrição de faltas disciplinares
+8.2.6. Sanções disciplinares
+8.2.7. Recompensas
+8.2.8. Procedimento disciplinar
+9. ÓRGÃOS DA EXECUÇÃO PENAL
+9.1. Conselho Nacional de Política Criminal e Penitenciária
+9.2. Juízo da execução
+9.3. Ministério Público
+9.4. Conselho Penitenciário
+9.5. Departamentos Penitenciários
+9.6. Patronato
+9.7. Conselho da Comunidade
+9.8. Defensoria Pública
+
+10. E  STABELECIMENTOS PENAIS
+10.1. Penitenciária
+10.2. Colônia Agrícola, Industrial ou Similar
+10.3. Casa do Albergado
+10.4. Centro de Observação
+10.5. Hospital de Custódia e Tratamento Psiquiátrico
+10.6. Cadeia Pública
+11. EXECUÇÃO DAS PENAS EM ESPÉCIE
+11.1. Regimes de cumprimento de pena
+11.2. Crime continuado e concurso formal de crimes na execução penal
+11.3. Progressão de regime
+11.3.1. Requisitos objetivos
+11.3.2. Requisitos subjetivos
+11.3.3. Progressão de regime para preso estrangeiro
+11.3.4. Competência
+11.3.5. Possibilidade de apreciação de progressão de regime em
+sede de habeas corpus
+11.3.6. Progressão para o regime aberto
+11.4. Prisão-albergue domiciliar
+11.4.1. Hipóteses de prisão-albergue domiciliar
+11.4.2. Prisão domiciliar substitutiva da prisão preventiva
+11.5. Regressão de regime
+11.6. Autorizações de saída
+11.6.1. Permissão de Saída
+11.6.1.1. Características da Permissão de Saída
+11.6.2. Saída Temporária
+11.6.2.1. Características da Saída Temporária
+11.6.2.2. Revogação da saída temporária
+11.7. Remição de pena
+11.7.1. Outras hipóteses de remição
+11.8. Livramento condicional
+11.8.1. Requisitos objetivos
+11.8.2. Requisitos subjetivos
+11.8.3. Condições do livramento condicional
+11.8.4. Livramento condicional para presos estrangeiros
+
+11.8.5. Suspensão do livramento condicional
+11.8.6. Revogação do livramento
+11.8.7. Extinção da pena
+11.8.8. Possibilidade de apreciação de livramento condicional em
+sede de habeas corpus
+11.9. Monitoração eletrônica
+12. R  EABILITAÇÃO
+13. P  ENAS RESTRITIVAS DE DIREITOS
+14. S  USPENSÃO CONDICIONAL DA PENA (SURSIS)
+15. P  RESCRIÇÃO DA PRETENSÃO EXECUTÓRIA
+16. E  XECUÇÃO DA PENA DE MULTA
+17. E  XECUÇÃO DAS MEDIDAS DE SEGURANÇA
+17.1. Prazos da medida de segurança
+17.2. Prescrição da medida de segurança
+17.3. Detração da medida de segurança
+18. I  NCIDENTES DE EXECUÇÃO
+18.1. Conversões
+18.2. Excesso ou desvio
+[/PAGINA 7]
+
+[PAGINA 8]
+de execução
+18.3. Anistia
+18.4. Indulto e comutação de penas
+18.4.1. Natureza da sentença que concede o indulto e a comutação
+18.4.2. Indulto e comutação de pena em crimes hediondos
+18.4.3. A relação entre graça e indulto
+18.4.4. Modalidades de indulto
+18.4.5. Requisitos subjetivos para a comutação e o indulto
+18.4.6. Vedações à comutação e ao indulto
+18.4.7. Exigência de outros requisitos que não estejam no Decreto
+Presidencial
+18.4.8. Procedimento
+
+19. P  ROCEDIMENTO JUDICIAL DA EXECUÇÃO, AGRAVO EM
+EXECUÇÃO E OUTROS RECURSOS
+REFERÊNCIAS
+
+
+
+INTRODUÇÃO
+Veja em QR Code Visual Law com os principais pontos da 
+Introdução
+Lamentavelmente,  enquanto não  prescindirmos da  pena  privativa  de 
+liberdade,  teremos que  continuar  lidando  com ela,  espelho  de nossas 
+imperfeições e  prova  de nossa  incompetência na  busca  por  maneiras mais 
+racionais de  lidar com o  fenômeno  criminal.  Por isso,  antes mesmo  de se 
+discorrer acerca da  execução  da pena,  faz-se necessário  pontuar que  as 
+considerações a seguir somente   se mantêm válidas enquanto o sistema penal 
+continuar  a  atuar  da  forma  como  hoje  o  faz,  especialmente com  suas 
+características repressivas, seletivas e  estigmatizantes.  De posse  desta 
+premissa realista –  não  justificante  –,  resta-nos buscar,  por ora,  possíveis 
+soluções para tornar a execução penal individualmente e socialmente   menos 
+ruinosa.
+Em  linhas  gerais,  execução  significa a  colocação em  prática ou  a 
+realização de uma  decisão, plano ou programa pretéritos. A própria origem 
+do vocábulo “execução” (ex sequor, exsecutio) pressupõe algo que se segue 
+após a cognição, traduzindo uma  necessária relação de consequencialidade. 
+Em matéria penal,  execução  significa  a  colocação em prática do  comando 
+contido em uma  decisão jurisdicional penal, em regra, contra a vontade do 
+condenado.
+Cabe à  ex ecução  penal,  enfim,  efetivar as  disposições  da sentença ou 
+decisão criminal, conforme taxativamente determina o art. 1º, primeira parte, 
+da  Lei  de  Execução  Penal (LEP).  Aliada a  esse  objetivo, a  LEP  (art.  1º, 
+segunda  parte) também  apresenta  para  a  execução  penal a  finalidade de 
+proporcionar condições para  a  harmônica integração  social  do  condenado 
+(submetido à pena em sentido estrito) e do internado (submetido à medida de
+
+segurança). Essa finalidade é objeto de profundo debate, que nos remete à 
+análise das (anunciadas) finalidades da pena.
+Em  relação às  chamadas finalidades  da  pena,  três grupos de  teorias 
+podem ser  apontados.  Em primeiro  lugar,  aparecem as  chamadas teorias 
+absolutas, que concebem a pena como u m fim em si mesmo (justa retribuição), 
+sem a projeção de qualquer outro escopo e analisando o fato criminoso em 
+uma  perspectiva pretérita (quia peccatum est). Em segundo lugar, figuram as 
+teorias relativas (ou preventivas), que fundamentam a pena a partir dos fins 
+que ela pode alcançar (utilidade para a evitação de novos delitos) e adotam 
+um
+[/PAGINA 8]
+
+[PAGINA 9]
+olhar para o futuro (ne peccetur). As teorias mistas, por fim, representam 
+a  tentativa de  conciliação  dos aportes  trazidos  pelas teorias absolutas  e 
+relativas, em regra, sobrepondo-os uns aos outros.
+Trazendo foco para as teorias relativas ou preventivas, é possível afirmar 
+que essas justificam a pena a partir de sua utilidade para o desencorajamento 
+à  futura   prática  delitiva, seja  pelos membros da coletividade (prevenção 
+geral), seja pelo condenado (prevenção especial). Nesse sentido, enquanto a 
+prevenção geral seria destinada aos que  ainda  não delinquiram, 
+desempenhando o efeito de dissuasão da coletividade por meio da cominação, 
+aplicação e execução de reprimendas (prevenção geral negativa) ou o efeito 
+de  sensibilização  e fidelização do  cidadão  ao ordenamento  jurídico 
+(prevenção geral positiva), a prevenção especial destinar-se-ia à con tenção 
+da  reincidência,  a partir da  atuação  direta sobre  a pessoa  do  condenado, 
+perseguindo sua “correção”, “tratamento” ou
+“ressocialização” (prevenção especial positiva), ou, ainda, sua neutralização 
+(prevenção especial negativa).
+A Lei  de  Execução  Penal traçou duas  ordens  de  finalidades: a  correta 
+efetivação  dos mandamentos existentes nas  sentenças ou  outras  decisões, 
+destinados a reprimir e a prevenir os delitos, e a oferta de meios pelos quais 
+os  apenados e  os  submetidos às  medidas de  segurança venham  a  ter 
+participação  construtiva na  comunhão  social (item 13  da Exposição  de 
+Motivos da LEP).
+Embora tenha procurado se esquivar da polêmica doutrinária, o projeto de 
+elaboração da  Lei   de  Execução  Penal acabou por  se  aproximar das 
+finalidades de  retribuição  e prevenção  especial positiva (ao  construir o 
+objetivo  de proporcionar  condições para  a  harmônica integração  social do 
+condenado). No entanto, tais finalidades são absolutamente inconciliáveis
+
+(pois  se  almeja uma  “pena  justa”  com  conteúdo  de utilidade),
+1
+  e  nenhuma 
+delas  parece  estar,  por  si  só,  alinhada  com uma  concepção  democrática  e 
+republicana.
+Conforme bem lembrado, a repressão retributiva é de fato a expressão de 
+um  Direito Penal desigual,  que promove  a  seletiva  criminalização  dos 
+marginalizados sociais do mercado de trabalho, reforçando os instrumentos 
+formais e  ideológicos  de  controle social.
+2
+  Ademais,  além das  inúmeras 
+críticas à retribuição feitas com autoridade pela doutrina, cabe-nos recordar 
+que   a im posição de u
+m mal  como mero instrumento de retribuição contraria 
+oobjetivo fundamental de promover o bem de todos, alicerce de nossa 
+República.
+Por sua  vez, a  prevenção  especial positiva não  é resposta 
+constitucionalmente admissível, considerando que as ideias de tratamento e 
+ressocialização  pressupõem um  papel passivo do  preso  e ativo  das 
+instituições, sendo resíduos anacrônicos da velha criminologia positivista 
+que definia o condenado como um indivíduo anormal e inferior que devia 
+ser  (re)adaptado à
+[/PAGINA 9]
+
+[PAGINA 10]
+sociedade,  considerando  acriticamente essa  como
+“boa” e o condenado como “mau”.
+3
+ Em  última análise, a sanção penal e 
+sua   execução não podem trazer consigo a finalidade de regulação moral dos 
+sujeitos, pois haveria ruptura do princípio da secularização.
+4
+A  prevenção   especial positiva também padece de   absoluta 
+irrealizabilidade, pela própria essência do encarceramento, em especial em 
+nosso  país.  Em primeiro  lugar,  o  Estado não  dispõe de  políticas públicas 
+efetivas e duradouras no sentido de integrar socialmente   os egressos. Além 
+disso, por si só, o encarceramento é fator de desagregação familiar, repúdio 
+social, rotulação e dessocialização do indivíduo,
+5
+ sen do tais características 
+ontologicamente incongruentes com a pretendida finalidade de proporcionar 
+condições para a harmônica integração social do condenado.
+Na  verdade, a  anunciada finalidade de  proporcionar  condições para  a 
+harmônica integração  social esconde  falaciosamente  o  real exercício  do 
+poder punitivo  (potestas puniendi) típico do  Estado  de Polícia, 
+caracterizado pelo paternalismo, arbitrariedade, seletivização, verticalismo, 
+repressão  e estigmatização.  A ideia de  h
+armônica integração  social 
+pressupõe a ex istência de uma  sociedade homogênea, justa e não conflitiva (a 
+cujos valores deve o condenado se integrar harmonicamente), quando, na
+
+verdade,  ela é  plural,  seletiva e  palco de  conflitos entre  ideologias, 
+concepções morais e segmentos absolutamente díspares.
+Na  visão de  Eug
+enio   Zaffaroni e  Nilo  Batista,  a norma que  atribui  à 
+execução da pena a fin alidade de proporcionar condições para a harmônica 
+integração social do condenado confere à prisão uma  função que as ciências 
+sociais  comprovadamente declaram ser  impossível,  devendo  o intérprete 
+realizar uma  interpretação progressiva, adotando cautelas para, de um lado, 
+evitar que o pretexto de uma  finalidade irrealizável acentue  as características 
+deteriorantes  da  prisonização  e,  de outro,  oferecer  –  e não impor  – 
+possibilidades de  que  os  presos  diminu
+am seu nível  de vulnerabilidade ao 
+poder pun
+itivo.
+6
+Essas observações  aclaram os  dois grandes desafios  das  agências 
+executivas no curso do processo de execução, com os  quais  concordamos: 
+não acentuar ainda mais  as características deteriorantes e dessocializantes da 
+prisonização  (redução  de danos  ou  “não  dessocialização”)
+7
+  e   oferecer
+(jamais impor) meios para que as pessoas presas tentem diminu
+ir seu nível de 
+vulnerabilidade ao poder punitivo (possibilidade de seleção criminalizante), 
+se assim desejarem.
+Essas são posturas pragmáticas, que se desapegam do infecundo debate 
+sobre as finalidades da pena e de sua execução. Nesse sentido, não podemos 
+deixar de  constatar como  certos teóricos do  direito  penal se  perdem em 
+extensas,  às vezes  quase  intermináveis,  divagações sobre o  tema.  Com a 
+devida licença para o u
+so de uma  metáfora, assim como as mitol
+[/PAGINA 10]
+
+[PAGINA 11]
+ógicas sereias 
+com  sua  sedução  atraem marin h
+eiros para  a  morte,  a discussão  sobre as 
+finalidades da pena – igualmente sedutora – também atrai o jurista para um 
+labirinto  inexpugnável  e  fatal para o  realístico  e útil  enfrentamento  das 
+questões mu ndanas da  execução  penal.  Em termos  mais diretos, enquanto 
+parte da dogmática penal se inebria com a discussão sobre as finalidades da 
+pena, milhões de  seres h
+umanos em  todo o  mundo  são  diuturnamente 
+submetidos a  torturas,  aprisionamentos desnecessários ou  excessivos, 
+péssimas condições carcerárias  e abusos  de  autoridade,  entre outras 
+vicissitudes. Não sairemos da estagnação enquanto não percebermos que o 
+problema central  da  pena  n
+ão  é a  su  a  finalidade, mas  o  respeito  à 
+humanidade.
+8
+
+Desse modo, junto com as (acertadas) críticas às fin  alidades da execução 
+penal, emerge a con statação de que a Constituição de 1988, a par de alguns 
+preceitos criminalizadores, não se curvou à tendência legitimadora da pena. 
+Pelo contrário, as normas constitucionais penais têm como regra e por escopo 
+o estabelecimento de limites ao poder punitivo,
+9
+ restando constitucionalmente 
+incompatíveis quaisquer aspirações de  execução  da pena com  esteio em 
+finalidades a ela projetadas. Daí  é possível concluir   que as finalidades de 
+retribuição  e prevenção  especial positiva n
+ão  foram recepcionadas pela 
+Constituição de 1988.
+Partindo dessas premissas, mostra-se coerente a teoria negativa, que não 
+concede qualquer fun
+ção positiva à pen a, entendendo-a na verdade como uma 
+coerção que   almeja o controle social, impondo privação de direitos e dor, 
+sem, n
+o  entanto,  reparar,  restituir ou  deter lesões em  curso,  ou,  ainda, 
+neutralizar perigos  iminentes.
+10
+ Na  verdade, a  teoria negativa vislumbra a 
+pena (e  também  sua  execução) como  um  ato  de  poder –  de explicação 
+política
+1
+1
+ – passível de  limitação pelo poder dos  juristas e  pelas próprias 
+agências jurídicas, por intermédio de “cancelas teóricas sucessivas em cada 
+uma   das quais o discurso habilite o trânsito de menor poder punitivo e de 
+menor intensidade irracional,  ou seja, de  maior respeito aos  princípios 
+constitucionais e internacionais limitadores”.
+12
+Nessa perspectiva, assim como o Direito Penal, o direito da execução 
+penal também deve possuir o objetivo de legitimar as decisões das agências 
+jurídicas,  tomadas n
+o  intuito  de conter  racionalmente a  ação do  poder 
+punitivo-executório do Estado de Polícia em prol do fortalecimento das bases 
+do Estado de Direito. Em outras palavras, “a mais  óbvia função dos juízes 
+penais  e  do  direito  penal como  planejamento  das decisões  judiciais é a 
+contenção  do  poder pun
+itivo.  Sem a  contenção  jurídica (judicial)  o  poder 
+punitivo ficaria liberado ao puro impulso das agências executivas e políticas 
+e,  por conseguinte,  desapareceriam  o  estado  de direito e  a  própria 
+república”.
+13
+  Daí a  n
+ecessidade de  “etic
+[/PAGINA 11]
+
+[PAGINA 12]
+izar republicana e  ju  s-
+humanisticamente o desempenho das agências do sistema penal”.
+14
+Podemos agregar algu
+ns  argumentos em  favor da  teoria negativa. 
+Considerando que a Constituição é o instrumento jurídico que afirma as
+ bases 
+republicanas e  democráticas  do  Estado,  é dela  que  são  extraídos os 
+fundamentos de legitimidade e validade do poder redutor dos juristas e das
+
+agências jurídicas. E levando-se em consideração que o Estado Republicano e 
+Democrático de Direito brasileiro possui como fu  ndamento a dignidade da 
+pessoa humana (e su  a correspondente humanidade das penas), compete aos 
+juristas e  às  agências jurídicas impedir que  a  habilitação  desmesurada e 
+irracional do poder punitivo e executório – típicos do Estado de Polícia –
+prejudique os objetivos fundamentais de construção de uma  sociedade livre, 
+justa  e solidária (art. 3º, I, da CF), erradicação da marginalização e redução 
+das desigualdades sociais (art. 3º, III, da CF) e promoção do bem de todos 
+(art. 3º, IV, da CF).
+Surge daí a tese central da teoria redutora de danos na execução penal, 
+aqui    defendida: a existência de um autêntico dever jurídico-constitucional de 
+redução do sofrimento e da vu  lnerabilidade das pessoas encarceradas, sejam 
+elas condenadas ou n
+ão. O cumprimento de tal dever, sobretudo dos juristas e 
+das  agências jurídicas,  é  o grande norte  interpretativo  e de  aplicação 
+n
+ormativa da ex  ecução penal. Se de fato a execução da pena é a região mais 
+obscura, mas  ao mesmo tempo a mais  transparente do poder pun
+itivo, em que 
+a tensão entre o estado de polícia e o estado de direito evidencia o conflito 
+entre  o  poder punitivo  e  o  poder jurídico,
+15
+ é  por  afirmação  deste que  se 
+esvaziarão os danos causados por aquele.
+Uma   visão redutora amparada n
+a teoria negativa da pena (e in  spirada pelo 
+realismo marginal latino-americano),  que sustentamos,  também possui  a 
+percepção de que a ex ecução penal se oferece como autêntico governo de 
+homens  no  tempo,
+16
+  e  que  encarcerar significa subtrair coativamente   um 
+tempo existencial do prisioneiro, seja ele provisório ou condenado. Nada é 
+como  antes,  assim como  ninguém é  a  mesma pessoa  após certo tempo  de 
+encarceramento. Na prisão, tempo linear e existencial estão em permanente 
+desalinho e o ócio prisional faz o sofrimento humano se arrastar ainda mais, 
+em u
+m angustiante compasso de espera.
+Não é à toa o desabafo de Dostoievski, após sua experiência carcerária 
+siberiana: “de  fato, posto  à margem da  sociedade  e  da  rotina  de  vida, e 
+ansiando  pela sociedade  e  pela  vida, como  pode um  detento  suportar a 
+temporalidade a não ser com irritação e rebeldia?”.
+17
+A visão redutora da ex  ecução penal, aqui sustentada, está de acordo que a 
+pena não pode ser um meio para resolver problemas, porque ela mesma é um 
+problema social,
+18
+ qu e não anula o dano do crime (dialética hegeliana),
+
+mas,  sim,  duplica a  danosidade  do  evento  delitivo.
+[/PAGINA 12]
+
+[PAGINA 13]
+De fato, conforme 
+ventilado  pela penologia revisionista,  a pena  n
+ada  mais é  do  que uma 
+voluntária prática  de  exclusão  social.  Em suma:   manifestação  típica do 
+modelo de sociedade excludente.
+Daí ser extremamente oportuna a percepção de que a prisão “é, em sua 
+dimensão material, produção de sofrimento   na forma de privação e limitação 
+de direitos e expectativas”, colocando-se nas  sombras do não jurídico.
+19
+ Em 
+outras palavras, “é e permanece, não diversamente de ou  tras formas de punir, 
+como um  sofrimento  imposto  intencionalmente,  com finalidades de 
+degradação. E o efeito degradante da pena se determina  n
+a ‘coisificação’ do 
+condenado-recluso, na  sua  redução  à escravidão, à  sujeição,  em poucas 
+palavras, ao poder de outrem”.
+20
+As condições fáticas da execução penal são tão lastimáveis que a frase 
+de Eberhard Schmidt – de que as prisões são erros monumentais talhados 
+em pedra
+21
+  –  torna-se absolutamente atual.  E, nesse  contexto,  o  discurso 
+jurídico crítico muitas vezes acaba por orbitar n
+a esfera do dever-ser. Em 
+diversos momentos, a presente obra parece caminhar por essa trilha, porém, 
+sem  receio de  ser  vista como  idealista,  pois não  despreza  o  sentido 
+materialmente seletivo e dessocializante da pena.
+Por ser orientado por uma  teleologia redutora, o discurso desenvolvido 
+neste trabalho  apresenta-se como  contraponto  ao  discurso  penológico 
+hegemônico,  identificado  por Pavarini  como  aquele que  –  certo  quanto  à 
+utilidade da pena, em forte crescimento e sem o menor constrangimento frente 
+à prisão – se   expressa n
+os discursos da gente, que fala diretamente com as 
+pessoas nas  palavras  de políticos e  principalmente por  meio  da mídia de 
+massa, refletindo uma  cultura   da penalidade pós-moderna, populista e, talvez 
+pela primeira vez, legitimada (socialmente compartilhada) “de baixo”.
+22
+Buscar construir uma  dogmática crítica na execução penal não significa 
+mero  idealismo, mas   tentativa  – não  raro  inglória  –  de funcionalmente 
+empregar o discurso jurídico para a con tenção racional do poder punitivo e 
+executório  do  Estado.  Em última  análise,  edificar um  discurso  jurídico 
+contra-hegemônico na  execução  penal é  mostrar que  a  “h  istória” também 
+pode ser contada ouvindo-se a voz e os argumentos dos vencidos.
+
+1.Ressaltando a insensatez da tentativa de conciliação de tais finalidades, Massimo 
+Pavarini e Bruno Guazzaloca observam que se a pena já atingiu na fase executiva 
+o  pretendido  fim  pedagógico  da  correção,  não  haveria  sentido  protraí-la  até  o 
+limite  imposto  pela  retribuição  e,  por  outro  lado,  se  o  tempo  de  pena merecida 
+segundo o critério retributivo, na fase executiva, não resultou suficientemente útil 
+à   correção,   não   haveria   razão   para   se   suspender   a   pena
+(PAVARINI, Massimo; GUAZZALOCA, Bruno. Corso di Diritto Penitenziario. 
+Bologna: Edizioni Martina, 2004, p. 7). Também questionando a compatibilida
+[/PAGINA 13]
+
+[PAGINA 14]
+de 
+entre  punição  e  reforma,  Augusto Thompson  recorda  a observação  de  Bernard 
+Shaw de que para punir um homem retributivamente é preciso injuriá-lo. Para 
+reformá-lo, é preciso melhorá-lo. E os homens não são melhoráveis através de 
+injúrias (THOMPSON, Augusto. A Questão Penitenciária. 5. ed. rev. atual. Rio 
+de Janeiro: Forense, 2002. p. 5).
+2.CIRINO DOS SANTOS, Juarez. Direito penal. Parte geral. 3. ed. rev. e ampl. 
+Curitiba: ICPC – Lumen Juris, 2008, p. 496.
+3.BARATTA, Alessandro. Resocialización o control social – por un concepto crítico 
+de  “reintegración  social”  del  condenado.  In: Criminologia  Crítica  –Fórum 
+Internacional de Criminologia Crítica. OLIVEIRA,  Edmundo  (Coord.). Belém: 
+Edições  CEJUP,  1990,  p.  145.  Outro  texto  crítico  do  autor  quanto  às teorias 
+utilitaristas  e  tecnocráticas  da  pena:  BARATTA,  Alessandro. Vecchie  e nuove 
+strategie nella legittimazione del diritto penale. Dei delitti e delle pene. Rivista di 
+studi sociali, storici e giuridici sulla questione criminale, n. 2, v. 3,
+p.247-268, Bologna, maio/ago. 1985.
+4.CARVALHO,  Salo  de. Pena e Garantias.  3.  ed.  Rio  de  Janeiro: Lumen  Juris, 
+2008,  p.  158.  Ainda  sobre  o  princípio  da  secularização,  Anabela  de  Miranda 
+Rodrigues  afirma  que  “está  definitivamente  ultrapassado  que  a  socialização  se 
+identifique  com  a  higiene  moral  que  sustentou  o  correcionalismo.  O  Estado 
+contemporâneo,  de  natureza  laica  e  secular,  não  se  encontra  legitimado  para 
+impor aos cidadãos códigos morais. Por isso, a pena de prisão não pode ter por 
+fim  transformar  o  homem  criminoso  num  bom  pai  de  família.  A  liberdade  de 
+consciência  não  sofre  qualquer  restrição  por  via  da  sujeição  a  uma  pena  de 
+prisão”  (RODRIGUES,  Anabela  de  Miranda. Novo  olhar  sobre  a  questão 
+penitenciária. São Paulo: Revista dos Tribunais, 2001, p. 165).
+5.Em sentido crítico no tocante à realidade da execução penal, cf. MOURA, Maria 
+Thereza Rocha de Assis. Execução penal e falência do sistema carcerário. Revista 
+Brasileira de Ciências Criminais, v. 29, p. 351, São Paulo, jan. 2000.
+6.Cf.  BATISTA,  Nilo;  ZAFFARONI,  Eugenio  Raúl. Direito penal brasileiro.  2. 
+ed.  Rio  de  Janeiro:  Revan,  2003,  p.  113.  No  mesmo  sentido,  ZAFFARONI, 
+Eugenio  Raul.  Cronos  y  la  aporia  de  la  pena  institucional  (acerca  de  la 
+interdisciplinariedad constructiva del derecho penal con el derecho de ejecución
+
+penal). In: VV.AA. Liber ad honorem Sergio García Ramírez. Cidade do
+México: UNAM, 1998. t. II. p. 1531.
+7. Discutindo o sentido de “não dessocialização”, GREVI, Vittorio; GIOSTRA,
+Glauco; DELLA CASA, Franco. Ordinamento penitenziario: commento
+articolo per articolo. 3. ed. Padova: CEDAM, 2006, p. 8-9.
+8. Nesse sentido, CATTANEO, Mario. A. Pena, diritto e dignità umana. Saggio
+sulla filosofia del diritto penale. Torino: Giappichelli, 1998, p. 305.
+9. CARVALHO, Salo de. Supérfluos fins (da pena): constituição agnóstic
+[/PAGINA 14]
+
+[PAGINA 15]
+a e
+redução de danos. Boletim IBCCRIM, n. 156, v. 13. São Paulo, nov. 2005.
+10 . BATISTA, Nilo; ZAFFARONI, Eugenio Raúl, op. cit., p. 99.
+11 . Nesse sentido, BARRETO, Tobias. O fundamento do direito de punir. In:
+Estudos de Direito. Campinas: Bookseller, 2000, p. 173-179.
+12 . BATISTA, Nilo; ZAFFARONI, Eugenio Raúl, op. cit., p. 172.
+13 . Ibidem, p. 40.
+14 . Ibidem, p. 76.
+15 . SLOKAR, Alejandro. La ley de los sin ley. In: ZAFFARONI, Eugenio Raul
+(Dir.) La medida del castigo. El deber de compensacion por penas ilegales.
+Buenos Aires, Ediar, 2012, p. 84.
+16 . Discutindo a questão, PAVARINI, Massimo; GUAZZALOCA, Bruno. Saggi sul
+governo della penalità. Letture integrative al Corso di Diritto Penitenziario.
+Bologna: Edizioni Martina, 2007, p. 27.
+17 . DOSTOIEVSKI, Fiódor. Recordações da Casa dos Mortos. São Paulo, Martin
+Claret, 2006, p. 29.
+18 . PAVARINI, Massimo; GUAZZALOCA, Bruno. Corso di Diritto Penitenziario,
+p. 21.
+19 . PAVARINI, Massimo; GIAMBERARDINO, André. Teoria da pena e execução
+penal. Uma introdução crítica. 2. ed. Rio de Janeiro: Lumen Juris, 2012, p.
+175-176.
+20 . Idem.
+21 . Cf. AEBERSOLD, Peter. Le Projet alternatif allemand d’une loi sur l’exécution
+des peines. Revue Internationale de Droit Pénal, n. 3/4, 1975, p. 269 et seq.
+22 . PAVARINI, Massimo. Della penologia fondamentalista. Iride, n. 32, p. 89-90,
+Roma, 2001. Também criticando os reflexos do populismo penal sobre o
+cárcere, cf. ANASTASIA, Stefano. Carcere, populismo penale e tutela dei diritti.
+Democrazia e diritto, n. 3-4, p. 161-176, Roma, 2011.
+
+
+
+1
+PRINCÍPIOS DA EXECUÇÃO PENAL
+Veja em QR Code Visual Law com os principais pontos do 
+Capítulo 1
+A aplicação e a in terpretação das normas em matéria de ex  ecução penal 
+são  permanentemente norteadas por  princípios contidos na  Constituição 
+Federal, no Código de Processo Penal, no Código Penal, na Lei  de Execução 
+Penal e nos Tratados e nas Convenções internacionais em matéria penal e de 
+direitos humanos. Em uma  visão penal-constitucional moderna, tais princípios 
+não mais  atuam como elementos meramente informadores ou programáticos, 
+possuindo,  sim,  poder de  concretamente tutelar direitos fundamentais das 
+pessoas presas.
+1
+ O  processo de densificação dos princípios os transformou, 
+afinal, em paradigmas  substanciais (materiais) de validade das normas e dos 
+atos administrativos. Nessa perspectiva, ainda que   tenha existência formal, 
+uma  norma que viole um princípio constitucional ou convencional é inválida 
+por contrastar-se com uma  norma substancial.
+2
+Na  essência,  os princípios da  execução  penal são  meios de  limitação 
+racional  do poder executório estatal sobre as  pessoas. Essa  definição traz 
+consigo  duas premissas fun
+damentais,  que devem permear  todos os 
+princípios.
+A primeira delas é a de que jamais um princípio da execução penal pode 
+ser evocado como fundamento para restringir  direitos ou justificar maior rigor 
+punitivo  sobre as  pessoas  presas. Princípios são  escudos normativos de
+[/PAGINA 15]
+
+[PAGINA 16]
+proteção do  indivíduo, não  instrumentos a  serviço da  pretensão  punitiva 
+estatal, muito menos instrumentos de governo da pena.
+
+Dessa premissa  decorre  a  constatação  de que  a  in  terpretação  dos 
+princípios (e demais normas jurídicas) em matéria de ex  ecução penal deve ser 
+pro homine, ou seja, sempre deve ser aplicável, no caso concreto, a solução 
+que   mais  amplia o g
+ozo e o exercício de um direito, uma  liberdade ou uma 
+garantia. Essa premissa é um aporte dos preceitos contidos no art. 29, item 2, 
+da  Convenção  Americana  de Direitos Humanos (que  fixa,  como n
+orma de 
+interpretação,  o  comando  de que  nenhuma   disposição da convenção  seja 
+interpretada n
+o sentido de limitar o gozo e o exercício de qualquer direito ou 
+liberdade que possam ser reconh
+ecidos em virtude de leis locais ou outras 
+convenções aderidas) e n
+o art. 5º do Pacto Internacional sobre Direitos Civis 
+e  Políticos (“1. Nenh
+uma   disposição do  presente Pacto poderá ser 
+interpretada n
+o  sentido  de reconhecer  a  um  Estado, grupo  ou indivíduo 
+qualquer direito de dedicar-se a quaisquer atividades ou praticar quaisquer 
+atos que tenh
+am por objetivo destruir os direitos ou liberdades reconhecidos 
+n
+o presente Pacto ou impor-lhe limitações mais  amplas do que aquelas nele 
+previstas; 2.  Não  se admitirá  qualquer restrição ou suspensão dos  direitos 
+h
+umanos fundamentais reconhecidos ou vigentes em qualquer Estado Parte do 
+presente Pacto em virtude  de  leis, convenções,  regu
+lamentos ou costumes, 
+sob pretexto de que o presente Pacto n
+ão os reconheça ou os reconheça em 
+menor grau”).
+3
+Traçadas essas considerações iniciais, passemos à análise pormenorizada 
+de algu
+ns princípios. Sem prejuízo de outros preceitos muito importantes para 
+a  ex  ecução  penal,  tais como  devido  processo  legal, contraditório,  ampla 
+defesa, duplo grau  de  jurisdição, non  bis in  idem, jurisdicionalidade, 
+publicidade e  imparcialidade  do  juiz,  procuraremos nos ater mais 
+objetivamente   aos princípios da humanidade, legalidade, não discriminação 
+das  pessoas  presas, individualização  da pena,  intervenção mínima, 
+culpabilidade,  lesividade,  transcendência mínima,  presunção  de inocência, 
+proporcionalidade, celeridade e, por  fim, o princípio numerus clausus
+ (ou 
+número fechado).
+1.1. Princípio da humanidade
+A  busca  pela  contenção  dos danos  produzidos pelo exercício 
+desmesurado do poder punitivo encontra principal fonte ética e argumentativa 
+no princípio da humanidade, um dos fundamentos do Estado
+
+Republicano e Democrático de Direito. O princípio da humanidade é pan o de 
+fundo de todos os demais princípios penais e se afirma como obstáculo maior 
+do recorrente anseio de redução dos presos à categoria de não pessoas, na 
+linha das teses defensivas do direito penal do inimigo.
+4
+O  princípio  da humanidade encontra-se consagrado na  Declaração 
+Universal dos Direitos do Homem (ninguém será submetido à tortura, nem a 
+tratamento ou castig
+[/PAGINA 16]
+
+[PAGINA 17]
+o cruel, desumano ou degradante – art. 5º), nas Regras 
+Mínimas das Nações Un idas para o Tratamento de Presos (o confinamento 
+solitário indefinido, o confinamento solitário prolongado, o encarceramento 
+em  cela  escura  ou  constantemente iluminada,  os castigos  corporais  ou 
+redução da dieta ou água potável do preso e os castigos coletivos, bem como 
+todas as formas de tratamento ou sanções cruéis, desumanos ou degradantes 
+devem ser  proibidos como  sanções disciplinares  –  Regra 43)  e  no  Pacto 
+Internacional sobre Direitos Civis e Políticos da ONU (ao dispor que toda 
+pessoa privada  de  sua  liberdade  deverá  ser tratada com  humanidade e 
+respeito à dignidade inerente à pessoa humana – art. 10, item 1).
+O princípio também é encontrado na Convenção Americana de Direitos 
+Humanos (ninguém deve ser  submetido  a torturas,  nem a  penas  ou  tratos 
+cruéis, desumanos ou degradantes. Toda  pessoa privada de liberdade deve ser 
+tratada com o respeito devido à dignidade inerente ao ser humano – art. 5º), 
+no Conjunto de Princípios para a Proteção de Todas as Pessoas Sujeitas a 
+Qualquer Forma de Detenção ou Prisão da ONU (a pessoa sujeita a qualquer 
+forma de detenção ou prisão deve ser tratada com humanidade e com respeito 
+da dignidade inerente ao ser humano – Princípio 1º) e nos Princípios Básicos 
+para  o  tratamento  dos reclusos  da  ONU (todos os reclusos deverão ser 
+tratados com  o  respeito  devido  à dignidade e  ao valor inerentes ao  ser 
+humano – Princípio 1).
+O  Princípio n.  1  dos “Princípios e  boas práticas  para a  proteção das 
+pessoas privadas de liberdade nas Américas” da Comissão Interamericana de 
+Direitos Humanos (aprovados pela Resolução n. 1/2008)
+5
+ dispõe igualmente 
+que “não poderão ser invocadas circunstâncias, como estados de guerra ou 
+exceção,  situações de  emergência,  instabilidade política  interna ou outra 
+emergência nacional ou  internacional para evitar o  cu  mprimento  das 
+obrigações de respeito e g
+arantia de tratamento   humano a todas as pessoas 
+privadas de liberdade”.
+
+Não  se pode  olvidar, ainda,  da Convenção  contra a  tortura  e  ou  tros
+ 
+tratamentos ou  penas  cruéis,  desumanos ou  degradantes da  ONU e  a 
+Convenção  Interamericana para  prevenir  e  punir  a  tortura,  da OEA, 
+instru mentos igualmente importantes na tutela da humanidade.
+No  Brasil,  o  princípio  da humanidade decorre do  fundamento 
+constitucional da  dignidade da  pessoa humana (art.  1º,  III,  da CF)  e  do 
+princípio da prevalência dos direitos humanos (art. 4º, II, da CF), amparando 
+o Estado Republicano e Democrático de Direito.
+Em  sede de  execução  penal,  o  princípio  funciona como  elemento  de 
+contenção  da irracionalidade  do  poder punitivo, materializando-se na 
+proibição de tortura e tratamento cruel e degradante (art. 5º, III, da CF), na 
+própria individualização da pena (art. 5º, XLVI)  e na proibição das penas de 
+morte, cruéis ou perpétuas (art. 5º, XLVII).
+Como  consectário  do  princí
+[/PAGINA 17]
+
+[PAGINA 18]
+pio  da humanidade emerge  o  princípio  da 
+secularização, o qual, afirmando a separação entre direito e moral, veda na 
+execução penal a imposição ou a consolidação de determinado padrão moral 
+às pessoas presas, assim como obsta a in gerência sobre sua intimidade, livre 
+manifestação  de pensamento,  liberdade de  consciência e  au  tonomia da 
+vontade.
+Em uma   visão redutora da  execução  penal,  a humanidade também se 
+identifica com o  imperativo  da alteridade, exigindo  do magistrado  da 
+execução uma  diferente percepção jurídica, social e humana da pessoa presa, 
+capaz de reconhecê-la como sujeito de direitos. Essa nova compreensão do 
+princípio da humanização da pena – cotejada pelo reconhecimento do outro – 
+busca então  afastar da  apreciação judicial juízos eminentemente morais, 
+retributivos,  exemplificantes ou  correcionais,  bem como  considerações 
+subjetivistas,  passíveis de  subversão  discriminatória e retributiva.  Busca, 
+ainda, deslegitimar o manejo da execução como instru mento de recuperação, 
+reeducação, reintegração, ressocialização ou reforma dos indivíduos, típicos 
+da ideologia tratamental   positivista.
+Sob o viés redutor de danos, o princípio da h
+umanidade revela também 
+como mandamento primordial a  vedação ao retrocesso humanizador penal, 
+demandando assim que a leg islação ampliativa ou concessiva de direitos e 
+garantias individuais em  matéria de  execução  penal se  torne  imune  a 
+retrocessos tendentes a prejudicar a humanidade das penas. Recorre-se, para 
+tanto, à analogia em relação à própria determinação constitucional de que
+
+não será objeto de deliberação a proposta de emenda   tendente a abolir os 
+direitos e as garantias individuais (art. 60, § 4º, IV, da CF).
+A  Lei  de  Execução  Penal faz  alusão  ao  princípio  da humanidade ao 
+estabelecer que  as  sanções  disciplinares  não poderão colocar em perigo a 
+integridade física  e moral  do  condenado  (art.  45,  § 1º),  além de  vedar o 
+emprego de cela escura (art. 45, § 2º). A humanidade penal também alcança 
+aqueles submetidos às medidas de segurança, conforme se depreende do art. 
+2º,  parágrafo  único,  II,  da Lei  n.  10.216/2001,  que fixa  como  direito  da 
+pessoa com transtornos mentais em conflito com a lei o de   ser tratada com 
+humanidade.
+Não obstante a am pla gama   de normas protetivas, diversos exemplos de 
+ferimento  da humanidade no  âmbito  da execução  penal podem ser 
+identificados.
+Dispõe o art. 5º, VI, da Constituição de 1988 que é in violável a liberdade 
+de  consciência e  de  crença, sendo assegurado o livre exercício dos  cultos 
+religiosos e garantida, na forma da lei, a proteção aos locais de culto e a su as 
+liturgias. No entanto, a proibição de frequentar cultos religiosos como forma 
+de punição disciplinar representa de forma direta a violação dessa garantia 
+constitucional e,  de  maneira mediata,  a própria infração  ao  princípio 
+constitucional da humanidade.
+A obrigação de usar  uniforme com cores chamat
+[/PAGINA 18]
+
+[PAGINA 19]
+ivas (ex.: verde limão, 
+rosa) também importa clara  transgressão  ao  princípio  da humanidade, 
+porquanto afeta a própria intimidade e dig nidade das pessoas condenadas, à 
+revelia da in  violabilidade constitucional da intimidade, vida privada, honra e 
+imagem das pessoas (art. 5º, X). Igualmente atentatórias à dignidade são as 
+obrigações disciplinares de baixar a cabeça e manter silêncio absoluto.
+Tema ainda  mais sensível é  a  obrigação,  imposta aos  presos do  sexo 
+masculino, de cortar cabelos, retirar barbas ou bigodes ou realizar quaisquer 
+outras modificações da aparência. Tal  prática é leg itimada sob o pretexto de 
+man utenção  da higiene,  ordem ou  disciplina  nos  estabelecimentos penais, 
+argumentos esses  falaciosos  e frágeis,  pois nos  estabelecimentos penais 
+femininos (onde a obrigação não vigora), a utilização de cabelos longos não é 
+causa de vu  lneração da higiene, ordem ou disciplina.
+É  inegável que  o  cabelo  e outros caracteres  da aparência  são 
+componentes (físicos) da própria personalidade humana, possuindo inegável 
+valor para a formação da individualidade. Em última análise, o direito de
+
+definir a  própria  aparência  é  ex  pressão  do  direito  ao  livre e  pleno 
+desenvolvimento da personalidade, tutelado pelo art. XXIX da Declaração 
+Un iversal dos  Direitos  Humanos e  art.  29  da Declaração Americana dos 
+Direitos e Deveres do Homem.
+Ocultados sob o manto higienista e securitário, o corte ou a modificação 
+cogentes, na   verdade, revelam-se instrumentos de   anulação   de 
+individualidades,   institucionalização,   diferenciação   estigmatizante e 
+desrespeito à intimidade, vida privada, honra   e im agem das pessoas presas. 
+Na  essência,  constituem atentado  à própria  integridade física, psíquica e 
+moral das  pessoas  presas, pois conduzem à  mu dança forçada  de  suas 
+imagens.
+A  Administração  Penitenciária tem  totais condições de  zelar pela 
+disciplina e ordem do estabelecimento e pela saúde das pessoas presas sem 
+que   para isso as submeta a situ ações h
+umilhantes, práticas estigmatizantes ou, 
+em geral, medidas atentatórias aos direitos fundamentais e que ultrapassam 
+todos os limites legais e éticos do Estado Democrático de Direito. Coerente, 
+a propósito, a percepção de que a ex ecução penal h
+umanizada não só não põe 
+em  perigo  a   segu
+rança e  a  ordem estatal, mas exatamente  o  contrário: 
+enquanto a execução penal humanizada é um apoio da ordem e da segurança 
+estatal, uma   execução  penal desumanizada atenta precisamente contra  a 
+segurança estatal.
+6
+Outra grave transgressão  ao  princípio  da humanidade no  âmbito  da 
+execução penal diz respeito às péssimas condições de transporte e cu stódia 
+(durante o período de deslocamento) de pessoas presas e internadas.
+Utilização  de veículos  com  compartimento  de proporções reduzidas, 
+deficiente ventilação,   ausência de   luminosidade,   inadequado 
+condicionamento térmico, falta de alimentação e águ
+a,
+7
+ ex posição públ
+[/PAGINA 19]
+
+[PAGINA 20]
+ica, 
+vedação  de acesso a  sanitários,  superlotação  e espancamento  são mazelas 
+cotidianamente vivenciadas pelas pessoas transportadas. Em muitos casos, o 
+extenso período de permanência nos veículos é fator de intenso sofrimento 
+físico  e moral,  além  do  que veículos  de  transporte são  utilizados como 
+verdadeiras instalações de  custódia.  Igualmente comum é  o  transporte de 
+presos com o uso de meios de coerção (ex.:   algemas, com as mãos para trás) 
+que   dificultam bastante o equilíbrio e a proteção das pessoas presas ou
+
+internadas durante o deslocamento, causando-lhes lesões por colisões contra
+o veículo.
+Tais  práticas são atentatórias ao dever de respeito à integridade física e 
+moral dos condenados e dos presos provisórios (art. 40 da LEP) e proteção 
+contra qualquer forma de sensacionalismo, exposição, insultos e curiosidade 
+(art. 41, VIII, da LEP, Regra 73.1 das Novas Regras Mínimas   das Nações 
+Unidas para o Tratamento de Presos e art. 48 das Regras Mínimas   para o
+ 
+Tratamento  do  Preso no  Brasil),  além de  contrariar normas proibitivas  do 
+transporte de  presos em  compartimento  de proporções reduzidas,  com 
+ventilação  deficiente ou  ausência de  luminosidade (art. 1º  da  Lei   n.
+8.653/93,  Regra  73.2  das Regras  Mínimas das  Nações Un idas  para o 
+Tratamento de Presos e art. 30 das Regras Mínimas   para o Tratamento do 
+Preso no Brasil).
+Considerando os direitos à alimentação suficiente e ág u
+a potável (art. 41, 
+I,  da LEP,  Regra  22  das Regras  Mínimas das  Nações Unidas para o 
+Tratamento de Presos e art. 13 das Regras Mínimas   para o Tratamento do 
+Preso no  Brasil),  a deficiência  em seu  fornecimento  antes de  audiências, 
+sessões ou julgamentos deve ser entendida como óbice tanto ao exercício da 
+ampla defesa pela pessoa presa acusada (a ponto de torná-la indefesa) quanto 
+ao seu depoimento como testemunha (a ponto de invalidá-lo).
+Além das já descritas, são também práticas colidentes com os ideários de 
+humanização da pena a revista íntima   em visitantes, a exposição do preso a 
+inconveniente notoriedade, o racionamento irresponsável de água, a supressão 
+da  intimidade,  o  desrespeito  ao  sigilo  da correspondência,  a restrição  ao 
+direito  de voto  aos  presos não  condenados (e  a  sistemática proibição  aos 
+condenados),  as restrições  infraconstitucionais aos  direitos  de trabalho  e 
+remuneração do condenado, a justificação das péssimas condições detentivas 
+pela  falta  de  recursos,  a permanência excessiva em  Regime Disciplinar 
+Diferenciado,  a man utenção  infundada  do  preso  em local distante de  seus 
+familiares,  as limitações à  prisão domiciliar,  a perda  dos dias remidos,  a 
+superlotação, os maus-tratos, a procrastinação indevida de penas e medidas 
+de segurança e o descumprimento dos requisitos estruturais mínimos das celas 
+(aeração, insolação,  condicionamento  térmico,  área mínima,  existência de 
+dormitório, aparelho sanitário, lavatório etc.), além da
+
+exp
+[/PAGINA 20]
+
+[PAGINA 21]
+osição  do  preso  a péssimas  condições sanitárias e  a  g
+raves riscos  de 
+incêndio.
+8
+Em  nosso  país,  soa paradoxal  a  relação entre execução  da pena  e 
+humanidade,  pois,  com os  cárceres  e as  agências  do  sistema penal  que 
+possuímos, a injunção da pena privativa de liberdade acaba por prescrever a 
+própria violação de  direitos h
+umanos.
+9
+  Os cárceres, na  verdade, como 
+observado  por Haberle, desafiam n
+ão  apenas a  dignidade  do homem
+(concretamente considerado) como  a dignidade (abstrata) da  própria 
+humanidade.  Daí a  premente   necessidade de  substituição  do  conceito  de 
+liberdade-propriedade  (princípio  individualista liberal) pelo  de liberdade-
+dignidade (princípio republicano).
+10
+Com base n
+essas premissas, parece evidente que a ex ecução da pena não 
+pode transbordar seus efeitos já deletérios para o atingimento da – inerente, 
+não adquirida – dignidade da pessoa humana, nem produzir danos físicos e 
+morais desnecessários. Logo,  deve haver-se por inconstitucional e 
+anticonvencional qualquer medida atentatória à  in  columidade física  ou 
+psíquica dos sentenciados.
+Além de  tutelar diretamente   a  in  columidade física  ou psíquica  das 
+pessoas presas, ontologicamente  o  princípio  da humanidade representa 
+também a barreira jurídica, interpretativa, discursiva e ética à utilização da 
+teoria da reserva do possível como pretexto para a desassistência estatal na 
+execução  penal.  Nessa perspectiva, a  ideia  de mínimo  existencial não  se 
+atrela apenas ao direito à vida, mas também à humanidade.
+Daí  ser  correto afirmar que  a  ofensa  a  direitos humanos mínimos ou 
+elementares (veiculada pela inadimplência prestacional positiva do Estado) 
+não pode ser justificada pelo núcleo argumentativo da teoria da reserva do 
+possível: a escassez de recursos. Aliás, é exatamente esse um dos princípios 
+fundamentais que regem as Regras Penitenciárias Europeias: “as condições 
+detentivas que  violam os  direitos humanos  do  preso não  podem ser 
+justificadas pela  falta  de  recursos” (art.  4º).  Diversas cortes  americanas 
+também adotaram o entendimento no sentido de que problemas sistêmicos –
+envolvendo saúde prisional – de pessoal, estabelecimentos, equipamentos e 
+procedimentos,  quando  evidentes,  podem ser  equiparados à  situação  de 
+indiferença deliberada (“deliberate indifference”), provocando violação à
+
+8ª  emenda da  Constituição  Americana,  que veda  a  imposição  de castigos 
+cruéis.
+1
+1
+Se bem observado, ao contrário de restringir direitos, a falta de recursos 
+públicos deve ser mais  uma  razão para que o Estado reserve a prisão para 
+casos excepcionais,  deixando  de banalizá-la e  de   usá-la como  instrumento 
+segregatório e neutralizador.
+12
+ Cu rioso observar que a reserva do possível, 
+tão lembrada pelas autoridades públicas para se ju  stificar o não investimento 
+prisional,  o não  fornecimento  de medicamentos ou  a  não realização  de 
+internações médicas em benefício das pessoas
+[/PAGINA 21]
+
+[PAGINA 22]
+presas, é ao mesmo tempo tão 
+esquecida n
+o momento de se aceitar a entrada de mais pessoas no sistema 
+penitenciário, superlotando-o.
+Sobre  o  tema,  em decisão monocrática,  o  Ministro  Celso  de Mello 
+salientou com acerto que   “a cláusula   da ‘reserva do possível’ – ressalvada a 
+ocorrência de ju  sto motivo objetivamente aferível – n
+ão pode ser invocada, 
+pelo  Estado,  com a  finalidade de  exonerar-se  do  cumprimento  de suas 
+obrigações constitucionais, notadamente quando,   dessa conduta 
+governamental negativa,  puder resultar nulificação  ou,  até mesmo, 
+aniquilação  de direitos constitucionais impregnados de  um  sentido  de 
+essencial fundamentalidade” (STF, ADPF 45 MC/DF, Relator Min. Celso de 
+Mello, j. 29-4-2004).
+Em 2015, o Plenário do Supremo Tribunal Federal passou a entender que
+o Poder Judiciário pode impor à Administração Pública a realização de obras 
+ou  reformas  emergenciais em  estabelecimentos penais  para assegu
+rar os 
+direitos  fundamentais das  pessoas  presas  (RE 592.581/MS, j.  13-8-2015), 
+aprovando, assim, a proposta de tese de repercussão geral no sentido de que 
+“é  lícito ao  Judiciário  impor à  Administração  Pública obrigação  de fazer, 
+consistente n
+a promoção de medidas ou na execução de obras emergenciais 
+em  estabelecimentos prisionais  para dar  efetividade ao  postulado  da 
+dignidade da  pessoa humana e  assegurar  aos  detentos  o  respeito  à sua 
+integridade física e moral, nos termos do que preceitua o artigo 5º (inciso
+XLIX) da Constituição Federal, n
+ão sendo oponível à decisão o arg umento 
+da reserva do possível nem o princípio da separação dos Poderes”.
+Entendendo que as péssimas condições carcerárias sujeitam as pessoas 
+presas a  penas  que  ultrapassam a  mera privação da  liberdade, a  elas 
+acrescendo sofrimentos físicos, psicológicos e morais, o STF corretamente
+
+afastou a  arcaica  tese  de  que  o  Poder Judiciário n
+ão  poderia realizar 
+ingerência indevida na  seara  administrativa.  Afirmou,  com isso, a 
+inafastabilidade da ju  risdição (art. 5º, XXXV, da CF) sempre que a eficácia 
+dos  direitos  fundamentais individuais e  coletivos estiver ameaçada ou já 
+comprometida.
+Por  tudo  o  que foi  debatido, é  possível afirmar  que  o  princípio  da 
+humanidade constitui  o  cerne de  uma   visão moderna e  democrática da 
+execução penal, pautada pela precedência e ascendência substanciais do ser 
+humano  sobre  o  Estado
+13
+  e   pela  necessidade de  reduzir  ao  máximo  a 
+intensidade da  afetação individual.  Possui,  portanto,  o  escopo maior de 
+capitanear a  construção  de uma   política  criminal   redutora  de  danos, 
+considerando – n
+as lições de Pavarini
+14
+ – que a con tradição entre cárcere e 
+democracia não pode ser resolvida, mas  apenas contida, por meio de uma 
+política humanizante.
+Paralelo ao princípio da humanidade, vale destacar o descortinamento 
+n
+os últimos tempos do chamado “Princípio da Fraternidade”,
+15
+ categoria 
+jurídica evidenciada pelo “c
+[/PAGINA 22]
+
+[PAGINA 23]
+onstitucionalismo  fraternal” e  amparada, 
+sobretudo, no preâmbulo
+16
+ e  n
+o art. 3º da Constituição da República.
+17
+Em  âmbito  penal,  o  princípio  da fraternidade já  foi utilizado  como 
+fundamento,  por exemplo,  para substituir a  prisão preventiva por  prisão 
+domiciliar de uma  mãe  de duas crianças com menos de 12 anos de idade, 
+visando à proteção da integridade física e emocional dos filhos menores, na 
+esteira  do  interesse maior da  criança  (STJ, HC  391.501/SP,  5ª   T.,  j. 
+04-05-2017) e  para  assegurar  prisão domiciliar durante a  pandemia da 
+Covid-19 a um preso portador de tuberculose, cumprindo pena no regime 
+semiaberto 
+(AgRg no HC 589489/SP, 5ª T., j. 18-08-2020).
+1.2. Princípio da legalidade
+O princípio da legalidade é previsto no art. 5º, XXXIX, da Constituição 
+da República e no art. 1º do Código Penal, estabelecendo que não haverá 
+crime sem lei anterior que o defina, nem pena sem prévia cominação legal. 
+Como  bem observado, “embora a  Constituição  e  o  Código  Penal,  ao 
+consagrarem o  princípio  da legalidade (estrita), se  utilizem da  expressão 
+‘pena’, tal deve ser entendido no sentido mais amplo, isto é, como ‘sanção’,
+
+para alcançar toda e qu alquer medida constritiva da liberdade, notadamente 
+as medidas de segurança”.
+18
+No âmbito da execução penal, o princípio encontra-se materializado no 
+art. 45 da LEP, segundo o qual “não haverá falta nem sanção disciplinar sem 
+expressa e  an  terior previsão legal ou  regulamentar”,  funcionando  como 
+instru mento  de contenção  da discricionariedade da  Administração 
+Penitenciária e do arbítrio judicial, sempre que acionados de maneira lesiva 
+aos direitos fun
+damentais das pessoas privadas da liberdade. A aplicação do 
+princípio da legalidade supõe não apenas que as faltas e as sanções estejam 
+legalmente previstas, mas   que  sejam ainda  estritamente   interpretadas,  sob 
+pena   de tornar sem sentido o princípio.
+19
+Além de previsto n
+a Constituição Federal e na Lei  de Execução Penal, o 
+princípio  da legalidade é  ain  da  mencionado na  Declaração Universal dos 
+Direitos  do  Homem (ninguém  poderá ser  culpado  por qualquer ação ou 
+omissão que, no momento, não constituíam delito perante o direito nacional 
+ou internacional. Tampouco será imposta pena mais  forte do que aquela que, 
+no momento da prática, era aplicável ao ato delituoso – art. 11), nas Regras 
+Mínimas das  Nações Unidas para o Tratamento de Presos (Regra 37:  “Os 
+seguintes itens  devem sempre  ser  pendentes de  autorização  por lei  ou por 
+regulamento  da autoridade administrativa  competente: (a)  Conduta que 
+constitua infração disciplinar; (b) Tipos e duração das sanções que podem ser 
+impostas; (c) Autoridade competente para impor tais sanções; (d) Qualquer 
+forma  de  separação involuntária da  população  prisional geral, como  o 
+confinamento solitário, o isolamento, a segregação, as unidades de cuidado 
+especial ou alojamentos restritos, seja por razão de sanção disciplinar
+[/PAGINA 23]
+
+[PAGINA 24]
+ou para 
+a  man utenção  da ordem e  segurança,  inclusive políticas de  promulgação  e 
+procedimentos que  regulamentem  o uso  e a  revisão da imposição  e da 
+liberação de  qualquer forma  de  separação involuntária”; Regra 39:  “1. 
+Nenhum preso pode ser punido, exceto com base nas disposições legais ou 
+regulamentares referidas na Regra 37 e nos princípios de justiça e de devido 
+processo legal; e jamais será punido duas vezes pela mesma infração”), no 
+Pacto Internacional sobre Direitos Civis e Políticos da ONU (ninguém poderá 
+ser  privado de  sua  liberdade, salvo  pelos motivos previstos em lei  e  em 
+conformidade com os procedimentos n
+ela estabelecidos – art. 9º, item 1), na 
+Convenção Americana de Direitos
+
+Humanos (ninguém poderá ser  condenado  por atos  ou omissões que,  no 
+momento em que foram cometidos, não constituam delito, de acordo com o 
+direito aplicável. Tampouco poder-se-á impor pena mais   grave do que a 
+aplicável no momento da ocorrência do delito. Se, depois de perpetrado o 
+delito, a lei estipular a imposição de pena mais  leve, o delinquente deverá 
+dela beneficiar-se – art. 9º) e no Conjunto de Princípios da ONU para a 
+Proteção de Todas as Pessoas Sujeitas a Qualquer Forma de Detenção ou 
+Prisão (a captura, detenção ou prisão só devem ser aplicadas em estrita 
+conformidade com disposições legais e pelas autoridades competentes ou 
+pessoas autorizadas para esse efeito – Princípio 2).
+O  princípio  da legalidade,  como  se sabe, advém da  fórmula  latina 
+nullum crimen, nulla poena sine lege(nulo o crime, nula a pen a sem lei), 
+que   pode ser dividida em quatro funções:
+Primeira Função: nullum crimen, nulla poena sine lege praevia (nulo
+o crime, nula a pena sem lei prévia).
+A primeira função do princípio da legalidade estabelece como regra a 
+irretroatividade da  lei penal,  salvo  para beneficiar  o  réu de  um processo 
+penal (acusado  da prática  de uma   infração  penal) ou  de  um  processo 
+disciplinar (acusado da prática de uma  falta disciplinar). É a expressão do 
+comando constitucional segundo o qual “a lei penal não retroagirá, salvo para 
+beneficiar o réu” (art. 5º, XL, da CF).
+Por força do princípio da irretroatividade da lei penal mais  gravosa, a 
+Lei  n.  13.964/2019  (que alterou a  Lei  de  Execução  Penal),  exigindo  para 
+progressão de regime o percentual de 30% (trinta por cento) da pena, se   o 
+apenado for reincidente em crime cometido com violência à pessoa ou grave 
+ameaça, não se aplica a fatos anteriores à sua vigência, porque mais  gravosa 
+nesse  aspecto. Logo, a progressão de regime   para  aqueles  que  cometeram 
+esse  tipo  de  delito antes da  edição da  referida  lei deve se  dar após o 
+cumprimento da fração de 1/6 da pena, nos termos da antiga   redação do art. 
+112 da LEP .
+Em matéria de irretroatividade, temos ainda o seguinte  exemplo: em 29 
+de março de 2007, entrou em vigor a Lei  n. 11.466/2007, que passou a prever 
+como  falta disciplinar  de  natureza grave a  posse,
+[/PAGINA 24]
+
+[PAGINA 25]
+a  utilização  ou o 
+fornecimento  de aparelho  telefônico,  de rádio ou  similar,  que permita  a 
+comunicação com outros presos ou com o ambiente externo (art. 50, VII, da
+
+LEP). Todavia, antes da edição da Lei  n
+. 11.466/2007, precisamente no ano 
+de 2003, a Secretaria de Administração Penitenciária de São Paulo editou a 
+Resolução n.  113,  fixando  como  falta grave  a  utilização  de aparelho  de 
+telefonia celular. Diante da au  sência de uma  lei estrita e an terior que definisse 
+tal falta disciplinar, as condenações por porte de aparelho celular passaram a 
+ser atacadas em juízo. Prevaleceu, assim, que seriam nulas as condenações 
+por falta disciplinar com fundamento na referida Resolução, por violação do 
+princípio da legalidade, na modalidade nullum crimen, nulla poena sine lege 
+praevia(nesse sentido, STJ, Agravo Regimental no Habeas Corpus 71761/
+SP, 6ª T., j. 21-2-2008).
+Conforme já mencionado, o princípio da anterioridade não apenas veda a 
+retroatividade da  lei penal  mais gravosa,  como,  por outro  lado,  admite a 
+retroatividade da  lei penal  mais benéfica.  Nesse aspecto, é  importante 
+destacar que a Lei  n. 12.433/2011 passou a prever que o tempo a remir em 
+função das horas de estudo será acrescido de 1/3 no caso de conclusão do 
+ensino fundamental, médio ou superior durante o cumprimento da pena, desde 
+que certificada pelo órgão competente do sistema de educação (art. 126, § 
+5º).  Como  antes da  edição da  Lei   n.  12.433/2011 não  havia qualquer 
+dispositivo  de natureza semelhante que  pudesse beneficiar os  presos  que 
+concluíssem uma  etapa educacional, o aumento de 1/3 do tempo de remição 
+deve retroagir  para beneficiar todos aqueles que já concluíram uma   dessas 
+etapas.
+A  Lei  n.  12.433/2011  também deu nova  redação ao  art.  127  da LEP, 
+passando a admitir, em caso de falta grave, a revogação de até 1/3 do tempo 
+remido, não  mais a  sua  perda  integral.  Por ser  mais benéfica à  pessoa 
+condenada (novatio  legis in  mellius),  essa norma deve  retroagir  (em 
+obediência ao  art.  5º,  inc.  XL,  da Const.  Fed.) para  alcançar  aqueles  que 
+porventura tiveram decretada a perda integral de seus dias remidos (cf. STJ, 
+HC  259263/SP,  5ª T.,  j.  18-12-2012; STJ, HC  209414/RS, 6ª  T.,  j. 
+4-12-2012).
+Outro  exemplo  de retroatividade  benéfica: com  a  edição da  Lei   n. 
+12.850/2013 (que criou a figura delitiva da “associação criminosa” – art. 288 
+do CP), a causa de au  mento de pena trazida pelo parágrafo único do artigo 
+em análise passou a ter n
+ova redação, determinando o aumento de pena    de até 
+a metade “se a associação é armada ou se houver a participação de criança ou 
+adolescente”. Essa nova sistemática representa clara hipótese
+
+de novatio  legis in  mellius,  pois a  causa  de  aumento  de pena  para  a 
+associação criminosa armada diminu
+iu de “até o dobro” (na redação anterior) 
+para  “até  a metade” (na  redação atual). Logo,  é possível, com  base no 
+parágrafo  único  do  ar
+[/PAGINA 25]
+
+[PAGINA 26]
+t.  2º  do  Código  Penal,  o  reconhecimento  da novatio 
+legis in mellius para fins de diminuição da pena já em execução.
+Segunda Função: nullum crimen, nulla poena sine lege certa (nulo o 
+crime, nula a pen a sem lei certa).
+A  normativa penitenciária, nos  dizeres  de Franco  Bricola,  é um  dos 
+setores mais expostos às  várias  práticas nas  quais,  no  Estado  de Direito, 
+realiza-se a  ilegalidade oficial por  meio  da não  aplicação  e manipulação 
+administrativa das  n
+ormas.
+20
+  Por isso a  importância  do  princípio  da 
+legalidade, que,  em sua  modalidade nullum crimen, nulla poena sine lege 
+certa, trata de proibir a criação e aplicação de tipos penais e disciplinares 
+vagos ou indeterminados
+. Os  tipos penais e os tipos disciplinares devem ter 
+redação clara e precisa, evitando fórmu
+las genéricas ou indeterminadas que 
+possam dar  margem ao  abusivo  arbítrio  estatal e,  consequentemente,  ao
+“descolamento da legalidade” (“emancipação perante a leg alidade”).
+Nesse aspecto, discute-se a con stitucionalidade dos incisos I e III do art. 
+50 da LEP, que apontam como faltas g
+raves, respectivamente, as condutas de 
+incitar ou participar de movimento para subverter a ordem ou a disciplina e 
+de possuir, indevidamente, instrumento capaz de ofender a integridade física 
+de outrem.
+Em relação à primeira falta disciplinar, surge o questionamento do que 
+seria “subverter a  ordem ou  a  disciplina”,  tendo  em vista que  qualquer 
+conduta, interpretada por uma  autoridade penitenciária tendenciosa e abusiva, 
+poderia ser eventualmente considerada subversiva para efeitos punitivos.
+21
+Já em relação à conduta   de “possuir, indevidamente, instrumento capaz de 
+ofender  a  integridade física  de  outrem”,  a indeterminação  residiria n
+a 
+amplitude que cerca o conceito de instrumento de ofensa, posto que inúmeros
+ 
+instru mentos (até  mesmo uma   caneta)  possuem a  capacidade  de  ofender  a 
+integridade física  de  outrem,  fato  esse que,  sem u
+ma   descrição legal 
+exaustiva, dá margem à arbitrariedade em desfavor do indivíduo.
+22
+Outro exemplo de violação da legalidade: segundo o art. 2º, § 9º, da Lei 
+nº 12.850/2013 (que define organização criminosa), o “condenado
+
+expressamente em sentença por integrar organização criminosa ou por crime 
+praticado  por meio  de organização  criminosa não  poderá progredir de
+ 
+regime de cu  mprimento de pena ou obter livramento condicional ou outros 
+benefícios prisionais  se  houver elementos probatórios  que  indiquem a 
+man utenção do vínculo associativo”.
+Esse artigo  viola a  legalidade ao  estender a  vedação a  “outros 
+benefícios”, sem a adequada individualização deles e sem a existência, na 
+legislação, de norma que defina seu conteúdo. Trata-se de uma  fórmula vaga 
+que   dá margem ao abuso estatal e, consequentemente, ao “descolamento da 
+legalidade”.
+23
+Além desses exemplos, outro elemento vago e indeterminado que vulnera
+o princípio da legalidade é a exigência de “demonstração do merec
+[/PAGINA 26]
+
+[PAGINA 27]
+imento 
+do condenado” para a recuperação do direito à saída temporária (art. 125,
+ 
+parágrafo único, da LEP). Tal  exigência deve ser  afastada como requisito 
+juridicamente  válido, pois  dá  azo  a  arbitrariedades e  causa  inseg urança 
+jurídica ao condenado.
+Como se percebe, o uso de conceitos abertos 
+é medida que traz consigo 
+grave insegurança jurídica,  subvertendo  a legalidade em  nome    de  uma 
+conveniente discricionariedade.  Acertada,  pois,  a percepção de  que  “na 
+concepção  de Estado de  Direito Social, n
+ão  pode haver espaços 
+juridicamente vazios, todos devem ser  fun
+damentados na  lei  e  na 
+Constituição. Nesse contexto o conceito de relação especial de poder perde 
+sentido.  O campo  da discricionariedade da  Administração  diminui.  O 
+condenado, o recluso, possui u
+m ‘status’ que engloba direitos e deveres, é 
+um sujeito na relação com o Estado. De qualquer forma, porém, em todos os 
+países em  que  vigora  essa  concepção  política,  ocorreu um  atraso na 
+efetivação desses postulados. O princípio da legalidade na execução penal 
+importa n
+a reserva legal das regras sobre as modalidades de execução das 
+penas e  medidas de  segurança,  de modo  que  o  poder discricionário  seja 
+restrito e se ex  erça dentro de limites definidos. Importa também na reserva 
+legal dos direitos  e deveres, das faltas  disciplinares e  sanções 
+correspondentes, a serem estabelecidos de forma taxativa, à semelhança da 
+previsão de crimes e penas n
+o Direito Penal. As restrições de direitos ficam 
+sob a reserva legal, evitando-se uso de conceitos abertos”.
+24
+
+Também é coerente a con statação de que n
+ão pode o magistrado utilizar-
+se de su  a suposta discricionariedade para restringir ou negar   um direito com 
+base em entendimentos próprios sobre a fin alidade do instituto ou sobre o
+ 
+merecimento do beneficiário, pois quando se tem em mente que a ex ecução 
+penal possui como sujeito principal e razão de ser a pessoa presa, é por ela 
+que   se devem pautar as conclusões do magistrado.
+25
+Terceira Função: nullum crimen, nulla poena sine lege stricta (nulo o 
+crime, nula a pen a sem lei estrita).
+Essa função do princípio da legalidade veda o uso de analogia para criar 
+crimes e  faltas disciplinares  e  para  aplicar e  executar penas  ou  sanções 
+disciplinares. Analogia significa a aplicação, a uma  hipótese não prevista em 
+lei, da disposição relativa a u
+m caso semelhante. No Direito de Execução 
+Penal, a analogia somente   pode servir como forma integradora de conceitos, 
+jamais para  criar formas  de  agravar a  condição  das pessoas condenadas. 
+Também por essa razão, a interpretação de qualquer dispositivo passível de 
+imposição  de tratamento  penal rigoroso  deve ser  eminentemente restritiva, 
+n
+ão comportando extensões ou analogias em prejuízo do indivíduo.
+26
+Em última análise, afirmar que é nula a pen a sem lei estrita significa dizer 
+que,  inexistindo  previsão  legal exata  para  determinada falta  ou sanção 
+disciplinar
+[/PAGINA 27]
+
+[PAGINA 28]
+, não pode a an alogia servir em desfavor do acusado.
+É  o  que ocorre, por  exemplo, na  punição  por falta  grave  (a  partir da 
+interpretação extensiva ou complementar do art. 50 da LEP) das condutas de 
+possuir, portar ou ingerir bebida alcoólica, achar-se embriagado ou recusar 
+comparecimento perante Oficial de Justiça, para receber ato de citação. As 
+condutas descritas nesse artigo  são  taxativas, não  admitindo  qualquer 
+interpretação extensiva ou complementar (cf. STJ, HC 172551/SP, 6ª  T., j. 
+2-8-2012; HC  119732/GO,  5ª T.,  j.  15-9-2009; HC  4435/SP,  6ª   T.,  j. 
+13-5-1996; HC 108616/SP, 6ª T., j. 6-2-2009).
+É  também o  que acontece  na  punição  por falta grave  da  conduta   de 
+possuir, utilizar ou  fornecer chips,  baterias e  carregadores de  telefones 
+celulares, quando na verdade o tipo disciplinar do art. 50, VII, da LEP apenas 
+menciona,  como  objetos,  o  aparelho  telefônico,  de rádio ou  similar, que 
+permita a comunicação com outros  presos  ou com o ambiente externo. De 
+fato, não há qualquer menção legal expressa quanto aos acessórios, além
+
+do fato de que eles n
+ão possuem a capacidade de gerar comunicação por si 
+sós, ou seja, são carentes de potencialidade lesiva sem o respectivo aparelho 
+telefônico. Logo,  embora não  seja esse o  entendimento  dominante nos 
+tribunais,  deveria ser  disciplinarmente atípica  a  posse, a  utilização  ou o 
+fornecimento de chips, baterias ou carregadores, quando desacompanhados 
+do respectivo aparelho, em nome do princípio da legalidade.
+Quarta Função: nullum crimen, nulla poena sine lege scripta (nulo o 
+crime, nula a pen a sem lei escrita).
+A quarta e última função do princípio da legalidade consiste na proibição 
+da  criação de  infrações penais,  faltas disciplinares,  penas ou sanções 
+disciplinares pelos costumes  (ex.: preso sofre sanção disciplinar por infringir 
+o costume, existente em determinada penitenciária, n
+o sentido de baixar  a 
+cabeça diante de uma  visita). Na verdade, só a   lei escrita pode criar crimes, 
+faltas,  penas e  sanções disciplinares.  Os costumes   podem ser utilizados 
+apenas  para explicar ou  complementar (integrar)  o  sentido  de certos 
+elementos  do  tipo  penal ou  disciplinar.  Nunca  para  punir  ou  agravar a 
+condição das pessoas condenadas ou submetidas à medida de segurança.
+O  princípio  da legalidade representa  afinal  a  grande amarra ao 
+discricionarismo na execução da pena, no intuito de, por um lado, obstar a 
+criação de um Direito próprio (dentro do espaço do não direito) às pessoas 
+privadas de  liberdade  e, por  outro,  conter as  tentações positivistas  e 
+inquisitoriais de reificação do ser humano em situação de encarceramento.
+1.3. Princípio da não marginalização (ou não
+discriminação) das pessoas presas ou internadas
+Desde o florescimento do cárcere como meio de pun
+ição, a figura da 
+pessoa presa  tem sofrido diferentes enfoques.  Sustentada pelo  discurso 
+positivista etiológico, difun
+diu-se inicialmente a p
+[/PAGINA 28]
+
+[PAGINA 29]
+ercepção do preso como 
+objeto (res) da execução penal, “abandonado a forças que de todo lhe  eram 
+estranh
+as, arredado do direito – posição em que tudo lhe era ‘concedido’ e 
+‘nada n
+egado  porque nada  tinha’”.
+27
+ Atrelada à  ideia  de  que  a  ex ecução 
+penal possuía natureza meramente administrativa, a reificação do indivíduo 
+retirava dele qualquer perspectiva de fruição de direitos, submetendo-o ao 
+exclusivo arbítrio da autoridade administrativa penitenciária.
+
+Ao long
+o do tempo, essa concepção foi paulatinamente substituída pela 
+incorporação da pessoa presa à relação jurídica penitenciária, passando a ser 
+encarada como sujeito de direitos.
+Arminda Bergamini Miotto lembra que  a  partir do  reconhecimento  do 
+direito  ao  trabalho  remunerado, no  Congresso  Penitenciário  de São 
+Petersburgo,  em  1890,  os presos  (condenados) deixaram de  ser  sujeitos 
+passivos de  tratamento  (alvos inertes  do  tratamento),  passando  a ser 
+paulatinamente vistos como titulares de direitos. Ao direito à remuneração 
+seguiu-se o direito à indenização por acidente do trabalho, reconhecido no 
+Cong
+resso  Penitenciário  de Budapeste,  em 1905.
+28
+  Mas o  reconhecimento 
+efetivo  da titularidade de  direitos pelos  presos  adveio das  propostas  da 
+Comissão Penitenciária Internacional, em 1925, n
+o sentido da construção de 
+regras internacionais capazes de condensar exigências mínimas de execução 
+penal a  serem obedecidas por  todas as  legislações,  cujos esforços  deram 
+origem às Regras Mínimas   para o Tratamento de Reclusos da ONU, adotadas 
+em 1955 e aprovadas em 1957.
+29
+Apesar da difusão das posições que passaram a enx
+ergar o recluso como 
+sujeito de direitos, jamais foi abandonada a ideia de que os presos devem 
+experimentar um  grau  de  sofrimento   necessariamente superior às  pessoas 
+livres, seja por motivações retributivas (atreladas à ideia de “merecimento” 
+da pena) ou preventivas (pretensão de dissuasão da coletividade à prática de 
+crimes e de reforço à fidelidade normativa).
+Essa ideia possui gênese no princípio da less eligibility (in troduzido em 
+1834, na  Inglaterra,  pelo Poor  Law  Amendment Act),  segundo  o  qual as 
+condições de trabalho e   disciplina n
+as Casas de Correção (Workhouses) não 
+podiam ser  tão  atrativas quanto  o  pior emprego  possível fora desses 
+estabelecimentos.
+30
+ Bu scava-se, com isso, mostrar à classe trabalhadora que 
+a opção pelo encarceramento n
+as Casas de Correção teria que ser a “menos 
+elegível”.  O princípio  também existiu para evitar que  as  pessoas  se 
+compadecessem com as condições dos trabalhadores livres pobres e, assim,
+ 
+clamassem por melhor tratamento a eles.
+Inicialmente relacionado com as condições de disciplina e trabalho n
+as 
+Workhouses, o princípio da less elegibility foi  ao longo do tempo desvirtuado 
+para legitimar o discurso punitivista de qu  e o tratamento das
+
+pessoas presas deve ser n
+ecessariamente pior do que as condições de vida da 
+classe trabalhadora em
+[/PAGINA 29]
+
+[PAGINA 30]
+meio livre.
+Esse discurso não se sustenta, pois, como observado por Andrew Coyle, 
+“se o Estado assume  para si o direito de privar algu
+ém de sua liberdade, por 
+qualquer razão que   seja,  ele  também deve assumir   para  si  a  obrigação  de 
+assegurar que essa pessoa seja tratada de modo digno e  humano. O fato de os 
+cidadãos que  não  estão  presos terem dificuldade de  viver com dignidade 
+n
+unca  pode  ser usado  como  justificativa pelo  Estado  para deixar  de  tratar 
+aqueles que estão sob seus cuidados de modo digno. Esse princípio reflete o 
+cerne da  sociedade  democrática, na  qual  os  órgãos  do  Estado  devem ser 
+vistos como  exemplos  do modo  como  devem ser  tratados todos  os 
+cidadãos”.
+31
+Nos  dias  de h
+oje,  a ideia do less elegibility  ain da  povoa o  imaginário 
+popular, pauta discussões político-criminais   e norteia veladamente   decisões 
+judiciais, causando profun
+dos danos humanos e sociais.
+32
+Também ancoradas na  ideologia  de  in   feriorização  cívica das  pessoas 
+presas e na relativização do princípio da legalidade, nos fins do século XIX e 
+n
+as  primeiras décadas do  século  XX desenvolveram-se as  teorias  da 
+supremacia especial do  Estado  (também denominadas teorias  das  relações 
+especiais de  sujeição,  das relações  de sujeição  especial ou  das  relações 
+especiais de  poder),
+33
+  oriu ndas  do  Direito  Administrativo.  As teorias 
+afirmavam a  existência de  um  direito de  supremacia pelo Estado  (ou 
+Administração), que se veiculava de maneiras distintas segu
+ndo as diferentes 
+classes ou categorias de pessoas, ou setores sociais. Nessa linha, existiria um 
+direito de  supremacia (soberania)  geral  do  Estado,  dirigido  a todos os 
+cidadãos indistintamente, pelo fato de serem “súditos” do poder público. Por 
+outro lado, existiria u
+m direito de supremacia (soberania) especial do Estado, 
+exercido sobre determinadas categorias de pessoas, que   mantêm com aquele 
+relações particulares de  subordinação  (relações especiais  de sujeição  ou 
+speciali rapporti di sudditanza).
+Para as  categorias expostas à  supremacia especial do  Estado  – n
+elas 
+incluídas as pessoas presas – as  relações especiais de sujeição representariam 
+a possibilidade de inobservância de direitos fundamentais e a flexibilização 
+do  princípio  da legalidade,  com a  permissão  de trânsito  em um  campo 
+inteiramente alheio ao direito (espaço livre de direito), não
+
+valorado juridicamente.
+34
+ Em  suma,  n
+ão havendo necessidade de se fundar na 
+lei as medidas adotadas, o fim da execução substituía uma lei de execução.
+35
+Nessa lógica, se, ao proceder à limitação da liberdade, o Estado também 
+vem a suprimir ou reduzir  outros direitos fundamentais das pessoas presas 
+(violação colateral), mesmo assim tal procedimento poderia ser considerado 
+justificado,  com fundamento na  primazia  do  direito  estatal.  A título  de 
+exemplo da ideia de sujeição especial, uma  decisão norte-americana de 1871 
+(Ruffin  v.  Commonw
+[/PAGINA 30]
+
+[PAGINA 31]
+ealth) considerou os  condenados “escravos dos 
+Estados” (“slaves of the states”).
+Como se vê, as teorias das relações especiais de sujeição – a par de sua 
+indeterminação conceitual, favorecendo o servilismo e o manejo utilitário por 
+parte da  Administração,  em desfavor das  pessoas  condenadas  –  sempre 
+seguiram premissas bastante criticáveis e contrárias ao senso de humanidade.
+Em primeiro lugar, por se ancorarem na clássica perspectiva de Direito 
+Público,  que vislumbra  o  Estado  em posição de  premência frente  ao 
+indivíduo, quando, na verdade, é o ser humano que deve possuir precedência 
+e  ascendência substanciais em relação ao  Estado.  E,  ainda que  assim não 
+fosse,  em face da  Constituição  jamais  o  indivíduo  poderia ser  tratado 
+desigualmente perante o Estado.
+Em segundo lu  gar, por demonstrarem uma   visão excludente e totalizante 
+da execução penal, justificando a violação colateral dos direitos das pessoas 
+presas por razões de ordem, seg urança, procedimentais, administrativas ou de 
+disciplina, do   mesmo modo que a baixa de civis é comumente justificada pelo 
+“fim maior” da guerra.
+Soma-se a  essas premissas a  flexibilização do princípio da legalidade, 
+que   traz não só insegurança jurídica como a  destinação de um “código do não 
+direito” (ou uma  zona livre de direito) a determinadas pessoas por aquilo que 
+são,  transformando  os presos  em cidadãos de  segunda categoria
+36
+  e 
+consagrando  o  direito  penal de  autor.  Em última  análise,  criar-se-ia um 
+espaço livre de  Direito, com direitos para  a  Administração  e unicamente 
+deveres para os presos
+37
+ ou , em  outras palavras, dar-se-ia à Administração 
+(Estado) u
+ma   espécie  de  cheque em branco,  inteiramente desassociado  do 
+evento delitivo concreto.
+38
+
+Por fim, são criticáveis as teorias das relações especiais de sujeição por
+ 
+partirem da premissa de qu  e a Administração é legitimada e capaz de regular, 
+por  si  só,  as  relações  com as  pessoas  presas, alijando  a intervenção 
+jurisdicional das situações e dos conflitos carcerários e, por consequência, 
+afetando o direito fundamental à tutela jurisdicional.
+39
+Somente com a  consolidação  da jurisdicionalização  e com o 
+reconhecimento  das garantias constitucionais das  pessoas  presas  é que  as 
+teorias da supremacia especial perderam fôlego.
+No processo de fragmentação das teorias da supremacia especial, a causa 
+Coffin  vs.  Reichard  (julgada em  1944, nos  EUA,  pelo Circuit Court  of 
+Appeals – Sixth Circuit) mostrou-se essencial por assegurar ao peticionante
+o direito de manejar habeas corpus para contestar a supressão de direitos 
+durante o confinamento. A referida decisão foi paradigmática por trazer, pela 
+primeira vez, a ideia de que o preso mantém todos os direitos n
+ão atingidos 
+pela privação legal   da liberdade. O trecho mais  marcante da célebre decisão 
+estabelece: “um prisioneiro mantém todos os direitos de um cidadão comum, 
+exceto aqueles expressamente, ou por impl
+[/PAGINA 31]
+
+[PAGINA 32]
+icação necessária, tirados dele por 
+lei. Embora a lei tire a su a liberdade e imponha um dever de submissão e 
+observância da disciplina para a sua conduta   e de outros prisioneiros, isto não 
+afasta seu  direito à  segurança pessoal contra  invasão  ilegal.  Quando um 
+homem possui  um  direito substancial,  os tribunais  serão diligentes em 
+encontrar uma  maneira de protegê-lo. O fato de uma  pessoa estar legalmente 
+na  prisão não  afasta  o uso  de habeas corpus  para proteger  seus  outros 
+direitos inerentes”.
+40
+Anabela de  Miranda  Rodrigu
+es  recorda ainda  dois precedentes 
+importantes. O primeiro oriun
+do da Suprema Corte dos Estados Unidos, em 
+1961, na causa Monroe vs. Pape, que tornou possível a apreciação judicial 
+das  condições de  detenção,  superlotação,  falta de  assistência  médica etc., 
+havendo mais  tarde (anos 1970) o abandono da doutrina do hands off, com a 
+definitiva afirmação  da intervenção  jurisdicional.  O segundo  precedente 
+apontado foi a decisão de 14 de março de 1972 do Tribu nal Constitucional 
+alemão,  a qual,  impugnando  o  conteúdo  de uma   circular  da  administração 
+penitenciária que  veiculava limitações ao  exercício  de certos direitos 
+fundamentais, reconheceu que os direitos do recluso só podem ser
+
+restringidos por lei ou por força de uma  lei (nur  durch Gesetz oder aufgrund 
+eines Gesetzes eingeschränkt werden können).
+41
+No  Sistema Interamericano  de Direitos Humanos,  a doutrina da 
+supremacia especial foi  reinterpretada com o  precedente Neira Alegría  y 
+otros Vs. Perú, de 1995 (§ 60). A Corte entendeu que embora exista uma 
+relação própria entre o Estado e as pessoas privadas de liberdade, pelo fato 
+de  o  Estado  exercer um  controle total sobre elas, isso  não  justifica 
+flexibilização alguma  das garantias reconhecidas para todas as pessoas. Pelo 
+contrário: essas se acentuam .
+Embora tenham perdido força (no campo prescritivo) com o movimento 
+de  afirmação  dos direitos  das  pessoas  presas, as  teorias  da supremacia 
+especial foram introjetadas e difun
+didas de modo tal que seu legado de ampla 
+discricionariedade pode  ser fortemente   sentido  até hoje.  Por isso, são 
+pertinentes as  observações  de Berti, no  sentido  de que  a  plenitude da 
+liberdade e  personalidade h
+umanas somente   será  alcançada quando  for 
+completamente apagado o convencimento de que  a  su spensão da liberdade 
+por efeito do encarceramento comporte também a submissão do condenado a 
+regras especiais, que   demandam a sua completa sujeição n
+ão só a tais regras, 
+mas  também àqueles encarregados de fazê-las respeitar.
+42
+Tendo-se consciência  do  percurso histórico  e político das  relações 
+jurídicas envolvendo as pessoas presas, e segu
+indo-se uma  visão moderna e 
+democrática da  execução  penal (pautada  pela  precedência  e  ascendência 
+substanciais  do  ser humano  sobre  o  Estado),  é possível concluir que  a 
+combinação mais danosa  aos  direitos  das  pessoas  presas  tem como 
+ing
+[/PAGINA 32]
+
+[PAGINA 33]
+rediente  o  senso  comum  da  retribuição,  catalisado  pela ideia  da less 
+elegibility e “juridicamente justificado” pelas teorias das relações especiais 
+de sujeição (supremacia especial do Estado). É possível então sustentar que 
+n
+ão  há  mais espaço para  os  legados das  ideias  de retribucionismo, less 
+eligibility ou  de supremacia especial do Estado. Tais  legados devem ceder 
+lugar  à  concreta postura  de  que,  salvo  as restrições  comprovadamente 
+inerentes à própria condição de encarceramento, todos os demais direitos e as 
+garantias – diga-se, fundamentais – dos reclusos devem ser escrupulosamente 
+preservados, n
+unca se perdendo de vista que “a limitação de direitos é por 
+natureza, dessocializadora, no exato sentido em que exclui
+o recluso do seu estatuto social normal”.
+43
+
+Em  outras  palavras, abandonada a  teoria  clássica  que  situava  certas 
+relações de vida – designadamente, e pelo que   aqui nos interessa, no que se 
+refere aos reclusos – no domínio do não direito e (ou) rejeitada a tese de que 
+os cidadãos que são regidos por estatutos especiais renunciam aos direitos 
+fundamentais ou ficam numa  situação de sujeição que implica uma  qualquer 
+capitis deminutio,  surge definitivamente delineada no  horizonte jurídico  a 
+u
+nanimidade de posições que vê o recluso como sujeito de direitos, mantendo 
+relações jurídicas  –  das quais  emergem direitos e  deveres –  com a 
+administração.
+44
+Alinhados a  essa  concepção  estão  os Princípios Básicos  para o 
+Tratamento dos Reclusos da ONU:  “Exceto no que se refere às limitações 
+comprovadamente necessárias em  virtude  do  encarceramento,  todos os 
+reclusos continuam a  gozar  os  direitos humanos e  liberdades fundamentais 
+enunciados na Declaração Universal dos Direitos do Homem e, caso o Estado 
+em  questão neles  seja  parte, no  Pacto  Internacional sobre os  Direitos 
+Econômicos,  Sociais e  Culturais, no  Pacto  Internacional sobre os  Direitos 
+Civis e Políticos e no Protocolo Facultativo a este último, bem como todos 
+os  outros  direitos  consagrados em  outros  tratados  das  Nações Un idas”
+(Princípio 5). Complementando essa ideia, figura também a orientação de que 
+os reclusos deverão ter acesso aos serviços de saúde existentes no país, sem 
+qualquer discriminação decorrente da su  a situação jurídica (Princípio 9).
+Na  mesma direção apontam  o  Código  Penal,  ao  prever que  o  preso 
+conserva todos os direitos não atingidos pela perda da liberdade (art. 38), e a 
+Lei  de  Execução  Penal,  ao  estabelecer que  “ao  condenado  e ao  internado 
+serão  assegurados todos  os  direitos não  atingidos  pela  sentença ou  pela 
+lei” (art.  3º),  além de  vedar qualquer distinção  de n
+atureza racial, social, 
+religiosa ou política (art.  3º,  parágrafo  único).  Note-se ainda  que  um dos 
+direitos das pessoas presas é o da   igualdade de tratamento, salvo quanto às 
+exigências da individualização da pena (art. 41, XII), norma essa que deve 
+ser interpretada de
+[/PAGINA 33]
+
+[PAGINA 34]
+modo a abranger não somente a isonomia   entre presos (e 
+internados) como também entre eles e as pessoas livres, tendo em vista que a 
+Lei  de Execução Penal menciona genericamente a “ig ualdade de tratamento”, 
+não fazendo qualquer distinção.
+
+Tais  dispositivos demonstram que a Lei  de Execução Penal não transige 
+com os  preconceitos de  qualquer natureza.
+45
+  Não por  outra  razão que   a 
+Exposição  de Motivos da  LEP identifica a  norma  do  art.  3º como
+“proclamação  formal de  g
+arantia,  que ilumina todo o  procedimento  da 
+execução” (item 66),  além de  dispor que  “é  comum,   no  cu  mprimento  das 
+penas privativas da liberdade, a privação ou a limitação de direitos inerentes 
+ao  patrimônio  jurídico  do homem e  não  alcançados pela sentença 
+condenatória.  Essa h
+ipertrofia da  punição não  só  viola a  medida da 
+proporcionalidade como  se   transforma em poderoso fator de  reincidência, 
+pela formação de focos criminógenos que propicia” (item 20).
+É igu
+almente com esse escopo que   as novas Regras Mínimas   das Nações 
+Unidas para  o  Tratamento  de Presos recomendam que  o  regime prisional
+“deve procurar minimizar as diferenças entre a vida n
+o cárcere e aqu ela em 
+liberdade que tendem a reduzir a responsabilidade dos presos ou o respeito à 
+sua  dign
+idade como  seres humanos” (Regra  5.1). Nessa perspectiva, o 
+tratamento  deve enfatizar não  a sua  exclusão  da comunidade, mas   sua 
+participação  contínu
+a  nela  (Regra  88.1). Por  isso  ser  “de  primordial 
+importância que a leg islação e a práxis penitenciárias se orientem no sentido 
+da não dessocialização do recluso, objetivo que só poderá ser atingido pelo 
+reconh
+ecimento  da cidadania  do  recluso  e pela  proteção eficaz de  seus 
+direitos fundamentais”.
+46
+Dois dos objetivos fundamentais da República Federativa do Brasil são 
+justamente o de erradicar a marginalização (art. 3º, III, da CF) e promover o 
+bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer 
+outras  formas  de  discriminação  (art.  3º,  IV),  objetivos esses  que também 
+protegem  as  pessoas  privadas  da liberdade, vedando n
+ão  apenas a 
+discriminação  em relação às  pessoas  livres mas   também entre  as  próprias 
+pessoas privadas da liberdade.
+No  tocante ao  direito  a não  discriminação,  é imprescindível pautar  a 
+execução da pena dos índios levando-se em consideração a sua organização 
+social,  seus costumes,  suas línguas,  crenças e  tradições, bem  como  os 
+métodos aos quais os povos recorrem tradicionalmente para a resolução de 
+conflitos ou  a  sanção  penal/disciplinar de  seus  membros (tais  como  o 
+trabalho comu
+nitário e a reparação do dano à família da vítima).
+
+No que tang
+e ao direito à não discriminação, outro tema ganha cada vez 
+mais  importância: o encarceramento da população LGBTQI+ (lésbicas, gays, 
+bissexuais, transexuais, travestis, transgêneros, queers, intersexuais e outras 
+denominações). Tal  população  sofre um acréscimo  pu  n
+[/PAGINA 34]
+
+[PAGINA 35]
+itivo  para além do 
+encarceramento em si, não apenas em virtude do processo de naturalização da 
+exclusão e da violência que sofre, mas   pelo sistemático desprezo por seus 
+direitos.
+A propósito do tema, em 2006, o painel internacional de especialistas em 
+legislação internacional de direitos h
+umanos, orientação sexual e identidade 
+de g
+ênero aprovou os Princípios sobre a aplicação da legislação internacional 
+de direitos humanos em relação à orientação sexual e identidade de gênero 
+(Princípios de  Yog y
+akarta), estabelecendo como premissa que  a  orientação 
+sexual e a identidade gênero são essenciais para a dignidade e humanidade de 
+cada pessoa e não devem ser motivo de discriminação ou abuso.
+47
+Destacam-se os  Princípios  1  (Direito  ao  Gozo Universal dos  Direitos 
+Humanos),  2  (Direito  à Igu
+aldade e  à  Não Discriminação),  5  (Direito  à 
+Segurança Pessoal), 6  (Direito  à Privacidade), 7  (Direito  de Não  Sofrer 
+Privação Arbitrária da Liberdade), 9 (Direito a Tratamento Humano durante a 
+Detenção), 10 (Direito de Não Sofrer Tortura e Tratamento ou Castigo Cruel, 
+Desumano  e Degradante) e  28  (Direito  a Recursos  Jurídicos e Medidas 
+Corretivas Eficazes).
+No  Brasil,  o  Conselho  Nacional de  Política  Criminal   e  Penitenciária
+(CNPCP) e  o  Conselho  Nacional de  Combate à  Discriminação
+(CNCD/LGBT) editaram a Resolução Conjunta n. 01/2014, estabelecendo os 
+parâmetros de acolhimento de LGBT em privação de liberdade no Brasil.
+No  rol dos  principais direitos  da pessoa LGBT encarcerada,  podemos 
+elencar:
+a) chamamento pelo nome   social, de acordo com o gênero (art. 2º da Res. 
+Conj. CNPCP/CNCD n. 01/2014);
+b) oferecimento  de espaços de  vivência  específicos às  travestis  e aos 
+gays  privados  de liberdade  em unidades prisionais  masculinas,  cuja 
+transferência deve ser  precedida de  expressa manifestação  de vontade  da 
+pessoa presa (art. 3º da Res. Conj. CNPCP/CNCD n. 01/2014);
+
+c) direito à imagem, que envolve a preservação do cabelo, u
+so de 
+roupas,  inclusive íntimas,  segundo  o gênero  (art.  5º da  Res.  Conj. 
+CNPCP/CNCD n. 01/2014);
+d)revista n
+ão humilhante;
+48
+e)direito à intimidade e ao livre desenvolvimento da personalidade;
+f)direito à alteridade (percepção inclusiva do outro);
+g)visita íntima, inclusive com internos ou internas de outros
+estabelecimentos penais  (Portaria MJ  n
+.  1190/2008,  Resolução  CNPCP n. 
+4/2011 e art. 6º da Res.Conj. CNPCP/CNCD n. 01/2014);
+h) atenção  integral à  saúde  e  acompanhamento  de saúde  específico, 
+inclusive com a man utenção do tratamento hormonal à pessoa travesti, mulher 
+ou homem transexual em privação de liberdade (art. 7º da Res. Conj. CNPCP/
+CNCD n. 01/2014);
+i) direito à não transferência compulsória entre celas e alas ou quaisquer 
+outros castigos ou sanções em razão da condição de pessoa LGBT (art. 8º da 
+Res. Conj. CNPCP/CNCD n. 01/2014).
+É, enfim, imprescindível um olhar diferenciado para essa população, de 
+modo a se evitar o aprofundamento
+[/PAGINA 35]
+
+[PAGINA 36]
+de ilegalidades e violência no sistema 
+prisional.
+49
+Ainda em  análise  do  princípio  da não  discriminação  (ou não 
+marginalização) vale  destacar que  ele  é  aplicável tanto  às pessoas  presas 
+quanto às internadas (pessoas com transtornos mentais em conflito com a lei). 
+No tocante a  essas últimas, convém ressaltar que  o fato de a  pessoa  com 
+transtorno mental estar em  conflito  com a  lei  não  é fundamento  para se 
+legitimar tratamento  discriminatório  em relação às  demais  pessoas 
+diagn
+osticadas com  transtorno mental.  Aliás,  a Lei   n.  10.216/2001  veda 
+qualquer forma  de  discriminação,  independentemente inclusive  do grau de 
+gravidade ou tempo de evolução do transtorno (art. 1º).
+Todos os  dispositivos  legais  e  as  recomendações supradescritos 
+convergem para uma   grande conclusão: a de que os efeitos da condenação 
+penal devem se circunscrever estritamente   aos gravames legais ou judiciais, 
+não sendo legítimas quaisquer outras sanções ou restrições ao condenado ou 
+internado, sob pena de desvio de execução. O sacrifício de outros direitos 
+fundamentais, além do que previamente   determinado, torna a pen a desumana 
+e, portanto, ilegal a sua execução.
+50
+ De  fato, nem a própria Constituição da
+
+República afasta as pessoas presas ou internadas da possibilidade de fruição 
+dos direitos e das g
+arantias do art. 5º, não cabendo ao intérprete da norma 
+fazê-lo. Afinal de contas, conforme célebre passagem da Suprema Corte dos 
+EUA, não existe uma  cortina de ferro que separe os cárceres da Constituição.
+A situação de encarceramento não apenas não retira das pessoas presas 
+ou  internadas seus  direitos  fundamentais,  como,  pelo  contrário,  as torna 
+carecedoras de maior tutela, discriminação positiva e seg u
+rança por parte do 
+Estado,  considerando  o  estado  de absoluta  vulnerabilidade em  que  se 
+encontram e a responsabilidade estatal pela guarda de seres humanos em suas 
+instituições asilares. Afirmando de maneira mais  contun
+dente: as pessoas que 
+se  en  contram nos  cárceres  e hospitais de  custódia  –  instituições totais  – 
+devem ser  entendidas como  grupo   humano  vulnerável,
+51
+ sen do  certo que   a 
+situação de vulnerabilidade coloca o Estado na posição de garante em relação 
+a elas.
+52
+Da situação de vulnerabilidade decorre também a constatação de que, no 
+âmbito de um Estado Republicano e Democrático de Direito, os direitos das 
+pessoas ou in  ternadas devem ser tutelados ainda contra a von tade da maioria 
+e  mesmo  que agências midiáticas  –  formadoras da  opinião  popular –
+pressionem as  agências políticas  e jurídicas a  adotarem soluções 
+defensivistas, excludentes e irracionais.
+Essas são, portanto, as bases do Princípio da não marginalização (ou não 
+discriminação) das pessoas presas ou internadas em relação às pessoas em 
+estado de liberdade, um poderoso instru mento de equalização das relações 
+jurídicas na  execução  penal e  de  redução  dos danos  causados pela 
+experiência p
+[/PAGINA 36]
+
+[PAGINA 37]
+enitenciária.
+1.4. Princípio da individualização da pena
+A Constituição de 1988 estipula que a lei   regu
+lará a in dividualização da 
+pena (art. 5º,  XLVI).  Em uma   ótica moderna e  não  positivista,  a 
+individualização penal não pode mais  ser sinônima de classificação do preso 
+para fins de tratamento penitenciário. Do mesmo modo, não mais   deve ser 
+usada como pretexto para o desrespeito ao princípio da isonomia, mascarando 
+a  imposição  de tratamento  discriminatório  a certos sujeitos. Essas são 
+premissas basilares.
+
+Na verdade, individualização deve sign
+ificar, em primeiro lugar, que as 
+autoridades responsáveis pela execução  penal possuem  a  obrigação  de 
+enxergar o preso como verdadeiro indivíduo, na acepção humana do termo, 
+considerando suas reais necessidades como sujeito de direitos. Daí decorre a 
+exigência de qu  e as autoridades administrativa e ju dicial dispensem um olhar 
+humanamente tolerante, capaz de considerar a concreta experiência social e a 
+assistência e oportunidades dispensadas à pessoa presa.
+53
+Além disso, partindo das premissas de que o princípio individualizador 
+possui assento constitucional e que a Constituição de 1988 instituiu o dever 
+jurídico-constitucional de minimização de danos, faz-se necessário concluir 
+que   a in dividualização da execução somente se mostra constitucional quando 
+operada no sentido redutor de  danos  (como a   flexibilização das regras  do 
+regime de  cumprimento de pena, permitindo a imposição de regime   menos 
+gravoso não em função do texto de lei, mas   em virtude da necessidade de 
+individualização).  De fato, como  excepcionalização  do  princípio  da 
+legalidade, a individualização da pena não pode ser empregada em prejuízo 
+do condenado (tal como ocorre na requisição de exames   criminológicos).
+Em matéria de  execução  da pena,  individualização  significa  também a 
+vedação de apelo a considerações relativas à espécie abstrata do delito, fato 
+esse que retiraria da agência judicial o poder discursivo e argumentativo de 
+limitar com racionalidade o poder punitivo.
+Outra obrigação  decorrente  do  acertado  sentido  da individualização 
+consiste na apreciação do caso concreto, pelas vias administrativa e judicial, 
+sem o recurso a considerações genéricas ou de índole preventiva, sobretudo 
+em matéria disciplinar, pois qualquer medida que importe em elevação do 
+sofrimento  carcerário  já n
+aturalmente experimentado não  pode se  dar  em 
+função da necessidade de promover exemplo aos demais, mas  em virtude da 
+atuação concreta do agente.
+1.5. Princípio da intervenção mínima
+Na essência, o princípio da intervenção mínima estabelece que a pu nição 
+criminal,  em virtude  de  seus  efeitos nefastos e  estigmatizantes,  deve ser 
+reservada apenas aos casos de extrema necessidade, quando a defesa de certo 
+interesse ou  valor não  pode ser  viabilizada por  instrumentos não penais 
+(sanção civil, administrativa etc.). A “solução” penal é, portanto, a
+
+ultima ratio (última
+[/PAGINA 37]
+
+[PAGINA 38]
+razão) do direito, somente devendo ser aplicada em 
+virtude de g
+raves violações aos interesses ou valores mais  relevantes.
+Derivam desse princípio  as características  da fragmentariedade (nem 
+todos os bens jurídicos e nem todas as condutas que os violam devem ser 
+relevantes para o direito penal, mas   apenas os de maior gravidade) e da 
+subsidiariedade  do  direito  penal (a  intervenção  do  direito  penal somente 
+pode se verificar quando a tutela de certo interesse ou valor não pode ser 
+proporcionada pelos instrumentos não penais).
+O  princípio  da intervenção mínima pode  ser vislumbrado nas  novas 
+Regras Mínimas das  Nações Unidas para  o  Tratamento  de Presos: “O 
+encarceramento e outras medidas que excluam uma  pessoa do convívio com
+o mundo  externo  são  aflitivas pelo  próprio  fato  de ser  retirado destas 
+pessoas o direito à autodeterminação ao serem privadas de sua liberdade. 
+Portanto, o sistema prisional n
+ão deverá agravar o sofrimento inerente a tal 
+situação, exceto em casos incidentais, em que a separação seja justificável, 
+ou nos casos de man utenção da disciplina” (Regra 3).
+O  princípio  também é  aplicável às  medidas de  segu
+rança,  estando 
+materializado em três passagens   da Lei  n. 10.216/2001, que dispõe sobre a 
+proteção e os direitos das pessoas portadoras de transtornos mentais (melhor 
+dizendo, pessoas com transtornos mentais em conflito com a lei).
+Em  primeiro  lugar,  figura  o  comando  legal  do  art.  4º da  Lei   n.
+10.216/2001,  que estabelece  que  “a  internação,  em qualquer de  suas 
+modalidades,  só  será indicada quando  os recursos  extra-hospitalares se 
+mostrarem insuficientes”. Logo, a internação figuraria como ultima ratio.
+54
+Atreladas finalisticamente a esse n
+orte principiológico também estão as 
+normas previstas no art. 2º, parágrafo único, incisos VIII  e IX da Lei, que 
+indicam como direitos da pessoa com transtorno mental, respectivamente, o 
+de  “ser  tratada em  ambiente terapêutico  pelos meios menos invasivos 
+possíveis” e  “ser tratada, preferencialmente,  em serviços comunitários de 
+saúde mental”. Tais normas demonstram que  o  tratamento  (cuidado, 
+assistência) às  pessoas  submetidas às  medidas de  segurança deve  ser 
+realizado  em ambiente não  prisional,  com a  menor invasividade possível 
+sobre a pessoa.
+Por fim,  destaca-se a  vedação da  internação  de pacientes  com
+transtornos mentais em instituições com características asilares, ou seja,
+
+aquelas desprovidas de serviços médicos, de assistência social, psicológicos, 
+ocupacionais, de lazer etc. e que n
+ão assegurem  aos pacientes os seus direitos 
+(art. 4º, §   2º). Considerando que os Hospitais de Custódia e Tratamento (arts. 
+99 a 101 da LEP) possuem características materialmente penais e natureza 
+asilar típica, é  de  se  concluir que  a  Lei  n.  10.216/2001, nesse  aspecto, 
+inspirou-se no  princípio  da intervenção  penal mínima, resguardando  o 
+indivíduo de tratamento mais lesivo.
+O princípio da in
+[/PAGINA 38]
+
+[PAGINA 39]
+tervenção mínima deve se aplicar não somente às penas 
+e às medidas de segurança, mas  também às sanções disciplinares, de modo 
+que   as  autoridades reservem os  procedimentos disciplinares  para casos 
+excepcionais (ultima  ratio  disciplinar),  bem como  considerem infrações 
+disciplinares apenas  os  casos  de maior g
+ravidade e  qu  ando  inaplicáveis 
+soluções não penais.
+A propósito, o Informe de 2011 da   Comissão Interamericana de Direitos 
+Humanos (CIDH) sobre os  direitos humanos das  pessoas  privadas  de 
+liberdade nas  Américas estabelece que  as  autoridades dos  centros  de 
+privação  de liberdade  devem zelar para que  o   uso  dos procedimentos 
+disciplinares seja excepcional, recorrendo a eles quando outros meios sejam 
+inadequados para a man utenção da boa ordem, sendo que somente   deverão 
+ser  definidos como  infrações disciplinares  aqueles  comportamentos que 
+constituam uma  ameaça à ordem e à seg urança (item 372).
+55
+No âmbito da execução penal, u
+m dos mais   proeminentes exemplos da 
+aplicação  do  princípio  da intervenção mínima recai sobre a  medida 
+disciplinar de isolamento. Como se sabe, a prática de faltas disciplinares por 
+parte das pessoas presas enseja a aplicação de determinadas sanções. Uma 
+das  sanções disciplinares previstas na  Lei   de  Execução  penal é  o
+“isolamento na própria cela, ou em local adequado, nos estabelecimentos que 
+possuam alojamento coletivo” (art. 53, IV).
+A partir da lógica da mínima intervenção, é possível concluir   que, assim 
+como  a intervenção  penal e  o  próprio  encarceramento  se reservam tão 
+somente aos  casos  de extrema necessidade,  quando  a defesa  de  certo 
+interesse ou valor não pode ser viabilizada por instrumentos menos aflitivos, 
+também o isolamento disciplinar – se não acertadamente abolido como forma 
+de sanção – deve ao menos ser considerado a ultima ratio da execução penal, 
+apenas aplicável quando inviáveis outras sanções
+
+disciplinares menos g
+ravosas (ex.:  advertência verbal, repreensão etc.). Os 
+Princípios Básicos  da ONU para  o  Tratamento  dos Reclusos  convergem 
+exatamente para  esse  caminho,  ao  prescreverem que  deverão ser 
+empreendidos e encorajados esforços tendentes à abolição ou à restrição do 
+regime de isolamento como medida punitiva (Princípio 7).
+No  mesmo  sentido  dispõe  o  Princípio n.  22  dos “Princípios e  boas 
+práticas para a proteção das pessoas privadas de liberdade nas Américas” da 
+Comissão Interamericana de Direitos Humanos (aprovados pela Resolução n. 
+1/2008): “Serão proibidas, por disposição da lei, as medidas ou sanções de 
+isolamento  em celas de  castigo  (...)O isolamento  só  será permitido  como 
+medida por  tempo estritamente limitado e como último recurso, quando se 
+mostre n
+ecessária para salvaguardar interesses legítimos relativos à segurança 
+interna dos estabelecimentos, e para proteger direitos fundamentais, como a 
+vida e a integridade das próprias pessoas privadas de liberdade ou do pessoal 
+de
+[/PAGINA 39]
+
+[PAGINA 40]
+ssas instituições”.
+Aliás, em apurada crítica ao isolamento, assevera Andrew Coyle que o 
+“isolamento n
+ão é    boa prática. Existem pelo menos dois modelos de gestão 
+de presos violentos e presos que causam transtornos. O primeiro consiste em 
+colocá-los em condições de isolamento, seja por si sós, seja com u
+m ou dois 
+outros presos. Nessa situação os presos passam todo o dia e toda a noite em 
+sua   cela. Nas  condições mais extremas,  eles n
+ão  têm acesso a  qualquer 
+atividade ou estímu
+lo  externo  e têm absolutamente nada  para  fazer. Esses 
+presos poderão ter permissão para uma  hora de recreação solitária em uma 
+espécie de ‘g  aiola’ vazia ao ar livre. Eles passam por u
+ma  revista íntima   e 
+são acorrentados cada vez que saem de sua cela. Em algu
+mas  jurisdições, os 
+presos podem passar anos nesse tipo de regime. Esse método de lidar com os 
+presos, por  mais perigosos  que  sejam,  n
+ão  constitui boa  prática  e muitas 
+vezes decorre da  ausência de  técnicas de  administração  penitenciária 
+apropriadas”.
+56
+Por  tudo  o  que foi  exposto,  da mesma forma  que  são  concebidas 
+alternativas à pena privativa de liberdade, também devem ser estabelecidas 
+alternativas às sanções disciplinares, em especial a de isolamento, em virtude 
+dos danos físicos e psicológicos que provoca.
+Ainda recorrendo-se ao princípio da intervenção mínima, outras sanções 
+menos aflitivas ao projeto existencial da pessoa presa poderiam ser
+
+vislumbradas como substitutivas também à regressão de regime, reduzindo-
+se, assim, os danos causados pelo prolong
+amento do rigor penitenciário.
+Nos casos de revogação facultativa do livramento condicional, o Juízo da 
+Vara  de  Execuções  –  valendo-se da  máxima de  que  o  encarceramento  é a 
+ultima ratio – deve sempre priorizar, em lugar da revogação, a aplicação de 
+advertência e, subsidiariamente, o agravamento das condições do livramento 
+após a realização de audiência admonitória.
+A  perda do  período  de prova, em  caso de  prática  de  crime  ou 
+descumprimento  das condições  do  livramento  condicional,  também merece 
+ser cotejada com a intervenção mínima. Se o encarceramento é medida de 
+extrema ratio, o Juízo da Execução deve recorrer a formas de sancionamento 
+menos ruinosas  do  que a  perda  integral  do  período  de prova, e  sua 
+desconsideração como pena efetivamente   cumprida.
+Por fim, faz-se n
+ecessário recordar que o   uso de algemas ou meios de 
+coerção  análogos é  igualmente permeado  pelo  princípio  da intervenção 
+mínima,  considerando  ser medida absolutamente excepcional e  que  não  se 
+afigura  como  recurso  válido, havendo  outros meios menos aflitivos  de 
+contenção.
+1.6. Princípio da culpabilidade
+Como se sabe, a responsabilidade penal deve refletir um comportamento 
+típico, antijurídico e culpável. Particularmente, a culpabilidade possui como 
+elementos a imputabilidade, a exigibilidade de conduta   diversa e a potencial 
+consciência da ilicitude, sem as quais deve ser afastada
+[/PAGINA 40]
+
+[PAGINA 41]
+. Para ser viável o 
+sancionamento,  é imprescindível que  a  responsabilidade de  determinado 
+resultado  seja atribuível  a  algu
+ém  que  atuou  com  dolo ou  culpa.  Dessa 
+percepção decorre a im possibilidade de pu  nição pela simples ocorrência do 
+resultado  (responsabilidade objetiva), ou  seja, sem que  estejam 
+caracterizados o dolo ou a culpa.
+A  Lei   de  Execução  Penal incorporou taxativamente  o  princípio  da 
+culpabilidade ao dispor que são vedadas as sanções coletivas (art. 45, § 3º). 
+Com esse dispositivo, procura-se impedir a punição disciplinar daqueles que 
+sequer tiveram dolo ou culpa n
+a ocorrência de determinado resultado lesivo.
+
+Como  primeira decorrência  do  princípio  da culpabilidade figu
+ra  a 
+impossibilidade de punição de todos os habitantes de determinada cela ou 
+galeria, quando nelas são encontrados objetos ilícitos (ex.: celulares, drogas) 
+ou  realizadas atividades  disciplinarmente combatidas (ex.: confecção  de 
+buraco  para fuga  ou  dano  a   grades), mas   não  se consegue identificar  o 
+responsável.  Nesse caso, sendo  impossível a  individualização da  conduta, 
+deve ocorrer a absolvição de todos os habitantes da cela ou galeria, por força 
+do  princípio  da culpabilidade.  Falar em  coparticipação omissiva para 
+legitimar a  punição  daqueles que  não  se envolveram diretamente significa 
+consagrar a  responsabilização  penal objetiva, sem respaldo  técnico  e em 
+claro atentado  aos princípios mais   elementares do Estado  Democrático  de 
+Direito.
+O STJ já se manifestou sobre o tema: “é ilegal a aplicação de sanção de 
+caráter coletivo, no âmbito da execução penal, diante de depredação de bem 
+público  quando, havendo  vários detentos  num ambiente, não  for possível 
+precisar de  quem  seria a  responsabilidade pelo ilícito.  O princípio  da 
+culpabilidade irradia-se pela execução penal, quando do reconhecimento da 
+prática de  falta grave,  que,  à evidência,  culmina por  impactar  o status 
+libertatis do condenado” (STJ, HC 177293/SP, 6ª T., j. 24-4-2012).
+Em razão do princípio da culpabilidade na execução penal, também deve 
+ser afastada a responsabilidade do preso ou do internado por qualquer ato 
+praticado por seus visitantes, sem que se consiga   provar o conluio entre eles 
+(ex.:    visitante  que  tenta  ingressar com drogas  ou aparelho  celular em uma 
+penitenciária).  Nessas hipóteses, nem  mesmo  se admite  a  presunção  de 
+conluio entre preso e visitante, porquanto também é aplicável o princípio da 
+presunção de inocência disciplinar do primeiro.
+Quando  determinado  preso  pratica uma   falta  disciplinar  premido  por 
+coação moral irresistível (ex.: ameaça de morte de parentes na rua), há que se 
+considerar do mesmo modo a possibilidade de afastamento da culpabilidade, 
+por inexigibilidade de conduta   diversa.
+Outro  exemplo merece destaque.  Determina  o  art.  46  da LEP  que  “o 
+condenado ou denunciado, no início da execução da pena ou da prisão, será 
+cientificado das norm
+[/PAGINA 41]
+
+[PAGINA 42]
+as disciplinares”. No mesmo sentido, a Constituição da 
+República, em seu art. 5º, LXIII, dispõe que “o preso será informado de seus 
+direitos [...]”, dispositivo esse que deve ser interpretado de maneira ampla e
+
+extensiva,  de modo  a abarcar tanto  os presos  provisórios  quanto  os 
+definitivos.
+No  cotidiano  carcerário,  é sabido que   raramente   os  condenados ou os 
+denu
+nciados recebem da Administração as devidas informações sobre o rol 
+de  faltas e  recomendações disciplinares.  Diante desse manifesto 
+descumprimento à LEP  e  à  Constituição Federal, é possível afirmar  que  a 
+falta de ciência das normas disciplinares ao condenado ou ao denunciado, no 
+início da execução da pena ou da prisão, também pode ensejar o afastamento 
+da  culpabilidade por  faltas disciplinares, uma   vez  descaracterizada a 
+potencial consciência da  ilicitude  da  conduta carcerária, por  erro de 
+proibição.
+Outra prática atentatória ao princípio da culpabilidade é a imposição de 
+juízos valorativos negativos sobre a  pessoa  presa  (ex.: periculosidade, 
+rebeldia,  subversão),  sem qualquer vinculação  com a  ocorrência  de  fatos 
+concretos. Os juízos fundados na culpabilidade de au  tor – como substituta da 
+culpabilidade pelo fato – de fato rompem com a necessária conexão objetiva 
+entre atos  do preso e eventos  danosos  daí  decorrentes. Com tais  juízos, o 
+ônus  probatório é  invertido  do  Estado  para a  pessoa  presa, que   precisa 
+provar a  improcedência da  imputação  valorativa a  ela  realizada, em claro 
+prejuízo ao contraditório, ampla defesa e presunção de inocência.
+A  propósito do  juízo  de periculosidade,  a Corte  Interamericana de 
+Direitos Humanos, no  caso Fermín Ramírez vs. Guatemala,  reconheceu a 
+existência de violação do direito de defesa na elevação da pena a partir da 
+suposição  quanto  à periculosidade  do  réu,  sem trazer fundamentos que 
+supostamente a am parassem. Assim manifestou-se a Corte:
+“94. En concepto de esta Corte, el problema que plantea la invocación de la 
+peligrosidad no sólo puede ser analizado a la luz de las garantías del debido 
+proceso,  dentro  del  artículo  8  de  la  Convención.  Esa  invocación tiene 
+mayor alcance y gravedad. En efecto, constituye claramente una expresión 
+del  ejercicio  del  ius  puniendi  estatal  sobre  la  base  de  las características 
+personales  del  agente  y  no  del  hecho  cometido,  es  decir, sustituye  el 
+Derecho Penal  de  acto  o  de  hecho,  propio  del  sistema  penal  de una 
+sociedad democrática, por el Derecho Penal de autor, que abre la puerta al 
+autoritarismo precisamente en una materia en la que se hallan en juego los 
+bienes jurídicos de mayor jerarquía.
+
+95.La valoración de la peligrosidad del agente implica la apreciación del 
+juzgador  acerca  de  las  probabilidades  de  que  el imputado  cometa  hechos 
+delictuosos  en  el futuro,  es  decir,  agrega  a  la  imputación  por  los  hechos 
+realizados, la previsión de hechos futuros que probablem
+[/PAGINA 42]
+
+[PAGINA 43]
+ente ocurrirán. Con 
+esta  base  se  despliega  la  función  penal del Estado.  En  fin  de  cuentas, se 
+sancionaría al individuo – con pena de muerte inclusive – no con apoyo en 
+lo que ha hecho,  sino en lo que es.  Sobra ponderar las implicaciones, que 
+son evidentes, de este retorno al pasado, absolutamente inaceptable desde la 
+perspectiva  de  los  derechos  humanos.  El pronóstico  será efectuado,  en  el 
+mejor  de  los  casos,  a  partir  del  diagnóstico  ofrecido  por una  pericia 
+psicológica o psiquiátrica del imputado.
+96.En consecuencia, la introducción en el texto penal de la peligrosidad del 
+agente como criterio para la calificación típica de los hechos y la aplicación 
+de ciertas sanciones, es incompatible con el principio de legalidad criminal 
+y, por ende, contrario a la Convención.”
+57
+Oportun
+o, nesse  sentido, perceber  o direito penal de  autor  como “u  ma 
+corrupção do direito penal em que não se proíbe o ato em si, mas o ato como 
+manifestação  de uma   ‘forma  de  ser’  do  autor,  esta sim  considerada 
+verdadeiramente delitiva. O ato teria valor de sintoma    de uma personalidade; 
+o  proibido  e  o  reprovável ou perigoso  seria a  personalidade e  não  o  ato. 
+Dentro desta concepção não se condena   tanto o furto como o ‘ser ladrão’, não 
+se  condena tanto o   homicídio como o ser homicida, o estupro como o ser 
+delinquente sexu
+al etc.”.
+58
+Além de vinculada ao direito penal de autor, a n
+oção de culpabilidade na 
+execução penal também continua a ser associada à ideia de reprovação. No 
+entanto, n
+o atual Estado Democrático de Direito, não há mais   lugar para a 
+reprovação moral ou ética por parte do Estado e de seus agentes. Em seu 
+lug
+ar,  surge  o  sentido  de responsabilização  jurídica  do  indivíduo,  sem 
+qualquer conotação moral ou  ética
+59
+  (im putação  estritamente jurídica),  e 
+verificada tão  somente pela  ausência de  certas causas  que  afastem a 
+responsabilidade pessoal do agente.
+Perceba que a própria Constituição – por meio da tutela da lesividade, da 
+secularização, da dignidade da pessoa humana e da autonomia da vontade – 
+coloca-se como  garantia político-criminal   de  que  a  ex  ecução  da pena 
+privativa de liberdade n
+ão seja meio de retribuição moral. Correta, enfim, a 
+constatação  de que  “a  referência  à  reprovação, no  sentido  da simples 
+retribuição, como fundamento da pena é in compatível com um estado
+
+democrático de direito subordinado a determinados fins protetivos da pessoa, 
+em atenção à sua dignidade e cidadania (art. 1º, II   e III, CF), ao seu bem-estar 
+(art. 3º, IV, CF) e à prevalência dos direitos h
+umanos (art. 4º, II, CF)”.
+60
+No tocante ao princípio da culpabilidade, há que se considerar, por fim, 
+que   ele é rompido pela negativa de direitos fundada na gravidade abstrata dos 
+crimes praticados ou na  elevada quantidade de pena imposta, uma  vez que   tal 
+postura  impõe,  à pessoa  presa, responsabilidade por  fatores atinentes à 
+cominação legal e à esfe
+[/PAGINA 43]
+
+[PAGINA 44]
+ra do injusto penal, portanto, absolutamente externos 
+à discussão concreta da ex  ecução penal, além de naturalmente produzir dupla 
+valoração negativa (bis in idem) e vulneração da separação das funções do 
+Poder.
+1.7. Princípio da lesividade
+Segundo o princípio da lesividade (comumente denominado princípio da 
+ofensividade), somente pode ser considerada punível a conduta   exteriorizada 
+e capaz de lesionar ou ameaçar concretamente determinado valor ou direito, e 
+não aquele comportamento simplesmente pecaminoso ou imoral.
+O princípio  encontra amparo  nos  arts.  98,  inciso  I (que  faz menção  às 
+infrações penais de menor potencial ofensivo) e 5º, inciso XXXV (segundo o 
+qual   não  será afastada  da  apreciação judicial lesão ou ameaça  de  lesão a 
+direito),  ambos da  Constituição  da República  Federativa do  Brasil.  Esse 
+último dispositivo contém dois princípios diversos, quais sejam, o princípio 
+da  inafastabilidade de  ju  risdição,  de cunho  instrumental,  e  o  princípio  da 
+lesividade, parâmetro substancial das normas jurídicas.
+Em  sua  essência,  o  princípio  da lesividade  afasta, por  exemplo,  a 
+constitucionalidade dos tipos penais de perigo abstrato (aqueles em que não 
+há  ameaça concreta a  determinado  direito  ou valor, sendo  presumido  o 
+perigo) e  os  tipos  criminológicos de  autor  (aqueles  que  preveem como 
+puníveis determinados estados ou condições pessoais do acusado).
+No âmbito da execução penal, pode ser identificado como tipo de autor o 
+art. 52, § 1º, I, da LEP, que dispõe que “O regime   disciplinar diferenciado 
+também será aplicado aos  presos  provisórios  ou condenados, nacionais ou 
+estrang
+eiros: I – que apresentem alto risco para a ordem e a segurança do 
+estabelecimento penal ou da sociedade” (grifo nosso). De fato, a ideia da
+
+existência de  pessoas de  alto  risco  para a  ordem e  segu
+rança,  por si  só, 
+configura  clara  ofensa  ao  princípio  da lesividade, porquanto  legitima a 
+punição  de indivíduos pela suposição  do  que sejam,  não  pelo  que 
+concretamente realizam.
+A  utilização  da pessoa do  faltoso  como  critério  de agravamento  da 
+punição  disciplinar (art.  57  da LEP) também consagra a  cu  lpabilidade de 
+autor, em detrimento da culpabilidade pelo fato, ofendendo o princípio da 
+lesividade.
+1.8. Princípio da transcendência mínima
+Estabelece o princípio da intranscendência (pessoalidade) que a pen a não 
+poderá passar da pessoa do criminoso (art. 5º, XLV, da CF e art. 5º, item 3, 
+da Convenção Americana de Direitos Humanos). Uma    visão mais  realista do 
+sistema penal entende, todavia, que não existe a in transcendência dos efeitos 
+penais,  posto  que a  pena  criminal,  de algum  modo,  sempre afeta outras 
+pessoas (ex.: familiares de presos). Por essa razão, dá-se a ele o nome   de 
+princípio da transcendência mínima. Seja qual for a denominação conferida, 
+fato é que o princípio possui importante função limitadora, tanto no Direito 
+Penal quanto no Direito de
+[/PAGINA 44]
+
+[PAGINA 45]
+Execução Penal.
+Em âmbito executivo, é possível apontar como exemplo de violação ao 
+princípio da transcendência mínima o emprego da proibição ou da restrição 
+de visita como forma de sanção disciplinar (arts. 41, parágrafo único, e 53, 
+III, da LEP). Isso, porque não somente o preso possui o direito de receber 
+seus   visitantes (art. 41, X, da LEP) e receber assistência da família (art. 5º, 
+LXIII, da CF), mas  os próprios visitantes também têm direito de estar com 
+seus    parentes  e  amigos   presos  e com eles  manter laços afetivos. Além de 
+ilegal por afetar o direito (do preso e de seus familiares) à man u
+tenção de 
+relações familiares, a punição nesse caso ainda passaria da pessoa do faltoso, 
+atingindo terceiros carentes de culpabilidade. Assim posto, mesmo diante de 
+u
+ma  falta disciplinar praticada pela pessoa presa, a suspensão de visitação 
+não deve ser utilizada como pu nição, e em hipótese alguma  pode conduzir à 
+privação do direito de seu familiar.
+61
+ A  propósito, as novas Regras Mínimas 
+das Nações Unidas para o Tratamento de Presos dispõem
+expressamente que “sanções disciplinares ou medidas restritivas n
+ão devem 
+incluir a proibição de contato com a família” (Regra 43.3).
+
+Importante destacar, n
+esse contexto, que a Constituição de 1988 assegura 
+especial proteção do  Estado  à família  (art.  226),  ao  passo  que  o  Pacto 
+Internacional sobre os Direitos Civis e Políticos dispõe que “a família é o 
+elemento natural e fundamental da sociedade e terá o direito de ser protegida 
+pela sociedade e pelo Estado” (art. 23), dispositivos que reforçam o direito à 
+interação familiar.
+Note-se, ainda, que a proibição de visitação (quase sempre atrelada ao 
+isolamento disciplinar) representaria velada forma de in  comunicabilidade do 
+preso, inadmissível até mesmo durante o estado de defesa (art. 136, § 3º, IV, 
+da  CF), em que  se  bu  sca  preservar ou prontamente restabelecer a  ordem 
+pública ou  a  paz  social ameaçadas por  grave e  im  inente instabilidade 
+institucional. Se nem na vigência do estado de defesa a incomunicabilidade é 
+admitida,  com maior razão não  deve ser  permitida  como  forma de  sanção 
+disciplinar.
+Oportuno lembrar, enfim, que não apenas a proibição (ou restrição) de 
+visita como sanção, mas  a própria limitação injustificada à visita periódica à 
+família (art. 122, I, da LEP), também importa em transcendência dos efeitos 
+da pena aos familiares da pessoa presa.
+Outro exemplo de transcendência dos efeitos penais consiste na restrição 
+ao direito de visita íntima   de presos e presas, medida essa que atinge seus 
+companheiros e  companheiras.  O exercício  da sexualidade é  um  direito
+(manifestação da dignidade humana) essencial para que tanto a   pessoa presa 
+quanto seu visitante preservem laços afetivos. Logo, uma  vez preenchidos os 
+requisitos regulamentares para  seu exercício,  o  direito  à visita  íntima    não 
+pode ser  obstado injustificadamente, sob pena de a restrição transcender a 
+pes
+[/PAGINA 45]
+
+[PAGINA 46]
+soa do condenado, atingindo terceiros.
+A transcendência da pena aos familiares e aos amigos   da pessoa presa 
+igualmente se verifica com o recolhimento dela em estabelecimento distante 
+do  local onde  possui  laços de  convívio  social. Trata-se de  medida 
+desalinhada com o princípio da humanidade, que expropria dos familiares e 
+dos  amigos a  man utenção  de contato  e vínculos afetivos, além da 
+oportunidade (e  possibilidade  financeira) de  oferecer assistência  ao  preso, 
+reduzindo seu sofrimento e a correspondente dor de seus entes e amigos.
+Também deve ser entendida como  elemento  consagrador da 
+transcendência penal a proibição, imposta a familiares e até pais presos, de 
+visitar crianças que estejam em companh
+ia de su  as mães  encarceradas. Há
+
+claro  prejuízo  à preservação do  vínculo  familiar e  ao  reconh
+ecimento  de 
+outros personagens  do  círculo  de relacionamento  parental (art. 8º  da 
+Resolução n.  04/2009  do  Conselho  Nacional de  Política  Criminal   e 
+Penitenciária).  Nesse caso, devem ser  mirados a  preservação do  vínculo 
+familiar e  o  interesse superior da  criança  (nos  termos  do  Marco Legal da 
+Primeira Infância – Lei n. 13.257/2016).
+Vulnera igualmente a transcendência penal a exposição da pessoa presa 
+ao  sensacionalismo midiático  ou inconveniente notoriedade durante o 
+cumprimento da pena, considerando que sua família também é atingida pela 
+indevida exposição pública. Com efeito, a inviolabilidade da vida privada, 
+intimidade, honra   e im agem não se restringe às pessoas presas, aplicando-se 
+n
+a mesma medida a seu s familiares, como decorrência lógica da dignidade da 
+pessoa humana (art. 1º, III, da CF).
+Atualmente,  a transcendência da  pena  é  evidente  no  procedimento  de 
+revista de  visitantes.  A revista pode  ser definida  como  a   inspeção  que se 
+efetua, com fins de segurança, em todas as pessoas que pretendem ingressar 
+em locais de  privação de  liberdade  e  que  venham a  ter  contato  direto  ou 
+indireto  com pessoas privadas  de liberdade  ou com o  interior do 
+estabelecimento (art. 1º da Resolução CNPCP n. 05/2014).
+A  modalidade man ual  de  revista  é  institucionalizada,  a despeito da 
+recomendação de que ela só deve se efetuar em caráter excepcional (art. 1º, 
+parágrafo  único,  da Resolução  CNPCP n.  05/2014).  Além de 
+institucionalizada, muitas vezes, a revista é realizada em local não reservado 
+e sem preservar a honra   e a dignidade do revistando.
+Nesse contexto, um  dos mais  nefastos efeitos transcendentes da pena diz 
+respeito à revista íntima    vexatória de visitantes, com a obrigatoriedade de 
+n
+udez (parcial ou total) e colocação em posições constrangedoras.
+Nesse contexto, o art. 2º da Resolução CNPCP n. 05/2014 estabelece que 
+são vedadas quaisquer formas de revista vexatória, desumana ou degradante, 
+como  desnudamento  parcial ou  total, qualquer conduta que implique a 
+introdução de objetos nas cavidades corporais da pessoa revistada, uso de 
+cães
+[/PAGINA 46]
+
+[PAGINA 47]
+ou animais farejadores, ainda que treinados para esse fim e agachamento 
+ou saltos.
+As revistas vexatória, desumana ou degradante são formas aviltantes de 
+tratamento aos visitantes, sobretudo a íntima em mulheres, em clara colisão 
+com a dign
+idade humana (art. 1º, III, da CF) e o direito constitucional à
+
+intimidade (art.  5º,  X).
+62
+  Logo,  qualquer apreensão  obtida com  a  revista 
+íntima deve ser considerada prova obtida por meios ilícitos (inadmitidas por
+ 
+força do art. 5º, LVI, da CF).
+63
+ Em uma  era de farta disponibilidade de meios 
+tecnológicos (ex.:  detectores de  metal,  aparelhos de  raios X, scanners 
+corporais etc.), simplesmente n
+ão se justifica, em nome   da pretensa segurança 
+penitenciária, a man utenção dessa arcaica prática pelo Estado.
+Em nome do princípio da transcendência mínima, deveria ser  realizada 
+não a   revista (sobretudo íntima) no visitante, mas  a revista (não vexatória) na 
+própria pessoa presa,
+64
+ em seu retorno da  visitação para a galeria ou a cela. É 
+a  medida mais consentânea com o  princípio  da h
+umanidade,  além de 
+evidentemente mais   prática para  o  trabalho  fiscalizatório  da administração 
+penitenciária.  Aliás,  é  o  que preceituava  o  art.  5º da  revogada  Resolução 
+CNPCP n
+.  09/2006: “a  critério da  Administração  Penitenciária a  revista 
+man ual será feita, sempre que possível, no preso visitado, logo após a visita, 
+e não no visitante”.
+Igu
+almente em nome  do  princípio  da transcendência mínima,  deve ser 
+legalmente admitida a su spensão da prisão de mães (e até de pais), sempre 
+que   tal  medida for  imprescindível à  satisfação do  melhor interesse das 
+crianças.  Aplica-se aqui  o  disposto no  Marco Legal da  Primeira  Infância
+(Lei   n.  13.257/2016).  A propósito, as  Regras  das  Nações Unidas para  o 
+tratamento de mu lheres presas  e medidas não privativas de  liberdade  para 
+mu lheres infratoras,  também conhecidas como  Regras de  Bangkok, 
+recomendam a  possibilidade  de  suspensão  da detenção  daquelas,  por um 
+período  razoável,  levando-se em  consideração  o melhor interesse das 
+crianças (Regra 2).
+Observado sob a ótica redutora de danos, o princípio da transcendência 
+mínima g
+anha  novos contornos.  Sob nova  perspectiva, assim como  a   pena 
+deve passar o mínimo possível da pessoa do condenado, fatores externos ao 
+evento  delitivo  concreto  igualmente devem passar o  mínimo  possível à 
+pessoa do condenado.
+Essa nova visão traz alguns efeitos importantes. Inicialmente, a refutação 
+de  todas as  considerações de  índole  preventiva  em detrimento  da pessoa 
+presa.  Em outros  termos,  não  se pode  admitir  a  imposição  de rigor 
+penitenciário a alguém apenas como necessidade de ex  emplo aos demais.
+
+Outro efeito é a  im possibilidade de  utilização, em desfavor da  pessoa 
+presa, de critérios eminentemente abstratos, tais como o suposto avanço da 
+criminalidade ou a g
+ravidade em tese de determinada espécie delitiva, fatos 
+esses alheios ao
+[/PAGINA 47]
+
+[PAGINA 48]
+próprio nexo de responsabilidade entre pessoa presa e fato 
+delitivo.
+Também pode ser  constatada a  ilegitimidade da  apuração  judicial da 
+personalidade da pessoa presa a partir de sua comparação com determinado 
+padrão moral de personalidade, ou ainda, sua conferição com a personalidade 
+do chamado “homem médio”. Ambos os procedimentos advêm, na verdade, 
+da frustração pela não conformação a uma  personalidade esperada.
+Ademais, mostra-se imperiosa a vedação do maior rigor penitenciário a 
+partir de  considerações que  se  revelem simples  frutos  dos  valores, dos 
+preconceitos,  das experiências ou  da  personalidade  do magistrado.  A 
+severidade penitenciária, aqui, n
+ão é   imputável à pessoa presa, uma  vez que 
+se  funda  exclusivamente em  convenções relativas  à individualidade do 
+magistrado.
+A  violação do  princípio  da transcendência mínima também  pode ser 
+percebida na  proibição de  visitação, imposta quando  visitantes estão 
+cumprindo pena em regime   aberto ou livramento condicional. Aqui, não pode 
+a pessoa presa ser prejudicada com a supressão do direito de receber visitas, 
+apenas pelo fato de seu visitante cumprir (ou já ter cumprido) pena ou estar 
+em livramento condicional.
+A  propósito, o  STJ já  se  manifestou no  sentido  de que  o  direito  de 
+visitação,  com  o  objetivo  de ressocialização do  apenado, não  pode ser 
+negado  à companheira  do  condenado,  por ela  estar cumprindo  pena por 
+tráfico de drogas sob o regime aberto, uma  vez que esse só lhe  restringe os 
+direitos atingidos pelo efeito da sentença condenatória, e não ao gozo dos 
+demais direitos  individuais (STJ, AgRg no  REsp  1487212/DF,  5ª T.,  j. 
+15-3-2016; AgRg no REsp 1556908/DF, 6ª T., j. 15-10-2015). O fato de o 
+visitante estar em  livramento  condicional,  por si  só,  também não  pode 
+impedir o acesso ao sistema prisional para visitação (STJ, AgRg no REsp 
+1475961/DF, 5ª T., j. 1º-10-2015).
+Pode ser também identificada, como efeito da nova perspectiva redutora 
+do princípio da transcendência mínima, a não pu  nição da pessoa presa quando 
+seu visitante (parente ou pessoa amiga)  pratica determinada conduta
+
+indevida (ex.:  discussão  infun
+dada com agentes,  envio  pelos Correios  ou 
+tentativa de  entrada no  estabelecimento  com drogas,  celulares ou  outros 
+objetos ilícitos), sem que aquela possua qualquer responsabilidade.
+Em  alguns  casos  concretos nos  quais  visitantes  enviaram objetos 
+proibidos (ex.: aparelho celular, bateria, chip e pedaços de serra) às pessoas 
+presas,  via SEDEX, o  Superior Tribu nal  de  Justiça entendeu que,  em 
+decorrência  do  princípio  da intranscendência penal,  a imposição  de falta 
+grave ao executado, por transgressão realizada por terceiro, deve ser afastada 
+quando não  comprovada a  au  toria  do  apenado  por meio  de elementos 
+concretos (STJ, AgRg no HC510838/MG, 6ª T., j. 20-8-2019; HC399047/SP, 
+5ª T., j. 08-8-2017).
+Nesse caso, pun
+ir  a pessoa presa significa transcender a ela o
+[/PAGINA 48]
+
+[PAGINA 49]
+s efeitos 
+penais motivados por  terceiros, em  transgressão  ainda ao  princípio  da 
+culpabilidade.
+Por  fim,  há  que  se  en  fatizar que  a  in eficiência  do  Estado  (ex.: prover 
+estudo  e trabalho  para fins  de  remição,  oferecer condições dignas  de 
+encarceramento,  evitar a  superlotação) não  pode ensejar a  restrição de 
+direitos, nem ser  argumento  para a  man utenção  de qualquer violação aos 
+direitos humanos das  pessoas  presas, considerando  que toda  forma  de 
+tratamento desumano ou degradante é ato que   transcende a sim ples privação 
+da liberdade e que, por isso, torna ilegal a prisão.
+1.9. Princípio da presunção de inocência
+O princípio da presunção (na verdade, estado) de inocência remonta   ao 
+art. 9º da Declaração dos Direitos do Homem e do Cidadão de 1789 (“Tout 
+homme   étant présumé   innocent jusqu’à ce  qu’il  ait été  déclaré  coupable”), 
+sendo  concebido no  intuito  de assegurar  garantias àqueles  que,  até então, 
+eram unicamente vistos como objeto do processo.
+Modernamente,  o  princípio  encontra-se contemplado na  Declaração 
+Universal dos Direitos do Homem de 1948 (“toda pessoa acusada de um ato 
+delituoso tem o direito de ser presumida  inocente, até que a su a culpabilidade 
+tenha sido provada de acordo com a lei, em julgamento público no qual lhe 
+tenham sido asseguradas todas as garantias necessárias à sua   defesa” – art. 
+XI) e no Pacto Internacional sobre Direitos Civis e Políticos da ONU (tanto 
+no direito das pessoas processadas no sentido de
+
+receberem tratamento distinto, condizente com sua condição de pessoa n
+ão 
+condenada  –  art.  10,  item 2,  alínea a  –,  quanto no  comando  de que  “toda 
+pessoa acusada  de  um  delito terá  direito a  que  se  presuma   sua  inocência 
+enquanto não for legalmente comprovada sua culpa” – art. 14, item 2).
+Por sua vez, o Pacto de San Jose da Costa Rica, em seu art. 8º, item 2, 
+estabelece que  “toda  pessoa  acusada de  um  delito tem  direito a  que  se 
+presuma  sua inocência, enquanto não for legalmente comprovada sua culpa”. 
+No  Conjunto  de Princípios da  ONU para  a  proteção de  todas as  pessoas 
+sujeitas a qualquer forma de detenção ou prisão, a presunção de inocência 
+aparece em dois momentos: na ordem de que a pessoa detida seja beneficiada 
+por  um  tratamento  adequado  à sua  condição  de pessoa não condenada e, 
+sempre que possível, seja separada das pessoas condenadas (Princípio 8) e na 
+assertiva de que a pessoa detida, suspeita ou acusada da prática de in  fração 
+penal presume-se inocente,  devendo  ser tratada como  tal até  que  a  su  a 
+culpabilidade tenha sido legalmente estabelecida no decurso de um processo 
+público em que tenha gozado de todas as garantias necessárias à sua defesa 
+(Princípio 36).
+No Brasil, como se sabe, o princípio decorre do preceito constitucional 
+segundo o qual “ninguém  será considerado culpado até o trânsito em julgado 
+de  sentença penal  condenatória” (art.  5º,  LVII,  da CF). Apesar de  soar
+[/PAGINA 49]
+
+[PAGINA 50]
+paradoxal, o princípio da presunção (estado) de inocência também é aplicável 
+a  pessoas já  definitivamente condenadas,  sobretudo  quando  elas são 
+submetidas a processo administrativo em virtude de acusação pela prática de 
+falta disciplinar, durante a ex ecução da pena.
+Na  verdade, diversas são  as  ocorrências, no  curso  do  processo  de 
+execução  penal,  que envolvem direta ou  indiretamente  o  princípio  de 
+inocência.
+A vedação aos direitos da execução penal com fun
+damento na existência 
+de  inquérito  ou outra  ação penal em  curso  (o  que alegadamente tornaria 
+indefinida a situ ação processual do condenado) representa nítido desrespeito 
+ao princípio da presunção de inocência, porquanto importa em antecipação de 
+juízo condenatório (nesse sentido, conferir STF, HC 79.497/RJ, 2ª T., j.
+19-10-1999; HC 99.141/SP, 1ª T., j. 29-3-2011).
+O art. 52 da Lei  de Execução Penal sofre críticas por permitir que presos 
+provisórios,  sobre os  quais  paira a  presun
+ção  de inocência,  possam ser 
+submetidos ao regime   disciplinar diferenciado (RDD), com todos os seus
+
+g
+ravames. Semelhante crítica é formulada em relação à norma do inciso II do 
+§ 1º  do mesmo  art.  52,  segundo  a qual  “sob os  quais  recaiam fundadas 
+suspeitas de envolvimento ou participação, a qualquer título, em organização 
+criminosa,  associação  criminosa ou milícia privada, independentemente da 
+prática de  falta grave”.  Nesse caso, afirma-se que  o  preso não  pode ser 
+submetido ao RDD apenas por fundadas suspeitas de envolvimento, exigindo-
+se, sim, o devido juízo de certeza quanto ao fato.
+Tanto  a execução  provisória da  pena  de  mu lta  quanto  a expedição 
+provisória de guia de recolhimento (“execução antecipada da pena”, também 
+chamada de “execução provisória da pena”) àqueles que se en  contram soltos 
+durante o processo ofendem o princípio da presunção de inocência.
+São discutíveis a regressão cautelar de regime   e a aplicação de sanção 
+disciplinar pela suposta prática de crime doloso, antes de operado o trânsito 
+em  julgado  da decisão penal condenatória.  Igualmente questionável,  por 
+violação  da presunção  de inocência,  é a  monitoração  eletrônica a  presos 
+provisórios, medida essa  impositiva de  prévia  e  informal constrição  à 
+liberdade de alguém meramente suspeito da prática de crime.
+A necessidade de  que  o  preso  aguarde  –  recolhido no  estabelecimento 
+penal federal  de segurança máxima  –  decisão  do  juízo  federal quanto  à 
+renovação de sua permanência na referida unidade (art. 10, § 3º, da Lei  n. 
+11.671/2008),   bem como,   rejeitada a   renovação,   permaneça no 
+estabelecimento  penal federal  enquanto não  decidido  o  conflito  de 
+competência entre o juízo de origem e o juízo federal são também exemplos 
+de vulneração da presunção de inocência.
+Por  força do  princípio,  é possível ainda  fundamentar  o  cabimento  do 
+indulto e da comutação de pena, ainda que a pessoa condenada seja ré em 
+outro processo crimina
+[/PAGINA 50]
+

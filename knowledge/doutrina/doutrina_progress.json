@@ -1,0 +1,243 @@
+{
+  "ultimaExecucao": "2026-01-21T12:32:43.566Z",
+  "arquivos": {
+    "#Caderno Sistematizado de Direito Constitucional - Parte I (2018).pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 282,
+      "arquivosGerados": 5,
+      "conclusao": "2026-01-21T12:12:04.936Z"
+    },
+    "#Código Brasileiro de Defesa do Consumidor - Comentado 12ª Ed. - Ada Pellegrini Grinover - OK.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1776,
+      "arquivosGerados": 26,
+      "conclusao": "2026-01-21T12:12:11.132Z"
+    },
+    "#Código de Processo Penal Comentado (2017) - Renato Brasileiro.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1928,
+      "arquivosGerados": 58,
+      "conclusao": "2026-01-21T12:15:32.234Z"
+    },
+    "#Código Penal Comentado (2017) - Guilherme de Souza Nucci.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 969,
+      "arquivosGerados": 37,
+      "conclusao": "2026-01-21T12:15:35.028Z"
+    },
+    "#Código Penal Comentado (2017) - Rogério Greco.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1930,
+      "arquivosGerados": 38,
+      "conclusao": "2026-01-21T12:15:45.689Z"
+    },
+    "#Direito-Administrativo-32ed - 2019 - Maria Sylvia Zanella.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1932,
+      "arquivosGerados": 25,
+      "conclusao": "2026-01-21T12:15:52.274Z"
+    },
+    "#Novo Código de Processo Civil Comentado (2017) - Elpídio Donizetti.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1461,
+      "arquivosGerados": 21,
+      "conclusao": "2026-01-21T12:16:03.962Z"
+    },
+    "#Novo Código de Processo Civil Comentado (2017) - Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1337,
+      "arquivosGerados": 57,
+      "conclusao": "2026-01-21T12:16:17.051Z"
+    },
+    "2019_1_Execucao_Penal_5a_edição.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 715,
+      "arquivosGerados": 9,
+      "conclusao": "2026-01-21T12:16:19.577Z"
+    },
+    "2019_2_Código_Penal_Comentado_10ª.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 2833,
+      "arquivosGerados": 37,
+      "conclusao": "2026-01-21T12:16:30.049Z"
+    },
+    "2020_1_Manual_de_Direito_Civil_10ª.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 2516,
+      "arquivosGerados": 39,
+      "conclusao": "2026-01-21T12:16:40.524Z"
+    },
+    "CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1603,
+      "arquivosGerados": 35,
+      "conclusao": "2026-01-21T12:16:50.252Z"
+    },
+    "CS - EXECUÇÃO PENAL - 2021.1.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 150,
+      "arquivosGerados": 3,
+      "conclusao": "2026-01-21T12:16:51.064Z"
+    },
+    "Curso de Direito Processual Civ - Humberto Theodoro Junior.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1559,
+      "arquivosGerados": 23,
+      "conclusao": "2026-01-21T12:16:57.160Z"
+    },
+    "Curso de Direito Processual Penal - Nestor Távora - 2017.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1841,
+      "arquivosGerados": 45,
+      "conclusao": "2026-01-21T12:17:07.270Z"
+    },
+    "Curso de Execução Penal -  Renato Marcão - 2019.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 496,
+      "arquivosGerados": 7,
+      "conclusao": "2026-01-21T12:17:09.038Z"
+    },
+    "Curso de Execução Penal - Guilherme de Souza Nucci - 2020.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 426,
+      "arquivosGerados": 6,
+      "conclusao": "2026-01-21T12:17:10.440Z"
+    },
+    "Código Civil Comentado - Doutrina e Jurisprudência - 1ª Edição.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 3265,
+      "arquivosGerados": 53,
+      "conclusao": "2026-01-21T12:17:24.034Z"
+    },
+    "Código Civil Comentado Doutrina e Jurisprudencia 2021.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 4605,
+      "arquivosGerados": 59,
+      "conclusao": "2026-01-21T12:17:40.586Z"
+    },
+    "Código de Processo Penal Comentado - Renato Brasileiro - 2017.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1928,
+      "arquivosGerados": 58,
+      "conclusao": "2026-01-21T12:17:49.411Z"
+    },
+    "Direito Administrativo - Maria Sylvia Zanella Di Pietro - 33º Edição - 2020.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1985,
+      "arquivosGerados": 25,
+      "conclusao": "2026-01-21T12:17:56.082Z"
+    },
+    "Direito Constitucional Esquematizado by Pedro Lenza.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 2330,
+      "arquivosGerados": 32,
+      "conclusao": "2026-01-21T12:18:05.400Z"
+    },
+    "Direito Imobiliario - Teoria E - Luiz Antonio Junior Scavone.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 1905,
+      "arquivosGerados": 40,
+      "conclusao": "2026-01-21T12:18:15.983Z"
+    },
+    "Execucao penal e criminologia_ - Erick de Figueiredo Maia.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 395,
+      "arquivosGerados": 5,
+      "conclusao": "2026-01-21T12:18:16.844Z"
+    },
+    "Execução Penal - Teoria Crítica - 5ª Edição - Rodrigo Duque Estrada Roig - 2021.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 569,
+      "arquivosGerados": 9,
+      "conclusao": "2026-01-21T12:18:18.877Z"
+    },
+    "Execução Penal.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 184,
+      "arquivosGerados": 4,
+      "conclusao": "2026-01-21T12:18:19.879Z"
+    },
+    "Guilherme_Nucci_2020_Código_de_Processo_Penal_Comentado_1_130520010700.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 2232,
+      "arquivosGerados": 35,
+      "conclusao": "2026-01-21T12:18:28.591Z"
+    },
+    "Legislação Penal Especial Esquematizado (2017) - Victor Eduardo Rios Gonçalves e José Paulo Baltazar Junior.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 914,
+      "arquivosGerados": 13,
+      "conclusao": "2026-01-21T12:18:31.928Z"
+    },
+    "Lei de Execução Penal para Concursos (2017) - Rogério Sanches Cunha.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 363,
+      "arquivosGerados": 9,
+      "conclusao": "2026-01-21T12:18:33.075Z"
+    },
+    "Nestor Távora - Código de Processo Penal para Concursos - 2015.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 800,
+      "arquivosGerados": 36,
+      "conclusao": "2026-01-21T12:18:40.397Z"
+    },
+    "Pacote Anticrime — Lei 13.9642019 Comentários às Alterações no CP, CPP e LEP by Rogério Sanches Cunha.pdf": {
+      "status": "concluido",
+      "camadaUsada": "tesseract",
+      "paginasTotal": 248,
+      "arquivosGerados": 5,
+      "conclusao": "2026-01-21T12:32:27.807Z"
+    },
+    "Processo Penal -  Norberto Avena - 2017 .pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 924,
+      "arquivosGerados": 29,
+      "conclusao": "2026-01-21T12:32:30.080Z"
+    },
+    "Renato Brasileiro de Lima - Legislação Criminal Especial Comentada - 2016.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 972,
+      "arquivosGerados": 26,
+      "conclusao": "2026-01-21T12:32:35.419Z"
+    },
+    "Rogério Sanches Cunha - Código Penal para Concursos - 2015.pdf": {
+      "status": "concluido",
+      "camadaUsada": "pdf-parse",
+      "paginasTotal": 916,
+      "arquivosGerados": 39,
+      "conclusao": "2026-01-21T12:32:43.566Z"
+    }
+  }
+}

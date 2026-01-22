@@ -1,0 +1,1936 @@
+[META]
+TITULO: CPC 2016 Comentado José Miguel Garcia Medina
+AUTOR: 3ª ed.  2016 -
+ANO: N/A
+EDICAO: 3
+EDITORA: RT
+PAGINAS: 1401-1450
+ARQUIVO_ORIGINAL: CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf
+CITACAO_ABNT: -, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..
+[/META]
+
+[PAGINA 1401]
+e	mérito)	ou	terminativa	(processual)	–	IV.
+Decisão	que	não	julga	o	mérito,	mas	impede	a	repropositura	da	demanda	–	V.	Decisão	que	não	julga	o
+mérito,	mas	impede	a	admissibilidade	do	recurso	correspondente	–	VI.	Forma	da	decisão	rescindível:
+sentença	ou	decisão	interlocutória,	acórdão	ou	decisão	monocrática	–	VII.	Capítulos	da	decisão
+rescindenda.	Cabimento	de	ação	rescisória	quanto	aos	honorários	advocatícios	sucumbenciais	–	VIII.
+Fundamentos	da	ação	rescisória.	Visão	geral	–	IX.	Prevaricação,	concussão	e	corrupção	do	juiz.
+Ausência	de	animus	judicandi	–	X.	Impedimento	do	juiz	–	XI.	Incompetência	do	juízo	–	XII.	Dolo	ou
+coação	da	parte	vencedora.
+Simulação	ou	colusão	entre	as	partes	–	XIII.	Ofensa	à	coisa	julgada	–	XIV.	Violação	manifesta	à	norma
+jurídica.	Aplicação	de	regra	ou	de	princípio	jurídico	–	XV.	Violação	à	norma	não	referida	expressamente
+
+na	decisão	rescindenda.	Dispensa	de	prequestionamento	–	XVI.	Texto	legal	de	interpretação
+controvertida	na	jurisprudência.	Súmula	343	do	STF	–	XVII.	Falsidade	(ideológica	ou	material)	de
+prova.	Laudo	pericial	errôneo;	XVIII.	Prova	nova.	Abrangência	–	XIX.	Erro	de	fato	–	XX.	Réu	não
+citado.	Cabimento	de	ação	rescisória	ou	declaratória.	Fungibilidade	–	XXI.	Mandado	de	segurança
+contra	decisão	judicial	–
+XXII.	Atos	homologados	pelo	juízo.	Ação	anulatória.
+I.	Meios	de	impugnação	às	decisões	judiciais.	Recursos	e	ações	autônomas	de	impugnação.	Os	meios
+de	impugnação	às	decisões	judiciais	podem	ser	classificados	em	recursos	e	ações	autônomas	(sobre	os
+recursos,	cf.	comentário	ao	art.	994	do	CPC/2015;	a	respeito,	sob	o	prisma	do	CPC/1973,	cf.	o	que
+escrevemos	em	O	prequestionamento.	.	cit.,	3.	ed.,	2002,	n.	1.2,	p.	43
+ss.).	As	ações	autônomas	de	impugnação	se	caracterizam	por	formar	relação	processual	distinta	daquela
+em	que	foi	proferida	a	decisão	impugnada	(não	consideramos,	pois,	o	trânsito	em	julgado,	mas	a
+formação	de	outra	relação	processual,	o	elemento	distintivo	entre	recursos	e	ações	autônomas	de
+impugnação;	semelhantemente,	cf.	José	Carlos	Barbosa	Moreira,	Comentários.	.	cit.,	n.	135,	p.	232-233;
+em	relação	ao	direito	processual	civil	alemão,	cf.	Leo	Rosenberg,	Tratado	de	derecho	procesal	civil,	t.
+II,	p.	349;	Othmar	Jauernig,	Direito	processual	civil,	§	76,	p.	394).	A	partir	do	art.	966,	o	CPC/2015
+dispõe	sobre	ação	rescisória,	através	da	qual	podem	ser	rescindidas	decisões	judiciais	transitadas	em
+julgado.	Além	da	ação	rescisória,	pertencem	à	categoria	das	ações	autônomas	de	impugnação	a	ação
+anulatória	(cf.	§	4.º	do	art.	966	do	CPC/2015),	a	reclamação	(arts.	988	ss.	do	CPC/2015)	e	a	ação
+declaratória	de	inexistência	(ou	ineficácia,	a	depender	da	perspectiva	que	se	adote,	por	muitos	chamada
+de	actio	nullitatis	ou	de	querela	nullitatis	insanabilis).	Também	o	mandado	de	segurança	pode	ser
+considerado	como	ação	autônoma	de	impugnação,	embora	também	seja	visto	como	sucedâneo	recursal.
+Sobre	ação	anulatória	e	da	ação	declaratória,	cf.	itens	finais	do	comentário	ao	presente	artigo;	sobre
+reclamação,	c
+[/PAGINA 1401]
+
+[PAGINA 1402]
+f.	comentário	aos	arts.
+988	ss.	do	CPC/2015;	sobre	mandado	de	segurança	contra	ato	judicial,	cf.	comentário	infra,	e,	também,	o
+que	se	diz	no	comentário	aos	arts.	1.009	e	1.015	do	CPC/2015.
+II.	Ação	rescisória.	A	ação	rescisória	é	ação	autônoma	de	impugnação	(cf.	comentário	supra).	Trata-se
+de	ação	de	conhecimento	constitutiva	negativa,	tendo	por	finalidade	rescindir	decisões	transitadas	em
+julgado.	Como	afirma	Pontes	de	Miranda,	“é	ação	para	destruir	a	coisa	julgada	formal	das	sentenças
+proferidas”	(	Tratado	das	ações,	t.	4,	§	240).	Essa	circunstância	(eliminar	a	coisa	julgada	formal)	é,	por
+assim	dizer,	o	que	de	básico	ocorre,	quando	se	julga	procedente	o	pedido	na	ação	rescisória.	Ao	se
+romper	essa	película	que	envolve	o	processo,	ver-se-á	o	que	se	deverá	fazer,	se	presente	o	vício	que
+justificou	o	ajuizamento	da	ação	rescisória.	Não	integram	o	conceito	de	ação	rescisória	a	circunstância
+de	voltar-se	contra	decisão	de	mérito	(embora	isso	pudesse	ser	inferido	do	art.	485,	caput,	do
+CPC/1973;	cf.	comentário	a	seguir),	nem	a	revisão	da	decisão	ou	um	novo	julgamento	da	causa	(algo	que
+pode,	ou	não,	ocorrer),	pois	o	que	se	vai	fazer	depois	da	rescisão	da	decisão	depende	do	vício	que
+serviu	de	fundamento	à	ação	rescisória	(pode-se	apenas	rescindir	a	decisão	que	violou	a	coisa	julgada;
+pode-se	rescindir	a	decisão	porque	no	processo	houve	vício	de	atividade,	impondo-se	a	decretação	da
+nulidade	dos	atos	processuais	praticados	a	partir	de	dado	momento;	pode-se,	também,	diante	de	vício	de
+juízo,	se	rejulgar,	mas,	como	se	dis-se,	isso	é	eventual,	como	dão	conta	os	arts.	968,	I	e	974,	caput	do
+CPC/2015).
+III.	Conteúdo	da	decisão	rescindível.	Decisão	definitiva	(de	mérito)	ou	terminativa	(processual).
+
+Tanto	decisões	definitivas	(de	mérito)	quanto	terminativas	(processuais)	podem	ser	atacadas	por	ação
+rescisória	(quanto	às	decisões	homologatórias,	v.	§	4.º	do	art.	966;	a	respeito,	cf.	comentário	infra).	O
+CPC/1939	não	restringia	o	cabimento	da	ação	rescisória	às	decisões	de	mérito	(cf.	art.	798	do
+CPC/1939).	O	art.	485,	caput,	do	CPC/1973	restringia	o	cabimento	da	rescisória	às	decisões	de	mérito,
+o	que	era	aceito	com	críticas	por	parte	da	doutrina	(cf.,	dentre	outros,	Barbosa	Moreira,	Comentários.	.
+cit.,	n.	69,	p.
+109:	“Rescindível	é	apenas,	no	sistema	do	atual	Código	[de	1973],	‘a	sentença	de	mérito’.	No	direito
+anterior	[CPC/1939],	era	possível	rescindir	decisões	não	definitivas,	quer	dizer,	que	não	julgassem	o
+meritum	causae.	Ao	nosso	ver,	teria	sido	preferível	manter	o	mesmo	princípio”),	enquanto	outros
+afirmavam	que,	no	caso,	haveria	grave	erro	de	redação,	devendo-se
+admitir	a	ação	rescisória	contra	as	sentenças	em	geral	(assim,	cf.	Pontes	de	Miranda,	Tratado	da	ação
+rescisória,	2.	ed.,	p.164:
+“repetidamente	temos	de	lamentar	que	o	legislador	de	1973	haja	posto	no	primeiro	artigo	sobre	a	ação
+rescisória,	a	que	dedicou	o	Capítulo	IV	do	Título	IX,	constante	do	Livro	I,	a	referência	a	sentença	de
+mérito,	porque	não	só	sentenças	de	mérito	são	rescindívei
+[/PAGINA 1402]
+
+[PAGINA 1403]
+s,	e	não	se	pode	receber	erro	tão	grave	de
+redação”).	Na	jurisprudência	que	se	formou	na	vigência	do	CPC/1973,	controvertia-se,	a	respeito,	mas
+preponderava	a	orientação	no	sentido	de	não	ser	cabível	a	ação	rescisória,	em	se	tratando	de	decisão
+terminativa	(cf.,	a	respeito,	debates	realizados	nos	seguintes	julgados:	restringindo	o	cabimento	da	ação
+rescisória	às	decisões	de	mérito,	cf.	STJ,	REsp	474.022/RS,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.
+28.04.2009;	admitindo	ação	rescisória	contra	decisões	que	resolvem	o	mérito,	cf.	STJ,	REsp
+1.217.321/SC,	rel.	p/	Acórdão	Min.	Mauro	Campbell	Marques,	2.ª	T.,	j.	18.10.2012).	O	CPC/2015
+aproximou-se	do	CPC/1939,	quanto	ao	ponto,	pois	admite	ação	rescisória	também	contra	decisões	que
+não	sejam	de	mérito,	desde	que	impeçam	a	nova	propositura	da	demanda	ou	a	admissibilidade	do	recurso
+correspondente	(cf.	§	2.º	do	art.	966	do	CPC/2015).	Vê-se,	pois,	que	nem	toda	decisão	que	não	julgue	o
+mérito	será	rescindível,	mas	somente	aquela	que	se	encartar	numa	das	hipóteses	previstas	no	§	2.º	do	art.
+966	do	CPC/2015.	Cf.	comentário	a	seguir.
+IV.	Decisão	que	não	julga	o	mérito,	mas	impede	a	repropositura	da	demanda.	De	acordo	com	o	art.
+966,	§	2.º,	I,	do	CPC/2015,	é	rescindível	“a	decisão	transitada	em	julgado	que,	embora	não	seja	de
+mérito,	impeça	[.	.]	I	–	nova	propositura	da	demanda”	(cf.	também	comentário	supra).	Assim,	por
+exemplo,	a	decisão	que	reconheça	a	ausência	de	legitimidade	da	parte,	de	acordo	com	a	dicção	legal,	não
+resolve	o	mérito	(cf.	art.	485,	VI,	do	CPC/2015),	mas	impede	a	repropositura	da	mesma	demanda	(cf.	art.
+486,	§	1.º,	do	CPC/2015),	sendo,	portanto,	rescindível,	ex	vi	do	art.	966,	§	2.º,	I,	do	CPC/2015.	Nota-se,
+aí,	algo	similar	ao	efeito	negativo	da	coisa	julgada	que	se	opera,	quando	proferida	decisão	de	mérito	(cf.
+comentário	aos	arts.	486	e	502	do	CPC/2015).
+V.	Decisão	que	não	julga	o	mérito,	mas	impede	a	admissibilidade	do	recurso	correspondente.	O	art.
+966,	§	2.º,	II,	do	CPC/2015	admite	ação	rescisória	contra	decisão	que	“embora	não	seja	de	mérito,
+impeça	[.	.]	admissibilidade	do	recurso	correspondente”.	Trata-se	de	figura	mais	restrita,	que	não	se
+coloca	em	paralelo	à	referida	no	inciso	anterior	do	mesmo	parágrafo	(cf.	comentário	supra).	No	caso
+referido	no	inc.	II,	deve-se	estar	diante	de	decisão	que	não	admitiu	recurso	e	que,	com	isso,	gerou
+situação	que	impede	a	rediscussão	do	mérito	(ou,	com	outra	palavras,	com	a	não	admissão	errônea	do
+recurso,	surgiu	a	coisa	julgada	da	decisão	de	mérito,	ou	o	efeito	negativo	similar,	quando	decisão
+terminativa	impedir	a	repropositura	da	ação).	Diante	da	regra	prevista	no	art.	966,	§	2.º,	II,	do
+
+CPC/2015,	fica	superada	a	orientação	jurisprudencial	majoritária,	que	se	construiu	na	vigência	do
+CPC/1973,	no	sentido	de	que	“é	incabível	a	propositura	de	ação	rescisória	que	tenha	por	finalidade
+desconstituir	acórdão	que	inadmitiu	recurso,	ou	seja,	que	não	examinou	o	mérito	da	controvérsia”	(STJ,
+AgRg	nos	EREsp	1.111.939/PR,	rel.	Min.	João	Otávio	de	Noron
+[/PAGINA 1403]
+
+[PAGINA 1404]
+ha,	Corte	Especial,	j.	07.11.2012;	no
+mesmo	sentido,	dentre	outros,	STJ,	REsp	778.537/RS,	rel.	Min.	Luiz	Fux,	1.ª	T.,	j.	13.12.2005;	STJ,
+REsp	474.022/RS,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	28.04.2009;	STJ,	REsp	1.186.638/RJ,	rel.
+Min.	Castro	Meira,	2.ª	T.,	j.	27.04.2010).	Havia	poucas	decisões	no	sentido	contrário,	cf.	por	exemplo,	a
+proferida	pelo	STJ	no	julgamento	do	REsp	636.251/SP,	rel.	Min.	Menezes	Direito,	3.ª	T.,	j.	03.02.2005.
+Esse	julgado	cita,	em	seus	fundamentos,	as	razões	apresentadas	em	voto	proferido	pelo	Min.	Eduardo
+Ribeiro	no	julgamento	do	REsp	122.413	pelo	STJ:	“A	razão	de	ser	de	não	se	admitir	rescisória,	quando
+se	trate	de	decisão	alheia	ao	mérito,	reside	em	que	não	se	forma	a	coisa	julgada	material.	A	relação
+litigiosa	poderá	ser	objeto	de	exame	em	outro	processo.	Não	se	justificaria	rescindir	sentença
+simplesmente	terminativa.	Um	ponto,	pois,	é	fundamental.	A	rescisória	há	de	referir-se	sempre	a
+processo	em	que	a	lide	haja	sido	julgada.	Objetivará	modificar	diretamente	esse	julgamento	ou,	ainda
+indiretamente,	propiciar	que	o	seja.	No	primeiro	caso,	a	decisão	da	rescisória	substituirá	o	provimento
+de	mérito;	no	segundo,	ensejará	outro	julgamento,	de	que	também	resultará	essa	substituição,
+conservando-se	ou	não	o	mesmo	conteúdo	do	anterior.	Não	se	coloca	em	dúvida	a	importância	da	coisa
+julgada,	o	prestígio	que	se	há	de	emprestar	à	segurança	jurídica	que	resulta	da	sentença	irrecorrível.
+Entretanto,	não	se	haverá,	também,	de	conferir	interpretação	de	que	resultem	distinções	injustificáveis,
+tratandose	diversamente	situações	que	reclamam	o	sejam	de	maneira	uniforme.	Se	o	recurso	não	foi
+conhecido	em	virtude	de	falsidade	documental,	impedindo-se,	assim,	a	revisão	de	sentença	de	mérito,	há
+que	se	admitir	a	rescisória	para	corrigir	o	erro	e	dar	margem	a	seu	reexame.	O	entendimento	contrário
+levaria	a	resultados	de	todo	inaceitáveis.	Figure-se	hipótese	em	que	o	juiz	de	primeiro	grau	houvesse
+decidido	a	causa	de	maneira	inteiramente	errada,	por	má	avaliação	das	provas,	mas	sem	que	se
+apresentasse	razão	capaz	de	ensejar	a	rescisória.	Interposta	a	apelação,	dela	não	se	conhece,	prossigo
+com	o	exemplo,	por	ter-se	falsificado	uma	certidão,	circunstância,	entretanto,	até	então	não	conhecida.
+Inviável	o	especial,	por	tratar-se	de	matéria	de	fato,	dá-se	o	trânsito	em	julgado.	Descoberta	em	seguida
+a	falsidade,	a	vítima	da	fraude	nada	poderia	fazer,	tendo	de	suportar	os	efeitos	da	condenação	obtida
+dessa	forma.	Ao	tempo	em	que	integrei	o	Tribunal	Federal	de	Recursos,	tive	também	ocasião	de	me
+pronunciar	no	sentido	de	dar	ao	disposto	no	art.
+485	do	CPC	[de	1973,	correspondente	ao	art.	966	do	CPC/2015]	interpretação	que	fugia	a	sua
+literalidade	mas	que,	a	meu	sentir,	se	ajustava	à	razão	de	ser	da	norma.	Assim	é	que,	com	apoio	do
+colegiado,	considerei	cabível	a	rescisória,	tratandose	de	decisão	que	extinguisse	o	processo	com
+fundamento	na	existência	de	coisa	julgada”	(STJ,	REsp	122.413/GO,	rel.	Min.
+Menezes	Direito,	3.ª	T.,	j.	20.06.20
+[/PAGINA 1404]
+
+[PAGINA 1405]
+00).	Esse	modo	de	pensar,	aceito	pela	jurisprudência	minoritária	na
+vigência	do	CPC/1973,	é,	agora,	incorporado	pelo	art.	966,	§	2.º,	II,	do	CPC/2015.
+VI.	Forma	da	decisão	rescindível:	sentença	ou	decisão	interlocutória,	acórdão	ou	decisão
+monocrática.	Importa,	para	que	a	decisão	que	tenha	transitado	em	julgado	seja	rescindível,	que	a	mesma
+se	enquadre	numa	das	hipóteses	previstas	no	art.	966	do	CPC/2015.	A	decisão	pode	assumir	a	forma	de
+sentença	proferida	pelo	juízo	de	primeiro	grau	ou	de	decisão	interlocutória	(por	exemplo,	que	julga	parte
+do	mérito,	cf.	356	do	CPC/2015).	Pode,	ainda,	tratar-se	de	acórdão	(art.	204	do	CPC/2015)	ou	de
+decisão	monocrática	(como	no	caso	do	art.	932	do	CPC/2015).
+VII.	Capítulos	da	decisão	rescindenda.	Cabimento	de	ação	rescisória	quanto	aos	honorários
+
+advocatícios	sucumbenciais.	É	possível	o	ajuizamento	de	ação	rescisória	contra	um	ou	alguns	dos
+capítulos	da	decisão	(cf.	§	3.º	do	art.	966
+do	CPC/2015).	Essa	orientação	já	era	pacífica,	mesmo	na	vigência	do	CPC/1973,	a	despeito	da	ausência
+de	disposição	legal	nesse	sentido	(cf.	se	decidiu,	por	exemplo,	no	seguinte	julgado:	“A	ação	rescisória
+pode	objetivar	a	anulação	de	apenas	parte	da	sentença	ou	acórdão.	A	possibilidade	de	rescisão	parcial
+decorre	do	fato	de	a	sentença	de	mérito	poder	ser	complexa,	isto	é,	composta	de	vários	capítulos,	cada
+um	contendo	solução	para	questão	autônoma	frente	às	demais”	(STJ,	REsp	863.890/SC,	rel.	Min.	Nancy
+Andrighi,	3.ª	T.,	j.	17.02.2011).	A	ação	rescisória,	quanto	ao	capítulo	da	sentença	que	fixa	honorários
+advocatícios,	deve	ser	admitida	se	observada	uma	das	hipóteses	previstas	no	art.	966	do	CPC/2015.
+Assim,	“a	ação	rescisória	é	cabível	para	discutir	o	regramento	objetivo	da	fixação	da	verba	honorária,
+notadamente	quando	no	acórdão	rescindendo	inexiste	qualquer	avaliação	segundo	os	critérios	previstos
+nas	alíneas	a,	b	e	c	do	art.	20	do	CPC”	(STJ,	REsp	1.264.329/RS,	rel.
+Min.	Mauro	Campbell	Marques,	2.ª	T.,	j.	20.11.2012),	mas	“não	cabe	ação	rescisória	para	discutir	a
+irrisoriedade	ou	a	exorbitância	de	verba	honorária”	(STJ,	AgRg	no	AREsp	320.149/PE,	rel.	Min.
+Humberto	Martins,	2ª	T.,	j.	13.08.2013).
+VIII.	Fundamentos	da	ação	rescisória.	Visão	geral.	A	ação	rescisória	pode	ser	ajuizada	com	base	em
+errores	in	judicando	e	in	procedendo,	por	vícios	surgidos	na	decisão	rescindenda	ou	no	curso	do
+processo,	mas	que	acabam	inquinando	a	decisão	rescindenda.	Pode	tratar-se	de	vício	que	atinja	o
+consentimento	daquele	que	proferiu	a	decisão	(por	exemplo,	corrupção	do	juiz),	de	uma	das	partes	(dolo
+ou	coação),	ou	de	ambas	(simulação).	Pode,	ainda,	estar-se	diante	de	hipótese	em	que	a	decisão	não
+padece	de	vício	ou	de	erro,	mas,	diante	de	surgimento	de	elemento	que	antes	não	se	poderia	considerar,
+poderá	ser	reaberto	o	julgamento	(por	exemplo,	surgimento	de	prova	nova).	A	definição	dos	fundamentos
+que	justificam	o	ajuizamento	de	ação	rescisória	é,	mais	que	de	ordem	técnica,	de	ordem	política.	O	art.
+485	do	CPC/1973	ampliou	significativamente
+[/PAGINA 1405]
+
+[PAGINA 1406]
+o	rol	de	fundamentos	para	a	ação	rescisória,	se	comparado
+com	o	art.	798	do	CPC/1939.	O	art.	966	do	CPC/2015,	por	sua	vez,	significou,	em	relação	ao	dispositivo
+que	pode	ser	considerado	seu	antecessor,	como	que	uma	releitura,	ou	uma	atualização.	A	respeito	desses
+fundamentos,	cf.	comentário	infra.
+IX.	Prevaricação,	concussão	e	corrupção	do	juiz.	Ausência	de	animus	judicandi	.	A	decisão	é
+rescindível,	de	acordo	com	o	art.	966,	I,	do	CPC/2015,	quando	proferida	por	prevaricação,	concussão	ou
+corrupção	do	juiz	(situações	tipificadas,	respectivamente,	nos	arts.	319,	316	e	317	do	CP).	Segundo
+pensamos,	a	decisão	proferida	por	juiz	que	age	em	razão	dos	referidos	crimes	deve	ser	considerada
+juridicamente	inexistente,	já	que,	no	caso,	a	rigor,	não	se	pode	dizer	que	há,	em	uma	sentença	assim
+proferida,	animus	judicandi.	Trata-se,	na	verdade,	de	um	arremedo	da	sentença,	já	que,	nesse	caso,	uma
+vez	demonstrada	a	ocorrência	de	um	dos	delitos	indicados	no	inc.	I	do	art.	966	do	CPC/2015,	se	estará
+diante	da	prática	de	ato	criminoso	dissimulado	de	sentença.	Cf.	também,	a	respeito,	comentário	ao	art.
+144	do	CPC/2015.
+X.	Impedimento	do	juiz.	É	rescindível	a	sentença	proferida	por	juiz	impedido	(art.	966,	II,	1.ª	parte,	do
+CPC/2015).	Afirma-se,	na	doutrina,	que,	nesse	caso,	é	irrelevante	que	o	impedimento	haja	sido	alegado
+no	processo	em	que	se	proferiu	a	decisão	rescindenda,	e	mesmo	o	fato	de	não	haver	sido	acolhida	a
+alegação	não	impede	o	ajuizamento	de	ação	rescisória	(Sérgio	Rizzi,	Ação	rescisória	cit.,	p.	61).	A
+nosso	ver,	o	cabimento	de	ação	rescisória	em	caso	de	impedimento,	e	não	no	de	suspeição	do	juiz,
+assenta-se	em	distinção	artificial,	só	explicável	pelo	fato	de	o	impedimento	poder	ser	explicável	de
+
+modo	mais
+“objetivo”.	Ora,	tanto	o	juiz	impedido	quanto	o	juiz	suspeito	são	parciais,	e	a	demonstração	de	que	a
+causa	foi	julgada	por	juiz	nessas	condições	viola	o	direito	fundamental	ao	julgamento	da	causa	por	juiz
+imparcial	(cf.	comentário	ao	art.	144	do	CPC/2014).	Trata-se	de	vício	arguível	em	rescisória,	e	não	em
+impugnação	à	execução	de	decisão	judicial	(STJ,	AgRg	no	REsp	1.243.311/SP,	rel.	Min.	Paulo	de	Tarso
+Sanseverino,	3.ª	T.,	DJe	05.02.2015).
+XI.	Incompetência	do	juízo.	A	previsão	de	cabimento	de	ação	rescisória	contra	sentença	proferida	por
+juízo	absolutamente	incompetente	(CPC/2015,	art.	966,	II,	2.ª	parte)	destoa	do	que	prevê	a	lei	processual,
+em	sua	parte	geral.	Afinal,	consoante	dispõe	o	art.	64,	§	4.º,	do	CPC/2015,	o	reconhecimento	da
+incompetência	do	juízo	não	impõe,	necessariamente,	a	anulação	dos	atos	por	ele	praticados	(algo
+diverso,	pois,	do	que	dispunha	o	art.	113,	§	2.º,	do	CPC/1973).	Diante	disso,	a	previsão	de	cabimento	de
+ação	rescisória,	nesse	caso,	é	injustificável.	De	todo	modo,	julgado	procedente	o	pedido	veiculado	na
+ação	rescisória	com	base	nesse	fundamento,	deve-se	observar	o	que	dispõe	o	art.	64,	§	4.º,	do
+CPC/2015:	“Salvo	decisão	judicial	em	sentido	contrário,	conservar-se-ão	os	efeitos	de	decisão	proferida
+pelo	juízo	inco
+[/PAGINA 1406]
+
+[PAGINA 1407]
+mpetente	até	que	outra	seja	proferida,	se	for	o	caso,	pelo	juízo	competente”.	O
+acolhimento	da	ação	rescisória,	assim,	não	impõe	a	anulação	dos	atos	decisórios	proferidos	pelo	juízo
+incompetente	(solução	que	poderia	encontrar	amparo	no	art.	113,	§	2.º,	do	CPC/1973,	mas	não	no	art.	64,
+§	4.º,	do	CPC/2015).	Deve	o	tribunal,	em	princípio,	apenas	reabrir	a	causa,	desfazendo	a	coisa	julgada
+formal	que	se	operou,	a	fim	de	que	o	juízo	tido	por	competente	confira	se	é	o	caso	de	se	decidir
+novamente	aquilo	que	já	havia	sido	julgado	pelo	juízo	incompetente.
+XII.	Dolo	ou	coação	da	parte	vencedora.	Simulação	ou	colusão	entre	as	partes.	A	conduta	prevista	no
+art.	966,	III,	1.ª
+parte	relaciona-se	com	a	referida	nos	arts.	5.º	e	80	do	CPC/2015.	Decidiu-se	que	“o	dolo	do	III	do	art.
+485	não	é,	à	evidência,	de	natureza	material.	Trata-se	de	‘dolo	processual’,	próprio	do	litigante	de	má-
+fé”	(STJ,	AR	98/RJ,	1.ª	S.,	j.	28.11.1989,	rel.	Min.
+Adhemar	Maciel).	Para	que	seja	admissível	a	ação	rescisória,	deve	haver	nexo	causal	entre	o	dolo	e	a
+decisão,	que	seja	praticado	em	detrimento	da	parte	vencida	e	se	constitua	em	atos	praticados	pela	parte.
+Decidiu-se,	nesse	sentido,	que	“a	noção	de	dolo	traz	ínsita,	ainda,	a	ideia	de	que	a	parte	sucumbente
+sofreu	impedimento	ou	gravame	em	sua	atuação	processual”	(STJ,	REsp	656.103/DF,	4.ª	T.,	j.
+12.12.2006,	rel.	Min.	Jorge	Scartezzini).	Admissível	a	rescisória	com	base	no	dolo,	deve	sê-lo,	a
+fortiori,	com	base	na	coação	(nesse	ponto,	o	inc.	III	do	art.	966	do	CPC/2015	não	corresponde	ao	inc.	III
+do	art.	485
+do	CPC/1973).	No	caso	de	simulação	ou	colusão	entre	as	partes	(art.	966,	III,	2.ª	parte	do	CPC/2015),	o
+prazo	para	terceiro
+prejudicado	ou	Ministério	Público	ajuizarem	a	ação	começa	a	contar	“a	partir	do	momento	em	que	têm
+ciência	da	simulação	ou	da	colusão”	(art.	975,	§	3.º,	do	CPC/2015).	Sobre	esses	vícios,	à	luz	do	Código
+Civil,	cf.	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo.
+XIII.	Ofensa	à	coisa	julgada.	Quanto	já	tiver	havido	coisa	julgada	(isso	é,	verificadas	as	circunstâncias
+indicadas	nos	§§
+
+1.º,	2.º	e	4.º	do	art.	337	do	CPC/2015),	a	segunda	ação	é	inadmissível,	impedindo-se	a	prolação	de	nova
+decisão	sobre	o	mérito	(cf.	art.	485,	V,	do	CPC/2015;	semelhantemente,	em	relação	ao	processo	penal,	cf.
+STF,	HC	101.131,	rel.	p/	Acórdão	Min.	Marco	Aurélio,	1.ª	T.,	DJe	10.02.2012).	Uma	decisão	viole	a
+coisa	julgada	contraria	não	apenas	a	lei	processual,	mas	a	própria	Constituição,	pois,	assim	como	a	lei
+não	pode	prejudicar	a	coisa	julgada	(cf.	art.	5.º,	XXXVI,	da	CF/1988),	também	não	o	podem	as	decisões
+judiciais.	Deve	haver,	de	todo	modo,	identidade	entre	os	elementos	da	ação.	Decidiu-se,	corretamente,
+que,	no	caso,	a	ação	rescisória	“pressupõe	a	existência	de	duas	decisões	sobre	a	mesma	relação	jurídica
+para	a	configuração	da	ofensa	à	coisa	julgada.	Na	presente	hipótese	não	resta	configurada	a	suposta
+violação,	tendo	em	vista	que	o	pedido	se	limita	à	aplicação	de	precedente	do	Su
+[/PAGINA 1407]
+
+[PAGINA 1408]
+premo	Tribunal	Federal,
+que	somente	produziu	coisa	julgada	entre	as	partes	que	litigaram	no	feito,	não	possuindo	efeito	erga
+omnes	e	tampouco	efeito	vinculante”	(STJ,	EDcl	na	AR	1.393/PB,	3.ª	Seção,	j.	24.11.2004,	rel.
+Min.	Gilson	Dipp).	Deve	também	haver	identidade	de	objetos:	“Não	há	ofensa	à	coisa	julgada	eis	que	a
+decisão,	mais	moderna,	que	concede	reintegração	de	posse	ao	ex-companheiro	sobre	um	dos	imóveis	do
+qual	é	cotitular,	não	contraria	coisa	julgada	de	ação	de	dissolução	de	sociedade	de	fato,	que	reconheceu	à
+ex-companheira	a	meação	sobre	este	e	um	outro	imóvel	adquiridos	pelo	par	durante	sua	vida	em	comum”
+(STJ,	REsp	219.792/MG,	4.ª	T.,	j.	18.12.2003,	rel.	Min.	Aldir	Passarinho	Jr.).	Admite-se	ação	rescisória
+para	“desconstituir	sentença	homologatória	de	cálculos,	quando	há	comprovação	de	que	não	está
+harmônica	com	a	decisão	proferida	no	processo	de	conhecimento”	(STJ,	REsp	866.298/PA,	1.ª	T.,	j.
+24.04.2007,	rel.	Min.	José	Delgado).	Sustentamos,	em	outro	estudo,	que	a	decisão	que	contraria	a	coisa
+julgada	não	poderia	ser	considerada	juridicamente	existente,	e	que	“o	manejo	da	ação	rescisória,	neste
+caso,	apesar	da	letra	da	lei,	é	prescindível.	Na	verdade,	já	que	se	trata	de	sentença	juridicamente
+inexistente,	que	não	tem	aptidão	para	transitar	em	julgado,	nada	há	a	desconstituir-se.	Há,	isto	sim,	única
+e	exclusivamente	uma	situação	de	inexistência	jurídica	a	declarar-se,	por	meio	de	ação	que	não	fica
+sujeita	a	um	lapso	temporal	pré-definido	para	ser	movida”	(cf.	O	dogma	da	coisa	julgada.	.	cit.,	n.	2.2,
+escrito	em	coautoria	com	Teresa	Arruda	Alvim	Wambier).	Esse	modo	de	pensar	contribui	para	que	se
+solucionem	problemas	especialmente	quando	ultrapassado	o	prazo	previsto	no	art.	975,	caput,	do
+CPC/2015.	Nesse	sentido,	assim	decidiu	recentemente	o	STJ,	em	que	se	reconheceu,	em	tal	caso,	a
+“inexistência	de	direito	de	ação	e,	por	conseguinte,	da	sentença	assim	proferida”,	sendo	admissível	a
+alegação	da	ofensa	à	coisa	julgada	até	mesmo	em	exceção	de	pré-executividade	(STJ,	REsp
+1.354.225/RS,	rel.	Min.	Paulo	de	Tarso	Sanseverino,	3.ª	T.,	j.	24.02.2015).	Sob	esse	prisma,
+rigorosamente,	o	ajuizamento	de	ação	rescisória	seria	desnecessário.	De	todo	modo,	enquanto	não
+ultrapassado	o	prazo	previsto	no	art.	975,	caput,	do	CPC/2015,	disporá	a	parte	também	da	ação
+rescisória	para	atacar	decisão	que	ofenda	a	coisa	julgada.
+XIV.	Violação	manifesta	à	norma	jurídica.	Aplicação	de	regra	ou	de	princípio	jurídico.	Deve	ser
+admitida	ação	rescisória	contra	decisão	de	mérito	que	manifestamente	viola	a	norma	jurídica	(art.	966,	V,
+do	CPC/2015).	Em	edições	anteriores	do	presente	estudo,	assim	sustentávamos	que	deveria	ser
+compreendida	a	expressão	“violar	literal	disposição	de	lei”,	constante	do	art.	485,	V,	do	CPC/1973.
+Nesse	sentido,	decidiu-se,	corretamente,	que	“a	exegese	relativa	à	letra	pura	da	lei	não	coincide	com	o
+conceito	de	norma,	a	qual	somente	se	revela	depois	da	atividade	intelectual	do	aplicador	do	direito.	Esse
+o	entendimento	da	Corte	em	relação
+[/PAGINA 1408]
+
+[PAGINA 1409]
+à	extensão	do	preceito	de	violação	a	‘literal	disposição	de	lei’	para
+o	cabimento	da	ação	rescisória,	tal	como	previsto	no	art.	485,	V,	do	CPC	[de	1973]”	(STJ,	REsp
+409.417/RS,	4.ª	T.,	j.	17.08.2010,	rel.	Min.	Luis	Felipe	Salomão).	Assim,	admite-se	também	ação
+rescisória	quando	houver	violação	a	norma	oriunda	de	princípio	jurídico.	Nesse	sentido	já	era	a
+jurisprudência,	na	vigência	do	CPC/1973:	“A	expressão	‘violar	literal	disposição	de	lei’,	contida	no	inc.
+V	do	art.
+
+485	do	CPC	deve	ser	compreendida	como	violação	do	direito	em	tese,	e	abrange	tanto	o	texto	estrito	do
+preceito	legal,	como	a	ideia	de	manutenção	da	integridade	do	ordenamento	jurídico	que	não	se
+consubstancie,	numa	determinada	norma	legal,	mas	que	dela	possa	ser	extraída,	a	exemplo	dos	princípios
+gerais	do	direito”	(STJ,	REsp	329.267/RS,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	26.08.2002;	no	mesmo
+sentido,	STJ,	EREsp	935.874/SP,	Corte	Especial,	j.	17.06.2009,	rel.	Min.	Arnaldo	Esteves	Lima;	STJ,
+REsp	1.412.667/RS,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	12.11.2013).	Aparentemente,	o	julgado	mais
+antigo	do	STJ	no	sentido	de	se	admitir	ação	rescisória	por	violação	a	princípio	jurídico	é	o	seguinte:
+STJ,	1.ª	Seção,	AR	822/SP,	j.	26.04.2000,	rel.	Min.
+Franciulli	Netto.	Sobre	a	diferença	entre	regra	e	princípio,	cf.	comentário	ao	art.	140	do	CPC/2015.
+XV.	Violação	à	norma	não	referida	expressamente	na	decisão	rescindenda.	Dispensa	de
+prequestionamento.	Não	se	exige	que	a	norma	que	se	afirme	violada	tenha	sido	referida	expressamente
+na	decisão	rescindenda.	“Para	a	rescisória,	por	literal	violação	de	lei,	não	é	necessário	que	a	decisão
+rescindenda	haja	emitido	juízo	sobre	a	disposição	legal	supostamente	violada	(art.	485,	V	[do	CPC/1973,
+correspondente	ao	art.	966,	V	do	CPC/2015]).	Admite-se	ação	rescisória	por	violação	de	lei,	mesmo	que
+a	decisão	rescindenda	não	tenha	emitido	juízo	sobre	o	dispositivo	supostamente	violado.	Na	ação
+rescisória	dispensa-se	prequestionamento”	(STJ,	REsp	791.199/SP,	3.ª	T.,	j.	06.03.2008,	rel.	Min.
+Gomes	de	Barros;	no	mesmo	sentido,	STJ,	AR	3.234/MG,	rel.	Min.	Luis	Felipe	Salomão,	2.ª	S.,	j.
+27.11.2013).	Já	se	decidiu,	no	entanto,	no	sentido	de	que,	não	tendo	sido	a	questão	enfrentada	na	decisão
+rescindenda,	a	ação	rescisória	é	inadmissível	(STJ,	AR	2.810/SP,	3.ª	Seção,	j.	12.12.2007,	rel.
+Min.	Laurita	Vaz).	A	respeito,	cf.	o	que	escrevemos,	mais	amplamente,	em	Prequestionamento	e
+repercussão	geral,	5.	ed.,	cit.
+XVI.	Texto	legal	de	interpretação	controvertida	na	jurisprudência.	Súmula	343	do	STF.	De	acordo
+com	a	Súmula	343
+do	STF,	“não	cabe	ação	rescisória	por	ofensa	a	literal	disposição	de	lei,	quando	a	decisão	rescindenda
+se	tiver	baseado	em	texto	legal	de	interpretação	controvertida	nos	tribunais”.	Nesse	sentido:	“Para	ser
+julgado	procedente,	o	pedido	rescindendo
+deduzido	em	ação	rescisória	fulcrada	no	inc.	V	do	art.	485	[do	CPC/1973,	correspondente	ao	art.	966,	V
+do	CPC/2015]	depende	necessariamente	da	existência	de	violação,	pela	decisão	rescindenda,	a	li
+[/PAGINA 1409]
+
+[PAGINA 1410]
+teral
+disposição	de	lei.	A	afronta	deve	ser	direta	–
+contra	a	literalidade	da	norma	jurídica	–	e	não	deduzível	a	partir	de	interpretações	possíveis,	restritivas
+ou	extensivas,	e	controvertidas	nos	Tribunais”	(STJ,	3.ª	T.,	AgRg	no	REsp	1.002.800/ES,	rel.	Min.	Nancy
+Andrighi,	j.	06.05.2008).	A	jurisprudência	era	pacífica	no	sentido	do	não	cabimento	de	ação	rescisória,
+ainda	que	a	orientação	jurisprudencial,	posteriormente,	tivesse	se	pacificado	no	sentido	afirmado	pelo
+autor	da	ação	rescisória.	Exemplo:	“Embora	a	tese	defendida	esteja	atualmente	sedimentada	nos	termos
+da	pretensão	dos	recorrentes,	o	acórdão	que	se	visa	desconstituir	fundamentou-se	na	análise	do	art.	50,
+IV,	a,	da	Lei	6.880/1980,	cuja	interpretação	se	deu	de	forma	razoável,	segundo	o	entendimento
+jurisprudencial	da	época,	razão	pela	qual	não	é	cabível,	no	caso	ora	examinado,	a	ação	rescisória	em
+função	do	disposto	na	Súmula	343	do	STF”	(STJ,	AgRg	no	REsp	843.536/CE,	5.ª	T.,	j.	15.04.2008,	rel.
+Min.	Laurita	Vaz).	Há	julgados	recentes,	no	entanto,	que	apontam	em	outra	direção.	A	Súmula	343	do	STF
+já	não	vinha	sendo	aplicada,	quando	se	tratasse	de	interpretação	de	norma	constitucional:	“1.	Na
+interpretação	do	art.	485,	V,	do	CPC	[de	1973,	correspondente	ao	art.	966,	V	do	CPC/2015],	que	prevê	a
+
+rescisão	de	sentença	que	‘violar	literal	disposição	de	lei’,	a	jurisprudência	do	STJ	e	do	STF	sempre	foi
+no	sentido	de	que	não	é	toda	e	qualquer	violação	à	lei	que	pode	comprometer	a	coisa	julgada,	dando
+ensejo	à	ação	rescisória,	mas	apenas	aquela	especialmente	qualificada.	2.	Na	esteira	desse	entendimento,
+editou-se	a	Súmula	343/STF,	segundo	a	qual
+‘não	cabe	ação	rescisória	por	ofensa	a	literal	dispositivo	de	lei,	quando	a	decisão	rescindenda	se	tiver
+baseado	em	texto	legal	de	interpretação	controvertida	nos	tribunais’.	3.	Ocorre,	porém,	que	a	lei
+constitucional	não	é	uma	lei	qualquer,	mas	a	lei	fundamental	do	sistema,	na	qual	todas	as	demais	assentam
+suas	bases	de	validade	e	de	legitimidade,	e	cuja	guarda	é	a	missão	primeira	do	órgão	máximo	do	Poder
+Judiciário,	o	Supremo	Tribunal	Federal	(CF,	art.	102).	4.	Por	essa	razão,	a	jurisprudência	do	STF
+emprega	tratamento	diferenciado	à	violação	da	lei	comum	em	relação	à	da	norma	constitucional,
+deixando	de	aplicar,	relativamente	a	esta,	o	enunciado	de	sua	Súmula	343,	à	consideração	de	que,	em
+matéria	constitucional,	não	há	que	se	cogitar	de	interpretação	apenas	razoável,	mas	sim	de	interpretação
+juridicamente	correta.	5.	Essa,	portanto,	a	orientação	a	ser	seguida	nos	casos	de	ação	rescisória	fundada
+no	art.	485,	V	[do	CPC/1973,	correspondente	ao	art.	966,	V	do	CPC/2015]:	em	se	tratando	de	norma
+infraconstitucional,	não	se	considera	existente	‘violação	a	literal	disposição	de	lei’,	e,	portanto,	não	se
+admite	ação	rescisória,	quando	‘a	decisão	rescindenda	se	tiver	baseado	em	texto	legal	de	interpretação
+controvertida	nos	tribunais’	(Súmula	343).	Todavia,	esse	enunciado	não	se	aplica	quando	se	trata	de
+‘texto’	constitucional.	6.	A	orientação	revela	duas
+[/PAGINA 1410]
+
+[PAGINA 1411]
+preocupações	fundamentais	da	Corte	Suprema:	a
+primeira,	a	de	preservar,	em	qualquer	circunstância,	a	supremacia	da	Constituição	e	a	sua	aplicação
+uniforme	a	todos	os	destinatários;	a	segunda,	a	de	preservar	a	sua	autoridade	de	guardião	da
+Constituição.	Esses	os	valores	dos	quais	deve	se	lançar	mão	para	solucionar	os	problemas	atinentes	à
+rescisão	de	julgados	em	matéria	constitucional.	7.	Assim	sendo,	concorre	decisivamente	para	um
+tratamento	diferenciado	do	que	seja	‘literal	violação’	a	existência	de	precedente	do	STF,	guardião	da
+Constituição.	Ele	é	que	justifica,	nas	ações	rescisórias,	a	substituição	do	parâmetro	negativo	da	Súmula
+343	por	um	parâmetro	positivo,	segundo	o	qual	há	violação	à	Constituição	na	sentença	que,	em	matéria
+constitucional,	é	contrária	a	pronunciamento	do	STF”	(STJ,	EREsp	608.122/RJ,	1.ª	Seção,	j.	09.05.2007,
+rel.	Min.
+Teori	Albino	Zavascki).	Essa	orientação	foi,	em	alguma	medida,	mitigada	recentemente	pelo	STF:	“O
+Verbete	343	da	Súmula	do	Supremo	deve	de	ser	observado	em	situação	jurídica	na	qual,	inexistente
+controle	concentrado	de	constitucionalidade,	haja	entendimentos	diversos	sobre	o	alcance	da	norma,
+mormente	quando	o	Supremo	tenha	sinalizado,	num	primeiro	passo,	óptica	coincidente	com	a	revelada	na
+decisão	rescindenda”	(STF,	RE	590.809,	rel.	Min.	Marco	Aurélio,	Pleno,	j.	22.10.2014).
+Decidiu	o	STJ	que	é	desnecessário	que	tenha	havido	prévia	manifestação	do	STF	a	respeito	da	matéria
+constitucional,	para	que	seja	admissível	a	ação	rescisória	fundada	em	violação	à	Constituição:	STJ,
+EREsp	687.903/RS,	Corte	Especial,	j.	04.11.2009,	rel.	Min.	Ari	Pargendler.	Segundo	pensamos,	embora
+seja	inegável	que	“a	lei	constitucional	não	é	uma	lei	qualquer,	mas	a	lei	fundamental	do	sistema”,	como
+se	afirma	no	julgado	antes	transcrito,	tal	estado	de	coisas	não	permite	o	tratamento	diferenciado	entre
+norma	constitucional	e	norma	infraconstitucional,	em	relação	à	Súmula	343	do	STF.	Ora,	há	temas	objeto
+de	leis	infraconstitucionais	mais	relevantes,	até,	que	alguns	temas	versados	em	algumas	regras
+constitucionais	(cf.	o	que	escrevemos	em	Constituição	Federal	comentada,	cit.,	comentário	ao
+Preâmbulo,	em	que	tratamos	sobre	a	discussão	a	respeito	da	Constituição	em	sentido	material	e	em
+sentido	formal).	Nesse	sentido,	há	julgados	do	STJ	que	deixam	de	aplicar	o	entendimento	firmado	na
+Súmula	343	do	STF	também	em	relação	a	questões	de	direito	infraconstitucional,	quando	a	jurisprudência
+do	STJ	tiver	se	pacificado,	a	respeito:	“A	Súmula	343/STF,	editada	antes	da	Constituição	de	1988,	tem
+
+origem	na	doutrina	(largamente	adotada	à	época,	inspiradora	também	da	Súmula	400/STF)	da
+legitimidade	de	interpretação	razoável	da	norma,	ainda	que	não	a	melhor,	permitindo	assim	que	a
+respeito	de	um	mesmo	preceito	normativo	possa	existir	mais	de	uma	interpretação	e,	portanto,	mais	de	um
+modo	de	aplicação.	Ao	criar	o	STJ	e	lhe	dar	a	função	essencial	de	guardião	e	intérprete	oficial	da
+legislação	federal,	a	Constituição	impôs	ao	Tribunal	o	dever	de	manter	a
+[/PAGINA 1411]
+
+[PAGINA 1412]
+integridade	do	sistema
+normativo,	a	uniformidade	de	sua	interpretação	e	a	isonomia	na	sua	aplicação.	O	exercício	dessa	função
+se	mostra	particularmente	necessário	quando	a	norma	federal	enseja	divergência	interpretativa.	Mesmo
+que	sejam	razoáveis	as	interpretações	divergentes	atribuídas	por	outros	tribunais,	cumpre	ao	STJ	intervir
+no	sentido	de	dirimir	a	divergência,	fazendo	prevalecer	a	sua	própria	interpretação.	Admitir
+interpretação	razoável,	mas	contrária	à	sua	própria,	significaria,	por	parte	do	Tribunal,	renúncia	à
+condição	de	intérprete	institucional	da	lei	federal	e	de	guardião	da	sua	observância.	Por	outro	lado,	a
+força	normativa	do	princípio	constitucional	da	isonomia	impõe	ao	Judiciário,	e	ao	STJ	particularmente,	o
+dever	de	dar	tratamento	jurisdicional	igual	para	situações	iguais.	Embora	possa	não	atingir	a	dimensão	de
+gravidade	que	teria	se	decorresse	da	aplicação	anti-isonômica	da	norma	constitucional,	é	certo	que	o
+descaso	à	isonomia	em	face	da	lei	federal	não	deixa	de	ser	um	fenômeno	também	muito	grave	e
+igualmente	ofensivo	à	Constituição.	Os	efeitos	da	ofensa	ao	princípio	da	igualdade	se	manifestam	de
+modo	especialmente	nocivos	em	sentenças	sobre	relações	jurídicas	de	trato	continuado:	considerada	a
+eficácia	prospectiva	inerente	a	essas	sentenças,	em	lugar	da	igualdade,	é	a	desigualdade	que,	em	casos
+tais,
+assume	caráter	de	estabilidade	e	de	continuidade,	criando	situações	discriminatórias	permanentes,
+absolutamente	intoleráveis	inclusive	sob	o	aspecto	social	e	econômico.	Ora,	a	Súmula	343	e	a	doutrina
+da	tolerância	da	interpretação	razoável	nela	consagrada	têm	como	resultado	necessário	a	convivência
+simultânea	de	duas	(ou	até	mais)	interpretações	diferentes	para	o	mesmo	preceito	normativo	e,	portanto,	a
+cristalização	de	tratamento	diferente	para	situações	iguais.	Ela	impõe	que	o	Judiciário	abra	mão,	em
+nome	do	princípio	da	segurança,	do	princípio	constitucional	da	isonomia,	bem	como	que	o	STJ,	em	nome
+daquele	princípio,	também	abra	mão	de	sua	função	nomofilácica	e	uniformizadora	e	permita	que,
+objetivamente,	fique	comprometido	o	princípio	constitucional	da	igualdade.	É	relevante	considerar
+também	que	a	doutrina	da	tolerância	da	interpretação	razoável,	mas	contrária	à	orientação	do	STJ,	está	na
+contramão	do	movimento	evolutivo	do	direito	brasileiro,	que	caminha	no	sentido	de	realçar	cada	vez
+mais	a	força	vinculante	dos	precedentes	dos	Tribunais	Superiores.	Por	todas	essas	razões	e	a	exemplo	do
+que	ocorreu	no	STF	em	matéria	constitucional,	justifica-se	a	mudança	de	orientação	em	relação	à	Súmula
+343/STF,	para	o	efeito	de	considerar	como	ofensiva	a	literal	disposição	de	lei	federal,	em	ação
+rescisória,	qualquer	interpretação	contrária	à	que	lhe	atribui	o	STJ,	seu	intérprete	institucional.	A
+existência	de	interpretações	divergentes	da	norma	federal,	antes	de	inibir	a	intervenção	do	STJ	(como
+recomenda	a	súmula),	deve,	na	verdade,	ser	o	móvel	propulsor	para	o	exercício	do	seu	papel	de
+uniformização.	Se	a	divergência	interpretativa	é
+[/PAGINA 1412]
+
+[PAGINA 1413]
+no	âmbito	de	tribunais	locais,	não	pode	o	STJ	se	furtar	à
+oportunidade,	propiciada	pela	ação	rescisória,	de	dirimi-la,	dando	à	norma	a	interpretação	adequada	e
+firmando	o	precedente	a	ser	observado;	se	a	divergência	for	no	âmbito	do	próprio	STJ,	a	ação	rescisória
+será	o	oportuno	instrumento	para	uniformização	interna;	e	se	a	divergência	for	entre	tribunal	local	e	o
+STJ,	o	afastamento	da	Súmula	343	será	a	via	para	fazer	prevalecer	a	interpretação	assentada	nos
+precedentes	da	Corte	Superior,	reafirmando,	desse	modo,	a	sua	função	constitucional	de	guardião	da	lei
+federal”	(STJ,	REsp	1.026.234/DF,	rel.	Min.	Teori	Albino	Zavascki,	1.ª	T.,	j.	27.05.2008).	Embora	tal
+julgado	tenha	sido	reformado	posteriormente	(cf.	STJ,	EREsp	1.026.234/DF,	rel.	Min.	Herman	Benjamin,
+1.ª	S.,	j.	13.05.2009),	o	entendimento	nele	firmado	foi	seguido	em	decisões	posteriores:	“Nos	termos	do
+Enunciado	343	da	Súmula	do	STF,	não	é	cabível	ação	rescisória	por	violação	de	literal	dispositivo	de	lei
+quando	a	matéria	era	controvertida	nos	Tribunais	à	época	do	julgamento.	A	jurisprudência,	contudo,	tanto
+
+do	STF	como	do	STJ	evoluiu	de	modo	a	considerar	que	não	se	pode	admitir	que	prevaleça	um	acórdão
+que	adotou	uma	interpretação	inconstitucional	(STF)	ou	contrária	à	Lei,	conforme	interpretada	por	seu
+guardião	constitucional	(STJ).	Assim,	nas	hipóteses	em	que,	após	o	julgamento,	a	jurisprudência,	ainda
+que	vacilante,	tiver	evoluído	para	sua	pacificação,	a	rescisória	pode	ser	ajuizada.
+Compete	ao	requerente,	ao	demonstrar	a	violação	de	literal	dispositivo	de	lei,	expor	em	que	sentido	se
+pacificou	a	jurisprudência	dos	Tribunais	Superiores”	(STJ,	AR	3.682/RN,	rel.	Min.	Nancy	Andrighi,	2.ª
+S.,	j.	28.09.2011;	no	mesmo	sentido,	STJ,	REsp	1.324.072/DF,	rel.	Min.	Maria	Isabel	Gallotti,	4.ª	T.,	j.
+04.09.2012).	Decidiu-se,	também,	o	seguinte:	“A	principiologia	subjacente	à	Súmula	343/STF	é
+consentânea	com	o	propósito	de	estabilização	das	relações	sociais	e,	mediante	a	acomodação	da
+jurisprudência,	rende	homenagens	diretas	à	segurança	jurídica,	a	qual	é	progressivamente	corroída
+quando	a	coisa	julgada	é	relativizada.	Porém,	o	desalinho	da	jurisprudência	–	sobretudo	o	deliberado,
+recalcitrante	e,	quando	menos,	vaidoso	–	também	atenta,	no	mínimo,	contra	três	valores	fundamentais	do
+Estado	Democrático	de	Direito:	a)	segurança	jurídica,	b)	isonomia	e	c)	efetividade	da	prestação
+jurisdicional.	A	Súmula	343/STF	teve	como	escopo	a	estabilização	da	jurisprudência	daquela	Corte
+contra	oscilações	em	sua	composição,	para	que	entendimentos	firmados	de	forma	majoritária	não
+sofressem	investidas	de	teses	contrárias	em	maiorias	episódicas,	antes	vencidas.	Com	essa	providência,
+protege-se,	a	todas	as	luzes,	a	segurança	jurídica	em	sua	vertente	judiciária,	conferindo-se
+previsibilidade	e	estabilidade	aos	pronunciamentos	da	Corte.	Todavia,	definitivamente,	não	constitui
+propósito	do	mencionado	verbete	a	chancela	da	rebeldia	judiciária.	A	solução	oposta,	a	pretexto	de	não
+eternizar	litígios,	perpetuaria	injustiças
+[/PAGINA 1413]
+
+[PAGINA 1414]
+e,	muito	pelo	contrário,	depõe	exatamente	contra	a	segurança
+jurídica,	por	reverenciar	uma	prestação	jurisdicional	imprevisível,	não	isonômica	e	de	baixa	efetividade.
+Assim,	a	Súmula	343/STF	não	obsta	o	ajuizamento	de	ação	rescisória	quando,	muito	embora	tenha	havido
+dissídio	jurisprudencial	no	passado	sobre	o	tema,	a	sentença	rescindenda	foi	proferida	já	sob	a	égide	de
+súmula	do	STJ	que	superou	o	mencionado	dissenso	e	se	firmou	em	sentido	contrário	ao	que	se	decidiu	na
+sentença	primeva”	(STJ,	REsp	1.163.267/RS,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	19.09.2013).	Essas
+decisões	sinalizam	uma	viragem	na	jurisprudência	do	STJ,	no	sentido	da	mitigação	do	entendimento
+firmado	na	Súmula	343	do	STF,	também	em	relação	a	temas	de	direito	infraconstitucional,	orientação	que
+parece-nos	acertada,	e	coaduna-se	com	o	princípio	estabelecido	no	art.	926	do	CPC/2015.
+XVII.	Falsidade	(ideológica	ou	material)	de	prova.	Laudo	pericial	errôneo.	Na	hipótese	prevista	no
+art.	966,	VI,	do	CPC/2015,	é	necessário	haver	nexo	causal	entre	a	prova	falsa	e	a	decisão	rescindenda,
+isto	é,	a	demonstração	de	que	sem	a	prova	falsa	a	decisão	teria	sido	proferida	em	outro	sentido:	“A
+rescisão	de	julgado	com	base	em	falsidade	de	prova	deve	considerar	o	nexo	entre	essa	prova	e	a	decisão,
+bem	como	se	remanesce	fundamento	diverso	independente	a	subsidiar	o	v.
+acórdão	rescindendo”	(STJ,	AR	3.553/SP,	rel.	Min.	Felix	Fischer,	3.ª	Seção,	j.	10.03.2010).	A
+jurisprudência	vinha	interpretando	extensivamente	o	inc.	VI	do	art.	485	do	CPC/1973	(correspondente	ao
+inc.	VI	do	art.	966	do	CPC/2015),	para	abranger	também	a	hipótese	em	que	laudo	pericial	é	“incorreto,
+incompleto	ou	inadequado”:	“O	laudo	técnico	incorreto,	incompleto	ou	inadequado	que	tenha	servido	de
+base	para	a	decisão	rescindenda,	embora	não	se	inclua	perfeitamente	no	conceito	de
+‘prova	falsa’	a	que	se	refere	o	art.	485,	VI	[do	CPC/1973],	pode	ser	impugnado	ou	refutado	na	ação
+rescisória,	por	falsidade	ideológica.	A	falsidade	da	prova	pode	ser	atribuída	tanto	à	perícia	grafotécnica
+(falsidade	ideológica)	como	às	duas	notas	promissórias	(falsidade	documental),	sendo	possível	perquirir
+a	ocorrência	da	prova	falsa,	sem	adentrar	na	intenção	de	quem	a	produziu,	quer	inserindo	declaração	não
+verdadeira	em	documento	público	ou	particular	(falsidade	ideológica),	quer	forjando,	no	todo	ou	em
+
+parte,	documento	particular	(falsidade	material)”	(STJ,	REsp	331.550/RS,	3.ª	T.,	j.	26.02.2002,	rel.	Min.
+Nancy	Andrighi;	no	mesmo	sentido,	STJ,	AR	1.291/SP,	1.ª	Seção,	j.	23.04.2008,	rel.	Min.	Luiz	Fux;	STJ,
+EDcl	no	AgRg	na	AR
+2.013/SP,	1.ª	Seção,	rel.	Min.	Herman	Benjamin,	j.	14.05.2008).	Admite-se	a	ação,	ainda	que	a	falsidade
+da	prova	deva	ser
+demonstrada	no	curso	da	rescisória	(STJ,	REsp	885.352/MT,	rel.	Min.	Paulo	de	Tarso	Sanseverino,	3.ª
+T.,	j.07.04.2011).
+XVIII.	Prova	nova.	Abrangência.	O	CPC/1973	admitia	ação	rescisória	fundada	em	documento	novo
+(art.	485,	VII,	do	CPC/1973);	o	CPC/2015,	de	modo	mais	amplo,	admite	a	ação	rescisória	fundada	e
+[/PAGINA 1414]
+
+[PAGINA 1415]
+m
+prova	nova	(art.	966,	VII,	do	CPC/2015).
+Sustentávamos,	à	luz	da	legislação	revogada,	que,	admitindo-se	ação	rescisória	fundada	em	documento,
+dever-se-ia	admiti-la,	a	fortiori,	quando	fundada	em	perícia	(cf.	o	que	escrevemos	em	O	dogma	da	coisa
+julgada.	.	cit.,	em	coautoria	com	Teresa	Arruda	Alvim	Wambier).	No	mesmo	sentido	vinha	decidindo	o
+STJ:	“O	laudo	do	exame	de	DNA,	mesmo	posterior	ao	exercício	da	ação	de	investigação	de	paternidade,
+considerase	‘documento	novo’	para	aparelhar	ação	rescisória	(art.	485,	VII	[do	CPC/1973]).	É	que	tal
+exame	revela	prova	já	existente,	mas	desconhecida	até	então.	A	prova	do	parentesco	existe	no	interior	da
+célula.	Sua	obtenção	é	que	apenas	se	tornou	possível	quando	a	evolução	científica	concebeu	o	exame
+intracitológico”	(STJ,	REsp	300.084/GO,	2.ª	S.,	j.	28.04.2004,	rel.	Min.	Humberto	Gomes	de	Barros;	no
+mesmo	sentido:	STJ,	REsp	189.306/MG,	rel.	Min.
+Barros	Monteiro,	rel.	p/	Acórdão	Min.	Cesar	Asfor	Rocha,	4.ª	T.,	j.	25.06.2002;	STJ,	REsp	653.942/MG,
+rel.	Min.	Honildo	Amaral	de	Mello	Castro,	4.ª	T.,	j.	15.09.2009.	O	CPC/2015	ampliou	a	abrangência	da
+prova,	não	apenas	para	admitir	documento	ou	prova	que,	em	princípio,	poderia	fornecer	igual	ou	maior
+grau	de	segurança	quanto	à	demonstração	do	acerto	da	afirmação	da	parte	(algo	que	se	poderia	obter	com
+a	prova	pericial,	frente	a	documental),	mas	admitiu	a	rescisória	com	base	em	prova	nova,	sem	exceção.	É
+possível,	portanto,	o	ajuizamento	de	ação	rescisória	com	base	em	prova	testemunhal	nova,	desde	que
+presentes	as	condições	previstas	no	art.	966,	VII,	do	CPC/2015,	isso	é,	desde	que	o	autor	a	ignorasse	ou
+dela	não	tivesse	podido	fazer	uso,	e	tal	prova,	por	si	só,	seja	capaz	de	garantir	a	ele	resultado	favorável.
+Assim	deve	ser	considerado	o	documento	que	existia	à	época	da	prolação	da	decisão	rescindenda,	mas
+que,	por	motivo	alheio	à	vontade	do	autor	da	ação	rescisória,	não	pôde	ser	juntado	aos	autos	da	ação
+originária	(cf.	STJ,	4.ª	T.,	AgRg	no	Ag	960.654/SP,	rel.	Min.	Aldir	Passarinho	Júnior,	j.
+03.04.2008;	STJ,	AgRg	no	REsp	983.372/PR,	j.	11.05.2010,	rel.	Min.	Luiz	Fux,	1.ª	T.).	Não	se	considera
+prova	nova,	assim,	o	documento	produzido	após	a	prolação	da	decisão	rescindenda	(cf.	STJ,	1.ª	T.,	REsp
+815.950/MT,	rel.	Min.	Luiz	Fux,	j.
+18.03.2008).	Assim,	“nova”	é	a	prova	já	existente,	e	não	aquela	que	surgiu	posteriormente:	“Considerase
+‘documento	novo’	o	que	seja	preexistente	ao	julgado	rescindendo,	mas	que	não	fora	apresentado	em	juízo
+em	razão	de	alguma	das	hipóteses	previstas	no	supracitado	dispositivo	legal.	A	Res.	302/2002	do
+Conama	não	pode	ser	admitida	como	documento	novo,	visto	que	foi	editada	após	o	julgamento	do	recurso
+que	originou	o	acórdão	objeto	da	presente	demanda”	(STJ,	AR	2.481/PR,	j.
+13.06.2007,	1.ª	S.,	rel.	Min.	Denise	Arruda).	Além	de	ser	“a)	existente	à	época	da	decisão	rescindenda”,
+
+é	necessário,	também,	que	seja	“b)	ignorado	pela	parte	ou	que	dele	ela	não	poderia	fazer	uso;	c)	por	si	só
+apto	a	assegurar	pronunciamento	favorável;	d)	guarde	re
+[/PAGINA 1415]
+
+[PAGINA 1416]
+lação	com	fato	alegado	no	curso	da	demanda	em
+que	se	originou	a	coisa	julgada	que	se	quer	desconstituir”	(STJ,	REsp	1.293.837/DF,	rel.	Min.	Paulo	de
+Tarso	Sanseverino,	3.ª	T.,	j.	02.04.2013).	A	respeito,	cf.	também	comentário	ao	art.	493	do	CPC/2015.
+XIX.	Erro	de	fato.	Admite-se	a	ação	rescisória	quando	a	decisão	rescindenda	funda-se	em	erro	de	fato
+(cf.	art.	966,	VIII	e	§
+1.º,	do	CPC/2015).	Há	erro	de	fato	“quando	o	órgão	julgador	imagina	ou	supõe	que	um	fato	existiu,	sem
+nunca	ter	ocorrido,	ou	quando	simplesmente	ignora	fato	existente,	não	se	pronunciando	sobre	ele”	(STJ,
+AR	3.394/RJ,	1.ª	Seção,	j.	23.06.2010,	rel.	Min.
+Humberto	Martins).	É	imprescindível	“que	a	matéria	não	tenha	sido	discutida	nos	autos	da	ação	original”
+(STJ,	EDcl	no	REsp	1.104.196/RN,	4.ª	T.,	j.	24.08.2010,	rel.	Min.	João	Otávio	de	Noronha).	Como
+regra,	“a	má	apreciação	da	prova	ou	a	injustiça	da	sentença	não	autorizam	a	ação	rescisória”	(STJ,	REsp
+147.796/MA,	4.ª	T.,	j.	25.05.1999,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	no	mesmo	sentido,	STJ,	AR
+1.470/SP,	2.ª	T.,	j.	10.05.2006,	rel.	Min.	Castro	Filho),	mas	a	noção	de	erro	de	fato,	na	vigência	do
+CPC/1973,	vinha	sendo	flexibilizada	pela	jurisprudência,	para	contemplar	também	“o	erro	na	valoração
+da	prova,	consistente	na	desconsideração	da	prova	constante	nos	autos,	dadas	as	condições	desiguais
+vivenciadas	pelo	trabalhador	rural	e	adotando-se	a	solução	pro	misero”	(STJ,	AR	919/SP,	3.ª	Seção,	j.
+22.11.2006,	rel.	Min.	Hamilton	Carvalhido;	no	mesmo	sentido,	STJ,	AR	2.544/MS,	rel.	Min.	Maria
+Thereza	de	Assis	Moura,	3.ª	Seção,	j.	28.10.2009;	STJ	AR	3.456/CE,	3.ª	Seção,	j.	28.04.2010,	rel.
+Min.	Laurita	Vaz,	STJ,	AR	3.921/SP,	rel.	Min.	Sebastião	Reis	Júnior,	3.ª	S.,	j.	24/04/2013).
+XX.	Réu	não	citado.	Cabimento	de	ação	rescisória	ou	declaratória.	Fungibilidade.	Caso	o	réu	não
+tenha	sido	citado,	e	tenha	sido	proferida	decisão	contra	ele,	poderá	valer-se	de	ação	rescisória,	pois	a
+decisão	proferida	em	tal	ambiente	viola	manifestamente	a	norma	jurídica	(art.	966,	V,	do	CPC/2015).
+Tecnicamente,	o	caminho	adequado	seria	o	da	ação	declaratória,	pois	a	sentença	proferida	em	tais
+condições	não	produzirá	efeitos,	em	relação	ao	réu	(sequer	se	poderia	afirmar	que,	no	caso,	teria	havido
+coisa	julgada;	cf.	comentário	infra).	A	ação	é	declaratória,	seja	para	se	reconhecer	a	ineficácia	(pois
+pode	ter	havido	relação	entre	autor	e	juiz,	que	não	produz	efeitos	em	relação	ao	réu),	seja	para	se
+reconhecer	a	inexistência	de	relação	com	o	réu	não	citado	(pois	pode-se	estar	a	supor	que	o	réu	teria	sido
+citado,	quando	não	o	foi;	a	respeito,	cf.
+comentário	aos	arts.	239	e	312	do	CPC/2015).	Na	doutrina	e	na	jurisprudência,	costuma-se	chamar	tal
+ação	de	actio	nullitatis	ou	de	querela	nullitatis.	Há	muita	controvérsia	acerca	do	acerto	do	uso	dessas
+expressões,	contudo	(cf.,	dentre	outros,	Rodrigo	Ramina	de	Lucca,	Querela	nullitatis.	.,	RePro	202/93).
+Preferimos	não	usar	tais	termos	(abandonamos,	assim,	postura	que	observamos	em	trabalhos	anteriores,
+escritos
+[/PAGINA 1416]
+
+[PAGINA 1417]
+à	luz	do	CPC/1973),	registrando,	porém,	que,	ao	menos	na	doutrina	e	na	jurisprudência
+brasileiras,	eles	têm	sido	empregados	para	designar	a	ação	–	ou,	às	vezes,	até	a	alegação	incidental	–	de
+inexistência	jurídica	ou	de	ineficácia.	Afirma-se,	de	todo	modo,	a	alegação	de	ausência	de	citação	não	se
+circunscreve	ao	prazo	para	ajuizamento	da	ação	rescisória:	“a	sentença	proferida	em	processo	que
+tramitou	sem	a	citação	de	litisconsorte	passivo	necessário	está	impregnada	de	vício	insanável
+(transrescisório)	que	pode	ser	impugnado	por	meio	de	ação	autônoma	movida	após	o	transcurso	do	prazo
+decadencial	para	ajuizamento	da	ação	rescisória”	(STJ,	REsp	445.664/AC,	2.ª	T.,	j.
+24.08.2010,	rel.	Min.	Eliana	Calmon).	Não	há	procedimento	próprio	para	se	veicular	tal	pedido,	que,
+
+como	princípio,	deve	ser	apresentado	ao	próprio	juízo	em	que	se	proferiu	a	sentença	(isso	é,	“o	juízo	que
+proferiu	a	decisão	supostamente	viciada”,	cf.
+STJ,	CC	114.593/SP,	rel.	Min.	Maria	Thereza	de	Assis	Moura,	3.ª	S.,	j.	22.06.2011;	cf.	também	STJ,
+EDcl	na	AR	569/PE,	rel.	Min.
+Mauro	Campbell	Marques,	1.ª	S.,	j.	22.06.2011).	Não	prejudica	a	ação	a	circunstância	de	a	parte	tê-la
+nominado	como	anulatória	(cf.	STJ,	3.ª	T.,	REsp	113.091/MG,	rel.	Min.	Ari	Pargendler,	j.	10.04.2000).	É
+viável	o	pedido,	ainda,	se	veiculado	através	de	impugnação	à	execução	de	sentença	(art.	525,	§	1.º,	I,	do
+CPC/2015;	semelhantemente,	na	vigência	do	CPC/1973,	cf.
+STJ,	3.ª	T.,	REsp	12.586/SP,	rel.	Min.	Waldemar	Zveiter,	j.	08.10.1991),	por	ação	civil	pública	(cf.	STJ,
+REsp	1.187.297-RJ,	2.ª	T.,	rel.	Min.	Eliana	Calmon,	j.	02.09.2010)	ou,	até,	por	mandado	de	segurança.
+Em	relação	ao	mandado	de	segurança,	decidiu-se	que	“o	reconhecimento	pelo	Tribunal	de	origem	do
+vício	de	nulidade	da	citação	(	querela	nullitatis	insanabilis),	impedindo	–
+assim	–	o	trânsito	em	julgado	da	sentença,	viabiliza	a	utilização	do	mandado	de	segurança	para
+obstacular	os	efeitos	decorrentes	do	comando	de	reintegração	de	posse”	(STJ,	4.ª	T.,	RMS	14.359/MG,
+rel.	Min.	Fernando	Gonçalves,	j.	03.04.2003;	cf.
+também	comentário	a	seguir).	Embora	adequado	o	caminho	da	ação	declaratória,	deve-se	admitir	a	ação
+rescisória,	pois,	no	mínimo,	terá	havido	violação	manifesta	à	norma	jurídica,	ao	se	proferir	decisão
+contra	o	réu	não	citado.	A	jurisprudência	majoritária	é	nesse	sentido:	“Tem	sido	admitida	a	ação
+rescisória	para	reconhecimento	da	nulidade	de	pleno	direito	do	processo	por	falta	de	citação	inicial”
+(STJ,	4.ª	T.,	REsp	330.293/SC,	rel.	Min.	Ruy	Rosado	de	Aguiar,	j.	07.03.2002;	no	mesmo	sentido,	cf.,
+ainda,	STJ,	4.ª	T.,	REsp	11.290/AM,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira,	j.	04.05.1993;	STJ,	1.ª	T.,
+REsp	885.477/PR,	rel.	Min.	Francisco	Falcão,	j.	12.12.2006).	Já	decidiu	o	STJ,	no	entanto,	no	sentido	do
+não	cabimento	de	ação	rescisória,	por	partir	do	pressuposto	de	que	a	existência	da	coisa	julgada	é
+condição	essencial	para	o	seu	cabimento.	Por	este	motivo,	decidiu-se	que,	ausente	ou	sendo	nula	a
+citação,	é	cabível	a	qualquer	tempo	a	ação	de
+[/PAGINA 1417]
+
+[PAGINA 1418]
+claratória	de	nulidade,	mas	não	a	ação	rescisória	(STJ,	1.ª
+Seção,	AR	569-PE,	rel.	Min.	Mauro	Campbell	Marques,	j.	22.09.2010).	Concordamos	que,	no	caso,	não
+se	teria,	rigorosamente,	a	formação	da	coisa	julgada,	motivo	pelo	qual	faltaria	um	dos	requisitos	para	que
+se	admitisse	a	ação	rescisória	(decisão	“transitada	em	julgado”,	cf.	art.	966,	caput,	do	CPC/2015).	No
+entanto,	não	se	pode	desprezar	o	fato	de	que	tal	decisão,	ao	menos	aparentemente,	transitou	em	julgado,	e,
+além	disso,	não	há	previsão	legal	de	remédio	processual	específico	para	se	suscitar	tal	vício.	No	mesmo
+processo	em	que	foi	proferida	essa	decisão,	manifestou-se	o	STJ,	posteriormente,	no	sentido	de	que,
+“tendo	a	finalidade	dos	referidos	atos	aqui	praticados	sido	alcançada,	o	aproveitamento	desses	atos	na
+eventual	ação	declaratória	de	inexistência	de	citação	não	apresenta	prejuízo	para	qualquer	das	partes.
+Por	tal	razão,	permite-se	a	aplicação	ao	caso	dos	princípios	da	instrumentalidade	das	formas	e	do
+aproveitamento	racional	dos	atos	processuais,	que	norteiam	o	sistema	das	nulidades	no	direito
+brasileiro”.	Decidiu-se,	ainda,	que	a	simples	extinção	do	processo	sem	resolução	do	mérito,	fundada	na
+inadmissão	da	ação	rescisória,	configura	“desrespeito	aos	princípios	da	celeridade	e	economias
+processuais,	pois	o	não	aproveitamento	dos	atos	processuais	validamente	praticados	na	nova	ação	a	ser
+iniciada	no	juízo	competente	demandará	maior	dispêndio	de	tempo	e	atividade	jurisdicional”.	Diante
+disso,	o	STJ
+determinou	o	envio	dos	autos	ao	juízo	de	1.º	grau,	“a	fim	de	que	a	presente	ação	seja	reautuada	como
+ação	declaratória	de	inexistência	de	citação”	(STJ,	EDcl	nos	EDcl	na	AR	569/PE,	rel.	Min.	Mauro
+
+Campbell	Marques,	1.ª	S.,	j.	24.08.2011).
+XXI.	Mandado	de	segurança	contra	decisão	judicial.	Admite-se,	excepcionalmente,	o	uso	do	mandado
+de	segurança	contra	decisões	judiciais	(cf.	se	extrai	do	art.	5.º,	LXIX,	da	CF/1988	e	do	art.	5.º,	II,	da	Lei
+12.016/2009).	O	art.	5.º,	II,	da	Lei	12.016/2009	é	claro	no	sentido	de	que	o	mandado	de	segurança	não
+substitui	recurso	taxativamente	previsto	pelo	sistema.
+Nesse	sentido,	dispõe	a	Súmula	267	do	STF:	“Não	cabe	mandado	de	segurança	contra	ato	judicial
+passível	de	recurso	ou	correição”.	Dispõe	o	inc.	II	do	art.	5.º	da	Lei	12.016/2009	que	não	cabe	mandado
+de	segurança	contra	“decisão	judicial	da	qual	caiba	recurso	com	efeito	suspensivo”.	Assim,	poder-se-ia
+concluir	que,	se	o	recurso	cabível	contra	a	decisão	é	destituído	de	efeito	suspensivo,	seria	sempre
+admissível	a	impetração	de	mandado	de	segurança.	Segundo	pensamos,	no	entanto,	o	mandado	de
+segurança	não	deve	ser	desfigurado	de	sua	missão	constitucional,	motivo	pelo	qual	sua	utilização	não
+visa	substituir	recursos	típicos	previstos	no	sistema	processual	(a	respeito,	cf.	o	que	escrevemos	em
+Constituição	Federal	comentada	cit.,	comentário	ao	art.	5.º,	LXIX,	da	CF/1988,	e	em	Mandado	de
+segurança	individual	e	coletivo	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo,	comentário	ao	art.	5.º	da
+Lei	12.012/
+[/PAGINA 1418]
+
+[PAGINA 1419]
+2009).	Assim,	sob	esse	prisma,	o	mandado	de	segurança	poderá	ser	manejado	contra	decisão
+judicial	sempre	que	o	sistema	não	oferecer	mecanismo	recursal	eficaz	para	afastar	os	efeitos	da	decisão
+recorrível:	“Com	efeito,	o	mandado	de	segurança	impetrado	contra	decisão	judicial	só	é	admissível	nas
+raras	hipóteses	em	que	ela	não	possa	ser	atacada	por	outro	remédio	processual,	exigindo-se,	ademais,	a
+presença	de	direito	líquido	e	certo.	Nesse	sentido	o	Min.	Marco	Aurélio,	no	RMS	25.340/DF,	consignou
+o	seguinte:	‘Mandado	de	segurança	–	Ato	jurisdicional	–	Excepcionalidade	não	verificada.	A	admissão
+do	mandado	de	segurança	contra	decisão	judicial	pressupõe	não	caber	recurso,	visando	a	afastá-la,	e	ter-
+se	como	a	integrar	o	patrimônio	do	impetrante	o	direito	líquido	e	certo	ao	que	pretendido’.	Na	mesma
+linha:	RMS	26.114/SP,	rel.	Min.	Gilmar	Mendes,	e	MS	22.623-AgR,	rel.	Min.	Sydney	Sanches.	A
+pretensão	sob	exame,	como	se	verá,	está	na	contramão	da	jurisprudência	desta	Corte.	Primeiro,	porque,
+tendo	o	Superior	Tribunal	Militar	declinado	de	sua	competência,	nada	obstava	que	o	pleito	do	recorrente
+fosse	novamente	deduzido	perante	o	juízo	competente.	Em	outras	palavras,	a	pendência	deduzida	pela	via
+do	mandamus	poderia	ter	sido	solucionada	por	outro	meio	processual”	(RMS	25.141,	voto	do	Min.
+Ricardo	Lewandowski,	j.	13.05.2008).	De	acordo	com	a	Súmula	268	do	STF,	“não	cabe	mandado	de
+segurança	contra	decisão	judicial	com	trânsito	em	julgado”.	A	jurisprudência	tem	afastado	a	incidência
+dessa	Súmula	nos	“casos	de	decisões	judiciais	teratológicas	ou	flagrantemente	ilegais”	(STJ,	Corte
+Especial,	AgRg	no	MS
+10.436/DF,	rel.	Min.	Félix	Fischer,	j.	07.06.2006).	Ex.:	“Admissível,	excepcionalmente,	o	uso	escoteiro
+de	mandado	de	segurança	quando	a	decisão	judicial,	a	par	de	causar	lesão	grave	ou	de	difícil	reparação,
+se	revela	teratológica,	como	a	que	peremptoriamente	proíbe	o	acesso	da	parte	ao	Judiciário,	vedando-lhe
+o	ajuizamento	de	ações	reintegratórias	ou	de	execução	para	a	cobrança	da	dívida”	(STJ,	4.ª	T.,	REsp
+163.187/RO,	rel.	Min.	Aldir	Passarinho	Júnior,	j.	24.10.2000;	no	mesmo	sentido,	STJ,	RMS	22.806/AM,
+2.ª	T.,	rel.	Min.	Humberto	Martins,	j.	08.05.2007).	Admitiu-se,	ainda,	mandado	de	segurança	para
+controle	da	competência	dos	juizados	especiais.	Nesse	sentido:	“A	autonomia	dos	Juizados	Especiais
+não	prevalece	em	relação	às	decisões	acerca	de	sua	própria	competência	para	conhecer	das	causas	que
+lhe	são	submetidas,	ficando	tal	controle
+submetido	aos	Tribunais	de	Justiça,	via	mandado	de	segurança.	Esse	entendimento	subsiste	mesmo	após	a
+edição	da	Súmula	376/STJ,	tendo	em	vista	que,	entre	os	próprios	julgados	que	lhe	deram	origem,	se
+encontra	a	ressalva	quanto	ao	cabimento	do	writ	para	controle	da	competência	dos	Juizados	Especiais
+
+pelos	Tribunais	de	Justiça.	[.	.]	Admite-se	a	impetração	de	mandado	de	segurança	frente	aos	Tribunais	de
+Justiça	dos	Estados	para	o	exercício	do	controle	da	competência	dos	Juizados	Especiais,	ainda	que	a
+decisão	a	ser	anulada	já	tenh
+[/PAGINA 1419]
+
+[PAGINA 1420]
+a	transitado	em	julgado”	(STJ,	MC	15.465/SC,	rel.	Min.	Nancy	Andrighi,	3.ª
+T.,	j.
+28.04.2009).	De	acordo	com	a	Súmula	202	do	STJ,	“a	impetração	de	segurança	por	terceiro,	contra	ato
+judicial,	não	se	condiciona	à	interposição	de	recurso”.	A	respeito,	assim	tem-se	decidido:	“O	enunciado
+da	Súmula	268	do	Excelso	Pretório	merece	temperamentos,	quando	a	hipótese	versar	sobre	terceiro
+interessado	ou	prejudicado,	que	não	integrou	a	lide,	de	que	adveio	a	decisão	transitada	em	julgado”	(STJ,
+4.ª	T.,	RMS	19.579/RJ,	rel.	Min.	Hélio	Quaglia	Barbosa,	j.	04.10.2007).	Decidiu-se,	ainda,	que	“o
+enunciado	267	da	Súmula/STF	é	aplicável	às	partes,	que	devem	efetivamente	observar,	nos	termos	da	lei
+adjetiva	civil,	os	recursos	cabíveis	a	serem	interpostos	contra	a	decisão	judicial	prolatada”	(STJ,	RMS
+30.301/RS,	rel.	Min.
+Massami	Uyeda,	3.ª	T.,	j.	17.12.2009).	Deve-se	admitir	o	mandado	de	segurança	quando	a	lei	dispuser
+que	em	determinada	hipótese	não	caberá	recurso,	como	ocorre,	por	exemplo,	na	Lei	9.099/1995	(Lei	dos
+Juizados	Especiais).	O	STF	já	decidiu	em	sentido	diverso	(“1.	Não	cabe	mandado	de	segurança	das
+decisões	interlocutórias	exaradas	em	processos	submetidos	ao	rito	da	Lei	9.099/1995.	2.	A	Lei
+9.099/1995	está	voltada	à	promoção	de	celeridade	no	processamento	e	julgamento	de	causas	cíveis	de
+complexidade	menor.	Daí	ter	consagrado	a	regra	da	irrecorribilidade	das	decisões	interlocutórias,
+inarredável.	3.	Não	cabe,	nos	casos	por	ela	abrangidos,	aplicação	subsidiária	do	Código	de	Processo
+Civil,	sob	a	forma	do	agravo	de	instrumento,	ou	o	uso	do	instituto	do	mandado	de	segurança.	4.	Não	há
+afronta	ao	princípio	constitucional	da	ampla	defesa	(art.	5.º,	LV,	da	CF/1988),	vez	que	decisões
+interlocutórias	podem	ser	impugnadas	quando	da	interposição	de	recurso	inominado”;	STF,	Pleno,	RE
+576.847,	rel.	Min.	Eros	Grau,	j.	20.05.2009),	mas,	posteriormente,	admitiu	o	uso	de	mandado	de
+segurança	na	hipótese,	inclusive	decidindo	a	respeito	do	órgão	competente	para	julgar	tal	ação	(cf.	STF,
+RE	586.789,	com	repercussão	geral,	cf.	nota	jurisprudencial	supra).	O	STJ,	a	nosso	ver	corretamente,
+admite	mandado	de	segurança	contra	decisão	oriunda	de	procedimento	que	tramita	perante	os	juizados
+especiais,	tendo,	inclusive,	editado	a	Súmula	376,	relativa	ao	órgão	competente	para	julgar	o	mandado	de
+segurança,	no	caso:	“Compete	à	turma	recursal	processar	e	julgar	o	mandado	de	segurança	contra	ato	de
+juizado	especial”.	Assim,	“os	Tribunais	locais	não	possuem	competência	originária	ou	recursal	para
+rever	decisões	de	Colégio	Recursal	de	Juizado	Especial”	(STJ,	RMS	25.574/SP,	rel.	Min.	Luiz	Fux,	1.ª
+T.,	j.	05.02.2009).	“As	Turmas	Recursais	são	órgãos	recursais	ordinários	de	última	instância
+relativamente	às	decisões	dos	Juizados	Especiais,	de	forma	que	os	juízes	dos	Juizados	Especiais	estão	a
+elas	vinculados	no	que	concerne	ao	reexame	de	seus	julgados.	Competente	a	Turma	Recursal	para
+processar	e	julgar	recursos	contra	decisões	de	primeiro	grau,	também	o	é	para	processar	e	julgar	o
+manda
+[/PAGINA 1420]
+
+[PAGINA 1421]
+do	de	segurança	substitutivo	de	recurso”	(STF,	RE	586.789,	rel.	Min.	Ricardo	Lewandowski,
+Pleno,	j.	16.11.2011).
+Observe-se,	porém,	quanto	à	competência	para	o	julgamento	de	mandado	de	segurança	impetrado	contra
+ato	de	juizado	especial,	que	esta	não	será	da	turma	recursal,	mas	dos	Tribunais	Regionais	Federais	e	dos
+Tribunais	de	Justiça	dos	Estados,	nos	casos	em	que	o	mandado	de	segurança	contesta	a	competência	dos
+juizados	para	conhecer	da	lide.	Nesse	sentido:	“1.	A	questão	posta	nos	autos	cinge-se	ao	cabimento	do
+recurso	em	mandado	de	segurança	para	os	Tribunais	de	Justiça	controlarem	atos	praticados	pelos
+membros	ou	presidente	das	Turmas	Recursais	dos	Juizados	Especiais	Cíveis	e	Criminais.	2.
+O	entendimento	do	Superior	Tribunal	de	Justiça	é	pacífico	no	sentido	de	que	a	Turma	Recursal	dos
+
+Juizados	Especiais	deve	julgar	mandados	de	segurança	impetrados	contra	atos	de	seus	próprios
+membros.	3.	Em	que	pese	a	jurisprudência	iterativa	citada,	na	hipótese	sub	judice,	o	mandado	de
+segurança	não	visa	à	revisão	meritória	de	decisão	proferida	pela	Justiça	especializada,	mas	versa	sobre
+a	competência	dos	Juizados	Especiais	para	conhecer	da	lide.	4.	Inexiste	na	Lei	9.099/1995
+previsão	quanto	à	forma	de	promover	o	controle	da	competência	dos	órgãos	judicantes	ali	referidos.	5.
+As	decisões	que	fixam	a	competência	dos	Juizados	Especiais	–	e	nada	mais	que	estas	–	não	podem	ficar
+absolutamente	desprovidas	de	controle,	que	deve	ser	exercido	pelos	Tribunais	de	Justiça	e	Tribunais
+Regionais	Federais	e	pelo	Superior	Tribunal	de	Justiça”	(STJ,	RMS
+26.665/DF,	rel.	Min.	Herman	Benjamin,	2.ª	T.,	j.	26.05.2009).	A	propósito,	consoante	se	observou	acima,
+em	tal	situação	abre-se	exceção	à	Súmula	268	do	STF.	Não	sendo	esta	a	hipótese,	a	competência	para
+julgamento	do	mandado	de	segurança	será	da	turma	recursal	respectiva	(cf.	STJ,	Súmula	376;	STF,	RG	no
+RE	586.789,	rel.	Min.	Ricardo	Lewandowski,	Pleno,	DJe	27.02.2012).
+XXII.	Atos	homologados	pelo	juízo.	Ação	anulatória.	De	acordo	com	o	§	4.º	do	art.	966	do	CPC/2015,
+os	atos	homologados	pelo	juízo	(por	exemplo,	renúncia,	reconhecimento,	transação,	cf.	art.	487,	III,	do
+CPC/2015)	sujeitam-se	à	anulação.	No	caso,	pois,	não	se	admite	ação	rescisória.	À	luz	do	art.	485,	VIII,
+do	CPC/1973,	seria	possível	sustentar	o	cabimento	de	rescisória	ação	rescisória	quando,	interpretando
+confissão,	desistência	ou	transação	realizada	pelas	partes,	o	juiz	julga	o	pedido	procedente	ou
+improcedente,	e	ação	anulatória	quando	o	juiz	proferir	sentença	homologatória	sem	julgar	o	pedido
+(nesse	sentido,	cf.	STJ,	REsp	13.102/SP,	4.ª	T.,	j.	02.02.1993,	rel.	Min.	Athos	Carneiro;	STJ,	REsp
+1.084.372/MG,	1.ª	T.,	j.
+18.12.2008,	rel.	Min.	Teori	Albino	Zavascki).	À	luz	da	nova	lei	processual,	passa	a	ser	admissível
+apenas	a	ação	anulatória	prevista	no	§	4.º	do	art.	966	do	CPC/2015,	quando	se	tratar	de	vício	do	ato
+homologado.	Quanto	à	anulação	de	alienação	do	bem	na	execução,	cf.	comentário	ao	art.	903	do
+CPC/2015.
+Art.	967.	Têm	legitimidade	para	propor	a	a
+[/PAGINA 1421]
+
+[PAGINA 1422]
+ção	rescisória:	I	-	quem	foi	parte	no	processo	ou	o	seu
+sucessor	a	título	universal	ou	singular;	II	-	o	terceiro	juridicamente	interessado;	III	-	o	Ministério
+Público:
+a)	se	não	foi	ouvido	no	processo	em	que	lhe	era	obrigatória	a	intervenção;	b)	quando	a	decisão
+rescindenda	é	o	efeito	de	simulação	ou	de	colusão	das	partes,	a	fim	de	fraudar	a	lei;	c)	em	outros	casos
+em	que	se	imponha	sua	atuação;	IV	-	aquele	que	não	foi	ouvido	no	processo	em	que	lhe	era	obrigatória	a
+intervenção.
+Parágrafo	único.	Nas	hipóteses	do	art.	178,	o	Ministério	Público	será	intimado	para	intervir	como	fiscal
+da	ordem	jurídica	quando	não	for	parte.
+CPC/1973:	Art.	487	(correspondente).
+SUMÁRIO:	I.	Legitimidade	para	a	propositura	da	ação	rescisória	–	II.	Litisconsórcio	na	ação	rescisória.
+I.	Legitimidade	para	a	propositura	da	ação	rescisória.	Têm	legitimidade	para	propor	ação	rescisória
+as	partes,	terceiro	juridicamente	interessado	(que,	como	se	decidiu,	é	“aquele	estranho	à	relação
+processual	na	qual	foi	proferida	a	decisão	rescindenda,	mas	que	por	ela	tenha	sido	reflexamente
+
+atingido”,	STJ,	REsp	361.630/DF,	rel.	Min.	Laurita	Vaz,	5.ª	T.,	j.
+04.02.2010),	o	Ministério	Público	e	aquele	que	não	foi	ouvido	no	processo	em	que	lhe	era	obrigatória	a
+intervenção	(art.	967,	III,	a	do	CPC/2015).	O	Ministério	Público	terá	legitimidade	para	ajuizar	ação
+rescisória,	nos	casos	“em	que	se	imponha	sua	atuação”	(art.	967,	III,	c).	Essa	hipótese,	embora	não
+prevista	textualmente	no	CPC/1973,	era	compreendida	pela	jurisprudência,	preponderando,	então,	o
+entendimento	de	que	as	hipóteses	previstas	no	inc.	III	do	art.	487	do	CPC/1973
+(correspondentes	às	alíneas	a	e	b	do	art.	967,	III,	do	CPC/2015)	seriam	meramente	exemplificativas
+(STJ,	EAR	384/PR,	rel.	Min.
+João	Otávio	de	Noronha,	1.ª	Seção,	j.	08.02.2006),	admitindo-se,	assim,	que	o	Ministério	Público	teria,
+por	exemplo,	legitimidade	para	o	ajuizamento	de	ação	rescisória	quando	se	estiver	diante	de	“interesse
+público	indisponível”	(STJ,	REsp	441.892/AC,	rel.	Min.	Aldir	Passarinho	Júnior,	4.ª	T.,	j.	11.11.2008),
+hipótese	que	encarta-se	no	art.	178,	I,	do	CPC/2015.	Não	sendo	o	Ministério	Público	parte	no	processo,
+deverá	ser	intimado	para	atuar	como	fiscal	da	ordem	jurídica	(art.	967,	parágrafo	único,	do	CPC/2015).
+Tem	legitimidade	para	mover	a	ação,	também,	“aquele	que	não	foi	ouvido	no	processo	em	que	lhe	era
+obrigatória	a	intervenção”	(art.	967,	IV,	do	CPC/2015).	É	o	que	ocorre,	por	exemplo,	caso	não	intimada	a
+Comissão	de	Valores	Mobiliários	ou	o	Conselho	Administrativo	de	Defesa	Econômica,	nos	casos	em	que
+a	lei	imponha	sua	intervenção	(cf.,	respectivamente,	arts.	31	da	Lei	6.385/1976	e	118	da	Lei
+12.529/2011).
+II.	Litisconsórcio	na	ação	rescisória.	Como	regra,	serão	partes	na	ação	rescisória	aqueles	que
+ostentavam	tal	condição,	na	ação	em	que	foi	proferida	a	decisão	rescindenda.	Caso	tenha	se	formado
+litisconsórcio	simples	na	ação	originária,	porém,	não	será	obrigatória	a	formação	de	litisconsórcio	na
+ação	rescisória:	“Relativamente	à	ação
+[/PAGINA 1422]
+
+[PAGINA 1423]
+rescisória,	não	havendo	disposição	legal	a	respeito,	o
+litisconsórcio	necessário	somente	ocorrerá	se	a	sentença	rescindenda	não	comportar	rescisão
+subjetivamente	parcial,	mas	apenas	integral,	para	todas	as	partes	envolvidas	na	ação	originária.
+Tratandose	de	sentença	proferida	em	ação	proposta	mediante	litisconsórcio	ativo	facultativo	comum,	em
+que	há	mera	cumulação	de	demandas	suscetíveis	de	propositura	separada,	é	admissível	sua	rescisão
+parcial,	para	atingir	uma	ou	algumas	das	demandas	cumuladas.	Em	casos	tais,	qualquer	um	dos	primitivos
+autores	poderá	promover	a	ação	rescisória	em	relação	à	sua	própria	demanda,	independentemente	da
+formação	de	litisconsórcio	ativo	necessário	com	os	demais	demandantes;	da	mesma	forma,	nada	impede
+que	o	primitivo	demandado	promova	a	rescisão	parcial	da	sentença,	em	relação	apenas	a	alguns	dos
+primitivos	demandantes,	sem	necessidade	de	formação	de	litisconsórcio	passivo	necessário	em	relação
+aos	demais”	(STJ,	REsp	1.111.092/MG,	rel.	Min.	Teori	Albino	Zavascki,	1.ª	T.,	j.	28.06.2011).
+Art.	968.	A	petição	inicial	será	elaborada	com	observância	dos	requisitos	essenciais	do	art.	319,
+devendo	o	autor:	I	-	cumular	ao	pedido	de	rescisão,	se	for	o	caso,	o	de	novo	julgamento	do	processo;	II	-
+depositar	a	importância	de	5%	(cinco	por	cento)	sobre	o	valor	da	causa,	que	se	converterá	em	multa	caso
+a	ação	seja,	por	unanimidade	de	votos,	declarada	inadmissível	ou	improcedente.
+§	1º	Não	se	aplica	o	disposto	no	inciso	II	à	União,	aos	Estados,	ao	Distrito	Federal,	aos	Municípios,	às
+suas	respectivas	autarquias	e	fundações	de	direito	público,	ao	Ministério	Público,	à	Defensoria	Pública	e
+aos	que	tenham	obtido	o	benefício	de	gratuidade	da	justiça.
+§	2º	O	depósito	previsto	no	inciso	II	do	caput	deste	artigo	não	será	superior	a	1.000	(mil)	salários
+mínimos.
+
+§	3º	Além	dos	casos	previstos	no	art.	330,	a	petição	inicial	será	indeferida	quando	não	efetuado	o
+depósito	exigido	pelo	inciso	II	do	caput	deste	artigo.
+§	4º	Aplica-se	à	ação	rescisória	o	disposto	no	art.	332.
+§	5º	Reconhecida	a	incompetência	do	tribunal	para	julgar	a	ação	rescisória,	o	autor	será	intimado	para
+emendar	a	petição	inicial,	a	fim	de	adequar	o	objeto	da	ação	rescisória,	quando	a	decisão	apontada	como
+rescindenda:	I	-	não	tiver	apreciado	o	mérito	e	não	se	enquadrar	na	situação	prevista	no	§	2º	do	art.	966;
+II	-	tiver	sido	substituída	por	decisão	posterior.
+§	6º	Na	hipótese	do	§	5º,	após	a	emenda	da	petição	inicial,	será	permitido	ao	réu	complementar	os
+fundamentos	de	defesa,	e,	em	seguida,	os	autos	serão	remetidos	ao	tribunal	competente.
+CPC/1973:	Arts.	488,	490,	II	(correspondentes).
+V.	art.	70	do	ADCT;	arts.	101,	§	3.º,	e	110,	parágrafo	único,	da	LC	35/1979	(Lei	Orgânica	da
+Magistratura	Nacional).
+•	STF,	Súmula	249:	É	competente	o	Supremo	Tribunal	Federal	para	a	ação	rescisória,	quando,	embora
+não	tendo	conhecido	do	recurso	extraordinário,	ou	havendo	negado	provimento	ao	agravo,	tiver
+apreciado	a	questão	federal	controvertida.
+•	STF,	Súmula	515:	A	competência	para
+[/PAGINA 1423]
+
+[PAGINA 1424]
+a	ação	rescisória	não	é	do	Supremo	Tribunal	Federal,	quando
+a	questão	federal,	apreciada	no	recurso	extraordinário	ou	no	agravo	de	instrumento,	seja	diversa	da
+que	foi	suscitada	no	pedido	rescisório.
+•	STF,	RE	(com	repercussão	geral)	586.789:	As	Turmas	Recursais	são	órgãos	recursais	ordinários	de
+última	instância	relativamente	às	decisões	dos	Juizados	Especiais,	de	forma	que	os	juízes	dos
+Juizados	Especiais	estão	a	elas	vinculados	no	que	concerne	ao	reexame	de	seus	julgados.	Competente
+a	Turma	Recursal	para	processar	e	julgar	recursos	contra	decisões	de	primeiro	grau,	também	o	é	para
+processar	e	julgar	o	mandado	de	segurança	substitutivo	de	recurso.	Primazia	da	simplificação	do
+processo	judicial	e	do	princípio	da	razoável	duração	do	processo.	(STF,	RG	no	RE	586.789,	rel.	Min.
+Ricardo	Lewandowski,	Pleno,	j.	16.11.2011,	DJe	27.02.2012).
+•	STJ,	Súmula	175:	Descabe	o	depósito	prévio	nas	ações	rescisórias	propostas	pelo	INSS.
+SUMÁRIO:	I.	Petição	inicial	da	ação	rescisória	–	II.	Necessidade	de	nova	procuração	para	o
+ajuizamento	de	ação	rescisória
+–	III.	Valor	da	causa	na	ação	rescisória	–	IV.	Depósito	da	multa.	Dispensa	–	V.	Juízo	de	admissibilidade
+da	ação	rescisória	–	VI.
+Improcedência	liminar	do	pedido	–	VII.	Tribunal	competente	para	o	julgamento	da	ação	rescisória.
+Súmula	249	do	STF.
+Possibilidade	de	emenda	da	petição	inicial.
+I.	Petição	inicial	da	ação	rescisória.	A	ação	rescisória	é	ação	de	conhecimento	constitutiva	negativa.	Ao
+
+formular	o	pedido,	o	autor	pede,	no	mínimo,	que	se	reabra	a	causa,	eliminando-se	a	coisa	julgada	formal
+(cf.	comentário	ao	art.	966	do	CPC/2015).	O	que	se	pedirá	daí	em	diante	depende	do	fundamento	da
+ação.	Pode	tratar-se	de	apenas	reconhecer	que	a	decisão	rescindenda	violou	a	coisa	julgada,	nada	mais
+havendo-se	de	se	fazer;	pode,	porém,	ser	necessário	o	rejulgamento	da	causa	(juízo	rescisório).	Cf.,	a
+respeito,	comentário	ao	art.	974	do	CPC/2015.
+II.	Necessidade	de	nova	procuração	para	o	ajuizamento	de	ação	rescisória.	De	acordo	com	o	§	4.º	do
+art.	105	do	CPC/2015,	“salvo	disposição	expressa	em	sentido	contrário	constante	do	próprio
+instrumento,	a	procuração	outorgada	na	fase	de	conhecimento	é	eficaz	para	todas	as	fases	do	processo,
+inclusive	para	o	cumprimento	de	sentença”.	A	lei	não	estende	a	eficácia	da	procuração	à	rescisória,	mas
+também	não	a	restringe.	Na	vigência	do	CPC/1973	(quando	não	havia	dispositivo	correspondente	ao	§	4.º
+do	art.	105	do	CPC/2015),	decidiu	o	STJ	que	“a	procuração	com	poderes	gerais	outorgados	para
+determinada	ação	pode	ser	utilizada	para	a	apresentação	de	incidentes	processuais,	bem	como	para	a
+propositura	de	outras	ações	interligadas	à	ação	originária,	como,	por	exemplo,	ação	rescisória”	(STJ,
+REsp	145.008/SP,	rel.	Min.	Adhemar	Maciel,	2.ª
+T.,	j.	23.10.1997).	Decidiu	o	STF,	porém,	que	“a	ação	rescisória,	por	se	tratar	de	demanda	de	caráter
+excepcional	(uma	vez	que	tem	por	escopo	a	desconstituição	de	decisão	já	acobertada	pelo	manto	da	coisa
+julgada),	há	de	ser	postulada	por	representante	p
+[/PAGINA 1424]
+
+[PAGINA 1425]
+rocessual	devidamente	amparado	por	mandato	judicial
+que	lhe	confira	poderes	específicos	para	tanto.	Em	se	tratando	de	ação	autônoma,	o	mandato	originário
+não	se	estende	à	proposição	de	ação	rescisória.	Os	efeitos	das	procurações	outorgadas	se	exaurem	com	o
+encerramento	definitivo	daquele	processo.	Exigência	que	não	constitui	formalismo	extremo,	mas	cautela
+que,	além	de	condizente	com	a	natureza	especial	e	autônoma	da	ação	rescisória,	visa	resguardar	os
+interesses	dos	próprios	autores”	(STF,	AR	2.196	AgR,	rel.	Min.	Dias	Toffoli,	Pleno,	j.	23.06.2010).	De
+todo	modo,	caso	se	considere	que	a	procuração	seja	ineficaz,	será	o	caso	de	se	intimar	a	parte,	para
+corrigir	o	vício	(cf.	art.	321	do	CPC/2015).
+III.	Valor	da	causa	na	ação	rescisória.	O	valor	da	causa,	na	ação	rescisória,	não	corresponde,
+necessariamente,	ao	valor	da	causa	originária	atualizado,	mas	ao	efetivo	benefício	econômico	pretendido
+(STJ,	AgRg	no	Ag	1.025.554/MS,	5.ª	T.,	j.
+07.08.2008,	rel.	Min.	Felix	Fischer;	STJ,	AgRg	na	AR	4.277/DF,	rel.	Min.	Eliana	Calmon,	1.ª	S.,	j.
+28.10.2009;	STJ,	AgRg	nos	EDcl	no	AgRg	no	REsp	1.151.791/MS,	rel.	Min.	Humberto	Martins,	2.ª	T.,	j.
+23.03.2010).
+IV.	Depósito	da	multa.	Dispensa.	Deve	o	autor	depositar	multa	de	cinco	por	cento	do	valor	da	causa,
+limitada	a	1.000
+salários	mínimos,	que	será	devida	à	parte	adversária,	caso	a	ação	seja	rejeitada	por	unanimidade	de
+votos	(cf.	art.	968,	II	e	§
+2.º,	do	CPC/2015).	Ficam	dispensadas	de	tal	depósito	as	pessoas	referidas	no	§	1.º	do	art.	968	do
+CPC/2015	(quanto	ao	beneficiário	da	assistência	judiciária	gratuita,	a	matéria	era	prevista	no	inc.	VII	do
+art.	3.º	da	Lei	1.060/1950,	na	redação	da	LC
+132/2009;	tal	dispositivo	foi	revogado	pelo	art.	1.072,	III,	do	CPC/2015).
+V.	Juízo	de	admissibilidade	da	ação	rescisória.	De	acordo	com	o	§	3.º	do	art.	968	do	CPC/2015,
+
+admite-se	o	indeferimento	da	petição	inicial	nas	hipóteses	referidas	no	art.	330	do	Código,	bem	como
+quando	não	depositada	a	multa	a	que	se	refere	o	inc.	II	do	art.	968	do	CPC/2015.	A	decisão	poderá	ser
+proferida	pelo	relator	da	rescisória,	cabendo,	contra	ela,	o	agravo	interno	(cf.	art.	1.021	do	CPC/2015).
+VI.	Improcedência	liminar	do	pedido.	O	§	4.º	do	art.	968	autoriza	a	prolação	de	decisão	que	julgue
+improcedente,	liminarmente,	o	pedido,	verificada	uma	das	hipóteses	previstas	no	art.	332	do	CPC/2015.
+Na	vigência	do	CPC/1973,	não	se	admitia	que	o	relator	decidisse,	monocraticamente,	sobre	o	mérito	da
+ação	rescisória	(cf.,	por	exemplo,	STJ,	1.ª	T.,	REsp	1.018.178/RJ,	rel.	Min.	José	Delgado,	j.	06.05.2008,
+no	qual	se	faz	alusão	expressa	ao	“princípio	da	garantia	de	julgamento	da	rescisória	pelo	colegiado”).
+Tal	orientação,	à	luz	do	§	4.º	do	art.	968	do	CPC/2015,	deve	ser	revista,	a	nosso	ver.	Note-se	que	a
+decisão	por	órgão	colegiado	não	fica	vedada	ao	autor,	que	poderá	valer-se	do	agravo	interno	previsto	no
+art.	1.021	do	CPC/2015	para	obtê-la.
+VII.	Tribunal	competente	para	o	julgamento	da	ação	rescisória.	Súmula	249	do	STF.	Possibilidade	de
+emenda	da	peti
+[/PAGINA 1425]
+
+[PAGINA 1426]
+ção	inicial.	Os	tribunais	superiores	(STF	e	STJ)	têm	competência	para	julgar	a	ação
+rescisória	quando,	interpostos	recursos	extraordinário	ou	especial,	tiverem	tais	tribunais	julgado	o
+mérito	dos	mesmos	(CF,	art.	102,	I,	j	e	art.	105,	I,	e).	A	diferenciação	entre	não	conhecimento	e	não
+provimento	dos	recursos	dos	recursos	extraordinário	e	especial,	assim,	assume	importância	de	relevo.
+Por	exemplo,	caso	um	recurso	especial	tenha	sido	conhecido	e	provido	(ou	não	provido),	a	competência
+para	julgar	a	ação	rescisória	será	do	STJ;	caso,	diversamente,	o	recurso	especial	não	tenha	sido
+conhecido,	não	se	tendo	examinado	o	mérito	do	recurso,	a	competência	para	julgar	a	ação	rescisória	será
+do	tribunal	que	proferiu	a	decisão	recorrida.	O	STF,	reconhecendo	que,	não	raro,	não	admite	o	recurso
+extraordinário	em	razão	de	o	mesmo	não	merecer	provimento	(o	que,	para	nós,	corresponderia	a	decidir
+o	mérito	de	tal	recurso),	editou	a	Súmula	249,	que	tem	o	seguinte	teor:
+“É	competente	o	Supremo	Tribunal	Federal	para	a	ação	rescisória,	quando,	embora	não	tendo	conhecido
+do	recurso	extraordinário,	ou	havendo	negado	provimento	ao	agravo,	tiver	apreciado	a	questão	federal
+controvertida”	(g.n.).	Esta	Súmula	tem	sido	aplicada	pelo	STJ	(cf.,	dentre	outras,	as	seguintes	decisões:
+STJ,	1.ª	T.,	REsp	712.285/PR,	rel.	Min.	Luiz	Fux,	j.
+04.08.2005;	STJ,	3.ª	Seção,	AR	1.597/AL,	rel.	Min.	Maria	Thereza	de	Assis	Moura,	j.	08.08.2007;	STJ,
+AR	2.955/RJ,	rel.	Min.	Mauro	Campbell	Marques,	1.ª	S.,	j.	08.09.2010).	Aquele	que	pretende	ajuizar
+ação	rescisória	deve	atentar	menos	ao	resultado	do	julgamento,	tal	como	formalmente	proclamado	no
+acórdão,	e	mais	ao	que	tiver	sido	substancialmente	julgado:	notando	que	o	mérito	do	recurso	foi
+examinado	pelo	Tribunal	superior,	deverá	a	parte	ajuizar,	perante	este,	a	ação	rescisória,	ainda	que	no
+resultado	formal	do	julgamento	dos	recursos	extraordinário	e	especial	conste	que	estes	não	foram
+conhecidos.	Não	se	consideram	relevantes,	portanto,	para	se	definir	se	houve	julgamento	do	mérito,	os
+dizeres	empregados	ao	final	da	decisão.
+Assim,	ainda	que,	por	exemplo,	afirme-se	na	conclusão	de	acórdão	proferido	pelo	STJ	que	o	recurso
+especial	não	foi	conhecido,	será	do	STJ	a	competência	se	o	mérito	do	recurso	tiver	sido	examinado.
+Preponderava,	na	jurisprudência	que	se	produziu	na	vigência	do	CPC/1973,	a	orientação	segundo	a	qual,
+ajuizada	a	ação	rescisória	perante	órgão	incompetente,	deveria	a	mesma	ser	extinta	(cf.	STJ,	1.ª	Seção,
+AgRg	na	AR	2.010/RS,	rel.	Min.	Laurita	Vaz,	j.	26.06.2002;	STJ,	1.ª	T.,	REsp	714.580/PR,	rel.	Min.	José
+Delgado,	j.	24.05.2005;	2.ª	T.,	AgRg	no	REsp	755.710/PR,	rel.	Min.	Humberto	Martins,	j.	11.03.2008).
+Havia,	porém,	julgados	no	sentido	de	que,	tendo	em	vista	que	tal	meio	de	impugnação	tem	natureza	de
+ação	autônoma,	se	aplicaria	ao	caso	o	disposto	no	art.	113,	§	2.º,	do	CPC/1973	(correspondente	ao	art.
+
+64,	§	3.º,	do	CPC/2015),	segundo	o	qual,	reconhecida	a	incompetência,	devem	os	autos	ser	remetidos	ao
+juízo	competente	(cf.	ST
+[/PAGINA 1426]
+
+[PAGINA 1427]
+J,	1.ª	Seção,	AgRg	na	AR	2.061/SP,	rel.
+Min.	Francisco	Peçanha	Martins,	j.	24.03.2004;	STJ,	3.ª	T.,	REsp	216.162/PA,	rel.	Min.	Nilson	Naves,	j.
+19.08.1999;	STJ,	2.ª	T.,	REsp	709.330/PR,	rel.	Min.	Eliana	Calmon,	j.	12.04.2005).	Como	afirmamos	na
+edição	anterior	deste	trabalho,	tendo	em	vista	que	a	ação	rescisória	ajuizada	perante	o	STJ	tem	por
+objeto	a	rescisão	de	acórdão	proferido	por	tal	tribunal	(e	não	por	tribunal	estadual	ou	regional	federal,
+por	exemplo),	é	necessário,	para	se	corrigir	o	vício,	também	se	alterar	o	pedido	(isto	é,	para	se	rescindir
+julgado	proferido	por	outro	Tribunal,	e	não	pelo	STJ).	Como	decidiu	o	STJ,	em	tais	situações	“o
+equívoco	da	parte	não	é	simplesmente	quanto	ao	foro,	mas	em	relação	ao	próprio	objeto	da	ação
+rescisória”	(STJ,	AgRg	na	AR	2.214/CE,	rel.	Min.	Arnaldo	Esteves	Lima,	3.ª	S.,	j.	24.05.2006;	no
+mesmo	sentido,	STJ,	AR	3.047/SP,	rel.	Min.	Denise	Arruda,	1.ª	S.,	j.
+22.10.2008).	Sustentávamos,	então,	ser	possível	a	emenda	da	petição	inicial	da	ação	rescisória,	a	fim	de
+se	corrigir	também	a	competência	para	julgá-la	(cf.	CPC/1973,	art.	295,	caput,	VI,	c/c	art.	284;	no
+CPC/2015,	cf.	arts.	330,	IV	c/c	321),	deve-se	admitir,	também,	a	possibilidade	de	correção	da
+competência.	Essa	orientação	veio	a	ser	incorporada,	pelo	§	5.º	do	art.	968	do	CPC/2015.
+Art.	969.	A	propositura	da	ação	rescisória	não	impede	o	cumprimento	da	decisão	rescindenda,
+ressalvada	a	concessão	de	tutela	provisória.
+CPC/1973:	Art.	489	(correspondente).
+SUMÁRIO:	I.	Suspensão	dos	efeitos	da	decisão	rescindenda	–	II.	Suspensão	da	execução	pelo	juízo	da
+execução,	quando	ajuizada	ação	rescisória	contra	a	sentença	exequenda.
+I.	Suspensão	dos	efeitos	da	decisão	rescindenda.	Admite-se,	de	acordo	com	o	art.	969	do	CPC/2015,	a
+suspensão	dos	efeitos	da	decisão	rescindenda,	quando	presentes	os	requisitos	necessários	à	concessão	de
+tutela	provisória,	isso	é,	de	tutela	de	evidência	ou	de	urgência,	cautelar	ou	antecipada	(cf.	arts.	294	ss.	do
+CPC/2015).
+II.	Suspensão	da	execução	pelo	juízo	da	execução,	quando	ajuizada	ação	rescisória	contra	a
+sentença	exequenda.
+Tem-se	admitido,	embora	em	caráter	excepcional,	que,	com	base	no	poder	geral	de	cautela,	o	próprio
+juízo	perante	o	qual	tramita	a	execução	suspenda-a,	em	razão	da	tramitação,	perante	tribunal	superior,	de
+ação	rescisória	ajuizada	contra	a	sentença	rescindenda:	“O	STJ	tem	chancelado	a	suspensão	dos
+processos	executivos	baseados	em	título	judicial	oriundo	de	ação	civil	pública	ajuizada	pela	Apadeco
+em	torno	de	empréstimo	compulsório	sobre	aquisição	de	combustíveis,	por	ter	o	STF	julgado	procedente
+a	rescisória,	que	se	encontra	pendente	de	apreciação	de	embargos	declaratórios”	(STJ,	2.ª	T.,	REsp
+905.121/RS,	rel.	Min.	Eliana	Calmon,	j.	13.05.2008;	no	mesmo	sentido,	STJ,	REsp	926.843/PR,	rel.	Min.
+Mauro	Campbell	Marques,	j.	28.09.2010).	Afirma-se	que,	no	caso,	se	está	diante	de	prejudicialidade
+externa	que,	como	tal,	autoriza	a	suspensão	da	execução	(cf.	STJ,	1.ª	Seção,	EREsp	770.847/PR,	rel.
+Min.	Luiz	Fux,
+[/PAGINA 1427]
+
+[PAGINA 1428]
+j.	23.04.2008).	Cf.	também	comentário	aos	arts.	313	e	921
+do	CPC/2015
+
+Art.	970.	O	relator	ordenará	a	citação	do	réu,	designando-lhe	prazo	nunca	inferior	a	15	(quinze)	dias	nem
+superior	a	30	(trinta)	dias	para,	querendo,	apresentar	resposta,	ao	fim	do	qual,	com	ou	sem	contestação,
+observar-se-á,	no	que	couber,	o	procedimento	comum.
+CPC/1973:	Art.	491	(correspondente).
+Resposta	do	réu,	na	ação	rescisória.	Efeito	da	revelia.	Na	ação	rescisória,	o	réu	é	citado	para
+apresentar	resposta,	em	prazo	de,	no	mínimo,	quinze	dias	(art.	970	do	CPC/2015).	Se	o	réu	for	revel,	não
+se	verificará,	necessariamente,	o	efeito	previsto	no	344,	in	fine,	do	CPC/2015	(segundo	o	qual
+“presumir-se-ão	verdadeiras	as	alegações	de	fato	formuladas	pelo	autor”).	Decidiu-se	que	“mera
+omissão	processual,	decorrente	do	descumprimento	de	um	ônus	[no	caso,	de	contestar],	não	pode	gerar
+efeitos	de	grande	relevância	a	ponto	de	eliminar	a	coisa	julgada,	instrumento	a	serviço	da	ordem	pública
+e	do	bem	comum,	da	paz	e	da	tranquilidade	sociais”	(Ext.	2.º	TACivSP,	AR	205.584-7,	rel.	Des.	Macedo
+Cerqueira,	j.	09.12.1987,	RT
+626/121).	À	luz	da	nova	lei	processual,	pode-se	dizer	que	a	hipótese	se	encarta	no	inc.	IV	do	art.	345	do
+CPC/2015.
+Art.	971.	Na	ação	rescisória,	devolvidos	os	autos	pelo	relator,	a	secretaria	do	tribunal	expedirá	cópias
+do	relatório	e	as	distribuirá	entre	os	juízes	que	compuserem	o	órgão	competente	para	o	julgamento.
+Parágrafo	único.	A	escolha	de	relator	recairá,	sempre	que	possível,	em	juiz	que	não	haja	participado	do
+julgamento	rescindendo.
+CPC/1973:	Art.	553	(correspondente,	em	parte).
+•	STF,	Súmula	252:	Na	ação	rescisória,	não	estão	impedidos	juízes	que	participaram	do	julgamento
+rescindendo.
+Escolha	do	relator.	Processamento	da	ação	rescisória.	Sendo	possível,	a	escolha	do	relator	recairá	em
+juiz	que	não	tenha	participado	do	julgamento	rescindendo	(parágrafo	único	do	art.	971	do	CPC/2015).
+Não	incide,	pois,	a	restrição	prevista	no	art.	144,	II,	do	CPC/2015	(cf.	STF,	Súmula	252,	nota	supra).
+Não	havendo	necessidade	de	produção	de	prova	(cf.	arts.	972	e	973	do	CPC/2015),	apresentado	o
+relatório,	os	autos	são	restituídos	à	secretaria	(art.	931	do	CPC/2015),	e,	em	seguida,	encaminhados	ao
+presidente,	seguindo-se	o	que	dispõem	os	arts.	934	ss.	e	o	art.	974	do	CPC/2015.
+Art.	972.	Se	os	fatos	alegados	pelas	partes	dependerem	de	prova,	o	relator	poderá	delegar	a	competência
+ao	órgão	que	proferiu	a	decisão	rescindenda,	fixando	prazo	de	1	(um)	a	3	(três)	meses	para	a	devolução
+dos	autos.
+CPC/1973:	Art.	492	(correspondente).
+Produção	de	provas.	Necessária	a	produção	de	provas	(por	exemplo,	em	caso	em	que	se	pretenda
+demonstrar	a	falsidade	de	prova	em	que	se	baseou	a	decisão	rescindenda,	cf.	art.	966,	VI,	do	CPC/2015),
+o	relator	poderá	delegar	a	competência	ao	juízo	que	proferiu	a	decisão	rescindenda	para	que	neste	juízo
+se	obtenham	os	elementos	a	serem	considerados	pelo	tribunal,	no	julgamento	da	rescisória,	expedindo,
+para	tanto,	carta	de	ordem	(cf.	art.	237,	I,	do	CPC/2015)
+[/PAGINA 1428]
+
+[PAGINA 1429]
+.
+
+Art.	973.	Concluída	a	instrução,	será	aberta	vista	ao	autor	e	ao	réu	para	razões	finais,	sucessivamente,
+pelo	prazo	de	10	(dez)	dias.
+Parágrafo	único.	Em	seguida,	os	autos	serão	conclusos	ao	relator,	procedendo-se	ao	julgamento	pelo
+órgão	competente.
+CPC/1973:	Art.	493	(correspondente).
+Razões	finais.	Havendo	produção	de	provas,	deve-se	dar	às	partes	oportunidade	para	se	manifestar,
+apresentando	suas	razões	finais	(cf.	também	art.	364	do	CPC/2015).
+Art.	974.	Julgando	procedente	o	pedido,	o	tribunal	rescindirá	a	decisão,	proferirá,	se	for	o	caso,	novo
+julgamento	e	determinará	a	restituição	do	depósito	a	que	se	refere	o	inciso	II	do	art.	968.
+Parágrafo	único.	Considerando,	por	unanimidade,	inadmissível	ou	improcedente	o	pedido,	o	tribunal
+determinará	a	reversão,	em	favor	do	réu,	da	importância	do	depósito,	sem	prejuízo	do	disposto	no	§	2º	do
+art.	82.
+CPC/1973:	Art.	494	(correspondente).
+SUMÁRIO:	I.	Distinção	entre	admissibilidade	e	mérito	da	ação	rescisória	–	II.	Juízo	rescindente	e	juízo
+rescisório	–	III.
+Dispensa	do	juízo	rescisório	–	IV.	Efeitos	do	julgamento	e	princípio	da	translatio	iudicii	–	V.	Reversão
+da	multa	depositada	em	favor	do	réu.
+I.	Distinção	entre	admissibilidade	e	mérito	da	ação	rescisória.	O	julgamento	da	ação	rescisória	tem
+juízos:	1.º)	de	admissibilidade,	em	que	se	verifica	se	se	encontram	presentes	os	requisitos	de
+admissibilidade	de	tal	ação	(ter	havido	trânsito	em	julgado,	fundar-se	a	ação	em	uma	das	hipóteses
+previstas	nos	arts.	966	e,	também,	658	do	CPC/2015,	ter-se	observado	o	disposto	no	art.	968,	quanto	à
+petição	inicial	e	à	multa,	observância	do	prazo	previsto	no	art.	975	do	CPC/2015);	e	2.º)	de	mérito,	em
+que,	procedente	o	pedido,	haverá	juízo	rescindens	(em	que	se	desfaz	a	coisa	julgada,	cf.	comentário	ao
+art.
+966	do	CPC/2015),	podendo	haver,	também,	juízo	rescissorium	(“novo	julgamento”,	a	que	alude	o	art.
+974,	caput,	do	CPC/2015).
+II.	Juízo	rescindente	e	juízo	rescisório.	No	juízo	rescindente	o	tribunal	acolherá	o	pedido	fundado	em
+um	dos	vícios	descritos	no	art.	966	do	CPC/2015,	desfazendo-se	a	coisa	julgada.	Quanto	ao	juízo
+rescindente,	a	ação	rescisória	tem	natureza	constitutiva	negativa	(cf.	José	Carlos	Barbosa	Moreira,
+Comentários.	.	cit.,	vol.	V,	n.	125,	p.	209,	que	cita	extensa	doutrina,	neste	mesmo	sentido).	Como	regra,
+ultrapassado	o	juízo	rescindente,	deve-se	realizar	o	juízo	rescisório,	que	é	o	rejulgamento	da	causa
+(“novo	julgamento”,	a	que	se	refere	o	art.	974,	caput,	do	CPC/2015).	A	natureza	do	juízo	rescisório
+dependerá	da	natureza	do	pedido	realizado	na	ação	originária.	Não	se	permite,	a	toda	evidência,	que,
+uma	vez	realizado	o	juízo	rescindente,	e	passando	o	tribunal	a	rejulgar	a	causa,	este	incida	no	mesmo	erro
+que	ensejou	a	rescisão	do	julgado.	Exemplo:
+“No	julgamento	da	ação	rescisória,	o	Tribunal,	em	iudicium	rescindens,	considerou	que	a	sentença
+
+rescindenda	não	poderia,	por	um	lado,	julgar	antecipadamente	o	feito	e,	por	outro,	reconhecer	a
+procedência	do	pedido	formulado	pela	ausência	de	c
+[/PAGINA 1429]
+
+[PAGINA 1430]
+omprovação,	pelo	réu,	de	suas	alegações.	Tal
+contradição	implicaria	ofensa	ao	art.	330,	I	[do	CPC/1973,	correspondente	ao	art.	355,	I	do	CPC/2015],
+justificando	a	rescisão	do	julgado	com	fundamento	no	art.	485,	V,	do	mesmo	diploma	legal	[CPC/1973,
+correspondente	do	art.	966,	V	do	CPC/2015].	Esta	parcela	do	acórdão	não	merece	reforma.	Ao	promover
+o	iudicium	rescissorium,	porém,	o	Tribunal	não	poderia	ter	julgado	procedente	o	pedido,	diretamente.	Se
+a	necessidade	de	ingresso	na	fase	de	instrução	orientou	o	acórdão	para	desconstituir	a	sentença,	é
+incoerente	decidir	a	causa	sem	dar	às	partes	a	oportunidade	de	produzir	as	provas	que	entendem
+necessárias.	Deve	haver	uma	correlação	necessária	entre	o	motivo	da	desconstituição	da	sentença,	em
+iudicium	rescindens,	e	o	rejulgamento	da	causa,	em	iudicium	rescissorium.	O	acórdão	recorrido,
+portanto,	merece	reforma,	de	modo	que	o	processo	retorne	ao	juízo	de	primeiro	grau	para	instrução”
+(STJ,	3.ª	T.,	REsp	960.868/SC,	rel.	Min.	Nancy	Andrighi,	j.	26.02.2008).
+III.	Dispensa	do	juízo	rescisório.	De	acordo	com	o	art.	974,	caput,	do	CPC/2015,	rescindida	a	sentença
+(juízo	rescindente),	o	tribunal	“proferirá,	se	for	o	caso,	novo	julgamento”.	Pode	ocorrer	que	o
+acolhimento	de	ação	rescisória	limite-se	à	realização	do	juízo	rescindente,	não	havendo	juízo	rescisório.
+É	o	que	ocorre,	por	exemplo,	no	caso	de	procedência	de	ação	rescisória	fundada	em	violação	à	coisa
+julgada	(CPC,	art.	966,	IV,	do	CPC/2015):	“Nesse	caso,	o	pedido	é	uno	e	limita-se	a	anular	a	decisão
+proferida	por	último”	(STJ,	REsp	1.195.513/AL,	rel.	Min.	Castro	Meira,	2.ª	T.,	j.	26.08.2010).
+IV.	Efeitos	do	julgamento	e	princípio	da	translatio	iudicii	.	O	julgamento	da	ação	rescisória	produz,	em
+regra,	efeitos	ex	tunc.	Pensamos,	no	entanto,	que	em	alguns	casos	podem	concorrer	circunstâncias
+especiais,	em	razão	das	quais,	a	despeito	de	dever	ser	julgada	procedente	a	ação	rescisória,	é	possível	a
+manutenção	total	ou	parcial	dos	efeitos	da	decisão	rescindida.	É	o	que	pode	ocorrer,	por	exemplo,
+quando	julgada	procedente	ação	rescisória	fundada	em	incompetência	absoluta	(art.	966,	II,	do
+CPC/2015).	No	caso,	deve	o	tribunal,	ao	realizar	o	juízo	rescindente,	determinar	o	prosseguimento	da
+ação	originária	perante	o	juízo	competente,	mantendo	os	efeitos	da	decisão	rescindida,	até	que	outra
+decisão	seja	proferida,	se	for	o	caso,	pelo	juízo	competente	(	translatio	iudicii,	cf.	art.	64,	§	4.º,	do
+CPC/2015).	Cf.	também	comentário	ao	art.	966	do	CPC/2015.
+V.	Reversão	da	multa	depositada	em	favor	do	réu.	Rejeitada,	por	unanimidade,	a	ação	rescisória,	a
+multa	depositada	pelo	autor	(cf.	art.	968,	II,	do	CPC/2015)	reverterá	em	favor	do	réu	(cf.	art.	974,
+parágrafo	único,	do	CPC/2015).	Tem-se	dado	interpretação	restritiva	a	essa	regra.	Assim,	decidiu-se
+que,	no	caso	de	extinção	da	rescisória	fundada	em	renúncia	do	autor	(no	CPC/2015,	prevista	no	art.	487,
+III,	c),	poderá	o	autor	levantar	a	multa	depositada:	“O	depósito	inicial	da	ação	rescisória	possui	dupla
+finalidade.	V
+[/PAGINA 1430]
+
+[PAGINA 1431]
+isa	reprimir	excessivo	ajuizamento	de	ações	e	sancionar	o	abuso	do	direito.	Não	assume,
+por	conseguinte,	caráter	indenizatório	(compensar	o	réu	por	eventuais	prejuízos).	Esses	dois	fundamentos
+demonstram	que	o	depósito	inicial	somente	será	perdido	nas	situações	que	a	norma	jurídica
+expressamente	indicar	como	geradoras	da	sanção,	o	que	demonstra	serem	taxativas	as	hipóteses	da	parte
+final	do	art.	494	[do	CPC/1973,	correspondente	ao	art.	974	do	CPC/2015].	No	caso	dos	autos,	renúncia
+ao	direito	de	ação,	o	depósito	inicial	deve	ser	levantado	pelo	autor,	consoante	determinado	pelo	Tribunal
+de	origem.	A	renúncia	não	pode	ser	equiparada	ao	julgamento	de	improcedência	unânime	para	a	reversão
+do	depósito”	(STJ,	REsp	754.254/RS,	rel.	Min.	Castro	Meira,	2.ª	T.,	j.	21.05.2009).
+Art.	975.	O	direito	à	rescisão	se	extingue	em	2	(dois)	anos	contados	do	trânsito	em	julgado	da	última
+decisão	proferida	no	processo.
+
+§	1º	Prorroga-se	até	o	primeiro	dia	útil	imediatamente	subsequente	o	prazo	a	que	se	refere	o	caput,
+quando	expirar	durante	férias	forenses,	recesso,	feriados	ou	em	dia	em	que	não	houver	expediente
+forense.
+§	2º	Se	fundada	a	ação	no	inciso	VII	do	art.	966,	o	termo	inicial	do	prazo	será	a	data	de	descoberta	da
+prova	nova,	observado	o	prazo	máximo	de	5	(cinco)	anos,	contado	do	trânsito	em	julgado	da	última
+decisão	proferida	no	processo.
+§	3º	Nas	hipóteses	de	simulação	ou	de	colusão	das	partes,	o	prazo	começa	a	contar,	para	o	terceiro
+prejudicado	e	para	o	Ministério	Público,	que	não	interveio	no	processo,	a	partir	do	momento	em	que	têm
+ciência	da	simulação	ou	da	colusão.
+CPC/1973:	Art.	495	(correspondente).
+V.	art.	8-C	da	Lei	6.739/1979	(Matrícula	e	registro	de	imóveis	rurais).
+•	STJ,	Súmula	401:	O	prazo	decadencial	da	ação	rescisória	só	se	inicia	quando	não	for	cabível
+qualquer	recurso	do	último	pronunciamento	judicial.
+SUMÁRIO:	I.	Prazo	decadencial	para	ajuizamento	da	ação	rescisória.	Termo	a	quo:	trânsito	em	julgado
+da	última	decisão	proferida	no	processo.	Prorrogação	do	prazo	–	II.	Natureza	declaratória	da	decisão	que
+não	admite	recurso	e	termo	a	quo	para	o	ajuizamento	de	ação	rescisória	–	III.	Decisões	rescindíveis
+proferidas	ao	longo	do	processo.	Recurso	relativo	a	parte	dos	capítulos	da	decisão.	Termo	a	quo	do
+prazo	–	IV.	Conhecimento	do	fundamento	para	ajuizamento	da	ação	rescisória	apenas	após	o	transcurso
+do	prazo	de	dois	anos	do	trânsito	em	julgado	da	decisão.	Prova	nova.	Simulação	ou	colusão	entre	as
+partes.	Falsidade	de	prova	apurada	em	processo	criminal.	Prevaricação,	concussão	ou	corrupção	do	juiz
+–	V.	Ajuizamento	dentro	do	prazo,	mas	citação	ocorrida	depois.	Inocorrência	de	decadência	–	VI.	Curso
+do	prazo	para	ajuizamento	da	ação	rescisória	contra	incapazes	(CC,	arts.	198,	I,	e	208).
+I.	Prazo	decadencial	para	ajuizamento	da	ação	rescisória.	Termo	a	quo	:	trânsito	em	julgado	da
+última	decisão	proferida	no	processo.	Prorrogação	do	prazo.	A	ação	rescisória,	como	regra	geral,
+deve	ser	ajuizada	no	prazo	de	dois	anos	contados	do	trânsito	em	julgad
+[/PAGINA 1431]
+
+[PAGINA 1432]
+o	da	decisão	rescindenda	(art.
+975,	caput,	do	CPC/2015)	–	e	não	da	certidão	que	atesta	o	trânsito	em	julgado	(STJ,	AR	4.374-MA,	rel.
+Min.	Paulo	de	Tarso	Sanseverino,	j.	09.05.2012).	Mas	há	exceção	a	essa	regra.	No	caso	previsto	no	art.
+8.º-C	da	Lei	6.739/1979,	“é	de	oito	anos,	contados	do	trânsito	em	julgado	da	decisão,	o	prazo	para
+ajuizamento	de	ação	rescisória	relativa	a	processos	que	digam	respeito	a	transferência	de	terras	públicas
+rurais”.	O	prazo,	de	acordo	com	a	doutrina	dominante,	é	decadencial,	e	não	processual	(cf.,	dentre	outros,
+José	Carlos	Barbosa	Moreira,	Comentários	ao	CPC	cit.,	vol.	5,	n.	129,	p.	217,	que	afirma	que	“o
+fenômeno	passa-se	no	plano	material,	não	no	plano	processual“;	em	sentido	contrário,	Pontes	de
+Miranda,	Tratado	da	ação	rescisória.	.	cit.,	§	33,	p.	363	ss.).	A	despeito	disso,	quando	expirar	durante
+férias	forenses,	recesso,	feriados	ou	em	dia	em	que	não	houver	expediente	forense,	o	prazo	se	prorrogará
+até	o	primeiro	dia	útil	imediatamente	subsequente	(cf.	§	1.º	do	art.	975	do	CPC/2015).	O	termo	inicial	do
+prazo	é	comum:	“Não	há	como	considerar	o	termo	inicial	da	contagem	do	prazo	decadencial
+distintamente	para	cada	uma	das	partes”	(STJ,	AgRg	no	REsp	996.970/RS,	rel.	Min.	Luiz	Fux,	1.ª	T.,	j.
+02.03.2010).	Se	uma	das	partes	tem,	como	privilégio,	o	prazo	em	dobro	para	recorrer,	somente	com	o
+término	deste	é	que	ocorrerá	a	coisa	julgada,	e,	então,	começará	a	fluir	o	prazo	para	ambas	as	partes
+ajuizarem	ação	rescisória	(STJ,	AgRg	no	AREsp	79.082	SP,	rel.	Min.	Arnaldo	Esteves	Lima,	1.ª	T.,	j.
+05.02.2013).
+
+Tratandose	de	prazo	decadencial,	incide	o	disposto	no	art.	208	do	CC.	Assim,	decidiu-se	que	“o	prazo
+para	o	ajuizamento	da	ação	rescisória	é	de	decadência	(art.	495,	CPC	[de	1973,	correspondente	ao	art.
+975	do	CPC/2015]),	por	isso	aplica-se-lhe	a	exceção	prevista	no	art.	208	do	CC/2002,	segundo	a	qual	os
+prazos	decadenciais	não	correm	contra	os	absolutamente	incapazes”	(STJ,	REsp	1.165.735/MG,	rel.	Min.
+Luis	Felipe	Salomão,	4.ª	T.,	j.	06.09.2011).
+II.	Natureza	declaratória	da	decisão	que	não	admite	recurso	e	termo	a	quo	para	o	ajuizamento	de
+ação	rescisória.
+Ainda	que	se	admita,	em	consonância	com	a	doutrina	majoritária,	que	decisão	que	realiza	o	juízo	de
+admissibilidade	dos	recursos	tenha	natureza	declaratória	(cf.	Barbosa	Moreira,	Comentários.	.	cit.,	vol.
+V,	12.	ed.,	2005,	n.	147,	p.	266-267),	o	prazo	para	ajuizamento	de	ação	rescisória	não	tem	curso	enquanto
+não	julgado	o	recurso	interposto,	pois,	enquanto	tramitar	o	recurso,	haverá	litispendência.	Assim,	o
+prazo	para	ajuizamento	da	ação	rescisória	tem	início	com	o	trânsito	em	julgado	da	última	decisão
+proferida	no	processo,	ainda	que	esta	não	tenha	admitido	recurso	(cf.	STJ,	REsp	1.003.403/MG,	rel.	Min.
+Arnaldo	Esteves	Lima,	5.ª	T.,	j.	02.06.2009).	Tal	orientação	tem	sido	excepcionada,	contudo,	nos	casos
+em	que	o	recurso	não	tenha	sido	conhecido	em	razão	de	intempestividade	flagrante,	e	configurado	erro
+grosseiro	ou	má-fé	(cf.	STJ,	REsp	1.186.694/DF,	rel.	Min.	L
+[/PAGINA 1432]
+
+[PAGINA 1433]
+uiz	Fux,	1.ª	T.,	j.	03.08.2010).	Assim,	“não
+demonstrada	a	má-fé	do	recorrente,	que	visa	reabrir	prazo	recursal	já	vencido,	o	início	do	prazo
+decadencial	se	dará	após	o	julgamento	do	recurso	tido	por	intempestivo”	(STJ,	AgRg	no	Ag
+1.218.222/MA,	rel.	Min.	Sidnei	Beneti,	3.ª	T.,	j.	22.06.2010).	No	mesmo	sentido,	STJ,	REsp	740.530/RJ,
+rel.	Min.	Castro	Meira,	2.ª	T.,	j.	06.09.2012.
+III.	Decisões	rescindíveis	proferidas	ao	longo	do	processo.	Recurso	relativo	a	parte	dos	capítulos	da
+decisão.	Termo
+a	quo	do	prazo.	Tem-se	decidido	que	o	prazo	para	o	ajuizamento	de	ação	rescisória	é	um	só,	não	sendo
+relevante,	para	este	fim,	a	circunstância	de	ter	havido	recurso	parcial,	com	o	consequente	trânsito	em
+julgado	da	parte	não	recorrida	da	decisão.
+Decidiu-se	que	“a	sentença	é	una,	indivisível	e	só	transita	em	julgado	como	um	todo	após	decorrido	in
+albis	o	prazo	para	a	interposição	do	último	recurso	cabível,	sendo	vedada	a	propositura	de	ação
+rescisória	de	capítulo	do	decisum	que	não	foi	objeto	do	recurso.	Impossível,	portanto,	conceber-se	a
+existência	de	uma	ação	em	curso	e,	ao	mesmo	tempo,	várias	ações	rescisórias	no	seu	bojo,	não	se
+admitindo	ações	rescisórias	em	julgados	no	mesmo	processo”	(STJ,	Corte	Especial,	EREsp	441.252/CE,
+rel.	Min.	Gilson	Dipp,	j.	29.06.2005;	no	mesmo	sentido,	STJ,	AR	3.130/SP,	rel.	Min.	Luiz	Fux,	1.ª	S.,	j.
+26.11.2008;	STJ,	AgRg	na	AR	4.296/PE,	rel.	Min.	Maria	Thereza	de	Assis	Moura,	3.ª	S.,	j.	26.08.2009).
+Esta	orientação	foi	consolidada,	na	vigência	do	CPC/1973,	com	a	edição	da	Súmula	401	do	STJ:	“O
+prazo	decadencial	da	ação	rescisória	só	se	inicia	quando	não	for	cabível	qualquer	recurso	do	último
+pronunciamento	judicial”.	O	CPC/2015,	no	art.	975,	caput,	fez	consignar	na	lei	esse	entendimento.	Deve-
+se	dar	o	mesmo,	em	se	tratando	de	decisões	rescindíveis,	proferidas	no	curso	do	processo.	Assim,	por
+exemplo,	tendo	havido	julgamento	antecipado	parcial	do	mérito	(art.	356	do	CPC/2015)	e	não	havendo
+recurso,	o	prazo	para	ajuizamento	de	ação	rescisória	contra	essa	decisão	só	começa	a	correr,	de	acordo
+com	o	art.	975,	caput,	in	fine	do	CPC/2015,
+“do	trânsito	em	julgado	da	última	decisão	proferida	no	processo”.
+
+IV.	Conhecimento	do	fundamento	para	ajuizamento	da	ação	rescisória	apenas	após	o	transcurso	do
+prazo	de	dois	anos	do	trânsito	em	julgado	da	decisão.	Prova	nova.	Simulação	ou	colusão	entre	as
+partes.	Falsidade	de	prova	apurada	em	processo	criminal.	Prevaricação,	concussão	ou	corrupção	do
+juiz.	Sustentamos,	em	outro	estudo,	que	não	se	extingue	direito	que	sequer	tenha	nascido	(cf.	o	que
+escrevemos	em	O	dogma	da	coisa	julgada.	.	cit.,	em	coautoria	com	Teresa	Arruda	Alvim	Wambier,	n.	5,
+p.	206).	Deve-se,	antes,	surgir	o	fundamento	para	o	ajuizamento	da	ação	para,	só	depois,	correr	o	prazo
+para	o	seu	exercício	(princípio	da	actio	nata).	Segundo	afirma	Luiz	Eulálio	de	Bueno	Vidigal,	“o
+princípio	geral	regulador	da	matéria,	em	direito	civil,	é	o	de	que	ele	começa	a	correr	na	data	em	que	a
+ação	poderia	ter	sido	proposta”	(ob.
+loc.	cits.
+[/PAGINA 1433]
+
+[PAGINA 1434]
+,	p.	236).	Corretamente,	os	§§	2.º	e	3.º	do	art.	975	estabelecem	critérios	diferentes	para	a
+contagem	dos	prazos,	em	se	tratando	de	ação	fundada	em	prova	nova	e	simulação	e	colusão	entre	as
+partes	(a	regra	prevista	no	art.	495	do	CPC/1973,	quanto	ao	ponto,	era	por	nós	criticada;	afirmou	Moacyr
+Lobo	da	Costa	que,	“em	relação	à	hipótese	da	descoberta	de	documento	novo,	o	dispositivo	bem	merece
+a	taxa	de	monstruoso	com	que	Alcalá-Zamora	ferreteou	disposição	similar	da	lei	espanhola”,	e	que	o
+dispositivo	estabelecia	“um	perfeito	contrassenso	jurídico”,	ob.	loc.	cits.,	p.	299-300;	mantemos	a
+crítica,	não	em	relação	aos	problemas	relacionados	à	prova	nova	–	resolvido	pelo	CPC/2015	–	mas
+quanto	a	outros	fundamentos	para	o	ajuizamento	de	ação	rescisória,	em	relação	aos	quais	a	nova	lei
+processual	não	seguiu	a	mesma	orientação).	Entendemos	que	o	mesmo	princípio	deve	informar	também	a
+contagem	do	prazo,	em	se	tratando	de	ação	rescisória	fundada	em	falsidade	de	prova	apurada	em
+processo	criminal	ou	em	prevaricação,	concussão	ou	corrupção	do	juiz.	Não	fosse	assim,	nas	hipóteses
+referidas	só	será	possível	ajuizar-se	a	ação	rescisória	se	o	autor,	por	sorte,	obtiver	ou	tomar
+conhecimento	da	sentença	proferida	em	processo	criminal	dentro	do	prazo	de	dois	anos,	o	que	nem
+sempre	é	possível.	O	mesmo	sucede	em	relação	ao	prazo	máximo,	de	cinco	anos,	para	que	a	parte
+descubra	a	prova	nova,	estabelecido	na	2.ª	parte	do	§	2.º	do	art.	975	do	CPC/2015.	Tais	circunstâncias
+são	alheias	à	vontade	das	partes.	O	mesmo	princípio	que	autoriza	a	prática	do	ato	processual	após
+decorrido	o	prazo	se	a	parte	demonstrar	que	não	o	fez	por	justa	causa	(cf.	art.	223	do	CPC/2015)
+autorizará	o	ajuizamento	da	ação	rescisória,	caso	ultrapassado	o	prazo	de	dois	anos	da	coisa	em	julgada
+se	descubra,	por	exemplo,	que	a	sentença	foi	proferida	por	força	de	corrupção	do	juiz.	Exigir-se	a
+observância	do	prazo	de	dois	anos	em	hipóteses	como	esta	significará	impor	à	parte	prejudicada
+requisito	de	impossível	realização,	o	que	viola	o	princípio	consagrado	no	art.	5.º,	XXXV,	da	CF/1988
+(afinal,	se	é	certo	que	a	lei	pode	estabelecer	requisitos	para	o	exercício	de	um	direito,	tais	requisitos	não
+podem	ser	imoderados	ou	de	impossível	realização).	Por	tais	razões,	pensamos	que,	também	nos	casos
+de	falsidade	de	prova	apurada	em	processo	criminal	e	de	prevaricação,	concussão	ou	corrupção	do	juiz
+deverá	ser	contado	o	prazo	a	partir	da	ciência	de	tal	evento,	à	semelhança	do	que	preveem	os	§§	2.º	e	3.º
+do	art.	975,	em	relação	à	prova	nova	e	à	simulação	ou	colusão	entre	as	partes.
+V.	Ajuizamento	dentro	do	prazo,	mas	citação	ocorrida	depois.	Inocorrência	de	decadência.	Tem-se
+decidido,	com	acerto,	que	o	ajuizamento	da	ação	dentro	de	dois	anos	obsta	a	que	se	reconheça	a
+decadência	do	prazo	para	ajuizamento	da	ação	rescisória,	ainda	que	o	réu	seja	citado	posteriormente	à
+ocorrência	de	tal	prazo,	a	não	ser	que	se	demonstre	que	a	demora	em	realizar-se	a	citação	possa	ser
+imputada	ao	autor	(nesse	sentido,	cf.	STJ,	AR
+[/PAGINA 1434]
+
+[PAGINA 1435]
+3.553/SP,	rel.	Min.	Felix	Fischer,	3.ª	S.,	j.	10.03.2010).
+Decidiu-se,	porém,	que,	“decorrido	o	prazo	decadencial	para	interposição	da	rescisória	(CPC,	art.	495
+[do	CPC/1973,	correspondente	ao	art.	975	do	CPC/2015]),	já	não	pode	a	ação	ser	proposta	contra	novo
+réu,	sendo,	consequentemente,	impossível	a	regularização	da	relação	processual	nos	termos	do	disposto
+no	art.	47	do	CPC	[de	1973,	correspondente	ao	art.	114	do	CPC/2015]”	(STJ,	REsp	863890/SC,	rel.
+Min.	Nancy	Andrighi,	3.ª	T.,	j.	17.02.2011).
+
+VI.	Curso	do	prazo	para	ajuizamento	da	ação	rescisória	contra	incapazes	(CC,	arts.	198,	I,	e	208).
+De	acordo	com	o	art.	208	do	Código	Civil,	aplica-se	à	decadência	o	disposto	no	art.	198,	I,	do	mesmo
+Código,	não	correndo	o	prazo	“contra	os	incapazes	de	que	trata	o	art.	3.º”	do	Código	Civil.	Seguindo	esta
+interpretação,	decidiu	o	STJ	que	o	prazo	para	ajuizamento	da	ação	rescisória,	sendo	decadencial,	não
+corre	contra	os	absolutamente	incapazes	(STJ,	4.ª	T.,	REsp	1.165.735/MG,	rel.	Min.	Luis	Felipe
+Salomão,	j.	06.09.2011).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	III.	DOS	PROCESSOS	NOS	TRIBUNAIS	E	DOS	MEIOS	DE	IMPUGNAÇÃO	DAS	DECISÕES
+JUDICIAIS
+TÍTULO	I.	DA	ORDEM	DOS	PROCESSOS	E	DOS	PROCESSOS	DE	COMPETÊNCIA	ORIGINÁRIA
+DOS	TRIBUNAIS
+Capítulo	VIII.	DO	INCIDENTE	DE	RESOLUÇÃO	DE	DEMANDAS	REPETITIVAS
+Capítulo	VIII	DO	INCIDENTE	DE	RESOLUÇÃO	DE	DEMANDAS	REPETITIVAS
+Art.	976.	É	cabível	a	instauração	do	incidente	de	resolução	de	demandas	repetitivas	quando	houver,
+simultaneamente:	I	-	efetiva	repetição	de	processos	que	contenham	controvérsia	sobre	a	mesma	questão
+unicamente	de	direito;	II	-	risco	de	ofensa	à	isonomia	e	à	segurança	jurídica.
+§	1º	A	desistência	ou	o	abandono	do	processo	não	impede	o	exame	de	mérito	do	incidente.
+§	2º	Se	não	for	o	requerente,	o	Ministério	Público	intervirá	obrigatoriamente	no	incidente	e	deverá
+assumir	sua	titularidade	em	caso	de	desistência	ou	de	abandono.
+§	3º	A	inadmissão	do	incidente	de	resolução	de	demandas	repetitivas	por	ausência	de	qualquer	de	seus
+pressupostos	de	admissibilidade	não	impede	que,	uma	vez	satisfeito	o	requisito,	seja	o	incidente
+novamente	suscitado.
+§	4º	É	incabível	o	incidente	de	resolução	de	demandas	repetitivas	quando	um	dos	tribunais	superiores,	no
+âmbito	de	sua	respectiva	competência,	já	tiver	afetado	recurso	para	definição	de	tese	sobre	questão	de
+direito	material	ou	processual	repetitiva.
+§	5º	Não	serão	exigidas	custas	processuais	no	incidente	de	resolução	de	demandas	repetitivas.
+CPC/1973:	Sem	correspondente.
+SUMÁRIO:	I.	Incidente	de	resolução	de	demandas	repetitivas	–	II.	Precisão	terminológica.	Questão	(e
+
+não	demanda)	repetitiva,	de	direito	material	ou	processual	–	III.	“Mesma	questão”	–	IV.	Questão
+unicamente	de	direito	–	V.	Efetiva	repetição	de	processos	que	contenham	a	controvérsia.	Risco	de	ofensa
+à	isonomia	e	à	segurança	jurídica	–	VI.	Autonomia	do	inciden
+[/PAGINA 1435]
+
+[PAGINA 1436]
+te.
+I.	Incidente	de	resolução	de	demandas	repetitivas.	Nos	arts.	976	a	987	do	CPC/2015,	encontra-se
+disciplinado	o	incidente	de	resolução	de	demandas	repetitivas.	Trata-se	de	instituto	sui	generis:	plasma-
+se	como	incidente,	não	sendo	recurso,	nem	ação;	não	serve,	diretamente,	ao	interesse	dos	litigantes
+(embora	também	estes	possam	pedir	sua	instauração),	mas	à	concretização	da	segurança	jurídica,
+evitando	instabilidade	e	proporcionando	previsibilidade	(a	respeito	desse	princípio,	sob	a	perspectiva
+constitucional,	cf.	o	que	escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	ao	art.
+5.º,	XXXVI,	da	CF/1988).	Na	doutrina	brasileira,	há	muitos	estudos	a	respeito,	alguns	deles	concebidos
+à	luz	da	legislação	alemã	(em	que	se	inspirou	a	brasileira,	cf.	infra)	ou	produzidos	diante	das	variadas
+feições	que	o	instituto	recebeu,	à	luz	da	tramitação	legislativa	do	projeto	que	se	converteu	no	Código	de
+Processo	Civil	de	2015	(merecem	ser	citados,	dentre	outros,	os	seguintes	escritos:	Antonio	do	Passo
+Cabral,	O	novo	procedimento-modelo.	.,	RePro	147/123;	idem,	A	escolha	da	causa-piloto.	.,	RePro
+231/201-223;	Aluisio	Gonçalves	de	Castro	Mendes	e	Roberto	de	Aragão	Ribeiro	Rodrigues,	Reflexões
+sobre	o	incidente.	.,	RePro	211/191-207;	Antônio	Pereira	Gaio	Júnior,	Incidente	de	resolução.	.,	RePro
+199/247;	Arthur	Mendes	Lobo,	Reflexões	sobre	o	incidente.	.,	RePro	185/233-244;	Daniel	de	Andrade
+Lévy,	O	incidente	de	resolução.	.,	RePro	196/165-205;	Daniele	Viafore,	As	semelhanças	e	as	diferenças.
+.,	RePro	217/257-308;	Denise	Maria	Rodríguez	Moraes,	A	uniformização	da	jurisprudência.	.,	RePro
+220/239-269;	Eduardo	Henrique	de	Oliveira	Yoshikawa,	O	incidente	de	resolução.	.,	RePro	206/243-
+270;	Flávia	de	Almeida	Montingelli	Zanferdini	e	Alexandre	Gir	Gomes,	Tratamento	coletivo	adequado.	.,
+RePro	234/181-207;	Francisco	de	Barros	e	Silva	Neto,	A	conciliação	em	causas.	.,	RePro	240/267-277;
+Frederico	Augusto	Leopoldino	Koehler,	O
+incidente	de	resolução.	.,	RePro	237/497;	Georges	Abboud	e	Marcos	de	Araújo	Cavalcanti,
+Inconstitucionalidades	do	incidente.	.,	RePro	240/221-242;	Gianvito	Ardito,	Os	riscos	da	jurisprudência.
+.,	RT	940/255;	Gilberto	Andreassa	Junior,	Os
+“precedentes”	no	sistema.	.,	RT	935/81;	Júlio	César	Rossi,	O	precedente	à	brasileira.	.,	RePro	208/203;
+Leonardo	Carneiro	da	Cunha,	Anotações	sobre	o	incidente.	.	RePro	193/255;	Lucas	Buril	De	Macêdo,	O
+regime	jurídico	dos	precedentes.	.,	RePro	237/369;	Marcelo	Barbi	Gonçalves,	O	incidente	de	resolução.
+.,	RePro	222/221-247;	Marcos	de	Araújo	Cavalcanti,	Mecanismos	de	resolução.	.,	RePro	238/333-377;
+Ravi	Peixoto,	Rumo	à	construção.	.,	RePro	219/89).	O	Código	de	Processo	Civil	de	2015
+inspirou-se	na	legislação	alemã,	como	se	disse	(cf.,	atualmente,	§	93a	da	ZPO,	sobre	Musterverfahren),
+mas	há	nítidas
+diferenças	entre	as	figuras	(por	exemplo,	o	§	93a	da	ZPO	exige	a	ocorrência	de	ao	menos	vinte	casos,
+podendo-se	resolver	questões	de	fato	e	de	direito,	enquanto	o	Código	de	Processo	Civil	de	2015	não
+estabele
+[/PAGINA 1436]
+
+[PAGINA 1437]
+ce	número	mínimo	de	casos,	restringindo-se	a	questões	unicamente	de	direito,	cf.	comentário
+infra).	A	menção	ao	direito	comparado,	no	caso,	serve	apenas	para	indicar	o	que	inspirou	o	legislador
+brasileiro,	já	que	o	Código	de	Processo	Civil	de	2015	disciplinou	o	instituto	de	modo	diferente	e	mais
+minucioso	que	a	lei	alemã.	Além	disso,	o	instituto	deve	ser	interpretado	à	luz	das	premissas
+estabelecidas	no	direito	brasileiro,	notadamente	a	Constituição	Federal.	É	à	lei	brasileira,	pois,	que	deve
+voltar	os	olhos	o	interprete,	para	se	compreender	como	opera	o	incidente,	entre	nós.
+
+II.	Precisão	terminológica.	Questão	(e	não	demanda)	repetitiva,	de	direito	material	ou	processual.	A
+despeito	da	denominação	empregada,	o	incidente	regulado	nos	arts.	976	a	987	do	CPC/2015	não	se
+destina	à	resolução	de	“demandas	repetitivas”.	Rigorosamente,	com	a	demanda	(primeira	manifestação
+do	direito	de	ação,	no	processo),	o	autor	ou	exequente	provoca	a	jurisdição,	rompendo	sua	inércia	(cf.
+comentário	ao	art.	2.º	do	CPC/2015).	A	expressão	“demanda”,	no	incidente	disciplinado	arts.	976	e	ss.
+do	CPC/2015,	não	é	utilizada	nesse	sentido,	nem	no	de	conteúdo	da	provocação	que	o	autor	fez.	A
+questão	pode	surgir	com	a	contestação,	ou	ao	longo	do	processo.	Aliás,	a	palavra	“demanda”	aparece
+apenas	no	art.	976;	nos	arts.	977	e	ss.,	nos	lugares	em	que	se	poderia	usar	“demanda”,	prefere	o
+legislador	a	expressão	“questão”,	que	sempre	nos	pareceu	mais	adequada.	A	questão	a	ser	objeto	do
+incidente	deve	ser	questão	de	direito,	podendo	tratar-se	de	questão	de	direito	material	ou	processual	(cf.
+§	4.º	do	art.	976	do	CPC/2015).	Pode,	então,	estar-se	diante	de	demandas	diferentes	(não	repetitivas),
+mas	nelas	se	repetir	a	mesma	questão	de	direito	(material	ou	processual).	De	todo	modo,	está-se	diante
+de	incidente	de	resolução	de	questões	repetitivas.
+III.	“Mesma	questão”	.	O	incidente	é	cabível	quando	a	mesma	questão	for	objeto	de	controvérsia	(art.
+976,	I,	do	CPC/2015)	em	grande	quantidade	de	processo.	Para	que	se	possa	dizer	que	a	questão	é	a
+mesma,	em	muitos	processos,	é	necessário	que	sejam	elas	idênticas,	e	não	apenas	semelhantes.	É
+indispensável	que	uma	mesma	solução	seja	uniformemente	aplicável,	em	todos	os	processos,	por	tratar-
+se	da	mesma	questão.	Não	se	poderá	admitir	o	incidente	quanto	a	questões	genéricas,	cuja	amplitude
+impede	que	se	outorgue	solução	particularizada.	Por	exemplo,	pode-se	discutir,	em	muitos	processos,
+sobre	o	dever	de	o	Estado	custear	tratamento	médico	a	portadores	de	doenças.	Esse	tema,	de	modo
+amplo,	reproduz-se	em	muitas	ações,	mas	em	cada	um	deles	o	debate	envolve	peculiaridades	que	os
+distinguem,	uns	dos	outros;	não	se	trata	da	mesma	questão,	e	o	incidente	é	inadmissível,	em	casos	como
+esse.	Busca-se,	com	o	incidente,	a	definição,	a	fixação	(ou	firmação)	e	a	adoção	de	uma	tese	sobre	a
+questão	(cf.	at.	976,	§	4.º,	978,	parágrafo	único,	985,	§	1.º,	986	e	987,	§	2.º,	do	CPC/2015).	Ora,	não	se
+define	sobre	tema	que	não	seja	precisamente	delimitado,	pois	não	é
+[/PAGINA 1437]
+
+[PAGINA 1438]
+possível	fixar	o	sentido	e	o	alcance
+de	qualquer	solução	a	ser	aplicada	ao	caso,	impedindo-se,	pois,	que	a	tese	seja	adotada	e	seguida	em
+casos	vindouros.
+IV.	Questão	unicamente	de	direito.	A	questão,	de	acordo	com	o	art.	976,	I,	do	CPC/2015,	deve	ser
+“unicamente	de	direito”.
+Rigorosamente,	nenhuma	questão	pode	ser	exclusivamente	de	direito;	afinal,	pensa-se	na	construção	de
+normas	jurídicas	para	resolver	problemas,	e	problemas	que	ocorrem	no	plano	dos	fatos.	É,	até	mesmo,
+difícil	pensar-se	em	norma	jurídica	sem	se	recorrer	a	um	fato,	ainda	que	hipotético.	O	que	se	quer	dizer,
+ao	se	exigir	que	a	questão	seja	somente	de	direito,	é	que	a	controvérsia	diga	respeito	não	ao	modo	como
+ocorreram	os	fatos,	mas	apenas	sobre	como	deve	ser	considerada	a	disposição	legal,	ou	o	princípio,	que
+servirá	à	solução	da	controvérsia.	A	expressão	“unicamente	de	direito”	a	nosso	ver,	exclui	que	se	use	o
+incidente	para	se	resolver	controvérsias	sobre	qualificação	jurídica	de	fatos	(embora	seja	cabível,	por
+exemplo,	recurso	especial,	em	tais	casos;	cf.	comentário	ao	art.	1.029	do	CPC/2015).
+V.	Efetiva	repetição	de	processos	que	contenham	a	controvérsia.	Risco	de	ofensa	à	isonomia	e	à
+segurança	jurídica.
+A	solução	da	questão,	a	justificar	a	instauração	do	incidente,	deve	dizer	respeito	a	grande	número	de
+processos,	em	que	aquela	questão	se	repete,	de	modo	a	que,	caso	haja	solução	diversa	da	mesma	questão
+em	cada	um	desses	processos,	restará	ofendida	a	isonomia	e	a	segurança	jurídica	(art.	976,	I,	1.ª	parte,	e
+
+II,	do	CPC/2015).	Os	termos	usados	pela	lei	para	explicar	as	circunstâncias	que	devem	estar	presentes
+para	que	caiba	o	incidente	são	muito	vagas.	A	rigor,	sempre	que	uma	mesma	questão	é	resolvida	de	modo
+diverso	em	dois	ou	mais	casos,	a	isonomia	não	foi	observada.	Essa	restrição,	assim,	é	insuficiente	para
+explicar	o	cabimento	do	incidente.	Mas	há	que	se	colocar	em	risco,	além	da	isonomia,	a	segurança
+jurídica,	o	que	significa	dizer	que,	caso	não	resolvida	a	questão	através	do	incidente,	se	criará	um
+ambiente	de	instabilidade	e	de	desconfiança	acerca	do	sentido	que	deve	ser	dado,	por	exemplo,	a	um
+dispositivo	legal,	ou	ao	modo	como	deve	ser	compreendido	um	princípio	jurídico.	Sendo	o	incidente
+meio	para	se	impedir	a	ofensa	à	segurança	jurídica,	é	intuitivo	que	não	será	adequado	o	seu	uso	quando
+não	houver	certeza	sobre	o	modo	como	deve	ser	resolvida	a	questão.	Caso	a	questão	seja	nova	e	ainda
+não	sejam	conhecidas	razões	que	justifiquem	a	tomada	de	uma	posição,	a	deliberação	de	uma	tese	em
+dado	sentido	poderá	surtir	efeito	indesejado,	pois,	ao	invés	de	contribuir	para	que	se	alcancem	as
+finalidades	do	incidente,	poderá	gerar	de	mais	insegurança	jurídica.	A	exigência	de	que	a	questão	tenha
+se	apresentado	em	“efetiva	repetição	de	processos”
+confirma	esse	modo	de	pensar:	sem	que	tenha	havido	prévio	e	exaustivo	debate	sobre	a	questão,	é
+inadmissível	a	instauração	do	incidente.	Não	se	admite	o	incidente,	assim,	quando	há	controvérsia
+doutrinária	que	não	se	reproduza	em
+[/PAGINA 1438]
+
+[PAGINA 1439]
+grande	número	de	casos,	e	tampouco	quando,	diante	de	um	ou	dois
+casos,	se	conjeture	que	sobre	a	questão	poderá	vir	a	surgir	controvérsia.	Esta	deve	ser	atual,	e	não
+potencial.	Nada	impede	que	a	controvérsia	hoje	potencial	torne-se,	no	futuro,	atual,	e	incidente	antes	não
+admitido	possa	vir	a	sê-lo	posteriormente,	resolvendo-se	a	questão.
+VI.	Autonomia	do	incidente.	O	incidente	emerge	de	processos	que	se	repetem,	mas	não	faz	com	que	se
+desloque	algum	processo	para	o	tribunal.	De	muitos	processos,	identifica-se	controvérsia	sobre	a	mesma
+questão	de	direito,	e	é	a	resolução	dessa	questão	de	direito	o	objeto	do	incidente.	Não	há,	pois,	uma
+causa	ou	recurso	selecionado	para	julgamento,	a	ser
+remetido	ao	tribunal,	enquanto	os	demais	ficam	sobrestados	(tal	como	ocorre	com	o	recurso	especial,	no
+regime	previsto	no	art.	1.036,	§	1.º,	do	CPC/2015).	Por	isso,	a	desistência	da	ação	ou	o	abandono	da
+causa,	em	relação	a	um	dos	processos,	não	impede	o	julgamento	do	incidente	(cf.	§	1.º	do	art.	976	do
+CPC/2015;	claro	que	o	incidente	ficaria	prejudicado	se,	por	alguma	razão,	todas	as	causas	em	que	se
+discutisse	a	questão	fossem	extintas).	A	solução	da	questão	controvertida	interessa	aos	litigantes,	mas,
+em	primeiro	lugar,	o	incidente	serve	à	realização	de	valores	constitucionais,	sobretudo	o	da	segurança
+jurídica	(cf.	comentário	supra).	Pode	até	suceder	que,	em	algum	momento,	o	incidente	não	seja	admitido,
+mas	posteriormente	surjam	circunstâncias	que	justifiquem	sua	instauração	e	julgamento	(cf.	§	3.º	do	art.
+976	do	CPC/2015).
+Art.	977.	O	pedido	de	instauração	do	incidente	será	dirigido	ao	presidente	de	tribunal:	I	-	pelo	juiz	ou
+relator,	por	ofício;	II	-	pelas	partes,	por	petição;	III	-	pelo	Ministério	Público	ou	pela	Defensoria	Pública,
+por	petição.
+Parágrafo	único.	O	ofício	ou	a	petição	será	instruído	com	os	documentos	necessários	à	demonstração	do
+preenchimento	dos	pressupostos	para	a	instauração	do	incidente.
+CPC/1973:	Sem	correspondente.
+Pedido	de	instauração	do	incidente.	Podem	pedir	a	instauração	do	incidente	o	juiz	ou	o	relator,	as
+partes,	o	Ministério	Público	ou	a	Defensoria	Pública	(cf.	art.	977,	caput	e	incisos,	do	CPC/2015).	O
+ofício	ou	a	petição	são	endereçados	ao	tribunal	competente	(cf.	art.	981	do	CPC/2015).	O	pedido	deve
+
+ser	instruído	com	documentos	que	demonstrem	a	presença	dos	pressupostos	referidos	no	art.	976	do
+CPC/2015.	Não	há,	no	caso,	necessariamente,	escolha	de	algumas	causas	que	representem	a	controvérsia,
+para	que	a	questão	que	nelas	se	apresenta	seja	decidida,	aplicando-se	a	solução	às	demais	(à	semelhança
+do	que	ocorre	em	relação	à	escolha	do	recurso	especial	que	será	julgado,	cf.	art.	1.036,	§	1.º,	do
+CPC/2015),	não	havendo,	também,	deslocamento	dos	autos	de	1.º	grau	para	o	tribunal.	Caso,	porém,
+opte-se	por	indicar	uma	ou	algumas	causas	em	que	a	questão	seja	objeto	de	debate,	será	imprescindível
+conferir	a	qualidade	com	que	a	questão	é	discutida,	em	tais	processos	(por	exemplo,	argumentos	em	um
+ou	outro	sentido,	fundamentação	de
+[/PAGINA 1439]
+
+[PAGINA 1440]
+tais	argumentos	etc.).	Com	o	pedido,	podem	ser	juntadas,	por
+exemplo,	cópias	de	petições	juntadas	ou	decisões	proferidas	em	vários	casos,	de	modo	a	permitir-se
+extrair	com	precisão,	desses	documentos,	a	questão	sobre	a	qual	se	deverá	decidir.	O	risco	de	ofensa	à
+segurança	jurídica,	por	sua	vez,	pode	ser	demonstrado	não	apenas	através	de	documentos	extraídos	dos
+processos	que	estejam	em	trâmite,	mas,	por	exemplo,	de	notícias	veiculadas	em	meios	de	comunicação,
+em	que	se	demonstre	haver	dúvida	entre	parte	da	população	sobre	o	modo	como	deve	ser	observada
+determinada	disposição	legal.
+Art.	978.	O	julgamento	do	incidente	caberá	ao	órgão	indicado	pelo	regimento	interno	dentre	aqueles
+responsáveis	pela	uniformização	de	jurisprudência	do	tribunal.
+Parágrafo	único.	O	órgão	colegiado	incumbido	de	julgar	o	incidente	e	de	fixar	a	tese	jurídica	julgará
+igualmente	o	recurso,	a	remessa	necessária	ou	o	processo	de	competência	originária	de	onde	se	originou
+o	incidente.
+CPC/1973:	Sem	correspondente.
+Competência	para	julgamento	do	incidente.	O	incidente	deverá	ser	julgado	pelo	órgão	responsável
+pela	uniformização	de	jurisprudência	do	tribunal	(art.	978,	caput,	do	CPC/2015).	O	parágrafo	único	do
+art.	978	do	CPC/2015	deve	ser	interpretado	e	aplicado	com	cuidado.	Caso,	por	exemplo,	a	questão	se
+repita	em	milhares	de	processos	que	tramitem	em	1.º	Grau	de	jurisdição,	atribuir-se	ao	órgão	que	julgou
+o	incidente	competência	para	julgar	os	recursos	oriundos	daqueles	processos	poderia	inviabilizar	o
+funcionamento	do	referido	órgão.	Ademais,	como	a	questão	deve	ser	a	mesma	em	todos	os	processos,	não
+se	justifica	que	o	órgão	que	julgou	o	incidente	julgue	os	recursos	oriundos	de	alguns	processos,	e	de
+outros,	não.	Além	disso,	pode-se	estar	diante	de	questão	de	direito	processual	presente	em	muitos
+processos,	mas	tais	processos	podem	veicular	pretensões	de	direito	material	distintas.	Pode-se,	ainda,
+estar-se	diante	de	incidente	que	tenha	resolvido	questão	de	direito	material,	mas	haver	decisões
+interlocutórias	agraváveis	ao	longo	do	processo	que	versam	sobre	temas	distintos.	Entendemos,	diante
+dessas	razões,	que	o	parágrafo	único	do	art.	978	do	CPC/2015	deve	ser	interpretado	de	modo	bastante
+restrito.
+Art.	979.	A	instauração	e	o	julgamento	do	incidente	serão	sucedidos	da	mais	ampla	e	específica
+divulgação	e	publicidade,	por	meio	de	registro	eletrônico	no	Conselho	Nacional	de	Justiça.
+§	1º	Os	tribunais	manterão	banco	eletrônico	de	dados	atualizados	com	informações	específicas	sobre
+questões	de	direito	submetidas	ao	incidente,	comunicando-o	imediatamente	ao	Conselho	Nacional	de
+Justiça	para	inclusão	no	cadastro.
+§	2º	Para	possibilitar	a	identificação	dos	processos	abrangidos	pela	decisão	do	incidente,	o	registro
+eletrônico	das	teses	jurídicas	constantes	do	cadastro	conterá,	no	mínimo,	os	fundamentos	determinantes
+da	decisão	e	os	dispositivos	normativos	a	ela	relacionados.
+
+§	3º	Aplica-se	o	disposto	neste	artigo	ao	julgamento	de	recursos	repetitivos	e	da	repercussão	geral	em
+rec
+[/PAGINA 1440]
+
+[PAGINA 1441]
+urso
+extraordinário.
+CPC/1973:	Sem	correspondente.
+SUMÁRIO:	I.	Publicidade	–	II.	Banco	de	dados.
+I.	Publicidade.	Deve-se	dar	à	instauração	e	julgamento	do	incidente	ampla	publicidade,	viabilizando-se	o
+conhecimento	de	todos	aqueles	que,	de	algum	modo,	possam	vir	a	ser	afetados	pela	decisão.	A
+publicidade	também	viabilizará	a	participação	de	pessoas	que	possam	contribuir	para	a	solução	da
+questão,	enviando	suas	sugestões	e,	sendo	o	caso,	participando	de	audiência	pública	(cf.	§	1.º	do	art.	979
+do	CPC/2015).
+II.	Banco	de	dados.	A	questão	deverá	constar	de	banco	de	dados	em	meio	eletrônico	mantido	pelo
+tribunal,	constando	também	de	cadastro	no	Conselho	Nacional	de	Justiça.	A	perfeita	definição	da	questão
+é	imprescindível,	a	fim	de	que	se	identifiquem	os	processos	que	deverão	ficar	suspensos	(art.	982,	I,	do
+CPC/2015)	e	em	que	deverá	ser	considerada	a	decisão	que	julgar	o	incidente	(art.	985	do	CPC/2015).
+Art.	980.	O	incidente	será	julgado	no	prazo	de	1	(um)	ano	e	terá	preferência	sobre	os	demais	feitos,
+ressalvados	os	que	envolvam	réu	preso	e	os	pedidos	de	habeas	corpus.
+Parágrafo	único.	Superado	o	prazo	previsto	no	caput,	cessa	a	suspensão	dos	processos	prevista	no	art.
+982,	salvo	decisão	fundamentada	do	relator	em	sentido	contrário.
+CPC/1973:	Sem	correspondente.
+Prazo	para	julgamento	do	incidente.	Deve	ser	dada	preferência	ao	julgamento	do	incidente,	face	a
+ampla	repercussão	que	terá,	em	relação	aos	demais	processos	em	que	a	questão	se	repetir.	O	incidente
+deve	ser	julgado	no	prazo	de	um	ano,	findo	o	qual,	em	princípio,	cessa	a	suspensão	dos	processos
+referida	no	art.	982	do	CPC/2015.	A	manutenção	da	suspensão	poderá	ser	determinada	por	decisão	do
+próprio	relator	(que	é	quem	delibera	sobre	o	efeito	suspensivo,	cf.	art.	982,	I,	do	CPC/2015),	por	decisão
+fundamentada	(art.	980,	parágrafo	único,	do	CPC/2015).
+Art.	981.	Após	a	distribuição,	o	órgão	colegiado	competente	para	julgar	o	incidente	procederá	ao	seu
+juízo	de	admissibilidade,	considerando	a	presença	dos	pressupostos	do	art.	976.
+CPC/1973:	Sem	correspondente.
+Juízo	de	admissibilidade	do	incidente.	A	tramitação	do	incidente	observará,	o	que	dispõem	os	arts.	976
+ss.,	mas	incide,	no	que	couber,	o	disposto	nos	arts.	547	do	CPC/2015.	O	exame	da	admissibilidade	do
+incidente	é	realizado	pelo	órgão	colegiado,	e	não	pelo	relator,	monocraticamente	(não	incide,	no	caso,	o
+art.	932,	II	do	CPC/2015).
+Art.	982.	Admitido	o	incidente,	o	relator:	I	-	suspenderá	os	processos	pendentes,	individuais	ou
+coletivos,	que	tramitam	no	Estado	ou	na	região,	conforme	o	caso;
+II	-	poderá	requisitar	informações	a	órgãos	em	cujo	juízo	tramita	processo	no	qual	se	discute	o	objeto	do
+
+incidente,	que	as	prestarão	no	prazo	de	15	(quinze)	dias;	III	-	intimará	o	Ministério	Público	para,
+querendo,	manifestar-se	no	prazo	de	15	(quinze)	dias.
+§	1º	A	suspensão	será	comunicada	aos	órgãos	jurisdicionais	competentes.
+§	2º	Durante	a	suspensão,	o	pedido	de	tutela	de	urgência	deverá	ser	dirigido	ao	juízo	onde	tramita	o
+processo	suspenso.
+§
+[/PAGINA 1441]
+
+[PAGINA 1442]
+3º	Visando	à	garantia	da	segurança	jurídica,	qualquer	legitimado	mencionado	no	art.	977,	incisos	II	e
+III,	poderá	requerer,	ao	tribunal	competente	para	conhecer	do	recurso	extraordinário	ou	especial,	a
+suspensão	de	todos	os	processos	individuais	ou	coletivos	em	curso	no	território	nacional	que	versem
+sobre	a	questão	objeto	do	incidente	já	instaurado.
+§	4º	Independentemente	dos	limites	da	competência	territorial,	a	parte	no	processo	em	curso	no	qual	se
+discuta	a	mesma	questão	objeto	do	incidente	é	legitimada	para	requerer	a	providência	prevista	no	§	3º
+deste	artigo.
+§	5º	Cessa	a	suspensão	a	que	se	refere	o	inciso	I	do	caput	deste	artigo	se	não	for	interposto	recurso
+especial	ou	recurso	extraordinário	contra	a	decisão	proferida	no	incidente.
+CPC/1973:	Sem	correspondente.
+Admissão	do	incidente.	Suspensão	dos	processos	pendentes.	Admitido	o	incidente	pelo	órgão
+colegiado	(cf.	art.	981	do	CPC/2015),	o	relator	deliberará	sobre	a	suspensão	dos	processos	pendentes.	A
+redação	do	art.	982,	I,	do	CPC/2015	sugere	que	a
+suspensão	dos	processos	é	integral	e	inexorável.	Não	nos	parece,	contudo,	que	seja	assim.	Pode-se,	por
+exemplo,	estar-se	diante	de	questão	de	direito	processual	que	não	impeça	a	tramitação	do	processo,	para
+que	se	realizem	atos	que	não	serão	atingidos	pela	decisão	que	julgar	o	incidente.	Versando	a	questão
+sobre	direito	constitucional	ou	federal	infraconstitucional,	pode-se	requerer	ao	STF	ou	ao	STJ	que	a
+suspensão	se	estenda	a	todo	território	nacional	(cf.	§	3.º	do	art.	982	do	CPC/2015).	O
+requerimento	de	suspensão	pode	ser	feito	ao	STF	ou	ao	STJ	pelos	legitimados	referidos	nos	incs.	II	e	III
+do	art.	977	e,	também,	por	pessoa	que	seja	parte	em	processo	em	que	se	discuta	a	mesma	questão,	ainda
+que	o	processo	respectivo	tramite	em	local	não	abrangido	pela	competência	do	órgão	em	que	tramita	o
+incidente	(cf.	§§	3.º	e	4.º	do	art.	982	do	CPC/2015).	Decidido	o	incidente	e	não	havendo	recurso
+extraordinário	ou	especial,	cessa	a	suspensão	dos	processos	pendentes	(cf.	§	5.º	do	art.	982
+do	CPC/2015).
+Art.	983.	O	relator	ouvirá	as	partes	e	os	demais	interessados,	inclusive	pessoas,	órgãos	e	entidades	com
+interesse	na	controvérsia,	que,	no	prazo	comum	de	15	(quinze)	dias,	poderão	requerer	a	juntada	de
+documentos,	bem	como	as	diligências	necessárias	para	a	elucidação	da	questão	de	direito	controvertida,
+e,	em	seguida,	manifestar-se-á	o	Ministério	Público,	no	mesmo	prazo.
+§	1º	Para	instruir	o	incidente,	o	relator	poderá	designar	data	para,	em	audiência	pública,	ouvir
+depoimentos	de	pessoas	com	experiência	e	conhecimento	na	matéria.
+§	2º	Concluídas	as	diligências,	o	relator	solicitará	dia	para	o	julgamento	do	incidente.
+
+CPC/1973:	Sem	correspondente.
+Contraditório.	Amicus	curiae	.	Audiência	pública.	Antes	de	se	decidir	o	incidente,	deverá	ser	dada
+ampla	publicidade	(cf.	art.	979	do	CPC/2015),	sendo	imprescindível	que	se	levem	em	considerações
+todos	os	argumentos	suscitados	não	apenas	pelas	partes,	mas,	também,	por	pessoas	que	possam	contribuir
+para	que	seja
+[/PAGINA 1442]
+
+[PAGINA 1443]
+dada	solução	segura	à	questão.	Por	isso,	a	realização	de	audiência	pública	e	a	participação
+de	amicus	curiae	será	importante	para	que	se	colham	elementos,	antes	de	se	decidir	sobre	a	matéria	(cf.,
+a	respeito,	comentário	ao	art.	138	do	CPC/2015,	sobre	amicus	curiae,	e	ao	art.	1.038	do	CPC/2015,
+sobre	audiência	pública).
+Art.	984.	No	julgamento	do	incidente,	observar-se-á	a	seguinte	ordem:	I	-	o	relator	fará	a	exposição	do
+objeto	do	incidente;	II	-	poderão	sustentar	suas	razões,	sucessivamente:	a)	o	autor	e	o	réu	do	processo
+originário	e	o	Ministério	Público,	pelo	prazo	de	30	(trinta)	minutos;	b)	os	demais	interessados,	no	prazo
+de	30	(trinta)	minutos,	divididos	entre	todos,	sendo	exigida	inscrição	com	2	(dois)	dias	de	antecedência.
+§	1º	Considerando	o	número	de	inscritos,	o	prazo	poderá	ser	ampliado.
+§	2º	O	conteúdo	do	acórdão	abrangerá	a	análise	de	todos	os	fundamentos	suscitados	concernentes	à	tese
+jurídica	discutida,	sejam	favoráveis	ou	contrários.
+CPC/1973:	Sem	correspondente.
+SUMÁRIO:	I.	Julgamento	do	incidente	–	II.	Fundamentação	do	acórdão.
+I.	Julgamento	do	incidente.	O	julgamento	do	incidente	observará	o	disposto	no	art.	984	do	CPC/2015,
+aplicando-se	subsidiariamente	o	que	consta	dos	arts.	937	e	ss.	do	CPC/2015,	isso	é,	naquilo	que	não
+contrariar	o	disposto	no	art.	984	do	Código.	A	possibilidade	de	realização	de	sustentação	oral	deve	ser
+dada	não	apenas	àqueles	que	são	parte	em	processo	mencionado	no	pedido	de	instauração	do	incidente
+(cf.	art.	977	do	CPC/2015),	mas	a	todos	que	forem	parte	em	processo	em	que	se	discuta	questão	idêntica.
+II.	Fundamentação	do	acórdão.	A	fundamentação	do	acórdão	que	julga	o	incidente	realiza-se	de	modo
+peculiar.	Ao	se	proferir	uma	sentença,	por	exemplo,	exige-se	que	a	fundamentação	seja	completa,	sendo
+desnecessário,	porém	o	exame	de	todos	os	fundamentos	que	possam	conduzir	ao	mesmo	resultado	(cf.
+comentário	ao	art.	489	do	CPC/2015).	A	decisão	sobre	questão	de	direito	repetitiva,	diversamente,
+deverá	pronunciarse	sobre	todos	os	fundamentos,	favoráveis	ou	contrários,	ao	resultado	a	que	se	chegou
+(cf.	§	2.º	do	art.	984	do	CPC/2015).
+Art.	985.	Julgado	o	incidente,	a	tese	jurídica	será	aplicada:	I	-	a	todos	os	processos	individuais	ou
+coletivos	que	versem	sobre	idêntica	questão	de	direito	e	que	tramitem	na	área	de	jurisdição	do
+respectivo	tribunal,	inclusive	àqueles	que	tramitem	nos	juizados	especiais	do	respectivo	Estado	ou
+região;
+II	-	aos	casos	futuros	que	versem	idêntica	questão	de	direito	e	que	venham	a	tramitar	no	território	de
+competência	do
+tribunal,	salvo	revisão	na	forma	do	art.	986.
+§	1º	Não	observada	a	tese	adotada	no	incidente,	caberá	reclamação.
+
+§	2º	Se	o	incidente	tiver	por	objeto	questão	relativa	a	prestação	de	serviço	concedido,	permitido	ou
+autorizado,	o	resultado	do	julgamento	será	comunicado	ao	órgão,	ao	ente	ou	à	agência	reguladora
+competente	para	fiscalização	da	efetiva	aplicação,	por	parte	dos	entes	sujeitos	a	regulação,	da	tese
+adotada.
+CPC/1973:	Sem	correspondente.
+Aplicação	da	tese	jur
+[/PAGINA 1443]
+
+[PAGINA 1444]
+ídica	fixada	no	julgamento	do	incidente.	Ao	julgar	o	incidente,	deverá	o	tribunal
+fixar	a	tese	a	ser	observada	no	julgamento	dos	processos	que	ficaram	suspensos,	bem	como	em	processos
+em	que,	posteriormente,	vier	a	se	discutir	a	mesma	questão	de	direito	(cf.	art.	985,	I	e	II,	do	CPC/2015).
+Caso	não	observada	a	tese	fixada	no	julgamento	do	incidente,	caberá	reclamação	(cf.	arts.	985,	§	1.º	e
+988,	IV,	do	CPC/2015).	Antes	de	observar	o	disposto	nos	incisos	do	art.	985,	deverá	o	juiz	intimar	as
+partes,	para	se	manifestarem	a	respeito,	em	observância	ao	princípio	do	contraditório	(cf.
+comentário	aos	arts.	7.º,	9.º	e	10	do	CPC/2015).	Ao	se	decidir	com	base	no	julgamento	do	incidente,
+deve-se	observar	o	disposto	no	art.	489,	§	1.º,	V	e	VI,	do	CPC/2015,	não	se	admitindo	a	mera	reprodução
+da	conclusão	do	julgamento	(	confirmation	bias,	cf.	art.	489,	§	1.º,	V	do	CPC/2015),	e,	caso	haja
+especificidades	na	causa,	deixar-se	de	seguir	a	conclusão	(cf.
+art.	489,	§	1.º,	VI,	1.ª	parte,	do	CPC/2015).	Pode,	ainda,	haver	motivos	que	justificam	a	superação	da
+orientação	firmada	no	julgamento	do	incidente	(cf.	art.	489,	§	1.º,	VI,	2.ª	parte,	do	CPC/2015),	e	esse
+aspecto	também	deverá	ser	considerado,	ao	se	aplicar	o	art.	985,	I	e	II,	do	CPC/2015.	Essas	exigências
+reforçam	a	necessidade	de	observância	do	contraditório.	Uma	das	partes	pode,	por	exemplo,	demonstrar
+que,	tal	como	fixada	no	julgamento	do	incidente,	a	tese	não	se	aplica	ao	caso	até	então	suspenso,	pois	os
+fundamentos	determinantes,	ainda	que	parecidos,	são	distintos.	Como	demonstramos	em	outro	estudo,
+isonomia,	como	direito	fundamental,	compreende	também	o	direito	ao	reconhecimento	da	diferença	(cf.	o
+que	escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	ao	art.	5.º	da	CF/1988).	O
+resultado	do	julgamento	deverá	ser	comunicado	também	a	órgão,	ente	ou	agencia	reguladora	competente
+para	a	fiscalização	da	observância	da	tese	firmada	por	aqueles	que	sejam	responsáveis	pela	prestação	de
+serviço	concedido	(cf.	art.	985,	§	2.º,	do	CPC/2015).
+Art.	986.	A	revisão	da	tese	jurídica	firmada	no	incidente	far-se-á	pelo	mesmo	tribunal,	de	ofício	ou
+mediante	requerimento	dos	legitimados	mencionados	no	art.	977,	inciso	III.
+CPC/1973:	Sem	correspondente.
+Revisão	da	tese	jurídica	firmada.	A	revisão	da	tese	jurídica	firmada	no	julgamento	do	incidente	será
+realizada	pelo	mesmo	tribunal,	de	ofício	ou	mediante	provocação	(a	respeito	dos	fundamentos	que	podem
+justificar	a	superação,	cf.
+comentário	aos	arts.	926	e	927	do	CPC/2015).	O	art.	986,	ao	referir-se	apenas	ao	inc.	III	do	art.	977,	não
+impede	que	as	partes	peçam	a	revisão	da	tese.	Além	de	a	distinção	referida	no	art.	986,	in	fine	do
+CPC/2015	não	ter	qualquer	justificativa,	a	revisão	da	tese	poderá	ser	examinada	de	ofício;	sendo	assim,
+nada	impede	que	a	manifestação	do	tribunal	decorra	de	provocação	da	parte.	Entendemos	nós	que	essa
+provocação	pode	partir,	até	mesmo,	de	pessoa	que	poderia	manifestar-se	como	amicus	curiae,	no	caso.
+Art.	987.	Do	julgamento	do	mérito
+[/PAGINA 1444]
+
+[PAGINA 1445]
+do	incidente	caberá	recurso	extraordinário	ou	especial,	conforme	o
+
+caso.
+§	1º	O	recurso	tem	efeito	suspensivo,	presumindo-se	a	repercussão	geral	de	questão	constitucional
+eventualmente	discutida.
+§	2º	Apreciado	o	mérito	do	recurso,	a	tese	jurídica	adotada	pelo	Supremo	Tribunal	Federal	ou	pelo
+Superior	Tribunal	de	Justiça	será	aplicada	no	território	nacional	a	todos	os	processos	individuais	ou
+coletivos	que	versem	sobre	idêntica	questão	de	direito.
+CPC/1973:	Sem	correspondente.
+Recurso	extraordinário	ou	especial	contra	a	decisão	que	julga	o	incidente.	Contra	a	decisão	que	julga
+o	mérito	do	incidente	cabe	recurso	extraordinário	ou	especial,	desde	que	presentes	as	condições
+previstas	nos	arts.	102,	III	e	105,	III,	respectivamente.	Não	cabem	tais	recursos,	por	exemplo,	se	se
+discutir,	no	incidente,	exclusivamente	direito	local	(por	exemplo,	inteligência	de	artigo	de	lei	que	dispôs
+sobre	tributo	estadual;	a	respeito,	cf.	comentário	ao	art.	do	CPC/2015).	A	questão	constitucional,	no	caso,
+terá	repercussão	geral	(cf.	§	2.º	do	art.	987	do	CPC/2015).	O	recurso	poderá	ser	interposto	por	parte	em
+processo	referido	no	pedido	de	instauração	do	incidente	e	também	por	parte	em	processo	que	tenha
+ficado	suspenso	(que,	no	mínimo,	poderiam	ser	qualificados	como	terceiros	prejudicados,	no	sentido	a
+que	se	refere	o	art.	996	do	CPC/2015).	A	interposição	do	recurso	impede	a	produção	de	efeitos	pela
+decisão	que	julgou	o	incidente	(cf.	art.	987,	§	1.º	e,	também,	a	contrario	sensu,	art.	982,	§	5.º,	do
+CPC/2015).	Julgado	o	recurso	extraordinário	ou	especial,	a	tese	terá	aplicação	em	todo	território
+nacional	(cf.	§	2.º	do	art.	987	do	CPC/2015).	Note-se	que,	pela	dicção	do	caput	do	art.	987,	o	recurso	é
+cabível	apenas	quando	julgado	o	mérito	do	incidente,	isso	é,	quando	resolvida	a	questão	de	direito.	Não
+se	admite	o	recurso,	assim,	se	não	ultrapassado	o	juízo	de	admissibilidade	do	incidente.	Essa	previsão
+ajusta-se	ao	que	antes	dissemos,	acerca	da	função	que	o	instituto	exerce,	em	nosso	direito	(cf.	comentário
+ao	art.	976	do	CPC/2015).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	III.	DOS	PROCESSOS	NOS	TRIBUNAIS	E	DOS	MEIOS	DE	IMPUGNAÇÃO	DAS	DECISÕES
+JUDICIAIS
+TÍTULO	I.	DA	ORDEM	DOS	PROCESSOS	E	DOS	PROCESSOS	DE	COMPETÊNCIA	ORIGINÁRIA
+DOS	TRIBUNAIS
+Capítulo	IX.	DA	RECLAMAÇÃO
+Capítulo	IX
+DA	RECLAMAÇÃO
+
+Art.	988.	Caberá	reclamação	da	parte	interessada	ou	do	Ministério	Público	para:	I	-	preservar	a
+competência	do	tribunal;	II	-	garantir	a	autoridade	das	decisões	do	tribunal;	III	-	garantir	a	observância	de
+decisão	do	Supremo	Tribunal	Federal	em	controle	concentrado	de	constitucionalidade;	IV	-	garantir	a
+observância	de	enunciado	de	súmula	vinculante	e	de	precedente	proferido	em	julgamento	de	casos
+repetitivos	ou	em	incidente	de	assunção	de	competência.
+§	1º	A	reclamação	pode	ser	proposta	perante	qualquer	tribunal,	e	seu	julgamento	compete	ao
+[/PAGINA 1445]
+
+[PAGINA 1446]
+órgão
+jurisdicional	cuja	competência	se	busca	preservar	ou	cuja	autoridade	se	pretenda	garantir.
+§	2º	A	reclamação	deverá	ser	instruída	com	prova	documental	e	dirigida	ao	presidente	do	tribunal.
+§	3º	Assim	que	recebida,	a	reclamação	será	autuada	e	distribuída	ao	relator	do	processo	principal,
+sempre	que	possível.
+§	4º	As	hipóteses	dos	incisos	III	e	IV	compreendem	a	aplicação	indevida	da	tese	jurídica	e	sua	não
+aplicação	aos	casos	que	a	ela	correspondam.
+§	5º	É	inadmissível	a	reclamação	proposta	após	o	trânsito	em	julgado	da	decisão.
+§	6º	A	inadmissibilidade	ou	o	julgamento	do	recurso	interposto	contra	a	decisão	proferida	pelo	órgão
+reclamado	não	prejudica	a	reclamação.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	13	(correspondente,	em	parte).
+•	STF,	Súmula	734:	Não	cabe	reclamação	quando	já	houver	transitado	em	julgado	o	ato	judicial	que	se
+alega	tenha	desrespeitado	decisão	do	Supremo	Tribunal	Federal.
+SUMÁRIO:	I.	Reclamação.	Natureza	e	fundamentos	–	II.	Propositura	da	reclamação.
+I.	Reclamação.	Natureza	e	fundamentos.	A	reclamação	é	ação	de	competência	originária	dos	tribunais,
+cabível	para	preservar	sua	competência,	garantir	a	autoridade	de	suas	decisões,	garantir	a	observância	de
+precedente	oriundo	de	julgamento	de	casos	repetitivos	ou	de	incidente	de	assunção	de	competência	e,	em
+relação	ao	STF,	cabível	também	para	garantir	a	observância	de	suas	decisões	em	controle	concentrado	de
+constitucionalidade	e	de	súmulas	vinculantes	(art.	988,	I	a	IV,	do	CPC/2015;	quanto	ao	cabimento	da
+reclamação	aos	tribunais	superiores,	cf.	art.	102,	I,	l,	e	art.	105,	I,	f,	da	CF;	sobre	o	cabimento	de
+reclamação	contra	decisão	judicial	ou	ato	administrativo	que	contrariar	súmula	vinculante,	cf.	art.	103-A,
+§	3.º,	da	CF	e	o	art.	7.º	da	Lei	11.417/2006;	a	respeito,	cf.	também	o	que	escrevemos	em	Constituição
+Federal	comentada	cit.,	em	comentário	aos	referidos	dispositivos	constitucionais).	Admite-se,	assim,	de
+acordo	com	o	CPC/2015,	reclamação	contra	decisão	que	não	observe	precedente	oriundo	de	julgamento
+de	recurso	especial	repetitivo	(não	admitindo	reclamação,	anteriormente	ao	CPC/2015,	por	ausência	de
+previsão	legal,	cf.	STJ,	AgRg	na	Rcl	14.527/RJ,	rel.	Min.	Assussete	Magalhães,	1.ª
+Seção,	j.	10.12.2014).	Antes	do	CPC/2015,	entendia-se	que	a	previsão	de	reclamação	em	regimento
+interno	de	Tribunal	feriria	a	Constituição,	exigindo	sua	previsão	em	lei;	admitia-se,	contudo,	que	se
+dispusesse	a	respeito	em	Constituição	estadual,	por	se	tratar	de	manifestação	do	direito	de	petição,	não
+violando,	por	essa	razão,	o	art.	22,	I,	da	CF	(a	respeito,	cf.	os	seguintes	julgados	do	Plenário	do	STF:	RE
+405.031,	rel.	Min.	Marco	Aurélio,	j.	15.10.2008;	ADIn	2.212,	rel.	Min.	Ellen	Gracie,	j.	02.10.2003;
+ADIn	2.480,	rel.	Min.	Sepúlveda	Pertence,	j.	02.04.2007).	A	discussão	resta	esvaziada,	no	contexto	do
+
+CPC/2015,	já	que	prevê	o	cabimento	de	reclamação	para	quaisquer	tribunais	(cf.	§	1.º	do	art.	988	do
+CPC/2015).	Trata-se,	como	se	disse,	de	ação,	e	não	de	recurso	ou	mero	in
+[/PAGINA 1446]
+
+[PAGINA 1447]
+cidente.	Tem,	como	se	viu,
+finalidade	diferente	da	de	um	recurso	(admite-se	a	reclamação,	pois,	ainda	que	inadmissível	ou	rejeitado
+o	recurso,	já	que	a	função	da	reclamação	e	do	recurso	são	distintas,	cf.	§	6.º	do	art.	988	do
+CPC/2015	(cf.	também	comentário	infra).
+II.	Propositura	da	reclamação.	Os	arts.	988	a	993	do	CPC/2015	reproduzem,	em	grande	medida,	o	que
+constava	dos	arts.
+13	a	18	da	Lei	8.038/1990	(revogados	pela	nova	lei	processual,	cf.	art.	1.072,	IV	do	CPC/2015).	A
+reclamação	tem	natureza	de	ação,	como	se	disse	supra.	Trata-se,	consoante	se	decidiu,	de	“ação	de	rito
+essencialmente	célere,	cuja	estrutura	procedimental,	bastante	singela,	coincide	com	o	processo	do
+mandado	de	segurança	e	de	outras	ações	constitucionais	de	rito	abreviado”	(STF,	Rcl	5470/PA,	rel.	Min.
+Gilmar	Mendes,	j.	29.02.2008).	De	acordo	com	o	§	5.º	do	art.	988	do	CPC/2015,	não	cabe	reclamação
+contra	decisão	transitada	em	julgado.	Nesse	sentido	já	era	a	Súmula	734	do	STF	(cf.	nota	supra).	A
+reclamação	não	serve,	pois,	“como	substitutivo	da	ação	rescisória”	(STJ,	2.ª	Seção,	EDcl	na	Rcl
+2.772/SP,	rel.	Min.	Fernando	Gonçalves,	j.
+28.05.2008)	e	que	“é	inviável	a	utilização	da	reclamação	como	sucedâneo	de	eventual	recurso”	(STJ,
+Rcl	1.463/SP,	rel.	Min.
+Laurita	Vaz,	j.	23.09.2009).	Tem	sido	usada	a	reclamação,	contudo,	como	sucedâneo	recursal	do	recurso
+especial,	em	relação	a	decisões	oriundas	dos	Juizados	Especiais	Cíveis	(cf.	comentário	ao	art.	1.029	do
+CPC/2015).	De	acordo	com	o	art.	988,	§	2.º,	do	CPC/2015,	a	reclamação	deve	ser	instruída	com	prova
+documental.	A	prova,	assim,	é	pré-constituída,	meramente	documental	e	deve	acompanhar	a	petição
+inicial.	Decidiu	o	STJ	que	“a	procedência	do	pedido	em	reclamação	constitucional	está	subordinada	ao
+fato	de	existir	prova	inequívoca	apresentada	pelo	reclamante	no	sentido	de	que	o	julgado	discutido	foi
+descumprido”	(1.ª	Seção,	Rcl	2.398/MG,	rel.	Min.	José	Delgado,	j.	28.05.2008).	Não	foi	considerada
+adequadamente	instruída,	por	exemplo,	a	reclamação,	pois	“não	apresentada,	com	a	inicial,	cópia	do
+julgado	desta	Corte	que	alega	desobedecido	pelo	acórdão	reclamado,	bem	como	de	outros	documentos
+imprescindíveis	à	comprovação	dos	fatos	apontados”	(STJ,	AgRg	na	Rcl	18.385/SP,	rel.	Min.	Regina
+Helena	Costa,	3.ª	Seção,	j.	27.08.2014).
+Art.	989.	Ao	despachar	a	reclamação,	o	relator:	I	-	requisitará	informações	da	autoridade	a	quem	for
+imputada	a	prática	do	ato	impugnado,	que	as	prestará	no	prazo	de	10	(dez)	dias;	II	-	se	necessário,
+ordenará	a	suspensão	do	processo	ou	do	ato	impugnado	para	evitar	dano	irreparável;	III	-	determinará	a
+citação	do	beneficiário	da	decisão	impugnada,	que	terá	prazo	de	15	(quinze)	dias	para	apresentar	a	sua
+contestação.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	14	(correspondente,	em	parte).
+Atuação	do	relator.	Cabimento	de	agravo	interno.	O	art.	989	do	CPC/2015	dispõe	sobre	a	atuação	do
+relator.	Cabe	agravo	interno	contra	a	decisão	monocrática	que	não	admita	a	reclamação	(cf.	art.	1.021	do
+CPC/2015).	Na
+[/PAGINA 1447]
+
+[PAGINA 1448]
+vigência	do	CPC/1973,	o	STJ	admitiu	mandado	de	segurança	contra	decisão	de	ministro
+relator	que	indeferiu,	liminarmente,	o	processamento	de	reclamação	ajuizada	com	base	na	Resolução	STJ
+12/2009,	por	considerá-la	intempestiva,	já	que,	no	caso,	entendia-se	não	caber	agravo	regimental	(cf.
+STJ,	MS	16.180/DF,	rel.	Min.	Castro	Meira,	Corte	Especial,	j.	05.10.2011).	Admitida	a	reclamação,
+
+serão	requisitadas	informações	à	autoridade	responsável	pelo	ato	impugnado	e	citado	o	beneficiário	da
+decisão	impugnada,	para	que	apresente	sua	contestação	(cf.	art.	989,	I	e	III,	do	CPC/2015).	Admite-se	a
+concessão	de	tutela	provisória,	de	urgência	ou	de	evidência	(cf.	art.	294	do	CPC/2015),	a	fim	de	se
+suspender	o	processo	ou	o	ato	impugnado	(e	não	apenas	para	“evitar	dano	irreparável”,	como	afirma	o
+art.	989,	II,	in	fine,	do	CPC/2015).	Cf.	também	comentário	ao	art.	990
+do	CPC/2015.
+Art.	990.	Qualquer	interessado	poderá	impugnar	o	pedido	do	reclamante.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	15	(correspondente,	em	parte).
+Impugnação	ao	pedido	do	reclamante.	Recebida	a	reclamação,	o	relator	requisitará	informações	à
+autoridade	a	quem	for	imputada	a	prática	do	ato	impugnado	e	determinará	a	citação	do	beneficiário	da
+decisão	impugnada	(cf.	art.	989,	I	e	III,	do	CPC/2015).	Não	apenas	o	beneficiário	poderá	impugnar	(no
+caso,	através	de	contestação)	o	pedido	do	reclamante,	mas,	também,	qualquer	interessado	(cf.	art.	990	do
+CPC/2015).
+Art.	991.	Na	reclamação	que	não	houver	formulado,	o	Ministério	Público	terá	vista	do	processo	por	5
+(cinco)	dias,	após	o	decurso	do	prazo	para	informações	e	para	o	oferecimento	da	contestação	pelo
+beneficiário	do	ato	impugnado.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	16	(correspondente,	em	parte).
+Ministério	Público.	Na	reclamação,	o	Ministério	Público	atuará	como	fiscal	da	ordem	jurídica	(cf.
+comentário	ao	art.	178
+do	CPC/2015).
+Art.	992.	Julgando	procedente	a	reclamação,	o	tribunal	cassará	a	decisão	exorbitante	de	seu	julgado	ou
+determinará	medida	adequada	à	solução	da	controvérsia.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	18	(correspondente).
+Julgamento	da	reclamação.	Julgada	procedente	a	reclamação,	a	sentença	será,	em	regra,	constitutiva	e
+mandamental:	será	anulado	o	ato	administrativo	ou	a	decisão	judicial	e	se	ordenará	que	outro	ato	seja
+praticado	ou	que	outra	decisão	seja
+proferida,	no	lugar	da	anulada,	ou	se	ordenará	que	se	faça	ou	se	deixe	de	fazer	algo	(cf.	art.	992	do
+CPC/2015).	Nesse	sentido,	o	art.	64-B	da	Lei	9.784/1999	(na	redação	da	Lei	11.417/2006)	estabelece
+que,	“acolhida	pelo	Supremo	Tribunal	Federal	a	reclamação	fundada	em	violação	de	enunciado	da
+súmula	vinculante,	dar-se-á	ciência	à	autoridade	prolatora	e	ao	órgão	competente	para	o	julgamento	do
+recurso,	que	deverão	adequar	as	futuras	decisões	administrativas	em	casos	semelhantes,	sob	pena	de
+responsabilização	pessoal	nas	esferas	cível,	administrativa	e	penal”.	Pode	suceder	que	nada	haja	a
+anular,	como	no	caso	em	que	a	reclamação	é	uti
+[/PAGINA 1448]
+
+[PAGINA 1449]
+lizada	contra	omissão	(ex.:	admitiu-se	reclamação	contra
+demora	injustificada	no	cumprimento	de	acórdão	proferido	pelo	STJ	transitado	em	julgado	há	vários
+anos,	cf.	STJ,	3.ª	Seção,	Rcl	1.723/PB,	rel.	Min.
+Hamilton	Carvalhido,	j.	11.06.2008).	Nesse	caso,	a	decisão	terá	apenas	natureza	mandamental.
+
+Art.	993.	O	presidente	do	tribunal	determinará	o	imediato	cumprimento	da	decisão,	lavrando-se	o
+acórdão	posteriormente.
+CPC/1973:	Sem	correspondente;	Lei	8.038/1990,	art.	18	(correspondente).
+Cumprimento	e	publicação	do	acórdão.	A	decisão	(art.	992	do	CPC/2015)	deve	ser	cumprida
+imediatamente,	ainda	que	o	acordão	seja	lavrado	em	momento	posterior	(cf.	art.	993	do	CPC/2015).	Cf.
+também	comentário	ao	art.	944	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	III.	DOS	PROCESSOS	NOS	TRIBUNAIS	E	DOS	MEIOS	DE	IMPUGNAÇÃO	DAS	DECISÕES
+JUDICIAIS
+TÍTULO	II.	DOS	RECURSOS
+TÍTULO	II
+
+DOS	RECURSOS
+Capítulo	I
+DISPOSIÇÕES	GERAIS
+Art.	994.	São	cabíveis	os	seguintes	recursos:	I	-	apelação;
+II	-	agravo	de	instrumento;	III	-	agravo	interno;	IV	-	embargos	de	declaração;	V	-	recurso	ordinário;	VI	-
+recurso	especial;	VII	-	recurso	extraordinário;	VIII	-	agravo	em	recurso	especial	ou	extraordinário;	IX	-
+embargos	de	divergência.
+CPC/1973:	Art.	496	(correspondente).
+V.	art.	5.º,	LV	da	CF/1988.
+•	STJ,	Súmula	315:	Não	cabem	embargos	de	divergência	no	âmbito	do	agravo	de	instrumento	que	não
+admite	recurso	especial.
+•	STJ,	Súmula	316:	Cabem	embargos	de	divergência	contra	acórdão	que,	em	agravo	regimental,	decide
+recurso	especial.
+SUMÁRIO:	I.	Recursos	e	direito	ao	processo	adequado	–	II.	Função	dos	recursos	–	III.	Características
+dos	recursos	–	IV.
+Duplo	grau	de	jurisdição	–	V.	Taxatividade	recursal.	Princípio	da	legalidade.	Restrições	regimentais	ao
+cabimento	de	recursos
+–	VI.	Admissibilidade	e	mérito	dos	recursos	–	VII.	Classificação	dos	requisitos	de	admissibilidade	dos
+recursos.	Vícios	sanáveis	e	insanáveis	–	VIII.	Competência	para	a	realização	dos	juízos	de
+admissibilidade	e	de	mérito	do	recurso.	Órgãos	a	quo	e	ad	quem	–	IX.	Exame	dos	requisitos	de
+admissibilidade	dos	recursos,	de	ofício	ou	mediante	provocação	da	parte	–	X.	Cabimento	do	recurso	–
+XI.	Sucedâneos	recursais	–	XII.	Recurso	adequado	à	decisão.	Unicidade	(ou	da	singularidade,	ou	da
+unirrecorribilidade).	Exceções	–	XIII.	Decisões	judiciais	objetivamente	complexas	–	XIV.	Cabimento	de
+recursos	sucessivos	contra	a	mesma	decisão?	–	XV.	Capítulos	da	decisão	e	efeitos	do	recurso	–	XVI.
+Fungibilidade	entre	recursos.
+Instrumentalidade	recursal	–	XVII.	Requisitos	para	a	incidência	do	princípio	da	instrumentalidade
+recursal	–	XVIII.
+Regularidade	formal.	Requisitos	da	petição	recursal	–	XIX.	Juízo	de	mérito	dos	recursos.	Vícios	de
+atividade	e	de	juízo	–	XX.
+Reforma,	anulação	e	integração	da	decisão	recorrida	–	XXI.	Juízo	de	retratação	–	XXII.	Retratação,	após
+o	julgamento	de	recursos	ex
+[/PAGINA 1449]
+
+[PAGINA 1450]
+traordinário	e	especial	repetitivos	–	XXIII.	Irrecorribilidade	em	separado
+das	decisões	interlocutórias.	Direito	comparado.	O	modelo	adotado	pelo	CPC/2015.
+I.	Recursos	e	direito	ao	processo	adequado.	Embora,	com	o	recurso,	não	se	ajuíze	nova	ação,	o	direito
+
+de	recorrer	é	abrangido	pelo	direito	de	ação	(“si	inquadri	nel	concetto	del	diritto	di	azione”,	como	afirma
+Ugo	Rocco,	ob.	cit.,	v.	3,	p.	291).	É
+possível,	sob	este	ponto	de	vista,	traçar	um	paralelo	entre	os	requisitos	dos	recursos	e	da	ação	(idem,	p.
+293	e	ss.;	temos	sustentado,	há	muito,	esse	ponto	de	vista,	cf.	o	que	escrevemos	em	O
+prequestionamento.	.	cit.,	3.	ed.,	2002,	n.	1.4.2,	p.	66,	em	que	procuramos	explorar	as	consequências
+desse	modo	de	pensar).	Estendem-se	aos	recursos,	assim,	as	garantias	mínimas	inerentes	ao	direito	de
+ação	(sobre	nossa	concepção	de	direito	de	ação,	como	direito	ao	processo	adequado,	que	observe	as
+garantias	mínimas,	decorrentes	do	devido	processo	legal,	cf.	comentário	ao	art.	2.º	do	CPC/2015).
+II.	Função	dos	recursos.	Considerando	que	a	atividade	jurisdicional	deve	aspirar	a	um	resultado	mais
+ajustado	possível	ao	que	dispõe	o	direito	sobre	a	lide,	os	recursos	seriam,	de	acordo	com	parte	da
+doutrina,	meios	de	controle,	já	que	o	Estado	não	pode	garantir	que	os	juízes	sejam	infalíveis	(cf.	Manuel
+Ibañez	Frocham,	Los	recursos	en	el	proceso	civil,	p.	24-25).	Como	afirma	Sérgio	Bermudes,	“o	princípio
+do	duplo	grau	de	jurisdição	continuará	vigorando	como	expressão	eloquente	e	amarga	das	fraquezas
+humanas”	(Sérgio	Bermudes,	Comentários.	.	cit.,	v.	7,	n.	4,	p.	12;	sobre	este	princípio,	cf.	comentário
+infra).	Para	Othmar	Jauernig,	a	existência	do	recurso	exerce	sobre	os	órgãos	judiciais	“uma	pressão
+salutar	para	que	fundamentem	cuidadosamente	as	decisões”	(op.	cit.,	§	72,	p.	362).	Em	sistemas	jurídicos
+como	o	brasileiro,	em	que	as	normas	constitucionais	e	federais	são	aplicadas	por	tribunais	estaduais	e
+tribunais	regionais	federais,	justifica-se,	também,	a	existência	de	recursos	com	a	finalidade	de
+proporcionar	a	unidade	de	inteligência	acerca	do	Direito.	É	o	que	sucede	com	os	recursos
+extraordinário	e	especial	(cf.	José	Manoel	de	Arruda	Alvim	Netto,	Notas	a	respeito	dos	aspectos	gerais
+e	fundamentais	da	existência	dos	recursos	cit.,	p.	301;	José	Afonso	da	Silva,	Do	recurso	extraordinário
+no	direito	processual	brasileiro,	p.	3;	a	respeito,	cf.	o	que	escrevemos	em	O	prequestionamento.	.	cit.,	1.
+ed.,	1998,	n.	1.1.	e	1.2.,	p.	19	e	ss.,	3.	ed.,	2002,	n.	1.1.	e	1.2.,	p.	27	e	ss.).
+III.	Características	dos	recursos.	Consideramos	recursos	os	meios	de	impugnação	às	decisões	judiciais
+provocados	no	mesmo	processo	(distinguem-se,	pois,	das	ações	autônomas	de	impugnação,	que
+constituem	nova	relação	processual,	cf.
+comentário	ao	art.	966	do	CPC/2015;	sob	o	prisma	do	CPC/1973,	cf.	o	que	escrevemos	em	O
+prequestionamento.	.	cit.,	1.	ed.,	1998,	n.	1.1.	e	1.2.,	p.	19	e	ss.,	3.	ed.,	2002,	n.	1.1.	e	1.2.,	p.	27	e	ss.).	A
+remessa	necessária	não	é	meio	de	impugnação	(ao	se	remeter	ou	se
+[/PAGINA 1450]
+

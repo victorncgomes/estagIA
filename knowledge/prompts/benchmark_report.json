@@ -1,0 +1,28 @@
+[
+  {
+    "iteracao": 1,
+    "score": null,
+    "ajustes": [],
+    "config": {
+      "instrucaoTamanho": "A decisão deve ter NO MÍNIMO 4000 caracteres e NO MÁXIMO 8000 caracteres.",
+      "instrucaoEstrutura": "SIGA EXATAMENTE a estrutura: Vistos, etc. → Relatório → Relatados. → Fundamentação → Isso posto, → P.R.I.",
+      "instrucaoEstilo": "Use linguagem formal jurídica, sem modernismos. NÃO use bullet points ou listas.",
+      "numExemplos": 2,
+      "maxCharsExemplo": 6000,
+      "enfaseExtra": "ATENÇÃO: Sua decisão deve ser MUITO SIMILAR em tamanho e estrutura aos exemplos."
+    }
+  },
+  {
+    "iteracao": 2,
+    "score": null,
+    "ajustes": [],
+    "config": {
+      "instrucaoTamanho": "A decisão deve ter NO MÍNIMO 4000 caracteres e NO MÁXIMO 8000 caracteres.",
+      "instrucaoEstrutura": "SIGA EXATAMENTE a estrutura: Vistos, etc. → Relatório → Relatados. → Fundamentação → Isso posto, → P.R.I.",
+      "instrucaoEstilo": "Use linguagem formal jurídica, sem modernismos. NÃO use bullet points ou listas.",
+      "numExemplos": 2,
+      "maxCharsExemplo": 6000,
+      "enfaseExtra": "ATENÇÃO: Sua decisão deve ser MUITO SIMILAR em tamanho e estrutura aos exemplos."
+    }
+  }
+]

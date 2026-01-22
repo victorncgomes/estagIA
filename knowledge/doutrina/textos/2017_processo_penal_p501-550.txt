@@ -1,0 +1,1855 @@
+[META]
+TITULO: Processo Penal
+AUTOR: 2017
+ANO: N/A
+EDICAO: N/A
+EDITORA: Método
+PAGINAS: 501-550
+ARQUIVO_ORIGINAL: Processo Penal -  Norberto Avena - 2017 .pdf
+CITACAO_ABNT: 2017. Processo Penal.
+[/META]
+
+[PAGINA 501]
+rsada  no  dispositivo,  a  quebra  de  segredo  de  justiça.  Conforme  se  infere  do  art.  8.º  da  Lei
+9.296/1996, aquele que, na forma prevista em tal regramento, tomar ciência das diligências, gravações e transcrições relativas à
+interceptação de comunicação telefônica tem o dever legal de preservar o respectivo sigilo. Tal obrigação assiste a todos aqueles
+que, por força do procedimento inserido na referida lei, tiverem conhecimento das providências em andamento ou do resultado
+da interceptação, podendo ser o delegado, o promotor, o juiz, o responsável pela concessionária que prestar auxílio técnico para
+efetivar  a  captação,  o  responsável  pela  degravação  e  até  mesmo  o  advogado  do  réu.  Comete  o  crime,  por  exemplo,  o  agente
+policial que comunica ao investigado que sua linha telefônica encontra-se sob interceptação.
+Por  derradeiro,  tenha-se  em  mente  que  todas  as  ações  descritas  no  art.  10  da  Lei  9.296/1996  são  punidas  a  título  de  dolo,
+devendo ser apuradas mediante ação penal pública incondicionada segundo o procedimento comum ordinário (art. 394, § 1.º, I,
+do CPP).
+INTERCEPTAÇÃO DE DADOS
+A Lei 9.296/1996, em seu art. 1.º, parágrafo único, estabelece que “aplica-se à interceptação do fluxo de comunicações em
+sistemas  de  informática  e  telemática”,  o  que  abrange  e-mails,  canais  de  transmissão  automática  via  internet  (v.g.,  MSN,  chat
+etc.), mensagens SMS e o próprio fac-símile.
+Tal  previsão,  no  entanto,  gerou  forte  controvérsia,  tendo  em  vista  que,  para  muitos,  seria  inconstitucional.  A  razão  dessa
+inconstitucionalidade decorreria da circunstância de que o art. 5.º, XII, da Carta da República, ao dispor sobre formas específicas
+de preservação da intimidade, estabelece que é inviolável o sigilo da correspondência e das comunicações telegráficas, de dados
+e  das  comunicações  telefô-nicas, salvo,  no  último  caso,  mediante  ordem  judicial,  na  forma  da  lei.  Com  tal  redação,  teria  o
+legislador  constituinte  possibilitado  apenas  a  violação  das  comunicações  telefônicas  (que  seria  o  último  caso  do  artigo  citado),
+sendo  absoluto  o  sigilo  das  três  primeiras  formas  elencadas,  entre  as  quais  se  encontra  a  transmissão  de  dados.  Destarte,
+realizando-se  o  fluxo  de  informações  em  sistemas  de  informática  e  telemática  mediante  transmissão  de  dados,  e  sendo  estes
+invioláveis,  restaria  viciada  a  norma  incorporada  ao  art.  1.º,  parágrafo  único,  da  Lei  9.296/1996.  Os  adeptos  dessa  teoria
+fundamentam-se  na  ideia  de  que  uma  interpretação  extensiva  do  texto  constitucional  permitiria  exceção  temerária  a  direito
+fundamental que o legislador constituinte estabeleceu, o que não poderia ser imposto pelo legislador ordinário.
+Não  obstante,  outra  posição  existe,  inclinando-se  no  sentido  da  constitucionalidade  do  aludido  artigo.  O  principal
+argumento utilizado para a defesa desse entendimento é o
+[/PAGINA 501]
+
+[PAGINA 502]
+de que o art. 5.º, XII, da CF, ao prever determinadas inviolabilidades e
+ter  ressalvado  a  possibilidade  de  violação,  mediante  ordem  judicial,  apenas  da  última  delas,  deve  ser  interpretado  em  dois
+grupos:
+1.º GRUPO:
+a) Inviolabilidade do sigilo da correspondência
+b) Inviolabilidade do sigilo das comunicações telegráficas
+2.º GRUPO:
+a) Inviolabilidade do sigilo de dados
+b) Inviolabilidade do sigilo das comunicações telefônicas
+Essa interpretação decorre da aposição, no texto constitucional, da preposição “e” em dois momentos. O inciso XII, enfim,
+não diz que é inviolável o sigilo da correspondência, das comunicações telegráficas, de dados e das comunicações telefônicas,
+como  poderia  tê-lo  feito.  Estabelece,  isto  sim,  que  é  inviolável  o  sigilo da correspondência e das comunicações telegráficas
+(1.º  caso),  de  dados  e  das  comunicações  telefônicas  (2.º  caso),  salvo  no último  caso,  o  qual  abrangeria,  portanto,  tanto  os
+dados quanto as comunicações telefônicas, e não apenas essa última modalidade, como poderia sugerir uma leitura apressada
+do texto constitucional.
+
+8.7
+8.7.1
+a)
+b)
+c)
+Concordamos com esta última orientação e o fazemos por três razões: primeira, o princípio de hermenêutica constitucional
+segundo  o  qual  apenas  deve  ser  considerada  viciada  uma  norma  quando  nenhuma  interpretação  possível  for  capaz  de  torná-la
+adequada à Constituição; segunda, o fato de que as liberdades individuais não são e não podem ser absolutas, devendo ceder ao
+interesse  público,  quando  assim  o  exigir  o  interesse  da  justiça  e  a  necessidade  de  apuração  da  verdade  real;  terceira,  a  forma
+como foi redigido o dispositivo e como poderia tê-lo sido, caso tivesse o legislador constituinte a intenção propositada de tornar
+invioláveis os dados.
+INTERCEPTAÇÕES AMBIENTAIS
+As  interceptações  ambientais  lato  sensu  compreendem  toda  e  qualquer  forma  de  captação  de  sons,  imagens  ou  sinais
+eletromagnéticos  que  não  se  utilizem  da  linha  telefônica.  São  aquelas  captações  realizadas  por  meio  de  filmadoras,  gravadores
+acústicos, transmissores e outros equipamentos similares.
+ Classificação das interceptações ambientais lato sensu e a proteção constitucional
+Simetricamente às interceptações telefônicas lato sensu, também as interceptações ambientais lato sensu classificam-se em
+três formas distintas:
+Interceptação ambiental stricto sensu: hipótese na qual um terceiro registra sons ou imagens envolvendo a conversa ou
+o  comportamento  de  duas  ou  mais  pessoas  sem  que  haja  o  conhecimento  destes.  Exemplo:  a  autoridade  policial,
+investigando a ação de quadrilha voltada ao tráfico, realiza a filmagem, por dias sucessivos, da conduta dos criminosos
+vendendo drogas nas proximidades de uma escola, não tendo qualquer dos traficantes ciência de que esse registro está
+sendo efetuado.
+Escuta ambiental: situação em que um terceiro registra sons ou imagens envolvendo duas ou mais p
+[/PAGINA 502]
+
+[PAGINA 503]
+essoas havendo o
+conhecimento  de  um  dos  envolvidos.  Exemplo:  a  polícia  civil  registra,  por  meio  de  um  transmissor  eletrônico,  o
+momento  em  que  o  fiscal  de  determinada  prefeitura  exige  de  um  vendedor  ambulante  vantagem  financeira  para  não
+apreender  as  mercadorias  contrabandeadas,  havendo,  nesse  caso,  o  conhecimento  da  escuta  pelo  vendedor  que,  para
+tanto, portava microfone escondido sob as vestes.
+Gravação ambiental: não há, aqui, a presença de terceiro. Na gravação, um dos interlocutores capta a conversa ou o
+comportamento  que  mantém  com  outro,  não  havendo  a  ciência  deste  último  quanto  a  essa  circunstância.  Exemplo:
+policial  disfarçado,  portando  uma  microcâmera,  que  comparece  no  local  onde  determinado  indivíduo  falsifica
+documentos, registrando sons e imagens da conversa mantida com ele.
+Em  nível  de  Constituição  Federal,  não  existe  tutela  direta  das  interceptações  ambientais  lato  sensu,  diferentemente  das
+interceptações telefônicas, nas quais existe tutela específica,  embora  parcial  (não  abrange  as  gravações),  no  art.  5.º,  XII.  Deste
+modo,  a  questão  relacionada  à  licitude  ou  ilicitude  dos  registros  ambientais  de  sons  e  imagens  deve  ser  analisada,  unicamente,
+frente à regra do art. 5.º, X, da Carta Magna, que incorpora proteção genérica à intimidade, dispositivo este que, ao contrário do
+que  ocorre  no  citado  inciso  XII,  não  ressalva  a  possibilidade  de  ordem  judicial  como  forma  de  possibilitar  a  violação  da
+privacidade.
+Neste  contexto,  é  de  se  indagar:  as  formas  ambientais  de  registro  importam,  indistintamente  e  em  qualquer  caso,  na
+violação ao direito à intimidade tutelado pela Constituição Federal no art. 5.º, X? A resposta afigura-se negativa. Na atualidade,
+é  consolidado  o  entendimento  no  sentido  de  que  nenhuma  das  formas  de  interceptações  ambientais  lato  sensu  importa,
+necessariamente, em violação ao direito da intimidade. Até pode ser que haja essa violação, mas isso não é considerado a regra, e
+sim a exceção.
+Sendo assim, vale dizer, sendo regra que interceptações ambientais lato sensu não importam, de per si, em afrontamento ao
+art.  5.º,  X,  da  CF,  quando  importariam  elas  em  violação  ao  direito  da  intimidade  a  ponto  de  tornar  ilícitas  as  provas  então
+obtidas? Em duas circunstâncias:
+1) Quando forem realizadas em ambiente no qual exista expectativa de privacidade.
+Imagine-se  que  alguém,  clandestinamente,  ingresse  no  gabinete  de  determinado  profissional  e,  sob  sua  mesa,  acople
+equipamento de transmissão a fim de que sejam ouvidas todas as conversas que mantém com terceiros, registrando, dessa forma,
+o  diálogo  relativo  à  prática  de  um  crime.  Esta  prova  será  ilícita  tendo  em  vista  que,  no  interior  da  própria  sala  de  trabalho,
+possuía o investigado a expectativa de estar só, o que atrai a incidência do art. 5.º, X, da Carta
+[/PAGINA 503]
+
+[PAGINA 504]
+da República.
+Contudo,  é  importante  ressaltar  que,  a  despeito  da  prevalência  deste  entendimento,  o  Plenário  do  STF,  por maioria,  em
+
+•
+•
+20.11.2008,  no  julgamento  do  Inquérito  2.424/RJ,  imputativo  da  prática  de  crime  organizado,  considerou  lícita  a  prova  obtida
+mediante instalação, durante a madrugada, de equipamento de captação acústica no escritório profissional de um dos imputados,
+visto  que  se  tratava  de  local  utilizado  por  ele  para  a  consumação  de  crimes.  Ademais,  corroborando  o  argumento  da  licitude,
+salientou o STF o fato de que tanto o ingresso naquele ambiente pelos agentes de investigação como o procedimento de captação
+de  sons  teriam  sido  autorizados  judicialmente  com  fulcro  no  art.  2.º,  IV,  da  Lei  9.034/1995  (atual  art.  3.º,  II,  da  Lei
+12.850/2013
+32
+).
+2) Quando praticadas com violação de confiança decorrente de relações interpessoais (motivada pela amizade, pelo
+parentesco,  pelo  casamento  etc.)  ou  de  relações  profissionais  (v.g.,  advogado  e  cliente,  psicólogo  e  paciente,  padre  e
+confidente etc.).
+Considerem-se as seguintes hipóteses:
+Determinada pessoa relata à sua esposa (poderia ser qualquer outro parente ou até mesmo um amigo, bastando que esteja
+presente  o  elemento  confiança)  detalhes  sobre  um  crime  que  cometeu,  sem  saber  que  todo  o  seu  relato  está  sendo
+gravado;
+Um psiquiatra grava a conversa que mantém com seu cliente no consultório, ocasião em que este narra a prática de um
+delito antes cometido.
+Em  ambas  as  situações,  impõe-se  considerar  ilícita  a  prova  resultante  das  gravações  ambientais  em  virtude  de  terem  sido
+obtidas  mediante  violação  de  confiança,  vale  dizer,  conduta  jamais  esperada  pelo  narrador,  para  quem  se  gerou  sentimento  de
+profunda decepção com a conduta de seu interlocutor. Inclusive, de nada resolveria a existência de ordem judicial autorizando os
+registros  ambientais,  tendo  em  vista  que  o  dispositivo  da  Constituição  Federal  afrontado  foi  o  art.  5.º,  X,  que,  repisa-se,  não
+ressalva a possibilidade de autorização do juiz. Cabe ressaltar que, no segundo caso ventilado, a quebra do sigilo ainda seria mais
+grave, uma vez que às pessoas que sabem do fato em razão da profissão, função, ofício ou ministério incide o dever de sigilo. A
+propósito,  examinando  caso  concreto  que  envolvia  o  registro  de  diálogo  mantido  entre  advogado  e  respectivo  cliente,
+materializando-se  a  prática  de  um  crime  perpetrado  por  este  último,  decidiu  o  STJ  que  “conversa  pessoal  e  reservada  entre
+advogado e cliente tem toda a proteção da lei, porquanto, entre outras reconhecidas garantias do advogado, está a inviolabilidade
+de suas comunicações” (HC 59.967/SP, DJ 25.09.2006).
+
+E  quando  se  tratar  de  registro  ambiental  de  crime  em  plena  consumação,  também  incidem  os  critérios  mencionados
+considerando  ilícitas  as  provas  obtidas  mediante  vio
+[/PAGINA 504]
+
+[PAGINA 505]
+lação  de  confidência  ou  em  ambiente  com  perspectiva  de  intimidade?
+Considere-se o seguinte exemplo: microcâmera, clandestinamente acoplada pela autoridade policial na residência de traficante,
+registra  o  momento  em  que  este,  com  um  tiro,  mata  outro  integrante  da  quadrilha  em  razão  de  desacertos  havidos  entre  eles.
+Nesse  caso,  há  expressiva  parcela  doutrinária  e  jurisprudencial  defendendo  a  ilicitude  do  registro,  eis  que  contaminado  pela
+clandestinidade do equipamento eletrônico acoplado em local onde há expectativa de intimidade. Não obstante, há entendimento
+oposto,  considerando  que  deve  ser  tida  como  lícita  a  prova  obtida  com  as  imagens,  eis  que  os  direitos  fundamentais,  mesmo  a
+intimidade,  não  podem  ser  considerados  absolutos  e  cedem  frente  à  prática  criminosa.  Sustenta-se,  neste  caso,  que  não  pode
+existir intimidade preservada no momento da consumação ou tentativa de crimes.
+A  respeito,  modificando  nosso  entendimento  adotado  em  outras  oportunidades,  compartilhamos,  na  atualidade,  com  a
+primeira posição, compreendendo que, embora inexista, efetivamente, intimidade protegida diante da consumação de um crime,
+o  acesso  clandestino  no  domicílio  do  traficante  contaminaria  qualquer  prova  que  viesse,  em  razão  desta  conduta,  a  ser  obtida.
+Bem  diversa  seria  a  situação,  por  exemplo,  em  que  determinada  pessoa,  de  seu  apartamento,  filmasse  um  crime  cometido  por
+morador  no  interior  de  apartamento  localizado  em  outro  edifício.  Neste  caso,  a  prova  seria  lícita,  a  despeito  da  intimidade
+violada,  pois,  a  um,  não  houve  um  fato  anterior  ilegítimo  a  contaminar  a  filmagem  realizada  (v.g.,  invasão  do  domicílio  do
+criminoso  para  lá  ser  acoplado  um  equipamento  de  filmagem)  e,  a dois,  pelo  fato  já  mencionado  de  que  inexiste,  realmente,
+proteção à privacidade na ocasião em que realizados atos tendentes à consumação de um fato típico.
+Outro exemplo:
+No  curso  do  ano  de  2005,  abalou  o  País  gravação  ambiental  amplamente  divulgada  pelos  meios  de  comunicação,  onde
+dirigente  de  estatal  aparecia,  no  interior  de  seu  gabinete,  recebendo  vantagem  em  dinheiro,  conduta  esta  registrada  mediante
+câmera  escondida  pela  própria  pessoa  que  lhe  entregava  a  quantia  acertada  entre  eles.  Por  que  não  foi  considerada  ilícita  a
+prova, uma vez que obtidas as imagens no interior do gabinete do citado dirigente, local este, em tese, protegido pelo direito à
+intimidade? Por uma razão básica: não se tratava, opostamente ao caso anteriormente ilustrado, de registro de imagens realizado
+por  terceiro  ou  por  meio  de  equipamento  clandestinamente  acoplado  no  gabinete,  mas,  sim,  de  captação  realizada  por  um  dos
+
+8.7.2
+interlocutores. Ora, se este poderia, na condição de réu em um processo ou de testemunha que fosse, validamente depor contra o
+dirigente da
+[/PAGINA 505]
+
+[PAGINA 506]
+estatal, narrando o episódio, poderia, também, fornecer imagens que ele próprio captou. A verdade é que, para ele ou
+para qualquer pessoa que estivesse na sala, filmando ou gravando clandestinamente o diálogo, estava desprotegida a intimidade
+do dirigente quanto ao que ocorresse no interior do recinto, podendo, então, tudo revelar.
+Dada a complexidade do tema, apresentamos ao leitor a seguinte ilustração, visando tornar mais fácil a sua compreensão:
+ Gravação de conversa informal entre investigado e autoridade policial
+O tema concerne à possibilidade de utilização das provas obtidas pela autoridade policial mediante gravação clandestina de
+conversa  informal  mantida  com  suspeitos  de  prática  criminosa,  por  meio  da  qual  estes  fornecem  elementos  que  importam  em
+autoincriminação e, também, delação de outros envolvidos.
+Suponha-se,  a  título  de  ilustração,  que  a  autoridade  policial,  nas  dependências  da  Delegacia  de  Polícia,  em  conversa
+informal com suspeito de ter colaborado para a prática de crime de extorsão mediante sequestro praticado por terceiros ainda não
+identificados,  venha  a  concordar  em  prestar  informações,  em  conversa  informal,  sem  redução  a  escrito.  No  diálogo  assim
+mantido, sob a promessa de impunidade – passaria a ser um informante da polícia –, vem ele a narrar os termos em que se deu a
+sua participação, bem como a delatar os demais envolvidos, declinandolhes o nome e a forma de comprometimento com o crime
+investigado, tudo sem saber que suas informações estavam sendo registradas por meio de um gravador escondido na sala.
+De plano, cabe ressaltar que não se pode, na hipótese narrada, para o fim de considerar ilícita a prova, invocar o argumento
+de  que  teria  havido  violação  ao  direito  à  intimidade  consagrado  no  art.  5.º,  X,  da  CF.  Isso  porque,  como  já  se  viu  no  item
+anterior, o só fato da gravação clandestina não importa afrontamento ao referido dispositivo constitucional, o que só ocorreria se
+tivesse  a  prova  sido  produzida  em  ambiente  no  qual  o  investigado  tivesse  expectativa  de  intimidade  ou  mediante  violação  de
+confidência.  Nada  disso,  porém,  ocorreu,  pois  as  dependências  de  uma  delegacia  de  polícia  não  é  local  onde  os  investigados
+possam supor estar com a sua privacidade resguardada, e, em segundo lugar, não se pode dizer que o investigador de polícia seja
+alguém que um suspeito de crime possa considerar confidente.
+Afastada,  pois,  a  possibilidade  de  invalidação  integral  da  prova  assim  obtida  por  questões  relacionadas  ao  direito  à
+privacidade, cumpre distinguir no relato informal do suspeito clandestinamente gravado dois momentos:
+1.º) Momento em que relatou à autoridade policial detalhes de sua colaboração no crime investigado: tal prova será
+ilícita, não podendo medidas restritivas (v.g., prisão) ser adotadas ou a ação penal ser iniciada em relação a dito narrador apenas
+com base na gravação clandestinamente
+[/PAGINA 506]
+
+[PAGINA 507]
+obtida. Isto ocorre não por afronta à intimidade, mas sim em razão da circunstância de
+que, ao ter gravado clandestinamente seu próprio envolvimento no crime, sem saber que esta captação estava ocorrendo e sem ter
+
+8.7.3
+sido advertido de que poderia ficar calado, restou afrontado o privilégio da não autoincriminação – nemo tenetur se detegere –,
+implicitamente acolhido no texto constitucional (art. 5.º, LXIII), e, ainda, o art. 186 do CPP, aplicável por força da regra do art.
+6.º, V, do mesmo Diploma Legal, assegurando ao investigado o direito de ser advertido quanto ao direito ao silêncio.
+2.º) Momento em que relatou à autoridade policial detalhes do envolvimento de terceiros: a prova, neste enfoque, será
+lícita. É que, aqui, não se conduzia o narrador como alguém que confessava, mas sim como verdadeira testemunha. E a esta não
+é assegurado o direito ao silêncio. Bem pelo contrário. Tipificada como crime de falso testemunho a conduta da testemunha que,
+ciente de fatos, não os relata à autoridade (art. 342 do Código Penal).
+Neste  sentido,  na  esteira  de  precedentes  da  própria  Corte,  decidiu  o  STF  no  julgamento  do  Habeas  Corpus  80.949,
+transcrito nos Informativos 248 e 250:
+“(...) 3. Ilicitude decorrente – quando não da evidência de estar o suspeito, na ocasião, ilegalmente preso ou da falta de
+prova  idônea  do  seu  assentimento  à  gravação  ambiental  –  de  constituir,  dita  ‘conversa  informal’,  modalidade  de
+‘interrogatório’ subreptício, o qual – além de realizar-se sem as formalidades legais do interrogatório no inquérito policial
+(CPP,  art.  6.º,  V)  –,  se  faz  sem  que  o  indiciado  seja  advertido  do  seu  direito  ao  silêncio.  4.  O  privilégio  contra  a
+autoincriminação  –  nemo   tenetur   se   detegere   –,   erigido   em   garantia   fundamental   pela   Constituição   –   além   da
+inconstitucionalidade superveniente da parte final do art. 186 do CPP – importou compelir o inquiridor, na polícia ou em
+juízo, ao dever de advertir o interrogado do seu direito ao silêncio: a falta da advertência – e da sua documentação formal –
+faz  ilícita  a  prova  que,  contra  si  mesmo,  forneça  o  indiciado  ou  acusado  no  interrogatório  formal  e,  com  mais  razão,  em
+‘conversa informal’ gravada, clandestinamente ou não”.
+Interceptações ambientais e o crime organizado (Lei 12.850/2013)
+O  art.  2.º,  IV,  da  Lei  9.034/1995,  alterado  pela  Lei  10.217/2001,  previa  a  necessidade  de  circunstanciada  ordem  judicial
+para a interceptação (lato sensu) de sinais eletromagnéticos, óticos ou acústicos. Destarte, tratando-se da investigação de crimes
+perpetrados por organizações criminosas, eram consideradas ilegítimas quaisquer das modalidades de interceptações ambientais
+caso fossem realizadas sem a prévia autorização do juiz. Entretanto, a Lei 9.034/1995 foi revogada expressamente pelo art. 26 da
+Lei 12.850/2013. E esta lei, ao dispor sobre a investigação criminal e sobre os meios de obtenção da prova em re
+[/PAGINA 507]
+
+[PAGINA 508]
+lação a delitos
+praticados  por  organizações  criminosas,  limitou-se  a  dizer  que  “em  qualquer  fase  da  persecução  penal,  serão  permitidos,  sem
+prejuízo  de  outros  já  previstos  em  lei,  os  seguintes  meios  de  obtenção  da  prova:  [...]  II  –  captação  ambiental  de  sinais
+eletromagnéticos,  ópticos  ou  acústicos”.  Não  mais  é  exigida,  portanto,  autorização  judicial  prévia  para  estas  captações.  Sem
+embargo, deve-se lembrar de que em muitos casos as referidas captações são obtidas por meio de agentes policiais infiltrados e,
+quanto  à  infiltração,  dispõe  o  art.  10,  caput,  da  Lei  12.850/2013  que  “será  precedida  de  circunstanciada,  motivada  e  sigilosa
+autorização judicial, que estabelecerá seus limites”.
+Note-se  que,  há  até  bem  pouco  tempo,  não  havia,  no  Brasil,  lei  trazendo  o  conceito  de  organização criminosa.  A  própria
+Lei 9.034/1995, que estabelecia os procedimentos investigatórios no caso de ilícitos praticados por organizações criminosas, era
+silente  a  respeito.  Para  suprir  a  lacuna  legislativa,  muitos  passaram  a  defender  a  utilização  do  conceito  inserido  por  meio  do
+Decreto  5.015/2004,  que  ratifica  a  Convenção  das  Nações  Unidas  contra  o  Crime  Organizado  Transnacional  (Convenção  de
+Palermo) e que em seu art. 2.º, alínea a, define grupo criminoso organizado como sendo o “grupo estruturado de três ou mais
+pessoas,  existente  há  algum  tempo  e  atuando  concertadamente  com  o  propósito  de  cometer  uma  ou  mais  infrações  graves  ou
+enunciadas  na  presente  Convenção,  com  a  intenção  de  obter,  direta  ou  indiretamente,  um  benefício  econômico  ou  outro
+benefício material”.
+Na  verdade,  foi  apenas  com  a  edição  da  Lei  12.694,  de  24.07.2012,  que  tal  lacuna  da  legislação  brasileira  foi  suprida,
+definindo-se  organização  criminosa,  para  os  efeitos  dessa  lei,  como  sendo  “a  associação,  de  3  (três)  ou  mais  pessoas,
+estruturalmente  ordenada  e  caracterizada  pela  divisão  de  tarefas,  ainda  que  informalmente,  com  objetivo  de  obter,  direta  ou
+indiretamente,  vantagem  de  qualquer  natureza,  mediante  a  prática  de  crimes  cuja  pena  máxima  seja  igual  ou  superior  a  4
+(quatro) anos ou que sejam de caráter transnacional” (art. 2.º). Este diploma ainda contemplou a possibilidade de instauração
+de  um  colegiado  de  juízes  em  primeiro  grau  para  a  prática  de  atos  processuais  e  tomada  de  decisões  nos  processos  ou
+procedimentos que tenham por objeto crimes praticados por organização criminosa (art. 1.º).
+Mas  o  mencionado  conceito  não  subsistiu  por  muito  tempo.  Com  efeito,  em  menos  de  um  ano  de  vigência  da  Lei
+12.694/2012,  sobreveio  a  Lei  12.850/2013  conceituando  organização  criminosa  como  “a  associação  de  4  (quatro)  ou  mais
+pessoas  estruturalmente  ordenada  e  caracterizada  pela  divisão  de  tarefas,  ainda  que  informalmente,  com  o
+[/PAGINA 508]
+
+[PAGINA 509]
+bjetivo  de  obter,
+direta  ou  indiretamente,  vantagem  de  qualquer  natureza,  mediante  a  prática  de  infrações  penais  cujas  penas  máximas  sejam
+
+•
+•
+•
+•
+superiores a 4 (quatro) anos ou que sejam de caráter transnacional” (art. 1.º, § 1.º). Diante dessa nova regulamentação, parece-
+nos  evidente  que  se  operou  a  revogação  tácita  do  art.  2.º  da  Lei  12.694/2012,  passando  a  se  considerar,  para  todos  os  fins
+(inclusive a formação do colegiado instituído pelo art. 1.º da Lei 12.694/2012), a definição inserida na Lei 12.850.
+Observação:  Considerando  que  a  Lei  12.850/2013  não  revogou  expressamente  a  Lei  12.694/2012,  a
+nosso  ver  ainda  vigem  os  dispositivos  desta  última,  à  exceção  daqueles  que,  estabelecendo  disciplina
+contrária à nova lei, foram por esta revogados tacitamente. Logo, continuam em vigor as normas da Lei
+12.694/2012 que determinam a instituição do colegiado de primeiro grau; a ampliação do porte de arma
+àqueles  que  trabalham  no  combate  ao  crime  organizado;  a  faculdade  de  alienação  antecipada  de
+produtos  oriundos  de  organizações  criminosas;  a  previsão,  como  efeito  extrapenal  da  condenação,  do
+perdimento  de  bens  que,  mesmo  não  relacionados  com  os  crimes  praticados  pela  organização,  sejam
+de seus membros, entre outras questões.
+Relativamente  às  interceptações  ambientais  realizadas  para  fins  de  investigação  do  crime  organizado,  deve-se  reiterar  que
+sua  disciplina  é  bem  diferente  do  que  a  prevista  em  relação  às  interceptações  telefônicas,  pois  nestas  há  a  exigência  de  ordem
+judicial  autorizando  a  violação  do  sigilo  telefônico,  o  que  decorre  da  própria  Constituição  Federal  (art.  5.º,  XII,  da  CF).  No
+tocante às interceptações ambientais, ao contrário, não há tutela constitucional específica. A regra é que sejam lícitas e a exceção
+é a ilicitude, ocorrente apenas quando afrontado o art. 5.º, X, da CF, o que somente se perfaz, como já vimos, se caracterizada
+violação  de  confidência  ou  hipótese  de  ter  sido  a  captação  clandestina  realizada  em  ambiente  seguro,  vale  dizer,  onde  haja
+expectativa de intimidade preservada (v. item 8.7.1).
+Sem  embargo  dessa  posição,  que  espelha  o  pensamento  da  maioria  doutrinária  e  jurisprudencial,  o  Plenário  do  STF,  no
+julgamento do Inquérito 2.424/RJ, imputativo de crimes praticados por organização criminosa, considerou lícita a prova obtida
+mediante o acesso, judicialmente autorizado, de agentes de investigação ao escritório de advocacia de um dos imputados, durante
+a madrugada, com registro de imagens e instalação de equipamento de captação de sons. Na oportunidade, foram considerados
+os seguintes aspectos:
+Natureza da infração – crime organizado: tratava-se, na hipótese, de investigação de crimes praticados por organização
+criminosa,  incidindo,  portanto,  os  termos  da  Lei  9.034/1995,  a  qual,  em  seu  art.  2.º,  IV  (atual  art.  3
+[/PAGINA 509]
+
+[PAGINA 510]
+.º,  II,  da  Lei
+12.850/2013), contemplava a possibilidade de ordem judicial para registros ambientais de qualquer natureza.
+Princípio da proporcionalidade: o suposto afrontamento das garantias constitucionais da inviolabilidade do domicílio e
+da privacidade (art. 5.º, X e XI, da CF), ainda que houvesse, estaria justificado na necessidade de possibilitar, no caso
+concreto, o exercício do poder-dever de punir do Estado, recompondo a ordem pública gravemente abalada pela prática
+dos  crimes  sob  investigação,  que  envolviam  a  participação  de  um  Ministro  do  STJ,  de  dois  membros  do  TRF  da  2.ª
+Região, de um juiz do TRT da 15.ª Região, de um procurador regional da república e de um advogado, entre outros.
+Descaracterização do escritório de advocacia como domicílio na hipótese investigada: questionável, no caso concreto,
+a  equiparação  do  escritório  supostamente  violado  ao  conceito  de  domicílio  stricto sensu, que pressupõe a presença de
+pessoas  que  o  habitem.  Por  este  motivo,  o  acesso  operado  ao  recinto  durante  a  madrugada  não  teria  importado  em
+ofensa  ao  art.  5.º,  XI,  da  CF.  Além  disso,  a  natureza  das  medidas  executadas  não  poderiam  jamais  ter  sido  realizadas
+com publicidade, sob pena de frustração, o que ocorreria caso fossem praticadas durante o dia, mediante a apresentação
+de mandado judicial.
+Inocorrência de ofensa ao regramento do art. 7.º, II, da Lei 8.906/1994 (Estatuto da Advocacia): o acesso ao interior
+do  escritório  de  advocacia  decorreu  da  circunstância  de  o  seu  titular  ser  suspeito  da  prática  de  crime  concebido  e
+consumado  naquele  recinto  sob  pretexto  de  exercício  da  profissão.  Assim,  não  implicou  a  operação  lá  realizada  em
+qualquer  ofensa  à  Lei  8.906/1994,  pois  o  sigilo  do  advogado  não  existe  para  protegê-lo  quando  cometer  crimes,  mas
+para  proteger  seu  cliente,  que  tem  direito  à  ampla  defesa,  não  sendo  admissível  que  a  inviolabilidade  transforme  o
+escritório em reduto inexpugnável de criminalidade.
+Tal  decisão  do  STF,  considerando  lícita  a  prova  obtida  nas  condições  narradas,  foi  pioneira  na  jurisprudência  nacional.
+Particularmente, não concordamos com essa posição e reputamos ilícitos sim os elementos angariados nas condições ventiladas
+–  não  apenas  pelo  acesso  noturno  a  local  com  natureza  de  domicílio,  como  também  por  se  tratar  o  escritório  profissional  de
+espaço  em  que  há  expectativa  de  privacidade  (v.  item  8.7.1).  Todavia,  reconhecemos  que,  no  caso  concreto,  tratando-se  os
+crimes investigados de infrações graves, perpetradas por organização criminosa composta por membros do Poder Judiciário e do
+Ministério Público, as provas assim obtidas, embora ilícitas, deveriam, realmente, ser utilizadas a partir da aplicação do princípio
+
+8.8
+8.8.1
+8.8.2
+da  proporcionalidade.  A  propósito,  ressalte-se  que  da  leitura  da  decisão  referida  é  perceptível  que
+[/PAGINA 510]
+
+[PAGINA 511]
+o  argumento  de  maior  peso
+utilizado pelo STF para validar as provas obtidas mediante violação do escritório profissional do advogado investigado, durante
+a  noite,  com  aposição  de  instrumento  oculto  de  captação  de  sons,  foi,  sem  dúvida,  o  princípio  da  proporcionalidade,  utilizado,
+porém, contra os interesses dos investigados, em flagrante modificação do entendimento até então agasalhado naquela Corte,
+que, no mais das vezes, apenas concebia o aproveitamento da prova ilícita em favor do réu, isso mesmo quando constituía no
+único modo de beneficiá-lo ou inocentá-lo.
+O SIGILO DE CORRESPONDÊNCIA
+Generalidades
+Em  nível  de  Constituição  Federal,  há  tutela  expressa  à  correspondência,  considerada  inviolável  pelo  art.  5.º,  XII,  que  não
+ressalva, a respeito, a possibilidade de ordem judicial. Já no aspecto processual penal, o sigilo da correspondência está previsto
+no art. 233 do CPP, o qual, tratando da prova documental, refere que não serão admitidas as provas obtidas por meios ilícitos.
+Não obstante estas regras, que consideram absoluto sigilo da correspondência, é preciso ter em mente que o fim primordial
+do  processo  penal  é  a  descoberta  da  verdade  real,  princípio  este  que  se  infere  do  art.  156,  I  e  II,  do  CPP  (alterado  pela  Lei
+11.690/2008),  assegurando  ao  juiz  o  poder  de  determinar,  antes  mesmo  de  iniciada  a  ação  penal,  a  produção  antecipada  de
+provas  urgentes  e  relevantes,  observando  critérios  de  necessidade,  adequação  e  proporcionalidade,  bem  como  de  ordenar,  no
+curso  da  instrução  ou  antes  de  proferir  sentença,  a  produção  de  provas  para  dirimir  dúvida  relevante.  Neste  contexto,  e
+considerando  que  os  direitos  fundamentais  não  podem  ser  considerados  absolutos  sob  pena  de,  em  muitos  casos,  invalidar  a
+descoberta  da  verdade  real  ou  material,  conclui-se  que  haverá  situações  em  que  a  relevância  do  bem  jurídico  discutido  no
+processo impõe aos Tribunais aceitar, sempre em caráter excepcional, a prova obtida irregularmente. A esse respeito, Fernando
+de  Almeida  Pedroso,  citando  Vicente  Greco  Filho,  refere  que  “a  normatividade  jurídica  atinente  à  inadmissibilidade  de  provas
+obtidas  por  meios  ilícitos  vale,  portanto,  como  regra,  mas,  certamente,  comportará  exceções  ditadas  pela  incidência  de  outros
+princípios constitucionais mais relevantes, como, por exemplo, o já citado princípio da verdade real, seja a favor, seja contra o
+réu”.
+No  que  se  refere  ao  sigilo  da  correspondência,  em  razão  dessa  ordem  de  argumentos,  várias  questões  têm  provocado
+turbulência  na  jurisprudência,  acei-tando-se,  em  determinados  casos  –  sempre  presente  a  excepcionalidade  –,  a  sua  violação
+quando houver, em jogo, interesse maior do que a intimidade a ser preservada.
+O sigilo da correspondência e o sigilo da encomenda
+A correspondência tem seu sigilo preservado expressamente pela
+[/PAGINA 511]
+
+[PAGINA 512]
+Constituição Federal no art. 5.º, XII, 1.ª parte, cláusula
+esta  imutável  até  mesmo  por  emenda  constitucional.  Mas,  e  a  encomenda,  tem  igual  proteção?  O  tema  tem  relevância  não
+apenas na hipótese de pacotes ou caixas encaminhados via postal, mas, principalmente, quando a carta é utilizada como meio de
+transporte de outros materiais, desprendendo-se natureza de simples meio de comunicação.
+Em  nível  de  STJ,  tem  prevalecido  o  entendimento  no  sentido  de  que  a  tutela  da  correspondência  não  se  estende  à
+encomenda,  podendo  esta  ser  violada  sempre  que  houver  suspeita  de  que  se  trata  de  objeto  ilícito  ou  proibido.  Examinando
+hipótese  em  que  apreendido  na  agência  dos  correios  um  tigre  de  pelúcia  contendo  cocaína  em  seu  interior,  considerou  o
+Colegiado  que  “correspondência,  para  os  fins  tutelados  pela  Constituição  da  República  (art.  5.º,  VII),  é  toda  comunicação  de
+pessoa  a  pessoa,  por  meio  de  carta,  através  da  via  postal  ou  telegráfica  (Lei  6.538/78).  A  apreensão  pelo  juiz  competente,  na
+agência  dos  Correios,  de  encomenda,  na  verdade  tigre  de  pelúcia  com  cocaína,  não  atenta  contra  a  Constituição  da  República,
+art. 5.º, VII. Para os fins dos valores tutelados, encomenda não é correspondência” (HC 10.537/RJ, 5.ª Turma, Rel. Min. Edson
+Vidigal, publicado em 02.04.2001).
+Entendemos totalmente correta esta posição. É óbvio que, ao estabelecer o sigilo da correspondência, nada mais pretendeu o
+legislador  do  que  proteger  uma  forma  específica  de  direito  à  intimidade,  impedindo  que  terceiros  tivessem  acesso  ao  texto
+incorporado à carta remetida. Ora, se, em vez do pensamento escrito, coisas estiverem sendo transportadas via postal, é evidente
+que se descaracteriza o objeto da tutela constitucional, podendo ocorrer a violação diante da fundada suspeita de que seja algo
+proibido.
+Tal pensamento estende-se também à hipótese em que haja indícios veementes de que o invólucro contenha, além da carta
+escrita,  materiais  outros,  tais  como  drogas,  comumente  enviadas  dessa  forma.  Nesse  caso,  utilizada  a  carta  como  forma  de
+cometer crimes, parece-nos desaparecer o direito à intimidade protegida, podendo ser rompido o lacre e apreendido o respectivo
+conteúdo, nada impedindo, inclusive, a utilização, como prova, do teor escrito da carta que acompanhava o objeto transportado.
+
+8.8.3
+8.8.4
+A apreensão de cartas abertas
+O  art.  240,  §  1.º,  f,  do  CPP  possibilita  a  busca  e  apreensão  domiciliar  de  cartas  abertas  ou  não.  Relativamente  às  cartas
+fechadas, é evidente, como já referimos no item anterior, que estão protegidas pelo sigilo da correspondência estabelecido no art.
+5.º,  XII,  da  CF.  Divergências  existem,  porém,  relativamente  à carta  aberta,  havendo  posições  conflitantes  em  relação  à
+possibilidade de serem apreendidas e consideradas como prova.
+Um   primeiro   entendimento   inclina-se
+[/PAGINA 512]
+
+[PAGINA 513]
+no   sentido   negativo,   vale   dizer,   da   impossibilidade   de   ser   apreendida   a
+correspondência  aberta.  Alegam  os  defensores  dessa  corrente  que,  ao  proteger  a  correspondência,  não  visou  o  legislador
+constituinte tutelar o envelope, mas sim o teor escrito. Destarte, salvo situações excepcionais em que configurado o abandono da
+carta (v.g., correspondência encontrada nas roupas trajadas por pessoa morta, carta localizada em casa abandonada, latas de lixo
+etc.),  não  poderia  ser  utilizada  como  prova  válida  no  processo  penal,  afrontando-se  a  sua  apreensão  o  disposto  no  dispositivo
+citado da Constituição Federal bem como o art. 233 do CPP.
+Outra posição, a nosso ver mais acertada, inclina-se em sentido oposto, vale dizer, no sentido da legalidade da apreensão de
+cartas abertas, visto que a Constituição Federal proibiu a violação. Parte-se, aqui, do princípio de que, se a carta já está aberta,
+não há de se falar em sua violação, daí não incidindo, via de consequência, a proteção constitucional. Neste sentido, já decidiu o
+STJ que a violação de correspondência, com maltrato a liberdade de pensamento resguardada pela Constituição Federal, somente
+se  concretiza  quando  se  tratar  de  correspondência  fechada,  sendo  que  a  apreensão  de  documento,  representado  por  minuta  de
+carta já remetida, mediante autorização judicial, não representa afronta ao direito assegurado pelo art. 5.º, X, da CF (intimidade,
+vida  privada  etc.),  porque  idêntica  proteção  é  reservada  à  honra  das  pessoas,  não  podendo  aquela  (intimidade)  servir  de
+salvaguarda para maltrato a esta (honra)
+33
+. Em outra oportunidade, o mesmo Tribunal referiu que o princípio constitucional da
+inviolabilidade  das  comunicações  não  é  absoluto.  Nos  termos  da  jurisprudência  do  Supremo  Tribunal  Federal,  o  interesse
+público,  em  situações  excepcionais,  pode  se  sobrepor  aos  direitos  individuais,  para  evitar  que  os  direitos  e  garantias
+fundamentais sejam utilizados para resguardar condutas criminosas
+34
+.
+Violação da correspondência do preso
+Tema  controvertido  na  doutrina  respeita  à  possibilidade  de  violação  da  correspondência  dirigida  ao  apenado  ou  dele
+provinda.
+No art. 41, XV, a Lei de Execuções Penais prevê, como direito do preso, a comunicação com o mundo exterior, inclusive
+mediante  cartas,  possibilitando,  contudo,  seja  isto  restrito  pela  administração  penitenciária  no  caso  do  cometimento  de  falta
+grave  (art.  41,  parágrafo  único).  Tal  previsão,  porém,  não  importa  em  possibilitar  a  violação  da  correspondência,  até  mesmo
+porque, ainda que fosse esta prevista, não estaria recepcionada pelo art. 5.º, XII, da Carta Magna, que considera absolutamente
+inviolável o sigilo da correspondência.
+Questão  relevante  é  saber  se  esse  direito  constitucional,  eivado  à  categoria  de  direito  fundamental  e,  como  já  se  disse,
+intocável mesmo por emenda à Constitui
+[/PAGINA 513]
+
+[PAGINA 514]
+ção, deve ser assegurado, em sua plenitude, ao apenado que cumpre pena privativa da
+liberdade, em face da condição especial.
+No artigo titulado “O sigilo de correspondência do preso versus a segurança da comunidade” (Revista Consulex, v. 1, p. 46-
+47, 1999), Miguel Lucena, Delegado de Polícia no Distrito Federal, refere, com muita propriedade, que “a norma constitucional
+que  assegura  a  inviolabilidade  do  sigilo  epistolar  não  foi  editada  para  expor  os  agentes  auxiliares  da  Justiça  Criminal  e  a
+comunidade à vulnerabilidade resultante de práticas ilícitas, tais como motim e arrebatamento de presos, ajustadas quase sempre
+por meio de correspondências”. Tal entendimento repisa a lição de Ada Pellegrini Grinover, citada no mesmo artigo e para quem
+“deve ser considerada a inviolabilidade do sigilo de correspondência e das comunicações, telegráficas e telefônicas, com vistas à
+finalidade  ética  ou  social  do  exercício  do  direito  que  resulta  da  garantia;  tutela  desta  natureza  não  pode  ser  colocada  para  a
+proteção de atividades criminosas ou ilícitas”.
+Concordamos  inteiramente  com  essa  posição.  Não  obstante  as  já  mencionadas  vedações  existentes  em  nível  de  legislação
+infraconstitucional,  bem  como  a  garantia  inserida  ao  texto  da  Carta  Magna,  reputamos  possível  e  necessária  a  violação  da
+correspondência  do  apenado,  desde  que  esse  procedimento  seja  motivado  em  questões  de  segurança  pública  e  que  estejam
+presentes  condições  mínimas  que  o  justifiquem,  quais  sejam  indícios  veementes  de  envolvimento  do  apenado  que  terá  sua
+correspondência  violada  na  prática  ou  comando  de  crimes;  hipótese  de  preso  que  não  esteja  gozando  de  benefícios  carcerários
+que  permitam  seu  contato  direto  com  o  mundo  exterior  (v.g.,  saídas  temporárias  e  trabalho  externo);  existência  de  autorização
+judicial prévia e, por fim, efetiva necessidade da medida (excepcionalidade).
+Nosso  entendimento  vai  ao  encontro  da  posição  já  agasalhada  pelo  Excelso  Pretório  no  sentido  de  que  “a  administração
+
+8.8.5
+8.9
+penitenciária,  com  fundamento  em  razões  de  segurança  pública,  de  disciplina  prisional  ou  de  preservação  da  ordem  jurídica,
+pode, sempre excepcionalmente, e desde que respeitada a norma inscrita no art. 41, parágrafo único, da Lei 7.210/1984, proceder
+a interceptação da correspondência remetida pelos sentenciados, eis que a cláusula tutelar da inviolabilidade do sigilo epistolar
+não pode constituir instrumento de salvaguarda de práticas ilícitas”
+35
+.
+Violação do e-mail
+Há  dois  entendimentos  quanto  à  possibilidade  de  violação  de  e-mails (correspondências eletrônicas transmitidas por meio
+de sistemas informatizados).
+Uma  primeira  posição  não  admite  essa  possibilidade.  Assinalam  os  respectivos  adeptos  que  o  e-mail,  na  atualidade,  é
+utilizado  como  substituto  da  correspondência  escrita.  Sendo  assim,  e  co
+[/PAGINA 514]
+
+[PAGINA 515]
+nsiderando  a  inviolabilidade  da  correspondência
+preservada pelo art. 5.º, XII, da CF, restaria inviolável o e-mail, quer já tenha ele sido recebido pelo respectivo destinatário, quer
+esteja em fluxo.
+Outra  posição,  à  qual  nos  filiamos,  subtrai  do  e-mail  a  natureza  de  correspondência,  equiparando-o  a  dados  e  permitindo,
+com  isso,  sua  violação  mediante  ordem  judicial  a  partir  da  exegese  da  regra  incorporada  ao  art.  1.º,  parágrafo  único,  da  Lei
+9.296/1996.  Idêntico  raciocínio,  segundo  nos  parece,  tem  lugar  em  relação  às  mensagens  SMS  (torpedos)  encaminhadas  e
+recebidas por meio de telefonia móvel. A propósito, remetemos o Leitor ao item 8.6 deste Capítulo, em que tratamos da questão
+relativa à interceptação de dados.
+CONSIDERAÇÕES SOBRE A QUEBRA DOS SIGILOS BANCÁRIO E FISCAL
+O  sigilo  bancário  e  fiscal  encontra  respaldo  no  art.  5.º,  X  e  XII,  da  Constituição  Federal,  o  primeiro  dispondo  que  são
+invioláveis a  intimidade,  a  vida  privada,  a  honra  e  a  imagem  das  pessoas,  assegurado  o  direito  a  indenização  pelo  dano
+material  ou  moral  decorrente  da  sua  violação;  e  o  segundo  que  é  inviolável  o  sigilo  da  correspondência  e  das  comunicações
+telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que a
+lei estabelecer para fins de investigação criminal ou instrução processual penal (grifamos).
+Diante  desta  normatização  inserida  na  Lei  Maior,  constata-se  que  o  tema  relativo  à  quebra  dos  sigilos  bancário  e  fiscal,  à
+primeira  análise,  parece  conflitar  com  as  garantias  da  intimidade,  da  privacidade  e  da  inviolabilidade  de  dados.  Por  esta  razão,
+houve  quem  sustentasse  a  inconstitucionalidade  do  art.  6.º  da  Lei  Complementar  105/2001  (esta  lei  dispõe  sobre  o  sigilo  das
+operações  de  instituições  financeiras),  ao  permitir  que,  havendo  processo  administrativo  instaurado  ou  procedimento  fiscal  em
+curso,  as  autoridades  e  os  agentes  fiscais  tributários  da  União,  dos  Estados,  do  Distrito  Federal  e  dos  Municípios  examinem
+documentos,  livros  e  registros  de  instituições  financeiras,  inclusive  os  referentes  a  contas  de  depósito  e  aplicações  financeiras,
+quando tais exames forem considerados indispensáveis pela autoridade administrativa competente.
+Na  realidade,  não  se  discute  a  constitucionalidade  da  quebra  dos  sigilos  bancário  e  fiscal  em  si,  mas  sim  a  violação  deste
+sigilo  à  revelia  de  ordem  judicial  que  assim  determine.  Mesmo  porque  o  art.  5.º,  XII,  da  CF  prevê  a  possibilidade  autorização
+judicial para violação da situação contemplada no último caso nele previsto, o que, em princípio, abarca tanto o sigilo de dados
+quanto o sigilo das comunicações telefônicas (o primeiro caso, este sim inviolável, consistiria no sigilo da correspondência e das
+comunicações  te
+[/PAGINA 515]
+
+[PAGINA 516]
+legráficas,  já  que,  entre  uma  situação  e  outra,  o  dispositivo  emprega  a  preposição  “e”).  Não  fosse  o  bastante,
+impende  ressaltar  que  o  interesse  maior  de  proteção  da  sociedade  em  relação  a  crimes  considerados  como  de  mal  coletivo
+(prejudicam  número  indeterminado  de  pessoas)  justifica  a  relativização  do  direito  à  privacidade  contemplado  no  art.  5.º,  X,  da
+CF e que, pelo menos em tese, alcança os sigilos bancário e fiscal (v. tópico 8.6 deste Capítulo).
+Pois bem, sobre o tema, tem prevalecido a orientação no sentido de que, relativamente às autoridades fazendárias, “a quebra
+do sigilo bancário sem prévia autorização  judicial,  para  fins  de  constituição  de  crédito  tributário  não  extinto,  é  autorizada  pela
+Lei Complementar 105, de 10 de janeiro de 2001, que é norma procedimental, cuja aplicação é imediata à luz do disposto no art.
+144, § 1.º, do CTN...”
+36
+. No âmbito do STF, inclusive, o tema consolidou-se a partir do julgamento do Recurso Extraordinário
+601.314/SP  (j.  14.02.2016),  em  relação  ao  qual  havia  sido  reconhecida  a  repercussão  geral  da  questão  constitucional  debatida,
+compreendendo que “o art. 6.º da Lei Complementar 105/01 não ofende o direito ao sigilo bancário, pois realiza a igualdade em
+relação aos cidadãos, por meio do princípio da capacidade contributiva, bem como estabelece requisitos objetivos e o translado
+do dever de sigilo da esfera bancária para a fiscal”.
+E  quanto  ao  Ministério  Público?  Pode  requisitar  diretamente  a  quebra  do  sigilo  bancário  e  fiscal  para  fins  de  produção
+probatória em processos criminais? Há quem sustente existir tal faculdade, fundamentando este entendimento no art. 129, VI, da
+CF e no art. 8.º, II, IV e § 2.º, da Lei Complementar 75/1993. A tese, entretanto, não prevalece, compreendendo a maioria que o
+
+8.10
+8.10.1
+a)
+b)
+referido art. 8.º “não exime o Ministério Público de requerer a autorização judicial prévia para que haja o acesso a documentos
+protegidos por sigilo legalmente estatuído”
+37
+.  Note-se  que  não  interfere  nesta  orientação  a  disciplina  inserida  ao  art.  15  da  Lei
+12.850/2013  (que  dispõe  sobre  a  investigação  do  crime  organizado)  no  sentido  de  que  “o  delegado  de  polícia  e  o  Ministério
+Público  terão  acesso,  independentemente  de  autorização  judicial,  apenas  aos  dados  cadastrais  do  investigado  que  informem
+exclusivamente a qualificação pessoal, a filiação e o endereço mantidos pela Justiça Eleitoral, empresas telefônicas, instituições
+financeiras,  provedores  de  internet  e  administradoras  de  cartão  de  crédito”  (grifamos).  Isto  porque  a  interpretação  contrario
+sensu deste dispositivo faz concluir que, além daquelas mencionadas no dispositivo, outras informações, tais como as relativas à
+movimentação bancária do agente, exigem ordem judicial.
+EXAME DE CORPO DE DELITO (ARTS. 158 A 184 DO CPP)
+Conceito e classificação legal
+Por exame de corpo de
+[/PAGINA 516]
+
+[PAGINA 517]
+delito compreende-se a perícia destinada à comprovação da materialidade das infrações que deixam
+vestígios (v.g., homicídio, lesões corporais, furto qualificado pelo arrombamento, dano etc.). A própria nomenclatura utilizada –
+“corpo de delito” – sugere o objetivo dessa perícia: corporificar o resultado da infração penal, de forma a documentar o vestígio,
+perpetuando-o como parte do processo criminal.
+Assim, não se pode falar em exame de corpo de delito quando ausente um vestígio em consequência da prática delituosa.
+Nestes  casos,  imprópria  até  mesmo  a  referência  a  expressão  materialidade  do  crime,  que  é  própria  das  infrações  das  quais
+decorrem  um  resultado  perceptível  pelos  sentidos.  Uma  injúria  verbal  proferida  diretamente  à  vítima,  por  exemplo,  não  possui
+materialidade  a  ser  comprovada,  pois  não  deixa  um  vestígio  perceptível.  Neste  caso,  o  que  deverá  ser  demonstrado  pelo
+querelante  por  ocasião  do  oferecimento  da  queixa  será  a  existência  do  crime,  mas  não  a  sua  materialidade.  Já  no  caso  do
+homicídio,  a  situação  difere,  pois  há,  como  resultado  do  crime,  um  cadáver,  que  se  constitui  o  vestígio  deixado  pelo  crime.
+Então, no homicídio, haverá materialidade. Tal distinção, aliás, decorre da exegese do art. 158 do CPP, dispondo que, “quando a
+infração deixar vestígios, será imprescindível o exame de corpo de delito, direto ou indireto...”.
+Observe-se que o referido art. 158 refere-se a exame de corpo de delito direto e indireto.
+Considera-se direto quando realizado pelo expert diante do vestígio deixado pela infração penal, por exemplo, a necropsia
+no cadáver.
+Por  outro  lado,  o  exame  indireto  é  aquele  realizado  com  base  em  informações  verossímeis  fornecidas  aos  peritos  quando
+não  dispuserem  estes  do  vestígio  deixado  pelo  delito.  Imagine-se  um  delito  de  estupro,  sendo  submetida  a  vítima  à  perícia  de
+conjunção carnal ocorrida um mês antes. Não mais sendo constatado o vestígio em face do tempo decorrido, poderão os experts
+elaborar  laudo  indireto,  a  partir,  por  exemplo,  de  atestado  do  médico  particular  da  vítima  que  a  tenha  examinado  logo  após  a
+ocorrência.  Nesse  caso,  o  laudo  indireto  limitar-se-á  a  um  juízo  de  compatibilidade,  vale  dizer,  a  afirmar  que  a  realidade
+constatada é compatível com as referências constantes no documento que lhes foi apresentado.
+Tem-se observado, na doutrina e às vezes até na jurisprudência, certa confusão entre o exame de corpo de delito indireto e a
+possibilidade  de  suprimento  da  perícia  pela  prova  testemunhal  em  razão  do  desaparecimento  do  vestígio.  É  que,  apesar  da
+obrigatoriedade da perícia determinada pelo art. 158 quando se tratar de crime que deixa vestígios, o Código de Processo Penal,
+no  art.  167,  estabeleceu  que,  quando  o  vestígio  houver  desaparecido,  a  prova  testemunhal  poderá  suprir-lhe  a  falta.  Esta
+possibilidade  de
+[/PAGINA 517]
+
+[PAGINA 518]
+suprimento  não  se  confunde  com  o  chamado  exame  indireto.  No  exame  indireto  há  um  laudo,  firmado  por
+peritos. Diferente é a situação de suprimento da perícia com base em testemunhas que vierem a prestar depoimento em juízo a
+respeito do vestígio do crime que tenham presenciado, caso em que se estará não diante de uma prova pericial indireta, mas sim
+de uma prova testemunhal.
+Essa conclusão decorre da conjugação dos já citados arts. 158 e 167, o primeiro classificando o exame de corpo de delito
+como direto ou indireto, e o segundo tratando da impossibilidade de realização do exame de corpo de delito – quaisquer deles,
+obviamente –, caso em que seria possível o suprimento pela prova testemunhal.
+Considerem-se, pois, as seguintes situações:
+Lesões  corporais,  tendo  a  vítima  sido  submetida  à  perícia  dias  após  o  delito,  quando  já  ausentes  os  vestígios.  Duas
+testemunhas, porém, comparecem perante os experts e narram suas percepções, sendo, então, elaborado laudo pericial,
+limitado a consignar, sinteticamente, o relato dessas pessoas e a referir a compatibilidade do quadro constatado com a
+narrativa realizada quanto ao vestígio percebido pelas testemunhas. Tem-se, aqui, hipótese de exame de corpo de delito
+indireto.
+Crime de homicídio, presenciado por várias testemunhas, sendo o cadáver, posteriormente, incinerado pelos criminosos.
+
+8.10.2
+Denunciados  os  envolvidos,  são  as  testemunhas  inquiridas  em  juízo,  narrando  o  que  presenciaram  quanto  à  forma  de
+cometimento do crime e posterior destino do corpo. Aqui não se trata de exame indireto, mas sim de prova testemunhal
+suprindo a falta de exame de corpo de delito direto e indireto.
+Plenamente  correta,  enfim,  a  lição  de  Tornaghi,  citado  por  Tourinho  Filho,  quando  refere  que  o  exame  indireto  não  é
+propriamente  exame,  e  sim  o  raciocínio  e  mesmo  as  experiências  dos  peritos  baseados  no  que  dizem  as  testemunhas  (e
+acrescentamos: ou qualquer outro elemento de prova).
+Obrigatoriedade do exame de corpo de delito e possibilidade de suprimento
+O  art.  158  do  CPP,  como  já  dissemos,  determina  que,  quando  a  infração  deixar  vestígios,  será  indispensável  o  exame  de
+corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado. Esta regra guarda simetria com o art. 564, III, b,
+do  CPP,  dispondo  que  constitui  nulidade  a  falta  do  exame  de  corpo  de  delito,  salvo  o  disposto  no  art.  167  do  mesmo  Código.
+Este, por sua vez, refere a possibilidade de suprimento do exame de corpo de delito pela prova testemunhal quando o vestígio
+houver desaparecido.
+A  partir  da  conjugação  dessas  três  normas  –  arts.  158,  564,  III,  b,  e  167  –,  constata-se  que  a  regra,  efetivamente,  é  a
+obrigatoriedade da perícia como meio hábil à constatação dos sinais visíveis deixados pela infração penal. Também como regra,
+a falta dessa perícia importará em nulidade processual, salvo se motivada no d
+[/PAGINA 518]
+
+[PAGINA 519]
+esaparecimento do vestígio, caso em que a prova
+testemunhal  poderá  suprir-lhe  a  falta.  Destarte,  afirmações  leigas  como  “sem  corpo  não  há  homicídio”  restam  completamente
+desfiguradas  pelo  texto  legal,  nada  impedindo  venha  alguém  a  ser  condenado  pela  morte  de  outrem,  mesmo  sem  ter  sido
+encontrado o cadáver, bastando que se utilize do permissivo incorporado ao art. 167 do Código.
+Não obstante esta regulamentação, há determinadas questões que, dada a complexidade, devem ser enfrentadas. Consistem:
+1) Por que apenas a prova testemunhal é capaz de suprir a perícia? Efetivamente, a menos que se considere que a prova
+testemunhal possui maior valor do que as demais (o que não procede, pois o Código não estabelece hierarquia entre as provas),
+não há sentido nessa restrição imposta pelo legislador de 1941. Assim, na atualidade, é consolidada a jurisprudência no sentido
+de que, tal como a prova testemunhal, qualquer outra, exceto a confissão isolada, é capaz de suprir a falta da perícia na hipótese
+de desaparecimento do vestígio. Pode ser uma prova documental, como a fotografia, ou até mesmo a palavra da vítima. Imagine-
+se  um  crime  de  estupro  sob  a  modalidade  de  conjunção  carnal  no  qual  o  laudo  apresente  conclusões  negativas  quanto  à
+constatação  de  vestígios  dado  o  tempo  em  que  o  delito  foi  cometido.  Nesse  tipo  de  delito  não  há,  normalmente,  testemunhas,
+sendo  possível  comprovar  a  materialidade  pela  palavra  da  ofendida,  desde  que  se  trate  de  narrativa  verossímil  e  que  guarde
+coerência com os demais elementos trazidos ao processo, ainda que sejam estes meramente circunstanciais.
+2)  Por  que  não  se  aceita  a  confissão  do  réu  (isoladamente  considerada)  como  meio  hábil  ao  suprimento  da  perícia
+quando  desaparecidos  os  vestígios?  Isso  ocorre  porque  a  confissão  do  réu  é  uma  prova  que  tem  valor  relativo,  vale  dizer,
+dependente de confirmação por outros meios. Tanto é assim que o art. 197 do CPP, ao tratar do valor da confissão, estabelece
+que  será  apreciada  pelos  critérios  adotados  para  os  outros  elementos  de  prova,  mas  que,  para  sua  valoração,  deverá  ser
+confrontada com as demais provas do processo, verificando-se se entre ela e estas existe compatibilidade ou concordância. Em
+suma,  relativamente  à  confissão,  pode-se  afirmar  que  é  limitada  a  liberdade  de  convencimento  do  juiz,  o  qual  pode  utilizá-la
+como  prova,  mas  não  sem  antes  cotejá-la  com  os  demais  elementos  de  convicção  carreados  ao  processo,  a  fim  de  verificar  se
+corroboram a confissão judicialmente prestada.
+Tendo  em  vista,  exatamente,  esse  valor  relativo  da  confissão,  dependente  de  confirmação  por  outros  meios,  a  excluiu  o
+legislador da possibilidade de suprir a falta do exame de corpo de delito diante de infração cujo vestígio tenha desaparecido.
+3)  A  previsão  do  art.  77,  §  1.º,  da  Lei  9.099/1995,  re
+[/PAGINA 519]
+
+[PAGINA 520]
+lativa  às  infrações  de  menor  potencial  ofensivo,  quando  não
+incidente  a  regra  do  art.  167  do  CPP,  dispensa  a  apresentação  de  exame  de  corpo  de  delito  em  momento  posterior?
+Dispõe  o  referido  dispositivo  que,  “para  o  oferecimento  da  denúncia,  que  será  elaborada  com  base  no  termo  de  ocorrência
+referido  no  art.  69  desta  Lei,  com  dispensa  do  inquérito  policial,  prescindir-se-á  do  exame  de  corpo  de  delito  quando  a
+materialidade do crime estiver aferida por boletim médico ou prova equivalente”. Como se vê, o artigo não exige, no momento
+do  oferecimento  da  denúncia  ou  da  queixa,  a  prova  pericial  comprobatória  da  materialidade  delitiva,  bastando  a  presença  de
+boletim  médico  ou  prova  equivalente.  E  para  efeito  de  condenação?  Neste  caso,  parte  da  doutrina  compreende  que  não  é
+suficiente  boletim  médico,  sendo  necessário  que  venha  aos  autos,  antes  da  sentença  final,  o  correspondente  auto  de  exame  de
+corpo  de  delito.  Discordando  dessa  linha  de  pensamento,  aderimos  ao  entendimento  de  que  no  âmbito  dos  juizados  especiais
+deve  ser  flexibilizado  o  rigor  formal  exigido  pelo  Código  de  Processo  Penal  para  os  feitos  que  tramitam  na  justiça  comum,
+devendo-se aceitar, sim, o boletim médico ou prova equivalente como meios hábeis para a condenação. O próprio STF, aliás, já
+
+8.10.3
+8.10.4
+decidiu neste mesmo sentido
+38
+.
+4)  E  nas  infrações  praticadas  com  violência  doméstica  e  familiar  contra  a  mulher?  Não  há  qualquer  dúvida  aqui.
+Considerando a possibilidade estabelecida no art. 12, § 3.º, da Lei 11.340/2006, é plenamente viável a utilização de documentos
+médicos com o fito de comprovar a ocorrência do crime.
+Formalidades do exame de corpo de delito
+O  art.  159,  caput,  do  CPP  estabelece  que  o  exame  de  corpo  de  delito  deverá  ser  realizado  por  perito  oficial  portador  de
+curso  superior
+39
+.  Perito  oficial  é  aquele  que  pertence  aos  quadros  do  Estado.  Ao  empregar  a  palavra  “perito”  no  singular,  a
+alteração  legislativa  de  2008,  visando  agilizar  a  produção  dos  laudos  e  o  andamento  das  investigações  e  processos,  aboliu  a
+exigência de dois experts para a realização do exame. Sendo oficial, portanto, basta um perito, ressalvada a hipótese de perícia
+que abranja mais de uma área do conhecimento, caso em que poderá ser designada a atuação de mais de um expert (art. 159, §
+7.º).  Considerando  a  imposição  legislativa  de  curso superior,  depreende-se  que  a  admissão  de  peritos  pelos  institutos  oficiais
+obrigatoriamente deverá atentar a esta condição.
+Não obstante esta regulamentação, o art. 159, § 1.º, prevê que, na falta de perito oficial, poderá a perícia ser realizada por
+dois   peritos   não   oficiais   (peritos   leigos),   como   tal   consideradas   as   pessoas   idôneas,   portadoras   de   curso   superior
+preferencialmente na área que consti
+[/PAGINA 520]
+
+[PAGINA 521]
+tui o objeto da perícia, que possuam habilitação técnica relacionada à natureza do exame
+e  que,  nomeadas  pelo  Delegado  de  Polícia  ou  pelo  juiz,  prestem o compromisso  de  bem  e  fielmente  desempenharem  a  função
+para a qual encarregados (§ 2.º).
+E se o compromisso não for prestado? Concordamos com a orientação de que tanto a ausência de portaria de nomeação dos
+peritos  subscrita  pela  autoridade  policial  como  a  falta  de  compromisso  constituem  mera  irregularidade,  não  maculando  o
+resultado atestado no laudo
+40
+.
+E  se  os  peritos  leigos  não  tiverem  graduação  superior?  Há  duas  posições:  a  primeira  no  sentido  da  necessidade  do
+preenchimento dessa formalidade e reputando nulo o exame de corpo de delito quando realizado por peritos nomeados que não
+detenham  instrução  superior.  Já  a  segunda  compreende  como  mera  irregularidade  a  circunstância  de  não  possuírem  os  peritos
+leigos curso superior. Esse último entendimento, aliás, aproxima-se do regramento de outros dispositivos legais, tais como o art.
+50, § 1.º, da Lei 11.343/2006 (Lei de Drogas) e o art. 530-D do CPP, inserido no procedimento de apuração dos crimes contra a
+propriedade  imaterial  de  ação  penal  pública.  Ambos,  ao  tratarem  dos  peritos  leigos,  não  trazem  a  escolaridade  superior  como
+condição  para  a  nomeação.  Na  atualidade,  tendem  os  tribunais  a  adotar  posição  eclética,  compreendendo  que,  embora  a  regra
+seja a de que a ausência de curso superior, efetivamente, vicia o laudo realizado pelos peritos não oficiais, a mácula não se perfaz
+quando  se  tratar  de  perícia  visando  a  constatar  situação  singela,  vale  dizer,  aquela  em  que  são  prescindíveis  maiores
+conhecimentos técnico-científicos de seus realizadores. É o caso da perícia realizada para constatar a funcionalidade de arma de
+fogo.
+Observe-se que este regramento estabelecido pelo art. 159 no sentido da suficiência de um perito oficial ou da necessidade
+de dois peritos não oficiais tem natureza geral, não sendo aplicável a hipóteses regulamentadas por leis especiais. É o caso, por
+exemplo,  da  Lei  11.343/2006  (Lei  de  Drogas),  prevendo  que,  para  efeito  da  lavratura  do  auto  de  prisão  em  flagrante  e
+estabelecimento da materialidade do delito, é suficiente o laudo de constatação de natureza e quantidade da droga, firmado por
+“perito  oficial”  ou,  na  falta  deste,  por  “pessoa  idônea”  (art.  50,  §  1.º).  Considerando  que,  nesta  hipótese,  tanto  a  referência  à
+perícia oficial como a menção ao exame realizado por perito não oficial constam no singular, depreende-se que em qualquer caso
+bastará que um profissional realize o exame. Frise-se que a perícia assim realizada é suficiente, apenas, para a lavratura do auto
+de  prisão  e  o  desencadeamento  do  processo  criminal,  sendo  necessário,  para  fins  de  sentença  condenatória,  que  aporte  ao
+processo o laudo toxicológico definitivo, confeccionado em obediê
+[/PAGINA 521]
+
+[PAGINA 522]
+ncia ao disposto no art. 159 do Código de Processo Penal, já
+que  não  existe  na  Lei  de  Drogas  regramento  especial  acerca  dessa  perícia.  Para  outras  considerações  acerca  da  perícia  para
+efeitos da Lei 11.343/2006, remetemos o leitor ao Capítulo 10, item 10.11.2.
+Atuação processual das partes em relação à perícia
+Ao modificar a redação do art. 159 do CPP, a Lei 11.690/2008 facultou ao Ministério Público, ao assistente de acusação,
+ao  ofendido,  ao  querelante  e  ao  acusado  o  direito  à  formulação  de  quesitos  e  à  indicação  de  assistente  técnico  (§  3.º).
+Estabeleceu,  outrossim,  que  o  assistente  técnico  atuará  a  partir  de  sua  admissão  pelo  juiz  e  após  a  conclusão  dos  exames  e
+elaboração do laudo pelos peritos oficiais, devendo as partes ser intimadas da decisão de admissão (§ 4.º).
+A partir dessa disciplina incorporada ao Código, extraem-se as seguintes conclusões:
+
+1.ª) Quanto à fase em que é obrigatória a notificação dos interessados para apresentação de quesitos e indicação de
+assistente: Entendemos que a obrigatoriedade de notificação das partes para a formulação de quesitos e a indicação de assistente
+técnico  contemplada  no  art.  159,  §  3.º,  é  restrita  às  perícias  determinadas  na  fase  judicial,  não  sendo  extensiva  à  etapa  das
+investigações policiais. Isto parece claro pela própria semântica utilizada no dispositivo, que não se refere ao investigado, mas se
+utiliza  da  palavra  acusado,  tecnicamente  usada  para  identificar  o  imputado  na  denúncia  ou  na  queixa-crime.  Reforçando  este
+entendimento, ainda, a explicitude do art. 159, § 5.º, II, ao determinar que, durante o curso do processo judicial, será permitido
+às partes indicar assistente técnico.
+Observe-se que o art. 159, § 3.º, do CPP contém regramento cogente, alertando que serão facultadas ao Ministério Público,
+ao assistente de acusação, ao ofendido, ao querelante e ao acusado a formulação de quesitos e a indicação de assistentes. Logo,
+a ausência de notificação destes sujeitos processuais poderá acarretar nulidade processual, cuja natureza reputamos, ser relativa,
+sujeitando-se  à  demonstração  de  prejuízo  para  que  seja  declarada.  Difere  o  regramento  inserto  ao  citado  §  3.º  daquele
+incorporado  ao  art.  176  do  CPP,  pois  este  último  é  restrito  a  disciplinar  que  as  partes  poderão  formular  quesitos  até  o  ato  da
+diligência, estatuindo simples faculdade às partes que poderá ser exercida também na fase do inquérito.
+Seguindo  esse  raciocínio,  conclui-se  que,  em  relação  à  participação  do  investigado  e  da  vítima  nos  atos  do  inquérito,
+persistem  em  vigor  as  normas  que  estabelecem  discricionariedade  à  autoridade  policial  para  deferir  ou  não  diligências
+eventualmente requeridas, inclusive no que concerne à prova pericial. Em verdade, a única exceção em que a autoridade policial
+não  possui  essa  liberdade  para  atender  ou  não  solicitações  do  inves
+[/PAGINA 522]
+
+[PAGINA 523]
+tigado  ou  do  ofendido  refere-se  àquela  destinada  à
+comprovação  do  corpo  de  delito.  Isso  ocorre  em  face  do  que  dispõe  o  art.  184  do  CPP,  estabelecendo  que,  salvo  no  caso  do
+exame com o intuito de materializar vestígios deixados pela infração penal, a autoridade (policial ou judiciária) poderá indeferir
+perícias requeridas quando entender desnecessárias ao esclarecimento da verdade.
+Evidentemente,  diligências  requisitadas  pelo  promotor  de  justiça  ao  delegado  de  polícia  não  podem  ser  por  este
+desatendidas,   visto   que   a   Constituição   Federal   atribuiu   ao   Ministério   Público   a   faculdade   de   requisitar   diligências
+investigatórias (art. 129, VIII).
+2.ª) Quanto à necessidade de admissão judicial do assistente técnico: A parte interessada, seja a acusação, representada
+pelo Ministério Público ou pelo acusador particular (assistente de acusação ou querelante), seja a defesa, deverá requerer ao juiz
+a admissão do assistente técnico eventualmente indicado. Exige-se, deste modo, que haja um pronunciamento judicial a respeito,
+sendo que somente após essa admissão é que o assistente técnico poderá atuar, condicionando-se esta sua atuação, ainda, a que a
+perícia do juízo já tenha sido concluída, bem como elaborado o laudo correspondente.
+Considerando  que  o  art.  159,  §  3.º,  possui,  como  dissemos  antes,  linguagem  cogente,  aduzindo  que  “serão facultadas  ao
+Ministério Público, ao assistente de acusação, ao ofendido, ao querelante e ao acusado a formulação de quesitos e a indicação de
+assistente  técnico”,  compreendemos  que  não  será  lícito  ao  juiz  indeferir  a  admissão  do  assistente  técnico  pretendido  pelas
+partes,  salvo  se  motivos  processuais  conduzirem-no  a  esta  decisão,  como  a  inexistência  de  ação  penal  em  andamento
+(requerimento feito na fase do inquérito).
+3.ª) Quanto ao número de assistentes técnicos passíveis de indicação: A regra deverá ser a de que se faculte a indicação
+de  apenas  um  assistente  por  cada  um  dos  sujeitos  referidos  no  art.  159,  §  3.º,  evitando-se,  destarte,  tumultos  e  delongas  ao
+andamento  do  processo  decorrente  do  trabalho  de  inúmeros  profissionais  em  torno  do  objeto  da  perícia.  Havendo  mais  de  um
+réu, poderão ser indicados tantos assistentes quanto for o número de imputados. Sendo indicado número de assistentes superior
+ao permitido, deverá o juiz ordenar a intimação do interessado que realizou a indicação, para que escolha qual deles realizará o
+trabalho.  Exceção  a  esta  regra,  todavia,  existe  no  art.  159,  §  7.º,  do  CPP,  dispondo  que,  “tratando-se  de  perícia  complexa  que
+abranja mais de uma área de conhecimento especializado, poder-se-á designar a atuação de mais de um perito oficial e a parte
+indicar  mais  de  um  assistente  técnico”  (grifamos).  É  o  caso,  por  exemplo,  da  perícia  envolver  conhecimentos  médicos  e  de
+balística.  Apesar  de  a  redação  do  menci
+[/PAGINA 523]
+
+[PAGINA 524]
+onado  §  7.º  tratar  como  perícia  complexa  aquela  que  envolva  mais  de  uma  área  de
+conhecimento especializado, reputamos que também deve enquadrar-se como tal – e, portanto, autoriza a indicação de mais de
+um assistente técnico – aquela que, embora relativa a apenas uma área do conhecimento, tenha sua complexidade determinada
+pelo objeto.
+4.ª) Quanto ao momento de atuação do assistente técnico: Na disciplina do art. 159, § 4.º, do CPP, o assistente técnico
+poderá  atuar  apenas  depois  de  sua  admissão  pelo  juiz  e  após  a  conclusão  dos  exames  e  elaboração  do  laudo  pelos  peritos
+oficiais, sendo as partes intimadas dessa decisão. Na verdade, esse dispositivo incorpora grave impropriedade redacional quando
+dispõe  que  o  assistente  técnico  atuará  depois  da  “elaboração  do  laudo  pelos  peritos  oficiais”.  É  evidente  que  o  legislador  quis
+referir-se, aqui, não a peritos oficiais (mesmo porque, sendo oficial, basta um perito), e sim à perícia oficial, vale dizer, aquela
+determinada pelo juiz, não importando se realizada por perito oficial ou por peritos não oficiais. Raciocínio oposto importaria
+
+8.10.5
+na  conclusão  de  que,  sendo  a  perícia  executada  por  peritos  leigos,  não  ensejaria  a  admissão  de  assistente  técnico,  o  que  é  tese
+inconcebível.  Pois  bem,  ao  proibir  a  atuação  do  assistente  técnico  enquanto  ainda  não  concluído  o  laudo  oficial,  objetivou  o
+legislador,  no  art.  159,  §  4.º,  evitar  que  a  interferência  de  profissional  indicado  pelas  partes  em  momento  anterior  a  esse  prazo
+prejudicasse  não  só  a  qualidade  técnica  do  trabalho  a  ser  realizado  pelos  peritos  do  juízo,  como  também  a  necessária  isenção
+destes profissionais.
+Ao  deferir  a  admissão  de  assistente  técnico,  deverá  o  juízo,  para  evitar  procrastinação  do  processo,  fixar  prazo  para  que
+apresente  suas  conclusões,  conforme  determina  o  art.  159,  §  5.º,  II,  do  CPP.  Descumprido,  injustificadamente,  o  prazo  fixado,
+faculta-se  ao  juiz  dar  prosseguimento  ao  processo,  possibilitando-se,  inclusive,  a  apresentação  de  razões  finais  pelas  partes  e  a
+prolação de sentença.
+Da decisão que admite o assistente técnico, as partes deverão ser intimadas, o que se justifica na necessidade de permitir a
+elas  eventual  impugnação,  alegando-se,  por  exemplo,  o  fato  de  se  tratar  dito  assistente  de  pessoa  impedida  de  realizar
+validamente perícia nos autos (art. 279 do CPP). Não se pode ignorar, afinal, que o laudo produzido pelo referido profissional,
+uma vez acostado aos autos, poderá ser utilizado pelo juiz como elemento de convicção no momento da prolação da sentença.
+5.ª)  Quanto  à  posse  e  guarda  do  objeto  da  perícia:  Conforme  se  deflui  do  art.  159,  §  6.º,  do  CPP,  o  objeto  da  perícia
+ficará  sob  a  guarda  e  vigilância  dos  peritos  do  juízo  (oficial  ou  leigos).  Assim,  não  sendo  suficiente  o  contato  c
+[/PAGINA 524]
+
+[PAGINA 525]
+om  elementos
+formais integrantes dos autos e com as conclusões dos peritos oficiais e necessitando o assistente técnico interagir diretamente
+com esse objeto (v.g., a arma do crime, a fibra encontrada no local do fato, a peça de vestuário contendo resíduos de sangue etc.),
+poderá ter acesso ao material probatório que serviu de base à perícia, o qual, porém, “será disponibilizado no ambiente do órgão
+oficial, que manterá sempre sob sua guarda, e na presença de perito oficial, para exame pelos assistentes, salvo se for impossível
+a sua conservação”. Observa-se, portanto, que referido material não será entregue ao assistente admitido no caso, mas ficará em
+ambiente  oficial  (v.g.,  departamentos  de  perícias,  institutos  de  criminalística,  institutos  médico-legais  etc.),  sob  a  guarda  do
+órgão  oficial  competente,  podendo  ser  manuseado  pelo  assistente  técnico  sob  a  atenta  fiscalização  do  responsável  junto  a  tal
+órgão, ao qual incumbirá zelar para que essa manipulação não importe em destruição do objeto ou em sua descaracterização.
+6.ª) Indeferimento de admissão do assistente técnico: não havendo óbices processuais, o juiz está obrigado à admissão do
+assistente técnico quando indicado pelos legitimados do art. 159, § 3.º, do CPP. Assim, o indeferimento injustificado ensejará a
+dedução  de  remédios  como  o  habeas  corpus,  o  mandado  de  segurança  e  a  própria  correição  parcial,  conforme  seja  a  parte
+interessada  e  a  hipótese  em  exame.  Por  outro  lado,  se  equivocado  o  deferimento  de  atuação  do  assistente  técnico  indicado,
+restará à parte ex adversa o pedido de correição parcial, fulcrado na ilegalidade do proceder judicial.
+7.ª) Valoração das conclusões do assistente técnico: quanto ao valor do laudo apresentado por assistentes técnicos, deverá
+ser  aferido  pelo  juízo  segundo  o  seu  livre  convencimento,  em  confronto  com  as  conclusões  do  laudo  oficial  e  dos  demais
+elementos de prova angariados ao processo. Obviamente, tratando-se de meio de prova apresentado por profissional constituído
+ou  designado  pelas  partes,  e,  portanto,  despido  de  isenção,  caberá  ao  juiz  examiná-lo  com  reservas,  acautelando-se  em  suas
+conclusões.
+8.ª) Quanto aos sujeitos a que atribuídas as faculdades de apresentação de quesitos e indicação de assistente técnico:
+Pelo  que  se  infere  do  art.  159,  §  3.º,  não  apenas  o  Ministério  Público  e  a  defesa,  mas  também  o  assistente  de  acusação,  o
+querelante  e  o  ofendido  tiveram  assegurado  o  direito  de  serem  notificados  para,  se  quiserem,  apresentar  quesitos  a  serem
+respondidos  na  perícia  e  indicarem  assistente  técnico  para  atuar  no  processo.  Note-se  que,  de  acordo  com  o  art.  30  do  CPP,
+querelante  é  o  ofendido  na  condição  de  autor  da  ação  penal  privada.  Por  outro  lado,  segundo  regra  do  art.  268  do  CPP,
+assistente de acusação é o ofendido na qualidade de interveniente na ação pe
+[/PAGINA 525]
+
+[PAGINA 526]
+nal pública. Entretanto, o art. 159, § 3.º, do CPP,
+além  de  se  referir  ao  querelante  e  ao  assistente  de  acusação,  também  faz  menção  ao  ofendido,  independentemente  de  ocupar
+essas posições. Assim, é necessário concluir que, mesmo não sendo o ofendido autor da ação privada e, no caso da ação penal
+pública, não se encontrando habilitado como assistente do Ministério Público, ainda assim deverá ser instado quanto às perícias
+para os fins do citado § 3.º. Compreendemos, porém, que, tratando-se de processo iniciado por denúncia do Ministério Público, o
+exercício dessas faculdades condiciona-se a que, previamente ou concomitantemente à apresentação de quesitos e indicação de
+assistente técnico, o ofendido habilite-se nos autos como assistente de acusação, uma vez que propor meios de prova é faculdade
+que a lei confere ao ofendido quando devidamente habilitado no processo a esse título (art. 271 do CPP).
+Oitiva dos peritos em audiência
+Visando a ampliar o contato dos interessados com os peritos e facilitar a obtenção de esclarecimentos em torno do exame
+
+8.10.6
+a)
+b)
+realizado, acrescentou a Lei 11.690/2008 ao art. 159, § 5.º, I, do CPP, ainda, a possibilidade de as partes requererem ao juiz, no
+curso  do  processo  judicial,  a  oitiva  dos  peritos  para  “esclarecerem  a  prova  ou  para  responderem  a  quesitos”.  Neste  caso,  o
+mandado de intimação dos experts para a audiência deverá ser cumprido com antecedência mínima de dez dias em relação à data
+aprazada para a solenidade, encaminhando-se, no mesmo prazo, a eles, os quesitos a serem respondidos ou as questões a serem
+esclarecidas.  Tal  lapso  justifica-se  na  necessidade  de  conceder  aos  peritos  um  prazo  mínimo  para  que  possam,  se  preciso  for,
+realizar  novos  estudos  e  exames  sobre  o  objeto  da  perícia  e,  assim,  prestar  os  esclarecimentos  que  lhes  estão  sendo  solicitados
+por qualquer das partes. Não se aplica, portanto, aqui, a regra incorporada ao art. 176 do CPP (redação de 1941), segundo a qual
+“as partes poderão formular quesitos até o ato da diligência”.
+Atente-se  que  esta  faculdade,  obviamente,  não  se  confunde  com  aquela  prevista  no  art.  159,  §  3.º,  este  conferindo  ao
+Ministério Público, querelante, assistente de acusação, ofendido e defesa a faculdade de apresentação de quesitos. No § 3.º, com
+efeito, assegura o Código aos sujeitos lá mencionados o direito de, previamente à perícia oficial, apresentarem quesitos a serem
+respondidos  pelos  peritos  por  ocasião  da  apresentação  do  laudo  principal  em  juízo.  Já  no  §  5.º,  inciso  I,  objetiva  a
+providência  mencionada  possibilitar  às  partes  a  oitiva  dos  peritos  em  audiência  judicial  ou  o  esclarecimento  a  questões  que
+venham a surgir ou a novos quesitos que lhes sejam formulados em razão de dúvidas geradas pelas conclusões apresentadas
+no  laudo  oficial  já  confeccionado  e  acostado  aos  autos.  Tanto  é  assim  que,  no  §  5.º,  refere  a  l
+[/PAGINA 526]
+
+[PAGINA 527]
+ei  que  os  peritos  poderão,
+querendo,  apresentar  as  respostas  aos  novos  questionamentos  “em  laudo  complementar”  –  “complementar”  ao  laudo  principal,
+obviamente, pressupondo-se que já tenha este sido apresentado.
+Ademais,  parece  claro  que  a  possibilidade  de  oitiva  dos  experts  em  audiência  deve,  também,  ser  extensiva  a  eventuais
+assistentes  técnicos  que,  indicados  no  processo,  tenham  acostado  seus  pareceres  aos  autos.  Afinal,  se  a  prova  daí  resultante
+também  é  capaz  de  formar  a  convicção  do  julgador,  não  lhe  atribuindo  a  lei  valor  inferior,  nada  mais  justo  do  que  facultar  às
+partes, em especial àquela que figurar em polo adverso à que indicou o assistente, a inquirição do referido profissional quanto às
+suas  conclusões.  No  caso  do  Ministério  Público,  o  interesse  ainda  mais  se  justifica  pela  sua  condição  de  custos legis  na  ação
+penal privada ou de parte imparcial  na  ação  penal  pública,  podendo  e  devendo  inclinar--se  em  favor  do  réu  quando  detectar  a
+inexistência de elementos que conduzam à sua responsabilização criminal. Corroborando esta conclusão o fato de que o art. 159,
+§  5.º,  I,  refere-se  a  “peritos”,  utilizando  a  palavra  no  plural,  o  que  abrange  todo  e  qualquer  profissional  que  subscrever
+legitimamente laudos ou pareceres juntados aos autos; e, também, a circunstância de que o inciso II do mesmo artigo possibilita
+expressamente a inquirição de assistentes técnicos em audiência.
+Divergência entre os peritos
+Apesar  da  alteração  introduzida  ao  art.  159,  caput,  do  CPP,  no  sentido  de  que  o  exame  de  corpo  de  delito  e  as  outras
+perícias serão realizados por “perito oficial” (um, portanto), existem determinadas hipóteses em que persiste a obrigatoriedade
+de ser a perícia executada por mais de um expert. É o caso, por exemplo, da perícia efetuada por peritos não oficiais, exigindo o
+art.  159,  §  1.º,  do  CPP  o  mínimo  de  dois  profissionais  na  sua  efetivação;  também  assim  o  laudo  toxicológico  definitivo,
+sugerindo a redação do art. 50, § 2.º, da Lei 11.343/2006 a necessidade de que seja confeccionado por mais de um perito (refere
+o  dispositivo  que  o  perito  que  subscrever  o  laudo  provisório  não  ficará  impedido  de  participar  do  laudo  definitivo,  não  sendo
+concebível que alguém participe de uma atividade sozinho); e, ainda, a perícia realizada para fins de materialização dos crimes
+contra a propriedade imaterial de ação penal privada, referindo-se o art. 527 do CPP, expressamente, a “dois peritos”.
+Em  tais  hipóteses,  participando  mais  de  um  profissional  no  exame  pericial,  é  possível  que  venham  eles  a  divergir  nas
+respectivas conclusões. Para solucionar o impasse daí decorrente, prevê o art. 180 que, “se houver divergência entre os peritos,
+serão  consignadas  no  auto  do  exame  as  declarações  e  respostas  de  um  e  de  outro,  ou  cada  um  redigirá  se
+[/PAGINA 527]
+
+[PAGINA 528]
+paradamente  o  seu
+laudo,  e  a  autoridade  nomeará  um  terceiro;  se  este  divergir  de  ambos,  a  autoridade  poderá  mandar  proceder  a  novo  exame  por
+outros peritos”.
+Sintetizando os termos do art. 180 e conjugando-o com o sistema-regra de valoração das provas no processo penal brasileiro
+– sistema do livre convencimento motivado –, conclui-se que três são as possibilidades que podem surgir da análise judicial de
+laudo elaborado por mais de um perito, quando assim for exigido pela lei:
+Peritos convergem nas conclusões e o juiz concorda integralmente com o resultado do laudo:
+a decisão será proferida em acordo com a perícia.
+Peritos convergem nas conclusões e o juiz discorda com o resultado do laudo: o juiz proferirá
+decisão  contrária  ao  laudo,  fundamentando-a,  porém,  em  outros  elementos  de  prova  coligidos  ao
+processo.
+
+c)
+•
+•
+•
+8.10.7
+8.10.8
+8.10.9
+Peritos divergem nas conclusões, caso em que o juiz:
+Poderá optar por uma das soluções apontadas, discordando da remanescente e fundamentando
+esse seu entendimento.
+Poderá nomear terceiro perito – chamado de “desempatador” – para indicar qual sua posição em
+face  das  conclusões  contraditórias  dos  peritos  que  o  antecederam  no  exame,  guiando-se  o
+magistrado, neste caso, pelo resultado das observações desse último expert.
+Se  o  perito  desempatador  divergir  das  conclusões  dos  peritos  que  realizaram  o  primeiro  laudo,
+poderá o juiz determinar nova perícia, a ser realizada por dois outros peritos, ignorando, então, a
+primeira realizada.
+ Laudos complementares
+Laudos  complementares  são  aqueles  resultantes  de  perícias  realizadas  em  momento  posterior  à  perícia  principal  e  que
+devem ser realizados, se possível, pelos próprios experts que fizeram o primeiro exame.
+Duas, basicamente, são as situações que levam o Delegado de Polícia, o juiz e o próprio Ministério Público a determinarem
+ou requisitarem essa providência, a saber:
+a)  Esclarecimento  de  omissões,  obscuridades  ou  contradições  (art.  181  do  CPP).  Não  se  trata,  aqui,  de  posicionamentos
+divergentes dos peritos, mas de laudo, efetivamente, contraditório em suas conclusões. Exemplo: Atesta, como causa mortis da
+pessoa  encontrada  em  um  rio,  afogamento  por  água,  ao  mesmo  tempo  em  que  refere  encontrarem-se  os  pulmões  do  cadáver
+íntegros e secos;
+b)  Necessidade  de  aguardar  o  decurso  de  certo  período  de  tempo  para  viabilizar  a  resposta  a  quesitos  relevantes  na
+apuração do delito. Exemplos: Exame complementar para a constatação da efetiva incapacidade para as ocupações habituais por
+mais  de  trinta  dias,  o  que  deve  ser  feito  logo  após  o  decurso  desse  período  (art.  168,  caput  e  §§  1.º  e  2.º,  do  CPP);  exame
+complementar para constatar o caráter permanente de debilidade de órgão, sentido, ou função etc.
+Momento da perícia
+A regra estabelecida pelo Código de Processo Penal é a de que o exame de corpo de delito possa ser feito em qualq
+[/PAGINA 528]
+
+[PAGINA 529]
+uer dia e
+hora, sem restrições quanto aos feriados e períodos noturnos (art. 161).
+Uma primeira exceção, contudo, existe em relação ao exame interno do cadáver (necropsia ou autópsia), o qual deverá ser
+feito  no  mínimo  seis  horas  após  a  morte,  segundo  dispõe  o  art.  162  do  CPP.  Como  o  risco  de  morte  aparente,  na  atualidade,  é
+improvável em face do avanço tecnológico, na prática esse tempo não tem sido observado, mesmo porque o próprio dispositivo
+citado ressalva a possibilidade de efetivação do exame antes do interregno lá previsto quando induvidosa a morte do indivíduo.
+Outra ressalva em relação ao tempo da perícia foi inserida pela Lei 11.690/2008 ao art. 159, § 4.º, ao condicionar os exames
+a serem realizados por eventuais assistentes técnicos indicados pelas partes à prévia conclusão da perícia oficial e elaboração do
+respectivo laudo. Antes não terão eles contato com o material a ser periciado.
+Observe-se,  por  fim,  que,  de  acordo  com  o  constante  no  art.  160,  parágrafo  único,  o  laudo  pericial  deve  ser  concluído  no
+prazo de dez dias. Na prática, sabe-se que a frágil estrutura dos órgãos estatais encarregados da perícia faz com que essa norma
+não passe de letra fria, raramente observada.
+Não vinculação do magistrado
+O art. 182 do CPP dispõe que o juiz não está adstrito às conclusões do laudo pericial, podendo delas discordar, no todo
+ou  em  parte.  Ao  assim  dispor,  adotou  o  Código  o  sistema  liberatório  de  apreciação  da  prova  pericial,  segundo  o  qual  o  juiz
+possui  liberdade  para  apreciar  a  perícia,  podendo  acatá-la  ou  rejeitá-la.  Opõese,  com  efeito,  ao  chamado  sistema vinculatório,
+que  restringe  a  liberdade  do  juiz,  fazendo  com  que  este  não  possa  recusar  as  conclusões  da  perícia,  o  que  implica  relegar  ao
+perito quase que a função de julgador.
+A adoção do sistema liberatório  guarda  sintonia  com  o  critério  de  apreciação  das  provas  consagrado  pelo  Código  –  livre
+convencimento motivado  (art.  155,  caput).  Afinal,  se,  fundamentando  sua  decisão,  pode  o  juiz,  como  regra,  atribuir  à  prova  o
+valor  que  bem  entender,  não  haveria  realmente  nenhum  sentido  em  se  encontrar  o  magistrado  obrigado  a  seguir  conclusões  da
+perícia, sem poder de discordância.
+Saliente-se  que  essa  mesma  faculdade  conferida  pela  lei  ao  juiz  é  extensiva  aos  jurados  por  ocasião  do  julgamento  dos
+crimes dolosos contra a vida e conexos. Suponha-se, por ilustração, que, antes da sessão de julgamento, venha o acusado a ser
+
+8.10.10
+8.10.11
+submetido a incidente de insanidade mental, concluindo a perícia no sentido de que, ao tempo do fato, não era ele inteiramente
+capaz de compreender o caráter ilícito de suas ações. Submetida à apreciação do Conselho de Sentença a inimputabilidade como
+tese de defesa, nada impede que venham os jurados a negar essa condição subjetiva do acusado atestada na perícia, condenando-
+o  como  imputável,
+[/PAGINA 529]
+
+[PAGINA 530]
+situação  esta  que  o  levará  ao  apenamento  sem  a  redução  de  um  terço  a  dois  terços  prevista  no  art.  26,
+parágrafo único, do CP.
+Outro aspecto que gera controvérsias diz respeito à possibilidade de o magistrado contrariar as conclusões de laudo pericial
+no tocante à própria existência do corpo de delito, vale dizer, ao vestígio deixado pela infração penal. Reputamos que não há
+essa possibilidade, pois, a despeito de o art. 182 do CPP permitir ao juiz discordar da perícia no todo ou em parte, tal faculdade
+não é ilimitada, encontrando exceção exatamente na afirmação dos peritos quanto à existência do corpo de delito. Tanto é assim
+que  o  próprio  Código,  no  art.  184,  refere,  a  contrario  sensu,  que  a  autoridade  não  poderá  negar  a  realização  de  perícias
+complementares  que  tenham  por  objetivo  a  comprovação  do  corpo  de  delito.  Ora,  se  esta  ordem  de  análise,  que  visa  a
+materializar  o  corpo  de  delito,  é  obrigatória  e  não  pode  ser  negada  pela  autoridade  (policial  ou  judiciária,  pois  a  lei  não
+distingue), deduz-se que, neste aspecto, a perícia deve possuir natureza vinculante.
+Exemplo:
+Considere-se  que  o  laudo  pericial  incorporado  a  determinado  processo  criminal  conclua  no  sentido  de  que  a  vítima
+sofreu  lesões  corporais  de  natureza  grave.  O  magistrado,  com  base  no  que  lhe  permite  o  art.  182  do  Código,  poderá
+entender, fundamentadamente, que as lesões foram leves, ou que foram gravíssimas, contrariando os termos do laudo. Não
+poderá,  contudo,  negar  a  existência  das  lesões,  pois  isso  importaria  em  negar  o  próprio  vestígio  constatado,  ou  seja,  o
+próprio corpo de delito.
+Atente-se,  todavia,  que  para  os  jurados,  por  ocasião  dos  julgamentos  pelo  Tribunal  do  Júri,  nem  mesmo  no  aspecto  da
+existência  do  corpo  de  delito  a  perícia  possui  efeito  vinculativo.  Estes  podem  negar  a  própria  existência  do  vestígio, bastando,
+para  tanto,  que  respondam  negativamente  ao  primeiro  quesito  formulado  no  momento  da  votação,  o  qual  corresponde  à
+materialidade da infração penal atribuída ao réu (art. 483, I, e § 1.º, do CPP).
+Necropsia
+Consiste  no  exame  interno  do  cadáver,  sendo  necessário  nos  casos  de  morte  violenta.  Não  obstante,  dispõe  o  art.  162  do
+CPP  que  poderá  ser  dispensado  em  duas  hipóteses:  a)  nos  casos  de  morte  violenta  sem  que  haja  infração  penal  a  ser  apurada,
+quando  será  suficiente  exame  externo  do  cadáver  (v.g., suicídio); b)  quando,  mesmo  havendo  infração  penal  a  ser  apurada,  as
+lesões  externas  permitirem  precisar  a  causa  da  morte,  não  havendo  necessidade  de  exame  interno  para  constatar  qualquer
+circunstância relevante, como, por exemplo, morte por decapitação, sendo a cabeça separada do corpo.
+Como  referido  alhures,  em  face  dos  riscos  de  morte  aparente,  dispôs  o  legislador  de  1941  que  deverá  ser  realizad
+[/PAGINA 530]
+
+[PAGINA 531]
+a  no
+mínimo após seis horas do óbito, salvo se, pela evidência da morte, entenderem os peritos possa ser levado a efeito antes desse
+tempo. Na atualidade, dado o avanço da tecnologia médica, é evidente que a regra legal não tem mais sentido.
+Mesmo nos casos em que é obrigatória, incide em relação à necropsia o art. 167 do CPP, dispondo que, não sendo possível
+o exame de corpo de delito, por haverem desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta. Assim, não
+ficará  inviabilizado  o  processo  criminal  e,  inclusive,  a  condenação  do  acusado  caso  a  ausência  da  perícia  decorra  da  não
+localização  do  corpo  da  vítima,  sendo  suficiente,  nestes  casos,  a  prova  testemunhal.  Logicamente,  deve  ser  uma  prova
+testemunhal cabal, vale dizer, apta a transmitir certeza quanto à ocorrência do crime, sem dar margem a qualquer dúvida.
+Exumação e inumação
+Por exumação  compreende-se  o  ato  de  desenterrar  ou  retirar  o  cadáver  da  sepultura.  O  procedimento  requer  justa  causa,
+vale dizer, motivo justo para que seja realizado, qual seja, sanar dúvidas quanto à causa mortis. Pode ser utilizada, ainda, para
+complementar dados já obtidos por ocasião do periciamento do cadáver. Dispõe o art. 163 do CPP que, “em caso de exumação
+para exame cadavérico, a autoridade providenciará para que, em dia e hora previamente marcados, se realize a diligência, da qual
+se  lavrará  auto  circunstanciado”.  Evidentemente,  a  autoridade  a  que  faz  referência  o  dispositivo  é  a  policial,  que  é  a  quem
+compete  determinar  as  providências  necessárias  para  a  necropsia  (art.  6.º,  VII,  do  CPP).  Nada  providenciando  a  autoridade
+policial,  poderão  os  interessados  (o  Ministério  Público,  o  assistente  de  acusação  e  o  advogado  do  réu)  requerer  ao  juiz  que
+determine a exumação. Havendo receio de perecimento da prova, tal requerimento poderá, inclusive, ser realizado por meio de
+ação cautelar inominada a ser deduzida na vara criminal.
+
+8.10.12
+8.10.13
+Ainda conforme o art. 163 do CPP, caberá ao administrador de cemitério público ou particular indicar o lugar da sepultura,
+sob pena de desobediência. No caso de recusa ou de falta de quem indique a sepultura, ou de encontrar-se o cadáver em lugar
+não destinado a inumações, a autoridade procederá às pesquisas necessárias, o que tudo constará do auto.
+Veja-se que exumação é o oposto de inumação. Desta não cuida o Código de Processo Penal e consiste no ato de sepultar.
+Tanto  a  exumação  quanto  a  inumação,  se  realizadas  à  revelia  das  formalidades  legais  (art.  163  do  CPP),  tipificam  a
+contravenção  penal  do  art.  67  da  lei  respectiva.  Conforme  ensina  Hugo  Nigro  Mazzilli,  nessa  contravenção  não  há  o  dolo  de
+violar  ou  profanar  uma  sepultura,  mas  o  mero  descumprimento  de  formalidades  para  a  inumação  ou  exumação,  as  quais,  se
+observadas,  tornariam  a  ação  totalmente  legítima  (p.  ex.:  prazo  insuficie
+[/PAGINA 531]
+
+[PAGINA 532]
+nte  para  exumação,  incompetência  para  autorizá-la
+etc.)
+41
+. Presente esse dolo, ocorrerão os crimes dos arts. 210 a 212 do Código Penal, conforme o caso.
+Lesões corporais graves pela incapacidade para as ocupações habituais por mais de
+trinta dias
+Tratando-se  do  crime  de  lesões  corporais,  a  fim  de  evitar  o  desaparecimento  dos  vestígios,  normalmente  é  o  ofendido
+submetido  ao  exame  de  corpo  de  delito  logo  depois  do  fato.  Neste  exame  deverão  constar  os  esclarecimentos  necessários  para
+que possa o Ministério Público identificar a natureza da lesão praticada de modo a enquadrá-la no caput (lesão corporal leve) ou
+nos  §§  1.º  e  2.º  do  art.  129  (lesão  corporal  grave  ou  gravíssima,  respectivamente).  Na  verdade,  o  exame  de  corpo  de  delito  no
+crime  de  lesões  corporais  compõe-se  de  quesitos  que,  por  sua  vez,  correspondem  ao  que  dispõem  o  art.  129  e  seus  parágrafos
+(houve ofensa à integridade corporal ou à saúde? qual o instrumento que a produziu? resultou incapacidade para as ocupações
+habituais por mais de trinta dias? resultou perigo de vida? etc.).
+Perceba-se que, muitas vezes, para responder a determinado quesito necessita o perito aguardar o decurso de certo tempo.
+Isto pode ocorrer tanto por força de previsão legal como em razão da própria natureza do questionamento.
+Especificamente em relação ao quesito da incapacidade para as ocupações habituais por mais de trinta dias, a necessidade
+de exame complementar em momento posterior decorre de expressa previsão legal, qual seja, o art. 168, § 2.º, do CPP, dispondo
+que, se o exame tiver por fim precisar a classificação do delito no art. 129, § 1.º, I, do Código Penal, deverá ser feito logo que
+decorra o prazo de 30 (trinta) dias, contado da data do crime (a data do crime é o dies a quo, pois se trata de prazo de natureza
+material).
+Ora, da literalidade do dispositivo, duas conclusões emergem: primeira, a de que tal exame é obrigatório no caso a que se
+refere;  e,  segunda,  no  sentido  de  que,  para  a  constatação  da  gravidade  da  lesão  sob  o  fundamento  da  incapacidade  para  as
+ocupações habituais, não se pode aceitar como prova o laudo pericial realizado antes do decurso dos 30 dias, pois, nesse caso, o
+que  existe  é  um  mero  prognóstico,  despido  de  segurança.  Exige-se,  pois,  que  a  incapacidade  seja  diagnosticada,  afirmando  o
+laudo que ele, efetivamente, ficou incapacitado naquele lapso.
+Mas,  cuidado  aqui:  a  despeito  de  toda  essa  disciplina,  a  jurisprudência  vem  flexibilizando  a  regra  de  que  o  exame
+destinado à comprovação da incapacidade seja feito logo que decorra o aludido lapso. Segundo este entendimento, a previsão
+do art. 168, § 2.º, visou apenas a impedir que se percam os vestígios materiais da infração penal, pelo decurso do tempo, e não
+estabelecer  um  prazo  máximo  para  a  sua  elaboração.  Na  verdade,  em  face  do  que  dispõe  o  art.  168,  §  3.º,  a  própria
+obr
+[/PAGINA 532]
+
+[PAGINA 533]
+igatoriedade  desse  exame  complementar  vem  sendo  mitigada,  tanto  que,  recentemente,  a  5.ª  Turma  do  STJ  chancelou  a
+orientação  de  que,  se  emanar  das  provas  angariadas  ao  processo  a  conclusão  de  que  as  lesões  sofridas  pelo  ofendido,  sem
+qualquer  dúvida,  deixaram-no  incapaz  para  as  ocupações  habituais  por  mais  de  trinta  dias,  “fica  suprida  a  exigência  de  exame
+pericial complementar”
+42
+.
+Rompimento de obstáculo à subtração da coisa e escalada
+O art. 171 do CPP dispõe que, “nos crimes cometidos com destruição ou rompimento de obstáculo a subtração da coisa, ou
+por meio de escalada, os peritos, além de descrever os vestígios, indicarão com que instrumentos, por que meios e em que época
+presumem ter sido o fato praticado”.
+A despeito dessa previsão, há controvérsias quanto à possibilidade de suprimento da perícia por outro meio de prova para
+fins de comprovação dessa qualificadora:
+1.ª  posição:  A  perícia  para  a  constatação  do  rompimento  é,  sempre,  necessária.  Ausente,  torna-se  imperativa  a
+desclassificação  do  delito  para  furto  simples  em  razão  da  existência  de  regra  específica  dentro  do  Código  de  Processo
+Penal, consubstanciada no art. 171, exigindo o exame de corpo de delito nessa hipótese.
+2.ª  posição:  Desde  que  desaparecidos  os  vestígios,  é  possível,  aplicando-se  o  art.  167  do  CPP,  reconhecer  a
+
+8.10.14
+8.10.15
+8.10.16
+qualificadora  do  rompimento  de  obstáculo  a  partir  da  prova  testemunhal  (ou  de  outras  provas).  Este  é  o  entendimento
+dominante, compreendendo o STJ que “para a incidência da qualificadora prevista no art. 155, § 4.º, I, do Código Penal, é
+necessária  a  comprovação  do  rompimento  de  obstáculo,  por  laudo  pericial,  salvo  em  caso  de  desaparecimento  dos
+vestígios, quando a prova testemunhal poderá suprir-lhe a falta”
+43
+.
+Por outro lado, em relação à escalada, esta pressupõe o acesso ao local do furto por via anormal e com o emprego de meios
+artificiais, de particular agilidade ou de esforço sensível, reveladores da obstinação do agente em vencer as cautelas postas pelo
+ofendido  para  a  defesa  do  seu  patrimônio,  bem  como  da  sua  maior  capacidade  de  delinquir.  Caracteriza-se,  por  exemplo,  na
+transposição de janelas, telhados, muros, portões, túneis etc.
+Em tais casos, a exigência de perícia depende do caso concreto.
+Tratando-se, por exemplo, de hipótese na qual tenha o agente ingressado por meio de uma janela basculante, dispensável é a
+perícia, pois é evidente que se trata de meio de ingresso impróprio, exigente de esforço anormal, caracterizando a escalada como
+qualificadora  do  furto.  No  entanto,  se  narrarem  as  peças  policiais  que  o  sujeito  ativo  ingressou  no  pátio  de  uma  residência
+pulando  um  muro,  nesse  caso  será  necessária  a  perícia,  a  fim  de  mensurar  a  altura  do  obstáculo,  de  tal  sorte  que  possa  o
+magistrado reconhecer, em tal ação, o esforço anormal.
+[/PAGINA 533]
+
+[PAGINA 534]
+Incêndio
+O art. 173 do CPP estabelece que, “no caso de incêndio, os peritos verificarão a causa e o lugar em que houver começado, o
+perigo  que  dele  tiver  resultado  para  a  vida  ou  para  o  patrimônio  alheio,  a  extensão  do  dano  e  o  seu  valor  e  as  demais
+circunstâncias que interessarem à elucidação do fato”.
+Trata o dispositivo da hipótese de crime de incêndio, tipificado no art. 250 do Código Penal. As questões mencionadas no
+art. 173 do CPP e que devem ser respondidas pelos peritos (tanto quanto possível, é lógico) têm em vista as peculiaridades do
+delito, cujas circunstâncias podem conduzir a um maior ou menor apenamento, dependendo tenha ocorrido em casa habitada ou
+não, dos instrumentos utilizados para provocar o fogo, do material ígneo empregado, das consequências e demais elementos que
+podem evidenciar o agir doloso ou culposo do agente.
+A  perícia,  nessa  espécie  de  delito,  é  importante,  mesmo  porque  poderá  concluir  tanto  no  sentido  de  que  o  incêndio  foi
+criminoso  como  pela  ocorrência  de  caso  fortuito,  vale  dizer,  sinistro  acidental,  sem  relevância  penal.  Não  é,  todavia,
+imprescindível.  Assim,  se  o  conjunto  probatório  possibilitar  a  certeza  quanto  à  intenção  do  agente  em  cometer  o  crime  de
+incêndio (v.g.,  testemunhas  que  presenciaram  o  agente  espalhar  gasolina  sobre  a  casa  da  vítima  e,  logo  após,  colocar  fogo),  a
+ausência de perícia não inviabiliza um juízo condenatório.
+Porte ilegal de arma de fogo
+Perquire-se, no enfoque do porte ilegal, a respeito da efetiva necessidade de apreensão e perícia da arma de fogo a fim de
+ser comprovada sua potencialidade lesiva e eficiência. Há duas orientações:
+1.ª  posição:  Em  razão  do  disposto  no  art.  175  do  CPP,  referindo-se  à  necessidade  de  exame  nos  instrumentos
+empregados na prática do crime, é inviável a condenação pelo crime de porte ilegal de arma de fogo caso não tenha sido
+realizado o exame de potencialidade lesiva na arma.
+2.ª posição: Dispensável o laudo pericial de potencialidade lesiva neste caso. É a posição dominante, já se afirmando
+no  STJ  ser  “indiferente,  para  a  consumação  do  delito,  a  demonstração  de  que  a  arma  estaria  apta  para  efetuar  disparos,
+motivo pelo qual se torna inócua qualquer discussão acerca da exigência de elaboração de laudo pericial, uma vez que este
+se torna desnecessário para a adequação da conduta ao tipo”
+44
+.
+A  caracterização  do  crime  exige  que  arma  esteja  municiada?  Não.  O  simples  fato  de  o  agente  portar  arma  de  fogo  sem
+autorização  é  suficiente  para  caracterizar  a  conduta  criminosa,  sendo  irrelevante,  para  o  enquadramento  do  agente  em  um  dos
+verbos  dos  arts.  14  e  16  da  Lei  10.826/2003  (posse  de  arma  de  fogo  de  uso  permitido  e  de  uso  restrito,  respectivamente),  a
+circunstância de se encontrar desmuniciada a arma. Tanto o legislador despojou-se da exigência de que a arma esteja municiad
+[/PAGINA 534]
+
+[PAGINA 535]
+a
+que, nos mesmos tipos penais em que previstas as condutas de porte ilegal de arma de fogo, é, também, tipificada a ação de porte
+de munição sem autorização e em desacordo com a determinação legal ou regulamentar
+45
+.
+Majorante de uso de arma de fogo no crime de roubo (art. 157, § 2.º, I, do Código Penal)
+
+8.10.17
+8.10.18
+Estabelece  o  art.  157,  §  1.º,  I,  do  Código  Penal  que  a  pena  do  crime  de  roubo  aumenta  de  um  terço  até  a  metade  se  a
+violência  ou  ameaça  é  exercida  com  emprego  de  arma.  Relativamente  a  esta  majorante,  há  discussão  na  doutrina  e  na
+jurisprudência  se,  para  a  respectiva  configuração,  é  necessária  a  apreensão  e  perícia  da  arma  de  fogo  utilizada  na  prática  da
+subtração.  A  respeito,  é  prevalente  a  orientação  no  sentido  da  prescindibilidade  da  perícia  na  arma  de  fogo  para  o
+reconhecimento  da  causa  de  aumento  prevista  no  art.  157,  §  2.º,  I,  do  Código  Penal,  desde  que  a  utilização  da  arma  reste
+comprovada por outros meios probatórios
+46
+.
+Reconhecimento de escritos
+O art. 174 do CPP cuida do exame grafodocumentoscópico ou grafotécnico. Esta prova pretende, mediante comparação da
+grafia  aposta  em  documento  escrito  com  a  grafia  do  investigado  ou  do  acusado,  afirmar  ou  afastar  a  sua  autoria  em  relação  a
+determinado  texto  ou  assinatura.  Tratando-se  de  prova  técnica,  o  exame  constitui  importante  instrumento  de  convicção  à
+autoridade policial, no curso das investigações, e ao juiz, no decorrer da instrução criminal. Sua utilização é bastante comum na
+apuração de crimes relacionados à falsificação de documentos públicos ou particulares, falsidade ideológica e estelionato. Sem
+embargo, também pode ser realizado na identificação da autoria de documentos relevantes para a comprovação de qualquer outro
+crime,  como  por  exemplo,  de  homicídio  previamente  anunciado  ao  ofendido  por  meio  de  carta  anônima  supostamente  enviada
+pelo acusado.
+Sendo conhecido o paradeiro da pessoa cuja grafia se pretende comparar, deverá esta ser intimada para acompanhar o ato.
+Nesta  oportunidade,  embora  não  possa  ela  ser  obrigada  ao  fornecimento  de  padrões  gráficos  (o  que  implicaria  violação  ao
+princípio  da  não  autoincriminação),  poderá,  espontaneamente,  fornecer  material  de  seu  próprio  punho,  colhido  perante  a
+autoridade  policial  ou  judiciária,  para  efeitos  de  comparação.  Na  hipótese  de  não  ser  encontrado  o  investigado  ou  o  acusado,
+tratando-se de procedimento realizado na fase das investigações policiais, é dispensável o acompanhamento de advogado no ato
+de produção da prova, já que o inquérito, sendo inquisitorial, não está adstrito à observância de garantias como o contraditório e
+a ampla defesa. Entretanto, situação diversa ocorre em relação à comparação de escritos realizada na fase judicial, caso em que,
+na ausência do réu, impõe-se a nomeação de defensor para o ato.
+Pa
+[/PAGINA 535]
+
+[PAGINA 536]
+ra  fins  da  comparação,  pode  ser  utilizado  qualquer  documento  licitamente  obtido,  desde  que  comprovada  sua
+autenticidade,  o  que  pode  ocorrer:  por  meio  do  reconhecimento  do  acusado  de  que  a  grafia  lhe  pertence;  por  meio  de
+reconhecimento judicial, como por exemplo o documento produzido em processo cível reconhecidamente escrito pelo acusado; e
+por qualquer outro meio de prova hábil à afirmação da autoria do texto ou assinatura sob comparação.
+O  art.  174,  III  faculta  à  autoridade  policial  ou  judiciária  requisitar  documentos  de  estabelecimentos  públicos  (v.g.,
+tabelionatos,   cartórios   etc.)   com   finalidade   de   possibilitar   a   comparação.   Apesar   da   referência   legal   a   “arquivos   ou
+estabelecimentos públicos”, nada impede seja feita esta requisição a estabelecimentos particulares (v.g., bancos privados). Mais:
+segundo  entendemos,  a  faculdade  prevista  no  dispositivo  assiste  também  ao  Ministério  Público,  já  que  este  possui,  legal  e
+constitucionalmente, poder de requisição.
+Há, contudo, hipóteses em que os documentos não podem ser retirados, impondo-se que a diligência de produção da prova
+seja  realizada  diretamente  no  local  onde  se  encontram.  É  o  caso,  por  exemplo,  dos  livros,  fichas,  documentos,  papéis,
+microfilmes e sistemas de computação dos serviços notariais, que “deverão permanecer sempre sob a guarda e responsabilidade
+do  titular  de  serviço  notarial  ou  de  registro,  que  zelará  por  sua  ordem,  segurança  e  conservação”,  sendo  que  “se  houver
+necessidade  de  serem  periciados,  o  exame  deverá  ocorrer  na  própria  sede  do  serviço,  em  dia  e  hora  adrede  designados,  com
+ciência do titular e autorização do juízo competente” (art. 46 da Lei 8.935/1994).
+Não existindo material para confronto, estabelece o art. 174, IV que “a autoridade mandará que a pessoa escreva o que lhe
+for ditado”. Considerando, porém, o privilégio da não autoincriminação, decorrente do próprio texto constitucional e pelo qual se
+reconhece aos investigados ou acusados o direito de não produzir provas contra si, é evidente que tal disposição legal não pode
+ser interpretada literalmente, sendo vedado à autoridade mandar que o suspeito forneça material gráfico, podendo, unicamente,
+solicitar-lhe esta providência, que poderá ser atendida ou não.
+ Instrumentos do crime
+Refere o art. 175 do CPP que “serão sujeitos a exame os instrumentos empregados para a prática da infração, a fim de se
+lhes  verificar  a  natureza  e  a  eficiência”.  Trata-se  da  perícia  realizada  nos  objetos  utilizados  pelo  agente  para  a  realização  do
+crime (v.g., revólver, faca, pedaço de madeira etc.).
+Embora a redação do dispositivo possa sugerir obrigatoriedade, a verdade é que este exame não é sempre imprescindível.
+Isso  porque,  em  primeiro  lugar,  pode  acontecer  que  o  instrumento  não  seja  encontrado,  como  na  hipótese  de  ocultação  pelo
+
+8.10.19
+a)
+b)
+8.10
+[/PAGINA 536]
+
+[PAGINA 537]
+.20
+sujeito  ativo.  Em  segundo  lugar,  pode  ocorrer  que  não  haja  dúvidas  quanto  à  potencialidade  lesiva  do  objeto.  É  o  caso,  por
+exemplo, da vítima de homicídio por instrumento perfurocortante. Apreendido este e não havendo controvérsia quanto a ter sido
+o objeto legal, dispensável, por razões óbvias, verificar a potencialidade ofensiva.
+Na  realidade,  a  obrigatoriedade  do  exame  a  que  alude  o  art.  175  do  CPP  depende  da  hipótese  concreta.  Observe-se,  por
+exemplo,  a  hipótese  de  um  homicídio  provocado  por  arma  de  fogo.  Alegando  o  imputado,  como  tese  defensiva,  disparo
+acidental, é importante o periciamento para comprovar a viabilidade da versão apresentada. Diferentemente, sendo hipótese de
+imputação de homicídio doloso, em que alega o acusado, por exemplo, ter agido em legítima defesa ao desferir um tiro contra a
+vítima, a perícia no revólver apreendido é totalmente prescindível. Suponha-se, agora, que o delito imputado seja o de disparo
+de  arma  de  fogo.  Neste  caso,  tratando-se  de  crime  que  se  pode  comprovar  mediante  prova  testemunhal  quanto  à  efetiva
+ocorrência da conduta, é absolutamente dispensável o periciamento, até porque, nestes casos, normalmente o agente, negando a
+autoria, oculta a arma no intuito de elidir a responsabilidade criminal.
+Crimes contra a propriedade imaterial
+O procedimento dos crimes contra a propriedade imaterial encontra-se regulado a partir do art. 524 até o art. 530-I do CPP,
+com  as  alterações  introduzidas  pela  Lei  10.695/2003.  Relativamente  à  perícia,  é  preciso  distinguir  a  natureza  da  ação  penal.
+Assim:
+Crimes contra a propriedade imaterial de ação penal privada: o procedimento será aquele ditado pelos arts. 524 a
+530, ex vi  da  regra  prevista  no  art.  530-A.  São  de  ação  penal  privada  os  delitos  dos  arts.  184  a  186  do  Código  Penal,
+bem  como  todos  os  crimes  tipificados  na  Lei  9.279/1996,  à  exceção  do  delito  do  art.  191  desse  diploma.  Os  demais
+crimes contra a propriedade imaterial previstos no Código Penal (arts. 187 a 196) foram revogados pela referida Lei.
+Crime contra a propriedade imaterial de ação penal pública: o procedimento será aquele ditado pelos arts. 530-B a
+530-H, ex vi da regra prevista no art. 530-I. Sinale-se que apenas o crime do art. 191 da Lei 9.279/1996 tem o processo
+iniciado mediante denúncia.
+Em  ambos  os  casos,  tratando-se  de  infração  que  deixa  vestígio,  o  exame  de  corpo  de  delito,  direto  ou  indireto,  visando  a
+atestar  a  existência  do  crime,  será  condição  de  procedibilidade  para  o  exercício  da  ação  penal,  sendo  que,  sem  ele,  inexiste  a
+possibilidade de ser recebida a denúncia ou a queixa. Existe diferença, contudo, entre o modus de realização da perícia conforme
+se trate de crime de ação penal privada ou pública.
+Com  efeito,  nos  casos  de  ação  penal  privada,  o  ofendido,  fazendo  prova  de  seu  direito  à  ação  (legitimatio
+[/PAGINA 537]
+
+[PAGINA 538]
+ad  causam),
+deverá requerer ao juiz a apreensão do objeto para fins de perícia. Acolhendo o pedido, o juiz, inaudita altera parte, determinará
+a  apreensão  e  exame  do  objeto,  que  será  realizado  por  dois  peritos  por  ele  nomeados  (art.  527  do  CPP).  Observe-se  que,
+eventualmente,  podem  os  peritos  entender  desnecessária  a  apreensão  (caso  um  exame  preliminar  possibilite-lhes  chegar  à
+conclusão  necessária).  De  qualquer  sorte,  estarão  obrigados  a  apresentar  o  laudo  ao  juiz.  Se  o  requerido  considerar  abusiva  a
+apreensão,  poderá  impetrar  mandado  de  segurança.  Caso  seja  o  pedido  de  apreensão  indeferido  pelo  juiz,  entendemos  cabível
+apelação (art. 593, II, do CPP), embora haja parcela doutrinária que considere irrecorrível essa decisão (v.g., Guilherme de Souza
+Nucci). Concluído o laudo pelos peritos, será ele submetido à apreciação do juiz, que o homologará ou não.
+Sendo, opostamente, hipótese de crime contra a propriedade imaterial de ação penal pública, não haverá a necessidade de
+requerer  o  Ministério  Público  ao  juiz  a  apreensão  do  objeto  a  ser  periciado,  a  qual  poderá  ser  efetivada,  diretamente,  pela
+autoridade  policial  (observadas,  logicamente,  as  restrições  constitucionais  à  busca  domiciliar).  Subsequente  à  apreensão,  será
+realizado, por perito (basta um profissional, conforme o art. 530-D do CPP) oficial ou leigo, o laudo pericial, que fará parte do
+inquérito e, posteriormente, do processo.
+Condução  de  veículo  automotor  sob  a  influência  de  álcool  ou  outra  substância
+psicoativa que determine dependência (alterações da Lei 12.760/2012)
+A Lei 12.760/2012, alterando o Código de Trânsito Brasileiro (Lei 9.503/1997), estabeleceu regras importantes no tocante
+aos meios de prova da embriaguez do indivíduo na condução de veículo automotor. Até a vigência deste diploma, apenas o teste
+do etilômetro (vulgarmente conhecido como bafômetro) e o exame de sangue eram considerados provas suficientes para atestar
+que o motorista encontrava-se dirigindo embriagado. Este entendimento, inclusive, foi referendado pelos Tribunais Superiores
+47
+.
+Todavia, como o Direito Processual Penal brasileiro é regido pelo princípio da não autoincriminação (nemo tenetur se detegere),
+a verdade é que bastava a pessoa recusar submeter-se aos referidos exames para que permanecesse na impunidade.
+Na atual disciplina legal, esta necessidade de contar-se com a boa vontade do motorista não mais existe. Não se duvida que
+
+8.10.21
+•
+•
+•
+o teste do etilômetro e o exame de sangue continuam sendo os meios mais eficazes e seguros de comprovação da embriaguez.
+Porém, de acordo com o art. 306, § 2.º, da Lei 9.503/1997 (alterado pela Lei 12.971/2014), recusando o motorista a realização
+destes  exames,  poderão  ser  admitidos  outros  elementos,  tais  como  teste  de  alcoolemia  ou  toxicológico,  exame  clínico,  vídeo,
+prova testemunhal e qualquer outro meio lícito de prova. Como se vê
+[/PAGINA 538]
+
+[PAGINA 539]
+, não mais é indispensável a prova técnica.
+Este novo regramento justifica-se diante da modificação do tipo penal da embriaguez ao volante. Na redação anterior à Lei
+12.760/2012,  dispunha  o  art.  306  do  CTB  que  incorria  no  delito  o  agente  que  conduzisse  veículo  automotor,  na  via  pública,
+estando   com   concentração   de   álcool   por   litro   de   sangue   igual   ou   superior   a   seis   decigramas.   Por   esta   razão   –   a
+imprescindibilidade de comprovação da proporção legal – é que se impunha a prova técnica.
+Na atualidade, outra é a normatização, limitando-se o art. 306 do CTB a dispor que incorre nas suas penas o motorista que
+conduz  veículo  automotor  com  capacidade  psicomotora  alterada  em  razão  da  influência  de  álcool,  não  especificando
+concentração mínima por litro de sangue para incidência da norma incriminadora. Não se ignora que o art. 306, § 1.º, I, ao dispor
+que a conduta prevista no caput do dispositivo será constada a partir da “concentração igual ou superior a 6 decigramas de álcool
+por  litro  de  sangue  ou  superior  a  0,3  miligramas  de  álcool  por  litro  de  ar  alveolar”,  sugere  a  persistência,  no  ordenamento
+jurídico,  da  necessidade  de  comprovação  de  que  o  indivíduo  apresenta  estas  concentrações  mínimas  de  álcool.  Ocorre,  porém,
+que o art. 306, § 1.º, II prevê que a verificação da embriaguez ao volante pode ser feita a partir de sinais que indiquem alteração
+da  capacidade  psicomotora.  Nesta  segunda  possibilidade,  portanto,  não  exige  a  lei  comprovação  da  concentração  alcoólica,
+bastando  ficar  evidenciada  a  alteração  da  capacidade  psicomotora.  E  como  se  comprova  esta  situação?  Pelos  meios  de  prova
+estipulados  na  regra  aberta  do  art.  306,  §  2.º:  exame  clínico,  vídeo,  prova  testemunhal  ou  outros  meios  de  prova  em  direito
+admitidos, observado, é certo, o direito à contraprova.
+Ora, conciliando o disposto nos §§ 1.º e 2.º do art. 306, conclui-se que, para efeitos de incidência da norma incriminadora, o
+estado de embriaguez pode ser constatado:
+I – Por meio de prova técnica (etilômetro ou exame de sangue), que constante a concentração mínima de 6 decigramas
+de álcool por litro de sangue ou de 0,3 miligramas de álcool por litro de ar alveolar. Nestas hipóteses, presume-se jure et
+jure  a  alteração  da  capacidade  psicomotora,  ainda  que  não  seja  esta  visível  ou  constatada  a  partir  do  comportamento  do
+indivíduo.
+II – Por meio de qualquer outra prova indiciária que demonstre a alteração da capacidade psicomotora, independendo,
+neste caso, da aferição da quantidade de álcool ingerida.
+E se no teste do etilômetro for constatado que o motorista apresenta concentração de álcool inferior a 6
+decigramas  por  litro  de  sangue?  Neste  caso,  sua  incursão  no  tipo  penal  do  art.  306  do  CTB  não  fica
+afastada,  podendo  ser  materializado  o  delito  a  partir  da  constatação  da  alteração  de  sua  ca
+[/PAGINA 539]
+
+[PAGINA 540]
+pacidade
+psicomotora por meio de provas dispostas no inciso II.
+Perceba-se que esta regulamentação não afronta a ordem constitucional vigente, de onde se extrai o princípio nemo tenetur
+se detegere  (art.  5.º,  LXIII),  e  tampouco  o  regramento  presente  no  Código  de  Processo  Penal  nos  arts.  158  e  167,  o  primeiro
+estabelecendo que, deixando vestígios, a infração deverá ser comprovada pela prova pericial e, o segundo, dispondo que se não
+for  possível  a  realização  da  perícia  por  haverem  desaparecido  os  vestígios,  a  prova  testemunhal  (e  acrescentamos:  ou  qualquer
+outra prova lícita) poderá suprir-lhe a falta.
+Idênticas  considerações  têm  lugar,  mutatis mutandis,  na  hipótese  de  condução  de  veículo  automotor  sob  efeito  de  outra
+substância psicoativa que determine dependência.
+Quadro-resumo
+NATUREZA DA
+PERÍCIA
+PREVISÃO
+LEGAL
+ASPECTOS PRINCIPAIS
+Trata-se do exame interno do cadáver.
+Regra: obrigatória, no caso de morte violenta.
+Exceções:  Mesmo  nos  casos  de  morte  violenta,  poderá  ser
+dispensada a necropsia em duas hipóteses:
+1.  Quando  a  causa mortis  for  absolutamente  certa.  Ex.:  Morte
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+1. NecropsiaArt. 162 do CPP
+por decapitação.
+2. Quando não houver indicativos da prática de infração penal.
+Ex.:   Considere-se   que   as   provas   apontem   no   sentido   do
+suicídio  da  pessoa  encontrada  morta,  não  havendo  indicativos
+de  que  alguém  tenha  induzido,  instigado  ou  auxiliado  nessa
+prática.
+Não  sendo  possível  a  realização  da  necropsia  em  face  do
+desaparecimento  dos  vestígios,  a  prova  testemunhal  pode
+suprir  a  falta  do  exame  nos  termos  do  art.  167  do  CPP.  Ex.:
+Hipótese   em   que   testemunhas   afirmam   ter   presenciado   o
+homicídio da vítima, sendo o corpo, após, lançado ao mar. Não
+sendo   localizado   o   cadáver,   o   depoimento   das   referidas
+testemunhas  será  suficiente  para  comprovação  da  existência
+do crime.
+2. ExumaçãoArt. 163 do CPP
+Ato  de  retirar  o  corpo  da  sepultura  ou  desenterrá-lo.  Este
+procedimento exige justa causa, qual seja, buscar evidências a
+respeito da morte do indivíduo.
+Difere da inumação, que é o ato de sepultar ou enterrar o corpo.
+Tanto  a  exumação  quanto  a  inumação,  se  realizadas  sem  a
+observância     das     formalidades     legais,     importarão     na
+ilegitimidade   da   prova,   sem   prejuízo   de   se   configurar   a
+contravenção penal do art. 67 do Dec.-lei 3.688/1941.
+3. Lesões
+corporais graves
+(incapacidade para
+as ocupações
+habituais por mais
+de 30 dias)
+Art. 168, §§ 2.º e 3.º,
+do
+CPP
+A constatação da incapacidade deve ocorrer a partir de exame
+complementar realizado logo que decorram os 30 dias (art. 168,
+§ 2.º).
+Se   não   for   possível   realizar   esse   exame   por   haverem
+desaparecido os vestígios, entende-se que:
+1.ª Corrente (majoritária): A prova testemunhal (também outras
+provas lícitas) poderá suprir-lhe a falta, ex vi do art. 168, § 3.º.
+2.ª  Corrente:
+[/PAGINA 540]
+
+[PAGINA 541]
+O  crime  deve  ser  desclassificado  para  lesões
+corporais  leves,  tendo  em  vista  que  não  se  pode  aceitar  o
+suprimento da perícia em tal caso.
+Se a perícia complementar não for realizada logo que decorra o
+prazo de 30 dias, entende-se que:
+1.ª  Corrente:  O  laudo  pode  ser  utilizado  pelo  juiz,  pois  o
+objetivo do art. 168, § 2.º, ao determinar a realização da perícia
+logo  que  decorram  os  30  dias,  é  impedir  que  se  percam  os
+vestígios   e   não   estabelecer   um   prazo   máximo   para   sua
+elaboração.
+2.ª Corrente:  O  laudo  deverá  ser  invalidado,  operando-se,  em
+consequência,   a   desclassificação   do   crime   para   lesões
+corporais leves.
+O prazo de 30 dias estabelecido no art. 129, § 1.º, I, do CP possui
+natureza material. Logo, conta-se a data do crime.
+4. Furto qualificado
+pelo rompimento
+de obstáculo à
+subtração da coisa
+Art. 171, 1.ª parte,
+do CPP
+Trata-se do furto cometido mediante arrombamento de portas ou
+janelas,  destruição  de  telhas,  corte  de  cercas  e  qualquer  outra
+forma de violação de obstáculos.
+De  acordo  com  o  art.  171  do  CPP,  é  necessária  perícia  para
+constatação do rompimento do obstáculo à subtração da coisa.
+Se esta perícia não for realiza, entende a jurisprudência:
+1.ª  Corrente:  É  imperativa  a  desclassificação  do  delito  para
+furto simples.
+2.ª  Corrente  (majoritária):   Se   a   não   realização   da   perícia
+
+•
+•
+•
+•
+•
+•
+decorreu  da  circunstância  de  que  desaparecidos  os  vestígios,
+admite-se  a  comprovação  do  rompimento  por  meio  de  prova
+testemunhal (art. 167 do CPP).
+5. Furto qualificado
+pela escalada
+Art. 171, 2.ª parte,
+do CPP
+A escalada  compreende  o  ingresso  em  determinado  lugar  por
+meio  anormal,  exigindo  do  agente  um  esforço  incomum  ao
+homem médio para transposição do obstáculo. Ex.: Penetração
+no  lugar  por  meio  de  janela,  telhado,  saltando  muros  ou
+portões, através de túneis etc. Quanto à necessidade de perícia
+no   obstáculo   vencido,   duas   correntes   são   aceitas   pelos
+Tribunais:
+1.ª Corrente: Se a própria natureza do obstáculo superado pelo
+agente  já  revela,  por  si,  esforço  incomum,  é  desnecessária  a
+perícia. Ex.: Ingresso na casa através de janela basculante. Por
+outro  lado,  se  tal  esforço  não  fica  evidente,  é  imperativo  o
+exame  pericial.  Ex.:  O  ato  de  pular  o  muro  apenas  implica
+escalada quando esse mesmo muro, pela sua altura, não pode
+ser  ultrapassado  com  um  simples  salto.  Em  tais  casos,  a  falta
+de  perícia  e  o  seu  suprimento  pela  prova  testemunhal  apenas
+se justificam quando não for possível realizá-la, v.g., a hipótese
+de  o  portão  inutilizado  pelo  agente  ter  sido  substituído  por
+outro.
+2.ª  Corrente:  Tratando-se  a  escalada  de  expediente  que  não
+deixa  vestígios,  a  realização  de  perícia  pode,  sempre,  ser
+suprida por outros meios de prova.
+6. IncêndioArt. 173 do CPP
+Estabelece o art. 173 do CPP que, no caso de incêndio, os peritos
+[/PAGINA 541]
+
+[PAGINA 542]
+verificarão  a  causa  e  o  lugar  em  que  houver  começado,  o
+perigo que dele tiver resultado para a vida ou para o patrimônio,
+a  extensão  do  dano  e  o  seu  valor  e  as  demais  circunstâncias
+que interessarem à elucidação do fato.
+Em  tese,  a  realização  da  perícia  técnica  é  necessária  para  a
+comprovação do caráter criminoso do incêndio. No entanto, se
+o  conjunto  probatório,  aí  se  incluindo  a  prova  testemunhal,
+permitir essa conclusão, a perícia poderá ser dispensada.
+7. Porte ilegal de
+arma de fogo
+Art. 175 do CPP
+Dispõe o art. 175 do CPP que os instrumentos do crime deverão
+ser  periciados,  a  fim  de  se  comprovar  a  respectiva  natureza  e
+eficiência.
+Aplicado esse dispositivo ao crime de porte ilegal, infere-se que,
+em   princípio,   a   arma   utilizada   deverá   ser   apreendida   e
+submetida  a  exame  para  verificação  de  sua  potencialidade
+lesiva.
+Divide-se a jurisprudência quanto à possibilidade de condenação
+pelos  crimes  dos  arts.  14  e  16  da  Lei  10.826/2003  (porte  de
+arma    de    fogo    de    uso    permitido    e    de    uso    restrito,
+respectivamente) na hipótese de não ocorrerem a apreensão e
+o periciamento. Assim:
+1.ª Corrente:  O  crime  de  porte  ilegal  exige  a  comprovação  da
+potencialidade lesiva da arma de fogo, não bastando a simples
+indicação de perigo abstrato.
+2.ª Corrente:  Trata-se  o  porte  ilegal  de  arma  de  fogo  de  crime
+de  perigo  abstrato,  que  se  configura  com  o  simples  fato  de
+serem praticadas as condutas descritas nos verbos dos arts. 14
+e  16  da  Lei  10.826/2003.  Logo,  prescindível  a  apreensão  e
+perícia.
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Na esteira da posição dominante, não é necessário que a arma
+esteja municiada para que se configure o crime de porte ilegal.
+8. Roubo majorado
+pelo uso de arma
+de fogo
+Art. 157, § 2.º, I, do
+CP e art. 175 do
+CPP
+A perícia na arma de fogo utilizada na prática do roubo justifica-se
+no  art.  175  do  CPP,  dispondo  que  os  instrumentos  do  crime
+deverão ser examinados a fim de lhes comprovar a natureza e
+eficiência.
+Na   hipótese   de   ausência   desta   perícia,   compreende   a
+jurisprudência:
+1.ª Corrente: É imprescindível o exame pericial com a finalidade
+de comprovar a potencialidade lesiva da arma de fogo. Ausente
+este  exame,  impõe-se  a  desclassificação  da  conduta  para
+roubo na modalidade simples.
+2.ª Corrente (majoritária): O reconhecimento da causa especial
+de  aumento  de  pena  pode  ocorrer  a  partir  de  outros  meios  de
+prova,  não  sendo  indispensável  a  perícia.  Mesmo  porque  tal
+majorante se justifica no maior poder de intimidação do agente
+e  não  apenas  no  perigo  causado  ao  ofendido  em  decorrência
+da utilização de arma de fogo.
+9. Disparo de arma
+de fogo
+Art. 175 do CPP
+A necessidade de perícia fundamenta-se no art. 175 do CPP.
+Ausente este exame, divide-se a jurisprudência:
+1.ª Corrente: É necessária a perícia, sob pena de inviabilizar-se
+a condenação.
+2.ª Corrente (majoritár
+[/PAGINA 542]
+
+[PAGINA 543]
+ia): O delito do art. 15 da Lei 10.826/2003
+pode   ser   comprovado   mediante   prova   testemunhal,   sendo
+desnecessários a apreensão e o periciamento da arma, mesmo
+porque,   se   houve   o   disparo,   a   potencialidade   lesiva   é
+inequívoca.
+10. Grafia em
+escritos
+Art. 174 do CPP
+Trata-se da perícia estabelecida no Código de Processo Penal
+com  a  finalidade  de  confrontar  a  grafia  incorporada  a  um
+determinado documento com a letra da pessoa suspeita de tê-
+lo produzido.
+Para  sua  realização,  a  autoridade  policial  ou  judicial  poderá
+requisitar  documentos  existentes  em  órgãospúblicos  para  fins
+de confrontação (art. 174, III). A referência de que tal requisição
+deve   ser   feita   a estabelecimentos   públicos   decorre   da
+necessidade de que não haja dúvidas sobre a autenticidade do
+documento utilizado na comparação.
+Em  que  pese  o  art.  174,  IV  estabelecer  que,  na  ausência  de
+documentos para fins de confrontação, a autoridade “mandará”
+que  a  pessoa  escreva  o  que  lhe  for  ditado,  é  entendimento
+consolidado   que   o   investigado   ou   acusado   não   pode   ser
+obrigado  a  fornecer  material  gráfico,  sob  pena  de  violação  ao
+privilégio nemo   tenetur   se   detegere    (privilégio    da    não
+autoincriminação).
+11. Crimes contra a
+Arts. 527 e
+Nos crimes contra a propriedade imaterial, havendo vestígios, o
+exame de corpo de delito será condição de procedibilidade para
+o exercício da ação penal. Sem ele, não poderão a denúncia e
+a queixa ser recebidas.
+Nos crimes contra a propriedade imaterial de ação penal privada,
+o ofendido, fazendo prova de seu direito de ação (legitimidade),
+deverá  requerer  ao  juiz  a  apreensão  do  objeto  para  fins  de
+perícia.   Neste   caso,   o   exame   será   feito   por   dois   peritos
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+8.11
+8.11.1
+propriedade
+imaterial
+530-D do CPP
+nomeados pelo juiz (art. 527).
+Opostamente,   nos   crimes   de   ação   pública   não   haverá   a
+necessidade   de   o   Ministério   Público   requerer   ao   juiz   a
+apreensão   do   objeto   a   ser   periciado,   o   que   poderá   ser
+efetivado,  diretamente,  pela  autoridade  policial,  respeitadas,
+obviamente, as restrições à busca domiciliar (art. 530-B). Aqui,
+o  exame  poderá  ser  feito  por  apenas  um  perito  (o  art.  530-D
+refere-se   a   “pessoa   tecnicamente   habilitada”,   no   singular,
+portanto).
+12.
+Falsificação de
+documento
+Art. 158 do
+CPP
+A  exigência  de  perícia  fundamenta-se  no  art.  158  do  CPP,
+obrigando a este exame quando se tratar de infração que deixa
+vestígio.
+Em tal situação, a perícia é indispensável, sob pena de inviabilizar
+o  prosseguimento  da  ação  penal  e  a  prolação  de  sentença
+condenatória.
+13. Dano
+Art. 158 do
+CPP
+O crime de dano, logicamente, deixa vestígios. Sendo assim, a
+perícia é necessária, ex vi do art. 158.
+Independentemente  desta  regra,  compreende  a  jurisprudência
+que  a  falta  do  exame  de  corpo  de  delito  não  impede  a
+propositur
+[/PAGINA 543]
+
+[PAGINA 544]
+a   da   ação   penal,   não   só   porque   ele   pode   ser
+produzido  na  fase  instrutória,  mas,  também,  porque  pode  ser
+suprido pela prova testemunhal, na forma do art. 167 do CPP.
+14. Tortura
+(Lei
+9.455/1997)
+Art. 158 do
+CPP
+Nem sempre a tortura deixa vestígios. Deixando-os, incide a regra
+geral do art. 158.
+Sem  embargo,  é  possível  o  suprimento  da  perícia  por  outros
+meios  de  prova  quando  os  vestígios  houverem  desaparecido
+(art. 167).
+15. Crimes contra a
+dignidade sexual
+Art. 158 do CPP
+A materialidade dos crimes contra a dignidade sexual, havendo
+vestígios,  deve  ser  atestada  mediante  exame  de  corpo  de
+delito.
+Não obstante, é tranquila a jurisprudência no sentido de que nos
+crimes contra a dignidade sexual, a despeito da previsão do art.
+158 do CPP, pode o exame de corpo de delito ser suprido por
+outros   meios   de   prova   quando   tiverem   desaparecido   os
+vestígios.
+16.
+Embriaguez ao
+volante
+Art. 306 da Lei
+9.503/1997
+A influência do álcool ou de outra substância psicoativa que cause
+dependência pode ser comprovada por meio de etilômetro e de
+exame  de  sangue,  ou,  na  recusa  do  motorista,  por  qualquer
+outro  meio  de  prova  lícita,  tais  como  exame  clínico,  vídeos  e
+prova testemunhal.
+INTERROGATÓRIO DO RÉU (ARTS. 185 A 196 DO CPP)
+Conceito
+O interrogatório é ato por meio do qual procede o magistrado à oitiva do réu. Corolário da ampla defesa e do contraditório,
+sua oportunidade está prevista em todos os procedimentos criminais, embora possa existir variação quanto ao momento em que
+deva  ser  aprazado.  Antes  das  reformas  introduzidas  ao  Código  de  Processo  Penal  pela  Lei  11.719/2008,  era  normalmente
+realizado  no  início  do  processo,  logo  após  o  recebimento  da  denúncia  ou  queixa  e  citação.  Na  atualidade,  foi  relegado,  como
+regra, à fase posterior à instrução, embora em alguns procedimentos ainda persista previsão de sua efetivação nos termos iniciais
+do processo.
+
+8.11.2
+•
+•
+Características
+Apresenta o interrogatório do réu as seguintes características essenciais:
+a) Obrigatoriedade: Tratando-se da oportunidade de que dispõe o réu de informar ao juízo sua versão quanto aos fatos, em
+verdadeiro  exercício  de  autodefesa,  o  aprazamento  do  interrogatório  do  réu  no  curso  do  processo  penal  é  imprescindível,  sob
+pena de nulidade processual (art. 564, III, e, do CPP).
+Em  face  desta  característica  inerente  ao  interrogatório  judicial,  tem-se  questionado  a  sua  obrigatoriedade  na  hipótese  em
+que, não comparecendo injustificadamente o acusado na data aprazada pelo juízo apesar de citado pessoalmente, venha ele, em
+momento posterior a ser preso ou a participar espontaneamente dos atos judiciais. Doutrinariamente, tem-se compreendido que,
+nesses casos, deverá o juiz, revogando os efeitos da revelia, aprazar nova data para que seja ele interrogado antes da sentença.
+Dentro  do  princípio  de  que  ninguém  pode  ser  condenado  sem  ser  ouvido,  co
+[/PAGINA 544]
+
+[PAGINA 545]
+nsidera-se  que,  encontrando-se  o  agente  em  lugar
+certo e conhecido,  seu  interrogatório  faz  parte  da  essência  do  processo,  importando  em  nulidade  a  sua  ausência.  Não  obstante
+esta  linha  de  pensamento,  a  jurisprudência  tem  flexibilizado  a  exigência  para  considerar  como  nulidade  relativa,  sujeita  à
+preclusão se não arguida em momento oportuno, a não audição do acusado que não compareceu ao interrogatório e que, a partir
+de  dado  momento,  passou  a  acompanhar  os  atos  judiciais,  importando  o  entendimento  contrário  em  “privilegiar  o  descaso  dos
+réus quanto à aplicação da lei penal, em detrimento do interesse público relativo ao jus puniendi”. Evidentemente, esta questão é
+importante  apenas  nos  procedimentos  em  que  o  interrogatório  deva  ser  realizado  previamente  à  fase  instrutória  (v.g.,
+procedimento da lei de drogas), não possuindo nenhuma relevância em ritos em que esse ato processual deva ser feito na própria
+audiência de instrução, logo antes dos debates orais e da prolação de sentença.
+E se fosse o acusado preso após a prolação da sentença, encontrando-se o processo em grau de recurso? Nesta hipótese,
+entendemos não ser necessário o aprazamento de interrogatório, sendo reiteradas as decisões no sentido de que, “se o paciente,
+revel,  foi  preso,  tão  somente,  após  a  prolação  da  sentença  condenatória,  não  há  que  se  falar  em  nulidade  do  mencionado
+provimento  jurisdicional  e  muito  menos  da  instrução  processual,  por  ausência  de  interrogatório  daquele”
+48
+.  Sem  embargo,  no
+âmbito  do  Pretório  Excelso  já  se  compreendeu  que  “há  violação  ao  art.  185  do  Código  de  Processo  Penal  quando  o  réu  não  é
+interrogado,  mesmo  que  preso  no  período  que  medeia  entre  a  lavratura  da  sentença  e  o  julgamento  da  apelação,  até  porque  o
+interrogatório é meio de prova”
+49
+.
+b)  Ato  personalíssimo  do  imputado:  Somente  o  imputado  é  que  pode  e  deve  ser  interrogado,  não  sendo  possível  sua
+representação, substituição ou sucessão neste ato por qualquer pessoa. E se o acusado não possuir condições mentais para ser
+interrogado? Neste caso, é preciso distinguir duas hipóteses:
+A incapacidade sobreveio à prática da infração penal: neste caso, não há falar em interrogatório do acusado em face da
+regra  inscrita  no  art.  152  do  CPP,  segundo  a  qual  a  doença  mental  superveniente  à  infração  penal  faz  com  que  o
+processo criminal permaneça paralisado até que se restabeleça o imputado ou, acrescentamos, até que prescreva o crime
+atribuído, visto que a fluência do prazo prescricional não ficará suspensa nesse interregno.
+A  incapacidade  mental  do  acusado  preexistia  ao  tempo  da  infração  penal:  dispõe  o  art.  151  do  CPP  que,  nesta
+situação, o processo criminal terá prosseguimento, assistido o acusado por curador (na prática, o seu próprio advogado
+ou, caso não possua, outro nomeado pelo juízo). Não possuindo o r
+[/PAGINA 545]
+
+[PAGINA 546]
+éu condições de se expressar validamente perante o
+juiz, restará prejudicado o ato, não sendo lícito, por exemplo, que se realize o interrogatório na pessoa do curador que
+lhe  foi  nomeado.  Caberá,  então,  ao  juiz  “ordenar  o  prosseguimento  da  ‘persecutio  criminis’,  com  a  presença  do
+mencionado  curador,  que  atuará,  ressalvados  os  atos  de  caráter  personalíssimo,  como  representante  do  imputado  nos
+demais atos processuais”
+50
+.
+c) Oralidade: A regra é que seja o interrogatório realizado por meio de perguntas e respostas orais. Entretanto, tal oralidade
+não  chega  a  ser  essencial  ao  ato,  tanto  que  o  próprio  Código  prevê  exceções  a  esta  característica  nos  arts.  192  e  193,  ao
+estabelecer normatização própria para o interrogatório do surdo, do mudo, do surdo-mudo e do estrangeiro.
+Assim, ao acusado surdo serão as perguntas apresentadas por escrito e ele as responderá oralmente. Ao mudo, as perguntas
+serão  feitas  oralmente,  e  as  respostas  dadas  por  escrito.  No  caso  de  surdo-mudo,  tanto  as  perguntas  como  as  respostas  serão
+escritas.  Caso,  além  de  portador  de  deficiência,  seja  analfabeto  o  interrogado,  poderá  servir  de  intérprete,  sob  compromisso,
+pessoa habilitada e nomeada pelo juízo (art. 192, parágrafo único, do CPP).
+Caso  o  interrogado  não  fale  a  língua  nacional,  deverá  o  magistrado,  igualmente,  proceder  à  nomeação  de  tradutor.  E se o
+magistrado  conhecer  o  idioma  do  réu?  Mesmo  assim  a  figura  do  tradutor,  sob  compromisso,  faz-se  necessária  em  face  dos
+termos  expressos  e  inequívocos  do  art.  193  do  CPP  (“Quando  o  interrogando  não  falar  a  língua  nacional,  o  interrogatório  será
+feito por meio de intérprete”).
+
+8.11.3
+Observamos,  por  fim,  que  na  dicção  atual  do  Código  de  Processo  Penal,  aboliu--se,  em  face  da  Lei  10.792/2003,  a  regra
+constante da antiga redação do art. 195 no sentido de que as respostas do acusado seriam ditadas pelo juiz. Tal ocorreu em razão
+do  avanço  tecnológico,  sendo  comum  a  utilização  em  audiências  do  método  da  estenotipia  ou  de  registros  eletrônicos
+posteriormente degravados por servidor do juízo, incorporando a reprodução fiel de todas as falas havidas no ato judicial.
+Relevante, outrossim, que tenha o magistrado a atenção necessária quanto ao comportamento do interrogado, consignando
+no termo eventuais reações anômalas que, no curso do ato, venha ele a externar como, por exemplo, se vacila ou se demonstra
+firmeza em responder a determinado aspecto relevante, se revela arrependimento ou frieza quanto ao ato delituoso praticado e até
+mesmo evidências físicas (v.g., sudorese ou rubor).
+d) Publicidade:  O  interrogatório,  em  regra,  será  um  ato  público,  podendo  qualquer  pessoa  assistir  a  ele.  Destina-se  esta
+publicidade  à  comprovação  de  que  as  declarações  do  réu  foram  prestadas  espontaneamente,  sem  nenhuma  forma  de  pressão.
+Entretanto,  s
+[/PAGINA 546]
+
+[PAGINA 547]
+e  da  publicidade  do  interrogatório  (assim  como  de  qualquer  audiência  judicial)  puder  resultar  escândalo,
+inconveniente  grave  ou  perigo  de  perturbação  da  ordem,  o  juiz  poderá,  de  ofício  ou  a  requerimento  da  parte  ou  do  Ministério
+Público, determinar que o ato seja realizado a portas fechadas, limitando o número de pessoas que possam estar presentes.
+e) Individualidade: Na hipótese de existirem dois ou mais réus no mesmo processo, não permite o Código o interrogatório
+conjunto.  Será  preciso,  conforme  a  redação  do  art.  191,  que  proceda  o  magistrado  ao  interrogatório  em  separado,  não  sendo
+possível sequer que um assista ao interrogatório do outro, mesmo que já tenha sido interrogado. Isso é importante tendo em vista
+que, havendo, eventualmente, versões contraditórias, poderá o juiz acareá-los, prova esta que restaria sem nenhuma eficácia caso
+um dos acusados tivesse assistido à versão do outro.
+f) Faculdade de perguntas pela acusação e defesa:  Anteriormente  à  alteração  introduzida  ao  Código  de  Processo  Penal
+pela Lei 10.792/2003, considerava-se o interrogatório como ato personalíssimo do juiz em razão da circunstância de que, além
+dos questionamentos determinados pela antiga redação do art. 188 (hoje correspondente ao art. 187), unicamente ao magistrado
+cabia  eleger  as  perguntas  a  serem  realizadas  ao  interrogado.  Na  atualidade,  o  art.  188  do  CPP  passou  a  contemplar  às  partes  a
+faculdade  de  realizarem  questionamentos  ao  acusado  (“após  proceder  ao  interrogatório,  o  juiz  indagará  das  partes  se  restou
+algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante”).
+De qualquer sorte, a par desta alteração introduzida ao Código, cabe lembrar que as intervenções realizadas ao interrogado
+pelas  partes  deverão  ser  feitas  por  intermédio  do  juiz,  o  qual  poderá  indeferir  determinadas  perguntas  se  as  entender
+impertinentes  (sem  nenhuma  relação  com  o  fato  investigado)  ou  irrelevantes  (relativas  ao  fato  apurado,  mas  sem  nenhuma
+importância no respectivo esclarecimento). Mantém-se, então, aqui, o sistema presidencialista de inquirição. Atente-se, porém,
+que, no interrogatório realizado no curso do julgamento pelo júri, as perguntas serão realizadas diretamente ao réu pela acusação
+e  pela  defesa  (art.  474,  §  1.º).  Já  quanto  a  eventuais  indagações  dos  jurados  ao  acusado  permanece  a  sistemática  de  que  sejam
+feitas por intermédio do juiz (art. 474, § 2.º).
+Interrogatório no curso do processo:
+1.º) Juiz efetua ao acusado perguntas, na forma do que dispõe o art. 187 do CPP;
+2.º) Acusação poderá realizar perguntas ao réu por meio do juiz (art. 188 do CPP);
+3.º) Defesa poderá realizar perguntas ao réu por meio do juiz (art. 188 do CPP).
+Interrogatório durante a sessão de julgamento pelo júri (art. 474 do CPP):
+1.º) Juiz efetua perguntas ao réu;
+2.º) Acusação poderá realizar per
+[/PAGINA 547]
+
+[PAGINA 548]
+guntas ao réu, dirigindo-se a ele diretamente;
+3.º) Defesa poderá realizar perguntas ao réu, dirigindo-se a ele diretamente;
+4.º) Jurados poderão realizar perguntas ao réu por meio do juiz.
+Natureza jurídica
+Até  o  advento  da  Lei  10.792/2003,  três  posições  existiam  acerca  da  natureza  jurídica  do  interrogatório,  a  saber:  meio  de
+prova, meio de defesa e, por fim, meio de prova e meio de defesa.
+Ingressando  em  vigor  a  referida  lei,  consolidou-se  o  entendimento  de  que  o  interrogatório,  embora  não  tenha  perdido  sua
+natureza  de  meio  de  prova  –  tanto  que  permanece  inserido  no  capítulo  pertinente  às  provas  no  Código  de  Processo  Penal  –,
+assume, predominantemente, a condição de meio de defesa, entendimento este coerente com o que já sinalava o art. 5.º, LXIII,
+da  CF,  ao  garantir  ao  réu  o  direito  de  permanecer  calado,  e  com  as  alterações  introduzidas  ao  Capítulo  III  do  Título  VII  do
+
+8.11.4
+8.11.5
+Código no sentido de tornar obrigatória a presença  de  defensor  e  facultar  ao  acusado  o  direito  de  entrevista  prévia  e  reservada
+com seu advogado.
+Obrigatoriedade de assistência por advogado
+Até  dezembro  de  2003,  havia  controvérsias  sobre  a  imprescindibilidade  ou  não  da  presença  de  advogado  no  ato  do
+interrogatório. Embora parcela jurisprudencial minoritária entendesse necessária essa assistência, a verdade é que não havia regra
+processual  obrigando  a  tanto,  ressalvada  a  previsão  do  art.  194  do  CPP,  este,  sim,  exigindo  a  presença  de  curador  (que  não
+passava da figura do advogado) ao réu que tivesse idade inferior a 21 anos.
+A partir da alteração do Código pela Lei 10.792/2003, a presença de defensor no ato do interrogatório do réu passou a ser
+considerada  obrigatória,  sob  pena  de  nulidade  absoluta.  Destarte,  considerando  a  atual  redação  do  art.  185,  caput,  do  CPP,
+alterado  pela  Lei  10.792/2003,  ausente  advogado  constituído  pelo  réu,  impõe-se  ao  juiz  nomear  um  para  assisti-lo,  restando
+revogada, expressamente, a referida regra do art. 194 do CPP e prejudicados, em consequência, o art. 262 e a parte final da alínea
+c do inciso III do art. 564 do CPP, dispondo sobre a nulidade por falta desse curador ao menor de 21 anos. Enfim, o fator etário
+não  apresenta  mais  nenhuma  relevância,  sendo  imprescindível  a  presença  de  defensor  no  interrogatório  independentemente  da
+idade do interrogado.
+Tendo em vista que o art. 6.º, V, do CPP, ao tratar do interrogatório policial, estabelece que este obedecerá às formalidades
+do interrogatório judicial, no que for aplicável, questionam alguns acerca da necessidade de advogado, também, nessa fase. Na
+esteira da imensa maioria doutrinária e jurisprudencial, entendemos negativamente, vale dizer, que na fase policial é totalmente
+prescindível  a  figura  do  defensor  no  interrogatório  do  investigado  (salvo  nas  hipóteses  de  flagrante,  quando  esse  direito  é
+c
+[/PAGINA 548]
+
+[PAGINA 549]
+onstitucionalmente  assegurado).  A  razão  dessa  posição  é  óbvia:  o  inquérito  policial  é  inquisitorial,  destinando-se  a  fornecer
+elementos  à  acusação  pública  ou  privada.  Não  há,  nessa  fase,  presente  a  garantia  constitucional  da  ampla  defesa  e  do
+contraditório. Nessa mesma linha, entendemos, igualmente, prejudicada a regra do art. 15 do CPP, que prevê a figura de curador
+ao  interrogando  menor  de  21  anos  na  fase  do  inquérito.  E  isso  porque  a  razão  da  exigência  residia  no  hiato  existente  entre  a
+maioridade  civil  e  a  penal.  Hoje,  dispondo  o  Código  Civil  que  a  maioridade  civil  coincide  com  a  penal  aos  18  anos  de  idade,
+parece evidente que restou prejudicada, completamente, a citada regra do art. 15 do Código. Em suma, na fase policial, não serão
+necessários nem advogado tampouco curador, independentemente da idade do investigado (desde, é claro, que maior de 18 anos,
+visto  que  os  procedimentos  relativos  ao  ato  infracional  praticado  por  criança  e  por  adolescente  obedecem  a  regras  próprias,
+ditadas pela Lei 8.069/1990).
+Direito de entrevista pessoal e reservada
+O  art.  185,  §  5.º,  1.ª  parte,  do  CPP  assegura  ao  réu,  antes  do  início  de  seu  interrogatório,  o  direito  de  entrevistar-se
+reservadamente com seu advogado. Objetivou o legislador, com isso, facultar ao imputado um último contato com o defensor, a
+fim de que possa receber as devidas orientações sobre a postura que deve adotar por ocasião de seu depoimento ao juiz.
+Considerando  a  amplitude  do  §  5.º,  que  se  refere  a  qualquer  modalidade  de  interrogatório,  detecta-se  que  o  direito  de
+entrevista deve ser assegurado tanto ao réu preso como ao solto, não importando, ainda, se é o caso de ato realizado no próprio
+juízo em que tramita o processo criminal ou por meio de carta precatória. Irrelevante, também, que se trate de hipótese em que
+presente  advogado  constituído  pelo  réu  ou  nomeado  pelo  juiz  para  acompanhar  a  audiência,  já  que  a  lei  não  faz  nenhuma
+distinção  neste  sentido.  Evidentemente,  ao  interrogatório  realizado  no  âmbito  do  inquérito  policial  não  se  aplica  o  disposto  no
+referido  §  5.º  do  art.  185  do  CPP,  primeiro  porque  o  dispositivo  é  expresso  ao  referir  que  o  juiz  garantirá  ao  réu  o  direito  de
+entrevista prévia e reservada, deixando claro tratar-se de faculdade inerente ao interrogatório judicial; e, segundo, porque esse
+direito outorgado à defesa é corolário das garantias do contraditório e da ampla defesa, as quais não incidem na fase do inquérito,
+que possui natureza inquisitorial.
+O Código não estabelece o tempo que deva ser facultado pelo magistrado para o exercício do direito de entrevista. Deverá,
+contudo,  ser  um  lapso  razoável,  capaz  de  permitir  o  mínimo  de  efetividade  no  contato  entre  réu  e  advogado,  considerando-se,
+muito especialmente, a gravidade e o número de infrações imputadas
+[/PAGINA 549]
+
+[PAGINA 550]
+no processo.
+Quanto  à  natureza  da  nulidade  consequente  à  eventual  não  concessão  desse  direito,  tem-se  percebido  a  tendência  dos
+Tribunais  em  considerá-la  relativa,  e  não  absoluta.  Desse  modo,  o  vício  não  será  capaz  de  acarretar,  por  si  só,  a  nulidade  do
+processo, exigindo-se, para tanto, além da arguição oportuna, a demonstração de efetivo prejuízo para a defesa, de acordo com o
+princípio pas de nullité sans grief, adotado pelo art. 563 do Código de Processo Penal
+51
+.
+E  quando  se  tratar  de  interrogatório  que  deva  ser  realizado  mediante  videoconferência  ou  outro  sistema  análogo?  Essa
+modalidade de interrogatório encontra-se autorizada no art. 185, § 2.º, do CPP, podendo ser utilizada se ocorrentes as hipóteses
+
+•
+•
+•
+•
+8.11.6
+8.11.7
+contempladas nos seus incisos I a IV, quais sejam:
+Prevenir risco à segurança pública quando se tratar do interrogatório de réu suspeito de integrar organização criminosa, ou
+se houver risco de fuga;
+Viabilizar  a  participação  do  acusado  no  interrogatório  caso  haja  dificuldade  de  seu  comparecimento  por  motivo  de
+enfermidade ou outra circunstância pessoal;
+Evitar a interferência do réu no ânimo de testemunhas ou ofendido; e, por fim,
+Se questões gravíssimas de ordem pública o exigirem.
+Considerando que, nestes casos, tanto junto ao réu, no local em que se encontra preso, como no fórum, perante o magistrado
+que preside o interrogatório on-line, deverá haver advogado presente, infere-se do art. 185, § 5.º, 2.ª parte, que a efetivação do
+direito  à  orientação  profissional  deverá  ocorrer  não  apenas  facultando-se  o  contato  prévio  entre  o  réu  e  o  defensor  que  o  está
+acompanhando  no  estabelecimento  prisional,  como  também  mediante  a  disponibilização  de  linhas  telefônicas  reservadas para
+comunicação entre o defensor que esteja no presídio e o advogado presente na sala de audiência do fórum, e entre este último e o
+interrogando  preso.  Tratando-se  de  canal  reservado  de  comunicação,  como  reza  o  artigo,  qualquer  interceptação  que  seja  feita
+em relação a essas conversas, ainda que com ordem judicial, será prova ilícita, em face da violação tanto ao direito de defesa que
+se busca assegurar com tal ordem de contato como à garantia da intimidade que decorre da relação advogado x cliente.
+Em síntese:
+Direito ao silêncio (privilégio nemo tenetur se detegere)
+Nos  termos  do  art.  186  do  CPP,  antes  de  iniciar  o  interrogatório,  deverá  o  juiz  advertir  o  acusado  de  seu  direito  de
+permanecer calado, sendo que tal silêncio, não importando em confissão, não poderá ser interpretado em prejuízo de sua defesa.
+Essa garantia, prevista ao interrogatório judicial, tem igual aplicação ao interrogatório policial, conforme dispõe o art. 6.º, V, do
+CPP.
+Importante referir que essa previsão legislativa decorreu de alteração introduzida pela Lei 10.792/2003, pois, anteriormente,
+dispunha  o  Código,  no  mesmo  artigo,  que  o
+[/PAGINA 550]
+

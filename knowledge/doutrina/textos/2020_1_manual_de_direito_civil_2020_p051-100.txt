@@ -1,0 +1,2586 @@
+[META]
+TITULO: 2020 1 Manual de Direito Civil 10ª
+AUTOR: Desconhecido
+ANO: 2020
+EDICAO: N/A
+EDITORA: N/A
+PAGINAS: 51-100
+ARQUIVO_ORIGINAL: 2020_1_Manual_de_Direito_Civil_10ª.pdf
+CITACAO_ABNT: 2020 1 Manual de Direito Civil 10ª. 2020.
+[/META]
+
+[PAGINA 51]
+ação
+Pública,  “pois  o  seu  objetivo  foi,  em  síntese,  implantar  um  ambiente  de
+menor  instabilidade  interpretativa  para  os  agentes  públicos  e  para  os  atos
+administrativos,  os  quais  sambam  nas  asas  vacilantes  das  surpresas
+provocadas  pela  superveniência  de  interpretações  jurídicas  advindas
+especialmente de órgãos de controle”.
+41
+O autor divide a norma em três grupos temáticos, o que serve muito bem
+para  resumir  o  seu  conteúdo.  O  primeiro  diz  respeito  à  clareza  normativa
+(arts.  29  e  30).  O  segundo  à  responsabilização  do  agente  por  infração
+hermenêutica (arts. 22 e 28). O terceiro grupo está relacionado à invalidade
+de ato administrativo, o que ele fraciona em quatro subgrupos: a) princípio da
+motivação concreta (arts. 20 e 21, caput); b) regime de transição (art. 23),
+princípio da menor onerosidade da regularização (art. 21, parágrafo único) e
+irregularidade sem pronúncia de nulidade (art. 21, parágrafo único, e art. 22,
+caput e § 1.º); c) convalidação por compromisso com ou sem compensações
+(arts. 26 e 27); e d) invalidade referencial (art. 24 da LINDB).
+Quanto à busca da segurança hermenêutica, isso já fica claro pelo teor
+do novo art. 20 da Lei de Introdução, que consagra o dever de motivação
+concreta e a responsabilidade decisória dos gestores dos interesses públicos
+ao  julgarem  sobre  questões  que  lhe  são  levadas  a  análise.  Conforme  o
+preceito, nas esferas administrativa, controladora e judicial não se decidirá
+com  base  em  valores  jurídicos  abstratos  sem  que  sejam  consideradas  as
+consequências  práticas  da  decisão.  Sendo  assim,  havendo  decisão
+administrativa  baseada  em  conceitos  legais  indeterminados  ou  cláusulas
+gerais – construções que ainda serão abordadas nesta obra –, é necessária a
+verificação  das  suas  consequências  não  só  para  o  caso  concreto,  como
+também para a sociedade.
+O  mesmo  art.  20  da  Lei  de  Introdução  estabelece,  em  seu  parágrafo
+único, que a motivação demonstrará a necessidade e a adequação da medida
+imposta  ou  da  invalidação  de  ato,  contrato,  ajuste,  processo  ou  norma
+administrativa, inclusive em face das possíveis alternativas. Vale lembrar que
+
+o dever de motivação das decisões  também  consta  do  art.  93,  inc.  IX,  da
+Constituição  Federal  de  1988  e  do  Código  de  Processo  Civil  de  2015,
+sobretudo no seu art. 489, sendo clara a influência do Estatuto Processual
+emergente  para  o  diploma  em  estudo.  Além  da  motivação,  ampara-se  a
+necessidade  de  análise  do consequencialismo da decisão administrativa,  o
+que  foi  influenciado  por  juristas  que  atuaram  na  elaboração  da  lei,
+especialmente  da  Faculdade  de  Direito  da  USP  e  da  Escola  de  Direito  da
+Fundação Getulio Vargas (FGV).
+No  mesmo  sentido  de  valorizar  o consequencialismo,  o  art.  21  da
+LINDB estabelece que a decisão que, nas esferas administrativa, controladora
+ou judicial, decretar a invalidação de ato, cont
+[/PAGINA 51]
+
+[PAGINA 52]
+rato, ajuste, processo ou norma
+administrativa deverá indicar de modo expresso suas consequências jurídicas
+e administrativas. Também está previsto no preceito que essa decisão deverá,
+quando for o caso, apontar as condições para que a regularização ocorra de
+modo  proporcional  e  equânime  e  sem  prejuízo  aos  interesses  gerais.  A
+decisão também não poderá impor aos sujeitos atingidos ônus ou perdas que,
+em  função  das  peculiaridades  do  caso,  sejam  anormais  ou  excessivos
+(princípio da menor onerosidade da regularização).
+A afirmação do consequencialismo, como não poderia ser diferente, é
+passível de críticas, uma vez que se ratifica a premissa segundo a qual os fins
+justificam  os  meios  e  o utilitarismo  decisório.  Levadas  às  últimas
+consequências,  tais  afirmações  podem  representar  o  sacrifício  de  direitos
+fundamentais e de personalidade, bem como da tutela da pessoa humana.
+O art. 22 da LINDB traz regra de hermenêutica ou interpretação relativa
+às normas sobre gestão pública, devendo ser considerados os obstáculos e as
+dificuldades reais do gestor e as exigências das políticas públicas a seu cargo,
+sem  prejuízo  dos  direitos  dos  administrados.  Valoriza-se  a primazia  da
+realidade,  em  especial  as  dificuldades  que  podem  ser  enfrentadas  pelos
+agentes públicos em suas decisões interpretativas. Nos termos do seu § 1.º,
+em decisão sobre regularidade de conduta ou validade de ato, contrato, ajuste,
+processo  ou  norma  administrativa,  serão  consideradas  as  circunstâncias
+práticas que houverem imposto, limitado ou condicionado a ação do agente.
+Há,  assim,  a  possibilidade  de  reconhecimento  da  irregularidade  do  ato
+público sem a decretação de nulidade, o que também é retirado do parágrafo
+único do novo art. 21 da LINDB, como bem explica Carlos Eduardo Elias de
+Oliveira, com interessante exemplo para ilustrar:
+
+“Ainda à luz desse princípio, será permitido até mesmo que o ato
+irregular seja preservado, diante da elevada gravidade concreta das
+consequências  práticas  da  sua  invalidação.  Isso  está  implícito  no
+parágrafo  único  do  art.  21  da  LINDB,  que  proíbe  que  a
+regularização decorrente da invalidação de um ato cause ônus ou
+perdas  anormais  ou  excessivas  aos  sujeitos  atingidos  (tanto  a
+Administração  Pública  quanto  os  particulares  envolvidos).  Se  a
+invalidade  de  um  ato  irregular  gerar  prejuízos  excessivos,  o  ato
+irregular deverá ser preservado. Nesse caso, será admitido o que
+batizamos  de  declaração  de  irregularidade  sem  pronúncia  de
+invalidade.
+Em verdade, ‘nada há de novo debaixo do sol’. Essa situação de
+conservação  de  atos  irregulares  já  é  conhecida,  por  exemplo,  no
+Direito Constitucional, no seio do qual é admitida a declaração de
+inconstitucionalidade de uma lei sem pronúncia de nulidade, e no
+Direito  Civil,  em  que  o  princípio  da  conservação  do  negócio
+jurídico e outros conceitos – como o de propriedade aparente e o de
+usucapião – pr
+[/PAGINA 52]
+
+[PAGINA 53]
+eservam as situações fático-jurídicas criadas por atos
+jurídicos irregulares.
+A  título  ilustrativo,  se  um  contrato  administrativo  destinado  à
+construção  de  um  prédio  de  seis  andares  vem  a  ser  considerado
+irregular  pelo  Tribunal  de  Contas  em  razão  da  falta  de  licitação
+prévia,  é  dever  da  Corte  de  Contas  avaliar  as  consequências
+concretas de eventual pronúncia de invalidade do ato e caminhar
+para adotar a solução menos onerosa para a Administração Pública
+e também para a empresa contratada, que, no exemplo – suponha-
+se  –,  está  de  boa-fé.  O  órgão  de  controle  poderá,  por  exemplo,
+deixar  de  pronunciar  a  nulidade  se  constatar  que  os  prejuízos
+financeiros serão demasiadamente elevados e que as obras já estão
+perto de findar-se (declaração de irregularidade sem pronúncia de
+nulidade).  Poderá  também  pronunciar  a  invalidade,  mas
+estabelecendo um ‘regime de transição’ em razão do qual uma nova
+empresa,  escolhida  após  uma  licitação,  assumiria  a  continuidade
+das  obras.  Nesse  caso,  a  empresa  originariamente  contratada
+continuaria com a construção até ser substituída pela nova empresa,
+pois  isso  evitaria  desperdício  de  materiais  de  construção  já
+comprados, deterioração do esqueleto da construção por conta do
+
+abandono da obra e gastos com multas em razão do rompimento de
+contratos  (regime  de  transição).  Seja  como  for,  o  Tribunal  de
+Contas  deverá,  nesse  caso,  buscar  a  solução  menos  onerosa
+(princípio da menor onerosidade da regularização)”.
+42
+Além disso, na aplicação de sanções, serão considerados a natureza e a
+gravidade  da  infração  cometida,  os  danos  que  dela  provierem  para  a
+administração  pública,  as  circunstâncias  agravantes  ou  atenuantes  e  os
+antecedentes  do  agente  (§  2.º  do  art.  22  da  LINDB).  Por  fim,  a  norma
+determina que as sanções aplicadas ao agente público serão levadas em conta
+na dosimetria das demais sanções de mesma natureza e relativas ao mesmo
+fato (§ 3.º).
+Sobre o regime de transição, o novo art. 23 da Lei de Introdução dispõe
+que  a  decisão  administrativa,  controladora  ou  judicial  que  estabelecer
+interpretação  ou  orientação  nova  sobre  norma  de  conteúdo  indeterminado,
+impondo  novo  dever  ou  novo  condicionamento  de  direito,  deverá  prever
+regime  de  transição  quando  indispensável  para  que  o  novo  dever  ou
+condicionamento de direito seja cumprido de modo proporcional, equânime e
+eficiente e sem prejuízo aos interesses gerais. O objetivo é de não surpreender
+o agente público, o que representa aplicação da boa-fé objetiva no plano dos
+atos administrativos. Há aqui outra influência do CPC/2015, em especial do
+seu  art.  927,  §  3.º, in verbis:  “na  hipótese  de  alteração  de  jurisprudência
+dominante  do  Supremo  Tribunal  Federal  e  dos  tribunais  superiores  ou
+daquela oriunda de julgamento de casos repetitivos, pode haver modulação
+dos efeitos da alteração no interesse social e
+[/PAGINA 53]
+
+[PAGINA 54]
+no da segurança jurídica”.
+A invalidade referencial está prevista no art. 24 da LINDB, uma vez que
+a  revisão,  nas  esferas  administrativa,  controladora  ou  judicial,  quanto  à
+validade  de  ato,  contrato,  ajuste,  processo  ou  norma  administrativa  cuja
+produção já se houver completado, levará em conta as orientações gerais da
+época,  sendo  vedado  que,  com  base  em  mudança  posterior  de  orientação
+geral, se declarem inválidas situações plenamente constituídas. A expressão
+referencial,  portanto,  é  utilizada  pela  necessidade  de  verificar  as  normas
+vigentes à época do reconhecimento da invalidade, na contramão do que está
+previsto  no  art.  2.035, caput,  do  Código  Civil  de  2002:  “a  validade  dos
+negócios e demais atos jurídicos, constituídos antes da entrada em vigor deste
+Código, obedece ao disposto nas leis anteriores, referidas no art. 2.045, mas
+os seus efeitos, produzidos após a vigência deste Código, aos preceitos dele
+
+se subordinam, salvo se houver sido prevista pelas partes determinada forma
+de  execução”.  Como  se  pode  notar,  o  diploma  civil  transcrito  consagra  a
+observação, quanto à validade dos atos e negócios jurídicos, das normas do
+momento da celebração do ato, e não do momento da decisão.
+No tocante às orientações gerais da época que devem ser consideradas, o
+parágrafo único do mesmo art. 24 da Lei de Introdução enuncia que essas são
+as interpretações e especificações contidas em atos públicos de caráter geral
+ou  em  jurisprudência  judicial  ou  administrativa  majoritária,  e  ainda  as
+adotadas  por  prática  administrativa  reiterada  e  de  amplo  conhecimento
+público.
+O art. 26 da LINDB institui a convalidação do ato administrativo por
+compromisso  sem  compensações.  Conforme  a  sua  dicção,  “para  eliminar
+irregularidade,  incerteza  jurídica  ou  situação  contenciosa  na  aplicação  do
+direito  público,  inclusive  no  caso  de  expedição  de  licença,  a  autoridade
+administrativa  poderá,  após  oitiva  do  órgão  jurídico  e,  quando  for  o  caso,
+após realização de consulta pública, e presentes razões de relevante interesse
+geral,  celebrar  compromisso  com  os  interessados,  observada  a  legislação
+aplicável, o qual só produzirá efeitos a partir de sua publicação oficial”. A
+menção à consulta pública é louvável dentro do regime democrático, com a
+participação  de  especialistas  escolhidos  dentre  os  membros  da  sociedade
+brasileira.
+Como compromisso entenda-se um acordo em que as partes assumem
+deveres perante o Poder Público e que devem ser cumpridos posteriormente.
+Não há, assim, um contrato de compromisso, que conduz à arbitragem, como
+consta dos arts. 851 a 853 do Código Civil e da Lei 9.307/1996. A norma
+emergente  também  estabelece  que  esse  compromisso: a)  buscará  solução
+jurídica  proporcional,  equânime,  eficiente  e  compatível  com  os  interesses
+gerais; b)  não  poderá  conferir  desoneração  permanente  de  dever  ou
+condicionamento  de  direito
+[/PAGINA 54]
+
+[PAGINA 55]
+reconhecidos  por  orientação  geral;  e c) deverá
+prever com clareza as obrigações das partes, o prazo para seu cumprimento e
+as sanções aplicáveis em caso de descumprimento.
+Na  sequência,  consagra-se  a convalidação  do  ato  administrativo  por
+compromisso  e  com  compensações,  eis  que  “a  decisão  do  processo,  nas
+esferas administrativa, controladora ou judicial, poderá impor compensação
+por  benefícios  indevidos  ou  prejuízos  anormais  ou  injustos  resultantes  do
+processo ou da conduta dos envolvidos” (art. 27 da LINDB). Aqui, tem-se
+sim o instituto privado previsto entre os arts. 368 a 380 do Código Civil, ou
+
+seja, a compensação, forma de extinção das obrigações que gera a extinção de
+dívidas mútuas ou recíprocas até o ponto que se encontrarem.
+Sem  prejuízo  da  observância  dos  rígidos  requisitos  da  compensação
+legal, estudados no Capítulo 3 deste livro, a LINDB passou a estabelecer que
+decisão sobre a compensação será motivada, ouvidas previamente as partes
+sobre seu cabimento, sua forma e, se for o caso, seu valor (art. 27, § 1.º).
+Além disso, para prevenir ou regular a compensação, poderá ser celebrado
+compromisso  processual  entre  os  envolvidos  (art.  27,  §  2.º).  Esse
+compromisso  processual  parece  ter  a  natureza  de  um  negócio  jurídico
+processual  (arts.  190  e  191  do  CPC/2015),  o  que  até  pode  incluir  a
+arbitragem, nos termos das alterações da Lei 9.307/1996 engendradas pela
+Lei 13.129/2015.
+Quanto à efetividade dessa convalidação com compensações, tem razão
+Carlos Eduardo Elias de Oliveira quando afirma que:
+“A compensação é instituto fadado ao ostracismo, pois a falta de
+parâmetros  detalhados  de  como  as  negociações  podem  ser
+implementadas  causará  receio  fundado  nos  agentes  públicos  de
+futuramente  serem  responsabilizados  por  mal-entendidos  com
+órgãos  de  controle.  Dificilmente  algum  advogado  público  dará
+parecer  favorável  a  qualquer  espécie  de  acordo,  pois,  como  o
+regime  atual  acaba  deixando  a  certeza  hermenêutica  nas  mãos
+futuras dos órgãos de controle externo – que ainda prosseguem a
+responsabilizar  advogados  públicos  –,  o  receio  de  futura
+divergência  de  entendimento  inibirá  os  advogados  públicos.  O
+TCU,  por  exemplo,  já  responsabilizou  advogado  público  por  ter
+dado  parecer  favorável  a  acordo  extrajudicial  que  foi  tido  como
+desvantajoso  para  a  União,  conforme  este  julgado,  resumido  no
+seguinte enunciado: ‘Advogado público é responsabilizado quando
+emite  parecer  favorável  à  homologação  judicial  em  acordo
+extrajudicial, em condições excessivamente onerosas à União e em
+detrimento de sentença mais vantajosa aos cofres públicos’”.
+43
+A  propósito  da  responsabilização  do  agente  público  por  infração  às
+normas  de  interpretação  (infração hermenêutica),  inclusive  quanto  ao  seu
+eventual  dever  de  indenizar,  o  art.  28  da  LINDB  traz  um  regime
+excessivamente  protetivo,  ao  preceituar  que
+[/PAGINA 55]
+
+[PAGINA 56]
+esse  responderá  pessoalmente
+
+por suas decisões ou opiniões técnicas em caso de dolo ou erro grosseiro. O
+último conceito deve ser entendido como culpa grave, havendo na norma a
+confirmação  da  antiga  máxima  segundo  a  qual  essa  se  equipara  ao  dolo
+(culpa lata dolus aequiparatur). O dispositivo também parece trazer a regra a
+ser  aplicada  para  a  responsabilidade  regressiva  do  agente  público,  caso
+acionado pelo Estado, que responde objetivamente ou sem culpa perante o
+particular,  nos  termos  do  art.  37,  §  6.º,  da  Constituição  Federal  de  1988.
+Nota-se  mais  uma  vez  um  claro  objetivo  de  dar  segurança  à  atuação  dos
+agentes públicos, em detrimento dos interesses das vítimas e dos prejudicados
+pelos seus atos. A norma merece maiores reflexões, que serão expostas nas
+edições sucessivas deste livro.
+Como penúltimo comando a ser comentado, o art. 29 da LINDB prevê
+que, em qualquer órgão ou poder, a edição de atos normativos por autoridade
+administrativa, salvo os de mera organização interna, poderá ser precedida de
+consulta  pública  para  manifestação  de  interessados,  preferencialmente  por
+meio eletrônico, a qual será considerada na decisão. Louvam-se novamente a
+possibilidade  de  consulta  pública  e  a  valorização  da  transparência  e  da
+clareza normativa.
+O mesmo se diga quanto ao último preceito da LINDB, ao estabelecer
+que as autoridades públicas devem atuar para aumentar a segurança jurídica
+na  aplicação  das  normas,  inclusive  por  meio  de  regulamentos,  súmulas
+administrativas  e  respostas  a  consultas  (art.  30).  Esses  instrumentos  terão
+caráter vinculante em relação ao órgão ou entidade a que se destinam, até
+ulterior  revisão,  sendo  perceptível  novamente  a  influência  do  CPC/2015,
+agora quanto ao caráter vinculativo das decisões.
+Como se pode perceber, de fato, as novas regras têm como escopo o
+Direito Público e a atuação de seus agentes. No futuro, contudo, sem prejuízo
+do que consta do Código de Processo Civil de 2015 – que consagra muitas
+dessas ideias –, tais preceitos podem eventualmente influenciar as tomadas de
+decisões no âmbito do Direito Privado. Em seu texto aqui tão citado, Carlos
+Eduardo Elias de Oliveira segue essa linha e aponta algumas possibilidades
+de a norma emergente influenciar as decisões dos notários e registradores, e a
+sua  eventual  responsabilização  civil,  como  no  caso  da  cobrança  de
+emolumentos. Fica a sugestão de leitura do artigo citado, disponível no meu
+endereço eletrônico, para as devidas reflexões.
+44
+
+____________________
+1
+ Ver, por exemplo: FIUZA, Ricardo; TAVARES DA SILVA, Regina Beatriz. Código
+Civil comentado. 6. ed. São Paulo: Saraiva, 2008. p. XXXIII-LVIII. Os comentários feitos
+à Lei de Introdução nesta obra são de Zeno Veloso e Maria Helena Diniz.
+2
+ LOPES, Miguel Maria de Serpa. Lei de Introdução ao Código Civil. Rio de Janeiro:
+Freitas Bastos, 1959. v. 1, p. 8.
+3
+  AGRA,  Walber  de  Moura. Curso  de  direito  constitucional.
+[/PAGINA 56]
+
+[PAGINA 57]
+4.  ed.  Rio  de  Janeiro:
+Forense, 2008. p. 500.
+4
+ TELLES JR., Goffredo. Direito quântico. 7. ed. São Paulo: Juarez de Oliveira, p. 263-
+297.
+5
+  BARROS,  Sérgio  Resende  de. Contribuição  dialética  para  o  constitucionalismo.
+Campinas: Millenium, 2008. p. 140.
+6
+  VELOSO,  Zeno. Comentários  à  Lei  de  Introdução  ao  Código  Civil.  2.  ed.  Belém:
+Unama, 2006. p. 21.
+7
+ MÔNACO, Gustavo Ferraz de Campos. Código Civil interpretado. Coord. Silmara Juny
+Chinellato. 3. ed. São Paulo: Manole, 2010. p. 3.
+8
+ Assim se posiciona: MÔNACO, Gustavo Ferraz de Campos. Código Civil interpretado.
+Coord. Silmara Juny Chinellato. 3. ed. São Paulo: Manole, 2010. p. 6.
+9
+  Pela teoria  da  presunção:  RODRIGUES,  Silvio. Direito  civil.  24.  ed.  São  Paulo:
+Saraiva, 1994. v. 1, p. 21.
+10
+  DINIZ,  Maria  Helena. Lei de Introdução ao Código Civil interpretada.  8.  ed.  São
+Paulo: Saraiva, 2001. p. 87. Na doutrina clássica, a teoria da necessidade social já era
+seguida por Miguel Maria de Serpa Lopes (Comentários à Lei de Introdução ao Código
+Civil. Rio de Janeiro: Freitas Bastos, 1959. v. 1, p. 80).
+11
+  VELOSO,  Zeno. Comentários à Lei de Introdução ao Código Civil.  2.  ed.  Belém:
+Unama, 2006. p. 69.
+12
+ Expressão transmitida pela Professora Maria Helena Diniz, na disciplina Teoria Geral
+do Direito, cursada no programa de mestrado na PUCSP no ano de 2003.
+13
+ DINIZ, Maria Helena. As lacunas no direito. 7. ed. São Paulo: Saraiva, 2002. p. 1-5.
+14
+  Cf.  ASCENSÃO,  José  de  Oliveira. Introdução à ciência do Direito.  3.  ed.  Rio  de
+Janeiro: Renovar, 2005. p. 415-416.
+15
+ DINIZ, Maria Helena. As lacunas no direito. 7. ed. São Paulo: Saraiva, 2002. p. 95.
+16
+ RODRIGUES, Silvio. Direito Civil. 24. ed. São Paulo: Saraiva, 1994. v. 1, p. 23.
+17
+ FRANÇA, Rubens Limongi. Instituições de direito civil.  4.  ed.  São  Paulo:  Saraiva,
+1996. p. 35-40.
+18
+  SARMENTO,  Daniel. Direitos  fundamentais  e  relações  privadas.  Rio  de  Janeiro:
+Lumen Juris, 2004. p. 5.
+19
+ BONAVIDES, Paulo. Curso de direito constitucional. 17. ed. São Paulo: Malheiros,
+2005. p. 275.
+20
+ TEPEDINO, Gustavo. Normas constitucionais e relações de direito civil na experiência
+brasileira. Temas de direito civil. Rio de Janeiro: Renovar, 2005. t. II, p. 24.
+21
+ ASCENSÃO, José de Oliveira. Introdução à ciência do Direito. 3. ed. Rio de Janeiro:
+Renovar, 2005. p. 432.
+
+22
+ FRANÇA, Rubens Limongi. Instituições de direito civil.  4.  ed.  São  Paulo:  Saraiva,
+1996. p. 14.
+23
+ FRANÇA, Rubens Limongi. Instituições de direito civil.  4.  ed.  São  Paulo:  Saraiva,
+1996. p. 14.
+24
+  FRANÇA,  Rubens  Limongi. Enciclopédia  Saraiva  de  Direito.  São  Paulo:  Saraiva,
+1977. v. 60, p. 505.
+25
+ REALE, Miguel. Lições preliminares de direito. 21. ed. São Paulo: Saraiva, 1994. p.
+299.
+26
+ ASCENSÃO, José de Oliveira. Introdução à ciência do direito. 3. ed. Rio de Janeiro:
+Renovar, 2005. p. 445.
+27
+ AMARAL, Francisco. Direito civil. Introdução. 5. ed. Rio de Janeiro: Renovar, 2003.
+p. 92.
+28
+  DINIZ,  Ma
+[/PAGINA 57]
+
+[PAGINA 58]
+ria  Helena. Lei de Introdução ao Código Civil interpretada.  8.  ed.  São
+Paulo: Saraiva, 2001. p. 123.
+29
+ NERY JR., Nelson; NERY, Rosa Maria de Andrade. Código Civil anotado. 2. ed. São
+Paulo: RT, 2003. p. 141.
+30
+ NERY JR., Nelson; NERY, Rosa Maria de Andrade. Código Civil anotado. 2. ed. São
+Paulo: RT, 2003. p. 141.
+31
+ FRANÇA, Rubens Limongi. Princípios gerais do direito. 2. ed. São Paulo: RT, 1971.
+32
+ Ver, por todos: MONTEIRO, Washington de Barros; FRANÇA PINTO, Ana Cristina
+de Barros Monteiro. Curso de direito civil. Parte geral. 42. ed. São Paulo: Saraiva, 2009.
+v. 1, p. 47-48.
+33
+ GAGLIANO, Pablo Stolze; PAMPLONA FILHO, Rodolfo. Novo curso de direito civil.
+Parte geral. 4. ed. São Paulo: Saraiva, 2003. v. I, p. 25.
+34
+ REALE, Miguel. Lições preliminares de direito. 21. ed. São Paulo: Saraiva, 1994. p.
+295.
+35
+ ALEXY, Robert. Teoria dos direitos fundamentais. Trad. Virgílio Afonso da Silva. São
+Paulo: Malheiros, 2008.
+36
+ ALEXY, Robert. Teoria dos direitos fundamentais. Trad. Virgílio Afonso da Silva. São
+Paulo: Malheiros, 2008.
+37
+ Direito adquirido, emenda constitucional, democracia e justiça social. Livres e iguais.
+Rio de Janeiro: Lumen Juris, 2006. p. 18.
+38
+ DINIZ, Maria Helena. Conflito de normas. São Paulo: Saraiva, 2003.
+39
+ BOBBIO, Norberto. Teoria do ordenamento jurídico. Trad. Maria Celeste Cordeiro
+Leite dos Santos. 7. ed. Brasília: UNB.
+40
+ DINIZ, Maria Helena. Conflito de normas. São Paulo: Saraiva, 2003. p. 50.
+41
+ OLIVEIRA, Carlos Eduardo Elias de. A segurança hermenêutica nos vários ramos do
+Direito e nos cartórios extrajudiciais: repercussões da LINDB após a Lei n. 13.655/2018.
+Disponível em: <www.flaviotatuce.adv.br>. Acesso em: 30 ago. 2018.
+42
+ OLIVEIRA, Carlos Eduardo Elias de. A segurança hermenêutica nos vários ramos do
+Direito e nos cartórios extrajudiciais: repercussões da LINDB após a Lei n. 13.655/2018.
+Disponível em: <www.flaviotatuce.adv.br>. Acesso em: 30 ago. 2018.
+43
+ OLIVEIRA, Carlos Eduardo Elias de. A segurança hermenêutica nos vários ramos do
+Direito e nos cartórios extrajudiciais: repercussões da LINDB após a Lei n. 13.655/2018.
+
+Disponível em: <www.flaviotatuce.adv.br>. Acesso em: 30 ago. 2018.
+44
+ OLIVEIRA, Carlos Eduardo Elias de. A segurança hermenêutica nos vários ramos do
+Direito e nos cartórios extrajudiciais: repercussões da LINDB após a Lei n. 13.655/2018.
+Disponível em: <www.flaviotatuce.adv.br>. Acesso em: 30 ago. 2018.
+
+Sumário: 2.1 Introdução. Visão filosófica do Código Civil de 2002. As principais teses
+do  Direito  Civil  contemporâneo: 2.1.1  Direito  Civil  Constitucional; 2.1.2  A  eficácia
+horizontal dos direitos fundamentais; 2.1.3 O diálogo das fontes; 2.1.4 A interação entre
+as teses expostas e a visão unitária do ordenamento jurídico – 2.2 Parte geral do Código
+Civil  de  2002.  Da  pessoa  natural: 2.2.1  Conceitos  iniciais.  A  capacidade  e  conceitos
+correlatos; 2.2.2 O início da personalidade civil. A situação jurídica do nascituro; 2.2.3 Os
+incapazes  no  Código  Civil
+[/PAGINA 58]
+
+[PAGINA 59]
+de  2002; 2.2.4  A  emancipação; 2.2.5  Os  direitos  da
+personalidade  em  uma  análise  civil-constitucional.  A  ponderação  de  direitos  e  o  seu
+tratamento no Novo Código de Processo Civil; 2.2.6 O domicílio da pessoa natural; 2.2.7
+A morte da pessoa natural. Modalidades e efeitos jurídicos; 2.2.8 O estado civil da pessoa
+natural. Visão crítica – 2.3 Parte geral do Código Civil de 2002. Da pessoa jurídica: 2.3.1
+Conceito  de  pessoa  jurídica  e  suas  classificações; 2.3.2  Da  pessoa  jurídica  de  direito
+privado.  Regras  e  conceitos  básicos.  Análise  do  art.  44  do  CC; 2.3.3  Modalidades  de
+pessoa jurídica de direito privado e análise de suas regras específicas; 2.3.4 Do domicílio
+da  pessoa  jurídica  de  direito  privado; 2.3.5  Da  extinção  da  pessoa  jurídica  de  direito
+privado; 2.3.6 Da desconsideração da personalidade jurídica – 2.4 Parte geral do Código
+Civil de 2002. Dos bens. Objeto do direito: 2.4.1  Primeiras  palavras.  Diferenças  entre
+bens e coisas. A teoria do patrimônio mínimo; 2.4.2 Principais classificações dos bens;
+2.4.3 Do bem de família. O tratamento dualista do sistema jurídico – 2.5 Parte geral do
+Código Civil de 2002. Teoria geral do negócio jurídico: 2.5.1 Conceitos básicos. Fato, ato
+e negócio jurídico; 2.5.2 Classificações do negócio jurídico; 2.5.3 Elementos estruturais
+do  negócio  jurídico.  A Escada  Ponteana; 2.5.4  Estudo  dos  elementos  acidentais  do
+negócio jurídico. Condição, termo e encargo; 2.5.5 Vícios ou defeitos do negócio jurídico;
+2.5.6  Teoria  das  nulidades  do  negócio  jurídico  – 2.6  Prescrição  e  decadência: 2.6.1
+Introdução. Fórmula para diferenciar a prescrição da decadência; 2.6.2 Regras quanto à
+prescrição; 2.6.3 Regras quanto à decadência; 2.6.4 Quadro comparativo. Diferenças entre
+a prescrição e a decadência.
+2.1 INTRODUÇÃO. VISÃO FILOSÓFICA
+DO CÓDIGO CIVIL DE 2002. AS
+
+PRINCIPAIS TESES DO DIREITO CIVIL
+CONTEMPORÂNEO
+A  compreensão  de  uma  nova  norma  jurídica  é  tarefa  centrada  não
+apenas na análise comparada da letra fria da lei. Em outras palavras, para que
+o estudioso entenda efetivamente a codificação privada de 2002, é preciso
+conhecer a linha filosófica adotada pela norma emergente. A comparação das
+duas leis por meio de Códigos confrontados, comum após o surgimento do
+Código  Civil  de  2002,  é  apenas  o  ponto  de  partida  para  o  intérprete.  A
+premissa afirmada também vale com a emergência do Código de Processo
+Civil  de  2015,  sendo  a  confrontação  com  o  CPC/1973  apenas  o  início  do
+estudo.
+Diante disso, antes de adentrar no estudo da Parte Geral do Código Civil
+de 2002, será demonstrada a linha filosófica da atual codificação material,
+bem como as grandes teses do Direito Civil contemporâneo. Segue-se, assim,
+o  modelo  adotado  em  outra  obra.
+1
+  Trata-se  de  ponto  fundamental  para  os
+estudiosos do Direito Civil, até porque as matérias de filosofia e sociologia
+passaram a ser solicitadas não só nos cursos de graduação, mas
+[/PAGINA 59]
+
+[PAGINA 60]
+também em
+provas existentes após o bacharelado (v.g., exame de admissão na Ordem dos
+Advogados do Brasil e concursos públicos). Recentemente, a análise dessa
+estrutura tornou-se ainda mais fundamental com o surgimento de leis que se
+distanciam dos seus fundamentos, caso da Lei da Liberdade Econômica (Lei
+13.874/2019).
+O atual Código Civil Brasileiro foi instituído pela Lei 10.406, de 10 de
+janeiro  de  2002,  entrando  em  vigor  após  um  ano  de vacatio legis,  para  a
+maioria da doutrina, em 11 de janeiro de 2003. A atual codificação civil teve
+uma longa tramitação no Congresso Nacional, com seu embrião, no ano de
+1975,  ocasião  em  que  o  então  Presidente  da  República,  Ernesto  Geisel,
+submeteu à apreciação da Câmara dos Deputados o Projeto de Lei 634-D,
+com  base  em  trabalho  elaborado  por  uma  Comissão  de  sete  membros,
+coordenada por Miguel Reale. Como se nota, portanto, o projeto legislativo
+surgiu no “ápice” da ditadura militar que imperava no Brasil.
+A estrutura básica do projeto que gerou a nova codificação foi concebida
+com uma Parte Geral e cinco livros na Parte Especial, tendo sido convidado
+para  cada  uma  delas  um  jurista  de  renome  e  notório  saber,  todos  com  as
+mesmas ideias gerais sobre as diretrizes a serem seguidas. Convocados foram
+para a empreitada:
+
+• José Carlos Moreira Alves (SP) – relator da Parte Geral;
+• Agostinho Alvim (SP) – relator do livro que trata do
+Direito das Obrigações;
+• Silvio Marcondes (SP) – relator do livro de Direito de
+Empresa;
+•  Erbert  Chamoun  (RJ)  –  responsável  pelo  Direito  das
+Coisas;
+• Clóvis do Couto e Silva (RS) – responsável pelo livro
+de Direito de Família;
+• Torquato Castro (PE) – relator do livro do Direito das
+Sucessões.
+Conforme lembra Gerson Luiz Carlos Branco, a escolha foi abrangente,
+uma vez que “foram contemplados juristas do sul, do nordeste, do centro do
+país, do Rio de Janeiro e São Paulo, congregando professores, advogados e
+juízes.  A  comissão  escolhida  teve  um  perfil  adequado  às  considerações
+políticas  em  relação  à  postura  dos  membros  da  comissão.  Além  disso,
+segundo  o  próprio  Miguel  Reale,  havia  uma  afinidade  de  ideias  e  de
+pensamento entre todos os juristas que integravam a comissão”.
+2
+ Em suma, os
+trabalhos foram guiados pela mesma linha de pensamento.
+Na  exposição  de  motivos  da  atual  codificação  privada,  Miguel  Reale
+demonstra quais foram as diretrizes básicas seguidas pela comissão revisora
+do Código Civil de 2002, a saber:
+3
+a) Preservação do Código Civil anterior sempre que
+fosse possível, pela excelência técnica do seu texto e
+diante  da  existência  de  um  posicionamento
+doutrinário  e  jurisprudencial  já  consubstanciado
+sobre os temas nele constantes.
+b) Alteração principiológica do Direito Privado, em
+relação  aos  ditames  básicos  que  constavam  na
+codificação  anterior,  buscando  a  nova  codificação
+valorizar   a eticidade,   a socialidade   e   a
+operabilidade, que serão abordadas oportuname
+[/PAGINA 60]
+
+[PAGINA 61]
+nte.
+c)  Aproveitamento  dos  estudos  anteriores  em  que
+houve  tentativas  de  reforma  da  lei  civil,  trabalhos
+esses que foram elaborados primeiro por Hahneman
+
+Guimarães,  Orozimbo  Nonato  e  Philadelpho  de
+Azevedo,  com  o  anteprojeto  do  Código  das
+Obrigações;  e,  depois,  por  Orlando  Gomes  e  Caio
+Mário  da  Silva  Pereira,  com  a  proposta  de
+elaboração  separada  de  um  Código  Civil  e  de  um
+Código   das   Obrigações,   contando   com   a
+colaboração,  neste  caso,  de  Silvio  Marcondes,
+Theóphilo de Azevedo Santos e Nehemias Gueiros.
+d) Firmar a orientação de somente inserir no Código
+Civil matéria já consolidada ou com relevante grau
+de  experiência  crítica,  transferindo-se  para  a
+legislação  especial  questões  ainda  em  processo  de
+estudo,  ou  que,  por  sua  natureza  complexa,
+envolvem  problemas  e  soluções  que  extrapolam  a
+codificação privada, caso da bioética, do biodireito e
+do  direito  eletrônico  ou  digital.  Aliás,  quanto  à
+bioética e ao biodireito, prevê o Enunciado n. 2 do
+Conselho da Justiça Federal, aprovado na I Jornada
+de Direito Civil que “sem prejuízo dos direitos da
+personalidade nele assegurados, o art. 2.º do Código
+Civil não é sede adequada para questões emergentes
+da reprogenética humana, que deve ser objeto de um
+estatuto próprio”. Nesse sentido, entrou em vigor em
+nosso  país,  em  março  de  2005,  a  Lei  de
+Biossegurança  (Lei  11.105/2005),  um  dos satélites
+na órbita do planeta Código Civil. O STF discutiu a
+constitucionalidade  do  seu  art.  5.º,  que  prevê  a
+possibilidade  de  utilização  de  células  embrionárias
+para  fins  terapêuticos  (ADIn  3.510/DF).  Acabou
+concluindo por sua constitucionalidade, felizmente.
+e) Dar nova estrutura ao Código Civil, mantendo-se
+a  Parte  Geral  –  conquista  preciosa  do  direito
+brasileiro,  desde  Teixeira  de  Freitas  –,  mas  com
+nova  organização  da  matéria,  a  exemplo  das
+recentes codificações.
+f) Não realizar, propriamente, a unificação de todo o
+Direito Privado, mas sim do Direito das Obrigações
+
+– de resto já é uma realidade em nosso país – em
+virtude  do  obsoletismo  do  Código  Comercial  de
+1850 – com a consequente inclusão de mais um livro
+na  Parte  Especial,  que  se  denominou Direito  de
+Empresa. Nesse ponto, o Código Civil Brasileiro de
+2002 seguiu o modelo do Código Italiano de 1942.
+g)  Valorizar  um  sistema  baseado  em  cláusulas
+gerais,  que  dão  certa  margem  de  interpretação  ao
+julgador.  Essa  pode  ser  tida  como  a  principal
+diferença de filosofia entre o Código Civil de 2002 e
+seu antecessor.
+Ponto  de  destaque  se  refere  aos  princípios  do  Código  Civil  de  2002
+outrora  expostos,  e  que  merecem  no  presente  momento  um  estudo  mais
+aprofundado.  O  próprio  Miguel  Reale  não  se  cansava  em  apontar  os
+regramentos  básicos  que  sustentam  a  atual  codificação  privada: eticidade,
+socialidade  e operabilidade.  Repise-se  que  o  estudo  de  tais  princípios  é
+fundame
+[/PAGINA 61]
+
+[PAGINA 62]
+ntal para que se possam entender os novos institutos que surgiram
+com a nova lei privada.
+De início, a respeito do princípio da eticidade, o Código Civil de 2002
+se  distancia  do  tecnicismo  institucional  advindo  da  experiência  do  Direito
+Romano,  procurando,  em  vez  de  valorizar  formalidades,  reconhecer  a
+participação  dos  valores  éticos  em  todo  o  Direito  Privado.  Cumpre
+transcrever as palavras do Ministro José Delgado, do Superior Tribunal de
+Justiça, no sentido de que “o tipo de Ética buscado pelo novo Código Civil é
+o defendido pela corrente kantiana: é o comportamento que confia no homem
+como um ser composto por valores que o elevam ao patamar de respeito pelo
+semelhante  e  de  reflexo  de  um  estado  de  confiança  nas  relações
+desenvolvidas, quer negociais, quer não negociais. É, na expressão kantiana,
+a certeza do dever cumprido, a tranquilidade da boa consciência”.
+4
+O princípio  da  eticidade  pode  ser  percebido  pela  leitura  de  vários
+dispositivos da atual codificação privada. Inicialmente, nota-se a valorização
+de condutas éticas, de boa-fé objetiva – aquela relacionada com a conduta de
+lealdade das partes negociais –, pelo conteúdo da norma do art. 113, caput,
+segundo o qual “os negócios jurídicos devem ser interpretados conforme a
+boa-fé e os usos do lugar de sua celebração” (função interpretativa da boa-fé
+objetiva). Ademais, o art. 187 do CC/2002 determina qual a sanção para a
+
+pessoa que contraria a boa-fé no exercício de um direito: cometerá abuso de
+direito,  assemelhado  a  ilícito  (função de controle da boa-fé objetiva).  Ato
+contínuo, o art. 422 da Lei Geral Privada valoriza a eticidade, prevendo que a
+boa-fé  deve  integrar  a  conclusão  e  a  execução  do  contrato  (função  de
+integração  da  boa-fé  objetiva).  Sobre  o  art.  113  da  codificação  privada,
+recebeu  ele  dois  novos  parágrafos  pela Lei da Liberdade Econômica  (Lei
+13.874/2019),  o  que  será  analisado  ainda  no  presente  capítulo,  quando  do
+estudo da teoria geral do negócio jurídico.
+Aqui cabe fazer mais uma nota sobre o Código de Processo de 2015, que
+procurou valorizar a boa-fé, especialmente a de natureza objetiva, em vários
+de  seus  comandos.  De  início,  o  art.  5.º  do  Estatuto  Processual  emergente
+prescreve  que  aquele  que  de  qualquer  forma  participa  do  processo  deve
+comportar-se  de  acordo  com  a  boa-fé.  Em  complemento,  há  a  previsão
+expressa a respeito do dever de cooperação processual, corolário da boa-fé
+objetiva,  enunciando  o  art.  6.º  do  CPC/2015  que  “todos  os  sujeitos  do
+processo devem cooperar entre si para que se obtenha, em tempo razoável,
+decisão de mérito justa e efetiva”. Essa colaboração também é imposta aos
+julgadores, vedando-se as decisões surpresas, uma vez que “o juiz não pode
+decidir, em grau algum de jurisdição, com base em fundamento a respeito do
+qual não se tenha dado às partes oportunidade de se manifestar, ainda que se
+trate de matéria sobre a qual dev
+[/PAGINA 62]
+
+[PAGINA 63]
+a decidir de ofício” (art. 10 do CPC/2015).
+Por derradeiro, sem prejuízo de outros dispositivos, o art. 489, § 3.º, do
+CPC/2015 prescreve que a decisão judicial deve ser interpretada a partir da
+conjugação de todos os seus elementos e em conformidade com o princípio
+da  boa-fé.  Como  se  nota,  a  boa-fé  objetiva  passa  a  ser  elemento  de
+interpretação  das  decisões  como  um  todo,  o  que  deve  gerar  um  grande
+impacto  na  prática  cível  nos  próximos  anos.  A  propósito,  não  deixando
+dúvidas de que se trata de uma boa-fé que se situa no plano da conduta, e não
+da intenção, estabelece o Enunciado n. 1, aprovado na I Jornada de Direito
+Processual Civil  (agosto  de  2017),  que  a  verificação  da  violação  à  boa-fé
+objetiva dispensa a comprovação do animus do sujeito processual.
+Voltando à lei material, no que concerne ao princípio da socialidade, o
+Código Civil de 2002 procura superar o caráter individualista e egoísta que
+imperava na codificação anterior, valorizando a palavra nós, em detrimento
+da palavra eu. Os grandes ícones do Direito Privado recebem uma denotação
+social: a família, o contrato, a propriedade, a posse, a responsabilidade civil, a
+empresa,  o  testamento.  De  toda  forma,  em  certa  medida,  as  orientações
+
+individualistas que permeavam o Código Civil de 1916 voltaram a ter uma
+valorização neste início de século XXI, o que pode ser percebido, no Brasil,
+pela  recente  Lei  13.874/2019,  que  institui  a  “Declaração  de  Direitos  de
+Liberdade Econômica”.
+Destaque-se que a função social da propriedade já estava prevista na
+Constituição Federal de 1988, em seu art. 5.º, incs. XXII e XXIII, e no seu
+art.  170,  inc.  III,  tendo  sido  reforçada  pelo  art.  1.228,  §  1.º,  do  CC/2002.
+Como novidade de grande impacto, a função social dos contratos passou a
+ser tipificada em lei, nos arts. 421 e 2.035, parágrafo único, do Código Civil.
+Trata-se de um princípio contratual de ordem pública, pelo qual o contrato
+deve  ser,  necessariamente,  visualizado  e  interpretado  de  acordo  com  o
+contexto  da  sociedade.
+5
+  Como  se  verá,  reitere-se,  esse  princípio  deve  ser
+confrontado perante os regramentos que foram instituídos pela citada Lei da
+Liberdade Econômica, de setembro de 2019.
+Mesmo a  posse  recebe  uma  função  social,  eis  que  o  atual  Código
+consagra a diminuição dos prazos de usucapião imobiliária quando estiver
+configurada a posse-trabalho, situação fática em que o possuidor despendeu
+tempo  e  labor  na  ocupação  de  um  determinado  imóvel.  A  codificação  de
+2002  valoriza  aquele  que planta e colhe,  o  trabalho  da  pessoa  natural,  do
+cidadão  comum.  Tais  premissas  podem  ser  captadas  pela  leitura  dos  arts.
+1.238, parágrafo único, e 1.242, parágrafo único, do CC/2002, que reduzem
+os  prazos  da  usucapião  extraordinária  e  ordinária,  para  dez  e  cinco  anos,
+respectivamente  quando  o  possuidor  tiver  realizado  no  imóvel  obras  e
+serviços considerados pelo juiz
+[/PAGINA 63]
+
+[PAGINA 64]
+de caráter social e econômico relevante.
+Por fim, há o princípio da operabilidade, que tem dois significados. De
+início, há o sentido de simplicidade, uma vez que o Código Civil de 2002
+segue tendência de facilitar a interpretação e a aplicação dos institutos nele
+previstos. Como exemplo, pode ser citada a distinção que agora consta em
+relação aos institutos da prescrição e da decadência, matéria que antes trazia
+grandes dúvidas pela lei anterior, que era demasiadamente confusa. Por outra
+via, há o sentido de efetividade, ou concretude do Direito Civil, o que foi
+seguido pela adoção do sistema de cláusulas gerais.
+Nas  palavras  de  Judith  Martins-Costa,  grande  intérprete  da filosofia
+realeana, percebe-se na atual codificação material um sistema aberto ou de
+janelas  abertas,  em  virtude  da  linguagem  que  emprega,  permitindo  a
+constante  incorporação  e  solução  de  novos  problemas,  seja  pela
+jurisprudência,  seja  por  uma  atividade  de  complementação  legislativa.
+
+Vejamos as suas lições a respeito das cláusulas gerais:
+“Estas  janelas,  bem  denominadas  por  Irti  de  ‘concetti  di
+collegamento’,  com  a  realidade  social  são  constituídas  pelas
+cláusulas gerais, técnica legislativa que conforma o meio hábil para
+permitir  o  ingresso,  no  ordenamento  jurídico  codificado,  de
+princípios  valorativos  ainda  não  expressos  legislativamente,  de
+‘standards’, arquétipos exemplares de comportamento, de deveres
+de conduta não previstos legislativamente (e, por vezes, nos casos
+concretos, também não advindos da autonomia privada), de direitos
+e  deveres  configurados  segundo  os  usos  do  tráfego  jurídico,  de
+diretivas  econômicas,  sociais  e  políticas,  de  normas,  enfim,
+constantes  de  universos  metajurídicos,  viabilizando  a  sua
+sistematização  e  permanente  ressistematização  no  ordenamento
+positivo.  Nas  cláusulas  gerais  a  formulação  da  hipótese  legal  é
+procedida  mediante  o  emprego  de  conceitos  cujos  termos  têm
+significado  intencionalmente  vago  e  aberto,  os  chamados
+‘conceitos  jurídicos  indeterminados’.  Por  vezes  –  e  aí
+encontraremos  as  cláusulas  gerais  propriamente  ditas  –,  o  seu
+enunciado,  ao  invés  de  traçar  punctualmente  a  hipótese  e  as
+consequências, é desenhado como uma vaga moldura, permitindo,
+pela  vagueza  semântica  que  caracteriza  os  seus  termos,  a
+incorporação  de  princípios  e  máximas  de  conduta  originalmente
+estrangeiros  ao corpus  codificado,  do  que  resulta,  mediante  a
+atividade de concreção destes princípios, diretrizes e máximas de
+conduta, a constante formulação de novas normas”.
+6
+A  partir  dos  ensinamentos  da  professora  gaúcha,  as  cláusulas  gerais
+podem ser conceituadas como janelas abertas deixadas pelo legislador para
+preenchimento  pelo  aplicador  do  Direito,  caso  a  caso.  São  exemplos  de
+cláusulas gerais constantes do Código Civil de 2002:
+– Função social do contrato – art. 421 do CC.
+– Função social da prop
+[/PAGINA 64]
+
+[PAGINA 65]
+riedade – art. 1.228, § 1.º, do
+CC.
+– Boa-fé – arts. 113, 187 e 422 do CC.
+– Bons costumes – arts. 13 e 187 do CC.
+
+– Atividade de risco – art. 927, parágrafo único, do CC.
+As cláusulas gerais têm um sentido dinâmico, o que as diferencia dos
+conceitos legais indeterminados,  construções  estáticas  que  constam  da  lei
+sem  definição.  Assim,  pode-se  afirmar  que  quando  o  aplicador  do  direito
+cumpre a tarefa de dar sentido a um conceito legal indeterminado, passará ele
+a constituir uma cláusula geral. Segue-se com tal premissa o posicionamento
+de Karl Engisch, para quem a cláusula geral não se confunde com a ideia de
+conceito legal indeterminado, eis que a primeira “contrapõe a uma elaboração
+‘casuística’  das  hipóteses  legais.  ‘Casuística’  é  aquela  configuração  da
+hipótese  legal  (enquanto  somatório  dos  pressupostos  que  condicionam  a
+estatuição)  que  circunscreve  particulares  grupos  de  casos  na  sua
+especificidade própria”.
+7
+Consigne-se  que  muitas  das  cláusulas  gerais  são  princípios,  mas  não
+necessariamente.  Ilustrando,  a  função  social  do  contrato  é  princípio
+contratual;  ao  contrário  da  cláusula  geral  de  atividade  de  risco,  que  não  é
+princípio da responsabilidade civil.
+Ora, a adoção do sistema de cláusulas gerais pelo Código Civil de 2002
+tem  relação  direta  com  a  linha  filosófica  adotada  por  Miguel  Reale  na
+vastidão de sua obra. É notório que o jurista criou a sua própria teoria do
+conhecimento e da essência jurídica, a ontognoseologia jurídica, em que se
+busca o papel do direito nos enfoques subjetivo e objetivo, baseando-se em
+duas subteorias: o culturalismo jurídico e a teoria tridimensional do direito.
+8
+Vejamos de forma sistematizada:
+a) Culturalismo  Jurídico  (plano  subjetivo)  –
+inspirado no trabalho de Carlos Cossio, Reale busca
+o  enfoque  jurídico  no  aspecto  subjetivo,  do
+aplicador  do  direito.  Três  palavras  orientarão  a
+aplicação  e  as  decisões  a  serem  tomadas: cultura,
+experiência  e história,  que  devem  ser  entendidas
+tanto  do  ponto  de  vista  do  julgador  como  no  da
+sociedade, ou seja, do meio em que a decisão será
+prolatada.
+b) Teoria tridimensional do direito (plano objetivo)
+– para Miguel Reale, direito é fato, valor e norma.
+Ensina o Mestre que a sua teoria tridimensional do
+
+direito  e  do  Estado  vem  sendo  concebida  desde
+1940,  distinguindo-se  das  demais  teorias  por  ser
+“concreta e dinâmica”, eis que “fato, valor e norma
+estão  sempre  presentes  e  correlacionados  em
+qualquer  expressão  da  vida  jurídica,  seja  ela
+estudada pelo filósofo ou o sociólogo do direito, ou
+pelo   jurista   como   tal,   ao   passo   que,   na
+tridimensionalidade genérica ou abstrata, caberia ao
+filósofo apenas o estudo do valor, ao sociólogo de
+fato e ao jurista a norma (tridimensionalidade como
+requisito essencial do direito)”.
+9
+Pela conjugação das duas construções, na análise dos institutos jurídicos
+presentes  no  Código  Civil  de  200
+[/PAGINA 65]
+
+[PAGINA 66]
+2,  muitos  deles  abertos,  genéricos  e
+indeterminados,  o  jurista  e  o  magistrado  deverão  fazer  um  mergulho
+profundo nos fatos que margeiam a situação, para então, de acordo com os
+seus  valores  e  da  sociedade  –  construídos  após  anos  de  educação  e  de
+experiências –, aplicar a norma de acordo com os seus limites, procurando
+sempre interpretar sistematicamente a legislação privada. Fato, valor e norma
+serão  imprescindíveis  a  apontar  o  caminho  seguido  para  a  aplicação  do
+Direito.  Dessa  forma,  dar-se-á  o  preenchimento  das  cláusulas  gerais,  das
+janelas  abertas.  Por  esse  processo  os  conceitos  legais  indeterminados
+ganham  determinação  jurídica,  diante  da  atuação  do  magistrado,  sempre
+guiado pela equidade.
+Primeiro, o magistrado julgará de acordo com a sua cultura, bem como
+do  meio  social.  Isso  porque  os  elementos  culturais  e  valorativos  do
+magistrado serão imprescindíveis para o preenchimento da discricionariedade
+deixada  pela  norma  privada.  Ganha  destaque  o valor  como  elemento
+formador do direito.
+Segundo,  tudo  dependerá  da história  do  processo  e  dos  institutos
+jurídicos  a  ele  relacionados,  das  partes  que  integram  a  lide  e  também  a
+história do próprio aplicador. Aqui, ganha relevo o fato, outro elemento do
+direito, de acordo com a construção de Reale.
+Por fim, a experiência do aplicador do direito, que reúne fato e valor
+simbioticamente, visando à aplicação da norma. Esta, sim, elemento central
+daquilo  que  se  denomina ontognoseologia,  a  teoria  do  conhecimento,  da
+essência  jurídica,  criada  por  Miguel  Reale.  Encaixa-se  perfeitamente  a
+
+proposta de Reale, para que sejamos juristas – no ponto de vista das normas
+–, sociólogos – diante da análise dos fatos – e filósofos – sob o prisma dos
+valores.
+Nunca  é  demais  frisar  que  as  cláusulas  gerais  que  constam  da  atual
+codificação  material,  a  serem  delineadas  pela  jurisprudência  e  pela
+comunidade  jurídica,  devem  ser  baseadas  nas  experiências  pessoais  dos
+aplicadores e dos julgadores, que também devem estar atualizados de acordo
+com  os  aspectos  temporais,  locais  e  subjetivos  que  envolvem  a  questão
+jurídica que lhes é levada para apreciação. Ilustrando, o aplicador do direito
+deve estar atento à evolução tecnológica, para não tomar decisões totalmente
+descabidas,  como  a  de  determinar  o  bloqueio  de  todos  à  Internet,  visando
+proteger  a  imagem  individual  de  determinada  pessoa. A  formação
+interdisciplinar é primordial para o jurista do Século XXI.
+Como  nova  pontuação  importante  a  respeito  do  Código  de  Processo
+Civil  de  2015,  acredito  que  a  legislação  instrumental  emergente  também
+adotou  um  sistema  aberto,  baseado  em  cláusulas  gerais  e  conceitos  legais
+indeterminados. Como é notório, o art. 1.º do CPC/2015 prevê que processo
+civil  será  ordenado,  disciplinado  e  interpretado  conforme  os  valores  e  as
+normas fundamentais est
+[/PAGINA 66]
+
+[PAGINA 67]
+abelecidos na Constituição da República Federativa
+do Brasil, valores esses que são por vezes abertos, caso da igualdade e da
+solidariedade. Merece também ser destacado, mais uma vez, o revolucionário
+art. 8.º do CPC/2015, segundo o qual, ao aplicar o ordenamento jurídico, o
+juiz atenderá aos fins sociais e às exigências do bem comum, resguardando e
+promovendo   a dignidade  da  pessoa  humana   e   observando a
+proporcionalidade,  a  razoabilidade,  a  legalidade,  a  publicidade  e  a
+eficiência.  Como  se  pode  perceber,  todas  as  expressões  em  itálico  são
+cláusulas gerais, com preenchimento de acordo com as circunstâncias do caso
+concreto.
+Além  disso,  o  Código  de  Processo  Civil  de  2015  reconhece
+expressamente a plena possibilidade de julgamento com base nas cláusulas
+gerais e conceitos legais indeterminados, exigindo a devida fundamentação
+pelo julgador em casos tais. Nesse contexto, o art. 11 do CPC/2015 preconiza
+que todos os julgamentos dos órgãos do Poder Judiciário serão públicos e
+fundamentadas todas as decisões, sob pena de nulidade.
+Mais à frente, ao tratar dos elementos essenciais da sentença, o § 1.º do
+art. 489 do Estatuto Processual estabelece que não se considera fundamentada
+qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que: a)
+
+se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem
+explicar  sua  relação  com  a  causa  ou  a  questão  decidida; b)  empregar
+conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua
+incidência no caso; c) invocar motivos que se prestariam a justificar qualquer
+outra decisão; d) não enfrentar todos os argumentos deduzidos no processo
+capazes de, em tese, infirmar a conclusão adotada pelo julgador; e) se limitar
+a  invocar  precedente  ou  enunciado  de  súmula,  sem  identificar  seus
+fundamentos determinantes nem demonstrar que o caso sob julgamento se
+ajusta  àqueles  fundamentos; f)  deixar  de  seguir  enunciado  de  súmula,
+jurisprudência  ou  precedente  invocado  pela  parte,  sem  demonstrar  a
+existência  de  distinção  no  caso  em  julgamento  ou  a  superação  do
+entendimento.  Nota-se  que  a  norma  menciona  os  conceitos  legais
+indeterminados, mas é certo que muitos deles são também cláusulas gerais.
+O último dispositivo visa a afastar o livre convencimento do juiz, sem o
+devido fundamento. Esse comando poderá revolucionar as decisões judiciais
+no País, trazendo-lhes balizas mais certas e seguras, inclusive motivadas na
+doutrina. No entanto, o preceito também poderá ser totalmente desprezado
+pelos  julgadores,  inclusive  pela  ausência  de  sanção  imediata.  Somente  o
+tempo e a prática demonstrarão qual a amplitude social da norma emergente.
+De todo modo, é certo que essa linha filosófica, aberta por excelência,
+foi inserida no Código Civil de 2002, principalmente no capítulo que trata do
+Direito das Obrigações, e reafirmada pelo Código de Processo Civil de 2015.
+Os desenhos a seguir demonstram muito
+[/PAGINA 67]
+
+[PAGINA 68]
+bem a confrontação entre o Código
+Civil de 1916, concebido à luz da teoria positivista, que teve como um de
+seus principais expoentes Hans Kelsen, e o Código Civil de 2002, sob a teoria
+tridimensional de Miguel Reale: 
+
+Como  se  nota,  a  visão kelseniana é de uma pirâmide de normas, um
+sistema  fechado  e  estático.  Assim  era  o  civilista  da  geração  anterior,
+moderno. Privilegiava-se o apego à literalidade fechada da norma jurídica,
+prevalecendo a ideia de que a norma seria suficiente. A frase-símbolo dessa
+concepção legalista era: o juiz é a boca da lei.
+A visão realeana  é  de  três  subsistemas:  dos  fatos,  dos  valores  e  das
+normas. O sistema é aberto e dinâmico, em constantes diálogos. Assim é o
+civilista da atual geração, pós-moderno. Privilegia-se a ideia de interação, de
+visão unitária do sistema, prevalecendo a constatação de que, muitas vezes, a
+norma  não  é  suficiente.  As  cláusulas  gerais  são  abertas  e  devem  ser
+analisadas caso a caso. Frase-símbolo: direito é fato, valor e norma.
+Repise-se  que,  além  do  Código  Civil  de  2002,  acreditamos  que  o
+capítulo inaugural do Novo Código de Processo Civil, recheado de cláusulas
+gerais e conceitos legais indeterminados, possibilite a mesma comparação,
+em  que  o  Código  de  Processo  Civil  de  1973  está  para  o  Código  Civil  de
+1916, assim como o Código de Processo Civil de 2015 está para o Código
+Civil de 2002, guardadas as devidas proporções.
+Superado esse estudo jusfilosófico, é preciso expor os principais marcos
+teóricos do Direito Civil brasileiro contemporâneo, a saber: o Direito Civil
+Constitucional, a eficácia horizontal dos direitos fundamentais e a teoria do
+diálogo das fontes.
+2.1.1 Direito Civil Constitucional
+
+A  existência  das  grandes  dicotomias  em  Direito  sempre  permitiu  que
+houvesse uma sistematização do ponto de vista da análise do próprio âmbito
+jurídico,  concebido,  de  forma  analítica,  como  um  conjunto  de  normas.
+Contudo, diante da superabundância dessas normas, uma organização teórica
+do  direito  que  assegure  uma  definição  genérica  e  lógica  dos  assuntos
+jurídicos fica bastante prejudicada, para não dizer inviabilizada. O Big Bang
+Legislativo  (explosão  de  leis),  conforme  simbologia  criada  por  Ricardo
+Lorenzetti,  dificultou  o  trabalho  do  aplicador  do  direito  na  busca  de  uma
+sistematização.
+Sabe-se que a distinção entre Direito Público e Direito Privado não é
+apenas um método de classificação, de ordenação dos critérios de distinção
+dos tipos normativos, mas sim um poderoso instrumento de sistematização.
+Tal  distinção  remonta  ao Digesto,  1.1.1.2,  no Corpus  Juris  Civilis  de
+Ulpiano, que dividiu o direito em jus publicum e jus privatum. Os critérios
+utilizados para que fosse feita essa distinção se baseavam na utilidade da lei:
+se fosse de utilidade pública, tratar-se-ia de uma lei de Direito Público; se
+fosse de utilidade particular, seria uma lei de Direito Privado.
+Esse critério de utilidade
+[/PAGINA 68]
+
+[PAGINA 69]
+estrita desde logo foi contestado, e chegou-se à
+conclusão que, em verdade, o critério para classificação da lei era baseado na
+utilidade preponderante da lei, uma vez que as utilidades de uma norma não
+ficam  circunscritas  a  um  único  interesse,  do  Estado  ou  do  particular,  mas
+acabam  se  entrelaçando,  de  modo  que  a  norma  de  uma  natureza  exerce
+influência em outra de natureza diversa.
+Em  princípio,  o  Direito  Público  tem  como  finalidade  a  ordem  e  a
+segurança geral, enquanto o Direito Privado reger-se-ia pela liberdade e pela
+igualdade. Enquanto no Direito Público somente seria válido aquilo que está
+autorizado pela norma, no Direito Privado tudo aquilo que não está proibido
+por ela seria válido. Mas essa dicotomia não é um obstáculo intransponível e
+a divisão não é absoluta, como quase nada é absoluto nos nossos dias atuais.
+Nesse  sentido,  é  interessante  tecer  alguns  comentários  sob  a  relação
+entre o Direito Civil e o Direito Constitucional, o que faz com que surja, para
+muitos, uma nova disciplina ou caminho metodológico, denominado Direito
+Civil Constitucional, da qual este autor é adepto e entusiasta.
+10
+ A utilização
+da expressão Direito Civil Constitucional encontra raízes na doutrina italiana
+de Pietro Perlingieri.
+11
+No  início  de  sua  obra,  Perlingieri  aponta  que  a  Constituição  funda  o
+
+ordenamento jurídico, pois “O conjunto de valores, de bens, de interesses que
+o  ordenamento  jurídico  considera  e  privilegia,  e  mesmo  a  sua  hierarquia
+traduzem  o  tipo  de  ordenamento  com  o  qual  se  opera.  Não  existe,  em
+abstrato, o ordenamento jurídico, mas existem ordenamentos jurídicos, cada
+um dos quais caracterizado por uma filosofia de vida, isto é, por valores e por
+princípios fundamentais que constituem a sua estrutura qualificadora”.
+12
+No Brasil, essa visão ganhou força na escola carioca, capitaneada pelos
+professores da Universidade do Estado do Rio de Janeiro Gustavo Tepedino,
+Maria Celina Bodin de Moraes e Heloísa Helena Barboza. No Paraná, Luiz
+Edson  Fachin  também  faz  escola  com  o  ensino  do  Direito  Civil
+Constitucional,  na  Universidade  Federal  do  Paraná.  No  Nordeste  é  de  se
+mencionar o trabalho de Paulo Luiz Netto Lôbo, também adepto dessa visão
+de  sistema.  Em  São  Paulo,  destacam-se  os  trabalhos  de  Renan  Lotufo,  na
+PUCSP, e da professora Giselda Maria Fernandes Novaes Hironaka, Titular
+na  USP.  Em  Brasília,  na  UNB,  o  professor  Frederico  Viegas  de  Lima
+igualmente  se  dedica  aos  estudos  das  interações  entre  o  Direito  Civil  e  a
+Constituição Federal de 1988.
+O  conceito  de Direito Civil Constitucional,  à  primeira  vista,  poderia
+parecer um paradoxo. Mas não é. O direito é um sistema lógico de normas,
+valores e princípios que regem a vida social, que interagem entre si de tal
+sorte que propicie segurança – em sentido lato – para os homens e mulheres
+que compõem uma sociedade. O Direito Civil Constitucional, portanto, está
+basead
+[/PAGINA 69]
+
+[PAGINA 70]
+o  em  uma visão  unitária  do  ordenamento  jurídico.
+13
+  Ao  tratar  dos
+direitos  fundamentais,  José  Joaquim  Gomes  Canotilho  também  fala  em
+unidade da ordem jurídica, sustentando a viabilidade de uma interação entre o
+Direito privado e a Constituição, mesmo que em tom cético.
+14
+ Para o mesmo
+Gustavo  Tepedino,  um  dos  principais  idealizadores  desse  novo  caminho
+metodológico, é “imprescindível e urgente uma releitura do Código Civil e
+das  leis  especiais  à  luz  da  Constituição”.
+15
+  Desse  modo,  “reconhecendo  a
+existência dos mencionados universos legislativos setoriais, é de se buscar a
+unidade do sistema, deslocando para a tábua axiológica da Constituição da
+República o ponto de referência antes localizado no Código Civil”.
+16
+O  Direito  Civil  Constitucional,  como  uma  mudança  de  postura,
+representa uma atitude bem pensada, que tem contribuído para a evolução do
+pensamento privado, para a evolução dos civilistas contemporâneos e para
+um  sadio  diálogo  entre  os  juristas  das  mais  diversas  áreas.  Essa  inovação
+reside no fato de que há uma inversão da forma de interação dos dois ramos
+
+do direito – o público e o privado –, interpretando o Código Civil segundo a
+Constituição  Federal  em  substituição  do  que  se  costumava  fazer,  isto  é,
+exatamente o inverso.
+Os  próprios  constitucionalistas  reconhecem  o  fenômeno  de  interação
+entre  o  Direito  Civil  e  o  Direito  Constitucional  como  realidade  do  que  se
+convém denominar neoconstitucionalismo, ou da invasão da Constituição. E,
+por  certo,  o  movimento  brasileiro  é  único,  é  autêntico.  Ressalta  Eduardo
+Ribeiro Moreira que “As outras inovações do direito civil-constitucional têm
+de ser esse ponto de encontro, os direitos fundamentais nas relações entre
+particulares,  interação  vital  com  a  transposição  e  redução  entre  o  espaço
+privado  e  o  espaço  público,  garantizador.  Dois  pontos  basilares  do  direito
+civil-constitucional  que  funcionam  em  prol  da  dignidade  humana.  Outro
+ponto a ser destacado é que, apesar de partir do direito civil italiano, o direito
+civil-constitucional  brasileiro  é  uma  expansão  e  produção  autêntica”.
+17
+  O
+também  constitucionalista  Ministro  Luís  Roberto  Barroso  igualmente
+demonstrou todo o seu entusiasmo em relação à visão civil-constitucional,
+tecendo comentários elogiosos.
+18
+Deve  ser  feita  a  ressalva  que,  por  tal  interação,  o  Direito  Civil  não
+deixará de ser Direito Civil; e o Direito Constitucional não deixará de ser
+Direito Constitucional. O Direito Civil Constitucional nada mais é do que um
+novo  caminho  metodológico,  que  procura  analisar  os  institutos  privados  a
+partir  da  Constituição,  e,  eventualmente,  os  mecanismos  constitucionais  a
+partir do Código Civil e da legislação infraconstitucional, em uma análise em
+mão dupla.
+Fazendo mais uma anotação diante da emergência do Novo Código de
+Processo Civil, esse Estatuto Processual parece inaugurar na
+[/PAGINA 70]
+
+[PAGINA 71]
+lei instrumental
+o  mesmo  caminho,  concebendo  o Direito Processual Civil Constitucional.
+Como é notório, o seu art. 1.º expressa que “o processo civil será ordenado,
+disciplinado  e  interpretado  conforme  os  valores  e  as  normas  fundamentais
+estabelecidos na Constituição da República Federativa do Brasil, observando-
+se as disposições deste Código”. Em complemento, cite-se, mais uma vez, o
+impactante  art.  8.º  do  CPC/2015,  que  ordena  ao  julgador  ser  guiado  pelo
+princípio da dignidade da pessoa humana, ao aplicar o ordenamento jurídico.
+Como  instrumento  do  direito  material,  acreditamos  que  muitas
+premissas do Direito Civil Constitucional servem perfeitamente a essa nova
+visão do processo. Na verdade, pensamos que os fundamentos legais para a
+visão da Escola do Direito Civil Constitucional passam a ser os arts. 1.º e 8.º
+
+do CPC/2015.
+Três são os princípios básicos do Direito Civil Constitucional, conforme
+as lições de Gustavo Tepedino, o que é fundamental para a compreensão da
+essência desse marco teórico importante para a civilística contemporânea.
+19
+O primeiro deles, aquele que pretende a proteção da dignidade da pessoa
+humana,  está  estampado  no  art.  1.º,  inc.  III,  do  Texto  Maior,  sendo  a
+valorização da pessoa um dos objetivos da República Federativa do Brasil.
+Trata-se do superprincípio ou princípio dos princípios como se afirma em
+sentido geral. A proteção da dignidade humana, a partir do modelo de Kant,
+constitui  o  principal  fundamento  da personalização  do  Direito  Civil,  da
+valorização  da  pessoa  humana  em  detrimento  do  patrimônio.  A  tutela  da
+dignidade humana representa a proteção da liberdade e dos direitos subjetivos
+na  ordem  privada.  Como  explica  o  jurista  alemão  Stephan  Kirste,  “ter
+liberdade  jurídica  significa,  como  ainda  mostraremos  em  seguida,  possuir
+direitos subjetivos. A capacidade de liberdade é, assim, a capacidade de ser
+portador de direitos subjetivos. Portador desses direitos é, então, o sujeito do
+Direito ou a pessoa de Direito. A proteção da dignidade humana significa,
+portanto, o direito ao reconhecimento como pessoa do Direito”.
+20
+O  segundo  princípio  visa  à  solidariedade  social,  outro  objetivo
+fundamental da República, conforme o art. 3.º, inc. I, da CF/1988. Outros
+preceitos da própria Constituição trazem esse alcance, como no caso do seu
+art. 170, pelo qual: “a ordem econômica, fundada na valorização do trabalho
+humano e na livre iniciativa, tem por fim assegurar a todos existência digna,
+conforme os ditames da justiça social”. Aqui também reside o objetivo social
+de erradicação da pobreza, do mesmo modo prevista na Constituição Federal
+de 1988 (art. 3.º, inc. III).
+Por fim, o princípio da isonomia ou igualdade lato sensu, traduzido no
+art.  5.º, caput,  da  Lei  Maior,  eis  que  “todos  são  iguais  perante  a  lei,  sem
+distinção  de  qualquer  natureza,  garantindo-se  aos  brasileiros  e  aos
+estrangeiros residentes no País a inviolab
+[/PAGINA 71]
+
+[PAGINA 72]
+ilidade do direito à vida, à liberdade,
+à igualdade, à segurança e à propriedade”. Quanto a essa igualdade, princípio
+maior,  pode  ser  a  mesma  concebida  pela  seguinte  expressão,  atribuída  a
+Aristóteles e também a Ruy Barbosa: A lei deve tratar de maneira igual os
+iguais, e de maneira desigual os desiguais. Do texto, nota-se na sua primeira
+parte a consolidação do princípio da igualdade stricto sensu (a lei deve tratar
+de  maneira  igual  os  iguais),  enquanto  a  segunda  traz  o  princípio  da
+especialidade (... e de maneira desigual os desiguais). Essa é a essência da
+
+igualdade substancial.
+Em  obra  lançada  no  ano  de  2014,  o  Ministro  Luiz  Edson  Fachin
+demonstra os grandes desafios do Direito Privado Contemporâneo Brasileiro,
+em constante interação com a Constituição Federal. Expõe que são tendências
+atuais  do  nosso  Direito  Civil:  “a  incidência  franca  da  Constituição  nos
+diversos âmbitos das relações entre particulares, mormente nos contratos, nas
+propriedades e nas famílias, à luz de comandos inafastáveis de proteção à
+pessoa;  há,  nada  obstante,  criativas  tensões  entre  a  aplicação  de  regras  (e
+princípios) constitucionais e o ordenamento privado codificado; como há, sob
+o sistema constitucional, concepções filosóficas, o Estado liberal patrocinou o
+agasalho   privilegiado   da   racionalidade   codificadora   das   relações
+interprivadas;  a  ordem  pública  pode  limitar  a  autonomia  ou  o
+autorregulamento  dos  interesses  privados,  sob  a  vigilância  das  garantias
+fundamentais; os Códigos Civis são reinterpretados pelas Constituições do
+Estado  Social  de  Direito”.
+21
+  Reafirme-se  que  essa incidência  franca  da
+Constituição igualmente atinge o Direito Processual, pela previsão expressa
+do art. 1.º do CPC/2015.
+Como se verá, por diversas vezes, no presente trabalho, serão buscados
+esses  princípios  emergentes  para  solucionar  polêmicas  advindas  da
+codificação  privada,  demonstrando  uma  dimensão  do  Direito  Privado
+rompida  com  visão  anterior,  aliada  a  uma  tendência  de personalização do
+direito  privado,  de  valorização  da  pessoa  e  da  sua  dignidade.  A  tríade
+dignidade-solidariedade-igualdade   ou   dignidade-personalidade-igualdade
+dará o tom deste volume único.
+2.1.2 A eficácia horizontal dos direitos
+fundamentais
+Com  relação  direta  com  o  último  tópico,  constituindo  outra  tese  de
+relevo do Direito Privado contemporâneo, é primaz estudar, agora de maneira
+mais  aprofundada,  a eficácia  horizontal  dos  direitos  fundamentais,
+mecanismo que torna possível o Direito Civil Constitucional.
+Essa horizontalização dos direitos fundamentais nada mais é do que o
+reconhecimento da existência e aplicação dos direitos que protegem a pessoa
+nas relações entre particulares. Nesse sentido, pode-se dizer que as normas
+constitucionais que protegem tais direitos têm aplicação imediata (eficácia
+horizontal imediata). Essa aplicação imediata está justificada pelo teor do art.
+[/PAGINA 72]
+
+[PAGINA 73]
+5.º, § 1.º, da Constituição Federal de 1988, pelo qual: “As normas definidoras
+dos direitos e garantias fundamentais têm aplicação imediata”. Para Daniel
+Sarmento, grande entusiasta da eficácia horizontal dos direitos fundamentais,
+a referida aplicação “é indispensável no contexto de uma sociedade desigual,
+na  qual  a  opressão  pode  provir  não  apenas  do  Estado,  mas  de  uma
+multiplicidade de atores privados, presentes em esferas como o mercado, a
+família, a sociedade civil e a empresa”.
+22
+Por  certo  é  que  essa eficácia  horizontal  traz  uma  visualização
+diversificada da matéria, eis que as normas de proteção da pessoa previstas na
+Constituição Federal sempre foram tidas como dirigidas ao legislador e ao
+Estado (normas programáticas). Essa concepção anterior não mais prevalece,
+o que faz com que a eficácia horizontal seja interessante à prática, a tornar
+mais  evidente  e  concreta  a  proteção  da  dignidade  da  pessoa  humana  e  de
+outros valores constitucionais.
+Do ponto de vista da terminologia, não se justifica mais denominar a
+Constituição Federal de 1988 como uma Carta Política, fazendo crer que ela
+é mais dirigida ao legislador, tendo uma eficácia vertical. Melhor denominá-
+la,  portanto,  como  uma Carta  Fundamental,  pela  prevalência  de  sua
+horizontalidade, ou seja, pela sua subsunção direta às relações interprivadas.
+Ilustre-se  que  a  dignidade  humana  é  conceito  que  pode  ser  aplicado
+diretamente em uma relação entre empregador e empregado, entre marido e
+mulher, entre companheiros, entre pais e filhos, entre contratantes e assim
+sucessivamente.   Isso,   sem   a   necessidade   de   qualquer ponte
+infraconstitucional. A mesma afirmação cabe para as ações judiciais com tais
+conteúdos, especialmente pelo que consta do sempre citado art. 1.º do Código
+de Processo Civil de 2015.
+Como  exemplo  de  aplicação  da  tese,  pode  ser  citado  julgado  do
+Supremo Tribunal Federal em que foi adotada, no sentido de assegurar direito
+à  ampla  defesa  a  associado  que  fora  excluído  do  quadro  de  uma  pessoa
+jurídica (Informativo n. 405 do STF):
+“A  Turma,  concluindo  julgamento,  negou  provimento  a  recurso
+extraordinário interposto contra acórdão do Tribunal de Justiça do
+Estado  do  Rio  de  Janeiro  que  mantivera  decisão  que  reintegrara
+associado excluído do quadro da sociedade civil União Brasileira
+de Compositores – UBC, sob o entendimento de que fora violado o
+seu  direito  de  defesa,  em  virtude  de  o  mesmo  não  ter  tido  a
+
+oportunidade  de  refutar  o  ato  que  resultara  na  sua  punição  –  v.
+Informativos  ns. 351, 370  e 385.  Entendeu-se  ser,  na  espécie,
+hipótese de aplicação direta dos direitos fundamentais às relações
+privadas. Ressaltou-se que, em razão de a UBC integrar a estrutura
+do  ECAD  –  Escritório  Central  de  Arrecadação  e  Distribuição,
+entidade  de  relevante  papel  no  âmbito  do  sistema  brasileiro  de
+proteção aos direitos autorais, seria incontroverso que, no c
+[/PAGINA 73]
+
+[PAGINA 74]
+aso, ao
+restringir  as  possibilidades  de  defesa  do  recorrido,  a  recorrente
+assumira posição privilegiada para determinar,
+preponderantemente, a extensão do gozo e da fruição dos direitos
+autorais de seu associado. Concluiu-se que as penalidades impostas
+pela recorrente ao recorrido extrapolaram a liberdade do direito de
+associação  e,  em  especial,  o  de  defesa,  sendo  imperiosa  a
+observância,  em  face  das  peculiaridades  do  caso,  das  garantias
+constitucionais  do  devido  processo  legal,  do  contraditório  e  da
+ampla  defesa.  Vencidos  a  Min.  Ellen  Gracie,  relatora,  e  o  Min.
+Carlos  Velloso,  que  davam  provimento  ao  recurso,  por  entender
+que  a  retirada  de  um  sócio  de  entidade  privada  é  solucionada  a
+partir das regras do estatuto social e da legislação civil em vigor,
+sendo incabível a invocação do princípio constitucional da ampla
+defesa”  (STF,  RE  201.819/RJ,  Rel.  Min.  Ellen  Gracie,  Rel.  p/  o
+acórdão Min. Gilmar Mendes, j. 11.10.2005).
+Interessante  verificar  que,  do  julgado  acima,  relatado  pelo  Ministro
+Gilmar Mendes, pode ser retirada outra grande lição, a de que “Um meio de
+irradiação  dos  direitos  fundamentais  para  as  relações  privadas  seriam  as
+cláusulas  gerais  (Generalklausel)  que  serviriam  de  ‘porta  de  entrada’
+(Einbruchstelle)  dos  direitos  fundamentais  no  âmbito  do  Direito  Privado”.
+Trata-se daquilo que se denomina eficácia horizontal mediata, pois há uma
+ponte infraconstitucional para as normas constitucionais: as cláusulas gerais.
+Tal  mecanismo  é  perfeitamente  possibilitado  pelo  Código  Civil  de  2002,
+diante da adoção de um modelo aberto, conforme antes demonstrado.
+No aspecto processual, vale lembrar que a Emenda Constitucional 45
+introduziu,  entre  os  direitos  fundamentais,  a  razoável  duração  do  processo
+(art. 5.º, inciso LXXVIII). Fez o mesmo o Código de Processo Civil de 2015,
+por força do seu art. 4.º, que tem a seguinte redação: “as partes têm direito de
+obter em prazo razoável a solução integral do mérito, incluída a atividade
+
+satisfativa”.  Muitas  ementas  do  Superior  Tribunal  de  Justiça  debatem  esse
+importante direito processual, especialmente os seus limites, o que deve ser
+aprofundado com a emergência do Novo Código de Processo Civil.
+Assim,  por  exemplo,  reconheceu  o  Tribunal  da  Cidadania  que  “a
+Constituição Federal assegura, em seu art. 5.º, inciso LXXVIII, como direito
+fundamental, a razoável duração do processo. Contudo, a alegação de excesso
+de  prazo  não  pode  basear-se  em  simples  critério  aritmético,  devendo  a
+demora ser analisada em cotejo com as particularidades e complexidades de
+cada caso concreto, pautando-se sempre pelo critério da razoabilidade” (STJ,
+HC  263.148/SP,  5.ª  Turma,  Rel.  Min.  Marilza  Maynard  (desembargadora
+convocada do TJSE), j. 04.06.2013, DJe 07.06.2013). Ou, ainda: “a duração
+razoável dos processos foi erigida como cláusula pétrea e direito fundamental
+pela Emenda
+[/PAGINA 74]
+
+[PAGINA 75]
+Constitucional 45, de 2004, que acresceu ao art. 5.º o inciso
+LXXVIII, in  verbis:  ‘a  todos,  no  âmbito  judicial  e  administrativo,  são
+assegurados  a  razoável  duração  do  processo  e  os  meios  que  garantam  a
+celeridade  de  sua  tramitação’.  A  conclusão  de  processo  administrativo  em
+prazo razoável é corolário dos princípios da eficiência, da moralidade e da
+razoabilidade (Precedentes: MS 13.584/DF, 3.ª Seção, Rel. Min. Jorge Mussi,
+j.  13.05.2009, DJe  26.06.2009;  REsp  1091042/SC,  2.ª  Turma,  Rel.  Min.
+Eliana  Calmon,  j.  06.08.2009, DJe  21.08.2009;  MS  13.545/DF,  3.ª  Seção,
+Rel.  Min.  Maria  Thereza  de  Assis  Moura,  j.  29.10.2008, DJe  07.11.2008;
+REsp  690.819/RS,  1.ª  Turma,  Rel.  Min.  José  Delgado,  j.  22.02.2005, DJ
+19.12.2005)”  (STJ,  EDcl  no  AgRg  no  REsp  1090242/SC,  1.ª  Turma,  Rel.
+Min. Luiz Fux, j. 28.09.2010, DJe 08.10.2010).
+No plano das Cortes Estaduais também podem ser encontradas várias
+decisões  que  aplicam  a  eficácia  horizontal  dos  direitos  fundamentais  às
+relações privadas. Do Tribunal Paulista, destaque-se julgado com o seguinte
+trecho:
+“Uma vez reconhecida, pela própria seguradora, a incapacidade do
+devedor, em razão de um câncer, e efetuado o pagamento integral
+da  dívida  financiada  pela  seguradora,  não  resta  motivo  plausível
+para  que  o  Banco  credor  negue  o  levantamento  da  garantia  e
+conceda  a  documentação  necessária  para  a  transferência  da
+propriedade  do  bem,  providência  que,  aliás,  é  um  direito  do
+apelante.  Se  o  débito  já  se  encontrava  integralmente  quitado,  o
+simples  fato  de  haver  uma  ação  revisional  em  andamento  não
+
+poderia impedir o levantamento da hipoteca. A postura do Banco se
+afasta  da  boa-fé  objetiva,  descumpre  a  eficácia  horizontal  dos
+direitos  fundamentais  e  afronta  o  princípio  do  solidarismo
+constitucional. Autor que se encontra acometido de doença maligna
+que possui tratamento reconhecidamente penoso para o paciente e
+custoso  para  sua  família.  Nada  mais  natural  que  possa,  nesse
+momento  de  aflição  e  angústia,  movimentar  seu  patrimônio  da
+forma que bem entenda, seja para custear o tratamento, seja para
+dar  melhor  condição  ao  adoentado,  pouco  importa.  Caberia  aos
+apelantes receber a documentação necessária para a transmissão da
+propriedade do imóvel, uma vez que este já havia sido quitado pela
+seguradora.  Evidente  a  ofensa  moral  causada,  que  comporta
+reparação.  Considerando  que  o  contrato  de  financiamento  se
+encontra  quitado  desde  03  de  maio  de  2004,  reconhecendo  o
+próprio  Banco  que  o  sinistro  é  datado  de  01  de  abril  de  2003,
+permanecendo  os  apelantes  até  os  dias  atuais  com  a  hipoteca
+pendendo sobre seu bem imóvel, deve ser fixada indenização por
+danos morais, em favor dos recorrentes, em quantia equivalente a
+R$ 16.000,00 (dezesseis mil reais), suficiente para reparar os danos
+causados e impingir ao Banco o dever de aprimorar
+[/PAGINA 75]
+
+[PAGINA 76]
+a prestação de
+seus  serviços”  (TJSP,  Apelação  9127680-34.2008.8.26.0000,
+Acórdão  6755404,  Santos,  20.ª  Câmara  de  Direito  Privado,  Rel.
+Des. Maria Lúcia Pizzotti, j. 20.05.2013, DJESP 12.06.2013).
+Nota-se, por fim, que existe uma relação inafastável entre essa eficácia
+das normas que protegem a pessoa nas relações entre particulares e o sistema
+de cláusulas gerais adotado pela codificação de 2002. Em sintonia, com tudo
+o  que  foi  aqui  exposto,  é  preciso  estudar  a  festejada  tese  do diálogo das
+fontes.
+2.1.3 O diálogo das fontes
+A  tese  do  diálogo  das  fontes  foi  desenvolvida  na  Alemanha  por  Erik
+Jayme,  professor  da  Universidade  de  Helderberg,  trazida  ao  Brasil  por
+Claudia Lima Marques, da Universidade Federal do Rio Grande do Sul. A
+essência da teoria é que as normas jurídicas não se excluem – supostamente
+porque  pertencentes  a  ramos  jurídicos  distintos  –,  mas  se  complementam.
+
+Como se pode perceber há nesse marco teórico, do mesmo modo, a premissa
+de uma visão unitária do ordenamento jurídico.
+A primeira justificativa que pode surgir para a sua aplicação refere-se à
+sua funcionalidade. É cediço que vivemos um momento de explosão de leis,
+um “Big Bang legislativo”, como simbolizou Ricardo Lorenzetti. O mundo
+pós-moderno  e  globalizado,  complexo  e  abundante  por  natureza,  convive
+com uma quantidade enorme de normas jurídicas, a deixar o aplicador do
+Direito até desnorteado. Convive-se com a era da desordem, conforme expõe
+o  mesmo  Lorenzetti.
+23
+  O diálogo  das  fontes  serve  como  leme  nessa
+tempestade de complexidade.
+Relativamente  às  razões  filosóficas  e  sociais  da  aplicação  da  tese,
+Claudia Lima Marques ensina que:
+“Segundo Erik Jayme, as características da cultura pós-moderna no
+direito  seriam  o  pluralismo,  a  comunicação,  a  narração,  o  que
+Jayme denomina de ‘le retour des sentiments’, sendo o Leitmotiv
+da  pós-modernidade  a  valorização  dos  direitos  humanos.  Para
+Jayme, o direito como parte da cultura dos povos muda com a crise
+da pós-modernidade. O pluralismo manifesta-se na multiplicidade
+de fontes legislativas a regular o mesmo fato, com a descodificação
+ou   a   implosão   dos   sistemas   genéricos   normativos
+(‘Zersplieterung’),  manifesta-se  no  pluralismo  de  sujeitos  a
+proteger, por vezes difusos, como o grupo de consumidores ou os
+que se beneficiam da proteção do meio ambiente, na pluralidade de
+agentes ativos de uma mesma relação, como os fornecedores que se
+organizam   em   cadeia   e   em   relações   extremamente
+despersonalizadas.   Pluralismo   também   na   filosofia   aceita
+atualmente,  onde  o  diálogo  é  que  legitima  o  consenso,  onde  os
+valores  e  princípios  têm  sempre  uma  dupla  função,  o  ‘double
+coding’,  e  onde  os  valores  são  muitas  vezes  antinômicos.
+Pluralismo nos direitos assegurados, nos direitos à diferença e ao
+tratamento diferenciado aos privilégios dos ‘espaços de excelência’
+(Jayme, Erik. Identité culturell
+[/PAGINA 76]
+
+[PAGINA 77]
+e et intégration: le droit international
+privé  postmoderne. Recueil  des  Cours  de  l’Académie  de  Droit
+International de la Haye, 1995, II, Kluwer, Haia, p. 36 e ss.).”
+24
+A primeira tentativa de aplicação da tese do diálogo das fontes se dá
+
+com a possibilidade de subsunção concomitante tanto do Código de Defesa
+do  Consumidor  quanto  do  Código  Civil  a  determinadas  relações
+obrigacionais,  sobretudo  aos  contratos.  Isso  diante  da  já  conhecida
+aproximação  principiológica  entre  os  dois  sistemas,  consolidada  pelos
+princípios sociais contratuais, sobretudo pela boa-fé objetiva e pela função
+social dos contratos. Supera-se a ideia de que o Código Consumerista seria
+um microssistema jurídico, totalmente isolado do Código Civil de 2002.
+Como outro exemplo de interação necessária, a este autor parece que o
+Novo CPC intensificou a possibilidade de diálogos com a legislação material,
+em  especial  por  ter  adotado  um  sistema  aberto  e  constitucionalizado.
+Ademais, a valorização da boa-fé objetiva processual possibilita a aplicação
+concomitante  do  CPC/2015  e  do  CC/2002,  com  o  intuito  de  valorizar  a
+conduta  de  lealdade  das  partes  durante  o  curso  de  uma  demanda  judicial.
+Sendo assim, acredita-se que muitos julgados surgirão, nos próximos anos,
+fazendo incidir a teoria do diálogo das fontes nessa seara.
+Feitas  tais  considerações,  Claudia  Lima  Marques  demonstra três
+diálogos possíveis a partir da teoria exposta:
+25
+a)  Em  havendo  aplicação  simultânea  das  duas  leis,  se
+uma  lei  servir  de  base  conceitual  para  a  outra,  estará
+presente o diálogo sistemático de coerência. Exemplo: os
+conceitos dos contratos de espécie podem ser retirados do
+Código Civil mesmo sendo o contrato de consumo, caso
+de uma compra e venda (art. 481 do CC).
+b) Se o caso for de aplicação coordenada de duas leis,
+uma  norma  pode  completar  a  outra,  de  forma  direta
+(diálogo de complementaridade) ou indireta (diálogo de
+subsidiariedade).  O  exemplo  típico  ocorre  com  os
+contratos  de  consumo  que  também  são  de  adesão.  Em
+relação  às  cláusulas  abusivas,  pode  ser  invocada  a
+proteção dos consumidores constante do art. 51 do CDC
+e ainda a proteção dos aderentes constante do art. 424 do
+CC.
+c)  Os diálogos  de  influências  recíprocas  sistemáticas
+estão  presentes  quando  os  conceitos  estruturais  de  uma
+determinada  lei  sofrem  influências  da  outra.  Assim,  o
+
+conceito  de  consumidor  pode  sofrer  influências  do
+próprio  Código  Civil.  Como  afirma  a  própria  Claudia
+Lima  Marques,  “é  a  influência  do  sistema  especial  no
+geral e do geral no especial, um diálogo de doublé sens
+(diálogo de coordenação e adaptação sistemática)”.
+Analisadas  essas  premissas,  é  interessante  trazer  à  colação,  com  os
+devidos  comentários,  alguns  julgados  nacionais  que  aplicaram  a  tese  do
+diálogo das fontes, propondo principalmente uma interação entre o Código
+Civil de 2002 e o Código de Defesa
+[/PAGINA 77]
+
+[PAGINA 78]
+do Consumidor.
+De início, limitando os juros cobrados em cartão de crédito e aplicando a
+aclamada teoria, do Tribunal de Justiça da Bahia, entre tantas ementas que se
+repetem:
+“Consumidor. Cartão de crédito. Juros abusivos. Código de Defesa
+do  Consumidor.  Juros  estipulação  usurária  pecuniária  ou  real.
+Trata-se de crime previsto na Lei n.º 1.521/51, art. 4.º. Limitação
+prevista na Lei n.º 4.595/64 e das normas do Conselho Monetário
+Nacional, regulação vigorante, ainda que depois da revogação do
+art.  192  da  CF/1988,  pela  Emenda  Constitucional  40  de  2003.
+Manutenção da razoabilidade e limitação de prática de juros pelos
+artigos 161 do CTN combinando com 406 e 591 do CC 2002. A
+cláusula geral da boa-fé está presente tanto no Código de Defesa do
+Consumidor  (arts.  4.º,  III,  e  51,  IV,  e  §  1.º,  do  CDC)  como  no
+Código Civil de 2002 (arts. 113, 187 e 422), que devem atuar em
+diálogo (diálogo das fontes, na expressão de Erik Hayme) e sob a
+luz  da  Constituição  e  dos  direitos  fundamentais  para  proteger  os
+direitos  dos  consumidores  (art.  7.º  do  CDC).  Relembre-se,  aqui,
+portanto,  do  Enunciado  de  n.  26  da Jornada  de  Direito  Civil,
+organizada pelo STJ em 2002, que afirma: ‘a cláusula geral contida
+no  art.  422  do  novo  Código  Civil  impõe  ao  juiz  interpretar  e,
+quando  necessário,  suprir  e  corrigir  o  contrato  segundo  a  boa-fé
+objetiva,  entendida  como  exigência  de  comportamento  leal  dos
+contratantes’.  Recurso  improcedente”  (TJBA,  Recurso  0204106-
+62.2007.805.0001-1,  2.ª  Turma  Recursal,  Rel.  Juíza  Nicia  Olga
+Andrade de Souza Dantas, DJBA 25.01.2010).
+
+Do Tribunal do Rio Grande do Norte, da mesma maneira tentando uma
+aproximação conceitual entre os dois Códigos, colaciona-se:
+“Civil.  CDC.  Processo  Civil.  Apelação  cível.  Juízo  de
+admissibilidade  positivo.  Ação  de  indenização  por  danos  morais.
+Contrato de promessa de compra e venda de imóvel. Notificação
+cartorária.  Cobrança  indevida.  Prestação  de  serviços.  Relação  de
+consumo  configurada.  Incidência  do  Código  Civil.  Diálogo  das
+fontes. Responsabilidade objetiva. Vício de qualidade. Dano moral
+configurado. Dano à honra. Abalo à saúde. Quantum indenizatório
+excessivo.  Redução.  Minoração  da  condenação  em  honorários
+advocatícios.  Recurso  conhecido  e  provido  em  parte”  (TJRN,
+Acórdão 2009.010644-0, Natal, 3.ª Câmara Cível, Rel. Juíza Conv.
+Maria Neize de Andrade Fernandes, DJRN 03.12.2009, p. 39).
+Tratando da coexistência entre as leis, enunciado fundamental da teoria
+do diálogo das fontes, destaque-se decisão do Tribunal do Rio Grande do Sul:
+“Embargos  de  declaração.  Ensino  particular.  Desnecessidade  de
+debater todos os argumentos das partes. Aplicação do Código de
+Defesa  do  Consumidor.  Diálogo  das  fontes.  1.  Formada  a
+convicção pelo julgador que já encontrou motivação suficiente para
+alicerçar sua decisão, e fundamentada nesse sentido, consideram-se
+afastadas teses, normas ou arg
+[/PAGINA 78]
+
+[PAGINA 79]
+umentos porventura esgrimidos em
+sentidos diversos. 2. Em matéria de consumidor vige um método de
+superação das antinomias chamado de diálogo das fontes, segundo
+o qual o diploma consumerista coexiste com as demais fontes de
+direito  como  o  Código  Civil  e  Leis  esparsas.  Embargos
+desacolhidos”  (TJRS,  Embargos  de  Declaração  70027747146,
+Caxias do Sul, 6.ª Câmara Cível, Rel. Des. Liége Puricelli Pires, j.
+18.12.2008, DOERS 05.02.2009, p. 43).
+Por  fim,  sem  prejuízo  de  inúmeros  outros  julgados  que  utilizaram  a
+teoria  do  diálogo  das  fontes,  merecem  relevo  os  seguintes  acórdãos  do
+Tribunal  de  São  Paulo,  do  mesmo  modo  buscando  uma  interação  entre  o
+CC/2002 e o CDC:
+“Civil.  Compromisso  de  compra  e  venda  de  imóvel.  Transação.
+
+Carta de crédito. Relação de consumo. Lei 8.078/90. Diálogo das
+fontes. Abusividade das condições consignadas em carta de crédito.
+Validade  do  instrumento  quanto  ao  reconhecimento  de  dívida.
+Processual  civil.  Honorários.  Princípio  da  sucumbência  e  da
+causalidade.  Arbitramento  em  conformidade  com  o  disposto  no
+artigo 20, § 3.º do CPC. Recurso desprovido” (TJSP, Apelação com
+Revisão 293.227.4/4, Acórdão 3233316, São Paulo, 2.ª Câmara de
+Direito Privado, Rel. Des. Boris Padron Kauffmann, j. 09.09.2008,
+DJESP 01.10.2008).
+“Responsabilidade  civil.  Defeito  em  construção.  Contrato  de
+empreitada  mista.  Responsabilidade  objetiva  do  empreiteiro.
+Análise  conjunta  do  CC  e  CDC.  Diálogo  das  fontes.  Sentença
+mantida.  Recurso  improvido”  (TJSP,  Apelação  com  Revisão
+281.083.4/3,  Acórdão  3196517,  Bauru,  8.ª  Câmara  de  Direito
+Privado,  Rel.  Des.  Caetano  Lagrasta,  j.  21.08.2008, DJESP
+09.09.2008).
+“Responsabilidade civil por vícios de construção. Desconformidade
+entre o projeto e a obra. Paredes de espessura inferior às constantes
+do projeto, que provocam alterações acústicas e de temperatura nas
+unidades  autônomas.  Responsabilidade  da  incorporadora  e
+construtora pela correta execução do empreendimento. Vinculação
+da  incorporadora  e  construtora  à  execução  das  benfeitorias
+prometidas,   que   integram   o   preço.   Desvalorização   do
+empreendimento.  Indenização  pelos  vícios  de  construção  e  pelas
+desconformidades com o projeto original e a oferta aos adquirentes
+das  unidades.  Inocorrência  de  prescrição  ou  decadência  da
+pretensão  ou  direito  à  indenização.  Incidência  do  prazo
+prescricional  de  solidez  da  obra  do  Código  Civil.  Diálogo  das
+fontes com o Código de Defesa do Consumidor. Ação procedente.
+Recurso improvido” (TJSP, Apelação Cível 407.157.4/8, Acórdão
+2635077,  Piracicaba,  4.ª  Câmara  de  Direito  Privado,  Rel.  Des.
+Francisco Loureiro, j. 29.05.2008, DJESP 20.06.2008).
+Superada  essas  exemplificações  de  diálogos  entre  o  Direito  Civil  e  o
+Direito do Consumidor, é imperioso dizer que também são possíveis diálogos
+
+entre o Direito Civil e o Direito do Trabalho, particularmente entre o Códig
+[/PAGINA 79]
+
+[PAGINA 80]
+o
+Civil e a legislação trabalhista, o que é totalmente viável e, mais do que isso,
+plenamente recomendável.
+Para  esse  diálogo,  de  início,  é  importante  apontar  que  o  Direito  do
+Trabalho é ramo do Direito Privado, assim como o é o Direito Civil. Quanto
+ao contrato de trabalho, a sua própria concepção é feita com vistas à proteção
+do vulnerável dessa relação privada, o empregado ou trabalhador. Há tempos
+que  o  Direito  do  Trabalho  lida  com  a  diferença  existente  no  contrato  em
+questão,   visando   tutelar   camadas   da   população   desprotegidas   e
+desamparadas.  Talvez  a  legislação  trabalhista  seja  o  primeiro  exemplo  de
+dirigismo contratual, de intervenção do Estado e da lei nos contratos.
+Conforme o art. 8.º da CLT, o direito comum e, logicamente, o Direito
+Civil  são  fontes  subsidiárias  do  Direito  do  Trabalho.  Na  verdade,  pela
+aplicação da tese do diálogo das fontes, o que se propõe é uma nova leitura
+desse  comando  legal.  Não  se  deve  mais  considerar  o  Direito  Civil  como
+simples fonte subsidiária, mas, em alguns casos, como fonte direta do Direito
+do Trabalho.
+Isso  porque,  em  muitas  situações  atualmente  comuns  à  prática
+trabalhista, não há normas de Direito do Trabalho regulamentando a matéria.
+Em  casos  tais  é  que  as  normas  do  Código  Civil  terão  aplicação.  Outro
+argumento interessante é que, quando a CLT entrou em vigor, não vivíamos
+esse momento de complexidade legislativa atual.
+Trazendo  clarividência  a  essa  complexidade,  anote-se  que  a  Emenda
+Constitucional 45/2004 ampliou enormemente a competência da Justiça do
+Trabalho  para  tratar  de  casos  que  antes  eram  da  competência  da  Justiça
+Comum,  como  a  responsabilidade  civil  por  acidente  de  trabalho  ou  em
+decorrência  do  contrato  de  trabalho.  Como  não  há  legislação  trabalhista  a
+tratar do tema, o aplicador do Direito deve procurar socorro nas normas do
+Código Civil que tratam da responsabilidade civil.
+Em  suma,  a  partir  da  interação  científica  a  doutrina  civilista  deve
+preencher as estantes do intérprete que atua na área trabalhista, para motivar
+o seu convencimento e os seus argumentos. Na área trabalhista, já podem ser
+encontrados arestos que fazem menção à teoria do diálogo das fontes, com
+destaque para o seguinte:
+“Trabalho temporário. Aplicação da CLT ou outro diploma legal.
+Possibilidade.  Diálogo  das  fontes.  A  circunstância  de  o  trabalho
+
+temporário ser disciplinado pela lei 6.019/74. Não importa, de per
+si,  em  inaplicabilidade  da  CLT  ou  mesmo  de  outros  diplomas
+legais, como o Código Civil, por exemplo, e isso porque, como se
+sabe,  hodiernamente,  diante  do  aumento  dos  microssistemas,
+regulando  situações  específicas,  imprescindível  o  recurso  ao
+denominado diálogo das fontes, como meio mais eficaz de proteção
+à parte mais fraca de uma relação jurídica, preservando-se a sua
+dignidade de pessoa humana e também por possibilitar uma visão
+de  conjunto  qu
+[/PAGINA 80]
+
+[PAGINA 81]
+e  um  olhar  parcial,  por  óbvio,  não  proporciona.
+Trabalho temporário. Contrato. Validade. Requisitos. A se entender
+que  a  mera  celebração  de  contrato  escrito  e  normalmente  com
+cláusulas  já  previamente  estabelecidas,  entre  as  empresas
+prestadora  e  tomadora  de  serviços  e  entre  aquela  e  o  obreiro,
+apontando,  passe  a  singeleza  do  vocábulo,  ‘secamente’  qual  o
+motivo da contratação, às vezes apenas assinalando com um ‘X’
+um espaço em branco, atende ao quanto disposto na referida ‘lex’,
+bem é de ver que muito raramente se encontrará algum contrato de
+trabalho temporário que padeça de algum vício de nulidade, todos
+serão  celebrados  com  a  mais  absoluta  observância  das  normas
+legais pertinentes, de modo que, em situações nas quais se fala em
+substituição transitória de pessoal permanente ou quando o motivo
+determinante  é  o  acréscimo  extraordinário  de  serviços,  há  de  ser
+apontado o que levou a que se desse uma ou outra situação, sendo
+totalmente insuficiente a mera alusão, sem maiores especificações,
+a respeitante necessidade. Em outras palavras, não basta dizer que o
+motivo  da  contratação  do  trabalho  temporário  é  este  ou  aquele,
+mesmo porque, só em razão dos mesmos é que tal concerto pode
+ser  ajustado,  imprescindível  o  deixar  claro  qual  a  situação  que
+provocou e/ou que dá sustentação ao motivo alegado; por exemplo,
+um  pedido  de  cliente  absolutamente  imprevisto  e  que,  para  ser
+atendido,  provoca  –  aí  sim  –  um  acréscimo  extraordinário  de
+serviço,  do  contrário,  se  mencionada  situação  não  ficar
+devidamente apontada, a rigor, as normas aplicáveis não restaram
+satisfeitas,  como  deveriam  sê-lo,  o  que  leva  à  decretação  de
+nulidade do contrato de trabalho temporário, por não demonstrado
+o preenchimento das condições necessárias à sua celebração” (TRT
+da  15.ª  Região,  Recurso  Ordinário  1146-2007-059-15-00-9,
+
+Acórdão  45622/08,  5.ª  Câmara,  Rel.  Des.  Francisco  Alberto  da
+Motta Peixoto Giordani, DOESP 01.08.2008, p. 95).
+A encerrar o presente tópico, destaque-se que a teoria do diálogo das
+fontes surge para substituir e superar os critérios clássicos de solução das
+antinomias jurídicas (hierárquico, especialidade e cronológico). Realmente,
+esse será o seu papel no futuro. No momento, ainda é possível conciliar tais
+critérios com a aclamada tese, premissa que guiará a presente obra, que tenta
+conciliar o clássico e o contemporâneo, o moderno e o pós-moderno.
+2.1.4 A interação entre as teses
+expostas e a visão unitária do
+ordenamento jurídico
+Para finalizar o estudo da introdução ao Código Civil de 2002, pode-se
+demonstrar  uma  relação  direta  entre  o diálogo  das  fontes,   a
+constitucionalização  do  Direito  Civil  (com  o  surgimento  do Direito  Civil
+Constitucional),  a  eficácia horizontal  dos  direitos  fundamentais,  a
+personalização do Direito Civil e o sistema de cláusulas gerais construído
+pela ontognoseologia realeana.
+Ora,  a  constituc
+[/PAGINA 81]
+
+[PAGINA 82]
+ionalização  do  Direito  Civil  nada  mais  é  do  que  um
+diálogo entre o Código Civil e a Constituição (Direito Civil Constitucional).
+Com isso se vai até a Constituição, onde repousa a proteção da pessoa como
+máxime do nosso ordenamento jurídico (personalização).
+Para  que  essa  proteção  seja  possível,  deve-se  reconhecer  a eficácia
+horizontal dos direitos fundamentais, ou seja, que as normas que protegem a
+pessoa, previstas no Texto Maior, têm aplicação imediata nas relações entre
+particulares.  A porta  de  entrada  dessas  normas  protetivas,  nas  relações
+privadas,  pode  se  dar  por  meio  das  cláusulas  gerais  (eficácia  horizontal
+mediata), ou mesmo de forma direta (eficácia horizontal imediata).
+Em síntese, percebe-se que todas essas teorias possibilitam a visão de
+um  sistema  unitário,  em  que  há  mútuos  diálogos  e  o  reconhecimento  da
+interdisciplinaridade.  Assim  está  sendo  construído  o  Direito  Civil
+Contemporâneo.
+2.2 PARTE GERAL DO CÓDIGO CIVIL
+
+DE 2002. DA PESSOA NATURAL
+2.2.1 Conceitos iniciais. A capacidade
+e conceitos correlatos
+O Código Civil de 2002, a exemplo de seu antecessor, cuida primeiro da
+pessoa natural como sujeito de direito, entre os seus arts. 1.º a 39. Consigne-
+se que a atual codificação não reproduziu o preceito geral de seu conteúdo,
+constante do art. 1.º do CC/1916 o que, de fato, é dispensável (“Art. 1.º Este
+Código  regula  os  direitos  e  obrigações  de  ordem  privada  concernentes  às
+pessoas, aos bens e às suas relações”).
+Como  dispositivo  inaugural  da  norma  privada,  enuncia  o  art.  1.º  do
+CC/2002 que “toda pessoa é capaz de direitos e deveres na ordem civil”. Três
+constatações pontuais podem ser retiradas do comando legal.
+A primeira é que o artigo não faz mais menção a homem, como constava
+do  art.  2.º  do  Código  Civil,  adaptando-se  à  Constituição  Federal,  que
+consagra a dignidade da pessoa humana (art. 1.º, inc. III), assim como fez o
+art.  8.º  do  Novo  Código  de  Processo  Civil.  Trata-se  de  conquista  do
+movimento feminista, uma das mobilizações efetivas que inaugurou a pós-
+modernidade jurídica.
+A segunda  constatação  diz  respeito  à  menção  a  deveres  e  não
+obrigações,  como  do  mesmo  modo  constava  do  art.  2.º  do  CC/1916.  Isso
+porque  existem  deveres  que  não  são  obrigacionais,  em  um  sentido
+patrimonializado, caso dos deveres que decorrem da boa-fé.
+Terceira,  ao  mencionar  a  pessoa  na  ordem  civil,  há  um  sentido  de
+socialidade, como pregava Miguel Reale.
+A norma em questão trata da capacidade de direito ou de gozo, que é
+aquela para ser sujeito de direitos e deveres na ordem privada, e que todas as
+pessoas  têm  sem  distinção.  Em  suma,  havendo  pessoa,  está  presente  tal
+capacidade, não importando questões formais como ausência de certidão de
+nascimento ou de documentos.
+É notório que existe ainda outra capacidade, aquela para exercer direitos,
+denominada como capacidade de fato ou de exercício, e que algumas pess
+[/PAGINA 82]
+
+[PAGINA 83]
+oas
+não têm. São os incapazes, especificados pelos arts. 3.º e 4.º do CC/2002, e
+que receberão estudo em tópico próprio. A propósito, advirta-se de imediato
+que a teoria das incapacidades sofreu grandes alterações estruturais com a
+
+emergência  do  Estatuto  da  Pessoa  com  Deficiência,  instituído  pela  Lei
+13.146,  de  julho  de  2015.  A  fórmula  a  seguir  demonstra  a  questão  da
+capacidade da pessoa natural:
+CAPACIDADE DE DIREITO (GOZO) + CAPACIDADE DE FATO
+(EXERCÍCIO) = CAPACIDADE CIVIL PLENA
+Repise-se  que  todas  as  pessoas  têm  a  primeira  capacidade,  o  que
+pressupõe a segunda, em regra, uma vez que a incapacidade é exceção.
+O estudioso deve estar atento para os conceitos correlatos à capacidade
+da pessoa natural, a seguir expostos:
+a)  Legitimação  –  capacidade  especial  para  determinado
+ato ou negócio jurídico. Como primeiro exemplo, cite-se
+a  necessidade  de  outorga  conjugal  para  vender  imóvel,
+sob pena de anulabilidade do contrato (arts. 1.647, inc. I,
+e  1.649  do  CC).  Outro  exemplo  envolve  a  venda  de
+ascendente  a  descendente,  havendo  necessidade  de
+autorização  dos  demais  descendentes  e  do  cônjuge  do
+alienante, mais uma vez sob pena de anulabilidade (art.
+496 do CC).
+b)  Legitimidade  –  é  a  capacidade  processual,  uma  das
+condições  da  ação  (art.  3.º  do  CPC/1973,  repetido
+parcialmente pelo art. 17 do CPC/2015). Constata-se que
+o  próprio  legislador  utiliza  os  termos  legitimação  e
+legitimidade como sinônimos. Exemplificando, o art. 12,
+parágrafo  único,  do  CC/2002,  trata  dos  legitimados
+processualmente para as medidas de tutela dos interesses
+do  morto,  fazendo  uso  do  termo legitimação.  O  certo
+seria mencionar a legitimidade.
+c) Personalidade – é a soma de caracteres da pessoa, ou
+seja, aquilo que ela é para si e para a sociedade. Afirma-
+se  doutrinariamente  que  a  capacidade  é  a  medida  da
+personalidade,  ou  seja,  “a  personalidade  é  um quid
+(substância, essência) e a capacidade um quantum”.
+26
+
+Encerrado o estudo de tais conceitos iniciais, parte-se para a abordagem
+sobre o início da personalidade civil.
+2.2.2 O início da personalidade civil.
+A situação jurídica do nascituro
+A respeito do início da personalidade, enuncia o art. 2.º do atual Código
+Civil que “A personalidade civil da pessoa começa do nascimento com vida;
+mas a lei põe a salvo, desde a concepção, os direitos do nascituro”. A norma
+praticamente repete o já reticente art. 4.º do CC/1916.
+Como é notório, o nascituro é aquele que foi concebido, mas ainda não
+nasceu. Parece ser mais correta a tese, encabeçada pela Professora Titular da
+USP  Silmara  Juny  Chinellato,  de  que  a  proteção  referente  ao  nascituro
+abrange também o embrião pré-implantatório in vitro ou crioconservado, ou
+seja, aquele que não foi introduzido no ventre materno.
+27
+Todavia, a questão não é pacífica, pois há corrente liderada por Maria
+Helena Diniz que deduz que o embrião não está abrangido pelo art. 2.º do
+CC/2002, um
+[/PAGINA 83]
+
+[PAGINA 84]
+a vez que se diferencia do nascituro por ter vida extrauterina.
+28
+Justamente  por  isso,  o  antigo  Projeto  de  Lei  Ricardo  Fiúza  (antigo  PL
+6.960/2002,  atual  PL  699/2011),  pretende  incluir  no  comando  a  menção
+expressa ao embrião, encerrando a polêmica doutrinária.
+Mas  a  maior  controvérsia  existente  não  é  essa,  e  sim  a  referente  à
+personalidade civil do nascituro, uma vez que o art. 2.º do CC/2002 continua
+colocando em colisão as teorias natalistas e concepcionistas. A polêmica não
+foi encerrada pelo fato de a norma continuar a utilizar os termos nascimento e
+concepção. Na primeira parte, o artigo parece indicar que o nascituro não é
+pessoa, não tendo direito. Entretanto, na sua segunda parte afirma o contrário.
+Para  dirimir  dúvidas,  realizar  pesquisa  científica  e  aprofundar  o  seu
+estudo, este autor escreveu artigo sobre o tema intitulado A situação jurídica
+do nascituro: uma página a ser virada no Direito Brasileiro.
+29
+ Nesse trabalho
+de  pesquisa,  onde  constam  todas  as  referências  bibliográficas,  foram
+encontradas três correntes que procuraram justificar a situação do nascituro,
+que passam a ser expostas de forma pontual, com a citação também a outros
+autores, pesquisados após sua elaboração.
+a)  Teoria  natalista  A teoria  natalista  prevalecia  entre  os autores
+modernos ou clássicos do Direito Civil Brasileiro, para quem o nascituro não
+
+poderia  ser  considerado  pessoa,  pois  o  Código  Civil  exigia  e  ainda  exige,
+para a personalidade civil, o nascimento com vida. Assim sendo, o nascituro
+não  teria  direitos,  mas  mera  expectativa  de  direitos.  Como  adeptos  dessa
+corrente, da doutrina tradicional, podem ser citados Silvio Rodrigues, Caio
+Mário  da  Silva  Pereira  e  San  Tiago  Dantas.  Na  doutrina  contemporânea,
+filiam-se  a  essa  corrente  Sílvio  de  Salvo  Venosa  e  Anderson  Schreiber,  o
+último  no  nosso Código  Civil  comentado.
+30
+  Partem  esses  autores  de  uma
+interpretação  literal  e  simplificada  da  lei,  que  dispõe  que  a  personalidade
+jurídica começa com o nascimento com vida, o que traz a conclusão de que o
+nascituro não é pessoa.
+O grande problema da teoria natalista é que ela não consegue responder
+à seguinte constatação e pergunta: se o nascituro não tem personalidade, não
+é pessoa; desse modo, o nascituro seria uma coisa? A resposta acaba sendo
+positiva a partir da primeira constatação de que haveria apenas expectativa de
+direitos. Além disso, a teoria natalista está totalmente distante do surgimento
+das  novas  técnicas  de  reprodução  assistida  e  da  proteção  dos  direitos  do
+embrião.  Também  está  distante  de  uma  proteção  ampla  de  direitos  da
+personalidade, tendência do Direito Civil pós-moderno.
+Do  ponto  de  vista  prático,  a teoria  natalista  nega  ao  nascituro  até
+mesmo os seus direitos fundamentais, relacionados com a sua personalidade,
+caso do direito à vida, à investigação de paternidade, aos alimentos, ao nome
+e até à ima
+[/PAGINA 84]
+
+[PAGINA 85]
+gem. Com essa negativa, a teoria natalista esbarra em dispositivos
+do  Código  Civil  que  consagram  direitos  àquele  que  foi  concebido  e  não
+nasceu. Essa negativa de direitos é mais um argumento forte para sustentar a
+total superação dessa corrente doutrinária.
+b)  Teoria  da  personalidade  condicional  A teoria  da  personalidade
+condicional  é  aquela  pela  qual  a  personalidade  civil  começa  com  o
+nascimento  com  vida,  mas  os  direitos  do  nascituro  estão  sujeitos  a  uma
+condição  suspensiva,  ou  seja,  são  direitos  eventuais.  Como  se  sabe,  a
+condição suspensiva é o elemento acidental do negócio ou ato jurídico que
+subordina  a  sua  eficácia  a  evento  futuro  e  incerto.  No  caso,  a  condição  é
+justamente o nascimento daquele que foi concebido. Como fundamento da
+tese e da existência de direitos sob condição suspensiva, pode ser citado o art.
+130 do atual Código Civil. Como entusiastas desse posicionamento, podem
+ser citados Washington de Barros Monteiro, Miguel Maria de Serpa Lopes e
+Clóvis  Beviláqua,  supostamente.  Diz-se supostamente  quanto  ao  último
+
+jurista,  pois,  apesar  de  ter  inserido  tal  teoria  no  Código  Civil  de  1916,
+afirmava que “parece mais lógico afirmar francamente, a personalidade do
+nascituro”.
+31
+ Na doutrina atual, Arnaldo Rizzardo segue o entendimento da
+teoria da personalidade condicional.
+O  grande  problema  da  corrente  doutrinária  é  que  ela  é  apegada  a
+questões patrimoniais, não respondendo ao apelo de direitos pessoais ou da
+personalidade a favor do nascituro. Ressalte-se, por oportuno, que os direitos
+da  personalidade  não  podem  estar  sujeitos  a  condição,  termo  ou  encargo,
+como  propugna  a  corrente.  Além  disso,  essa  linha  de  entendimento  acaba
+reconhecendo que o nascituro não tem direitos efetivos, mas apenas direitos
+eventuais  sob  condição  suspensiva,  ou  seja,  também  mera  expectativa  de
+direitos.
+Na  verdade,  com  devido  respeito  ao  posicionamento  em  contrário,
+consideramos  que  a teoria da personalidade condicional  é  essencialmente
+natalista, pois também parte da premissa de que a personalidade tem início
+com  o  nascimento  com  vida.  Não  há,  portanto,  uma teoria  mista,  como
+querem alguns. Por isso, em uma realidade que prega a personalização do
+Direito Civil, uma tese essencialmente patrimonialista não pode prevalecer.
+32
+c) Teoria concepcionista A teoria concepcionista é aquela que sustenta
+que o nascituro é pessoa humana, tendo direitos resguardados pela lei. Esse é
+o  entendimento  defendido  por  Silmara  Juny  Chinellato  (a  principal
+precursora da tese no Brasil), Pontes de Miranda, Rubens Limongi França,
+Giselda Maria Fernandes Novaes Hironaka, Pablo Stolze Gagliano e Rodolfo
+Pamplona  Filho,  Roberto  Senise  Lisboa,  José  Fernando  Simão,  Cristiano
+Chaves de Farias e Nelson Rosenvald, Francisco Amaral, Guilherme Calmon
+Nogueira da Gama, Antonio Junqueira de Azevedo, Gustavo Rene Nicolau,
+Renan Lotufo e Ma
+[/PAGINA 85]
+
+[PAGINA 86]
+ria Helena Diniz. Em sua obra sobre a Parte Geral do
+Código  Civil  de  2002,  lançada  no  ano  de  2012,  o  Mestre  Álvaro  Villaça
+Azevedo  também  expõe  que  o  correto  é  sustentar  que  a  personalidade  é
+adquirida desde a concepção.
+33
+A  maioria  dos  autores  citados  aponta  que  a  origem  da  teoria  está  no
+Esboço  de  Código  Civil  elaborado  por  Teixeira  de  Freitas,  pela  previsão
+constante do art. 1.º da sua Consolidação das Leis Civis, segundo o qual “as
+pessoas consideram-se como nascidas apenas formadas no ventre materno; a
+Lei lhes conserva seus direitos de sucessão ao tempo de nascimento”. Como é
+notório, esse Esboço inspirou o anterior Código Civil argentino, que adotava
+expressamente a teoria concepcionista. O Novo Código Civil e Comercial
+
+Argentino,  em  vigor  a  partir  de  2015  naquele  País,  confirma  a  premissa,
+enunciando, em seu art. 19, que a existência da pessoa humana começa com a
+concepção.
+Consigne-se  que  a  conclusão  pela  corrente  concepcionista  consta  do
+Enunciado n. 1, do Conselho da Justiça Federal (CJF), aprovado na I Jornada
+de Direito Civil, e que também enuncia direitos ao natimorto, cujo teor segue:
+“Art. 2.º A proteção que o Código defere ao nascituro alcança o natimorto no
+que  concerne  aos  direitos  da  personalidade,  tais  como  nome,  imagem  e
+sepultura”.
+Como  se  pode  notar,  a teoria concepcionista  é  aquela  que  prevalece
+entre os doutrinadores contemporâneos do Direito Civil Brasileiro. Para essa
+corrente, o nascituro tem direitos reconhecidos desde a concepção. Quanto à
+Professora  Maria  Helena  Diniz,  há  que  se  fazer  um  aparte,  pois  alguns
+autores a colocam como seguidora da tese natalista, o que não é verdade. A
+renomada   doutrinadora,   em   construção   interessante,   classifica   a
+personalidade jurídica em formal e material, a saber:
+– Personalidade jurídica formal – é aquela relacionada
+com os direitos da personalidade, o que o nascituro já tem
+desde a concepção.
+– Personalidade jurídica material – mantém relação com
+os direitos patrimoniais, e o nascituro só a adquire com o
+nascimento com vida, segundo a doutrinadora.
+A  jurista  afirma  expressamente  que  a  razão  está  com  a teoria
+concepcionista, filiando-se a tal corrente teórica.
+34
+A corrente concepcionista tem também prevalecido na jurisprudência do
+Superior Tribunal de Justiça. De início, em notório julgado foi reconhecido
+dano  moral  ao  nascituro,  pela  morte  de  seu  pai  ocorrida  antes  do  seu
+nascimento:
+“Direito civil. Danos morais. Morte. Atropelamento. Composição
+férrea. Ação ajuizada 23 anos após o evento. Prescrição inexistente.
+Influência  na  quantificação  do quantum.  Precedentes  da  turma.
+Nascituro. Direito aos danos morais. Doutrina. Atenuação. Fixação
+
+nesta  instância.  Possibilidade.  Recurso  parcialmente  provido.  I  –
+Nos  termos  da  orientação  da  Turma,  o  direito  à  indenização  por
+dano moral não desaparece com o decurso de tempo (desde que não
+tr
+[/PAGINA 86]
+
+[PAGINA 87]
+anscorrido o lapso prescricional), mas é fato a ser considerado na
+fixação do quantum. II – O nascituro também tem direito aos danos
+morais  pela  morte  do  pai,  mas  a  circunstância  de  não  tê-lo
+conhecido  em  vida  tem  influência  na  fixação  do quantum.  III  –
+Recomenda-se que o valor do dano moral seja fixado desde logo,
+inclusive nesta instância, buscando dar solução definitiva ao caso e
+evitando  inconvenientes  e  retardamento  da  solução  jurisdicional”
+(STJ, REsp 399.028/SP, 4.ª Turma, Rel. Min. Sálvio de Figueiredo
+Teixeira, j. 26.02.2002, DJ 15.04.2002, p. 232).
+Anote-se que tal entendimento é perfilhado por outros arestos de datas
+mais  próximas  da  mesma  Corte  Superior,  que  confirmam  a  teoria
+concepcionista (por todos: STJ, AgRg no AgRg no AREsp 150.297/DF, 3.ª
+Turma, Rel. Min. Sidnei Beneti, j. 19.02.2013, DJe 07.05.2013).
+Como  outra  ilustração,  em  2015  reconheceu-se  a  presença  de  danos
+morais  ao  nascituro  pela  infeliz  afirmação  feita  pelo  humorista  Rafinha
+Bastos  no  programa  CQC,  em  relação  à  cantora  Wanessa  Camargo,  então
+grávida, e seu filho (STJ, REsp 1.487.089/SP, 4.ª Turma, Rel. Min. Marco
+Buzzi,  j.  23.06.2015).  Apesar  de  certa  divergência  no  julgamento  sobre  a
+personalidade do nascituro, este autor acredita tratar-se de clara incidência da
+teoria concepcionista.
+A  mesma  premissa  foi  adotada  pelo  STJ  em  outro  julgado  em  que  o
+nascituro foi tratado de forma igual em relação aos outros filhos já nascidos,
+em caso envolvendo acidente do trabalho que vitimou o seu pai:
+“Responsabilidade civil. Acidente do trabalho. Morte. Indenização
+por dano moral. Filho nascituro. Fixação do quantum Indenizatório.
+Dies a quo. Correção monetária. Data da fixação pelo juiz. Juros de
+mora.  Data  do  evento  danoso.  Processo  civil.  Juntada  de
+documento  na  fase  recursal.  Possibilidade,  desde  que  não
+configurada  A  má-fé  da  parte  e  oportunizado  o  contraditório.
+Anulação  do  processo.  Inexistência  de  dano.  Desnecessidade.
+Impossível  admitir-se  a  redução  do  valor  fixado  a  título  de
+compensação  por  danos  morais  em  relação  ao  nascituro,  em
+
+comparação com outros filhos do de cujus, já nascidos na ocasião
+do  evento  morte,  porquanto  o  fundamento  da  compensação  é  a
+existência  de  um  sofrimento  impossível  de  ser  quantificado  com
+precisão.  –  Embora  sejam  muitos  os  fatores  a  considerar  para  a
+fixação  da  satisfação  compensatória  por  danos  morais,  é
+principalmente com base na gravidade da lesão que o juiz fixa o
+valor da reparação. (...)” (STJ, REsp 931.556/RS, 3.ª Turma, Rel.
+Min. Nancy Andrighi, j. 17.06.2008, DJe 05.08.2008).
+Igualmente seguindo a teoria concepcionista – apesar de confusões no
+corpo  do  julgado  –  a  Terceira  Turma  do  Superior  Tribunal  de  Justiça
+reconheceu,  em  2010,  que  cabe  pagamento  de  indenização  do  seguro
+obrigatório por acidente de trânsito (DPVAT) pela morte do nascituro. Como
+se p
+[/PAGINA 87]
+
+[PAGINA 88]
+ercebe,  o feto  foi  tratado pelo  acórdão como  pessoa  humana, o  que  é
+merecedor de elogios:
+“Recurso   especial.   Direito   securitário.   Seguro   DPVAT.
+Atropelamento  de  mulher  grávida.  Morte  do  feto.  Direito  à
+indenização. Interpretação da Lei n. 6194/74. 1. Atropelamento de
+mulher  grávida,  quando  trafegava  de  bicicleta  por  via  pública,
+acarretando a morte do feto quatro dias depois com trinta e cinco
+semanas  de  gestação.  2.  Reconhecimento  do  direito  dos  pais  de
+receberem a indenização por danos pessoais, prevista na legislação
+regulamentadora do seguro DPVAT, em face da morte do feto. 3.
+Proteção conferida pelo sistema jurídico à vida intrauterina, desde a
+concepção, com fundamento no princípio da dignidade da pessoa
+humana.  4.  Interpretação  sistemático-teleológica  do  conceito  de
+danos  pessoais  previsto  na  Lei  n.  6.194/74  (arts.  3.º  e  4.º).  5.
+Recurso especial provido, vencido o relator, julgando-se procedente
+o pedido” (STJ, REsp 1120676/SC, 3.ª Turma, Rel. Min. Massami
+Uyeda,  Rel.  p/  Acórdão  Min.  Paulo  de  Tarso  Sanseverino,  j.
+07.12.2010, DJe 04.02.2011).
+A adoção da linha concepcionista foi confirmada em julgamento da sua
+Quarta Turma e de 2014, publicado no Informativo n. 547 da Corte Superior.
+Consta expressamente da sua publicação que “o ordenamento jurídico como
+um todo (e não apenas o CC) alinhou-se mais à teoria concepcionista – para a
+
+qual a personalidade jurídica se inicia com a concepção, muito embora alguns
+direitos só possam ser plenamente exercitáveis com o nascimento, haja vista
+que o nascituro é pessoa e, portanto, sujeito de direitos – para a construção da
+situação  jurídica  do  nascituro,  conclusão  enfaticamente  sufragada  pela
+majoritária doutrina contemporânea. Além disso, apesar de existir concepção
+mais restritiva sobre os direitos do nascituro, amparada pelas teorias natalista
+e da personalidade condicional, atualmente há de se reconhecer a titularidade
+de direitos da personalidade ao nascituro, dos quais o direito à vida é o mais
+importante,  uma  vez  que  garantir  ao  nascituro  expectativas  de  direitos,  ou
+mesmo  direitos  condicionados  ao  nascimento,  só  faz  sentido  se  lhe  for
+garantido  também  o  direito  de  nascer,  o  direito  à  vida,  que  é  direito
+pressuposto a todos os demais. Portanto, o aborto causado pelo acidente de
+trânsito  subsume-se  ao  comando  normativo  do  art.  3.º  da  Lei  6.194/1974,
+haja  vista  que  outra  coisa  não  ocorreu,  senão  a  morte  do  nascituro,  ou  o
+perecimento de uma vida intrauterina” (STJ, REsp 1.415.727/SC, Rel. Min.
+Luis Felipe Salomão, j. 04.09.2014). Este último aresto adota expressamente
+a teoria concepcionista, citando todos os doutrinadores que são filiados a essa
+corrente. Pode-se afirmar, na verdade, que o Superior Tribunal de Justiça, em
+sua atual composição, segue o caminho de tutelar o nascituro como pessoa
+humana,  especialmente  no  âmbito  das  relações  privadas  e  dos  direi
+[/PAGINA 88]
+
+[PAGINA 89]
+tos  de
+personalidade.
+O debate das teorias relativas ao nascituro ganhou reforço com a entrada
+em  vigor  no  Brasil  da  Lei  11.804,  de  5  de  novembro  de  2008,  conhecida
+como Lei dos Alimentos Gravídicos, disciplinando o direito de alimentos da
+mulher gestante (art. 1.º). Os citados alimentos gravídicos, nos termos da lei,
+devem compreender os valores suficientes para cobrir as despesas adicionais
+do período de gravidez e que sejam dele decorrentes, da concepção ao parto,
+inclusive  as  referentes  à  alimentação  especial,  assistências  médica  e
+psicológica,  exames  complementares,  internações,  parto,  medicamentos  e
+demais  prescrições  preventivas  e  terapêuticas  indispensáveis,  a  juízo  do
+médico,  além  de  outras  que  o  juiz  considere  pertinentes  (art.  2.º).  Em
+verdade, a norma emergente em nada inova, diante dos inúmeros julgados
+que deferiam alimentos durante a gravidez ao nascituro (nesse sentido, ver,
+por  exemplo:  TJMG,  Agravo  1.0000.00.207040-7/000,  Araxá,  4.ª  Câmara
+Cível, Rel. Des. Almeida Melo, j. 01.03.2001, DJMG 05.04.2001).
+A respeito da nova norma, a sua terminologia é criticada por Silmara
+Juny Chinellato, principal precursora da teoria concepcionista no Brasil.
+35
+ Em
+
+obra mais atual pontua a jurista:
+“A recente Lei 11.804, de 5 de novembro de 2008, que trata dos
+impropriamente   denominados   ‘alimentos   gravídicos’   –
+desnecessário e inaceitável neologismo, pois alimentos são fixados
+para  uma  pessoa  e  não  para  um  estado  biológico  da  mulher  –
+desconhece que o titular do direito a alimentos é o nascituro, e não
+a  mãe,  partindo  de  premissa  errada,  o  que  repercute  no  teor  da
+lei”.
+36
+Tem razão a Professora Titular da USP, uma vez que a norma despreza
+toda a evolução científica e doutrinária no sentido de reconhecer os direitos
+do nascituro, principalmente aqueles de natureza existencial, fundados na sua
+personalidade. Desse modo, seria melhor que a lei fosse denominada lei dos
+alimentos  do  nascituro,  ou  algo  próximo.  Acrescente-se  que  o  Superior
+Tribunal de Justiça concluiu, mais uma vez adotando a teoria concepcionista,
+que a lei visa à proteção do nascituro. Nos termos de ementa de julho de
+2017, entendeu a sua Terceira Turma que “os alimentos gravídicos, previstos
+na  Lei  n.  11.804/2008,  visam  a  auxiliar  a  mulher  gestante  nas  despesas
+decorrentes  da  gravidez,  da  concepção  ao  parto,  sendo,  pois,  a  gestante  a
+beneficiária  direta  dos  alimentos  gravídicos,  ficando,  por  via  de
+consequência,  resguardados  os  direitos  do  próprio  nascituro”  (STJ,  REsp
+1629423/SP,  3.ª  Turma,  Rel.  Min.  Marco  Aurélio  Bellizze,  j.  06.06.2017,
+DJe 22.06.2017).
+Esclarecida  e  consolidada  a  prevalência  da teoria  concepcionista  no
+Direito  Civil  contemporâneo,  cumpre  trazer  algumas  palavras  sobre  a
+situação jurídica do embrião.
+A  Lei  11.105/2005,  conhecida  como  Lei  de  Biossegurança,  tutela  a
+integridade física do embrião, refo
+[/PAGINA 89]
+
+[PAGINA 90]
+rçando a teoria concepcionista. Isso, diante
+da proibição da engenharia genética em embrião humano, como regra. O art.
+5.º da referida lei autoriza a utilização de células-tronco embrionárias para
+fins  científicos  e  terapêuticos,  desde  que  os  embriões  sejam  considerados
+como  inviáveis.  Além  dessa  situação,  é  possível  a  utilização  das  células
+embrionárias nos casos de embriões congelados há três anos ou mais, na data
+da publicação da lei, ou já congelados na data da publicação da norma, depois
+de completarem três anos, contados a partir da data do congelamento. A lei
+exige autorização dos genitores do embrião, para que sejam utilizados para
+
+tais fins. Como se pode notar, a utilização de células-tronco embrionárias é
+exceção e não regra.
+Em  maio  de  2008,  o  Supremo  Tribunal  Federal  discutiu  a
+constitucionalidade   do   dispositivo,   em   ação   declaratória   de
+inconstitucionalidade proposta pela Procuradoria-Geral da República (ADIn
+3.510). Seguindo a relatoria do Ministro Carlos Ayres Britto, por maioria de
+votos prevaleceu o entendimento de sua constitucionalidade, autorizando a
+pesquisa com células-tronco em nosso país.
+Destaque-se que, apesar da filiação à tese concepcionista, este autor é
+favorável à constitucionalidade do comando em análise. Primeiro, porque a
+lei  acaba  trazendo  uma  presunção  de  morte  do  embrião,  autorizando  a
+utilização  de  suas  células-tronco  se  eles  forem  inviáveis  à  reprodução.
+Segundo, porque a partir de uma ponderação de valores constitucionais, os
+interesses  da  coletividade  quanto  à  evolução  científica  devem  prevalecer
+sobre  os  interesses  individuais  ou  de  determinados  grupos,  sobretudo
+religiosos. A utilização de células-tronco para fins de terapia representa uma
+chama  de  esperança  para  inúmeras  pessoas  que  enfrentam  doenças  e
+problemas de saúde. Por fim, insta repisar que os critérios para a utilização
+das  referidas  células  são  rígidos,  o  que  traz  a  conclusão  do  seu  caráter
+excepcional.
+2.2.3 Os incapazes no Código Civil de
+2002
+Os incapazes sempre estiveram tratados nos arts. 3.º e 4.º do CC/2002,
+conforme  tabela  a  seguir,  que  mostra  a  redação  original  da  codificação
+privada, até as mudanças inseridas pela Lei 13.146/2015:
+Absolutamente incapazes
+(art. 3.º do CC)
+Relativamente incapazes
+(art. 4.º do CC)
+I – Os menores de dezesseis anos
+(menores impúberes);
+II – Os que, por enfermidade ou
+deficiência mental, não tiverem o
+necessário discernimento para a
+I – Os maiores de dezesseis e
+menores de dezoito anos
+(menores púberes);
+II – Os ébrios habituais, os
+viciados em tóxicos, e os que,
+
+prática desses atos;
+III – Os que, mesmo por causa
+transitória, não puderem exprimir
+sua vontade.
+por deficiência mental, tenham o
+discernimento reduzido;
+III – Os excepcionais, sem
+desenvolvimento mental
+completo;
+IV – Os pródigos.
+Essa  norma  foi  sancionada  no  dia  6  de  julho  de  2015,  instituindo  o
+Estatuto da Pessoa com Deficiênc
+[/PAGINA 90]
+
+[PAGINA 91]
+ia. A lei foi publicada no dia 7 de julho, e
+tem vigência 180 dias após sua publicação, em janeiro de 2016. Em verdade,
+o Estatuto da Pessoa com Deficiência acaba por consolidar ideias constantes
+na Convenção de Nova York, tratado internacional de direitos humanos do
+qual  o  País  é  signatário  e  que  entrou  no  sistema  jurídico  com  efeitos  de
+Emenda à Constituição por força do art. 5.º, § 3.º, da CF/1988 e do Decreto
+6.949/2009.
+O art. 3.º da Convenção consagra como princípios a igualdade plena das
+pessoas com deficiência e a sua inclusão com autonomia, recomendando o
+dispositivo seguinte a revogação de todos os diplomas legais que tratam as
+pessoas com deficiência de forma discriminatória. Em verdade, o Estatuto da
+Pessoa  com  Deficiência  gerou  muitas  polêmicas  desde  a  sua  entrada  em
+vigor,  especialmente  diante  de  conflitos  com  o  Novo  Código  de  Processo
+Civil.  Para  tentar  resolvê-las,  está  em  trâmite  no  Congresso  Nacional  o
+Projeto de Lei 757/2015, originário do Senado, que contou com o parecer e o
+apoio  parcial  deste  autor.  Na  Câmara  dos  Deputados,  o  número  dessa
+projeção é 11.091/2018, novamente com nossa atuação, com sugestões feitas
+ao Deputado Luiz Flávio Gomes no ano de 2019.
+O  art.  114  do  Estatuto  da  Pessoa  com  Deficiência  altera
+substancialmente  os  dispositivos,  revogando  todos  os  incisos  do  art.  3.º  e
+alterando os incisos II e III do art. 4.º da codificação material. Vejamos as
+redações atuais dos comandos:
+Absolutamente incapazes
+(art. 3.º do CC)
+Relativamente incapazes
+(art. 4.º do CC)
+
+“Art. 3.º São absolutamente incapazes
+de exercer pessoalmente os atos da
+vida civil os menores de 16
+(dezesseis) anos.”
+I – (Revogado);
+II – (Revogado);
+III – (Revogado).
+“Art. 4.o São incapazes,
+relativamente a certos atos,
+ou à maneira de os exercer:
+I – os maiores de dezesseis
+e menores de dezoito anos;
+II – os ébrios habituais e os
+viciados em tóxico;
+III – aqueles que, por causa
+transitória ou permanente,
+não puderem exprimir sua
+vontade;
+IV – os pródigos.”
+Como  se  percebe,  em  sua  redação  originária,  o  inciso  I  do  art.  3.º
+mencionava os menores de 16 anos, tidos como menores impúberes. O seu
+inciso  II  expressava  os  que,  por  enfermidade  ou  deficiência  mental,  não
+tivessem o necessário discernimento para a prática desses atos. Por fim, no
+inciso  III  havia  a  previsão  dos  que,  mesmo  por  causa  transitória,  não
+pudessem exprimir sua vontade.
+Com as mudanças, somente são absolutamente incapazes os menores de
+16 anos, não mais havendo maiores absolutamente incapazes, afirmação esta
+que tem sido seguida por julgados prolatados sob a vigência do EPD. Por
+todos,  do  Tribunal  Paulista  e  citando  esta  obra:  “Reforma  legislativa,
+decorrente da Lei n.º 13.146/15 (EPD), que restringe a incapacidade absoluta
+aos menores impúberes. Reconhecimento de que o interdito é relativamente
+incapaz, abrangendo a curatela os atos relacionados aos direitos de natureza
+pat
+[/PAGINA 91]
+
+[PAGINA 92]
+rimonial e negocial. Artigo 4.º, inciso III, do Código Civil, e artigo 85 do
+Estatuto  da  Pessoa  com  Deficiência.  Sentença  reformada  em  parte.  Apelo
+parcialmente provido” (TJSP, Apelação Cível com Voto 36.737, 3.ª Câmara
+de Direito Privado, Rel. Des. Donegá Morandini, j. 16.12.2016).
+Repise-se que o objetivo foi a plena inclusão da pessoa com algum tipo
+de deficiência, tutelando a sua dignidade humana. Deixa-se de lado, assim, a
+proteção  de  tais  pessoas  como  vulneráveis,  o  que  era  retirado  do  sistema
+
+anterior.  Em  outras  palavras,  a dignidade-liberdade  substitui  a dignidade-
+vulnerabilidade.
+Nesse contexto, todas as pessoas com deficiência que eram tratadas no
+art. 3.º anterior passam a ser, em regra, plenamente capazes para o Direito
+Civil.  Eventualmente,  podem  ser  tidas  como  relativamente  incapazes,  em
+algum enquadramento do art. 4.º do Código Civil, também ora alterado.
+Como se pode perceber, no último preceito não há mais a menção às
+pessoas  com  deficiência  no  inc.  II.  Quanto  ao  termo excepcionais  sem
+desenvolvimento completo (art. 4.º, inc. III), ele foi substituído pela antiga
+expressão  que  se  encontrava  no  anterior  art.  3.º,  inc.  III,  ora  revogado
+(“aqueles  que,  por  causa  transitória  ou  permanente,  não  puderem  exprimir
+sua  vontade”).  Em  suma,  podemos  dizer  que  houve  uma  verdadeira
+revolução na teoria das incapacidades.
+Em  complemento,  merece  destaque  o  art.  6.º  da  Lei  13.146/2015,
+segundo o qual a deficiência não afeta a plena capacidade civil da pessoa,
+inclusive  para: a)  casar-se  e  constituir  união  estável; b)  exercer  direitos
+sexuais  e  reprodutivos; c)  exercer  o  direito  de  decidir  sobre  o  número  de
+filhos  e  de  ter  acesso  a  informações  adequadas  sobre  reprodução  e
+planejamento  familiar; d)  conservar  sua  fertilidade,  sendo  vedada  a
+esterilização  compulsória; e)  exercer  o  direito  à  família  e  à  convivência
+familiar e comunitária; e f) exercer o direito à guarda, à tutela, à curatela e à
+adoção, como adotante ou adotando, em igualdade de oportunidades com as
+demais pessoas. Em suma, no plano familiar, para os atos existenciais,  há
+uma inclusão plena das pessoas com deficiência.
+O art. 84 do Estatuto da Pessoa com Deficiência, também em prol da
+inclusão com dignidade-liberdade, estabelece que a pessoa com deficiência
+tem assegurado o direito ao exercício de sua capacidade legal em igualdade
+de condições com as demais pessoas. Eventualmente, quando necessário, a
+pessoa com deficiência será submetida à curatela, conforme a lei.
+Ademais, o mesmo comando prescreve que é facultada à pessoa com
+deficiência a adoção de processo de tomada de decisão apoiada,  como  se
+verá  ainda  nesta  obra.  A  definição  de  curatela  de  pessoa  com  deficiência
+constitui medida protetiva extraordinária, proporcional às necessidades e às
+circunstâncias  de  cada  caso,  e  durará  o  menor  tempo  possível.  Por  fim,  o
+preceito enuncia
+[/PAGINA 92]
+
+[PAGINA 93]
+que os curadores são obrigados a prestar, anualmente, contas
+de sua administração ao juiz, apresentando o balanço do respectivo ano.
+
+A  curatela  afetará  tão  somente  os  atos  relacionados  aos  direitos  de
+natureza patrimonial e negocial, conforme o art. 85 do Estatuto da Pessoa
+com Deficiência. A definição da curatela não alcança o direito ao próprio
+corpo, à sexualidade, ao matrimônio, à privacidade, à educação, à saúde, ao
+trabalho e ao voto, o que também é retirado do art. 6.º da mesma norma, ora
+citada.
+Em outras palavras, podem existir limitações para os atos patrimoniais, e
+não  para  os  existenciais,  que  visam  a  promoção  da  pessoa  humana.  Além
+disso,  está  previsto  no  mesmo  comando  que  a  curatela  constitui  medida
+extraordinária, devendo constar da sentença as razões e motivações de sua
+definição, preservados os interesses do curatelado.
+Assim,  constata-se  que,  para  que  a  curatela  esteja  presente,  há
+necessidade de uma ação judicial específica, com enquadramento em uma das
+hipóteses do novo art. 4.º do CC/2002, especialmente no seu inciso III. No
+caso de pessoa em situação de institucionalização, ao nomear curador, o juiz
+deve dar preferência a pessoa que tenha vínculo de natureza familiar, afetiva
+ou comunitária com o curatelado.
+Feitas  essas  considerações  gerais  a  respeito  do  Estatuto  emergente,  a
+respeito dos absolutamente incapazes, devem eles ser representados sob pena
+de nulidade absoluta do ato praticado (art. 166, inc. I, do CC). Quanto aos
+relativamente incapazes, o instituto de suprimento é a assistência, sob pena de
+anulabilidade  do  negócio  (art.  171,  inc.  I).  Na  verdade,  o  sistema  de
+incapacidade anterior não protegia a pessoa em si, mas os negócios e atos
+praticados,  em  uma  visão  excessivamente  patrimonialista,  que  sempre
+mereceu críticas.
+Tais  categorias  de  suprimento  da  incapacidade  para  os  negócios
+jurídicos  não  se  confundem  com  os  institutos  de  direito  assistencial  dos
+incapazes. Para os menores incapazes há a tutela; para os maiores incapazes,
+a curatela. Esses institutos de direito assistencial também sofreram mudanças
+consideráveis  pelo  Estatuto  da  Pessoa  com  Deficiência,  conforme  está
+desenvolvido no Capítulo 8 desta obra.
+Questão sempre debatida pela doutrina se referia à hipótese concreta em
+que o negócio é celebrado com um incapaz antes do processo de interdição.
+Vindo a sentença declaratória de incapacidade posterior, tal ato pode ser tido
+como  nulo  ou  anulado?  Tratando  da  matéria,  Pablo  Stolze  Gagliano  e
+Rodolfo Pamplona sempre seguiram em parte a solução francesa, no sentido
+
+de que os atos anteriores à interdição poderão ser tidos como inválidos se a
+causa  da  interdição  existia  anteriormente  à  época  em  que  tais  fatos  foram
+praticados,  podendo  ser  percebida  pelo  negociante  capaz.
+37
+  Em  sentido
+próximo, mas com maior radicalidade, a visão clássica, mormente nos casos
+de incapacidade absoluta, ia no s
+[/PAGINA 93]
+
+[PAGINA 94]
+entido de que os atos devem ser tidos como
+nulos ou anuláveis.
+38
+Na opinião deste autor, a melhor solução era aquela que prestigiava a
+boa-fé e a confiança entre as partes, tidos como preceitos de ordem pública,
+conforme o Enunciado n. 363 do Conselho da Justiça Federal, aprovado na IV
+Jornada  de  Direito  Civil.  Assim,  a  boa-fé blindaria  o  adquirente  que
+ignorava a situação do interdito, prevalecendo o negócio celebrado, se hígido
+for na substância e na forma. Destaque-se que pelo sistema do Código Civil
+de 2002, a boa-fé deve ser tida como presumida, e não a má-fé. Trazendo tal
+conclusão,  do  antigo  e  extinto  Primeiro  Tribunal  de  Alçada  Civil  de  São
+Paulo:
+“Ato jurídico. Requisitos. Agente absolutamente incapaz. Emissão
+de  título  executivo.  Obrigação  assumida,  entretanto,  antes  da
+interdição judicial. Nulidade que só se reconhece se, ao tempo da
+realização  do  ato,  a  deficiência  do  contratante  já  era  notória.
+Conjunto probatório dos autos que não aponta para essa conclusão.
+Presunção, por esta razão, da existência de boa-fé a reger o negócio
+jurídico.  Nulidade  não  configurada.  Embargos  à  execução
+improcedentes  nesta  parte.  (...)”  (1.º  TACSP,  AI  760087-9,  8.ª
+Câmara, Rel. Juiz Maurício Ferreira Leite, j. 05.05.1999).
+De data mais próxima, do Tribunal Paulista, confirmando a premissa de
+que a boa-fé deve prevalecer sobre o aspecto formal da nulidade absoluta:
+“Prestação   de   serviços   educacionais.   Ação   monitória.
+Inadimplemento  de  mensalidades.  Nulidade  do  negócio  jurídico
+firmado  com  interdito.  Contrato  celebrado  antes  do  registro  da
+sentença  de  interdição  e  da  publicação  de  edital.  Condição  de
+incapaz que não era pública e, portanto, não oponível a terceiro de
+boa-fé.  Efetiva  prestação  dos  serviços;  que  exige  a  respectiva
+remuneração.  Vedação  ao  enriquecimento  sem  causa.  Recurso
+provido. 1. O instituto da interdição visa a proteger o incapaz, e não
+
+a servir de escudo para o locupletamento indevido do interdito ou
+de  seus  familiares.  2.  Ainda:  O  direito  e  Justiça  não  toleram  e
+devem coibir, onde quer que se apresente o enriquecimento a dano
+de  terceiro,  mesmo  que  o  beneficiário  seja  incapaz,  amental,
+criança,  órfão  ou  viúva  desvalida”  (TJSP,  Apelação  0002702-
+08.2009.8.26.0032, Acórdão 4922346, Araçatuba, 29.ª Câmara de
+Direito Privado, Rel. Des. Reinaldo Caldas, j. 02.02.2011, DJESP
+16.03.2011).
+Esclareça-se,  por  oportuno,  que  o  tema  será  retomado  ainda  neste
+capítulo da obra, quando da abordagem da teoria das nulidades, bem como do
+estudo da curatela e da interdição, alteradas com o CPC/2015 e com o citado
+Estatuto  da  Pessoa  com  Deficiência  (Capítulo  8  deste  livro).  Todavia,
+adiante-se que, como não existem mais maiores absolutamente incapazes, a
+problemática  parece  ter  desaparecido,  pelo  menos  em  parte.  Feito  tal
+esclarecimento,  vejamos  o  estudo  detalhado  dos  absolutamente  e
+relativamente inc
+[/PAGINA 94]
+
+[PAGINA 95]
+apazes, de forma atualizada.
+2.2.3.1 Dos absolutamente incapazes
+Como exposto, os únicos absolutamente incapazes previstos no Código
+Civil  a  partir  da  vigência  do  Estatuto  da  Pessoa  com  Deficiência  são  os
+menores de 16 anos, denominados menores impúberes. Leva-se em conta o
+critério etário, não havendo necessidade de qualquer processo de interdição
+ou de nomeação de um curador (presunção absoluta de incapacidade).
+Não  houve  qualquer  inovação  com  a  codificação  de  2002,  diante  do
+Código Civil de 1916, entendendo o legislador que, devido a essa idade, a
+pessoa ainda não atingiu o discernimento para distinguir o que pode ou não
+pode fazer na ordem privada.
+Anote-se que, eventualmente, o ato praticado pelo menor absolutamente
+incapaz pode gerar efeitos. Esse o teor doutrinário do Enunciado n. 138 do
+CJF/STJ,  aprovado  na III  Jornada  de  Direito  Civil:  “a  vontade  dos
+absolutamente  incapazes,  na  hipótese  do  inc.  I  do  art.  3.º,  é  juridicamente
+relevante  na  concretização  de  situações  existenciais  a  eles  concernentes,
+desde  que  demonstrem  discernimento  bastante  para  tanto”.  Ilustrando,  um
+contrato celebrado por menor impúbere, de compra de um determinado bem
+de consumo, pode ser reputado válido, principalmente se houver boa-fé dos
+envolvidos.
+
+Além disso, a vontade dos menores nessas condições é relevante para os
+casos envolvendo a adoção e a guarda de filhos, cabendo a sua oitiva para
+expressarem  sua  opinião.  No  caso  de  adoção  de  maior  de  12  anos,  o
+consentimento do menor é essencial para o ato (art. 45, § 2.º, do Estatuto da
+Criança e do Adolescente – Lei 8.069/1990).
+A respeito do antigo inciso II do art. 3.º do Código Civil, o comando
+tratava das pessoas que tivessem doença ou deficiência mental, congênita ou
+adquirida em vida de caráter duradouro e permanente, e que não estivessem
+em condições de administrar seus bens ou praticar atos jurídicos de qualquer
+espécie. A norma expressava “pessoas que, por enfermidade ou deficiência
+mental, não tiverem o necessário discernimento para a prática dos atos da
+vida  civil”.  Por  oportuno,  nosso  ordenamento  nunca  admitiu  os  chamados
+intervalos lúcidos, pelo fato de a incapacidade mental estar revestida desse
+caráter permanente.
+Para que fosse declarada a incapacidade absoluta, em casos tais, seria
+necessário  um  processo  próprio  de  interdição  –  de  natureza  declaratória  e
+cuja sentença deveria ser registrada no Registro Civil da Comarca em que
+residir  o  interdito  –,  previsto  entre  os  arts.  747  a  758  do  CPC/2015,
+correspondentes aos arts. 1.177 a 1.186 do CPC/1973.
+Cabe  atentar  que  agora  não  há  mais  a  possibilidade  dessa  interdição
+absoluta, havendo entendimento de que nem mesmo o processo de interdição
+subsiste  no  sistema,  pois  incompatível  com  o  Estatuto  da  Pessoa  com
+Deficiência. O tema será analisado a seguir, demonstrando-se a divergência,
+até porque o Novo CPC reafirmou o processo de interdição
+[/PAGINA 95]
+
+[PAGINA 96]
+.
+Ademais, foi inserida no sistema a figura da tomada de decisão apoiada
+a favor de todas as pessoas com deficiência, pelo menos como regra. Essa
+figura jurídica consta do art. 1.783-A do Código Civil, também incluído pela
+Lei 13.146/2015. A categoria visa o auxílio da pessoa com deficiência para a
+celebração de atos mais complexos, caso dos contratos. Conforme o caput da
+norma, a tomada de decisão apoiada é o processo judicial pelo qual a pessoa
+com  deficiência  elege  pelo  menos  duas  pessoas  idôneas,  com  as  quais
+mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na
+tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e
+informações necessários para que possa exercer sua capacidade.
+A categoria é próxima da administração de sustento do Direito Italiano
+(amministrazione di sostegno), introduzida naquele sistema por força da Lei
+
+6, de 9 de janeiro de 2004. Nos termos do seu art. 1.º, a finalidade da norma é
+a de tutelar, com a menor limitação possível da capacidade de agir, a pessoa
+privada no todo ou em parte da autonomia na realização das funções da vida
+cotidiana,  mediante  intervenções  de  sustento  temporário  ou  permanente.
+Foram incluídas, nesse contexto, modificações no Codice Italiano, passando a
+prever o seu art. 404 que a pessoa que, por efeito de uma enfermidade ou de
+um  prejuízo  físico  ou  psíquico,  encontrar-se  na  impossibilidade,  mesmo
+parcial ou temporária, de prover os próprios interesses pode ser assistida por
+um administrador de sustento, nomeado pelo juiz do lugar de sua residência
+ou domicílio. Como exemplifica a doutrina italiana, citando julgados daquele
+país, a categoria pode ser utilizada em benefício do doente terminal, do cego
+e do portador do mal de Alzheimer.
+39
+Parece-me  que  a  tomada  de  decisão  apoiada  tem  a  função  de  trazer
+acréscimos ao antigo regime de incapacidades dos maiores, sustentado pela
+representação, pela assistência e pela curatela. Todavia, sua eficiência prática
+fica em dúvida, pois a pessoa com deficiência pode fazer uso de uma simples
+procuração  para  atribuição  de  poderes,  já  que  é  totalmente  capaz  no  atual
+sistema. Sendo assim, por que faria a opção pela tomada de decisão apoiada,
+que é medida judicial e com vários entraves burocráticos?
+Anote-se, a propósito, que a velhice ou senilidade, por si só, nunca foi
+tida  como  causa  de  restrição  da  capacidade  de  fato,  podendo  ocorrer  a
+interdição anterior em hipótese em que a senectude originasse de um estado
+patológico  (a  esse  respeito,  da  jurisprudência  anterior:  TJMG,  Acórdão
+1.0701.00.006030-4/001, Uberaba, 2.ª Câmara Cível, Rel. Des. Francisco de
+Assis Figueiredo, j. 1.º.06.2004, DJMG 25.06.2004).
+Por isso, sempre foi correto afirmar que a incapacidade por deficiência
+mental não se presumiria. A situação da pessoa com idade avançada continua
+a ser, em regra, de capacidade. Todavia, como se verá, tais pessoas podem ser
+consideradas relativamente incapazes,
+[/PAGINA 96]
+
+[PAGINA 97]
+enquadradas no novo art. 4.º, inc. III,
+do Código Civil, também alterado pelo Estatuto da Pessoa com Deficiência
+(Lei  13.146/2015).  Cite-se,  a  propósito,  a  pessoa  com  idade  avançada  que
+tenha mal de Alzheimer, e que não podem exprimir sua vontade.
+Cabe  pontuar  que  o  legislador  da  atual  codificação  material,  em  sua
+redação  original,  entendeu  que  a  expressão loucos  de  todos  os  gêneros,
+contida  no  Código  de  1916,  era  discriminatória  e  violadora  da  dignidade
+humana, razão dessa alteração anterior constante no art. 3.º, inc. II, do CC.
+Entretanto, compreendia-se que as duas expressões exprimiam basicamente a
+
+mesma situação. Com as alterações recentes do Código Civil, essa afirmação
+não se sustenta mais.
+Seguindo no estudo do tema, o art. 3.º, inc. III, do Código Civil, em sua
+redação original, anterior ao Estatuto da Pessoa com Deficiência, trazia uma
+expressão  ampla,  que  aumentava  as  hipóteses  de  incapacidade  absoluta
+(pessoas que, mesmo por causa transitória, não pudessem exprimir vontade).
+Sempre entendi que tal previsão incluiria também o surdo-mudo que não
+pudesse  manifestar  sua  vontade,  que  constava  na  codificação  anterior,  de
+1916.  Todavia,  se  o  surdo-mudo  pudesse  exprimir  sua  vontade,  seria
+considerado relativamente incapaz ou até plenamente capaz, dependendo do
+grau  de  possibilidade  de  sua  expressão.  Acrescente-se  que,  com  a  Lei
+10.436/2002,  passou-se  a  utilizar  o  termo  “pessoa  surda”,  que  é  o  mais
+correto para explicar essa hipótese. Porém, a expressão “surdo-mudo” ainda é
+aqui usada, por razões didáticas, pois é comum vê-la em provas de Direito
+Civil, diante do que estava na codificação de 1916.
+Essa afirmação sobre a pessoa surda pode ser mantida em parte com as
+mudanças de 2015, até porque essa antiga previsão do Código Civil de 2002
+passou a compor o art. 4.º, inc. III, da norma material. Porém, o surdo, pessoa
+com deficiência, deve ser tido, em regra, como capaz. Eventualmente, caso
+não possa exprimir sua vontade, será relativamente incapaz. Não caberá mais
+o seu enquadramento como absolutamente incapaz, em hipótese alguma.
+Entendemos que a previsão que constava do art. 3.º, inc. III, incluiria
+ainda pessoas que perderam a memória, bem como aqueles que estivessem
+em coma, sujeitos que passam a ser relativamente incapazes, em regra (novo
+art. 4.º, inc. III, estudado a seguir).
+Quanto aos ébrios habituais e aos viciados em tóxicos, será visto que são
+considerados  relativamente  incapazes.  Dependendo  da  sua  situação,
+afirmávamos, nas edições anteriores deste livro, que poderiam ser tidos como
+absolutamente  incapazes.  Agora,  após  a  Lei  13.146/2015,  serão  sempre
+relativamente incapazes se houver alguma restrição, pois não existem mais no
+sistema pessoas maiores que sejam absolutamente incapazes, reafirme-se.
+Apesar dessa afirmação, fica a dúvida se não seria interessante retomar
+alguma  previsão  a  respeito  de  maiores  absolutamente  incap
+[/PAGINA 97]
+
+[PAGINA 98]
+azes,
+especialmente para as pessoas que não têm qualquer condição de exprimir
+vontade e que não são necessariamente pessoas deficientes. O presente autor
+entende que sim, havendo proposição nesse sentido no citado Projeto de Lei
+
+757/2015 (atual Projeto 11.091/2018, na Câmara), em sua redação originária
+e contando com o meu apoio. Cite-se, a esse propósito, justamente a pessoa
+que se encontra em coma profundo, sem qualquer condição de exprimir o que
+pensa. No atual sistema, será enquadrada como relativamente incapaz, o que
+parece não ter sentido técnico-jurídico.
+Porém, é interessante destacar que no parecer final originário do Senado
+Federal a proposta de retorno de regra a respeito de maiores absolutamente
+incapazes  acabou  por  não  prosperar,  infelizmente.  Conforme  constou  do
+relatório da Senadora Lídice da Mata, “as tentativas presentes no PLS 757 de
+se retomar o critério da ‘ausência ou insuficiência de discernimento’ (previsto
+na  redação  original  do  Código  Civil),  em  detrimento  do  critério  da
+‘impossibilidade de manifestação de vontade’ (eleito pelo EPD), representam
+um grave retrocesso no tocante ao direito de fazer as próprias escolhas. Sim,
+é possível que o discernimento de certas pessoas com deficiência seja bem
+diferente  ou  até  questionável  diante  de  padrões  comuns,  mas  isto  não
+significa que o discernimento não exista e que a vontade manifestada possa
+ser ignorada”.
+Na tramitação desse projeto na Câmara dos Deputados – sob o número
+11.091/2018  –,  fiz  sugestão  ao  Deputado  Luiz  Flávio  Gomes,  no  ano  de
+2019, para o retorno de regras relativas aos maiores de idade absolutamente
+incapazes no art. 3.º do Código Civil, que passaria a ter a seguinte redação:
+“São absolutamente incapazes de exercer os atos da vida civil: I – os menores
+de  dezesseis  anos;  II  –  os  que  não  tenham  qualquer  discernimento  para  a
+prática desses atos, conforme decisão judicial que leve em conta a avaliação
+biopsicossocial; III – os que, mesmo por causa de transitória, não puderem
+exprimir sua vontade”. Também foi proposta a supressão do atual art. 4.º, inc.
+III, do Código Civil, que passaria a compor a última norma.
+Acompanharemos o trâmite desta projeção na Câmara dos Deputados,
+sendo  fundamental  e  necessário  o  retorno  de  alguma  regra  a  respeito  da
+incapacidade absoluta das pessoas sem qualquer discernimento para exprimir
+vontade.
+OBSERVAÇÃO  IMPORTANTE  –  O  ausente  não  é  mais
+considerado absolutamente incapaz como constava da codificação
+anterior  (art.  5.º,  IV,  do  CC/1916).  A  ausência  significa  morte
+presumida da pessoa natural, após longo processo judicial, com três
+
+fases:  curadoria  dos  bens  do  ausente,  sucessão  provisória  e
+sucessão  definitiva  (arts.  22  a  39  do  CC).  Não  houve  qualquer
+modificação  no  tratamento  jurídico  do  ausente  diante  da
+emergência do Estatuto da Pessoa com Deficiência.
+2.2.3.2 Dos relativamente incapazes
+Conforme antes exposto, o Estatuto da Pess
+[/PAGINA 98]
+
+[PAGINA 99]
+oa com Deficiência também
+alterou substancialmente o regime da incapacidade relativa, tratado pelo art.
+4.º do CC/2002. Reitere-se que não houve modificação no inciso I (menores
+entre  16  e  18  anos)  e  no  inciso  IV  (pródigos).  Todavia,  no  inciso  II  foi
+retirada a menção aos que por deficiência mental tivessem o discernimento
+reduzido.
+No inciso III, não se usa a expressão excepcionais sem desenvolvimento
+completo, substituída pela antiga previsão do art. 3.º, inc. III, da codificação
+(pessoas  que  por  causa  transitória  ou  definitiva  não  puderem  exprimir
+vontade). O objetivo, mais uma vez, foi a plena inclusão das pessoas com
+deficiência, tidas como capazes no novo sistema e eventualmente sujeitas à
+tomada  de decisão  apoiada.  Vejamos  o  estudo  pontual  dos  incisos,
+devidamente atualizados.
+A respeito do inciso I do art. 4.º do Código Civil, a alteração substancial
+trazida pela codificação material de 2002 frente ao CC/1916 foi a de reduzir a
+idade para se atingir a maioridade civil, de 21 para 18 anos. Em sadio diálogo
+interdisciplinar,  destaque-se  que  tal  redução  não  atingiu  a  questão  dos
+benefícios previdenciários dos filhos dependentes até os 21 anos, conforme
+consta do Enunciado n. 3, da I Jornada de Direito Civil: “a redução do limite
+etário para a definição da capacidade civil aos 18 anos não altera o disposto
+no  art.  16,  inc.  I,  da  Lei  8.213/1991,  que  regula  específica  situação  de
+dependência econômica para fins previdenciários e outras situações similares
+de proteção, previstas em legislação especial”.
+Ademais,  existem  atos  e  negócios  que  os  menores  relativamente
+incapazes  podem  praticar,  mesmo  sem  a  assistência,  como  se  casar,
+necessitando  apenas  de  autorização  dos  pais  ou  representantes;  elaborar
+testamento;  servir  como  testemunha  de  atos  e  negócios  jurídicos;  requerer
+registro de seu nascimento; ser empresário, com autorização; ser eleitor; ser
+mandatário ad  negotia  (mandato  extrajudicial).  Em  casos  específicos,  é
+
+possível  a  antecipação  dos  efeitos  da  maioridade  civil,  por  meio  da
+emancipação (art. 5.º, parágrafo único, do CC), instituto que será tratado no
+próximo tópico.
+Seguindo  no  estudo  do  art.  4.º  do  Código  Civil,  repise-se  que  o  seu
+inciso  II  previa  três  hipóteses,  tendo  retirada  a  última  delas  pela  Lei
+13.146/2015,  relativa  às  pessoas  com  deficiência  mental,  conforme  ora
+comentado. Permaneceram as menções aos ébrios habituais (entendidos como
+alcoólatras) e aos viciados em tóxicos (toxicômanos).
+De  toda  sorte,  essa  previsão  material  constituiu  novidade  importante
+perante o seu antecessor, o Código Civil de 1916, pela qual se ampliaram os
+casos de incapacidade relativa decorrente de causa permanente ou transitória.
+Aqui também deverá haver um processo próprio de nomeação de um curador
+nas  hipóteses  restantes  (ébrios  habituais  e  viciados  em  tóxicos),  cabendo
+análise  caso  a  caso  da
+[/PAGINA 99]
+
+[PAGINA 100]
+situação  de  incapacidade,  se  presente  ou  não.  A
+respeito  da  situação  anterior  do  ébrio  habitual,  ilustre-se  com  decisão  do
+Tribunal de Minas Gerais:
+“Incapacidade   relativa.   Necessidade   de   comprovação   da
+embriaguez  habitual  do  vendedor.  Desnecessidade  de  registro  da
+promessa de compra e venda. Testemunhas não presentes quando
+da assinatura do contrato. Irrelevância. Acusações levianas. Dano
+moral configurado. A amizade da testemunha com a parte somente
+a  torna  suspeita  para  depor  se  se  tratar  de  amizade  íntima,
+entendida  como  aquela  muito  próxima,  com  laços  de  afinidade
+profundos.  O  vício  de  consumo  de  álcool  implica  incapacidade
+relativa da pessoa se a transforma em ébrio habitual, aquele que,
+pelo   uso   constante   da   bebida,   tem   seu   discernimento
+permanentemente  afetado  pela  embriaguez.  Incomprovada  a
+embriaguez habitual da pessoa e inexistindo interdição judicial, não
+se  configura  incapacidade.  (...).  Agravo  retido  e  apelação  não
+providos”  (TJMG,  Apelação  Cível  0540383-93.2008.8.13.0470,
+Paracatu, 10.ª Câmara Cível, Rel. Des. Mota e Silva, j. 26.10.2010,
+DJEMG 17.11.2010).
+Todavia, aqui devem ser demonstrados os atropelamentos legislativos
+entre  o  CPC/2015  e  o  Estatuto  da  Pessoa  com  Deficiência.  De  início,
+constata-se  que  a  última  norma  alterou  o  art.  1.768  do  Código  Civil,  não
+
+mencionando mais o processo de interdição relativa, mas uma demanda em
+que  é  nomeado  um  curador.  Entretanto,  esse  dispositivo  é  revogado  pelo
+Código de Processo civil de 2015, que está totalmente estruturado na ação de
+interdição (arts. 747 a 758). Assim, o EPD, em tais aspectos, teve incidência
+restrita, entre a sua entrada em vigor (janeiro de 2016) até o surgimento de
+vigência  do  Novo  CPC  (março  de  2016).  Para  o  presente  autor,  será
+necessária  a  edição  de  uma  terceira  norma  para  apontar  qual  regra  a
+prevalecer.
+Essa norma, de lege ferenda, é o Projeto de Lei 757/2015, em curso no
+Congresso  Nacional,  que  pretende  retomar  os  dispositivos  do  EPD,
+revogados  pelo  CPC/2015.  Conforme  parecer  dado  por  este  autor,  seria
+melhor  que  fossem  retiradas  todas  as  menções  à ação  de  interdição
+constantes do Novo CPC, passando este a expressar apenas a ação de pedido
+de  curatela.  Na  Câmara  dos  Deputados,  reitere-se  que  o  número  dessa
+projeção é 11.091/2018.
+A  propósito,  enunciava  o  art.  1.772  do  CC/2002  que,  pronunciada  a
+interdição  das  pessoas  descritas  no  art.  4.º,  incs.  II  e  III,  o  juiz  assinaria,
+segundo o estado ou o desenvolvimento mental do interdito, os limites da
+curatela do maior incapaz. No entanto, ressalte-se que tal dispositivo também
+foi revogado expressamente pelo art. 1.072, inciso II, do CPC em vigor; com
+o objetivo de concentrar o tema no diploma instrumental. Assim, em sentido
+próximo, o  art. 753,  §  2.º, do  CPC/2015 passou  a  expressar que  “o  laudo
+pericial  in
+[/PAGINA 100]
+

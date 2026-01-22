@@ -1,0 +1,2002 @@
+[META]
+TITULO: CPC 2016 Comentado José Miguel Garcia Medina
+AUTOR: 3ª ed.  2016 -
+ANO: N/A
+EDICAO: 3
+EDITORA: RT
+PAGINAS: 601-650
+ARQUIVO_ORIGINAL: CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf
+CITACAO_ABNT: -, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..
+[/META]
+
+[PAGINA 601]
+alegar:	I	-	inexistência	ou	nulidade	da	citação;	II	-
+incompetência	absoluta	e	relativa;	III	-	incorreção	do	valor	da	causa;	IV	-	inépcia	da	petição	inicial;	V	-
+perempção;
+VI	-	litispendência;	VII	-	coisa	julgada;	VIII	-	conexão;	IX	-	incapacidade	da	parte,	defeito	de
+representação	ou	falta	de	autorização;	X	-	convenção	de	arbitragem;	XI	-	ausência	de	legitimidade	ou	de
+interesse	processual;	XII	-	falta	de	caução	ou	de	outra	prestação	que	a	lei	exige	como	preliminar;	XIII	-
+indevida	concessão	do	benefício	de	gratuidade	de	justiça.
+§	1º	Verifica-se	a	litispendência	ou	a	coisa	julgada	quando	se	reproduz	ação	anteriormente	ajuizada.
+§	2º	Uma	ação	é	idêntica	a	outra	quando	possui	as	mesmas	partes,	a	mesma	causa	de	pedir	e	o	mesmo
+pedido.
+§	3º	Há	litispendência	quando	se	repete	ação	que	está	em	curso.
+§	4º	Há	coisa	julgada	quando	se	repete	ação	que	já	foi	decidida	por	decisão	transitada	em	julgado.
+§	5º	Excetuadas	a	convenção	de	arbitragem	e	a	incompetência	relativa,	o	juiz	conhecerá	de	ofício	das
+matérias	enumeradas	neste	artigo.
+§	6º	A	ausência	de	alegação	da	existência	de	convenção	de	arbitragem,	na	forma	prevista	neste	Capítulo,
+implica	aceitação	da	jurisdição	estatal	e	renúncia	ao	juízo	arbitral.
+CPC/1973:	Art.	301	(correspondente).
+V.	art.	5.º,	XXXVI,	da	CF/1988;	arts.	3.º,	4.º	e	1.634,	V,	do	CC/2002;	Lei	9.307/1996	(Arbitragem).
+•	FPPC,	Enunciado	47:	A	competência	do	juízo	estatal	deverá	ser	analisada	previamente	à	alegação
+de	convenção	de	arbitragem.
+•	FPPC,	Enunciado	48:	A	alegação	de	convenção	de	arbitragem	deverá	ser	examinada	à	luz	do
+princípio	da	competência-competência.
+•	FPPC,	Enunciado	136:	A	citação	válida	no	processo	judicial	interrompe	a	prescrição,	ainda	que	o
+processo	seja	extinto	em	decorrência	do	acolhimento	da	alegação	de	convenção	de	arbitragem.
+•	FPPC,	Enunciado	153:	A	superveniente	instauração	de	procedimento	arbitral,	se	ainda	não	decidida
+a	alegação	de	convenção	de	arbitragem,	também	implicará	a	suspensão	do	processo,	à	espera	da
+decisão	do	juízo	arbitral	sobre	a	sua	própria	competência.
+SUMÁRIO:	I.	Defesa	processual:	Preliminares	ao	mérito	–	II.	Variações	procedimentais	subsequentes	à
+
+apresentação	de	defesa	processual	–	III.	Resolução	imediata	da	questão	ou	postergação	para	momento
+processual	posterior	–	IV.	Primazia	do	juízo	arbitral	ao	estatal:	necessidade	de	solução	imediata	da
+questão	–	V.	Manifestação	ex	officio	sobre	matérias	de	defesa	processual,	como	regra.	Ausência	de
+alegação	de	convenção	de	arbitragem	ou	de	incompetência	relativa.	Respeito	à	autonomia	de	vontade	das
+partes	–	VI.	Litispendência	e	coisa	julgada.	Teorias	da	tríplice	identidade	e	da	identidade	da	relação
+jurídica	material.
+I.	Defesa	processual:	Preliminares	ao	mérito.	Na	contestação,	deve	o	réu	alegar	todas	as	matérias	de
+defesa	(art.	336	do	CPC/2015).	Incluem-se	na	defesa	temas	atinentes	ao	mérito	e	aos	requisitos
+processuais,	bem	como,	quanto	a	esses	requisitos,	aqueles	cuja	ausência	pode	conduzir	à	dilação	do
+processo	(por	exemplo,	incompetên
+[/PAGINA 601]
+
+[PAGINA 602]
+cia,	cf.	art.	64,	§	2.º,	do	CPC/2015)	ou	à	sua	extinção,	sem	resolução
+do	mérito.	Esses	temas,	sob	o	prisma	da	defesa	apresentada	pelo	réu	no	processo,	são	considerados
+preliminares	ao	mérito,	e	deles	trata	o	art.	337	do	CPC/2015	(sobre	a	defesa	substancial,	ou	de	mérito,
+cf.
+comentário	ao	art.	336	do	CPC/2015).	Dissemos	que	a	ausência	dos	requisitos	“pode	conduzir”	à
+extinção	do	processo	sem	resolução	do	mérito,	porque,	observadas	certas	condições,	é	possível	a
+prolação	de	decisão	de	mérito,	a	despeito	da	ausência	de	requisitos	processuais	(sobre	abordagem
+funcional	dos	requisitos	processuais	e	dogma	da	prioridade,	cf.	comentário	ao	art.	488	do	CPC/2015).
+Algumas	dessas	matérias	deveriam,	à	luz	do	CPC/1973,	ser	alegadas	por	petição	específica	(por
+exemplo,	exceção	de	incompetência	relativa,	cf.	art.	306	do	CPC/1973;	na	jurisprudência,	porém,	já	se
+vinha	admitindo	a	alegação	de	incompetência	relativa	em	preliminar	da	contestação,	em	atenção	ao
+princípio	da	instrumentalidade	das	formas	e	do	aproveitamento,	desde	que	não	houvesse	prejuízo	à	parte
+contrária,	cf.	STJ,	REsp	169.176/DF,	2.ª	Seção,	j.	25.06.2003,	rel.
+Min.	Castro	Filho;	STJ,	AgRg	no	Ag	696.779/RS,	3.ª	T.,	j.	08.11.2005,	rel.	Min.	Nancy	Andrighi;	STJ,
+REsp	885.960/CE,	2.ª	T.,	j.
+02.08.2007,	rel.	Min.	Humberto	Martins;	STJ,	CC	76.002/SP,	2.ª	Seção,	rel.	Min.	Paulo	Furtado,	j.
+28.10.2009;	aparentemente,	os	precedentes	mais	antigos	do	STJ	nesse	sentido	são	os	seguintes:	STJ,	CC
+10.056/PR,	2.ª	Seção,	j.	08.02.1995,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	STJ,	CC	13.623/RJ,	2.ª
+Seção,	j.	30.08.1995,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	Sobre	a	concentração	das	reações	do	réu
+na	contestação,	cf.	comentário	ao	art.	335	do	CPC/2015.
+II.	Variações	procedimentais	subsequentes	à	apresentação	de	defesa	processual.	Como	regra	geral,
+qualquer	que	seja	a	defesa	processual	apresentada	pelo	réu,	o	magistrado	deverá	ouvir	o	autor	(cf.	art.
+351	do	CPC/2015).	Para	além	disso,	porém,	a	defesa	apresentada	pelo	réu	pode	desencadear	uma	série
+variada	de	situações,	a	depender	da	matéria	veiculada	na	contestação.	Poderá	ser	o	caso	de	se	corrigir	o
+curso	do	procedimento,	sanear	falhas	processuais,	ou	extinguir	o	processo.	O
+CPC/2015	prevê,	textualmente,	como	se	deve	proceder	em	alguns	casos,	por	exemplo,	quando	o	réu	alega
+incompetência	(cf.	§
+2.º	do	art.	64	do	CPC/2015,	e	§§	3.º	e	4.º	do	art.	340	do	CPC/2015,	quanto	à	incompetência	relativa),
+ilegitimidade	passiva	ad	causam	(cf.	arts.	338	e	339	do	CPC/2015),	ausência	de	caução	(art.	83	do
+CPC/2015),	incorreção	do	valor	da	causa	(art.	293	do	CPC/2015),	ou	indevida	concessão	do	benefício
+da	gratuidade	da	justiça	(arts.	100	ss.	do	CPC/2015),	faz	denunciação	da	lide	(art.	128	do	CPC/2015),
+requer	o	chamamento	ao	processo	(art.	131	do	CPC/2015)	etc.	Pode	haver	situações,	contudo,	em	que
+
+inexista	disposição	textual	expressa	a	respeito	do	modo	como	se	deve	proceder.	Nesse	caso,	deverá	ser
+necessário	atuar	de	modo	a	se	corrigir	o	vício,	dentro	do	possível,	a	fim	d
+[/PAGINA 602]
+
+[PAGINA 603]
+e	se	alcançar	uma	decisão
+sobre	o	mérito	(tendo	em	vista	a	função	dos	requisitos	processuais	e	desde	que,	justamente	pela	não
+observância	do	requisito,	uma	manifestação	sobre	o	mérito	for	viável)	ou,	sendo	o	caso,	pronunciarse
+sobre	o	mérito,	a	despeito	da	ausência	do	requisito	processual	(cf.,	a	respeito,	comentário	aos	arts.	317	e
+488	do	CPC/2015).
+III.	Resolução	imediata	da	questão	ou	postergação	para	momento	processual	posterior.	Há	questões
+que	devem	ser	resolvidas	de	imediato,	e	outras	que,	permite	a	lei,	podem	ser	resolvidas	posteriormente,
+em	outro	momento	processual.	A	lei	impõe	que	se	decida,	desde	logo,	sobre	a	alegação	da	incompetência
+(cf.	§	2.º	do	art.	64	do	CPC/2015),	pois,	ainda	que	a	lei	processual	tenha	adotado	a	translatio	judicii,
+poderá	ser	necessário	refazer	atos	processuais,	conforme	o	caso,	pelo	juízo	competente	(cf.	§	3.º	do	art.
+64	do	CPC/2015),	o	que	aponta	a	conveniência	de	que	tal	questão	seja	resolvida	desde	logo.	Pelas
+mesmas	razões,	justifica-se	a	imediata	resolução	da	questão	atinente	à	alegação	de	convenção	de
+arbitragem	(cf.	comentário	infra).	Há	questões,	por	outro	lado,	que	podem	ser	resolvidas	por	ocasião	da
+prolação	da	sentença,	em	momento	posterior	(por	exemplo,	incorreção	do	valor	da	causa,	cf.	art.	293	do
+CPC/2015).	Pode	haver	situações,	porém,	em	que	se	mostra	realmente	muito	difícil	definir	se	é	caso	de
+se	resolver	logo	a	questão	processual,	ou	deixar	para	pronunciarse	a	respeito	posteriormente	(cf.
+comentário	ao	art.	486	do	CPC/2015,	sobre	aplicação	da	teoria	da	asserção).	De	todo	modo,	a	evidente
+ausência	de	requisito	processual	que	possa	conduzir	à	extinção	do	processo	sem	resolução	do	mérito
+deve	ser	desde	logo	pronunciada	pelo	magistrado,	desde	que	não	seja	possível	corrigir	o	vício	ou
+proferir	decisão	de	mérito	favorável	àquele	a	quem	aproveitaria	a	prolação	de	sentença	terminativa	(cf.
+comentário	aos	arts.	317	e	488	do	CPC/2015).
+IV.	Primazia	do	juízo	arbitral	ao	estatal:	necessidade	de	solução	imediata	da	questão.	A	existência
+de	convenção	de	arbitragem,	alegada	pela	parte,	impõe	a	extinção	do	processo	sem	resolução	do	mérito
+(art.	485,	VII,	do	CPC/2015).	Além	disso,	o	art.	42	do	CPC/2015	(correspondente	ao	art.	86	do
+CPC/1973),	dispõe	que	a	causa	deve	ser	processada	e	decida	por	juízo	estatal,	salvo	se	as	partes
+instituírem	juízo	arbitral.	Fica	clara,	diante	disso,	a	opção	do	legislador	em	dar-se	primazia	à	jurisdição
+arbitral,	quando	as	partes	tiverem	convencionado	nesse	sentido.	As	jurisdições	estatal	e	arbitral,
+rigorosamente,	não	se	excluem,	mas	se	revezam,	tendo	ambas	campos	de	atividade	definidos	na	Lei
+9.307/1996,	havendo	temas	a	respeito	dos	quais	deve	deliberar	o	árbitro,	e	outros	que	incumbem	ao	juiz
+estatal.	Há	situações	em	que	é	primeiro	o	árbitro	quem	deve	se	manifestar,	e	só	depois,	eventualmente,	o
+juiz	estatal.	Havendo	dúvida	sobre	saber	se	a	lide	deve	ser	resolvida	por	árbitro	ou	por	juiz	estatal,	por
+exemplo,	é	o	árbitro	quem	deve	se	manifestar	a	respeito,	ainda	que	posteriorm
+[/PAGINA 603]
+
+[PAGINA 604]
+ente	possa	haver,	se	for	o
+caso,	manifestação	judicial	sobre	o	tema	(cf.	arts.	8.º,	parágrafo	único,	20	e	33	da	Lei	9.307/1996;	a
+respeito,	cf.
+comentário	ao	art.	42	do	CPC/2015).	Essas	características	dos	limites	e	das	relações	entre	as	jurisdições
+estatal	e	arbitral	(cf.
+comentário	ao	art.	42	do	CPC/2015)	impõem	ao	magistrado	um	peculiar	modo	de	atuação,	ao	receber
+defesa	em	que	se	alegue,	preliminarmente,	a	existência	de	convenção	de	arbitragem	(imprescindível
+haver	alegação	da	parte,	cf.	comentário	infra).	À	semelhança	do	que	ocorre	com	a	alegação	de
+incompetência,	entendemos	que	também	sobre	a	preferência	da	jurisdição	arbitral	o	juiz	estatal	deve
+manifestar-se	imediatamente	(cf.	§	2.º	do	art.	64	do	CPC/2015,	que,	a	nosso	ver,	deve	ser	aplicado	à
+hipótese	ora	analisada,	analogicamente).	É	que,	caso	não	se	decida,	de	imediato,	sobre	preferência	da
+
+jurisdição
+arbitral,	duas	gravíssimas	consequências	podem	vir	a	ocorrer:	além	da	frustração	da	jurisdição	arbitral
+(fruto	de	opção	manifestada	pelas	partes,	frise-se)	poderia	vir	a	se	perder	a	atividade	processual
+desenvolvida	perante	o	juízo	estatal,	que	pode	ser	considerada	inútil	caso	se	decida	que	a	lide	deveria
+ter	sido	julgada	por	árbitro	(sobre	essa	problemática,	cf.	debate	travado	pela	3.ª	T.	do	STJ	no	julgamento
+do	AgRg	no	AREsp	371.993/RJ,	em	que	se	assentou	“a	necessidade	de	se	exaurir,	com	precedência	de
+qualquer	outra	questão,	a	discussão	acerca	da	existência	de	convenção	de	arbitragem,	a	considerar	que	a
+verificação	desta,	como	assinalado,	tem	o	condão	de	tornar	inútil,	a	princípio,	a	atuação	jurisdicional	do
+Estado”;	rel.	p/ac.
+Min.	Marco	Bellizze,	j.	14.10.2014).	Caso	a	arbitragem	já	tenha	sido	instaurada,	deverá	o	magistrado
+comunicar-se	com	o	árbitro	para	que	este	manifeste-se	a	respeito	dos	limites	da	jurisdição	arbitral	(é	o
+árbitro,	e	não	o	juiz	estatal,	quem	deve	decidir,	ao	menos	num	primeiro	momento,	sobre	os	limites	da
+jurisdição	arbitral,	como	se	lembrou	supra;	cf.,	a	respeito,	comentário	ao	art.	42	do	CPC/2015).	Cabe
+agravo	de	instrumento	contra	a	decisão	que	rejeita	a	alegação	de	convenção	de	arbitragem	(cf.	art.	1.015,
+III,	do	CPC/2015).
+V.	Manifestação	ex	officio	sobre	matérias	de	defesa	processual,	como	regra.	Ausência	de	alegação
+de	convenção	de	arbitragem	ou	de	incompetência	relativa.	Respeito	à	autonomia	de	vontade	das
+partes.	Diz	a	lei	processual	que	deve	o	juiz	manifestar-se	ex	officio	sobre	as	matérias	elencadas	no	art.
+337,	caput,	do	CPC/2015	(a	respeito,	cf.	STJ,	REsp	1.273.955/RN,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,
+j.	24.04.2014).	A	regra,	porém,	não	se	aplica	à	existência	de	convenção	de	arbitragem	e	à	incompetência
+relativa	(cf.	§	5.º	do	art.	337	do	CPC/2015).	Há,	aqui,	contundente	manifestação	de	respeito,	pela	lei,	à
+autonomia	de	vontade	das	partes:	assim	como	os	litigantes	podem	realizar	negócio	jurídico	com	o	intuito
+de	a	lide	ser	resolvida	pela	jurisdição	arbitral,	e	não	a	estatal	(cf.	art.	42	do	CPC/2015),	bem	como
+escolher	foro	em	que	deverá	tram
+[/PAGINA 604]
+
+[PAGINA 605]
+itar	a	ação	judicial	respectiva	(cf.	art.	63	do	CPC/2015),	podem
+também	deixar	de	fazê-lo,	ou	renunciar,	expressa	ou	tacitamente,	aos	direitos	oriundos	de	tal	convenção.
+Assim,	embora	convencionada	a	arbitragem,	se	ambas	as	partes	manifestarem,	tacitamente,	preferência
+pela	jurisdição	estatal	(o	autor,	ao	ajuizar	a	ação;	o	réu,	ao	não	alegar	a	existência	da	convenção	na
+contestação),	não	se	permitirá	ao	juiz	manifestar-se	de	ofício,	a	respeito.	É	acertado	dizer	que	a	não
+alegação	de	convenção	arbitral	importa	em	aceitação	da	jurisdição	estatal	e	renuncia	à	jurisdição	arbitral
+(cf.	§	6.º	do	art.	337	do	CPC/2015),	ainda	que	se	esteja	diante	de	manifestação	tácita	de	vontade.	O
+mesmo	se	deve	dizer	da	incompetência	relativa:	ainda	que	competente	o	juízo	de	determinada	comarca,	o
+ajuizamento	da	ação	em	outra	sem	oposição	do	réu	faz	com	que	a	competência	se	“prorrogue”	para	esta
+outra	comarca,	não	podendo	o	magistrado	manifestar-se	a	respeito	(é	possível,	no	entanto,	a	manifestação
+judicial	ex	officio	sobre	a	abusividade	de	cláusula	de	eleição	de	foro,	desde	que	antes	de	citado	o	réu,
+nos	termos	do	§	3.º	do	art.	64	do	CPC/2015).
+VI.	Litispendência	e	coisa	julgada.	Teorias	da	tríplice	identidade	e	da	identidade	da	relação	jurídica
+material.	São	elementos	que	identificam	a	ação:	partes,	causa	de	pedir	e	pedido	(c.	§	2.º	do	art.	337	do
+CPC/2015;	sobre	cada	um	desses	elementos,	cf.	comentário	ao	art.	319	do	CPC/2015).	Tais	elementos
+são	relevantes	para	se	perquirir	se,	confrontando	duas	ou	mais	ações,	está-se	diante	de	ações	idênticas
+(total	ou	parcialmente)	ou	distintas.	Havendo,	por	exemplo,	identidade	parcial	(por	exemplo,	quanto	a
+causa	petendi	e	partes),	há	conexão.	Havendo	identidade	total	(isso	é,	reproduzindo-se	ação
+anteriormente	ajuizada,	cf.	§	1.º	do	art.	337	do	CPC/2015),	será	caso	de	litispendência	(“quando	se
+repete	ação	que	está	em	curso”,	cf.	§	3.º	do	art.	337	do	CPC/2015)	ou	coisa	julgada	(“quando	se	repete
+
+ação	que	já	foi	decidida	por	decisão	transitada	em	julgado”,	cf.	§	4.º	do	art.	337	do	CPC/2015).	O
+CPC/1973	revelou,	nos	§§	1.º	a	4.º	de	seu	art.	301,	ser	fiel	à	referida	teoria	(cf.
+Egas	Dirceu	Moniz	de	Aragão,	Conexão	e	“tríplice	identidade”,	RePro	29/50),	e	o	mesmo	se	pode	dizer,
+no	que	respeita	aos	§§
+1.º	a	4.º	do	art.	337	do	CPC/2015.	A	respeito,	a	doutrina	desenvolve	aquilo	que	escreveu	Matteo
+Pescatore:	“gli	elementi	constitutivi	di	tutte	le	causa	sono:	1.º	le	persone	contendente;	2.º	il	titulo	dela
+contesa,	cioè	quello	a	cui	si	appoggia	la	domanda	e	la	relativa	eccezione;	3.º	la	cosa	che	si	domanda	(
+personæ,	causa	petendi	e	causa	excipiendi,	res)”.	Antes,	afirmara	o	autor	que	“cause	connesse	sono
+quelle	che	abbiano	alcuni	elementi	comuni,	e	alcuni	diversi;	se	tutti	gli	elementi	fossero	comuni,	ne
+risulterebbero	cause	identiche	e	non	solamente	conesse;	se	tutti	gli	elementi	fossero	diversi,
+mancherebbe	ogni	vincolo	di	connessione”	(	Sposizione	compendiosa.	.	,	vol.	1,	p.	168).	A	partir	dessa
+introdução,	passa	Pescatore	a	analis
+[/PAGINA 605]
+
+[PAGINA 606]
+ar	hipóteses	em	que	todos	ou	alguns	dos	mesmos	são	os	mesmos	(
+eadem)	em	várias	ações,	ou	são	diferentes	(por	exemplo,	eadem	persona,	eadem	causa	petendi,	diversa
+res;	op.	loc.	cits.,	p.	169	ss.).	Essa	ideia,	como	se	disse,	repercute	até	hoje,	com	maiores	ou	menores
+variações.	Costuma-se	referir	também,	na	doutrina,	a	concepção	mais	ampla,	outrora	referida	por
+Savigny	(	Traité	de	droit	romain,	vol.	6,	p.	426),	que,	aludindo	à	exceção	de	coisa	julgada,	referia-se	à
+máxima	segundo	a	qual
+“exceptionem	rei	judicatae	obstare	quotiens	eadem	quaestio	inter	easdem	personas	revocatur”	(“a
+exceção	de	coisa	julgada	obsta,	sempre,	a	que	entre	as	mesmas	pessoas	a	mesma	questão	seja
+reexaminada”,	na	tradução	de	Egas	Dirceu	Moniz	de	Aragão	apresentada	em	Observações	sobre	os
+limites	subjetivos	da	coisa	julgada,	RT	625/7).	De	acordo	com	essa	concepção,	mesma	questão	e	mesmas
+pessoas	seriam	os	elementos	que	definiriam	a	ação	e	permitiriam	identificá-la	a	outras.	Sob	esse	prisma,
+importa	que	a	relação	de	direito	material	seja	a	mesma.	Na	doutrina	brasileira,	cf.,	amplamente,	José
+Rogério	Cruz	e	Tucci	(	A	causa	petendi.	.,	2.	ed.,	cit.,	n.	3.2,	p.	78	ss.),	que	afirma	ser	possível	valer-se
+da	teoria	da	identidade	da	relação	jurídica	material	quando	a	teoria	da	tríplice	identidade	for	insuficiente
+(ob.	cit.,	p.	213;	no	mesmo	sentido,	Ana	Clara	Viola	Ladeira,	Identificação	da	conexão.	.,	RePro	238/65).
+Esse	modo	de	pensar	tem	inspirado	a	jurisprudência.	Admitiu-se,	por	exemplo,	litispendência	entre	ações
+que	tinham	a	mesma	identidade	jurídica,	embora	a	denominação	das	mesmas	e	as	partes	processuais
+fossem	distintas:	“É	excepcionalmente	possível	a	ocorrência	de	litispendência	entre	mandado	de
+segurança	e	ação	ordinária,	entendendo-se	que	tal	fenômeno	se	caracteriza,	quando	há	identidade
+jurídica,	ou	seja,	quando	as	ações	intentadas	objetivam,	ao	final,	o	mesmo	resultado,	ainda	que	o	polo
+passivo	seja	constituído	de	pessoas	distintas;	no	pedido	mandamental,	a	autoridade	administrativa,	e	na
+ação	ordinária	a	própria	entidade	de	Direito	Público.	Precedentes.	A	procedência	do	pedido	da	Ação
+Declaratória,	consubstanciada	na	declaração	de	inexistência	de	relação	jurídica	para	fins	de
+cobrança	do	IR,	cuja	decisão	transitou	em	julgado,	acarretou	a	desconstituição	do	referido	crédito
+tributário,	a	mesma	providência	requerida	no	presente	mandamus,	ajuizado	pela	mesma	parte,	com	base
+na	mesma	causa	de	pedir”	(STJ,	EREsp	265.578/RS,	rel.	Min.	Napoleão	Nunes	Maia	Filho,	1.ª	S.,	DJe
+14.02.2012).	Afirma-se,	ainda,	em	outro	julgado,	que:	“A	teoria	dos	três	eadem	na	caracterização	da
+litispendência/coisa	julgada	deve	transcender	a	identidade	dos	elementos	da	ação	para	entender	que	o
+impedimento	se	destina	a	evitar	processos	que	tenham	o	mesmo	resultado	prático”	(STJ,	AgRg	no	AREsp
+188.343/SC,	rel.	Min.	Herman	Benjamin,	2.ª	T.,	DJe	11.09.2012);	no	mesmo	sentido,	STJ,	AgRg	no	REsp
+1.232.975/AM,	rel.	Min.
+
+Og	Fernandes	2.ª	T.,	DJe	03.02.2014.	Cf.	também	comentário	ao	art.	55	do	CPC/2015,
+[/PAGINA 606]
+
+[PAGINA 607]
+sobre	identidade
+entre	pedido	e	causa	de	pedir	em	ações	coletivas.
+Art.	338.	Alegando	o	réu,	na	contestação,	ser	parte	ilegítima	ou	não	ser	o	responsável	pelo	prejuízo
+invocado,	o	juiz	facultará	ao	autor,	em	15	(quinze)	dias,	a	alteração	da	petição	inicial	para	substituição
+do	réu.
+Parágrafo	único.	Realizada	a	substituição,	o	autor	reembolsará	as	despesas	e	pagará	os	honorários	ao
+procurador	do	réu	excluído,	que	serão	fixados	entre	3%	(três	por	cento)	e	5%	(cinco	por	cento)	do	valor
+da	causa	ou,	sendo	este	irrisório,	nos	termos	do	art.	85,	§	8º.
+CPC/1973:	Sem	correspondente;	arts.	62	a	69,	301	(relacionados).
+•	FCCP,	Enunciado	296:	Quando	conhecer	liminarmente	e	de	ofício	a	ilegitimidade	passiva,	o	juiz
+facultará	ao	autor	a	alteração	da	petição	inicial,	para	substituição	do	réu,	nos	termos	dos	arts.	339	e
+340	[rectius:	deve	ser	arts.	338	e	339],	sem	ônus	sucumbenciais.
+Correção	da	legitimidade	no	polo	passivo.	Caso	o	réu	alegue	ilegitimidade	passiva	ad	causam	na
+contestação,	permite	a	lei	processual	a	correção	do	vício,	com	a	substituição	do	réu.	A	solução
+encontrada	pelo	Código	ajusta-se	ao	princípio	previsto	no	art.	317	do	CPC/2015,	segundo	o	qual	não	se
+deve	extinguir	o	processo	sem	resolução	do	mérito,	quando	possível	a	correção	do	vício.	À	luz	do
+CPC/1973,	semelhante	finalidade	é	alcançada,	embora	de	modo	mais	restrito,	com	o	instituto	da
+nomeação	à	autoria	(cf.	arts.	62	ss.	do	CPC/1973).	Não	se	admitiu	a	nomeação	à	autoria,	por	exemplo,
+para	dirimir	legitimidade	passiva	em	ação	de	ressarcimento	de	danos	resultante	de	acidente	com	veículos
+(	RT	713/185),	mas	em	tal	caso	seria	possível	a	correção	da	legitimidade	do	polo	passivo,	nos	termos
+dos	arts.	338	e	339	do	CPC/2015.	De	acordo	com	o	CPC/2015,	a	alegação,	pelo	réu,	deve	ser	feita	na
+contestação	(e	não	antes,	com	direito	a	novo	prazo	para	contestar,	como	sucede	com	a	nomeação	à	autoria
+prevista	no	CPC/1973,	cf.	STJ,	AgRg	no	Ag	1.293.825/GO,	3.ª	T.,	j.	14.04.2011,	rel.	Min.	Vasco	Della
+Giustina).	Intimado	o	autor	para	se	manifestar,	poderá	simplesmente	incluir	o	sujeito	indicado	pelo	réu
+originário	como	litisconsorte	passivo,	ou	prosseguir	com	a	ação	apenas	contra	este,	alterando	a	petição
+inicial	para	excluir	o	réu	originário	(reembolsando	as	despesas	que	o	réu	tenha	tido,	bem	como	pagando
+honorários).	Vê-se	que	a	substituição	depende	de	consentimento	do	autor,	que,	recusando-a,	assume	o
+risco	de,	posteriormente,	a	alegação	de	ilegitimidade	passiva	ad	causam	ser	acolhida,	extinguindo-se	o
+processo	sem	resolução	do	mérito	(art.	485,	VI,	do	CPC/2015).
+Art.	339.	Quando	alegar	sua	ilegitimidade,	incumbe	ao	réu	indicar	o	sujeito	passivo	da	relação	jurídica
+discutida	sempre	que	tiver	conhecimento,	sob	pena	de	arcar	com	as	despesas	processuais	e	de	indenizar
+o	autor	pelos	prejuízos	decorrentes	da	falta	de	indicação.
+§	1º	O	autor,	ao	aceitar	a	indicação,	procederá,	no	prazo	de	15	(quinze)	dias,	à	alteração	da	petição
+inicial	para	a	substituição	do	réu,	observando-se,	ainda,	o	parágrafo	único	do	ar
+[/PAGINA 607]
+
+[PAGINA 608]
+t.	338.
+§	2º	No	prazo	de	15	(quinze)	dias,	o	autor	pode	optar	por	alterar	a	petição	inicial	para	incluir,	como
+litisconsorte	passivo,	o	sujeito	indicado	pelo	réu.
+CPC/1973:	Sem	correspondentes;	arts.	62	a	69,	301	(relacionados).
+•	FPPC,	Enunciado	42:	O	dispositivo	se	aplica	mesmo	a	procedimentos	especiais	que	não	admitem
+
+intervenção	de	terceiros,	bem	como	aos	juizados	especiais	cíveis,	pois	se	trata	de	mecanismo
+saneador,	que	excepciona	a	estabilização	do	processo.
+•	FPPC,	Enunciado	44:	A	responsabilidade	a	que	se	refere	o	art.	339	é	subjetiva.
+•	FPPC,	Enunciado	152:	Nas	hipóteses	dos	§§	1.º	e	2.º	do	art.	339,	a	aceitação	do	autor	deve	ser	feita
+no	prazo	de	quinze	dias	destinado	à	sua	manifestação	sobre	a	contestação	ou	sobre	essa	alegação	de
+ilegitimidade	do	réu.
+•	FCCP,	Enunciado	296:	Quando	conhecer	liminarmente	e	de	ofício	a	ilegitimidade	passiva,	o	juiz
+facultará	ao	autor	a	alteração	da	petição	inicial,	para	substituição	do	réu,	nos	termos	dos	arts.	339	e
+340	[	rectius:	deve	ser	arts.	338	e	339],	sem	ônus	sucumbenciais.
+Indicação,	pelo	réu,	daquele	que	deve	figurar	no	polo	passivo.	Deverá	o	réu	indicar	aquele	que	deveria
+ser	reconhecido	como	sujeito	passivo	da	relação	jurídica,	“sempre	que	tiver	conhecimento”	(cf.	art.	339,
+caput,	1.ª	parte	do	CPC/2015).	Caso	o	réu	originário	tenha	condições	de	identificar	aquele	que	deveria,
+em	seu	lugar,	ocupar	o	polo	passivo,	e	não	realize	a	indicação,	responderá	por	perdas	e	danos	(art.	339,
+caput,	2.ª	parte	do	CPC/2015,	semelhante	ao	art.	69	do	CPC/1973;	na	jurisprudência,	cf.	RT	720/201).
+μμ_41tu
+5	e
+av:S:J
+Art.	340.	Havendo	alegação	de	incompetência	relativa	ou	absoluta,	a	contestação	poderá	ser	protocolada
+no	foro	de	domicílio	do	réu,	fato	que	será	imediatamente	comunicado	ao	juiz	da	causa,	preferencialmente
+por	meio	eletrônico.
+§	1º	A	contestação	será	submetida	a	livre	distribuição	ou,	se	o	réu	houver	sido	citado	por	meio	de	carta
+precatória,	juntada	aos	autos	dessa	carta,	seguindo-se	a	sua	imediata	remessa	para	o	juízo	da	causa.
+§	2º	Reconhecida	a	competência	do	foro	indicado	pelo	réu,	o	juízo	para	o	qual	for	distribuída	a
+contestação	ou	a	carta	precatória	será	considerado	prevento.
+§	3º	Alegada	a	incompetência	nos	termos	do	caput,	será	suspensa	a	realização	da	audiência	de
+conciliação	ou	de	mediação,	se	tiver	sido	designada.
+§	4º	Definida	a	competência,	o	juízo	competente	designará	nova	data	para	a	audiência	de	conciliação	ou
+de	mediação.
+CPC/1973:	Arts.	112,	parágrafo	único,	305,	parágrafo	único,	e	311	(relacionados).
+Alegação	de	incompetência	relativa	e	protocolo	da	contestação	no	foro	do	domicílio	do	réu.	A
+incompetência	(absoluta	ou	relativa)	deve	ser	alegada	pelo	réu	como	preliminar	na	contestação	(cf.	art.
+337,	II,	do	CPC/2015;	no	regime	do	CPC/1973,	previa-se	exceção	de	incompetência,	como	petição
+autônoma,	cf.	arts.	112,	caput,	297,	304	e	307	do	CPC/1973,	processada	em	apenso	aos	autos	principais,
+cf.	art.	299	do	CPC/1973,	podendo	a	exceção	ser	apresentada	antes	ou	concomitantemente	à	pet
+[/PAGINA 608]
+
+[PAGINA 609]
+ição	de
+contestação,	não	ocorrendo	preclusão	lógica	ou	consumativa,	no	caso,	cf.	STJ,	REsp	457.710/ES,	4.ª	T.,
+
+j.	03.04.2003,	rel.	Min.	Ruy	Rosado	de	Aguiar).	Caso	o	réu	alegue	a	incompetência	relativa	como
+preliminar	da	contestação,	poderá	protocolá-la	no	foro	de	seu	domicílio	(cf.	art.	340	do	CPC/2015,
+semelhante,	no	ponto,	ao	parágrafo	único	do	art.	305	do	CPC/1973).	O	fato	será	comunicado	de	imediato
+ao	juiz	da	causa	independentemente	de	manifestação	do	juízo	do	domicílio	do	réu,	já	que	a	referida
+norma	não	abre	opção	a	atitude	diversa	(incide,	no	caso,	o	§	4.º	do	art.	203	do	CPC/2015).	O	juiz	da
+causa	deverá	decidir	desde	logo	a	respeito	(cf.	art.	64,	§	2.º,	do	CPC/2015).	Alegada	a	incompetência
+relativa	em	contestação	protocolada	no	foro	de	domicílio	do	réu,	suspende-se	a	audiência,	diz	a	lei
+processual,	mas	esse	dispositivo	deve	ser	compreendido	do	seguinte	modo:	suspende-se	a	audiência
+desde	que	não	seja	possível	decidir	a	respeito	em	tempo	hábil,	antes	da	data	agendada	para	a	realização
+da	mesma	(não	faria	sentido,	por	exemplo,	suspender-se	audiência	marcada	para	três	meses	depois	da
+arguição	da	incompetência,	já	que	tal	questão	pode	ser	resolvida	antes,	pelo	juízo	de	1.º
+grau,	e,	mantendo-se	a	causa	no	juízo	originário,	marcar-se	nova	data	para	a	audiência,	em	momento
+posterior).	Definida	a	competência,	determinar-se-á	nova	data	para	a	audiência,	se	necessário	(cf.	se
+disse	retro;	no	regime	do	CPC/1973,	rejeitada	a	exceção	de	incompetência,	e	intimado	o	réu,	o	prazo
+restante	tem	seguimento	para	apresentação	de	outras	espécies	de	resposta,	cf.	STJ,	REsp	973.465/SP,	rel.
+Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	04.10.2012).
+Art.	341.	Incumbe	também	ao	réu	manifestar-se	precisamente	sobre	as	alegações	de	fato	constantes	da
+petição	inicial,	presumindo-se	verdadeiras	as	não	impugnadas,	salvo	se:	I	-	não	for	admissível,	a	seu
+respeito,	a	confissão;	II	-	a	petição	inicial	não	estiver	acompanhada	de	instrumento	que	a	lei	considerar
+da	substância	do	ato;	III	-	estiverem	em	contradição	com	a	defesa,	considerada	em	seu	conjunto.
+Parágrafo	único.	O	ônus	da	impugnação	especificada	dos	fatos	não	se	aplica	ao	defensor	público,	ao
+advogado	dativo	e	ao	curador	especial.
+CPC/1973:	Art.	302	(correspondente).
+SUMÁRIO:	I.	Ônus	da	impugnação	especificada	–	II.	Possibilidade	de	julgamento	antecipado	(total	ou
+parcial)	da	lide.
+I.	Ônus	da	impugnação	especificada.	O	réu	tem	o	ônus	de	se	manifestar	sobre	as	alegações	de	fato
+constantes	da	petição	inicial.	As	não	impugnadas	presumem-se	verdadeiras	(cf.	art.	341,	caput,	do
+CPC/2015;	sobre	a	diferença	entre	ônus	e	dever,	cf.	comentário	ao	art.	200	do	CPC/2015).	Não
+contestando	os	pontos	afirmados	pelo	autor,	o	réu	não	cria	questões.	Questão	é	ponto	controvertido,	logo,
+para	que	surja	a	questão,	uma	parte	há	que	se	contrapor	aos	pontos	ou	fundamentos	afirmados	pela	outra
+(cf.	observamos	no	comentário	ao	art.	203	do	CPC/2015;	no	mesmo	sentido,	cf.	Dinamarco,	afirmando
+que	o	ônus	da	impugnação	específica	significa	“o	rep
+[/PAGINA 609]
+
+[PAGINA 610]
+údio	à	contestação	por	negação	geral”,	Ônus	de
+contestar.	.	RePro	41/185).	Exemplo:
+“Com	relação	à	prova	testemunhal	não	produzida,	que,	conforme	assevera	o	Apelante,	serviria	justamente
+para	comprovar	que	a	residência	em	que	houve	a	troca	do	medidor	era	de	veraneio,	entendo	que	melhor
+sorte	não	socorre	o	Apelante.	O
+Apelante,	quando	de	sua	petição	inicial	afirmou	que	utilizava	a	residência	apenas	para	passar	alguns	fins
+de	semana,	alegação	esta	que	não	foi	objeto	de	impugnação	quando	da	apresentação	de	contestação	pela
+Apelada,	o	que	torna	incontroverso	tal	fato	[.	.].	Destarte,	ante	a	presunção	de	veracidade	que	recai	sob	a
+sua	alegação	de	que	utilizava	a	residência	apenas	para	veraneio,	não	merece	prosperar	a	preliminar
+
+suscitada,	já	que,	sequer	houve	impugnação	pelo	Apelado”	(TJPR,	ApCív	873.720-6,	12.ª	Câm.	Cív.,	rel.
+Des.	Ivanise	Maria	Tratz	Martins,	j.	15.08.2012).	Esse	ônus	não	se	aplica	às	pessoas	referidas	no
+parágrafo	único	do	art.	341	do	CPC/2015	(assim,	por	exemplo,	quanto	ao	curador	especial,	cf.,	na
+doutrina,	Nery,	A	citação.	.	RePro	55/7;	na	jurisprudência,	STJ,	AgRg	no	REsp	1.450.683/PB,	rel.	Min.
+Herman	Benjamin,	2.ª	T.,	j.
+12.08.2014;	quanto	ao	advogado	dativo	e	ao	defensor	público,	cf.	Roberto	Luis	Luchi	Demo,	Assistência.
+.	RT	797/727).	Não	incide	a	regra	prevista	no	caput	do	art.	341	do	CPC/2015,	também,	quando	sobre	o
+fato	não	se	admitir	a	confissão	(cf.	inc.	I	do	referido	artigo;	sustentando	que	o	Poder	Público	encarta-se
+nessa	hipótese,	cf.,	na	doutrina,	Talamini,	A	indisponibilidade	do	interesse	público.	.	RePro	128/59;	na
+jurisprudência,	STJ,	AgRg	no	REsp	1.187.684/SP,	rel.	Min.	Humberto	Martins,	2.ª	T.,	j.
+22.05.2012;	em	relação	ao	consumidor,	cf.	Cambi,	A	inexistência	do	ônus.	.,	RDP	14/259).	Deverá	ser
+considerada,	ainda,	a	contestação	em	seu	conjunto:	embora	em	campo	dedicado	à	defesa	não	se	tenha
+infirmado	alguma	alegação	fato	constante	da	petição	inicial,	tal	impugnação	pode	ter	sido	veiculada	no
+contesto	da	reconvenção	(que	também	é	apresentada	na	contestação,	assim	como	a	defesa,	cf.	comentário
+ao	art.	335	do	CPC/2015).	Deverá	ser	considerada	a	resposta,	assim,	em	seu	conjunto	(cf.	STJ,	REsp
+724.710/RJ,	1.ª	T.,	j.	20.11.2007,	rel.	Min.	Luiz	Fux;	STJ,	REsp	1.211.407/SP,	rel.	Min.	João	Otávio	de
+Noronha,	3.ª	T.,	j.	20.02.2014;	STJ,	REsp	1.335.994/SP,	rel.	Min.	Ricardo	Villas	Bôas	Cueva,	3.ª	T.,	j.
+12.08.2014).	Cf.	comentário	ao	art.	345	do	CPC/2015,	sobre	efeitos	da	revelia.
+II.	Possibilidade	de	julgamento	antecipado	(total	ou	parcial)	da	lide.	Caso	ocorra	a	presunção	a	que	se
+refere	o	art.	341
+do	CPC/2015,	pode-se	estar	diante	de	hipótese	em	que	a	produção	de	prova	torna-se	desnecessária	(cf.
+comentário	ao	art.	374
+do	CPC/2015)	e,	conforme	o	caso,	será	o	caso	de	julgar-se	desde	logo	mérito	(art.	355	do	CPC/2015).
+Tendo	sido	formulados	vários	pedidos,	e	incidindo	o	efeito	referido	no	art.	344	do	CPC/2015	em	relação
+a	um	deles,	poderá	o	juiz	julgá-lo	desde	já	(cf.
+art.	356	do	CPC/2015),	determinando	o	prosseguimen
+[/PAGINA 610]
+
+[PAGINA 611]
+to	do	procedimento,	em	relação	ao	outro	pedido.
+Art.	342.	Depois	da	contestação,	só	é	lícito	ao	réu	deduzir	novas	alegações	quando:	I	-	relativas	a	direito
+ou	a	fato	superveniente;	II	-	competir	ao	juiz	conhecer	delas	de	ofício;	III	-	por	expressa	autorização
+legal,	puderem	ser	formuladas	em	qualquer	tempo	e	grau	de	jurisdição.
+CPC/1973:	Art.	303	(correspondente).
+Apresentação	de	novas	alegações	pelo	réu	após	a	contestação.	Como	regra,	caso	o	réu	deixe	de
+alegar	qualquer	matéria	de	defesa	na	contestação,	não	poderá,	como	regra,	fazê-lo	depois	(sobre
+princípio	da	eventualidade	e	concentração	da	defesa,	cf.	comentário	ao	art.	336	do	CPC/2015).	Não
+incide	a	regra	quando	se	tratar	de	uma	das	exceções	previstas	no	art.
+342	do	CPC/2015.	Assim,	de	acordo	com	o	inc.	I	do	art.	342	do	CPC/2015,	em	relação	à	superveniência
+de	direito	(novo	texto	legal,	por	exemplo)	ou	fato	(por	exemplo,	acontecimento	posterior	à	apresentação
+de	contestação;	a	superveniência	de	fato	ou	de	direito	deve	ser	considerada	pelo	juiz,	por	ocasião	da
+prolação	da	sentença,	cf.	art.	493	do	CPC/2015).	Note-se	que,	além	de	fatos	supervenientes,	também
+
+fatos	anteriores	podem	ser	alegados	depois	da	contestação,	caso	o	réu	demonstre	que	não	os	alegou	na
+contestação	por	motivo	de	força	maior	(é	o	que	se	depreende,	a	fortiori,	da	regra	oriunda	do	art.	1.014
+do	CPC/2015,	em	relação	à	alegação	de	fatos	“novos”	na	apelação).	Dá-se	o	mesmo	em	relação	às
+matérias	que	devem	ser	examinadas	ex	officio	pelo	juiz	(inc.	II	do	art.	342	do	CPC/2015,	como,	por
+exemplo,	requisitos	processuais,	cf.	§	5.º,	2.ª	parte,	do	art.	337	do	CPC/2015	e	§	3.º	do	art.	485	do
+CPC/2015)	e	por	aquelas	que,	ainda	que	não	devam	ser	examinadas	de	ofício	pelo	juiz,	possam	ser
+arguidas	pelas	partes	posteriormente	(inc.	III	do	art.	342	do	CPC/2015).	Por	exemplo,	o	art.	211	do	CC
+dispõe	que,	“se	a	decadência	for	convencional,	a	parte	a	quem	aproveita	pode	alegá-la	em	qualquer	grau
+de	jurisdição,	mas	o	juiz	não	pode	suprir	a	alegação”	(admite-se	a	renúncia	à	decadência	criada	pelas
+partes;	cf.,	sobre	a	decadência	convencional,	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em
+coautoria	com	Fábio	Caldas	de	Araújo,	p.	250;	sobre	o	trema,	cf.	Barioni,	Ação	rescisória.	.	RePro
+204/319;	Frederico	Andrade	Pinho,	Direito	superveniente.	.	RePro	210/451).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+
+Capítulo	VII.	DA	RECONVENÇÃO
+Capítulo	VII	DA	RECONVENÇÃO
+Art.	343.	Na	contestação,	é	lícito	ao	réu	propor	reconvenção	para	manifestar	pretensão	própria,	conexa
+com	a	ação	principal	ou	com	o	fundamento	da	defesa.
+§	1º	Proposta	a	reconvenção,	o	autor	será	intimado,	na	pessoa	de	seu	advogado,	para	apresentar	resposta
+no	prazo	de	15	(quinze)	dias.
+§	2º	A	desistência	da	ação	ou	a	ocorrência	de	causa	extintiva	que	impeça
+[/PAGINA 611]
+
+[PAGINA 612]
+o	exame	de	seu	mérito	não
+obsta	ao	prosseguimento	do	processo	quanto	à	reconvenção.
+§	3º	A	reconvenção	pode	ser	proposta	contra	o	autor	e	terceiro.
+§	4º	A	reconvenção	pode	ser	proposta	pelo	réu	em	litisconsórcio	com	terceiro.
+§	5º	Se	o	autor	for	substituto	processual,	o	reconvinte	deverá	afirmar	ser	titular	de	direito	em	face	do
+substituído,	e	a	reconvenção	deverá	ser	proposta	em	face	do	autor,	também	na	qualidade	de	substituto
+processual.
+§	6º	O	réu	pode	propor	reconvenção	independentemente	de	oferecer	contestação.
+CPC/1973:	Arts.	315,	316	e	317	(correspondentes);	art.	318	(relacionado).
+V.	art.	36,	caput,	da	Lei	6.515/1977	(Lei	do	Divórcio);	art.	16,	§	3.º,	da	Lei	6.830/1980	(Execução
+fiscal);	arts.	17	e	31	da	Lei	9.099/1995	(Juizados	Especiais);	art.	7.º	da	Lei	9.289/1996	(Custas	na
+Justiça	Federal).
+•	STJ,	Súmula	292:	A	reconvenção	é	cabível	na	ação	monitória,	após	a	conversão	do	procedimento	em
+ordinário.
+•	FPPC,	Enunciado	45:	Para	que	se	considere	proposta	a	reconvenção,	não	há	necessidade	de	uso
+desse	nomen	iuris,	ou	dedução	de	um	capítulo	próprio.	Contudo,	o	réu	deve	manifestar
+inequivocamente	o	pedido	de	tutela	jurisdicional	qualitativa	ou	quantitativamente	maior	que	a
+simples	improcedência	da	demanda	inicial.
+•	FPPC,	Enunciado	46:	A	reconvenção	pode	veicular	pedido	de	declaração	de	usucapião,	ampliando
+subjetivamente	a	relação	processual,	observando-se	o	art.	259,	I.	Ampliação	do	Enunciado	237	da
+Súmula	do	STF.
+SUMÁRIO:	I.	Apresentação	de	reconvenção	na	contestação.	Reconvenção	sem	contestação	–	II.
+Reconvenção.	Cumulação	superveniente	de	ações.	Compatibilidade	entre	os	procedimentos	da	ação
+originária	e	da	reconvenção	–	III.	Reconvenção.
+Natureza.	Pedido	contraposto	e	reconvenção	–	IV.	Reconvenção	e	ação	dúplice	–	V.	Conexão	para	a
+reconvenção.	Paralelo	com	o	art.	55	do	CPC/2015	–	VI.	Partes	na	reconvenção.	Reconvenção	e	terceiros.
+Substituição	processual	–	VII.	Reconvenção	e	substituição	processual.	Ações	coletivas	passivas	–	VIII.
+Reconvenção	tendo	por	objeto	resolução	de	questão	prejudicial.	A	ação	declaratória	incidental	no
+
+Código	de	Processo	Civil	de	1973	e	o	modelo	previsto	no	Código	de	Processo	Civil	de	2015	–	IX.
+Ausência	de	interesse	em	reconvir,	se	o	mesmo	resultado	prático	puder	ser	obtido	pelo	réu	através	da
+contestação	–	X.
+Apresentação	de	demanda	em	outro	procedimento,	caso	não	admitida	a	demanda	reconvencional	–	XI.
+Citação	do	autor-reconvindo	–	XII.	Julgamento	conjunto	de	ação	originária	e	reconvenção,	em	regra.
+I.	Apresentação	de	reconvenção	na	contestação.	Reconvenção	sem	contestação.	Na	contestação,	o
+réu	pode	apresentar	sua	defesa	e,	também,	reconvir.	A	reconvenção	é	ação	ajuizada	pelo	réu	contra	o
+autor,	no	mesmo	procedimento	(cf.	comentário	infra).	No	sistema	do	Código	de	Processo	Civil	de	1973,
+prevê-se	que	contestação	e	reconvenção	são	apresentadas	em	peças	autônomas,	embora	no	mesmo
+momento	processual	(art.	297	do	CPC/1973;	na	jurisprudência,	decidiu-se	que	ambas	as	manifestações
+devem	ser	realizadas	no	mesmo
+[/PAGINA 612]
+
+[PAGINA 613]
+momento	processual,	“ainda	que	haja	prazo	para	a	resposta	do	réu,	sob
+pena	de	preclusão	consumativa”:	STJ,	AgRg	no	REsp	935.051/BA,	rel.	Min.	Luiz	Fux,	1.ª	T.,	j.
+14.09.2010).
+Não	há	que	se	considerar	nula	a	reconvenção,	contudo,	caso	contestação	e	reconvenção	sejam
+apresentadas	na	mesma	peça,	mesmo	à	luz	do	art.	297	do	CPC/1973.	Nesse	sentido:	“Embora	oferecidas
+em	peça	única,	a	contestação	e	a	reconvenção	foram	completamente	separadas	dentro	do	corpo	da
+petição,	podendo	as	duas	ser	distinguidas	ictu	oculi.	Sendo	assim,	tal
+circunstância	deve	ser	considerada	mera	irregularidade,	não	se	erigindo	em	nulidade	processual”	(STJ,
+REsp	549.587/PE,	5.ª
+T.,	j.	23.03.2004,	rel.	Min.	Felix	Fischer;	no	mesmo	sentido,	STJ,	REsp	1.335.994/SP,	rel.	Min.	Ricardo
+Villas	Bôas	Cueva,	3.ª	T.,	j.
+12.08.2014).	O	Código	de	Processo	Civil	de	2015,	diversamente,	admite	a	apresentação	de	defesa	e
+reconvenção	na	mesma	peça,	de	contestação.	Segue-se,	no	ponto,	o	modelo	outrora	previsto	no	art.	190,
+2.ª	parte,	do	CPC/1939	(“A	reconvenção	será	formulada	com	a	contestação”).	Pode	o	réu	apresentar
+reconvenção	sem	ter	contestado	(cf.	§	6.º	do	art.	343	do	CPC/2015,	sem	similar,	no	Código	de	Processo
+Civil	de	1973).	No	caso,	porém,	a	reconvenção	somente	poderá	ter	por	fundamento	conexão
+“com	a	ação	principal”,	já	que	não	terá	havido	defesa.
+II.	Reconvenção.	Cumulação	superveniente	de	ações.	Compatibilidade	entre	os	procedimentos	da
+ação	originária	e	da	reconvenção.	Com	a	reconvenção,	dá-se	cumulação	superveniente	de	ações.
+Assim,	para	que	seja	admissível	a	reconvenção,	deve	haver	compatibilidade	entre	os	procedimentos
+desta	e	da	ação	originária.	Admite-se	a	reconvenção	sempre	que	procedimento	da	ação	originária	tiver
+alguma	peculiaridade	apenas	em	sua	fase	inicial.	Assim,	por	exemplo,	admite-se	a	reconvenção	em	ação
+monitória,	visto	que	esta,	após	a	apresentação	dos	embargos	à	ação	monitória	(cf.	Súmula	292	do	STJ,
+editada	sob	o	prisma	do	Código	de	Processo	Civil	de	1973;	o	art.	702,	§	6.º,	do	CPC/2015	dispõe
+textualmente	que	na	ação	monitória	admite-se	reconvenção).
+III.	Reconvenção.	Natureza.	Pedido	contraposto	e	reconvenção.	Por	razões	de	economia	processual,
+permite-se	o	ajuizamento	de	ação	pelo	réu	contra	o	autor	no	mesmo	procedimento.	É	o	que	ocorre	quando
+o	réu	ajuíza	reconvenção	(art.
+
+343	do	CPC/2015),	bem	como	quando	apresenta	pedido	contraposto	(art.	278,	§	1.º,	do	CPC/1973,	em
+relação	ao	procedimento	sumário,	e	no	art.	17	da	Lei	9.099/1995,	em	relação	aos	Juizados	Especiais
+Cíveis;	na	doutrina,	cf.	José	Rogério	Cruz	e	Tucci,	Contornos	da	causa	petendi.	.,	RT	745/11;	criticando
+o	uso	da	expressão	“pedido	contraposto”,	cf.	Bondioli,	Concentração	das	respostas.	.,	RePro	195/369,	e
+Marcelo	Pacheco	Machado,	Demanda,	reconvenção	e	defesa.	.	RePro	236/71).	Rigorosamente,	o	pedido
+contraposto	nada	mais	é	que	uma	variação,	mais	restrita,	da	reconvenção	(nesse	sentido,	cf.	Rinaldo
+Mouzalas,	Duplicidade	da	ação	declaratória.	.	RePro	237/115;	afirmando	que	o	pedido	contraposto	te
+[/PAGINA 613]
+
+[PAGINA 614]
+m
+“cunho	reconvencional”,	José	Rogério	Cruz	e	Tucci,	ob.loc.	cits.).	O	pedido	contraposto,	no	regime	do
+procedimento	sumário	previsto	no	Código	de	Processo	Civil	de	1973,	limitou-se	aos	“mesmos	fatos
+referidos	na	inicial”	(art.	278,	§	1.º,	do	CPC/1973),	e	no	procedimento	dos	Juizados	Especiais	Cíveis
+deve	fundar-se	“nos	mesmos	fatos	que	constituem	objeto	da	controvérsia”	(art.	31	da	Lei	9.099/1995).	A
+reconvenção	pode	fundar-se	em	conexão	com	“a	ação	principal	ou	com	o	fundamento	da	defesa”	(art.
+343,	caput,	do	CPC/2015;	art.	315,	caput,	do	CPC/1973).	Nos	dois	casos	há	demanda	apresentada	pelo
+réu	contra	o	autor	(afirmando	que	a	reconvenção	é	“demanda	autônoma”,	cf.	Rita	Gianesini,	Alguns
+aspectos	da	reconvenção,	RePro	7/79).
+IV.	Reconvenção	e	ação	dúplice.	As	ações	dúplices	são	aquelas	em	que,	na	mesma	ação,	assumem
+ambas	as	partes,	concomitantemente,	as	condições	de	autor	e	réu	(independentemente	de	o	réu	ter	feito
+novo	pedido	nesse	sentido,	cf.	Kazuo	Watanabe,	Ação	dúplice,	RePro	31/138;	na	jurisprudência,	cf.	STJ,
+REsp	816.402/RS,	rel.	Min.	Teori	Zavascki,	1.ª	T.,	j.
+15.09.2009).	A	demanda	apresentada	pelo	réu	(seja	em	reconvenção,	seja	em	pedido	contraposto)	não
+torna	dúplice	a	ação	proposta	pelo	autor:	haverá	duas	ações	no	mesmo	procedimento,	enquanto	em	ação
+dúplice	a	ação	é	uma	só,	embora	dúplice.	Falta	interesse	processual	em	reconvir	em	ação	dúplice,	em
+relação	ao	objeto	da	ação	em	curso	(cf.	comentário	infra),	mas,	mesmo	se	a	ação	for	dúplice,	poderá
+haver	reconvenção,	para	se	veicular	nova	demanda,	com	novo	objeto.	Como	afirma	Adroaldo	Furtado
+Fabrício,	“se	há	dois	sujeitos	da	relação	jurídico-material	e	qualquer	deles	pode	propor	a	mesma	ação
+contra	o	outro,	essa	ação	é	dúplice”.	Antes,	explicara	o	autor	que	“tal	ocorre	nos	juízos	demarcatórios	e
+divisórios:	não	há,	rigorosamente,	autores	e	réus;	qualquer	dos	confinantes	ou	comunheiros	poderia	ter
+tomado	a	iniciativa”	(	Comentários.	.
+cit.,	p.	414).	Além	das	ações	demarcatórias	e	divisórias,	têm	natureza	de	ação	dúplice,	p.ex.,	também	as
+ações	declaratórias,	as	ações	de	guarda	de	menor	etc.	(na	doutrina,	cf.	Magno	Federici	Gomes,
+Duplicidade	da	ação	de	guarda,	RePro	225/349;	Rinaldo	Mouzalas,	Duplicidade	da	ação	declaratória,
+RePro	237/115).	Nesses	casos,	embora	tomada	a	iniciativa	por	uma	das	partes,	no	processo	ambos
+figuram,	concomitantemente,	como	autor	e	réu,	ocupando,	pois,	posições	idênticas	(cf.	José	Rogério	Cruz
+e	Tucci,	Contornos	da	causa	petendi.	.	RT	745/11).	Decidiu-se	que	“a	sentença	declaratória	em	ação	de
+revisão	de	contrato	pode	ser	executada	pelo	réu,	mesmo	sem	ter	havido	reconvenção,	tendo	em	vista	a
+presença	dos	elementos	suficientes	à	execução,	o	caráter	de	‘duplicidade’	dessas	ações,	e	os	princípios
+da	economia,	da	efetividade	e	da	duração	razoável	do	processo”	(STJ,	REsp	1.309.090/AL,	rel.	Min.
+Sidnei	Beneti,	3.ª	T.,	j.	06.05.2014;	essa	orientação	foi	reafirmada	em	seguida:	STJ,	AgRg	no	REsp
+1.446.433/SC,	rel.	Min.	Sidnei	Beneti,	3.ª	T.,	j.	27.05.2014).	Sobre	a
+[/PAGINA 614]
+
+[PAGINA 615]
+sentença	declaratória	como	título
+executivo,	cf.	comentário	ao	art.	515	do	CPC/2015.
+V.	Conexão	para	a	reconvenção.	Paralelo	com	o	art.	55	do	CPC/2015.	Para	que	se	admita	a
+reconvenção,	exige-se	conexão,	que	é	mais	ampla,	objetivamente,	e	mais	restrita,	subjetivamente,	que	a
+conexão	a	que	se	refere	o	art.	55,	caput,	do	CPC/2015.	A	reconvenção	é	permitida	não	apenas	quando
+
+houver	conexão	com	a	ação	principal	(como	ocorre	no	caso	do	art.
+55,	caput,	do	CPC/2015),	mas,	também,	com	“fundamento	da	defesa”.	Por	outro	lado,	a	conexão	a	que	se
+refere	o	art.	55	do	CPC/2015	não	exige	identidade	de	partes,	mas	apenas	de	pedido	ou	de	causa	de	pedir,
+enquanto	que	a	reconvenção,	em	princípio	(cf.,	no	entanto,	comentário	infra),	pode	ser	ajuizada	pelo	réu
+contra	o	autor,	apenas.	Note-se,	porém,	que	o	§	3.º	do	art.	55	do	CPC/2015	permite	a	reunião	de	ações
+para	julgamento	conjunto	sempre	que	houver	risco	de	prolação	de	decisões	contraditórias,	caso
+resolvidas	separadamente.	Embora	o	texto	do	Código	de	Processo	Civil	de	2015	não	afirme,
+textualmente,	que	nesse	caso	há	conexão,	é	inegável	que	há	aqui	manifestação	da	teoria	da	identidade	da
+relação	jurídica	material	(cf.
+comentário	ao	art.	337	do	CPC/2015),	e	o	mesmo	princípio,	segundo	pensamos,	deve	ser	observado	no
+que	diz	respeito	à	reconvenção.	Deve-se	aplicar	o	disposto	no	§	3.º	do	art.	55	do	CPC/2015,	portanto,
+também	à	reconvenção.	Não	fosse	assim,	se
+chegaria	a	resultado	contraproducente.
+VI.	Partes	na	reconvenção.	Reconvenção	e	terceiros.	Substituição	processual.	De	ordinário,	as	partes
+na	reconvenção	são	as	existentes	na	ação	originária.	Assim,	o	réu	(ou	um	dos	réus)	pode	reconvir	contra
+o	autor	(ou	um	dos	autores).	No	regime	do	Código	de	Processo	Civil	de	1973,	a	letra	do	art.	315	sugere
+o	entendimento	de	que	da	reconvenção	não	poderia	participar	terceiro	que	não	fizesse	parte,	de	algum
+modo,	da	ação	originária.	Pensamos,	porém,	que,	mesmo	no	modelo	adotado	pelo	Código	de	Processo
+Civil	de	1973,	caso	a	reconvenção	seja	ajuizada	entre	as	(ou	uma	das)	partes	originárias,	mas	exija	em
+um	dos	polos	a	presença	de	um	terceiro,	haverá	o	juiz	de	verificar	se	a	hipótese	permitiria	a	reunião	de
+causas	pela	conexão	(a	que	se	refere	o	art.	55	do	CPC/2015).	É	que,	nesse	caso,	ainda	que	não	se	admita
+a	reconvenção,	as	causas	acabariam	sendo	reunidas,	em	virtude	da	conexão.	O	indeferimento	da
+reconvenção	obrigaria	a	parte	a	ajuizar	a	mesma	ação	antes	movida	como	reconvenção	através	de	ação
+autônoma,	que	seria	distribuída	por	dependência	ao	mesmo	juízo,	o	que	significaria	evidente	desperdício
+de	tempo	e	de	dinheiro.	Coerentemente	com	esse	modo	de	pensar,	o	Código	de	Processo	Civil	de	2015
+prevê	a	possibilidade	de	terceiro	reconvir	em	litisconsórcio	com	o	réu,	ou	de	o	réu	mover	reconvenção
+contra	o	autor	e	terceiro.
+VII.	Reconvenção	e	substituição	processual.	Ações	coletivas	passivas.	De	acordo	com	o	§	5.º	do	art.
+343	do	CPC/2015,	poderá	o	réu	apresentar	reconvenção	em	ação	movida	por	substituto	processual,	e	este
+atuar
+[/PAGINA 615]
+
+[PAGINA 616]
+á	na	mesma	condição,	em	defesa	do	autor/reconvindo.	Admitindo-se	a	aplicação	dessa	regra	às
+ações	coletivas,	acabará	por	se	admitir,	por	via	oblíqua,	o	ajuizamento	de	ação	coletiva	passiva	(a
+respeito,	cf.	comentário	ao	art.	18	do	CPC/2015).
+VIII.	Reconvenção	tendo	por	objeto	resolução	de	questão	prejudicial.	A	ação	declaratória	incidental
+no	Código	de	Processo	Civil	de	1973	e	o	modelo	previsto	no	Código	de	Processo	Civil	de	2015.	À	luz
+do	Código	de	Processo	Civil	de	1973,	é	necessário	haver	pedido	declaratório,	apresentado
+incidentalmente,	para	que	haja	coisa	julgada	sobre	questão	prejudicial	(cf.	arts.	5.º,	325,	469,	III	e	470	do
+CPC/1973).	Diversamente,	o	Código	de	Processo	Civil	de	2015	não	exige	o	pedido	de	declaração
+incidental,	havendo	coisa	julgada	sobre	questão	prejudicial	se	observadas	as	condições	previstas	no	art.
+503,	§§
+1.º	e	2.º,	do	CPC/2015.	No	sistema	do	Código	de	Processo	Civil	de	1973,	a	ação	declaratória	incidental
+tem	por	finalidade	a	ampliação	do	objeto	litigioso,	fazendo	com	que	ocorra	coisa	julgada	sobre	questão
+
+prejudicial,	a	respeito	da	qual	não	ocorreria	coisa	julgada,	se	não	houvesse	tal	pedido.	Distingue-se
+referida	ação,	prevista	no	Código	de	Processo	Civil	de	1973,	da	reconvenção,	pois:	(a)	a	reconvenção
+pode	ser	apresentada	apenas	pelo	réu,	enquanto	a	ação	declaratória	incidental	pode	ser	ajuizada	pelo	réu
+ou	pelo	autor;	(b)	a	ação	declaratória	incidental	amplia	o	objeto	litigioso,	mas	não	o	objeto	do	processo,
+já	que	haverá	pedido	declaratório	acerca	de	ponto	sobre	o	qual	já	controvertem	as	partes	(=	questão),	e
+não	a	respeito	de	tema	novo.	A	reconvenção	(seja	à	luz	do	Código	de	Processo	Civil	de	1973,	seja	do
+Código	de	Processo	Civil	de	2015)	tem	maior	amplitude,	pois	pode	ser	“conexa	com	a	ação	principal	ou
+com	o	fundamento	da	defesa”;	(c)	a	reconvenção,	diversamente	do	que	ocorre	com	a	ação	declaratória
+incidental,	admite	a	realização	de	pedidos	de	outras	naturezas	(constitutiva,	condenatória	etc.).	Salvo
+pela	circunstância	de	a	ação	declaratória	incidental	poder	ser	movida	também	pelo	autor,	a	reconvenção
+tem	maior	amplitude	que	a	ação	declaratória	incidental	a	ser	ajuizada	pelo	réu.	Nada	impede,	assim,	que
+o	pedido	de	declaração	incidente	seja	feito	pelo	réu	por	meio	de	reconvenção,	no	procedimento	previsto
+no	Código	de	Processo	Civil	de	1973.	Algo	diverso	deve	ocorrer	à	luz	do	Código	de	Processo	Civil	de
+2015.	É	que,	nesse	caso,	o	pedido	de	declaração	incidental	é	desnecessário	(cf.	art.	503,	§§	1.º	e	2.º,	do
+CPC/2015),	já	que	idêntico	efeito	ela	poderá	obter	com	a	apresentação	de	defesa	(sobre	esse	aspecto,	cf.
+comentário	infra).
+IX.	Ausência	de	interesse	em	reconvir,	se	o	mesmo	resultado	prático	puder	ser	obtido	pelo	réu
+através	da	contestação.	A	reconvenção,	como	qualquer	outra	ação,	se	sujeita	a	requisitos	processuais
+(cf.	STJ,	REsp	1.129.256/SP,	rel.
+Min.	Nancy	Andrighi,	3.ª	T.,	j.	12.08.2010).	Não	se	admite	a	ação	veiculada	por	meio	da	reconvenção,
+assim,	se	faltar	ao	reconvinte	interesse	processual.
+[/PAGINA 616]
+
+[PAGINA 617]
+É	o	que	ocorre,	por	exemplo,	quando	pleiteado	por
+intermédio	da	reconvenção	resultado	que	pode	ser	obtido	pelo	réu	com	a	apresentação	de	simples
+contestação:	“Não	cabe	reconvenção	quando	a	matéria	puder	ser	alegada	com	idêntico	efeito	prático	em
+sede	de	contestação,	até	porque,	em	tal	hipótese,	ela	se	mostra	absolutamente	desnecessária,	afrontando
+inclusive	os	próprios	princípios	que	a	justificam,	da	celeridade	e	economia	processual”	(STJ,	MC
+12.809/RS,	3.ª	T.,	j.	02.10.2007,	rel.	Min.	Nancy	Andrighi).	Pelo	mesmo	motivo,	carece	o	réu,	como
+regra,	de	interesse	em	ajuizar	reconvenção	de	caráter	declaratório	em	ação	igualmente	declaratória,
+quando	ambos	os	pedidos	(da	ação	originária	e	da	ação	reconvencional)	tiverem	o	mesmo	objeto.	Nesse
+sentido:	“Se	o	autor	postula	na	inicial	a	declaração	de	nulidade	de	cláusula,	por	considerá-la	abusiva,	ao
+se	contrapor	a	esse	pedido	por	meio	de	contestação,	está	o	réu,	por	imperativo	de	lógica,	a	defender	sua
+legalidade	e,	por	conseguinte,	a	incolumidade	do	contrato,	sendo	despiciendo	que	o	faça	apenas	por	meio
+de	reconvenção”	(STJ,	REsp	907.856/DF,	3.ª	T.,	j.	19.06.2008,	rel.	Min.	Sidnei	Beneti).	A	rigor,	no	caso
+citado	no	julgado	retro	transcrito,	está-se	diante	de	ação	dúplice	(cf.	comentário	supra).	De	todo	modo,
+no	contexto	do	Código	de	Processo	Civil	de	2015,	não	será	caso	de	se	mandar	retirar	dos	autos	aquilo
+que	se	veiculou	com	a	reconvenção,	se	o	que	se	pediu	puder	ser	incorporado	à	defesa	do	réu	(em	termos
+aproximados,	decidiu-se	que	“a	alegação	de	direito	à	retenção	por	benfeitorias,	de	regra,	constitui-se
+matéria	de	defesa	a	ser	apresentada	na	contestação.	Todavia,	não	há	empeço	a	que	seja	objeto	de
+reconvenção”:	STJ,	REsp	1.036.003/SP,	rel.	Min.	Jorge	Mussi,	5.ª	T.,	j.	26.05.2009).
+X.	Apresentação	de	demanda	em	outro	procedimento,	caso	não	admitida	a	demanda	reconvencional.
+Pode	o	réu,	ao	invés	de	reconvir,	ajuizar	ação	contra	o	autor	inaugurando	procedimento	autônomo.	Sendo
+a	ação	proposta	pelo	réu	conexa	com	a	anteriormente	ajuizada	pelo	autor	no	outro	procedimento,	as
+causas	serão	reunidas	para	julgamento	conjunto	(cf.	art.
+
+55,	§	1.º,	do	CPC/2015).	Caso	não	seja	admitida	a	reconvenção	(por	se	entender	que	não	se	encontram
+presentes	os	requisitos
+indicados	no	art.	343,	caput,	do	CPC/2015),	poderá	a	demanda	ser	apresentada	novamente	em	outro
+procedimento,	como	ação	autônoma.
+XI.	Citação	do	autor-reconvindo.	Admitida	a	reconvenção,	dá-se	a	citação	do	autor.	No	caso,	como	o
+autor	já	se	encontra	no	processo,	permite-se	que	a	mesma	materialize-se	sob	a	forma	de	intimação	na
+pessoa	do	advogado	do	autor-reconvindo	(art.	343,	§	1.º,	do	CPC/2015	e	art.	316	do	CPC/1973;	na
+jurisprudência,	cf.	STJ,	REsp	594.112/PR,	4.ª	T.,	j.	03.04.2008,	rel.	Min.
+Massami	Uyeda,	em	que	se	destacou	não	haver	nulidade	de	citação,	no	caso;	v.	Também,	de	modo	mais
+amplo	sobre	o	princípio,	STJ,	REsp	1.422.977/RS,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	22.05.2014).
+XII.	Julgamento	conjunto	de	ação	originária	e	reconvenção,	em	regra
+[/PAGINA 617]
+
+[PAGINA 618]
+.	Embora	as	ações	originária	e
+reconvencional	tramitem	juntamente,	nada	obsta	que	uma	delas	seja	extinta	prematuramente,	com	o
+prosseguimento	da	outra	(cf.	§	2.º	do	art.	343	do	CPC/2015;	art.	317	do	CPC/1973),	hipótese	em	que	o
+recurso	cabível	será	o	de	agravo	(cf.	art.	1.015,	II,	do	CPC/2015;	assim	se	decidiu,	à	luz	do	Código	de
+Processo	Civil	de	1973:	STJ,	REsp	323.405/RJ,	4.ª	T.,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	Mas,
+processadas	juntamente	até	o	final,	deverão	ser	julgadas	pela	mesma	sentença	(formalmente
+considerada).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	VIII.	DA	REVELIA	Capítulo	VIII	DA	REVELIA
+Art.	344.	Se	o	réu	não	contestar	a	ação,	será	considerado	revel	e	presumir-se-ão	verdadeiras	as
+alegações	de	fato	formuladas	pelo	autor.
+CPC/1973:	Art.	319	(correspondente).
+SUMÁRIO:	I.	Revelia	–	II.	Efeitos	da	revelia.	Ficta	confessio.	Ficta	litiscontestatio.	Sistemas
+adotados	pelo	Código	de	Processo	Civil	de	1973	e	pelo	Código	de	Processo	Civil	de	2015.
+I.	Revelia.	Revelia	é	estado	jurídico-processual	que	ocorre	com	a	ausência	de	resposta	do	réu	(a	não
+apresentação	de	contestação	é	por	nós	considerada	um	ato-fato	processual,	cf.	classificação	exposta	no
+comentário	ao	art.	188	do	CPC/2015;	na	doutrina,	distinguindo	a	revelia	de	seus	efeitos,	cf.	também
+Gelson	Amaro	de	Souza,	Da	revelia,	RePro	80/186;	Cristiane	Druve	Tavares	Fagundes,	O	instituto	da
+
+revelia.	.	RePro	179/40).	A	definição	de	revelia	que	utilizamos	é	adequada	ao	direito	brasileiro	(cf.	art.
+344	do	CPC/2015),	mas	não	se	afasta	do	modo	como	a	matéria	é	disciplinada,	de	modo	geral,	no	direito
+comparado	(embora	o	mesmo	não	se	possa	dizer	quanto	ao	modo	como	se	disciplinam	os	efeitos	da
+revelia,	cf.	Milton	Paulo	de	Carvalho,	Efeitos	da	revelia.	.,	RePro	69/21;	Renato	Luís	Benucci,	Os	efeitos
+da	revelia.	.,	RePro	106/165;	sobre	o	sistema	adotado	no	direito	brasileiro,	cf.	comentário	infra).	Sobre
+alteração	do	libelo	após	a	revelia,	cf.	comentário	ao	art.	329	do	CPC/2015.
+II.	Efeitos	da	revelia.	Ficta	confessio	.	Ficta	litiscontestatio	.	Sistemas	adotados	pelo	Código	de
+Processo	Civil	de	1973	e	pelo	Código	de	Processo	Civil	de	2015.	Sendo	o	réu	revel,	reputam-se
+verdadeiros	os	fatos	afirmados	pelo	autor,	desde	que	verossímeis	e	coerentes	com	a	prova	existente	nos
+autos	(arts.	344	e	345,	IV,	do	CPC/2015;	além	disso,	contra	o	revel	passam	a	correr	os	prazos
+processuais,	independentemente	de	intimação,	podendo,	no	entanto,	intervir	no	processo	no	estado	em
+que	se	encontra,	cf.	comentário	ao	art.	346	do	CPC/2015).	Vê-se,	pois,	que	não	se	impõe,	como
+consequência	da	revelia,	a	procedência	automática	do	pedido	(o	que	corresponderia	ao	sistema	de
+julgamento	secundum	praesentem,	isso	é,	favorável	à	parte	presente	–	no	caso,	o	autor	–	e	desfavorável
+ao
+[/PAGINA 618]
+
+[PAGINA 619]
+réu,	ausente;	tal	figura,	entre	nós,	seria	de	duvidosa	constitucionalidade,	já	que	a	simples	ausência	de
+uma	das	partes	não	pode	ser,	por	si	só,	fundamento	para	a	prolação	de	sentença	de	mérito	em	seu
+desfavor).	A	leitura	isolada	do	art.	344	do	CPC/2015	(tal	como	do	art.	319	do	CPC/1973)	conduziria	ao
+entendimento	de	que	se	teria	adotado,	no	direito	brasileiro,	o	sistema	da	ficta	confessio	(presumem-se
+verdadeiros	os	fatos	alegados	pelo	autor).	Examinando	o	art.	319	do	CPC/1973,	doutrina	e
+jurisprudência	evoluíram,	e	embora	não	descartem	a	ocorrência	do	referido	efeito,	não	o	aceitam	de
+modo	absoluto.	Na	doutrina,	afirma-se	que	o	autor	deve	provar	o	fato	constitutivo	do	seu	direito,	e,	além
+disso,	é	necessário	que	os	fatos	sejam	verossímeis	e	estejam	consonância	com	o	conjunto	de	provas
+apresentadas	pelo	autor.	Evidentemente,	devem	estar	presentes	os	requisitos	processuais	(isso	é,	não	ser
+caso	de	incidência	do	art.	485	do	CPC/2015),	para	se	julgar	o	mérito.	Há	que	se	observar,	ainda,	que	o
+réu	poderá	ter	se	manifestado	em	reconvenção,	ou	em	ação	conexa	ou	antecedente,	e	isso	deverá	ser
+considerado,	pelo	juiz.	Por	fim,	ainda	que	se	considerem	verdadeiros	os	fatos,	o	pedido	pode	não
+encontrar	amparo	no	direito	(cf.,	dentre	outros,	Rita	Gianesini,	Revelia,	RePro	109/221;	Dinamarco,
+Ônus	de	contestar	e	efeito	da	revelia,	RePro	41/185).	Vê-se,	pois,	que	a	presunção	decorrente	da	revelia
+não	opera	de	modo	absoluto,	já	que	em	qualquer	hipótese	deverá	o	juiz	considerar	a	prova	constante	dos
+autos	(cf.
+art.	131	do	CPC/1973	e	art.	371	do	CPC/2015).	Diante	disso,	“mesmo	naqueles	casos	em	que	ocorrer
+presunção	de	veracidade	(confissão,	revelia	etc.),	o	juiz	poderá	afastar	o	efeito	da	presunção,	se	outras
+provas	o	convencerem	do	contrário”	(Egas	Dirceu	Moniz	de	Aragão,	Direito	à	prova,	RePro	39/98).	De
+modo	parecido,	na	jurisprudência	colhem-se	diversas	manifestações	semelhantes	à	que	segue:	“Ao
+examinar	a	presunção	de	veracidade	decorrente	da	revelia,	da	qual	trata	o	art.
+319	do	CPC	[de	1973,	correspondente	ao	art.	344	do	CPC/2015],	o	juiz	deve	atentar-se	para	os
+elementos	probatórios	presentes	nos	autos,	formando	livremente	sua	convicção,	para,	só	então,	decidir
+pela	procedência	ou	improcedência	do	pedido,	revelando-se,	portanto,	a	força	relativa	do	princípio	da
+revelia”	(STJ,	AgRg	no	Ag	1.251.160/RS,	rel.	Min.	Marco	Buzzi,	4.ª	T.,	j.
+26.08.2014).	O	direito	brasileiro	acabou	se	aproximando,	gradativamente,	do	sistema	da	ficta
+litiscontestatio	(em	que,	apesar	da	revelia,	as	alegações	do	autor	devem	ser	provadas).	O	Código	de
+Processo	Civil	de	2015	incorpora	expressa	e	definitivamente	a	tendência,	ao	dispor	que	o	efeito	previsto
+no	art.	344	do	CPC/2015	(presunção	de	veracidade	das	alegações	de	fato	do	autor)	não	se	produzirá	se	o
+
+fato	for	inverossímil,	ou	estiver	em	contradição	com	a	prova	existente	nos	autos	(art.
+345,	IV,	do	CPC/2015).	Pode-se	dizer	que	no	Código	de	Processo	Civil	de	2015	prepondera	o	sistema	da
+ficta	litiscontestatio
+temperado	pelo	da	f
+[/PAGINA 619]
+
+[PAGINA 620]
+icta	confessio:	a	despeito	da	revelia,	deverá	o	juiz	avaliar	os	fatos	afirmados	pelo
+autor	para	conferir	se	são	verossímeis	e	coerentes	com	a	prova	existente	nos	autos,	e,	então,	presumindo-
+se	verdadeiras	tais	alegações,	examinar	se	a	elas	correspondem	as	consequências	jurídicas	pleiteadas,
+podendo,	como	resultado,	julgar	procedente	ou	improcedente	o	pedido	(sobre	esses	sistemas,	cf.	Renato
+Luís	Benucci,	Os	efeitos	da	revelia.	.,	RePro	106/165;	Francesco	Paolo	Luiso,	Diritto	processuale
+civile,	vol.	2,	p.	214;	José	Lebre	de	Freitas,	Le	respect	des	droits	de	la	défense	lors	de	l’introduction	de
+l’instance,	L’	efficacité	de	la	justice	civile	en	Europe,	p.	27-36).
+Art.	345.	A	revelia	não	produz	o	efeito	mencionado	no	art.	344	se:	I	-	havendo	pluralidade	de	réus,
+algum	deles	contestar	a	ação;	II	-	o	litígio	versar	sobre	direitos	indisponíveis;	III	-	a	petição	inicial	não
+estiver	acompanhada	de	instrumento	que	a	lei	considere	indispensável	à	prova	do	ato;	IV	-	as	alegações
+de	fato	formuladas	pelo	autor	forem	inverossímeis	ou	estiverem	em	contradição	com	prova	constante	dos
+autos.
+CPC/1973:	Art.	320	(correspondente).
+SUMÁRIO:	I.	Hipóteses	em	que	não	se	presumem	verdadeiras	as	alegações	de	fato	formuladas	pelo
+autor	–	II.	Contestação	por	um	dos	corréus	–	III.	Direitos	indisponíveis	–	IV.	Ausência	de	documento	ad
+solemnitatem	–	V.	Fatos	inverossímeis	–	VI.
+Presunção	da	veracidade	das	alegações	do	autor	e	improcedência	do	pedido.
+I.	Hipóteses	em	que	não	se	presumem	verdadeiras	as	alegações	de	fato	formuladas	pelo	autor.
+Havendo	revelia,	presumem-se	verdadeiras	as	alegações	de	fato	apresentadas	pelo	autor,	desde
+presentes,	a	contrario	sensu,	as	circunstâncias	indicadas	nos	incisos	do	art.	345	do	CPC/2015.	Além	das
+situações	previstas	no	art.	345	do	CPC/2015,	há	casos	em	que,	mesmo	se	presumidas	verdadeiras	as
+alegações	de	fato	do	autor,	conta	o	revel	com	outros	elementos,	que	também	geram	alguma	presunção	em
+seu	favor.	Por	isso	que,	p.ex.,	afirma-se	que	os	efeitos	da	revelia	não	ocorrem	em	ação	rescisória	(“por
+força	do	princípio	da	preservação	da	coisa	julgada”,	diz-se	em	julgado	recente:	STJ,	AgRg	na	AR
+3.867/PE,	rel.	Min.	Marco	Buzzi,	2.ª
+Seção,	j.	12.11.2014).	Sobre	os	sistemas	da	ficta	confessio	e	da	ficta	litiscontestatio,	cf.	comentário	ao
+art.	344	do	CPC/2015;	cf.
+também	comentário	ao	art.	344	do	CPC/2015,	sobre	não	observância	do	ônus	da	impugnação
+especificada.
+II.	Contestação	por	um	dos	corréus.	Havendo	apresentação	de	resposta	por	um	dos	litisconsortes	em
+que	se	alegue	matéria	de	defesa	comum	àquele	que	ficou	revel,	merecerão	todos	os	réus	o	mesmo
+tratamento,	à	luz	do	direito	material	(cf.
+comentário	ao	art.	117	do	CPC/2015).	Decidiu-se	que	“a	aplicação	da	regra	do	art.	320,	I	[do	CPC/1973,
+correspondente	ao	art.
+
+345,	I,	do	CPC/2015],	pressupõe	impugnação	a	fato	comum	ao	réu	atuante	e	ao	litisconsorte	revel”	(STJ,
+REsp	44.545/SP,	3.ª	T.,	j.	19.04.1994,	rel.	Min.	Costa	Leite).	Exemplo:	“Cuidando-se	de	ação	de
+declaração	de	nulidade	de	negócio
+[/PAGINA 620]
+
+[PAGINA 621]
+jurídico,	o	litisconsórcio	formado	no	polo	passivo	é	necessário	e
+unitário,	razão	pela	qual,	nos	termos	do	art.	320,	I,	do	CPC	[/1973],	a	contestação	ofertada	por	um	dos
+consortes	obsta	os	efeitos	da	revelia	em	relação	aos	demais”	(STJ,	REsp	704.546/DF,	rel.	Min.
+Luis	Felipe	Salomão,	4.ª	T.,	j.	01.06.2010).
+III.	Direitos	indisponíveis.	Não	se	presumem	verdadeiros	os	fatos	quando	disserem	respeito	a	direitos
+indisponíveis.
+Segundo	tem	decidido	o	STJ,	como	regra,	não	ocorrem	os	efeitos	da	revelia	em	ação	movida	contra	o
+Estado	(STJ,	REsp	969.472/PR,	1.ª	T.,	j.	18.09.2007,	rel.	Min.	Teori	Albino	Zavascki;	STJ,	REsp
+489.796/RN,	2.ª	T.,	j.	18.05.2006,	rel.	Min.	João	Otávio	de	Noronha;	STJ,	REsp	541.239/DF,	1.ª	Seção,
+j.	09.11.2005,	rel.	Min.	Luiz	Fux;	STJ,	AgRg	no	AgRg	no	AREsp	234.461/RJ,	rel.	Min.
+Mauro	Campbell	Marques,	2.ª	T.,	j.	04.12.2012).	Admitiu-se	a	incidência	dos	efeitos	da	revelia	contra	o
+Estado,	contudo,	em	relação	a	litígio	que	versava	sobre	contratos	de	direito	privado:	“Incidem	os	efeitos
+materiais	da	revelia	contra	o	Poder	Público	na	hipótese	em	que,	devidamente	citado,	deixa	de	contestar	o
+pedido	do	autor,	sempre	que	estiver	em	litígio	uma	obrigação	de	direito	privado	firmada	pela
+Administração	Pública,	e	não	um	contrato	genuinamente	administrativo.	Segundo	os	arts.	319	e	320,	II,
+ambos	do	CPC	[de	1973,	correspondentes	aos	arts.	344	e	345,	II,	do	CPC/2015]	se	o	réu	não	contestar	a
+ação,	reputar-se-ão	verdadeiros	os	fatos	afirmados	pelo	autor,	não	induzindo	a	revelia	esse	efeito	se	o
+litígio	versar	sobre	direitos	indisponíveis.	A	Administração	Pública	celebra	não	só	contratos	regidos
+pelo	direito	público	(contratos	administrativos),	mas	também	contratos	de	direito	privado	em	que	não	se
+faz	presente	a	superioridade	do	Poder	Público	frente	ao	particular	(contratos	da	administração),	embora
+em	ambos	o	móvel	da	contratação	seja	o	interesse	público.	A	supremacia	do	interesse	público	ou	sua
+indisponibilidade	não	justifica	que	a	Administração	não	cumpra	suas	obrigações	contratuais	e,	quando
+judicializadas,	não	conteste	a	ação	sem	que	lhe	sejam	atribuídos	os	ônus	ordinários	de	sua	inércia,	não
+sendo	possível	afastar	os	efeitos	materiais	da	revelia	sempre	que	estiver	em	debate	contrato	regido
+predominantemente	pelo	direito	privado,	situação	na	qual	a	Administração	ocupa	o	mesmo	degrau	do
+outro	contratante,	sob	pena	de	se	permitir	que	a	superioridade	no	âmbito	processual	acabe	por	desnaturar
+a	própria	relação	jurídica	contratual	firmada.	A	inadimplência	contratual	do	Estado	atende	apenas	a	uma
+ilegítima	e	deformada	feição	do	interesse	público	secundário	de	conferir	benefícios	à	Administração	em
+detrimento	dos	interesses	não	menos	legítimos	dos	particulares,	circunstância	não	tutelada	pela	limitação
+dos	efeitos	da	revelia	prevista	no	art.	320,	II,	do	CPC	[de	1973,	correspondente	ao	art.	345,	II,	do
+CPC/2015]”	(STJ,	REsp	1.084.745/MG,	rel.	Min.	Luis	Felipe	Salomão,	j.	06.11.2012).	Não	foram
+considerados	indisponíveis,	contudo,	direitos	de	consum
+[/PAGINA 621]
+
+[PAGINA 622]
+idor:	STJ,	REsp	767.052/RS,	3.ª	T.,	j.
+14.06.2007,	rel.	Min.	Gomes	de	Barros.	Decidiu-se	que,	tendo	em	vista	a	natureza
+das	penas	aplicáveis	em	ações	de	improbidade	administrativa,	está-se,	no	caso,	de	direitos
+indisponíveis:	“Na	ação	de	improbidade	administrativa,	considerada	a	gravidade	das	sanções	a	serem
+impostas,	em	caso	de	procedência	do	pedido,	o	autor	tem	o	dever	de	comprovar	os	fatos	imputados	ao
+réu,	afastando	se,	em	face	da	indisponibilidade	dos	interesses	envolvidos	nessa	espécie	de	demanda,	a
+incidência	de	presunção	de	veracidade	dos	fatos	alegados	pelo	autor,	decorrente	da	revelia	[.	.].	Há
+penas	previstas	na	Lei	8.429/1992,	como	a	que	suspende	direitos	políticos,	que	atingem	direitos	e
+garantias	extrapatrimoniais	ou	públicos	constitucionalmente	assegurados.	Há	sanções	que,	para	serem
+
+aplicadas,	consoante	a	jurisprudência	do	egrégio	STJ,	exigem	a	comprovação	do	dolo	ou	da	culpa,	o	que
+certamente	só	se	apura	mediante	a	garantia	da	ampla	defesa	e	do	contraditório,	sendo	imprescindível	a
+persecução	da	verdade	real,	isso	porque	os	direitos	e	interesses	tutelados,	na	ação	de	improbidade
+administrativa,	a	despeito	de	serem	de	natureza	cível,	têm	interfaces	com	o	direito	penal.
+[.	.].	Incabível	o	julgamento	antecipado	da	lide,	sem	dar	oportunidade,	ao	agravante,	de	produzir	as
+provas	requeridas,	quanto	à	existência	de	fato	impeditivo,	modificativo	ou	extintivo	das	alegações	do
+autor,	considerando-se	a	indisponibilidade	dos	direitos	e	interesses	que	dimanam	da	ação	de
+improbidade	administrativa”	(TRF-1.ª	Reg.,	AgIn	0038192-51.2011.4.01.0000/PA,	rel.	Des.	Assusete
+Magalhães,	3.ª	T.,	j.	02.07.2012).
+IV.	Ausência	de	documento	ad	solemnitatem	.	O	inc.	III	do	art.	345	do	CPC/2015	alude,	também,	à
+hipótese	em	que	não	foi	juntado	com	a	petição	inicial	instrumento	público	considerado	“indispensável	à
+prova	do	ato”.	A	respeito,	cf.	comentário	aos	arts.	320	e	406	do	CPC/2015.
+V.	Fatos	inverossímeis.	Os	fatos	devem	ser	verossímeis,	e,	tendo	em	vista	que	a	presunção	decorrente	do
+art.	344	do	CPC/2015	é	relativa,	não	podem	estar	em	contradição	com	as	provas	existentes	nos	autos
+(STJ,	AgRg	no	Ag	776.511/RS,	1.ª	T.,	j.
+27.03.2007,	rel.	Min.	Denise	Arruda).	O	Código	de	Processo	Civil	de	2015	contém	disposição	expressa
+nesse	sentido	(cf.	inc.	IV
+do	art.	345	do	CPC/2015),	o	que	permite	afirmar,	segundo	pensamos,	que	prepondera,	entre	nós,	o
+sistema	da	ficta	litiscontestatio	(cf.	comentário	ao	art.	344	do	CPC/2015).
+VI.	Presunção	da	veracidade	das	alegações	do	autor	e	improcedência	do	pedido.	Ainda	que	ocorram
+os	efeitos	da	revelia,	não	será	julgado	procedente	o	pedido	se	as	consequências	jurídicas	pleiteadas	pelo
+autor	não	decorrerem	do	fato	por	ele	afirmado	(cf.	STJ,	REsp	94.193/SP,	4.ª	T.,	j.	15.09.1998,	rel.	Min.
+Cesar	Asfor	Rocha;	STJ,	REsp	334.922/SE,	rel.	Min.	Felix	Fishcer,	5.ª	T.,	j.	16.10.2001).	Não	há,	entre
+nós,	espaço	para	o	julgamento	secundum	praesentem	(cf.	comentário	ao	art.	344	do	CPC/2015).	Mesmo
+se	admitida	a	ficta	confessio	(e	não	a	fict
+[/PAGINA 622]
+
+[PAGINA 623]
+a	litiscontestatio,	cf.	comentário	supra),	há	que	se	ter	em	conta
+as	diferenças	marcantes	existentes	entre	confissão	e	reconhecimento	da	procedência	do	pedido	(cf.
+comentário	aos	arts.	389	e	487	do	CPC/2015).
+Art.	346.	Os	prazos	contra	o	revel	que	não	tenha	patrono	nos	autos	fluirão	da	data	de	publicação	do	ato
+decisório	no	órgão	oficial.
+Parágrafo	único.	O	revel	poderá	intervir	no	processo	em	qualquer	fase,	recebendo-o	no	estado	em	que
+se	encontrar.
+CPC/1973:	Art.	322	(correspondente).
+SUMÁRIO:	I.	Status	do	réu	revel	–	II.	Comparecimento	do	réu,	apesar	da	ausência	de	contestação	–	III.
+Publicação	da	decisão	e	contagem	dos	prazos	para	o	revel.
+I.	Status	do	réu	revel.	O	réu,	embora	revel,	é	parte,	e	a	ele	devem	ser	asseguradas	as	garantias	mínimas
+do	due	process	of	law	(cf.	comentário	ao	art.	2.º	do	CPC/2015).	É	certo	que,	contra	o	réu	revel,	pesa	a
+(já	grave)	consequência	substancial	da	revelia,	por	presumirem-se	verdadeiras	as	alegações	de	fato
+
+afirmadas	pelo	autor.	Mas	a	revelia	não	autoriza	a	prolação	automática	de	sentença	de	procedência	(não
+se	admite,	entre	nós,	o	julgamento	secundum	praesentem),	pois	o	juiz	deverá,	à	luz	dos	fatos	afirmados
+pelo	autor	e	das	provas	existentes	nos	autos,	decidir	sobre	a	existência	e	sobre	o	ajuste	desses	fatos	ao
+direito	(cf.	comentário	ao	art.	344	do	CPC/2015,	sobre	a	transição	da	ficta	confessio	à	ficta
+litisconstestatio,	entre	nós).	O
+processo	é	sistema	interacional	do	qual	as	partes	têm	direito	de	participar	ativamente,	influindo
+decisivamente	nos	destinos	do	processo;	logo,	têm	as	partes	direito	de	se	manifestar,	de	ouvir	e	de	serem
+ouvidas.	Isso	se	aplica	ao	réu	revel,	que	suporta	as	consequências	da	revelia	mas	não	fica	alijado	do
+processo,	tendo	direito	de	dele	participar,	em	consonância	com	o	momento	processual	em	que	intervir
+(assim,	por	exemplo,	não	poderá	alegar	fundamento	a	respeito	de	matéria	sobre	a	qual	se	operou	a
+preclusão).	Poderá	o	revel,	assim,	exercitar	seu	direito	à	prova	contrária	(cf.	comentário	ao	art.	369	do
+CPC/2015),	apresentar	ao	magistrado	fundamentos	a	respeito	dos	quais	não	ocorre	a	preclusão,	ou
+provocar	o	juiz	sobre	temas	que	este	deve	conhecer	ex	officio	(cf.	comentário	ao	art.	345	do	CPC/2015)
+ou	argumentos	que	infirmem	as	consequências	jurídicas	dos	fatos	presumidos	verdadeiros	como	efeito	da
+revelia,	antes	do	julgamento	antecipado	do	mérito,	ou	em	apelação	(cf.
+comentário	aos	arts.	344	e	345	do	CPC/2015).
+II.	Comparecimento	do	réu,	apesar	da	ausência	de	contestação.	Correrão	os	prazos
+independentemente	de	intimação	se	o	revel	não	tiver	advogado	nos	autos.	Assim,	se	o	réu	comparecer
+extemporaneamente	ao	juízo,	por	exemplo,	apresentando	contestação	intempestiva,	terá	havido
+intervenção	do	réu	no	processo	e,	diante	disso,	deverá	ser	intimado	acerca	dos	atos	processuais	que
+vierem	a	ser	realizados.	Decidiu-se	que,	se	“a	contestação	não	foi	admitida,	e	permanecendo	nos	autos	o
+instrumento	de	procuração,	não	obstante	revel,	impunha-se	as	intimações	posteriores	da	Ré,	na	pess
+[/PAGINA 623]
+
+[PAGINA 624]
+oa	de
+seu	advogado,	de	todos	os	atos	processuais	subsequentes”	(STJ,	REsp	15.449/SP,	3.ª	T.,	j.	18.12.1991,
+rel.	Min.	Waldemar	Zveiter;	no	mesmo	sentido,	STJ,	REsp	876.226/RS,	1.ª	T.,	j.	25.03.2008,	rel.	Min.
+Luiz	Fux).	Nesse	caso,	poderá	o	réu,	por	exemplo,	produzir
+provas,	mas	dentro	das	limitações	processuais	impostas	pelo	momento	de	sua	intervenção	(a	respeito,	cf.
+comentário	ao	art.
+369	do	CPC/2015).
+III.	Publicação	da	decisão	e	contagem	dos	prazos	para	o	revel.	Não	tendo	comparecido	o	revel,	os
+prazos	correm	independentemente	de	intimação.	No	regime	do	Código	de	Processo	Civil	de	1973,	conta-
+se	o	prazo	“a	partir	da	publicação	de	cada	ato	decisório”	(art.	322,	caput,	do	CPC/1973).	Essa	regra	foi
+interpretada	pelo	STJ	no	sentido	de	que	“entregue	em	cartório	a	sentença,	publicada	fica,	e	o	termo
+inicial	do	prazo	para	recurso	independe	de	sua	intimação	ao	revel”	(STJ,	REsp	16.879/SP,	4.ª	T.,	j.
+29.06.1992,	rel.	Min.	Fontes	de	Alencar;	no	mesmo	sentido:	STJ,	REsp	606.415/BA,	3.ª	T.,	j.
+07.06.2005,	rel.	Min.	Menezes	Direito;	STJ,	AgRg	no	AREsp	495.046/SP,	rel.	Min.	Humberto	Martins,
+2.ª	T.,	j.	07.10.2014),	e,	para	este	fim,	“havendo	incerteza	quanto	ao	momento	em	que	a	sentença	foi
+publicada	em	cartório,	não	pode	a	data	ser	estabelecida	por	ilações,	pois	o	direito	processual	deve	trazer
+segurança	às	partes.	No	caso,	esse	momento	somente	ocorreu,	seguramente,	quando	foi	efetuado	o
+primeiro	ato	da	Secretaria	após	a	prolação	da	sentença”	(STJ,	REsp	799.965/RN,	3.ª	T.,	j.	07.10.2008,
+rel.	Min.	Sidnei	Beneti).	O
+Código	de	Processo	Civil	de	2015	contém	previsão	diversa,	estabelecendo	que	os	prazos	correrão	“a
+
+partir	da	publicação	do	ato	decisório	no	órgão	oficial”	(art.	346,	caput,	do	CPC/2015).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	IX.	DAS	PROVIDÊNCIAS	PRELIMINARES	E	DO	SANEAMENTO
+Capítulo	IX
+DAS	PROVIDÊNCIAS	PRELIMINARES	E	DO	SANEAMENTO
+Art.	347.	Findo	o	prazo	para	a	contestação,	o	juiz	tomará,	conforme	o	caso,	as	providências	preliminares
+constantes	das	seções	deste	Capítulo.
+CPC/1973:	Art.	323	(correspondente).
+•	FPPC,	Enunciado	47:	A	competência	do	juízo	estatal	deverá	ser	analisada	previamente	à	alegação
+de	convenção	de	arbitragem.
+Providências	preliminares.	As	providências	referidas	nos	arts.	354	ss.	do	CPC/2015	(correspondentes,
+com	algumas	variações,	aos	arts.	323	ss.	do	CPC/1973)	têm	vários	escopos.	Discriminadas	de	modo
+minucioso	(no	CPC/2015,	assim	como	no	CPC/1973),	no	CPC/1939	constavam	do	denominado
+“despacho	saneador”,	disciplinado	em	um	só	artigo	(art.	294	do	CPC/1939).
+Podem	dizer	respeito	à	regularização	de	requisitos	processuais,	a	tornar	efetivo	o	contraditório,	ou	à
+proposição	de	provas	constituendas.	Tais	providências,	pois,	podem	dizer	respeito	ao	saneamento	ou	à
+preparação	do	processo
+[/PAGINA 624]
+
+[PAGINA 625]
+para	a	fase	subsequente,	em	que	preponderam	atos	tendentes	à	realização	da
+prova,	ou	para	que	seja	desde	logo	julgado.	De	um	lado,	encerram	a	“fase	postulatória”,	e,	de	outro,	dão
+início	à	saneatória	(na	doutrina,	muitos	afirmam	que	tais	providências	preparam	o	saneamento;	cf.
+Fernando	Horta	Tavares	e	Elder	Gomes	Dutra,	Técnicas	diferenciadas.	.	RePro	181/59;	algo	similar
+sucede,	mutatis	mutandis,	na	execução,	cf.	comentário	aos	arts.	817	e	819	do	CPC/2015,
+correspondentes	aos	arts.	616
+e	618	do	CPC/1973).	“O	adjetivo	‘preliminares’	revela	que	as	‘providências’	antecedem,	são	prévias,	a
+um	determinado	ato,	qual	seja	o	julgamento	da	lide,	que	pode	ser	sem	audiência	(antecipado)	ou	com
+audiência	(como	é	o	normal).	Mas,	de	qualquer	maneira,	as	‘providências	preliminares’	preparam	o
+caminho	para	o	julgamento	da	causa”	(Alcides	Mendonça	Lima,	As	providências	preliminares.	.,	RePro
+1/26;	cf.	também	Roberto	Rosas,	Das	providências	preliminares.	.,	RePro	9/247).
+
+Os	atos	realizados	nessa	fase	têm	por	função,	como	se	afirma	na	doutrina:	“a)	pôr	o	processo	nas
+melhores	condições	possíveis	de	prosseguir,	em	direção	ao	julgamento	final,	por	meio:	a.	1)	da
+respectiva	regularização	formal	–	correção	de	defeitos	capazes	de	acarretar	nulidade	ou	perturbar,	de
+qualquer	maneira,	o	andamento	(função	saneadora	em	sentido	estrito,	na	qual	se	pode	incluir	a	solução
+em	separado	de	quaisquer	questões	suscetíveis	de	distrair	a	atenção	do	juiz	da	matéria	referente	ao
+meritum	causae);	a.	2)	da	elucidação	de	dúvidas,	relativas	ao	objeto	do	litígio,	aos	pedidos	das	partes,	à
+identificação	dos	pontos	controvertidos	etc.	(função	esclarecedora);	a.	3)	da	determinação	do	fatos	que
+devem	constituir	objeto	da	restante	atividade	de	instrução	e	dos	meios	de	prova	a	serem	ainda	utilizados;
+eventualmente,	na	medida	do	possível,	da	colheita	imediata	de	provas,	ou	da	adoção	de	providências	que
+a	preparem	(função	instrutória);	b)	conduzir	o	processo	à	extinção,	em	momento	anterior	ao
+ordinariamente	previsto	(função	abreviadora):	b.	1)	em	razão	da	inutilidade	do	prosseguimento,	pela
+existência	de	obstáculo	irremovível	à	apreciação	ao	mérito	(nulidade	insanável,	falta	de	condição
+necessária	ao	legítimo	exercício	da	ação);	b.	2)	em	razão	da	desnecessidade	do	prosseguimento:	b.	2.1)
+pela	autocomposição	do	litígio,	mediante	ato	unilateral	(renúncia,	reconhecimento	do	pedido)	ou	bilateral
+(transação)	das	partes,	praticado	espontaneamente	ou	em	consequência	de	tentativa	de	conciliação	feita
+pelo	juiz;	b.	2.2)	pela	cessação	do	litígio,	decorrente	de	outra	causa	(ex.:	confusão,	perecimento	do
+objeto);	b.	2.3)	pela	possibilidade	de	ser	imediatamente	julgado	o	mérito	da	causa,	graças	à	presença	de
+todos	os	elementos	para	a	fundamentação	da	sentença:	‘causa	madura’	(controvérsia	limitada	a	questões
+de	direito,	ou	suficiência	das	provas	já	produzidas	para	a	solução	da	controvérsia	atinente	a	questões	de
+fato);	ou	à	ocorrência	de	hipótese	legalmente	equiparada	a	essa	(	v.g.	,	revelia)”	(Barbosa	Moreir
+[/PAGINA 625]
+
+[PAGINA 626]
+a,
+Saneamento.	.,	RePro	40/109).
+Dependendo	do	que	vier	a	ocorrer	logo	após	tais	providências	(p.	ex.,	não	for	o	caso	de	se	extinguir	o
+processo	ou	se	julgar	desde	logo	o	mérito),	poderá	se	realizar,	novamente	e	de	modo	mais	aprofundado,
+atividades	tendentes	a	sanear	e	organizar	o	processo	para	a	realização	da	prova	e	posterior	julgamento
+do	pedido	(cf.	art.	357	do	CPC/2015,	que	corresponde,	grosso	modo,	à	atividade	realizada	na	audiência
+preliminar	referida	no	§	2.º	do	art.	331	do	CPC/1973).	Como	se	disse,	esse	complexo	de	atos	se	espraia
+ao	longo	da	fase	saneatória;	mas,	caso	não	manifestada	sua	função	abreviadora,	se	manifestarão	de	forma
+aguda	quando	da	realização	de	uma	das	formas	de	saneamento	previstas	no	art.	357	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	IX.	DAS	PROVIDÊNCIAS	PRELIMINARES	E	DO	SANEAMENTO
+Seção	I.	Da	não	incidência	dos	efeitos	da	revelia	Seção	I
+Da	não	incidência	dos	efeitos	da	revelia	Art.	348.	Se	o	réu	não	contestar	a	ação,	o	juiz,	verificando	a
+
+inocorrência	do	efeito	da	revelia	previsto	no	art.	344,	ordenará	que	o	autor	especifique	as	provas	que
+pretenda	produzir,	se	ainda	não	as	tiver	indicado.
+CPC/1973:	Art.	324	(correspondente).
+Ocorrência	de	revelia,	mas	não	de	seus	efeitos.	Especificação	das	provas,	com	ou	sem	revelia.	O	art.
+348	do	CPC/2015
+(correspondente	ao	art.	324	do	CPC/1973)	refere-se	a	uma	situação	específica,	em	que	há	revelia,	mas
+não	seus	efeitos,	hipótese	em	que	se	intimará	o	autor	para	que	especifique	as	provas	que	serão
+produzidas.	Rigorosamente,	porém,	a	definição	precisa	das	provas	que	serão	produzidas	deve	ocorrer
+havendo	ou	não	revelia.	Ao	apresentar	a	petição	inicial,	não	tem	o	autor	condições	de	conhecer,	de
+antemão,	os	fundamentos	de	defesa	a	serem	apresentados	pelo	réu,	o	que	impede	o	demandante	de	expor,
+com	minucias,	os	meios	de	prova	de	que	se	pretende	valer	(cf.	comentário	ao	art.	319	do	CPC/2015).	Daí
+porque,	ao	momento	de	se	encerrar	a	fase	postulatória	e	antes	de	se	iniciar	a	instrutória,	se	fará
+necessário	especificar	as	provas	(cf.	comentário	ao	art.	357
+do	CPC/2015,	que	se	relaciona	à	audiência	preliminar	referida	no	§	2.º	do	art.	331	do	CPC/1973).	No
+caso	previsto	no	art.	348	do	CPC/2015,	a	intimação	dirige-se	especificamente	ao	autor,	já	que,	embora
+tenha	ocorrido	revelia,	não	ocorreu	o	efeito	consistente	em	presumirem-se	verdadeiras	as	alegações	de
+fato	feitas	pelo	autor	(cf.	comentário	aos	arts.	353	e	352	do	CPC/2015).	Mas	o	réu	também	poderá
+manifestar-se,	nesse	momento	processual,	a	despeito	da	revelia	(cf.	comentário	aos	arts.	353	e	356	do
+CPC/2015).
+Art.	349.	Ao	réu	revel	será	lícita	a	produção	de	provas,	contrapostas	às	alegações	do	autor,	desde	que	se
+faça	representar	nos	autos	a	tempo	de	praticar	os	atos	processuais	indispe
+[/PAGINA 626]
+
+[PAGINA 627]
+nsáveis	a	essa	produção.
+CPC/1973:	Art.	324	(relacionado).
+Réu	revel	e	direito	à	prova.	O	direito	à	prova	é	consectário	do	direito	de	ação,	isso	é,	do	direito	a	um
+processo	adequado,	que	observe	as	garantias	mínimas	do	due	process	of	law	(sobre	a	amplitude	do
+direito	à	prova,	cf.	comentário	ao	art.	369	do	CPC/2015).
+Embora	revel,	ao	réu	devem	ser	asseguradas	tais	garantias	(sobre	o	status	do	réu	revel,	cf.	comentário	ao
+art.	344	do	CPC/2015).	Se,	a	despeito	da	revelia,	seus	efeitos	não	se	produzirem	(cf.	comentário	ao	art.
+345	do	CPC/2015),	será	necessária	a	produção	de	provas	(cf.	comentário	ao	art.	348	do	CPC/2015),	e
+terá	o	revel	direito	à	prova	contrária	(na	doutrina,	cf.,	a	respeito,	Cristiane	Druve	Tavares	Fagundes,	O
+instituto	da	revelia.	.,	RePro	179/40;	Roberto	Prado	de	Vasconcellos,	Revelia	e	julgamento	justo,	RT
+840/61;	Eduardo	Henrique	de	Oliveira	Yoshikawa,	Revelia	e	direito	à	prova,	RePro	185/35;	Fernando
+Horta	Tavares	e	Elder	Gomes	Dutra,	Técnicas	diferenciadas.	.,	RePro	181/59).	A	atuação	do	revel,	no
+entanto,	deverá	ser	oportuna.	Embora	tenha	direito	de	intervir	no	processo,	recebe-o	o	revel	no	estado	em
+que	se	encontra	(art.	353	do	CPC/2015),	o	que	significa	que	as	etapas	a	respeito	das	quais	tiver	se
+operado	a	preclusão	não	serão	reabertas	ao	revel	(cf.	Clito	Fornaciari	Júnior,	Revelia	–	Produção	de
+prova	pelo	réu.	.,	RePro	13/225).	Essa	orientação	encontra-se	consolidada,	na	jurisprudência:	“A
+presunção	de	veracidade	dos	fatos	afirmados	na	inicial,	em	caso	de	revelia,	é	relativa,	devendo	o	juiz
+atentar	para	a	presença	ou	não	das	condições	da	ação	e	dos	pressupostos	processuais	e	para	a	prova	de
+existência	dos	fatos	da	causa.	Desse	modo,	pode-se	extinguir	o	feito	sem	julgamento	de	mérito	ou	mesmo
+
+concluir	pela	improcedência	do	pedido,	a	despeito	de	ocorrida	a	revelia.	A	produção	de	provas	visa	à
+formação	da	convicção	do	julgador	acerca	da	existência	dos	fatos	controvertidos,	conforme	o	magistério
+de	Moacyr	Amaral	Santos,	segundo	o	qual	‘a	questão	de	fato	se	decide	pelas	provas.	Por	estas	se	chega	à
+verdade,	à	certeza	dessa	verdade,	à	convicção.	Em	consequência,	a	prova	visa,	como	fim	último,	incutir
+no	espírito	do	julgador	a	convicção	da	existência	do	fato	perturbador	do	direito	a	ser	restaurado’	(	Prova
+Judiciária	no	Cível	e	Comercial,	vol.	I,	2.	ed.,	São	Paulo:	Max	Limonad,	1952,	n.	5,	p.	15).
+Comparecendo	antes	de	iniciada	a	fase	probatória,	incumbe	ao	julgador	sopesar	a	sua	intervenção	e	a
+pertinência	da	produção	das	provas,	visando	a	evidenciar	a	existência	dos	fatos	da	causa,	não	se
+limitando	a	julgar	procedente	o	pedido	somente	como	efeito	da	revelia.	A	produção	de	provas	requeridas
+pelo	revel	limita-se	aos	fatos	afirmados	na	inicial”	(STJ,	REsp	211.851/SP,	4.ª	T.,	j.	10.08.1999,	rel.
+Min.	Sálvio	de	Figueiredo	Teixeira);	“A	decretação	da	revelia	com	a	imposição	da	presunção	relativa	de
+veracidade	dos	fatos	narrados	na	petição	inicial	não	impede	que	o	réu	exerça	o	direito	de	produção	de
+provas,	desde	que	intervenha	no	pr
+[/PAGINA 627]
+
+[PAGINA 628]
+ocesso	antes	de	encerrada	a	fase	instrutória”	(STJ,	REsp
+1.335.994/SP,	3.ª	T.,	j.	12.08.2014,	rel.	Min.	Ricardo	Villas	Bôas	Cueva)	Sobre	comparecimento	do	réu
+revel,	cf.	comentário	ao	art.	353	do	CPC/2015;	sobre	direito	à	prova,	cf.	comentário	ao	art.	369	do
+CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	IX.	DAS	PROVIDÊNCIAS	PRELIMINARES	E	DO	SANEAMENTO
+Seção	II.	Do	fato	impeditivo,	modificativo	ou	extintivo	do	direito	do	autor	Seção	II
+Do	fato	impeditivo,	modificativo	ou	extintivo	do	direito	do	autor	Art.	350.	Se	o	réu	alegar	fato
+impeditivo,	modificativo	ou	extintivo	do	direito	do	autor,	este	será	ouvido	no	prazo	de	15	(quinze)	dias,
+permitindo-lhe	o	juiz	a	produção	de	prova.
+CPC/1973:	Art.	326	(correspondente).
+SUMÁRIO:	I.	Apresentação	de	defesa	substancial	indireta.	Direito	do	autor	à	apresentação	de	réplica	–
+II.	Apresentação	de	defesa	de	mérito	direta	acompanhada	de	documentos.	Direito	à	réplica.
+I.	Apresentação	de	defesa	substancial	indireta.	Direito	do	autor	à	apresentação	de	réplica.	Caso	o
+réu,	em	sua	resposta,	apresente	defesa	de	mérito	indireta	(isto	é,	opondo	fato	impeditivo,	modificativo	ou
+extintivo	do	direito	do	autor,	cf.
+art.	326	do	CPC/1973,	e	350	do	CPC/2015;	ex.:	exceptio	non	adimpleti	contractus,	cf.	STJ,	REsp
+
+673.773/RN,	3.ª	T.,	j.	15.03.2007,	rel.	p/	acórdão	Min.	Ari	Pargendler;	compensação,	cf.	STJ,	REsp
+781.427/SC,	4.ª	T.,	j.	19.08.2010,	rel.	Min.	Luis	Felipe	Salomão),	ou	defesa	processual	(sempre	indireta,
+referente	à	ausência	de	requisitos	processuais,	cf.	art.	327	do	CPC/1973,	e	art.	351	do	CPC/2015),
+cumprirá	ao	juiz	determinar	a	intimação	do	autor,	para	que	este	se	manifeste,	apresentando	sua	réplica.
+Trata-se	de	direito	do	autor	que	não	pode	ser	suprimido,	sob	pena	de	violação	à	garantia	do
+contraditório,	que,	como	se	viu,	é	um	dos	consectários	do	princípio	do	devido	processo	legal	(cf.	STJ,
+REsp	39.702/SP,	4.ª	T.,	j.	14.12.1993,	rel.	Min.	Dias	Trindade;	STJ,	REsp	655.226/PE,	4.ª	T.,	j.
+13.09.2005,	rel.	Min.	Jorge	Scartezzini).	Não	apresentada	a	réplica	a	respeito	de	defesa	de	mérito
+indireta,	as	alegações	de	fato	respectivas	presumem-se	verdadeiras,	e	os	fatos	incontroversos.	Assim,
+poderá	ser	dispensada	a	produção	de	prova,	a	respeito	(cf.	comentário	art.	374,	III	do	CPC/2015;	na
+doutrina,	cf.	Bruno	Garcia	Redondo,	Réplica.	.,	RePro	215/87.	Sobre	a	classificação	das	defesas,	cf.
+comentário	ao	art.	336	do	CPC/2015.
+II.	Apresentação	de	defesa	de	mérito	direta	acompanhada	de	documentos.	Direito	à	réplica.	Se	o	réu
+não	opuser	defesa	indireta	na	contestação,	não	prevê	o	Código	a	necessidade	de	ser	ouvido	o	autor	(cf.
+STJ,	AgRg	no	Ag	350.688/SP,	5.ª	T.,	j.	12.06.2001,	rel.	Min.	Gilson	Dipp).	Pode,	no	entanto,	suceder	que
+o	réu	junte	documentos	à	contestação,	para	atacar	o	dire
+[/PAGINA 628]
+
+[PAGINA 629]
+ito	em	que	se	funda	a	ação	(defesa	de	mérito
+direta),	e,	neste	caso,	deverá	o	autor	ser	ouvido,	nos	termos	do	art.	437,	§	1.º	do	CPC/2015	(que,	no
+particular,	encontra	similar	no	art.	398	do	CPC/1973).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	IX.	DAS	PROVIDÊNCIAS	PRELIMINARES	E	DO	SANEAMENTO
+Seção	III.	Das	alegações	do	réu	Seção	III
+Das	alegações	do	réu	Art.	351.	Se	o	réu	alegar	qualquer	das	matérias	enumeradas	no	art.	337,	o	juiz
+determinará	a	oitiva	do	autor	no	prazo	de	15	(quinze)	dias,	permitindo-lhe	a	produção	de	prova.
+CPC/1973:	Art.	327,	1.ª	parte	(correspondente).
+Defesa	processual	(indireta)	e	observância	ao	princípio	do	contraditório.	Alegando	o	réu	defesa
+processual	(sempre	indireta,	cf.	comentário	ao	art.	336	do	CPC/2015),	deverá	ser	intimado	o	autor	para
+se	manifestar,	em	atenção	ao	princípio	do	contraditório	(cf.	art.	351	do	CPC/2015).	Além	da	produção	da
+prova,	algumas	defesas	processuais	apresentadas	pelo	réu	poderão	permitir	ao	autor	a	alteração	da
+petição	inicial	(cf.	comentário	aos	arts.	339	do	CPC/2015,	sobre	a	correção	da	legitimidade	passiva	ad
+causam).	Cf.	também	comentário	ao	art.	352	do	CPC/2015.
+
+Art.	352.	Verificando	a	existência	de	irregularidades	ou	de	vícios	sanáveis,	o	juiz	determinará	sua
+correção	em	prazo	nunca	superior	a	30	(trinta)	dias.
+CPC/1973:	Art.	327,	2.ª	parte	(correspondente).
+Correção	de	vícios	processuais.	Dever	de	cooperação	e	de	prevenção.	Possibilidade	de	emenda	da
+petição	inicial	quanto	a	vícios	de	natureza	formal	e	de	alteração	de	elementos	da	ação.	Caso	o	réu
+alegue,	na	contestação,	que	a	petição	inicial	carece	de	requisitos	formais,	deverá	o	juiz	autorizar	a	sua
+emenda	(cf.	STJ,	AgRg	no	Ag	908.395/DF,	1.ª	T.,	j.	27.11.2007,	rel.	Min.	José	Delgado;	STJ,	AgRg	no
+REsp	1.291.156/SP,	3.ª	T.,	j.	24.09.2013,	rel.	Min.	Paulo	de	Tarso	Sanseverino),	admitindo-se,	em	alguns
+casos,	a	alteração	das	partes	que	ocupam	o	polo	passivo	(cf.	art.	339	do	CPC/2015);	fora	dessa	hipótese,
+a	alteração	da	petição	inicial	que	dependa	de	modificação	de	pedido	ou	de	causa	de	pedir	será	possível
+se	com	isso	consentir	o	réu	(cf.	art.	329	do	CPC/2015).	Em	alguns	casos,	a	correção	não	só	é	possível,
+como	expressamente	imposta	pela	lei	processual	(p.ex.,	art.	47,	parágrafo	único	do	CPC/1973,
+correspondente	ao	art.	115,	parágrafo	único	do	CPC/2015).	Incide,	no	caso,	o	disposto	no	art.	113,	IX,	do
+CPC/2015,	que	impõe	ao	juiz	“determinar	o	suprimento	de	pressupostos	processuais	e	o	saneamento	de
+outros	vícios	processuais”.	Trata-se	de	consectário	do	dever	de	cooperação	e	de	prevenção	contra	o
+surgimento	de	vícios	processuais	(cf.	comentário	aos	arts.	113,	276,	282	e	318	do	CPC/2015).
+Art.	353.	Cumpridas	as	providências	preliminares	ou	não	havendo	necessidade	delas,	o	juiz	proferirá
+julgamento
+[/PAGINA 629]
+
+[PAGINA 630]
+conforme	o	estado	do	processo,	observando	o	que	dispõe	o	Capítulo	X.
+CPC/1973:	Art.	328	(correspondente).
+Julgamento	conforme	o	estado	do	processo.	Como	algo	próprio	do	julgamento	conforme	o	estado	do
+processo,	tem-se	a	definição	do	processo,	com	ou	sem	resolução	do	mérito,	e,	nesse	caso,	sem	(em
+“julgamento	antecipado”)	ou	com	audiência.
+Espera-se,	de	todo	o	modo,	que,	conforme	o	estado	em	que	se	encontra	o	processo,	a	ele	já	se	dê	fim,
+desde	logo	(assim,	extinguindo	o	processo,	ou	julgando	o	mérito	desde	logo,	cf.	arts.	361	a	363	do
+CPC/2015).	A	lei	processual	põe	no	mesmo	contexto	atividades	de	saneamento	e	organização	(art.	357
+do	CPC/2015),	que,	rigorosamente,	não	constituem	julgamento	conforme	o	estado	do	processo
+(aproximadamente	nesse	sentido,	Alcides	Mendonça	Lima,	As	providências	preliminares.	.,	RePro	1/26;
+Rogério	Lauria	Tucci,	Julgamento	conforme	o	estado	do	processo,	RT	588/15).	Essa	atividade	saneadora,
+colocada	ao	final	do	Capítulo	dedicado	ao	julgamento	conforme	o	estado	do	processo,	passa	a	impressão
+–	equivocada	–	de	que	saneamento	só	haveria	se	não	fosse	o	caso	de	se	extinguir	o	processo,	nos	termos
+das	primeiras	Seções	do	Capítulo.	Mas	esse	modo	de	pensar	é	equivocado,	pois	sanear	e	expurgar	do
+processo	quaisquer	vícios	é	algo	de	que	se	deve	ocupar	o	juiz	ao	longo	de	todo	o	feito,	e	ao	longo	das
+“providências	preliminares”	terá	havido	oportunidade	para	assim	fazer	(cf.	comentário	ao	art.	352	do
+CPC/2015;	cf.	também	crítica	certeira	de	Moniz	de	Aragão,	Julgamento	conforme	o	estado	do	processo,
+RePro	5/197).	Há,	porém,	no	art.	353	do	CPC/2015	algo	dedicado	à	fase	a	que	se	abrirá	o	processo	na
+sequência,	relativa	à	atividade	probatória,	o	que,	somente	por	isso,	talvez	justifique	a	localização	do
+dispositivo,	ao	final	do	Capítulo.	De	todo	modo,	também	aqui	não	há,	a	rigor,	julgamento	conforme	o
+estado	do	processo,	mas	apenas	preparação	para	os	atos	que	se	realizarão,	na	sequência.
+©	desta	edição	[2015]
+2015	-	09	-	01
+
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	X.	DO	JULGAMENTO	CONFORME	O	ESTADO	DO	PROCESSO
+Capítulo	X
+DO	JULGAMENTO	CONFORME	O	ESTADO	DO	PROCESSO
+Seção	I
+Da	extinção	do	processo	Art.	354.	Ocorrendo	qualquer	das	hipóteses	previstas	nos	arts.	485	e	487,
+incisos	II	e	III,	o	juiz	proferirá	sentença.
+Parágrafo	único.	A	decisão	a	que	se	refere	o	caput	pode	dizer	respeito	a	apenas	parcela	do	processo,
+caso	em	que	será	impugnável	por	agravo	de	instrumento.
+CPC/1973:	Art.	329	(correspondente).
+•	FPPC,	Enunciado	103:	A	decisão	parcial	proferida	no	curso	do	processo	com	fundamento	no	art.
+487,	I,	sujeita-se	a	recurso	de	agravo	de	instrumento.
+•	FPPC,	Enunciado	154:	É	cabível	agravo	de	instrumento	contra	ato	decisório	que	indefere
+parcialmente	a	petição	inicial	ou	a	reconvenção.
+SUMÁRIO:	I.	Julgamento	conforme	o	estado	do	process
+[/PAGINA 630]
+
+[PAGINA 631]
+o	e	sentença	terminativa	–	II.	Solução	da	lide
+por	meios	consensuais	e	resolução	do	mérito	–	III.	Julgamento	antecipado	da	lide,	por	improcedência	do
+pedido,	em	caso	de	reconhecimento	de	prescrição	ou	de	decadência	–	IV.	Decisão	parcial.
+I.	Julgamento	conforme	o	estado	do	processo	e	sentença	terminativa.	Não	tendo	sido	possível
+solucionar	a	ausência	de	requisito	processual	(art.	317	do	CPC/2015),	nem	de	julgar	o	mérito	em	favor
+daquele	que	seria	favorecido	pela	extinção	do	processo	sem	resolução	do	mérito	(art.	498	do
+CPC/2015),	o	juiz	proferirá	sentença	terminativa	(art.	485	do	CPC/2015).	Sobre	indeferimento	da
+petição	inicial,	que	deve	ocorrer	antes	da	citação,	cf.	art.	331	do	CPC/2015.
+II.	Solução	da	lide	por	meios	consensuais	e	resolução	do	mérito.	A	solução	consensual	pode	ser	obtida
+a	qualquer	momento	(cf.	art.	139,	V,	do	CPC/2015),	e	não	necessariamente	na	fase	designada	pelo	Código
+para	o	julgamento	conforme	o	estado	do	processo.	Ordinariamente,	espera-se	que	a	prolação	de	sentença
+homologatória	da	autocomposição	seja	proferida	ao	final	da	audiência	de	conciliação	ou	mediação	(cf.	§
+11	do	art.	334	do	CPC/2015),	não	se	chegando,	nesse	caso,	sequer	à	apresentação	de	contestação.	Nos
+casos	previstos	no	inc.	III	do	art.	487	do	CPC/2015	(correspondentes	aos	previstos	nos	incs.
+II,	III	e	V	do	art.	269	do	CPC/1973),	não	chega	a	haver,	propriamente,	um	“julgamento”	do	mérito.	Nem
+
+por	isso,	contudo,	a	atividade	desenvolvida	pelo	magistrado,	no	caso,	deve	ser	considerada	anormal,	ou
+atípica.	A	atividade	jurisdicional	compreende	não	apenas	a	de	julgar	o	pedido,	mas,	também,	a	de
+promover	a	solução	da	lide,	através	de	meios	consensuais.
+O	julgamento	é	uma	das	formas	de	resolução	do	mérito,	e	a	prolação	de	sentença	homologatória	de
+solução	obtida	consensualmente	pelas	partes	também	o	é.	O	juiz	profere,	nesse	caso,	sentença	definitiva
+homologatória	(cf.	comentário	aos	arts.	3.º,	16,	166	e	203	do	CPC/2015).
+III.	Julgamento	antecipado	da	lide,	por	improcedência	do	pedido,	em	caso	de	reconhecimento	de
+prescrição	ou	de	decadência.	Caso,	com	fundamento	no	inc.	II	do	art.	487	do	CPC/2015	(correspondente
+ao	inc.	IV	do	art.	269	do	CPC/1973),	o	juiz	pronuncie	a	decadência	ou	a	prescrição,	proferirá	sentença
+de	improcedência.	A	hipótese	ajusta-se,	a	rigor,	à	de	julgamento	antecipado	da	lide	(cf.	arts.	355	e	356
+do	CPC/2015).	De	modo	mais	adequado,	o	art.	332	do	CPC/2015	tratou	do	reconhecimento	da
+decadência	e	da	prescrição	no	contexto	da	rejeição	liminar	do	pedido.
+IV.	Decisão	parcial.	Em	qualquer	das	hipóteses	referidas	no	art.	354	do	CPC/2015,	a	decisão	poderá	ser
+parcial,	isso	é,	não	versar,	p.ex.,	sobre	todas	as	ações	cumuladas.	A	cumulação	a	que	nos	referimos	pode
+ser	objetiva	ou	subjetiva.	É	possível,	p.ex.,	reconhecer-se	a	decadência	ou	a	ausência	de	algum	requisito
+processual	em	relação	a	um	dos	pedidos	formulados	pelo	autor	contra	o	réu,	bem	como	dar-se	o	mesmo
+em	relação	a	apenas	um	dos	litisconsortes.	Contra	a	decisão	parcial	proferida	com	base	no	a
+[/PAGINA 631]
+
+[PAGINA 632]
+rt.	354	do
+CPC/2015	cabe	agravo	de	instrumento.	Cf.	também	comentário	ao	art.	356	do	CPC/2015,	sobre
+julgamento	imediato	parcial	do	mérito.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	X.	DO	JULGAMENTO	CONFORME	O	ESTADO	DO	PROCESSO
+Seção	II.	Do	julgamento	antecipado	do	mérito	Seção	II
+Do	julgamento	antecipado	do	mérito	Art.	355.	O	juiz	julgará	antecipadamente	o	pedido,	proferindo
+sentença	com	resolução	de	mérito,	quando:	I	-	não	houver	necessidade	de	produção	de	outras	provas;	II	-
+o	réu	for	revel,	ocorrer	o	efeito	previsto	no	art.	344	e	não	houver	requerimento	de	prova,	na	forma	do	art.
+349.
+CPC/1973:	Art.	330	(correspondente).
+V.	art.	37,	caput,	da	Lei	6.515/1977	(Lei	do	Divórcio);	art.	87,	§	3.º,	da	Lei	11.101/2005	(nova	Lei	de
+Recuperação	e	Falência).
+
+•	FPPC,	Enunciado	297:	O	juiz	que	promove	julgamento	antecipado	do	mérito	por	desnecessidade	de
+outras	provas	não	pode	proferir	sentença	de	improcedência	por	insuficiência	de	provas.
+SUMÁRIO:	I.	Julgamento	“antecipado”	(ou	imediato)	do	mérito	–	II.	Desnecessidade	de	produção	de
+provas	em	audiência	–
+III.	Julgamento	imediato	do	mérito	e	cerceamento	de	defesa	–	IV.	Requerimento	das	partes	para	que	a
+causa	seja	julgada	imediatamente	e	necessidade	de	produção	de	prova	–	V.	A	revelia	não	determina,
+necessariamente,	o	julgamento	imediato	do	mérito.
+I.	Julgamento	“antecipado”	(ou	imediato)	do	mérito.	Sendo	desnecessária	a	produção	de	provas	em
+audiência,	deverá	o	juiz	julgar,	desde	logo,	a	lide.	Distingue-se	o	modelo	adotado	no	Brasil	do	previsto
+em	outras	legislações	(p.ex.,	por	não	se	restringir	à	hipótese	de	revelia,	ou	por	não	exigir	que	tal
+julgamento	ocorra	em	audiência,	cf.	observa	Ada	Pelegrini	Grinover,	O	julgamento	antecipado.	.	RePro
+5/101).	A	expressão	“antecipado”	não	parece	adequada,	pois	transmite	a	ideia	de	que	o	momento	próprio
+para	o	julgamento	seria	outro,	e	acabou	sendo	antes	do	momento	próprio.	Rigorosamente,	sendo
+desnecessária	a	produção	de	provas	em	audiência	de	instrução	–	porque	inexistente	controvérsia	sobre
+fatos	–	o	julgamento	imediato	da	lide	é	medida	que	se	impõe,	não	se	podendo	dizer	que	tal	julgamento
+seja	realizado	antes	do	tempo	devido,	mas	feito	no	momento	oportuno,	ajustado	às	circunstâncias	da
+causa.	Inadequado	é	postergar-se	o	julgamento,	quando	a	causa	deva	ser	resolvida	de	imediato	(afirma-se
+que,	fosse	assim,	se	violaria	o	direito	a	um	processo	sem	dilações	indevidas,	cf.
+comentário	ao	art.	4.º	do	CPC/2015;	tratando	da	referida	garantia	à	luz	da	previsão	de	julgamento
+imediato,	cf.,	dentre	outros,	Fernando	Gajardoni,	O	princípio	constitucional.	.,	RePro	141/150;	Carolina
+Ceccere	Covic	e	Richard	Pae	Kim,	O	direito	fundamental.	.	RePro	229/13).	A	rigor,	pois,	o	julgamento,
+nesse	caso	(dos	arts.	355	e	356	do	CPC/2015	e	330	do	CPC
+[/PAGINA 632]
+
+[PAGINA 633]
+/1973)	não	é	antecipado;	“antecipada”	é	a
+hipótese	prevista	no	art.	332	do	CPC/2015,	em	que	se	julga	o	mérito	sem	que	o	réu	sequer	tenha	sido
+citado.
+II.	Desnecessidade	de	produção	de	provas	em	audiência.	Fundamentalmente,	o	julgamento	deve
+realizar-se	desde	logo,	quando	desnecessária	a	produção	de	provas	em	audiência	(cf.	inc.	I	do	art.	355	do
+CPC/2015,	cuja	redação	não	corresponde,	literalmente,	à	prevista	no	art.	330,	I,	do	CPC/1973).	Isso
+ocorre	não	apenas	quando	houver	apenas	questões	de	direito	(cf.	art.
+330,	I,	1.ª	parte,	do	CPC/1973),	mas	também	quando,	havendo	questões	de	direito	e	de	fato,	sobre	os
+fatos	não	houver	controvérsia	(cf.	art.	330,	I,	2.ª	parte,	do	CPC/1973).	Ex.:	“Questão	exclusivamente	de
+direito	–	como	sói	ser	a	nulidade	de	cláusulas	contratuais	–	comporta	julgamento	antecipado	da	lide	sem
+implicar	cerceamento	de	defesa	(art.	330,	I	[do	CPC/1973])”	(STJ,	REsp	886.956/SP,	3.ª	T.,	j.
+20.09.2007,	rel.	Min.	Humberto	Gomes	de	Barros).	Ao	se	designar,	desnecessariamente,	audiência	para	a
+produção	de	provas,	adiando-se,	indevidamente,	a	resolução	da	lide,	acaba-se	por	violar	o	princípio	da
+economia	processual,	bem	como	a	disposição	constitucional	que	assegura	às	partes	a	razoável	duração
+do	processo	(art.	5.º,	LXXVIII,	CF/1988).	Não	se	trata	de	mera	“faculdade”	do	juiz:	inexistindo	razão
+para	a	produção	de	provas	em	audiência,	impõe-se	ao	juiz	proferir,	de	imediato,	a	sentença.	Nesse
+sentido:	STJ,	REsp	324.098/RJ,	4.ª	T.,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	STJ,	REsp	337.785/RJ,
+3.ª	T.,	rel.	Min.	Nancy	Andrighi;	STJ,	REsp	797.184/DF,	1.ª	T.,	rel.	Min.	Luiz	Fux.
+Sobre	a	desnecessidade	de	produção	de	prova	sobre	os	fatos,	cf.	art.	374	do	CPC/2015	(correspondente
+ao	art.	334	do	CPC/1973).
+
+III.	Julgamento	imediato	do	mérito	e	cerceamento	de	defesa.	Havendo	necessidade	de	produção	de
+provas,	não	se
+admite	o	julgamento	imediato	do	mérito.	Ocorre,	nesse	caso,	cerceamento	de	defesa,	devendo	ser
+decretada	a	nulidade	da	sentença	(cf.	STJ,	AgRg	no	AREsp	371.238/GO,	Rel.	Ministro	Humberto
+Martins,	2.ª	T.,	j.	03.10.2013),	salvo	se,	por	ocasião	do	julgamento	do	recurso,	for	possível	julgar	o
+mérito	em	favor	daquele	a	quem	aproveitaria	o	reconhecimento	da	nulidade	(cf.
+§	2.º	do	art.	282	do	CPC/2015,	correspondente	ao	§	2.º	do	art.	249	do	CPC/1973).	É	tranquila	no	STJ	a
+orientação	de	que	“resta	configurado	o	cerceamento	de	defesa	quando	o	juiz,	indeferindo	a	produção	de
+provas	requerida,	julga	antecipadamente	a	lide,	considerando	improcedente	a	pretensão	veiculada
+justamente	porque	a	parte	não	comprovou	suas	alegações”	(STJ,	REsp	783.185/RJ,	1.ª	T.,	j.	24.04.2007,
+rel.	Min.	Luiz	Fux).	No	mesmo	sentido,	STJ,	REsp	1.134.690/PR,	rel.	Min.	Massami	Uyeda,	3.ª	T.,	j.
+15.02.2011.	Não	pode	o	magistrado,	em	julgamento	antecipado,	julgar	o	pedido	procedente	ou
+improcedente	por	falta	de	provas	(STJ,	AgRg	no	AgRg	no	Ag	376.686/SP,	1.ª	T.,	j.	06.08.2002,	rel.	Min.
+Francisco	Falcão).	Cf.	também	STJ,	REsp	1.328.380/MS,	Rel.	Ministro	Marco	Aurélio	Bellizz
+[/PAGINA 633]
+
+[PAGINA 634]
+e,	3.ª	T.,	j.
+21.10.2014.
+IV.	Requerimento	das	partes	para	que	a	causa	seja	julgada	imediatamente	e	necessidade	de
+produção	de	prova.	As	condições	para	que	haja	o	julgamento	imediato	do	mérito	são	as	previstas	na	lei
+processual.	Assim,	caso	as	partes	requeiram	o	julgamento	imediato,	só	poderá	o	juiz	atendê-las	se,
+efetivamente,	não	houver	necessidade	de	produção	de	provas	em	audiência:	“Com	efeito,	mesmo	que	a
+parte	tenha	requerido	o	julgamento	antecipado	da	lide,	por	entender	que	as	provas	constantes	dos	autos
+seriam	suficientes	para	demonstrar	o	alegado	na	inicial,	cabe	ao	juiz,	de	ofício,	determinar	as	provas
+necessárias	à	instrução	do	processo	caso	entenda	pela	deficiência	das	provas	dos	autos”	(STJ,	REsp
+288.400/PB,	2.ª	T.,	j.
+01.04.2004,	rel.	Min.	Franciulli	Netto).
+V.	A	revelia	não	determina,	necessariamente,	o	julgamento	imediato	do	mérito.	A	rigor,	a	hipótese
+prevista	no	inc.	II	do	art.	356	subsome-se	na	indicada	no	inc.	I	do	mesmo	artigo.	Com	efeito,	só	se	julgará
+de	imediato	o	mérito	diante	da	revelia	do	réu	se	desnecessária	a	produção	de	provas	em	audiência.	A	não
+apresentação	de	contestação	não	determina,	necessariamente,	que	se	presumam	verdadeiras	as
+afirmações	de	fato	realizadas	pelo	autor;	Deve	haver,	contudo,	julgamento	do	mérito	se	verificados	os
+efeitos	da	revelia	(cf.	comentário	aos	arts.	344	e	345	do	CPC/2015).	Caso,	embora	revel,	tenha	o	réu
+peticionado	nos	autos	com	o	intuito	de	produzir	prova,	também	não	será	o	caso	de	se	julgar	desde	logo	o
+mérito,	se	presentes	as	condições	referidas	nos	arts.	355	e	356	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	X.	DO	JULGAMENTO	CONFORME	O	ESTADO	DO	PROCESSO
+Seção	III.	Do	julgamento	antecipado	parcial	do	mérito	Seção	III
+Do	julgamento	antecipado	parcial	do	mérito	Art.	356.	O	juiz	decidirá	parcialmente	o	mérito	quando
+um	ou	mais	dos	pedidos	formulados	ou	parcela	deles:	I	-	mostrar-se	incontroverso;	II	-	estiver	em
+condições	de	imediato	julgamento,	nos	termos	do	art.	355.
+§	1º	A	decisão	que	julgar	parcialmente	o	mérito	poderá	reconhecer	a	existência	de	obrigação	líquida	ou
+ilíquida.
+§	2º	A	parte	poderá	liquidar	ou	executar,	desde	logo,	a	obrigação	reconhecida	na	decisão	que	julgar
+parcialmente	o	mérito,	independentemente	de	caução,	ainda	que	haja	recurso	contra	essa	interposto.
+§	3º	Na	hipótese	do	§	2º,	se	houver	trânsito	em	julgado	da	decisão,	a	execução	será	definitiva.
+§	4º	A	liquidação	e	o	cumprimento	da	decisão	que	julgar	parcialmente	o	mérito	poderão	ser	processados
+em	autos	suplementares,	a	requerimento	da	parte	ou	a	critério	do	juiz.
+§	5º	A	decisão	proferida	com	base	neste	artigo	é	impugnável	por	agravo	de	instrumento.
+CPC/1973:	Art.	273,	§	6.º	(relacionado).
+V.	art.	37,	caput,	da	Lei	6.515/1977	(Lei	do	Divórcio);	art.	87,	§	3.º,	da
+[/PAGINA 634]
+
+[PAGINA 635]
+Lei	11.101/2005	(nova	Lei	de
+Recuperação	e	Falência).
+•	FPPC,	Enunciado	154:	É	cabível	agravo	de	instrumento	contra	ato	decisório	que	indefere
+parcialmente	a	petição	inicial	ou	a	reconvenção.
+SUMÁRIO:	I.	Julgamento	imediato	de	parte	do	mérito	–	II.	Decisão	parcial	sobre	o	mérito	e	sentença
+global	–	III.	Decisão	sobre	parte	líquida	ou	ilíquida	da	obrigação	e	execução	ou	liquidação	imediata.
+I.	Julgamento	imediato	de	parte	do	mérito.	Havendo	cumulação	de	pedidos,	pode	suceder	que	se
+verifiquem	as	condições	referidas	no	art.	355	do	CPC/2015	apenas	em	relação	a	um	deles.	Está-se,	aqui,
+diante	de	manifestação	do	direito	a	um	processo	sem	dilações	indevidas,	que	tem	base	no	art.	5.º,
+LXXVIII,	da	Constituição	(cf.	comentário	ao	art.	4.º	do	CPC/2015).	Nesse	caso,	desde	que	os	pedidos
+sejam	independentes	(isso	é,	não	sendo	a	questão	subordinada	à	resolução	do	outro	pedido,	que	seria
+prejudicial),	o	juiz	julgará	o	mérito	desde	já,	em	relação	ao	pedido	que	se	ajuste	ao	previsto	no	art.
+355	do	CPC/2015,	determinando	que	o	feito	prossiga,	para	a	produção	de	provas	em	relação	ao	outro
+pedido.	A	mesma	solução	será	possível	em	relação	a	parcela	incontroversa	de	um	mesmo	pedido.
+Embora	tal	situação	não	tenha	sido	prevista	no	art.	330	do	CPC/1973	(correspondente	ao	art.	355	do
+CPC/2015),	foi	a	mesma	tratada	pelo	§	6.º	do	art.	273	do	mesmo	Código	(segundo	o	§	6.º	do	art.	273	do
+CPC/1973,	“a	tutela	antecipada	também	poderá	ser	concedida	quando	um	ou	mais	dos	pedidos
+cumulados,	ou	parcela	deles,	mostrar-se	incontroverso”).	O	§	301	da	ZPO	prevê	hipótese	parecida	(
+Teilurteil,	ou	julgamento	parcial;	a	respeito,	cf.	Jauernig,	Direito	processual	civil	cit.,	p.	311	e	ss.;
+
+Martin	Schwab,	Zivilprozessrecht,	p.	171	e	ss.;	Johannes	Landbrecht,	Teil-Sachentscheidungen	und
+Ökonomie	der	Streitbeilegung.	.	,	p.	107	e	112;	Walter	Zeiss	e	Klaus	Schreiber,	Zivilprozessrecht,	p.
+209);	assim	também	ocorre	no	CPC	italiano,	p.ex.,	nos	art.	277,	comma	2,	e	no	art.	279,	comma	5	(	v.
+também	art.	340	do	mesmo	Código;	cf.	Mauro	Di	Marzio,	L’	appello	civile.	.	,	p.	73).	O	CPC	italiano	usa
+a	expressão	“sentença	não	definitiva”	para	designar	decisão	que,	no	CPC/2015,	poderia	ser	qualificada
+como	decisão	parcial	de	mérito,	e	não	como
+“decisão	provisória”	(na	doutrina	italiana,	usa	o	adjetivo	“parcial”	Claudio	Cecchella,	Processo	civile,
+p.	111;	na	doutrina	brasileira,	cf.	Eduardo	Scarparo,	Sentenças	parciais.	.,	RePro	148/153).	A	regra
+prevista	no	art.	278	do	CPC	italiano	(também	referido	no	art.	340	do	Código	peninsular)	aproxima-se	da
+referida	no	art.	491	do	CPC/2015	brasileiro.	Pode-se	dizer	que	essas	disposições	assentam	em	um
+escopo	comum,	que	materializa	o	direito	a	um	processo	sem	dilações	indevidas	(cf.	comentário	ao	art.	4.º
+do	CPC/2015).
+II.	Decisão	parcial	sobre	o	mérito	e	sentença	global.	É	correto	afirmar,	no	regime	do	CPC/2015,	que	a
+decisão	que	julga
+parte	dos	pedidos	(decisão	parcial),	embora	diga	respeito	ao	mérito,	não	é	sentença.	Sentença,	no	regime
+do	CPC/2015	(e	de	modo	di
+[/PAGINA 635]
+
+[PAGINA 636]
+ferente,	portanto,	do	previsto	no	CPC/1973),	é	apenas	a	decisão	que	põe	fim
+ao	processo,	no	sentido	do	§	1.º	do	art.
+203	do	CPC/2015.	Não	é	correto,	também,	afirmar-se	que	no	caso	há	“sentença	parcial”,	embora	seja
+possível	falar	em	decisão	parcial	(em	oposição	à	decisão	global,	que	será	sempre	sentença).	Como
+algum(ns)	do(s)	pedido(s),	ou	parcela	dele(s),	restara(m)	sem	julgamento,	prossegue-se	o	procedimento
+até	que	se	chegue	à	sentença,	que	julgará	todos	os	pedidos	(decisão	global)	ou	o	último	deles	(porque,
+daí,	tal	decisão	será	final).	A	respeito,	cf.	comentário	ao	art.	203	do	CPC/2015.	Contra	a	decisão
+proferida	com	base	no	art.	356	do	CPC/2015	cabe	agravo	de	instrumento.
+III.	Decisão	sobre	parte	líquida	ou	ilíquida	da	obrigação	e	execução	ou	liquidação	imediata.	É
+possível	a	execução	imediata	da	decisão	que	reconhece	parte	líquida	da	obrigação,	ou,	sendo	o	caso,	a
+liquidação	da	parte	ilíquida.	Note-se	que	o	CPC/2015	também	permite	a	liquidação	ou	execução
+relacionada	a	capítulo	de	decisão	global	(cf.	art.	509,	§	1.º,	do	CPC/2015,	correspondente	ao	art.	475-I,	§
+2.º	do	CPC/1973).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	X.	DO	JULGAMENTO	CONFORME	O	ESTADO	DO	PROCESSO
+
+Seção	IV.	Do	saneamento	e	da	organização	do	processo	Seção	IV
+Do	saneamento	e	da	organização	do	processo	Art.	357.	Não	ocorrendo	nenhuma	das	hipóteses	deste
+Capítulo,	deverá	o	juiz,	em	decisão	de	saneamento	e	de	organização	do	processo:	I	-	resolver	as	questões
+processuais	pendentes,	se	houver;	II	-	delimitar	as	questões	de	fato	sobre	as	quais	recairá	a	atividade
+probatória,	especificando	os	meios	de	prova	admitidos;
+III	-	definir	a	distribuição	do	ônus	da	prova,	observado	o	art.	373;	IV	-	delimitar	as	questões	de	direito
+relevantes	para	a	decisão	do	mérito;	V	-	designar,	se	necessário,	audiência	de	instrução	e	julgamento.
+§	1º	Realizado	o	saneamento,	as	partes	têm	o	direito	de	pedir	esclarecimentos	ou	solicitar	ajustes,	no
+prazo	comum	de	5	(cinco)	dias,	findo	o	qual	a	decisão	se	torna	estável.
+§	2º	As	partes	podem	apresentar	ao	juiz,	para	homologação,	delimitação	consensual	das	questões	de	fato
+e	de	direito	a	que	se	referem	os	incisos	II	e	IV,	a	qual,	se	homologada,	vincula	as	partes	e	o	juiz.
+§	3º	Se	a	causa	apresentar	complexidade	em	matéria	de	fato	ou	de	direito,	deverá	o	juiz	designar
+audiência	para	que	o	saneamento	seja	feito	em	cooperação	com	as	partes,	oportunidade	em	que	o	juiz,	se
+for	o	caso,	convidará	as	partes	a	integrar	ou	esclarecer	suas	alegações.
+§	4º	Caso	tenha	sido	determinada	a	produção	de	prova	testemunhal,	o	juiz	fixará	prazo	comum	não
+superior	a	15
+(quinze)	dias	para	que	as	partes	apresentem	rol	de	testemunhas.
+§	5º	Na	hipótese	do	§	3º,	as	partes	devem	levar,	para	a	audiência	prevista,	o	respectivo	rol	de
+testemunhas.
+[/PAGINA 636]
+
+[PAGINA 637]
+§	6º	O	número	de	testemunhas	arroladas	não	pode	ser	superior	a	10	(dez),	sendo	3	(três),	no	máximo,
+para	a	prova	de	cada	fato.
+§	7º	O	juiz	poderá	limitar	o	número	de	testemunhas	levando	em	conta	a	complexidade	da	causa	e	dos
+fatos	individualmente	considerados.
+§	8º	Caso	tenha	sido	determinada	a	produção	de	prova	pericial,	o	juiz	deve	observar	o	disposto	no	art.
+465	e,	se	possível,	estabelecer,	desde	logo,	calendário	para	sua	realização.
+§	9º	As	pautas	deverão	ser	preparadas	com	intervalo	mínimo	de	1	(uma)	hora	entre	as	audiências.
+CPC/1973:	Arts.	331	e	407	(relacionados).
+V.	art.	92,	II,	b,	do	Dec.-lei	7.661/1945	(Lei	de	Falências);	e	art.	15,	IV,	da	Lei	11.101/2005	(nova	Lei	de
+Recuperação	e	Falência).
+•	FPPC,	Enunciado	151:	Na	Justiça	do	Trabalho,	as	pautas	devem	ser	preparadas	com	intervalo
+mínimo	de	uma	hora	entre	as	audiências	designadas	para	instrução	do	feito.	Para	as	audiências	para
+simples	tentativa	de	conciliação,	deve	ser	respeitado	o	intervalo	mínimo	de	vinte	minutos.
+
+•	FPPC,	Enunciado	298:	A	audiência	de	saneamento	e	organização	do	processo	em	cooperação	com	as
+partes	poderá	ocorrer	independentemente	de	a	causa	ser	complexa.
+•	FCCP,	Enunciado	299:	O	juiz	pode	designar	audiência	também	(ou	só)	com	objetivo	de	ajustar	com
+as	partes	a	fixação	de	calendário	para	fase	de	instrução	e	decisão.
+•	FPPC,	Enunciado	300:	O	juiz	poderá	ampliar	ou	restringir	o	número	de	testemunhas	a	depender	da
+complexidade	da	causa	e	dos	fatos	individualmente	considerados.
+SUMÁRIO:	I.	Saneamento	do	processo.	Métodos	difuso	e	concentrado.	Opção	do	CPC/1973	e	do
+CPC/2015	–	II.	Objetivo	do	saneamento	realizado	ex	vi	do	art.	357	do	CPC/2015	–	III.	Iniciativa	e	forma
+do	saneamento	e	organização	do	processo	–	IV.
+Modos	de	saneamento	previstos	no	art.	357	do	CPC/2015.	Entre	a	decisão	unilateral	do	juiz	e	negócio
+jurídico	processual	realizado	em	cooperação	entre	todos	os	sujeitos	processuais	–	V.	Rol	de	testemunhas
+–	VI.	Prova	pericial.
+I.	Saneamento	do	processo.	Métodos	difuso	e	concentrado.	Opção	do	CPC/1973	e	do	CPC/2015.
+Tanto	no	CPC/1973
+quanto	no	CPC/2015	prepondera	o	método	concentrado	de	saneamento	do	processo:	as	atividades
+voltadas	ao	saneamento	do	feito	são	visivelmente	mais	intensas	na	fase	que,	não	por	acaso,	recebe	o
+nome	de	saneatória	(ou	ordenatória,	cf.	comentário	ao	art.	318	do	CPC/2015).	Isso	não	impede	que	o
+expurgo	de	vícios	processuais	seja	realizado	ao	longo	do	procedimento,	o	que	aponta	ao	método	difuso
+(nesse	ponto,	o	CPC/2015	é	mais	contundente	que	o	CPC/1973,	cf.	arts.	139,	IX,	e	318	do	CPC/2015;
+sobre	os	métodos	concentrado	e	difuso,	cf.	Barbosa	Moreira,	Saneamento	do	processo.	.,	RePro	40/109).
+No	CPC/2015,	o	ápice	das	atividades	realizadas	na	fase	saneatória	que	tiveram	início	com	as
+“providências	preliminares”	(arts.	347	e	ss.	do	CPC/2015)	dá-se	no	momento	indicado	no	art.	357	do
+CPC/2015.
+II.	Objetivo	do	saneamento	realizado	ex	vi	do	art.	357	do	CPC/2015.	Ao	se	chegar	ao	momento
+processual	a	que	se	refere	o	art.	357	do	CPC/2015,	restaram
+[/PAGINA 637]
+
+[PAGINA 638]
+afastadas	as	hipóteses	que,	de	algum	modo,
+poderiam	levar	à	extinção	do	processo	(cf.	comentário	aos	arts.	347	e	ss.	do	CPC/2015,	ref.	às
+providências	preliminares	e	ao	julgamento	conforme	o	estado	do	processo).	Tem-se,	agora,	que	ir-se
+adiante,	e,	para	tanto,	deve-se	atuar	a	fim	de	que	o	ambiente	processual	fique	em	um	estado	ótimo,	sem
+vícios	processuais,	restando	delimitado	com	clareza	o	objeto	litigioso	e	as	questões	de	fato	que	exigirão
+atenção	na	fase	instrutória.	Realizam-se,	assim,	atividade	saneadora	stricto	sensu,	ordenatórias,
+esclarecedoras	e	instrutórias	(cf.	comentário	ao	art.	356	do	CPC/2015).
+III.	Iniciativa	e	forma	do	saneamento	e	organização	do	processo.	O	ato	(ou	complexo	de	atos)	de
+saneamento	e	organização	do	processo	pode	assumir	forma	oral	ou	escrita,	e,	embora	incumba	ao	juiz,
+pode	decorrer	também	de	iniciativa	das	partes,	que	podem	atuar	de	modo	mais	ou	menos	incisivo	em
+relação	a	cada	uma	das	parcelas	do	saneamento.	Tudo	depende	do	arranjo,	ou	da	preponderância	dos
+princípios	inquisitivo	ou	dispositivo	(aos	quais	costuma-se	associar	os	modelos	inquisitorial	e
+adversarial),	em	relação	às	atribuições	dos	sujeitos	do	processo.	Essa	dualidade	é	temperada	pela
+cooperação	que	deve	imperar	entre	os	sujeitos	do	processo	–	cooperação	processual	que,	sustentamos
+nós,	não	se	dá	apenas	na	relação	partes-juiz,	mas,	também,	entre	as	partes.	O	dever	de	cooperação	é
+intersubjetivo,	e,	a	depender	do	grau	de	evolução	que	vier	a	alcançar	entre	nós,	pode	superar,	em	boa
+
+medida,	a	dicotomia	inquisitorial-adversarial,	ou,	se	preferir,	inquisitivo-dispositivo	(cf.	comentário	ao
+art.	6.º	do	CPC/2015).	Sobre	o	tema	formou-se	ampla	doutrina	(cf.,	dentre	outros,	Taruffo,	Observações
+sobre	os	modelos	processuais.	.,	RePro	110/141;	idem,	Poteri	probatori.	.,	RePro	133/239;	Barbosa
+Moreira,	Correntes	e	contracorrentes.	.,	RePro	116/313;	Antonio	do	Passo	Cabral,	Imparcialidade	e
+impartialidade.	.,	RePro	149/339;	Fredie	Didier	Júnior,	Os	três	modelos	de	direito	processual.	.,	RePro
+198/213;	Ravi	Peixoto,	Rumo	à	construção	de	um	processo	cooperativo,	RePro	219/89;	Robson	Godinho,
+Reflexões	sobre	os	poderes	instrutórios	do	juiz.	.	RePro	235/85).
+IV.	Modos	de	saneamento	previstos	no	art.	357	do	CPC/2015.	Entre	a	decisão	unilateral	do	juiz	e
+negócio	jurídico	processual	realizado	em	cooperação	entre	todos	os	sujeitos	processuais.	De	três
+modos	pode	operar-se	o	saneamento,	nos	termos	do	art.	357	do	CPC/2015:	a)	ordinariamente,	por
+iniciativa	do	juiz,	em	decisão	de	saneamento	e	organização	do	processo,	podendo	as	partes	pedir
+esclarecimentos	ou	ajustes	(art.	357,	caput,	e	§	1.º	do	CPC/2015);	b)	por	negócio	jurídico	processual
+derivado	de	iniciativa	das	partes,	ao	qual	venha	o	juiz	aderir	(há,	pois,	dois	negócios	processuais
+sucessivos,	ou,	se	preferir,	declarações	sucessivas	concordantes,	cf.	comentário	ao	art.	200	do
+CPC/2015),	compondo,	então,	negócio	que	vincula	todos	os	sujeitos,	no	que	pertine	ao	objeto	litigioso
+(isso	é,	as	questões	sobre	as	quais	hav
+[/PAGINA 638]
+
+[PAGINA 639]
+erá	provas	e,	depois,	sobre	as	quais	se	haverá	de	decidir;	cf.	art.
+357,	§	2.º,	do	CPC/2015);	c)	em	audiência	designada	para	esse	fim,	na	qual	juiz	e	partes,	em
+colaboração,	realizarão	o	saneamento	do	processo	(art.	357,	§	3.º,	do	CPC/2015;	semelhantemente,	cf.
+art.	183	do	CPC	italiano,	sobre	a	“trattazione	dela	causa”).	Cada	um	dos	três	modelos	de	processo
+referidos	supra	manifestam-se,	de	modo	preponderante,	nas	opções	que	podem	ser	seguidas	no
+saneamento	do	processo.	Fica	evidente	que	o	saneamento	realizado	em	audiência	com	a	participação	das
+partes,	em	cooperação	entre	todos	os	sujeitos	do	processo,	tende	a	surtir	melhores	resultados	(cf.,
+amplamente,	Paulo	Hoffman,	Saneamento	compartilhado,	passim;	cf.	também,	a	respeito,	Renato	Xavier
+da	Silveira	Rosa,	Cooperação	entre	as	partes.	.,	RIASP	29/267;	Artur	César	de	Souza,	O	princípio	da
+cooperação.	.,	RePro	225/65;	Fernando	Gonzaga	Jayme	e	Marcelo	Veiga	Franco,	O	princípio	do
+contraditório.	.,	RePro	227/335).	O	CPC/2015	estabelece	que	o	saneamento	em	audiência	deve	ser
+realizado	quando	“a	causa	apresentar	complexidade	em	matéria	de	fato	ou	de	direito”;	a	“complexidade”,
+aqui,	deve-se	dar	sentido	amplo,	não	apenas	para	referir-se	a	questões	intrincadas	ou	sofisticadas,	mas
+também	a	causas	que	envolvam	grande	número	de	questões	a	serem	resolvidas	(porque	há	muitos
+pedidos,	p.ex.).
+V.	Rol	de	testemunhas.	Caso	o	saneamento	tenha	se	dado	por	decisão	do	juiz,	terão	as	partes	prazo	de
+até	quinze	dias	para	apresentar	rol	de	testemunhas.	Determinada	a	audiência	de	saneamento,	nela	será
+apresentado	o	rol	de	testemunhas	(cf.	§§	4.º	e	5.º	do	art.	357	do	CPC/2015;	cf.	também	art.	450	do
+CPC/2015).	As	partes	podem	indicar	o	total	de	dez	testemunhas,
+sendo	até	três	para	cada	fato.	Pode-se	limitar	o	número	de	testemunhas,	quando	sua	oitiva	mostre-se
+desnecessária	(o	CPC/2015	dispõe	que	o	juiz	pode	limitar	o	número	de	testemunhas,	“em	consideração	à
+complexidade	da	causa	e	dos	fatos	individualmente	considerados”,	cf.	§	7.º	do	art.	357;	o	CPC/1973,	por
+sua	vez,	estabelece	que	o	juiz	pode	dispensar	aquelas	que	ultrapassarem	o	limite	de	três	para	cada	fato,
+cf.	parágrafo	único	do	art.	407	do	CPC/1973).
+VI.	Prova	pericial.	Determinada	a	realização	de	perícia	em	decisão	judicial	de	saneamento	(art.	357,
+caput,	e	§	1.º,	do	CPC/2015),	observar-se-á	o	disposto	no	art.	465,	caput,	do	CPC/2015,	apresentando-
+se,	desde	logo,	calendário	para	a	sua	realização	(sobre	calendário	processual,	cf.	comentário	ao	art.	191
+do	CPC/2015).	Convém	estimular,	sempre	que	possível,	a	indicação	de	perito	pelas	partes	(cf.	art.	471
+
+do	CPC/2015),	algo	que	deverá	ocorrer,	com	mais	naturalidade,	quando	estas	tomam	a	iniciativa	em
+delimitar	as	questões	que	serão	objeto	de	prova	(§	2.º	do	art.	357	do	CPC/2015)	ou	o	saneamento
+realiza-se	em	audiência	(§	3.º	do	art.	357	do	CPC/2015).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte
+[/PAGINA 639]
+
+[PAGINA 640]
+Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	XI.	DA	AUDIÊNCIA	DE	INSTRUÇÃO	E	JULGAMENTO
+Capítulo	XI
+DA	AUDIÊNCIA	DE	INSTRUÇÃO	E	JULGAMENTO
+Art.	358.	No	dia	e	na	hora	designados,	o	juiz	declarará	aberta	a	audiência	de	instrução	e	julgamento	e
+mandará	apregoar	as	partes	e	os	respectivos	advogados,	bem	como	outras	pessoas	que	dela	devam
+participar.
+CPC/1973:	Art.	450	(correspondente).
+SUMÁRIO:	I.	Produção	de	provas	em	audiência	de	instrução	–	II.	Intimação	das	partes	e	prazo	mínimo	a
+ser	observado,	para	a	realização	da	audiência	–	III.	Direção	da	audiência	de	instrução	pelo	juiz.
+I.	Produção	de	provas	em	audiência	de	instrução.	As	provas	orais	são	produzidas	em	audiência	(art.
+361	do	CPC/2015,	mais	preciso,	no	ponto,	que	o	art.	452	do	CPC/1973,	que	se	refere	a	“provas”,
+indistintamente).	Assim,	a	audiência	diz	respeito	às	provas	constituendas	(e	não	às	pré-constituídas),	e,
+mais	restritamente,	àquelas	que	são	produzidas	oralmente.	A	prova	pericial	não	é	produzida	em	audiência
+(cf.	art.	471,	§	1.º	e	474	do	CPC/2015),	mas	poderão	desta	participar	o	perito	e	os	assistentes	técnicos
+para,	oralmente,	prestarem	esclarecimentos	(cf.	arts.	361,	I	e	477,	§	3.º	do	CPC/2015),	bem	como	poderá
+ser	realizada,	em	audiência,	a	inquirição	de	especialistas,	para	a	prova	técnica	simplificada	(cf.	art.	464,
+§§	2.º	a	4.º	do	CPC/2015).	É	desnecessária	a	audiência	se	desnecessária	a	produção	de	prova	oral.
+Assim,	p.ex.,	em	ação	de	desapropriação:
+“Tratandose	de	justa	indenização	obtida	mediante	exame	técnico	não	impugnado	pela	parte	contrária,
+dispensável	revela-se	a	audiência,	destinada	à	colheita	de	prova	oral,	desinfluente	in	casu”	(STJ,	REsp
+478.265/BA,	1.ª	T.,	j.	03.06.2003,	rel.	Min.	Luiz	Fux;	no	mesmo	sentido,	STJ,	REsp	811.002/RN,	Rel.
+Min.	Teori	Zavascki,	1.ª	T.,	j.	06.09.2007;	STJ,	REsp	902.452/RN,	Rel.	Min.
+Mauro	Campbell	Marques,	2.ª	T.,	j.	10.08.2010).	Sobre	provas	pré-constituídas	e	constituendas,	cf.
+comentário	ao	art.	369	do	CPC/2015.
+
+II.	Intimação	das	partes	e	prazo	mínimo	a	ser	observado,	para	a	realização	da	audiência.	Deve-se
+definir	a	data	da	audiência	de	instrução	e	julgamento	por	ocasião	do	saneamento	do	processo	(em
+decisão	do	juiz	ou	em	audiência	de	saneamento,	cf.	art.	357,	caput,	V	ou	§	3.º,	do	CPC/2015).	Decidiu-
+se,	à	luz	do	art.	185	do	CPC/1973	(correspondente	ao	art.	218,
+§	3.º	do	CPC/2015),	que	há	cerceamento	de	defesa	caso	a	parte	seja	intimada	em	data	muito	próxima	à	da
+audiência	de	instrução	e	julgamento,	devendo-se	observar	a	regra	geral	de	prazo	de	cinco	dias	(STJ,
+REsp	172.669/SP,	3.ª	T.,	j.	09.03.1999,	rel.	Min.	Eduardo	Ribeiro).	Esse	prazo	mínimo	deve	ser
+observado	também	em	caso	de	antecipação	ou	adiamento	da	audiência	(art.	363	do	CPC/2015).	A
+intimação	deve	ser	dirigida	ao	advogado	da	parte	(cf.	STJ,	REsp	439.955/AM,	4.ª	T.,	j.
+16.09.2003,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira;	STJ,	AgRg	no	Ag	739.116/PR,	4.ª	T.,	j.	02.09.2008,
+rel.	Min.	Fernando	Gonçalve
+[/PAGINA 640]
+
+[PAGINA 641]
+s;	cf.	também	art.	363	do	CPC/2015),	salvo	se	se	tratar	de	intimação	para	a
+tomada	de	depoimento	pessoal,	hipótese	em	que	incide	o	disposto	no	§	1.º	do	art.	385	do	CPC/2015	(no
+CPC/1973,	cf.	§§	1.º	e	2.º	do	art.	343).	Ausente	a	intimação	para	a	audiência	de	instrução	e	julgamento,
+será	caso	de	se	decretar	a	nulidade	(cf.	STJ,	REsp	660.852/SC,	3.ª	T.,	j.	19.10.2006,	rel.	Min.
+Carlos	Alberto	Menezes	Direito).
+III.	Direção	da	audiência	de	instrução	pelo	juiz.	A	audiência	deverá	ser	dirigida	pelo	juiz.	Trata-se	de
+audiência	de	instrução	e	julgamento,	ou	seja,	tal	audiência	é	vocacionada	a	concluir-se	com	a	decisão
+sobre	a	causa	(cf.	366	do	CPC/2015).
+Decidiu-se	que	“o	princípio	constitucional	do	juiz	natural	assegura	a	todos	a	prestação	da	tutela
+jurisdicional	por	um	órgão	monocrático	ou	colegiado	investido	da	função	jurisdicional,	não	lhe	sendo
+permitido	delegá-la”,	não	se	admitindo	a	condução	da	audiência	por	conciliador	(STJ,	REsp	423.117/RJ,
+rel.	Min.	Castro	Filho,	3.ª	T.,	j.	19.09.2002).	O	conciliador	ou	o	mediador,	contudo,	poderão	conduzir	a
+audiência	ou	sessão	de	conciliação	ou	mediação	(cf.	art.	166,	§	2.º	do	CPC/2015).
+Art.	359.	Instalada	a	audiência,	o	juiz	tentará	conciliar	as	partes,	independentemente	do	emprego	anterior
+de	outros	métodos	de	solução	consensual	de	conflitos,	como	a	mediação	e	a	arbitragem.
+CPC/1973:	Art.	448	(correspondente).
+SUMÁRIO:	I.	Tentativa	de	autocomposição	–	II.	Instituição	de	arbitragem.
+I.	Tentativa	de	autocomposição.	O	juiz,	antes	da	instrução,	tentará	conciliar	as	partes.	De	acordo	com	o
+art.	139,	V	do	CPC/2015,	ao	juiz	incumbe	“promover,	a	qualquer	tempo,	a	autocomposição,
+preferencialmente	com	auxílio	de	conciliadores
+e	mediadores	judiciais”	(cf.	também	art.	3.º,	§§	2.º	e	3.º	do	CPC/2015).	Realizada	a	autocomposição,	o
+juiz	proferirá	sentença	homologatória	(art.	334,	§	11	do	CPC/2015).
+II.	Instituição	de	arbitragem.	Além	de	métodos	consensuais	para	a	solução	de	conflitos,	podem	as
+partes,	também,	instituir	arbitragem	(cf.	art.	3.º,	§	1.º	c/c	art.	359,	in	fine,	do	CPC/2015).	No	caso,	será
+lavrado	compromisso	arbitral	judicial	(art.	9.º,	§	1.º	da	Lei	9.307/1996,	que	constitui	“negócio	jurídico
+material	e	formalmente	processual”,	cf.	Fernanda	Scaletsky	et	al,	Existência,	validade	e	eficácia	da
+convenção	arbitral,	Revista	de	Direito	Empresarial	3/321)	e	o	juiz	proferirá	sentença	terminativa	(cf.	art.
+
+485,	VII	do	CPC/2015).
+Art.	360.	O	juiz	exerce	o	poder	de	polícia,	incumbindo-lhe:	I	-	manter	a	ordem	e	o	decoro	na	audiência;
+II	-	ordenar	que	se	retirem	da	sala	de	audiência	os	que	se	comportarem	inconvenientemente;	III	-
+requisitar,	quando	necessário,	força	policial;	IV	-	tratar	com	urbanidade	as	partes,	os	advogados,	os
+membros	do	Ministério	Público	e	da	Defensoria	Pública	e	qualquer	pessoa	que	participe	do	processo;	V
+-	registrar	em	ata,	com	exatidão,	todos	os	requerimentos	apresentados	em	audiência.
+CPC/1973:	Art.	445	(correspondente).
+SUMÁRIO:	I.	“Poder	de	polícia”	–	II.	Registro	preciso	de	todos	os	requeri
+[/PAGINA 641]
+
+[PAGINA 642]
+mentos.
+I.	“Poder	de	polícia”	.	O	uso	da	expressão	“poder	de	polícia”,	no	CPC,	é	inapropriado	(cf.	comentário
+ao	art.	139	CPC/2015).
+É	evidente	que	o	juiz	deve	tomar	as	providências	necessárias	para	que	a	audiência	se	desenvolva	de
+modo	adequado,	e	é	desnecessário	recorrer-se	ao	conceito	de	poder	de	polícia,	para	tanto.	Deve-se
+observar,	ademais,	o	que	dispõe	o	art.	139	do	CPC/2015	a	respeito	da	direção	do	processo,	pelo	juiz.
+II.	Registro	preciso	de	todos	os	requerimentos.	Incumbe	ao	magistrado	registrar,	com	exatidão,	todos
+os	requerimentos	apresentados	em	audiência.	O	registro	é	realizado	no	próprio	termo	de	audiência,
+lavrado	pelo	escrivão	sob	ditado	do	juiz	(cf.	art.	367	do	CPC/2015),	e	não	em	ata	(expressão	adequada
+para	designar,	p.ex.,	a	ata	notarial,	cf.	art.	384	do	CPC/2015).
+Importa,	de	todo	modo,	que	todos	os	requerimentos	(deferidos	ou	não)	sejam	registrados,	o	que	se
+revelará	importantíssimo,	p.ex.,	para	que	se	demonstre	não	ter	havido	preclusão	(cf.	art.	278	do
+CPC/2015),	permitindo-se	à	parte	suscitar	o	vício	em	apelação	(cf.	art.	1.009	do	CPC/2015).
+Art.	361.	As	provas	orais	serão	produzidas	em	audiência,	ouvindo-se	nesta	ordem,	preferencialmente:	I	-
+o	perito	e	os	assistentes	técnicos,	que	responderão	aos	quesitos	de	esclarecimentos	requeridos	no	prazo	e
+na	forma	do	art.	477,	caso	não	respondidos	anteriormente	por	escrito;	II	-	o	autor	e,	em	seguida,	o	réu,
+que	prestarão	depoimentos	pessoais;	III	-	as	testemunhas	arroladas	pelo	autor	e	pelo	réu,	que	serão
+inquiridas.
+Parágrafo	único.	Enquanto	depuserem	o	perito,	os	assistentes	técnicos,	as	partes	e	as	testemunhas,	não
+poderão	os	advogados	e	o	Ministério	Público	intervir	ou	apartear,	sem	licença	do	juiz.
+CPC/1973:	Art.	452	(correspondente).
+Ordem	da	produção	das	provas	em	audiência.	Na	audiência	produzem-se	provas	orais.	Embora	a
+perícia	não	possa	ser	assim	qualificada,	os	esclarecimentos	de	peritos	e	assistentes	técnicos	podem	ser
+prestados	em	audiência	(arts.	361,	I	e	477,	§
+3.º	do	CPC/2015),	e,	em	caso	de	prova	técnica	simplificada,	também	os	especialistas	podem	ser
+inquiridos	em	audiência	(art.
+464,	§§	2.º	a	4.º	do	CPC/2015).	Estes,	embora	não	referidos	na	lista	apresentada	no	art.	361	do
+CPC/2015,	devem	ser	compreendidos,	por	analogia,	no	inc.	I	do	referido	artigo	(a	perícia	também	é
+prova	técnica).	A	ordem	referida	no	art.	361
+
+deve	ser	observada	como	regra,	mas	não	se	trata	de	algo	a	ser	seguido	de	modo	absoluto,	em	todos	os
+casos.	Pode	ocorrer,	p.
+ex.,	que	o	interrogatório	das	testemunhas	refira-se	a	questão	prejudicial	àquela	a	ser	resolvida	pela
+perícia,	ou,	ainda,	que,	diante	da	alegação	de	defesa	de	mérito	indireta	(p.ex.,	alegação	de	pagamento),
+seja	o	caso	de	se	ouvir,	antes,	as	testemunhas	arroladas	pelo	réu.	O	art.	452	do	CPC/1973	não	contém	a
+expressão	“preferencialmente”,	como	o	art.	361	do	CPC/2015.	Mesmo	assim,	decidiu-se,	à	luz	daquele
+dispositivo	do	CPC/1973,	que	não	se	anula	o	processo	se	da	inversão	da	ordem	não	decorrer	prejuízo	à
+parte	(STJ,	REsp	35.786/
+[/PAGINA 642]
+
+[PAGINA 643]
+SP,	4.ª	T.,	j.	14.11.1994,	rel.	Min.	Barros	Monteiro),	orientação	que	nos	parece
+acertada.
+Art.	362.	A	audiência	poderá	ser	adiada:	I	-	por	convenção	das	partes;
+II	-	se	não	puder	comparecer,	por	motivo	justificado,	qualquer	pessoa	que	dela	deva	necessariamente
+participar;	III	-	por	atraso	injustificado	de	seu	início	em	tempo	superior	a	30	(trinta)	minutos	do	horário
+marcado.
+§	1º	O	impedimento	deverá	ser	comprovado	até	a	abertura	da	audiência,	e,	não	o	sendo,	o	juiz	procederá
+à	instrução.
+§	2º	O	juiz	poderá	dispensar	a	produção	das	provas	requeridas	pela	parte	cujo	advogado	ou	defensor
+público	não	tenha	comparecido	à	audiência,	aplicando-se	a	mesma	regra	ao	Ministério	Público.
+§	3º	Quem	der	causa	ao	adiamento	responderá	pelas	despesas	acrescidas.
+CPC/1973:	Art.	453	(correspondente).
+Adiamento	da	audiência.	Prevê	a	lei	processual	que	a	audiência	pode	ser	adiada	por	convenção	das
+partes,	pelo	não	comparecimento	justificado	de	qualquer	pessoa	que	dela	deva	necessariamente
+participar	e	pelo	atraso	injustificado	de	seu	início	por	tempo	superior	a	trinta	minutos	(essa	última
+hipótese,	prevista	no	CPC/2015,	não	contém	similar,	no	CPC/1973).	Diz	a	lei	que	a	prova	do
+impedimento	deve	ser	realizada	até	a	abertura	da	audiência;	caso	isso	não	ocorra,	deve-se	a	ela	dar
+início.	Afirma	a	lei,	ainda,	que	pode	ser	dispensada	pelo	juiz	a	produção	das	provas	requeridas	por
+aquele	que	não	compareceu	à	audiência,	mas	a	regra	deve	ser	compreendida	cum	grano	salis:	caso	se
+demonstre	o	impedimento	em	comparecer	à	audiência,	ainda	que	depois	de	esta	ter	sido	iniciada,	deve-se
+dar	a	oportunidade	de	produção	da	prova	(correto,	STJ,	REsp	54.710/SP,	rel.	Min.	Carlos	Alberto
+Menezes	Direito,	3.ª	T.,	j.	15.10.1996).	A	justa	causa	(art.	223	do	CPC/2015;	art.	183	do	CPC/1973)
+deve	ser	comprovada,	e	não	apenas	alegada	(STJ,	REsp	62.357/ES,	rel.	Min.	Cesar	Asfor	Rocha,	4.ª	T.,
+j.
+18.06.1996),	e	a	parte	contrária,	sendo	o	caso,	deve	insurgir-se	de	imediato	contra	o	adiamento	não
+justificado,	sob	pena	de	preclusão	(STJ,	REsp	64.748/SP,	rel.	Min.	Aldir	Passarinho	Júnior,	4.ª	T.,	j.
+07.06.2001).	Além	dessas	hipóteses,	expressamente	referidas	na	lei,	por	outras	razões	pode	ser
+necessário	o	adiamento	da	audiência.	P.ex.,	antes	de	realizar	a	audiência	deverá	o	juiz	certificar-se	de
+que	a	prova	pericial	determinada	foi	produzida	(CPC/2015,	art.	477,	caput;	CPC/1973,	art.	433)	e,	caso
+o	perito	ainda	não	tenha	chegado	a	alguma	conclusão,	poderá	ser	caso	de	adiamento	da	audiência.	Há	que
+se	conferir,	também,	se	as	testemunhas	indicadas	pelas	partes	receberam	a	intimação	para	comparecer	à
+
+audiência	(CPC/1973,	art.	412,	caput;	CPC/2015,	art.	455),	já	que	poderá	ser	adiada	a	audiência,	em
+razão	de	sua	ausência	(CPC/1973,	art.	453,	II;	CPC/2015,	art.	362,	II).	Sobre	cisão	e	suspensão	da
+audiência,	cf.	comentário	ao	art.	365	do	CPC/2015.
+Art.	363.	Havendo	antecipação	ou	adiamento	da	audiência,	o	juiz,	de	ofício	ou	a	requerimento	da	parte,
+determinará	a	intimação	dos	advogados	ou	da	sociedade	de
+[/PAGINA 643]
+
+[PAGINA 644]
+advogados	para	ciência	da	nova	designação.
+CPC/1973:	Art.	242,	§	2.º	(correspondente,	em	parte).
+Alteração	do	momento	em	que	se	deve	realizar	a	audiência	e	intimação	daqueles	que	dela	devem
+participar.
+Havendo	antecipação	ou	adiamento	da	audiência	(para	outro	dia,	ou	outro	horário),	aqueles	que	dela
+devem	participar	haverão	de	ser	intimados.	A	regra	deve	aplicar-se	não	apenas	aos	advogados,	mas,
+também,	sendo	o	caso,	às	próprias	partes	(cf.	art.	385,	§	1.º	do	CPC/2015;	art.	343,	§	2.º	do	CPC/1973).
+Art.	364.	Finda	a	instrução,	o	juiz	dará	a	palavra	ao	advogado	do	autor	e	do	réu,	bem	como	ao	membro
+do	Ministério	Público,	se	for	o	caso	de	sua	intervenção,	sucessivamente,	pelo	prazo	de	20	(vinte)	minutos
+para	cada	um,	prorrogável	por	10	(dez)	minutos,	a	critério	do	juiz.
+§	1º	Havendo	litisconsorte	ou	terceiro	interveniente,	o	prazo,	que	formará	com	o	da	prorrogação	um	só
+todo,	dividir-se-á	entre	os	do	mesmo	grupo,	se	não	convencionarem	de	modo	diverso.
+§	2º	Quando	a	causa	apresentar	questões	complexas	de	fato	ou	de	direito,	o	debate	oral	poderá	ser
+substituído	por	razões	finais	escritas,	que	serão	apresentadas	pelo	autor	e	pelo	réu,	bem	como	pelo
+Ministério	Público,	se	for	o	caso	de	sua	intervenção,	em	prazos	sucessivos	de	15	(quinze)	dias,
+assegurada	vista	dos	autos.
+CPC/1973:	Art.	454	(correspondente).
+SUMÁRIO:	I.	Direito	das	partes	à	apresentação	de	razões	finais	–	II.	Substituição	dos	debates	orais	pela
+apresentação	de	memoriais	por	escrito	–	III.	Ordem	de	apresentação	das	razões	finais.
+I.	Direito	das	partes	à	apresentação	de	razões	finais.	Concluída	a	produção	das	provas,	têm	as	partes
+direito	de	apresentar	suas	razões	finais,	que	têm	por	finalidade	realizar	o	cotejo	entre	o	que	foi	alegado
+na	fase	postulatória	e	as	provas	que	foram	produzidas	(e	não	apenas,	p.ex.,	“resumir”	o	que	antes	se
+alegou,	em	petição	inicial	ou	contestação).	Por	isso,	caso	não	tenha	havido	instrução	probatória,	não	há
+razão	para	a	apresentação	de	razões	finais	(nesse	sentido,	STJ,	REsp	419.592/PR,	1.ª	T.,	j.	17.09.2002,
+rel.	Min.	José	Delgado).	As	razões	finais	apresentadas	pelas	partes	cumprem	função	relevante,	que	é	a	de
+mostrar	em	que	medida	os	fatos	alegados	restaram,	ou	não,	provados.	O	direito	de	apresentar	razões
+finais,	oralmente	ou	por	escrito,	não	pode	ser	suprimido	da	parte,	sob	pena	de	violação	ao	princípio	do
+devido	processo	legal.	As	partes	têm	direito	de	atuar,	ao	longo	do	processo,	com	o	fim	de	influir
+decisivamente	em	seu	resultado.	Não	sendo	assim,	não	se	estará	diante	de	processo	informado	pelos
+princípios	inerentes	ao	Estado	Democrático	de	Direito	(sobre	o	status	activus	processualis,	cf.
+comentário	ao	art.	2.º	do	CPC/2015).	O	prejuízo	processual	à	parte,	caso	não	se	admita	a	apresentação
+de
+razões	finais,	não	precisa	ser	demonstrado,	pois	está	in	re	ipsa.	Na	jurisprudência	já	se	decidiu	no
+
+sentido	de	que	o	prejuízo,	no	caso,	deve	ser	demonstrado	(cf.	STJ,	REsp	727.271/MA,	1.ª	T.,	j.
+13.12.2005,	rel.	Min.	Teori	Albino	Zavascki).	Entendemos	que	o	r
+[/PAGINA 644]
+
+[PAGINA 645]
+aciocínio	deve	ser	o	inverso:	só	não	se
+decreta	a	nulidade	quando	suprimido	esse	direito	se	se	demonstrar	que	não	houve	prejuízo,	apesar	do
+vício.
+II.	Substituição	dos	debates	orais	pela	apresentação	de	memoriais	por	escrito.	Como	regra,	as	razões
+finais	são	apresentadas	oralmente,	ao	final	da	audiência	de	instrução.	No	entanto,	havendo	“questões
+complexas	de	fato	ou	de	direito”,	poderão	os	memoriais	excepcionalmente	ser	apresentados	por	escrito
+(CPC/2015,	art.	364,	§	2.º;	CPC/1973,	art.	454,	§	3.º).
+Segundo	pensamos,	o	mesmo	princípio	deve	orientar	a	prolação	(ou	não)	de	sentença	na	audiência,	ou
+posteriormente,	por	escrito.	Deve-se,	dentro	do	possível,	privilegiar	a	oralidade.	“Em	princípio,	a	regra
+do	art.	454,	CPC	[de	1973,	correspondente	ao	art.	364	do	CPC/2015],	adota	a	oralidade	como	regra	na
+instrução	e	julgamento,	sucedendo	à	instrução	a	faculdade	de	as	partes	sustentarem,	oralmente	e	na
+mesma	audiência,	suas	razões	finais	antes	do	julgamento.	A	substituição	dessa	fase	oral	por	memoriais
+vincula-se	às	‘questões	complexas	de	fato	ou	de	direito’	mencionadas	no	dispositivo,	traduzindo-se,
+assim,	em	exceção	à	regra”	(STJ,	REsp	167.383/DF,	4.ª	T.,	j.	08.05.2001,	rel.	Min.	Sálvio	de	Figueiredo
+Teixeira).	Não	se	considera	haver	vício,	caso	se	opte	pela	apresentação	das	razões	finais	por	memoriais
+(nesse	sentido,	STJ,	REsp	840.692/AL,	Rel.	Min.	Aldir	Passarinho	Junior,	4.ª	T.,	j.	19.10.2010;	STJ,
+REsp	1.005.867/ES,	Rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	25.09.2012).
+III.	Ordem	de	apresentação	das	razões	finais.	Como	princípio,	as	razões	finais	são	apresentadas	pelo
+autor,	pelo	réu	e	pelo	ministério	público,	sucessivamente.	Caso	tenha	sido	apresentada	nova	demanda
+posteriormente	para	julgamento	conjunto,	haverá	que	se	verificar	se	há	entre	elas	alguma	relação	de
+prejudicialidade.	P.ex.,	tendo	havido	oposição	(no	CPC/2015,	prevista	como	procedimento	especial	nos
+arts.	682	e	ss.),	o	opoente	deverá	manifestar-se	em	primeiro	lugar;	tendo	ocorrido	denunciação	da	lide
+(CPC/2015,	arts.	125	e	ss.),	o	denunciado	deverá	manifestar-se	depois	de	autor	e	réu	originários.
+Art.	365.	A	audiência	é	una	e	contínua,	podendo	ser	excepcional	e	justificadamente	cindida	na	ausência
+de	perito	ou	de	testemunha,	desde	que	haja	concordância	das	partes.
+Parágrafo	único.	Diante	da	impossibilidade	de	realização	da	instrução,	do	debate	e	do	julgamento	no
+mesmo	dia,	o	juiz	marcará	seu	prosseguimento	para	a	data	mais	próxima	possível,	em	pauta	preferencial.
+CPC/1973:	Art.	455	(correspondente).
+Audiência	una	e	contínua.	Cindibilidade.	Suspensão	e	prosseguimento.	Como	regra,	a	audiência	é	una,
+mas	pode	ser	cindida,	quando	determinada	quando	indispensável	que	alguém	seja	ouvido	em	momentos
+distintos	(p.ex.,	o	perito	ou	o	especialista,	em	determinado	momento,	e	as	testemunhas	em	outro).	Os
+sujeitos	processuais	podem	convencionar	a	respeito,	fixando	um	calendário	(cf.	art.	191	do	CPC/2015).
+A	audiência	é,	também,	contínua,	mas,	p.ex.,	diante	da	complexidade	das	questões	nela	versa
+[/PAGINA 645]
+
+[PAGINA 646]
+das	ou	da
+quantidade	de	atos	a	serem	realizados,	poderá	ser	necessária	suspender-se	a	audiência	para	que	tenha
+seguimento	em	momento	posterior.	Deve-se,	sempre,	privilegiar	a	oralidade	(que	envolve	a	imediação	e
+a	identidade	física	do	juiz);	se	indispensável	a	suspensão,	deve	a	audiência	continuar	na	data	mais
+próxima	possível.	A	respeito,	cf.	também	comentário	ao	art.	366	do	CPC/2015.	Sobre	adiamento	ou
+antecipação	da	audiência,	cf.	comentário	ao	art.	362	do	CPC/2015.
+Art.	366.	Encerrado	o	debate	ou	oferecidas	as	razões	finais,	o	juiz	proferirá	sentença	em	audiência	ou	no
+
+prazo	de	30
+(trinta)	dias.
+CPC/1973:	Art.	456	(correspondente).
+SUMÁRIO:	I.	Oralidade,	imediação	e	identidade	física	do	juiz	–	II.	Prolação	da	sentença	em	momento
+posterior	à	audiência,	debilitação	da	oralidade	e,	como	consequência,	das	razões	que	justificam	a
+identidade	física	do	juiz	–	III.	Da	oralidade	informada	pela	atualidade	à	oralidade	orientada	pela
+virtualidade	–	IV.	Mitigação	da	identidade	física	do	juiz	não	justifica	o	afastamento	da	garantia	do	juiz
+natural.	Mutirões.
+I.	Oralidade,	imediação	e	identidade	física	do	juiz.	Com	a	produção	de	provas	em	audiência,	deve-se,
+tanto	quanto	possível,	atuar	de	modo	a	que	as	partes	nela	apresentem	suas	razões	finais	e,	em	seguida,
+também	na	audiência,	o	juiz	profira	sentença.	Privilegia-se,	com	isso,	a	oralidade,	já	que	concentrados	os
+atos	de	produção	de	provas,	debates	e	sentença,	favorecendo	também	a	imediação	da	prova	e	a
+identidade	física	do	juiz	(isso	é,	o	juiz	que	teve	contato	direto	com	as	partes	e	as	provas	é	o	juiz	que
+sentenciará;	na	doutrina,	cf.	Petrônio	Calmon,	O	modelo	oral.	.,	RePro	178/47:	“A	regra	da	identidade
+física	do	juiz,	então,	decorre	do	elemento	essencial	da	oralidade,	que	é	a	imediação,	ou	seja,	do	contato
+direto	do	juiz	com	as	partes	e	com	a	prova.	Quando	se	diz	‘contato	direto	do	juiz	com	a	prova’	já	se	está
+afirmando	que	se	trata	do	juiz	sentenciante,	e	não	de	qualquer	juiz.	Por	essa	razão	é	que	a	regra	da
+identidade	física	está	incluída	no	elemento	essencial	imediação	como	o	contato	direto	do	juiz	com	as
+partes	e	com	a	prova”).	Cf.	também	comentário	ao	art.	365	do	CPC/2015.
+II.	Prolação	da	sentença	em	momento	posterior	à	audiência,	debilitação	da	oralidade	e,	como
+consequência,	das	razões	que	justificam	a	identidade	física	do	juiz.	Afasta-se	da	ideia	de	oralidade
+(cf.	supra)	quando	cinde-se	a	audiência,	ou	quando	as	razões	são	apresentadas	por	escrito	e	assim
+também	é	proferida	a	sentença,	fora	da	audiência.	Deixando-se	a	prolação	da	sentença	para	momento
+posterior,	a	distância	temporal	do	juiz	em	relação	à	audiência	em	que	se	produziram
+provas	debilita	a	oralidade,	já	que	o	juiz	dificilmente	se	recordará	das	circunstâncias	presenciadas	em
+audiência	–	nem	sempre	fidedignamente	registradas	em	termo	lavrado	pelo	escrivão.	Debilitada	a
+oralidade,	a	observância	da	identidade	física	do	juiz	deixa	de	fazer	sentido.	Mesmo	o	art.	132	do
+CPC/1973,	ao	prever	que	“o	juiz,	titular	ou	substituto,	que	concluir
+[/PAGINA 646]
+
+[PAGINA 647]
+a	audiência	julgará	a	lide”,
+estabeleceu	um	extenso	rol	de	exceções,	ao	dispor	que	não	se	aplicaria	a	regra	quando	o	juiz	que	concluir
+a	audiência	“estiver	convocado,	licenciado,	afastado	por	qualquer	motivo,	promovido	ou	aposentado,
+casos	em	que	passará	os	autos	ao	seu	sucessor”.	À	luz	desse	dispositivo,	decidiu-se	que	“o	juiz	que
+conclui	a	audiência	de	instrução,	em	regra,	fica	vinculado	ao	processo	para	efeito	de	sentença.
+Entretanto,	tal	premissa	não	configura	garantia	inamovível,	em	face	dos	possíveis	afastamentos	legais	do
+titular,	como	na	hipótese	da	fruição	de	férias	regulares	e	outras	circunstâncias	previstas	no	art.	132	do
+CPC	[de	1973],	em	que	a	regra	é	flexibilizada,	permitindo-se	ao	sucessor	a	prolação	da	sentença”	(STJ,
+AgRg	no	AREsp	571.805/GO,	Rel.	Min.	Marco	Aurélio	Bellizze,	3.ª	T.,	j.	21.10.2014).	Essa	mesma
+orientação	vem	sendo	aplicada	ao	processo	penal:	“O	princípio	da	identidade	física	do	juiz	não	é
+absoluto,	devendo	ser	mitigado	sempre	que	a	sentença	proferida	por	juiz	que	não	presidiu	a	instrução
+criminal	seja	congruente	com	as	provas	produzidas	sob	o	crivo	do	juiz	substituído”	(STF,	RHC	123.572,
+rel.	Min.	Luiz	Fux,	1.ª	T.,	j.	07.10.2014).	O	CPC/2015	não	reproduziu	a	regra	prevista	no	art.	132
+do	CPC/1973.	Isso	não	significa	que,	no	regime	do	CPC/2015,	deve-se	desprezar	a	oralidade	e,	por
+
+consequência,	a	imediação	e	a	identidade	física	do	juiz.	À	oralidade	deve	ser	dado	o	máximo
+rendimento,	para	viabilizar,	sempre	que	possível,	a	realização	de	todos	os	atos	em	audiência,	p.ex.
+III.	Da	oralidade	informada	pela	atualidade	à	oralidade	orientada	pela	virtualidade.	A	oralidade,
+como	modelo	processual	(cf.	supra),	deve	ser	revista.	Não	se	fala,	aqui,	em	abandono	da	oralidade,	mas
+de	seu	ajuste	a	outras	peculiaridades,	presentes	em	nosso	tempo.	Não	se	pode	desconhecer	que	a	prática
+de	atos	processuais	por	meio	eletrônico	e	o	registro	de	fatos	em	audiência	por	sistema	de
+videoconferência	(cf.	§	5.º	do	art.	367	do	CPC/2015)	não	é	apenas	um	novo	ingrediente	a	ser
+considerado,	mas	um	novo	paradigma.	Nesse	caso,	há	uma	oralidade	renovada,	em	que,	ao	invés	da
+realidade-atualidade,	tem-se	a	realidade-virtualidade,	já	que	a	reprodução	de	depoimento	que	consta
+num	registro	audiovisual	(virtual)	tende	a	transmitir	ao	juiz	sensações	próximas	às	que	experimentaria	se
+o	presenciasse	(atual).	Por	isso	se	diz	que	a	ideia	de	oralidade	(vinculada	à	atualidade,	no	sentido	de
+proximidade	temporal	e	física)	deve	ser	renovada,	para	compreender	o	fenômeno	relacionado	à
+virtualidade	(cf.	comentário	ao	art.	193	do	CPC/2015).
+IV.	Mitigação	da	identidade	física	do	juiz	não	justifica	o	afastamento	da	garantia	do	juiz	natural.
+Mutirões.	A	mitigação	da	identidade	física	do	juiz	não	admite	que	se	viole	a	garantia	do	juiz	natural,
+para,	p.ex.,	se	designar	juiz	para	julgar	uma	causa	específica.	Tem-se	decidido	que	mutirões	e	grupos	de
+apoio	para	julgamento	de	ações	em	determinada	comarca	ou	vara	não	violam	a	garantia	(p.ex.,	STJ,
+AgRg	nos	EDcl	no	AREsp	75.110
+[/PAGINA 647]
+
+[PAGINA 648]
+/GO,	Rel.	Min.	Benedito	Gonçalves,	1.ª	T.,	j.
+23.04.2013;	STJ,	AgRg	no	Ag	1144852/RS,	Rel.	Min.	Raul	Araújo,	4.ª	T.,	j.	05.09.2013),	orientação	que,
+segundo	pensamos,	só	pode	ser	admitida	desde	que	a	atribuição	seja	genérica,	e	não	a	feitos	específicos.
+Sobre	a	garantia	do	juiz	natural,	cf.
+comentário	ao	art.	7.º	do	CPC/2015.
+Art.	367.	O	servidor	lavrará,	sob	ditado	do	juiz,	termo	que	conterá,	em	resumo,	o	ocorrido	na	audiência,
+bem	como,	por	extenso,	os	despachos,	as	decisões	e	a	sentença,	se	proferida	no	ato.
+§	1º	Quando	o	termo	não	for	registrado	em	meio	eletrônico,	o	juiz	rubricar-lhe-á	as	folhas,	que	serão
+encadernadas	em	volume	próprio.
+§	2º	Subscreverão	o	termo	o	juiz,	os	advogados,	o	membro	do	Ministério	Público	e	o	escrivão	ou	chefe
+de	secretaria,	dispensadas	as	partes,	exceto	quando	houver	ato	de	disposição	para	cuja	prática	os
+advogados	não	tenham	poderes.
+§	3º	O	escrivão	ou	chefe	de	secretaria	trasladará	para	os	autos	cópia	autêntica	do	termo	de	audiência.
+§	4º	Tratandose	de	autos	eletrônicos,	observar-se-á	o	disposto	neste	Código,	em	legislação	específica	e
+nas	normas	internas	dos	tribunais.
+§	5º	A	audiência	poderá	ser	integralmente	gravada	em	imagem	e	em	áudio,	em	meio	digital	ou	analógico,
+desde	que	assegure	o	rápido	acesso	das	partes	e	dos	órgãos	julgadores,	observada	a	legislação
+específica.
+§	6º	A	gravação	a	que	se	refere	o	§	5º	também	pode	ser	realizada	diretamente	por	qualquer	das	partes,
+independentemente	de	autorização	judicial.
+
+CPC/1973:	Art.	457	(correspondente).
+SUMÁRIO:	I.	Termo	de	audiência	–	II.	Registro	da	audiência	em	sistema	audiovisual.
+I.	Termo	de	audiência.	O	termo	de	audiência,	lavrado	pelo	escrivão	sob	ditado	do	juiz,	deve	conter
+resumo	dos	fatos	ocorridos	na	audiência,	e	íntegra	das	decisões	proferidas	em	seu	curso.	Também	os
+requerimentos	apresentados	pelas	partes	(deferidos	ou	não)	devem	ser	expressamente	consignados	(cf.
+art.	360,	V	do	CPC/2015).
+II.	Registro	da	audiência	em	sistema	audiovisual.	A	lei	processual	refere-se	à	gravação	da	audiência
+em	sistema	audiovisual	(cf.	§§	4.º	e	5.º	do	art.	367	do	CPC/2015;	a	respeito,	cf.	também	art.	236,	§	3.º,
+385,	§	3.º	e	460,	§	1.º	do	CPC/2015).
+Autoriza-se	às	partes	a	gravação	da	audiência	(cf.	§	6.º	do	art.	367	do	CPC/2015).	Nesse	caso,	não	se
+está	diante	de
+documentação	de	ato	processual,	mas	de	registro	feito	pela	parte	para	seu	uso	pessoal,	mas	nada	impede
+que	tal	registro	seja	usado	em	juízo	(p.ex.,	em	restauração	de	autos	eletrônicos,	cf.	art.	712	e	ss.	do
+CPC/2015).	Sobre	a	documentação	eletrônica	de	atos	processuais,	cf.	comentário	aos	arts.	193	e	ss.	do
+CPC/2015.
+Art.	368.	A	audiência	será	pública,	ressalvadas	as	exceções	legais.
+CPC/1973:	Art.	444	(correspondente).
+Publicidade	da	audiência.	A	lei	processual	apenas	menciona	que	a	audiência	será	pública,	como	regra.
+O	tema	é	disciplinado	de	modo	mais	pormenorizado	em	outras	disposições	do	CPC/2015:	sobre	o
+princípio	da	publicidade,	cf.
+comentário	ao	art.	11	do	CPC/2015;	sobre	publicidade	absoluta	(ou	exter
+[/PAGINA 648]
+
+[PAGINA 649]
+na)	e	restrita	(ou	interna),	cf.
+comentário	ao	art.	189
+do	CPC/2015.
+
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	XII.	DAS	PROVAS
+Capítulo	XII	DAS	PROVAS
+Seção	I
+Disposições	gerais	Art.	369.	As	partes	têm	o	direito	de	empregar	todos	os	meios	legais,	bem	como	os
+moralmente	legítimos,	ainda	que	não	especificados	neste	Código,	para	provar	a	verdade	dos	fatos	em	que
+se	funda	o	pedido	ou	a	defesa	e	influir	eficazmente	na	convicção	do	juiz.
+CPC/1973:	Art.	332	(correspondente).
+V.	art.	5.º,	LVI,	da	CF/1988;	art.	212	do	CC/2002;	Lei	9.296/1996	(Interceptação	de	comunicações
+telefônicas).
+•	STF,	QO	em	RE	583.937/RJ	(com	repercussão	geral):	É	lícita	a	prova	consistente	em	gravação
+ambiental	realizada	por	um	dos	interlocutores	sem	conhecimento	do	outro.	(STF,	QO	em	RE
+583.937/RJ,	j.	19.11.2009,	rel.	Min.	Cezar	Peluso).
+•	FPPC,	Enunciado	50:	Os	destinatários	da	prova	são	aqueles	que	dela	poderão	fazer	uso,	sejam
+juízes,	partes	ou	demais	interessados,	não	sendo	a	única	função	influir	eficazmente	na	convicção	do
+juiz.
+•	FPPC,	Enunciado	301:	Aplicam-se	ao	processo	civil,	por	analogia,	as	exceções	previstas	nos	§§	1.º	e
+2.º	do	art.	157	do	Código	de	Processo	Penal,	afastando	a	ilicitude	da	prova.
+SUMÁRIO:	I.	“As	partes	têm	direito	de	empregar	todos	os	meios”	para	provar.	Significado	do	direito	à
+prova	–	II.	“Todos	os	meios	legais,	bem	como	os	moralmente	legítimos”.	Restrição	ao	direito	à	prova.
+Provas	obtidas	por	meios	ilícitos	–	III.	Provas	ilícitas	por	derivação.	Doutrina	dos	frutos	da	árvore
+envenenada	(	fruit	of	the	poisonous	tree)	–	IV.	Doutrinas	da	fonte	independente	(	independent	source)	e
+da	descoberta	inevitável	(	inevitable	discovery)	–	V.	Gravações	de	vídeos	ou	conversas	telefônicas	por
+um	dos	interlocutores	e	utilização	como	prova	contra	o	outro,	no	processo	–	VI.	“Todos	os	meios”,
+“ainda	que	não	especificados”.	Tipicidade	e	atipicidade	dos	meios	de	prova	e	do	procedimento
+destinado	à	sua	produção	–	VII.	Atipicidade	e	prova	estatística	–	VIII.	Atipicidade	e	prova	por
+amostragem	–	IX.	“Verdade	dos	fatos”	e	“convicção	do	juiz”.	Identificação	de	qual	das	versões	da
+realidade	encontra	correspondência	nas	provas.
+
+I.	“As	partes	têm	direito	de	empregar	todos	os	meios”	para	provar.	Significado	do	direito	à	prova.	O
+direito	à	prova	é	consectário	do	direito	de	ação	(cf.	comentário	ao	art.	2.º	do	CPC/2015).	As	partes	têm
+direito	de	(1.º)	provar	a	“verdade	dos	fatos”	(os	fatos	afirmados,	cf.	comentário	infra)	em	que	se	funda	o
+pedido	ou	a	defesa,	bem	como	a	falsidade	dos	fatos	afirmados	pela	outra	parte	(isso	é,	o	direito	à	prova
+contrária),	(2.º)	exigir	a	produção	das	provas	(por	exemplo,	quando	se	pede	que	o	juiz	ordene	a	exibição
+de	documento	que	se	encontra	em	poder	da	parte	contrária	ou	de	terceiro),	e	(3.º)	ver	avaliadas
+[/PAGINA 649]
+
+[PAGINA 650]
+motivadamente	pelo	juiz	as	provas	que	foram	produzidas.	Essa	avaliação	motivada	vem	a	ser	a	resposta
+do	juiz	ao	direito	que	têm	as	partes	de	influir	decisivamente	nos	destinos	do	processo	(sobre	o	status
+activus	processualis,	cf.
+comentário	ao	art.	5.º	do	CPC/2015).	Ao	dispor	sobre	o	direito	à	prova,	o	Código	de	Processo	Civil	de
+2015	repercute	essa	definição,	ao	dispor	que	as	partes	têm	direito	a	influir	eficazmente	na	convicção	do
+juiz	(aspecto	outrora	não	referido,	no	art.
+332	do	CPC/1973).	Há	cerceamento	de	defesa	se	violado	o	direito	à	prova,	em	quaisquer	dos
+momentos	acima	mencionados	(cf.
+art.	5.º,	LV,	da	CF/1988,	sobre	direito	ao	contraditório	e	à	ampla	defesa;	por	exemplo,	corretamente,	já	se
+decidiu	ser	cabível	ação	rescisória,	em	caso	de	omissão	no	julgamento	quanto	à	prova	produzida,	cf.
+STJ,	AR	852/SP,	3.ª	Seção,	rel.	Min.	José	Arnaldo	da	Fonseca).	Note-se	que	o	magistrado,	sem	dúvida,	é
+destinatário	da	prova,	mas	as	partes	também	o	são.	O	Código	de	Processo	Civil	de	2015	disciplina,	de
+modo	específico,	um	procedimento	para	o	exercício	de	direito	autônomo	à	prova	(cf.
+comentário	aos	arts.	381	a	383).	Sobre	cerceamento	de	defesa	e	julgamento	imediato	do	mérito,	cf.
+comentário	ao	art.	357	do	CPC/2015.	O	direito	à	prova	é	compatível	com	o	poder	instrutório	do	juiz	(cf.
+comentário	ao	art.	370	do	CPC/2015).	Sobre	o	objeto	da	prova,	fatos	jurídicos	e	fatos	simples,	cf.
+comentário	ao	art.	374	do	CPC/2015.
+II.	“Todos	os	meios	legais,	bem	como	os	moralmente	legítimos”	.	Restrição	ao	direito	à	prova.
+Provas	obtidas	por	meios	ilícitos.	O	Código	de	Processo	Civil	dispõe	que	as	partes	podem	dispor	dos
+meios	legais,	bem	como	moralmente	legítimos,	para	provar	as	afirmações	que	deduzirem	(devem	ser
+indeferidas,	contudo,	as	provas	irrelevantes,	ou,	como	se
+afirma	na	lei	processual,	“inúteis	ou	meramente	protelatórias”,	cf.	art.	370,	parágrafo	único,	do
+CPC/2015).	O	art.	5.º,	LVI,	da	CF/1988,	por	sua	vez,	estabelece	que	“são	inadmissíveis,	no	processo,	as
+provas	obtidas	por	meios	ilícitos”.	O	art.	157,	caput,	do	CPP	contém	definição	de	prova	ilícita:	“São
+inadmissíveis,	devendo	ser	desentranhadas	do	processo,	as	provas	ilícitas,	assim	entendidas	as	obtidas
+em	violação	a	normas	constitucionais	ou	legais”.	A	matriz	da	restrição,	como	com	acerto	consta	da	lei
+processual	penal,	é	a	Constituição.	A	vedação,	pois,	aplica-se	tanto	ao	processo	penal	quanto	ao	civil	ou
+ao	administrativo:	“O	processo	administrativo	disciplinar	que	impôs	a	Delegado	de	Polícia	Civil	a	pena
+de	demissão	com	fundamento	em	informações	obtidas	com	quebra	de	sigilo	funcional,	sem	a	prévia
+autorização	judicial,	é	desprovido	de	vitalidade	jurídica,	porquanto	baseado	em	prova	ilícita.	Sendo	a
+prova	ilícita	realizada	sem	a	autorização	da	autoridade	judiciária	competente,	é	desprovida	de	qualquer
+eficácia,	eivada	de	nulidade	absoluta	e	insuscetível	de	ser	sanada	por	força	da	preclusão”	(STJ,	RMS
+8.327/MG,	6.ª	T.,	j.	24.06.1999).	Considerase,	assim,	por	exemplo,	ilícita	a	interceptação	eletr
+[/PAGINA 650]
+

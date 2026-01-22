@@ -1,0 +1,1699 @@
+[META]
+TITULO: Curso de Direito Processual Civ
+AUTOR: Humberto Theodoro Junior
+ANO: N/A
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 1101-1128
+ARQUIVO_ORIGINAL: Curso de Direito Processual Civ - Humberto Theodoro Junior.pdf
+CITACAO_ABNT: JUNIOR, Humberto Theodoro. Curso de Direito Processual Civ.
+[/META]
+
+[PAGINA 1101]
+m  relação  ao
+inventariante, aos herdeiros e aos sucessores a título singular ou universal (inciso
+IV);
+(e)  o  crédito  de  auxiliar  da  justiça,  quando  as  custas,  emolumentos  ou
+honorários tiverem sido aprovados por decisão judicial (inciso V);
+(f) a sentença penal condenatória transitada em julgado (inciso VI);
+(g) a sentença arbitral (inciso VII);
+(h)  a  sentença  estrangeira  homologada  pelo  Superior  Tribunal  de  Justiça
+(inciso VIII);
+(i)  a  decisão  interlocutória  estrangeira,  após  a  concessão  do exequatur  à
+carta rogatória pelo Superior Tribunal de Justiça (inciso IX);
+VII – Competência para o cumprimento da sentença:
+O  exequente  poderá  requerer  o  início  do  procedimento  perante: (i)  os
+tribunais, nas causas de sua competência originária; (ii)  o  juízo  que  decidiu  a
+causa no primeiro grau de jurisdição; e (iii) o juízo cível competente, quando se
+tratar  de  sentença  penal  condenatória,  de  sentença  arbitral,  de  sentença
+estrangeira ou de acórdão proferido pelo Tribunal Marítimo (art. 516).
+15
+  Nas
+hipóteses dos itens ii e iii, o exequente poderá optar pelo cumprimento no juízo do
+atual  domicílio  do  executado,  no  juízo  do  local  onde  se  encontrem  os  bens
+sujeitos à execução ou no juízo do local onde deva ser executada a obrigação de
+fazer ou de não fazer (art. 516, parágrafo único).
+VIII – Impugnação ao procedimento:
+As  questões  relativas  à  validade  do  procedimento  e  dos  atos  executivos
+subsequentes  poderão  ser  arguidas  pelo  executado  nos  próprios  autos  e  neste
+serão decididas pelo juiz (art. 518).
+16
+ Ou seja, não é necessário o ajuizamento de
+ação nova (embargos à execução).
+IX – Cumprimento provisório:
+
+O  Código  autoriza  que  o  exequente  realize  o  cumprimento  provisório,
+mesmo  antes  de  transitada  em  julgado  a  decisão  condenatória,  prescrevendo
+procedimento próprio (arts. 520 a 522).
+X – Cumprimento definitivo:
+Estabelece  o  NCPC  regras  próprias  para  cada  tipo  de  obrigação  a  ser
+cumprida: de pagar quantia certa, de fazer, de não fazer, de entregar coisa, com
+especialização para a obrigação de prestar alimentos e de pagar quantia certa
+pela Fazenda Pública.
+XI – Tutela provisória:
+Por  fim,  as  regras  relativas  ao  cumprimento  de  sentença,  provisório  ou
+definitivo, e à liquidação de sentença, aplicam-se, no que couber, às decisões que
+concederem tutela provisória (art. 519).
+17
+XII – Observação:
+O tema de cumprimento de sentença será mais amplamente tratado no vol.
+III deste Curso.
+Fluxograma nº 23
+
+
+
+8
+9
+14
+(*)
+1
+2
+3
+4
+5
+6
+7
+10
+11
+12
+13
+15
+16
+17
+_________
+CPC/1973, arts. 475-I e 475-N.
+CPC/1973, art. 585.
+CPC/1973, sem correspondência.
+CPC/1973, art. 612.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 475-I
+Numa  exata  compreensão  da  tutela  condenatória,  Proto  Pisani  divisa  nela
+uma duplicidade de funções – repressiva e preventiva. Daí que a atuação dos
+efeitos da condenação tanto pode transitar pe
+[/PAGINA 1101]
+
+[PAGINA 1102]
+la execução forçada como pelas
+medidas coercitivas (PISANI, Andréa Proto. Lezioni cit., p. 161).
+Também Barbosa Moreira aponta vários exemplos de sentença condenatória
+que  não  correspondem  a  título  executivo  e,  portanto,  não  desencadeiam  o
+processo de execução, como a que condena à perda do sinal pago, a relativa
+à  prestação  futura  de  alimentos  a  serem  descontados  em  folha  de
+pagamento, as referentes a prestações de obrigações de fazer infungíveis; em
+todas elas o credor poderá apenas utilizar medidas coercitivas em face do
+obrigado,  mas  nunca  terá  como  realizar  a  execução  forçada  para  obter  a
+prestação objeto da condenação (BARBOSA MOREIRA, José Carlos. Temas
+de direito processual: oitava série. São Paulo: Saraiva, 2004, p. 135).
+CPC/1973, art. 572.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+CPC/1973, art. 475-N.
+Para  efeito  do  cumprimento  de  sentença,  a  autocomposição  judicial  pode
+envolver sujeito estranho ao processo e versar sobre relação jurídica que não
+tenha sido deduzida em juízo (NCPC, art. 515, § 2º).
+CPC/1973, art. 475-P.
+CPC/1973, sem correspondência.
+CPC/1973, sem correspondência.
+A petição do credor é obrigatória nos casos de condenação do cumprimento
+de  obrigação  de  quantia  certa  (art.  513,  §  1º).  Nos  casos  de  obrigação  de
+fazer,  não  fazer  ou  entregar  coisas,  em  regra,  não  há  necessidade  de
+requerimento  da  parte.  A  própria  sentença  emite  a  ordem  e  determina  a
+
+forma  de  cumprimento  da  condenação.  Haverá,  contudo,  em  todas  as
+modalidades  obrigacionais,  a  prévia  intimação  do  devedor  a  cumprir
+voluntariamente  o  comando  sentencial  em  prazo  determinado.  Só  após
+escoado  dito  prazo  é  que  a  execução  forçada  terá  início  e  os  efeitos  do
+descumprimento se tornarão aplicáveis ao inadimplente.
+
+Bibliografia
+ABRAÃO, Pauline do Socorro Lisboa. Algumas considerações críticas sobre a
+natureza jurídica do amicus curiae no direito brasileiro. Revista Dialética de
+Direito processual. São Paulo: n.º 105, 2011.
+AGUIAR, Mirella de Carvalho. Amicus curiae. Salvador: JusPodivm, 2005.
+ALLORIO, Enrico. Problemas de Derecho Procesal. Buenos Aires: EJEA, 1963,
+v. II.
+ALSINA, Hugo. Tratado Teórico Práctico de Derecho Procesal Civil y Comercial.
+Buenos Aires: Compañía Argentina de Editores, 1943, v. I.
+AMARAL  SANTOS,  Moacyr. Comentários  ao  Código  de  Processo  Civil.  São
+Paulo: RT, 1974, v. IV.
+______.______. 2. ed. São Paulo: RT, 1976, v. IV.
+______.______. 2. ed. São Paulo: RT, 1977, v. IV.
+______. Da reconvenção no direito brasileiro. São Paulo: Max Limonad, 1958.
+______. Primeiras  linhas  de  direito  processual  civil.  3.  ed.  São  Paulo:  Max
+Limonad, 1971, v. I.
+______.______. 3. ed. São Paulo: Max Limonad, 1971, v. II.
+______.______. 4. ed. São Paulo: Saraiva, 1973, v. III.
+______.______. 5. ed. São Paulo: Saraiva, 1977, v. I.
+______.______. 4. ed. São Paulo: Saraiva, 1979, v. II.
+______.______. 7. ed. São Paulo: Sa
+[/PAGINA 1102]
+
+[PAGINA 1103]
+raiva, 1984.
+______.______. 2. ed. atualizada por Maria Beatriz Amaral Santos Köhnen. São
+Paulo: Saraiva, 2008, v. II.
+______. Prova Judiciária no Cível e Comercial. 3. ed. São Paulo: Max Limonad,
+1966.
+______.______. 3. ed. São Paulo: Max Limonad, 1966, v. IV.
+______.______. 3. ed. São Paulo: Max Limonad, 1971, vol. V.
+
+______.______. 4. ed. São Paulo: Max Limonad, 1971, v. I.
+______.______. 4. ed. São Paulo: Max Limonad, 1971, v. 5.
+______. Revista Forense, Rio de Janeiro, v. 243, jul./ago./set. 1973.
+AMARAL, Thaís Ferrão Miranda do. A eficácia preclusiva da coisa julgada e a
+causa de pedir. Revista Dialética de Direito Processual, n.º 124, jul/2013.
+AMERICANO, Jorge. Comentários ao Cód. de Proc. Civil do Brasil. 2. ed. São
+Paulo: Saraiva, 1958, v. III.
+ANDOLINA,  Italo  Augusto.  Il  “Giusto  Processo”  nell’esperienza  italiana  e
+comunitaria. Annali del seminario giuridico, Milano: Giuffrè, 2006, v. VI.
+ANDRADE,  Érico.  As  novas  perspectivas  do  gerenciamento  e  da
+“contratualização” do processo. Revista de Processo, v. 193, mar/2011.
+ANDRIOLI, Virgilio. Lezioni di Diritto Processuale Civile. Napoli: Jovene, 1961,
+v. I.
+______.______. Napoli: Jovene, 1973, v. I.
+ALSINA, Hugo. Tratado Teórico Práctico de Derecho Procesal Civil y Comercial.
+Buenos Aires: Cia. Argentina de Editores, 1943, v. III.
+ARAÚJO  CINTRA,  Antonio  Carlos  de;  GRINOVER,  Ada  Pellegrini;
+DINAMARCO,  Cândido  Rangel. Teoria  Geral  do  Processo.  16.  ed.  São
+Paulo: Malheiros, 2000.
+ARAÚJO CINTRA, Antonio Carlos de. Comentários ao Código de Processo Civil,
+Rio de Janeiro: Forense, 2000, v. IV.
+ARAÚJO,  José  Henrique  Mouta.  Reflexões  sobre  perda  superveniente  de
+condição da ação e sua análise jurisprudencial. Revista Dialética de Direito
+Processual, n. 135, jun/2014.
+ARAÚJO, Luciano Vianna. A ação de liquidação de título executivo extrajudicial,
+Revista de Processo, n. 229, 2014.
+ARAÚJO, Nadia de. Direito internacional privado: teoria e prática brasileira. 3
+ed. Rio de Janeiro: Renovar, 2006.
+ARENHART, Sérgio Cruz. Perfis da tutela inibitória coletiva. São Paulo: RT, 2003.
+______. Reflexões sobre o princípio da demanda, in FUX, Luiz et al  (coords.).
+Processo e Constituição  –  Estudo  em  homenagem  a  José  Carlos  Barbosa
+Moreira. São Paulo: RT, 2006.
+ARIETA, Giovanni. I provvedimenti d’urgenza. 2. ed. Padova: Cedam, 1985.
+
+ARMELIN, Donaldo. Legitimidade para agir no direito processual civil brasileiro.
+São Paulo: RT, 1979.
+ARMIENTA  CALDERON,  Gonzalo  M.  La  prueba. In:   CALDERON
+ARMIENTA, Homenage al maestro Hernando Devis Echandía.  Colombia:
+Instituto Colombiano de Derecho Procesal, 2002.
+ARRUDA  ALVIM  NETTO,  José  Manoel  de. Código  de  Processo  Civil
+Comentado. São Paulo: RT, 1975, v. 1.
+______.______. São Paulo: RT, 1975, v. II.
+______.______. São Paulo: RT, 1976, v. III.
+______. Manual de direito processual civil. 8. ed. São Paulo: RT, 2003, v. I.
+______.______. 11. ed. São Paulo: RT, 2007, v. II.
+______.  Notas  atuais  sobre  a  figura  da
+[/PAGINA 1103]
+
+[PAGINA 1104]
+substituição  processual. Informativo
+Incijur, nº 64, nov. 2004.
+______. Notas sobre a coisa julgada. Revista de Processo, vol. 88, 1998.
+______. Processo e Constituição. Revista Forense, Rio de Janeiro, v. 408, mar./abr.
+2010.
+______. Prova emprestada. Revista de Processo, São Paulo, n. 202, dez/2011.
+______. Tratado de direito processual civil. 2. ed. São Paulo: RT, 1990, v. I.
+______. Substituição Processual. Revista dos Tribunais,  São  Paulo,  v.  426,  abr.
+1971.
+______. “Tutela Antecipatória”. Direito do Consumidor, v. 21.
+ARRUDA  ALVIM  NETTO;  ASSIS,  Araken  de.;  ARRUDA  ALVIM,  Eduardo.
+Comentários ao Código de Processo Civil. 3 ed. São Paulo: RT, 2014.
+ASSIS, Araken de. Fungibilidade das medidas cautelares e satisfativas. Revista de
+Processo, 100/41; TESHEINER, José Maria Rosa. Medidas Cautelares. São
+Paulo: Saraiva, 1974.
+______.  Substituição  processual, Revista Dialética de Direito Processual,  n.  9,
+2003.
+______. O contempt of court no direito brasileiro. Revista Jurídica, v. 318, p. 17,
+abril/2004.
+ASSIS, Jacy de. “O Ministério Público no Processo Civil”, Revista Brasileira de
+Direito Processual, v. 3, 3º trim. 1975.
+______. Procedimento Ordinário. São Paulo: LAEL, 1975.
+
+ÁVILA, Humberto. O que é “devido processo legal?”, Revista de processo, São
+Paulo, v. 163, set. 2008.
+______. Teoria dos princípios. 8. ed. São Paulo: Malheiros, 2008.
+ÁVILA, Leonardo; POPP, Carlyle. Alienação do estabelecimento empresarial e
+a  assimetria  informacional:  A  tutela  da  boa-fé  objetiva  e  seus  deveres
+colaterais à luz da experiência consumerista. Revista dos Tribunais, v. 926,
+dez/2012.
+AZÁRIO,  Márcia  Pereira. Dinamização  da  distribuição  do  ônus  da  prova  no
+processo civil brasileiro (Dissertação de mestrado). Porto Alegre: Faculdade
+de Direito da Universidade Federal do Rio Grande do Sul, 2006.
+AZEVEDO,  Antônio  Junqueira  de. Negócio  Jurídico:  existência,  validade  e
+eficácia. 3 ed. São Paulo: Saraiva, 2000.
+BANDEIRA DE MELO, Celso Antônio. Curso de Direito Administrativo. 10. ed.
+São Paulo: Malheiros, 1998.
+BARACHO. José Alfredo de Oliveira. Lei, jurisprudência, filosofia e moral em
+HART. In:  O  Sino  do  Samuel,  Belo  Horizonte:  Faculdade  de  Direito  da
+UFMG, jan./mar. 2007.
+BARBERO, Domenico. Derecho Privado. Buenos Aires, 1962, v. I.
+BARBI, Celso Agrícola. Ação Declaratória Principal e Incidente. 6. ed. Rio de
+Janeiro: Forense, 1987.
+______. Comentários ao Código de Processo Civil. Rio de Janeiro: Forense, 1975,
+v. I, t. II.
+______.______. 2. ed. Rio de Janeiro: Forense, 1981, vol. I.
+______.______. 11. ed. Rio de Janeiro: Forense, 2002, v. I.
+______. O papel da conciliação como meio de evitar o processo e de resolver
+conflitos. Revista de Processo, São Paulo, n.º 39, jul./set. 1985.
+BARBOSA MOREIRA, José Carlos. “A expressão ‘competência funcional’ no art.
+2º da Lei da Ação Civil Pública”, in Revista Forense, v. 380, jul/2005.
+______. A motivação das decisões judiciais como garantia inerente ao estado de
+direito.
+[/PAGINA 1104]
+
+[PAGINA 1105]
+Temas de direito processual, 2ª série, São Paulo: Saraiva, 1988.
+______.  “Anotações  sobre  o  título  ‘Da  prova’  do  Novo  Código  Civil”. Revista
+jurídica, v. 370, ago./2008.
+______. Comentários ao Cód. Proc. Civil. 4. ed. Rio de Janeiro: Forense, vol. V
+______.______. 5. ed. Rio de Janeiro: Forense, 1985, v. V.
+
+______. Condenação a fazer. Limites da coisa julgada e da execução. RT, v. 711,
+1995.
+______. Direito Processual Civil. Rio de Janeiro: Borsoi, 1971.
+______. Estudos Sobre o Novo Código de Processo Civil. Rio de Janeiro: Liber
+Juris, 1974.
+______. Litisconsórcio unitário, Rio de Janeiro: Forense, 1987.
+______. O juiz e a prova, Revista de Processo, São Paulo, v. 35, jul./ set. 1984.
+______. O Novo Processo Civil Brasileiro. Rio de Janeiro: Forense, 1975, v. I.
+______.______. 21. ed. Rio de Janeiro: Forense, 2000.
+______.______. 22. ed. Rio de Janeiro: Forense, 2002.
+______.  O  que  deve  e  o  que  não  deve  figurar  na  sentença, Temas de Direito
+Processual, 8ª Série. São Paulo: Saraiva, 2004.
+______. Por um processo socialmente efetivo. Revista de Processo, São Paulo, v.
+27, nº 105, jan./mar. 2002.
+______.  Solidariedade  ativa:  efeitos  da  sentença  e  coisa  julgada  na  ação  de
+cobrança proposta por um único credor. In: Temas de direito processual  –
+nona série. São Paulo: Saraiva, 2007.
+______. Temas de direito processual- Terceira série. São Paulo: Saraiva, 1984.
+______.______. sexta série. São Paulo: Saraiva, 1997.
+______.______. oitava série. São Paulo: Saraiva, 2004.
+BARIONI,  Rodrigo.  Eficácia  da  sentença  na  denunciação  da  lide:  execução
+direta do denunciado. Revista Jurídica, v. 325
+______. Os limites da ata notarial como meio de prova em juízo. In:  NETO,
+Olavo  de  Oliveria;  NETO,  Elias  Marques  de  Medeiros;  LOPES,  Ricardo
+Augusto de Castro (coords). A prova no direito processual civil: estudos em
+homenagem ao professor João Batista Lopes. São Paulo: Editora Verbatim,
+2013.
+BARROSO,  Luís  Roberto. Curso  de  direito  constitucional  contemporâneo:  os
+conceitos fundamentais e a construção do novo modelo.  2  ed.  São  Paulo:
+Saraiva, 2010.
+BATALHA, Wilson Campos. Cautelares e Liminares. 3. ed. São Paulo: Ltr, 1996.
+BATISTA, Lia Carolina. Pressupostos Processuais e efetividade do processo civil.
+Uma  tentativa  de  sistematização. Revista  de  Processo ̧  v,  214,  115-116,
+
+dez./2012.
+BATISTA MARTINS, Pedro. Comentários ao Código de Processo Civil. 2. ed. Rio
+de Janeiro: Forense, 1961, v. III, t. 2.
+BAUR,  Fritz.  Transformações  do  Processo  Civil  em  nosso  Tempo, Revista
+Brasileira de Direito Processual. v. 7, 3º trim. 1976.
+BEDAQUE,  José  Roberto  dos  Santos. In  MARCATO,  Antônio  Carlos  (coord.),
+Código de processo civil interpretado, São Paulo: Atlas, 2004.
+______. Efetividade  do  processo  e  técnica  processual:   tentativa   de
+compatibilização. Tese para concurso de Professor Titular, USP, São Paulo,
+2005.
+______. Efetividade  do  processo  e  técnica  processual.  São  Paulo:  Mal
+[/PAGINA 1105]
+
+[PAGINA 1106]
+heiros,
+2006.
+______.______. 2. ed. São Paulo: Malheiros, 2007.
+______. Poderes instrutórios do juiz, 4 ed. São Paulo: Ed. RT, 2009.
+______. Tutela cautelar e Tutela antecipada: Tutela sumária e de urgência. São
+Paulo: Malheiros, 1998.
+______.______. 3 ed. São Paulo: Malheiros, 2003.
+______.______. 5 ed. São Paulo: Malheiros, 2009.
+BELTRAME,  Adriana. Reconhecimento  de  sentenças  estrangeiras,  Rio  de
+Janeiro: GZ Ed., 2009.
+BENTHAM,  Jeremy. Tratado de las pruebas judiciales.  Trad.  Manuel  Ossorio
+Florit. Buenos Aires: EJEA, 1971.
+BERMUDES, Sérgio. Comentários ao Cód. Proc. Civ. São Paulo: RT, 1975, vol.
+VII.
+BETTI, Emilio. Diritto Processuale Civile. 2. ed. Roma: Società editrice del “Foro
+Romano”, 1936.
+BEVILÁQUA, Clóvis. Código Civil dos Estados Unidos do Brasil Comentado, Rio
+de Janeiro: Francisco Alves, 1959, v. I.
+______. Teoria Geral do Direito Civil. Rio de Janeiro: Francisco Alves, 1975.
+BEZNOS, Clóvis. Curso de mandado de segurança. São Paulo: Ed. RT, 1986.
+BLOCH, Francisco dos Santos Dias. Coisa julgada e questão prejudicial no novo
+CPC. In: AURELLI, Arlete Inês; et all (coords.). O direito de estar em juízo
+e a coisa julgada: estudos em homenagem à Thereza Alvim, São Paulo: Ed.
+
+RT, 2014.
+BOBBIO,  Norberto. Igualdad y dignidad  de lós hombres.  In: El  tiempo  de  los
+derechos. Madrid: Sistema, 1991.
+BODART, Bruno Vinícius da Rós. Simplificação e adaptabilidade no anteprojeto
+do novo CPC. In LUIZ FUX (coordenador), O novo processo civil brasileiro.
+Direito em expectativa. Rio de Janeiro: Forense, 2011.
+BONNA, Alexandre Pereira. Cooperação no processo civil – A paridade do juiz e
+o reforço das posições jurídicas das partes a partir de uma nova concepção
+de democracia e contraditório. Revista Brasileira de Direito Processual, n.º
+85, Belo Horizonte, jan./mar. 2014.
+BORGES, Marcos Afonso. Comentários ao Código de Processo Civil. São Paulo:
+Leud, 1975, v. II.
+BOUVERESSE, Jacques. Prodígios e vertigens da analogia – o abuso das belas-
+letras no pensamento. Trad. de Cláudia Berliner. São Paulo: Martins Fontes,
+2005, apud DIDIER JR., Fredie. Sobre a teoria geral do processo (tese de
+livre-docência). São Paulo: Fac. de Dir. da USP, 2011.
+BUENO,  Cassio  Scarpinella.  Amicus  curiae no  processo  civil  brasileiro:  um
+terceiro enignático. São Paulo: Saraiva, 2006.
+______.______. 2. ed. São Paulo: Saraiva, 2008.
+______. Curso sistematizado de direito processual civil. São Paulo: Saraiva, 2007,
+v. 2, t. I.
+______.______. 2. ed. São Paulo: Saraiva, 2009, vol. 3.
+______.______. São Paulo: Saraiva, 2009, vol. 4.
+______.______. 4. ed. São Paulo: Saraiva, 2011, v. 2, t. 1.
+______.______. 6. ed. São Paulo: Saraiva, 2013, v. 2, t. I.
+______. Direito processual civil. São Paulo: Saraiva, 2007, v. 2, t. 1.
+______. Intervenção  de  terceiros:  questões  polêmicas.  2  ed.  São  Paulo:  CPC,
+2002.
+______. Partes e terceiros no processo civil brasileiro. 2 ed. São Paulo: Saraiva,
+2006.
+______. Visão geral do(s) projeto(s) de novo Código de Processo Ci
+[/PAGINA 1106]
+
+[PAGINA 1107]
+vil. Revista de
+Processo, São Paulo, v. 235, set/2014.
+BUENO FILHO, Edgard Silveira. Amicus curiae – A democratização do debate
+nos  processos  de  controle  da  constitucionalidade. Revista  de  Direito
+
+Constitucional Internacional, São Paulo, n.º 47, abr-jun/2004.
+BUIKA,  Heloisa  Leonor.  Prova  emprestada. Revista  Dialética  de  Direito
+Processual, São Paulo, n. 127, 2013.
+BULOS,  Uadi  Lammêgo. Constituição  Federal  Anotada.  3.  ed.  São  Paulo:
+Saraiva, 2001.
+BUZAID, Alfredo. Considerações sobre o mandado de segurança coletivo. São
+Paulo: Saraiva, 1992.
+______. Do ônus da prova. Revista Forense. v. 204, out.-nov.-dez./1963.
+______. Exposição de Motivos, 1972.
+______. Exposição de Motivos do CPC de 1973, nº 5.
+CABRAL, Antônio do Passo. Despolarização do processo e “zonas de interesse”:
+sobre a migração entre polos da demanda. In FUX, Luiz (coord.). O Novo
+Processo Civil brasileiro: Direito em expectativa. Rio de Janeiro: Forense,
+2011.
+______. Nulidades no processo moderno. Rio de Janeiro: Forense, 2009.
+______.  Pelas  asas  de  Hermes:  a  intervenção  do amicus  curiae,  um  terceiro
+especial. Revista de Processo, v. 117. São Paulo: RT, 2004.
+CAHALI, Cláudia Elisabete Schwerz. O gerenciamento de processos judiciais em
+busca  da  efetividade  da  prestação  jurisdicional.  Coleção  Andrea  Proto
+Pisani, vol. 10, Brasília: Gazeta Jurídica, 2013.
+CALAMANDREI, Piero. Estudios sobre el Proceso Civil. Buenos Aires: Editorial
+Bibliografia Argentina, 1945.
+______. Introducción al Estudio Sistemático de las Providencias Cautelares, p. 64.
+Apud MOURA ROCHA, José de. Exegese do Código de Processo Civil. Rio
+de Janeiro: Aide, 1981.
+______. Processo e democrazia. In: Opere Giuridiche. Napoli: Morano, 1965, v.
+I.
+______. Proceso  y  democracia.  Trad.  de  Hector  Fix-  Zamudio.  Lima:  Ara
+Editores, 2006.
+CALMON DE PASSOS, José Joaquim. Comentários ao Código de Processo Civil.
+Rio de Janeiro: Forense, 1974, v. III.
+______.______. 8. ed. Rio de Janeiro: Forense, 1998.
+______. Esboço de uma Teoria das Nulidades Aplicada às Nulidades Processuais.
+Rio de Janeiro: Forense, 2002.
+
+______. Inovações no Código de Processo Civil. Rio de Janeiro: Forense, 1995.
+CALMON FILHO, Petrônio. Fundamentos da mediação e da conciliação. Rio de
+Janeiro: Forense, 2007.
+CALVOSA, Carlo. Il processo cautelare: i sequestri e i provvedimenti d’urgenza.
+Torino: Torinese, 1970.
+______. “Sequestro Giudiziario”. Novissimo Digesto Italiano. Torino: UTET, 1960,
+v. XVII,
+CÂMARA, Alexandre Freitas. Lições de Direito Processual Civil. 13. ed. Rio de
+Janeiro: Lumen Juris, 2005, v. I.
+______.______. 15. ed. Rio de Janeiro: Lumen Juris, 2006, v. I.
+______. Mediação e conciliação na Res. 125 do CNJ e no projeto de Código de
+Processo  Civil. In  MENDES,  Aluísio  Gonçalves  de  Castro;  WAMBIER,
+Teresa Arruda Alvim (org.). O processo em perspectiva: jornadas brasileiras
+de direito processual, São Paulo: RT, 2013.
+______. Poderes instrutórios do juiz e processo civil democrático. In: WAMBI
+[/PAGINA 1107]
+
+[PAGINA 1108]
+ER,
+Luiz  Rodrigues;  WAMBIER,  Teresa  Arruda  Alvim  (orgs.). Doutrinas
+essenciais. Processo civil. São Paulo: RT, 2014, v. IV.
+______. Será o fim da categoria “condições da ação”? Uma resposta a Fredie
+Didier Jr. Revista de Processo 197, jul/2011.
+CAMBI,  Eduardo;  HOFFMANN,  Eduardo.  Caráter  probatório  da  conduta
+[processual] das partes. Revista de processo, São Paulo, n. 201, nov/2011.
+CAMBI,  Eduardo. A prova civil.  Admissibilidade e  relevância.  São  Paulo:  RT,
+2006.
+______. Direito Constitucional à prova no processo civil. São Paulo: RT, 2001.
+______. Julgamento prima facie [imediato] pela técnica do art. 285-A do CPC.
+Revista dos Tribunais, São Paulo, v. 854, dez./2006.
+CAMPOS,  Gledson  Marques  de.  A  sentença  liminar  de  improcedência,  os
+requisitos para que seja proferida e os limites da apelação interposta contra
+ela. Revista Dialética de Direito Processual. São Paulo, v. 46, jan. 2007.
+CAMPOS, Ronaldo Cunha. Estudos de Direito Processual Civil. Uberaba: Jornal
+da Manhã, 1974.
+CANOTILHO,  José  Joaquim  Gomes. Direito  Constitucional.  4.  ed.  Coimbra:
+Almedina, 1989.
+CAPPELLETTI, Mauro; GARTH, Bryant. Acesso à justiça.  Tradução  de  Ellen
+
+Gracie Northfleet. Porto Alegre: Fabris, 1988.
+CAPPELLETTI, Mauro. La oralidade y las pruebas en el processo civil. Trad. de
+Santiago Sentis Mellendo, Buenos Aires: EJEA, 1971.
+CAPONI,  Remo;  PROTO  PISANI,  Andrea. Linementi  di  diritto  processuale
+civile. Napoli: Jovene Editore, 2001.
+CARDOSO,  Oscar  Valente.  A  motivação per  relationem  inversa  nos  Juizados
+Especiais Cíveis. Revista Dialética de Direito Processual, n. 144, mar/2015.
+______.  O  aspecto  quádruplo  da  motivação  das  decisões  judiciais:  princípio,
+dever, direito e garantia. Revista Dialética de Direito Processual, n. 111, São
+Paulo, jun/2012.
+CARNEIRO,  Athos  Gusmão. Intervenção  de  terceiros.  14.  ed.  São  Paulo:
+Saraiva, 2003.
+______.______. 15. ed. São Paulo: Saraiva, 2003.
+______.______. 18. ed. São Paulo: Saraiva, 2009.
+______. Mandado de segurança: assistência e amicus curiae. Revista de processo,
+v. 112. São Paulo: RT, 2003.
+______. O Novo Código de Processo Civil nos Tribunais do Rio Grande do Sul e
+Santa Catarina. Porto Alegre: Ajuris, 1976, v. I.
+CARNELUTTI.  Apud  MARQUES,  José  Frederico. Instituições  de  Direito
+Processual Civil. Rio de Janeiro: Forense, 1958, v. I.
+CARNELUTTI, Francesco. Istituzioni del Processo Civile Italiano. 5. ed. Roma:
+Società Editrici del Foro Italiano, 1956, v. I.
+______. Instituciones del Proceso Civil. Buenos Aires: EJEA, 1973, v. I.
+______. La Prueba Civil. Buenos Aires: Ed. Arayú, 1955, apud  PESTANA  DE
+AGUIAR, João Carlos. Comentários ao Código de Processo Civil. São Paulo:
+RT, 1974, v. IV.
+______. Sistema di Diritto Processuale Civile. Padova: Cedam, 1936, v. I
+______.______. Padova: Cedam, 1938, v. I.
+______. Sistema de derecho procesal civil, v. II, trad. de Niceto Alcalá-Zamora Y
+Castillo e Santiago Sentís Melendo. Buenos Aires: Uteha, 1944.
+CARPES,
+[/PAGINA 1108]
+
+[PAGINA 1109]
+Artur. Ônus dinâmico das provas. Porto Alegre: Livraria do Advogado,
+2010.
+CARREIRA ALVIM, Jose Eduardo. Elementos de Teoria Geral do Processo. 4. ed.
+
+Rio de Janeiro: Forense, 1995.
+______. O direito na doutrina. Curitiba: Juruá, 1998.
+______. Teoria Geral do Processo. 8. ed. Rio de Janeiro: Forense, 2002.
+CARVALHO, Fabiano; BARIONI, Rodrigo. Eficácia da sentença na denunciação
+da lide: execução direta do denunciado. Revista Jurídica, v. 325, ago/2010.
+CARVALHO, Paulo de Barros. Direito Tributário, linguagem e método. 2. ed. São
+Paulo: Noeses, 2008.
+CARVALHO SANTOS, J. M. Código Civil Brasileiro Interpretado. 7. ed. Rio de
+Janeiro: Freitas Bastos, 1958, v. III.
+CASTRO, Aldemario Araujo. O documento eletrônico e a assinatura digital (uma
+visão geral). Apud MARIANI, Rômulo Greff. O documento eletrônico como
+meio de prova no processo civil. Revista Síntese de Direito Civil e Processo
+Civil, set.out/2012.
+CASTRO, Amílcar de. Comentários ao Código de Processo Civil. 2. ed. Rio de
+Janeiro: Forense, 1963, v. X, t. I.
+______.______. São Paulo: RT, 1974, v. VIII.
+______. Direito Internacional Privado. Rio de Janeiro: Forense, 1956, v. II.
+CASTRO MENDES, Aluisio Gonçalves de. Competência cível da Justiça Federal.
+2. ed. São Paulo: Ed. RT, 2006.
+CAVANI, Renzo. “Decisão justa”: mero slogan? Por uma teorização da decisão
+judicial para o processo civil contemporâneo. Revista de Processo, n.º 236,
+out. 2014.
+CHAVES,  Carlos  Fernando  Brasil;  REZENDE,  Afonso  Celso  F. Tabelionato  de
+notas e o notário perfeito. 5. ed. Campinas: Millennium, 2010.
+CHICUTA,  Kioitsi. In:  BRANDELLI,  Leonardo  (coord.). Ata  notarial.  Porto
+Alegre: SAFE, 2004.
+CHIOVENDA. Giuseppe. Instituições de Direito Processual Civil trad. brasileira,
+3. ed. São Paulo: Saraiva, 1969, v. I.
+______.______. trad. de J. Guimarães Menegale. 3. ed. São Paulo: Saraiva, 1969,
+v. II.
+______.______. 3. ed. São Paulo: Saraiva, 1969, v. III.
+______. Principii di diritto processuale civile. 4. ed. Napoli: Jovene, 1928.
+CIANCI, Mirna. A razoável duração do processo – Alcance e significado. Uma
+
+leitura  constitucional  da  efetividade  no  direito  processual  civil. Revista  de
+Processo, nº 225, nov/2013.
+CINTRA, Antonio Carlos de Araujo. Comentários ao Código de Processo Civil,
+Rio de Janeiro: Forense, 2000, v. IV.
+CINTRA,   Antônio   Carlos   de   Araújo;   GRINOVER,   Ada   Pellegrini;
+DINAMARCO,  Cândido  Rangel. Teoria  Geral  do  Processo.  São  Paulo:
+Malheiros, 1974.
+______.______. 22. ed. São Paulo: Malheiros, 2006.
+______.______. 25. ed. São Paulo: Malheiros Editores, 2009.
+______.______. 26. ed. São Paulo: Malheiros, 2010.
+CIPRIANI, Franco. La prueba en el proceso civil. 3. ed. Madrid: Civitas, 2002.
+COMOGLIO, Luigi Paolo. Il “giusto processo” civile in Italia e in Europa, Revista
+de Processo. São Paulo: RT, v. 116, jul./ago. 2004.
+COMOGLIO,  Luigi  Paolo;  FERRI,  Corrado;  TARUFFO,  Michele. Lezioni  sul
+processo civile. 4. ed. Bologna: Il Mulino, 2006, v. I.
+______.______. 4. ed. Bologna
+[/PAGINA 1109]
+
+[PAGINA 1110]
+: Il Mulino, 2006, v. II.
+COMOGLIO,  Luigi  Paolo.  Note  riepilogative  su  azione  e  forme  di  tutela
+nell’ottica della domanda giudiziale. Rivista di Diritto Processuale. Padova:
+CEDAM, 1993, p. 471 e 489; apud GRECO, Leonardo. A teoria da ação no
+processo civil. São Paulo: Dialética, 2003.
+COMPARATO, Fábio Konder. Para viver a democracia. São Paulo: Brasiliense,
+1989.
+CONIGLIO, Antonino. Il sequestro Giudiziario e Conservativo. 3. ed. Milano: A.
+Giuffrè, 1949.
+CORREIA, Rafael Motta e. Poderes instrutórios do juiz e as novas diretrizes da
+norma processual, Revista de Processo, São Paulo, n. 194, abr/2011.
+COSTA,  Ana  Surany  Martins;  CARVALHO,  Newton  Teixeira.  A  magistratura
+diante  da  iniciativa  probatória  no  moderno  contexto  processual  civil:  um
+confronto entre o juiz Pilatos versus o juiz contemporâneo. Revista Brasileira
+de Direito Processual, Belo Horizonte, n. 74.
+COSTA, Eduardo José da Fonseca. Tutela de evidência no Projeto do Novo CPC
+– uma análise dos seus pressupostos. In ROSSI, Fernando; et al (coords.). O
+futuro  do  processo  civil  no  Brasil.  Obra  em  homenagem  ao  advogado
+Claudiovir Delfino. Belo Horizonte: Ed. Fórum, 2011.
+
+COSTA E SILVA, Paula; REIS, Nuno Trigo dos. A prova difícil: da probatio levior
+à  inversão  do  ônus  da  prova. Revista  de  Processo,  São  Paulo,  n.  222,
+ago/2013.
+COSTA, Gabriel Ahid; NINA, Leandro Costa. O princípio constitucional da boa-
+fé:  garantia  de  lealdade  e  confiança  nas  relações  jurídicas  privadas. In:
+CRUZ, André Gonzalez; et al. Estudos atuais de direito constitucional. Rio de
+Janeiro: Barra Livros, 2014.
+COSTA, Lopes da. Manual Elementar de Direito Processual Civil. Rio de Janeiro:
+Forense, 1956.
+COSTA, Moacyr Lobo da. Assistência. São Paulo: Saraiva, 1968.
+COSTA, Sergio. Manuale di Diritto Processuale Civile. 4. ed. Torino: UTET, 1973.
+______. “Sequestro Conservativo”. Novissimo Digesto Italiano, v. XVII.
+COUTO, Mônica Bonetti. “A nova regra do parágrafo único do art. 112”, Tribuna
+do Direito. São Paulo, jul./2006.
+COUTURE, Eduardo J. Fundamentos del Derecho Procesal Civil. Buenos Aires:
+Depalma, 1974.
+CRUZ,  André  Gonzalez;  DUARTE  JR.,  Hildelis  Silva;  JESUS,  Thiago  Alisson
+Cardoso de. (Orgs.). Estudos atuais de Direito Constitucional. Rio de Janeiro:
+Barra Livros, 2014
+CUNHA, Leonardo Carneiro da. A assistência no projeto do novo CPC brasileiro,
+In AURELLI, Arlete Inês, et all (coords.) O direito de estar em juízo e a
+coisa julgada:  Estudos  em  homenagem  a  Thereza  Alvim,  São  Paulo:  RT,
+2014.
+______. Anotações sobre a garantia constitucional do juiz natural. In: FUX, Luiz.
+et al; Processo e constituição.  Estudos  em  homenagem  ao  Professor  José
+Carlos Barbosa Moreira, São Paulo: RT, 2006.
+______.  A  previsão  do  princípio  da  eficiência  no  Projeto  do  novo  Código  de
+Processo Civil brasileiro. Revista de Processo, n.º 233, jul. 2014.
+______. Intervenção anômala: a intervenção de terceiro pelas pessoas jurídicas
+de direito pública
+[/PAGINA 1110]
+
+[PAGINA 1111]
+prevista no parágrafo único do art. 5º da Lei 9.469/1997. In
+DIDIER JR., Fredie; e WAMBIER, Teresa Arruda Alvim (coords.). Aspectos
+polêmicos e atuais sobre os terceiros no processo civil e assuntos afins. São
+Paulo: RT, 2004.
+______.  O  princípio  do  contraditório  e  a  cooperação  no  processo. Revista
+
+Brasileira de Direito Processual. Belo Horizonte, nº 79, jul-set/2012.
+______. Será o fim da categoria condições da ação? Revista de Processo, 198,
+ago/2011.
+CUNHA  PEIXOTO,  Carlos  Fulgêncio  da.  Chamamento  ao  Processo  de
+Devedores Solidários. Rev. Julgs. do TAMG, v. I, 1975.
+DALLARI, Dalmo de Abreu. Elementos de teoria geral do Estado.  São  Paulo:
+Saraiva, 1995.
+DELFINO, Lúcio; ROSSI, Fernando. Interpretação jurídica e ideologias: o escopo
+da jurisdição no Estado Democrático de Direito. Revista Jurídica UNIJUS,
+Uberaba, v. 11, n. 15, p. 85, nov./2008.
+DEMARCHI, Paolo Giovanni. Il nuovo rito civile. II. Il giudizio di cassazione e i
+provvedimenti speciali, Milano: Giuffrè, 2006.
+DENTI, Vittorio. La giustizia civile, Bologna: Il Mulino. 2004.
+______. Intervento. La tutela d’urgenza – Atti del XV Convegno Nazionali. Rimini:
+Maggiole,  1985, apud  MARINONI, op.  cit.,  Luiz  Guilherme. Técnica
+processual e tutela dos direitos. 2 ed. São Paulo: RT, 2008.
+DERRIDA,  Jaques. Força  de  lei.  2.  ed.  trad.  de  Leyla  Perrone-Moisés,  São
+Paulo: Martins Fontes, 2010.
+DIDIER  JR.,  Fredie.  Cláusulas  gerais  processuais, Revista  Magister  de  Direito
+Civil e Processual Civil, n.º44, set. out. 2011.
+______. Curso de direito processual civil. 11. ed. Salvador: JusPodivm, 2009, v. I.
+______.______. 14 ed. Salvador: Editora JusPodivm, 2012, v. 1.
+DIDIER JR, Fredie; BRAGA, Paula Sarno; OLIVEIRA, Rafael. Curso de direito
+processual civil. 5.ed. Salvador: JusPODIVM, 2010, v. II.
+______.______. 7.ed. Slavador: JusPODIVM, 2012, v. 2.
+DIDIER JR, Fredie; CUNHA, Leonardo Carneiro da. Curso de direito processual
+civil. 9. ed. Salvador: JusPODIVM, 2011, v. 3.
+DIDIER JR., Fredie. Curso de direito processual civil cit., v.1, p. 156; YARSHELL,
+Flávio  Luiz. Competência  no  Estatuto  do  Idoso  (Lei  n.  10.741/2003).
+Disponível na Internet:Acesso em 08.10.2014.
+______. Litisconsórcio unitário e litisconsórcio necessário. Revista de Processo, n.
+208, jun/2012.
+______.  Multa  coercitiva,  boa-fé  processual  e supressio:  aplicação  do duty  to
+mitigate the loss no processo civil. Revista de Processo, v. 171, maio 2009.
+
+______. Novas regras sobre incompetência territorial: arts. 112, 114 e 305 do CPC
+[NCPC,  arts.  64,  65  e  sem  correspondente]. In:  JORGE,  Flávio  Cheim;
+DIDIER JÚNIOR, Fredie; RODRIGUES, Marcelo Abelha. A terceira etapa
+da Reforma Processual Civil. São Paulo: Saraiva, 2006.
+______.  Os  três  modelos  de  direito  processual:  inquisitivo,  dispositivo  e
+cooperativo. In:  Processo  Civil  Homenagem  a  José  Ignacio  Botelho  de
+Mesquita.  Coordenação  de  José  Rogério  Cruz  e  Tucci  et  all.  São  Paulo:
+Quartier Latin, 2013.
+____
+[/PAGINA 1111]
+
+[PAGINA 1112]
+__. Possibilidade de sustentação oral do amicus curiae. Revista Dialética de
+Direito Processual, n.º 8. 2003.
+______. Será o fim da categoria “condições da ação”? Um elogio ao projeto do
+novo Código de Processo Civil. Revista de Processo, 197, jul/2011.
+DÍEZ PICAZO, Luis. La prescripción en el Código Civil. Barcelona: Bosch, 1964.
+DINAMARCO,  Cândido  Rangel. A  instrumentalidade  do  processo.  4  ed.  São
+Paulo: Ed. RT, 1994.
+______.______. 5. ed. São Paulo: Malheiros, 1996.
+______.______. 12. ed. São Paulo: Malheiros, 2005.
+______. A Reforma do Código de Processo Civil.  3.  ed.  São  Paulo:  Malheiros,
+1996.
+______. A reforma da reforma. São Paulo: Malheiros, 2002.
+______.  “As  três  figuras  da  liquidação  de  sentença”. Estudos  de  Direito
+Processual  em  Memória  de  Luiz  Machado  Guimarães.  Rio  de  Janeiro:
+Forense, 1997.
+______. Capítulos da sentença. São Paulo: Malheiros, 2004.
+______. Direito Processual Civil. São Paulo: J. BUSHATSKY, 1975.
+______. Fundamentos do processo civil moderno.  2.  ed.  São  Paulo:  Malheiros,
+1987.
+______. Intervenção de terceiros. São Paulo: Malheiros, 1997.
+______. Instituições de direito processual civil. São Paulo: Malheiros, 2001, v. II.
+______.______. São Paulo: Malheiros, 2001, v. III.
+______.______. 2. ed. São Paulo: Malheiros, 2002, v. II.
+______.______. 2. ed. São Paulo: Malheiros, 2003.
+______.______. São Paulo: Malheiros, 2005, v. III.
+
+______.______. 6. ed. São Paulo: Malheiros, 2009, v. II
+______.______. 7. ed. São Paulo: Malheiros, 2013, v. I.
+______. Instituições  de  direito  processual  civil.  16.  ed.  São  Paulo:  Malheiros,
+2009, apud  Exposição  de  Motivos  do  Anteprojeto  do  novo  Código  de
+Processo Civil. Brasília, Senado Federal, 2010.
+______. Litisconsórcio. 5. ed. São Paulo: Malheiros, 1997.
+______.______. 7. ed. São Paulo: Malheiros, 2002.
+______.  Tutela  jurisdicional. In:  Doutrinas  essenciais  do  processo  civil.  São
+Paulo: RT, 2011, v. I.
+DINIZ, Maria Helena. Lei de Introdução ao Código Civil brasileiro interpretada.
+4. ed. São Paulo: Saraiva, 1998.
+DIP, Ricardo. Prudência judicial e consciência, Revista Forense, Rio de Janeiro,
+v. 408, p. 315, mar./ abr. 2010.
+DWORKIN, Ronald. Justice for Hedgehogs. Cambridge: ed. Harvard University
+Press, 2011; cf. GRAJALES, Amós Arturo, NEGRI, Nicolás Jorge. Ronald
+Myles  Dworkin  e  as  teorias  da  argumentação  jurídica  (in  memoriam),
+Revista de Processo, n. 232, jun. 2014.
+ECHANDIA, Hernando Devis. Compendio de Derecho Procesal. Bogotá: ABC,
+1974, v. I.
+______. Teoria general de la prueba judicial. 5. ed. Bogotá: Temis, 2002, t. I.
+EGGLESTON,  Richard. Prova,  conclusione  probattoria  e  probabilità.  Milano:
+Giuffrè,  2004,  p.  2; apud  PEREIRA,  Guilherme  Setoguti  J.  Verdade  e
+finalidade da prova. Revista de processo, n. 213, nov/2012.
+Enunciado  nº  37-  art.  334,  I-  Carta  do  Rio-  III  Fórum  Permanente  de
+Processualistas Civis. Texto disponível em:
+<https://www.academia.edu/7103232/Carta_do_Rio_III_Fóru
+[/PAGINA 1112]
+
+[PAGINA 1113]
+m_Permanente_de_Processualistas_Civi
+Acesso em 03/09/2014. (Revista de Processo, n. 233, p. 300).
+Enunciado  nº  38-  art.  334,  II-  Carta  do  Rio-  III  Fórum  Permanente  de
+Processualistas Civis. Texto disponível em:
+<https://www.academia.edu/7103232/Carta_do_Rio_III_Fórum_Permanente_de_Processualistas_Civis
+Acesso em 03/09/2014. (Revista de Processo, n. 233, p. 300).
+Enunciado  nº  39-  art.  334-  Carta  do  Rio-  III  Fórum  Permanente  de
+Processualistas Civis. Texto disponível em:
+<https://www.academia.edu/7103232/Carta_do_Rio_III_Fórum_Permanente_de_Processualistas_Civi
+
+Acesso em 03/09/2014 (Revista de Processo, n. 233, p. 300).
+Enunciado  nº  40-  art.  334-  Carta  do  Rio-  III  Fórum  Permanente  de
+Processualistas Civis. Texto disponível em:
+<https://www.academia.edu/7103232/Carta_do_Rio_III_Fórum_Permanente_de_Processualistas_Civi
+Acesso em 03/09/2014. (Revista de Processo, n. 233, p. 300).
+Enunciado  nº  41-  art.  334-  Carta  do  Rio-  III  Fórum  Permanente  de
+Processualistas Civis. Texto disponível em:
+<https://www.academia.edu/7103232/Carta_do_Rio_III_Fórum_Permanente_de_Processualistas_Civis
+Acesso em 03/09/2014. (Revista de Processo, n. 233, p. 300).
+FABRÍCIO, Adroaldo Furtado. “Breves Notas sobre Provimentos Antecipatórios,
+Cautelares e Liminares”. Revista Ajuris, n. 66, mar/1966.
+FADEL, Sérgio Sahione. Antecipação da Tutela no Processo Civil. Rio de Janeiro:
+Dialética, 1998.
+______. Código de Processo Civil Comentado. Rio de Janeiro: J. Konfino, 1974, v.
+IV.
+______.______. 7 ed. Rio de Janeiro: Forense, 2003.
+FAZZALARI,  Elio. Istituzioni  di  Diritto  Processuale.  8.  ed.  Padova:  CEDAM,
+1996.
+FERRAJOLI, Luigi. Derechos y garantias: La ley del más débil. Madrid: Editorial
+Trotta, 2004.
+FERREIRA,  Pinto. Comentários  à  Constituição  Brasileira.  São  Paulo:  Saraiva,
+1992, vol. V.
+FLAKS, Milton. Denunciação da lide. Rio de Janeiro: Forense, 1984.
+FRAGA,  Afonso. Instituições do Processo  Civil do Brasil,  São  Paulo:  Saraiva,
+1940, t. II.
+______.______. São Paulo: Saraiva, 1941, v. II.
+FREITAS,  José  Lebre  de. Introdução  ao  processo  civil.  Conceito  e  princípios
+gerais. 2. ed. Coimbra: Coimbra Editora, 2006.
+FREITAS, Elmano Cavalcanti. Da Preclusão, Revista Forense, n. 240, 1972.
+FRIAS, J. E. S. Tutela Antecipada em face da Fazenda Pública. São Paulo: RT, v.
+728, jun./1996.
+FRIEDE, Reis. Medidas Liminares. Rio de Janeiro: Forense Universitária, 1997.
+FORNACIARI  JÚNIOR,  Clito.  “Citação  pelo  Correio”, in  Revista  Forense,
+252/82, out.-nov.-dez./1975.
+
+______. Da reconvenção no direito processual civil brasileiro. São Paulo: Saraiva,
+1979.
+FULGÊNCIO, Tito. Programa, apud NONATO, Orosimbo. Curso de obrigações,
+segunda parte. Rio de Janeiro: Forense, 1960, v.II.
+FURNO, Carlo. La Sospensione del Processo Esecutivo. Milão, 1956.
+______. Teoria  de  la  prueba  legal.  Trad.  Sérgio  Gonzales  Collado.  Madrid:
+Editorial Revista de Derecho Privado, 1954.
+FUX, Luiz. Intervenção de terceiros. São Paulo: Saraiv
+[/PAGINA 1113]
+
+[PAGINA 1114]
+a, 1991.
+______. Tutela  de  segurança  e  tutela  da  evidência:  fundamentos  da  tutela
+antecipada. São Paulo: Saraiva, 1996.
+GADAMER, Hans Georg. O problema da consciência histórica. Trad. de Paulo
+César Duque Estrada. 2. ed. Rio de Janeiro: FGV, 2003.
+GAIO, Digesto, Lei I, § 4º, do Livro 44, Tít. 7º.
+GAJARDONI, Fernando da Fonseca. Pontos e contrapontos sobre o Projeto do
+Novo CPC. Revista dos Tribunais, vol. 950, dez/2014.
+GERALDES, António Santos Abrantes. Temas de reforma do processo civil., 2. ed.
+Coimbra: Almedina, 2006.
+GIANICO, Maurício. A preclusão no direito processual civil brasileiro. São Paulo:
+Saraiva, 2005.
+GODINHO, Robson Renault. Reflexões sobre os poderes instrutórios do juiz: o
+processo não cabe no “leito de Procusto”. Revista de Processo, São Paulo, n.
+235, set/2014.
+GÓES,  Gisele  Santos  Fernandes. Amicus  curiae  e  sua  função  nos  processos
+objetivos. Necessidade de universalização do instituto para outras demandas.
+In DIDIER JR., Fredie; CERQUEIRA, Luis Otávio Sequeira de; CALMON
+FILHO,  Petrônio;  TEIXEIRA,  Sálvio  de  Figueiredo;  e  WAMBIER,  Teresa
+Arruda Alvim (coords.). O terceiro no processo civil brasileiro e assuntos
+correlatos: Estudos em homenagem ao Professor Athos Gusmão Carneiro.
+São Paulo: RT, 2010.
+GOLDSCHMIDT,  James.  Distribuição  dinâmica  do  ônus  da  prova:  breves
+apontamentos. Revista Dialética de Direito Processual, São Paulo, n. 93, dez.
+2010.
+GOMES, Magno Federici; RESENDE, Cauã Baptista Pereira de. Parâmetros de
+delimitação  dos  provimentos  dos  magistrados  no  direito  processual,  no
+
+Código de Processo Civil atual e no Projeto de Lei do Senado n. 166/2010.
+Revista do Instituto dos Advogados de Minas Gerais, n. 17, 2011.
+GONÇALVES, Aroldo Plínio. Da Denunciação da Lide Rio de Janeiro: Forense,
+1983.
+______. Técnica Processual e Teoria do Processo. Rio de Janeiro: Aide, 1992.
+GONÇALVES, Marcus Vinicius Rios. Novo curso de direito processual civil. 3 ed.
+São Paulo: Saraiva, 2006, v. I.
+GOUVÊA, Marcos Maselli. O Controle Judicial  das Omissões Administrativas.
+Rio de Janeiro: Forense, 2003.
+GOUVEIA,  Lúcio  Grassi.  A  função  legitimadora  do  princípio  da  cooperação
+intersubjetiva no processo civil brasileiro. Revista de Processo, São Paulo, n.
+172, jun/2009.
+GRAU,  Eros  Roberto. Ensaio  e  discurso  sobre  a  interpretação/aplicação  do
+direito. 2. ed. São Paulo: Malheiros, 2003.
+GRECO FILHO, Vicente. Da Intervenção de Terceiros. 2. ed. São Paulo: Saraiva,
+1986.
+______. Direito Processual Civil Brasileiro. 11. ed. São Paulo: Saraiva, 1995.
+______. Direito Processual Civil Brasileiro. São Paulo: Saraiva, 1981, v. I.
+______. Intervenção de terceiros. 3. ed. São Paulo: Saraiva, 1991.
+GRECO,  Leonardo. A  teoria  da  ação  no  processo  civil.  São  Paulo:  Dialética,
+2003.
+______. Estudos de direito processual civil. São Paulo: Ed. RT, 2006.
+______. Instituições de direito processual civil. Rio de Janeiro: Forense, 2009, v. I.
+______.  Justiça  civil,  acesso  à  justiça  e  garant
+[/PAGINA 1114]
+
+[PAGINA 1115]
+ias. In  ARMELIN,  Donaldo
+(coord.). Tutelas de urgência e cautelares. São Paulo: Saraiva, 2010.
+______.  Novas  perspectivas  da  efetividade  e  do  garantismo  processual. In:
+MITIDIERO, Daniel; AMARAL, Guilherme Rizzo. Processo Civil – estudos
+em homenagem ao professor doutor Carlos Alberto Alvaro de Oliveira. São
+Paulo: Atlas, 2012.
+______.  Os  atos  de  disposição  processual  –  primeiras  reflexões. Revista
+Eletrônica de Direito Processual. Rio de Janeiro, out-dez. 2007.
+______. Primeiros comentários sobre a reforma da execução oriunda da Lei nº
+11.232/05. Revista Dialética de Direito Processual, v. 36, mar./2006.
+
+GRINOVER,  Ada  Pellegrini.  Ação  civil  pública  em  matéria  ambiental  e
+denunciação da lide, Revista de Processo. São Paulo, n. 106, abr-jun/2002.
+______. Ação Declaratória Incidental.  São  Paulo:  Revista  dos  Tribunais,  n.  56,
+1972.
+______. As condições da ação penal. 1977.
+______. Da Coisa Julgada no Código de Defesa do Consumidor. Livro de Estudos
+Jurídicos. Rio de Janeiro: Instituto de Estudos Jurídicos, 1991, vol. I.
+______. Direito Processual Civil. São Paulo: J. Bushatsky, 1974.
+GRINOVER, Ada Pellegrini; FERNANDES, Antônio Scarance; GOMES FILHO,
+Antônio Magalhães. As nulidades no processo penal. São Paulo: Malheiros,
+1992.
+GRINOVER,  Ada  Pellegrini.  Abuso  do  proceso  e  resistência  às  ordems
+judiciárias: o contempt of court. Marcha, pp. 62/69, ano 2000.
+GUASP,  Jaime. Comentarios a la Ley de Enjuiciamiento Civil.  Madri:  Aguilar
+editor, 1943, v. I, apud MARQUES, José Frederico. Instituições de Direito
+Processual Civil. Rio de Janeiro: Forense, 1958, v. II.
+GUERRA  FILHO,  Willis  Santiago. Processo  constitucional  e  direitos
+fundamentais. 4. ed. São Paulo: RCS, 2005.
+GUSMÃO, Manuel Aureliano de. Processo Civil e Comercial. 3. ed. São Paulo:
+Saraiva, 1934, v. I.
+HABERMAS, Jüergen. Direito e democracia: entre facticidade e validade. Rio de
+Janeiro: Tempo Brasileiro, 1997, v. 1.
+HILL, Flávia Pereira. A cooperação jurídica internacional no projeto de novo
+Código de Processo Civil. Revista de Processo, n. 205, 2012.
+KANT, Immanuel. Fundamentação da metafísica dos costumes. Trad. de Paulo
+Quintela.  Lisboa:  Edições  70,  2005,  p.  69, apud  MARQUES,  Vinicius
+Pinheiro;  LORENTINO,  Sérgio  Augusto  Pereira.  A  dignidade  humana  no
+pensamento de Kant como fundamento do princípio da lealdade processual.
+Revista Boni-juris. Curitiba, n. 612, nov./2014.
+KNIJNIK, Danilo. As (perigosíssimas) doutrinas do “ônus dinâmico da prova” e
+da “situação de senso comum” como instrumentos para assegurar o acesso
+à justiça e superar a probatio diabolica, In FUX, Luiz et al (org.). Processo e
+Constituição: Estudos em homenagem ao prof. José Carlos Barbosa Moreira,
+São Paulo: RT, 2006.
+
+LACERDA,  Galeno. Comentários  ao  Código  de  Processo  Civil.  2.  ed.  Rio  de
+Janeiro: Forense, 1981, v. VIII, t. 1.
+______. Comentários ao CPC. 3. ed. Rio de Janeiro, Forense, 1998, v. VIII, t. II.
+______. Despacho Saneador. Porto Alegr
+[/PAGINA 1115]
+
+[PAGINA 1116]
+e: Liv. Sulina, 1953.
+______. O Código e o formalismo, Ajuris, 28/10, 1983.
+______. O  novo  direito  processual  civil  e  os  feitos  pendentes.  Rio  de  Janeiro:
+Forense, 1974.
+LANES, Júlio Cesar Goulart. Fato e direito no processo civil cooperativo.  São
+Paulo: Ed. RT, 2014.
+LARENZ, Karl. Derecho de obligaciones. Tradução espanhola de Jaime Santos
+Briz. Madrid: Revista de Derecho Privado, 1958, t. 1.
+LAUX, Francisco de Mesquita. Notas a repeito do regime jurídico das obrigações
+solidárias e seus reflexos sobre os limites subjetivos da coisa julgada. Revista
+de Processo, n.º 239, São Paulo, jan/2015.
+LAZARINI, Rafael José Nadim de; SOUZA, Gelson Amaro de. Reflexões sobre
+a  perspectiva  de  uma  distribuição  dinâmica  do  ônus  da  prova:  análise  de
+viabilidade. Revista Dialética de Direito Processual, São Paulo, n. 99, 2011.
+LEAL, Rosemiro Pereira. Teoria geral do processo: primeiros estudos. 7. ed. Rio
+de Janeiro: Forense, 2008.
+LEMES, Gilson Soares. Responsabilização da pessoa jurídica por dívida do sócio
+com desconsideração inversa da personalidade jurídica. Amagis Jurídica, n.º
+10, jan./jun. 2014.
+LENT, Friedrich. Diritto Processuale Civile Tedesco. Napoli: Morano, 1962.
+LESSA,  Pedro. Do  Poder  Judiciário:  direito  constitucional  brasileiro.  Rio  de
+Janeiro: Livraria Francisco Alves, 1915.
+LIEBMAN, Enrico Tullio. Efficacia ed autorità della sentenza. Milão, 1962.
+______. Eficácia e autoridade da sentença. 2. ed. Rio de Janeiro: Forense, 1981.
+______. Embargos do Executado. 2. ed. São Paulo: Saraiva, 1968.
+______.  Fondamento  del  principio  dispositivo. Problemi  del  processo  civile.
+Napoli, 1962.
+______. Manuale di Diritto Processuale Civile. 1959, v. II.
+______.______. 2. ed. Milano: Giuffrè, 1966, v. I.
+______.______. Milano: Giuffre, 1968.
+
+______. Manual  de  Direito  Processual  Civil.  Tradução  da  4.  ed.  italiana  por
+DINAMARCO, Cândido Rangel. Rio de Janeiro: Forense, 1984, v. I.
+LIMA, Alcides de Mendonça. Comentários ao Código de Processo Civil. Rio de
+Janeiro: Série Forense, 1974, v. VI, tomo II.
+LIMA, Cláudio Vianna de. “O processo cautelar no Novo Código de Processo
+Civil”. Rev. Forense, v. 246, 1974.
+______. Procedimento Ordinário. Rio de Janeiro: Forense, 1973.
+LOPES  DA  COSTA,  Alfredo  Araújo. A  Administração  Pública  e  a  Ordem
+Jurídica Privada. Belo Horizonte: Bernardo Álvares, 1961.
+______. Direito Processual Civil Brasileiro. 2. ed. Rio de Janeiro: Forense: 1956, v.
+II.
+______.______. Rio de Janeiro: Forense, 1959, v. III.
+______.______. Rio de Janeiro: Forense, 1959, v. IV.
+______. Manual Elementar de Direito Processual Civil. Rio de Janeiro: Forense,
+1956.
+______. Manual  Elementar  de  Direito  Processual  Civil.  3ª  ed.  Atualizado  por
+Sálvio de Figueiredo Teixeira. Rio de Janeiro: Forense, 1982.
+______. Medidas Preventivas. 2. ed. Belo Horizonte: Bernardo Alvares, 1958.
+LOPES, João Batista. A prova no direito processual civil. 3. ed. São Paul: Ed. RT,
+2006.
+______. Manual das Provas no Proces
+[/PAGINA 1116]
+
+[PAGINA 1117]
+so Civil. Campinas: Kennedy, 1974.
+______.  Ônus  da  prova  e  teoria  das  cargas  dinâmicas  no  novo  Código  de
+Processo Civil. Revista de Processo, São Paulo, n. 204, fev/2012.
+LUPION,  Ricardo. Boa-fé  objetiva  nos  contratos  empresariais:  contornos
+dogmáticos dos deveres de conduta. Porto Alegre: Liv. do Advogado, 2011.
+MACÊDO, Lucas Buril de; PEIXOTO, Ravi. A dinamização do ônus da prova sob
+a ótica do novo Código de Processo Civil. In: Alexandre Freire et al (orgs.).
+Novas tendências do processo civil. Salvador: JusPodivm, 2014.
+MACÊDO, Lucas Buril. Revisitando o ônus da prova cit
+MACHADO, Hugo de Brito. O direito de produzir provas. Revista Dialética de
+Direito Processual, São Paulo, n. 103, out/2011.
+MACHADO, Marcelo Pacheco. Demanda, reconvenção e defesa: o que é o que
+é. Revista de Processo, n.º 236, p. 93, out./2014.
+
+MACIEL  JÚNIOR,  Vicente  de  Paula.  A  tutela  antecipada  no  projeto  do  Novo
+CPC. In FREIRE, Alexandre et al (coords). Novas tendências do processo
+civil. Estudos sobre o projeto do novo Código de Processo Civil. Salvador:
+Editora Jus Podivm, 2013.
+MAIA,  Renata  Christiana  Vieira. A  efetividade  do  processo  de  conhecimento
+mediante  a  aplicação  do  processo  oral  (tese  de  doutoramento).  Belo
+Horizonte: UFMG, Faculdade de Direito, 2015.
+MALATESTA, Nicola Framarino Dei. A lógica das provas em matéria criminal.
+Trad. de Waleska Girotto Silverberg. São Paulo: Conan, 1995, v. I.
+MALLET, Estêvão. Notas sobre o problema da chamada “decisão-surpresa”. In
+Revista de Processo, n.º 233, jul. 2014.
+MANDRIOLI,  Crisanto. Corso  di  Diritto  Processuale  Civile.  8.  ed.  Torino:
+Giappichelli, 1991, v. I.
+______. Delle  parti  e  dei  difensori. In:  ALLORIO,  Enrico. Commentario  del
+Codice di Procedura Civile. Torino: UTET, 1973, v. I, t. II.
+MARCACINI,  Augusto  Tavares  Rosa.  O  documento  eletrônico  como  meio  de
+prova. Apud MARIANI, Rômulo Greff. O documento eletrônico como meio
+de prova no processo civil. Revista Síntese de Direito Civil e Processo Civil,
+n.º 79, set.out/2012.
+MARINONI, Luiz Guilherme. A antecipação da tutela. 11 ed. São Paulo: Ed. RT,
+2009.
+______.  “A  Tutela  Antecipatória  nas  Ações  Declaratória  e  Constitutiva”. In:
+WAMBIER, Teresa Arruda Alvim. Aspectos Polêmicos da Antecipação de
+Tutela. São Paulo: RT, 1997.
+______.  Classificação  das  sentenças  que  despendem  de  execução. Revista
+Jurídica, Porto Alegre, v. 351, jan/2007.
+______.  Formação  da  Convicção  e  Inversão  do  Ônus  da  Prova  segundo  a
+Peculiaridade do Caso Concreto. Revista dos Tribunais, v. 862, ago./2007.
+______. Técnica processual e tutela dos direitos. 2 ed. São Paulo: Ed. RT, 2008.
+MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz. Comentários ao Código
+de Processo Civil. São Paulo: Ed. RT, 2000, v. 5, t. I.
+______.______. 2. ed. São Paulo: RT, 2005, v. 5, t. 1.
+______.______. 2. ed. São Paulo: RT, 2005, v. 5, t. II.
+______.______. Manual do processo de conhecimento. 4. ed. São Paulo: Ed. RT,
+
+2005.
+MAR
+[/PAGINA 1117]
+
+[PAGINA 1118]
+INONI,  Luiz  Guilherme;  MITIDIERO,  Daniel. Código  de  Processo  Civil
+comentado artigo por artigo. São Paulo: Editora RT, 2008.
+MARIZ, Waldemar. Substituição Processual, São Paulo, Tese de Catedrático da
+PUC-SP, 1969.
+MARQUES,  José  Frederico. Elementos  de  Direito  Processual  Penal,  2.  ed.
+Campinas: Millenium, 2000, v. II.
+______. Instituições de Direito Processual Civil. Rio de Janeiro: Forense, 1958, v.
+I.
+______.______. Rio de Janeiro: Forense, 1960, v. V.
+MARQUES,  José  Frederico. Manual  de  Direito  Processual  Civil.  São  Paulo:
+Saraiva, 1974, v. I.
+______.______. 1. ed. São Paulo: Saraiva, 1974, v. II.
+______.______. 1. ed. São Paulo: Saraiva, 1976, v. III.
+______.______. São Paulo: Saraiva, 1976, v. IV.
+______.______. 10. ed. São Paulo: Saraiva, 1989, v. II.
+______.______. 13. ed. São Paulo: Saraiva, 1990, v. I.
+______.______. Campinas: Bookseller, 1997, v. I.
+______.______. Campinas: Bookseller, 1997, v. II.
+______.______. Campinas: Bookseller, 1997, v III.
+MARQUES,  Vinicius  Pinheiro;  LORENTINO,  Sérgio  Augusto  Pereira.  A
+dignidade humana no pensamento de Kant como fundamento do princípio
+da lealdade processual. Revista Boni-juris. Curitiba, n. 612, nov./2014.
+MARTINEZ  SILVA,  Carlos. Tratado  de  Pruebas  Judiciales,  Buenos  Aires:
+Atalaya, 1947, apud Revista de Direito Administrativo, 111/38.
+MARTINS-COSTA,  Judith. A  boa-fé  no  direito  privado:  sistema  e  tópica  no
+processo obrigacional. São Paulo: Editora RT, 1999.
+MARTINS, Ives Gandra da Silva. “Parecer”. In: CARVALHO, Milton Paulo de
+(coord.). Direito processual civil. São Paulo: Quartier Latin, 2007.
+______. Razoabilidade das decisões judiciais. Carta forense, n. 50, julho/2007.
+MARTINS,  Pedro  Antônio  Batista.  Da  ausência  de  poderes  coercitivos  e
+cautelares. In LEMES, Selma Ferreira et al (coords.). Aspectos fundamentais
+da Lei de Arbitragem. Rio de Janeiro: Forense, 1999.
+
+MATSUSHITA, Thiago L. O jus-humanismo normativo – expressão do princípio
+absoluto  da  proporcionalidade.  Tese  (Doutorado  em  Direito)  –  Pontifícia
+Universidade Católica de São Paulo, 2012.
+MAXIMILIANO,  Carlos. Hermenêutica e Aplicação do Direito.  7.  ed.  Rio  de
+Janeiro: Forense, 1961.
+MAZZEI,  Rodrigo;  CHAGAS,  Bárbara  Seccato  Ruis.  Breve  diálogo  entre  os
+negócios jurídicos processuais e a arbitragem. Revista de Processo, n.º 237,
+nov/2014.
+MEDINA, José Miguel Garcia. A sentença declaratória como título executivo.
+Revista de processo, v. 136, jun/2006.
+MELENDO, Santiago Sentís. La prueba es libertad. La prueba. Los grandes temas
+del derecho probatorio. Buenos Aires: EJEA, 1978.
+MELLO, Felipe Viana de. O reconhecimento da aplicabilidade da teoria do ônus
+dinâmico  no  processo  civil  brasileiro. Revista  Dialética  de  Direito
+Processual, São Paulo, n. 139, out/2014.
+MELLO,  Rogério  Licastro  Torres  de.  Ação  probatória:  um  redutor  de
+litigiosidade. In:  NETO,  Olavo  de  Oliveria;  NETO,  Elias  Marques  de
+Medeiros; LOPES, Ricardo Augusto de Castro (c
+[/PAGINA 1118]
+
+[PAGINA 1119]
+oords). A prova no direito
+processual civil: estudos em homenagem ao professor João Batista Lopes.
+São Paulo: Editora Verbatim, 2013.
+MENEZES,  Gustavo  Quintanilha  Telles  de.  A  atuação  do  juiz  na  direção  do
+processo. In FUX, Luis (coord.) O novo processo civil brasileiro: direito em
+expectativa. Rio de Janeiro: Forense, 2011.
+MESQUITA,  José  Ignácio  Botelho  de. Coisa julgada.  Rio  de  Janeiro:  Forense,
+2004.
+______. Da competência internacional e dos princípios que a informam, Revista
+de Processo, v. 50, abr-jun/1988.
+MICHELI, Gian Antonio. Derecho Procesal Civil. Buenos Aires: EJEA, 1970, v. I.
+MILLAR,  Robert  Wyness. Los  principios  formativos  del  procedimiento  civil.
+Buenos Aires: Ediar, 1945.
+MITIDIERO,  Daniel.  Abrangência  da  Coisa  Julgada  no  plano  objetivo  –
+segurança jurídica. Revista de Processo, v. 184, jun/2010.
+______. Autonomização e estabilização da antecipação da tutela no novo Código
+de Processo Civil. Revista Magister de Direito Civil e Processual Civil, Porto
+
+Alegre, n. 63, nov-dez/2014.
+______. Colaboração no processo civil. São Paulo: Ed. RT, 2009.
+______. Tendências em matéria de tutela sumária: da tutela cautelar à técnica
+antecipatória. Revista de Processo, São Paulo: RT, v. 197, jul. 2011.
+MONIZ DE ARAGÃO, Egas Dirceu. Comentários ao Código de Processo Civil.
+1. ed. Rio de Janeiro: Forense, 1974, v. II.
+______.______. 3. ed. Rio de Janeiro: Forense, 1979.
+______.______. 6. ed. Rio de Janeiro: Forense, 1989, v. II.
+______.______. 9. ed. Rio de Janeiro: Forense, 1998, v. II.
+______.______. 9. ed. Rio de Janeiro: Forense, 1998, vol. III.
+____________. Parecer, Revista Forense, v. 251, 1975.
+______. Sentença e coisa julgada. Rio de Janeiro: AIDE, 1992.
+MONTEIRO,  João. Programa  do  Curso  de  Processo  Civil.  3.  ed.  São  Paulo:
+Duprat, 1912, v. I.
+______.______. 3. ed. São Paulo: Duprat, 1912, v. II.
+______.______. 3. ed. São Paulo: Duprat, 1912, v. VIII.
+MONTELEONE, Girolamo. Diritto Processuale Civile. 2. ed. Padova: CEDAM,
+2000.
+MONTENEGRO  Filho,  Misael. Cumprimento  da  sentença  e  outras  reformas
+processuais. São Paulo: Atlas, 2006.
+MONTERO  AROCA,  Juan. Los  princípios  políticos  de  la  nueva  Ley  de
+Enjuiciamiento Civil. Los poderes del juez y la oralidad. Valencia: Tirant lo
+Blanch, 2001.
+MORAES, Alexandre de. Direito Constitucional. 20.ed. São Paulo: Atlas, 2006.
+MORAES, Paulo Valério Dal Pai. Código de Defesa do Consumidor: Princípio da
+vulnerabilidade no contrato, na publicidade, nas demais práticas comerciais.
+Porto Alegre: Síntese, 1999.
+MORCHIN,  Gregorio  R.  Teoria  del  derecho  (fundamentos  de  teoria
+comunicacional del derecho. Madrid: Editorial Civitas, 1998, v. 1.
+MOREIRA, Alberto Camiña. Ata notarial. In: NETO, Olavo de Oliveria; NETO,
+Elias Marques de Medeiros; LOPES, Ricardo Augusto de Castro (coords). A
+prova no direito processual civil: estudos em homenagem ao professor João
+Batista Lopes. São Paulo: Editora Verbatim, 2013.
+
+MOSCHELLA,  Ignazio.  “Misure  Conse
+[/PAGINA 1119]
+
+[PAGINA 1120]
+rvative”. In:  SCIALOJA,  Vittorio.
+Dizionario Pratico del Diritto Privato. Milano: F. Vallardi, 1952, v. III.
+MÜLLER, Friedrich. Juristische Methodik.  5.  ed.  Berlin:  Duncker  &  Humblot,
+1993.
+MUÑOZ,  Pedro  Soares.  Da  Intervenção  de  Terceiros  no  Novo  Código  de
+Processo Civil. Estudos sobre o Novo Código de Processo Civil. 1974, v. I.
+NEGRÃO, Theotônio. Código de Processo Civil e legislação processual em vigor.
+São Paulo: RT, 1989.
+______.______. 46 ed. São Paulo: Saraiva, 2014.
+NERY JÚNIOR, Nelson. Atualidades  sobre  Processo  Civil.  São  Paulo:  Ed.  RT,
+1996.
+______; NERY, Rosa Maria de Andrade. Código de Processo Civil Comentado 6.
+ed. São Paulo: RT, 2002.
+______; NERY, Rosa Maria de Andrade. Código de Processo Civil Comentado e
+legislação processual em vigor. 6 ed. São Paulo: Ed. RT, 2003.
+______; NERY, Rosa Maria Andrade. Código Civil Comentado, 3. ed. São Paulo:
+RT, 2005.
+______; NERY, Rosa Maria de Andrade. Código de Processo Civil comentado. 11.
+ed. São Paulo: Ed. RT, 2010.
+______; NERY, Rosa Maria de Andrade. Código de Processo Civil comentado e
+legislação processual extravagante em vigor. 6 ed. São Paulo: Ed. RT, 2002.
+______; NERY, Rosa Maria de Andrade. Código de processo civil comentado e
+legislação extravagante: atualizado até 17 de fevereiro de 2010. 11 ed. São
+Paulo: RT, 2010.
+______. Princípios Fundamentais – Teoria Geral dos Recursos. 4. ed. São Paulo:
+RT, 1997.
+______. Princípios do processo na Constituição Federal, 10. ed. São Paulo: Ed. RT,
+2010.
+NETO, Narciso Orlandi. Ata notarial e a retificação no registro imobiliário. In:
+BRANDELLI,  Leonardo  (coord.). Ata notarial.  Porto  Alegre:  Instituto  de
+Registro Imobiliário do Brasil: S/A, 2004.
+NETO, Olavo de Oliveira. O perfil das novas formas positivadas de intervenção
+de terceiros no Projeto do CPC: desconsideração da personalidade jurídica e
+amicus curiae. In AURELLI, Arlete Inês, et all (coords.) O direito de estar
+
+em juízo e a coisa julgada: Estudos em homenagem a Thereza Alvim, São
+Paulo: Editora Revista dos Tribunais, 2014.
+NEVES, Celso. Coisa Julgada Civil. São Paulo: RT, 1971.
+NEVES, Daniel Amorim Assumpção. Ações probatórias autônomas. São Paulo,
+Saraiva, 2008.
+NOBRE, César Augusto Di Natale. Amicus curiae: uma abordagem processual da
+figura  no  âmbito  da  CVM  e  do  CADE. Revista  Dialética  de  Direito
+Processual, n. 132, mar/2014.
+NONATO,  Orosimbo. Curso  de  Obrigações,  segunda  parte.  Rio  de  Janeiro:
+Forense, 1959, v. II.
+OLIVEIRA,  Carlos  Alberto  Alvaro  de. Alienação  da  Coisa  Litigiosa.  Rio  de
+Janeiro: Forense, 1984.
+______; MITIDIERO, Daniel. Curso de processo civil. São Paulo: Atlas, 2010, v.
+I.
+______; MITIDIERO, Daniel. Curso de processo civil. São Paulo: Atlas, 2012.
+______. Do formalismo no processo civil. 2. ed. São Paulo: Saraiva, 2003.
+______. Do formalismo do processo civil: proposta de um formalismo-valorativo.
+3. ed. São Paulo: Saraiva, 2009.
+______. Garantia do contraditório. In: Garantias constitucionais do proces
+[/PAGINA 1120]
+
+[PAGINA 1121]
+so civil.
+São Paulo: Ed. RT, 1999.
+OMMATI, José Emílio Medauar. A fundamentação das decisões jurisdicionais no
+projeto do Novo Código de Processo Civil. FREIRE, Alexandre, et al (orgs.).
+Novas tendências do Processo Civil: estudos sobre o projeto do novo Código
+de Processo Civil, Salvador: JusPodivm, 2014, v. III.
+PACHECO, José da Silva. Direito Processual Civil. São Paulo: Saraiva, 1976, v. I.
+PALACIO, Lino Enrique. Manual de Derecho Procesal Civil. 4. ed. Buenos Aires:
+Abeledo-Perrot, 1977, v. I.
+PAULA, Alexandre de. Código de Processo Civil Anotado. São Paulo: RT, 1976, v.
+II.
+PAULA BATISTA, Francisco de. Compêndio de Teoria e Prática do Processo Civil
+Comparado com o Comercial. 6. ed. Rio de Janeiro: Garnier, 1901.
+PEREIRA,  Caio  Mário  da  Silva. Condomínios e Incorporações.  1.  ed.  Rio  de
+Janeiro: Forense, 1965.
+PEREIRA E SOUZA, Joaquim José Caetano. Primeiras linhas sobre o Processo
+
+Civil. Rio de Janeiro: Garnier, 1907.
+PERLINGIERI,  Pietro;  FEMIA,  P. Manuale  di  diritto  civile.  3.  ed.  Napoli:
+Edizione Schientifiche Italiane, 2002.
+PERROT, Roger. O processo civil francês na véspera do Século XXI, trad. de
+Barbosa Moreira. Revista Forense, v. 342, abr./mai./jun. de 1998.
+PESTANA DE AGUIAR, João Carlos. Comentários ao Código de Processo Civil.
+1. ed. São Paulo: RT, 1974, v. IV.
+______. Síntese Informativa do Processo Cautelar. Seleções Jurídicas (ADV), v.
+19.
+PETRELLA, Virginia. Note problematiche sul giudicato in punto di fatto alla luce
+dei principi del giusto processo civile. In: Studi in onore di Carmine Punzi.
+Torino: G. Giappichelli, 2008, v. I.
+PEYRANO, Jorge W. Nuevos lineamientos de las cargas probatorias dinámicas.
+In: WHITE, Inés Lépori (coord.) Cargas probatorias dinámicas.  Santa  Fé:
+Rubinzal-Culzoni, 2004.
+______. Nuevos rumos de la doctrina de la cargas probatorias dinámicas. Revista
+de Processo, São Paulo, n.º 217, mar/2013.
+______. Nuevos rumos de la doctrina de las cargas probatorias dinámicas:  las
+cargas probatorias sobrevenientes. ED. Del, 1999.
+PIMENTEL, Ayrton. O Contrato de Seguro de Acordo com o Novo Código Civil
+Brasileiro. 2. ed. São Paulo: RT, 2003.
+PIMENTEL, Wellington Moreira. Comentários ao Código de Processo Civil. 1. ed.
+São Paulo: Série RT, 1975, v. III.
+PINHO, Humberto Dalla Bernardina. Incidente de conversão da ação individual
+em ação coletiva no CPC Projetado: Exame crítico do instituto. Disponível
+em:     <http://www.processoscoletivos.net/revista-eletronica/63-volume-4-
+numero-3-trimestre-01-07-2014-a-30-09-2014/1459-incidente-de-
+conversaodaacao-individual-em-acao-coletiva-no-cpc-projetadoexame-
+critico-do-instituto>. Acesso em 03/09/2014.
+PINHO, Luciano Fialho. Ação de Responsabilidade Civil Proposta em face dos
+Administradores  de  Sociedades  Anônimas,  Tese,  Belo  Horizonte,  UFMG,
+2000.
+PINTO, Roberto Strobel. Amicus curiae no projeto de Código de Processo Civil,
+Revista de Processo, n.º 220, jun/2013.
+
+PITOMBO, Sérgio M. de Moraes. Do Sequestro no Processo Penal Brasileiro.
+São Paul
+[/PAGINA 1121]
+
+[PAGINA 1122]
+o: Ed. José Bushatsky, 1973.
+PISETTA, Francieli. O amicus curiae no direito processual civil brasileiro. Revista
+brasileira de direito processual, Belo Horizonte, n.º 85, jan./mar. 2014.
+PODETTI, Ramiro. Tratado de las Medidas Cautelares. Buenos Aires, 1956.
+PONTES  DE  MIRANDA,  Francisco  Cavalcanti. Comentários  ao  Código  de
+Processo Civil. Rio de Janeiro: Forense, 1959, v. VIII.
+______. Comentários ao Código de Processo Civil. 2. ed. Rio de Janeiro: Forense,
+1960, v. X (art. 798, I, c, do Código de 1939).
+______.______. São Paulo: RT, 1974, v. IV.
+______.______. 1974, v. V.
+______.______. Rio de Janeiro: Forense, 1976, v. XII.
+______.______. 3. ed. Rio de Janeiro: Forense, 1996, t II.
+______.______. 3. ed. Rio de Janeiro, Forense, 1996, t. IV.
+______.______. 3. ed. Rio de Janeiro: Forense, 1997, t. II.
+______.______. 2. ed. Rio de Janeiro: Forense, 2003, t. XII.
+______. Tratado da Ação Rescisória, 1957.
+______. Tratado das ações.  Atualizado  por  Vilson  Rodrigues  Alves.  Campinas:
+Bookseller, 1998, t. I.
+______. Tratado de direito privado. 2. ed. Rio de Janeiro: Borsoi, 1955, v. V.
+POPP, Carlyle. Responsabilidade civil pré-negocial: o rompimento das tratativas.
+Curitiba: Juruá, 2001.
+POPPER, Karl. A sociedade aberta e seus inimigos. Belo Horizonte: Itatiaia, 1987,
+v. I.
+PORTANOVA, Rui. Princípios do processo civil. 1. ed. 2ª tiragem, Porto Alegre:
+Livraria do Advogado, 1997.
+______.______. 7. ed. Porto Alegre: Livraria do Advogado, 2008.
+PORTO, Antônio Rodrigues. Do Chamamento ao Processo no Novo Código de
+Processo Civil, in RT n. 458, 1976.
+PRATA, Edson. Simpósio Brasileiro de Direito Processual, realizado em Curitiba,
+1975, relato de Edson Prata, in Revista Forense, 252/24, out.-nov.-dez./1975.
+PROTO  PISANI. Lezioni  di  diritto  processuale  civile.  3.  ed.  Napoli:  Jovene
+Editore, 1991.
+
+______.______. 3. ed. Napoli, Jovene Editore, 1999.
+______.______. Ristampa della 5. ed. Napoli: Jovene Editore, 2010.
+PRÜTTING, Hanns. Nuevas tendencias en el Proceso Civil Aleman. Gênesis –
+Revista de Direito Processual Civil, n. 41, jan./jun. 2007.
+QUERZOLA, Lea. La tutela anticipatoria fra procedimento cautelare e giudizio di
+merito, Bologna: Bononia University Press, 2006.
+______.  Tutela  cautelare  e  dintorni:  contributo  alla  nozione  di  “provvedimento
+anticipatorio”, In:  BONGIORNO,  Girolamo. Studi  in  Onore  di  Carmine
+Punzi. Torino: Giappichelli, 2008, vol. III.
+RAMOS, Vitor de Paula. Direito fundamental à prova. Revista de Processo,  n.
+224, out/2013.
+REDONDO, Bruno Garcia. Tese de JORGE W. PEYRANO (Nuevos lineamentos
+de las cargas probatórias dinâmicas. In: cargas probatórias dinâmicas. Santa
+Fé: Rubinzal-Culzoni, 2008.
+REGO,  Carlos  Francisco  de  Oliveira  Lopes  do. Comentários  do  Código  de
+Processo Civil. Coimbra: Almedina, 2004, v. I.
+REICHELT,  Luis  Alberto.  A  exigência  de  publicidade  dos  atos  processuais  na
+perspectiva do direito ao processo justo. Revista de Processo 234, ago/2014.
+REIS,  José  Alberto  dos
+[/PAGINA 1122]
+
+[PAGINA 1123]
+. Código  de  Processo  Civil  Anotado.  Coimbra:  Editora
+Coimbra, 1948, v. III.
+______. Processo de Execução. Coimbra: Coimbra Ed., 1943, v. I.
+REZENDE FILHO, Gabriel José Rodrigues de. Curso de Direito Processual Civil.
+5. ed. São Paulo: Saraiva, 1957, v. I.
+______.______. 5. ed. São Paulo: Saraiva, 1959, v. III.
+RIBAS,  Antônio  Joaquim. Consolidação  das  Leis  do  Processo  Civil.  Rio  de
+Janeiro: Dias da Silva Junior, 1879 (comentário CCCLXXI).
+RIBEIRO, Darci Guimarães. La pretensión procesal y La tutela judicial efectiva.
+Barcelona: Bosch, 2004.
+RIBEIRO, Juliana de Oliveira Xavier. Direito notarial e registral. Rio de Janeiro:
+Elsevier, 2008.
+RICCI. Edoardo Flavio. Possíveis novidades sobre a tutela antecipada na Itália.
+Genesis – Revista de Direito Processual Civil, v. 7, 2002.
+RICCI,  Gian  Franco. Principi  di  Diritto  Processuale  Generale,  Torino:
+Giappichelli Editore, 1995.
+
+ROCCO, Ugo. Tratado de Derecho Procesal Civil. Buenos Aires: Depalma, 1970.
+______.______. Buenos Aires: Depalma, 1979, v. V.
+RODRIGUES, Geisa de Assis. Da ação popular, in FARIAS, Cristiano Chaves de;
+DIDIER  JR.,  Fredie  (coords.) Procedimentos  especiais  cíveis:  legislação
+extravagante. São Paulo: Saraiva, 2003.
+RODRIGUES,  Marcelo  Abelha. Ação  Civil  Pública.  In:  DIDIER  JR.,  Fredie
+(org.). Ações constitucionais. Salvador: Jus Podivm, 2006.
+RODRIGUES JÚNIOR, Walsir Edson. A prática da mediação e o acesso à justiça.
+Belo Horizonte: Del Rey, 2007.
+ROSA, Eliezer. Dicionário de Processo Civil. São Paulo: Bushatsky, 1973.
+ROSA, Marcos Valls Feu. Exceção de pré-executividade.  Porto  Alegre:  Sérgio
+Antonio Fabris, 1996.
+ROSENBERG,  Leo. Tratado  de  derecho  procesal  civil.  Buenos  Aires:  EJEA,
+1955, t. II.
+______.______. Buenos Aires: EJEA, 1955, v. II.
+______.______. Buenos Aires: EJEA, 1955, v. III.
+ROSITO, Francisco. Direito Probatório: As máximas de experiência em juízo.
+Porto Alegre: Liv. do Advogado Editora, 2007.
+RUBIN,  Fernando.  O  princípio  dispositivo  no  procedimento  de  cognição  e  de
+execução. Revista Jurídica LEX, v. 69, mai./jun. 2014.
+______. Teoria geral da prova: do conceito de provas aos modelos de constatação
+da  verdade. Revista  Magister  de  Direito  Civil  e  Processual  Civil,  n.  52,
+jan./fev. 2013.
+SÁ, Fernando Augusto Cunha de. Abuso de direito. Coimbra: Almedina, 2005.
+SAAD, Eduardo Gabriel. Comentário ao Código de Defesa do Consumidor. 2. ed.
+São Paulo: Ed. LTr, 1997.
+SANCHES, Sydney. Denunciação da Lide. São Paulo: RT, 1984.
+SANTOS,  Andrés  de  La  Oliva  e  GIMENEZ,  Ignácio  Diez-Picazo. Derecho
+Procesal  Civil  –  el  proceso  de  declaración.  3.  ed.  Madrid:  Editorial
+Universitária Ramón Areces, 2004.
+SANTOS, Ernane Fidélis dos. Estudos de Direito Processual Civil. Uberlândia: Ed.
+F. Direito Universidade, 1975.
+____________. Manual de Direito Processual Civil.  3.  ed.  São  Paulo:  Saraiva,
+
+1994.
+______.______. 6. ed. São Paulo: Saraiva, 1998, v. I.
+______.______. 8. ed. São Paulo, Saraiva, 2001, vol.
+[/PAGINA 1123]
+
+[PAGINA 1124]
+I.
+______.______. 11 ed. São Paulo: Saraiva, 2007.
+______.______. 14. ed. São Paulo: Saraiva, 2010, v. I.
+______.______. Novos Perfis do Processo Civil Brasileiro,  Belo  Horizonte,  Del
+Rey, 1996.
+SANTOS,  José  Carlos  Van  Cleef  de  Almeida.  O  projeto  do  novo  Código  de
+Processo Civil e a (re)afirmação da decisão interlocutória de mérito. Revista
+dos Tribunais, vol. 950, dez/2014.
+SANTOS, Marina França. A garantia do duplo grau de jurisdição. Belo Horizonte:
+Del Rey, 2012.
+______. Intervenção de terceiro negociada: possibilidade aberta pelo novo Código
+de Processo Civil, Revista de Processo, v. 241, mar/2015.
+SATTA, Salvatore. Direito Processual Civil. Rio de Janeiro: Borsoi, 1973, v. I.
+SCHNAID,  David.  A  interpretação  jurídica  constitucional  e  legal. RT,  733/39,
+1996.
+SCHÖNKE, Adolfo. Derecho Procesal Civil. 5. ed. Barcelona: Bosch, 1950.
+SENTIS MELENDO, Santiago. Aquisición de la prueba. La Prueba. Los grandes
+temas del derecho probatório. Buenos Aires: EJEA, 1978.
+______. La prueba: los grandes temas del derecho probatori, Buenos Aires: EJEA,
+1978; Naturaleza de la prueba, Revista dos Tribunais, v. 462, abr/1974.
+SIFUENTES, Mônica. Súmula vinculante: um estudo sobre o poder normativo dos
+tribunais. São Paulo: Saraiva, 2005.
+SILVA, Carlo Miguel Ferreira da. Providências amtecipatórias no processo civil
+português,  n.  5.  Palestra  proferida  nas  Jornadas  ibero-americanas  de
+Derecho Procesal, Brasília, 1998.
+SILVA,  Eduardo  Silva  da;  BRONSTRUP,  Felipe  Bauer.  O  requisito  da
+representatividade no amicus curiae. Revista de Processo, n. 207, mai/2012.
+SILVA,  Jaqueline  Mielke;  XAVIER,  José  Tadeu  Neves. Reforma  do  Processo
+Civil. Porto Alegre: Verbo Jurídico, 2006.
+SILVA, José Afonso da. Curso de direito constitucional positivo. 12. ed. São Paulo:
+Malheiros, 1996.
+
+______.______. 29. ed.São Paulo: Malheiros, 2007.
+SILVA,  Sandoval  Alves  da.  Acesso  à  justiça  probatória:  negativa  de  tutela
+jurisdicional como consequência de negativa de convição judicial. Revista
+de Processo, n.º 232, jun/2014.
+SILVEIRA, Bruna Braga da. Notas sobre a teoria dinâmica do ônus da prova.
+Revista de Direito Privado, São Paulo, n. 52, out/2012.
+SILVEIRA, Marco Antonio Karam. Lei de acesso à informação pública (Lei nº
+12.527/2011).  Democracia,  República  e  Transparência  no  Estado
+Constitucional. Revista dos Tribunais, v. 927, jan/2013.
+SODRÉ, Hélio. Manual Compacto do Direito. 3. ed. Rio de Janeiro: Forense, 1980.
+SOUZA,  Gelson  Amaro  de. Curso  de  processo  civil.  Presidente  Prudente:
+Datajuris, 1978.
+SOUZA,  Miguel  Teixeira  de.  Apreciação  de  alguns  aspectos  da  “revisão  do
+processo civil – projecto”. Revista da Ordem dos Advogados. Lisboa, ano 55,
+jul./1995.
+______. Estudos sobre o novo processo civil. São Paulo: Lex, 1996.
+______. 2. ed. Lisboa: Lex, 1997.
+______. Um novo processo civil português: à la recherche du temps perdu? Novos
+rumos da Justiça Cível. Coimbra: Centro de Estudos Judiciários, 2009.
+STEIN,
+[/PAGINA 1124]
+
+[PAGINA 1125]
+Friedrich. Das Private Wissen des Richters,  1999,  p.  27.  Tradução  do
+trecho de Flávia Pessoa, in Pontes de Miranda e a possibilidade de utilização
+das máximas de experiência para dispensa de provas no processo civil. In:
+DIDIER  JR.  Fredie, et.  al. Pontes  de  Miranda  e  o  direito  processual.
+Salvador: Ed JusPodivm, 2013.
+STRECK, Lenio Luiz; MORAES, Luiz Bolzan de. Ciência política e teoria geral do
+Estado. Porto Alegre: Livraria do Advogado, 2000.
+SUNDFELD,  Carlos  Ari.  Competência  legislativa  em  matéria  de  processo  e
+procedimento. Revista dos Tribunais, n.º 657, jul/1990.
+TALAMINI, Eduardo. Coisa julgada e sua revisão. São Paulo: Ed. RT, 2005.
+______. Prova emprestada no processo civil ou penal. Revista de Processo, São
+Paulo, n.º 91, jul/1998.
+______.  Tutela  de  urgência  no  projeto  de  novo  Código  de  Processo  Civil:  a
+estabilização  da  medida  urgente  e  a  ‘monitorização’  do  processo  civil
+brasileiro. Revista de Processo, n. 209, jul/2012.
+
+TARTUCE,  Fernanda. Mediação  nos  conflitos  civis.  São  Paulo:  Gen,  Método,
+2008.
+TARUFFO,  Michele.  Il  concetto  di  “prova”  nel  diritto  processuale. Revista  de
+Processo, São Paulo, n. 229, mar/2014.
+______. La motivazione dela sentenza. Padova: CEDAM, 1975.
+______. La prueba de los hechos. Trad. De Jordi Ferri Beltran. Madrid: Trotta,
+2005.
+______. La semplice verità e la costruzione dei fatti. Roma: Laterza, 2009.
+______.  Poderes  instrutorios  de  las  partes  e  del  juez  en  Europa, in  Revista
+Iberoamericana de derecho procesal, Buenos Aires, n. 10, nota 85, 2007.
+______. Prova (in generale), Digesto delle discipline provatistiche, Sezione Civile.
+Turino: UTET, 1992, v. 16.
+______. Studi sulla rilevanza della prova. Padova: Cedam, 1970.
+TARZIA,  Giuseppe.  Considerazioni  Conclusive. Les  Mesures  Provisoires  em
+Procédure Civile. Milano: Giuffrè Editore, 1985.
+______. Lineamenti del Nuovo Processo di Cognizione. Milano: Giuffrè, 1991.
+TAVARES, Fernando Horta. Acesso ao direito, duração razoável do procedimento
+e tutela jurisdicional efetiva nas constituições brasileiras e portuguesas: um
+estudo comparativo, in Felipe Daniel Amorim e Marcelo Andrade Cattoni de
+Oliveira (coords.). Constituição e Processo. Belo Horizonte: Del Rey, 2009.
+TAVARES, Fernando Horta; CUNHA, Maurício Ferreira. O direito fundamental à
+prova  e  a  legitimidade  dos  provimentos  sob  a  perspectiva  do  direito
+democrático. Revista de Processo, São Paulo, n. 195, mai/2011.
+TEIXEIRA, Sálvio Figueiredo. Código de Processo Civil. Rio de Janeiro: Forense,
+1979.
+TENÓRIO, Oscar. Lei de Introdução ao Código Civil.  Rio  de  Janeiro:  Livraria
+Jacinto Editora, 1944, n. 502, apud BARBI Celso Agrícola. Comentários ao
+Código de Processo Civil. 11. ed. Rio de Janeiro: Forense, 2002, v. I.
+TESHEINER, José Maria Rosa. Nova sistemática processual. 2. ed. Caxias do Sul:
+Plenum, 2006.
+THEODORO JÚNIOR, Humberto. Ação Declaratória e Incidente de Falsidade:
+Falso Ideológico e Intervenção de Terceiros
+[/PAGINA 1125]
+
+[PAGINA 1126]
+. Rev. de Processo, São Paulo,
+51/32, 1988.
+______. A garantia fundamental do devido processo legal e o exercício do poder
+
+de cautela no direito processual civil, Revista dos Tribunais,  São  Paulo,  v.
+665, p. 14, mar. 1991.
+______. Comentários ao novo Código Civil. 3. ed. Rio de Janeiro: Forense, 2005, v.
+III, t. II.
+______. Comentários ao novo Código Civil, 4. ed. Rio de Janeiro: Forense, 2008, v.
+III, t. II.
+______. Curso de Direito Processual Civil, 53. ed Rio de Janeiro: Forense, 2012, v.
+I.
+______. Processo cautelar. 23. ed. São Paulo: Leud, 2006.
+______.______. 25. ed. São Paulo: Leud, 2010.
+TOMMASEO, Ferrucio. I provvedimenti d’urgenza. Padova: Cedam, 1983.
+TORNAGHI, Hélio. Comentários ao Código de Processo Civil. São Paulo: Ed. RT,
+1974, v. I.
+______.______. 1. ed. São Paulo: RT, 1974, v. II.
+______.______. São Paulo: RT, 1975, v. II.
+TRABUCCHI, Alberto. Istituzioni di diritto civile. 38. ed. Padova: CEDAM, 1998.
+TRENTO, Simone. Os standards e o ônus da prova: suas relações e causas de
+variação. Revista de Processo, São Paulo, n. 226, dez/2013.
+TROCKER,  Nicolò.  Il  nuovo  art.  111  della  Costituzione  e  il  giusto  processo  in
+materia  civile:  profili  generali. Rivista  Trimestrale  di  diritto  e  procedura
+civile, 2/383-384.
+______. Proceso  civile  e  costituzione:  problemi  di  diritto  tedesco  e  italiano.
+Milano: A Giuffre, 1974.
+TROISE. Maria Regina Caldeira. A fase ordinatória do processo e a produção das
+provas. In NETO, Olavo de Oliveira; NETO, Elias Marques de Medeiros;
+LOPES, Ricardo Augusto de Castro (coords.). A prova no Direito Processual
+Civil, estudos em homenagem ao professor João Batista Lopes. São Paulo:
+Editora Verbatim, 2013.
+TUCCI, José Rogério Cruz e. Limites subjetivos da eficácia da sentença e da coisa
+julgada civil. São Paulo: RT, 2006.
+______. Precedente judicial como fonte do direito. São Paulo: RT, 2004.
+TUCCI,  Rogério  Lauria. Do  Julgamento  conforme  o  Estado  do  Processo.  São
+Paulo: J. Bushatsky, 1975.
+
+TUGENDHAT, Ernest. Lições sobre ética. 3.ed. Petrópolis, Vozes, 1996.
+TUPINAMBÁ, Carolina. Novas tendências de participação processual – o amicus
+curiae no anteprojeto do novo CPC. In FUX, Luis (coord), O novo processo
+civil brasileiro Direito em expectativa, Rio de Janeiro: Forense, 2011.
+TZIRULNIK,  Ernesto;  CAVALCANTI,  Flávio  de  Queiroz  B.;  PIMENTEL,
+Ayrton. O Contrato de Seguro de Acordo com o Novo Código Civil Brasileiro.
+2. ed. São Paulo: RT, 2003.
+VALE, Juliana Leite Ribeiro do. A funcionalidade do ônus da prova no processo
+civil  brasileiro  (Dissertação  de  mestrado).  Porto  Alegre:  Faculdade  de
+Direito da Universidade Federal do Rio Grande do Sul, 2007.
+VALLEJOS,  Juan  Carlos.  Las  cargas  probatorias  dinámicas  en  el  Derecho  de
+Daños, in  PEYRANO,  Jorge  W. Cargas Probatorias Dinámicas.  Santa  Fé:
+Rubinzal-Culzoni, 2004.
+VARGAS,  Franciely  de;  PINTO,  Rodrigo  Strobel.  Aspectos  constitucionais
+destacados  dos  atos  processuais  eletrônicos. Revista  de  pr
+[/PAGINA 1126]
+
+[PAGINA 1127]
+ocesso,  v.  141,
+nov./2006.
+VERDE,  Giovanni. L’onere  dela  prova  nel  processo  civile.  Napoli:  Jovene
+Editore, 1974.
+VIEHWEG, Theodor. Tópica e Filosofia do Direito.
+WALD, Arnoldo. Contagem de prazo para recurso – Interpretação da Súmula 310
+do STF. Revista dos Tribunais, v. 486, 1976, e Revista Forense, v. 252, 1975.
+WAMBIER, Luiz Rodrigues; WAMBIER, Teresa Arruda Alvim; MEDINA, José
+Miguel Garcia. Breves comentários à nova sistemática processual civil. São
+Paulo: Editora RT, 2006.
+WAMBIER, Teresa Arruda Alvim. Embargos de declaração e omissão do juiz. 2.
+ed. São Paulo: Ed. RT, 2014.
+______. Nulidades do processo e da sentença. 5 ed. São Paulo: Ed. RT, 2004.
+______. O Novo Regime do Agravo. 2. ed. São Paulo: RT, 1996.
+WATANABE, Kazuo. Da cognição no processo civil. São Paulo: RT, 1987.
+______.  Política  judiciária  nacional  de  tratamento  adequado  dos  conflitos  de
+interesses: utilização dos meios de resolução de controvérsias. In MENDES,
+Aluísio  Gonçalves  de  Castro;  WAMBIER,  Teresa  Arruda  Alvim  (org.). O
+processo  em  perspectiva:  jornadas  brasileiras  de  direito  processual,  São
+Paulo: Editora Revista dos Tribunais, 2013.
+
+______.  Prefácio. In:  SILVA,  Paulo  Eduardo  Alves  da. Gerenciamento  de
+processos judiciais. São Paulo: Saraiva, 2010.
+______. Tutela antecipatória e tutela específica das obrigações de fazer e não
+fazer. Direito do Consumidor, v. 19, 2010.
+WHITE, Inés Lépori (coord.) Cargas probatorias dinámicas. Santa Fé: Rubinzal-
+Culzoni, 2004.
+YARSHELL,  Flávio  Luiz.  Alterações  na  legislação  processual  e  segurança
+jurídica. Carta forense, n. 50, jul./2007.
+______. Antecipação da prova sem o requisito da urgência e direito autônomo à
+prova. Tese da Faculdade de Direito da USP, São Paulo, s/d, nº 24.
+______.  Antecipação  de  Tutela  Específica  nas  Obrigações  de  Declaração  de
+Vontade, no Sistema do CPC. In: WAMBIER, Teresa Arruda Alvim (coord.).
+Aspectos Polêmicos da Antecipação de Tutela. São Paulo: RT, 1997.
+ZANFERDINI, Flávia de Almeida Montingelli; GOMES, Alexandre Gir. Cargas
+Probatórias  Dinâmicas  no  Processo  Civil  Brasileiro. Revista  Dialética  de
+Direito Processual n. 69, dez/2008.
+ZANUTTIGH,  Loriana.  Verbete  “Litisconsorzio”, in Digesto.  4.  ed. Discipline
+Privatistiche, Sezione Civile. v. 11, 1996.
+ZANZUCCHI, Marco Tullio. Diritto Processuale Civile. 4. ed. Milano: Giuffrè,
+1946, v. I.
+ZAVASCKI,  Teori  Albino.  “Antecipação  da  tutela  e  colisão  de  direitos
+fundamentais”. In: TEIXEIRA, Sálvio de Figueiredo. Reforma do Código de
+Processo Civil. São Paulo: Saraiva, 1996.
+______. Cooperação jurídica internacional e a concessão de exequatur. Revista
+de Processo, v.183, maio/2010.
+______.  Reforma  do  Sistema  Processual  Civil  Brasileiro  e  Reclassificação  da
+Tutela Jurisdicional. Revista de Processo, v. 88, out./ dez. 1997.
+
+Índice dos Fluxogramas
+Fluxograma
+nº 1
+–
+Conflito de
+competência  (arts.
+951 a 959)
+Fluxograma
+nº 2
+–
+Assistência   (arts.
+119 a 123)
+Fluxograma
+nº 3
+–
+[/PAGINA 1127]
+
+[PAGINA 1128]
+Denunciação    da
+lide    promovida
+pelo  autor  (arts.
+126 e 127)
+Denunciação    da
+
+Fluxograma
+nº 4
+–
+lide    promovida
+pelo réu (arts. 126
+e 128)
+Fluxograma
+nº 5
+–
+Chamamento    ao
+processo (art. 131)
+Fluxograma
+nº 6
+–
+Incidente de
+desconsideração
+da   personalidade
+jurídica  (arts.  133
+a 137)
+Fluxograma
+nº 7
+–
+Arguição de
+impedimento    ou
+suspeição    (art.
+
+146)
+Fluxograma
+nº 8
+–
+Tutela    cautelar
+antecedente   (arts.
+305 a 310)
+Fluxograma
+nº 9
+–
+Tutela  antecipada
+antecedente,
+tendente a
+estabilizar-se (arts.
+303 e 304)
+Fluxograma
+–
+Tutela   provisória
+satisfativa não
+tendente à
+estabilização  (arts.
+
+nº 10303  a  310,  por
+analogia)
+Fluxograma
+nº 11
+–
+Tutela da evidência
+(art. 311)
+Fluxograma
+nº 12
+–
+Procedimento
+comum (arts. 318 a
+495)
+Fluxograma
+nº 12-A
+–
+Procedimento
+sumário  (arts.  275
+a 281,
+remanescente   do
+CPC/1973)
+
+Fluxograma
+nº 13
+–
+Improcedência
+liminar  do  pedido
+(art. 332)
+Fluxograma
+nº 14
+–
+Indeferimento   da
+petição inicial (art.
+330)
+Fluxograma
+nº 15
+–
+Julgamento
+conforme  o  estado
+do  processo  (arts.
+354 a 357)
+Fluxograma
+nº 16
+–
+Audiência de
+instrução e
+julgamento   (arts.
+
+358 a 368)
+Fluxograma
+nº 17
+–
+Produção
+antecipada de
+prova  (arts.  381  a
+383)
+Fluxograma
+nº 18
+–
+Exibição de
+documento ou
+coisa  pela  parte
+(arts. 396 a 400)
+Fluxograma
+nº 19
+–
+Exibição de
+documento ou
+coisa  por  terceiro
+(arts. 401 a 404)
+
+Fluxograma
+nº 20
+–
+Liquidação    por
+cálculo (art. 509, §
+2º)
+Fluxograma
+nº 21
+–
+Liquidação    por
+arbitramento  (arts.
+509 e 510)
+Fluxograma
+nº 22
+–
+Liquidação    por
+procedimento
+comum (arts. 509 e
+511)
+Fluxograma
+nº 23
+–
+Cumprimento   da
+sentença  em  geral
+
+(arts. 513 a 519)
+[/PAGINA 1128]
+

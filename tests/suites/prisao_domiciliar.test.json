@@ -1,0 +1,54 @@
+{
+    "suite": "prisao_domiciliar",
+    "descricao": "Testes para matéria de prisão domiciliar",
+    "casos": [
+        {
+            "id": "dom-001",
+            "nome": "Prisão domiciliar - Deferimento gestante",
+            "insumos": "Apenada gestante de 7 meses requer conversão em prisão domiciliar. Crime sem violência.",
+            "orientacao": "Deferir prisão domiciliar conforme art. 318 CPP",
+            "agrupador": "prisao_domiciliar",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "citacao_art318",
+                "fundamentacao_maternidade"
+            ]
+        },
+        {
+            "id": "dom-002",
+            "nome": "Prisão domiciliar - Indeferimento crime hediondo",
+            "insumos": "Apenada mãe de filho menor requer prisão domiciliar. Condenada por tráfico de drogas.",
+            "orientacao": "Indeferir - crime de tráfico vedado",
+            "agrupador": "prisao_domiciliar",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_vedacao_trafico"
+            ]
+        },
+        {
+            "id": "dom-003",
+            "nome": "Prisão domiciliar - Deferimento idoso enfermo",
+            "insumos": "Apenado de 72 anos com doença grave requer prisão domiciliar. Laudo médico anexo.",
+            "orientacao": "Deferir prisão domiciliar humanitária",
+            "agrupador": "prisao_domiciliar",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_saude"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

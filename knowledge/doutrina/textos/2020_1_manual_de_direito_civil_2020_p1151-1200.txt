@@ -1,0 +1,2560 @@
+[META]
+TITULO: 2020 1 Manual de Direito Civil 10ª
+AUTOR: Desconhecido
+ANO: 2020
+EDICAO: N/A
+EDITORA: N/A
+PAGINAS: 1151-1200
+ARQUIVO_ORIGINAL: 2020_1_Manual_de_Direito_Civil_10ª.pdf
+CITACAO_ABNT: 2020 1 Manual de Direito Civil 10ª. 2020.
+[/META]
+
+[PAGINA 1151]
+ivil, o termo condomínio edilício foi introduzido por Miguel Reale, por
+se  tratar  de  uma  expressão  nova  de  incontestável  origem  latina,  muito
+utilizada,  por  exemplo,  pelos  italianos.
+123
+  Ainda  são  usados  os  termos
+condomínio em edificações  e condomínio horizontal  (eis  que  as  unidades
+estão horizontalmente uma para as outras).
+O CC/2002 consolidou o tratamento que constava da primeira parte da
+Lei 4.591/1964 (arts. 1.º a 27). Sendo assim, filia-se à corrente que sustenta a
+revogação tácita de tais comandos, nos termos do art. 2.º, § 1.º, da Lei de
+Introdução, eis que a codificação regulou inteiramente a matéria. Daquela Lei
+específica,  subsiste  apenas  o  tratamento  referente  às  incorporações
+imobiliárias.
+124
+Cumpre destacar que se segue o entendimento doutrinário que prega a
+aplicação das regras do condomínio edilício para categorias similares. Nesse
+sentido, o Enunciado n. 89 do CJF/STJ, da I Jornada de Direito Civil, in
+verbis: “o disposto nos arts. 1.331 a 1.358 do novo Código Civil aplica-se, no
+que couber, aos condomínios assemelhados, tais como loteamentos fechados,
+multipropriedade imobiliária e clubes de campo”. Sobre a multipropriedade,
+como se verá de forma mais aprofundada, o tema acabou por ser regulado
+pela Lei 13.777/2018.
+De toda sorte, sobre outra modalidade, repise-se a existência de decisão
+anterior do Supremo Tribunal Federal que concluiu pela não incidência das
+regras  relativas  ao  condomínio  edilício  no  tocante  à  cobrança  de  taxas  de
+administração  para  os  condomínios  fechados  de  casas,  tratados  como
+associações de moradores (condomínio de fato ou condomínio de lotes). A
+ementa do julgado foi assim publicada:
+
+“Associação de moradores. Mensalidade. Ausência de adesão. Por
+não  se  confundir  a  associação  de  moradores  com  o  condomínio
+disciplinado  pela  Lei  4.591/1964,  descabe,  a  pretexto  de  evitar
+vantagem  sem  causa,  impor  mensalidade  a  morador  ou  a
+proprietário de imóvel que a ela não tenha aderido. Considerações
+sobre o princípio da legalidade e da autonomia da manifestação de
+vontade  –  artigo  5.º,  incisos  II  e  XX,  da  Constituição  Federal”
+(STF,  RE  432106,  1.ª  Turma,  Rel.  Min.  Marco  Aurélio,  j.
+20.09.2011).
+Como  antes  se  destacou,  fez  o  mesmo  o  STJ,  em  julgamento  de
+incidente de recursos repetitivos, praticamente pacificando a questão (REsp
+1.280.871/SP e REsp 1.439.163/SP, 2.ª Seção, Rel. Min. Ricardo Villas Bôas
+Cueva, Rel. para acórdão Min. Marco Buzzi, j. 11.03.2015, DJe 22.05.2015,
+publicado no seu Informativo n. 562). Como se pode perceber, a votação não
+foi unânime, apesar de a questão estar então pacificada, pela existência de
+decisões nas duas Cortes Superiores do País. Tanto isso é verdade que, em
+outubro  de  2016,  a  última  conclusão  passou  a  compor  a  Edição  n.  68  da
+ferramenta Jurisprudência  em  Teses,  do  Superior  Tribunal  de  Justiça.
+Conforme a sua premissa de número 12, “as taxas de manutenção cr
+[/PAGINA 1151]
+
+[PAGINA 1152]
+iadas por
+associações de moradores não obrigam os não associados ou que a elas não
+anuíram”.
+De toda sorte, como se verá de forma separada em tópico específico,
+mais adiante, tal entendimento parece estar superado, pelo menos em parte.
+Isso porque a Lei 13.465, de julho de 2017, introduziu tratamento relativo ao
+condomínio de lotes no Código Civil, passando o § 2.º do novo art. 1.358-A
+da  codificação  material  a  estabelecer  que  “aplica-se, no  que  couber,  ao
+condomínio  de  lotes  o  disposto  sobre  condomínio  edilício  neste  Capítulo,
+respeitada  a  legislação  urbanística”.  A  afirmação  vale  para  os  loteamentos
+fechados que fizerem a opção de conversão para o regime de condomínio de
+lotes;  ou  para  os  novos  condomínios  que  surgirem  com  a  adoção  desse
+caminho de instituição. Para os loteamentos fechados anteriores em que não
+houver  mudança  a  respeito  de  sua  situação  jurídica,  aplicam-se  os
+precedentes da jurisprudência superior ora citados.
+Exposta tal controvérsia a respeito da estrutura interna do condomínio
+edilício, preconiza o art. 1.331 do CC que pode haver, em edificações, duas
+modalidades de partes:
+
+– Partes que são propriedade exclusiva (áreas autônomas
+ou exclusivas) – caso dos apartamentos, dos escritórios,
+das  salas,  das  lojas,  das  sobrelojas  ou  abrigos  para
+veículos, com as respectivas frações ideais no solo e nas
+outras partes comuns. Como componentes da propriedade
+exclusiva  –  havendo  uma fração  real  –,  podem  ser
+alienadas  e  gravadas  livremente  por  seus  proprietários,
+não  havendo  direito  de  preferência  a  favor  dos  outros
+condôminos. A norma – § 1.º do art. 1.331 – foi alterada
+pela Lei 12.607, de 4 de abril de 2012. Passou, assim, a
+prever  que  os  abrigos  de  veículo  não  poderão  ser
+alienados   ou   alugados   a   pessoas   estranhas   ao
+condomínio, salvo autorização expressa na convenção de
+condomínio. A alteração tem justificativa na proteção da
+segurança   do   condomínio,   bem   como   na   sua
+funcionalidade. Insta verificar que muitas convenções de
+condomínio já traziam tal proibição. De toda sorte, como
+se verá a seguir, mesmo quando constar tal autorização
+na  convenção,  deve  ser  feita  a  ressalva  do  direito  de
+preferência para locação da vaga de garagem.
+–  Partes  que  são  propriedade  comum  dos  condôminos
+(áreas comuns) – o solo, a estrutura do prédio, o telhado,
+a  rede  geral  de  distribuição  de  água,  esgoto,  gás  e
+eletricidade,  a  calefação  e  refrigeração  centrais,  e  as
+demais partes comuns, inclusive o acesso ao logradouro
+público.  Não  podem  ser  alienados  separadamente,  ou
+divididos.  Em  relação  a  tais  áreas,  a  cada  unidade
+imobiliária  caberá,  como  parte  inseparável,  uma fração
+ideal  no  solo  e  nas  outras  partes  comuns,  que  será
+identificada  em  forma  decimal  ou  ordinária  no
+instrumento  de  instituição  do  condomínio.  Nenhuma
+unidade  imobiliária  pode  ser  privada  do  acesso  ao
+logradou
+[/PAGINA 1152]
+
+[PAGINA 1153]
+ro público. Anote-se que, pela lei, o terraço de
+cobertura é parte comum, salvo disposição contrária da
+escritura  de  constituição  do  condomínio.  Além  disso,
+segundo a doutrina, no condomínio edilício é possível a
+utilização exclusiva de área “comum” que, pelas próprias
+
+características  da  edificação,  não  se  preste  ao  “uso
+comum” dos demais condôminos (Enunciado n. 247 do
+CJF/STJ).  Como  exemplos,  mencionem-se  as  vigas  e
+pilares existentes nos apartamentos. Para a jurisprudência
+do Superior Tribunal de Justiça, contando com o apoio
+deste  autor,  não  há  óbice  para  que  um  condômino
+reforme ou utilize, de forma exclusiva, área comum do
+condomínio, desde que exista autorização da assembleia
+geral (premissa número 16 da Edição n. 68 da ferramenta
+Jurisprudência em Teses, de outubro de 2016). A título
+de exemplo, cite-se, nos prédios com um apartamento por
+andar, o uso do hall do elevador privativo da unidade.
+Como  outrora  foi  anotado,  há  no  condomínio,  substancialmente,  uma
+relação  entre  coisas  e  não  entre  pessoas.  Sendo  assim,  conforme  pacífica
+conclusão  da  jurisprudência,  não  há que  se  falar  em  relação  jurídica  de
+consumo entre os condôminos (por todos: STJ, REsp 239.578/SP, 5.ª Turma,
+Rel.  Min.  Felix  Fischer,  j.  08.02.2000, DJU  28.02.2000,  p.  122;  TJPR,
+Apelação  Cível  0537835-0,  Curitiba,  9.ª  Câmara  Cível,  Rel.  Des.  Rosana
+Amaral Girardi Fachin, DJPR  08.05.2009,  p.  309;  TJMG,  Apelação  Cível
+1.0701.03.047894-8/001,  Uberaba,  17.ª  Câmara  Cível,  Rel.  Des.  Lucas
+Pereira, j. 06.09.2006, DJMG 05.10.2006). No mesmo sentido, a afirmação
+número 10 constante da Edição n. 68 da ferramenta Jurisprudência em Teses,
+do Superior Tribunal de Justiça: “nas relações jurídicas estabelecidas entre
+condomínio e condôminos não incide o Código de Defesa do Consumidor”.
+Como  os  condôminos  são  componentes  da  relação  entre  as  coisas,  falta  a
+alteridade própria das relações de consumo.
+Pois bem, para essa estruturação são essenciais dois atos, quais sejam a
+instituição e a constituição do condomínio edilício.
+Nos termos do art. 1.332 do CC, a instituição do condomínio edilício
+pode ser feita por ato entre vivos ou testamento, registrado no Cartório de
+Registro  de  Imóveis.  Como  notório  e  corriqueiro  ato  de  instituição inter
+vivos, cite-se o negócio jurídico de incorporação imobiliária. Devem constar
+da instituição:
+I) A discriminação e individualização das unidades
+
+de propriedade exclusiva, estremadas uma das outras
+e  das  partes  comuns,  o  que  constitui  um  trabalho
+essencialmente de engenharia.
+II) A determinação da fração ideal atribuída a cada
+unidade,  relativamente  ao  terreno  e  às  partes
+comuns.
+III) O fim a que as unidades se destinam, o que é
+fundamental  para  a  funcionalização  concreta  do
+condomínio edilício.
+No que concerne à convenção de condomínio, essa constitui o estatuto
+coletivo  que  regula  os  interesses  das  partes,  havendo  um  típico  ne
+[/PAGINA 1153]
+
+[PAGINA 1154]
+gócio
+jurídico decorrente do exercício da autonomia privada. Enuncia o art. 1.333
+do  CC  que  a  convenção  que  constitui  o  condomínio  edilício  deve  ser
+subscrita  pelos  titulares  de,  no  mínimo,  dois  terços  das  frações  ideais,
+tornando-se,  desde  logo,  obrigatória  para  os  titulares  de  direito  sobre  as
+unidades, ou para quantos sobre elas tenham posse ou detenção.
+Para ser oponível contra terceiros (efeitos erga omnes), a convenção do
+condomínio  deverá  ser  registrada  no  Cartório  de  Registro  de  Imóveis.
+Todavia, consigne-se que, conforme a Súmula 260 do STJ, a convenção de
+condomínio  aprovada,  ainda  que  sem  registro,  é  eficaz  para  regular  as
+relações entre os condôminos (efeitos inter partes).
+Como se nota, a convenção é regida pelo princípio da força obrigatória
+da  convenção  (pacta sunt servanda).  Porém,  na  realidade  contemporânea,
+não  se  pode  esquecer  que  tal  preceito  não  é  absoluto,  encontrando  fortes
+limitações nas normas de ordem pública, nos preceitos constitucionais e em
+princípios sociais, caso da boa-fé objetiva e da função social. Na teoria e na
+prática,  a  grande  dificuldade  está  em  saber  os  limites  de  licitude  das
+estipulações da convenção condominial.
+Para  ilustrar,  como  primeira  concreção,  surge  a  polêmica  referente  à
+presença de animais nas dependências do condomínio. Três situações podem
+ser apontadas: a) a convenção de condomínio proíbe a estada de animais; b) a
+convenção é omissa sobre o assunto; c) a convenção permite os animais. Nos
+dois últimos casos, em regra, a permanência dos animais é livre, a não ser que
+o  animal  seja  perturbador  ou  incompatível  com  o  bem-estar  e  a  boa
+convivência dos condôminos.
+Ademais,  mesmo  nos  casos  em  que  há  proibição  na  convenção  de
+
+condomínio,  a  boa  jurisprudência  tem  entendido  que  é  permitida  a
+permanência do animal de estimação, desde que ele não perturbe o sossego, a
+saúde e a segurança dos demais coproprietários:
+“Condomínio.  Ação  declaratória  c.c.  obrigação  de  fazer.  Parcial
+procedência. Condôminos que mantêm cachorro de pequeno porte
+(raça Yorkshire)  em  sua  unidade  condominial.  Convenção
+condominial  que  proíbe  a  manutenção  de  qualquer  espécie  de
+animal nas dependências do condomínio. Abusividade, na hipótese.
+Inexistência de qualquer espécie de risco aos demais condôminos.
+Provas  no  sentido  de  que  referido  animal  não  causa  qualquer
+transtorno  aos  moradores.  Entendimento  jurisprudencial  que
+permite a permanência de animais de pequeno porte (hipótese dos
+autos)  nas  dependências  do  condomínio.  Ausência  de  risco  ao
+sossego e segurança dos condôminos (art. 10, III, Lei 4.591/1964).
+Sentença   mantida.   Recurso   improvido”   (TJSP,   Apelação
+994.05.049285-2,  Acórdão  4383110,  Sorocaba,  8.ª  Câmara  de
+Direito  Privado,  Rel.  Des.  Salles  Rossi,  j.  17.03.2010, DJESP
+12.04.2010).
+“Obrigação  de  fazer.  Condomínio  edilício.  Ação  objetiva
+[/PAGINA 1154]
+
+[PAGINA 1155]
+ndo  a
+retirada de animais domésticos. Convenção condominial proibindo
+a  permanência  de  qualquer  animal  nos  apartamentos  ou  nas
+dependências   internas   do   condomínio.   Pedido   julgado
+improcedente.  Apelação.  Mudança  de  um  dos  corréus.  Falta  de
+interesse recursal superveniente. Inadmissibilidade do recurso em
+relação  aos  demais  litisconsortes.  Norma  interna  que  não  pode
+arredar  o  direito  do  condômino  de  usufruir  de  sua  unidade
+autônoma, mantendo junto de si animal de pequeno ou de médio
+porte que não cause incômodo aos vizinhos nem ponha em risco a
+integridade  física  dos  moradores.  Recurso  desprovido  na  parte
+conhecida” (TJSP, Apelação 994.03.096149-9, Acórdão 4271082,
+Limeira, 5.ª Câmara de Direito Privado, Rel. Des. J. L. Mônaco da
+Silva, j. 16.12.2009, DJESP 19.02.2010).
+Releve-se,  ainda,  acórdão  do  Tribunal  de  Justiça  de  Pernambuco,  da
+lavra do Desembargador Jones Figueirêdo Alves, concluindo que é possível
+
+permitir a permanência de animal de grande porte em condomínio edilício,
+desde que este não perturbe a paz e o sossego da coletividade. O decisum foi
+assim  ementado,  em  resumo:  “Ação  de  obrigação  de  fazer.  Condomínio.
+Criação  de  animal  de  grande  porte.  Proibição.  Norma  interna  e  sua
+relativização.  Interpretação  teleológica.  Congraçamento  entre  os  direitos
+individuais  e  coletivos.  Cão  de  conduta  dócil.  Sossego,  salubridade  e
+segurança preservados. Apelo provido” (TJPE, Apelação Cível 259.708-6, 4.ª
+Câmara de Direito Privado, Origem: 19.ª Vara Cível da Capital, decisão de
+31 de outubro de 2012).
+O julgado cita trecho da coleção de Direito Civil deste autor, ainda em
+coautoria  com  José  Fernando  Simão,  deduzindo  que,  “com  efeito,  a
+permanência  de  um  animal  em  um  prédio  só  pode  ser  proibida  se  houver
+violação  do  sossego,  da  salubridade  e  da  segurança  dos  condôminos  (art.
+1.336, IV, Código Civil). No ponto, invoca-se o clássico paradigma dos três
+‘S’,  para  ‘uma  devida  eficiência  de  análise  do  caso  concreto  ao  desate
+meritório’. Bem a propósito, o magistério de Flávio Tartuce e José Fernando
+Simão sustenta: ‘... Sendo expressa a proibição de qualquer animal, não há
+que prevalecer a literalidade do texto que representa verdadeiro exagero na
+restrição do direito de uso da unidade autônoma, que é garantido por lei’ (art.
+1.335, I, do CC e art. 19 da Lei n.º 4.591/1964), valendo o entendimento pelo
+qual  se  deve  afastar  a  literalidade  da  convenção  para  a  análise  do  caso
+concreto”.  Em  artigo  publicado  no  site Migalhas,  Jones  Figueirêdo  Alves
+comenta  o  acórdão  e  menciona  o  caso  do  domador  de  ursos,  geralmente
+utilizado em aulas de Teoria Geral do Direito para ilustrar a concepção da
+equidade:
+“Antes de mais, retenha-se a alegoria do domador de ursos, citada
+por  Luis  Recasens  Siches  na  sua  consagrada  obra  Filosofía  Del
+Derecho  que  a  seu  turno  refere  a  Radbruch  e  aquele  toma  p
+[/PAGINA 1155]
+
+[PAGINA 1156]
+or
+premissa a hipótese de Petrasyski, onde se relata o caso: ‘(...) En el
+andén de una estación ferroviaria de Polonia había un letrero que
+transcribía un artículo del reglamento de ferrocarriles, cuyo texto
+rezaba: ‘Se prohíbe el paso al andén con perros’. Sucedió una vez
+que alguien iba a penetrar en el andén acompañado de un oso. El
+empleado que vigilaba la puerta le impidió el acceso. Protestó la
+persona que iba acompañada del oso, diciendo que aquel artículo
+del reglamento prohibía solamente pasar al andén con perros, pero
+
+no con otra clase de animales; y de ese modo surgió un conflicto
+jurídico,  que  se  centró  en  torno  de  la  interpretación  de  aquel
+artículo  del  reglamento.  No  cabe  la  menor  duda  de  que,  si
+aplicamos estrictamente los instrumentos de la lógica tradicional,
+tendremos que reconocer que la persona que iba acompañada del
+oso  tenía  indiscutible  derecho  a  entrar  ella  junto  con  el  oso  al
+andén.  No  hay  modo  de  incluir  a  los  osos  dentro  del  concepto
+‘perros’’. Pois bem: em ser assim, deverá haver na estimação da
+norma,  a  devida  congruência  entre  meios  e  fins,  para  que  sua
+eficácia  exalte  a  sua  própria  razão  de  ser.  Toda  norma  deve  ser
+interpretada  teleologicamente,  ou  seja,  pela  ideia-força  que  a
+construiu”.
+125
+Exatamente  no  mesmo  sentido,  no  ano  de  2019  surgiu  acórdão  no
+Superior  Tribunal  de  Justiça  firmando  a  tese  de  ser  “ilegítima  a  restrição
+genérica contida em convenção condominial que proíbe a criação e guarda de
+animais de quaisquer espécies em unidades autônomas”. Como consta de sua
+ementa, que tem o meu total apoio, “se a convenção não regular a matéria, o
+condômino  pode  criar  animais  em  sua  unidade  autônoma,  desde  que  não
+viole os deveres previstos nos arts. 1.336, IV, do CC/2002 e 19 da Lei n.º
+4.591/1964.  Se  a  convenção  veda  apenas  a  permanência  de  animais
+causadores de incômodos aos demais moradores, a norma condominial não
+apresenta, de plano, nenhuma ilegalidade. Se a convenção proíbe a criação e
+a  guarda  de  animais  de  quaisquer  espécies,  a  restrição  pode  se  revelar
+desarrazoada,  haja  vista  determinados  animais  não  apresentarem  risco  à
+incolumidade e à tranquilidade dos demais moradores e dos frequentadores
+ocasionais do condomínio. Na hipótese, a restrição imposta ao condômino
+não se mostra legítima, visto que o condomínio não demonstrou nenhum fato
+concreto  apto  a  comprovar  que  o  animal  (gato)  provoque  prejuízos  à
+segurança,  à  higiene,  à  saúde  e  ao  sossego  dos  demais  moradores”  (STJ,
+REsp  1.783.076/DF,  3.ª  Turma,  Rel.  Min.  Ricardo  Villas  Bôas  Cueva,  j.
+14.05.2019, DJe 24.05.2019).
+Os acórdãos e as lições expostas tornam a convenção letra morta, em
+prol de uma interpretação mais condizente com os valores coletivos e sociais
+(funcionalização  social).  Mesmo  no  caso  do  último  julgado  superior
+transcrito,  nota-se  que  a  convenção  que  veda  a  proibição
+[/PAGINA 1156]
+
+[PAGINA 1157]
+de  animais  que
+causam incômodos somente confirma a regra dos 3s, prevista no art. 1.336,
+
+inc. IV, do Código Civil.
+Na doutrina consolidada tem-se entendido de forma semelhante. Tanto
+isso é verdade que, na VI Jornada de Direito Civil, foi aprovado o Enunciado
+n.  566,  de  autoria  do  Professor  Cesar  Calo  Peghini,  estabelecendo  que  “a
+cláusula convencional que restringe a permanência de animais em unidades
+autônomas  residenciais  deve  ser  valorada  à  luz  dos  parâmetros  legais  de
+sossego,  insalubridade  e  periculosidade”.  A  justificativa  do  enunciado
+doutrinário  menciona  as  “especificidades  do  caso  concreto,  como  por
+exemplo, a utilização terapêutica de animais de maior porte. Evita-se, assim,
+a vedação abusiva na convenção”.
+Outra  situação  que  tem  sido  debatida  mais  recentemente,  no  que
+concerne  às  restrições  de  direitos  que  eventualmente  podem  constar  das
+convenções  de  condomínio,  diz  respeito  à  colocação  dos  imóveis  para
+locação   via   aplicativos   digitais,   em   sistema   de   economia   de
+compartilhamento. O principal debate envolve o “AirBnB” que originalmente
+quer  dizer  “Cama  de  Ar  e  Café  da  Manhã”  (“Air  Bed  and  Breakfast”).
+Sucessivamente,  já  surgem  discussões  relativas  a  outros  aplicativos,
+notadamente nas grandes cidades.
+Diante  de  uma  grande  circulação  de  pessoas  dos  imóveis,  a
+supostamente colocar em risco a segurança do condomínio, existem julgados
+que admitem restrições dessa natureza em convenções ou mesmo por decisão
+de assembleias condominiais extraordinárias. Utiliza-se, ainda, o argumento
+de  desvirtuamento  da  destinação  do  imóvel,  pela  presença  de  um  suposto
+serviço de hotelaria. Nesse sentido, do Tribunal Paulista:
+“Agravo  de  Instrumento.  Condomínio.  Tutela  de  Urgência  de
+Natureza Antecedente. Pretensão a que possa livremente locar seus
+imóveis por temporada e mediante uso de aplicativos, bem como
+para que seja afastada a restrição de uso das áreas comuns pelos
+inquilinos. Locação por uso de aplicativos ou páginas eletrônicas
+(‘Airbnb’ e afins) que possui finalidade característica de hotelaria
+ou  hospedaria.  Deliberações  tomadas  em  Assembleia  Geral
+Extraordinária, por medidas de segurança aos condôminos” (TJSP,
+Agravo de Instrumento 2013529-28.2018.8.26.0000, Rel. Bonilha
+Filho, j. 26.02.2018).
+“Agravo de instrumento. Ação visando a anulação de deliberação
+
+condominial.  Utilização  do  apartamento  como  hospedagem,  por
+meio da plataforma eletrônica ‘Air BNB’. Impossibilidade. Edifício
+de caráter residencial. Liminar revogada. Recurso provido” (TJSP,
+Agravo  de  Instrumento  2133212-93.2017.8.26.0000,  36.ª  Câmara
+de Direito Privado, Foro Regional II, Santo Amaro, Rel. Des. Pedro
+Baccarat, j. 27.09.2017, data de registro 27.09.2017).
+“Agravo de Instrumento. Interposição contra decisão que deferiu a
+tutela de urgência com determinação à ré a abstenção de locar ou
+ceder  o  imóvel  com  finalidade  característic
+[/PAGINA 1157]
+
+[PAGINA 1158]
+a  de  hotelaria  ou
+hospedaria, sob pena de multa diária de R$ 1.000,00. Possibilidade
+de se determinar a antecipação dos efeitos da tutela determinada,
+diante da presença de elementos que evidenciam a probabilidade do
+direito e o perigo de dano ou risco ao resultado útil do processo,
+nos termos dos artigos 294 e 300 do Código de Processo Civil de
+2015.  Observação  com  relação  ao  teto  da  incidência  da  multa
+(astreintes)  em  caso  de  eventual  descumprimento  da  decisão.
+Decisão mantida, com observação” (TJSP, Agravo de Instrumento
+2047686-61.2017.8.26.0000, 33.ª Câmara de Direito Privado, Rio
+Claro, Rel. Des. Mario A. Silveira, j. 29.05.2017, data de registro
+08.06.2017).
+Porém, não estou filiado a essa forma de julgar, pois trata-se de uma
+restrição anterior e exagerada ao direito de propriedade não prevista em lei, o
+que  afronta  ao  direito  fundamental  previsto  no  art.  5.º,  inc.  XXII,  da
+Constituição.  Como  tenho  sustentado,  não  cabem  proibições  prévias  como
+essa, devendo as questões restritivas serem analisadas sempre a posteriori,
+inclusive com a imposição das sanções previstas no Código Civil, se for o
+caso. Seguindo em parte tal entendimento, quanto à impossibilidade de tal
+restrição  ser  decidida  em  assembleia  extraordinária,  do  mesmo  Tribunal
+Paulista:
+“Agravo  de  instrumento.  Ação  de  anulação  de  assembleia
+condominial.  Obrigação  de  fazer.  Tutela  antecipada.  Plataforma
+Airbnb.  Decisão  da  assembleia  condominial  ineficaz.  Art.  1.351
+CC. Não há na Convenção do Condomínio regra expressa que vede
+a locação da unidade para temporada, tampouco de utilização da
+
+plataforma Airbnb, facilidade tecnológica recente. O artigo 1.351
+do Código Civil prevê que a alteração da convenção do condomínio
+depende  de  aprovação  de  2/3  (dois  terços)  dos  votos  dos
+condôminos. Por outro lado, a própria convenção prevê um quórum
+ainda mais qualificado, de ¾ (três quartos) dos votos para alteração
+da convenção. Decisão tomada por 17 das 59 unidades de proibir o
+uso da plataforma Airbnb no Condomínio não cumpre os requisitos
+legais.  Decisão  ineficaz,  cujos  efeitos  devem  ser  suspensos  até
+decisão  final  de  mérito.  Recurso  improvido”  (TJSP,  Agravo  de
+Instrumento 2118946-67.2018.8.26.0000, Acórdão 11695443, 30.ª
+Câmara  de  Direito  Privado,  São  Paulo,  Rel.  Des.  Maria  Lúcia
+Pizzotti, j. 08.08.2018, DJESP 15.08.2018, p. 2.147).
+Em  outubro  de  2019,  o  tema  começou  a  ser  debatido  no  âmbito  da
+Quarta  Turma  do  Superior  Tribunal  de  Justiça,  concluindo  o  primeiro
+julgador a votar que, pelas peculiaridades do caso concreto, não seria possível
+vedar  a  utilização  do  imóvel  para  locação  em  aplicativo  digital  (Recurso
+Especial  n.  1.819.075/RS,  Rel.  Min.  Luis  Felipe  Salomão).  De  início,  foi
+afastada  a  caracterização  da  atividade  de  locação  como  hospedagem
+comercial e, com isso, a alteração da destinação do imóvel. Como constou do
+voto  do  Ministro  Rela
+[/PAGINA 1158]
+
+[PAGINA 1159]
+tor,  “a  alegação  de  alta  rotatividade  de  pessoas  no
+imóvel, de ausência de vínculo entre os ocupantes e do suposto incremento
+patrimonial  dos  proprietários  –  no  caso  em  exame,  não  demonstradas  por
+provas adequadas –, mesmo assim não servem, a meu sentir, à configuração
+de atividade de exploração comercial dos imóveis, sob pena de desvirtuar a
+própria  classificação  legal  da  atividade,  pressupondo  a  atividade  de
+empresário”. Entendeu-se, desse modo, haver uma figura próxima à locação
+por  temporada,  não  sendo  possível  uma  proibição  genérica  para  essa
+destinação do imóvel.
+Além disso, de forma correta, julgou o Ministro Salomão que a lei não
+estabelece qualquer limitação a esse exercício do direito de gozo do bem e,
+sendo  assim,  não  é  possível  juridicamente,  pelo  menos a priori,  limitá-lo.
+Novamente de acordo com o voto prevalecente, “a jurisprudência do STJ é
+firme no sentido de que a solução deve partir da análise do caráter da norma
+restritiva, passando pelos critérios de legalidade, razoabilidade, legitimidade
+e proporcionalidade da medida de restrição frente ao direito de propriedade"
+(Recurso Especial 1.819.075/RS, 4.ª Turma, Rel. Min. Luis Felipe Salomão,
+
+julgado em outubro de 2019). Assim, entendeu que, “de modo a analisar o
+caso  em  julgamento,  não  se  propõe  uma  análise  sobre  a  questão  fática
+principal examinada nos julgados invocados, mas sim a tese jurídica que se
+pode transplantar para o deslinde desta questão, qual seja, o afastamento de
+dessarrazoada  proibição  de  uso  e  gozo  da  propriedade  por  convenção  de
+condomínio”. E considerou-se, ao final, como “ilícita a prática de privar o
+condômino do regular exercício do direito de propriedade, em sua vertente de
+exploração  econômica.  Como  é  sabido,  por  uma  questão  de  hermenêutica
+jurídica,  as  normas  que  limitam  direitos  devem  ser  interpretadas
+restritivamente, não comportando exegese ampliativa”.
+Esclareça-se  que  o  voto  não  fecha  totalmente  a  possibilidade  de  a
+convenção estabelecer limitações ao uso de tais aplicativos, que devem ser
+confrontadas  com  o  uso  abusivo  posterior  da  unidade  e  sua  destinação
+natural; bem como o emprego de outras medidas, como o cadastramento dos
+hóspedes  na  portaria.  Aguardemos,  portanto,  o  fim  desse  julgamento  e  os
+novos  enfrentamentos  do  tema  pela  Corte  Superior,  o  que,  sem  dúvidas,
+devem ocorrer nos próximos anos. Eventuais atualizações sobre o tema serão
+feitas na Sala de Aula Virtual que acompanha esta obra.
+Superado esses pontos, como conteúdo, a convenção deve determinar,
+basicamente, nos termos do art. 1.334 do CC/2002:
+I) A quota proporcional e o modo de pagamento das contribuições
+dos  condôminos  para  atender  às  despesas  ordinárias  e
+extraordinárias do condomínio.
+II) A forma de administração do condomínio edilício.
+III) A competência das assembleias, a forma de sua convocação e o
+quorum exigido para as deliberações.
+IV)  As  sançõ
+[/PAGINA 1159]
+
+[PAGINA 1160]
+es  a  que  estão  sujeitos  os  condôminos  ou  os
+possuidores.
+V)  O  regimento  interno,  regulamento  que  traz  as  regras
+fundamentais a respeito do cotidiano do condomínio, tais como a
+utilização  das  áreas  comuns,  as  restrições  de  uso,  os  horários  de
+funcionamento  e  suas  limitações,  as  proibições  e  permissões
+genéricas ou específicas, entre outros conteúdos possíveis. Prevê o
+Enunciado  n.  248  do  CJF/STJ  que  “o quorum  para  alteração  do
+regimento  interno  do  condomínio  edilício  pode  ser  livremente
+fixado na convenção”.
+
+Conforme enunciado aprovado na V Jornada de Direito Civil, de 2011,
+“a escritura declaratória de instituição e convenção firmada pelo titular único
+de edificação composta por unidades autônomas é título hábil para registro da
+propriedade horizontal no competente Registro de Imóveis, nos termos dos
+arts.  1.332  a  1.334  do  Código  Civil”  (Enunciado  n.  504).  Assim,  não  há
+necessidade da presença obrigatória de mais de um proprietário do imóvel
+para  a  instituição  e  convenção,  o  que  ocorre  nos  casos  de  incorporação
+imobiliária, geralmente.
+A convenção do condômino poderá ser feita por escritura pública ou por
+instrumento particular, o que está de acordo com o princípio da operabilidade
+no sentido de simplicidade (art. 1.334, § 1.º, do CC).
+Ademais,  devem  ser  equiparados  aos  proprietários,  para  os  fins  de
+tratamento  a  respeito  da  convenção  do  condomínio,  salvo  disposição  em
+contrário, os promitentes compradores e os cessionários de direitos relativos
+às unidades autônomas (art. 1.334, § 2.º, do CC). Em relação aos promitentes
+compradores, a equiparação abrange tanto o compromisso de compra e venda
+registrado como o não registrado na matrícula. Em relação aos cessionários, a
+norma é aplicada ao gaveteiro, parte do popular contrato de gaveta.
+Vistas a estrutura e a constituição do condomínio, cabe discorrer sobre a
+polêmica acerca da natureza jurídica do condomínio edilício.
+Como  é  notório,  a  doutrina  clássica  do  CC/1916  via  o  condomínio
+edilício como um ente despersonalizado ou despersonificado, tido como uma
+quase pessoa jurídica.
+126
+ Como argumento, sustentava-se que o condomínio
+edilício não poderia ser tido como uma pessoa jurídica de Direito Privado,
+pois  o  seu  rol,  constante  do  art.  16  da  codificação  anterior,  seria  taxativo
+(numerus clausus).
+127
+Apesar de esse entendimento ainda ser considerado o majoritário – e por
+isso  seguido  pela  maioria  dos  julgados
+128
+  –,  destaque-se  que  há  forte
+entendimento entre os doutrinadores contemporâneos e os da nova geração
+no  sentido  de  considerar  o  condomínio  edilício  como  pessoa  jurídica.
+Seguindo essa linha, na I Jornada de Direito Civil (2002), foi aprovado o
+Enunciado n. 90 do CJF/STJ, pelo qual “Deve ser reconhecida personalidade
+jurídica ao condomínio edilício nas relações jurídicas inerentes às atividades
+de seu peculiar interesse”. Na III Jornada (2004), por iniciativa d
+[/PAGINA 1160]
+
+[PAGINA 1161]
+os juristas
+Gustavo Tepedino (UERJ) e Frederico Viegas de Lima (UnB), ampliou-se o
+sentido da ementa anterior, aprovando-se o Enunciado n. 246: “Fica alterado
+
+o  Enunciado  n.  90,  com  supressão  da  parte  final:  ‘nas  relações  jurídicas
+inerentes às atividades de seu peculiar interesse’. Prevalece o texto: ‘Deve ser
+reconhecida personalidade jurídica ao condomínio edilício’”.
+Este  autor  foi  convencido  da  tese  da  personalidade  jurídica  do
+condomínio  edilício  por  um  dos  seus  principais  expoentes,  o  Professor
+Frederico Henrique Viegas de Lima, por ocasião do II Congresso de Direito
+Civil Torquato Castro, realizado em Recife entre os dias 26 e 29 de setembro
+de  2007.  Ressalte-se  que  esse  jurista  defendeu  tese  de  pós-doutorado  na
+Universidade de Genève (Suíça), tratando especificamente do assunto, estudo
+publicado no Brasil no segundo semestre do ano de 2010.
+129
+Como  amparo  primaz  dessa  premissa,  basta  concluir  que  o  rol  das
+pessoas  jurídicas  de  Direito  Privado,  constante  do  art.  44  do  CC,  é
+exemplificativo  (numerus  apertus).
+130
+  Relembre-se  que  nesse  sentido  é  o
+Enunciado n. 144 do CJF/STJ, da III Jornada de Direito Civil. A forma de
+pensar está de acordo com a sistemática filosófica do CC/2002 que adotou
+um sistema aberto e dinâmico, inspirado na Teoria Tridimensional do Direito
+de Miguel Reale, seu principal idealizador. A demonstrar a repercussão social
+da  tese  e  o  seu  impacto  para  a  comunidade,  Frederico  Viegas  de  Lima
+discorre que:
+“A  personificação  jurídica  da  comunidade  de  coproprietários  em
+condôminos especiais em edificações é decorrente das necessidades
+econômicas e sociais da atualidade.
+(...)
+O direito brasileiro, buscando preencher o vazio legislativo, diante
+do reconhecimento de uma lacuna verdadeira, passou a admitir sua
+personificação  jurídica,  mediante  o  trabalho  doutrinário.  A
+jurisprudência, até o presente momento, não possui definição firme
+a respeito dela.
+(...)
+No  Brasil,  na  atualidade,  temos  uma  proliferação  dos  grandes
+condomínios – il supercondominios, na doutrina italiana. Compõe-
+se de um grande espaço de terreno onde se instalam não somente as
+edificações  dos  condomínios  especiais  em  edificações,  mas
+também uma série de equipamentos que facilitam a vida moderna,
+tais como vagas de garagem, piscinas, quadras poliesportivas e até
+mesmo campos de golfe. Isso sem falar em lojas e até mesmo em
+
+escolas. O principal fundamento para tanto é que no Brasil existem,
+até mesmo nas grandes cidades, grandes imóveis que permitem a
+instalação de grandes condomínios, cobrando importância crescente
+à  admissão  da  personificação  jurídica  de  comunidade  de
+coproprietários em condomínios especiais em edificações”.
+131
+Desse modo, na linha das palavras do jurista, do ponto de vista prático, a
+personalidade  jurídica  do  condomínio  edilício  traz  algumas  vantagens,
+podendo ser destacadas três como principais:
+1.ª vantagem – As reuni
+[/PAGINA 1161]
+
+[PAGINA 1162]
+ões de condomínio são profissionalizadas e
+facilitadas,  delas  participando  apenas  condôminos  eleitos,  com
+direito a voto, a exemplo do que ocorre com as associações.
+2.ª vantagem – Os condomínios edilícios pessoas jurídicas podem
+prestar  serviços  diversificados  diretamente  aos  seus  condôminos,
+como atividades de recreação e esportivas, bem como serviços de
+transporte. Conforme destacou Frederico Viegas em sua palestra,
+na  realidade  atual,  condomínios  das  grandes  cidades  constituem
+associações para tais fins, o que passa a ser desnecessário com a
+tese que se propõe.
+3.ª  vantagem  –  Os  condomínios  podem  adquirir  imóveis  por
+adjudicação. Essa é a grande discussão jurídica que está por trás do
+debate  a  respeito  da  natureza  jurídica  do  condomínio  edilício,
+havendo julgados que afastam essa possibilidade justamente pela
+falta  de  personalidade  jurídica  (por  todos:  TJSP,  Apelação  Cível
+100.185-0/2-00.  Decisão  do  Conselho  Superior  da  Magistratura,
+julgado  em  04.09.2003).  A  propriedade  é  concretamente
+funcionalizada,  transformando-se  o  condomínio  em  forma  de
+investimento. Ilustrando na prática, o condomínio pode adquirir os
+imóveis dos condôminos inadimplentes, locando-os posteriormente
+a terceiros. Com isso, os condôminos restantes adquirem o domínio
+da unidade, além de usufruírem da locação, que reduz o valor da
+contribuição  mensal.  Pontue-se  que  essa  possibilidade  de
+adjudicação pelo condomínio edilício passou a ser expressamente
+admitida  pela  Lei  13.777/2018  quanto  às  unidades  que  estão  em
+multipropriedade, em havendo débitos condominiais, nos termos do
+
+que consta do novo art. 1.358-S do Código Civil, o que reforça a
+tese por mim seguida, de reconhecimento da personalidade jurídica
+do  condomínio  edilício  pelo  menos  para  este  fim.  O  tema  ainda
+será devidamente aprofundado neste capítulo do livro.
+Com estrutura e função, imagina-se que está totalmente justificada a tese
+da  personalidade  jurídica  do  condomínio  edilício,  devendo  ser  alterado  o
+entendimento jurisprudencial até o presente momento consolidado.
+A  propósito,  como  palavras  finais  para  o  tema,  espera-se  que  a
+problemática seja estabilizada com a aprovação de um dos projetos de lei que
+visam  à  inclusão  do  condomínio  edilício  no  rol  das  pessoas  jurídicas  de
+Direito Privado, que consta do art. 44 do Código Civil. Pode ser citado, com
+esse fim, o Projeto de Lei 7.983/2014, do Deputado Arthur Oliveira Maia.
+Conforme as justificativas da proposição, às quais se filia: “ressalte-se que
+essa ausência de personalidade jurídica combinada com a capacidade de ser
+parte em juízo tem causado sérios problemas para os condomínios. Um deles
+consiste  na  impossibilidade  de  o  condomínio  registrar  em  cartório  bens
+imóveis auferidos em ação de cobrança contra condômino inadimplente. Ou
+seja, o condomínio pode litigar, mas não pode adquirir alguns bens por não
+ter personalidade jurídica. Ora, ess
+[/PAGINA 1162]
+
+[PAGINA 1163]
+a é uma situação teratológica que não deve
+persistir em nosso ordenamento jurídico. Sendo assim, é de bom alvitre que
+essa lacuna seja suprimida. É por isso que a aprovação deste projeto de lei é
+de grande importância para os condomínios”.
+Esperamos  que  a  proposta  legislativa  seja  aprovada  o  mais  breve
+possível para que a situação do condomínio edilício se funcionalize, na linha
+do que aqui foi exposto.
+7.7.4.2 Direitos e deveres dos condôminos.
+Estudo das penalidades no condomínio edilício
+Como ocorre com o condomínio voluntário ou convencional, o CC/2002
+traz regras importantes a respeito dos direitos e deveres dos condôminos, bem
+como das penalidades que surgem da violação dos últimos. De início, enuncia
+o art. 1.335 do CC que são direitos dos condôminos:
+a) Usar, fruir e livremente dispor das suas unidades,
+faculdades  que  decorrem  automaticamente  do
+
+exercício   da   propriedade   (GRUD).   Como
+desdobramento  desses  deveres,  recente  acórdão  do
+STJ deduziu que “a cláusula prevista em convenção
+de  condomínio  de shopping  center,  permitindo  a
+alguns condôminos (lojistas) o uso, gozo e fruição
+de áreas comuns, não é, em regra, nula, pois aqueles
+exercem,   apenas   relativamente,   os   direitos
+assegurados  em  geral  pelo  art.  1.335  do  Código
+Civil”  (STJ,  REsp  1.677.737/RJ,  3.ª  Turma,  Rel.
+Min. Paulo de Tarso Sanseverino, j. 19.06.2018, DJe
+29.06.2018).
+b)  Usar  das  partes  comuns,  conforme  a  sua
+destinação,  e  contanto  que  não  exclua  a  utilização
+dos  demais  compossuidores.  Havendo  exclusão  do
+direito  de  outrem,  caberá  ao  condomínio  ou  ao
+próprio  condômino  prejudicado  ingressar  com  a
+ação cabível, que pode ser a ação de reintegração de
+posse ou de obrigação de fazer. Tratando da última
+demanda,  por  exemplo:  “Condomínio.  Ação  de
+obrigação de não fazer, uso de box de garagem para
+fins de depósito de objetos. Destinação específica do
+espaço para o estacionamento de veículos, conforme
+a convenção condominial. Necessidade de respeito à
+destinação  da  área.  Aplicação  do  disposto  no  art.
+1.335,  inciso  II,  do  Código  Civil.  Eventual  uso
+indevido  do  espaço  por  outros  condôminos.
+Circunstância  que  não  abona  a  conduta  da  ré,
+cabendo-lhe,  no  máximo,  representar  ao  Síndico
+para que adote as medidas necessárias com vistas ao
+respeito  da  disposição  contida  na  Convenção.
+Sentença  mantida.  Apelo  improvido”  (TJSP,
+Apelação  com  Revisão  520.521.4/4,  Acórdão
+3570512,  Santos,  3.ª  Câmara  de  Direito  Privado,
+Rel. Des. Donegá Morandini, j. 11.11.2008, DJESP
+15.05.2009).
+c)  Votar  nas  deliberações  da  assembleia  e  delas
+participar, estando quite, ou seja, em dia com suas
+
+obrigações  condominiais.  Eventual  condômino  que
+queira participar da assembleia deve quitar o débito,
+o que pode ser feito judicial ou extrajudicialmente
+(TJMG,  Apelação  Cível  1.0024.04.501945-2/001,
+Belo Horizonte, 13.ª Câmara Cível, Rel. Des. Eulina
+do   Carmo   Almeida,   j.
+[/PAGINA 1163]
+
+[PAGINA 1164]
+23.11.2006, DJMG
+19.01.2007).  A  respeito  do  direito  de  voto  do
+locatário,  há  quem  entenda  que  ele  não  mais
+persiste, diante da revogação do art. 24, § 4.º, da Lei
+4.591/1964.
+132
+  Todavia,  como  a  lei  passou  a  ser
+omissa a respeito do tema, nos termos do art. 4.º da
+Lei de Introdução, a questão deve ser resolvida com
+a  analogia,  os  costumes  e  os  princípios  gerais  de
+direito. Ora, é costumeiro o direito de participação
+do  locatário  –  o  que,  aliás,  geralmente  consta  da
+convenção –, devendo ele ser preservado.
+Sem  dúvidas,  uma  das  matérias  que  mais  interessa  ao  condomínio
+edilício  é  a  relacionada  aos  deveres  dos  condôminos  e  às  penalidades
+impostas pela lei ao inadimplente. Vejamos, então, os deveres preconizados
+pelo art. 1.336 do CC:
+I) O condômino deve contribuir para as despesas do condomínio na
+proporção das suas frações ideais, salvo disposição em contrário na
+convenção.  A  possibilidade  de  previsão  em  contrário  é  novidade
+introduzida pela Lei 10.931/2004. Assim, em regra, o proprietário
+da cobertura que equivale a dois apartamentos deve pagar o dobro
+da  verba  condominial  única.  Porém,  a  convenção  pode  estipular
+que o pagamento daquele equivale a 1,5 da unidade comum.
+II)  O  condômino  tem  o  dever  de  não  realizar  obras  que
+comprometam a segurança da edificação. Em casos tais, além das
+penalidades pecuniárias, caberá ação de nunciação de obra nova ou
+mesmo ação demolitória proposta pelo condomínio ou por qualquer
+condômino.  A  exemplificar,  envolvendo  também  a  próxima
+previsão: “Agravo de instrumento. Nunciação de obra nova. Pedido
+de liminar. Concessão. 1. Caso em que o exame da prova dos autos
+permite  observar  que  a  obra  realizada  pelos  agravados  na  parte
+
+externa  de  seu  imóvel  (cobertura)  contraria  convenção  de
+condomínio, estando em desacordo com determinação majoritária
+dos  condôminos.  Hipótese  em  que  a  obra  implica  alteração  da
+fachada  do  edifício,  sem  que  haja  autorização  unânime  dos
+condôminos para tanto. 2. Situação, outrossim, em que o acúmulo
+de materiais põe em risco a segurança do prédio, conforme apurado
+em laudo pericial. Requisitos do art. 273, caput e inciso I, do CPC
+verificados.  Liminar  deferida.  Recurso  a  que  se  dá  provimento”
+(TJRS,  Agravo  de  Instrumento  70028934248,  Taquara,  17.ª
+Câmara Cível, Rel. Des. Luiz Renato Alves da Silva, j. 02.07.2009,
+DOERS 12.08.2009, p. 62).
+III) Dever de não alterar a forma e a cor da fachada, das partes e
+esquadrias  externas,  o  que  visa  a  manter  a  harmonia  estética  do
+condomínio.  Imagine-se,  por  exemplo,  se  cada  condômino
+resolvesse  pintar  a  fachada  de  sua  unidade  com  as  cores  do  seu
+time  do  coração.  Conforme  recente  julgado  do  Tribunal  da
+Cidadania, publicado no seu Informativo n. 568, “o condômino não
+pode,  sem  a  anuência  de  todos  os  condôminos,  alterar  a  cor  das
+esquadrias  externas  de  seu  apartamento  para  pad
+[/PAGINA 1164]
+
+[PAGINA 1165]
+rão  distinto  do
+empregado  no  restante  da  fachada  do  edifício,  ainda  que  a
+modificação  esteja  posicionada  em  recuo,  não  acarrete  prejuízo
+direto ao valor dos demais imóveis e não possa ser vista do térreo,
+mas apenas de andares correspondentes de prédios vizinhos. (...).
+De fato, fachada não é somente aquilo que pode ser visualizado do
+térreo.  Assim,  isoladamente,  a  alteração  pode  não  afetar
+diretamente o preço dos demais imóveis do edifício, mas deve-se
+ponderar que, se cada proprietário de unidade superior promover
+sua personalização, empregando cores de esquadrias que entender
+mais  adequadas  ao  seu  gosto  pessoal,  a  quebra  da  unidade
+arquitetônica  seria  drástica,  com  a  inevitável  desvalorização  do
+condomínio. Registre-se, por fim, que não se ignoram as discussões
+doutrinárias e jurisprudenciais a respeito da alteração de fachada,
+mais especificamente acerca de fechamento de varandas com vidros
+incolores,  instalação  de  redes  de  segurança  e  até  substituição  de
+esquadrias  com  material  diverso  do  original  quando  este  não  se
+encontra mais disponível no mercado. Entretanto, na hipótese em
+apreço,  foi  utilizada  esquadria  de  cor  diversa  do  conjunto
+
+arquitetônico, alteração jamais admitida e em flagrante violação do
+texto  legal”  (STJ,  REsp  1.483.733/RJ,  Rel.  Min.  Ricardo  Villas
+Bôas Cueva, j. 25.08.2015, DJe 1.º.09.2015). Conforme se retira do
+último acórdão, a questão do fechamento da fachada da varanda ou
+sacada  por  vidro  translúcido  gera  controvérsia,  havendo  julgados
+que apontam tratar-se de alteração estética que deve ser autorizada
+pela  convenção  ou  por  unanimidade  em  assembleia  (TJSP,
+Apelação com Revisão 498.770.4/6, Acórdão 3247485, Santos, 10.ª
+Câmara de Direito Privado, Rel. Des. César Augusto Fernandes, j.
+27.08.2008, DJESP 10.10.2008). Este autor está filiado à corrente
+que   prega   a   sua   possibilidade,   desde   que   não   altere
+substancialmente  a  estética  do  prédio  (TJMG,  Apelação
+1.0024.04.391299-7/001,   15.ª   Câmara   Cível,   Rel.   Viçoso
+Rodrigues, Data da publicação 08.08.2006).
+IV)  O  condômino  tem  o  dever  de  dar  às  suas  partes  a  mesma
+destinação  que  tem  a  edificação,  e  não  as  utilizar  de  maneira
+prejudicial ao sossego, salubridade e segurança dos possuidores, ou
+aos bons costumes.
+Em relação ao último dever, três questões merecem ser aprofundadas na
+prática.  Primeiro,  anote-se  o  problema  da  lei  do  silêncio  e  do  excesso  de
+barulho  no  apartamento,  servindo  para  ilustrar,  o  seguinte  acórdão  do
+Tribunal Gaúcho:
+“Uso  nocivo  da  propriedade.  Condomínio  e  vizinhança.
+Perturbação  do  sossego.  Poluição  sonora  causada  por  utilização
+abusiva  de  aparelho  de  som  (rádio  e  cd)  em  horário  de  repouso
+noturno. Descumprimento às normas atinentes ao convívio social.
+Manutenção da condenação à abstenção de tal prática. 1. Havendo
+a  perturbação  do  sossego  em  face  de  utilização  in
+[/PAGINA 1165]
+
+[PAGINA 1166]
+devida  de
+aparelho  de  som  (com  volume  excessivo)  pelo  réu,  mostra-se
+adequado o pedido de abstenção de tal prática quando comprovada
+a perturbação, em função do barulho, comprometedora do sossego
+familiar.  2.  A  obrigação  de  não  fazer  (abstenção  de  manter  o
+aparelho  de  som  em  volume  alto),  respeitando  o  horário  de
+descanso,  22h,  imposta  na  sentença  de  primeiro  grau,  visa  a
+garantir o convívio pacífico da vizinhança e está respaldada pelas
+
+normas  que  regulam  as  relações  sociais  previstas  na  Legislação
+Civil.  Sentença  mantida  por  seus  próprios  fundamentos.  Recurso
+improvido”  (TJRS,  Recurso  Cível  71001517911,  Sapiranga,  1.ª
+Turma  Recursal  Cível,  Rel.  Des.  Ricardo  Torres  Hermann,  j.
+27.03.2008, DOERS 02.04.2008, p. 114).
+No  que  concerne  à  utilização  da  área  conforme  a  destinação  do
+condomínio,  não  se  pode  abster  totalmente  o  condômino  de  trabalhar  no
+imóvel, desde que isso não perturbe o sossego dos demais condôminos. A
+título de exemplo, o presente livro foi escrito em uma unidade de condomínio
+residencial, localizado na Vila Mariana, em São Paulo, Capital. Não se pode
+esquecer que o direito ao trabalho é um direito social e fundamental (art. 7.º
+da  CF/1988)  que  deve  ser  preservado  ao  máximo,  conforme  se  retira  da
+ementa a seguir:
+“Civil. Ação cominatória. Direito de vizinhança. Condômino que
+ministra  aulas  de  educação  física.  Horário  comercial.  Não
+demonstração  de  violação  dos  limites  ordinários  de  tolerância.
+Direito  ao  trabalho  e  à  livre  iniciativa.  Honorários  advocatícios.
+Nos termos do art. 1.277 do Código Civil, os limites ordinários de
+tolerância dos moradores devem ser analisados no caso concreto, a
+fim de se configurar, ou não, a violação aos direitos de vizinhança.
+Não há que se falar em violação dos direitos de vizinhança se o
+empreendimento  comercial  do  condômino,  consistente  no
+ministério de aulas coletivas de educação física em sua residência,
+em  horário  comercial,  além  de  não  ser  vedado  pelo  Estatuto  do
+Condomínio, não produz barulho que supere os decibéis toleráveis
+para  a  legislação.  Ademais,  a  circulação  de  alguns  alunos  em
+horário comercial não tem o condão de afetar, de maneira drástica,
+o sossego dos moradores do condomínio. O direito ao trabalho e à
+livre  iniciativa,  insculpidos  no caput  do  art.  170  da  Constituição
+Federal,  apenas  pode  ser  limitado  mediante  previsão  legal  ou
+quando  em  legítimo  conflito  com  outro  direito  fundamental.
+Mantém-se o valor arbitrado a título de honorários advocatícios se
+em conformidade com os parâmetros fixados nas alíneas do § 3.º do
+art.  20  do  CPC”  (TJDF,  Recurso  2006.08.1.004799-7,  Acórdão
+384.239,  4.ª  Turma  Cível,  Rel.  Desig.  Des.  Sérgio  Bittencourt,
+
+DJDFTE 04.11.2009, p. 136).
+Por  fim,  problema  relativo  aos  bons  costumes  surge  quando  o
+condômino  desenvolve  atividade  que  por  si  só  causa  constrangimen
+[/PAGINA 1166]
+
+[PAGINA 1167]
+to  aos
+demais  moradores,  caso  da  prostituição.  Conforme  se  extrai  da
+jurisprudência,  até  é  possível  fazer  cessar  a  atividade,  desde  que  isso  seja
+devidamente comprovado por quem a alega:
+“Ação cominatória. Obrigação de não fazer. Uso ilícito de unidade
+autônoma,  a  violar  os  bons  costumes.  Alegação  de  utilização  de
+loja como ponto de prostituição. Ausência de prova de desvio de
+uso. Condomínio autor que protestou por julgamento antecipado da
+lide,  sem  a  realização  de  audiência  de  conciliação  ou  mesmo  de
+instrução.  Insuficiência  de  provas,  fundadas  somente  em  abaixo-
+assinado  vago  em  imputações  e  nas  alegações  da  própria  inicial.
+Ação  improcedente.  Sentença  mantida.  Recurso  não  provido”
+(TJSP, Apelação Cível 436.450.4/2, Acórdão 3174270, São Paulo,
+4.ª  Câmara  de  Direito  Privado,  Rel.  Des.  Francisco  Eduardo
+Loureiro, j. 07.08.2008, DJESP 01.09.2008).
+Partindo-se para o estudo das penalidades ao condômino, enuncia o § 1.º
+do  art.  1.336  do  CC  que  aquele  que  não  pagar  a  sua  contribuição  ficará
+sujeito aos juros moratórios convencionados ou, não sendo previstos, os de
+um por cento ao mês (1% a.m.) e multa de até dois por cento sobre o débito.
+Eis aqui uma das principais inovações da codificação de 2002, pois a multa
+foi reduzida de 20% sobre o débito (art. 12, § 3.º, da Lei 4.591/1964) para os
+citados 2% (dois por cento).
+Deve ficar claro que é nula qualquer estipulação que disfarce ou simule
+uma  multa  superior  a  2%,  eis  que  a  norma  é  de  ordem  pública.  Nesse
+contexto, é nulo o conhecido desconto por pontualidade, conforme reconhece
+enunciado  doutrinário  aprovado  na V Jornada de Direito Civil:  “é  nula  a
+estipulação  que,  dissimulando  ou  embutindo  multa  acima  de  2%,  confere
+suposto desconto de pontualidade no pagamento da taxa condominial, pois
+configura  fraude  à  lei  (Código  Civil,  art.  1336,  §  1.º)  e  não  redução  por
+merecimento” (Enunciado n. 505 do CJF/STJ).
+Alguns arestos seguem essa correta conclusão: TJSC, Apelação Cível
+2011.043381-8, Capital, 2.ª Câmara de Direito Civil, Rel. Des. José Trindade
+
+dos Santos, j. 17.04.2013, DJSC 26.04.2013, p. 285; TJSP, Apelação Cível
+0005425-29.2010.8.26.0108,  Acórdão  6658926,  Jundiaí,  31.ª  Câmara  de
+Direito Privado, Rel. Des. Paulo Ayrosa, j. 16.04.2013, DJESP 24.04.2013;
+TJSP, Apelação 9136346-58.2007.8.26.0000, Acórdão 5370103, São Paulo,
+34.ª  Câmara  de  Direito  Privado,  Rel.  Des.  Cristina  Zucchi,  j.  29.08.2011,
+DJESP 30.09.2011; e TJDF, Recurso 2010.00.2.017915-4, Acórdão 469.110,
+1.ª Turma Cível, Rel. Des. Flavio Rostirola, DJDFTE 15.12.2010, p. 68.
+Tal  posicionamento,  contudo,  não  é  pacífico,  pois  alguns  julgadores
+entendem  que  o  desconto  de  pontualidade  tem  natureza  distinta  da  multa,
+tendo apenas a última caráter sancionatório. Diante dessa diferenciação, não
+haveria  óbice  para  a  cumulação  (TJDF,  Recurso  2012.01.1.058202-4,
+Acórdão  653.033,  1.ª
+[/PAGINA 1167]
+
+[PAGINA 1168]
+Turma  Cível,  Rel.  Des.  Simone  Lucindo, DJDFTE
+22.02.2013,  p.  10;  TJRS,  Apelação  Cível  448049-17.2011.8.21.7000,
+Sapiranga,  16.ª  Câmara  Cível,  Rel.  Des.  Paulo  Sérgio  Scarparo,  j.
+26.01.2012, DJERS 31.01.2012). Decisão anterior do Superior Tribunal de
+Justiça concluiu dessa forma, sendo a publicação da ementa:
+“Condomínio.  Cobrança  de  cotas  atrasadas.  Desconto.  1.  O
+desconto para o pagamento antecipado de cotas condominiais não é
+penalidade,  representando  estímulo  correto  em  épocas  de  alta
+inflação,  como  no  caso.  2.  Recurso  especial  conhecido,  mas
+improvido”  (STJ,  REsp  236.828/RJ,  Rel.  Min.  Carlos  Alberto
+Menezes Direito, 3.ª Turma, j. 31.08.2000, DJ 23.10.2000, p. 137).
+Decisum  mais  recente  da  Corte  Superior  confirmou  tal  dedução:
+STJ, AgRg no REsp 1.217.181/DF, 3.ª Turma, Rel. Min. Massami
+Uyeda, j. 04.10.2011, DJe 13.10.2011.
+Com o devido respeito, tal confirmação não deveria ter ocorrido, eis que
+o  País  não  convive  mais  com  a  realidade  inflacionária,  o  que  dava
+fundamento ao primeiro julgado da Corte Superior.
+Como questão controvertida que surgiu nos primeiros anos da vigência
+do  CC/2002  restou  a  dúvida  se  a  inovação  teria  aplicação  imediata,
+abrangendo os condomínios constituídos na vigência da legislação anterior. O
+STJ acabou por concluir que sim, conforme ementas a seguir destacadas, que
+influenciaram a jurisprudência de todo o País:
+“Condomínio.  Multa.  Aplicação  do  art.  1.336,  §  1.º,  do  Código
+
+Civil de 2002. Precedentes da Corte. 1. Já assentou esta Terceira
+Turma  que  a  ‘natureza  estatutária  da  convenção  de  condomínio
+autoriza a imediata aplicação do regime jurídico previsto no novo
+Código Civil, regendo-se a multa pelo disposto no respectivo art.
+1.336,  §  1.º’  (REsp  722.904/RS,  de  minha  relatoria, DJ
+1.º.07.2005). 2. Recurso especial conhecido e provido” (STJ, REsp
+663.436/SP, 3.ª Turma, Rel. Min. Carlos Alberto Menezes Direito,
+j. 16.03.2006, DJ 1.º.08.2006, p. 432).
+“Processual civil e civil. Condomínio. Taxas condominiais. Multa
+condominial de 20% prevista na convenção, com base no art. 12, §
+3.º, da Lei 4.591/1964. Redução para 2% quanto à dívida vencida
+na vigência do novo Código Civil. Necessidade. Revogação pelo
+estatuto  material  de  2002  do  teto  anteriormente  previsto  por
+incompatibilidade.  Recurso  provido.  1. In  casu,  a  Convenção
+Condominial fixou a multa, por atraso no pagamento das cotas, no
+patamar máximo de 20%, o que, à evidência, vale para os atrasos
+ocorridos antes do advento do novo Código Civil. Isto porque, o
+novo Código trata, em capítulo específico, de novas regras para os
+condomínios.  2.  Assim,  por  tratar-se  de  obrigação  periódica,
+renovando-se todo mês, a multa deve ser aplicada em observância à
+nova  situação  jurídica  constituída  sob  a  égide  da  lei  substantiva
+atual, prevista em seu art. 1.336, § 1.º, em observância ao art. 2.º, §
+1.º,  da  LICC,  porquanto  há  revogação,  nesse  part
+[/PAGINA 1168]
+
+[PAGINA 1169]
+icular,  por
+incompatibilidade, do art. 12, § 3.º, da Lei 4.591/1964. Destarte, a
+regra convencional, perdendo o respaldo da legislação antiga, sofre,
+automaticamente, os efeitos da nova, à qual não se pode sobrepor.
+3.  Recurso  conhecido  e  provido  para  restabelecer  a  sentença  de
+primeiro grau” (STJ, REsp 762.297/RS, 4.ª Turma, Rel. Min. Jorge
+Scartezzini, j. 11.10.2005, DJ 07.11.2005, p. 307).
+Os  julgados  representam  aplicação  do  art.  2.035, caput,  do  CC  e  da
+Escada Ponteana, estudados no Capítulo 2 deste livro. Como a multa está no
+plano da eficácia, deve ser aplicada a norma do momento da produção dos
+seus efeitos. Como se extrai do último julgado, se o inadimplemento ocorrer
+na vigência do CC/2002, vale a norma nele prevista, mesmo que a convenção
+tenha previsto o contrário. A convenção não prevalece uma vez que a redução
+
+da multa é questão de ordem pública, relacionada com a função social da
+propriedade e dos contratos.
+133
+Ato contínuo de estudo, o § 2.º do art. 1.336 da codificação material
+preconiza que 2/3 dos condôminos restantes podem deliberar a imposição de
+multa no montante de até cinco vezes o valor da quota condominial para o
+condômino  que: a)  realizar  obras  que  comprometam  a  segurança  da
+edificação; b)  alterar  a  forma  e  a  cor  da  fachada,  das  partes  e  esquadrias
+externas; c)  der  destinação  diferente  à  sua  parte  àquela  prevista  para  a
+edificação; d)  utilizar  a  sua  parte  de  forma  a  prejudicar  o  sossego,  a
+salubridade e a segurança dos demais possuidores ou em contrariedade aos
+bons  costumes.  Como  se  pode  notar,  a  presente  penalidade  tem  aplicação
+bem restrita, exigindo um quorum qualificado, que dificilmente será obtido
+na  prática.  Para funcionalizar  o  instituto,  em  prol  do  princípio  da
+operabilidade,  este  autor  entende  que  é  possível  alterar  a  convenção  para
+prever outro quorum, pois a norma é de ordem privada.
+Com  tom  mais  amplo  dispõe  o  art.  1.337, caput,  do  CC  que  o
+condômino que não cumprir reiteradamente com os seus deveres perante o
+condomínio  poderá,  por  deliberação  de  3/4  dos  condôminos  restantes,  ser
+constrangido  a  pagar  multa  de  até  o  quíntuplo  (cinco  vezes)  do  valor
+atribuído à quota condominial, conforme a gravidade das faltas e a reiteração,
+independentemente das perdas e danos.
+Em complemento, de acordo com o parágrafo único desse dispositivo, o
+condômino ou o possuidor que, por seu reiterado comportamento antissocial,
+gerar  incompatibilidade  de  convivência  com  os  demais  condôminos  ou
+possuidores,  poderá  ser  constrangido  a  pagar  multa  correspondente  ao
+décuplo  –  dez  vezes  –  do  valor  atribuído  à  contribuição  para  as  despesas
+condominiais, até ulterior deliberação da assembleia.
+Como se pode perceber, os quoruns qualificados exigidos são difíceis de
+ser  alcançados  na  prática,  razão  pela  qual  a  convenção  pode  trazer  outra
+previsão.  Repise-se,  mais  uma  vez,  que
+[/PAGINA 1169]
+
+[PAGINA 1170]
+as  normas  são  de  ordem  privada
+nesse  ponto.  As  duas  penalidades  são  aplicadas  ao  chamado condômino
+antissocial, aquele que não se configura com a realidade social e coletiva do
+condomínio. Tal caracterização depende de análise caso a caso. De imediato,
+entende-se que as penalidades não só podem como devem ser aplicadas ao
+condômino  que  não  cumpre  reiteradamente  com  as  obrigações  pecuniárias
+condominiais:
+
+“Despesas condominiais. Cumulação das multas previstas nos arts.
+1.336,  §  1.º,  e  1.337, caput,  do  CC  de  2002.  Possibilidade.  Não
+configuração de bis in idem.  Inadimplemento  reiterado  conforme
+critério  definido  pelos  próprios  condôminos  e  que  não  esvazia  a
+previsão do art. 1.336, § 1.º. Apelo não provido” (TJSP, Apelação
+com Revisão 916995008, 30.ª Câmara de Direito Privado, Rel. Juiz
+Luiz Felipe Nogueira, j. 29.11.2007).
+“Processo  civil  e  civil.  Condomínio.  Atrasos  reiterados  de
+pagamento das taxas condominiais. Aplicação de pena pecuniária.
+Art.  1.337  do  Código  Civil.  Possibilidade.  A  multa  moratória
+prevista no art. 1.336 do Código Civil diverge daquela prevista no
+art. 1.337 do aludido Codex. Nesse sentido, o art. 1.337 do CC é
+mais amplo do que o § 2.º do art. 1.336, porque abrange todos os
+deveres  do  condômino  perante  o  condomínio,  previstos  na  Lei,
+convenção  ou  regimento  interno,  inclusive  o  inadimplemento  do
+pagamento  da  contribuição  condominial  do  inciso  I.  Observa-se,
+portanto, que o parágrafo único do art. 1.337 regula a aplicação de
+pena agravada, quando a conduta ilícita, além de grave e reiterada,
+não  só  de  caráter  antissocial,  gerar  incompatibilidade  de
+convivência  com  os  demais  condôminos.  Realizada  a  assembleia
+geral, com o quorum específico e, uma vez aprovada a aplicação da
+penalidade  prevista  no  citado  art.  1.337  do  CC,  respeitados  os
+parâmetros ali expostos, a inobservância do pagamento regular das
+taxas  condominiais  enseja  a  aplicação  da  citada  penalidade,  sem
+que  isso  configure  qualquer  irregularidade  ou  afronta  ao
+ordenamento civil. Recurso conhecido e provido” (TJDF, Recurso
+2007.01.1.114280-3, Acórdão 429.193, 6.ª Turma Cível, Rel. Des.
+Ana Maria Duarte Amarante Brito, DJDFTE 25.06.2010, p. 111).
+Em data mais próxima, tal posição foi confirmada pela Quarta Turma do
+Superior Tribunal de Justiça, em acórdão que teve como relator o Ministro
+Luís  Felipe  Salomão  (REsp  1.247.020/DF).  Segundo  o  julgado,  diante  da
+reiterada inadimplência do condômino, “a conduta do recorrente se amolda
+ao  preceito  legal  do caput  do  artigo  1.337  do  CC/2002,  pois  se  trata  de
+evidente  devedor  contumaz  de  débitos  condominiais,  apto  a  ensejar  a
+aplicação da penalidade pecuniária ali prevista”. Ainda conforme o acórdão,
+
+“a multa prevista no § 1.º do art. 1.336 do CC/2002 detém natureza jurídica
+moratória,  enquanto  a  penalidade  pecuniária  regulada  pelo  art.  1.337  tem
+caráter sancionatório, uma v
+[/PAGINA 1170]
+
+[PAGINA 1171]
+ez que, se for o caso, o condomínio pode exigir
+inclusive  a  apuração  das  perdas  e  danos”  (STJ,  REsp  1.247.020/DF,  4.ª
+Turma, Rel. Min. Luis Felipe Salomão, j. 15.10.2015, DJe 11.11.2015).
+Como  outro  exemplo,  imagine-se  o  condômino  que  se  excede
+constantemente quanto ao barulho, perturbando os demais consortes de forma
+reiterada  por  seu  comportamento  desrespeitoso  e  não  se  sujeitando  às
+advertências e multas impostas (nessa linha de pensamento: TJSP, Apelação
+992.09.071793-6, Acórdão 4239982, Santos, 36.ª Câmara de Direito Privado,
+Rel. Des. Arantes Theodoro, j. 10.12.2009, DJESP 02.03.2010). Trata-se do
+típico ser humano egoísta e não solidário, que não se preocupa com os outros
+e com a coletividade. Não se olvide que a conduta deve ser reiterada, não se
+impondo em casos de atos isolados, conforme reconhece nossa jurisprudência
+(TJSP, Apelação 994.05.073323-7, Acórdão 4455637, São Paulo, 9.ª Câmara
+de Direito Privado, Rel. Des. José Luiz Gavião de Almeida, j. 13.04.2010,
+DJESP 26.05.2010).
+Na esteira da melhor doutrina e jurisprudência, deduz-se que as multas
+previstas no art. 1.337 do CC somente podem ser instituídas após a prévia
+comunicação ao infrator, assinalando-lhe prazo para justificar a sua conduta,
+exercendo o direito de defesa (Enunciado n. 92 do CJF/STJ, da I Jornada de
+Direito Civil,  e  TJSP,  Apelação  992.07.020168-3,  Acórdão  4579037,  São
+Paulo, 35.ª Câmara de Direito Privado, Rel. Des. José Malerbi, j. 05.07.2010,
+DJESP 26.07.2010). Eventual previsão na convenção que afaste esse direito
+deve  ser  tida  como  nula,  por  ilicitude  do  objeto,  uma  vez  que  o  direito  à
+ampla defesa e ao contraditório é amparado constitucionalmente (art. 5.º, inc.
+LV, da CF/1988 e art. 166, inc. II, do CC).
+No  plano  concreto,  recente  acórdão  do  Superior  Tribunal  de  Justiça,
+mais uma vez de relatoria do Ministro Luís Felipe Salomão, aplicou muito
+bem esse controle, com citação ao trabalho deste autor, julgando do seguinte
+modo:
+“Por se tratar de punição imputada por conduta contrária ao direito,
+na  esteira  da  visão  civil-constitucional  do  sistema,  deve-se
+reconhecer  a  aplicação  imediata  dos  princípios  que  protegem  a
+pessoa  humana  nas  relações  entre  particulares,  a  reconhecida
+eficácia  horizontal  dos  direitos  fundamentais  que,  também,  deve
+
+incidir  nas  relações  condominiais,  para  assegurar,  na  medida  do
+possível, a ampla defesa e o contraditório. Com efeito, buscando
+concretizar a dignidade da pessoa humana nas relações privadas, a
+Constituição  Federal,  como  vértice  axiológico  de  todo  o
+ordenamento,  irradiou  a  incidência  dos  direitos  fundamentais
+também nas relações particulares, emprestando máximo efeito aos
+valores  constitucionais.  Precedentes  do  STF.  Também  foi  a
+conclusão tirada das Jornadas de Direito Civil do CJF: En. 92: Art.
+1.337: As sanções do art. 1.337 do novo Código Civil não podem
+ser aplicadas sem que se garanta direito de defesa ao con
+[/PAGINA 1171]
+
+[PAGINA 1172]
+dômino
+nocivo” (STJ, REsp 1.365.279/SP, 4.ª Turma, Rel. Min. Luis Felipe
+Salomão, j. 25.08.2015, DJe 29.09.2015).
+Como se percebe, além de citar o aludido Enunciado 92 do CJF, leva-se
+em  conta  a  ideia  de  constitucionalização  do  Direito  Civil  e  a  aplicação
+imediata  das  normas  fundamentais  nas  relações  privadas  (eficácia
+horizontal).
+O  Código  Civil  de  2002  não  traz  expressamente  a  possibilidade  de
+expulsão  do condômino antissocial,  tese  defendida  por  parte  da  doutrina,
+caso  de  Álvaro  Villaça  Azevedo,
+134
+  Cristiano  Chaves  de  Farias  e  Nelson
+Rosenvald.
+135
+ No mesmo trilhar, vejamos enunciado aprovado na V Jornada
+de Direito Civil: “verificando-se que a sanção pecuniária mostrou-se ineficaz,
+a  garantia  fundamental  da  função  social  da  propriedade  (arts.  5.º,  XXIII,
+CF/1988 e 1.228, § 1.º, CC) e a vedação ao abuso do direito (arts. 187 e
+1.228, § 2.º, CC) justificam a exclusão do condômino antissocial, desde que a
+ulterior assembleia prevista na parte final do parágrafo único do artigo 1.337
+do  Código  Civil  delibere  a  propositura  de  ação  judicial  com  esse  fim,
+asseguradas  todas  as  garantias  inerentes  ao  devido  processo  legal”
+(Enunciado n. 508 CJF/STJ).
+Não  se  filia  a  tal  corrente,  por  violar  o  princípio  de  proteção  da
+dignidade da pessoa humana (art. 1.º, inc. III, da CF/1988) e a solidariedade
+social  (art.  3.º,  inc.  I,  da  CF/1988);  bem  como  a  concreção  da  tutela  da
+moradia (art. 6.º da CF/1988). Em suma, a tese da expulsão do condômino
+antissocial  viola  preceitos  máximos  de  ordem  pública,  sendo  alternativas
+viáveis as duras sanções pecuniárias previstas no art. 1.337 do CC. Nessa
+linha, do Tribunal Paulista:
+
+“Expulsão   de   condômino   por   comportamento   antissocial.
+Impossibilidade.  Ausência  de  previsão  legal.  O  Código  Civil
+permite no art. 1.337 a aplicação de multas que podem ser elevadas
+ao décuplo em caso de incompatibilidade de convivência com os
+demais condôminos. Multa mensal que tem como termo inicial a
+citação e o final a publicação da r. Sentença, a partir de quando
+somente será devida por fatos subsequentes que vierem a ocorrer e
+forem  objeto  de  decisão  em  assembleia.  Recursos  parcialmente
+providos” (TJSP, Apelação Cível 668.403.4/6, Acórdão 4122049,
+Barueri, 4.ª Câmara de Direito Privado, Rel. Des. Maia da Cunha, j.
+1.º.10.2009, DJESP 27.10.2009).
+Todavia,  esclareça-se  que  há  divergência  entre  as  Cortes  Estaduais,
+assim como ocorre na doutrina. Do Tribunal Paranaense, acolhendo a tese da
+possibilidade de expulsão do condômino, em caso de extrema gravidade:
+“Apelação  cível.  Condomínio  edilício  vertical.  Preliminar.
+Intempestividade. Inocorrência. Apelo interposto antes da decisão
+dos   embargos.   Ratificação.   Desnecessidade.   Exclusão   de
+condômino  nocivo.  Limitação  do  direito  de  uso/habitação,  tão
+somente.  Possibilidade,  após  esgotada  a  via  administrativa.
+Assembleia  geral  realiza
+[/PAGINA 1172]
+
+[PAGINA 1173]
+da.  Notificações  com  oportunização  do
+contraditório. Quorum  mínimo  respeitado  (3/4  dos  condôminos).
+Multa  referente  ao  décuplo  do  valor  do  condomínio.  Medida
+insuficiente.  Conduta  antissocial  contumaz  reiterada.  Graves
+indícios de crimes contra a liberdade sexual, redução à condição
+análoga  a  de  escravo.  Condômino  que  aliciava  candidatas  a
+emprego de domésticas com salários acima do mercado, mantendo-
+as  presas  e  incomunicáveis  na  unidade  condominial.  Alta
+rotatividade  de  funcionárias  que,  invariavelmente  saiam  do
+emprego noticiando maus-tratos, agressões físicas e verbais, além
+de  assédios  sexuais  entre  outras  acusações.  Retenção  de
+documentos.  Escândalos  reiterados  dentro  e  fora  do  condomínio.
+Práticas  que  evoluíram  para  investida  em  moradora  menor  do
+condomínio,   conduta   antissocial   inadmissível   que   impõe
+provimento  jurisdicional  efetivo.  Cabimento.  Cláusula  geral.
+Função  social  da  propriedade.  Mitigação  do  direito  de
+
+uso/habitação.  Dano  moral.  Não  conhecimento.  Matéria  não
+deduzida e tampouco apreciada. Honorários sucumbenciais fixados
+em R$ 6.000,00 (seis mil reais). Mantença” (TJPR, Apelação Cível
+957.743-1, 10.ª Câmara Cível, Curitiba, Rel. Des. Arquelau Araujo
+Ribas, j. 13.12.2012).
+Seguindo no estudo da matéria, do mesmo modo não se filia à tese de
+impedir a entrada de supostas pessoas indesejadas no condomínio (expulsão
+antecipada),  muito  menos  de  limitação  do  uso  das  áreas  comuns  para  os
+condôminos antissociais, caso do estacionamento, do elevador, da piscina, do
+salão  de  festas,  da  área  de  lazer  e  da  churrasqueira  (cláusula de restrição
+pessoal). Nas duas hipóteses, fica notória a violação à dignidade da pessoa
+humana,  conforme  se  tem  julgado,  inclusive  com  a  condenação  do
+condomínio  por  danos  morais,  diante  de  conduta  vexatória.  A  ilustrar,  da
+prática dos Tribunais Estaduais:
+“Ação de indenização. Condomínio. Cobrança vexatória. Proibição
+ao  uso  de  área  comum  com  o  nítido  intuito  de  constranger  a
+condômina inadimplente. Dano moral caracterizado. Ainda que seja
+confessa a inadimplência da autora, não pode, o requerido, proibir a
+utilização do estacionamento, como forma de buscar seu crédito.
+Exposição  pública  que  se  revela  abusiva  e  configura  verdadeira
+represália  ao  inadimplemento,  atingindo  a  honra  da  demandante.
+Abalo moral sofrido que autoriza a indenização. Que, no caso, tem
+efeito  reparador  para  atenuar  o  mal  sofrido  e  servir  como  efeito
+pedagógico  ao  ofensor.  Valor  da  indenização.  Majoração.
+Descabimento.  Condenação  que  bem  atenta  ao  caráter  punitivo-
+pedagógico.  Redução  do  valor  arbitrado  em  sentença  para  R$
+1.000,00 – um mil reais. Apelo da autora desprovido. Apelo do réu
+parcialmente provido” (TJRS, Apelação Cível 70021221452, Porto
+Alegre,  20.ª  Câmara  Cível,  Rel.  Des.  José  Aquino  Flôres  de
+Camargo, j. 28.11.2007, DOERS 31.01.200
+[/PAGINA 1173]
+
+[PAGINA 1174]
+8, p. 44).
+“Condomínio.  Despesas  condominiais.  Indenização.  Dano  moral.
+Condômino  impedido  de  utilizar  a  área  comum  sem  motivo
+justificado.   Inadimplência   deste.   Irrelevância.   Cabimento.
+Impedido o condômino de utilização de área comum sem motivo
+
+justificado, porquanto a inadimplência não justifica tal penalidade,
+enseja a reparação em quantum adequado, fixado na sentença” (2.º
+TACSP,  Apelação  sem  Revisão  659.976-00/6,  4.ª  Câmara,  Rel.
+Juiz Júlio Vidal, j. 1.º.04.2003).
+Acrescente-se que, na mesma linha a respeito da cláusula de restrição
+pessoal,  posicionou-se  a  Terceira  Turma  do  Superior  Tribunal  de  Justiça,
+com citação ao entendimento deste autor. Conforme acórdão publicado no
+Informativo n. 588 da Corte, de 2016:
+“O  condomínio,  independentemente  de  previsão  em  regimento
+interno, não pode proibir, em razão de inadimplência, condômino e
+seus familiares de usar áreas comuns, ainda que destinadas apenas a
+lazer. Isso porque a adoção de tal medida, a um só tempo, desnatura
+o instituto do condomínio, a comprometer o direito de propriedade
+afeto à própria unidade imobiliária, refoge das consequências legais
+especificamente previstas para a hipótese de inadimplemento das
+despesas  condominiais  e,  em  última  análise,  impõe  ilegítimo
+constrangimento  ao  condômino  (em  mora)  e  aos  seus  familiares,
+em manifesto descompasso com o princípio da dignidade da pessoa
+humana. O direito do condômino ao uso das partes comuns, seja
+qual  for  a  destinação  a  elas  atribuída,  não  decorre  da  situação
+(circunstancial)  de  adimplência  das  despesas  condominiais,  mas
+sim do fato de que, por lei, a unidade imobiliária abrange, como
+inseparável,  uma  fração  ideal  no  solo  (representado  pela  própria
+unidade) bem como nas outras partes comuns, que será identificada
+em  forma  decimal  ou  ordinária  no  instrumento  de  instituição  do
+condomínio (§ 3.º do art. 1.331 do CC). (...) Aliás, é de se indagar
+qual seria o efeito prático da medida imposta (restrição de acesso às
+áreas comuns), senão o de expor o condômino inadimplente e seus
+familiares a uma situação vexatória perante o meio social em que
+residem.  Além  das  penalidades  pecuniárias,  é  de  se  destacar,
+também,  que  a  lei  adjetiva  civil,  atenta  à  essencialidade  do
+cumprimento do dever de contribuir com as despesas condominiais,
+estabelece  a  favor  do  condomínio  efetivas  condições  de  obter  a
+satisfação de seu crédito, inclusive por meio de procedimento que
+privilegia  a  celeridade”  (STJ,  REsp  1.564.030/MG,  Rel.  Min.
+
+Marco Aurélio Bellizze, j. 09.08.2016, DJe 19.08.2016).
+Demonstrando certa pacificação do tema no âmbito da Corte Superior,
+em  2019  surgiu  julgado  da  sua  Quarta  Turma,  com  mesma  conclusão  e
+novamente  citando  o  nosso  entendimento,  afirmando  que  “é  ilícita  a
+disposição condominial que proíbe a utilização de áreas comuns do edifício
+por condômino inadimplente e seus familiares como medida co
+[/PAGINA 1174]
+
+[PAGINA 1175]
+ercitiva para
+obrigar o adimplemento das taxas condominiais” (REsp 1.699.022/SP). São
+utilizados  outros  argumentos,  sendo  o  principal  a  existência  de  um  rol
+taxativo de penalidades no Código Civil. Conforme está na sua ementa, que
+merece destaque:
+“Em  verdade,  o  próprio  Código  Civil  estabeleceu  meios  legais
+específicos e rígidos para se alcançar tal desiderato, sem qualquer
+forma de constrangimento à dignidade do condômino e dos demais
+moradores. O legislador, quando quis restringir ou condicionar o
+direito do condômino, em razão da ausência de pagamento, o fez
+expressamente  (CC,  art.  1.335).  Ademais,  por  questão  de
+hermenêutica jurídica, as normas que restringem direitos devem ser
+interpretadas restritivamente, não comportando exegese ampliativa.
+O Código Civil estabeleceu meios legais específicos e rígidos para
+se alcançar tal desiderato, sem qualquer forma de constrangimento
+à dignidade do condômino inadimplente: a) ficará automaticamente
+sujeito  aos  juros  moratórios  convencionados  ou,  não  sendo
+previstos, ao de um por cento ao mês e multa de até dois por cento
+sobre o débito (§ 1.º, art. 1.336); b) o direito de participação e voto
+nas  decisões  referentes  aos  interesses  condominiais  poderá  ser
+restringido (art. 1.335, III); c) é possível incidir a sanção do art.
+1.337, caput,  do  CC,  sendo  obrigado  a  pagar  multa  em  até  o
+quíntuplo  do  valor  atribuído  à  contribuição  para  as  despesas
+condominiais, conforme a gravidade da falta e a sua reiteração; d)
+poderá  haver  a  perda  do  imóvel,  por  ser  exceção  expressa  à
+impenhorabilidade  do  bem  de  família  (Lei  n.º  8.009/90,  art.  3.º,
+IV)” (STJ, REsp 1.699.022/SP, 4.ª Turma, Rel. Min. Luis Felipe
+Salomão, j. 28.05.2019, DJe 01.07.2019).
+Nas  interpretações  expostas,  especialmente  no  julgado  da  Terceira
+
+Turma do STJ, analisa-se novamente o Direito Civil a partir da Constituição
+Federal de 1988 e dos princípios constitucionais, na esteira da visão civil-
+constitucional do sistema (Direito Civil Constitucional). Para tanto, é preciso
+reconhecer que os princípios constitucionais que protegem a pessoa humana
+têm aplicação imediata nas relações entre particulares (eficácia horizontal),
+inclusive nas relações entre condôminos e condomínio. Não se olvide que
+essa incidência está amparada no art. 5.º, § 1.º, da CF/1988, segundo o qual
+as  normas  que  definem  direitos  fundamentais  têm  aplicação  imediata.  Em
+complemento, pode ser citado o art. 8.º do CPC/2015, segundo o qual, ao
+aplicar  o  ordenamento  jurídico,  o  juiz  deve  resguardar  o  princípio  da
+dignidade da pessoa humana.
+Superado  o  estudo  das  penalidades  ao  condômino  e  partindo  para  o
+estudo  de  outros  direitos,  o  art.  1.338  do  CC  preconiza  que  resolvendo  o
+condômino alugar área no abrigo para veículos, preferir-se-á, em condições
+iguais, qualquer dos condôminos a estranhos, e, entre todos, os possuidores.
+Trata-se de mais um direito de preferência,
+[/PAGINA 1175]
+
+[PAGINA 1176]
+preempção ou prelação legal a
+favor do condômino. No caso de violação desse direito, entende-se que os
+condôminos preteridos podem constituir a locação em seu favor, em efeito
+semelhante ao que consta do art. 504 do CC.
+Sobre  a  inovação,  prevê  o  Enunciado  n.  91  do  CJF/STJ  que  “a
+convenção de condomínio, ou a assembleia geral, pode vedar a locação de
+área  de  garagem  ou  abrigo  para  veículos  estranhos  ao  condomínio”.  Em
+suma,  foi  reconhecido  na I Jornada de Direito Civil  que  a  convenção  de
+condomínio poderia proibir a venda ou locação a estranhos ao condomínio,
+na linha da alteração legislativa do art. 1.331, § 1.º, do CC.
+Ademais, aprovou-se na IV Jornada de Direito Civil, evento de 2006, o
+Enunciado n. 320 do CJF/STJ: “o direito de preferência de que trata o art.
+1.338 deve ser assegurado não apenas nos casos de locação, mas também na
+hipótese  de  venda  da  garagem”.  Na  opinião  deste  autor  o  enunciado
+doutrinário traz uma imprecisão, ao aplicar por analogia norma restritiva de
+direitos. Na verdade, somente há direito de preferência na venda no caso de
+condomínio de coisa indivisível (art. 504 do CC), o que pode não ser o caso
+da vaga de garagem (geralmente não o é).
+Atente-se  ao  fato  de  que  o  debate  exposto  somente  será  relevante  se
+houver na convenção de condomínio previsão expressa autorizando a locação
+ou a alienação de vaga de garagem a terceiros. Isso, diante da alteração do
+art. 1.331, § 1.º, do CC pela Lei 12.607/2012, fazendo tal exigência. Sendo
+
+assim, parece que o Enunciado n. 91, da I Jornada de Direito Civil, restou
+prejudicado, eis que a lei acabou por confirmar, em parte, o seu conteúdo.
+Superado esse ponto, determina o art. 1.339 do CC que os direitos de
+cada  condômino  às  partes  comuns  são  inseparáveis  de  sua  propriedade
+exclusiva.  São,  do  mesmo  modo,  inseparáveis  das  frações  ideais
+correspondentes as unidades imobiliárias, com as suas partes acessórias. Nos
+casos deste artigo, é proibido alienar ou gravar os bens em separado, ou seja,
+alienar o uso das partes exclusivas sem alienar o das partes comuns (§ 1.º).
+Todavia,  é  permitido  ao  condômino  alienar parte  acessória  de  sua
+unidade imobiliária a outro condômino, só podendo fazê-lo a terceiro se essa
+faculdade constar do ato constitutivo do condomínio, e se a ela não se opuser
+à  respectiva  assembleia  geral  (§  2.º).  Para  a  última  hipótese,  cite-se  a
+alienação da vaga de garagem, na linha da alteração do § 1.º do art. 1.331
+pela Lei 12.607, de 4 de abril de 2012. Como antes pontuado, a codificação
+privada  passou  a  estabelecer  que  os  abrigos  de  veículo  não  poderão  ser
+alienados ou alugados a pessoas estranhas ao condomínio, salvo autorização
+expressa na convenção de condomínio.
+As  despesas  relativas  a  partes  comuns  de  uso  exclusivo  de  um
+condômino, ou de alguns deles, incumbem a quem delas se serve (art. 1.340
+do  CC).  Como  exemplo,  pode  ser  mencionado,  mais  uma  vez,  o hal
+[/PAGINA 1176]
+
+[PAGINA 1177]
+l  de
+elevador privativo, notadamente nos prédios em que há um apartamento por
+andar.
+Também aplicando o conceito da norma, na hipótese de condomínio de
+lojas ou mistos, tem-se entendido pela impossibilidade de cobrança das cotas
+condominiais  daqueles  que  não  usufruem  de  determinados  acessórios
+constantes do condomínio, caso dos elevadores e dos interfones. Acrescente-
+se,  nessa  linha,  ementa  publicada  na  Edição  n.  68  da  ferramenta
+Jurisprudência em Teses, do STJ, segundo a qual “a loja térrea, com acesso
+próprio à via pública, não concorre com gastos relacionados a serviços que
+não  lhe  sejam  úteis,  salvo  disposição  condominial  em  contrário”  (tese  de
+número 17).
+Pelo  mesmo  raciocínio,  ao  proprietário  do  terraço  de  cobertura
+incumbem as despesas da sua conservação, de modo que não haja danos às
+unidades  imobiliárias  inferiores  (art.  1.344  do  CC).  Ilustre-se  com  a
+conservação da piscina que se encontra na cobertura do prédio, compondo
+parte exclusiva.
+
+Nunca  se  pode  esquecer  que  as  despesas  condominiais  constituem
+obrigações propter  rem  ou próprias  da  coisa,  denominadas obrigações
+ambulatórias, pois seguem a coisa onde quer que ela se encontre. Isso pode
+ser retirado do art. 1.345 do CC, segundo o qual o adquirente de unidade
+responde  pelos  débitos  do  alienante,  em  relação  ao  condomínio,  inclusive
+multas  e  juros  moratórios.  Como  se  nota,  essa  natureza  híbrida  (direito
+pessoal + real) abrange as penalidades, que são acessórios da dívida.
+No  âmbito  da  jurisprudência  superior,  concluindo  pela  existência  de
+uma obrigação propter rem quanto às despesas de condomínio, destaque-se,
+por todos: STJ, AgRg no AREsp 148.547/SP, 4.ª Turma, Rel. Min. Maria
+Isabel Gallotti, j. 16.04.2013, DJe 23.04.2013; AgRg no REsp 1.299.228/RS,
+4.ª Turma, Rel. Min. Marco Buzzi, j. 04.09.2012, DJe 14.09.2012; AgRg no
+REsp 947.460/RS, 4.ª Turma, Rel. Min. Maria Isabel Gallotti, j. 27.03.2012,
+DJe 10.04.2012). No mesmo sentido, cite-se a premissa número 3, da Edição
+n.  68  da  ferramenta Jurisprudência  em  Teses,  do  mesmo  Tribunal  da
+Cidadania: “as cotas condominiais possuem natureza propter rem, razão pela
+qual  os  compradores  de  imóveis  respondem  pelos  débitos  anteriores  à
+aquisição”.
+Interpretando esse dispositivo e aplicando a natureza propter rem  dos
+débitos  condominiais,  a  jurisprudência  superior  tem  entendido  que  “o
+promitente vendedor que readquire a titularidade do direito real sobre o bem
+imóvel  anteriormente  alienado  pode  ser  responsabilizado  pelos  débitos
+condominiais  posteriores  à  alienação  e  contemporâneos  à  posse  do
+promissário comprador, sem prejuízo de ulterior direito de regresso”. Essa é a
+afirmação n. 5, publicada na Edição n. 133 da ferramenta Jurisprudência em
+Teses do STJ, do ano de 2019. Vejamos um dos precedentes da tese, que cita
+o julgado paradigmático a respeito do assunto:
+“Agravo interno no recurso especial. Civil e processual civ
+[/PAGINA 1177]
+
+[PAGINA 1178]
+il. Ação
+de exoneração de dívida condominial. Compromisso de compra e
+venda.  Rescisão.  Reaquisição  da  titularidade  do  imóvel.
+Responsabilidade do promissário vendedor. Agravo improvido. 1.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  firmou-se  no
+sentido de que ‘o promitente vendedor, sem prejuízo do seu direito
+de regresso, pode ser responsabilizado pelos débitos condominiais
+posteriores à alienação e contemporâneos à posse do promissário
+comprador, se readquirir a titularidade do direito real sobre o bem
+
+imóvel  anteriormente  alienado’  (AgInt  nos  EDcl  no  REsp
+1.407.443/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma,
+DJe de 17/9/2018). 2. Conforme reiteradamente decidido por esta
+Corte,  ‘Em  regra,  o  promitente  vendedor  não  pode  ser
+responsabilizado  pelos  débitos  condominiais  posteriores  à
+alienação,  contemporâneos  à  posse  do  promissário  comprador,
+pois,  ao  alienar  o  imóvel,  tem  a  intenção  de  desvincular-se  do
+direito real sobre o bem. Entretanto, quando o promitente vendedor
+obtém a retomada do bem anteriormente alienado, em virtude da
+reaquisição, sua condição de proprietário e/ou titular de direito real
+sobre a coisa não se rompe, razão porque o adquirente de imóvel
+em condomínio responde pelas cotas condominiais em atraso, ainda
+que  anteriores  à  aquisição,  ressalvado  o  seu  direito  de  regresso
+contra   o   antigo   proprietário/possuidor’   (AgInt   no   REsp
+1.229.639/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de
+20/10/2016).  3.  Agravo  interno  não  provido”  (STJ,  Ag.  Int.  no
+REsp  1565327/PR,  4.ª  Turma,  Rel.  Min.  Raul  Araújo,  j.
+21.03.2019, DJe 02.04.2019).
+A propósito, quanto à possibilidade de cobrança dessas despesas no caso
+de compromisso de compra e venda, o Superior Tribunal de Justiça acabou
+por  consolidar  sua  posição em  2015,  conforme  aresto  publicado  no  seu
+Informativo n. 560. Em resumo, concluiu-se do seguinte modo:
+“A respeito da legitimidade passiva em ação de cobrança de dívidas
+condominiais,  firmaram-se  as  seguintes  teses:  a)  o  que  define  a
+responsabilidade pelo pagamento das obrigações condominiais não
+é  o  registro  do  compromisso  de  compra  e  venda,  mas  a  relação
+jurídica material com o imóvel, representada pela imissão na posse
+pelo  promissário  comprador  e  pela  ciência  inequívoca  do
+condomínio  acerca  da  transação;  b)  havendo  compromisso  de
+compra  e  venda  não  levado  a  registro,  a  responsabilidade  pelas
+despesas  de  condomínio  pode  recair  tanto  sobre  o  promitente
+vendedor quanto sobre o promissário comprador, dependendo das
+circunstâncias de cada caso concreto; e c) se ficar comprovado (i)
+que  o  promissário  comprador  se  imitira  na  posse  e  (ii)  o
+condomínio  teve  ciência  inequívoca  da  transação,  afasta-se  a
+
+legitimidade  passiva  do  promitente  vendedor  para  responder  por
+despesas  condominiais  relativas  a  período  em  que  a  posse  foi
+exercida pelo promissári
+[/PAGINA 1178]
+
+[PAGINA 1179]
+o comprador” (STJ, REsp 1.345.331/RS,
+2.ª  Seção,  Rel.  Min.  Luis  Felipe  Salomão,  j.  08.04.2015, DJe
+20.04.2015).
+Consigne-se que o presente autor é filiado à solução do julgado, por ser
+perfeitamente lógica e em consonância com a boa-fé. Igualmente sobre esse
+tema, cabe pontuar que há premissa publicada na Edição n. 68 da ferramenta
+Jurisprudência  em  Teses  da  Corte, in  verbis:  “havendo  compromisso  de
+compra e venda não levado a registro, a responsabilidade pelas despesas de
+condomínio pode recair tanto sobre o promitente vendedor quanto sobre o
+promissário  comprador,  dependendo  das  circunstâncias  de  cada  caso
+concreto” (tese 4).
+Também  interpretando  o  art.  1.345  do  Código  Civil,  e  como
+consequência  da  natureza propter  rem  da  dívida  condominial,  a
+jurisprudência  superior  conclui  que  a  ação  de  cobrança  de  débitos
+condominiais pode ser proposta também contra o arrendatário do imóvel. Nos
+termos  de  preciso  aresto  do  Superior  Tribunal  de  Justiça,  “as  despesas
+condominiais,  compreendidas  como  obrigações propter  rem,  são  de
+responsabilidade daquele que detém a qualidade de proprietário da unidade
+imobiliária,  ou  ainda  pelo  titular  de  um  dos  aspectos  da  propriedade,  tais
+como a posse, o gozo, a fruição, desde que esse tenha estabelecido relação
+jurídica direta com o condomínio. Na hipótese sob julgamento, a primeira
+recorrida,  não  obstante  não  seja  a  proprietária  do  ponto  comercial,  é
+arrendatária do mesmo, exercendo a posse direta sobre o imóvel. Inclusive, é
+quem usufrui dos serviços prestados pelo Condomínio, não sendo razoável
+que não possa ser demandada para o pagamento de despesas condominiais
+inadimplidas”  (STJ,  REsp  1.704.498/SP,  3.ª  Turma,  Rel.  Min.  Nancy
+Andrighi, j. 17.04.2018, DJe 24.04.2018).
+No que diz respeito ao prazo para cobrança das quotas condominiais em
+aberto, o mesmo Tribunal da Cidadania acabou por consolidar a posição de
+incidência da prescrição de cinco anos, prevista no inciso I do § 5.º do art.
+206 do CC/2002, presente uma obrigação assumida em instrumento público
+ou  particular,  a  contar  do  dia  seguinte  ao  vencimento  da  prestação  (STJ,
+REsp 1.483.930/DF, 2.ª Seção Rel. Min. Luis Felipe Salomão, j. 23.11.2016,
+DJe 01.02.2017). O julgamento tem força vinculativa para outras decisões,
+
+nos termos de vários preceitos do CPC/2015.
+Encerrando o estudo dos deveres, preconiza o art. 1.346 do CC que é
+obrigatório  o  seguro  de  toda  a  edificação  contra  o  risco  de  incêndio  ou
+destruição, total ou parcial. Como leciona Maria Helena Diniz, a seguradora a
+ser  contratada  será  escolhida  pelo  síndico  e  ocorrendo  o  sinistro,  a
+indenização  será  paga  aos  condôminos  na  proporção  de  seus  quinhões.
+136
+Anote-se que a não contratação do seguro pode gerar a destituição do síndico
+por irresponsabilidade.
+7.7.4.3 Da administração do condomínio
+edilício
+São pessoas e órgãos relacionados com a administração do condomínio:
+a)
+[/PAGINA 1179]
+
+[PAGINA 1180]
+O síndico A assembleia condominial deve escolher um síndico, que é o
+administrador-geral do condomínio, ou seja, o seu presidente ou gerente. Há,
+desse  modo,  um mandato legal.  Conforme  o  art.  1.347  do  CC,  o  síndico
+poderá  não  ser  condômino,  ou  seja,  admitem-se síndicos  profissionais,
+devidamente remunerados para o exercício de suas atribuições. O prazo de
+administração  não  pode  ser  superior  a  dois  anos,  mas  poderá  renovar-se.
+Eventualmente,  a  convenção  pode  dispor  ao  contrário  quanto  aos  dois
+aspectos.  O  atual  PL  699/2011  pretende  alterar  o  dispositivo,  passando  a
+prever que a renovação somente pode ocorrer uma vez, o que visa a evitar
+ditaduras dos síndicos por longos períodos.
+137
+Nos termos do art. 1.348 do CC compete ao síndico:
+I)  Convocar  a  assembleia  dos  condôminos,  seja  ela
+ordinária ou extraordinária.
+II)  Representar,  ativa  e  passivamente,  o  condomínio,
+praticando, em juízo ou fora dele, os atos necessários à
+defesa dos interesses comuns. Não se pode esquecer que
+o condomínio edilício tem legitimidade ativa processual,
+notadamente  para  as  ações  de  cobrança  das  quotas
+condominiais (art. 75, inc. XI, do CPC/2015).
+III)  Dar  imediato  conhecimento  à  assembleia  da
+existência de procedimento judicial ou administrativo, de
+interesse  do  condomínio,  caso  de  eventual  penalidade
+imposta pelo Poder Público.
+
+IV) Cumprir e fazer cumprir a convenção, o regimento
+interno  e  as  determinações  da  assembleia,  ou  seja,  os
+acordos e estatutos coletivos, em prol da função social da
+propriedade.
+V)  Diligenciar  a  conservação  e  a  guarda  das  partes
+comuns  e  zelar  pela  prestação  dos  serviços  que
+interessem aos possuidores.
+VI) Elaborar o orçamento da receita e da despesa relativa
+a cada ano.
+VII) Cobrar dos condôminos as suas contribuições, bem
+como impor e cobrar as multas devidas, o que inclui as
+penalidades por excesso de barulho e de uso incompatível
+das partes comuns ou exclusivas.
+VIII) Prestar contas à assembleia, anualmente e quando
+exigidas. O desrespeito a esse dever pode ensejar ação de
+prestação de contas por qualquer condômino.
+IX) Realizar o seguro da edificação.
+Eventualmente, poderá a assembleia investir outra pessoa, em lugar do
+síndico, em poderes de representação (art. 1.348, § 1.º, do CC). É o caso de
+uma administradora, que pode atuar em nome do condomínio edilício, o que
+é bem comum nas grandes cidades.
+O síndico pode transferir a outrem, total ou parcialmente, os poderes de
+representação  ou  as  funções  administrativas,  mediante  aprovação  da
+assembleia, salvo disposição em contrário da convenção (art. 1.348, § 2.º, do
+CC). Trata-se do subsíndico, que pode ser tido como o vice-presidente  do
+condomínio  edilício,  geralmente  quando  o  síndico  não  puder  fazê-lo.
+Aplicam-se ao subsíndico os mesmos preceitos relativos ao síndico.
+Por fim, em casos excepcionais, cabe a destituição do síndico por meio
+de assembleia, que exige maioria absolu
+[/PAGINA 1180]
+
+[PAGINA 1181]
+ta de seus membros. A destituição
+cabe se ele praticar irregularidades, não prestar contas, ou não administrar
+convenientemente o condomínio (art. 1.349). Para ilustrar, da jurisprudência,
+destaquem-se  as  hipóteses  de  confusão  patrimonial  e  desorganização
+gerencial praticadas pelo administrador (TJDF, Recurso 2008.04.1.011460-3,
+Acórdão  439.063,  6.ª  Turma  Cível,  Rel.  Des.  José  Divino  de  Oliveira,
+DJDFTE 20.08.2010, p. 97).
+
+Cabe pontuar que julgados interpretam o art. 1.349 do Código Civil no
+sentido  de  a  maioria  absoluta  ali  referida  dizer  respeito  aos  condôminos
+presentes na assembleia especialmente designada para tal fim, o que parece
+ser correto. Assim decidindo, por todos: “o quórum exigido no Código Civil
+para a destituição do cargo de síndico do condomínio é a maioria absoluta
+dos condôminos presentes na assembleia geral extraordinária. Interpretação
+literal  e  teleológica  do  artigo  1.349  do  Código  Civil”  (STJ,  REsp
+1.266.016/DF,  3.ª  Turma,  Rel.  Min.  Paulo  de  Tarso  Sanseverino,  j.
+18.12.2014, DJe 05.02.2015).
+b) As assembleias (ordinária e extraordinária). Quoruns e deliberações
+De início há a assembleia geral ordinária, tratada pelo art. 1.350 do CC. Essa
+será convocada pelo síndico, anualmente e na forma prevista na convenção, a
+fim de aprovar o orçamento das despesas, as contribuições dos condôminos e
+a prestação de contas, e, eventualmente, eleger-lhe o substituto e alterar-lhe o
+regimento interno. Se o síndico não convocar a assembleia geral ordinária,
+um quarto dos condôminos poderá fazê-lo (art. 1.350, § 1.º, do CC). Se a
+assembleia não se reunir, o juiz decidirá a respeito da questão, a requerimento
+de qualquer condômino (art. 1.350, § 2.º, do CC). O último dispositivo está
+na contramão da tendência atual, que é a de desjudicialização dos conflitos
+civis.
+Não  se  olvide  que  é  possível  a  convocação  de  uma assembleia
+extraordinária,  para  tratar  de  temas  relevantes  ou  urgentes  referentes  ao
+condomínio. Essa poderá ser convocada pelo síndico ou por um quarto dos
+condôminos (art. 1.355 do CC).
+A  respeito  das  duas  assembleias,  devem  ser  observados  os  seguintes
+preceitos sobre os quoruns e votações:
+– Depende da aprovação de 2/3 (dois terços) dos votos
+dos condôminos a alteração da convenção. A mudança da
+destinação  do  edifício,  ou  da  unidade  imobiliária,
+depende da aprovação pela unanimidade dos condôminos
+(art.  1.351).  O  dispositivo  foi  alterado  pela  Lei
+10.931/2004, eis que a redação anterior falava em 2/3 dos
+condôminos  e  não  dos  votos  da  assembleia,  o  que
+dificilmente seria atingido na prática.
+
+– A realização de obras no condomínio depende: a) se
+voluptuárias, de voto de dois terços dos condôminos; b)
+se úteis, de voto da maioria dos condôminos (art. 1.341
+do CC). As obras ou reparações necessárias podem ser
+realizadas,  independentemente  de  autorização,  pelo
+síndico, ou, em caso de omissão ou impedimento deste,
+por qualquer condômino (§ 1
+[/PAGINA 1181]
+
+[PAGINA 1182]
+.º). Se as obras ou reparos
+necessários  forem  urgentes  e  importarem  em  despesas
+excessivas,  determinada  sua  realização,  o  síndico  ou  o
+condômino  que  tomou  a  iniciativa  delas  dará  ciência  à
+assembleia, que deverá ser convocada imediatamente (§
+2.º). Não sendo urgentes, as obras ou reparos necessários,
+que  importarem  em  despesas  excessivas,  somente
+poderão  ser  efetuadas  após  autorização  da  assembleia,
+especialmente  convocada  pelo  síndico,  ou,  em  caso  de
+omissão  ou  impedimento  deste,  por  qualquer  dos
+condôminos (§ 3.º). O condômino que realizar obras ou
+reparos  necessários  será  reembolsado  das  despesas  que
+efetuar, não tendo direito à restituição das que fizer com
+obras ou reparos de outra natureza, embora de interesse
+comum (§ 4.º).
+– A realização de obras, em partes comuns, em acréscimo
+às  já  existentes,  a  fim  de  lhes  facilitar  ou  aumentar  a
+utilização, depende da aprovação de dois terços dos votos
+dos  condôminos.  Ex.:  ampliação  da  área  de  lazer.  Não
+são   permitidas   construções,   nas   partes   comuns,
+suscetíveis  de  prejudicar  a  utilização,  por  qualquer  dos
+condôminos, das partes próprias, ou comuns (art. 1.342
+do CC).
+– A construção de outro pavimento, ou, no solo comum,
+de  outro  edifício,  destinado  a  conter  novas  unidades
+imobiliárias, depende da aprovação da unanimidade dos
+condôminos (art. 1.343 do CC). Ex.: construção de um
+novo pavimente de garagem.
+–  A  respeito  das  deliberações,  salvo  quando  exigido
+quorum   especial,   serão   tomadas,   em   primeira
+convocação,  por  maioria  de  votos  dos  condôminos
+
+presentes  que  representem  pelo  menos  metade  das
+frações  ideais  (art.  1.352  do  CC).  Os  votos  serão
+proporcionais às frações ideais no solo e nas outras partes
+comuns pertencentes a cada condômino, salvo disposição
+diversa da convenção de constituição do condomínio (art.
+1.352, parágrafo único, do CC). Assim, a convenção pode
+estipular que todos os condôminos têm direitos iguais nos
+votos.
+– Em segunda convocação, a assembleia poderá deliberar
+por  maioria  dos  votos  dos  presentes,  salvo  quando
+exigido quorum especial (art. 1.353 do CC).
+–  A  respeito  da  votação,  a  assembleia  não  poderá
+deliberar se todos os condôminos não forem convocados
+para a reunião (art. 1.354 do CC). Devem ser utilizados
+meios  idôneos  e  amplos  de  publicidade.  Na  prática,  é
+comum  o  envio  de  correspondência  a  todos  os
+condôminos; bem como a colocação de um aviso na área
+comum.
+c) O conselho fiscal Poderá haver no condomínio um conselho fiscal,
+órgão  consultivo  financeiro,  composto  de  três  membros,  eleitos  pela
+assembleia,  conforme  previsto  na  convenção  (art.  1.356  do  CC).  Esse
+conselho não é obrigatório, mas facultativo. O prazo de atuação não pode ser
+superior a dois anos.
+Compete ao conselho dar parecer sobre as contas do síndico, aprovando-
+as ou rejeitando-as. Como destacam Carlos Alberto Dabus Maluf e Márcio
+Anter
+[/PAGINA 1182]
+
+[PAGINA 1183]
+o  Motta  Ramos  Marques,  citando  jurisprudência,  tais  decisões  do
+conselho  devem  ser  submetidas  à  assembleia, o  que  é  a  melhor  solução,
+diante do regime democrático que deve imperar no condomínio edilício.
+138
+7.6.4.4 Da extinção do condomínio edilício
+Encerrando o estudo do condomínio edilício, esse poderá ser extinto nas
+seguintes hipóteses previstas na codificação privada, que, aliás, são raras na
+prática:
+
+– Se  a  edificação  for  total  ou  consideravelmente
+destruída,  ou  ameace  ruína  (art.  1.357  do  CC).  Os
+condôminos   deliberarão   em   assembleia   sobre   a
+reconstrução  ou  venda,  por  votos  que  representem
+metade  mais  uma  das  frações  ideais.  Conforme  os
+parágrafos do comando legal, deliberada a reconstrução,
+poderá  o  condômino  eximir-se  do  pagamento  das
+despesas respectivas, alienando os seus direitos a outros
+condôminos,  mediante  avaliação  judicial.  Realizada  a
+venda,  em  que  se  preferirá,  em  condições  iguais  de
+oferta, o condômino ao estranho, será repartido o apurado
+entre  os  condôminos,  proporcionalmente  ao  valor  das
+suas unidades imobiliárias.
+– Em havendo desapropriação do imóvel. Em casos tais,
+a indenização será repartida na proporção das quotas dos
+condôminos (art. 1.358 do CC).
+7.7.4.5 Novas modalidades de condomínios
+instituídas pela Lei 13.465/2017. Condomínio
+de lotes e condomínio urbano simples
+Com o intuito de melhorar a qualidade da distribuição da terra urbana,
+visando à formalização dominial de muitas áreas e com o objetivo de resolver
+alguns problemas e dilemas anteriores, a Lei 13.465/2017 introduziu novas
+modalidades de condomínio, que passam agora a ser estudadas nesta obra,
+por  interessarem  diretamente  à  disciplina  do  Direito  das  Coisas: a)  o
+condomínio de lotes, incluindo a modalidade de acesso controlado; e b) o
+condomínio urbano simples.
+Começando pelo condomínio de lotes, a norma emergente incluiu, por
+força  do  seu  art.  58,  uma  seção  no  tratamento  relativo  ao  condomínio  na
+codificação material (art. 1.358-A do CC/2002). O objetivo foi alcançar os
+chamados  loteamentos  fechados,  regulamentando-os  e  atribuindo-lhes
+formalidade.  Como  observa  Marco  Aurélio  Bezerra  de  Melo,  mesmo  no
+sistema anterior já era possível a instituição de um condomínio horizontal ou
+deitado,  “que  não  teria  por  fim  reconhecer  como  unidade  autônoma  um
+apartamento, sala, casa, isto é, uma edificação, mas sim um lote de terreno
+
+apto à edificação, isto é, dotado de infraestrutura básica para tanto, segundo
+os ditames da Lei 4.591/1964 no que tange à incorporação imobiliária e da
+Lei  6.766/1979  que  disciplina  a  divisão  do  solo  urbano,  além,  à  toda
+evidência, da observância das normas edilícias da localidade em atenção à
+competência constitucional delegada aos municípios (arts. 30, VIII, e 182,
+CF)”.
+139
+Conforme  o caput  do  primeiro  preceito  que  trata  do  instituto,  pode
+haver, em terrenos, partes designadas de lotes que sã
+[/PAGINA 1183]
+
+[PAGINA 1184]
+o propriedade exclusiva
+e  partes  que  são  propriedade  comum  dos  condôminos. Como  se  nota,  os
+loteamentos  passam  a  seguir,  sem  qualquer  dúvida,  o  mesmo  regime  do
+condomínio edilício, com a divisão em áreas comuns – de convivência de
+todos – e exclusivas – com posse direta exercida somente por cada um dos
+condomínios. Acrescente-se que o conceito de loteamento é retirado do art.
+2.º, § 1.º, da Lei 6.766/1979, que trata do parcelamento do solo urbano. Nos
+seus  termos,  considera-se  loteamento  a  subdivisão  de  gleba  em  lotes
+destinados  a  edificação,  com  abertura  de  novas  vias  de  circulação,  de
+logradouros públicos ou prolongamento, modificação ou ampliação das vias
+existentes.
+Também  conforme  a  lei  especial,  o  lote  é  definido  como  o  terreno
+servido  de  infraestrutura  básica  cujas  dimensões  atendam  aos  índices
+urbanísticos definidos pelo plano diretor ou lei municipal para a zona em que
+se  situa  (art.  2.º,  §  4.º,  da  Lei  6.766/1979).  Como  mecanismos  de
+infraestrutura, há previsão quanto aos equipamentos urbanos de escoamento
+das águas pluviais, iluminação pública, esgotamento sanitário, abastecimento
+de água potável, energia elétrica pública e domiciliar e vias de circulação (art.
+2.º, § 5.º, da Lei 6.766/1979).
+Expostos tais conceitos básicos, e retornando-se à visualização do novo
+tratamento constante do Código Civil, estabelece o seu § 1.º do art. 1.358-A
+que a fração ideal de cada condômino poderá ser proporcional à área do solo
+de cada unidade autônoma, ao respectivo potencial construtivo ou a outros
+critérios indicados no ato de instituição. Segue-se, mais uma vez, o modelo
+do condomínio edilício, notadamente o que consta do art. 1.331, § 3.º, da
+própria  codificação  material,  segundo  o  qual  “a  cada  unidade  imobiliária
+caberá, como parte inseparável, uma fração ideal no solo e nas outras partes
+comuns, que será identificada em forma decimal ou ordinária no instrumento
+de instituição do condomínio”. Nos dois casos poderão as partes envolvidas
+dispor sobre a fração ideal de cada condomínio, o que representa importante e
+
+fundamental valorização da autonomia privada.
+Em  complemento,  como  visto,  o  que  representa  um  notável  avanço,
+preceitua o novo § 2.º do art. 1.358-A do CC/2002 que “aplica-se, no que
+couber, ao condomínio de lotes o disposto sobre condomínio edilício neste
+Capítulo, respeitada a legislação urbanística”. Assim, resolve-se o problema
+anterior  a  respeito  da  obrigatoriedade  do  pagamento  das  contribuições  no
+condomínio  de  lotes.  Com  a  aplicação  das  regras  gerais  do  condomínio
+edilício, cada condômino do loteamento estará sujeito aos deveres previstos
+no  art.  1.336  do  Código  Civil,  aqui  antes  estudados,  e  às  penalidades  ali
+consagradas, inclusive para os casos de condômino nocivo ou antissocial.
+Supera-se, portanto e quanto ao condomínio de lotes, decisão anterior do
+Supremo  Tribunal  Federal  que  concluiu  pela  não  incidê
+[/PAGINA 1184]
+
+[PAGINA 1185]
+ncia  das  regras
+relativas  ao  condomínio  edilício  no  tocante  à  cobrança  de  taxas  de
+administração  para  os  loteamentos  fechados  de  casas,  tratados  como
+associações  de  moradores  (STF,  RE  432106,  1.ª  Turma,  Rel.  Min.  Marco
+Aurélio, j. 20.09.2011). Igualmente, está superada a posição consolidada no
+Superior  Tribunal  de  Justiça,  em  julgamento  de  incidente  de  recursos
+repetitivos, praticamente pacificando a questão (REsp 1.280.871/SP e REsp
+1.439.163/SP,  2.ª  Seção,  Rel.  Min.  Ricardo  Villas  Bôas  Cueva,  Rel.  para
+acórdão Min. Marco Buzzi, j. 11.03.2015, DJe 22.05.2015, publicado no seu
+Informativo n. 562).
+A posição deste autor, repise-se, era no mesmo sentido do Enunciado n.
+89 do CJF/STJ, da I Jornada de Direito Civil, in verbis: “O disposto nos arts.
+1.331  a  1.358  do  novo  Código  Civil  aplica-se,  no  que  couber,  aos
+condomínios   assemelhados,   tais   como   loteamentos   fechados,
+multipropriedade  imobiliária  e  clubes  de  campo”.  O  teor  da  proposta
+doutrinária, salvo melhor juízo, parece compor o novo art. 1.358-A, § 2.º, do
+Código Civil. Sendo assim, a jurisprudência superior deve se posicionar de
+maneira diferente a partir da vigência da Lei 13.465/2017, determinando a
+obrigatoriedade do pagamento das contribuições nos condomínios de lotes,
+sob  pena  das  sanções  estabelecidas  no  art.  1.336  do  Código  Civil.  A
+afirmação vale para os antigos loteamentos fechados que forem convertidos
+para o novo sistema, observadas as regras administrativas para tal conversão;
+e também para os novos condomínios de lotes, que forem constituídos. Para
+os  loteamentos  fechados  que  não  se  adaptarem  à  legislação  emergente  em
+comento,  continua  tendo  incidência  o  entendimento  jurisprudencial  antes
+citado.
+
+Encerrando  o  tratamento  na  Lei  Geral  Privada,  o  §  3.º  do  novo  art.
+1.358-A prevê que, para fins de incorporação imobiliária, a implantação de
+toda  a  infraestrutura  ficará  a  cargo  do  empreendedor.  Segundo  Carlos
+Eduardo  Elias  de  Oliveira,  assessor  jurídico  do  Senado  Federal,  e  que
+participou  do  processo  de  elaboração  da  Lei  13.465/2017  naquela  Casa,  o
+dispositivo  é  óbvio,  mas  pode  criar  potenciais  problemas  no  futuro.  Isso
+porque “é plenamente possível entender que, na realidade, ele se destina a
+proteger os adquirentes de ‘lotes na planta’ (incorporação é vender ‘imóveis
+futuros’ que serão incorporados ao solo), de maneira que eventual cláusula
+dos contratos de alienação feita pelo incorporador poderá ser tida por nula se
+deixar as obras de infraestrutura para serem executadas pelos compradores
+dos lotes”.
+140
+Na sequência de seu texto, o jurista propõe uma interpretação restritiva
+do  comando,  para  se  entender  que  “ele  se  destina  apenas  a  proteger  o
+interesse público de que o condomínio de lotes não crie uma área desértica e
+sem  o  suporte  adequado.  Daí  decorre  que  esse  dispositivo  não  impede  o
+incorporador de
+[/PAGINA 1185]
+
+[PAGINA 1186]
+repassar os custos ou a obrigação de fazer essas obras aos
+compradores dos lotes. Esse repasse, porém, não exonerará o incorporador de
+responder perante a Administração Pública por omissões na realização dessas
+obras,  ressalvado  –  se  for  o  caso  –  o  direito  de  regresso  contra  os
+compradores dos lotes”.
+141
+ Essa também é a opinião do presente autor.
+Além  da  regra  inserida  no  Código  Civil,  outras  normas  sobre  o
+condomínio  de  lotes  merecem  comentários.  De  início,  o  art.  45  da  Lei
+13.465/2017  enuncia  que,  quando  se  tratar  de  imóvel  sujeito  a  regime  de
+condomínio geral a ser dividido em lotes com indicação, na matrícula, da área
+deferida a cada condômino, o Município poderá indicar, de forma individual
+ou  coletiva,  as  unidades  imobiliárias  correspondentes  às  frações  ideais
+registradas,  sob  sua  exclusiva  responsabilidade,  para  a  especialização  das
+áreas registradas em comum. O seu objetivo, sem dúvida, é regularizar os
+loteamentos  fechados,  com  o  aval  do  Município,  como  antes  exposto.  Em
+complemento,  se  as  informações  referidas  não  constarem  do  projeto  de
+regularização  fundiária  aprovado  pelo  Município,  as  novas  matrículas  das
+unidades imobiliárias serão abertas mediante requerimento de especialização,
+formulado pelos interessados, dispensada a outorga de escritura pública para
+indicação  da  quadra  e  do  lote  (parágrafo  único  desse  art.  45  da  Lei
+13.465/2017).
+Outras alterações importantes foram feitas na já citada Lei 6.766/1979.
+
+No seu art. 2.º, que traz conceitos fundamentais sobre o parcelamento do solo
+urbano, foi incluído o § 7.º, segundo o qual o lote poderá ser constituído sob a
+forma  de  imóvel  autônomo  ou  de  unidade  imobiliária  integrante  de
+condomínio  de  lotes.  Assim,  podem  ser  visualizadas  no  artigo  duas
+modalidades de loteamento. A primeira delas é o loteamento tradicional, em
+que os lotes são imóveis autônomos.
+A segunda modalidade é o loteamento condominial, situação na qual os
+lotes  constituem  unidades  autônomas  de  um  condomínio.  Para  essa
+modalidade, estatui o novo art. 4.º, § 4.º, da Lei 6.766/1979 que poderão ser
+instituídas limitações administrativas e direitos reais sobre coisa alheia em
+benefício do poder público, da população em geral e da proteção da paisagem
+urbana, tais como servidões de passagem, usufrutos e restrições à construção
+de muros. Isso para tornar viável o convívio do loteamento condominial com
+a sociedade, atendendo à sua função social. Entre todas as restrições, a que
+mais  ocorre  na  prática  é  a  servidão  de  passagem.  Eventualmente,  se  o
+loteamento encravar algum outro imóvel, é possível a presença do instituto da
+passagem forçada, estudado em tópico relativo ao Direito de Vizinhança.
+Há ainda o loteamento de acesso controlado, tratado pelo novo § 8.º do
+art. 2.º da Lei 6.766/1979, cujo controle de acesso será regulamentado por ato
+do  poder  público  Municipal.  Em  casos  tais,  é
+[/PAGINA 1186]
+
+[PAGINA 1187]
+vedado  o  impedimento  de
+acesso a pedestres ou a condutores de veículos, não residentes, devidamente
+identificados  ou  cadastrados,  o  que  depende  de  regulamentação  por  cada
+Município, mais uma vez para atender à função social da propriedade.
+O art. 36-A da Lei 6.766/1979, dispositivo que merece ser comentado
+para  as  devidas  diferenciações  categóricas  e  também  incluído  pela  Lei
+13.465/2017,  prevê  que  as  atividades  desenvolvidas  pelas  associações  de
+proprietários de imóveis, titulares de direitos ou moradores em loteamentos
+ou  empreendimentos  assemelhados,  desde  que  não  tenham  fins  lucrativos,
+bem como pelas entidades civis organizadas em função da solidariedade de
+interesses  coletivos  desse  público  com  o  objetivo  de  administração,
+conservação, manutenção, disciplina de utilização e convivência, visando à
+valorização dos imóveis que compõem o empreendimento, tendo em vista a
+sua  natureza  jurídica,  vinculam-se,  por  critérios  de  afinidade,  similitude  e
+conexão, à atividade de administração de imóveis. Conforme o seu parágrafo
+único, a administração de imóveis existentes sob essa formação sujeita seus
+titulares à normatização e à disciplina constantes de seus atos constitutivos,
+cotizando-se  na  forma  desses  atos  para  suportar  a  consecução  dos  seus
+
+objetivos, inclusive quanto a contribuições para a sua administração.
+Trata-se do que se denomina na prática de condomínio de fato, como se
+retira  da  obra  de  Marco  Aurélio  Bezerra  de  Melo,  que  inclui  nele  o
+loteamento de acesso controlado.  Segundo  o  autor,  em  entendimento  que
+conta  com  o  meu  apoio,  “os  atuais  artigos  2.º,  §  8.º,  e  36-A,  da  Lei
+6.766/1979, com redação dada pela Lei 13.465/2017, de 11 de julho de 2017,
+parecem  não  deixar  dúvidas  do  retorno  ao  ordenamento  jurídico  do
+condomínio  de  fato  com  todas  as  suas  implicações  jurídicas,  atingindo
+aqueles  que  participaram  da  sua  formação,  assim  como  outros  adquirentes
+que adquiriram a sua unidade depois da instituição do condomínio de fato”.
+142
+O  doutrinador  levanta  também  a  dúvida  sobre  o  reconhecimento  de
+inconstitucionalidade das normas, pelo Supremo Tribunal Federal, pelo fato
+de  conduzirem  à  conclusão  pela  obrigatoriedade  de  pagamento  das
+contribuições  pelos  seus  moradores.  A  sua  resposta,  como  a  minha,  é
+negativa, pois “não se está afirmando que a pessoa é obrigada a associar-se,
+mas  sim  que  o  interesse  da  coletividade  no  tocante  à  funcionalização  da
+propriedade deve prevalecer e que não é lícito o enriquecimento sem causa
+(art.  884,  CC)  que  se  dará  com  o  gozo  das  benesses  condominiais  sem  a
+devida contraprestação. Eventuais abusos na cobrança como, por exemplo,
+inexistência  de  contraprestação,  hão  de  ser  identificadas  pelos  tribunais
+estaduais a quem compete aferir no mundo dos fatos a seriedade ou não dos
+condomínios de fato”.
+143
+Como  último  comentário  sobre  a  c
+[/PAGINA 1187]
+
+[PAGINA 1188]
+ategoria,  o  presente  autor  segue  a
+posição doutrinária que entende ser o regime de instituição do condomínio de
+lotes o de incorporação imobiliária, nos termos dos arts. 28 e seguintes da Lei
+n. 4.591/1964, entendimento liderado por Rodrigo Toscano de Brito e pelo
+sempre citado Marco Aurélio Bezerra de Melo. Assim sendo, é possível a
+instituição  de  patrimônio  de  afetação  em  casos  tais,  conforme  previsto  na
+mesma legislação. Adotando tais premissas, na VIII Jornada de Direito Civil
+(2018),  aprovou-se  o  Enunciado  n.  625,  com  a  seguinte  dicção:  “a
+incorporação imobiliária que tenha por objeto o condomínio de lotes poderá
+ser submetida ao regime do patrimônio de afetação, na forma da lei especial”.
+Partindo-se para o estudo do condomínio urbano simples, prescreve o
+art.  61  da  Lei  13.465/2017  que,  quando  um  mesmo  imóvel  contiver
+construções de casas ou cômodos, poderá ser instituído, inclusive para fins de
+REURB,  condomínio  urbano  simples.  Nessa  instituição  devem  ser
+respeitados  os  parâmetros  urbanísticos  locais.  Devem  também  ser
+
+discriminadas, na matrícula, a parte do terreno ocupada pelas edificações, as
+partes de utilização exclusiva e as áreas que constituem passagem para as vias
+públicas  ou  para  as  unidades  entre  si.  Em  relação  à  categoria,  aplica-se  o
+disposto na própria lei que o instituiu e, em complemento e no que couber, o
+disposto  entre  os  arts.  1.331  a  1.358  do  Código  Civil.  Assim,  novamente,
+reconhece-se  a  subsunção  subsidiária  das  regras  relativas  ao  condomínio
+edilício.
+Mais  uma  vez,  segundo  pontua  Carlos  Eduardo  Elias  de  Oliveira,
+embora a categoria tenha recebido nova nomenclatura, “trata-se, na realidade,
+de uma espécie de condomínio edilício que dispensa algumas formalidades
+em razão da sua pequena dimensão. Esse condomínio aplica-se a situações de
+terrenos  onde  haja  mais  de  uma  construção  e  em  que  o  seu  titular  queira
+tornar cada uma dessas construções uma unidade autônoma de condomínio.
+Diante  da  sua  simplicidade,  o  condomínio  urbano  simples  dispensa  a
+apresentação de convenção de condomínio”.
+144
+O  assessor  do  Senado  Federal  esclarece,  em  continuidade,  que  a
+expressão “cômodos” foi mal empregada, devendo ser entendida como um
+complemento à menção a “construções”. De fato, em uma primeira leitura
+parece que a norma está tratando de condomínio dentro de um mesmo imóvel
+supostamente com habitação coletiva, o popular cortiço, também conhecido
+como pensão de quartos.
+Todavia, esse não é o caso, ainda segundo Carlos Eduardo Elias, que
+pontua  duas  situações  possíveis  para  o  condomínio  urbano  simples.  A
+primeira  delas  ocorre  quando  o  terreno  contiver  várias  edificações,  como
+acontece na chamada “casa dos fundos”. A segunda situação está presente
+quando o terreno contiver uma edificação na qual haja mais de um cômodo
+com  acesso  autônomo.  E  arremata,  com  razão  e  com  o  apoio  deste  autor:
+“não
+[/PAGINA 1188]
+
+[PAGINA 1189]
+se  pode  admitir  o  condomínio  urbano  simples  para  cômodos  que
+estejam funcional e espacialmente conectados, como no caso de quartos de
+um mesmo apartamento. É preciso haver autonomia funcional e de acesso no
+cômodo  para  ele  constituir  uma  unidade  autônoma  de  condomínio  urbano
+simples”.
+145
+Seguindo  no  seu  estudo,  conforme  o  art.  62  da  Lei  13.465/2017,  a
+instituição  do  condomínio  urbano  simples  será  registrada  na  matrícula  do
+respectivo  imóvel.  Nesse  registro,  assim  como  ocorre  com  o  condomínio
+edilício,  serão  identificadas  as  partes  comuns  ao  nível  do  solo,  as  partes
+comuns  internas  à  edificação,  se  houver,  e  as  respectivas  unidades
+
+autônomas, dispensada a apresentação de convenção de condomínio, como
+antes exposto.
+Após o registro da instituição do condomínio urbano simples, deverá ser
+aberta  uma  matrícula  própria  para  cada  unidade  autônoma.  A  cada  uma
+dessas matrículas caberá, como parte inseparável, uma fração ideal do solo e
+das  outras  partes  comuns,  se  houver,  representada  na  forma  de  percentual
+(art. 62, § 1.º, da Lei 13.465/2017). As unidades autônomas constituídas em
+matrícula  própria  poderão  ser  alienadas  e  gravadas  livremente  por  seus
+titulares,  como  ocorre  com  o  condomínio  edilício  (art.  62,  §  2.º,  da  Lei
+13.465/2017).
+Na linha da posição doutrinária por último transcrita, a norma expressa
+que nenhuma unidade autônoma poderá ser privada de acesso ao logradouro
+público  (art.  62,  §  3.º,  da  Lei  13.465/2017).  Afasta-se,  assim  e
+definitivamente,  a  impressão  de  que  se  trata  de  condomínio  em  habitação
+coletiva.
+Quanto à gestão das partes comuns, esta será feita de comum acordo
+entre  os  condôminos,  podendo  ser  formalizada  por  meio  de  instrumento
+particular  (art.  62,  §  3.º,  da  Lei  13.465/2017).  Pensamos  que  há  a  plena
+possibilidade  de  os  condôminos  escolherem  um  administrador  ou  síndico,
+bem  como  compor  um  conselho  fiscal,  como  ocorre  com  o  condomínio
+edilício.
+Por derradeiro, a novel legislação exprime que no caso da REURB-S –
+regularização  fundiária  aplicável  aos  núcleos  urbanos  informais  ocupados
+predominantemente por população de baixa renda, assim declarados em ato
+do  Poder  Executivo  municipal  –  a  averbação  das  edificações  poderá  ser
+efetivada a partir de mera notícia, a requerimento do interessado (art. 63 da
+Lei 13.465/2017).
+Dessa notícia  registral  constarão  a  área  construída  e  o  número  da
+unidade imobiliária, dispensada a apresentação de habite-se  e  de  certidões
+negativas de tributos e contribuições previdenciárias. A dispensa do habite-se
+merece críticas, pois muitas vezes a sua ausência diz respeito a problemas
+estruturais  que  acometem  o  imóvel.  Ademais,  temos  sérias  dúvidas  sobre
+como os registradores de imóveis receberão, com bons olhos, a citada notícia.
+Como palavras finais, aguardemos se essa nova categoria terá, de fato, a
+d
+[/PAGINA 1189]
+
+[PAGINA 1190]
+evida efetivação na realidade prática brasileira.
+7.7.4.6 A multipropriedade ou time sharing.
+
+Estudo da Lei 13.777/2018
+A Lei 13.777, de 20 de dezembro de 2018, incluiu no Código Civil de
+2002 um capítulo referente à multipropriedade ou time-sharing, tratando sob
+o  regime  condominial, como  nova  espécie  de  condomínio.  Em  resumo,  a
+nova  legislação  cuida  dos  seguintes  aspectos  relativos  à  categoria: a)
+disposições gerais; b) regras quanto à sua instituição; c) direitos e obrigações
+do  multiproprietário; d)  transferência  da  multipropriedade; e)  previsões  de
+preceitos  a  respeito  da  sua  administração;  e f)  disposições  específicas
+relativas  às  unidades  autônomas  de  condomínios  edilícios  (arts.  1.358-B  a
+1.358-U). Também foram feitas inclusões na Lei 6.015/1973, que tratam dos
+registros públicos.
+Como aqui antes pontuado, o Superior Tribunal de Justiça reconheceu a
+natureza  real  do time sharing,  seguindo  a  definição  do  Professor  Gustavo
+Tepedino, no sentido de que se trata de “uma espécie de condomínio relativo
+a  locais  de  lazer  no  qual  se  divide  o  aproveitamento  econômico  de  bem
+imóvel (casa, chalé, apartamento) entre os cotitulares em unidades fixas de
+tempo, assegurando-se a cada um o uso exclusivo e perpétuo durante certo
+período  do  ano”  (STJ,  REsp  1.546.165/SP,  3.ª  Turma,  Rel.  Min.  Ricardo
+Villas  Bôas  Cueva,  Rel.  p/  Acórdão  Min.  João  Otávio  de  Noronha,  j.
+26.04.2016, DJe 06.09.2016).
+Observe-se, de imediato, que a multipropriedade tratada atualmente no
+Código  Civil  apenas  diz  respeito  a  imóveis,  não  alcançando  bens  móveis
+como veículos automotores, aeronaves e embarcações em geral. O objetivo
+da lei foi de supostamente atrair investimentos para o setor de turismo no
+Brasil  quanto  a  tais  empreendimentos.  Porém,  parece-me  que  o  legislador
+pecou por falta de técnica e a regulamentação legislativa traz muitas dúvidas
+e poucas soluções, o que deve repercutir diretamente na prática.
+A  título  de  exemplo  de  hipóteses  concretas  de  imóveis  em
+multipropriedade, podemos aqui delinear duas situações. Uma primeira, mais
+amadora, ocorre quando pessoas que mantêm alguma proximidade adquirem
+um mesmo imóvel e fracionam o seu uso do tempo. Ilustrando, quatro amigos
+adquirem uma propriedade de lazer em área não urbana, como uma chácara
+ou um sítio, e fracionam no tempo o seu uso. Ou, ainda, a hipótese em que os
+mesmos quatro amigos compram uma casa na praia, no mesmo regime. No
+sistema anterior, seriam aplicadas a tais ilustrações as regras do condomínio
+comum, aqui antes analisadas. Atualmente, é possível a aplicação também
+
+das regras relativas à multipropriedade.
+A  segunda  situação,  mais profissional,  envolve  os  empreendimentos
+hoteleiros, em sistema de pool e com uma empresa administradora central.
+Cite-se o caso em que os citados quatro amigos adquiriram um quarto de um
+hotel  que  foi  lançado  na  praia  da  Barra  da  Tijuca,  no  Rio  de  Janeir
+[/PAGINA 1190]
+
+[PAGINA 1191]
+o.  O
+legislador  parece  ter  mais  pensado  nessa  última  situação,  criando  regras
+específicas para ela, como se verá a seguir, em um estudo crítico.
+Iniciando-se   pelas   disposições   gerais,   sobre   o   conceito   de
+multipropriedade, o art. 1.358-B do CC/2002 trata de outras leis incidentes,
+prevendo que “a multipropriedade reger-se-á pelo disposto neste Capítulo e,
+de  forma  supletiva  e  subsidiária,  pelas  demais  disposições  deste  Código  e
+pelas disposições das Leis n.ºs 4.591, de 16 de dezembro de 1964, e 8.078, de
+11 de setembro de 1990 (Código de Defesa do Consumidor)”. A primeira lei
+referenciada  é  a  Lei  de  Condomínio  em  Edificações  e  de  Incorporação
+Imobiliária que, no meu entendimento aqui antes exposto, somente continua
+em vigor quanto ao segundo instituto, a partir do seu art. 28. Assim, a título
+de  exemplo,  em  havendo  multipropriedade  instituída  dentro  de  uma
+incorporação,  devem  ser  observados  as  obrigações  e  os  direitos  do
+incorporador (arts. 32 a 47 da Lei 4.591/1964).
+No tocante à incidência do Código de Defesa do Consumidor, e de todo
+o  seu  manto  protetivo,  cite-se  a  existência  de  situação  tida  como  mais
+profissional, de imóveis em regime de multipropriedade fracionada no tempo
+em  hotéis  ou pool  hoteleiros,  devendo  o adquirente  ser  tratado  como
+consumidor, notadamente diante da existência de um prestador de serviços
+profissional no outro polo da relação negocial. No plano prático, trazendo a
+aplicação  do  direito  de  arrependimento  de  sete  dias  do  art.  49  do  CDC  a
+negócio de aquisição de imóvel no regime tratado pela nova lei, do Tribunal
+Paulista:
+“Multipropriedade. Sentença de procedência. Apelo da requerida.
+Inadmissibilidade, quanto ao pedido principal de reforma. Hipótese
+em  que  sequer  foi  celebrado  compromisso  de  compra  e  venda.
+Simples proposta, assinada em circunstâncias de venda emocional e
+que  não  enseja  retenção  de  arras.  Exercício  de  direito  de
+arrependimento assegurado ao consumidor, porquanto exercido nos
+termos  do  art.  49,  do  CDC.  Admissibilidade,  todavia,  do  pedido
+subsidiário,  para  que  haja  afastamento  da  repetição  do  indébito.
+
+Restituição que deve ocorrer na forma simples. Acertada, todavia, a
+estipulação de juros a partir da citação (art. 405, do CC). Sentença
+reformada  em  pequena  parte,  apenas  para  o  fim  de  afastar  a
+restituição  em  dobro”  (TJSP,  Apelação  Cível  1014995-
+79.2016.8.26.0506, Acórdão 12301251, Ribeirão Preto, 5.ª Câmara
+de Direito Privado, Rel. Des. Fábio Podestá, j. 14.03.2019, DJESP
+18.03.2019, p. 2097).
+Ainda  a  merecer  citação,  sobre  a  incidência  do  CDC,  extrai-se  de
+acórdão  do  Tribunal  do  Distrito  Federal  que  “a  relação  jurídica  existente
+entre  as  partes  é  tipicamente  de  consumo,  porquanto  o  objeto  da  presente
+demanda é a promessa de compra e venda de unidade imobiliária no regime
+de  multipropriedade  (cotas  imobiliárias)  e  tanto  o  pr
+[/PAGINA 1191]
+
+[PAGINA 1192]
+omissário  comprador
+quanto a promitente vendedora se enquadram na conceituação de consumidor
+e de fornecedor descritas, respectivamente, nos arts. 2.º e 3.º do Código de
+Defesa do Consumidor. Comprovados aos autos que a resolução do contrato
+se deu por culpa exclusiva da construtora, em razão da publicidade enganosa,
+a devolução dos valores deve ser integral, não se admitindo nenhum tipo de
+abatimento,  sob  pena  de  enriquecimento  ilícito”  (TJDF,  Apelação  Cível
+2016.07.1.018473-6,  Acórdão  113.9087,  2.ª  Turma  Cível,  Rel.  Des.  César
+Loyola, j. 21.11.2018, DJDFTE 27.11.2018).
+Sobre a definição legal do instituto, estabelece o novo art. 1.358-C do
+Código Civil que a “multipropriedade é o regime de condomínio em que cada
+um dos proprietários de um mesmo imóvel é titular de uma fração de tempo,
+à  qual  corresponde  a  faculdade  de  uso  e  gozo,  com  exclusividade,  da
+totalidade do imóvel, a ser exercida pelos proprietários de forma alternada”.
+Tentando elucidar a definição legal, Carlos Eduardo de Oliveira leciona que
+“a multipropriedade pode ser definida como um parcelamento temporal do
+bem  em  unidades  autônomas  periódicas.  É  pulverizar  um  bem  físico  no
+tempo por meio de uma ficção jurídica. Enxergar a multipropriedade como
+um  condomínio  fruto  de  um  parcelamento  temporal  –  e  ficto!  –  do  bem
+elucida bem o instituto”.
+146
+ Para ele, é atécnico afirmar que multipropriedade
+imobiliária é um direito real, havendo, na verdade, um regime jurídico.
+Com  o  devido  respeito,  faltou  técnica  ao  legislador  na  definição  da
+categoria, especialmente ao prever que cada multiproprietário é titular de uma
+fração  de  tempo. Na  verdade,  há  a  titularidade  da  propriedade  em
+condomínio, que corresponde ao uso fracionado no tempo, definição que está
+
+mais  bem  sintonizada  com  a  conceituação  antes  exposta,  do  Professor
+Gustavo  Tepedino.  Diante  dessa  afirmação,  entendo  haver  sim  um  direito
+real. Como se verá, a opção de construção do legislador pode gerar alguns
+problemas práticos, muito além da simples teoria. Por isso, prefiro utilizar o
+termo domínio multiproprietário.
+Conforme o parágrafo único do mesmo art. 1.358-C, a multipropriedade
+não se extinguirá automaticamente, se todas as frações de tempo forem do
+mesmo multiproprietário. O objetivo é manter o regime da multipropriedade
+visando  à  eventual  alienação  futura  das  propriedades  fracionadas.  Dito  de
+outra  forma,  atende-se  à  função  social  da  propriedade  no  sentido  de  sua
+manutenção.
+As duas características gerais dos imóveis objeto da multipropriedade
+estão  descritas  no  art.  1.358-D  da  atual  codificação  privada,  sendo  as
+seguintes: a) a indivisibilidade, não se sujeitando a ação de divisão ou de
+extinção  de  condomínio; b)  a  inclusão  dos  acessórios  móveis  que  o
+guarnecem,  diante  do  princípio  da  gravitação  jurídica,  segundo  o  qual  o
+acessório segue o principal, caso das instalações em geral, dos equipa
+[/PAGINA 1192]
+
+[PAGINA 1193]
+mentos
+e do mobiliário destinados ao seu uso e o gozo. No último caso, imagine-se o
+caso de uma unidade imobiliária em um hotel, com todos os eletrodomésticos
+necessários para atender à sua destinação econômica.
+A indivisibilidade também atinge cada uma das frações de tempo que
+diz  respeito  ao  o  imóvel  em  multipropriedade  (art.  1.358-E  do  CC/2002),
+sendo  vedado  o  desdobro  temporal.  Como  ensina  mais  uma  vez  Carlos
+Eduardo Elias de Oliveira, “o período de tempo de cada unidade periódica é
+indivisível, de modo que não pode o multiproprietário fazer um ‘desdobro’ de
+sua unidade, com o objetivo de desaglutiná-la em outras unidades periódicas
+menores. É vedado o que chamamos de ‘desdobro temporal’. Ex.: quem tem
+uma  unidade  periódica  no  mês  de  janeiro  não  pode  extinguir  a  própria
+unidade periódica para, em seu lugar, criar outras duas, a primeira vinculada
+aos dias 1.º ao 14 de janeiro e a segunda atrelada aos dias 15 a 31 de janeiro.
+Enfim,  a  fração  de  tempo  estabelecida  para  cada  unidade  periódica  é
+indivisível”.
+147
+A norma ainda estabelece que o período correspondente a cada fração de
+tempo será de, no mínimo, sete dias, seguidos ou intercalados, e poderá ser
+estabelecido de três modos: a) fixo e determinado, no mesmo período de cada
+ano; b) flutuante, caso em que a determinação do período será realizada de
+forma periódica, mediante procedimento objetivo que respeite, com relação a
+
+todos  os  multiproprietários,  o  princípio  da  isonomia,  devendo  ser
+previamente divulgado; ou c) misto, combinando os sistemas fixo e flutuante
+(§ 1.º).
+Voltando ao exemplo dos quatro amigos, no primeiro caso, a utilização
+do imóvel é sempre fixa: de janeiro a março para o primeiro; de abril a junho
+ao segundo; de julho a setembro ao terceiro; e de outubro a dezembro para o
+último. Tal sistema, regra geral, tem sérios problemas práticos. Imagine se o
+imóvel estiver em uma cidade praiana. Nesse caso não haverá interesse de
+fruição  econômica  no  inverno;  o  mesmo  valendo  para  um  imóvel  na
+montanha, como em Campos do Jordão, em janeiro.
+Pelo sistema flutuante, é possível estabelecer uma variação de uso do
+imóvel, como no caso de um proprietário que terá o direito entre janeiro a
+março  em  um  ano  e  entre  abril  e  junho  em  outro.  Como  ilustração  de
+procedimento  objetivo  que  deve  e  pode  ser  aplicado,  cite-se  o  sorteio,
+devendo sempre ser aplicada a máxima da igualdade nessa variação entre os
+comunheiros.  Esse  é  o  sistema  que  melhor  atende  aos  interesses  dos
+multiproprietários e concretiza a função social da propriedade.
+Por  fim,  pelo  sistema  misto,  é  possível  conciliar  os  dois  sistemas
+anteriores. Assim, em um ano, o uso fracionado é fixo, enquanto no outro é
+variável  ou  flutuante,  estabelecendo-se  um  sistema  de  rodízio  entre  os
+multiproprietários. Esse sistema também pode ser interessante, apesar de ser
+preferível o anterior.
+Como a lei menciona que o período de tempo de
+[/PAGINA 1193]
+
+[PAGINA 1194]
+fruição mínimo é de
+sete  dias,  nota-se  que  é  possível  que  até  52  pessoas  diferentes  sejam
+multiproprietárias de um mesmo imóvel. Diante da antiga afirmação de que o
+condomínio é a “mãe de todas as discórdias”, não se pode negar que, quanto
+maior  o  número  de  multiproprietários,  maior  será  o  conflito  entre  eles.
+Pensamos, nesse contexto, que houve um exagero do legislador quanto ao
+número excessivo dessa possibilidade. De toda forma, Carlos Eduardo Elias
+de Oliveira pondera que, “para evitar a pulverização temporal dos imóveis,
+com  criação  de  unidades  periódicas  imprestáveis  à  luz  da  função  social
+(imagine  uma  unidade  periódica  de  apenas  10  segundos),  é  vedado  que  o
+período  de  cada  unidade  periódica  seja  inferior  a  7  dias,  que  poderão  ser
+seguidos  ou  intercalados,  respeitada,  porém,  a  necessidade  de  todos  os
+multiproprietários terem uma quantidade mínima de dias seguidos em pé de
+igualdade”.
+148
+
+Sem  dúvida,  uma  pulverização  de  tempo  ainda  maior  traria  grandes
+prejuízos e numerosas dificuldades práticas. Ainda segundo o mesmo autor:
+“entendemos que não por força uma interpretação restritiva do § 1.º do art.
+1.358-E do CC. A finalidade do período mínimo de 7 dias para a unidade
+periódica é, em nome da função social e da dignidade da pessoa humana,
+garantir  ao  multiproprietário  uma  utilização  minimamente  digna  de  seu
+direito real de propriedade periódico. Não está na finalidade do dispositivo
+considerar que 7 dias é o tempo mínimo para reparação do bem. Entender
+diferente é entregar o imóvel a um tempo de detestável ociosidade nos anos.
+Assim, o ato de instituição do condomínio multiproprietário tem liberdade
+para  definir  o  período  que  lhe  aprouver  para  a  unidade  periódica  de
+conservação”.
+149
+Voltando-se  ao  art.  1.358-E,  o  seu  §  2.º,  concretizando  a  isonomia,
+preceitua  que  todos  os  multiproprietários  terão  direito  a  uma  mesma
+quantidade  mínima  de  dias  seguidos  durante  o  ano,  podendo  haver  a
+aquisição de frações maiores que a mínima, com o correspondente direito ao
+uso  por  períodos  também  maiores.  A  título  de  ilustração,  é  possível  que
+naquele exemplo dos quatro amigos o primeiro tenha o direito de utilização
+por oito meses e os demais por dois meses, o que decorre do modo como
+cada um contribuiu para a aquisição do imóvel. Em suma, a regra é a divisão
+igualitária,  diante  da  máxima concursu  partes  fiunt,  o  que  encerra  uma
+presunção relativa, que pode ser afastada por convenção dos proprietários.
+Sobre a instituição da multipropriedade, o art. 1.358-F do Código Civil
+estabelece que esta se dá por ato entre vivos ou testamento, registrado no
+competente  Cartório  de  Registro  de  Imóveis,  do  local  onde  se  encontra  o
+bem, devendo constar daquele ato a duração dos períodos correspondentes a
+cada  fração  de  tempo.  Sobre  a  instituição  por  ato inter  vivos  cite-se  a
+possibilidade  de  uma  incorporação
+[/PAGINA 1194]
+
+[PAGINA 1195]
+imobiliária  com  a  constituição  de  um
+condomínio,  que  pode  se  dar  por  escritura  pública  ou  escrito  particular.
+Enquanto não houver o registro imobiliário, a instituição terá apenas efeitos
+entre as partes, a exemplo do que ocorre com a convenção de condomínio
+não registrada, nos termos da Súmula 260 do Superior Tribunal de Justiça.
+O  art.  1.358-G  do  Código  Civil  elenca  as  cláusulas  e  previsões  que
+podem constar na convenção de condomínio em multipropriedade. O rol é
+meramente  exemplificativo  ou numerus  apertus,  pois  o  próprio  comando
+estabelece que os multiproprietários podem inserir outras previsões. Todavia,
+há uma obrigatoriedade dessas previsões, pois a norma utiliza a expressão
+
+“determinará”:
+a)  Previsão  sobre  os  poderes  e  deveres  dos
+multiproprietários,  especialmente  em  matéria  de
+instalações,  equipamentos  e  mobiliário  do  imóvel,
+de  manutenção  ordinária  e  extraordinária,  de
+conservação  e  limpeza  e  de  pagamento  da
+contribuição condominial. A título de ilustração, as
+partes  podem  fracionar  e  eleger  quem  será  o
+responsável   pelos   reparos   e   troca   dos
+eletrodomésticos  que  guarnecem  o  imóvel  em
+determinados períodos.
+b) O número máximo de pessoas que podem ocupar
+simultaneamente    o    imóvel    no    período
+correspondente  a  cada  fração  de  tempo.  Nessa
+previsão,  haverá  debate  sobre  a  existência  de  uma
+restrição pessoal inadmissível, que restringe prévia e
+indevidamente o exercício do direito de propriedade,
+notadamente o direito de uso. A título de exemplo se
+naquela ilustração do sítio fracionado entre os quatro
+amigos, caso um deles queira passar as festas de fim
+de  ano  com  cerca  de  50  familiares,  sem  que  isso
+traga qualquer prejuízo, a restrição de uso para 20
+pessoas se justifica? Entendemos, a priori, que não.
+Como  antes  exposto,  a regra  dos  3s  –  relativa  à
+proteção do sossego, da segurança e da salubridade
+–  é  que  deve  guiar  as  regras  relativas  ao
+condomínio, e não meros entraves prévios, mesmo
+os determinados pelas partes interessadas.
+c) As regras de acesso do administrador condominial
+ao  imóvel  para  cumprimento  do  dever  de
+manutenção,  conservação  e  limpeza,  visando  a
+atender os interesses de todos. De todo modo, esse
+acesso  não  pode  representar  lesão  à  intimidade  do
+multiproprietário  e  das  pessoas  que  com  ele
+convivem, como no caso de um administrador que
+pretende  abusar  do  direito  de  acesso,  pois  alguém
+
+está  supostamente  destruindo  algum  equipamento
+que guarnece o imóvel.
+d) A criação de fundo de reserva para reposição e
+manutenção  dos  equipamentos,  instalações  e
+mobiliário, o que é fundamental para a operação da
+multipropriedade, notadamente para que o bem fique
+em condições de atender à sua finalidade de uso.
+e)  O  regime  aplicável  em  caso  de  perda  ou
+destruição parcial ou total do imóvel, inclusive para
+efeitos  de  participação  no  risco  ou  no  valor  do
+seguro, da
+[/PAGINA 1195]
+
+[PAGINA 1196]
+indenização ou da parte restante.
+f)  As  multas  aplicáveis  ao  multiproprietário  nas
+hipóteses  de  descumprimento  de  deveres,  sendo
+possível aplicar o teor do art. 1.337 do Código Civil
+quanto ao condomínio nocivo ou antissocial, como
+antes desenvolvemos.
+Não  obstante  essas  previsões  mínimas,  o  art.  1.358-H  da  codificação
+privada enuncia que o instrumento de instituição da multipropriedade ou a
+convenção  de  condomínio  em  multipropriedade  poderá  definir  o  limite
+máximo de frações de tempo no mesmo imóvel, que poderão ser detidas pela
+mesma  pessoa  natural  ou  jurídica.  Assim,  é  possível  estabelecer  que  cada
+multiproprietário somente pode ter cinco quotas, o que visa a impedir um
+“regime ditatorial” a ser exercido por um dos proprietários. O comando ainda
+prevê,  como  exceção  à  regra  geral,  que,  em  caso  de  instituição  da
+multipropriedade  para  posterior  venda  ou  cessão  onerosa  das  frações  de
+tempo a terceiros, o atendimento a eventual limite de frações de tempo por
+titular  determinado  no  instrumento  de  instituição  será  obrigatório  somente
+após a venda das frações. A última regra visa a afastar eventuais entraves
+econômicos  causados  pela  cláusula  de  limitação  quanto  à  titularidade  das
+frações.
+Seguindo o estudo da Lei 13.777/2018, a norma consagra os direitos e
+obrigações  –  ou  deveres  –  do  multiproprietário.  Começando  pelos  direitos
+(art. 1.358-I), são eles, além daqueles previstos no instrumento de instituição
+e na convenção de condomínio em multipropriedade:
+I) Direito de usar e gozar, durante o período correspondente à sua
+
+fração de tempo, do imóvel e de suas instalações, equipamentos e
+mobiliário, como os eletrodomésticos que se encontram no imóvel.
+II) Direito de ceder ou transferir a fração de tempo em locação ou
+em comodato.
+III) Direito de alienar a fração de tempo, por ato entre vivos ou por
+causa de morte, a título oneroso ou gratuito, ou onerá-la, devendo a
+alienação  e  a  qualificação  do  sucessor,  ou  a  oneração,  ser
+informadas ao administrador. Como se observa, é possível quanto
+ao direito em multipropriedade a sua venda, doação, instituição de
+hipoteca,  transferência  por  alienação  fiduciária  em  garantia  ou
+mesmo  por  testamento.  Em  todos  os  casos,  diante  do  dever  de
+informar decorrente da boa-fé objetiva, deve haver a comunicação
+do administrador da multipropriedade.
+IV) Direito de participar e votar, pessoalmente ou por intermédio
+de  representante  ou  procurador,  desde  que  esteja  quite  com  as
+obrigações condominiais, em: a) assembleia geral do condomínio
+em multipropriedade, e o voto do multiproprietário corresponderá à
+quota de sua fração de tempo no imóvel; b) assembleia geral do
+condomínio  edilício,  quando  for  o  caso,  e  o  voto  do
+multiproprietário corresponderá à quota de sua fração de tempo em
+relação à quota de poder político atribuído à unidade autônoma na
+respectiva convenção de condomínio edilício. A previsão a
+[/PAGINA 1196]
+
+[PAGINA 1197]
+respeito
+da  necessidade  de  estar  o  coproprietário  adimplente  com  suas
+obrigações, para que tenha o direito de voto, segue o exemplo do
+que já ocorre com o condomínio edilício (art. 1.335, inc. III, do
+CC).
+Por  outra  via,  a  lei  elenca  muitos  mais  deveres  ou  obrigações  do
+multiproprietário,  conforme  o  art.  1.358-J  do  Código  Civil,  sem  prejuízo
+daqueles  previstos  no  instrumento  de  instituição  e  na  convenção  de
+condomínio em multipropriedade, a saber:
+I) Dever de pagar a contribuição condominial do condomínio em
+multipropriedade  e,  quando  for  o  caso,  do  condomínio  edilício,
+ainda que renuncie ao uso e gozo, total ou parcial, do imóvel, das
+áreas  comuns  ou  das  respectivas  instalações,  equipamentos  e
+mobiliário.  A  previsão  final  do  comando  fere  o  direito  de
+
+propriedade, pois não há justificativa plausível de persistência do
+dever de pagar as contribuições, caso haja renúncia à propriedade,
+podendo-se falar em sua inconstitucionalidade, diante do art. 5.º,
+incs. XXII e XXIII, da Constituição Federal, que tratam do direito
+fundamental à propriedade e sua correspondente função social. De
+todo  modo,  ressalte-se  que  essas  contribuições  têm  natureza
+propter rem, assim como ocorre com a contribuição condominial
+no condomínio edilício (art. 1.345 do CC).
+II)  Dever  de  responder  por  danos  causados  ao  imóvel,  às
+instalações, aos equipamentos e ao mobiliário por si, por qualquer
+de seus acompanhantes, convidados ou prepostos ou por pessoas
+por  ele  autorizadas.  A  responsabilidade  por  ato  de  preposto  ou
+convidado tem natureza objetiva ou independentemente de culpa,
+enquadrando-se  nas  previsões  dos  arts.  932,  inc.  III,  e  933  do
+Código Civil.
+III)  Diante  do  dever  de  informar  decorrente  da  boa-fé  objetiva,
+dever  de  comunicar  imediatamente  ao  administrador  os  defeitos,
+avarias  e  vícios  no  imóvel  dos  quais  tiver  ciência  durante  a
+utilização,  sob  pena  de  responder  civilmente,  especialmente  se
+esses  danos  pudessem  ser  minorados,  caso  tivesse  ocorrido  a
+comunicação prévia.
+IV) Dever de não modificar, alterar ou substituir o mobiliário, os
+equipamentos e as instalações do imóvel, mais uma vez sob pena
+de  sua  responsabilização  civil,  com  destaque  para  os  danos
+patrimoniais sofridos pelos demais multiproprietários.
+V) Dever de manter o imóvel em estado de conservação e limpeza
+condizente  com  os  fins  a  que  se  destina  e  com  a  natureza  da
+respectiva construção, sob pena da imposição de uma obrigação de
+fazer  a  devida  limpeza  ou  de  responder  civilmente  pelo
+descumprimento desse dever.
+VI)  Dever  de  usar  o  imóvel,  bem  como  suas  instalações,
+equipamentos  e  mobiliário,  conforme  seu  destino  e  natureza,
+atendendo-se também à regra dos 3 s, prevista no art. 1.335, inc.
+III, ou seja, atentando-se para os parâmetros da segurança, saúde e
+sossego.
+VII)  Dever  de  usar  o  imóvel  exclusivamente  durante  o  pe
+[/PAGINA 1197]
+
+[PAGINA 1198]
+ríodo
+correspondente à sua fração de tempo, sob pena de ter que pagar
+
+aos  demais  proprietários  pelo  uso  excessivo,  além  do  pactuado.
+Eventualmente, cabe uma ação de reintegração de posse por outros
+condôminos, caso o multiproprietário se negue a deixar o imóvel.
+VIII) Dever de desocupar o imóvel, impreterivelmente, até o dia e
+hora  fixados  no  instrumento  de  instituição  ou  na  convenção  de
+condomínio  em  multipropriedade,  sob  pena  de  multa  diária  ou
+astreintes,  conforme  convencionado  no  próprio  instrumento
+pertinente ou fixado pelo juiz. Eventualmente, caso essa multa seja
+excessiva,  caberá  sua  redução  pelo  Poder  Judiciário,  sendo  certo
+que  o  próprio  STJ  já  determinou  parâmetros  para  a  fixação  das
+astreintes, a saber: “no tocante especificamente ao balizamento de
+seus  valores,  são  dois  os  principais  vetores  de  ponderação:  a)
+efetividade  da  tutela  prestada,  para  cuja  realização  as astreintes
+devem  ser  suficientemente  persuasivas;  e  b)  vedação  ao
+enriquecimento sem causa do beneficiário, porquanto a multa não
+é, em si, um bem jurídico perseguido em juízo. O arbitramento da
+multa  coercitiva  e  a  definição  de  sua  exigibilidade,  bem  como
+eventuais  alterações  do  seu  valor  e/ou  periodicidade,  exigem  do
+magistrado,  sempre  dependendo  das  circunstâncias  do  caso
+concreto, ter como norte alguns parâmetros: i) valor da obrigação e
+importância do bem jurídico tutelado; ii) tempo para cumprimento
+(prazo  razoável  e  periodicidade);  iii)  capacidade  econômica  e  de
+resistência do devedor; iv) possibilidade de adoção de outros meios
+pelo  magistrado  e  dever  do  credor  de  mitigar  o  próprio  prejuízo
+(duty to mitigate de loss)”  (STJ,  Ag.  Int.  no  Ag.  Rg.  no  AREsp
+738.682/RJ,  4.ª  Turma,  Rel.  Min.  Maria  Isabel  Gallotti,  Rel.  p/
+Acórdão  Min.  Luis  Felipe  Salomão,  j.  17.11.2016, DJe
+14.12.2016). Reitere-se, por oportuno, a possibilidade de ingresso
+de uma ação de reintegração de posse, caso não ocorra a devolução
+do  bem  pelo  multiproprietário  que  desrespeita  aquilo  que  foi
+pactuado.
+IX) Por fim, a lei estabelece o dever de permitir a realização de
+obras  ou  reparos  urgentes,  não  só  os  determinados  pelo  Poder
+Público, mas também os que a maioria entendeu como necessários
+para que o imóvel cumpra com a sua função.
+Sobre  as  penalidades  aos  condôminos  multiproprietários,  o  §  1.º  do
+
+mesmo art. 1.358-J preceitua que, conforme previsão que deverá constar da
+respectiva   convenção   de   condomínio   em   multipropriedade,   o
+multiproprietário estará sujeito a: a) multa, no caso de descumprimento de
+qualquer de seus deveres; b) multa progressiva e perda temporária do direito
+de utilização do imóvel no período correspondente à sua fração de tempo, no
+caso de descumprimento reiterado de deveres. Como se pode perceber, a lei
+traz  até  a  medida  drástica  de  perda  temporária  do  direito  de  uso,  um  dos
+atributos diretos da pr
+[/PAGINA 1198]
+
+[PAGINA 1199]
+opriedade.
+Como observação pertinente, tais penalidades não afastam a instituição
+de  outras,  como  aquelas  existentes  quanto  ao  condômino  nocivo  ou
+antissocial, quando houver o descumprimento reiterado dos deveres, e que
+podem chegar até a dez vezes o valor da quota condominial (art. 1.337 do
+CC). De toda sorte, sendo exagerada a multa fixada na convenção, pensamos
+ser cabível a sua redução, com base no art. 413 do Código Civil. Sobre a
+possibilidade de perda temporária do direito de uso em caso de reiteração de
+descumprimento, entendemos que ela colide com o direito fundamental de
+propriedade,  nos  termos  do  art.  5.º,  inc.  XXIII,  da  CF/1988,  o  que  ainda
+merecerá maiores aprofundamentos.
+O  art.  1.358-J  ainda  prescreve,  em  seu  §  2.º,  que  a  responsabilidade
+pelas despesas referentes a reparos no imóvel, bem como suas instalações,
+equipamentos e mobiliário, será: a) de todos os multiproprietários, quando
+decorrentes  do  uso  normal  e  do  desgaste  natural  do  imóvel,  o  que  é
+proporcional e razoável: b) exclusivamente do multiproprietário responsável
+pelo uso anormal, sem prejuízo de multa, quando resultantes de uso anormal
+do imóvel.
+Como parâmetros para a definição do uso anormal, serve mais uma vez
+de sustento a regra dos 3 s, retirada do sempre citado art. 1.277 do Código
+Civil:  “o  proprietário  ou  o  possuidor  de  um  prédio  tem  o  direito  de  fazer
+cessar as interferências prejudiciais à segurança, ao sossego e à saúde dos que
+o habitam, provocadas pela utilização de propriedade vizinha”. A título de
+exemplo,  imagine-se  a  hipótese  do  proprietário  que  realizou  uma
+interferência  indevida  no  sítio  em  multipropriedade,  construindo  um deck
+para parar sua lancha. Além de responder por tal despesa, arcará com a multa
+fixada  previamente  pelas  partes,  sem  prejuízo  de  sua  eventual
+responsabilização civil perante terceiros.
+Como última regra relativa aos direitos e deveres dos multiproprietários,
+mais  uma  vez  a  exemplo  do  que  ocorre  com  o  condomínio  edilício  (art.
+
+1.334, § 2.º), o art. 1.358-K estatui que, para os efeitos do disposto a respeito
+do tema, são equiparados aos multiproprietários os promitentes compradores
+e os cessionários de direitos relativos a cada fração de tempo. Assim, aquilo
+que  foi  previamente  determinado  na  instituição  ou  convenção  da
+multipropriedade  acaba  por  atingi-los,  mesmo  que  tenham  participado  da
+deliberação do conteúdo, o que visa à efetivação prática da convenção.
+Sobre  a  transferência  da  multipropriedade,  o  art.  1.358-L  do  Código
+Civil estabelece que a sua produção de efeitos perante terceiros, ou seja, os
+seus efeitos erga omnes, dar-se-ão nos termos da lei civil e não dependerão
+da anuência ou cientificação dos demais multiproprietários. Para que ocorra
+essa eficácia perante terceiros, portanto, basta o registro da transmissão no
+Cartório do Registro de Imóveis. A lei, de maneira equivocada, refere-se à
+transmissão  d
+[/PAGINA 1199]
+
+[PAGINA 1200]
+a  fração  de  tempo.  Em  verdade,  o  tempo  ainda  não  é
+reconhecido  como  bem  jurídico  tutelado  de  forma  consolidada  no  Direito
+Brasileiro. Assim, prefiro falar em transferência do direito de propriedade que
+se encontra fracionado entre pessoas diversas.
+Conforme o § 1.º do art. 1.358-L, não haverá direito de preferência na
+alienação  de  fração  de  tempo,  salvo  se  estabelecido  no  instrumento  de
+instituição ou na convenção do condomínio em multipropriedade em favor
+dos  demais  multiproprietários  ou  do  instituidor  do  condomínio  em
+multipropriedade. Em suma, não se aplica o direito de preempção ou prelação
+legal existente no caso de condomínio de coisa indivisível, como enuncia o
+art. 504 do Código Civil, com o correspondente direito de adjudicação, caso o
+condomínio  seja  preterido  em  sua  preferência.  Na  multipropriedade,  essa
+preempção é exceção, e não regra, devendo estar convencionada, diante do
+atendimento de sua função social e econômica.
+Sem prejuízo dessa regra, como pontua Marco Aurélio Bezerra de Melo,
+“contudo, se no âmbito do poder de disposição, resolver o interesse em alugar
+a fração de tempo, aplicar-se-á o art. 1.323 do Código Civil, no qual há a
+obrigatoriedade de o condômino dar preferência aos demais condôminos em
+idênticas condições ao que se estabeleceria para um estranho”.
+150
+ A dúvida
+relativa a essa posição doutrinária diz respeito à aplicação de norma restritiva
+por analogia. Mas, na verdade, tem-se um condomínio em ambos os casos,
+justificando-se a subsunção invocada.
+Além disso, o art. 1.358-L, § 2.º, do CC/2002 prevê que “o adquirente
+será solidariamente responsável com o alienante pelas obrigações de que trata
+o § 5.º do art. 1.358-J (...) caso não obtenha a declaração de inexistência de
+
+débitos referente à fração de tempo no momento de sua aquisição”. Mais uma
+vez com base na doutrina de Marco Aurélio Bezerra de Melo, que consta do
+nosso Código Civil Comentado, nota-se a existência de um erro técnico no
+dispositivo, diante da vedação do último preceito:
+“O  §  2.º  deste  artigo  contém  um  erro  material,  pois  o  artigo  se
+refere ao § 5.º do art. 1.358-J que fora vetado pelo Poder Executivo
+por receio de que houvesse o posicionamento de que não existiria
+solidariedade  passiva  em  relação  aos  demais  condôminos  no
+tocante  às  obrigações  tributárias  inadimplidas  eventualmente  por
+algum   multiproprietário   com   relação   à   sua   quota   de
+responsabilidade.  (...).  Feita  essa  observação,  na  realidade,  a  lei
+estabelece  que  a  obrigação propter rem  decorrente  das  despesas
+condominiais  da  multipropriedade  e  do  condomínio  edilício,  se
+houver,  serão  transferidas  para  o  adquirente,  assemelhando-se  ao
+que prevê o art. 1.345 do Código Civil, o qual estabelece que o
+adquirente  de  unidade  responde  pelos  débitos  do  alienante,  em
+relação ao condomínio, inclusive multas e juros moratórios, sendo
+essa  a  regra  genérica  para  o  condomínio,  enq
+[/PAGINA 1200]
+

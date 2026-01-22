@@ -1,0 +1,2115 @@
+[META]
+TITULO: Código Penal Comentado
+AUTOR: Rogério Greco
+ANO: 2017
+EDICAO: N/A
+EDITORA: Impetus
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: #Código Penal Comentado (2017) - Rogério Greco.pdf
+CITACAO_ABNT: GRECO, Rogério. Código Penal Comentado. São Paulo: Impetus, 2017.
+[/META]
+
+[PAGINA 1]
+O temor do Senhor é o princípio da sabedoria.
+Provérbios 9.10a
+
+
+
+
+
+© 2017, Editora Impetus Ltda.
+Editora Impetus Ltda.
+Rua Alexandre Moura, 51 – Gragoatá – Niterói – RJ
+CEP: 24210-200 – Telefax: (21) 2621-7007
+Conselho Editorial:
+Ana Paula Caldeira • Benjamin Cesar de Azevedo Costa
+Ed Luiz Ferrari • Eugênio Rosa de Araújo • Fábio Zambitte Ibrahim
+Fernanda Pontes Pimentel • Izequias Estevam dos Santos
+Marcelo Leonardo Tavares • Renato Monteiro de Aquino
+Rogério Greco • William Douglas
+Projeto Gráfico e Editoração Eletrônica: Editora Impetus Ltda.
+Capa: Bruno Pimentel Francisco
+Adaptação para ebook: SBNigri Artes e Textos Ltda.
+Revisão Ortográfica: Tucha
+Equipe de Pesquisa: Eduardo Furts Rodrigues, Kerusa Rodrigues de Macedo, Maria Isabel Leão Barbalho,
+Micheline Botelho Cunha, Patrícia Costa de Mello e Tiago Gomes de Carvalho Pinto
+
+G829c
+ Greco, Rogério.
+    Código  Penal:  comentado  /  Rogério  Greco.  –  11.  ed.  –  Niterói,  RJ:
+Impetus, 2017.
+ 1.312 p. ; 17 x 25 cm.
+ ISBN: 978-85-7626-929-8
+ Isbn digital: 978-85-7626-945-8
+1. Direito penal – Brasil. I. Título.
+CDD – 345.81
+O autor é seu professor; respeite-o: não faça cópia ilegal.
+todos os direitos reservados – É proibida a reprodução, salvo pequenos trechos, mencionando-se a fonte. A
+violação dos direitos autorais (Lei nº 9.610/1998) é crime (art. 184 do Código Penal). Depósito legal na
+Biblioteca Nacional, conforme Decreto nº 1.825, de 20/12/1907.
+A Editora Impetus informa que quaisquer vícios do produto concernentes aos conceitos doutrinários, às
+concepções ideológicas, às referências, à originalidade e à atualização da obra são de total responsabilidade do
+autor/atualizador.
+www.impetus.com.br
+
+A  Jesus Cristo – o Caminho, a Verdade e a
+Vida.
+À minha esposa Fernanda e aos meus filhos
+Daniela,  Emanuella,  Rafaella,  João  e
+Rogerinho,  provas  da  bondade  e  da
+misericórdia de Deus.
+
+O Autor
+Rogério Greco, casado com Fernanda Greco e pai de Daniela, Emanuella, Rafaella, João
+Paulo e Rogério, é Procurador de Justiça, tendo ingressado no Ministério Público de Minas
+Gerais em 1989. Foi vice-presidente da Associação Mineira do Ministério Público (biênio
+1997-1998) e membro do conselho consultivo daquela entidade de classe (biênio 2000-2001).
+É  membro  fundador  do  Instituto  de  Ciências  Penais  (ICP)  e  da  Associação  Brasileira  dos
+Professores  de  Ciências  Penais,  e  membro  eleito  para  o  Conselho  Superior  do  Ministério
+Público durante os anos de 2003, 2006 e 2008; Professor de Direito Penal do Curso de Pós-
+Graduação da PUC/BH;
+Professor  do  Curso  de  Pós-Graduação  de  Direito  Penal  da  Fundação  Escola  Superior  do
+Ministério Público de Minas Gerais; Assessor Especial do Procurador-Geral de Justiça junto
+ao Tribunal de Justiça de Minas Gerais; Mestre em Ciências Penais pela Faculdade de Direito
+da Universidade Federal de Minas Gerais (UFMG); especialista em Direito Penal (Teoria do
+Delito)  pela  Universidade  de  Salamanca  (Espanha);  Doutor  pela  Universi
+[/PAGINA 1]
+
+[PAGINA 2]
+dade  de  Burgos
+(Espanha); Membro Titular da Banca Examinadora de Direito Penal do XLVIII Concurso para
+Ingresso no Ministério Público de Minas Gerais; palestrante em congressos e universidades em
+todo o País. É autor das seguintes obras: Direito Penal (Belo Horizonte: Cultura); Estrutura
+Jurídica do Crime (Belo Horizonte: Mandamentos); Concurso de Pessoas (Belo Horizonte:
+Mandamentos); Direito Penal – Lições (Rio de Janeiro: Impetus); Curso de Direito Penal –
+Parte geral e Parte Especial (Rio de Janeiro: Impetus); Código Penal Comentado – Doutrina
+e  Jurisprudência (Rio  de  Janeiro:  Impetus);  Atividade  Policial  –  Aspectos  Penais,
+Processuais  Penais,  Administrativos  e  Constitucionais (Rio  de  Janeiro:  Impetus); Vade
+Mecum Penal e Processual Penal (Coordenador); A Retomada do Complexo do Alemão (Rio
+de Janeiro: Impetus); Virado do Avesso – Um Romance Histórico-Teológico sobre a Vida do
+Apóstolo Paulo (Rio de Janeiro: Nah-gash); Sistema Prisional – Colapso Atual e Soluções
+
+Alternativas (Rio de Janeiro: Impetus); Leis Penais Especiais – Crimes Hediondos e Tortura
+(Rio de Janeiro: Impetus); Derechos Humanos, Crisis de la Prisión y Modelo de Justicia
+Penal (Espanha: Publicia Editorial). É embaixador de Cristo.
+Fale direto com o autor pelo e-mail: atendimento@impetus.com.br
+e pelo site: www.rogeriogreco.com.br
+
+Nota do Autor
+A  humanidade  caminha  para  o  fim.  Os  meios  de  comunicação  divulgam,  quase  que
+diariamente,  atrocidades  cometidas  pelo  ser  humano.  Filhos  que  matam  os  próprios  pais,
+violência nas ruas, tráfico de drogas financiado pelas elites, políticos corruptos que, mediante
+a subtração de dinheiro público, fazem com que milhares de pessoas padeçam nas filas dos
+hospitais, crianças não tenham merenda escolar, remédios não cheguem às farmácias.
+O  homem,  por  opção  própria,  resolveu  afastar-se  do  seu  Criador.  O  meio  jurídico,
+principalmente, vive na sua soberba. Pessoas arrogantes acreditam, muitas vezes, que o cargo
+que  ocupam  as  faz  melhores  do  que  as  outras.  A  inteligência,  o  conhecimento,  o
+reconhecimento e a sensação de autossuficiência têm o poder de nos afastar de Deus e fazer
+com que tenhamos vergonha da Sua Palavra.
+Criamos a ilusão de que nossas teorias jurídicas conseguirão, de alguma forma, resolver os
+problemas  pelos  quais  a  sociedade  tem  passado,  embora,  no  fundo,  saibamos  que  somos
+impotentes, pois o problema da humanidade não se resolve com leis.
+O problema do homem está dentro dele. Embora rico, transformou-se em um miserável,
+pois resolveu virar as costas para Deus. Tudo foi criado por Deus para o nosso prazer. Nós,
+como  filhos  dEle,  temos  direito  à  Sua  herança.  Se  os  homens  tivessem  conhecimento  da
+grandeza e das verdades constantes da Palavra de Deus, entenderiam que Ele tem sempre o
+melhor reservado para nós. Isso me faz lembrar uma história de um sujeito que, ao fazer uma
+viagem de navio, só tinha o dinheiro exato da passagem. Como a viagem
+[/PAGINA 2]
+
+[PAGINA 3]
+duraria sete dias,
+ficou encolhido em sua cabine, sem participar de nada, pois tinha vergonha da sua situação, de
+não poder comprar absolutamente nada. Assim, somente bebia a água que corria na torneira de
+seu quarto, deixando de se alimentar durante todo o período. No último dia de viagem, faminto,
+resolveu atrever-se a participar do banquete de despedida que estava sendo realizado. Na sua
+
+imaginação, como aquele seria o último dia, o máximo que lhe podia ocorrer se não pagasse a
+conta do banquete era ser repreendido pelo capitão do navio.
+Assim, comeu e bebeu fartamente, pois tinha muita fome em virtude do jejum forçado por
+que  havia  passado.  No  final,  após  alimentar-se  muito  bem,  chamou  o  garçom  e  foi  logo
+confessando  o  que  havia  feito:  “Amigo,  embora  tenha  me  alimentado  abundantemente,  não
+tenho  como  pagar  essa  refeição,  pois  somente  tive  condições  de  comprar  o  bilhete  para  a
+viagem”. O garçom, ouvindo essa explicação, sorrindo, retrucou-lhe: “Não se preocupe com
+isso, pois todas as refeições estavam incluídas no preço da passagem, e você tinha direito ao
+café, ao almoço e ao jantar desde o primeiro dia”.
+Somos assim com Deus. Privamo-nos de tudo o que Ele tem reservado de bom para nós,
+simplesmente pelo fato de não O conhecermos, de não sabermos que, por causa do sacrifício
+de Jesus, que venceu a morte por nós, podemos agora ser chamados de filhos de Deus.
+No nosso dia a dia, envolvemo-nos com tantos problemas que nos esquecemos da melhor
+parte, ou seja, estar na presença de Deus. Marta e Maria eram irmãs, e, no dia em que Jesus as
+visitou, Maria sentou-se aos pés do Senhor sem preocupar-se com mais nada e começou a
+ouvi-Lo. Por outro lado, Marta corria de um lado para o outro, preocupada com a refeição que
+seria servida naquele dia, e, vendo que sua irmã não saía de perto de Jesus, pediu-Lhe que a
+repreendesse, no sentido de obrigá-la a ajudá-la. No entanto, em resposta, Jesus disse-lhe:
+“Marta!  Marta!  Andas  inquieta  e  te  preocupas  com  muitas  coisas.  Entretanto,  pouco  é
+necessário ou mesmo uma só coisa; Maria, pois, escolheu a boa parte, e esta não lhe será
+tirada” (Lucas 10:41-42).
+Jesus  havia  mostrado  a  Marta  de  que  nada  adiantava  as  preocupações  do  mundo,  que
+Maria havia escolhido a melhor parte. Essa escolha tem um poder transformador.
+Zaqueu, um cobrador de impostos, corrupto, odiado pelo seu povo, também sentiu o poder
+transformador de Deus. No dia em que teve a oportunidade de conhecer a Jesus, arrependido,
+disse: “Senhor, resolvo dar aos pobres a metade dos meus bens; e, se nalguma coisa tenho
+defraudado alguém, restituo quatro vezes mais” (Lucas 19:8).
+O  mesmo  acontece  conosco  nos  dias  de  hoje.  Homens  que  têm  o  coração  endurecido,
+quando têm um encontro verdadeiro com o Senhor, tornam-se amorosos; aqueles que vivem da
+prática de crimes já não tornam a delinquir; enfim, quando o homem se voltar novamente para
+Deus, a humanidade se transformará. Não haverá
+[/PAGINA 3]
+
+[PAGINA 4]
+necessidade de leis punindo este ou aquele
+comportamento, pois o homem, naturalmente, terá em seu coração o desejo de não fazer o mal.
+As pessoas se esqueceram de que Jesus foi crucificado para pagar o preço dos nossos
+pecados. Somos livres agora. É como se Ele fosse, figurativamente, o preço da passagem, a
+passagem  para  nossa  libertação.  No  entanto,  ainda  vivemos  presos,  oprimidos,  tristes,
+deprimidos, porque não sabemos o que temos. Jesus venceu a morte para nos dar a vida.
+
+Jesus nos exorta a pedir a Deus aquilo de que necessitamos, pois Ele já pagou o preço.
+Tudo  se  consumou  na  vitória  de  Jesus.  Nossos  pecados  foram  perdoados;  nossas  doenças,
+curadas; nossas feridas, saradas. No capítulo 7, versículos 7 a 12, do Evangelho de Mateus,
+Jesus afirma:
+“Pedi, e dar-se-vos-á; buscai e achareis; batei, e abrir-se-á. Pois
+todo o que pede recebe; o que busca encontra; e, a quem bate, abrir-
+se-á. Ou qual dentre vós é o homem que, se porventura o filho de
+pedir pão,
+lhe dará pedra? Ou, se lhe pedir um peixe, lhe dará uma cobra? Ora,
+se  vós,  que  sois  maus,  sabeis  dar  boas  dádivas  aos  vossos  filhos,
+quanto mais vosso Pai, que está nos céus, dará boas coisas aos que
+lhe pedirem? Tudo quanto, pois, quereis que os homens vos façam,
+assim fazei-o vós também a eles”.
+Embora tudo esteja à nossa disposição, Deus não nos força a nada. Tudo depende de uma
+decisão nossa, de nosso livre-arbítrio, ou seja, a escolha nos pertence. Podemos ficar atônitos
+com o nosso dia a dia, tal como Marta, ser corruptos como Zaqueu, ou descansar aos pés do
+nosso Senhor, como Maria (irmã de Marta).
+Hoje, para entrarmos no descanso do nosso Deus, devemos entregar nossa vida a Jesus,
+Aquele  que  nos  comprou  com  Seu  sangue.  Por  isso,  se  for  da  sua  vontade  participar  do
+banquete de Deus, de tudo aquilo que de melhor Ele tem reservado para você, faça esta oração
+de entrega. Se ao final concordar com o que leu, diga um Amém bem forte e experimente o
+poder que vem dos céus:
+Senhor Jesus, eu não Te vejo, mas creio que Tu és o Filho de Deus, que morreste por mim
+naquele  madeiro  para  a  remissão  dos  meus  pecados.  Reconheço  que  Tu  és  o  único  e
+suficiente Salvador da minha alma. Escreve meu nome no livro da vida e dá-me a salvação
+eterna. Amém.
+Tenho certeza de que, no dia em que a humanidade fizer a opção de retornar aos braços, ao
+aconchego do seu Criador, já não haverá mais necessidade do Direito Penal.
+Que Deus abençoe você.
+Maranata.
+Rogério Greco
+
+Sumário
+Código Penal
+Parte Geral
+Título I – Da Aplicação da Lei Penal
+Título II – Do Crime
+Título III – Da Imputabilidade Penal
+Título IV – Do Concurso de Pessoas
+Título V – Das Penas
+Capítulo I – Das Espécies de Pena
+Capítulo II – Da Cominação das Penas
+Capítulo III – Da Aplicação da Pena
+Capítulo IV – Da Suspensão Condicional da Pena
+Capítulo V – Do Livramento Condicional
+Capítulo VI – Dos Efeitos da Condenação
+Capítulo VII – Da Reabilitação
+Título VI – Das Medidas de Segurança
+Título
+[/PAGINA 4]
+
+[PAGINA 5]
+VII – Da Ação Penal
+Título VIII – Da Extinção da Punibilidade
+Parte Especial
+Título I – Dos Crimes contra a Pessoa
+
+Capítulo I – Dos Crimes contra a Vida
+Capítulo II – Das Lesões Corporais
+Capítulo III – Da Periclitação da Vida e da Saúde
+Capítulo IV – Da Rixa
+Capítulo V – Dos Crimes contra a Honra
+Capítulo VI – Dos Crimes contra a Liberdade Individual
+Título II – Dos Crimes contra o Patrimônio
+Capítulo I – Do Furto
+Capítulo II – Do Roubo e da Extorsão
+Capítulo III – Da Usurpação
+Capítulo IV – Do Dano
+Capítulo V – Da Apropriação Indébita
+Capítulo VI – Do Estelionato e Outras Fraudes
+Capítulo VII – Da Receptação
+Capítulo VIII – Disposições Gerais
+Título III – Dos Crimes contra a Propriedade Imaterial
+Capítulo I – Dos Crimes contra a Propriedade Intelectual
+Capítulo II – Dos Crimes contra o Privilégio de Invenção
+Capítulo III – Dos Crimes contra as Marcas de Indústria e Comércio
+Capítulo IV – Dos Crimes de Concorrência Desleal
+Título IV – Dos Crimes contra a Organização do Trabalho
+Título V – Dos crimes contra o Sentimento Religiosoe contra o Respeito aos Mortos
+Capítulo I – Dos Crimes contra o Sentimento Religioso
+Capítulo II – Dos Crimes contra o Respeito aos Mortos
+Título VI – Dos Crimes contra a Dignidade Sexual
+Capítulo I – Dos Crimes contra a Liberdade Sexual
+Capítulo II – Dos Crimes Sexuais contra Vulnerável
+Capítulo III – Do Rapto
+Capítulo IV – Disposições Gerais
+Capítulo V – Do Lenocínio e do Tráfico de Pessoa para Fim de Prostituição ou Outra
+Forma de Exploração Sexual
+Capítulo VI – Do Ultraje Público ao Pudor
+Capítulo VII – Disposições Gerais
+
+Título VII – Dos Crimes contra a Família
+Capítulo I – Dos Crimes contra o Casamento
+Capítulo II – Dos Crimes contra o Estado de Filiação
+Capítulo III – Dos Crimes contra a Assistência Familiar
+Capítulo IV – Dos Crimes contra o Pátrio Poder, Tutela ou Curatela
+Título VIII – Dos Crimes contra a Incolumidade Pública
+Capítulo I – Dos Crimes de Perigo Comum
+Capítulo II – Dos Crimes contra a Segurança dos Meios de Comunicação e Transporte
+e Outros Serviços Públicos
+Capítulo III – Dos Crimes contra a Saúde Pública
+Título IX – Dos Crimes contra a Paz Pública
+Título X – Dos Crimes contra a Fé Pública
+Capítulo I – Da Moeda Falsa
+Capítulo II – Da Falsidade de Títulos e Outros Papéis Públicos
+Capítulo III – Da Falsidade Documental
+Capítulo IV – De Outras Falsidades
+Capítulo V – Das Fraudes em Certames de Interesse Público
+Título XI – Dos Crimes contra a Administração Pública
+Capítulo I – Dos Crimes Praticados por Funcionário Públicocontra a Administração em
+Geral
+Capítulo II – Dos Crimes Praticados por Particular contra aAdministração em Geral
+Capítulo II-A – Dos Crimes Praticados por Particular contra a Administração Pública
+Estrangeira
+Capítulo III – Dos Crimes contra a Administração da Justiça
+Capítulo IV – Dos Crimes contra as Finanças Públicas
+Disposições Finais
+Obras Citadas e Pesquisadas
+Índice Remissivo
+
+Código Penal
+DECRETO-Lei nº 2.848, DE 7 DE DEZEMBRO DE 1940.
+O PRESIDENTE DA REPÚBLICA, usando da a
+[/PAGINA 5]
+
+[PAGINA 6]
+tribuição
+que lhe confere o art. 180 da Constituição, decreta a
+seguinte Lei:
+16
+
+Parte Geral
+Título I – Da Aplicação da Lei Penal
+Anterioridade da lei Art. 1º Não há crime sem lei anterior que o defina.
+Não há pena sem prévia cominação legal.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Introdução
+O princípio  da  legalidade  veio  insculpido  no  inc.  XXXIX  do  art.  5º  da  Constituição
+Federal,  que  diz: Não  há  crime  sem  lei  anterior  que  o  defina,  nem  pena  sem  prévia
+cominação legal –, redação que pouco difere daquela contida no art. 1º do Código Penal.
+É  o  princípio  da  legalidade,  sem  dúvida  alguma,  um  dos  mais  importantes  do  Direito
+Penal. Conforme se extrai do art. 1º do Código Penal, bem como do inc. XXXIX do art. 5º da
+Constituição Federal, não se fala na existência de crime se não houver uma lei definindo-o
+como tal. A lei é a única fonte do direito penal quando se quer proibir ou impor condutas sob a
+ameaça de sanção. Tudo o que não for expressamente proibido é lícito em direito penal. Por
+essa razão, von Liszt diz que o “Código Penal é a Carta Magna do delinquente”.
+1
+Origem
+Alguns autores atribuem a origem desse princípio à Magna Carta Inglesa, de 1215, editada
+ao tempo do Rei João Sem Terra, cujo art. 39 vinha assim redigido: Art. 39. Nenhum homem
+livre será detido, nem preso, nem despojado de sua propriedade, de suas liberdades ou livres
+usos,  nem  posto  fora  da  lei,  nem  exilado,  nem  perturbado  de  maneira  alguma;  e  não
+poderemos, nem faremos pôr a mão sobre ele, a não ser em virtude de um juízo legal de seus
+pares e segundo as leis do País.
+No entanto, foi com a Revolução Francesa que o princípio atingiu os moldes exigidos pelo
+Direito Penal, conforme se pode verificar pela redação dos arts. 7º, 8º e 9º
+2
+ da Declaração dos
+Direitos do Homem e do Cidadão, de 1789, o que levou Eduardo García de Enterría a afirmar
+que “o princípio da legalidade dos delitos e das penas, intuído pela ilustração e concretado no
+grande  livro  de  Beccaria,  teve  sua  entrada  solene  na  história  através  destes  artigos  da
+Declaração”.
+3
+Funções
+17
+
+O princípio da legalidade possui quatro funções fundamentais: 1ª) proibir a retroatividade
+da lei penal (nullum crimen nulla poena sine lege praevia); 2ª) proibir a criação de crimes e
+penas pelos costumes (nullum crimen nulla poena sine lege scripta);
+3ª) proibir o emprego de analogia para criar crimes, fundamentar ou agravar penas (nullum
+crimen nulla poena sine lege stricta);  4ª)  proibir  incriminações  vagas  e  indeterminadas
+(nullum crimen nulla poena sine lege certa).
+A teor do art. 1º do CP, é incabível a criminalização da conduta constante no art. 1º, VII, da Lei nº 9.613/98,
+antes do advento da Lei nº 12.683/2012, época em que não havia no ordenamento pátrio lei que incriminasse a
+organização criminosa, lacuna que, consoante moderna jurisprudência do Supremo Tribunal Federal e da 6ª T.,
+não  pode  ser  suprida  pela  Convenção  de  Palermo.  Atipici
+[/PAGINA 6]
+
+[PAGINA 7]
+dade  da  conduta,  com  extensão  do decisum  aos
+demais corréus condenados pelo mesmo delito (STJ, REsp 1.252.770/RS, Rel. Min. Rogério Schietti Cruz, 6ª
+T., DJe 26/03/2015).
+A aplicação de analogia, em sede de direito penal, é obstada pelo princípio da legalidade (CP, art. 1º) (TJSC,
+AC 2012.042239-9, Rel. Des. Carlos Alberto Civinski, j. 11/6/2013).
+Legalidade formal e legalidade material
+A legalidade formal encontra-se ligada, diretamente, à obediência às formas exigidas para
+a criação do diploma legal, a exemplo do que ocorre com o procedimento necessário para a
+sua tramitação, quorum para aprovação do projeto, etc. Contudo, em um Estado Constitucional
+de Direito, no qual se pretenda adotar um modelo penal garantista, além da legalidade formal
+deve haver, também, aquela de cunho material. Devem ser obedecidas não somente as formas e
+procedimentos  impostos  pela  Constituição,  mas  também,  e  principalmente,  o  seu  conteúdo,
+respeitando-se suas proibições e imposições para a garantia de nossos direitos fundamentais
+por ela previstos. Aqui, adota​-se não a mera legalidade, mas, sim, como preleciona Ferrajoli,
+um princípio de estrita legalidade.
+4
+Vigência e validade da lei
+O conceito de vigência da lei penal está para a legalidade formal assim como o conceito
+de validade está para a legalidade material. A lei penal formalmente editada pelo Estado pode,
+decorrido o período de vacatio legis, ser considerada em vigor. Contudo, sua vigência não é
+suficiente, ainda, para que possa vir a ser efetivamente aplicada. Assim, somente depois da
+aferição de sua validade, isto é, somente depois de conferir sua conformidade com o texto
+constitucional é que ela terá plena aplicabilidade, sendo considerada, portanto, válida.
+Termo inicial de aplicação da lei penal
+Se a lei penal vier, de alguma forma, prejudicar o agente (com a criação, por exemplo, de
+novas figuras típicas, causas de aumento de pena, circunstâncias agravantes etc.), seu termo
+inicial de aplicação será, obrigatoriamente, o do início de sua vigência. No entanto, se a lei
+penal vier beneficiar o agente, ou seja, em caso de lex mitior, existe a possibilidade de ser
+18
+
+aplicada  ao  caso  concreto  antes  mesmo  da  sua  entrada  em  vigor,  visto  que,  segundo  as
+determinações contidas no inc. XL do art. 5º da Constituição Federal e no parágrafo único do
+art.  2º  do  Código  Penal,  a  lei  posterior  que  de  qualquer  modo  favorecer  o  agente  deverá
+retroagir,  ainda  que  o  fato  já  tenha  sido  decidido  por  sentença  condenatória  transitada  em
+julgado. O raciocínio que se faz, in casu, é no sentido de que se a lei, obrigatoriamente, terá de
+retroagir a fim de beneficiar o agente, por que não aplicá-la antes mesmo do início da sua
+vigência, mediante a sua só publicação? Por economia de tempo, portanto, não se exige que se
+aguarde a sua vigência, podendo ser aplicada a partir da sua publicação.
+Diferença entre princípio da legalidade e princípio da reserva legal
+Alguns autore
+[/PAGINA 7]
+
+[PAGINA 8]
+s, a exemplo de Flávio Augusto Monteiro de Barros,
+5
+ procuram levar a efeito
+uma distinção entre o princípio da legalidade e o da reserva legal. Segundo parte da doutrina, a
+diferença  residiria  no  fato  de  que,  falando-se  tão  somente  em princípio  da  legalidade,
+estaríamos permitindo a adoção de quaisquer dos diplomas descritos no art. 59 da Constituição
+Federal (leis complementares, leis ordinárias, leis delegadas, medidas provisórias, decretos
+legislativos, resoluções); ao contrário, quando fazemos menção ao princípio da reserva legal,
+estamos limitando a criação legislativa, em matéria penal, tão somente às leis ordinárias – que
+é a regra geral – e às leis complementares.
+Acreditamos  que  o  melhor  seria  restringir  ainda  mais  a  possibilidade  de  edição  de
+diplomas penais, ficando limitada tal possibilidade às leis complementares, tal como ocorre na
+Espanha,  que  adota  as  chamadas  Leis  Orgânicas,  que  lhes  são  equivalentes.  Assim,  com  a
+exigência de um quorum qualificado para a sua aprovação (maioria absoluta, de acordo com o
+art. 69 da Constituição Federal), tentaríamos, de alguma forma, conter a “fúria do legislador”,
+evitando a tão repugnada inflação legislativa.
+De qualquer forma, apesar das posições em contrário, mesmo adotando-se a expressão
+princípio da legalidade em sede de Direito Penal, outro raciocínio não se pode ter a não ser
+permitir a criação legislativa, nessa matéria, somente por intermédio de leis ordinárias e leis
+complementares, como visto, razão pela qual não vemos interesse em tal distinção.
+Princípio da reserva legal e princípio da tipicidade
+Em  Direito  Penal  tem  exponencial  relevo  o  princípio  da  reserva  legal,  do  qual  emana  o  princípio  da
+tipicidade, que preconiza ser imperativo que a conduta reprovável se encaixe no modelo descrito na lei penal
+vigente na data da ação ou da omissão (STJ, REsp. 300092/DF, Rel. Min. Vicente Leal, 6ª T., DJ 22/4/2003, p.
+277).
+Princípios afins
+Além  do  princípio  da  legalidade,  existem  outros  princípios  considerados  fundamentais
+para o Direito Penal. Muitos deles encontram previsão expressa na Constituição Federal, a
+19
+
+exemplo do princípio da individualização da pena (art. 5º, inc. XLVI); outros, tal como ocorre
+com  o  princípio  da  culpabilidade,  são  extraídos  do  próprio  sistema  constitucional.
+Apontaremos,  a  seguir,  alguns  desses  princípios  fundamentais: Princípio  da  intervenção
+mínima O princípio da intervenção mínima, ou ultima ratio, é o responsável não somente pela
+indicação dos bens de maior relevo que merecem a especial atenção do Direito Penal,
+6
+ mas se
+presta, também, a fazer com que ocorra a chamada descriminalização. Se é com base nesse
+princípio que os bens são selecionados para permanecer sob a tutela do Direito Penal, porque
+considerados  como  os  de  maior  importância,  também  será  com  fundamento  nele  que  o
+legislador, atento às mutações da sociedade, que com a sua evolução deixa de dar importân
+[/PAGINA 8]
+
+[PAGINA 9]
+cia
+a bens que, no passado, eram da maior relevância, fará retirar do nosso ordenamento jurídico-
+penal certos tipos incriminadores.
+A lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual
+os princípios da insignificância e da intervenção mínima surgem para atuar como instrumentos de interpretação
+restrita do tipo penal. Entretanto, a ideia não pode ser aceita sem restrições, sob pena de o Estado dar margem
+a situações de perigo, na medida em que qualquer cidadão poderia se valer de tal princípio para justificar a
+prática de pequenos ilícitos, incentivando, por certo, condutas que atentem contra a ordem social (STJ, AgRg
+no AREsp 825.162/MT, Rel. Min. Reynaldo Soares da Fonseca, 5ª T., DJe 1º/08/2016).
+De acordo com o princípio da intervenção mínima, o Direito Penal não deve interferir em demasia na vida
+em sociedade, devendo ser utilizado somente quando os demais ramos do Direito não forem suficientes para
+proteger  os  bens  de  maior  importância  (STJ,  HC  215.522/RS,  Rel.  Min.  Gurgel  de  Faria,  5ª  T.,  DJe
+10/11/2015).
+A intervenção do Direito Penal apenas se justifica quando o bem jurídico tutelado tenha sido exposto a um
+dano com relevante lesividade. Inocorrência de tipicidade material, mas apenas a formal quando a conduta não
+possui relevância jurídica, afastando-se, por consequência, a ingerência da tutela penal, em face do postulado
+da intervenção mínima (HC 84.412/SP, Min. Celso de Mello, Supremo Tribunal Federal, DJ 19/11/2004) (STJ,
+HC 189400/RS, Rel. Min. Og Fernandes, 6ª T., DJe 1º/8/2012).
+Embora atualmente, em razão do alto índice de criminalidade e da consequente intranquilidade social, o
+Direito  Penal  brasileiro  venha  apresentando  características  mais  intervencionistas,  persiste  o  seu  caráter
+fragmentário e subsidiário, dependendo a sua atuação da existência de ofensa a bem jurídico relevante, não
+defendido de forma eficaz por outros ramos do direito, de maneira que se mostre necessária a imposição de
+sanção penal (STJ, HC 201439/SP, Rel. Min. Haroldo Rodrigues, 6ª T., DJe 10/8/2011).
+Princípio da lesividade O princípio da lesividade, cuja origem se atribui ao período iluminista, que por
+intermédio do movimento de secularização procurou desfazer a confusão que havia entre o direito e a
+moral, possui, no escólio de Nilo Batista,
+7
+ quatro principais funções, a saber: a) proibir a incriminação de
+uma atitude interna; b) proibir a incriminação de uma conduta que não exceda o âmbito do próprio autor;
+c) proibir a incriminação de simples estados ou condições existenciais; d) proibir a incriminação de
+condutas desviadas que não afetem qualquer bem jurídico.
+O  sistema  jurídico  há  de  considerar  a  relevantíssima  circunstância  de  que  a  privação  da  liberdade  e  a
+restrição de direitos do indivíduo somente se justificam quando estritamente necessárias à própria proteção
+das pessoas, da sociedade e de outros bens jurídicos que lhes sejam essenciais, nota
+[/PAGINA 9]
+
+[PAGINA 10]
+damente naqueles casos
+em que os valores penalmente tutelados se exponham a dano, efetivo ou potencial, impregnado de significativa
+20
+
+lesividade. O Direito Penal não se deve ocupar de condutas que produzam resultado, cujo desvalor – por não
+importar  em  lesão  significativa  a  bens  jurídicos  relevantes  –  não  represente,  por  isso  mesmo,  prejuízo
+importante,  seja  ao  titular  do  bem  jurídico  tutelado,  seja  à  integridade  da  própria  ordem  social  (STF, HC
+98152/MG, Rel. Min. Celso de Mello, 2ª T., DJ 5/6/2009, p. 584).
+Para  a  teoria  moderna  –  que  dá  realce  primacial  aos  princípios  da  necessidade  da  incriminação  e  da
+lesividade do fato criminoso – o cuidar-se de crime de mera conduta – no sentido de não se exigir à sua
+configuração um resultado material exterior à ação – não implica admitir sua existência independentemente de
+lesão efetiva ou potencial ao bem jurídico tutelado pela incriminação da hipótese de fato (STF, RHC 81057/SP,
+Rel.ª Min.ª Ellen Gracie, 1ª T., DJ 9/4/2005, p. 30).
+Princípio da adequação social O princípio da adequação social, concebido por Hans Welzel, possui dupla
+função. Uma delas é a de restringir a abrangência do tipo penal, limitando sua interpretação e dele
+excluindo  as  condutas  consideradas  socialmente  adequadas  e  aceitas  pela  sociedade.
+8
+  Sua  segunda
+função é dirigida ao legislador em duas vertentes. A primeira delas orienta o legislador quando da
+seleção das condutas que deseja proibir ou impor, com a finalidade de proteger os bens considerados
+mais importantes. Se a conduta que está na mira do legislador for considerada socialmente adequada,
+não  poderá  reprimi-la  valendo-se  do  Direito  Penal.  Tal  princípio  serve-lhe,  portanto,  como  norte.  A
+segunda vertente destina-se a fazer com que o legislador repense os tipos penais e retire do ordenamento
+jurídico a proteção sobre aqueles bens cujas condutas já se adaptaram perfeitamente à evolução da
+sociedade. Assim, da mesma forma que o princípio da intervenção mínima, o princípio da adequação
+social, nesta última função, destina-se precipuamente ao legislador, orientando-o na escolha de condutas
+a serem proibidas ou impostas, bem como na revogação de tipos penais.
+Não  se  aplica  o  princípio  da  adequação  social  na  hipótese  de  expor  à  venda  mídias  falsificadas,  pois  a
+conduta prevista no artigo 184, § 2º, do Código Penal é típica, formal e materialmente, afigurando-se inviável,
+comprovadas a materialidade e a autoria, o afastamento da consequência penal prevista em lei. Súmula nº 502
+do STJ (STJ, HC 336820/RS, Rel.ª Min.ª Maria Thereza de Assis Moura, 6ª T., DJe 11/12/2015).
+O princípio da adequação social é um vetor geral de hermenêutica segundo o qual, dada a natureza subsidiária
+e  fragmentária  do  direito  penal,  se  o  tipo  é  um  modelo  de  conduta  proibida,  não  se  pode  reputar  como
+criminoso  um  comportamento  socialmente  aceito  e  tolerado  pela  sociedade,  ainda  que  formalme
+[/PAGINA 10]
+
+[PAGINA 11]
+nte
+subsumido a um tipo incriminador. A aplicação deste princípio no exame da tipicidade deve ser realizada em
+caráter  excepcional,  porquanto  ao  legislador  cabe  precipuamente  eleger  aquelas  condutas  que  serão
+descriminalizadas. (STJ, REsp. 1435872/MG, Rel. Min. Rogério Schietti Cruz, 6ª T., DJe 1º/7/2014).
+O  princípio  da  adequação  social  reclama  aplicação  criteriosa,  a  fim  de  se  evitar  que  sua  adoção
+indiscriminada  acabe  por  incentivar  a  prática  de  delitos  patrimoniais,  fragilizando  a  tutela  penal  de  bens
+jurídicos relevantes para vida em sociedade. A violação ao direito autoral e seu impacto econômico medem-se
+pelo valor que os detentores das obras deixam de receber ao sofrer com a ‘pirataria’, e não pelo montante que
+os  falsificadores  obtêm  com  a  sua  atuação  imoral  e  ilegal.  Deveras,  a  prática  não  pode  ser  considerada
+socialmente tolerável haja vista os expressivos prejuízos experimentados pela indústria fonográfica nacional,
+pelos comerciantes regularmente estabelecidos e pelo Fisco, fato ilícito que encerra a burla ao pagamento de
+impostos. In casu, a conduta da paciente amolda-se ao tipo de injusto previsto no art. 184, § 2º, do Código
+Penal, porquanto comercializava mercadoria pirateada (CDs e DVDs de diversos artistas, cujas obras haviam
+sido reproduzidas em desconformidade com a legislação) (STF, HC 120.994/SP, Rel. Min. Luiz Fux, 1ª T., DJe
+16/05/2014).
+Princípio da fragmentariedade Conforme esclarece Muñoz Conde, “nem todas as ações que atacam bens
+21
+
+jurídicos são proibidas pelo Direito Penal, nem tampouco todos os bens jurídicos são protegidos por ele. O
+Direito penal, repito mais uma vez, se limita somente a castigar as ações mais graves contra os bens
+jurídicos mais importantes, daí seu caráter ‘fragmentário’, pois de toda a gama de ações proibidas e bens
+jurídicos protegidos pelo ordenamento jurídico, o Direito Penal só se ocupa de uma parte, fragmentos, se
+bem que da maior importância”.
+9
+O Direito Penal brasileiro é dirigido pelo princípio da intervenção mínima, que elege o caráter fragmentário
+e subsidiário desse direito, dependendo a sua atuação da existência de ofensa a bem jurídico relevante, não
+defendido  de  forma  eficaz  por  outros  ramos  do  Direito  (STJ,  AgRg  no  AREsp  615.494/MS,  Rel.  Min.
+Reynaldo Soares da Fonseca, 5ª T., DJe 09/06/2015).
+O Direito Penal não deve se ocupar com ninharias, mas apenas com lesões que, de fato, vulnerem os bens
+jurídicos mais relevantes para a sociedade, observando-se, sempre, o caráter fragmentário do Direito Penal
+(TJ-RJ, AC 0127063-49.2013.8.19.0001, Rel. Des. Paulo Rangel, DJe 04/03/2015).
+Não há se subestimar a natureza subsidiária, fragmentária do Direito Penal, que só deve ser acionado quando
+os outros ramos do direito não sejam suficientes para a proteção dos bens jurídicos envolvidos (STF, RHC
+89624/RS, Rel.ª Min.ª Cármen Lúcia, 1ª T., DJ 7/12/2006, p. 511).
+Princípio  da  insignificância  Analisado  em  sede  de
+[/PAGINA 11]
+
+[PAGINA 12]
+tipicidade  material,  abrangida  pelo  conceito  de
+tipicidade conglobante, tem a finalidade de afastar do âmbito do Direito Penal aqueles fatos que, à
+primeira vista, estariam compreendidos pela figura típica, mas que, dada a sua pouca ou nenhuma
+importância, não podem merecer a atenção do ramo mais radical do ordenamento jurídico. Os fatos
+praticados sob o manto da insignificância são reconhecidos como de bagatela.
+O princípio da insignificância baseia-se na necessidade de lesão jurídica expressiva para a incidência do
+Direito Penal, afastando a tipicidade do delito em certas hipóteses em que, apesar de típica a conduta, ausente
+dano juridicamente relevante. Sobre o tema, de maneira meramente indicativa e não vinculante, a jurisprudência
+desta Corte, dentre outros critérios, aponta o parâmetro da décima parte do salário-mínimo vigente ao tempo
+da infração penal, para aferição da relevância da lesão patrimonial (STJ, HC 323.311/RJ, Rel. Min. Ribeiro
+Dantas, 5ª T., DJe 03/06/2016).
+Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância
+pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma
+periculosidade  social  da  ação;  c)  o  reduzidíssimo  grau  de  reprovabilidade  do  comportamento  e  d)  a
+inexpressividade da lesão jurídica provocada. O valor da res furtiva (R$ 40,00, cujo valor à época representava
+em torno de 7,33% do salário-mínimo então vigente), aliado ao fato de que se tratavam de produtos de higiene,
+subtraídos  de  uma  farmácia,  com  restituição  à  vítima,  permite  incidir  o  princípio  da  insignificância,  pois
+nenhum interesse social existe na onerosa intervenção estatal, fazendo-se excepcionar até mesmo o fato de o
+paciente apresentar anterior condenação em data remota (STJ, HC 341.187/SP, Rel. Min. Nefi Cordeiro, 6ª T.,
+DJe 20/05/2016).
+O  princípio  da  insignificância  não  foi  formulado  para  resguardar  e  legitimar  constantes  condutas
+juridicamente desvirtuadas, mas para impedir que desvios de conduta de mínima ofensividade, considerados
+isoladamente, sejam sancionados pelo Direito Penal, fazendo-se justiça no caso concreto. Comportamentos
+contrários à lei penal, mesmo insignificantes, quando constantes, devido à reprovabilidade, perdem a condição
+de configurar bagatela, devendo ser submetidos ao Direito Penal (STF, HC 133.252/MG, Rel.ª Min.ª Cármen
+Lúcia, 2ª T., DJe 08/04/2016).
+Consoante já assentado pelo Supremo Tribunal Federal, o princípio da insignificância deve ser analisado em
+correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, para excluir ou
+22
+
+afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos
+seguintes vetores: (I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da
+ação;  (III)  ínfimo  grau  de  reprovabilidade  do  comportamento  e  (IV)  inexpressividade  da
+[/PAGINA 12]
+
+[PAGINA 13]
+lesão  jurídica
+ocasionada (conforme decidido nos autos do HC nº 84.412/SP, de relatoria do Ministro Celso de Mello, DJU
+19/04/2004) (STJ, AgRg no REsp 1.459.796/MG, Rel. Min. Rogério Schietti Cruz, 6ª T., DJe 07/05/2015).
+A insignificância, enquanto princípio, revela-
+-se,  na  visão  de  Roxin,  importante  instrumento  que  objetiva  restringir  a  aplicação  literal  do  tipo  formal,
+exigindo-se,  além  da  contrariedade  normativa,  a  ocorrência  efetiva  de  ofensa  relevante  ao  bem  jurídico
+tutelado. No terreno jurisprudencial, dispensam-lhe os tribunais, cada vez com maior frequência, destacado
+papel na tentativa de redução da intervenção penal, cujos resultados não traduzem, necessariamente, reforço na
+construção de um direito penal mínimo, principalmente diante do crescimento vertiginoso da utilização desse
+ramo do direito como prima ratio para solução de conflitos, quando deveria ser a ultima ratio. (STJ, RHC
+31612/PB, Rel. Min. Rogério Schietti Cruz, 
+6ª T., DJe 29/5/2014).
+Princípio  da  insignificância  e  roubo A  jurisprudência  desta  Corte  Superior  é  firme  em  assinalar  a
+impossibilidade de se reconhecer a insignificância dos crimes cometidos mediante violência e grave ameaça,
+como na hipótese (STJ, HC 136.059/MS, Rel. Min. Rogério Schietti Cruz, 6ª T., DJe 18/04/2016).
+Esta Corte de Justiça entende ser inaplicável ao crime de roubo o princípio da insignificância, por se tratar
+de delito complexo que ofende o direito ao patrimônio e à integridade física da vítima (STJ, HC 313.640/SP,
+Rel. Min. Gurgel de Faria, 5ª T., DJe 03/03/215).
+Princípio da insignificância e bem de pequeno valor no furto Para efeitos de reconhecimento ou não do
+princípio da insignificância, não se pode confundir os conceitos de bem de pequeno valor com bem de valor
+insignificante.  Apenas  o  segundo,  necessariamente,  propicia  a  atipicidade  material  da  conduta.  A  ação  de
+subtrair bem avaliado em aproximadamente 23% do salário-mínimo vigente à época do fato não pode ser
+considerada insignificante, pois o valor da res extrapola o limite razoável de lesividade mínima do bem jurídico
+tutelado (STJ, AgRg no REsp 1.573.100/RJ, Rel. Min. Antônio Saldanha Palheiro, 6ª T., DJe 09/06/2016).
+Segundo  a  jurisprudência  do  Supremo  Tribunal  Federal,  para  se  caracterizar  hipótese  de  aplicação  do
+denominado ‘princípio da insignificância’ e, assim, afastar a recriminação penal, é indispensável que a conduta
+do agente seja marcada por ofensividade mínima ao bem jurídico tutelado, reduzido grau de reprovabilidade,
+inexpressividade da lesão e nenhuma periculosidade social. Nesse sentido, a aferição da insignificância como
+requisito  negativo  da  tipicidade  envolve  um  juízo  de  tipicidade  conglobante,  muito  mais  abrangente  que  a
+simples expressão do resultado da conduta. Importa investigar o desvalor da ação criminosa em seu sentido
+amplo, de modo a impedir que, a pretexto da insignificância apenas do resultado material, acabe desvirtu
+[/PAGINA 13]
+
+[PAGINA 14]
+ado o
+objetivo  a  que  visou  o  legislador  quando  formulou  a  tipificação  legal.  Assim,  há  de  se  considerar  que  ‘a
+insignificância só pode surgir à luz da finalidade geral que dá sentido à ordem normativa’ (Zaffaroni), levando
+em conta também que o próprio legislador já considerou hipóteses de irrelevância penal, por ele erigidas, não
+para excluir a tipicidade, mas para mitigar a pena ou a persecução penal. Num juízo de tipicidade conglobante,
+que envolve não apenas o resultado material da conduta, mas o seu significado social mais amplo, certamente
+não  se  pode  admitir  a  aplicação  do  princípio  da  insignificância  indiscriminadamente.  Nesse  contexto,  é
+necessário distinguir o ‘furto insignificante’ daquele referente à subtração de bem de pequeno valor, de modo a
+não estimular a prática de condutas criminosas e obstar a aplicação da figura do ‘furto privilegiado’, previsto no
+art. 155, § 2°, do Código Penal (STF, HC 120083/SC, Rel. Min. Teori Zavascky, 2ª T., DJe 6/8/2014).
+A lei penal não deve ser invocada para atuar em hipóteses desprovidas de significação social, razão pela qual
+23
+
+os princípios da insignificância e da intervenção mínima surgem para evitar situações dessa natureza, atuando
+como  instrumentos  de  interpretação  restrita  do  tipo  penal.  No  caso,  embora  o  bem  subtraído  tenha  sido
+recuperado pela vítima, a conduta não pode ser considerada como um indiferente penal, visto que o furto de
+objetos avaliados em R$ 225,60 (duzentos e vinte e cinco reais e sessenta centavos), não enseja a aplicação do
+princípio da insignificância, ante o valor da res furtiva. Ademais, bem de pequeno valor, que autoriza a redução
+da pena nos termos do § 2º do art. 155 do Código Penal, não se confunde com o de valor irrisório, que permite
+a incidência do princípio da bagatela (STJ, AgRg. no HC 230555/MS, Rel. Min. Marco Aurélio Bellizze, 5ª T.,
+DJe 15/8/2012).
+Princípio da insignificância e a Lei no 11.343/2006
+Esta Corte Superior de Justiça há muito consolidou seu entendimento no sentido de que não se aplica o
+princípio da insignificância ao delito de tráfico ilícito de drogas, uma vez que o bem jurídico protegido é a
+saúde pública, sendo o delito de perigo abstrato, afigurando-se irrelevante a quantidade de droga apreendida
+(STJ, AgRg no REsp 1.578.209/SC, Rel.ª Min.ª Maria Thereza de Assis Moura, 6ª T., DJe 27/06/2016).
+A alegação de que a quantidade de drogas apreendidas é ínfima não resulta, por si só, na absolvição do
+acusado pelo delito descrito no art. 33 da Lei nº 11.343/2006, crime de perigo abstrato sobre o qual não incide
+o princípio da insignificância (STJ, HC 135.508/ES, Rel. Min. Rogério Schietti Cruz, 6ª T., DJe 21/06/2016).
+Prevalece  nesta  Corte  e  no  Supremo  Tribunal  Federal,  o  entendimento  de  que  afigura-se  inaplicável  o
+princípio da insignificância ao delito de tráfico ilícito de drogas, pois trata-se de crime de perigo presumido
+ou abstrato, onde mesmo a pequena quantidade de droga revela
+[/PAGINA 14]
+
+[PAGINA 15]
+risco social relevante (STJ, HC 195.985/MG,
+Rel. Min. Nefi Cordeiro, 6ª T., DJe 18/06/2015).
+Princípio da insignificância e reiteração delitiva A  jurisprudência  desta  Quinta  Turma  reconhece  que  o
+princípio  da  insignificância  não  tem  aplicabilidade  em  casos  de  reiteração  da  conduta  delitiva,  salvo
+excepcionalmente,  quando  as  instâncias  ordinárias  entenderem  ser  tal  medida  recomendável  diante  das
+circunstâncias concretas (STJ, HC 323.311/RJ, Rel. Min. Ribeiro Dantas, 5ª T., DJe 03/06/2016).
+A jurisprudência desta Corte Superior orienta no sentido de que, sendo o acusado multirreincidente, não há
+falar  em  grau  mínimo  de  reprovabilidade  de  sua  conduta,  um  dos  requisitos  à  aplicação  do  princípio  da
+insignificância. Precedentes. No caso concreto, o acusado é reincidente específico, bem como possui extensa
+ficha de antecedentes criminais, ostentando múltiplas condenações transitadas em julgado relativas aos delitos
+de roubo e ameaça (STJ, AgRg no HC 287.397/MG, Rel. Min. Ericson Maranho – Desembargador convocado
+do TJ-SP, 6ª T., DJe 19/04/2016).
+Constatada a conduta habitual do Agente, a lei seria inócua se tolerasse a prática criminosa ou, até mesmo, o
+cometimento do mesmo delito, seguidas vezes, em frações que, isoladamente, não superassem certo valor tido
+por insignificante, mas o excedesse na soma. A desconsideração dessas circunstâncias implicaria verdadeiro
+incentivo ao descumprimento da norma legal, mormente para aqueles que fazem da criminalidade um meio de
+vida. Precedentes da Primeira Turma do Supremo Tribunal Federal e desta Turma. Apesar de não configurar
+reincidência,  a  existência  de  outras  ações  penais,  inquéritos  policiais  em  curso  ou  procedimentos
+administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a
+incidência  do  princípio  da  insignificância,  o  que  ocorreu  no  caso  dos  autos  (STJ,  AgRg.  no  AREsp.
+474296/MT, Relª Minª Laurita Vaz, 5ª T., DJe 1º/8/2014).
+Princípio da insignificância e ato infracional Considerando que o Superior Tribunal de Justiça já firmou
+entendimento  no  sentido  da  possibilidade  de  aplicação  do  princípio  da  bagatela  às  condutas  regidas  pelo
+Estatuto  da  Criança  e  do  Adolescente  (HC  276.358/SP,  Rel.  Ministro  Nefi  Cordeiro,  Sexta  Turma,  DJe
+24
+
+22/09/2014),  faz-se  necessária  a  análise  acerca  de  sua  efetiva  aplicação  no  presente  caso  (STJ,  HC
+292.824/SP, Rel. Min. Gurgel de Faria, 5ª T., DJe 05/08/2015).
+Fora aplicada ao paciente a medida socio- -educativa de internação em razão da prática de ato infracional
+análogo ao delito previsto no art. 155, § 9º, II, do CP. No habeas corpus, pretende-se a aplicação do princípio
+da  insignificância,  pois  a res furtiva  foi  avaliada  em  R$  80,00.  Assim,  para  a  aplicação  do  mencionado
+princípio,  deve-se  aferir  o  potencial  grau  de  reprovabilidade  da  conduta  e  identificar  a  necessidade  de
+utili
+[/PAGINA 15]
+
+[PAGINA 16]
+zação do direito penal como resposta estatal. Se assim é quanto à pessoa que comete vários delitos ou
+comete habitualmente atos infracionais, não é possível reconhecer um grau reduzido de reprovabilidade na
+conduta. Logo, mesmo que pequeno o valor da res furtiva (cadeira de alumínio), não ocorre desinteresse
+estatal à repressão do ato infracional praticado pelo paciente. Ademais, além de praticar reiteradamente atos
+infracionais, o paciente está afastado da escola e faz uso de drogas. Com isso, a Turma denegou a ordem.
+Precedentes citados do STF: HC 97.007/SP, DJe 31/3/2011; HC 100.690/MG, DJe 4/5/2011; do STJ: HC
+137.794/MG, DJe 3/11/2009; e HC 143.304/DF, DJe 4/5/2011 (STJ, HC 182.441/RS, Rel.ª Min.ª Laurita Vaz,
+5ª T., j. 14/6/2011, Informativo nº 477).
+A  jurisprudência  desta  Corte  tem  pacificamente  enunciado  a  possibilidade  de  aplicação  do  princípio  da
+insignificância ao fato cujo agente tenha praticado ato infracional equiparado a delito penal sem significativa
+repercussão social, lesão inexpressiva ao bem jurídico tutelado e diminuta periculosidade de seu autor (STJ,
+HC 163349; Proc. 2010/0032032-5/RS,
+Rel. Min. Napoleão Nunes Maia Filho, 5ª T., DJe 28/6/2010).
+Princípio da insignificância e crime militar De acordo com a jurisprudência desta Corte, o princípio da
+insignificância não se aplica aos crimes militares. Precedentes (STJ, AgRg no AREsp 786.731/SP, Rel. Min.
+Reynaldo Soares da Fonseca, 5ª T., DJe 25/05/2016).
+O Tribunal iniciou julgamento de habeas corpus, afetado ao Pleno pela 2ª Turma, impetrado contra acórdão
+do  Superior  Tribunal  Militar  –  STM  em  favor  de  militar  condenado  pelo  crime  de  posse  de  substância
+entorpecente em lugar sujeito à administração castrense (CPM, art. 290) – v. Informativo 519. O acórdão
+impugnado afastou a aplicação do princípio da insignificância ao delito de uso de substância entorpecente por
+se  tratar  de  crime  de  perigo  abstrato,  pouco  importando  a  quantidade  encontrada  em  poder  do  usuário  e
+afirmou que o art. 290 do CPM não sofreu alteração com o advento da Lei nº 11.343/2006, tendo em conta o
+critério da especialidade da norma castrense em relação à lei penal comum. Pretende a impetrante, em síntese,
+a aplicação: a) do princípio da insignificância, dado o grau mínimo de ofensa ao bem jurídico protegido;
+b) do art. 28 da Lei nº 11.343/2006. A Min.ª Ellen Gracie, relatora, denegou a ordem, no que foi acompanhada
+pelos Ministros Menezes Direito, Cármen Lúcia, Ricardo Lewandowski e Joaquim Barbosa. Entendeu que,
+diante  dos  valores  e  bens  jurídicos  tutelados  pelo  aludido  art.  290  do  CPM,  revela-se  inadmissível  a
+consideração de alteração normativa pelo advento da Lei nº 11.343/2006. Assentou que a prática da conduta
+prevista no referido dispositivo legal ofende as instituições militares, a operacionalidade das Forças Armadas,
+além de violar os princípios da hierarquia e da disciplina na própria interpretação do tipo penal. Asseverou que
+a circunstâ
+[/PAGINA 16]
+
+[PAGINA 17]
+ncia de a Lei nº 11.343/2006 ter atenuado o rigor na disciplina relacionada ao usuário de substância
+entorpecente não repercute no âmbito de consideração do art. 290, do CPM, não havendo que se cogitar de
+violação ao princípio fundamental da dignidade da pessoa humana. Salientou, ademais, que lei posterior apenas
+revoga anterior quando expressamente o declare, seja com ela incompatível, ou regule inteiramente a matéria
+por ela tratada. Concluiu não incidir qualquer uma das hipóteses à situação em tela, já que o art. 290, do CPM,
+é norma especial. Em seguida, reputou inaplicável, no âmbito do tipo previsto no art. 290, do CPM, o princípio
+da insignificância. No ponto, após discorrer que o princípio da insignificância tem como vetores a mínima
+ofensividade  da  conduta  do  agente,  a  nenhuma  periculosidade  social  da  ação,  o  reduzido  grau  de
+25
+
+reprovabilidade  do  comportamento  e  a  inexpressividade  da  lesão  jurídica  provocada,  concluiu  que  o
+entorpecente no interior das organizações militares assume enorme gravidade, em face do perigo que acarreta,
+uma  vez  que  é  utilizado,  no  serviço,  armamento  de  alto  poder  ofensivo,  o  que  afeta,  diretamente,  a
+operacionalidade da tropa e a segurança dos quartéis, independentemente da quantidade da droga encontrada, e
+agride, dessa forma, os valores básicos das instituições militares. Em divergência, o Min. Eros Grau concedeu
+o writ, reportando​-se às razões expendidas nos habeas corpus que deferira na 2ª Turma (HC 92961/SP, DJE de
+22.2.2008; HC 90125/RS, DJE de 5.9.2008; 
+HC 94678/RS, DJE de 22.8.2008, e.g.). Após, pediu vista dos autos o Min. Carlos Britto (STF, HC 94685/CE,
+Rel.ª Min.ª Ellen Gracie, 30.10.2008).
+Princípio da Insignificância e Lei no 10.826/2003
+A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que os crimes previstos nos arts. 12,
+14 e 16 da Lei nº 10.826/2003 são de perigo abstrato, razão pela qual é desnecessária a comprovação de
+prejuízo  para  a  configuração  do  ilícito  e  incabível  a  aplicação  do  princípio  da  insignificância  (STJ,  HC
+358.862/RS, Rel. Min. Reynaldo Soares da Fonseca, 5ª T., DJe 1º/08/2016).
+No âmbito deste Superior Tribunal de Justiça pacificou-se o entendimento de que nos delitos previstos na
+Lei nº  10.826/2003,  por  se  tratar  de  crimes  de  perigo  abstrato  nos  quais  o  objeto  jurídico  tutelado  é  a
+segurança pública e a paz social, não se aplica o princípio da insignificância, sendo irrelevante a quantidade de
+munição apreendida. (STJ, REsp. 1252964/PR, 
+Relª Minª Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Princípio da insignificância e crimes ambientais Predomina nesta Corte entendimento da possibilidade de
+aplicação  do  princípio  da  insignificância  aos  crimes  ambientais,  devendo  ser  analisadas  as  circunstâncias
+específicas do caso concreto para aferir, com cautela, o grau de reprovabilidade, a relevância da periculosidade
+social,  bem  como  a  ofensividade  da  condut
+[/PAGINA 17]
+
+[PAGINA 18]
+a,  haja  vista  a  fundamentalidade  do  direito  ao  meio  ambiente
+ecologicamente equilibrado às presentes e futuras gerações, consoante princípio da equidade intergeracional
+(STJ, RHC 64.039/RS, Rel. Min. Ribeiro Dantas, 5ª T., DJe 03/06/2016).
+Princípio da individualização da pena Encontra-se previsto no art. 5º, inc. XLVI, da Constituição Federal,
+com a seguinte redação: A lei regulará a individualização da pena
+10
+ e adotará, entre outras, as seguintes:
+a) privação ou restrição da liberdade; b) perda de bens; c) multa; d) prestação social alternativa; e)
+suspensão ou interdição de direitos. A individualização da pena deverá ocorrer nas seguintes fases:
+cominação, aplicação e execução.
+Já há muito tempo que o ordenamento jurídico brasileiro consagrou princípios como o da igualdade de todos
+perante a lei e o da individualização da pena. O da individualização convive conosco desde o Código de 1830
+(STJ, MC 8902/RS, Rel. Min. Hélio Quaglia Barbosa, 6ª T., DJ 18/12/2006, p. 518).
+Princípio  da  proporcionalidade  Embora  remontem  à  Antiguidade,  suas  raízes  somente  conseguiram
+firmar-se durante o período iluminista, principalmente com a obra intitulada Dos Delitos e das Penas, de
+autoria do Marquês de Beccaria, cuja primeira edição veio a lume em 1764. Em seu § XLII, Cesare
+Bonessana concluiu que, “para não ser um ato de violência contra o cidadão, a pena deve ser, de modo
+essencial,  pública,  pronta,  necessária,  a  menor  das  penas  aplicável  nas  circunstâncias  referidas,
+proporcionada ao delito e determinada pela lei”. Alberto Silva Franco, dissertando sobre o princípio em
+tela, aduz: “O princípio da proporcionalidade exige que se faça um juízo de ponderação sobre a relação
+existente entre o bem que é lesionado ou posto em perigo (gravidade do fato) e o bem de que pode alguém
+ser  privado  (gravidade  da  pena).  Toda  vez  que,  nessa  relação,  houver  um  desequilíbrio  acentuado
+26
+
+estabelece-
+-se, em consequência, inaceitável desproporção. O princípio da proporcionalidade rechaça, portanto, o
+estabelecimento  de  cominações  legais  (proporcionalidade  em  abstrato)  e  a  imposição  de  penas
+(proporcionalidade em concreto) que careçam de relação valorativa com o fato cometido considerado em
+seu significado global. Tem, em consequência, um duplo destinatário: o Poder Legislativo (que tem de
+estabelecer penas proporcionadas, em abstrato, à gravidade do delito) e o juiz (as penas que os juízes
+impõem ao autor do delito têm de ser proporcionadas à sua concreta gravidade).”
+11
+Do princípio da proporcionalidade são extraídas duas importantes vertentes, a saber: a
+proibição  do  excesso (übermassverbot)  e  a proibição  de  proteção  deficiente
+(untermassverbot).
+Sob a influência do princípio da proporcionalidade em seu duplo espectro – proteção contra o excesso e
+vedação  da  proteção  penal  deficiente  –,  não  se  mostra  descabida  a  imposição  cumulativa  de  cautelares
+alternativas como forma de proteger o bem ameaçado pe
+[/PAGINA 18]
+
+[PAGINA 19]
+la irrestrita e plena liberdade dos acusados, não se
+afastando o julgador dos vetores decorrentes do postulado da proporcionalidade – necessidade, adequação e
+proporcionalidade em sentido estrito –, evidenciando-se a inexistência de constrangimento ilegal a ser sanado
+(STJ, HC 355.092/BA, Rel.ª Min.ª Maria Thereza de Assis Moura, 6ª T., DJe 23/06/2016).
+O  princípio  da  proporcionalidade  tem  ampla  aplicação  na  seara  penal  –  a  fim  de  abrandar  os  rigores
+punitivos.  Todavia,  a  sua  dimensão  de  proibição  da  proteção  deficiente  não  se  justifica  no  Direito  Penal,
+bastando contemplar a realidade e ter em linha de consideração o crescente recrudescimento legislativo. 4.
+Embargos de declaração rejeitados (STJ, EDcl. no HC 170092/SP, Rel.ª Min.ª Maria Thereza de Assis Moura,
+6ª T., 
+DJe 21/2/2011).
+Apesar da proibição contida no art. 33, § 4º, da Lei nº 11.343/06, é possível a substituição da pena por
+restrição de direitos, considerando que a vedação imposta configura tratamento genérico violador do princípio
+constitucional  da  proporcionalidade  (TJMG,  Processo  1.0325.08.009178-9/001,  Rel.  Des.  Adilson
+Lamounier, p. 6/7/2009).
+Princípio da responsabilidade pessoal Encontra-se previsto no art. 5º, inc. XLV, da Constituição Federal,
+que diz: Nenhuma pena passará da pessoa do condenado, podendo a obrigação de reparar o dano e a
+decretação  do  perdimento  de  bens  ser,  nos  termos  da  lei,  estendidas  aos  sucessores  e  contra  eles
+executadas, até o limite do valor do patrimônio transferido.
+Princípio  da  limitação  das  penas  A  Constituição  Federal,  visando  impedir  qualquer  tentativa  de
+retrocesso quanto à cominação das penas levadas a efeito pelo legislador, preceitua, no inc. XLVII de seu
+art. 5º, que não haverá penas: a) de morte, salvo em caso de guerra declarada, nos termos do art. 84, XIX;
+b) de caráter perpétuo; c) de trabalhos forçados; d) de banimento; e) cruéis.
+Princípio da culpabilidade O princípio da culpabilidade não se encontra no rol dos chamados princípios
+constitucionais expressos, podendo, no entanto, ser extraído do texto constitucional, principalmente do
+chamado  princípio  da  dignidade  da  pessoa  humana.
+12
+  Possui  três  sentidos  fundamentais:  1)
+culpabilidade como elemento integrante do conceito analítico de crime; 2) culpabilidade como princípio
+medidor  da  pena;  3)  culpabilidade  como  princípio  impedidor  da  responsabilidade  penal  objetiva
+(responsabilidade penal sem culpa ou pelo resultado).
+A colocação em estado de inconsciência decorrente de caso fortuito ou de força maior resulta na atipicidade
+dos resultados lesivos produzidos pelo agente em tal condição, não havendo que se falar em responsabilização
+27
+
+criminal, sob pena de violação ao princípio da culpabilidade (STJ, AgInt no HC 350.918/SC, Rel. Min. Antônio
+Saldanha Palheiro, 6ª T., DJe 03/05/2016).
+Princípio da dignidade da pessoa humana Embora de difícil tradução, podemos construir um conceito de
+dignidade da
+[/PAGINA 19]
+
+[PAGINA 20]
+pessoa humana entendendo-a como uma qualidade irrenunciável e inalienável, que integra
+a própria condição humana. É algo inerente ao ser humano, um valor que não pode ser suprimido, em
+virtude da sua própria natureza. Até o mais vil, o homem mais detestável, o criminoso mais frio e cruel, é
+portador  desse  valor.  Podemos  adotar  o  conceito  proposto  por  Ingo  Wolfgang  Sarlet,  que  procurou
+condensar alguns dos pensamentos mais utilizados para a definição do conceito de dignidade da pessoa
+humana, dizendo ser “a qualidade intrínseca e distintiva de cada ser humano que o faz merecedor do
+mesmo respeito e consideração por parte do Estado e da comunidade, implicando, neste sentido, um
+complexo de direitos e deveres fundamentais que assegurem a pessoa tanto contra todo e qualquer ato de
+cunho degradante e desumano, como venham a lhe garantir as condições existenciais mínimas para uma
+vida saudável, além de propiciar e promover sua participação ativa e corresponsável nos destinos da
+própria existência e da vida em comunhão com os demais seres humanos”.
+13
+Habeas corpus que impugna imparcialidade do juiz e direito de defesa em transação penal. Cabimento do
+mandamus,  uma  vez  que  a  aplicação  de  penas  restritivas  exacerbadas  acarreta  eventualmente  seu
+descumprimento  e  a  consequente  revogação  da  transação,  com  início  ação  penal  que  pode  acarretar  na
+aplicação de pena privativa de liberdade. Orientação jurídica que se mostrou deficiente, acarretando patente
+prejuízo ao paciente, que aceitou pagar prestação pecuniária manifestamente desproporcional à sua realidade
+econômica.  Incidência  do  Verbete  nº  523/STF.  Violação  do  princípio  da  dignidade  da  pessoa  humana,  do
+mínimo existencial e da intranscendência da pena. Habeas corpus não conhecido. Ordem concedida de ofício,
+para anular a sentença homologatória, em virtude da manifesta nulidade do acordo entabulado, determinado seja
+realizada nova transação penal, na presença de causídico que efetivamente oriente o paciente, observando-se
+suas  condições  econômicas  (STJ,  HC  333.606/TO,  Rel.  Min.  Reynaldo  Soares  da  Fonseca,  5ª  T.,  DJe
+23/02/2016).
+Como sabido a ausência do trânsito em julgado da sentença condenatória não constitui óbice à obtenção dos
+benefícios da execução penal. Resolução do CNJ que se aplica ao caso em debate. Normas que devem ser
+interpretadas  de  forma  a  não  trazer  mais  prejuízos  ao  condenado,  sob  pena  de  violação  aos  princípios
+constitucionais da dignidade da pessoa humana e da razoabilidade. Acertada decisão concessiva do referido
+benefício, proferida pelo Juízo da VEP, antes do trânsito em julgado para a acusação (TJ-RJ, Ag EP 0067605-
+70.2014.8.19.0000, Rel. Des. Paulo Rangel, DJe 03/06/2015).
+Denúncias genéricas, que não descrevem os fatos na sua devida conformação, não se coadunam com os
+postulados  básicos  do  Estado  de  Direito.  Violação  ao  princípio  da  dignidade  da  pessoa  humana  (STF, HC
+86000/PE, Rel.
+[/PAGINA 20]
+
+[PAGINA 21]
+Min. Gilmar Mendes, 2º T., DJ 2/2/2007, p. 159).
+Lei penal no tempo Art. 2º  Ninguém  pode  ser  punido  por  fato  que  lei
+posterior deixa de considerar crime, cessando em virtude dela a execução e
+os efeitos penais da sentença condenatória.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Parágrafo único. A lei posterior, que de
+qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por
+sentença condenatória transitada em julgado.
+28
+
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Introdução
+A regra geral, trazida no próprio texto da Constituição Federal, é a da irretroatividade in
+pejus, ou seja, a da absoluta impossibilidade de a lei penal retroagir para, de qualquer modo,
+prejudicar o agente; a exceção é a retroatividade in mellius, quando a lei vier, também, de
+qualquer modo, favorecê-lo, conforme se dessume do inc. XL de seu art. 5º, assim redigido: A
+lei penal não retroagirá, salvo para beneficiar o réu.
+Princípio da extra-atividade da lei penal Extra-atividade é a capacidade que tem a lei penal de se
+movimentar  no  tempo  regulando  fatos  ocorridos  durante  a  sua  vigência,  mesmo  depois  de  ter  sido
+revogada, ou de retroagir no tempo, a fim de regular situações ocorridas anteriormente à sua vigência,
+desde que benéficas ao agente. Temos, portanto, a extra-atividade como gênero, de onde seriam espécies a
+ultra-atividade e a retroatividade.
+Ultra-atividade
+Fala-se em ultra-atividade quando a lei, mesmo depois de revogada, continua a regular os
+fatos ocorridos durante a sua vigência, porque mais benéfica ao agente.
+Crime contra os costumes praticado em data anterior ao advento da Lei nº 11.106/2005, que revogou o inc.
+VII do art. 107 do Código Penal, o qual previa, como causa de extinção da punibilidade, o casamento do
+opressor com a vítima. Ultra-atividade da norma mais benéfica ao réu (STF, HC 100882/SP, Rel. Min. Ricardo
+Lewandowski, 1ª T., DJe 25/06/2010, p. 45).
+A  Constituição  Federal  reconhece,  no  art.  5º,  inc.  XL,  como  garantia  fundamental,  o  princípio  da
+retroatividade da lei penal mais benéfica. Desse modo, o advento de lei penal mais favorável ao acusado impõe
+sua imediata aplicação, mesmo após o trânsito em julgado da condenação. Todavia, a verificação da lex mitior,
+no confronto de leis, é feita in concreto, visto que a norma aparentemente mais benéfica, num determinado
+caso, pode não ser. Assim, pode haver, conforme a situação, retroatividade da regra nova ou ultra-atividade da
+norma antiga (STJ, HC 124598/SP, Rel. Min. Felix Fischer, 5º T., DJe 22/06/2009).
+Segundo o princípio da ultra-atividade da lei penal mais benéfica, o agente do delito responde, nos termos da
+lei  favorável,  pelos  fatos  cometidos  durante  a  sua  vigência,  se,  posteriormente,  esta  lei  for  revogada,
+introduzindo-se no seu lugar lei mais gravosa (STJ, HC 46083/GO, Rel.ª Min.ª Laurita Vaz, 5º T., DJ 5/2/2007,
+p. 268).
+Retroatividade
+É a possibilidade conferida à lei penal de retroagir no tempo
+[/PAGINA 21]
+
+[PAGINA 22]
+, a fim de regular os fatos
+ocorridos anteriormente à sua entrada em vigor, desde que benéfica ao agente.
+De acordo com a jurisprudência do Superior Tribunal de Justiça, a atual redação do art. 110, § 1º, do Código
+Penal, incluída pela Lei nº 12.234/2010, segundo a qual a prescrição não pode, em nenhuma hipótese, ter
+como  termo  inicial  data  anterior  à  denúncia,  não  se  aplica  à  espécie,  tendo  em  vista  a  proibição  da
+retroatividade da lei penal mais rigorosa. Precedentes (STJ, AgRg no REsp 1.534.688/SP, Rel.ª Min.ª Maria
+Thereza de Assis Moura, 6ª T., DJe 28/03/2016).
+Por força da alteração no Código Penal, veiculada pela Lei nº 12.015/2009, o Superior Tribunal de Justiça
+pacificou o entendimento de que a prática de conjunção carnal e ato libidinoso diverso constitui crime único,
+29
+
+desde  que  praticado  contra  a  mesma  vítima  e  no  mesmo  contexto  fático.  Em  obediência  ao  princípio  da
+retroatividade da lei penal mais benéfica, tal compreensão deve retroagir para atingir os fatos anteriores à
+citada lei (STJ, REsp 1.091.392/SP, Rel. Min. Nefi Cordeiro, 6ª T., DJe 09/03/2016).
+A aplicação retroativa da Lei nº 12.015/2009 em nada beneficia o Paciente, pois ao delito de estupro de
+vulnerável previsto no art. 217-A do Código Penal é prevista a pena mínima de 08 anos de reclusão, mais
+severa do que aquela cominada ao Paciente em razão da aplicação do art. 213, c/c. o art. 224 do Estatuto
+repressivo. (STJ, HC 253963/RS, Relª Minª Laurita Vaz, 
+5ª T., DJe 26/3/2014).
+A Constituição Federal excepciona a regra da intangibilidade da coisa julgada, prevista no art. 5º, XXXVI,
+quando estabelece a retroatividade de lei penal nova mais benigna (art. 5º, LX). (STJ, HC 123413/RJ, Rel. Min.
+Jorge Mussi, 5ª T., DJe 06/04/2009).
+Constatada a possibilidade de o condenado ser favorecido, de qualquer forma, por lei posterior, deve ser
+reconhecido o seu direito à benesse, ainda mais quando o Diploma Legal mais benéfico foi incorporado ao
+ordenamento jurídico enquanto em trâmite a ação penal (STJ, HC 59777/SP, Rel. Min. Gilson Dipp, 5ª T., DJ
+6/10/2006, p. 407).
+Novatio legis in mellius De acordo com o parágrafo único do art. 2º do Código Penal, a lei
+posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda
+que decididos por sentença condenatória transitada em julgado. A novatio legis in mellius
+será sempre, portanto, retroativa, sendo aplicada aos fatos ocorridos anteriormente à sua
+vigência, ainda que tenham sido decididos por sentença condenatória já transitada em
+julgado. Se, por exemplo, surgir uma lei nova reduzindo a pena mínima de determinada
+infração penal, deve aquela que foi aplicada ao agente ser reduzida a fim de atender aos
+novos limites,
+14
+ mesmo que a sentença que o condenou já tenha transitado em julgado. Só
+não terá aplicação a lei nova, no exemplo fornecido, se o agente já tiver cumprido a pena
+que lhe fora imposta.
+Novatio legis in pejus Se a lei posterior à prática do fato vier, de alguma
+[/PAGINA 22]
+
+[PAGINA 23]
+forma, prejudicar
+o agente, prevalecerá a regra absoluta da irretroatividade, nos termos do art. 5º, inc. XL,
+da Constituição Federal, que diz que a lei penal não retroagirá, salvo para beneficiar o
+réu.
+Novatio legis in pejus e crimes permanentes e continuados
+Aplica-se a Súmula nº 711 do STF, que diz: A lei penal mais grave aplica-se ao crime
+continuado  ou  ao  crime  permanente,  se  a  sua  vigência  é  anterior  à  cessação  da
+continuidade ou da permanência.
+Abolitio criminis Encontra-se prevista no caput do art. 2º do Código Penal, que diz que
+ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando
+em virtude dela a execução e os efeitos penais da sentença condenatória.
+30
+
+Descriminalização
+A ocorrência da abolitio criminis conduz à chamada descriminalização, ou seja, o fato que
+anteriormente  era  considerado  como  uma  infração  penal  passa  a  ser  considerado  como  um
+indiferente penal.
+A condenação definitiva anterior pela prática da conduta prevista no art. 28, caput,  da  Lei  de  Drogas  é
+circunstância apta a autorizar a majoração da pena, pela incidência da agravante da reincidência, e para impedir
+a aplicação do redutor do art. 33, § 4º, da referida Lei, uma vez que, segundo entendimento firmado nesta
+Corte, não houve a descriminalização do porte de substâncias entorpecentes para uso próprio, com a entrada
+em vigor da Lei nº 11.343/2006, mas apenas a despenalização (STJ, HC 339.592/SP, Rel. Min. Ribeiro Dantas,
+5ª T., DJe 15/04/2016).
+Tráfico  de  entorpecentes.  Comercialização  de  “lança-perfume”.  Edição  válida  da  resolução  Anvisa  nº
+104/2000.  Retirada  do  cloreto  de  etila  da  lista  de  substâncias  psicotrópicas  de  uso  proscrito. Abolitio
+criminis. Republicação da resolução. Irrelevância. Retroatividade da Lei Penal mais benéfica. HC concedido. A
+edição, por autoridade competente e de acordo com as disposições regimentais, da resolução Anvisa nº 104,
+de 7/12/2000, retirou o cloreto de etila da lista de substâncias psicotrópicas de uso proscrito durante a sua
+vigência,  tornando  atípicos  o  uso  e  tráfico  da  substância  até  a  nova  edição  da  resolução,  e  extinguindo  a
+punibilidade dos fatos ocorridos antes da primeira portaria, nos termos do art. 5º, XL, da Constituição Federal
+(STF, HC 94397/BA, Rel. Min. Cezar Peluso, 2ª T., DJe 23/04/2010, p. 57).
+É  que  a abolitio  criminis,  causa  de  extinção  da  punibilidade  que  é,  constitui  uma  das  hipóteses  de
+retroatividade da lei penal mais benéfica. É dizer: a abolição do crime significa a manifestação legítima do
+Estado pela descriminalização de determinada conduta. Noutro dizer, o detentor do jus puniendi renuncia ao
+poder de intervir na liberdade dos indivíduos responsáveis pela conduta antes qualificada como delituosa (STF,
+Inq 2584/SP, Rel. Min. Carlos Britto, Tribunal Pleno, DJ 05/06/2009, p. 240).
+Natureza  jurídica  da abolitio  criminis  É  considerada  uma  causa  de  extinção  da
+punibilidade, prev
+[/PAGINA 23]
+
+[PAGINA 24]
+ista no art. 107, III, do Código Penal.
+Efeitos  da abolitio  criminis  Além  de  conduzir  à  extinção  da  punibilidade,  a abolitio
+criminis  faz  cessar  todos  os  efeitos penais da  sentença  condenatória,  permanecendo,
+contudo, seus efeitos civis. Extrai-se do caput do art. 2º do Código Penal que, havendo a
+descriminalização e uma vez cessados os efeitos penais da sentença condenatória, deverá
+ser providenciada a retirada do nome do agente do rol dos culpados, não podendo a sua
+condenação ser considerada para fins de reincidência ou mesmo antecedentes penais. Os
+efeitos civis, ao contrário, não serão atingidos pela abolitio criminis. Sabe-se que com a
+sentença penal condenatória transitada em julgado forma-se, para a vítima da infração
+penal, um título executivo de natureza judicial, nos termos do inciso VI do art. 515 do
+Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015) e do art. 63, parágrafo
+único, do Código de Processo Penal. Se houver o trânsito em julgado da condenação penal
+do agente, a vítima não necessita ingressar em juízo com uma ação de conhecimento
+visando  à  reparação  dos  prejuízos  por  ela  experimentados.  Não  precisará  discutir  o
+chamado an debeatur (deve-se?), mas, agora, após o trânsito em julgado da sentença
+31
+
+penal condenatória, somente procurará apurar o quantum debeatur (quanto se deve?),
+independentemente do valor já nela fixado pelo juiz, nos termos do art. 387, IV, do Código
+de Processo Penal, com a redação que lhe foi dada pela Lei nº 11.719, de 20 de junho de
+2008. Esse título executivo judicial que é dado à vítima, sendo um efeito civil da sentença
+penal condenatória, será mantido mesmo que ocorra a abolitio criminis.
+A Lei nº 11.343/2006 operou verdadeira abolitio criminis em relação à majorante descrita no inc. III do art.
+18 da Lei nº 6.368/1976, não havendo mais previsto a associação eventual de agentes como causa de aumento
+de pena, de modo que deve ser afastada a incidência dessa majorante, em atenção ao disposto no art. 2º,
+parágrafo único, do Código Penal e no art. 5º, XL, da Constituição Federal (STJ, HC 181.204/SP, Rel. Min.
+Rogério Schietti Cruz, 6ª T., DJe 29/06/2016).
+Como  não  foi  mencionada  na  nova  legislação  a  causa  especial  de  aumento  pela  associação  eventual  de
+agentes para a prática dos crimes da Lei de Tóxicos, prevista no art. 18, inc. III (parte inicial), da Lei nº
+6.368/76,  resta  configurada,  na  espécie,  a abolitio criminis,  devendo,  pois,  ser  retirada  da  condenação  a
+majorante respectiva, em observância à retroatividade da lei penal mais benéfica (STJ, HC 130234/RJ, Rel.ª
+Min.ª Laurita Vaz, 5ª T., DJe 15/6/2009).
+Abolitio  criminis  temporalis  Tem-se  entendido  por abolitio  criminis  temporalis,  ou
+suspensão  da  tipicidade,  a  situação  na  qual  a  aplicação  de  determinado  tipo  penal
+encontra-
+-se temporariamente suspensa, não permitindo, consequentemente, a punição do agente
+que pratica o comportamento típico durante o prazo
+[/PAGINA 24]
+
+[PAGINA 25]
+da suspensão. Veja-se, por exemplo,
+o que ocorreu com a posse irregular de arma de fogo de uso permitido, prevista pelo art.
+12 do Estatuto do Desarmamento (Lei nº 10.826/2003). O art. 30 do mesmo diploma legal,
+com  a  nova  redação  que  lhe  foi  dada  pela  Lei  nº  11.706,  de  16  de  junho  de  2008,
+determinou que os possuidores e proprietários de arma de fogo de uso permitido ainda
+não registrada deverão solicitar seu registro até o dia 31 de dezembro de 2008, mediante
+apresentação de documento de identificação pessoal e comprovante de residência fixa,
+acompanhados de nota fiscal de compra ou comprovação da origem lícita da posse, pelos
+meios  de  prova  admitidos  em  direito,  ou  declaração  firmada  na  qual  constem  as
+características  da  arma  e  a  sua  condição  de  proprietário,  ficando  este  dispensado  do
+pagamento de taxas e do cumprimento das demais exigências constantes dos incs. I a III
+do caput do art. 4º desta Lei.
+A Lei nº 11.922, de 13 de abril de 2009, em seu art. 20, prorrogou para 31 de dezembro de
+2009 os prazos de que tratam o § 3º do art. 5º e o art. 30, ambos da Lei nº 10.826, de 22 de
+dezembro de 2003.
+O Superior Tribunal de Justiça, em 11 de junho de 2014, editou a Súmula nº 513, com
+seguinte  enunciado: Súmula  nº  513:  A abolitio  criminis temporária  prevista  na  Lei  nº
+10.826/2003 aplica-se ao crime de posse de arma de fogo de uso permitido com numeração,
+marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado, praticado
+32
+
+somente até 23/10/2005.
+A jurisprudência desta Corte Superior pacificou-se no sentido que a abolitio criminis temporária prevista na
+Lei nº 10.826/2003, com suas respectivas prorrogações, é aplicável apenas ao delito de posse ilegal de arma
+ou  munição,  seja  de  uso  permitido  ou  restrito,  não  incidindo  no  crime  de  porte  (precedentes)  (STJ,  HC
+339.378/RS, Rel. Min. Felix Fischer, 5ª T., DJe 1º/08/2016).
+Inicialmente, foi prevista abolitio criminis temporária no tocante aos delitos dos arts. 12 e 16 da Lei nº
+10.826/2003, uma vez que tais normas incriminadoras permaneceram desprovidas de eficácia até transcurso do
+prazo de 180 (cento e oitenta dias), contado da data de publicação do referido diploma legal. Ocorre que o
+aludido interstício teve seu termo final prorrogado até 23/10/2005 pela Lei nº 1.191/2005, em relação aos
+crimes de posse irregular de arma de fogo ou munição de uso permitido e restrito, sem qualquer distinção.
+Conforme a dicção do art. 1º da Lei nº 11.706/2008, que conferiu nova redação aos arts. 30 e 32 da Lei nº
+10.826/2003,  o  prazo  final  restou  estendido  até  31/11/2008,  tão  somente  em  relação  aos  possuidores  e
+proprietários de arma de fogo de uso permitido. Na sequência, com o advento da Lei nº 11.922/2009, houve
+nova prorrogação de tal prazo para o dia 31/12/2009 (STJ, HC 290.765/SP, Rel. Min. Ribeiro Dantas, 5ª T.,
+DJe 21/06/2016).
+Abolitio criminis e princípio da continuidade normativo-típica
+Pode ocorrer q
+[/PAGINA 25]
+
+[PAGINA 26]
+ue determinado tipo penal incriminador seja expressamente revogado, mas
+seus elementos venham a migrar para outro tipo penal já existente, ou mesmo criado por uma
+nova lei. Nesses casos, embora aparentemente tenha havido a abolição da figura típica, temos
+aquilo que se denomina de continuidade normativo-típica.
+Não  ocorrerá,  portanto,  a abolitio  criminis,  mas  sim  a  permanência  da  conduta
+anteriormente incriminada, só que constante de outro tipo penal. A título de exemplo, podemos
+citar  o  que  ocorreu  com  o  revogado  art.  12  da  Lei  nº  6.368/76,  cujos  elementos  foram
+abrangidos  pela  atual  figura  típica  constante  do  art.  33  da  Lei  nº  11.343/2006.  Também
+podemos raciocinar com o revogado delito de atentado violento ao pudor, onde seus elementos
+migraram para a nova figura típica constante do art. 213 do Código Penal, com a redação que
+lhe foi conferida pela Lei nº 12.015, de 7 de agosto de 2009.
+No  mesmo  sentido,  reconhecendo  o  princípio  da  continuidade  normativo-típica,  já
+decidiram  o  stj  e  o  stf: A  simples  possibilidade  de  enquadramento  dos  fatos  em  um  tipo
+superveniente mais grave não enseja a sua atipicidade sob o argumento de que teria ocorrido
+abolitio criminis,  pois,  à  época  em  que  ocorreram,  caracterizavam  o  delito  do  art.  288,
+parágrafo único, do Código Penal, que continua em vigor mesmo após o advento da Lei nº
+12.850/2013,  estando-se  diante  de  hipótese  de  continuidade  normativo-típica  (STJ,  HC
+333.694/SP, Rel. Min. Jorge Mussi, 5ª T., DJe 16/03/2016).
+A ação de conduzir veículo automotor, na via pública, estando [o motorista] com concentração de álcool por
+litro de sangue igual ou superior a 6 (seis) decigramas (art. 306 da Lei nº 9.503/97, na redação dada pela Lei nº
+11.705/2008) não foi descriminalizada pela alteração promovida pela Lei nº 12.760/2012. A nova redação do
+tipo legal, ao se referir à condução de veículo automotor por pessoa com capacidade psicomotora alterada em
+razão  da  influência  de  álcool,  manteve  a  criminalização  da  conduta  daquele  que  pratica  o  fato  com
+33
+
+concentração igual ou superior a 6 decigramas de álcool por litro de sangue, nos termos do § 1º, I, do art. 306
+da  Lei  nº  9.503/97.  Precedentes.  O  crime  de  que  ora  se  trata  é  de  perigo  abstrato,  o  que  dispensa  a
+demonstração de potencialidade lesiva da conduta, razão pela qual se amolda ao tipo a condução de veículo
+automotor por pessoa em estado de embriaguez, aferida na forma indicada pelo referido art. 306, § 1º, I, da Lei
+nº  9.503/97.  Trata-se  da  aplicação  do  princípio  da  continuidade  normativo-típica,  o  que  afasta  a abolitio
+criminis reconhecida no acórdão recorrido (STJ, REsp 1.492.642 RS, Rel. Min. Sebastião Reis Junior, 6ª T.,
+DJe 1506/2015).
+A alteração legislativa conferida pela Lei nº 12.015/2009 não descriminalizou a conduta então descrita no
+art.  214  do  Código  Penal,  mas  apenas  deslocou  a  tipificação  para  o  art.  213
+[/PAGINA 26]
+
+[PAGINA 27]
+do  mesmo  diploma  legal,
+formando um tipo penal misto, com condutas alternativas (estupro e atentado violento ao pudor). Assim, em
+razão do princípio da continuidade normativa, não há falar em abolitio criminis do delito de atentado violento
+ao  pudor.  Precedentes  (STJ,  AgRg  no HC 299.865/SP,  Rel.  Min.  Walter  de  Almeida  Guilherme,
+Desembargador convocado do TJ-SP, 5ª T., DJe 02/02/2015).
+Diante do princípio da continuidade normativa, descabe falar em abolitio criminis do delito de estupro com
+presunção de violência, anteriormente previsto no art. 213, c.c. o art. 224, ambos do Código Penal. Com
+efeito, o advento da Lei nº 12.015/2009 apenas condensou a tipificação das condutas de estupro e atentado
+violento ao pudor no art. 213 do Estatuto repressivo. Outrossim, a anterior combinação com o art. 224 agora
+denomina-se ‘estupro de vulnerável’, capitulada no art. 217-A do Código Penal. (STJ, HC 253963/RS, Relª
+Minª Laurita Vaz, 5ª T., DJe 26/3/2014).
+A  jurisprudência  desta  corte  firmou-se  no  sentido  de  que  ‘[...]  art.  3º  da  Lei  nº  9.983/2000  apenas
+transmudou a base legal da imputação do crime da alínea d do art. 95 da Lei nº 8.212/1991 para o art. 168-A do
+Código Penal, sem alterar o elemento subjetivo do tipo, que é o dolo genérico’. É dizer: houve continuidade
+normativo-típica (STF, 88144/SP, 2ª T., Rel. Min. Eros Grau, j. 4/4/2006).
+Sucessão de leis no tempo
+Ocorre quando várias leis se sucedem regulando a mesma matéria.
+Lei intermediária
+É aquela que, levando-se em consideração a sucessão de leis no tempo, se encontra entre a
+lei que estava em vigor na data do fato e aquela que se encontrava vigente na data da sentença.
+Sucessão de complementos da norma penal em branco
+Pode ocorrer que a sucessão não seja, especificamente, da norma penal em branco em si,
+mas sim do complemento que a faz ser compreendida, para que possa ser aplicada ao caso
+concreto.
+Como  dissemos  anteriormente,  a  norma  penal  em  branco  pode  ser  subdividida  em: a)
+homogênea,  em  sentido  amplo  ou  homóloga,  isto  é,  aquela  cujo  complemento  provem  da
+mesma fonte legislativa; ou b) heterogênea, em sentido estrito ou heteróloga, cujo complemento
+é oriundo de fonte legislativa diversa.
+Assim,  se  houver  sucessão  de  complemento  da  norma  penal  em  branco,  favorável  ao
+agente, poderá ser levado a efeito o raciocínio correspondente à retroatividade benéfica? A
+34
+
+doutrina se divide com relação a essa possibilidade.
+Rogério  Sanches  Cunha,  com  perfeição,  resume  as  diversas  posições  doutrinárias,
+apontando quatro correntes, a saber: “1ª corrente: Paulo José da Costa Júnior ensina que a
+alteração do complemento da norma penal em branco deve sempre retroagir, desde que mais
+benéfica ao acusado,  tendo  em  vista  o  mandamento  constitucional  (a  lei  posterior,  que  de
+qualquer modo favorecer o agente, aplica-se aos fatos anteriores) e o direito de liberdade do
+cidadão.
+2ª corrente: em sentido contrário, Frederico Marques
+[/PAGINA 27]
+
+[PAGINA 28]
+entende que a alteração da norma
+complementadora, mesmo que benéfica, terá efeitos irretroativos, por não admitir a revogação
+das normas em consequência da revogação de seus complementos.
+3ª corrente: Mirabete, por sua vez, ensina que só tem importância a variação da norma
+complementar na aplicação retroativa da lei penal em branco quando esta provoca uma real
+modificação da figura abstrata do direito penal, e não quando importe a mera modificação de
+circunstância que, na realidade, deixa subsistente a norma penal.
+4ª corrente: por fim, Alberto Silva Franco (seguido pelo STF) leciona que a alteração de
+um complemento de uma norma penal em branco homogênea sempre teria efeitos retroativos,
+vez que, a norma complementar, como lei ordinária que é, também foi submetida a rigoroso e
+demorado processo legislativo. A situação, contudo, se inverte quando se tratar de norma penal
+em  branco  heterogênea.  Neste  caso,  a  situação  se  modifica  para  comportar  duas  soluções.
+Quando a legislação complementar não se reveste de excepcionalidade e nem traz consigo a
+sua autorrevogação,  como  é  o  caso  das  portarias  sanitárias  estabelecedoras  das  moléstias
+cuja notificação é compulsória, a legislação complementar, então, pela sua característica, se
+revogada ou modificada, poderá conduzir também à descriminalização.”
+15
+Combinação de leis
+Fala-se em combinação de leis quando, a fim de atender aos princípios da ultra-atividade e
+da  retroatividade in  mellius,  ao  julgador  é  conferida  a  possibilidade  de  extrair  de  dois
+diplomas os dispositivos que atendam aos interesses do agente, desprezando aqueles outros
+que o prejudiquem. Discute-se se é possível esse tipo de raciocínio, uma vez que, segundo
+parte da doutrina
+16
+ e de nossos tribunais, o julgador estaria criando um terceiro gênero de lei,
+o que lhe seria vedado. Pela possibilidade da aplicação das partes que forem favoráveis ao
+agente, assim já se manifestou Assis Toledo: “Em matéria de direito transitório, não se pode
+estabelecer dogmas rígidos como esse da proibição da combinação de leis”.
+17
+ Entendemos que
+a combinação de leis levada a efeito pelo julgador, ao contrário de criar um terceiro gênero,
+atende aos princípios constitucionais da ultra-atividade e da retroatividade benéficas. Se a lei
+anterior, já revogada, possui pontos que, de qualquer modo, beneficiam o agente, deverá ser
+ultra-ativa; se na lei posterior que revogou o diploma anterior também existem aspectos que o
+35
+
+beneficiam, por respeito aos imperativos constitucionais, devem ser aplicados. Veja-se, por
+exemplo, o que ocorre com a hipótese de sucessão entre as Leis nºs 6.368/76 e 11.343/2006.
+No revogado art. 12 da Lei nº 6.368/76, a pena mínima era de 3 (três) anos de reclusão, sendo
+que  a  lei  nova,  prevendo  a  mesma  hipótese  (art.  33),  aumentou-a  para  5  (cinco)  anos.  No
+entanto, o § 4º do art. 33 da Lei nº 11.343/2006 previu uma causa especial de redução de pena
+que não existia quando estava em vigor o
+[/PAGINA 28]
+
+[PAGINA 29]
+diploma anterior. Nesse caso, aquele que praticou o
+tráfico ilícito de drogas sob a vigência da lei anterior (6.368/76) poderá, se for o caso, ser
+condenado a uma pena mínima de 3 (três) anos, além de, se for primário, de bons antecedentes,
+e não se dedicar às atividades criminosas, nem integrar organização criminosa, se beneficiar
+da redução de um sexto a dois terços, prevista pela lei posterior. Nesse caso, como se percebe,
+os dois diplomas seriam aplicados ao caso concreto, em obediência à determinação constante
+do art. 5º, inc. XL, da Constituição Federal.
+Infelizmente, nossos Tribunais Superiores consolidaram seus entendimentos no sentido de
+não  permitir  a  combinação  de  leis  utilizando-se  parcialmente  de  cada  uma  delas,  dizendo:
+Consoante o enunciado nº 501 da Súmula desta Corte, é cabível a aplicação retroativa da Lei
+nº 11.343, desde que o resultado da incidência das suas disposições, na íntegra, seja mais
+favorável ao réu do que o advindo da aplicação da Lei nº 6.368, sendo vedada a combinação
+de leis (STJ, HC 315.085/MS, Rel. Min. Reynaldo Soares da Fonseca, 5ª T., DJe 28/03/2016).
+A  partir  do  julgamento  do  EREsp  nº  1.094.499/MG,  a  Terceira  Seção  desta  Corte  Superior  firmou
+compreensão no sentido de ser inadmissível a combinação de leis, de modo a evitar a criação de uma terceira
+norma não prevista no ordenamento jurídico, inviabilizando, portanto, a aplicação da causa de diminuição de
+pena prevista no art. 33, § 4º, da Lei nº 11.343/2006, ao preceito do art. 12 da Lei nº 6.368/76 (antiga Lei de
+Drogas). Ratificando o posicionamento em epígrafe, foi recentemente aprovado, por esta Corte Superior, o
+verbete sumular nº 501/STJ (STJ, AgRg no REsp 1.215.088/PR, Rel. Min. Marco Aurélio Bellizze, 5ª T., DJe
+28/08/2015).
+O  Plenário  da  Suprema  Corte,  no  julgamento  do  RE  nº  600.817/MS,  Relator  o  Ministro  Ricardo
+Lewandowski, concluiu pela impossibilidade da aplicação retroativa do § 4º do art. 33 da Lei nº 11.343/2006
+sobre a pena cominada com base na Lei nº 6.368/76, ou seja, pela não possibilidade de combinação de leis
+(STF, ARE 703.988 AgR-ED/SP, Rel. Min. Dias Toffoli, 1ª T., DJe 04/06/2014).
+O Pleno do Supremo Tribunal Federal pôs uma pá de cal sobre o tema ao pacificar o entendimento de que
+não é possível a combinação de leis, ressalvada a aplicação integral da lei mais favorável (RE-RG 600.817,
+julg. 07/11/2013) (STF, HC 110516 AgR-ED/SP, Rel. Min. Luiz Fux, 1ª T., DJe 18/12/2013).
+Consolidando essa posição, foi editada, pelo STJ, a Súmula nº 501, publicada no DJe de
+28 de outubro de 2013, que diz: Súmula nº 501. É cabível a aplicação retroativa da Lei
+11.343/06, desde que o resultado da incidência das suas disposições, na íntegra, seja mais
+favorável  ao  réu  do  que  o  advindo  da  aplicação  da  Lei  6.368/76,  sendo  vedada  a
+combinação de leis.
+36
+
+Competência para a aplicação da lex mitior Uma vez transitada em julgado a sentença
+penal condenatória, como regra, a competência para aplicação
+[/PAGINA 29]
+
+[PAGINA 30]
+da lex mitior é transferida
+para o juízo das execuções, conforme determina o art. 66, I, da Lei de Execução Penal. O
+STF, anteriormente à vigência da Lei nº 7.210/84, por intermédio da Súmula nº 611, já
+havia  entendido  que, Súmula  nº  611.  Transitado  em  julgado  a  sentença  condenatória,
+compete ao juízo das execuções a aplicação da lei mais benigna.
+No entanto, toda vez que, para efeitos de aplicação da lei nova mais benéfica, o julgador
+tiver que rever o mérito, reavaliando as provas, a competência será a do Tribunal ao qual
+corresponderia o julgamento do recurso respectivo.
+Irretroatividade da lex gravior e medidas de segurança
+Embora exista controvérsia sobre o tema, uma vez que parte da doutrina entende que a
+irretroatividade da suposta lex gravior é absoluta, somos partidários da corrente que assevera
+que,  tratando-se  de  modificações  relativas  a  aplicação  ou  ao  cumprimento  de  medida  de
+segurança, em virtude de sua natureza eminentemente curativa, tais modificações nunca são
+levadas  a  efeito  em  prejuízo  do  agente,  mas,  sim,  em  seu  benefício,  razão  pela  qual  não
+poderíamos falar em novatio legis in pejus ou em lex gravior, podendo ser aplicadas aos fatos
+praticados anteriormente à sua vigência. Nesse sentido, são as lições de Assis Toledo, quando
+diz: “Em relação às medidas de caráter puramente assistencial ou curativo, estabelecidas em
+lei para os inimputáveis, parece-
+-nos  evidentemente  correta  a  afirmação  de  sua  aplicabilidade  imediata,  quando  presente  o
+estado  de  perigosidade,  ainda  que  possam  apresentar-se  mais  gravosas,  pois  os  remédios
+reputados  mais  eficientes  não  podem  deixar  de  ser  ministrados  aos  pacientes  deles
+carecedores só pelo fato de serem mais amargos ou mais dolorosos. Aqui, sim, se poderia
+falar em diferença substancial entre a pena e a medida, para admitir-se a exclusão da última
+das restrições impostas à primeira pelo art. 5º, XXXIX e XL, da Constituição.”
+18
+Aplicação da lex mitior durante o período de vacatio legis Pode acontecer que a lei nova
+contenha dispositivos benéficos, sendo considerada, assim, uma novatio legis in mellius.
+Nesse caso, para que possa vir a ser aplicada, é preciso que aguardemos o início de sua
+vigência, ou basta a sua só publicação? Embora tal posicionamento não seja unânime, a
+maior  parte  de  nossos  doutrinadores,  a  exemplo  do  Ministro  Vicente  Cernicchiaro,
+19
+entende ser possível a aplicação da lex mitior mesmo durante o período de vacatio legis,
+muito embora tenham existido em nossa história leis penais que permaneceram em vacatio
+legis durante longo período e vieram a ser revogadas sem sequer terem entrado em vigor,
+como foi o caso do Código Penal de 1969.
+Vacatio legis indireta
+37
+
+Tem-se entendido como vacatio legis indireta a hipótese em que a lei, além do seu normal
+período de vacatio legis,  em  seu  próprio  corpo,  prevê  outro  prazo  para  que  determinados
+dispositivos possam ter aplicação, a exemplo do qu
+[/PAGINA 30]
+
+[PAGINA 31]
+e ocorreu com o art. 30 da Lei nº 10.826,
+de 22 de dezembro de 2003 (Estatuto do Desarmamento), com a nova redação que lhe foi dada
+pela Lei nº 11.706, de 19 de junho de 2008, verbis: Art. 30. Os possuidores e proprietários de
+arma de fogo de uso permitido ainda não registrada deverão solicitar seu registro até o dia
+31 de dezembro de 2008, mediante apresentação de documento de identificação pessoal e
+comprovante de residência fixa, acompanhados de nota fiscal de compra ou comprovação da
+origem lícita da posse, pelos meios de prova admitidos em direito, ou declaração firmada na
+qual constem as características da arma e a sua condição de proprietário, ficando este
+dispensado do pagamento de taxas e do cumprimento das demais exigências constantes dos
+incs. I a III do caput do art. 4º desta Lei.
+Posteriormente, a Lei nº 11.922, de 13 de abril de 2009, em seu art. 20, prorrogou para 31
+de dezembro de 2009 os prazos de que tratam o § 3º do art. 5º e o art. 30, ambos da Lei nº
+10.826, de 22 de dezembro de 2003.
+Retroatividade da jurisprudência
+Pode  a  posição  de  nossos  tribunais,  principalmente  os  superiores,  modificar-se  com  o
+passar  dos  anos.  Essa  modificação  pode  ocorrer  tanto  em  prejuízo  como  em  benefício  do
+agente que praticou determinada infração penal. Se houver modificação para pior, a situação
+anteriormente  definida  com  base  na  posição  mais  benéfica,  agora  modificada,  deverá  ser
+mantida.  Por  outro  lado,  se  houver  modificação  benéfica,  isto  é,  quando  o  Tribunal  se
+posicionava de determinada forma e, agora, afastando-se do pensamento anterior, o modifica
+em benefício do agente, tal pensamento deverá retroagir, aplicando-se aos casos anteriormente
+julgados.  Nesse  sentido,  Nilo  Batista,  Zaffaroni,  Alagia  e  Slokar  prelecionam:  “Quando  a
+jurisprudência  massivamente  muda  de  critério  e  considera  atípica  uma  ação  que  até  esse
+momento qualificara como típica (ou quando julga simples o delito que até então considerara
+qualificado, ou justificado o que considerara antijurídico, etc.) provoca um escândalo político,
+pois duas pessoas que realizaram idênticas ações reguladas pela mesma lei terão sido julgadas
+de modo que uma resultou condenada e a outra absolvida, só porque uma delas foi julgada
+antes. Elementares razões de equidade, assim como o art. 5º da Constituição, impõem que se
+tome  aquela  primeira  condenação  como  uma  sentença  contraposta  ao  texto  expresso  da  lei
+penal reinterpretada, viabilizando sua revisão (art. 621, inc. I, do CPP).”
+20
+Tomemos como exemplo, para fins de concreção de raciocínio, o que aconteceu com a
+nova interpretação dada pelo Superior Tribunal de Justiça, ao afastar a aplicação da Súmula nº
+174, que entendia que a arma de brinquedo poderia ser considerada causa especial de aumento
+de  pena  do  delito  de  roubo.  Percebendo  o  equívoco  dessa  interpretação,  completamente
+38
+
+ofensiva ao princípio da legalidade, aquela Corte mudou o seu posicio
+[/PAGINA 31]
+
+[PAGINA 32]
+namento. E, agora, o que
+fazer com todas as condenações em que foi aplicada a majorante do emprego de arma, quando
+o agente havia se valido tão somente de um brinquedo? Nos termos da nova interpretação,
+deverá  o  agente  ingressar  com  a  necessária  revisão  criminal  a  fim  de  ver  afastada  a
+mencionada causa especial de aumento de pena.
+O mesmo raciocínio se aplica à Súmula Vinculante nº 26, que determinou que para efeito
+de progressão de regime no cumprimento de pena por crime hediondo ou equiparado, o juízo
+da execução observará a inconstitucionalidade do art. 2º da Lei nº 8.072/90, sem prejuízo de
+avaliar se o condenado preenche, ou não, os requisitos objetivos e subjetivos do benefício.
+O tema, não entanto, não é pacífico, principalmente no que diz respeito à abrangência do
+raciocínio da retroatividade, ou seja, se, por exemplo, a mudança de uma posição pacificada,
+assumida por um Tribunal Superior, se modificada em benefício do agente, poderá alcançar os
+fatos anteriores, mesmo que não se cuide de Súmula com efeitos vinculantes.
+Limitando  a  possibilidade  de  aplicação  da  nova  posição  jurisprudencial  benéfica  ao
+agente, André Estefam assevera que deve “ter-se em mente, em primeiro lugar, que nosso país
+não adota o sistema do precedente judicial, de modo que as decisões proferidas por tribunais
+não tem caráter vinculante. Há, contudo, exceções (súmula vinculante e controle concentrado
+de constitucionalidade pelo STF) e, somente nesses casos, é que terá relevância verificar se,
+caso surja novo entendimento mais brando por parte da jurisprudência, este deve alcançar fatos
+já protegidos com o manto da coisa julgada”.
+21
+Com  todo  respeito  que  merece  a  posição  do  renomado  autor,  não  podemos  limitar  a
+possibilidade  de  aplicação  retroativa  da  jurisprudência  tão  somente  aos  casos  por  ele
+mencionados, ou seja, súmula vinculante e controle concentrado de constitucionalidade. Isso
+porque, imagine-se a hipótese, já aludida por nós, de modificação do entendimento do STJ, no
+que diz respeito ao conceito de arma, para efeitos de aplicação da majorante ao roubo. O STJ,
+como sabemos, não edita súmulas com efeitos vinculantes. No entanto, seria razoável que a
+causa de aumento de pena fosse mantida, mesmo numa decisão já transitada em julgado, se o
+juiz  do  processo  de  conhecimento  a  fundamentou  com  base  no  entendimento  sumular?
+Obviamente que não.
+No entanto, entendemos a preocupação e o raciocínio do ilustre doutrinador. Pode ocorrer
+– e não é incomum – que um juiz monocrático, por exemplo, sem fundamentar sua decisão
+condenatória em posições de Tribunais (Superiores ou não), conclua que a arma de brinquedo,
+utilizada  pelo  condenado  no  crime  de  roubo,  é  suficiente  para  que  se  reconheça  a  causa
+especial de aumento de pena, prevista no inc. I do § 1º do art. 157 do Código Penal. Nesse
+caso, ao contrário da situação anterior, não seria razoável que a modificação de pensamento do
+Tribunal  viesse  in
+[/PAGINA 32]
+
+[PAGINA 33]
+terferir  na  decisão  condenatória,  já  que  a  sentença  não  se  baseou  em
+39
+
+posições jurisprudenciais, mas sim na interpretação levada a efeito tão somente pelo julgador
+monocrático. Aqui, portanto, prevalecerá o posicionamento de que as posições pacificadas dos
+Tribunais não têm caráter vinculante.
+Afora  as  hipóteses  que  não  mais  se  discutem,  ou  seja,  a  edição  ou  a  modificação  de
+Súmula com efeitos vinculantes ou o controle concentrado de constitucionalidade pelo STF, o
+que não pode ocorrer, insistimos, é manter um julgado que se fundamentou numa posição de
+determinado Tribunal, que agora a modificou no sentido de beneficiar o agente.
+Conflito de leis penais no tempo
+Quando as normas incriminadoras tutelam bens jurídicos diversos, inocorre o denominado conflito de leis
+penais no tempo (STJ, REsp. 815079/SP, Rel. Min. Félix Fischer, 5ª T., 14/5/2007, p. 382).
+Lei excepcional ou temporária (Incluído pela Lei nº 7.209, de 11/7/1984.)
+Art. 3º A lei excepcional ou temporária, embora decorrido o período de sua
+duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato
+praticado durante sua vigência.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Lei temporária
+É aquela que já traz expresso em seu texto o seu prazo de validade, ou seja, a data do
+início,  bem  como  a  do  término  de  sua  vigência,  razão  pela  qual  é  considerada  uma lei
+autorrevogável, a exemplo do que ocorreu com a Lei nº 12.663, de 5 de junho de 2012, que
+dispôs sobre as medidas relativas à Copa das Confederações, FIFA 2013, à Copa do Mundo
+FIFA 2014 e aos eventos relacionados que foram realizados no Brasil. Conforme se verifica
+pelo art. 36 do referido diploma legal, os tipos previstos no Capítulo VIII, correspondente às
+disposições penais, teriam vigência até o dia 31 de dezembro de 2014.
+Da mesma forma, a Lei nº 13.284, de 10 de maio de 2016, dispondo sobre as medidas
+relativas aos Jogos Olímpicos e Paraolímpicos de 2016 e aos eventos relacionados, realizados
+no  Brasil,  criou  uma  série  de  tipos  penais,  a  exemplo  da  utilização  indevida  de  símbolos
+oficiais (art. 17), marketing de emboscada por associação (art. 19), dentre outros, que tiveram
+sua  vigência  limitada  ao  dia  31  de  dezembro  de  2016,  conforme  o  disposto  no  art.  23  do
+diploma legal apontado.
+A ação penal não deve ser trancada, seja porque não houve abolitio criminis em relação à sonegação de
+tributos, seja porque se interprete o art. 4º da EC/93 como dispositivo legal excepcional ou temporário. Dessa
+forma, havendo a descrição de conduta típica, indícios de autoria e materialidade do delito, como in casu, a
+ação merece continuidade (STJ, RHC 8433/MG, Rel. Min. José Arnaldo da Fonseca, DJ 31/5/1999, p. 158).
+Em princípio, o art. 3º do Código Penal se aplica à norma penal em branco, na hipótese de o ato normativo
+que  a  integra  ser  revogado  ou  substituído  por  outro  mais  benéfico  ao  infrator,  não  se  dando,  portanto,  a
+40
+
+retroativid
+[/PAGINA 33]
+
+[PAGINA 34]
+ade. Essa aplicação só não se faz quando a norma, que complementa o preceito penal em branco,
+importa real modificação da figura abstrata nele prevista ou se assenta em motivo permanente, insusceptível de
+modificar-se  por  circunstâncias  temporárias  ou  excepcionais,  como  sucede  quando  do  elenco  de  doenças
+contagiosas se retira uma por se haver demonstrado que ela não tem tal característica (STF, HC 73168/SP, Rel.
+Min. Moreira Alves, 1ª T., DJ 15/3/1996, p. 7.204).
+Lei excepcional
+É  aquela  editada  em  virtude  de  situações  excepcionais,  cuja  vigência  é  limitada  pela
+própria duração da aludida situação que levou à edição do diploma legal, a exemplo daquelas
+que buscam regular fatos ocorridos durante o estado de guerra ou mesmo calamidade pública.
+A lei excepcional temporária, como a que fixa a tabela de preços, aplica-se aos fatos praticados durante a sua
+vigência, ainda que ultrapassado seu prazo de duração, não dando ensejo à invocação de lei mais benigna a
+posterior revogação da tabela, uma vez que a conduta punível é a cobrança de preço abusivo (TAMG, Ap. 11209,
+Rel. José Loyola, RT 592, p. 383).
+Sucessão de leis temporárias ou excepcionais
+Encerrado  o  período  de  sua  vigência,  ou  cessadas  as  circunstâncias  anormais  que  a
+determinaram,  tem-se  por  revogadas  as  leis  temporária  e  excepcional.  Mesmo  aceitando  o
+raciocínio de Alberto Silva Franco, que diz que “a ultra-atividade dessas leis visa a frustrar o
+emprego de expedientes tendentes a impedir a imposição de suas sanções a fatos praticados
+nas  proximidades  de  seu  termo  final  de  vigência  ou  da  cessação  das  circunstâncias
+excepcionais que a justificaram”,
+22
+ não poderíamos suscitar a colisão dessas espécies de leis
+com o princípio da retroatividade da lex mitior, insculpido no art. 5º, XL, da Constituição da
+República? Frederico Marques, em defesa da extra-atividade, aduz: “A ultra-atividade da lei
+temporária  ou  excepcional  não  atinge  os  princípios  constitucionais  de  nosso  Direito  Penal
+intertemporal porque a lex mitior que for promulgada ulteriormente para um crime que a lei
+temporária  pune  mais  severamente  não  retroagirá  porque  as  situações  tipificadas  são
+diferentes. [...] Nas leis temporárias e excepcionais, antes que sua eficácia no tempo como lei
+penal,  o  que  temos  de  apreciar,  como  preponderante,  é  a  contribuição  do tempus  como
+elemento de punibilidade na estrutura da norma. A eficácia temporal vem ínsita no preceito e
+decorrido o prazo de vigência desaparece o império da lei. Mas por ter sido elaborada em
+função  de  acontecimentos  anormais,  ou  em  razão  de  uma  eficácia  previamente  limitada  no
+tempo, não se pode esquecer de que a própria tipicidade dos fatos cometidos sob seu império
+inclui o fator temporal como pressuposto da ilicitude punível ou da agravação da sanção.”
+23
+Em sentido contrário, merece destaque a lúcida posição assumida por Nilo Batista, Zaffaroni,
+Alagia e Slokar, quando a
+[/PAGINA 34]
+
+[PAGINA 35]
+firmam: “A fórmula imperativa e incondicional mediante a qual a
+Constituição consagrou o princípio (art. 5º, inc. XL, CR) questiona duramente a exceção aberta
+pela lei (art. 3º), e a doutrina brasileira começou, após 1988 – houve quem o fizesse ainda na
+regência da Constituição de 1946 – a caminhar na direção de compreender que também as leis
+41
+
+penais  temporárias  e  excepcionais  não  dispõem  de  ultratividade  em  desfavor  do  réu.
+Corresponderá ao legislador, perante situações calamitosas que requeiram drástica tutela penal
+de  bens  jurídicos,  prover  para  que  os  procedimentos  constitucionalmente  devidos  possam
+exaurir-se durante a vigência da lei; o que ele não pode fazer é abrir uma exceção em matéria
+que o constituinte erigiu como garantia individual. Cabe, pois, entender que o art. 3º do Código
+Penal não foi recebido pela Constituição da República”.
+24
+Entendemos  que  a  razão  se  encontra  com  a  última  posição,  uma  vez  que,  não  tendo  a
+Constituição  Federal  ressalvado  a  possibilidade  de  ultra-atividade in  pejus  das  leis
+temporárias  e  excepcionais,  não  será  possível  tal  interpretação,  devendo  prevalecer  o
+entendimento no sentido de que o art. 3º do Código Penal, em tema de sucessão de leis no
+tempo,  não  foi  recepcionado  pela  atual  Carta  Constitucional,  para  fins  de  aplicação  da  lei
+anterior  em  prejuízo  do  agente.  Assim,  portanto,  havendo  sucessão  de  leis  temporárias  ou
+excepcionais, prevalecerá a regra constitucional da extra-atividade in mellius, ou seja, sempre
+que  a  lei  anterior  for  benéfica,  deverá  gozar  dos  efeitos  da  ultra-atividade;  ao  contrário,
+sempre  que  a  posterior  beneficiar  o  agente,  deverá  retroagir,  não  se  podendo,  outrossim,
+excepcionar a regra constitucional.
+Inaplicável à hipótese o constante no art. 3º do Código Penal, se a norma integrativa veio simplesmente
+alterar os limites de dispensa e inexigibilidade de licitação, previstos na Lei nº 8.666/93, como complemento
+desta, e sem alterar o tipo penal ali descrito, uma vez que o fato continua sendo punível, exatamente como era
+ao tempo de sua prática. Precedentes (STJ, REsp. 474989/RS, Rel. Min. Gilson Dipp, 5ª T., DJ 25/8/2003 p.
+358).
+Tempo do crime Art. 4º Considera-se praticado o crime no momento da
+ação ou omissão, ainda que outro seja o momento do resultado.
+(Redação dada pela Lei nº 7.209, de 11/7/ 1984.) Teorias
+O primeiro marco ao confronto das leis que se sucederam no tempo deverá ser identificado
+com clareza. É necessário, pois, apontar com precisão o chamado tempo do crime, com base
+no qual nosso raciocínio se desdobrará.
+Várias  teorias  disputam  o  tratamento  do  tema  relativo  ao  tempo  do  crime,  podendo-se
+destacar as seguintes: a) teoria  da  atividade; b) teoria  do  resultado; c) teoria  mista  ou  da
+ubiquidade.
+Pela teoria da atividade, tempo do crime será o da ação ou da omissão, ainda que outro
+seja  o  momento  do  resultado.  Para  essa  teoria,  o  q
+[/PAGINA 35]
+
+[PAGINA 36]
+ue  importa  é  o  momento  da  conduta,
+comissiva ou omissiva, mesmo que o resultado dela se distancie no tempo.
+42
+
+Já  a teoria  do  resultado  determina  que  tempo  do  crime  será,  como  sua  própria
+denominação  nos  está  a  induzir,  o  da  ocorrência  do  resultado.  Aqui,  sobreleva-se  a
+importância do momento do resultado da infração penal.
+A teoria mista ou da ubiquidade concede igual relevo aos dois momentos apontados pelas
+teorias anteriores, asseverando que tempo do crime será o da ação ou o da omissão, bem como
+o do momento do resultado.
+O Código Penal adotou a teoria da atividade, conforme se verifica pela redação de seu art.
+4º.
+Competência racione loci que é determinada pelo lugar que se consuma a infração, ou no caso de tentativa,
+pelo lugar em que for praticado o último ato de execução e, não sendo conhecido o lugar da infração, deverá
+ser a competência regulada pelo domicílio ou residência do réu. Inteligência dos arts. 70, 72 e 73 do Código
+de Processo Penal (TJ-RJ, CC 0012333-58.2014.8.19.0011, Rel. Des. Paulo Rangel, DJe 02/06/2015).
+Competência criminal. Conflito positivo de jurisdição entre juízes de comarcas diversas. Homicídio doloso.
+Competência para o processamento e julgamento do lugar onde o agente praticou os atos de execução e não o
+do lugar onde a vítima faleceu. Tal entendimento guarda harmonia com a nova regra da Parte Geral do Código
+Penal (Lei nº 7.209/84), segundo a qual ‘considera-se praticado o crime no momento da ação ou omissão,
+ainda que outro seja o momento do resultado (art.4º)’ (TJSP, Rel. Aristides Pedroso de Albuquerque Neto,
+j. 6/3/1999).
+Territorialidade Art.  5º  Aplica-se  a  lei  brasileira,  sem  prejuízo  de
+convenções, tratados e regras de direito internacional, ao crime cometido no
+território nacional.
+(Redação dada pela Lei nº 7.209, de 11/7/ 1984.) § 1º Para os efeitos penais, consideram-se
+como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza
+pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as
+aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem,
+respectivamente, no espaço aéreo correspondente ou em alto-mar.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) § 2º É também aplicável a lei brasileira aos
+crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada,
+achando-se aquelas em pouso no território nacional ou em voo no espaço aéreo
+correspondente, e estas em porto ou mar territorial do Brasil.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Princípio da
+territorialidade
+O art. 5º, caput, do Código Penal determina a aplicação da lei brasileira, sem prejuízo de
+convenções,  tratados  e  regras  de  direito  internacional,  ao  crime  cometido  no  território
+nacional. É a regra da territorialidade. Pela redação do mencionado artigo, percebe-se que no
+43
+
+Brasil não se adotou uma teoria absoluta da territorialidade, mas, sim, uma teoria conhecida
+com
+[/PAGINA 36]
+
+[PAGINA 37]
+o temperada, haja vista que o Estado, mesmo sendo soberano, em determinadas situações,
+pode abrir mão da aplicação de sua legislação, em virtude de convenções, tratados e regras de
+direito internacional referido, tal como previsto do caput do artigo.
+Na intocável lição de Hungria, “o Código criou um temperamento à impenetrabilidade do
+direito  interno  ou  à  exclusividade  da  ordem  jurídica  do  Estado  sobre  o  seu  território,
+permitindo  e  reconhecendo,  em  determinados  casos,  a  validez  da  lei  de  outro  Estado.  É
+obséquio à boa convivência internacional, e quase sempre sob a condição de reciprocidade,
+que o território do Estado se torna penetrável pelo exercício de alheia soberania”.
+25
+Mirabete assevera que, em sentido estrito, o “território abrange o solo (e subsolo) sem
+solução de continuidade e com limites reconhecidos, as águas interiores, o mar territorial, a
+plataforma continental e o espaço aéreo”.
+26
+O  §  1º  do  art.  5º  do  Código  Penal  considerou,  para  efeitos  penais,  como  extensão  do
+território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do
+governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações
+brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço
+aéreo  correspondente  ou  em  alto-mar.  Esta  segunda  parte  do  artigo  significa  que  onde  não
+houver  soberania  de  qualquer  país,  como  é  o  caso  do  alto-mar  e  o  espaço  aéreo  a  ele
+correspondente,  se  houver  uma  infração  penal  a  bordo  de  uma  aeronave  ou  embarcação
+mercante  ou  de  propriedade  privada,  de  bandeira  nacional,  será  aplicada  a  legislação
+brasileira.
+O § 2º do art. 5º do Código Penal determinou, também, a aplicação da lei brasileira aos
+crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada,
+achando-se
+as aeronaves em pouso no território nacional ou em voo no espaço aéreo correspondente e as
+embarcações, em porto ou mar territorial do Brasil. O legislador, como se verifica na redação
+do mencionado parágrafo, referiu-se tão somente às aeronaves e embarcações estrangeiras de
+propriedade privada, haja vista que as de natureza pública ou a serviço do governo estrangeiro
+são também consideradas como extensão do território correspondente à sua bandeira, tal como
+previsto no § 1º do art. 5º do Código Penal, para as aeronaves e embarcações de natureza
+pública ou a serviço do governo brasileiro.
+Alega o impetrante a incompetência da Justiça Federal para processar e julgar o crime, visto que, apesar de o
+roubo dos malotes (com mais de R$ 4 milhões) ter ocorrido a bordo de aeronave, deu-se
+em solo (aeroporto) contra a transportadora, sendo a vítima o banco, que possui capital privado e público;
+nessas circunstâncias, não deslocaria a competência para a Justiça Federal. Para o Ministro Relator, não há
+falar em qualidade da empresa lesada diante do entendimento jurisprudencial e do dispo
+[/PAGINA 37]
+
+[PAGINA 38]
+sto no art. 109, IX, da
+CF/1988, que afirmam a competência dos juízes federais para processar e julgar os delitos cometidos a bordo
+44
+
+de aeronaves, independentemente de elas se encontrarem no solo. Com esse entendimento, a Turma denegou a
+ordem. Precedentes citados do STF: RHC 86.998/SP, DJ 27/4/2007; do STJ: HC 40.913/SP, DJ 15/8/2005; e
+HC 6.083/SP, DJ 18/5/1998 (HC 108.478/SP, Rel. Min. Adilson Vieira Macabu [Desembargador convocado
+do TJ/RJ], 5ª T., j. 22/2/2011, Informativo nº 464).
+Crime  iniciado  em  território  nacional.  Sequestro  ocorrido  em  terra.  Condução  da  vítima  para  território
+estrangeiro  em  aeronave.  Princípio  da  territorialidade.  Lugar  do  crime.  Teoria  da  ubiquidade.  Irrelevância
+quanto ao eventual processamento criminal pela Justiça paraguaia. Competência da Justiça Estadual. Aplica-se
+a lei brasileira ao caso, tendo em vista o princípio da territorialidade e a teoria da ubiquidade consagrados na
+lei  penal.  Consta  da  sentença  condenatória  que  o  início  da  prática  delitiva  ocorreu  nas  dependências  do
+aeroporto  de  Tupã/SP.  Afasta-se  a  competência  da Justiça  Federal,  pela  não  ocorrência  de  quaisquer  das
+hipóteses previstas no art. 109 da Constituição Federal, mormente pela não configuração de crime cometido a
+bordo de aeronave (STJ, HC 41892/SP, Rel. Min. Arnaldo Esteves Lima, 5ª T., DJ 22/8/2005 p. 319).
+Aos  juízes  federais  compete  processar  e  julgar  os  crimes  cometidos  a  bordo  de  navios  ou  aeronaves,
+ressalvada a competência da Justiça Militar (art. 109, IX, da CF). O fato de encontrar-se a aeronave em terra
+não afeta a circunstância de a prática criminosa ter-se verificado no seu interior. É indiferente a qualidade das
+pessoas  lesadas,  constituindo  razão  suficiente  e  autônoma  para  a  fixação  da  competência  federal  a
+implementação da hipótese prevista no inc. IX do art. 109 do Texto Maior (STJ, HC 40913/SP, Rel. Min.
+Arnaldo Esteves Lima, 5ª T., RSTJ 195, p. 459).
+Lugar do crime (Redação dada pela Lei nº 7.209, de 11/7/1984.) Art. 6º
+Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão,
+no todo ou em parte, bem como onde se produziu ou deveria produzir-se o
+resultado.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Teorias
+Três teorias têm como escopo a determinação do lugar do crime, a saber: a) teoria  da
+atividade; b) teoria do resultado; c) teoria mista ou da ubiquidade.
+Pela teoria da atividade, lugar do crime é o da ação ou da omissão, ainda que outro seja o
+da ocorrência do resultado. Já a teoria do resultado despreza o lugar da conduta e defende a
+tese de que lugar do crime será, tão somente, aquele em que ocorrer o resultado. A teoria da
+ubiquidade ou mista adota as duas posições anteriores e aduz que o lugar do crime será o da
+ação ou da omissão, bem como onde se produziu ou deveria produzir-se
+o resultado.
+Nosso Código Penal adotou a teoria da ubiquidade, conforme se verifica pela leitura de
+seu art. 6º.
+Com a adoção da te
+[/PAGINA 38]
+
+[PAGINA 39]
+oria da ubiquidade resolvem-se os problemas já há muito apontados
+pela  doutrina,  como  aqueles  relacionados  aos crimes  a  distância.  Na  situação  clássica,
+suponhamos  que  alguém,  residente  na  Argentina,  enviasse  uma  carta-bomba  tendo  como
+45
+
+destinatário uma vítima que residisse no Brasil. A carta-bomba chega ao seu destino e, ao abri-
+la, a vítima detona o seu mecanismo de funcionamento, fazendo-a explodir, causando-lhe a
+morte.  Se  adotada  no  Brasil  a  teoria  da  atividade  e  na  Argentina  a  teoria  do  resultado,  o
+agente, autor do homicídio, ficaria impune. 
+A adoção da teoria da ubiquidade resolve problemas de Direito Penal Internacional. Ela não se
+destina à definição de competência interna, mas, sim, à determinação da competência da justiça
+brasileira.  Embora  competente  a  justiça  brasileira,  pode  acontecer  que,  em  virtude  de
+convenções, tratados e regras de Direito Internacional, o Brasil deixe de aplicar a sua lei penal
+aos crimes cometidos no território nacional.
+Na  esteira  da  jurisprudência  desta  Corte,  a  competência  territorial  para  a  persecução  penal  relativa  ao
+estelionato mediante clonagem e alteração do numerário de cheque é fixada pelo local onde se encontra o
+banco sacado, porquanto lá se consuma o delito, com o efetivo prejuízo à vítima. Ressalva do relator (STJ, CC
+143.621/PR, Rel. Min. Rogério Schietti Cruz, S. 3, DJe 07/06/2016).
+Nos crimes qualificados pelo resultado, fixa-se
+a competência no lugar onde ocorreu o evento qualificador, ou seja, onde o resultado morte foi atingido,
+assim,  tendo  os  corpos  das  vítimas  do  latrocínio  sido  encontrados  na  Comarca  de  Dourados,  e  havendo
+indícios de que lá foram executadas, a competência se faz pela regra geral disposta nos arts. 69, I e 70, “caput”,
+do CPP. (STJ, RHC 22295/MS, Rel.ª Min.ª Jane Silva, 5ª T., DJ 17/12/2007 p. 229).
+Competência da Justiça Federal
+A competência em tráfico transnacional é da Justiça Federal, com base no art. 109, inc. V, da Constituição
+Federal.  Nos  termos  do  art. 70, caput,  do  Código  de  Processo  Penal,  “a competência  será,  de  regra,
+determinada  pelo  lugar  em  que  se  consumar  a  infração,  ou,  no  caso  de  tentativa,  pelo  lugar  em  que  for
+praticado o último ato de execução” (STJ, CC 146.393/SP, Rel. Min. Felix Fischer, S. 3, DJe 1º/07/2016).
+A apreensão de DVDs e CDs falsificados, com violação de direitos autorais (CP, art. 184, § 2º), se ocorrente
+em Posto de Fiscalização Aduaneira localizada na divisa entre Brasil e Paraguai, confere à conduta delituosa a
+característica de “crime transnacional“, circunstância determinante da competência da Justiça Federal para
+processar e julgar a ação penal a ele correspondente (STJ, S3, CC 119.105/PR, Rel. Min. Walter de Almeida
+Guilherme, Desembargador convocado do TJ-SP, julg. 08/10/2014; AgRg no REsp 1.376.680/PR, Rel.ª Min.ª
+Maria Thereza de Assis Moura, 6ª T, julg. 22/04/2014) (STJ, CC 121.941/PR, Rel. Min. Newton Trisotto
+[/PAGINA 39]
+
+[PAGINA 40]
+,
+Desembargador convocado do TJ-SC, 5ª T., DJe 16/04/2015).
+É entendimento pacificado por esta Corte o de que as contravenções penais são julgadas pela Justiça Comum
+Estadual, mesmo se cometidas em detrimento de bens, serviços ou interesses da União ou de suas entidades.
+Súmula nº 38 desta Corte. Até mesmo no caso de conexão probatória entre contravenção penal e crime de
+competência da Justiça Comum Federal, aquela deverá ser julgada na Justiça Comum Estadual. Nessa hipótese,
+não incide o entendimento de que compete à Justiça Federal processar e julgar, unificadamente, os crimes
+conexos de competência federal e estadual (Súmula nº 122 desta Corte), pois tal determinação, de índole legal,
+não pode se sobrepor ao dispositivo de extração constitucional que veda o julgamento de contravenções por
+Juiz Federal (art. 109, inc. IV, da Constituição da República). Precedentes (STJ, AgRg. no CC 118914/SC, Rel.ª
+Min.ª Laurita Vaz, 3ª Seção, DJe 7/3/2012).
+Competência da Justiça Federal estabelecida no art. 109, V, da Constituição de 1988, para o processo e
+julgamento de crime previsto ‘em tratado ou convenção internacional, quando iniciada a execução no País, o
+46
+
+resultado tenha ou devesse ter ocorrido no estrangeiro’ (STJ, HC 24858/GO, Rel. Min. Paulo Medina, 6ª T.,
+RSTJ 184, p. 508).
+Juizado Especial Criminal
+Nos termos do art. 63 da Lei nº 9.099/95, a competência do Juizado será determinada
+pelo lugar em que foi praticada a infração penal.
+Crimes conexos
+Incontroversa a existência de conexão entre delitos estaduais e delito federal, é de se aplicar a regra prevista
+no Enunciado nº 122 da Súmula desta Corte, que determina a prevalência da competência especial da Justiça
+Federal em detrimento da competência comum e residual da Justiça Estadual, para o julgamento conjunto dos
+delitos. A melhor exegese do Verbete nº 122 da Súmula desta Corte é a que preconiza que, havendo um crime
+federal, com menor pena cominada abstratamente, e um crime estadual, com maior pena, ambos conexos, o
+critério utilizado para a fixação não será o que considera o quantum apenatório (nos termos do art. 78, II, “a”,
+do CPP), mas, sim, a força atrativa exercida pela jurisdição federal. Como decorrência dessa vis atrativa, a
+competência deve ser determinada pelo lugar em que foi cometido o delito de competência da Justiça Federal,
+ainda que ele tenha pena mais branda que os delitos estaduais a ele conexos (STJ, CC 146.160/MT, Rel. Min.
+Reynaldo Soares da Fonseca, S. 3, DJe 14/06/2016).
+Réu absolvido do delito de descaminho (art. 304 do CP) em razão do princípio da insignificância. Atestada a
+procedência estrangeira das mídias de CDs apreendidas, permanece a competência da Justiça Federal para
+julgar o crime do art. 184, § 2º, do CP (conexo), nos termos da Súmula 122 do STJ e do art. 81 do CPP. (TRF-
+1ª Reg., ACR 2006.38.03.001203-9/MG, Relª Desª Fed. Mônica Sifuentes, DJe 7/3/2014).
+Tratando-se  de  crimes  conexos,  prevalece  a  competência  por  prevenção  (art.  78,  II, c,  do
+[/PAGINA 40]
+
+[PAGINA 41]
+Código  de
+Processo Penal), o que não impede se mantenha a separação dos processos, consoante faculta o art. 80 do
+mesmo diploma processual. Precedente do STJ (STJ, HC 103741/SP, Rel. Min. Arnaldo Esteves Lima, DJe
+03/11/2008).
+Havendo crimes conexos, apenados diversamente, a competência para processar e julgar a ação penal é
+definida pelo lugar do crime cuja pena é mais gravosa, prevalecendo o critério qualitativo (art. 78, inc. II, alínea
+a ̧ do CPP) (STJ, HC 26288/SP, Rel. Min. Hamilton Carvalhido,
+6ª T., DJU 11/4/2005, p. 385).
+No concurso de crimes, a competência criminal da Justiça Federal para um deles atrai o processo dos
+crimes conexos. Isto não ocorrerá, entretanto, quando já exista sentença condenatória proferida pela Justiça
+estadual, hipótese em que, embora os crimes tenham sido reunidos em processo único na Justiça do Estado,
+aplica-se o art. 82 do Código de Processo Penal, restringindo-
+-se  a  nulidade  ao  delito  federal.  Precedentes: HC  57.949-SP,  Xavier  de  Albuquerque, DJ  17.10.80; HC
+74.788-MS, Sepúlveda Pertence, DJ 12.9.97. (STF, HC 81617/MT, Rel. Min. Carlos Velloso,
+2ª T., DJ 28/06/2002, p.142).
+Súmula 122 do STJ
+Compete  à  Justiça  Federal  o  processo  e  julgamento  unificado  dos  crimes  conexos  de  competência
+federal e estadual, não se aplicando a regra do art. 78, II, a do Código de Processo Penal.
+Crimes permanentes e continuados
+47
+
+Conforme lições de Francisco Dirceu Barros, “nas ações consideradas juridicamente como
+unidade (delito permanente, crime continuado), o crime tem-se por praticado no lugar em que
+se verificar um dos elementos do fato unitário”.
+27
+Extraterritorialidade (Redação dada pela Lei nº 7.209, de 11/7/1984.)
+Art. 7º  Ficam  sujeitos  à  lei  brasileira,  embora  cometidos  no  estrangeiro:
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) I – os crimes: (Redação
+dada pela Lei nº 7.209, de 11/7/1984.) a) contra a vida ou a liberdade do
+Presidente  da  República; (Incluído  pela  Lei  nº  7.209,  de  11/7/1984.) b)
+contra o patrimônio ou a fé pública da União, do Distrito Federal, de Estado,
+de  Território,  de  Município,  de  empresa  pública,  sociedade  de  economia
+mista, autarquia ou fundação instituída pelo Poder Público; (Incluído pela Lei
+nº 7.209, de 11/7/1984) c) contra a administração pública, por quem está a
+seu serviço; (Incluído pela Lei nº 7.209, de 11/7/1984.) d) de genocídio,
+quando o agente for brasileiro ou domiciliado no Brasil; (Incluído pela Lei nº
+7.209, de 11/7/1984.) II – os crimes: (Redação dada pela Lei nº 7.209, de
+11/7/1984.) a) que, por tratado ou convenção, o Brasil se obrigou a reprimir;
+(Incluído  pela  Lei  nº  7.209,  de  11/7/1984.) b)  praticados  por  brasileiro;
+(Incluído pela Lei nº 7.209, de 11/7/1984.) c) praticados em aeronaves ou
+embarcações  brasileiras,  mercantes  ou  de  propriedade  privada,  quando  em
+território estrangeiro e aí não sejam julgados.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) § 1º Nos casos do inciso I, o agente é punido
+[/PAGINA 41]
+
+[PAGINA 42]
+segundo a lei brasileira, ainda que absolvido ou condenado no estrangeiro.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) § 2º Nos casos do inciso II, a aplicação da lei
+brasileira depende do concurso das seguintes condições: (Incluído pela Lei nº 7.209, de
+11/7/1984.) a) entrar o agente no território nacional; (Incluído pela Lei nº 7.209, de
+11/7/1984.) b) ser o fato punível também no país em que foi praticado; (Incluído pela Lei nº
+7.209, de 11/7/1984.) c) estar o crime incluído entre aqueles pelos quais a lei brasileira
+autoriza a extradição; (Incluído pela Lei nº 7.209, de 11/7/1984) d) não ter sido o agente
+absolvido no estrangeiro ou não ter aí cumprido a pena; (Incluído pela Lei nº 7.209, de
+11/7/1984.) e) não ter sido o agente perdoado no estrangeiro ou, por outro motivo, não estar
+extinta a punibilidade, segundo a lei mais favorável.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) § 3º A lei brasileira aplica-se também ao crime
+cometido por estrangeiro contra brasileiro fora do Brasil, se, reunidas as condições previstas
+no parágrafo anterior: (Incluído pela Lei nº 7.209, de 11/7/1984.) a) não foi pedida ou foi
+negada a extradição; (Incluído pela Lei nº 7.209, de 11/7/1984.) b) houve requisição do
+Ministro da Justiça.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) Princípio da
+48
+
+extraterritorialidade
+Ao  contrário  do  princípio  da  territorialidade,  cuja  regra  geral  é  a  aplicação  da  lei
+brasileira àqueles que praticarem infrações penais dentro do território nacional, incluídos aqui
+os  casos  considerados  fictamente  como  sua  extensão,  o  princípio  da  extraterritorialidade
+preocupa-se com a aplicação da lei brasileira às infrações penais cometidas além de nossas
+fronteiras, em países estrangeiros.
+A extraterritorialidade pode ser incondicionada ou condicionada.
+Extraterritorialidade incondicionada, como o próprio nome sugere, é a possibilidade de
+aplicação da lei penal brasileira a fatos ocorridos no estrangeiro, sem que, para tanto, seja
+necessário  o  concurso  de  qualquer  condição.  As  hipóteses  de  extraterritorialidade
+incondicionada estão previstas no inciso I do art. 7º do Código Penal.
+Em qualquer das hipóteses do inciso I do art. 7º do Código Penal, o agente será punido
+segundo  a  lei  brasileira,  ainda  que  absolvido  ou  condenado  no  estrangeiro.  Em  caso  de
+condenação, terá aplicação a regra insculpida no art. 8º do Código Penal, que diz que “a pena
+cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas,
+ou nela é computada, quando idênticas”, evitando-se, dessa forma, o bis in idem, ou seja, ser o
+agente punido duas vezes pelo mesmo fato.
+No que diz respeito ao crime de genocídio, deve ser ressalvada, ainda, a jurisdição do
+Tribunal Penal Internacional, conforme o § 4º do art. 5º da Constituição Federal, acrescentado
+pela Emenda nº 45/2004, à qual o Brasil aderiu, conforme se verifica no Decreto nº 4.388, de
+25 de setembro de 2002.
+A extraterritorialidade condicionada enc
+[/PAGINA 42]
+
+[PAGINA 43]
+ontra-se prevista no inciso II do art. 7º do Código
+Penal.
+As condições para a aplicação da lei brasileira nos casos previstos pelo inciso II do art. 7º
+do Código Penal, que possuem a natureza jurídica de condições objetivas de punibilidade, são
+as previstas no § 2º do mesmo artigo.
+O § 3º do art. 7º do Código Penal dispõe, ainda, que a lei brasileira aplica-se também ao
+crime  cometido  por  estrangeiro  contra  brasileiro  fora  do  Brasil,  se  reunidas  as  condições
+previstas  no  §  2º  do  mesmo  artigo: a) não  foi  pedida  ou  negada  a  extradição; b) houve
+requisição  do  Ministro  da  Justiça.  Acolhe-se,  aqui,  o  chamado princípio da defesa ou  da
+personalidade passiva.
+De acordo com as inovações trazidas pela Emenda Constitucional nº 45/2004, compete aos
+juízes federais processar e julgar as causas relativas aos direitos humanos a que se refere o §
+5º do art. 109 da Constituição Federal.
+49
+
+Competência da Justiça Brasileira
+A lei penal brasileira pode ser aplicada ao crime de tortura cometido no exterior, por agentes estrangeiros,
+contra vítimas brasileiras, tanto por força do art. 7º, II, a, § 2º, do Código Penal, como por força do art. 2º da
+Lei nº 9.455/97. A competência da jurisdição federal se dá em caso de crime à distância previsto em tratado
+internacional, o que não ocorre quando o crime por inteiro se verifica no estrangeiro (STJ, CC 107.397/DF,
+Rel. Min. Nefi Cordeiro, S. 3, DJe 1º/10/2014).
+Aos delitos supostamente praticados por brasileiro no estrangeiro (Bolívia) que, posteriormente, ingressou
+em território brasileiro aplica-se a extraterritorialidade do art. 7º, II, a e § 2º, a, do Código Penal (STJ, CC
+120887/DF,  Rel.ª  Min.ª  Alderita  Ramos  de  Oliveira,  Desembargadora  convocada  do  TJPE,  S3, DJe
+20/2/2013).
+Os crimes apurados foram supostamente cometidos por estrangeiro perante o Consulado-
+-Geral do Brasil em Xangai, na China, tratando-se, portanto, de crimes contra a fé pública nacional, hipótese de
+extraterritorialidade incondicionada, descrita no art. 7º, inc. I, alínea ‘b’, do Código Penal. Nos termos do art.
+88,  primeira  parte,  do  Código  de  Processo  Penal,  constatado  que  o  investigado  já  residiu  no  Brasil,  a
+competência será do Juízo Federal da Capital do Estado de seu último domicílio, no caso, a cidade de São
+Paulo (STJ, CC 122119/DF, Rel. Min. Marco Aurélio Bellizze, 3ª Seção, DJe 15/8/2012).
+O crime cometido, no estrangeiro, contra brasileiro ou por brasileiro, é da competência da Justiça brasileira
+e, nesta, da Justiça Federal, a teor da norma inserida no inc. IV do art. 109 da Constituição Federal, por força
+dos  princípios  da  personalidade  e  da  defesa  que,  ao  lado  do  princípio  da  justiça  universal,  informam  a
+extraterritorialidade da lei penal brasileira (Código Penal, art. 7º, inc. II, alínea b, e § 3º) e são, ultima ratio,
+expressões da necessidade do Estado de proteger e tutelar, de modo especial, certos bens e interesses. 
+O atendimento dessa necessidade é, p
+[/PAGINA 43]
+
+[PAGINA 44]
+recisamente, o que produz o interesse da União, em detrimento do qual o
+crime cometido, no estrangeiro, contra ou por brasileiro é também praticado. Por igual, compete à Justiça
+Federal julgar os crimes ‘previstos em tratado ou convenção internacional, quando, iniciada a execução no
+País, o resultado tenha ou devesse ter ocorrido no estrangeiro, ou reciprocamente’ (Constituição Federal, art.
+109, inc. V). (STJ, HC 18307/MT, Rel. Min. Hamilton Carvalhido, 6ª T., DJ 10/3/2003, p. 313).
+Aeronaves
+Hipótese  de  condenação  pelo  porte  de  arma  de  fogo  de  uso  permitido,  mas  sem  autorização  (Lei  nº
+10.826/2003 – art. 14), desmuniciada, transportada em bagagem despachada, em aeronave, e apreendida depois
+do desembarque, em solo. Incompetência da Justiça Federal (STF, RE 463.500). Apesar da literalidade da regra
+do  inciso  IX  do  art.  109,  CF,  ao  prever  que  compete  aos  juízes  federais  processar  e  julgar  ‘os  crimes
+cometidos  a  bordo  de  navios  ou  aeronaves’,  nem  todo  crime  cometido  em  tais  circunstâncias  será  da
+competência da Justiça Federal. É indispensável que haja, também, o interesse específico e direto da União,
+quer como pessoa jurídica de direito público externo (implicação internacional), quer como pessoa jurídica de
+direito público interno (envolvimento de alienígenas). (TRF-1ª Reg., ACR 2007.34.00.032353-2/DF, Rel. Des.
+Fed. Olindo Menezes, DJe 4/8/2014).
+Compete à Justiça Federal processar e julgar a prática, em tese, de crimes ocorridos a bordo de aeronaves.
+Inteligência do art. 109, inc. IX, da Constituição Federal (STJ, HC 50450/MS, Rel. Min. Gilson Dipp, 5ª T., DJ
+5/2/2007, p. 270).
+Extradição
+Inobstante  a  inviabilidade  da  extradição,  para  os  crimes  cometidos  por  brasileiro  em  solo  estrangeiro,
+possível, na espécie, a extraterritorialidade da lei penal brasileira, caso em que o órgão judiciário brasileiro
+50
+
+será competente para processar e julgar o feito, nos termos dos arts. 7º do Código Penal e 88 do Código de
+Processo Penal (STF, Ext 1.349/DF, Rel.ª Min.ª Rosa Weber, 1ª T., DJe 03/03/2015).
+A concessão da naturalização constitui, em nosso sistema jurídico, ato de soberania que se insere na esfera
+de  competência  do  Ministro  da  Justiça,  qualificando-se,  sob  tal  perspectiva,  como  faculdade  exclusiva  e
+discricionária  do  Poder  Executivo  (Lei  nº  6.815/80,  art.  111  e  art.  121).  –  A  aquisição  da  condição  de
+brasileiro naturalizado, não obstante concedida a naturalização pelo Ministro da Justiça, somente ocorrerá após
+a entrega, por magistrado competente (Lei nº 6.815/80, art. 119), do concernente certificado de naturalização
+(Lei nº 6.815/80, art. 122). Precedentes. – O brasileiro naturalizado, em tema de extradição passiva, dispõe de
+proteção constitucional mais intensa que aquela outorgada aos súditos estrangeiros em geral, pois somente
+pode ser extraditado pelo Governo do Brasil em duas hipóteses excepcionais: a) crimes comuns cometidos
+antes da naturalizaç
+[/PAGINA 44]
+
+[PAGINA 45]
+ão e b) tráfico ilícito de entorpecentes e drogas afins praticado em qualquer momento,
+antes  ou  depois  de  obtida  a  naturalização  (CF,  art.  5º,  LI).  –  Tratando-se  de  extradição  requerida  contra
+brasileiro naturalizado, fundada em condenação penal pela prática do delito de estupro, torna-se inacolhível o
+pleito  extradicional  formulado  por  Estado  estrangeiro,  pois  o  evento  delituoso  que  dá  suporte  à  demanda
+extradicional ocorreu em momento posterior ao da naturalização da pessoa reclamada (STF, Ext 1223/DF, Rel.
+Min. Celso de Mello, 2ª T., DJe 28/02/2014).
+O postulado da dupla tipicidade – por constituir requisito essencial ao atendimento do pedido de extradição
+– impõe que o ilícito penal atribuído ao extraditando seja juridicamente qualificado como crime tanto no
+Brasil  quanto  no  Estado  requerente,  sendo  irrelevante,  para  esse  específico  efeito,  a  eventual  variação
+terminológica registrada nas leis penais em confronto. Os fatos ilícitos atribuídos ao extraditando – delitos de
+estelionato e crime falimentar – constituem, em tese, infrações penais, quer à luz da legislação penal do
+Estado requerente, quer em face do que prescreve o ordenamento positivo brasileiro (CP, art. 171 e Decreto-
+lei nº 7.661/45, art. 189, I), o que satisfaz a exigência legal da dupla incriminação ou da dupla tipicidade,
+contemplada  no  Estatuto  do  Estrangeiro  (art.  77,  II)  e  no  tratado  de  extradição  Brasil/EUA  (STF,  Ext.
+1121/EUA, Rel. Min. Celso de Mello, Tribunal Pleno, DJ, 25/06/2010).
+Extinção da punibilidade
+Não se concederá a extradição, quando estiver extinta, em decorrência de qualquer causa legal, a punibilidade
+do  extraditando,  notadamente  verificando-se  a  consumação  da  prescrição  penal,  seja  nos  termos  da  lei
+brasileira, seja segundo o ordenamento positivo do Estado requerente. A satisfação da exigência concernente à
+dupla  punibilidade  constitui  requisito  essencial  ao  deferimento  do  pedido  extradicional.  Observância,  na
+espécie, do postulado da dupla punibilidade (STF, Ext. 953/ RFA, Rel. Min. Celso de Mello, Tribunal Pleno, DJ
+11/11/2005, p. 6).
+Cidadão naturalizado
+O Pleno concluiu o julgamento da Questão de Ordem na Extradição nº 1.010-7, sob a relatoria do Min.
+Joaquim Barbosa, assentando a impossibilidade de extraditar-se cidadão naturalizado quando a legislação do
+país  requerente  não  permite  a  reciprocidade  (STF,  Ext.  170.924/2006,  Rel.  Min.  Marco  Aurélio, DJ
+27/11/2006, p. 39).
+Conflito de competência
+A  divulgação,  pela internet,  de  técnicas  de  cultivo  de  planta  destinada  à  preparação  de  substância
+entorpecente não atrai, por si só, a competência federal. Ainda que se trate, no caso, de hospedeiro estrangeiro,
+a ação de incitar desenvolveu-se no território nacional, daí não se justificando a aplicação dos incs. IV e V do
+art. 109 da Constituição. Caso, pois, de competência estadual (STJ, CC 62949/PR, Rel. Min. Nilson Naves, 3ª
+51
+
+Seção, DJ 26/2/2007,
+[/PAGINA 45]
+
+[PAGINA 46]
+p. 549).
+Pena  cumprida  no  estrangeiro (Redação  dada  pela  Lei  nº  7.209,  de
+11/7/1984.) Art. 8º A pena cumprida no estrangeiro atenua a pena imposta no
+Brasil  pelo  mesmo  crime,  quando  diversas,  ou  nela  é  computada,  quando
+idênticas.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Princípio do ne bis in
+idem Pela regra contida no art. 8º do Código Penal, evita-se que o agente
+seja punido duplamente pelo mesmo fato. Conforme esclarece Guilherme
+de Souza Nucci, “caso a pena cumprida no exterior seja idêntica à que for
+aplicada no Brasil (exemplo: pena privativa de liberdade no exterior e
+pena privativa de liberdade no Brasil), será feita a compensação; caso a
+pena cumprida no exterior seja diversa da que for aplicada no Brasil
+(exemplo: multa no exterior e privativa de liberdade no Brasil), a pena a
+ser fixada pelo juiz brasileiro há de ser atenuada”.
+28
+Não  existe  qualquer  óbice  legal  para  a  eventual  duplicidade  de  julgamento  pelas  autoridades  judiciárias
+brasileira e paraguaia, tendo em vista a regra constante do art. 8º do Código Penal (STJ, HC 41892/SP, Rel.
+Min. Arnaldo Esteves Lima,
+5ª T., DJ 22/8/2005 p. 319).
+Eficácia de sentença estrangeira (Redação dada pela Lei nº 7.209, de
+11/7/1984.) Art.  9º  A  sentença  estrangeira,  quando  a  aplicação  da  lei
+brasileira produz na espécie as mesmas consequências, pode ser homologada
+no Brasil para: (Redação dada pela Lei nº 7.209, de 11/7/1984.) I – obrigar
+o  condenado  à  reparação  do  dano,  a  restituições  e  a  outros  efeitos  civis;
+(Incluído  pela  Lei  nº  7.209,  de  11/7/1984.) II  –  sujeitá-lo  a  medida  de
+segurança.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) Parágrafo único. A homologação depende:
+(Incluído pela Lei nº 7.209, de 11/7/1984.) a) para os efeitos previstos no inciso I, de pedido
+da parte interessada; (Incluído pela Lei nº 7.209, de 11/7/1984.) b) para os outros efeitos, da
+existência de tratado de extradição com o país de cuja autoridade judiciária emanou a
+sentença, ou, na falta de tratado, de requisição do Ministro da Justiça.
+(Incluído pela Lei nº 7.209, de 11/7/1984.) Eficácia da sentença
+estrangeira
+A sentença judicial é um ato de soberania do Estado. Contudo, seria de todo ineficaz e
+52
+
+insuficiente se não pudéssemos executá-la, a fim de fazer valer a decisão nela contida. Como
+regra,  sua  execução,  como  ato  soberano,  deveria  ficar  adstrita  aos  limites  territoriais  do
+Estado que a proferiu. Mas, como bem observa Alberto Silva Franco, “para combater com
+maior eficiência, dentro de suas fronteiras, a prática de fatos criminosos, o Estado se vale, por
+exceção,  de  atos  de  soberania  de  outros  Estados,  aos  quais  atribui  certos  e  determinados
+efeitos. Para tanto, homologa a sentença penal estrangeira, de modo a torná-la um verdadeiro
+título executivo nacional, ou independentemente de prévia homologação, dá-lhe o caráter de
+fato jurídico relevante”.
+29
+O  ordenamento  positivo  brasileiro,  tratando​-se  de  sente
+[/PAGINA 46]
+
+[PAGINA 47]
+nça  penal  condenatória  estrangeira,  admite,  em
+caráter excepcional e de modo restrito, a possibilidade de sua homologação (SE 5.705/EUA, Rel. Min. Celso
+de Mello), desde que esse ato sentencial tenha por estrita finalidade a) obrigar o condenado à reparação civil
+ex delicto (RTJ 82/57) ou b) sujeitá-lo, quando inimputável ou semi-imputável, à execução de medida de
+segurança (CP, art. 9º). Doutrina. Precedentes. Possibilidade, contudo, de executar-se, no Brasil, condenação
+penal estrangeira imposta a brasileiro, desde que a requerimento deste e contanto que tal medida esteja prevista
+em atos, tratados ou convenções internacionais de caráter bilateral ou de índole multilateral celebrados pelo
+Estado brasileiro. Rol de alguns desses acordos internacionais firmados pelo Brasil (STF, Ext 1.223/DF, Rel.
+Min. Celso de Mello, 2ª T., DJe 28/02/2014).
+Competência para homologação da sentença estrangeira
+Compete ao Superior Tribunal de Justiça, nos termos da alínea i, acrescentada ao inc. I do
+art.  105  da  Constituição  Federal  pela  Emenda  nº  45/2004,  a  homologação  das  sentenças
+estrangeiras que, anteriormente, era levada a efeito pelo Supremo Tribunal Federal, de acordo
+com a revogada alínea h, I, do art. 102. Da mesma forma, o inciso VIII do art. 515 do Código
+de Processo Civil (Lei nº 13.105, de 16 de março de 2015), assevera: Art. 515. São títulos
+executivos  judiciais,  cujo  cumprimento  dar-se-á  de  acordo  com  os  artigos  previstos  neste
+Título: [...]
+VIII – a sentença estrangeira homologada pelo Superior Tribunal de Justiça; Súmula nº
+420 do STF
+Não se homologa sentença proferida no estrangeiro sem prova do trânsito em julgado.
+Para se conceder a homologação de sentença estrangeira não é indispensável carta de sentença. Basta que a
+sentença se revista das formalidade externas necessárias à sua execução, contenha os elementos indispensáveis
+à  compreensão  dos  fatos  em  que  se  fundou,  seja  motivada  e  tenha  conclusão.  No  tocante  ao  objeto  da
+condenação, não é preciso que seja determinado, sendo suficiente que seja determinável (STF, HSE, Rel. Min.
+Thompson Flores, DJU 24/10/1975, p. 7.759).
+Contagem de prazo (Redação dada pela Lei nº 7.209, de 11/7/1984.) Art.
+10. O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os
+meses e os anos pelo calendário comum.
+53
+
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Prazo penal e prazo
+processual penal
+No que diz respeito à contagem dos prazos, o art. 10 do Código Penal estabelece uma regra
+diversa daquela existente no § 1º do art. 798 do Código de Processo Penal. Diz o art. 10 do
+estatuto repressivo que o dia do começo inclui-se no cômputo do prazo, ao passo que o § 1º
+do art. 798 do Código de Processo Penal determina que não se computará no prazo o dia do
+começo, incluindo-se, porém, o do vencimento.
+Calendário gregoriano
+O art. 10 do Código Penal determina que os dias, os meses e os anos sejam contados pelo
+calendário comum, isto é, pelo calendário conhecido c
+[/PAGINA 47]
+
+[PAGINA 48]
+omo gregoriano. Conforme Ney Moura
+Teles, “o dia é o período de tempo compreendido entre a meia-noite e a meia-noite seguinte. O
+mês é contado de acordo com o número de dias que cada um tem: 28 ou 29 (fevereiro), 30
+(abril, junho, setembro e novembro) e 31 os demais. O ano terá 365 ou 366 dias”.
+30
+Contagem do prazo decadencial
+Como regra, o prazo da decadência é de 6 (seis) meses e, tratando-se de causa de extinção da punibilidade, o
+prazo tem natureza penal, devendo ser contado nos termos do art. 10 do Código Penal e não de acordo com o
+art. 798, § 1º, do Código de Processo Penal, quer dizer, inclui-se no cômputo do prazo o dies a quo. Assim,
+tendo  em  vista  que  a  queixa-crime  foi  oferecida  antes  de  esgotado  o  prazo  legal  não  há  que  se  falar  em
+extinção da punibilidade em razão da decadência (STJ, Apn. 390/DF, Rel. Min. Félix Fischer, CE, RSTJ 194, p.
+21).
+O prazo decadencial não admite prorrogação e é contado segundo o previsto no art. 10 do Código Penal. Se
+o último dia cair num domingo, nesse domingo o prazo se encerrará (STJ, Apn. 350/DF, Rel. Min. Nilson
+Naves, CE, RSTJ 193, p. 21).
+Prazo prescricional
+O prazo de prescrição é prazo de natureza penal, expresso em anos, contando-se na forma preconizada no art.
+10 do Código Penal, na linha do calendário comum, o que significa dizer que o prazo de um ano tem início em
+determinado dia e termina na véspera do mesmo dia do mês e ano subsequentes. Os meses e anos são contados
+não ex numero, mas ex numeratione dierum, ou seja, não se atribui 30 dias para o mês, nem 365 dias para o
+ano, sendo irrelevante o número de dias do mês – 28, 29, 30 e 31 –, mas o espaço entre duas datas idênticas de
+meses consecutivos (STJ, REsp. 188681/SC, Rel. Min. Vicente Leal, 6ª T., RT 785, p. 571).
+Hora do nascimento
+A legislação penal sufragou o calendário gregoriano para o cômputo do prazo. O período do dia começa a
+zero hora e se completa as 24 horas. Inclui-se o dia do começo. A idade é mencionada por ano. Não se leva em
+conta  a  hora  do  nascimento.  O  dia  do  começo,  normativamente,  independe  do  instante  da  ocorrência  do
+nascimento. Termina às 24 horas. Assim, a pessoa nascida ao meio-dia completa o primeiro dia de vida à meia-
+noite (STJ, REsp. 16849/SP, Rel. Min. Luiz Vicente Cernicchiaro, 6ª T., DJ 14/6/1993, p. 11.792).
+54
+
+Frações não computáveis da pena (Redação dada pela Lei nº 7.209, de
+11/7/1984.) Art. 11. Desprezam-se, nas penas privativas de liberdade e nas
+restritivas de direitos, as frações de dia, e, na pena de multa, as frações de
+cruzeiro.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Desprezo das frações
+O  art.  11  do  Código  Penal  determina  que  sejam  desprezadas,  nas  penas  privativas  de
+liberdade e nas restritivas de direito, as frações de dia, e, na pena de multa, as frações de
+“cruzeiro”.
+Isso significa que ninguém pode ser condenado, por exemplo, ao cumprimento de uma pena
+que tenha a duração de um mês e seis horas. Se alguém for encaminhado à peniten
+[/PAGINA 48]
+
+[PAGINA 49]
+ciária às 23
+horas do dia 08/08/2015, a fim de cumprir uma pena privativa de liberdade correspondente a
+seis  meses  de  detenção,  o  primeiro  dia,  isto  é,  o  dia  08/08/2015,  deverá  ser  incluído  no
+cômputo  do  cumprimento  da  pena,  não  importando  se,  naquele  dia,  o  condenado  tenha
+permanecido somente uma hora preso.
+Conforme assevera José Cirilo de Vargas, “as frações do dia obviamente são as horas, os
+minutos e os segundos. Não tem qualquer sentido o juiz condenar um acusado a um ano, três
+meses, vinte dias, quinze horas e trinta minutos de pena privativa de liberdade. Desprezam-se,
+como determina a lei, as horas e os minutos, no caso”.
+31
+Não se computam na pena de multa as frações de dia-multa, aplicando-se à mesma, por analogia in bonam
+partem, o princípio do art.11 do CP, que manda serem desprezadas as frações de dia das penas privativas de
+liberdade (RT 702, p. 362).
+Penas pecuniárias
+Com a alteração da nossa moeda, onde se lê cruzeiro,  na  segunda  parte  do  art.  11  do
+Código Penal, leia-se real. Aqui, quis o legislador deixar de lado a condenação em centavos.
+Nos  valores  correspondentes  às  penas  pecuniárias  deverão,  portanto,  ser  desprezadas  as
+frações de real.
+Legislação especial (Incluída pela Lei nº 7.209, de 11/7/1984.) Art. 12. As
+regras  gerais  deste  Código  aplicam-se  aos  fatos  incriminados  por  lei
+especial, se esta não dispuser de modo diverso.
+(Redação dada pela Lei nº 7.209, de 11/7/1984.) Aplicação das regras
+gerais do Código Penal
+55
+
+À falta de regulamentação específica para os fatos incriminados pela legislação especial,
+aplicam-se as regras gerais do Código Penal. Contudo, quando o estatuto especial dispuser de
+modo diverso, suas regras prevalecerão sobre aquelas gerais previstas no Código Penal, a
+exemplo do que ocorre com a impossibilidade de ser reconhecida a tentativa na hipótese de
+contravenção penal, haja vista que a regra expressa no art. 4º do diploma especial (Lei das
+Contravenções Penais) diz não ser punível a tentativa de contravenção, razão pela qual ficará
+afastada a regra constante do art. 14, II, do Código Penal.
+A alteração genérica da legislação, sem explicitação acerca das leis especiais, não pode revogar textos destas
+últimas (lex generalis non derogat lex specialis) ex vi, também, art.12 do Código Penal (STJ, HC 10.440/SP,
+Rel. Min. Félix Fischer, 5ª T., DJU 25/10/99, p. 10).
+Princípio da especialidade e a Lei nº 8.072/90
+Como  regra,  o  juiz,  ao  determinar  o  regime  inicial  de  cumprimento  de  pena,  deverá
+observar o disposto no art. 33, § 2º, do Código Penal. Assim, por exemplo, aquele que for
+condenado a uma pena inferior a 8 (oito) anos, presentes os demais requisitos legais, deverá
+cumpri-la, inicialmente, em regime semiaberto. No entanto, o § 1º do art. 2º da Lei nº 8.072/90,
+com a Redação dada pela Lei nº 11.464/2007, assevera que a pena, por qualquer dos delitos
+previstos naquele artigo (crimes hediondos, a prática de tortura e o tráfico de drogas)
+[/PAGINA 49]
+
+[PAGINA 50]
+, será
+cumprida  inicialmente  em  regime  fechado.  Dessa  forma,  não  importa,  por  exemplo,  que  o
+sujeito tenha sido condenado ao cumprimento de uma pena de cinco anos de reclusão por ter
+praticado o delito tipificado no art. 33, caput, da Lei nº 11.343/2006, que não terá direito ao
+regime semiaberto, conforme determina o referido art. 33, § 2º, do Código Penal. Aplica-
+-se, in casu, o princípio da especialidade, ficando a regra geral, constante do Código Penal,
+afastada pela regra especial, prevista na Lei nº 8.072/90.
+Embora tenha sido uma opção político-
+-criminal a imposição do regime inicial fechado para os crimes previstos na Lei nº 8.072/90,
+nossos Tribunais Superiores têm quebrado essa regra, em nossa opinião, equivocadamente, ao
+assim entenderem: Súmula 512 do STJ: A aplicação da causa de diminuição de pena prevista
+no art. 33, § 4o, da Lei no 11.343/2006 não afasta a hediondez do crime de tráfico de drogas.
+Mesmo para os crimes hediondos ou os a eles equiparados, cometidos na vigência da Lei nº 11.464/2007, a
+escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da pena imposta, a
+eventual  existência  de  circunstâncias  judiciais  desfavoráveis,  bem  como  as  demais  peculiaridades  do  caso
+concreto, para que, então, seja escolhido o regime carcerário que se mostre o mais adequado para a prevenção
+e a repressão do delito perpetrado. Reconhecida a inconstitucionalidade do óbice contido no § 1º do art. 2º da
+Lei nº 8.072/90, tem-se que a mera invocação desse dispositivo, como foi feito na espécie, não serve para
+justificar a fixação do regime mais gravoso, haja vista que, para estabelecer o regime inicial de cumprimento
+de pena, deve o magistrado avaliar o caso concreto, de acordo com os parâmetros estabelecidos pelo art. 33 e
+parágrafos do Código Penal. Ante a declaração de inconstitucionalidade, pela Corte Suprema, da expressão
+“vedada a conversão em penas restritivas de direitos”, constante do § 4º do art. 33 da Lei nº 11.343/2006, bem
+como da expressão “vedada a conversão de suas penas em restritivas de direitos”, contida no art. 44 do mesmo
+56
+
+diploma normativo, mostra-se possível, em princípio, proceder-se à substituição da pena privativa de liberdade
+por restritiva de direitos aos condenados pela prática do crime de tráfico de drogas, mesmo que perpetrado já
+na  vigência  da  Lei  nº  11.343/2006.  Para  tanto,  devem  ser  preenchidos,  cumulativamente,  os  requisitos
+objetivos e subjetivos exigidos no art. 44 do Código Penal, não sendo possível negar a benesse com base na
+hediondez  e  na  gravidade  abstrata  do  crime  de  tráfico,  consoante  hodierno  entendimento  dos  Tribunais
+Superiores (STJ, HC 282.232/SP, Rel. Min. Rogério Schietti Cruz, 6ª T., DJe 15/05/2015).
+É  pacífica  a  compreensão  neste  Sodalício  de  que  o  estupro  constitui  crime  hediondo.  Todavia,  a
+obrigatoriedade do regime inicial fechado prevista na Lei de Crimes Hediondos foi superada pela Suprema
+C
+[/PAGINA 50]
+

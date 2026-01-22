@@ -1,0 +1,2098 @@
+[META]
+TITULO: Código Civil Comentado
+AUTOR: 1ª Edição
+ANO: N/A
+EDICAO: 1
+EDITORA: N/A
+PAGINAS: 1001-1050
+ARQUIVO_ORIGINAL: Código Civil Comentado - Doutrina e Jurisprudência - 1ª Edição.pdf
+CITACAO_ABNT: EDIÇÃO, 1ª. Código Civil Comentado. 1. ed..
+[/META]
+
+[PAGINA 1001]
+rança dos títulos. O endossatário-mandatário
+se submete à disciplina do mandato. Outra espécie de endosso impróprio é o endosso-
+caução,  que  ocorre  quando  o  endossante  transfere  o  título  ao  endossatário  como
+garantia de outra obrigação assumida. Também chamado de endosso pignoratício, é a
+forma  usual  de  constituição  de  penhor  sobre  títulos  de  crédito  à  ordem  (ver  art.
+1.438). No giro mercantil, são comuns os contratos de mútuo, garantidos por caução
+
+de títulos. Sobre esse tema, vide os nossos comentários ao art. 918. O § 2º, por sua
+vez,  esclarece  que  ao  endosso  deve  se  seguir  a  tradição  física  do  título.  Em  se
+tratando  de  títulos  virtuais,  essa  tradição  é  ficta.  O  endossante  que,  por  qualquer
+razão, se mantém na posse do título e não efetua a tradição ao endossatário, mantém a
+condição  de  parte  legitimada  para  compor  o  polo  ativo  de  eventual  demanda
+executiva.
+ JURISPRUDÊNCIA  COMENTADA:  Divergem  os  Tribunais  sobre  a
+legitimidade  ativa  do  terceiro  portador  de  cheques,  para  exercício  da  demanda
+executiva ou monitória, se condicionada ou não à formalização da transmissão dos
+títulos pelo endosso. Algumas decisões consideram parte legítima aquele que está na
+posse dos títulos, independentemente de qualquer formalidade. Em sentido contrário,
+destaca-se decisão do TJDF, no sentido da “ilegitimidade ativa da autora em razão de
+os  cheques  que  instruem  o  processo  monitório  terem  sido  emitidos  em  nome  de
+terceiros e por não haver nenhum endosso nas cártulas, o que daria legitimidade ativa
+à  apelante”.  Para  o  Tribunal  do  Distrito  Federal,  “o  cheque,  tecnicamente,  por  se
+tratar de título de crédito próprio, constitui título nominal à ordem, de modo que deve
+ser emitido com a indicação do beneficiário e pode ser transmitido a outras pessoas
+via endosso”, o que “torna o novo endossatário parte legítima para a ação monitória”.
+No entanto, naquele caso, “como não houve endosso em favor da apelante, não há
+como  reconhecer  sua  legitimidade  ativa  para  a  ação  monitória”  (TJDF,  Rec
+2011.09.1.027177-0, Rel. Des. Gilberto Pereira de Oliveira, DJDFTE 04.11.2014).
+Esse mesmo Tribunal já decidiu que “o fato de o cheque à ordem ser transmissível via
+simples endosso não constitui óbice à possibilidade de sua transmissão por meio da
+cessão civil de crédito, desde que, por óbvio, observado o regime civilista” (TJDF,
+Proc 07075.21-69.2017.8.07.0007, Rel. Des. Simone Lucindo, DJDFTE 05.10.2018).
+O Superior Tribunal de Justiça, por sua vez, possui diversos precedentes no sentido
+de  que,  se  a  transmissão  do  título  se  deu  por  cessão  de  crédito,  é  inaplicável  o
+“princípio da inoponibilidade das exceções pessoais, previsto nos artigos 14 e 17 da
+Lei Uniforme de Genebra (Decreto n. 57.663/66), e nos artigos 15, 17, § 1º, 20 e 25
+da  Lei  do  Cheque  (Lei  n.  7.357/85),  quando  o  principal  instrumento  negocial
+
+celebrado  entre  as  partes  é  um  contra
+[/PAGINA 1001]
+
+[PAGINA 1002]
+to  de  cessão  de  crédito”  (AgInt  no  REsp
+1.691.890/MT, 3ª Turma, Rel. Min. Paulo de Tarso Sanseverino, DJe 19.12.2017).
+Art.  911.  Considera-se  legítimo  possuidor  o  portador  do  título  à  ordem  com  série  regular  e
+ininterrupta de endossos, ainda que o último seja em branco.
+Parágrafo único. Aquele que paga o título está obrigado a verificar a regularidade da série de
+endossos, mas não a autenticidade das assinaturas.
+ COMENTÁRIOS DOUTRINÁRIOS: O portador do título à ordem com série
+regular e ininterrupta de endossos, ainda que o último seja em branco, é considerado
+o legítimo possuidor dos títulos, mesmo porque o endosso em branco faz com que o
+título  à  ordem  passe  a  circular  como  se  fosse  um  título  ao  portador.  Em  havendo
+endossos  sucessivos,  aquele  que  paga  o  título  (normalmente  o  estabelecimento
+bancário) está compelido a verificar a regularidade da série de endossos, mas não é
+obrigado a conferir a autenticidade das assinaturas de todos os endossantes. Nem teria
+como fazê-lo, pois nem todos os endossantes serão necessariamente clientes daquele
+estabelecimento  ou  daquela  instituição.  Verificar  a  regularidade  (extrínseca)  da
+cadeia de endossos significa conferir os requisitos legais para prática do ato cambial,
+aferindo, por exemplo, se existe cláusula “não à ordem”, se o endossatário encontra-
+se devidamente identificado, no caso de endosso em preto, a legitimidade de cada
+endossante, ou seja, aferir se quem endossou por último era o endossatário precedente
+e assim sucessivamente. Mas não compete ao banco a conferência da autenticidade
+das assinaturas de cada um dos endossantes, o que implicaria indevida restrição ao
+princípio  da  circularidade  e  verdadeiro  engessamento  do  título  de  crédito.
+Evidentemente, quem vai pagar o título tem que conferir ao menos a autenticidade da
+assinatura do emitente. Autores de nomeada, como é o caso de Newton De Lucca,
+entendem  que  quem  paga  o  título  encontra-se  obrigado  a  verificar  também  a
+autenticidade da assinatura do último endossante, de modo a certificar-se não estar
+pagando  a  um  portador  não  legitimado  para  recebê-lo.  No  caso  das  instituições
+financeiras, a falta de conferência da regularidade formal do endosso único ou da
+série  de  endossos,  bem  como  das  assinaturas  do  emitente  e  do  último  endossante,
+pode caracterizar falha na prestação do serviço e gerar responsabilidade civil.
+
+ JURISPRUDÊNCIA COMENTADA: São uníssonas as decisões dos Tribunais
+no  sentido  de  que  as  instituições  financeiras  “devem  verificar  a  regularidade  da
+cadeia de endosso, aí incluída a certificação da legitimidade da pessoa física que age
+a mando de pessoa jurídica”, sob pena de responderem por danos materiais e morais
+decorrentes  de  falha  na  prestação  do  serviço  (TJSP,  APL  0004462-
+82.2012.8.26.0356,  Rel.  Des.  Jonize  Sacchi  de  Oliveira. DJESP  02.05.2018).
+Entretanto, não estão compelidas a confrontar a autenticidade
+[/PAGINA 1002]
+
+[PAGINA 1003]
+das assinaturas de todos
+os endossantes. A Segunda Seção do Superior Tribunal de Justiça “tem entendimento
+no  sentido  de  que  o  estabelecimento  bancário  não  está  obrigado  a  verificar  a
+autenticidade  das  assinaturas  dos  endossos  no  verso  do  cheque,  mas,  cumpre-lhe
+aferir a sua regularidade formal, incluindo-se a legitimidade daquele que endossa”
+(AgRg no REsp 1.181.309/SP, Rel. Min. Sidnei Beneti, DJe 14.06.2010).
+Art.  912.  Considera-se  não  escrita  no  endosso  qualquer  condição  a  que  o  subordine  o
+endossante.
+Parágrafo único. É nulo o endosso parcial.
+ COMENTÁRIOS DOUTRINÁRIOS:  A  Lei  do  Cheque  continha  dispositivo
+semelhante, no que diz respeito ao endosso daquele título (“Art. 18. O endosso deve
+ser  puro  e  simples,  reputando-se  não  escrita  qualquer  condição  a  que  seja
+subordinado”). O Código incorpora a regra, como norma geral aplicável a todos os
+títulos atípicos que venham a ser criados. O endosso, obrigatoriamente, deve ser puro
+e simples e qualquer condição a que seja subordinado será reputada não escrita, pois
+não é aceitável qualquer restrição à circulação dos títulos à ordem. Também não se
+admite o endosso parcial, mesmo porque representaria uma contraditio in terminis,
+um endosso que não operasse a transmissão do título à ordem.
+Art.  913.  O  endossatário  de  endosso  em  branco  pode  mudá-lo  para  endosso  em  preto,
+completando-o com o seu nome ou de terceiro; pode endossar novamente o título, em branco ou
+em preto; ou pode transferi-lo sem novo endosso.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo versa sobre os direitos do
+endossatário  quanto  à  transferência  do  próprio  título,  mencionando  as  diversas
+
+prerrogativas  circulatórias  que  lhe  são  conferidas  como  legítimo  possuidor  de  um
+título à ordem. Se recebeu o título por meio de endosso em branco, o endossatário
+pode mudá-lo para endosso em preto, bastando completar o endosso indicando o seu
+próprio  nome  como  beneficiário.  Se  pretender  transferir  a  terceiro  o  título  que
+recebeu por endosso em branco, pode simplesmente preencher o nome do terceiro
+beneficiário ao lado da assinatura do endossante, sem necessidade de novo endosso,
+possibilitando,  assim,  a  segunda  transmissão  sem  endosso  sucessivo.  A  grande
+vantagem para o endossatário de transferir sem novo endosso é que ele não se tornará
+mais  um  coobrigado  pelo  título.  Mas  se  preferir,  pode  o  endossatário  endossar
+novamente o título, em branco ou em preto. Finalmente, pode o último endossatário de
+um endosso em branco transferir o título a terceiro pela simples tradição sem novo
+endosso. Da mesma forma que esse terceiro, desde que não tenha mudado o endosso
+em branco para endosso em preto, poderá transmitir novamente o título a outrem, e
+assim sucessivamente, sem novos endossos, pois o título à ordem com endosso em
+branco, como já afirmado, passa a se comportar como se fosse um título ao portador.
+O art. 913, em suma, autoriza a regulari
+[/PAGINA 1003]
+
+[PAGINA 1004]
+zação de endosso em títulos, em branco ou
+preto,  e  até  sua  dispensa  formal. A  Lei  do  Cheque,  anterior  à  Lei  n.  8.088/1990,
+também continha dispositivo semelhante, no que diz respeito ao endosso em branco
+daquele título.
+Art. 914. Ressalvada cláusula expressa em contrário, constante do endosso, não responde o
+endossante pelo cumprimento da prestação constante do título.
+§ 1º Assumindo responsabilidade pelo pagamento, o endossante se torna devedor solidário.
+§ 2º Pagando o título, tem o endossante ação de regresso contra os coobrigados anteriores.
+ COMENTÁRIOS DOUTRINÁRIOS: Este artigo estabelece que o endossante de
+um título à ordem somente se tornará coobrigado solidário com o emitente do título se
+assumiu  expressa  responsabilidade  pelo  pagamento.  Nesse  caso,  assumindo  a
+responsabilidade, e pagando o título, o endossante terá ação de regresso contra os
+coobrigados anteriores. Em que pese a clareza da disposição codificada, o problema
+é que tanto a LUG como a Lei do Cheque (Lei n. 7.357/1985) contêm regras taxativas
+em sentido rigorosamente oposto e que prevalecerão sobre o Código Civil. A regra
+
+geral do Direito Cambial, no que se refere aos títulos à ordem tipificados na maioria
+das leis especiais, é a de que o endossante será sempre responsável pelo pagamento
+final da obrigação constante do título, salvo estipulação em contrário. O endossante se
+torna um dos coobrigados solidários pelo pagamento, ao lado do avalista. O art. 914,
+portanto,  altera  essa  regra  geral,  passando  a  dispor  que  o  endossante  se  liberará
+automaticamente da obrigação de garantir o pagamento do título, sempre que o título
+não contenha cláusula expressa nesse sentido. Em face da prevalência da legislação
+especial  sobre  a  geral,  a  disposição  mostra-se  de  pouca  valia,  pois  somente  será
+aplicável aos títulos atípicos que venham a ser criados.
+ JURISPRUDÊNCIA  COMENTADA:  Apesar  de  haver  previsão  em  lei
+especial, especialmente o art. 21 da Lei do Cheque, localizamos algumas decisões, no
+sentido de que a inexistência da estipulação convencional, exigida pelo art. 914 do
+Código Civil, levaria à “irresponsabilidade do cedente ou do endossante, perante o
+cessionário ou endossatário, pelo cumprimento da prestação cambial e a solvência
+dos emitentes e sacados” (TJSP, APL 0011345-81.2012.8.26.0344, Rel. Des. Cesar
+Santos Peixoto, DJESP 19.09.2013). Decidiu o Tribunal do Rio Grande do Sul, por
+exemplo,  que  “conforme  preceitua  o  artigo  914  do  Código  Civil,  a  regra  é  a
+inexistência de responsabilidade do endossante, salvo quando expressa previsão. –
+Inexistente  na  transmissão  do  título  a  previsão  de  responsabilidade  solidária,  esta
+deve ser afastada” (TJRS, AC 0142211-93.2016.8.21.7000, Rel. Des. Gelson Rolim
+Stocker, DJERS  14.11.2016).  Essas  decisões  mostram-se  equivocadas,  ao  fazerem
+tábula  rasa  da  legislação  especial.  Em  sentido  contrário,  e  bem  mais  coerente,  a
+decisão do TJSC: “o endossante do
+[/PAGINA 1004]
+
+[PAGINA 1005]
+cheque garante o pagamento, ressalvado o direito
+de regresso contra o emitente. Exegese dos arts. 21 da Lei n. 7.357/1985, c/c art. 914,
+§§  1º  e  2º,  do  CC/2002”  (TJSC, AC  2010.060688-9,  Rel.  Des.  Dinart  Francisco
+Machado, DJSC 06.06.2016).
+Art.  915.  O  devedor,  além  das  exceções  fundadas  nas  relações  pessoais  que  tiver  com  o
+portador, só poderá opor a este as exceções relativas à forma do título e ao seu conteúdo literal,
+à falsidade da própria assinatura, a defeito de capacidade ou de representação no momento da
+subscrição, e à falta de requisito necessário ao exercício da ação.
+
+ COMENTÁRIOS DOUTRINÁRIOS:  O  dispositivo  versa  sobre  as  exceções
+que podem ser opostas ao portador do título à ordem pelo devedor. Já afirmei em
+outro  comentário  que  a  palavra  “exceção”  não  está  empregada  aqui  em  seu
+significado  técnico  específico,  previsto  na  lei  processual.  O  dispositivo  refere-se
+genericamente às “defesas” que o devedor dispuser contra o portador, abrangendo
+também objeções e direitos potestativos extintivos, como é o caso da compensação e
+da  confusão. A  primeira  possível  forma  de  defesa  do  devedor  contra  o  portador
+refere-se  às  exceções  fundadas  nas  relações  pessoais  que  tiver  com  o  portador.
+Assim, se o devedor possui, contra o portador, um crédito seu, pode ele opor contra
+aquele a exceção de compensação. Mas não pode o devedor opor ao terceiro e atual
+portador, a quem foi transmitido o título, as exceções fundadas em relações pessoais
+com o antigo credor. Então se o crédito era contra o credor primitivo, e o título foi
+transmitido, a exceção de compensação não pode ser oposta ao atual portador. Mesmo
+porque é pressuposto da compensação entre as obrigações de duas pessoas que ambas
+sejam  simultaneamente  credora  e  devedora  uma  da  outra.  Em  suma,  o  devedor  só
+poderá  opor  ao  portador  as  chamadas  exceções  pessoais  quando  relacionadas  às
+partes diretamente envolvidas no negócio jurídico que deu origem ao título. Além das
+exceções pessoais, o devedor poderá opor ao portador todas as objeções relativas à
+forma do título. Os vícios formais ou vícios cartulares são ínsitos ao título, não se
+referindo ao negócio jurídico precedente, e podem ser intrínsecos ou extrínsecos. São
+vícios formais intrínsecos todos aqueles relacionados aos requisitos de validade da
+cártula e ao seu conteúdo literal, como é caso da falsidade de assinaturas, do defeito
+de capacidade ou de representação no momento da subscrição etc. Os vícios formais
+extrínsecos estão relacionados à ausência de causa de emissão (causa debendi) nos
+títulos causais, como é o caso da duplicata emitida sem lastro ou duplicata fria. Em
+suma,  o  devedor  somente  pode  opor  ao  portador  os  vícios  formais  e  as  exceções
+fundadas nas suas relações pessoais diretamente com este ou em relação ao título,
+quanto a aspectos formais e materiais. Mas nada pode alegar contra o atual portador
+no que diga respeito às r
+[/PAGINA 1005]
+
+[PAGINA 1006]
+elações pessoais com os portadores precedentes ou com o
+emitente do título. Não pode alegar, contra o atual portador, nem mesmo a nulidade do
+negócio jurídico que celebrou com o endossante. Salvo se o devedor demonstrar a
+
+má-fé do atual portador, a teor do art. 916 deste Código. Entretanto, nas hipóteses em
+que o título de crédito estiver expressamente vinculado a um outro negócio jurídico
+subjacente, será possível a discussão da causa debendi não apenas entre as partes
+daquele negócio precedente, mas também pelos terceiros endossatários, como bem
+esclarece o enunciado da Súmula n. 258 do STJ: “a nota promissória vinculada a
+contrato de abertura de crédito não goza de autonomia em razão da iliquidez do título
+que  a  originou”. A  teor  do  enunciado  da  Súmula  n.  475  do  STJ,  “responde  pelos
+danos  decorrentes  de  protesto  indevido  o  endossatário  que  recebe  por  endosso
+translativo título de crédito contendo vício formal extrínseco ou intrínseco, ficando
+ressalvado  seu  direito  de  regresso  contra  os  endossantes  e  avalistas”.  Assim,  o
+endossatário  que  leva  a  protesto  uma  duplicata  sem  aceite  e  desacompanhada  de
+contrato de venda mercantil ou de prestação de serviços subjacente ao título ignora
+vício de natureza formal para a emissão do título, passando a responder pelos danos
+causados.
+ JURISPRUDÊNCIA  COMENTADA:  Consoante  pacífico  entendimento  do
+Superior Tribunal de Justiça, “o devedor somente pode opor ao portador do cheque
+exceções  fundadas  na  relação  pessoal  com  o  portador  ou  em  aspectos  formais  e
+materiais  do  título.  No  caso  em  análise,  a  exceção  oposta  pelos  devedores  diz
+respeito ao não cumprimento do contrato firmado por eles com terceiro. Logo, não
+tendo sido caracterizada a má-fé do portador, deve ser preservada a autonomia do
+título cambial, na esteira dos precedentes desta Corte Superior” (AgInt no AREsp
+1.252.159/SP, Rel. Min. Moura Ribeiro, DJe 05.09.2018). No AREsp 861.575/MT e
+no REsp 1.231.856/PR, a 4ª Turma daquela Corte Superior reafirmou “o entendimento
+de que a relação jurídica subjacente à emissão do cheque não pode ser oponível ao
+endossatário  que  se  presume  terceiro  de  boa-fé,  ao  tomar  a  cártula  por  meio  do
+endosso, ressalvada a possibilidade de confirmação da má-fé por parte deste. Não
+havendo de se cogitar má-fé do terceiro (endossatário), é vedada a oponibilidade de
+exceções  pessoais  relativas  ao  emitente  do  título  e  ao  endossante,  uma  vez  que  a
+execução da cártula, no caso dos autos, constituiu simples exercício regular de direito
+por parte do endossatário” (AgInt no AREsp 861.575/MT, Rel. Min. Raul Araújo,
+
+DJe 10.04.2017).
+Art.  916.  As  exceções,  fundadas  em  relação  do  devedor  com  os  portadores  precedentes,
+somente poderão ser por ele opostas ao portador, se este, ao adquirir o título, tiver agido de má-
+fé.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  dispositivo  versa  sobre  as  exceções
+fundadas  nas  relações  mantidas  com
+[/PAGINA 1006]
+
+[PAGINA 1007]
+os  portadores  precedentes  e  que  podem  ser
+opostas ao atual portador do título pelo devedor. Diz expressamente que se o devedor
+tinha qualquer tipo de defesa a ser oposta em face dos anteriores portadores do título,
+não as poderá opor contra o portador atual, salvo se este houver agido de má-fé. Cabe
+ao  devedor  demonstrar  a  má-fé  do  atual  portador,  como  nos  casos  de  conluio
+fraudulento entre o credor original e os possuidores subsequentes, visando privar o
+devedor  daquelas  defesas  que  ele  teria  podido  validamente  opor  ao  credor
+endossante, ou ainda em caso de atos emulativos, quando presente, no último portador
+endossante, o propósito de causar dano ao devedor, o que também atrairia a aplicação
+do art. 187 deste Código. Assim, quem for demandado por obrigação resultante de um
+título  não  pode  opor  ao  portador  exceções  fundadas  em  relações  pessoais  com  o
+emitente,  ou  com  os  portadores  anteriores,  salvo  se  o  portador  o  adquiriu
+conscientemente em detrimento do devedor. Os princípios gerais da autonomia e da
+abstração  impedem  que  o  portador  de  boa-fé  seja  afetado  pelas  vicissitudes  do
+negócio jurídico a partir do qual o título fora emitido. O “agir de má-fé”, aqui, não se
+perfaz com a simples ciência por parte do portador atual da existência dessas defesas
+ou exceções, exigindo daquele um agir consciente voltado a lesionar o devedor.
+ JURISPRUDÊNCIA  COMENTADA:  Decisão  bastante  didática  do  TJDF
+esclarece  que  “o  devedor  que  opuser  exceções  pessoais  ligadas  ao  negócio
+subjacente, somente poderá fazê-lo se: 1) estiver discutindo o débito com o próprio
+credor primitivo (o título não circulou); 2) ocorrido o endosso, o terceiro tenha agido
+de má-fé (art. 916 do CC); 3) o cheque continha a cláusula ‘não à ordem’, situação na
+qual  o  endosso  valerá  como  cessão  civil  de  crédito  (art.  17,  §  1º,  da  Lei  n.
+7.357/1985). Havendo transmissão do título para terceiro de boa-fé, o devedor não
+
+pode se esquivar ao pagamento, ainda que descumprido o negócio jurídico que deu
+origem  à  emissão  do  cheque,  pois,  com  a  circulação  dos  títulos,  perpetra-se  a
+desvinculação de sua exigibilidade ao cumprimento do negócio subjacente” (TJDF,
+Rec  2009.06.1.012751-8,  Rel.  Des.  Waldir  Leôncio  Júnior, DJDFTE  10.09.2012).
+Esse  mesmo  tribunal  também  decidiu  que  “a  incapacidade  civil  do  emitente  das
+cártulas, como exceção pessoal que é, não pode ser oposta ao terceiro de boa-fé, em
+razão dos princípios cartulares da autonomia e da abstração, salvo se adquirido, de
+forma consciente, em detrimento do devedor (art. 25 da Lei n. 7.357/85 e art. 916 do
+CC/2002)”  (TJDF,  Rec  2008.01.1.065447-8,  Rel.  Des.  Alfeu  Machado, DJDFTE
+19.11.2014).
+Art. 917. A cláusula constitutiva de mandato, lançada no endosso, confere ao endossatário o
+exercício dos direitos inerentes ao título, salvo restrição expressamente estatuída.
+§ 1º O endossatário de endosso-mandato só pode endossar nov
+[/PAGINA 1007]
+
+[PAGINA 1008]
+amente o título na qualidade de
+procurador, com os mesmos poderes que recebeu.
+§  2º  Com  a  morte  ou  a  superveniente  incapacidade  do  endossante,  não  perde  eficácia  o
+endosso-mandato.
+§ 3º Pode o devedor opor ao endossatário de endosso-mandato somente as exceções que tiver
+contra o endossante.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  dispositivo  versa  sobre  o  endosso-
+mandato  ou  endosso-procuração,  também  chamado  de  endosso  impróprio,  que
+transmite apenas o exercício do Direito Cartular, mas não a propriedade da cártula,
+que  se  mantém  sob  a  titularidade  do  endossante.  O  endossatário-mandatário  pode
+exercer todos os direitos emergentes do título, mas não tem a disponibilidade sobre o
+crédito, que pertence ao endossante. É situação frequente e corriqueira nos contratos
+de  cobrança  bancária,  por  meio  dos  quais  a  instituição  financeira  se  substitui  ao
+credor na cobrança dos títulos. O endossatário-mandatário se submete à disciplina do
+mandato. A  cláusula  constitutiva  de  mandato,  lançada  no  endosso,  normalmente  se
+materializa  pela  inserção  de  expressões  que  denotem  essa  finalidade  (por
+procuração, para fins de cobrança  etc.).  O caput do art. 917, em sua parte final,
+toma  partido  em  antiga  querela  doutrinária,  referente  à  possibilidade  de  se  impor
+limitações  aos  poderes  do  procurador  investido  por  endosso.  Isso  porque  se  o
+
+endosso é sempre puro e simples (art. 912), o mandato nele inserido também deveria
+sê-lo, não se compadecendo com qualquer cláusula restritiva de poderes. Contudo,
+como  já  antecipado,  o  endosso-mandato  é  uma  modalidade  imprópria  de  endosso,
+justamente por se submeter à disciplina do mandato, onde a limitação dos poderes
+conferidos é sempre possível (ver art. 660). Na praxe mercantil, o endosso-mandato
+se popularizou no exercício da atividade exclusiva de cobrança, encontrando-se os
+poderes  do  endossatário  usualmente  restritos  a  essa  finalidade,  podendo  o
+mandatário, tão somente, exercer a cobrança do título e lhe dar quitação. Na atividade
+de cobrança se inclui a adoção das medidas necessárias para protesto e execução do
+título.  Destaca-se,  porém,  que  “o  endossatário  de  título  de  crédito  por  endosso-
+mandato  só  responde  por  danos  decorrentes  de  protesto  indevido  se  extrapolar  os
+poderes de mandatário” (Súmula n. 476 do STJ). O § 1º do art. 917 dispõe sobre o
+óbvio, ou seja, que endossatário-mandatário não pode endossar novamente o título,
+senão  na  qualidade  de  procurador,  não  podendo  transmitir  mais  poderes  do  que
+aqueles que recebeu do endossante-mandante. Desde que não haja cláusula proibitiva
+de novo endosso, o endossatário pode transmitir novamente o título nos limites do
+mandato,  vale  dizer,  constituindo  novo  endossatário-procurador,  com  os  mesmos
+poderes  que  recebeu.  Se,  ainda  assim  e  contrariando  a  disposição  do  §  1º,  o
+endossatário-mandatário  fizer  um  endosso  próprio,  sem
+[/PAGINA 1008]
+
+[PAGINA 1009]
+limitação,  o  excesso  de
+poderes não terá eficácia frente ao titular do crédito e a transmissão terá a eficácia de
+um  endosso-mandato.  O  §  2º,  ao  introduzir  no  sistema  do  Código  Civil  regra
+anteriormente presente no parágrafo único do art. 26 da Lei do Cheque, inova, de
+certa forma, o direito anterior, contrariando, nesse ponto, regra própria da disciplina
+do  mandato.  O  dispositivo  configura  exceção  à  regra  geral  do  Código  Civil  que
+dispõe extinguir-se o mandato pela morte ou interdição de uma das partes (art. 682,
+inc. II) ou pela mudança de estado que inabilite o mandante a conferir os poderes, ou
+o mandatário para os exercer (art. 682, inc. III). O § 3º, finalmente, esclarece que o
+devedor  só  pode  opor  ao  endossatário-mandatário,  enquanto  portador  do  título,  as
+exceções  que  seriam  oponíveis  contra  o  endossante,  mas  não  aquelas  que  poderia
+dispor contra o próprio endossatário-mandatário.
+
+ JURISPRUDÊNCIA COMENTADA: No Superior Tribunal de Justiça há muito
+foi aprovada, pela 2ª Seção, no âmbito da sistemática dos recursos repetitivos, tese no
+sentido  de  que  a  instituição  financeira  que  recebe  título  de  crédito  por  endosso-
+mandato não é responsável por cobrança indevida, salvo se exceder os poderes do
+mandato, agir de modo negligente ou, alertada sobre eventual falha na cártula, levá-la,
+ainda assim, a protesto. Assim, para o STJ, constituem “exemplos de circunstâncias
+em  que  há  responsabilidade  por  protesto  indevido  daquele  que  recebeu  título  por
+endosso-mandato:  a  conduta ultra vires que extrapola os poderes transferidos pela
+cláusula-mandato,  mercê  do  que  dispõe  o  art.  662  do  CC/2002,  além  de  conduta
+culposa  praticada  com  negligência  (art.  186  do  CC/2002),  de  que  é  exemplo  o
+apontamento  do  título  a  protesto  a  despeito  da  ciência  prévia  acerca  da  falta  de
+higidez da cártula ou da ocorrência de pagamento” (REsp 1.063.474/RS, 2ª Seção,
+Rel.  Min.  Luis  Felipe  Salomão, DJe  17.11.2011).  Essa  tese  se  refletiu,
+posteriormente, no enunciado da Súmula n. 476 do STJ, acima transcrito, e seguida de
+forma  pacífica  pelos  Tribunais  estaduais  e  regionais  federais,  vez  que  não  se
+comprovando  qualquer  conduta  que  evidencie  que  a  instituição  financeira  “tenha
+extrapolado os limites do mandato que lhe foi outorgado, não deve responder pelos
+danos suportados pela autora decorrentes do protesto indevido, não lhe sendo exigível
+aferir a veracidade de todos os dados constantes na duplicata mercantil além da razão
+social e do CNPJ, não configurando a hipótese culpa por ato próprio da instituição
+financeira” (STJ, TRF da 2ª Região, Proc. 2005.51.10.007387-2, Rel. Des. Fed. Luiz
+Paulo S. Araujo Filho, DEJF 31.10.2012).
+Art.  918. A  cláusula  constitutiva  de  penhor,  lançada  no  endosso,  confere  ao  endossatário  o
+exercício dos direitos inerentes ao título.
+§ 1º O endossatário de endosso-penhor só pode endossar novamente o tít
+[/PAGINA 1009]
+
+[PAGINA 1010]
+ulo na qualidade de
+procurador.
+§ 2º Não pode o devedor opor ao endossatário de endosso-penhor as exceções que tinha contra
+o endossante, salvo se aquele tiver agido de má-fé.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo trata do chamado endosso-
+penhor  ou  endosso-caução,  anteriormente  previsto  no  art.  19  da  Lei  Uniforme  de
+
+Genebra (Decreto n. 57.663/1965) e que não se confunde com o endosso-mandato,
+tratado no dispositivo anterior. Trata-se de outra das espécies de endosso impróprio,
+que  não  constituem  meio  de  transferência  da  propriedade  do  título.  O  art.  918
+disciplina o endosso-caução, que ocorre quando o endossante transfere o título ao
+endossatário  como  garantia  de  outra  obrigação  assumida.  Também  chamado  de
+endosso  pignoratício,  é  a  forma  usual  de  constituição  de  penhor  sobre  títulos  de
+crédito  à  ordem  (ver  art.  1.438).  No  giro  mercantil,  são  comuns  os  contratos  de
+mútuo, garantidos por caução de títulos. Sobre esse tema, vide os nossos comentários
+ao  art.  918.  Quem  recebe  o  título  em  caução  não  adquire  a  propriedade,  mas  um
+direito  sobre  coisa  alheia,  que  lhe  foi  transmitida,  em  regra  provisoriamente,  em
+garantia do cumprimento de outra obrigação. Exatamente por isso o endossatário de
+endosso pignoratício não pode endossar novamente o título com endosso translativo,
+em branco ou em preto, mas tão somente com endosso-mandato. Em outras palavras,
+pode o endossatário, na qualidade de procurador, transferir os direitos emergentes do
+título, por exemplo, para fins de cobrança, a outro endossatário, por meio de endosso-
+mandato, conforme previsão do § 1º deste artigo. O § 2º do art. 918 repete a regra do
+§ 3º do artigo anterior, alusivo ao endosso-mandato, reiterando que o devedor não
+pode  opor  ao  endossatário  de  endosso-penhor  as  exceções  que  tinha  contra  o
+endossante, salvo se aquele tiver agido de má-fé. Assim, o devedor só pode opor ao
+endossatário-pignoratício,  enquanto  portador  do  título,  as  exceções  que  seriam
+oponíveis contra o endossante, mas não aquelas que poderia dispor contra o próprio
+endossatário-pignoratício.  A  não  ser  que  este  tenha  agido  de  má-fé.  A  Lei  n.
+10.931/2004 acrescentou o art. 66-B, § 3º, à Lei n. 4.728/1965, dispondo sobre a
+propriedade fiduciária de títulos de crédito e outros direitos creditórios, nos termos
+seguintes: “É admitida a alienação fiduciária de coisa fungível e a cessão fiduciária
+de direitos sobre coisas móveis, bem como de títulos de crédito, hipóteses em que,
+salvo disposição em contrário, a posse direta e indireta do bem objeto da propriedade
+fiduciária ou do título representativo do direito ou do crédito é atribuída ao credor,
+que, em caso de inadimplemento ou mora da obrigação garantida, poderá vender a
+terceiros o bem objeto da propriedade fiduciária independentemente de leilão, hasta
+pública ou qualquer outra medida judicial ou extrajudicial, devendo aplicar o preço
+
+da venda no pagamen
+[/PAGINA 1010]
+
+[PAGINA 1011]
+to do seu crédito e das despesas decorrentes da realização da
+garantia, entregando ao devedor o saldo, se houver, acompanhado do demonstrativo
+da operação realizada”. O cessionário fiduciário, nesse caso, se torna o titular do
+título de crédito, como objeto de propriedade resolúvel. Não se trata de penhor, nem
+de mera caução, mas de alienação do direito de crédito representado na cártula à
+instituição financeira. Com o cumprimento da obrigação garantida, o título retornará
+ao antigo possuidor. Se inadimplida, ocorre a consolidação da propriedade do título
+no patrimônio da instituição financeira.
+ JURISPRUDÊNCIA  COMENTADA:  O  endosso  penhor  não  retira  a
+legitimidade do endossante para responder por demandas que visem à inexigibilidade
+do  título,  pois  se  trata  de  modalidade  de  endosso  que  não  retira  o  interesse  do
+endossante credor “sobre a exigibilidade do título, pois se traduz em mera garantia de
+sua  dívida  com  o  banco,  permanecendo  como  credor  do  devedor”  (TJPR, ApCiv
+0916537-7, Rel. Juiz Conv. José Roberto Pinto Júnior, DJPR 27.05.2013). Portanto,
+“a instituição financeira que recebe títulos cambiais por meio de endosso-caução ou
+endosso-penhor é parte legítima para figurar no polo passivo da relação processual
+em que se busca a declaração de nulidade de tais títulos, mormente quando se verifica
+o inadimplemento da obrigação que se visava garantir” (TJPR, ApCiv 0278824-7,
+Rev. Juiz Conv. Joatan Marcos de Carvalho, DJPR 11.01.2008). Já se decidiu, por
+outro lado, em demanda envolvendo duplicatas vinculadas a contrato de penhor de
+títulos de crédito, que o endossante “não tem legitimidade para pleitear a sustação do
+protesto ou para postular a ordem de que não aponte a protesto aqueles títulos, frente
+ao endossatário, réu. A legitimidade ativa é da empresa sacada, que não foi parte
+nestes  processos”  (TJRS,  AC  194069-76.2010.8.21.7000,  Rel.  Des.  Nelson  José
+Gonzaga, DJERS 03.10.2012).
+Art. 919. A aquisição de título à ordem, por meio diverso do endosso, tem efeito de cessão civil.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo incorpora no Código Civil
+regra geral do Direito Cambial, no sentido de que a transmissão de título endossável
+
+por meio diverso do endosso não produzirá efeitos cambiais, mas de mera cessão
+civil.  A  transmissão  “por  meio  diverso  do  endosso”  pode  ser  formalizada  em
+documento à parte ou, por se tratar de coisa móvel, por mera tradição. Entretanto, em
+se tratando de título com beneficiário identificado, na ausência do endosso, a cessão
+do crédito deve ser comprovada por qualquer meio, pois ao mero portador do título
+não se atribui, pela posse, a presunção da cessão de crédito. O § 1º do art. 17 da Lei
+do Cheque também prevê a transmissão do título por cessão civil nos casos em que
+estiver vedado o endosso. Mencionaram-se em comentário anterior as distinções entre
+endosso e cessão civil. O endosso é uma figura típica para circulação das cambiais e
+não se confunde com a cessão civil de
+[/PAGINA 1011]
+
+[PAGINA 1012]
+crédito prevista nos arts. 286 a 298. Na cessão
+de crédito, o cessionário toma o lugar do cedente com os mesmos direitos do qual
+aquele  era  titular,  estando,  em  consequência,  sujeito  às  mesmas  exceções  àquele
+oponíveis. Já o endossatário é titular de um direito autônomo, sem vinculação com o
+direito  do  qual  era  titular  o  endossante.  As  exceções  que  eram  oponíveis  pelo
+devedor ao endossante não poderão ser opostas ao endossatário. A não ser diante da
+prova de que, ao receber o título, o endossatário exequente agiu de má-fé. O cedente
+normalmente  responde  apenas  pela  existência  do  crédito,  mas  não  responde  pela
+solvência  do  devedor,  enquanto  o  endossante  permanece  responsável,  como
+coobrigado solidário, pelo pagamento, ao menos nos títulos de crédito típicos (ver
+comentários ao art. 914). Ao contrário da cessão de crédito, o endosso dispensa a
+notificação do devedor que pagará validamente ao endossatário, independentemente
+de prévia notificação. Por outro lado, apesar da nítida distinção entre a transmissão
+do  título  por  endosso  e  a  cessão  de  crédito,  não  existe  óbice  a  que  o  crédito
+consubstanciado em um título de crédito seja transmitido por meio da cessão civil de
+crédito, como bem esclarece o art. 919, hipótese em que será observado o regime
+civilista  próprio  de  transmissão  das  obrigações. A  notificação,  como  requisito  de
+eficácia,  para  que  a  cessão  de  crédito  surta  efeitos  perante  o  devedor,  também
+configura condição para a aferição da legitimidade ativa do cessionário na demanda
+executiva A inexistência, nesses casos, da notificação retira a legitimidade ativa do
+cessionário para cobrança direta ao emitente do título.
+
+ JURISPRUDÊNCIA COMENTADA: Na jurisprudência localizamos diversas
+decisões admitindo a transferência do título por mera tradição, configurando, nesses
+casos, a cessão civil de créditos. Conforme enfatiza, com propriedade, o TJDF, “o
+portador  que  recebe  o  cheque  por  tradição,  assumindo  a  condição  de  cessionário,
+deve comprovar que notificara o obrigado (emitente) acerca da cessão do direito de
+crédito nele estampado, pois do contrário não subsiste eficácia do negócio em relação
+à  sua  pessoa,  obstando  que  a  pretensão  creditícia  aparelhada  pelo  título  lhe  seja
+direcionada (art. 290 do CC)” (TJDF, Rec 2011.01.1.079632-5, Rel. Des. Teófilo
+Caetano, DJDFTE 11.09.2015). A cessão civil, no entanto, não se presume, havendo
+necessidade  de  comprovação  da  transferência  do  crédito.  Consoante  decisão  do
+TJSP, “a aplicação supletiva do artigo 919 do Código Civil à legislação especial, que
+disciplina o cheque, não permite a presunção da cessão de crédito ao mero portador
+do título nominado a terceiro e sem endosso (art. 17 da Lei n. 7.357/1985), de modo
+que a sua legitimidade para a cobrança do crédito depende da efetiva comprovação
+da transferência” (TJSP, APL 0017740-03.2008.8.26.0127, Rel. Des. Nelson Jorge
+Júnior, DJESP 21.06.2013).
+[/PAGINA 1012]
+
+[PAGINA 1013]
+Art. 920. O endosso posterior ao vencimento produz os mesmos efeitos do anterior.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  dispositivo  versa  sobre  o  endosso
+posterior  ao  vencimento,  também  chamado  de  “endosso  tardio”  ou  “endosso
+póstumo”, e estabelece que tanto o endosso anterior como o posterior ao vencimento
+produzirão os mesmos efeitos. A sua eficácia é idêntica, quer tenha sido anterior, quer
+posterior ao vencimento. A regra entra em confronto com a legislação especial, e só
+será plenamente aplicável aos títulos atípicos que venham a ser criados. Com relação
+aos  títulos  típicos,  tanto  a  Lei  do  Cheque  como  a  Lei  Uniforme  sobre  Letras  de
+Câmbio e Notas Promissórias trazem regramento próprio sobre o endosso póstumo,
+normalmente distinguindo duas situações a depender do momento em que o título é
+endossado, se antes ou depois do protesto ou do apontamento para cobrança. O art. 20
+da Lei Uniforme estabelece que se o endosso se fez depois do vencimento, mas antes
+do  protesto  ou  antes  de  expirado  o  prazo  para  o  protesto  cambial,  produzirá  os
+
+mesmos efeitos daquele feito antes do vencimento. Se posterior ao protesto ou feito
+depois de expirado o prazo fixado para se fazer o protesto, produz apenas os efeitos
+da  cessão  de  crédito.  Quanto  ao  cheque,  o  art.  27  da  Lei  n.  7.357  dispõe  que  o
+endosso posterior ao protesto, ou declaração equivalente, ou à expiração do prazo de
+apresentação  produz  apenas  os  efeitos  de  cessão.  Em  suma,  para  que  o  endosso
+póstumo tenha os efeitos da cessão de crédito, o ato há de ser praticado, se no cheque,
+após  o  protesto  ou  após  o  prazo  de  apresentação,  e,  se  na  letra  de  câmbio,  nota
+promissória ou equivalentes, após o protesto por falta de pagamento ou após o prazo
+legal para a tirada do protesto. Nos títulos atípicos que venham a ser criados e que se
+subordinem exclusivamente ao Código Civil, não haverá diferença, para os efeitos
+cambiais  próprios,  se  o  endosso  foi  lançado  antes  ou  depois  do  vencimento.  Nos
+casos  em  que  a  transmissão  do  título  observar  as  regras  da  cessão  de  crédito,  o
+endossante tardio não fica responsável pelo pagamento ou pela solvência do devedor,
+mas apenas pela existência do crédito (salvo estipulação em contrário), nem muito
+menos  se  tornará  coobrigado  solidário  com  os  demais  subscritores  do  título.
+Ademais,  ao  último  endossatário,  possuidor  do  título,  poderão  ser  opostas  as
+exceções oponíveis ao endossante. Isso porque quem adquire o título por meio de
+endosso tardio após o protesto, o prazo de apresentação ou após o prazo legal para a
+tirada  do  protesto  não  é  titular  de  um  direito  autônomo  (como  se  dá  com  os
+endossatários tempestivos), mas apenas sucede ao cedente quanto aos direitos deste.
+ JURISPRUDÊNCIA COMENTADA: No caso de endosso de cheque após o
+vencimento do título, já se decidiu que, não tendo havido a notificação do devedor, “o
+pedido  de  declaração  de
+[/PAGINA 1013]
+
+[PAGINA 1014]
+inexigibilidade  do  cheque  c/c  indenização  reclama  a
+presença  (no  polo  passivo)  das  duas  rés  (cedente  e  cessionária)”  (TJSP,  APL
+0001771-18.2012.8.26.0220,  Rel.  Des.  Sérgio  Shimura, DJESP  12.08.2015).
+Contudo, o Superior Tribunal de Justiça tem pontuado a distinção entre a situação em
+que a transmissão tem a “natureza” de cessão de crédito, como se dá nos casos de
+transferência do título sem endosso, daquela em que a transmissão tem apenas “os
+efeitos” da cessão, como ocorre no endosso póstumo dos títulos típicos: “O art. 20 da
+LUG estabelece que o endosso póstumo produz os efeitos de uma cessão ordinária de
+
+créditos e não que deva ter a forma de uma cessão de créditos (...) Como o endosso
+póstumo  tem  a  forma  de  endosso,  prescinde  da  notificação  do  devedor  para  ter
+validade em relação a ele, não se aplicando a norma do art. 290 do Código Civil”
+(REsp 1.189.028/MG, Rel. Min. João Otávio de Noronha, DJe 07.03.2014). Para o
+STJ,  “o  endosso  póstumo  ou  impróprio,  assim  entendido  aquele  realizado
+ulteriormente  ao  vencimento  do  título,  ou  efetuado  posteriormente  ao  protesto  por
+falta de pagamento, ou ainda feito depois do prazo fixado para o protesto necessário,
+gera efeitos diversos do endosso propriamente dito, quais sejam, aqueles advindos de
+uma ‘cessão ordinária de crédito’. O princípio da inoponibilidade de defesa pessoal a
+terceiro de boa-fé ostenta natureza eminentemente cambial, não sendo, pois, aplicável
+à espécie. No caso em tela, o endosso deu-se posteriormente ao protesto do título por
+falta de pagamento, o que, por si só, é suficiente para afastar a restrição da defesa ao
+aspecto meramente formal da promissória” (REsp 826.660/RS, Rel. Min. Luis Felipe
+Salomão, DJe 26.05.2011).
+CAPÍTULO IV
+DO TÍTULO NOMINATIVO
+Art. 921. É título nominativo o emitido em favor de pessoa cujo nome conste no registro do
+emitente.
+ COMENTÁRIOS DOUTRINÁRIOS: O título nominativo é aquele emitido em
+favor  de  pessoa  determinada,  nominalmente  inscrita  nos  registros  da  entidade
+emissora, e cuja transmissão somente se efetiva mediante termo averbado nos livros
+próprios do emitente (termo de transferência), seguindo-se a inscrição do novo titular
+naqueles livros. Trata-se de título de uso bastante comum no âmbito das instituições
+financeiras  que  realizam  operações  de  emissão  e  custódia  de  títulos  e  valores
+mobiliários. Entre os títulos nominativos mais conhecidos entre nós estão as ações
+nominativas  de  sociedades  anônimas  e  os  títulos  da  dívida  pública.  A  Lei  n.
+10.179/2001  dispõe  sobre  os  títulos  da  dívida  pública  de  responsabilidade  do
+Tesouro  Nacional,  quais  sejam:  as  Letras  do  Tesouro  Nacional  –  LTN,  as  Letras
+Financeiras  do  Tesouro  –  LFT  e  as  Notas  do  Tesouro  Nacional  –  NTN. As  Leis
+
+4.504/1964  e  8.629/1993,  e  o  Decreto  n.  578/1992  tratam  dos  Títulos  da  Dívida
+Agrária – TDA, emitidos para desapropriação e para aquisição por compra e v
+[/PAGINA 1014]
+
+[PAGINA 1015]
+enda
+de imóveis rurais destinados à implementação de projetos integrantes do Programa
+Nacional de Reforma Agrária. O Decreto n. 9.292/2018, por sua vez, estabelece as
+características  dos  títulos  da  Dívida  Pública  Mobiliária  Federal.  As  ações
+nominativas das sociedades anônimas, a seu turno, estão reguladas no art. 31 da Lei n.
+6.404/1976. Os títulos nominativos somente podem ser emitidos por quem mantenha
+escrituração regular e registros contábeis das suas obrigações. Constitui erro comum,
+frequente até mesmo em decisões judiciais, confundir o cheque nominal com um título
+nominativo. O cheque é um título à ordem, transferível por simples endosso. Os títulos
+nominativos, mesmo quando endossáveis, somente se transmitem por termo no livro
+de registros do emitente.
+Art. 922. Transfere-se o título nominativo mediante termo, em registro do emitente, assinado
+pelo proprietário e pelo adquirente.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  dispositivo  estabelece  os  requisitos
+necessários  à  transferência  do  título  nominativo.  A  sua  propriedade  se  transfere
+mediante assento ou termo no livro apropriado do emitente, onde também será inscrito
+o  nome  do  novo  titular.  A  inscrição  complementa  o  processo  de  transferência,
+identificando e qualificando o credor do título, com base nos números de série e de
+ordem  por  meio  dos  quais  esses  títulos  se  materializam.  O  emitente  é  obrigado  a
+manter um registro especial para inscrição dos dados dos titulares de seus títulos; no
+caso das sociedades anônimas – Lei n. 6.404/1976 –, as companhias, a possuírem um
+livro de “Registro de Ações Nominativas”. A propriedade das ações nominativas, diz
+a lei, presume-se pela inscrição do nome do acionista nesse livro ou pelo extrato que
+seja fornecido pela instituição custodiante, na qualidade de proprietária fiduciária das
+ações. A transferência das ações nominativas opera-se por termo lavrado no aludido
+livro,  datado  e  assinado  pelo  cedente  e  pelo  cessionário,  ou  seus  legítimos
+representantes.  No  caso  de  ações  nominativas  adquiridas  em  bolsa  de  valores,  o
+cessionário será representado, na transferência, independentemente de instrumento de
+procuração,  pela  sociedade  corretora,  ou  pela  caixa  de  liquidação  da  bolsa  de
+
+valores (art. 31). Na sucessão hereditária, o Estatuto do Anonimato (Lei n. 6.404) já
+previa  que  a  transferência  das  ações  nominativas  em  virtude  de  transmissão  por
+sucessão  universal  ou  legado,  somente  se  fará  mediante  averbação  no  livro  de
+“Registro de Ações Nominativas”, à vista de documento hábil, que ficará em poder da
+companhia.  Esse  preceito  pode  ser  transposto  para  a  transmissão  hereditária  dos
+demais títulos nominativos. O documento hábil a propiciar a transferência dos títulos,
+junto  ao  emissor,  é  justamente  o  formal  de  partilha  ou  a  escritura  de  inventário  e
+partilha, os quais devem ser averbados no livro de registros, de modo a justificar a
+mudança
+[/PAGINA 1015]
+
+[PAGINA 1016]
+de titularidade do falecido para o herdeiro ou legatário.
+Art. 923. O título nominativo também pode ser transferido por endosso que contenha o nome do
+endossatário.
+§  1º A  transferência  mediante  endosso  só  tem  eficácia  perante  o  emitente,  uma  vez  feita  a
+competente  averbação  em  seu  registro,  podendo  o  emitente  exigir  do  endossatário  que
+comprove a autenticidade da assinatura do endossante.
+§ 2º O endossatário, legitimado por série regular e ininterrupta de endossos, tem o direito de
+obter  a  averbação  no  registro  do  emitente,  comprovada  a  autenticidade  das  assinaturas  de
+todos os endossantes.
+§ 3º Caso o título original contenha o nome do primitivo proprietário, tem direito o adquirente a
+obter do emitente novo título, em seu nome, devendo a emissão do novo título constar no
+registro do emitente.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Inova  o  Código  Civil  ao  admitir  a
+transferência dos títulos nominativos por endosso. O endosso do título nominativo só
+poderá ser feito sob a forma nominativa, ou seja, endosso em preto, fazendo constar o
+nome do endossatário, de quem poderá ser exigido que comprove a autenticidade da
+assinatura  do  endossante.  No  entanto,  a  transferência  por  endosso,  nos  títulos
+nominativos típicos, só será possível quando assim o permitirem as respectivas leis
+especiais. E nesse sentido é possível afirmar a pouquíssima utilidade do dispositivo,
+aplicável  tão  somente  a  hipotéticos  títulos  nominativos  atípicos  que  venham  a  ser
+criados. A Lei das S/A, ao tratar da ação nominativa da sociedade anônima, principal
+título nominativo brasileiro, proíbe a sua transferência por endosso. Após a edição da
+Lei  n.  8.021/1990,  foram  extintas  as  ações  endossáveis  e  as  ao  portador,
+permanecendo apenas as nominativas. Destaque-se, por fim, que a possibilidade de
+
+transferência  mediante  endosso  não  transforma  o  título  de  nominativo  em  título  à
+ordem,  mesmo  porque  o  endosso  não  dispensa  a  necessidade  de  averbação  da
+transferência nos registros do emitente. O endossatário, quer seja o único ou o último
+de uma série regular e ininterrupta de endossos, tem o direito de obter a averbação do
+seu  nome  no  registro  do  emitente,  comprovada  a  autenticidade  das  assinaturas  de
+todos os endossantes. Em alguns casos, o título nominativo pode trazer impresso o
+nome do primitivo proprietário, hipótese em que assistirá ao adquirente o direito de
+obter do emitente novo instrumento-título, em seu nome, devendo a emissão do novo
+título constar no registro do emitente.
+ JURISPRUDÊNCIA  COMENTADA:  Decisão  do  Tribunal  Regional  da  3ª
+Região enfatiza que “a cédula hipotecária, cuja disciplina é dada pelo Capítulo II do
+Decreto-lei n. 70/1966, é modalidade de título de crédito necessariamente nominativo
+e endossável em preto, sobretudo após a Lei n. 8.088/1990, que vedou o endosso em
+branco dos títulos de crédito em geral; ou seja, o endossante da cédula hipotecária
+deve des
+[/PAGINA 1016]
+
+[PAGINA 1017]
+ignar o nome do endossatário em seu verso, conforme preceitua o artigo 16
+do Decreto-lei n. 70/1966”. No caso que julgou, o TRF verificou que “a aquisição
+dos  títulos  pela  apelante  está  comprovada,  já  que  as  cártulas  cujas  cópias  foram
+juntadas  aos  autos  demonstram  que  foram  endossadas  a  Continental  S/A.  Crédito
+Imobiliário em 28/02/1973, denominação da apelante à época” (TRF 3ª Região, AC
+0446953-98.1982.4.03.6100, Rel. Des. Fed. Hélio Nogueira, DEJF 15.12.2016).
+Art. 924. Ressalvada proibição legal, pode o título nominativo ser transformado em à ordem ou ao
+portador, a pedido do proprietário e à sua custa.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo versa sobre a transformação
+ou conversão dos títulos de crédito. Inexistindo vedação prevista em diploma legal
+específico, pode o proprietário do título nominativo transformá-lo em título à ordem
+ou  ao  portador,  cabendo-lhe  pagar  as  despesas  decorrentes  dessa  transformação.
+Também pode ocorrer a conversão de um título ao portador em título nominativo. Em
+geral, a vontade do emissor do título, de acordo com os limites traçados pela lei,
+pode definir ou alterar a forma de sua circulação. A Lei n. 6.404/1976, por exemplo,
+
+dispõe  que  o  estatuto  da  companhia  com  ações  preferenciais  poderá  prever  “a
+conversão de ações de uma classe em ações de outra e em ações ordinárias, e destas
+em preferenciais, fixando as respectivas condições” (art. 19). A mesma lei faculta ao
+estatuto da companhia dispor sobre a conversibilidade de uma forma de ação em outra
+forma,  porém  exige  que  as  ações  ordinárias  ao  portador,  quando  existirem,  sejam
+obrigatoriamente conversíveis, à vontade do acionista, em nominativas endossáveis.
+No tocante às despesas da conversão, imputadas ao emissor do título, o § 3º do art. 23
+da Lei das S/A, ao tratar da emissão dos certificados das ações, igualmente autoriza a
+companhia a cobrar o custo da substituição dos certificados quando esta for solicitada
+pelo acionista.
+Art. 925. Fica desonerado de responsabilidade o emitente que de boa-fé fizer a transferência
+pelos modos indicados nos artigos antecedentes.
+ COMENTÁRIOS DOUTRINÁRIOS: A transferência do título nominativo feita
+de  boa-fé  pelo  emitente,  cumprindo  as  formalidades  estabelecidas  nos  artigos
+anteriores, produz o efeito de desonerá-lo de qualquer responsabilidade no tocante a
+vícios dos documentos ou dos atos relativos aos respectivos registros. A referência à
+boa-fé do emitente implica a inexistência de culpa ou dolo. É evidente que, havendo
+culpa ou dolo do emitente, ele será responsabilizado por eventuais danos causados.
+No caso de instituições financeiras, corretoras de valores ou sociedades em geral que
+negociem títulos de crédito, a responsabilidade civil independe de culpa, por força do
+disposto  no  art.  931  (os  empresários  individuais  e  as  empresas  respondem
+independentemente  de  culpa  pelos  danos  causados  pelos  produtos  postos  em
+circulação).  Lembrand
+[/PAGINA 1017]
+
+[PAGINA 1018]
+o  que  “Aplica-se  o  art.  931  do  Código  Civil,  haja  ou  não
+relação de consumo” (Enunciado n. 378 da IV Jornada de Direito Civil), de modo
+que haja ou não a aplicabilidade do Código de Defesa do Consumidor, tratando-se de
+empresa  ou  empresário  individual,  em  face  dos  riscos  inerentes  à  atividade
+empresarial, haverá responsabilidade objetiva, independentemente da prova da culpa.
+Art. 926. Qualquer negócio ou medida judicial, que tenha por objeto o título, só produz efeito
+perante o emitente ou terceiros, uma vez feita a competente averbação no registro do emitente.
+
+ COMENTÁRIOS DOUTRINÁRIOS: Como a titularidade do título nominativo
+só é provada por meio do registro respectivo mantido pelo emitente, de onde emana a
+própria validade do título, qualquer negócio jurídico ou medida judicial que tenha por
+objeto a transferência ou a oneração de tais títulos só produzirá efeitos, perante o
+emitente ou terceiros, depois de feita a competente averbação naquele registro. Por
+isso,  o  art.  40  da  Lei  n.  6.404/1976  estabelece  que  o  usufruto,  o  fideicomisso,  a
+alienação fiduciária em garantia e quaisquer cláusulas ou ônus que gravarem a ação
+deverão ser averbados no livro de “Registro de Ações Nominativas” ou nos livros da
+instituição  financeira,  quando  se  tratar  de  ação  escritural.  Uma  decisão  judicial
+prolatada em favor de um determinado portador precisa ser averbada nos registros do
+emitente. Tanto que o § 2º do art. 31 da Lei n. 6.404 prevê que a transferência das
+ações nominativas em virtude de ato judicial somente se fará mediante averbação no
+livro de “Registro de Ações Nominativas”, à vista de documento hábil, que ficará em
+poder da companhia. Portanto, a própria eficácia da decisão judicial fica dependente
+da averbação.
+
+CAPÍTULO I
+DA OBRIGAÇÃO DE INDENIZAR
+Comentários de
+ANDERSON SCHREIBER
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a outrem, fica obrigado a repará-
+lo.
+Parágrafo único. Haverá obrigação de reparar o dano, independentemente de culpa, nos casos
+especificados  em  lei,  ou  quando  a  atividade  normalmente  desenvolvida  pelo  autor  do  dano
+implicar, por sua natureza, risco para os direitos de outrem.
+ COMENTÁRIOS DOUTRINÁRIOS: O art. 927 inaugura o título destinado à
+disciplina  da responsabilidade  civil,  campo  do  Direito  Civil  que  se  ocupa  do
+tratamento  jurídico  dos  danos  sofridos  na  vida  social.  O ato  ilícito  representa,
+historicamente,  o  conceito  fundamental  da responsabilidade  civil.  O  art.  186  do
+Código Civil consagra a noção de ato ilícito, ao dispor que “aquele que, por ação ou
+omissão  voluntária,  negligência  ou  imprudência,  violar  direito  e  causar  dano  a
+outrem, ainda que exclusivamente moral, comete ato ilícito”. Extraem-se do art. 186
+os elementos que compõem o ato ilícito: a) culpa, b) nexo de causalidade e c) dano, já
+detidamente  analisados  nos  comentários  a  tal  artigo.  O  efeito  do  ato  ilícito  é  o
+surgimen
+[/PAGINA 1018]
+
+[PAGINA 1019]
+to  do  dever  de  reparar  os  danos  causados,  como  declara  o  artigo  em
+comento.  O caput  do  art.  927  reporta-se,  ainda,  ao  art.  187,  no  qual  se  encontra
+positivado  o  instituto  do  abuso  do  direito.  Apesar  das  críticas  já  formuladas  ao
+enquadramento  do  abuso  como  espécie  de  ato  ilícito,  afigura-se  indiscutível  a
+possibilidade  de  se  recorrer  à  responsabilidade  civil  para  a  reparação  dos  danos
+causados  pelo  exercício  abusivo  de  direitos.  Por  muito  tempo,  considerou-se  que
+somente a prática do ato ilícito poderia ensejar a responsabilização do agente pelo
+dano  causado  à  vítima.  O  ato  ilícito  representava,  nesse  sentido,  o  fundamento
+exclusivo da responsabilidade civil. Como a culpa é um dos elementos do ato ilícito,
+
+consagrou-se o entendimento de que, sem culpa, não poderia haver responsabilização
+(pas  de  responsabilité  sans  faute).  O  advento  da  responsabilidade  objetiva
+(responsabilidade  independentemente  de  culpa)  alterou,  especialmente  a  partir  do
+início do século XX, esse cenário. Hoje, no Direito Brasileiro, assim como em tantas
+outras experiências jurídicas, convivem dois regimes distintos de responsabilidade
+civil: a) a responsabilidade civil por ato ilícito, também chamada responsabilidade
+civil  subjetiva;  e  b)  a responsabilidade  civil  objetiva,  também  chamada
+responsabilidade  civil  sem  culpa  ou  responsabilidade  civil  por  risco.
+Responsabilidade objetiva.  O  parágrafo  único  do  artigo  em  comento  ocupa-se  da
+responsabilidade objetiva. Convém compreender as razões de seu surgimento. Em sua
+versão de falta moral, vinculada aos impulsos anímicos do sujeito, a culpa mostrava-
+se um elemento de dificílima comprovação. Sua aferição impunha aos juízes tarefa
+extremamente  árdua,  representada  por  exercícios  de  previsibilidade  do  dano  e
+análises psicológicas incompatíveis com os limites naturais da atividade judiciária, a
+exigir do magistrado uma capacidade quase divina. Se, de início, a dificuldade de
+demonstração da culpa atendia, em boa medida, ao interesse do liberalismo jurídico
+que  rejeitava  a  limitação  da  autonomia  privada,  salvo  nas  hipóteses  de  uso
+flagrantemente  inaceitável  da  liberdade  individual,  o  certo  é  que,  com  o
+desenvolvimento do capitalismo industrial e a proliferação de acidentes ligados às
+novas tecnologias, tal dificuldade intensificou-se ao extremo, atraindo a intolerância
+social e a rejeição do próprio Poder Judiciário. A tentativa de superar as injustiças
+impostas pela dificuldade de demonstração da culpa ocorreu por meio de inúmeros
+expedientes  técnicos  que  se  propunham  a  facilitar  o  acesso  concreto  da  vítima  à
+reparação,  como  as presunções  de  culpa  que  eram  amplamente  utilizadas  pelo
+Código Civil de 1916 em hipóteses como a responsabilidade civil por fato de animais
+e  a  responsabilidade  civil  por  fato  de  terceiros.  Embora  todos  estes mecanismos
+devam  ser
+[/PAGINA 1019]
+
+[PAGINA 1020]
+compreendidos  como  meios  de  evitar  os  tormentos  suscitados  pela
+rigorosa  exigência  de  prova  da  culpa,  certo  é  que  nenhum  deles  teve  efeito  tão
+revolucionário quanto a consagração da responsabilidade civil objetiva. A atenuação
+do papel central da culpa teve como um de seus principais marcos doutrinários uma
+obra de Raymond Saleilles, Les accidents de travail et la responsabilité civile: essai
+
+d’une  théorie  objective  de  la  responsabilité  délictuelle.  Propunha  o  autor  que  o
+princípio  de  imputabilidade  viesse  substituído  por  um  princípio  de  simples
+causalidade,  a  prescindir  da  avaliação  do  comportamento  do  sujeito  causador  do
+dano. Orientação semelhante foi seguida por Louis Josserand, que defendia a ideia de
+risco  como  critério  de  responsabilização  valendo-se  de  julgados  franceses  que  já
+vinham aplicando a responsabilidade por guarda da coisa de forma bastante objetiva.
+Na esteira das obras de Saleilles e Josserand, a culpa tornou-se objeto de intensos
+ataques  doutrinários.  Por  toda  parte,  autores  notáveis  filiaram-se  à  ideia  de  uma
+responsabilidade  objetiva,  fundada  na  teoria  do  risco.  Ao  longo  do  tempo,  a
+responsabilidade  objetiva  veio  a  ser  adotada  em  quase  todos  os  ordenamentos
+jurídicos, por meio de leis especiais, aplicáveis a setores específicos, relacionados
+aos anseios sociais mais graves no campo da responsabilidade civil. Na maior parte
+dos  casos,  todavia,  fez-se  necessário  um  longo  período  de  maturação  antes  que  a
+responsabilidade objetiva ganhasse espaços mais abertos. No Brasil, por exemplo,
+embora não fosse inteiramente estranha ao Código Civil de 1916, a responsabilidade
+objetiva  ingressou  efetivamente  no  ordenamento  positivo  por  meio  de  diplomas
+especiais,  como  a  Lei  de  Estradas  de  Ferro  (Decreto  n.  2.681/1912),  o  Código
+Brasileiro  de Aeronáutica  (Lei  n.  7.565/1986)  e  a  Lei  n.  6.453/1977,  relativa  às
+atividades nucleares. A Constituição de 1988 abriu novos caminhos, não apenas por
+força da previsão de hipóteses específicas (art. 7º, inc. XXVIII; art. 21, inc. XXIII;
+art. 37, § 6º), mas, sobretudo, pela inauguração de uma nova tábua axiológica, mais
+sensível à adoção de uma responsabilidade que, dispensando a culpa, se mostrasse
+fortemente comprometida com a reparação dos danos em uma perspectiva marcada
+pela solidariedade social. Atento à nova axiologia constitucional, o Código de Defesa
+do Consumidor veio instituir a responsabilidade objetiva do fornecedor de produtos
+ou  serviços,  criando  um  sistema  de  responsabilização  livre  do  fator  subjetivo  da
+culpa e abrangente de um vasto campo de relações na vida contemporânea. Em 2002,
+o então novo Código Civil, tão tímido em outras matérias, consolidou corajosamente a
+orientação  constitucional  no  campo  da  responsabilidade  civil.  Em  primeiro  lugar,
+converteu em objetiva a responsabilidade aplicável a uma série de hipóteses antes
+dom
+[/PAGINA 1020]
+
+[PAGINA 1021]
+inadas pela culpa presumida, como a responsabilidade por fato de terceiro e por
+
+fato de animais. Além disso, elegeu a responsabilidade objetiva em novas hipóteses
+como aquela relativa à responsabilidade empresarial “pelos danos causados pelos
+produtos postos em circulação” (art. 931). Sua maior inovação, todavia, foi prever no
+parágrafo  único  do  artigo  em  comento  uma cláusula  geral  de  responsabilidade
+objetiva por atividades de risco. A nova codificação brasileira opta francamente pela
+responsabilidade  objetiva,  e  não  por  um  sistema  intermediário,  de  presunção  de
+culpa. De fato, com a cláusula geral de responsabilidade objetiva por atividades de
+risco  contida  no  parágrafo  único  do  art.  927,  o  legislador  de  2002  espancou
+definitivamente a ideia da prevalência da culpa no sistema brasileiro. Ao exigir a
+participação  da  discricionariedade  jurisdicional  na  ampla  tarefa  de  definir  as
+atividades  sujeitas  à  sua  incidência,  a  aludida  norma  retirou,  a  um  só  tempo,  a
+condição excepcional e o caráter ex lege, ainda então atribuídos à responsabilidade
+objetiva na cultura jurídica nacional. Não há dúvida de que a indefinição quanto às
+atividades abrangidas pelo art. 927 tem gerado, na doutrina e na jurisprudência, uma
+continuada  perplexidade.  Ainda  hoje,  discute-se  o  sentido  da  referência  legal  às
+atividades que, “normalmente desenvolvidas”, implicam “risco para os direitos de
+outrem”.  Contesta-se,  habitualmente,  que  qualquer  atividade  humana  importa,  em
+alguma  proporção,  risco  aos  direitos  alheios.  A  crítica  demonstra  apenas  que  o
+legislador pretendeu, obviamente, se referir às atividades que tragam risco elevado,
+risco provável, verdadeiro perigo de dano. Algumas tentativas de especificação da
+cláusula  geral  têm  conduzido  a  equívocos.  Parte  da  doutrina  tem,  por  exemplo,
+sustentado afigurar-se imprescindível, para a incidência do parágrafo único do art.
+927,  a  constatação  de  proveitos  econômicos  auferidos  por  quem  desempenha  a
+atividade lesiva. Assim, afirma-se que maior será o risco da atividade conforme o
+proveito  visado.  Tal  entendimento  contraria  a  literalidade  do  dispositivo,  que,  ao
+aludir apenas ao risco, sem cogitar do seu aproveitamento pelo responsável, sugere
+fortemente  a  adoção  da teoria do risco-criado,  e  não  da teoria do risco-proveito.
+Outra  abordagem  que  parece  escapar  aos  limites  da  norma  tem  se  fundado  na
+exigência de que a atividade de risco se mostre organizada sob a forma de empresa, o
+que  tampouco  encontra  respaldo  na  redação  do dispositivo,  que,  ao  contrário,  se
+refere às atividades que causam risco aos direitos de outrem “por sua natureza” – e
+
+não já por sua forma de organização. Essa interpretação que restringe a incidência do
+parágrafo único do art. 927 às atividades empresariais parece inconsistente também
+com  o  próprio  sistema  instaurado  pela  codificação,  que  já  conta  com  norma
+e
+[/PAGINA 1021]
+
+[PAGINA 1022]
+specificamente  dirigida  à  responsabilidade  do  empresário  (art.  931).  Há,  ainda,
+quem  sustente  certa  inutilidade  do  parágrafo  único  do  art.  927,  por  se  limitar  a
+reeditar  a  regra  do  art.  14  do  Código  de  Defesa  do  Consumidor  relativa  à
+responsabilidade  objetiva  pelo  fornecimento  de  serviços.  Embora  a  prática  possa
+efetivamente revelar um amplo número de situações que poderiam adentrar o campo
+de incidência dos dois dispositivos, parece certo que, ao contrário do que sustenta
+essa  corrente,  o  art.  927  não  tem  seu  âmbito  de  aplicação  limitado  a  uma
+responsabilidade  perante  o  destinatário  final,  abrangendo  todo  o  campo
+interempresarial,  composto  pelas  relações  entre  os  diversos  tipos  de  fornecedores
+(fabricante,  importador  etc.).  Em  outras  palavras,  além  das  diferenças  estruturais
+entre a norma consumerista e a cláusula geral de responsabilidade objetiva contida no
+Código  Civil,  resta  claro  que  o  fundamento  de  tutela,  aqui  e  ali,  são  inteiramente
+diversos. O escopo do parágrafo único do art. 927 é impor responsabilização com
+base  no  elevado  risco  produzido  por  certa  atividade,  o  que  se  verifica  naquelas
+hipóteses em que há um elevado perigo de dano, seja por sua frequência, seja por sua
+intensidade. Na Itália, por exemplo, os Tribunais já decidiram consistir em atividade
+perigosa a gestão de aeroportos e a construção civil. É evidente que a experiência
+estrangeira  na  matéria  serve  apenas  como  elemento  de  que  se  podem  socorrer  os
+Tribunais brasileiros na qualificação de certa atividade como “atividade de risco”.
+Maior  peso  deve  adquirir  a  análise  de  dados  estatísticos  relativos  a  acidentes
+provocados,  na  realidade  brasileira,  pela  atividade  que  se  examina,  adquirindo
+importância não apenas a quantidade de danos gerados, mas também a sua gravidade,
+muitas vezes já apreendidas em outras manifestações da normativa nacional, como a
+legislação trabalhista e previdenciária. Recomenda a doutrina, ainda, que, além de
+dados  estatísticos  e  previsões  legislativas  específicas,  o  intérprete  leve  em  conta
+índices de risco definidos em tabelas de seguro. Todos esses parâmetros podem e
+devem servir de auxílio ao magistrado no momento de aferir se certa atividade se
+configura ou não como atividade que, normalmente, traz risco aos direitos de outrem,
+
+nos termos da cláusula geral contida no parágrafo único do art. 927. Configurada a
+responsabilidade objetiva, o agente fica, tal como no caso de ato ilícito, obrigado a
+reparar  o  dano  causado  à  vítima. Dever  de  reparar.  O  dever  de  reparar  é
+tradicionalmente identificado com a indenização em dinheiro. Mesmo nas hipóteses
+de dano moral, entende a doutrina que a reparação do dano dá-se por meio de uma
+compensação pecuniária. Todavia, o dever de reparar pode e deve se exprimir por
+meios específicos, capazes de assegurar à vítima, tanto quanto possível, exatamente
+aqui
+[/PAGINA 1022]
+
+[PAGINA 1023]
+lo  de  que  foi  injustamente  privada.  Daí  vir  crescendo  em  importância  na
+atualidade  a  chamada  reparação  não  pecuniária  do  dano. A  doutrina  brasileira  há
+muito admite, em que pese o silêncio do Código Civil, a reparação específica dos
+danos materiais. Assim, por exemplo, a vítima que tem o muro da sua casa danificado
+pela  colisão  de  um  automóvel  pode  pleitear  do  ofensor  a  indenização  pelo
+decréscimo do valor do imóvel causado pela deterioração do muro, mas pode também
+pedir diretamente o próprio conserto do muro. A questão assume relevância ainda
+maior no âmbito dos danos morais. No Direito Brasileiro, despatrimonializou-se o
+dano, mas não a reparação. A abertura ao ressarcimento do dano moral deu-se, aqui,
+como  em  outros  países,  mediante  forte  resistência  e  sem  nenhuma  modificação
+significativa  na  estrutura  tradicional  da  responsabilidade  civil,  cujas  bases
+dogmáticas permaneceram rigorosamente inalteradas. Por conta disso, a lesão a um
+interesse extrapatrimonial continua recebendo uma única resposta: a indenização em
+dinheiro, remédio típico de uma abordagem econômica do dano. Essa dualidade entre
+dano moral e indenização em dinheiro não gera apenas dificuldades de quantificação,
+mas  sobretudo  propaga  nas  vítimas  o  sentimento  de  impunidade,  vinculado  à
+percepção de que quem pode pagar, pode causar danos. Daí o surgimento, nos últimos
+anos, de um movimento de despatrimonialização não do dano, mas da sua reparação.
+Doutrina e jurisprudência têm se associado na criação e no desenvolvimento de meios
+não pecuniários de reparação do dano moral, como a retratação pública, a retratação
+privada e a veiculação de notícia da decisão judicial. Tais meios, esclareça-se, não
+necessariamente substituem ou eliminam a indenização em dinheiro, mas podem se
+somar a ela no sentido de reparar tanto quanto possível o dano moral sofrido pela
+vítima.  E,  por  menos  importantes  que  pareçam  à  primeira  vista,  os  meios  não
+
+pecuniários  assumem  muitas  vezes  maior  efetividade  na  satisfação  da  vítima  e  na
+pacificação  dos  conflitos  sociais.  Tome-se  como  exemplo  a  retratação  pública,
+dotada de especial relevância na reparação do dano à honra, configurando instrumento
+eficaz para a reconstrução da reputação do indivíduo no meio social em que se insere.
+Já nos casos de lesão à privacidade, quando a vítima prefere, no mais das vezes,
+manter o conflito em sigilo, de modo a evitar chamar ainda maior atenção para o fato
+integrante da sua vida privada, a retratação pode ser privada, registrada nos próprios
+autos  ou  em  correspondência  dirigida  à  vítima.  Além  da  retratação  pública  ou
+privada, há outras condutas que se podem impor ao réu, como meios de alcançar a
+mais ampla reparação do dano moral. Setores mais tradicionais da doutrina brasileira
+hesitam  em  recomendar  este  caminho.  Argumentam  que  seria  atribuir  demasiado
+poder ao juiz na reparação do dano moral. Melhor seria resol
+[/PAGINA 1023]
+
+[PAGINA 1024]
+ver tudo com dinheiro.
+O argumento não deixa de ser intrigante, já que, no campo do direito das obrigações, a
+unanimidade  dos  autores  reconhece  a  preferência  pela  solução in  natura,
+privilegiando-se  a  chamada  execução  específica  das  obrigações  em  detrimento  da
+conversão em perdas e danos. O Código Civil e o Código de Processo Civil trilharam
+claramente essa via, consagrando como solução prioritária a entrega ao credor do
+exato  bem  da  vida  que  pretendia  obter  ao  constituir  o  vínculo  obrigacional.  A
+indenização em dinheiro assume papel subsidiário nesses diplomas. Naturalmente, tal
+reparação exige participação mais ativa do Poder Judiciário. Do magistrado passa-se
+a esperar mais que o simples arbitramento do montante monetário devido. Juízes e
+desembargadores  são  convocados  a  participar  de  modo  mais  determinante  da
+reparação  do  dano  sofrido,  refletindo  sobre  as  medidas  mais  adequadas  para  a
+satisfação  da  vítima  no  caso  concreto.  Durante  os  últimos  dois  séculos,  a
+responsabilidade civil foi aprimorada e remodelada sempre a partir das suas causas
+(culpa e risco). É hora de repensar as suas consequências. Direito de danos. Embora
+ainda  hoje  seja  vista  por  parte  da  doutrina  como  um  instrumento  destinado
+exclusivamente à reparação dos danos, a responsabilidade civil contemporânea tem
+se voltado, cada vez mais, para a prevenção dos danos e para a administração dos
+riscos (risk management) de sua produção. A responsabilização do agente causador
+do dano torna-se, nesse contexto, apenas uma das possíveis consequências que são
+
+objeto do estudo da responsabilidade civil, revelando-se ainda mais efetivo cuidar do
+dano antes que ele aconteça. Daí por que, em alguns países, a responsabilidade civil
+tem sido chamada mais amplamente de “direito de danos” (derecho de daños).
+ JURISPRUDÊNCIA  COMENTADA:  Instigante  exemplo  de  aplicação  da
+cláusula geral de responsabilidade objetiva extrai-se da jurisprudência do Superior
+Tribunal  de  Justiça,  em  caso  no  qual  se  discutia  a  “responsabilidade  solidária  do
+recorrente,  Núcleo  de  Informação  e  Coordenação  do  Ponto  BR  –  NIC.BR,  pelos
+danos causados à honra e à imagem da recorrida, decorrentes do uso indevido de seus
+serviços de registro de nome de domínio na Internet”. O caso envolvia a “efetivação
+de registro de nome de domínio idêntico ao nome artístico da recorrida, solicitado
+por pessoa jurídica sem a devida autorização, veiculando neste endereço eletrônico
+conteúdo  pornográfico.”  Segundo  o  acórdão,  o  NIC.br  desenvolve  “atividades  de
+execução  e  administração  dos  registros  de  nomes  de  domínio  sob  o  código-país
+brasileiro (‘.br’) que foram atribuídas ao NIC.br por delegação do Comitê Gestor da
+Internet no Brasil – CGI.br.” Concluiu, na ocasião, o STJ: “Adoção do sistema de
+precedência denominado ‘First Come, First Served’, segundo o qual a titularidade e o
+uso  do  nome  de  domínio  são  concedidos  ao  p
+[/PAGINA 1024]
+
+[PAGINA 1025]
+rimeiro  usuário  que  realizar  o
+requerimento  de  registro  e  preencher  os  requisitos  previstos  na  Resolução  n.
+008/2008 do CGI.br. 5. Sistema de concessão de domínios que é potencialmente apto
+a gerar danos a elevado número de pessoas, pois possibilita constantes violações ao
+direito marcário, empresarial, autoral e à honra e à imagem de terceiros, ante a falta
+de um exame adequado sobre a registrabilidade do nome requerido. 6. Ausência de
+análise prévia pelo NIC.br acerca da conveniência e legítimo interesse sobre o nome
+de  domínio  escolhido,  que é  feita  exclusivamente  pelo  usuário.  7.  Riscos  de  um
+registro impróprio que devem ser alocados ao NIC.br por serem intrínsecos à  sua
+atividade de controlador exclusivo dos registros de nome de domínio no Brasil sob o
+‘.br’, ensejando a sua responsabilidade civil objetiva e solidária pelos danos morais
+causados à  recorrida.  8.  Aplicação  da  teoria  do  risco  da  atividade  estatuída  no
+‘parágrafo único’ do art. 927 do Código Civil. 9. Recorrente que possui condições de
+mitigar  os  riscos  de  danos  advindos  da  sua  atividade  de  forma  eficiente,
+
+providenciando filtragem em seu sistema com aptidão para controlar as vedações à
+escolha de nomes de domínio estabelecidas pelo próprio CGI.br, a fim de garantir
+padrões mínimos de idoneidade e autenticidade” (STJ, REsp 1.695.778/RJ, 3ª Turma,
+Rel. p/ acórdão Min. Paulo de Tarso Sanseverino, j. 26.06.2018).
+Art. 928. O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis
+não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes.
+Parágrafo único. A indenização prevista neste artigo, que deverá ser equitativa, não terá lugar
+se privar do necessário o incapaz ou as pessoas que dele dependem.
+ COMENTÁRIOS  DOUTRINÁRIOS:   Trata   o   presente   artigo   da
+responsabilidade civil do incapaz. A doutrina identifica na culpa dois componentes:
+a)  a  antijuridicidade,  entendida  como  violação  objetiva  a  um  dever  de
+comportamento, e b) a culpabilidade, entendida como a possibilidade de imputação
+ao agente desta violação. Exige-se, em outras palavras, o discernimento do agente
+acerca da antijuridicidade da conduta, tornando possível e exigível sua atuação em
+conformidade  com  o  dever  de  conduta  que  acaba  restando  violado.  A
+inimputabilidade  dos  incapazes  justificava,  nesse  contexto,  a  total  exclusão  da  sua
+responsabilidade. O Código Civil de 2002 mitiga essa exclusão, revelando marcante
+preocupação  com  a  reparação  da  vítima.  O  artigo  em  comento  impõe
+responsabilidade aos incapazes em caráter subsidiário à responsabilidade daqueles
+que responderiam por seus danos. Assim, responde o incapaz pelos danos a que der
+causa  em  duas  situações:  a)  “se  as  pessoas  por  ele  responsáveis  não  tiverem
+obrigação de fazê-lo”: esta hipótese, a rigor, abarca aquelas situações em que não se
+configura  o  dever  do  responsável  de  indenizar  a  vítima,  em  conformidade
+[/PAGINA 1025]
+
+[PAGINA 1026]
+com  as
+regras que disciplinam a responsabilidade por fatos de terceiros (art. 932, I e II); ou
+b)  quando  tais  pessoas  “não  dispuserem  de  meios  suficientes”  para  realizar  a
+reparação.  Nessas  duas  hipóteses,  o  incapaz  responde  pelos  danos  causados.  A
+emancipação  do  menor  implica  a  cessação  de  sua  incapacidade,  de  modo  que  ao
+emancipado não se aplica o art. 928. Parcela da doutrina, contudo, tem se insurgido
+contra esta solução na específica hipótese da emancipação voluntária (art. 5º, p.u., I),
+afirmando  que  isto  possibilitaria  aos  pais  emancipar  seus  filhos  com  o  intuito  de
+
+afastar a sua responsabilidade civil pelos atos da prole. Trata-se de entendimento
+consagrado no Enunciado n. 41 da I Jornada de Direito Civil: “A única hipótese em
+que poderá haver responsabilidade solidária do menor de 18 anos com seus pais é ter
+sido  emancipado  nos  termos  do  art.  5º,  parágrafo  único,  inc.  I,  do  novo  Código
+Civil.” Importante regra sobre responsabilidade do incapaz constante de lei especial,
+e  que  merece  interpretação  sistemática  com  o  regime  trazido  pelo  Código  Civil,
+consta  do  art.  116  da  Lei  n.  8.069/1991  (Estatuto  da  Criança  e  do Adolescente  –
+ECA), que dispõe sobre a obrigação do adolescente de reparar o dano causado pelo
+ato  infracional  cometido:  “Em  se  tratando  de  ato  infracional  com  reflexos
+patrimoniais, a autoridade poderá determinar, se for o caso, que o adolescente restitua
+a coisa, promova o ressarcimento do dano, ou, por outra forma, compense o prejuízo
+da vítima.” A doutrina tem identificado aí exemplo de responsabilidade do menor
+reconduzível  à  hipótese  de  não  ter  o  responsável  a  obrigação  de  reparar  o  dano,
+autorizando sua responsabilização direta: “O incapaz responde pelos prejuízos que
+causar  de  maneira  subsidiária  ou  excepcionalmente  como  devedor  principal,  na
+hipótese do ressarcimento devido pelos adolescentes que praticarem atos infracionais
+nos  termos  do  art.  116  do  Estatuto  da  Criança  e  do Adolescente,  no  âmbito  das
+medidas  socioeducativas  ali  previstas”  (Enunciado  n.  40  da I Jornada de Direito
+Civil).  Uma  vez  reconhecida  a  responsabilidade  civil  do  incapaz,  a  indenização
+deverá  ser  equitativa,  ou  seja,  deverá  levar  em  consideração  os  interesses
+contrapostos:  a)  necessidade  de  proteção  à  vítima;  e  b)  necessidade  de  evitar
+sacrifício excessivo ao incapaz. Em qualquer caso, o dever de indenizar “não terá
+lugar se privar do necessário o incapaz ou as pessoas que dele dependem”. Trata-se
+de norma que concretiza a proteção constitucional à dignidade humana, por meio da
+conservação  dos  meios  materiais  necessários  à  subsistência  da  pessoa  natural.
+Justamente por isso, afirma-se que “a impossibilidade de privação do necessário à
+pessoa, prevista no art. 928, traduz um dever de indenização equitativa, informado
+pelo  princípio  constitucional  da  proteção  à  dignidade
+[/PAGINA 1026]
+
+[PAGINA 1027]
+da  pessoa  humana.  Como
+consequência,  também  os  pais,  tutores  e  curadores  serão  beneficiados  pelo  limite
+humanitário do dever de indenizar, de modo que a passagem ao patrimônio do incapaz
+se dará não quando esgotados todos os recursos do responsável, mas se reduzidos
+
+estes ao montante necessário à manutenção de sua dignidade” (Enunciado n. 39 da I
+Jornada de Direito Civil). Impõe-se, contudo, ir além. Se o fundamento do preceito
+reside  na  tutela  da  pessoa  humana,  não  há  por  que  o  restringir  ao  incapaz  ou  às
+pessoas por ele responsáveis. Toda obrigação de indenizar deve ser equitativa, não
+podendo privar o devedor dos meios necessários para uma vida digna. Há, por assim
+dizer,  um limite  humanitário  ao  dever  de  indenizar,  que  não  pode  resultar  na
+colocação do agente causador do dano em situação de necessidade. Em tais hipóteses,
+cumpre  ao  juiz  temperar  a  aplicação  do  princípio  da  reparação  integral  do  dano,
+atribuindo à vítima a indenização mais ampla possível, mas sem privar o réu de um
+“patrimônio mínimo”, indispensável à manutenção de uma vida digna.
+ JURISPRUDÊNCIA COMENTADA: O Superior Tribunal de Justiça já teve a
+oportunidade  de  se  manifestar  acerca  do  conteúdo  normativo  desta  inovação  do
+Código  Civil  de  2002,  assentando  que  “a  responsabilidade  civil  do  incapaz  pela
+reparação dos danos é subsidiária e mitigada (art. 928 do CC). É subsidiária porque
+apenas ocorrerá quando os seus genitores não tiverem meios para ressarcir a vítima; é
+condicional  e  mitigada  porque  não  poderá  ultrapassar  o  limite  humanitário  do
+patrimônio mínimo do infante (art. 928, par. único, do CC e En. 39/CJF); e deve ser
+equitativa, tendo em vista que a indenização deverá ser equânime, sem a privação do
+mínimo necessário para a sobrevivência digna do incapaz (art. 928, par. único, do CC
+e  En.  449/CJF)”  (STJ,  REsp  1.436.401/MG,  4ª  Turma,  Rel.  Min.  Luis  Felipe
+Salomão, j. 02.02.2017).
+Art. 929. Se a pessoa lesada, ou o dono da coisa, no caso do inciso II do art. 188, não forem
+culpados do perigo, assistir-lhes-á direito à indenização do prejuízo que sofreram.
+ COMENTÁRIOS DOUTRINÁRIOS: Nada obstante o afastamento da ilicitude
+das condutas albergadas pelo art. 188 (v. comentários ao art. 188), o Código Civil
+impõe o dever de indenizar na hipótese de estado de necessidade, quando a vítima
+não foi a causadora do perigo. Assim, por exemplo, se uma pessoa, ao fugir de um
+incêndio, dá um empurrão em terceiro, causando-lhe lesão, deverá indenizar o dano
+sofrido pelo terceiro, salvo se este último tiver ocasionado o incêndio. Trata-se de
+
+exemplo de responsabilidade civil por ato lícito.
+ JURISPRUDÊNCIA  COMENTADA:  Em  caso  envolvendo  “acidente  de
+trânsito ocorrido em estrada federal consistente na colisão de um automóvel com uma
+motocicleta,  que  trafegava  em  sua  mão  de  direção”,  ao  enfrentar  “alegação  do
+motorista do automóvel de ter agido em estado de necessidade, pois teve
+[/PAGINA 1027]
+
+[PAGINA 1028]
+a sua frente
+cortada por outro veículo, obrigando-o a invadir a outra pista da estrada”, concluiu o
+Superior Tribunal de Justiça pela “irrelevância da alegação, mostrando-se correto o
+julgamento antecipado da lide por se tratar de hipótese de responsabilidade civil por
+ato lícito prevista nos artigos 929 e 930 do Código Civil. O estado de necessidade
+não afasta a responsabilidade civil do agente, quando o dono da coisa atingida ou a
+pessoa lesada pelo evento danoso não for culpado pela situação de perigo” (STJ,
+REsp 1.278.627/SC, 3ª Turma, Rel. Min. Paulo de Tarso Sanseverino, j. 08.12.2012).
+Art. 930. No caso do inciso II do art. 188, se o perigo ocorrer por culpa de terceiro, contra este
+terá o autor do dano ação regressiva para haver a importância que tiver ressarcido ao lesado.
+Parágrafo único. A mesma ação competirá contra aquele em defesa de quem se causou o dano
+(art. 188, inciso I).
+ COMENTÁRIOS DOUTRINÁRIOS: Embora o art. 929 impute à pessoa que
+provocou danos em estado de necessidade o dever de indenizar, o art. 930 ressalva
+que, caso seja possível identificar o terceiro causador do perigo, terá o agente ação
+de  regresso  em  face  deste  terceiro.  Registre-se  que,  uma  vez  configurada  a
+responsabilidade do terceiro, este se submete não apenas ao direito de regresso do
+agente, mas também à responsabilidade direta perante a vítima, em caráter solidário
+com o agente em estado de necessidade, por força do art. 942. O parágrafo único do
+artigo em comento trata da legítima defesa de terceiro, em redação pouco clara. A
+legítima defesa, em regra, diferentemente do estado de necessidade, não gera o dever
+de indenizar, salvo se praticada com excesso ou erro na execução. É a este segundo
+caso – quando o defensor causa dano a pessoa diversa do agressor – que se reporta o
+parágrafo único do art. 930, autorizando o defensor a intentar ação de regresso contra
+o terceiro defendido, embora este não tenha praticado conduta alguma. Nestes casos,
+
+atribui-se ao beneficiário da legítima defesa o ônus decorrente da conduta realizada
+em seu interesse (ainda que falha). A doutrina tem defendido a aplicação analógica
+desta  disposição  ao  estado  de  necessidade,  quando  o  agente  atua  para  salvar  um
+terceiro do perigo.
+Art. 931. Ressalvados outros casos previstos em lei especial, os empresários individuais e as
+empresas  respondem  independentemente  de  culpa  pelos  danos  causados  pelos  produtos
+postos em circulação.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  presente  artigo  institui  regra  geral
+acerca da responsabilidade do empresário por danos decorrentes de produtos postos
+em circulação. Para alguns autores, a questão já era objeto de regulação pelo Código
+de Defesa do Consumidor desde 1990 (art. 12), com abrangência limitada às relações
+de consumo. Afirma-se, nesse sentido, que “o art. 931 amplia o conceito de fato do
+produto  existente  no  art.  12  do  Código  de  Defesa  do  Consumidor,  imputando
+responsabilidade  civil  à  empresa  e  aos
+[/PAGINA 1028]
+
+[PAGINA 1029]
+empresários  individuais  vinculados  à
+circulação dos produtos” (Enunciado n. 42 da I Jornada de Direito Civil). Não há, a
+rigor, qualquer sobreposição com o regime do CDC, por conta da ressalva expressa
+contida no artigo em comento aos “casos previstos em lei especial”. Com efeito, “a
+regra  do  art.  931  do  novo  Código  Civil  não  afasta  as  normas  acerca  da
+responsabilidade pelo fato do produto previstas no art. 12 do Código de Defesa do
+Consumidor,  que  continuam  mais  favoráveis  ao  consumidor  lesado”  (Enunciado  n.
+190 da III Jornada de Direito Civil). Na prática, portanto, o preceito tem seu campo
+de aplicação restrito às situações em que o dano atinja não um “destinatário final” do
+produto (CDC, art. 2º), mas sim, no mais das vezes, outros participantes da própria
+cadeia de fornecimento, como o transportador, o armazenador, o comerciante etc. A
+regra  atribui  responsabilidade  objetiva  ao  empresário  individual  e  à  sociedade
+empresária   (equivocadamente   referida   pelo   dispositivo   como   “empresa”,
+confundindo-se  sujeito  e  objeto)  pelos  danos  causados  por  produtos  postos  em
+circulação. Não fica completamente clara a razão pela qual o Código Civil se limitou
+a tratar dos produtos, silenciando acerca da hipótese análoga, também prevista no
+âmbito  das  relações  de  consumo,  do  dano  causado  pelos  serviços  prestados  por
+
+empresários ou sociedades empresárias. O fundamento da responsabilidade objetiva
+consiste, neste dispositivo, no risco criado pela exploração da empresa. A regra do
+Código  Civil  revela-se  claramente  deficiente  quando  comparada  ao  CDC:  ao  se
+referir aos danos “causados pelos produtos postos em circulação”, o dispositivo da
+codificação  civil  parece  abarcar  mesmo  os  danos  causados  pela  periculosidade
+inerente ao produto, o que imporia ao empresário uma responsabilidade mais gravosa
+que aquela incidente nas relações de consumo. A falta de disposição análoga ao § 1º
+do  art.  12  do  CDC,  que  limita  a  responsabilidade  do  fornecedor  ao  produto
+defeituoso (que “não oferece a segurança que dele legitimamente se espera”), não
+deve  impedir  o  intérprete  de  recorrer  à  disposição  consumerista  para  preservar  a
+unidade  da  ordem  jurídica  e  evitar  uma  responsabilização  excessiva  que  não
+encontraria justificativa no âmbito das relações paritárias. No mesmo sentido, registra
+a doutrina que “aos casos do art. 931 do Código Civil aplicam-se as excludentes da
+responsabilidade objetiva” (Enunciado n. 562 da VI Jornada de Direito Civil).
+Art. 932. São também responsáveis pela reparação civil:
+I – os pais, pelos filhos menores que estiverem sob sua autoridade e em sua companhia;
+II – o tutor e o curador, pelos pupilos e curatelados, que se acharem nas mesmas condições;
+III – o empregador ou comitente, por seus empregados, serviçais e prepostos, no exercício do
+trabalho que lhes competir, ou em razão dele;
+IV – os donos de hotéis, hospedarias, casas ou estabe
+[/PAGINA 1029]
+
+[PAGINA 1030]
+lecimentos onde se albergue por dinheiro,
+mesmo para fins de educação, pelos seus hóspedes, moradores e educandos;
+V  –  os  que  gratuitamente  houverem  participado  nos  produtos  do  crime,  até  a  concorrente
+quantia.
+ COMENTÁRIOS DOUTRINÁRIOS: A regra na responsabilidade civil é que
+cada pessoa responde apenas pelos próprios atos. O legislador, excepcionalmente, no
+afã  de  ampliar  as  possibilidades  de  ressarcimento  da  vítima,  institui  hipóteses  de
+responsabilidade  pelo  fato  de  terceiro,  como  aquelas  constantes  do  art.  932  do
+Código Civil, ora em comento. Fundada, ao tempo da codificação de 1916, na culpa
+do agente por inobservância de deveres de cuidado referentes à escolha ou vigilância
+do terceiro causador do dano (culpa in eligendo  ou  culpa in vigilando), a matéria
+sofreu importante reformulação no Código Civil de 2002, convertendo-se em hipótese
+
+de  responsabilidade  objetiva  (v.  comentários  ao  art.  933).  Em  todo  caso,  a
+responsabilização por ato de terceiro pressupõe o prévio preenchimento, ao menos no
+plano  teórico,  dos  pressupostos  de  responsabilidade  do  próprio terceiro.
+Responsabilidade  dos  pais.  Respondem  os  pais  pelos  atos  praticados  pelo  filho
+menor, quando eles estiverem a) sob sua autoridade e b) em sua companhia. Exige-se,
+em primeiro lugar, que o pai seja titular de autoridade parental (ou poder familiar),
+situação jurídica complexa que autoriza a interferência dos pais na esfera jurídica dos
+filhos,  sempre  no  interesse  destes.  Daí  por  que,  em  regra,  não  se  admite  a
+responsabilidade do pai pelo filho menor emancipado, uma vez que a emancipação é
+causa de extinção da autoridade parental (art. 1.635, II, do CC). Conforme já narrado
+nos comentários ao art. 928, parcela da doutrina tem defendido que este efeito de
+exoneração  da  responsabilidade  dos  pais  seja  mitigado  em  casos  de  emancipação
+voluntária.  Segundo  requisito  exigido  pelo  legislador  para  a  configuração  da
+responsabilidade  dos  pais  é  que  o  menor  esteja  sob  sua  companhia. Ao  repetir  a
+redação  do  Código  Civil  anterior,  o  legislador  introduziu  requisito  que  não  se
+harmoniza  totalmente  com  a  opção  da  nova  codificação  pela  responsabilidade
+objetiva. Com efeito, a exigência de que o menor esteja em companhia dos pais se
+justificaria  como  fonte  da  responsabilidade in  vigilando.  Melhor  teria  feito  o
+legislador em simplesmente abolir o requisito, estabelecendo a responsabilidade dos
+pais  pela  simples  titularidade  da  autoridade  parental.  Diante  da  opção  legislativa,
+contudo, impõe-se conferir interpretação mais flexível ao requisito, de modo a não
+frustrar a natureza objetiva da responsabilização. Companhia, portanto, não pode se
+limitar às situações em que o pai esteja fisicamente presente no momento do dano. O
+pai ou a mãe tem o menor em sua companhia enquanto estes então sob sua esfera de
+responsabilidade,  entendida  de  modo  amplo,  não  sen
+[/PAGINA 1030]
+
+[PAGINA 1031]
+do  a  companhia  rompida  por
+distanciamentos físicos efêmeros (ida do menor ao colégio, ida da mãe ao trabalho,
+ou mesmo a fuga clandestina do menor com intuito de retorno à residência em poucas
+horas).  Por  outro  lado,  finda  a  companhia  com  a  entrega  do  menor  à  esfera  de
+responsabilidade  do  outro  pai  (seja  em  caso  de  casais  separados,  seja  quando,
+estando junto o casal, um deles viaje sozinho com o filho, por exemplo) ou com um
+distanciamento físico por período considerável de tempo (v.g., menor que passa férias
+
+com  familiares  em  bairro  distante  da  residência;  intercâmbio  em  outro  país).
+Recorde-se,  ainda,  em  total  consonância  com  o  que  se  afirmou  sobre  a
+responsabilidade por fato de terceiros, que “a responsabilidade civil dos pais pelos
+atos dos filhos menores, prevista no art. 932, inc. I, do Código Civil, não obstante
+objetiva, pressupõe a demonstração de que a conduta imputada ao menor, caso o fosse
+a um agente imputável, seria hábil para a sua responsabilização” (Enunciado n. 590
+da VII Jornada de Direito Civil). Responsabilidade dos tutores e curadores.  Os
+mesmos  requisitos  examinados  acima  aplicam-se  para  a  configuração  da
+responsabilidade  de  tutores  e  curadores  por  atos  de  seus  pupilos  e  curatelados.
+Parcela da doutrina nega a possibilidade de responsabilização do curador pelos atos
+do pródigo, apontando a natureza peculiar da curatela nesses casos, centrando-se mais
+no patrimônio do pródigo que sobre sua pessoa. Responsabilidade do empregador. O
+empregador  e  o  comitente  respondem  pelos  danos  causados  por  seus  empregados,
+serviçais e prepostos, no exercício do trabalho que lhes competir, ou em razão dele.
+Aqui, os terceiros realizam atos subordinados e, muitas vezes, inseridos na própria
+atividade econômica do agente, o que justifica a responsabilização deste pelos danos
+causados  por  aqueles,  quando  tais  atos  (culposos)  guardem  pertinência  com  as
+funções desempenhadas. O art. 14 do CDC, as estabelecer a responsabilidade civil
+objetiva  do  fornecedor  pelo  fato  do  serviço,  adota  critério  mais  abrangente  e  que
+acaba por cobrir a maior parte das situações em que o inciso III do art. 932 teria
+utilidade. Responsabilidade de hospedeiros. A responsabilidade dos donos de hotéis,
+hospedarias, casas ou estabelecimentos onde se albergue por dinheiro, mesmo para
+fins de educação, pelos atos de seus hóspedes, moradores e educandos é objeto de
+severas  críticas  pela  doutrina.  A  amplitude  do  dispositivo  levaria  a  soluções
+intoleráveis,  como  a  responsabilização  de  uma  sociedade  hoteleira  pelo
+atropelamento  de  um  transeunte  por  um  hóspede  seu.  Daí  se  defender  uma
+interpretação restritiva do preceito, limitando a responsabilidade do agente aos atos
+praticados pelos terceiros no interior do estabelecimento. Responsabilidade dos que
+participam  gratuitamente  do  produto  de  crime.  Por  fim,  o  art.  932  alude  à
+responsabilida
+[/PAGINA 1031]
+
+[PAGINA 1032]
+de daqueles que gratuitamente houverem participado nos produtos do
+crime. A exigência de participação gratuita nos produtos exclui do âmbito da norma
+
+os coautores, que respondem diretamente perante a vítima, na forma do art. 942. A
+doutrina, há muito, destaca que a hipótese descrita neste inciso V não é de verdadeira
+responsabilidade por fato de terceiro, mas sim de dever de restituir a quem de direito
+o proveito do crime, fundado na vedação ao enriquecimento sem causa (art. 884).
+ JURISPRUDÊNCIA   COMENTADA:   Especialmente   polêmica   na
+jurisprudência é a interpretação a ser conferida ao inciso I do presente artigo. Assim,
+já se afirmou que “o art. 932, I do CC ao se referir a autoridade e companhia dos pais
+em relação aos filhos, quis explicitar o poder familiar (a autoridade parental não se
+esgota  na  guarda),  compreendendo  um  plexo  de  deveres  como,  proteção,  cuidado,
+educação,  informação,  afeto,  dentre  outros,  independentemente  da  vigilância
+investigativa e diária, sendo irrelevante a proximidade física no momento em que os
+menores  venham  a  causar  danos”  (STJ,  REsp  1.436.401/MG,  4ª  Turma,  Rel.  Min.
+Luis  Felipe  Salomão,  j.  02.02.2017).  Afigura-se  aparentemente  mais  restritivo  o
+posicionamento adotado no seguinte acórdão: “A responsabilidade dos pais por filho
+menor – responsabilidade por ato ou fato de terceiro –, a partir do advento do Código
+Civil de 2002, passou a embasar-se na teoria do risco para efeitos de indenização, de
+forma  que  as  pessoas  elencadas  no  art.  932  do  Código  Civil  respondem
+objetivamente, devendo-se comprovar apenas a culpa na prática do ato ilícito daquele
+pelo qual são os pais responsáveis legalmente. Contudo, há uma exceção: a de que os
+pais respondem pelo filho incapaz que esteja sob sua autoridade e em sua companhia;
+assim, os pais, ou responsável, que não exercem autoridade de fato sobre o filho,
+embora ainda detenham o poder familiar, não respondem por ele, nos termos do inciso
+I do art. 932 do Código Civil” (STJ, REsp 1.232.011/SC, 3ª Turma, Rel. Min. João
+Otávio de Noronha, j. 17.12.2015).
+Art. 933. As pessoas indicadas nos incisos I a V do artigo antecedente, ainda que não haja culpa
+de sua parte, responderão pelos atos praticados pelos terceiros ali referidos.
+ COMENTÁRIOS DOUTRINÁRIOS: A possibilidade de responsabilizar uma
+pessoa por fatos cometidos por outrem encontrou seu fundamento, primeiro, na culpa
+pela falha de deveres de vigilância e de cuidado na escolha de prepostos (culpa in
+
+vigilando e in eligendo). No entanto, a prova desta culpa por omissão revelava-se, no
+mais das vezes, impossível (probatio diabolica), fazendo com que a jurisprudência
+passasse a extrair do texto legal diversas presunções de culpa, invertendo o ônus da
+prova em relação a este elemento da responsabilidade. Na prática, tais presunções de
+culpa foram se convertendo, pela atuação jurisprudencial, de relativas em absolutas,
+de maneira que o juiz presumia a culpa de modo tão definit
+[/PAGINA 1032]
+
+[PAGINA 1033]
+ivo que o gesto equivalia à
+sua  dispensa.  O  Código  Civil  consolidou  este  processo  evolutivo,  enunciando
+expressamente  a  natureza  objetiva  da  responsabilidade  por  fato  de  terceiro.  Em
+síntese, “a responsabilidade civil por ato de terceiro funda-se na responsabilidade
+objetiva ou independente de culpa, estando superado o modelo de culpa presumida”
+(Enunciado n. 451 da V Jornada de Direito Civil). Não há, portanto, que se perquirir
+a culpa do responsável.
+ JURISPRUDÊNCIA  COMENTADA:  Enfatizando  a  natureza  objetiva  da
+responsabilidade pelo fato de terceiro, já destacou o STJ: “Embora a regra seja a
+responsabilidade  por  fato  próprio,  a  Lei  estabelece,  em  hipóteses  especiais,
+relacionadas  às  características  de  certas  relações  jurídicas,  a  responsabilidade
+solidária por ato de outrem. O CC/02 deixou expressamente de exigir a culpa para a
+atribuição da responsabilidade por fato de terceiro e passou a perfilhar a teoria da
+responsabilidade  objetiva  do  responsável,  com  a  finalidade  de  assegurar  o  mais
+amplo  ressarcimento  à  vítima  dos  eventos  danosos.  A  responsabilidade  indireta
+decorre  do  fato  de  os  responsáveis  exercerem  poderes  de  mando,  autoridade,
+vigilância ou guarda em relação aos causadores imediatos do dano, do que decorre
+um dever objetivo de guarda e vigilância” (STJ, REsp 1.433.566/RS, 3ª Turma, Rel.
+Min. Nancy Andrighi, j. 23.05.2017).
+Art. 934. Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago
+daquele  por  quem  pagou,  salvo  se  o  causador  do  dano  for  descendente  seu,  absoluta  ou
+relativamente incapaz.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  presente  artigo  traz  regra  geral
+admitindo  o direito de regresso  do  responsável  pelo  fato  de  terceiro  em  face  do
+
+terceiro causador do dano. Com efeito, a responsabilidade indireta é desenhada de
+modo a beneficiar a vítima, expandindo suas possibilidades de ressarcimento, mas
+não tem por intuito desonerar o autor do dano do seu próprio dever indenizatório. O
+artigo ressalva a hipótese de o terceiro causador do dano ser descendente incapaz
+(absoluta ou relativamente) daquele que indenizou a vítima. Nesse caso, prestigia-se a
+solidariedade familiar, impedindo que o ascendente exerça seu direito de regresso em
+face do próprio descendente, reputado incapaz pela ordem jurídica. Em que pese a
+menção estrita ao descendente incapaz, a identidade de ratio recomenda a aplicação
+analógica do preceito quando o descendente for pessoa com deficiência intelectual
+que prejudique de modo substancial o seu discernimento – embora sejam reputados
+capazes pelo art. 6º do Estatuto da Pessoa com Deficiência, não pode haver dúvida
+acerca  de  sua  vulnerabilidade,  apta  a  afastar  a  pretensão  regressiva  de  seus
+ascendentes.
+Art. 935. A responsabilidade civil é independente da criminal, não se podendo questionar mais
+sobre a existência do fato, ou sobre quem seja o seu autor, quando estas questões se acharem
+deci
+[/PAGINA 1033]
+
+[PAGINA 1034]
+didas no juízo criminal.
+ COMENTÁRIOS DOUTRINÁRIOS: A prática de condutas que dão ensejo à
+responsabilização do agente tanto na esfera civil como na criminal desperta dúvidas
+acerca da harmonização das decisões proferidas pelos respectivos juízos. O art. 935
+proclama, de início, a regra geral da independência entre as responsabilidades civil e
+criminal. Trata-se, com efeito, de institutos autônomos, vocacionados à realização de
+finalidades  distintas  (reparação  da  vítima  e  punição  do  autor,  respectivamente)  e
+subordinados  a  pressupostos  próprios.  Por  outro  lado,  a  oferta  de  respostas
+completamente díspares pelos juízos cível e criminal, divergindo quanto à avaliação
+de elementos de fato, colocaria em xeque a própria coerência da ordem jurídica, o
+que explica as exceções inseridas na segunda parte do artigo em comento. O art. 935
+impede, nesse sentido, “questionar mais sobre a existência do fato, ou sobre quem
+seja o seu autor, quando estas questões se acharem decididas no juízo criminal”. A
+afirmação é excessivamente genérica, exigindo uma maior especificação quanto ao
+tipo  de  decisão  proferida.  Em  se  tratando  de sentença  penal  condenatória,  esta
+
+necessariamente terá reconhecido a ocorrência do fato criminoso e a autoria pelo réu,
+razão pela qual estas questões não mais poderão ser discutidas na esfera cível. Com
+efeito, segundo o art. 91, I, do Código Penal: “São efeitos da condenação: (...) tornar
+certa a obrigação de indenizar o dano causado pelo crime.” O Código de Processo
+Civil vai além, conferindo eficácia executiva à sentença penal condenatória transitada
+em julgado, que passa a valer como título executivo judicial (art. 515, VI, do CPC). A
+cognição do juízo cível fica adstrita à investigação acerca da existência de um dano e
+sua quantificação, no âmbito da liquidação de sentença. Inovou a Lei n. 11.719/2008
+ao  modificar  a  redação  do  art.  387,  IV,  do  CPP,  para  determinar  que  “o  juiz,  ao
+proferir sentença condenatória: (...) fixará valor mínimo para reparação dos danos
+causados  pela  infração,  considerando  os  prejuízos  sofridos  pelo  ofendido”.  O
+dispositivo merece críticas, por transferir ao juízo criminal a tarefa de liquidar o dano
+(ainda que em parcela mínima), atividade tipicamente desenvolvida no âmbito cível,
+com base em pressupostos próprios. Na prática, poucas têm sido as decisões que têm
+se aventurado a fixar este mínimo indenizatório, justamente pela incompatibilidade do
+procedimento penal com a produção probatória necessária para quantificar o dano
+material (e pela pouca familiaridade com a tarefa de arbitramento do dano moral, que
+desafia  os  mais  experientes  juízes  cíveis).  De  todo  modo,  fixado  o  valor  mínimo
+reparatório na sentença criminal, dispensa-se a liquidação no juízo cível, a menos que
+a  vítima  pretenda  pleitear  quantia  mais  elevada.  Já  em  se  tratando  de sentença
+criminal absolutória, impõe-se ulterior distinção, com base em sua fundamentação.
+[/PAGINA 1034]
+
+[PAGINA 1035]
+Caso a sentença reconheça “estar provada a inexistência do fato” ou “estar provado
+que  o  réu  não  concorreu  para  a  infração  penal”  (art.  386,  incs.  I  e  IV,  do  CPP),
+exprimindo juízo de certeza acerca do contexto fático, fica o juízo cível vinculado a
+tais  conclusões.  Por  outro  lado,  entendendo  o  juízo  criminal  “não  haver  prova  da
+existência  do  fato”  ou  “não  existir  prova  de  ter  o  réu  concorrido  para  a  infração
+penal”  (art.  386,  incs.  II  e  V,  do  CPP),  fica  o  juízo  cível  livre  para  reavaliar  a
+questão. Com efeito, a primazia da decisão proferida no juízo criminal, nos termos
+acima delineados, justifica-se precisamente pelo standard probatório mais rigoroso
+exigido  naquela  seara,  por  implicar,  não  raramente,  a  privação  da  liberdade  do
+indivíduo. Daí por que a insuficiência de prova na esfera penal não implica igual
+
+juízo  de  insuficiência  no  âmbito  cível.  Conforme  sintetiza  o  Enunciado  n.  45  da I
+Jornada de Direito Civil: “No caso do art. 935, não mais se poderá questionar a
+existência  do  fato  ou  quem  seja  o  seu  autor  se  essas  questões  se  acharem
+categoricamente decididas no juízo criminal.” O juízo cível, contudo, não se encontra
+vinculado  à  conclusão  do  criminal  apenas  no  tocante  aos  fatos.  Em  que  pese  o
+silêncio do Código Civil, também a qualificação da conduta do réu como abarcada
+por  uma  excludente  de  ilicitude  (juízo  este  estritamente  jurídico)  afasta
+definitivamente a possibilidade de uma condenação cível, como esclarece o art. 65 do
+Código  de  Processo  Penal:  “Faz  coisa  julgada  no  cível  a  sentença  penal  que
+reconhecer ter sido o ato praticado em estado de necessidade, em legítima defesa, em
+estrito  cumprimento  de  dever  legal  ou  no  exercício  regular  de  direito.”  Não  há
+diferença substancial entre as excludentes de ilicitude civis e penais, compreendendo-
+se a opção legislativa. Fundada a absolvição em qualquer outra causa, aplica-se a
+regra geral da independência entre as responsabilidades civil e criminal.
+ JURISPRUDÊNCIA  COMENTADA:  O  Superior  Tribunal  de  Justiça  já
+afirmou a imprescindibilidade do trânsito em julgado da sentença criminal para que se
+opere a vinculação do juízo cível: “O propósito recursal é determinar se a sentença
+condenatória proferida no juízo criminal e que reconheceu materialidade delitiva e
+autoria  do  crime  de  estelionato  por  parte  dos  recorridos  –  a  despeito  de  não  ter
+transitado  em  julgado  em  virtude  de  posterior  reconhecimento  da  ocorrência  da
+prescrição  punitiva  e  consequente  extinção  da  punibilidade  –  faz  coisa  julgada  no
+juízo cível, a fim de impedir a discussão nesta seara acerca da alegada falsificação do
+distrato supostamente firmado entre as partes. Nos termos do art. 935 do CC/2002, a
+responsabilidade civil é independente da criminal, não se podendo questionar mais
+sobre a existência do fato, ou sobre quem seja o seu autor, quando
+[/PAGINA 1035]
+
+[PAGINA 1036]
+estas questões se
+acharem  decididas  no  juízo  criminal.  A  independência  entre  os  juízos  cível  e
+criminal,  preconizada  no  art.  935  do  CC/02,  é  apenas  relativa,  porquanto  não  é
+possível indagar a existência do fato e sua autoria no cível quando estas questões já
+se  acharem  decididas  na  esfera  penal,  assim  como  também  quando  nesta  for
+reconhecida  causa  excludente  de  ilicitude  (art.  65  do  CPP).  É  imprescindível  o
+
+trânsito em julgado da sentença penal condenatória para que possa fazer coisa julgada
+no  juízo  cível.  Na  hipótese  sob  julgamento,  infere-se,  de  fato,  a  inexistência  de
+trânsito em julgado da sentença penal condenatória, uma vez que foi substituída, em
+grau de apelação, por acórdão que extinguiu a punibilidade dos agentes, em razão do
+reconhecimento da prescrição retroativa da pretensão punitiva. Em consequência, a
+extinção  da  punibilidade  dos  recorridos  na  esfera  penal  gerou  a  possibilidade  de
+discussão e análise, na seara cível, da própria validade e veracidade do instrumento
+de distrato acostado aos autos” (STJ, REsp 1.642.331/SP, 3ª Turma, Rel. Min. Nancy
+Andrighi, j. 24.04.2018).
+Art. 936. O dono, ou detentor, do animal ressarcirá o dano por este causado, se não provar culpa
+da vítima ou força maior.
+ COMENTÁRIOS  DOUTRINÁRIOS:   O   presente   artigo   trata   da
+responsabilidade civil por fato de animais. A matéria é dotada de grande relevância
+prática, não superada pela substancial urbanização do país: são ainda frequentes os
+exemplos de danos causados por animais de estimação ou por colisões de animais
+selvagens  com  veículos.  O  Código  Civil  reproduz  o  dispositivo  constante  da
+codificação anterior, eliminando, porém, a excludente fundada na demonstração de
+que houvera guarda e vigilância do animal “com o cuidado preciso”. Tal exclusão
+transformou a hipótese de responsabilidade por culpa presumida em inequívoco caso
+de responsabilidade objetiva, fundada no risco criado pelos animais. O legislador
+afasta responsabilidade do dono do animal apenas quando restar provada a “culpa da
+vítima  ou  força  maior”,  embora,  a  rigor,  a  responsabilidade  objetiva  possa  ser
+afastada pela demonstração de qualquer evento que ocasione a ruptura do nexo de
+causalidade.  Confira-se,  acerca  da  interpretação  deste  dispositivo,  o  Enunciado  n.
+452 da V Jornada de Direito Civil: “A responsabilidade civil do dono ou detentor de
+animal é objetiva, admitindo-se a excludente do fato exclusivo de terceiro.” O artigo
+em comento imputa a responsabilidade pelos danos causados pelo animal ao dono ou
+ao  detentor,  sem  esclarecer  em  que  casos  responderiam  um  ou  outro.  Diante  da
+omissão,  a  doutrina  segue  afirmando  que  a  responsabilidade  recai  primeiramente
+sobre o proprietário, por ser o guardião presuntivo do animal, mas se transfere junto
+
+com  a  posse  ou  detenção  do  animal  ao  seu  guardião  efetivo,  afastando  a
+responsabilidade do dono.
+Art. 937. O
+[/PAGINA 1036]
+
+[PAGINA 1037]
+dono de edifício ou construção responde pelos danos que resultarem de sua ruína,
+se esta provier de falta de reparos, cuja necessidade fosse manifesta.
+ COMENTÁRIOS  DOUTRINÁRIOS:   Com   a   imprecisa   expressão
+responsabilidade pelo fato das coisas, a doutrina refere-se ao conjunto de situações
+em  que  o  evento  danoso  é  “causado”  por  um  bem  corpóreo,  sem  que  este  seja  o
+instrumento de uma conduta humana. A imputação destes fatos a determinadas pessoas
+foi inicialmente explicada pela chamada teoria da guarda, afirmando-se a culpa do
+guardião (normalmente o proprietário) pela falta de cuidado com a coisa (culpa in
+vigilando),  falta  que  ocasiona  o  evento  lesivo.  A  dificuldade  relacionada  à
+comprovação  desta  culpa  por  omissão  fez  com  que  a  jurisprudência  gradualmente
+passasse  a  presumir  a  culpa  do  guardião  em  tais  casos. A responsabilidade pela
+ruína  do  edifício,  positivada  no  presente  artigo,  é  um  dos  exemplos  de
+responsabilidade pelo fato da coisa. O legislador limitou-se a reproduzir a disposição
+constante  do  Código  Civil  anterior,  pela  qual  responde  o  dono  do  prédio  ou
+construção (note-se que o legislador não restringe a finalidade ou o porte do bem)
+pela  sua  ruína  (total  ou  parcial),  quando  esta  decorrer  de  falta  de  reparos  “cuja
+necessidade fosse manifesta”. O preceito é classicamente encarado como hipótese de
+responsabilidade  subjetiva,  podendo  a  culpa  ser  presumida  pela  manifesta
+necessidade de reparo. Já sob a égide da codificação de 1916, tentava-se imprimir
+caráter  mais  objetivo  à  responsabilidade  do  dono  do  edifício,  atribuindo-se  a  tal
+presunção caráter absoluto: as excludentes possíveis adviriam apenas a) da prova de
+não ser manifesta a falta de reparo; ou b) da prova de que a ruína não decorreu da
+falta de reparos. A franca expansão das hipóteses de responsabilidade objetiva pelo
+Código Civil de 2002 conferiu novo fôlego às teses que negam qualquer necessidade
+de culpa para a configuração da responsabilidade do dono do prédio ou construção:
+“A responsabilidade civil do dono do prédio ou construção por sua ruína, tratada pelo
+art. 937 do CC, é objetiva” (Enunciado n. 556 da VI Jornada de Direito Civil).
+
+Art. 938. Aquele que habitar prédio, ou parte dele, responde pelo dano proveniente das coisas
+que dele caírem ou forem lançadas em lugar indevido.
+ COMENTÁRIOS  DOUTRINÁRIOS:   Trata   o   presente   artigo   da
+responsabilidade pela queda de objetos provenientes de casas e edifícios, hipótese
+conhecida pela expressão romana effusum et deiectum. Aqui, a natureza objetiva da
+responsabilidade, imputada ao habitante do prédio, é reconhecida desde os primeiros
+escritos acerca da regra análoga constante da codificação de 1916. A propagação dos
+condomínios  de  apartamentos  suscitou  intensa  polêmica  neste  campo,  pois  muitos
+autores  sustentavam  que  se  tornava  necessário  que  a  vítima  demonstrasse  de  qual
+unidade autônoma prove
+[/PAGINA 1037]
+
+[PAGINA 1038]
+io a coisa danosa. Atenta ao fato de que esta prova de nexo
+causal tornava, na prática, impossível a reparação, orientaram-se as cortes no sentido
+de, nesses casos, atribuir a responsabilidade ao condomínio como um todo, ficando
+como  questão interna corporis  do  condomínio  a  posterior  exclusão,  em  sede  de
+repartição  de  despesas,  das  colunas  de  onde,  por  sua  localização,  não  teria  sido
+possível  que  o  objeto  houvesse  caído  ou  sido  lançado.  O  Código  Civil  de  2002
+deixou  de  regular  mais  detalhadamente  a  matéria,  limitando-se  a  repetir
+substancialmente a norma anterior, com o que, ao menos, manteve válida a construção
+pretoriana, consagrada no Enunciado n. 557 da VI Jornada de Direito Civil: “Nos
+termos do art. 938 do CC, se a coisa cair ou for lançada de condomínio edilício, não
+sendo possível identificar de qual unidade, responderá o condomínio, assegurado o
+direito de regresso.”
+ JURISPRUDÊNCIA COMENTADA: A jurisprudência já superou, há tempos, a
+exigência de precisa identificação da unidade da qual se originou a coisa: “Há muito
+está consolidado o entendimento doutrinário e jurisprudencial no sentido de que uma
+das espécies de responsabilidade indireta, ou complexa, consiste na responsabilidade
+do  condomínio  pelos  danos  causados  por  coisas  jogadas  ou  caídas  de  unidade
+condominial, quando não se possa identificar o responsável direto. Não se trata de
+responsabilidade pelo ato de outrem (fundada no art. 932, III, do CC), uma vez que o
+condômino  não é  empregado  ou  preposto  do  condomínio.  Trata-se  de  uma  das
+
+espécies  de  responsabilidade  pelo  fato  da  coisa,  regulada  no  art.  938  do  CC,
+aplicável  extensivamente.  Caso  o  condomínio  saiba  quem é  o  responsável  direto,
+deverá indicá-lo e pedir sua exclusão da lide. Caso venha a descobrir sua identidade
+somente em momento posterior, poderá agir regressivamente contra o mesmo” (TJRS,
+AC  71002397768,  3ª  Turma  Recursal,  Rel.  Des.  Jerson  Moacir  Gubert,  j.
+25.02.2010). Este já era o entendimento do Superior Tribunal de Justiça sob a égide
+do  Código  Civil  de  1916:  “A  impossibilidade  de  identificação  do  exato  ponto  de
+onde  parte  a  conduta  lesiva,  impõe  ao  condomínio  arcar  com  a  responsabilidade
+reparatória por danos causados a terceiros” (STJ, REsp 64.682/RJ, 4ª Turma, Rel.
+Min. Bueno de Souza, j. 10.11.1998).
+Art. 939. O credor que demandar o devedor antes de vencida a dívida, fora dos casos em que a
+lei o permita, ficará obrigado a esperar o tempo que faltava para o vencimento, a descontar os
+juros correspondentes, embora estipulados, e a pagar as custas em dobro.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  art.  939  disciplina  os  efeitos  da
+cobrança da dívida antes de seu vencimento. A utilização do verbo “demandar” pelo
+dispositivo  restringe  a  sua  incidência  às  hipóteses  de  cobrança  judicial.  Prevê  o
+legislador  três  efeitos  deste  tipo  de  cobrança  para  o  credor:  a)  ficar  obrigado  “a
+[/PAGINA 1038]
+
+[PAGINA 1039]
+esperar  o  tempo  que  faltava  para  o  vencimento”,  efeito  que,  a  rigor,  decorre  da
+própria  aposição  do  termo,  e  não  da  cobrança  indevida;  b)  “descontar  os  juros
+correspondentes, embora estipulados”; e c) “pagar as custas em dobro”. Estes dois
+últimos  efeitos  configuram  inequívocas penas privadas,  estabelecidas  no  interesse
+coletivo de se evitar a proliferação de atos injustificados de cobrança. Exatamente
+por isso, sempre se entendeu que não bastaria o fato objetivo da inobservância do
+prazo,  exigindo-se  a culpa  (elidida  pela  comprovação  de  equívoco  escusável)  ou
+mesmo a má-fé do credor para amparar a incidência do preceito de índole punitiva.
+Art.  940. Aquele  que  demandar  por  dívida  já  paga,  no  todo  ou  em  parte,  sem  ressalvar  as
+quantias recebidas ou pedir mais do que for devido, ficará obrigado a pagar ao devedor, no
+primeiro caso, o dobro do que houver cobrado e, no segundo, o equivalente do que dele exigir,
+salvo se houver prescrição.
+
+ COMENTÁRIOS  DOUTRINÁRIOS:  Na  mesma  linha  do  artigo  anterior,  o
+Código Civil reprime a cobrança de dívida já paga e a cobrança a maior. O credor
+que demanda (judicialmente, portanto) por dívida já total ou parcialmente paga, sem
+ressalvar a prestação já recebida, fica obrigado a pagar ao devedor o dobro do que
+houver  cobrado.  Já  o  credor  que  pede  (em  processo  judicial)  mais  do  que  lhe  é
+devido fica obrigado a pagar ao devedor o equivalente do que dele exigir (salvo se
+houver prescrição). Tem-se, em ambos os casos, penas privadas estabelecidas pelo
+legislador a fim de desestimular cobranças indevidas. A exigência de má-fé do credor
+para  a  deflagração  destas  consequências  restou  sumulada  pelo  Supremo  Tribunal
+Federal ainda sob a égide do Código Civil de 1916: “Cobrança excessiva, mas de
+boa-fé, não dá lugar às sanções do art. 1.531 do Código Civil” (Súmula n. 159).
+ JURISPRUDÊNCIA COMENTADA: O Superior Tribunal de Justiça já teve
+oportunidade  de  reafirmar  a  interpretação  do  preceito:  “Para  a  imposição  da
+penalidade prevista no art. 940 do Código Civil exige-se a efetiva propositura de uma
+‘demanda’, ou seja, de uma ação judicial, para a cobrança do valor já pago, além da
+má-fé  do  suposto  credor”  (STJ,  REsp  1.195.792/PE,  3ª  Turma,  Rel.  Min.  Sidnei
+Beneti, j. 23.08.2011). Quanto ao momento processual para invocação do instituto, a
+2ª Seção do STJ pacificou o entendimento de que é “possível que a alegação seja feita
+no curso do processo, e até mesmo poderá ser determinada pelo juiz de ofício, desde
+que fique comprovada a má-fé e a parte tenha tido a possibilidade de se defender
+sobre a matéria” (STJ, EREsp 1.106.999/SC, 2ª Seção, Rel. Min. Moura Ribeiro, j.
+27.02.2019).
+Art. 941. As penas previstas nos arts. 939 e 940 não se aplicarão quando o autor desistir da ação
+antes de contestada a lide, salvo ao réu o direito de haver indenização por algum prejuízo que
+prove ter sofrido.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  cará
+[/PAGINA 1039]
+
+[PAGINA 1040]
+ter  necessariamente  judicial  das
+múltiplas modalidades de cobrança indevida elencadas nos arts. 939 e 940 do Código
+Civil vem confirmado pelo artigo em comento, que afasta expressamente a aplicação
+das  penas  “quando  o  autor  desistir  da  ação  antes  de  contestada  a  lide”.  Em  tal
+
+hipótese,  a  rápida  desistência  em  realizar  a  cobrança  justifica,  aos  olhos  do
+legislador,  o  “perdão”  da  infração.  A  não  aplicação  de  sanções  não  importa  a
+exclusão  do  direito  à  indenização  pelos  danos  eventualmente  sofridos,  como
+explicitado pela ressalva na parte final do dispositivo. Não se trata, registre-se, de
+indenização  “complementar”,  como  afirma  parcela  da  doutrina.  O  legislador  não
+determina  o  abatimento  das  quantias  pagas  a  título  de  pena  privada  quando  estas
+forem devidas simultaneamente à indenização, razão pela qual tais verbas devem ser
+cumuladas.
+Art. 942. Os bens do responsável pela ofensa ou violação do direito de outrem ficam sujeitos à
+reparação  do  dano  causado;  e,  se  a  ofensa  tiver  mais  de  um  autor,  todos  responderão
+solidariamente pela reparação.
+Parágrafo único. São solidariamente responsáveis com os autores os coautores e as pessoas
+designadas no art. 932.
+ COMENTÁRIOS DOUTRINÁRIOS: Responsabilidade patrimonial. O direito
+privado rompeu, há muito, com a possibilidade de o inadimplemento das obrigações
+acarretar sanções físicas ao devedor. Desde o Direito Romano, com a Lex Poetelia
+Papiria (326 a.C.), os efeitos do incumprimento passaram a recair exclusivamente
+sobre o patrimônio do devedor. O legislador reforça esta noção, já constante do art.
+391 (“Pelo inadimplemento das obrigações respondem todos os bens do devedor”),
+na  disciplina  da  responsabilidade  civil. Responsabilidade  solidária  entre  os
+coautores.  Caso  mais  de  uma  pessoa  seja  responsável  pelo  dano,  estabelece-se
+situação de coautoria, instituindo o Código a solidariedade passiva (v. comentários
+ao art. 264) dos coautores perante a vítima. Pretende o legislador conferir uma maior
+proteção a quem sofre o dano injusto, permitindo que busque toda a indenização no
+patrimônio de qualquer dos coautores. Na relação interna entre os coautores, a quota-
+parte de cada um será delimitada com base na proporção de sua contribuição causal
+para o dano (cf. comentários ao art. 945). Em outras palavras, “na via regressiva, a
+indenização atribuída a cada agente será fixada proporcionalmente à sua contribuição
+para  o  evento  danoso”  (Enunciado  n.  453  da V  Jornada  de  Direito  Civil).  Em
+exemplo  de  má  técnica  legislativa,  a  responsabilidade  solidária  dos  coautores  é
+
+afirmada  pelo caput e desnecessariamente repetida no parágrafo único do presente
+artigo. No dispositivo correspondente no Código Civil de 1916, o parágrafo único
+referia-se aos cúmplices, expressão criticada pela doutrina civilista por se tratar de
+figura típica da esfera criminal. Ao extirpar a referência aos cúmplices, o legisl
+[/PAGINA 1040]
+
+[PAGINA 1041]
+ador
+de  2002  os  substitui  pelos  coautores,  já  abarcados  pela  cabeça  do  artigo.
+Responsabilidade solidária entre o responsável por fato de terceiro e o terceiro
+causador  do  dano.  Em  caso  de  responsabilidade  por  fato  de  terceiro,  poderá  a
+vítima,  em  regra,  buscar  a  totalidade  da  indenização  em  face  tanto  do  terceiro
+responsável quanto de seu causador. A regra encontra-se em total consonância com a
+teleologia  da  responsabilidade  por  ato  de  terceiro,  no  sentido  de  facilitar  o
+ressarcimento do lesado. A norma, contudo, tem sua abrangência excepcionada pelo
+art. 928, que institui a responsabilidade subsidiária do incapaz.
+ JURISPRUDÊNCIA  COMENTADA:  A  jurisprudência  tem  ressaltado  o
+cuidado necessário para o cotejo do parágrafo único do art. 942 com as demais regras
+que integram o regime jurídico da responsabilidade do incapaz: “o recorrente procura
+justificar seu interesse recursal argumentando que essa responsabilidade é solidária
+com seu genitor, nos termos do art. 942, parágrafo único, do Código Civil. Referido
+dispositivo legal, de fato, prevê que ‘são solidariamente responsáveis com os autores,
+os  coautores  e  as  pessoas  designadas  no  art.  932’.  Todavia,  essa  norma  deve  ser
+interpretada em conjunto com aquela dos arts. 928 e 934 do Código Civil, que tratam,
+respectivamente, i) da responsabilidade subsidiária e mitigada do incapaz e ii) da
+inexistência de direito de regresso em face do descendente absoluta ou relativamente
+incapaz. (...) Assim, o patrimônio dos filhos menores pode responder pelos prejuízos
+causados a outrem desde que as pessoas por ele responsáveis não tiverem obrigação
+de fazê-lo ou não dispuserem de meios suficientes. E, mesmo assim, nos termos do
+parágrafo único do art. 928, se for o caso de atingimento do patrimônio do menor, a
+indenização será equitativa e não terá lugar se privar do necessário o incapaz ou as
+pessoas que dele dependam. Em outras palavras, o filho menor não é responsável
+solidário  com  seus  genitores,  pelos  danos  causados,  mas  subsidiário”  (STJ,  REsp
+1.319.626/MG, 3ª Turma, Rel. Min. Nancy Andrighi, j. 26.02.2013).
+
+Art. 943. O direito de exigir reparação e a obrigação de prestá-la transmitem-se com a herança.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  direito  à  reparação  e  o  dever  de
+reparar, mesmo quando assuma a forma de prestação de fazer ou de dar coisa diversa
+de  dinheiro  (reparação in natura),  são,  ainda  assim,  dotados  de  patrimonialidade.
+Trata-se, em outras palavras, de situações jurídicas integrantes do patrimônio de seus
+titulares. Com o óbito de tais titulares, não se tratando de direitos personalíssimos, o
+dever  de  reparar  e  o  direito  à  reparação  são  transmitidos  para  a  titularidade  dos
+sucessores com a herança, tudo conforme esclarece o artigo em comento. O panorama
+não  muda  de  figura  diante  da  obrigação  de  reparar  danos  morais.  A  natureza
+existencial  do  interesse  violado  (a  própria  dignidad
+[/PAGINA 1041]
+
+[PAGINA 1042]
+e  humana  da  vítima)  não  se
+confunde com a patrimonialidade do direito à indenização em si, que lhe é correlato.
+Daí o acertado entendimento que nega a natureza personalíssima destas obrigações,
+admitindo  a  transmissão  do  direito  de  crédito  aos  herdeiros  da  vítima.  Como
+esclarece o Enunciado n. 454 da V Jornada de Direito Civil: “O direito de exigir
+reparação  a  que  se  refere  o  art.  943  do  Código  Civil  abrange  inclusive  os  danos
+morais, ainda que a ação não tenha sido iniciada pela vítima.”
+ JURISPRUDÊNCIA COMENTADA:  A  transmissibilidade causa mortis  do
+direito  ao  ajuizamento  de  ação  de  responsabilidade  por  danos  morais  já  foi
+reconhecida pela Corte Especial do Superior Tribunal de Justiça: “embora a violação
+moral atinja apenas o plexo de direitos subjetivos da vítima, o direito à respectiva
+indenização transmite-se com o falecimento do titular do direito, possuindo o espólio
+ou  os  herdeiros  legitimidade  ativa ad causam  para  ajuizar  ação  indenizatória  por
+danos morais, em virtude da ofensa moral suportada pelo de cujus” (STJ, AgRg nos
+EREsp 978.651/SP, CE, Rel. Min. Felix Fischer, j. 15.12.2010).
+CAPÍTULO II
+DA INDENIZAÇÃO
+Art. 944. A indenização mede-se pela extensão do dano.
+Parágrafo  único.  Se  houver  excessiva  desproporção  entre  a  gravidade  da  culpa  e  o  dano,
+
+poderá o juiz reduzir, equitativamente, a indenização.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Mais  do  que  simples  diretriz  de
+quantificação da indenização, a regra contida no art. 944, caput, exprime relevante
+garantia  da  vítima:  ter  o  dano  reparado em  toda  a  sua  extensão.  Esta  noção  foi
+consagrada pela doutrina sob a fórmula de um “princípio da reparação integral do
+dano”, embora sua natureza principiológica seja, no mínimo, duvidosa. A norma em
+exame, embora ofereça um norte importantíssimo para a determinação do quantum
+indenizatório, não é capaz de, por si só, conduzir ao valor que deve, em cada caso
+concreto, ser atribuído à vítima. Daí a necessidade de um exame mais detido sobre a
+matéria. Cálculo dos danos patrimoniais. O critério tipicamente empregado para o
+cálculo do dano material é a teoria da diferença (Differenztheorie), segundo a qual
+se  deve  realizar  uma  comparação  matemática  entre  o  patrimônio  da  vítima
+anteriormente à lesão e o mesmo patrimônio no momento que lhe é posterior. O dano
+patrimonial  refletiria,  em  suma,  o  decréscimo  sofrido  pelo  patrimônio  da  vítima.
+Trata-se  de  ideia  tão  difundida  que  chega  a  se  confundir  com  o  próprio  conceito
+jurídico  de  dano,  equívoco  que  gera  inconsistências  no  âmbito  do  próprio  dano
+patrimonial,  como  a  histórica  resistência  à  indenização  por perda de uma chance
+(hoje, superada no Brasil) e a postura restritiva dos Tribunais em relação aos lucros
+cessantes, muitas vezes qualificados como danos hipotéticos não tanto pela falta de
+certeza, mas em razão da dificuldade de quantificação. A questão extravasa a esfera
+da p
+[/PAGINA 1042]
+
+[PAGINA 1043]
+atrimonialidade e ingressa no âmbito da extrapatrimonialidade, como se observa
+na  tendência  de  se  qualificar  como  dano  moral  lesão  a  interesses  notoriamente
+patrimoniais, simplesmente pela dificuldade de demonstração matemática do prejuízo
+sofrido.  É  o  que  ocorre,  por  exemplo,  com  os  chamados  “danos  morais  à  honra
+objetiva” de sociedades empresárias, que têm a sua capacidade de geração de lucro
+comprometida pela divulgação de informações desabonadoras (v. comentário ao art.
+953). Arbitramento do dano moral. Problema tão controverso quanto aquele relativo
+à conceituação do dano moral (v. comentário ao art. 186) é aquele referente à sua
+quantificação, ou, mais precisamente, à quantificação da indenização devida a título
+de  reparação  por  dano  moral.  Não  sendo  possível  atingir  matematicamente  um
+
+resultado econômico preciso, o quantum da indenização por dano moral é deixado ao
+arbitramento dos juízes. A falta de critérios contribui para a disparidade, às vezes
+gritante,  entre  os  valores  indenizatórios.  Para  corrigir  o  problema,  a  doutrina  e  a
+jurisprudência procuraram fixar critérios para a quantificação do dano moral, entre os
+quais se destacam a) a gravidade do dano, b) a gravidade da culpa, c) a capacidade
+econômica do ofensor e d) a capacidade econômica do ofendido. A rigor, o único
+desses critérios que encontra respaldo normativo é o critério da gravidade, ou melhor,
+extensão do dano, em conformidade com o art. 944, ora em comento. O critério da
+capacidade econômica do ofendido, empregado por nossa jurisprudência para reduzir
+as indenizações devidas a vítimas economicamente menos favorecidas, a fim de evitar
+um  suposto  enriquecimento  sem  causa,  afigura-se,  além  de  discriminatório,
+inteiramente  atécnico,  na  medida  em  que  o  enriquecimento  sem  causa  configura-se
+apenas diante de transferência patrimonial desprovida de título jurídico, o que não
+ocorre,  a  toda  evidência,  no  pagamento  de  indenizações  que  representam  mera
+recomposição do status quo ante, baseada em uma causa jurídica bem delimitada: o
+dever  de  indenizar.  Os  demais  critérios  mencionados  –  capacidade  econômica  do
+ofensor e grau de culpa do ofensor – representam critérios punitivos, que introduzem
+no campo da responsabilidade civil brasileira uma finalidade sancionatória estranha à
+sua tradição dogmática. Em linha, porém, com esse espírito punitivo, as chamadas
+indenizações  punitivas  ou punitive damages,  próprias  do Common Law,  têm  sido
+objeto de invocação frequente em nossas cortes judiciais. Trata-se de uma importação
+acrítica e arbitrária para o sistema jurídico brasileiro. Em primeiro lugar, é de se
+registrar que, ao contrário do que ocorre nos sistemas jurídicos de tradição romano-
+germânica, a responsabilidade civil no Common Law possui uma trajetória histórica
+de  entrelaçamento  com  a  responsabilidade  delitual,  que  lhe  outorga  características
+próprias,  bastante  distintas  daquelas
+[/PAGINA 1043]
+
+[PAGINA 1044]
+que  informam  a  responsabilidade  civil  na
+tradição  romano-germânica.  Ademais,  é  preciso  compreender  como  os punitive
+damages  operam  em  seus  países  de  origem.  Nos  Estados  Unidos,  país  sempre
+lembrado  pelos  defensores  das  indenizações  punitivas,  o  instituto  é  cercado de
+contracautelas: a) admitem-se punitive damages somente em hipóteses excepcionais,
+normalmente vinculadas à malícia (malice) do agente causador do dano; b) seu valor
+
+é  arbitrado  separadamente  da  indenização  compensatória;  c)  atendendo  a
+fundamentação inteiramente diversa; d) com garantias processuais típicas do processo
+penal, incluindo, em alguns estados norte-americanos, a decisão pelo júri. No Brasil,
+o  caráter  punitivo  tem  sido  inserido  no  seio  da  quantificação  do  dano  moral,
+aludindo-se a uma suposta “função punitiva e pedagógica” da compensação do dano
+moral,  sem  se  distinguir,  minimamente,  o  que  é  compensação  e  o  que  é  punição.
+Assim,  o  réu  não  pode  recorrer  apenas  da  punição,  cujos  fundamentos  são
+necessariamente  distintos  daqueles  que  embasam  a  quantificação  da  indenização
+compensatória: enquanto a punição assenta sobre a avaliação da conduta do agente, a
+compensação diz respeito ao dano. Essa mistura entre compensação e punição traz
+outras dificuldades, já que a punição, em nosso sistema, atende a princípios próprios,
+como  a  impossibilidade  de  imputação  de  pena  sem  prévia  cominação  legal
+(Constituição,  art.  5º,  inc.  XXXIX).  Há,  ainda,  o  problema  da  destinação  da
+indenização punitiva. Não sendo o particular o titular do direito de punir, por que a
+indenização imposta a título de pena do réu lhe seria destinada? E, se a punição se
+basear na conduta repetitiva do agente, como definir qual dentre as vítimas tem direito
+à  indenização  punitiva,  ou  como  reparti-la  entre  as  diversas  vítimas  da  reiterada
+conduta  ilícita?  São  apenas  algumas  das  questões  que  não  podem  deixar  de  ser
+enfrentadas antes de uma eventual importação dos punitive damages para o sistema
+jurídico  brasileiro.  Daí  por  que  deve  ser  considerado  mais  adequado  em  nosso
+ordenamento o entendimento doutrinário que rejeita o caráter punitivo do dano moral.
+O  Código  Civil,  com  efeito,  rejeita  indenizações  punitivas  ao  prever  que  a
+indenização se mede pela extensão do dano. O que a prática advocatícia parece tentar
+solucionar com a importação desastrada dos punitive damages é o problema do baixo
+valor das indenizações por dano moral no Brasil. Tal problema, que é gravíssimo,
+deve  ser  solucionado  por  meio  da  elevação  dessas  indenizações  pelo  Poder
+Judiciário  a  partir  da  percepção  dos  efeitos  sobre  cada  vítima  da  lesão  à  sua
+personalidade humana. Compete aos advogados promover a efetiva demonstração da
+extensão do dano sofrido sobre aquela vítima em particular, de modo a despertar a
+sensibilidade  da  magistratura  para  a  necessidade  de  reparação  int
+[/PAGINA 1044]
+
+[PAGINA 1045]
+egral  do  dano
+sofrido,  sem  as  amarras  de  tabelamentos  e  uniformizações  que  consubstanciam
+
+inconstitucional limitação à reparação do dano moral. Com efeito, “a quantificação da
+reparação  por  danos  extrapatrimoniais  não  deve  estar  sujeita  a  tabelamento  ou  a
+valores  fixos”  (Enunciado  n.  550  da VI  Jornada  de  Direito  Civil) . Culpa
+desproporcional. A histórica gradação da culpa em culpa grave, leve e levíssima não
+tem nenhuma relevância para a configuração do ato ilícito. Ainda que levíssima a
+culpa, configura-se a conduta culposa para o Direito Civil. A irrelevância dos graus
+de  culpa  figura  como  importante  característica  da  responsabilidade  civil,  em
+oposição  à  responsabilidade  penal,  cujo  caráter  punitivo  recomenda  a  análise  da
+intensidade do desvio cometido pelo agente. Em aparente contradição, porém, com a
+ideia de irrelevância dos graus de culpa, o Código Civil de 2002 inovou em relação à
+codificação anterior, trazendo no parágrafo único do artigo em comento norma que
+concede  ao  juiz  o  poder  de  reduzir  o quantum  indenizatório  com  base  na
+desproporção  entre  a  culpa  do  agente  e  a  extensão  do  dano.  Com  tal  previsão,  a
+irrelevância dos graus de culpa permanece válida para fins de configuração do dever
+de indenizar (an debeatur), mas não já para sua quantificação (quantum debeatur),
+em  que  o  grau  de  culpa  passa  a  desempenhar  um  papel.  Deve-se  ter  em  mente,
+contudo,  que  a  norma  vem  proteger  o  responsável  de  um  ônus excessivo,  em
+conformidade com o espírito de equidade, que exige que o rigor da solução jurídica
+seja temperado à luz das circunstâncias do caso concreto. Exemplo sempre lembrado
+é aquele do fumante que, deixando cair por entre seus dedos a guimba do cigarro que
+fumava  à  janela,  provoca  a  explosão  de  um  posto  de  gasolina.  O  dano  causado
+afigura-se amplamente desproporcional à culpa leve do agente. Cumpre notar que o
+legislador brasileiro não autorizou a majoração da indenização com base na culpa
+grave  ou  no  dolo  do  agente,  mas  permitiu  tão  somente  a redução  equitativa  da
+indenização  quando  a  culpa  for  desproporcional  ao  dano  provocado.  Parcela  da
+doutrina, na tentativa de desvincular esse controle de proporcionalidade do requisito
+da culpa em razão das inúmeras dificuldades que o cercam, tem proposto relacionar a
+extensão do dano com a causalidade, nos seguintes termos: “A redução equitativa da
+indenização tem caráter excepcional e somente será realizada quando a amplitude do
+dano extrapolar os efeitos razoavelmente imputáveis à conduta do agente” (Enunciado
+n. 457 da V Jornada de Direito Civil). Acrescente-se que a doutrina vem reservando
+
+ao  parágrafo  único  do  art.  944  uma  leitura  bastante  restritiva.  Partindo  do
+entendimento de que a reparação integral do dano é a regra, tem-se afirmado que: “a
+possibilidade de redução do montante da indenização em face do grau de culpa do
+agente, estabelecida
+[/PAGINA 1045]
+
+[PAGINA 1046]
+no parágrafo único do art. 944 do novo Código Civil, deve ser
+interpretada restritivamente, por representar uma exceção ao princípio da reparação
+integral  do  dano”  (Enunciado  n.  46  da I Jornada de Direito Civil,  alterado  pelo
+Enunciado n. 380 da IV Jornada de Direito Civil).
+ JURISPRUDÊNCIA COMENTADA:  Em  sentido  diametralmente  oposto  ao
+aqui  defendido,  a  jurisprudência  do  Superior  Tribunal  de  Justiça  consolidou  a
+possibilidade de se atribuir ao dano moral uma função punitiva, influenciando com
+isso diversos Tribunais brasileiros: “A indenização por danos morais possui tríplice
+função, a compensatória, para mitigar os danos sofridos pela vítima; a punitiva, para
+condenar o autor da prática do ato ilícito lesivo, e a preventiva, para dissuadir o
+cometimento de novos atos ilícitos” (STJ, REsp 1.440.721/GO, 4ª Turma, Rel. Min.
+Maria  Isabel  Gallotti,  j.  11.10.2016).  Também  no  que  se  refere  aos  critérios
+utilizados para o arbitramento do dano moral merece ser revista a jurisprudência do
+STJ: “consideram-se, para a fixação definitiva do valor da indenização, a gravidade
+do fato em si e sua consequência para a vítima – dimensão do dano; a culpabilidade
+do  agente,  aferindo-se  a  intensidade  do  dolo  ou  o  grau  da  culpa;  a  eventual
+participação  culposa  do  ofendido  –  culpa  concorrente  da  vítima;  a  condição
+econômica do ofensor e as circunstâncias pessoais da vítima, sua colocação social,
+política e econômica” (STJ, AgInt no AREsp 1.063.319/SP, 1ª Turma, Rel. p/ acórdão
+Min.  Regina  Helena  Costa,  j.  03.04.2018).  Mesmo  o  discriminatório  critério  da
+condição  econômica  da  vítima  já  foi  reputado  legítimo  por  aquele  tribunal:  “O
+recorrente  alega  violação  do  art.  944  do  CC,  porque,  com  base  na  capacidade
+econômica  das  vítimas,  que  são  porteiros,  os  valores  arbitrados  configuram
+verdadeiro enriquecimento ilícito. Ora, não só a capacidade econômico-financeira da
+vítima é critério de análise para o arbitramento dos danos morais, sendo levado em
+conta, também, à mingua de requisitos legais, a capacidade econômico-financeira do
+ofensor, as circunstâncias concretas onde o dano ocorreu e a extensão do dano” (STJ,
+
+AgRg no REsp 700.899/RN, 2ª Turma, Rel. Min. Humberto Martins, j. 19.02.2008).
+Também merece registro metodologia conferida ao arbitramento do dano pela adoção
+do  chamado método bifásico, estruturado, nas palavras do Ministro Paulo de Tarso
+Sanseverino, da seguinte forma: “i) Na primeira etapa, deve-se estabelecer um valor
+básico para a indenização, considerando o interesse jurídico lesado, com base em
+grupo  de  precedentes  jurisprudenciais  que  apreciaram  casos  semelhantes.  ii)  Na
+segunda  etapa,  devem  ser  consideradas  as  circunstâncias  do  caso,  para  fixação
+definitiva do valor da indenização, atendendo a determinação legal de arbitramento
+equitativo pelo juiz” (STJ, REsp 959.780/ES, 3ª Turma, Rel. Min. Paulo de Tarso
+Sanseverino,  j.  26.04.2011.
+[/PAGINA 1046]
+
+[PAGINA 1047]
+No  mesmo  sentido,  mais  recente:  STJ,  REsp
+1.445.240/SP, 4ª Turma, Rel. Min. Luis Felipe Salomão, j. 10.10.2017). Se não é
+capaz de solucionar todos os problemas nessa matéria, a efetiva adoção de tal método
+pode, ao menos, conferir um caráter mais analítico ao arbitramento da indenização,
+permitindo uma melhor investigação do iter adotado pelas decisões judiciais para se
+chegar ao valor da condenação.
+Art. 945. Se a vítima tiver concorrido culposamente para o evento danoso, a sua indenização
+será fixada tendo-se em conta a gravidade de sua culpa em confronto com a do autor do dano.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Trata  o  presente  artigo  de  problema
+tradicionalmente  denominado concorrência  de  culpas  ou culpa  concorrente  da
+vítima. A literalidade do dispositivo impõe uma redução da indenização, cotejando a
+gravidade da culpa da vítima que concorreu para o evento danoso com a gravidade da
+culpa do ofensor. A melhor doutrina, contudo, tem alertado para o equívoco de se
+empregar o critério de gravidade da culpa como medida da indenização. Em verdade,
+o elemento da responsabilidade civil que contribui para este fim é o nexo causal,
+afigurando-se  mais  justo  atribuir  uma  maior  responsabilidade  para  quem  mais
+contribui para a causação do dano. Impõe-se, nessa esteira, uma releitura do art. 945
+do Código Civil, nos seguintes termos: se a vítima tiver concorrido para o evento
+danoso,  a  sua  indenização  será  fixada  tendo-se  em  conta  a  proporção  de  sua
+contribuição causal em confronto com a do autor do dano. É o que afirma, em outros
+termos,  o  Enunciado  n.  630  da VIII  Jornada  de  Direito  Civil:  “Culpas  não  se
+
+compensam. Para os efeitos do art. 945 do Código Civil, cabe observar os seguintes
+critérios: i) há diminuição do quantum da reparação do dano causado quando, ao lado
+da conduta do lesante, verifica-se ação ou omissão do próprio lesado da qual resulta
+o  dano,  ou  o  seu  agravamento,  desde  que  ii)  reportadas  ambas  as  condutas  a  um
+mesmo  fato,  ou  ao  mesmo  fundamento  de  imputação,  conquanto  possam  ser
+simultâneas ou sucessivas, devendo-se considerar o percentual causal do agir de cada
+um.” O início do enunciado, em razão da expressão “culpas não se compensam”, não
+deve causar confusão, por se tratar, conforme já ressaltado, de um problema ligado ao
+nexo de causalidade. O deslocamento da questão do âmbito da culpa para a esfera da
+causalidade tem ainda a vantagem de esclarecer que “a conduta da vítima pode ser
+fator  atenuante  do  nexo  de  causalidade  na  responsabilidade  civil  objetiva”
+(Enunciado n. 459 da V Jornada de Direito Civil).
+ JURISPRUDÊNCIA  COMENTADA:  O  Superior  Tribunal  de  Justiça  tem
+atentado para a questão da concorrência de causas nos infelizmente frequentes casos
+de acidentes fatais em vias rodoviárias: “no caso de atropelamento de pedestre em
+via férrea, configura-se a concorrência de causas, impondo a redução da indenização
+por dano moral pela metade, quando: i
+[/PAGINA 1047]
+
+[PAGINA 1048]
+) a concessionária do transporte ferroviário
+descumpre o dever de cercar e  fiscalizar  os  limites  da  linha  férrea,  mormente  em
+locais urbanos e populosos, adotando conduta negligente no tocante às necessárias
+práticas de cuidado e vigilância tendentes a evitar a ocorrência de sinistros; e ii) a
+vítima adota conduta imprudente, atravessando a via férrea em local inapropriado”
+(STJ, REsp 1.172.421/SP, 2ª Seção, Rel. Min. Luis Felipe Salomão, j. 08.08.2012).
+Art. 946. Se a obrigação for indeterminada, e não houver na lei ou no contrato disposição fixando
+a indenização devida pelo inadimplente, apurar-se-á o valor das perdas e danos na forma que a
+lei processual determinar.
+ COMENTÁRIOS DOUTRINÁRIOS: O presente artigo do Código Civil parece
+querer tratar, com sua confusa redação, da quantificação da obrigação de indenizar
+que não tenha sido objeto de prévia liquidação pela lei ou pelo contrato (por meio de
+cláusula  penal).  A  referência  a  “obrigação  indeterminada”  deve,  assim,  ser
+
+compreendida  como prestação  ilíquida.  A  norma  determina  que  a  apuração  das
+perdas e danos seguirá a forma que a lei processual indicar. O Código de Processo
+Civil, contudo, não possui regras específicas sobre a quantificação de indenizações,
+matéria que de fato pertence ao campo do direito material. O que o CPC disciplina é
+o procedimento de liquidação de sentença, cabível “quando a sentença condenar ao
+pagamento de quantia ilíquida” (art. 509 do CPC).
+Art. 947. Se o devedor não puder cumprir a prestação na espécie ajustada, substituir-se-á pelo
+seu valor, em moeda corrente.
+ COMENTÁRIOS  DOUTRINÁRIOS:  O  art.  947  do  Código  Civil  é
+tradicionalmente  lido  como  a  explicitação  do  efeito  típico  do  inadimplemento  das
+obrigações:  a  conversão  da  prestação  inadimplida  em  perdas  e  danos
+(responsabilidade civil obrigacional). Esta interpretação é amplamente majoritária no
+Direito Brasileiro. Há que se notar, contudo, que o artigo em comento apenas permite
+a substituição pelo equivalente caso o devedor não possa cumprir a prestação.
+ JURISPRUDÊNCIA  COMENTADA:  Exemplo  ilustrativo  de  aplicação  do
+preceito  em  comento  tem-se  na  seguinte  decisão:  “ante  a  impossibilidade  de
+cumprimento  da  obrigação in  natura,  fato  confirmado  pelo  próprio  réu  ao  fazer
+referência às ‘frustrações de safras’, lógica é a conversão do objeto contratado em
+dinheiro, adotando-se como termo inicial a data em que a obrigação deveria ter sido
+cumprida e não o foi” (TJRS, AC 70.018.128.736, 10ª Câmara Cível, Rel. Des. Paulo
+Antônio Kretzmann, j. 22.03.2007).
+Art. 948. No caso de homicídio, a indenização consiste, sem excluir outras reparações:
+I – no pagamento das despesas com o tratamento da vítima, seu funeral e o luto da família;
+II – na prestação de alimentos às pessoas a quem o morto os devia, levando-se em conta a
+duração provável da vida da vítima.
+ COMENTÁRIOS DOUTRINÁRIOS:  O  Código  Civil,  apesar  de  reconhecer
+expressamente a ressa
+[/PAGINA 1048]
+
+[PAGINA 1049]
+rcibilidade genérica do dano moral (art. 186), manteve diversas
+previsões  anacrônicas  que  outrora  serviram  para  autorizar  a  indenização  de  danos
+
+morais em hipóteses pontuais ou detalhar efeitos patrimoniais reflexos. A primeira
+delas encontra-se no presente artigo, dedicado especificamente ao dano provocado
+pelo  homicídio,  arrolando  o  legislador  parcelas  que  integram  o  dano  patrimonial
+reflexo ou por ricochete sofrido por aqueles que custearam “o tratamento da vítima,
+seu funeral e o luto da família” ou assumiram “prestação de alimentos às pessoas a
+quem o morto os devia, levando-se em conta a duração provável da vida da vítima”.
+Nada obstante a ressalva do caput do artigo em comento quanto à não exclusão de
+outras reparações, a verdade é que perdeu o Código Civil a oportunidade de tratar de
+temas mais relevantes e controvertidos, como a polêmica figura da indenização por
+dano-morte e a legitimidade para pleitear danos morais reflexos.
+ JURISPRUDÊNCIA COMENTADA: Acerca da interpretação do inciso II do
+artigo em comento, que determina que se tome em conta na fixação de alimentos “a
+duração provável da vida da vítima”, já decidiu o Superior Tribunal de Justiça: “O
+direito  a  pensão  mensal  surge  exatamente  da  necessidade  de  reparação  de  dano
+material decorrente da perda de ente familiar que contribuía com o sustento de parte
+que era economicamente dependente até o momento do óbito. O fato de a vítima já ter
+ultrapassado a idade correspondente à expectativa de vida média do brasileiro, por si
+só, não é óbice ao deferimento do benefício, pois muitos são os casos em que referida
+faixa etária é ultrapassada. É cabível a utilização da tabela de sobrevida, de acordo
+com os cálculos elaborados pelo IBGE, para melhor valorar a expectativa de vida da
+vítima quando do momento do acidente automobilístico e, consequentemente, fixar o
+termo final da pensão” (STJ, REsp 1.311.402/SP, 3ª Turma, Rel. Min. João Otávio de
+Noronha, j. 18.02.2016).
+Art.  949.  No  caso  de  lesão  ou  outra  ofensa  à  saúde,  o  ofensor  indenizará  o  ofendido  das
+despesas do tratamento e dos lucros cessantes até ao fim da convalescença, além de algum
+outro prejuízo que o ofendido prove haver sofrido.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Ao  referir-se  ao dano   à saúde,  o
+legislador determina a indenização das “despesas do tratamento” (dano emergente) e
+dos “lucros cessantes até ao fim da convalescença”, nada fazendo além de especificar
+
+as parcelas devidas em todas as hipóteses de responsabilidade por danos materiais,
+às  quais  o  intérprete  chegaria  sem  maiores  esforços.  A  ressalva  quanto  à
+indenizabilidade  “de  algum  outro  prejuízo  que  o  ofendido  prove  haver  sofrido”  é
+desnecessária, sendo possível à vítima invocar diretamente as cláusulas gerais que
+disciplinam a responsabilidade civil (art. 186 c/c art. 927), além de inútil, por não
+oferecer qualquer parâmetro ou indicação que auxilie no enfrentamento destes outros
+casos.
+Art. 950. Se
+[/PAGINA 1049]
+
+[PAGINA 1050]
+da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou
+profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além das despesas do
+tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão correspondente à
+importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu.
+Parágrafo único. O prejudicado, se preferir, poderá exigir que a indenização seja arbitrada e
+paga de uma só vez.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Na  hipótese  de perda  ou  redução  da
+capacidade laborativa,  por  lesão  à  sua  esfera  física  ou  psicológica,  a  vítima  tem
+direito,  além  dos  danos  emergentes  (“despesas  do  tratamento”)  e  dos  “lucros
+cessantes até ao fim da convalescença”, a “uma pensão correspondente à importância
+do trabalho, para que se inabilitou, ou da depreciação que ele sofreu”. Trata-se de
+previsão de extrema importância prática, sendo certo que, em regra, é do trabalho que
+se  extrai  a  fonte  de  sustento  próprio  e  familiar  na  realidade  social  brasileira.  O
+parágrafo único do artigo em comento inova, estabelecendo como alternativa para a
+fixação de pensão a possibilidade de a vítima optar pelo pagamento da indenização
+em  uma  única  parcela  imediata.  Embora  tal  escolha  recaia  sobre  a  vítima,  a
+indenização  unitária  encontrará,  não  raramente,  um  limite  intransponível  na
+capacidade de pagamento do ofensor. Nesse sentido, confira-se o Enunciado n. 48 da
+I Jornada de Direito Civil: “O parágrafo único do art. 950 do novo Código Civil
+institui direito potestativo do lesado para exigir pagamento da indenização de uma só
+vez,  mediante  arbitramento  do  valor  pelo  juiz,  atendidos  os  arts.  944  e  945  e  a
+possibilidade  econômica  do  ofensor.”  Já  o  Enunciado  n.  381  da IV  Jornada  de
+Direito Civil busca traçar o caminho a ser seguido pelo magistrado ante a eventual
+insolvência do devedor: “O lesado pode exigir que a indenização sob a forma de
+
+pensionamento seja arbitrada e paga de uma só vez, salvo impossibilidade econômica
+do devedor, caso em que o juiz poderá fixar outra forma de pagamento, atendendo à
+condição  financeira  do  ofensor  e  aos  benefícios  resultantes  do  pagamento
+antecipado.” Na prática, a lesão à capacidade laborativa acompanha aquela à saúde,
+em  sentido  mais  amplo,  razão  pela  qual  tem  alertado  a  doutrina  que  “os  danos
+oriundos das situações previstas nos arts. 949 e 950 do Código Civil de 2002 devem
+ser analisados em conjunto, para o efeito de atribuir indenização por perdas e danos
+materiais, cumulada com dano moral e estético” (Enunciado n. 192 da III Jornada de
+Direito Civil).
+ JURISPRUDÊNCIA COMENTADA: No que se refere ao valor devido a título
+de pensão, a jurisprudência do Superior Tribunal de Justiça “firmou-se no sentido de
+que  a  pensão  mensal  deve  ser  fixada  tomando-se  por  base  a  renda  auferida  pela
+vítima no momento da ocorrência do ato ilícito. No caso, não restou comprovado o
+[/PAGINA 1050]
+

@@ -1,0 +1,1952 @@
+[META]
+TITULO: CPC 2016 Comentado José Miguel Garcia Medina
+AUTOR: 3ª ed.  2016 -
+ANO: N/A
+EDICAO: 3
+EDITORA: RT
+PAGINAS: 551-600
+ARQUIVO_ORIGINAL: CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf
+CITACAO_ABNT: -, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..
+[/META]
+
+[PAGINA 551]
+ão	inicial	não	será	indeferida	pelo	não	atendimento	ao	disposto	no	inciso	II	deste	artigo	se	a
+
+obtenção	de	tais	informações	tornar	impossível	ou	excessivamente	oneroso	o	acesso	à	justiça.
+CPC/1973:	Art.	282	(correspondente).
+V.	art.	2.º	da	Lei	5.741/1971	(Proteção	de	bens	imóveis	do	SFH);	arts.	67,	I,	68,	I	e	71	da	Lei	8.245/1991
+(Locação	de	imóveis	urbanos);	art.	37	da	Lei	9.307/1996	(Arbitragem);	art.	14	da	Lei	9.099/1995
+(Juizados	Especiais).
+•	FPPC,	Enunciado	145:	No	processo	do	trabalho,	é	requisito	da	inicial	a	indicação	do	número	no
+cadastro	de	pessoas	físicas	ou	no	cadastro	nacional	de	pessoas	jurídicas,	bem	como	os	endereços
+eletrônicos	do	autor	e	do	réu,	aplicando-se	as	regras	do	novo	Código	de	Processo	Civil	a	respeito	da
+falta	de	informações	pertinentes	ou	quando	elas	tornarem	impossível	ou	excessivamente	oneroso	o
+acesso	à	justiça.
+•	FCCP,	Enunciado	281:	O	enquadramento	normativo	dos	fatos	não	é	requisito	da	petição	inicial	e,
+uma	vez	existente,	não	vincula	o	órgão	julgador.
+•	FCCP,	Enunciado	282:	Para	julgar	com	base	em	enquadramento	normativo	diverso	daquele
+invocado	pelas	partes,	ao	juiz	cabe	observar	o	dever	de	consulta,	previsto	no	art.	10.
+•	FCCP,	Enunciado	283:	Aplicam-se	os	arts.	317,	§	1.º,	404	a	412	também	quando	o	autor	não	dispuser
+de	documentos	indispensáveis	à	propositura	da	ação.
+SUMÁRIO:	I.	Inércia	da	jurisdição.	Demanda	–	II.	Petição	inicial	em	sentido	formal	e	substancial.
+Libelo	–	III.	Forma	da	petição	inicial	–	IV.	Órgão	jurisdicional	a	que	é	dirigida	a	petição	inicial	–	V.
+Partes.	Qualificação	e	indicação	do	endereço	(eletrônico,	inclusive)	–	VI.	Indicação	do	número	do
+cadastro	de	pessoas	físicas	ou	cadastro	nacional	de	pessoas	jurídicas	–
+VII.	Ausência	de	dados	das	partes	não	pode	comprometer	o	acesso	à	justiça	–	VIII.	Causa	de	pedir
+próxima	e	remota,	ativa	e	passiva	–	IX.	Teorias	da	substanciação	e	da	individuação.	Adoção,	pelo
+Código	de	Processo	Civil	de	2015,	de	substanciação	restrita	–	X.	Iura	novit	curia.	Da	mihi	factum	dabo
+tibi	ius	–	XI.	Nomen	iuris	da	ação	–	XII.	Pedidos	imediato	e	mediato	–	XIII.
+Correlação	entre	pedido	(e	causa	de	pedir)	e	sentença	–	XIV.	Hipóteses	em	que	o	juiz	não	fica	limitado
+ao	pedido	formulado	pela	parte	–	XV.	Indicação	de	provas	–	XVI.	Desnecessidade	de	requerimento
+expresso	e	específico	para	a	citação	do	réu,	como	requisito	formal	da	petição	inicial	–	XVII.	Opção	pela
+realização	ou	não	de	audiência	de	conciliação	ou	mediação.
+I.	Inércia	da	jurisdição.	Demanda.	Segundo	o	princípio	da	inércia	da	jurisdição,	o	órgão	jurisdicional
+somente	deve	agir	se	houver	provocação.	A	demanda	é	o	meio	pelo	qual	o	autor	impulsiona	a	jurisdição
+(art.	2.º	do	CPC/2015).	A	petição	inicial	–
+mais	precisamente,	o	pedido	e	a	causa	de	pedir	–,	ainda,	delimita	a	amplitude	e	define	a	natureza	da
+atividade	jurisdicional	a	ser	desenvolvida.	Os	dois	princípios	podem	ser	sintetizados	na	seguinte
+fórmula:	o	juiz	age	se	provocado	e	na	medida	da	provocação.	Sobre	congruência	(ou	correlação,	ou
+adstrição)	entre
+[/PAGINA 551]
+
+[PAGINA 552]
+pedido	e	sentença,	cf.	comentário	infra.
+II.	Petição	inicial	em	sentido	formal	e	substancial.	Libelo.	A	petição	inicial	manifesta-se	em	seu
+
+aspecto	formal	e	substancial.	Enquanto	parte	dos	elementos	da	petição	inicial	liga-se	mais	a	aspectos
+formais,	outros	se	relacionam	à	definição	daquilo	que	deverá	ser	apreciado	pelo	juiz,	aos	elementos	que
+definem	a	lide	ou	o	objeto	litigioso,	isso	é,	à	petição	inicial	em	sentido	substancial	ou	libelo	(cf.	José
+Frederico	Marques,	Instituições.	.	cit.,	vol.	3,	n.	550,	p.	24	e	ss.;	Arruda	Alvim,	Manual.	.
+cit.,	vol.	2,	n.	87,	p.	207).	À	luz	das	Ordenações,	o	libelo	era	apresentado	depois,	enquanto	“à	inicial
+bastava	o	simples	requerimento	de	intimação,	com	a	indicação	sumária	dos	motivos	do	chamamento	a
+juízo”,	que	era	o	que	bastava	para	que	tivesse	início	o	processo	(cf.	Gomes	da	Cruz,	A	petição	inicial,
+Revista	IASP	8/77,	com	base	na	doutrina	de	Lopes	da	Costa).
+Posteriormente,	a	petição	inicial	unificou	tais	elementos,	e	tal	modelo	persistiu	ao	longo	do	tempo,	e	se
+manteve,	no	Código	de	Processo	de	Civil	de	2015.
+III.	Forma	da	petição	inicial.	A	petição	inicial	é	apresentada	por	escrito	(“requisito	externo”	da	petição
+inicial,	cf.	Moacyr	Amaral	Santos,	Primeiras	linhas.	.	c	it.,	vol.	2,	n.	398,	p.	132),	seja	tratandose	de
+autos	físicos	ou	eletrônicos	(cf.	comentário	ao	art.	193	do	CPC/2015),	e	em	língua	portuguesa	(cf.	art.
+192	do	CPC/2015).	Mesmo	em	alguns	procedimentos	especiais	em	que	se	admite	a	apresentação	de
+pedido	oral,	este	posteriormente	deverá	ser	reduzido	a	escrito	(cf.,	por	exemplo,	art.	14,	caput	e	§
+3.º	da	Lei	9.099/1995).	A	petição	inicial	deve	ser	assinada	pelo	advogado	e	ser	acompanhada	do
+instrumento	de	mandato	(art.
+104	do	CPC/2015),	bem	como	indicar	o	endereço	para	o	qual	deverão	ser	encaminhadas	as	intimações
+(arts.	106	e	274,	parágrafo	único,	do	CPC/2015;	tais	requisitos	não	são	específicos	da	petição	inicial,
+mas	se	aplicam	a	outras	manifestações	processuais	das	partes,	como	a	contestação,	por	exemplo).
+IV.	Órgão	jurisdicional	a	que	é	dirigida	a	petição	inicial.	A	petição	inicial	não	é	dirigida	à	pessoa
+física	do	juiz	(	agente),	mas	ao	juízo	(	órgão	jurisdicional).	A	pessoa	do	juiz	tem	relevância,	no	entanto,
+quando	se	põe	em	dúvida	a	sua	imparcialidade	(cf.	comentário	aos	arts.	144	e	ss.	do	CPC/2015).
+V.	Partes.	Qualificação	e	indicação	do	endereço	(eletrônico,	inclusive).	A	partir	da	indicação	das
+partes,	identifica-se	a	ação,	quanto	aos	seus	elementos	subjetivos,	bem	como	se	torna	possível	verificar
+se	há	legitimidade	ad	causam	e	ad	processum	(cf.	comentário	aos	arts.	17	e	18	do	CPC/2015).	Nos	casos
+em	que	a	parte	atua	como	legitimado	extraordinário,	esta	circunstância	também	deve	estar	indicada	(cf.
+José	Frederico	Marques,	Instituições.	.	cit.,	vol.	3,	n.	552,	p.	28).	A	relevância	da	qualificação	das
+partes	está,	ainda:	(a)	quanto	ao	estado	civil,	em	determinar	as	hipóteses	em	que	há	necessidade	de
+participação	de	ambos	os	cônjuges	ou	companheiros	(cf.	art.	73	do	CPC/2015);	(b)	q
+[/PAGINA 552]
+
+[PAGINA 553]
+uanto	à	indicação	da
+profissão,	em	verificar	se	incidem	regras	específicas	de	citação	(por	exemplo,	art.	243,	parágrafo	único,
+do	CPC/2015,	quanto	ao	militar),	bem	como	em	relação	à	possibilidade	de	dispensa	de	depoimento
+pessoal	(cf.	art.	388,	II,	do	CPC/2015);	(c)	quanto	ao	domicílio,	em	servir,	em	alguns	casos,	para	a
+fixação	da	competência	territorial	(art.	46	do	CPC/2015),	bem	como	para	informar	o	local	onde	deverá
+ser	citado	o	réu	(art.	243,	caput,	do	CPC/2015)	e	intimadas	as	partes	(art.	274	do	CPC/2015;	na	doutrina,
+cf.,	dentre	outros,	Luiz	Rodrigues	Wambier	et	al.	,	Curso	avançado.	.	cit.,	vol.	1,	n.	21.2.2,	p.	294-295);
+(d)	quanto	ao	endereço	eletrônico,	a	fim	de	que	sejam	realizadas	as	comunicações	dos	atos	processuais
+por	esse	meio,	quando	possível	(cf.
+comentário	aos	arts.	246	e	270	do	CPC/2015).
+
+VI.	Indicação	do	número	do	cadastro	de	pessoas	físicas	ou	cadastro	nacional	de	pessoas	jurídicas.
+Exige-se,	na	petição	inicial,	qualificação	necessária	à	individuação	das	partes,	sendo	descabido	qualquer
+requisito	que	não	esteja	referido	no	art.	319	do	CPC/2015.	Na	vigência	do	Código	de	Processo	Civil	de
+1973,	afirmava-se	não	se	poder	exigir,	injustificavelmente,	a	apresentação	de	cópia	do	CPF	para	o
+ajuizamento	da	ação	(cf.	Cândido	Rangel	Dinamarco,	Instituições.	.
+cit.,	vol.	3,	n.	993,	p.	361;	na	jurisprudência,	nesse	sentido:	STJ,	RO	em	MS	3.625/RJ,	1.ª	T.,	rel.	Min.
+Demócrito	Reinaldo;	STJ,	RO
+em	MS	3.568/RJ,	1.ª	T.,	rel.	Min.	Humberto	Gomes	de	Barros;	STJ,	REsp	539.219/RJ,	5.ª	T.,	rel.	Min.
+Gilson	Dipp;	em	sentido	contrário:	STJ,	RO	em	MS	3.891/RJ,	2.ª	T.,	rel.	Min.	Peçanha	Martins,	sob	o
+fundamento	de	que	tal	procedimento	permite	controlar	a	litispendência).	Pode,	no	entanto,	suceder	que	a
+indicação	do	número	do	CPF	tenha	especial	relevância	para	individuar	a	parte,	tal	como	ocorre	em	ações
+relacionadas	a	direito	tributário	ou	previdenciário,	e,	nestes	casos,	poder-se-á	exigir	este	dado.	Com
+efeito,	a	indicação	do	CPF	contribui	para	“preservar	o	grau	de	certeza	quanto	à	individualização	do	polo
+passivo	da	demanda,	tudo	destinado	a	eliminar	problemas	decorrentes	da	homonímia”	(STJ,	REsp
+1.384.085/AM,	rel.
+Min.	Herman	Benjamin,	2.ª	T.,	j.	15.08.2013).	O	art.	15	da	Lei	11.419/2006	já	continha	previsão
+expressa,	nesse	sentido,	e	também	o	fez	o	Código	de	Processo	Civil	de	2015,	ao	exigir	que	o	número	no
+cadastro	de	pessoas	físicas	ou	do	cadastro	nacional	de	pessoas	jurídicas	constem	da	petição	inicial	(cf.
+art.	319,	II,	do	CPC/2015).
+VII.	Ausência	de	dados	das	partes	não	pode	comprometer	o	acesso	à	justiça.	O	art.	15	da	Lei
+11.419/2006,	ao	referir-se	à	exigência	de	que	o	número	no	cadastro	de	pessoas	físicas	ou	do	cadastro
+nacional	de	pessoas	jurídicas	constem	da	petição	inicial,	ressalva	que	o	requisito	pode	ser	dispensado,
+caso	a	impossibilidade	de	seu	conhecimento	pela	parte	que	formula	a	petição	inicial	puder	comprometer
+o	acesso	à	justiça.	De	modo	semelhante,	os	§§	1.º	a	3.º	do	art.	319	do	CPC/2015	relativizam	o	requisito,
+ao	disporem
+[/PAGINA 553]
+
+[PAGINA 554]
+que:	(1.º)	deve-se	proceder	a	citação,	quando	as	informações	prestadas	forem	suficientes	(§
+2.º	do	art.	319	do	CPC/2015);	(2.º)	faltando	as	informações,	e	caso	o	autor	não	tenha	condições	de
+consegui-las,	deverá	o	órgão	jurisdicional	cooperar,	viabilizando	sua	obtenção	(§	1.º	do	art.	319	do
+CPC/2015);	(3.º)	por	fim,	não	será	caso	de	indeferimento,	se	o	não	atendimento	do	requisito	“tornar
+impossível	ou	excessivamente	oneroso	o	acesso	à	justiça”	(§	3.º	do	art.	319	do	CPC/2015).
+Coerentemente	com	essas	disposições,	o	art.	554,	§§	1.º	a	3.º,	do	CPC/2015	regulam	a	citação	em	ações
+possessórias,	caso	no	polo	passivo	figure	um	grande	número	de	pessoas.	Na	doutrina,	já	se	vinha
+admitindo	o	ajuizamento	da	ação	contra	réu	de	cuja	precisa	qualificação	não	se	tivesse	conhecimento
+(p.ex.,	ação	de	reintegração	de	posse	contra	invasores	cujos	dados	não	são	conhecidos	pelo	autor;	cf.
+Nelson	Nery	Junior	e	Rosa	Maria	de	Andrade	Nery,	CPC	comentado,	p.	757).	Nesse	caso,	a	norma
+processual	não	pode	impedir	o	exercício	do	direito	de	ação,	criando	obstáculo	que	seria	intransponível
+(art.	5.º,	XXXV,	da	CF/1988),	devendo-se	admitir	a	petição	inicial	sempre	que	o	réu,	embora	não
+plenamente	identificado,	seja	“identificável”,	ainda	que	a	qualificação	precisa	seja	posteriormente
+realizada,	no	curso	da	tramitação	do	processo.
+VIII.	Causa	de	pedir	próxima	e	remota,	ativa	e	passiva.	A	causa	de	pedir	é	o	fundamento	da	demanda,
+o	motivo	que	leva	o	autor	a	pedir	a	tutela	jurisdicional.	A	doutrina	divide	a	causa	de	pedir	em	próxima	e
+remota.	Para	alguns,	a	causa	de	pedir	remota	seria	constituída	pelos	fatos,	enquanto	a	causa	de	pedir
+próxima	pelos	fundamentos	jurídicos	(cf.	José	Frederico	Marques,	Instituições.	.	cit.,	vol.	3,	n.	580,	p.
+
+65;	Moacyr	Amaral	Santos,	Primeiras	linhas.	.	cit.,	vol.	2,	n.	401,	p.	134;	na	doutrina	recente,	Marcelo
+Pacheco	Machado,	Causa	de	pedir.	.	RePro	237/89;	semelhantemente,	na	jurisprudência,	cf.	STJ,	REsp
+1.322.198/RJ,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	04.06.2013;	STJ,	CComp	121.723/ES,	rel.	Min.
+Ricardo	Villas	Bôas	Cueva,	2.ª
+Seção,	j.	26.02.2014).	Outros	veem	a	causa	de	pedir	remota	como	os	fundamentos	jurídicos	e	a	causa	de
+pedir	próxima	como	os	fatos	(cf.	Nelson	Nery	Junior	e	Rosa	Maria	de	Andrade	Nery,	CPC	comentado
+cit.,	p.	758).	É	de	utilidade	duvidosa	separar	a	causa	de	pedir	em	próxima	e	remota	tomando-se	por
+critério	a	distinção	entre	fatos	e	fundamentos	jurídicos,	como	se	se	estivesse	diante	de	realidades
+distintas.	Na	doutrina,	afirma-se	que	o	ordenamento	jurídico-processual	brasileiro	adotou	a	teoria	da
+substanciação	(ao	menos	preponderantemente,	cf.	comentário	infra),	de	modo	que	os	“fundamentos
+jurídicos”
+passam	a	ocupar	posição	secundária	na	identificação	da	causa	petendi.	Sob	esse	prisma,	pode	ocorrer
+que	a	fundamentação	jurídica	(no	sentido	de	categorização	jurídica	precisa	do	fato)	não	esteja
+absolutamente	correta,	mas	isto	não	impede	o	juiz	de	conhecer	a	pretensão	do	autor	(por	exemplo,	pode	o
+autor	referir-se	a	dete
+[/PAGINA 554]
+
+[PAGINA 555]
+rminado	fenômeno	como	dolo,	para	efeito	de	anulação	do	ato	jurídico,	mas	estar-se
+diante	de	erro	–	e	isto	ser	verificado	pelo	juiz).	Note-se,	por	outro	lado,	que,	em	muitos	casos,	a
+distinção	entre	questão	de	fato	e	questão	de	direito	nem	sempre	é	de	fácil	percepção	(cf.	escrevemos	em
+O
+prequestionamento.	.	cit.,	4.	ed.,	n.	3.2.3.3).	Assim,	parece	mais	acertado	afirmar	que	causa	de	pedir
+remota	se	vincula	ao	fato	jurídico	matriz	da	relação	jurídica,	e	causa	de	pedir	próxima	se	relaciona	com
+o	dever	do	titular	da	situação	de	desvantagem,	ou	daquele	de	quem	se	deve	ou	se	pode	exigir
+determinado	ato	ou	comportamento	(cf.	Calmon	de	Passos,	op.	cit.,	vol.	3,	n.
+111.2,	p.	158).	Este	ponto	de	vista	assemelha-se	à	concepção	que	divide	a	causa	de	pedir	em	ativa	e
+passiva,	sendo	a	primeira	a	que	abrange	o	fato	constitutivo	do	direito	alegado,	e	a	segunda	o	fato	lesivo
+do	direito	alegado,	ou	a	ameaça	a	tal	direito	(cf.
+José	Carlos	Barbosa	Moreira,	O	novo	processo	civil	brasileiro,	p.	15;	Cândido	Rangel	Dinamarco,	op.
+cit.,	n.	994,	p.	362).
+Objetivamente,	causa	de	pedir	é	o	porquê	do	pedido	(cf.	Teixeira	de	Souza,	Algumas	questões.	.	RePro
+228/311).	Constituem	a	causa	de	pedir	os	fatos	e	fundamentos	jurídicos	do	pedido,	diz	o	art.	319,	III,	do
+CPC/2015;	logo,	a	causa	de	pedir,	além	de	dizer	respeito	ao	pedido,	o	particulariza.	A	causa	de	pedir
+tem	a	ver	com	a	definição	do	objeto	do	processo,	e	não	com	o	objeto	litigioso	(sobre	essa	distinção,	cf.
+comentário	ao	art.	203	do	CPC/2015).	Assim,	há	fatos	que	não	constituem	a	causa	de	pedir	(como
+requisito	da	petição	inicial),	mas	podem	suscitados	pelo	autor	e	deverão	ser	levados	em	consideração
+pelo	juiz,	ao	sentenciar	–	logo,	poderão	ser	objeto	de	prova,	também.	Tais	fatos,	simples	ou	secundários,
+corroboram	o	fato	principal,	que	vem	a	ser	aquele	que	delimita	a	pretensão	do	autor.	Para	a	procedência
+do	pedido,	consideram-se	relevantes	não	apenas	os	denominados	fatos	jurídicos	(ou	principais,	ou
+jurígenos,	ou	essenciais)	a	respeito	de	cuja	existência	se	controverte,	mas,	também,	os	fatos	simples	(ou
+secundários),	que	podem	atestar,	ainda	que	indiretamente,	a	verdade	ou	falsidade	de	um	enunciado
+relativo	ao	fato	principal.	Enquanto	do	fato	principal	se	extrai	a	consequência	jurídica	pretendida	pela
+parte,	do	fato	secundário	se	infere	a	ocorrência	do	fato	principal	(cf.	Luigi	Paolo	Comoglio	et	al,
+Lezioni,	vol.	1,	cit.,	p.	415).	Quanto	à	contestação	apresentada	pelo	réu,	não	é	adequado	falar	em	causa
+de	pedir,	mas	em	fundamento	da	defesa	(expressão	usada,	por	exemplo,	no	art.	343	do	CPC/2015;	na
+
+doutrina	portuguesa,	cf.	Teixeira	de	Souza,	Algumas	questões.	.	RePro	228/311).
+IX.	Teorias	da	substanciação	e	da	individuação.	Adoção,	pelo	Código	de	Processo	Civil	de	2015,	de
+substanciação	restrita.	Segundo	a	teoria	da	individuação,	importa	a	categorização	jurídica	indicada	pela
+parte,	sendo	menos	relevantes	os	fatos	narrados;	para	a	teoria	da	substanciação,	os	fatos	têm	maior
+importância,	pois	o	juiz	deverá,	com	base	no
+[/PAGINA 555]
+
+[PAGINA 556]
+s	elementos	fáticos	trazidos	pelas	partes,	ajustar	a	eles	a
+previsão	contida	no	ordenamento	jurídico	(Luigi	Montesano	e	Giovanni	Arieta,	Diritto	processuale
+civile,	2.	ed.,	vol.	1,	n.	61,	p.	148).	Prepondera	o	entendimento,	na	doutrina	brasileira,	no	sentido	de	que
+nosso	direito	processual	civil	adotou	a	teoria	da	substanciação	(cf.	Moacyr	Amaral	Santos,	Primeiras
+linhas.	.	cit.,	vol.	2,	n.
+401,	p.	134;	mais	recentemente,	Carlos	Silveira	Noronha,	A	causa	de	pedir.	.	RePro	75/26;	Frederico
+Andrade	Pinto,	Direito	superveniente.	.	RePro	210/451;	Amaury	Rodrigues	Pinto	Junior,	A	estabilização
+da	demanda.	.	RePro	227/87;	Marcelo	Pacheco	Machado,	Causa	de	pedir.	.	RePro	237/89).	Para	parte	da
+doutrina,	a	teoria	da	individuação	não	tem	relevância	(cf.	Nelson	Nery	Junior	e	Rosa	Maria	de	Andrade
+Nery,	CPC	comentado,	p.	757).	Alguns	autores	afirmam	que	há	ações	em	que
+prepondera	a	teoria	da	individuação	(p.ex.,	Pontes	de	Miranda,	em	relação	às	ações	fundadas	em	direito
+real,	cf.	Comentários	ao	CPC,	t.	IV,	p.	16-17).	Luigi	Montesano	e	Giovanni	Arieta	sustentam	que	tais
+teorias	são	“duas	faces	da	mesma	realidade”
+(op.	cit.,	p.	148).	Othmar	Jauernig	considera-as	ultrapassadas:	a	teoria	da	individuação,	por	ser
+incompatível	com	o	princípio	iura	novit	curia;	a	teoria	da	substanciação,	porque	a	formulação	completa
+dos	fatos	interessa	para	o	êxito	da	ação,	mas	não	para	a	determinação	do	objeto	do	litígio	(op.	cit.,	§	37,
+p.	206;	na	doutrina	brasileira,	cf.	José	Rogério	Cruz	e	Tucci,	A	causa	petendi	no	processo	civil,	2.	ed.,
+que	trata	do	tema	ex	professo,	mas	v.	especialmente	n.	3.10,	p.	122	ss.).	Importa	ter	presente	o	que	se
+disse	acima:	para	a	identificação	da	causa	petendi,	não	interessam	todos	os	fatos,	mas	apenas	os
+considerados	essenciais	(assim,	se	se	entende	que	a	teoria	da	substanciação	exige	a	apresentação	de
+todos	os	fatos,	essa	concepção	da	teoria	não	teria	sido	adotada,	entre	nós).	Não	se	pode	dizer	que	teria
+sido	adotada	a	teoria	da	individuação,	contudo	(fosse	assim,	o	núcleo	essencial	da	causa	petendi	não
+seriam	os	fatos).	Pode-se,	sob	certo	ponto	de	vista,	dizer	que	o	Código	de	Processo	Civil	de	2015	não
+adota	a	teoria	da	individuação,	mas,	sim,	a	teoria	da	substanciação,	não	a	versão	“original”	desta	teoria
+(“todos	os	fatos”),	mas	uma	concepção	mais	restrita,	para	a	qual	interessam	apenas	os	fatos	necessários	à
+identificação	do	pedido	(fatos	principais,	essenciais,	ou	jurígenos,	e	não	os	fatos	simples,	ou
+secundários).
+X.	Iura	novit	curia	.	Da	mihi	factum	dabo	tibi	ius.	Os	axiomas	iura	novit	curia	e	da	mihi	factum	dabo
+tibi	ius	significam,	literalmente,	“o	juiz	é	quem	conhece	o	direito”	e	“dá-me	os	fatos	que	te	darei	o
+direito”	(STJ,	REsp	1.197.476/BA,	rel.	Min.
+Ricardo	Villas	Bôas	Cueva,	3.ª	T.,	j.	07.10.2014).	À	luz	do	que	acima	se	observou	acerca	da	causa
+petendi,	depreende-se	que	a	indicação	imprecisa	dos	fundamentos	legais	não	impede	que	o	juiz	aprecie	a
+pretensão	de	acordo	com	a	norma	jurídica	correta,	dando	ao	fato	narrado	pelo	autor	o	e
+[/PAGINA 556]
+
+[PAGINA 557]
+nquadramento
+jurídico	adequado	(cf.	Arruda	Alvim,	Manual.	.	cit.,	vol.	2,	n.	86,	p.	205).	Assim,	“não	se	verifica
+alteração	da	causa	de	pedir	quando	se	atribui	ao	fato	qualificação	jurídica	diversa	da	originalmente
+atribuída”	(STJ,	REsp	496814/PE,	rel.	Min.	Hamilton	Carvalhido).	Exemplo:	“Afastada	a	aplicação	dos
+Dec.-leis	2.445/1988	e	2.449/1988,	cabia	ao	Tribunal	aplicar	o	direito	à	espécie,	in	casu	as	regras	da
+LC	7/1970,	máxime	porquanto	o	regime	jurídico	aplicável	à	espécie	não	integra	a	causa	petendi,
+
+vigorando	no	sistema	brasileiro	a	cognição	ex	officio	do	direito	incidente	no	caso	submetido	à	tutela
+jurisdicional	(	iura	novit	curia)”	(STJ,	REsp	862.996/RN,	1.ª	T.,	j.	24.06.2008,	rel.
+Min.	Luiz	Fux).	Note-se	que,	nesse	caso,	“o	juiz	aplica	o	direito	aos	fatos	descritos	pela	parte	autora,
+desde	que	não	haja	implicações	quanto	à	alteração	do	pedido,	nem	ofensa	aos	princípios	do	contraditório
+e	da	ampla	defesa”	(Teresa	Arruda	Alvim	Wambier,	Omissão	judicial	e	embargos	de	declaração	cit.,
+item	4).	No	mesmo	sentido,	decidiu-se	que	“a	viabilidade	de	o	juiz	decidir	a	causa	com	base	em	preceito
+normativo	não	invocado	pelas	partes	ou	diferente	do	invocado	(autorizada	pelo	aforismo	iura	novit
+curia)	tem	como	pressuposto	necessário	a	manutenção	dos	demais	termos	da	demanda,	mormente	no	que
+se	refere	ao	pedido	e	à	causa	de	pedir	deduzidos	na	inicial”	(STJ,	REsp	1.153.656/DF,	rel.	Min.	Teori
+Albino	Zavascki,	1.ª	T.,	j.	10.05.2011).	Note-se	que	o	que	ora	se	diz	aplica-se	à	causa	de	pedir,	no
+contexto	do	art.	319	do	CPC/2015.	Em	se	tratando	de	recursos	de	fundamentação	vinculada,	como	o	são
+os	recursos	extraordinário	e	especial,	não	cabe	ao	relator	do	recurso	perscrutar	o	fato,	para	tentar
+identificar	o	dispositivo	(constitucional	ou	legal)	supostamente	violado	(nesse	sentido,	por	exemplo,	STJ,
+AgRg	no	REsp	1.358.474/AL,	rel.	Min.	Sérgio	Kukina,	1.ª	T.,	j.	05.08.2014;	STJ,	EDcl	no	AREsp
+569.667/SP,	rel.	Min.
+Luis	Felipe	Salomão,	4.ª	T.,	j.	23.09.2014).
+XI.	Nomen	iuris	da	ação.	Não	tem	relevância	o	nomen	juris	da	ação,	desde	que	pela	causa	de	pedir	e
+pedido	se	possa	definir	com	precisão	a	pretensão	do	autor	e	de	que	espécie	de	ação	se	trata	(cf.	Calmon
+de	Passos,	op.	cit.,	n.	111.2,	p.	159;	na	jurisprudência,	cf.	STJ,	REsp	436.813/SP,	4.ª	T.,	rel.	Min.
+Fernando	Gonçalves,	j.	06.04.2004;	STJ,	REsp	509.300/SC,	3.ª	T.,	j.
+28.06.2005,	rel.	Min.	Gomes	de	Barros;	STJ,	REsp	650.677/MT,	1.ª	T.,	j.	28.03.2006,	rel.	Min.	Luiz
+Fux).	“A	natureza	jurídica	da	ação	é	definida	por	meio	do	pedido	e	da	causa	de	pedir,	não	tendo
+relevância	o	nomen	iuris	dado	pela	parte	autora”	(STJ,	AgRg	no	REsp	1.193.892/DF,	rel.	Min.	Ricardo
+Villas	Bôas	Cueva,	3.ª	T.,	j.	06.02.2014).
+XII.	Pedidos	imediato	e	mediato.	O	pedido	indica	a	prestação	jurisdicional	buscada	pelo	autor	(pedido
+imediato,	ao	qual	corresponde	uma	sentença	declaratória,	constitutiva	etc.)	e	o	“bem	da	vida”	que	se
+pretende	ver	atingido	pela	tutela	jurisdicional	(pedido	mediato,	isto	é,	declaração	da	nulidade	do	ato
+jur
+[/PAGINA 557]
+
+[PAGINA 558]
+ídico,	decretação	do	divórcio	etc.;	cf.	Luiz	Rodrigues	Wambier	et	al.,	Curso	avançado.	.	cit.,	vol.	1,	p.
+305):	“O	pedido	possui	duplo	enfoque	–	pede-se	a	prestação	jurisdicional	(pedido	imediato)	e	o	bem	da
+vida	perseguido	pelas	partes	(pedido	mediato).	A	causa	petendi,	ou	razão	do	pedido,	revela	o	liame
+jurídico	que	deve	existir	entre	as	circunstâncias	fáticas	e	o	direito	alegado”	(STJ,	REsp	256.097/PR,	3.ª
+T.,	rel.	Min.
+Waldemar	Zveiter).	Assim,	p.ex.,	há	“pedido	imediato	de	condenação	e	pedido	mediato	de	autorização
+para	tratamento	médico”	(STJ,	REsp	1.186.851/MA,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	27.08.2013).
+XIII.	Correlação	entre	pedido	(e	causa	de	pedir)	e	sentença.	O	libelo	(pedido	e	causa	de	pedir,	cf.
+supra)	define	a	modalidade	e	a	extensão	da	atividade	jurisdicional	a	ser	desenvolvida	(cf.	Elio
+Fazzallari,	Lezioni.	.	cit.,	vol.	1,	p.	45).	É	a	partir	do	libelo	que	se	verificará	se	se	trata	de	ação	de
+execução	ou	de	conhecimento.	O	órgão	jurisdicional	não	poderá	julgar	além	do	pedido	(sentença	ultra
+petita),	aquém	do	pedido	(sentença	citra	ou	infra	petita)	ou	fora	do	pedido	(sentença	extra	petita).
+Fica,	assim,	delimitada	a	atividade	jurisdicional	a	ser	desenvolvida	(princípio	da	congruência,	ou	da
+
+correlação	entre	libelo	e	sentença,	cf.	arts.	141	e	502,	caput	do	CPC/2015;	na	jurisprudência,	cf.	STJ,
+REsp	1.349.788/RS,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.
+26.08.2014;	STJ,	AgRg	no	CComp	134.478/SP,	rel.	Min.	Mauro	Campbell	Marques,	1.ª	Seção,	j.
+08.10.2014).	Há	exceções	a	essa	regra,	contudo	(cf.	comentário	a	seguir).
+XIV.	Hipóteses	em	que	o	juiz	não	fica	limitado	ao	pedido	formulado	pela	parte.	O	juiz,	em	princípio,
+não	pode	fugir	da	definição	traçada	e	das	providências	pleiteadas	pelo	autor	(cf.	comentário	supra).	Há
+diversas	situações,	no	entanto,	em	que	não	fica	o	juiz	adstrito	ao	pedido	realizado	pelo	autor.	É	o	que
+ocorre,	por	exemplo,	em	relação	à	conversão	da	tutela
+específica	em	resultado	prático	equivalente	ou	perdas	e	danos,	em	ações	que	têm	por	objeto	prestação	de
+fazer,	não	fazer	ou	entregar	coisa	(cf.	comentário	ao	art.	499	do	CPC/2015),	bem	como	a	realização	de
+“medidas	necessárias”,	ainda	que	não	pleiteadas	ou	distintas	das	pleiteadas	pelo	autor,	com	o	intuito	de
+fazer-se	cumprir	a	sentença	(cf.	comentário	ao	art.	536	do	CPC/2015;	na	jurisprudência,	cf.	STJ,	REsp
+1.358.705/SP,	j.	11.03.2014,	rel.	Min.	Nancy	Andrighi,	3.ª	T.;	sobre	a	conversão	em	perdas	e	danos,
+quando	impossível	a	tutela	específica,	independentemente	de	pedido,	cf.	STJ,	REsp	1.358.726/RJ,	j.
+06.05.2014,	rel.	Min.	Nancy	Andrighi,	3.ª	T.;	decidiu-se	que	“tratandose	de	fornecimento	de
+medicamentos,	cabe	ao	Juiz	adotar	medidas	eficazes	à	efetivação	de	suas	decisões,	podendo,	se
+necessário,	determinar	até	mesmo,	o	sequestro	de	valores	do	devedor	(bloqueio),	segundo	o	seu	prudente
+arbítrio,	e	sempre	com	adequada	fundamentação”	(STJ,	REsp	Repetitivo	1.069.810/RS,	rel.
+Min.	Napoleão	Nunes	Mais	Filho,	1.ª	Seção,	j.	23.10.2013).	Sobre	pedidos	“impróprio”	e	“imp
+[/PAGINA 558]
+
+[PAGINA 559]
+lícito”,
+cf.	comentário	ao	art.	322
+do	CPC/2015.
+XV.	Indicação	de	provas.	O	art.	319,	VI,	do	CPC/2015	exige	indicação	dos	meios	de	prova,	e	não	a
+exposição	minuciosa	de	cada	prova	que	se	pretende	produzir	(cf.,	à	luz	do	Código	de	Processo	Civil	de
+1973,	manifestava-se	Moacyr	Amaral	Santos,	Primeiras	linhas.	.	cit.,	vol.	2,	n.	403,	p.	135).	Na	doutrina,
+já	se	afirmou	não	ser	admissível	o	“protesto	genérico”	por	provas	(cf.
+Eduardo	Arruda	Alvim,	Curso	.	.	cit.,	vol.	1,	p.	399;	José	Carlos	Barbosa	Moreira,	op.	cit.,	p.	17).	É
+certo	que	algum	meio	de	prova	o	autor	deve	desde	logo	indicar;	essa	manifestação,	contudo,	se	sujeita	a
+posterior	confirmação,	tendo	em	vista	que,	ao	formular	a	petição	inicial,	o	autor	não	sabe	ainda	sobre	o
+que	controverterá	o	réu,	em	sua	contestação	(cf.	arts.	357	e	358	do	CPC/2015).	Não	se	pode	exigir	do
+autor	a	indicação	minuciosa	dos	meios	de	prova,	pois	o	objeto	da	prova	será	o	fato	controvertido,	o	que
+somente	poderá	se	definir	após	a	resposta	do	réu	(por	exemplo,	pode	se	fazer	necessária	a	prova	pericial
+em	decorrência	de	ponto	questionado	pelo	réu,	antes	inexistente;	cf.	Cândido	Rangel	Dinamarco,
+Instituições.	.	cit.,	vol.	3,	n.
+1006,	p.	382).	Decidiu-se,	na	jurisprudência,	que	“o	requerimento	de	provas	divide-se	em	duas	fases:	(i)
+protesto	genérico	para	futura	especificação	probatória	(CPC,	art.	282,	VI	[do	CPC/1973,	correspondente
+ao	art.	319,	VI,	do	CPC/2015]);	(ii)	após	eventual	contestação,	quando	intimada	a	parte	para	a
+especificação	das	provas,	que	será	guiada	pelos	pontos	controvertidos	na	defesa	(CPC,	art.	324	[do
+CPC/1973,	correspondente	ao	art.	355	do	CPC/2015])”	(STJ,	AgRg	nos	EDcl	no	REsp	1.176.094/RS,
+rel.
+
+Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.	05.06.2012).	Mesmo	a	revelia	poderá	não	conduzir	à	presunção	de
+veracidade	dos	fatos	afirmados	pelo	autor	(art.	345	do	CPC/2015),	hipótese	em	que	deverá	ser	dada	a
+este	oportunidade	para	especificar	as	provas	que	pretende	produzir	(cf.	art.	348	do	CPC/2015).	Ausente
+qualquer	indicação	do	meio	de	prova,	deverá	ser	determinada	a	emenda	da	petição	inicial	(cf.	art.	321	do
+CPC/2015).	Sobre	proposição,	admissão,	produção	e	avaliação	da	prova,	cf.
+comentário	ao	art.	369	do	CPC/2015.
+XVI.	Desnecessidade	de	requerimento	expresso	e	específico	para	a	citação	do	réu,	como	requisito
+formal	da	petição	inicial.	Com	a	citação,	chama-se	(ou	convoca-se)	o	réu	para	que	venha	a	juízo	(cf.
+comentário	ao	art.	238	do	CPC/2015).	Deve	ser	“chamado”	apenas	aquele	contra	quem	o	autor	manifeste
+a	intenção	de	demandar.	Como	consequência	do	princípio	dispositivo,	ninguém	é	obrigado	a	litigar	contra
+quem	não	deseje	(cf.	Nelson	Nery	Junior	e	Rosa	Maria	de	Andrade	Nery,	CPC	Comentado,	p.	758).	Isso
+se	aplica	mesmo	em	casos	de	litisconsórcio	necessário	no	polo	passivo,	hipótese	em	que,	caso	o	autor
+não	requeira	a	citação	daqueles	que	devem	figurar	como	réus,	o	processo	será	extinto	(cf.	comentário	aos
+arts.	115	e	116	do	CPC/2015).	O	CPC/1973	aludia	à	necessidade	de	constar,	na	petição	inicial,
+“re
+[/PAGINA 559]
+
+[PAGINA 560]
+querimento	para	a	citação	do	réu”	(art.	282,	VI,	do	CPC/1973).	O	Código	de	Processo	Civil	de	2015
+não	repetiu	a	fórmula.	Rigorosamente,	a	apresentação	de	requerimento	expresso	e	específico	nesse
+sentido	não	faz	sentido.	Deve-se	ter	presente	que	“a	interpretação	do	pedido	considerará	o	conjunto	da
+postulação	e	observará	o	princípio	da	boa-fé”	(art.	323	do	CPC/2015);	ora,	seria	incoerente	pensar	que,
+ajuizada	ação	contra	o	réu,	o	autor	poderia	não	querer	contra	ele	litigar,	dispensando-se,	assim,	sua
+citação.	Ao	pedir	que	o	Judiciário	conceda	tutela	em	desfavor	do	réu,	está	manifestada	a	intenção	de
+contra	este	demandar,	e	satisfeita	está	a	finalidade	daquele	requerimento	formal,	outrora	previsto	na	lei
+processual	revogada.	Acertadamente,	nesse	sentido	manifestava-se	a	doutrina	(cf.,	p.ex.,	Rodrigo
+Barioni,	A	emenda.	.	RePro	121/51;	Gomes	da	Cruz,	Revista	do	IASP	8/77;	Carmona,	Em	torno	da
+petição	inicial,	RePro	119/11)	e	a	jurisprudência	(deixando	claro	que	mais	importante	que	a	existência	de
+um	requerimento	expresso	era	a	existência	de	pedido	de	tutela	jurisdicional	contra	o	réu,	cf.	STJ,	REsp
+32.171/RJ,	rel.	Min.
+Eduardo	Ribeiro,	3.ª	T.,	j.	08.02.1994;	decidiu-se,	em	outro	julgado,	que	“cabe	ao	juízo	verificar	a
+intenção	do	autor	ao	examinar	a	petição	inicial	e	determinar	a	citação	de	todos	aqueles	indicados	no	polo
+passivo	da	demanda”:	STJ,	REsp	685.744/BA,	rel.	Min.	Gomes	de	Barros,	3.ª	T.,	j.	21.09.2006).	De	todo
+modo,	deve	o	autor	indicar	qual	espécie	de	citação	requer,	caso	pretenda	que	esta	se	dê	por	modalidade
+diversa	da	citação	por	via	postal	(art.	247,	V,	do	CPC/2015),	bem	como	informar	se	o	réu	deve	ser	citado
+para	apresentar,	desde	logo,	sua	resposta,	ou	se	deve	comparecer	à	audiência	de	conciliação	ou
+mediação	(cf.	comentário	infra).
+XVII.	Opção	pela	realização	ou	não	de	audiência	de	conciliação	ou	mediação.	De	acordo	com	o	inc.
+VII	do	art.	319	do	CPC/2015,	deve	o	autor	manifestar,	desde	logo,	se	opta	pela	realização	ou	não	da
+audiência	de	conciliação	ou	mediação	(cf.
+também	§	5.º	do	art.	334	do	CPC/2015).	Essa	manifestação	é	indispensável,	a	fim	de	que	se	realize	a
+citação	do	réu	para	comparecer	à	referida	audiência	(cf.	art.	334,	caput,	do	CPC/2015)	ou	para
+apresentar	resposta	(contando-se	o	prazo	nos	termos	do	art.	231	do	CPC/2015,	cf.	art.	335,	caput	e	III,	do
+CPC/2015).	Caso	o	autor	requeira	a	citação	do	réu	para	comparecer	à	audiência	de	conciliação	ou
+mediação,	e	detecte	o	juiz	que,	na	hipótese,	não	se	admite	autocomposição	(cf.	art.	334,	§	4.º,	II,	do
+CPC/2015),	deverá	corrigir	o	procedimento,	determinando	a	citação	do	réu	para,	desde	logo,	apresentar
+
+resposta.
+Art.	320.	A	petição	inicial	será	instruída	com	os	documentos	indispensáveis	à	propositura	da	ação.
+CPC/1973:	Art.	283	(correspondente).
+V.	art.	46	da	Lei	6.766/1979	(Parcelamento	do	solo	urbano).
+•	STJ,	REsp	(repetitivo)	1.111.003/PR:	De	acordo	com	a	jurisprudência	pacífica	do	STJ,	em	ação	de
+repetição	de	indébito,	no	Município	de	Londrina,	os	documentos	indispensávei
+[/PAGINA 560]
+
+[PAGINA 561]
+s	mencionados	pelo	art.
+283	[do	CPC/1973,	correspondente	ao	art.	320	do	CPC/2015]	são	aqueles	hábeis	a	comprovar	a
+legitimidade	ativa	ad	causam	do	contribuinte	que	arcou	com	o	pagamento	indevido	da	exação.	Dessa
+forma,	conclui-se	desnecessária,	para	fins	de	reconhecer	o	direito	alegado	pelo	autor,	a	juntada	de
+todos	os	comprovantes	de	recolhimento	do	tributo,	providência	que	deverá	ser	levada	a	termo,	quando
+da	apuração	do	montante	que	se	pretende	restituir,	em	sede	de	liquidação	do	título	executivo	judicial
+(STJ,	REsp	1.111.003/PR,	1.ª	Seção,	j.	13.05.2009,	rel.	Min.
+Humberto	Martins).
+SUMÁRIO:	I.	Documentos	substanciais	e	fundamentais	–	II.	Consequência	da	não	observância	do	art.
+320	do	CPC/2015:	indeferimento	da	petição	inicial	ou	preclusão	quanto	à	produção	de	prova
+documental?	–	III.	Ausência	de	contestação	sobre	o	fato	que	deveria	ser	provado	pelo	documento
+fundamental	não	juntado	pelo	autor.
+I.	Documentos	substanciais	e	fundamentais.	Afirma-se,	na	doutrina,	que	os	documentos	indispensáveis
+são	substanciais	(aqueles	que	a	lei	expressamente	exige	para	que	a	ação	possa	ser	proposta)	ou
+fundamentais	(aqueles	referidos	pelo	autor	em	sua	petição	como	fundamento	de	seu	pedido;	cf.	Moacyr
+Amaral	Santos,	Primeiras	linhas.	.	cit.,	vol.	2,	n.	406,	p.	138).	A	nosso	ver,	documento	indispensável	é
+apenas	o	substancial,	sem	o	qual	o	mérito	da	causa	não	pode	ser	julgado	(exemplo:	título	de	propriedade,
+na	ação	demarcatória,	cf.	art.	574	do	CPC/2015).	Documentos	fundamentais,	destinados	à	produção	de
+provas,	são	considerados	apenas	úteis	(cf.	Cândido	Rangel	Dinamarco,	Instituições.	.	cit.,	vol.	3,	n.
+1006,	p.	381;	Nelson	Nery	Junior	e	Rosa	Maria	de	Andrade	Nery,	CPC	comentado,	p.	759).	Não	foram
+considerados	documentos	indispensáveis,	dentre	outros,	os	comprovantes	de	pagamento,	em	ação	de
+repetição	de	indébito:	“Em	sede	de	ação	de	repetição	de	indébito	da	taxa	de	iluminação	pública,	é
+desnecessária	a	juntada	de	todos	os	comprovantes	de	pagamento	com	o	fito	de	definir	o	quantum
+debeatur,	o	que	pode	ser	feito	na	fase	de	liquidação	de	sentença”	(STJ,	REsp	980.945/PR,	1.ª	Seção,	j.
+24.09.2008,	rel.	Min.
+Francisco	Falcão).	Se	é	do	autor	o	ônus	da	prova	do	fato	(art.	373,	caput,	I,	do	CPC/2015)	e	os
+documentos	encontram-se	com	o	réu,	pode-se	pedir	que	este	exiba	os	documentos	(cf.	arts.	396	e	ss.	do
+CPC/2015;	na	jurisprudência,	decidindo	à	luz	do	art.	844,	II,	do	CPC/1973,	cf.	STJ,	REsp	1.118.416/PR,
+rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	03.05.2011),	nada	impedindo	que	a	exibição	seja	requerida	em	caráter
+incidental	(cf.	STJ,	REsp	896.435/PR,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	27.10.2009).
+II.	Consequência	da	não	observância	do	art.	320	do	CPC/2015:	indeferimento	da	petição	inicial	ou
+preclusão	quanto	à	produção	de	prova	documental?	Assim	como	ocorre	quando	faltar	algum	dos
+elementos	previstos	no	art.	319	do	CPC/2015,	a	não	observância	ao	disposto	no	art.	320	do	CPC/2015	dá
+ensejo	à	incidência	do	art.	321	do	CPC/2015,	devendo	o	juiz	determinar	que	o	autor	emen
+[/PAGINA 561]
+
+[PAGINA 562]
+de	a	petição
+
+inicial,	antes	de	extinguir	o	processo	(cf.	STJ,	REsp	827.242/DF,	rel.	Min.	Luiz	Fux,	1.ª	T.,	j.	04.11.2008;
+STJ,	AgRg	no	REsp	1.176.832/RJ,	rel.	Min.	Maria	Isabel	Gallotti,	4.ª	T.,	j.	04.04.2013).	Não	será	caso,
+assim,	de	improcedência	do	pedido	por	falta	de	provas	(hipótese	possível	se	não	juntado	documento
+fundamental),	pois	sempre	que	faltar	o	documento	indispensável	(isto	é,	substancial)	que	deveria	ter	sido
+juntado	com	a	petição	inicial,	o	caso	será	ou	de	emenda	ou	indeferimento.	Caso	a	falta	seja	arguida	pelo
+réu,	deverá	o	juiz	determinar,	ao	autor,	a	correção	do	vício	(cf.	art.	351	do	CPC/2015).	Será	caso	de
+improcedência	do	pedido,	como	se	disse,	caso	a	parte	não	junte	documento	fundamental	(distinguindo	as
+hipóteses,	com	precisão,	cf.	STJ,	REsp	1.130.704/MG,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.
+19.03.2013).	Cf.	também	comentário	infra.
+III.	Ausência	de	contestação	sobre	o	fato	que	deveria	ser	provado	pelo	documento	fundamental	não
+juntado	pelo	autor.	Não	tendo	sido	juntado	documento	não	considerado	substancial,	mas	apenas
+fundamental,	se	o	réu	não	contestar	o	fato	que	deveria	ficar	provado	pelo	documento	não	juntado,
+desnecessária	será	a	produção	da	prova	documental,	ante	a	presunção	de	veracidade	dos	fatos	não
+impugnados	(cf.	art.	344,	caput,	do	CPC/2015;	cf.	José	Frederico	Marques,	Instituições.	.
+cit.,	vol.	3,	n.	553,	p.	29).	O	mesmo	não	ocorre	quando	ausente	documento	substancial	(cf.	art.	345,	III,	do
+CPC/2015).	Cf.
+comentário	supra.
+Art.	321.	O	juiz,	ao	verificar	que	a	petição	inicial	não	preenche	os	requisitos	dos	arts.	319	e	320	ou	que
+apresenta	defeitos	e	irregularidades	capazes	de	dificultar	o	julgamento	de	mérito,	determinará	que	o
+autor,	no	prazo	de	15	(quinze)	dias,	a	emende	ou	a	complete,	indicando	com	precisão	o	que	deve	ser
+corrigido	ou	completado.
+Parágrafo	único.	Se	o	autor	não	cumprir	a	diligência,	o	juiz	indeferirá	a	petição	inicial.
+CPC/1973:	Art.	284	(correspondente).
+V.	art.	106	da	Lei	11.101/2005	(Nova	Lei	de	Recuperação	e	Falência),	sem	correspondência	no	Dec.-lei
+7.661/1945	(Lei	de	Falências).
+•	STJ,	REsp	(repetitivo)	1.133.689/PE:	[.	.],	o	prazo	do	art.	284	do	CPC	[de	1973,	correspondente	ao
+art.	321	do	CPC/2015]	não	é	peremptório,	mas	dilatório,	ou	seja,	pode	ser	reduzido	ou	ampliado	por
+convenção	das	partes	ou	por	determinação	do	juiz,	nos	termos	do	art.	181	do	CPC	[de	1973;	sem
+correspondente,	no	Código	de	Processo	Civil	de	2015]	(STJ,	REsp	1.133.689/PE,	rel.	Min.
+Massami	Uyeda,	2.ª	Seção,	j.	28.03.2012).
+•	FCCP,	Enunciado	284:	Aplica-se	à	ação	rescisória	o	disposto	no	art.	321.
+SUMÁRIO:	I.	Juízo	de	admissibilidade	da	demanda	–	II.	Dever	de	prevenção.	Emenda	da	petição	inicial
+(juízo	de	admissibilidade	ordinatório)	–	III.	Momento	processual	de	aplicação	do	art.	321	do	CPC/2015
+–	IV.	Natureza	jurídica	e	recorribilidade	do	pronunciamento	que	determina	a	emenda	da	petição	inicial.
+Necessidade	de	fundamentação.
+I.	Juízo	de	admissibilidade	da	demanda.	Juízo	de	admissibilidade	é	atividade	desen
+[/PAGINA 562]
+
+[PAGINA 563]
+volvida	pelo	órgão
+
+jurisdicional	consistente	no	exame	da	presença	dos	requisitos	exigidos	pela	lei	para	a	prática	de	um	ato
+processual.	Os	atos	praticados	pelas	partes,	em	geral,	sujeitam-se	a	juízo	de	admissibilidade	(por
+exemplo,	quanto	ao	juízo	de	admissibilidade	dos	recursos,	cf.	comentário	ao	art.	994	do	CPC/2015).	O
+art.	321	do	CPC/2015	diz	respeito	ao	juízo	de	admissibilidade	da	demanda,	que	pode	ser	positivo,
+negativo	ou	ordinatório	(seguimos,	no	ponto,	antiga	lição	de	José	Frederico	Marques,	Instituições.	.	cit.,
+vol.
+3,	n.	547,	p.	19	e	ss.):	(a)	positivo	quando	apresenta	seus	requisitos,	hipótese	em	que	deverá	o	juiz
+determinar	a	citação	do	réu	(art.	334	do	CPC/2015);	(b)	negativo	quando	a	petição	inicial	puder	ser
+desde	logo	indeferida	(art.	330	do	CPC/2015),	por	se	estar	diante	de	hipótese	em	que	se	imponha,	de
+plano,	a	extinção	do	processo	(como,	por	exemplo,	no	caso	de	ausência	de	legitimidade	ad	causam,	cf.
+STJ,	AgRg	no	REsp	1.414.606/AL,	rel.	Min.	Herman	Benjamin,	2.ª	T.,	j.	10.12.2013;	STJ,	AgRg	no	REsp
+1.166.037/MG,	rel.	Min.	Jorge	Mussi,	5.ª	T.,	j.	05.06.2014;	diversa	ainda	é	a	hipótese	prevista	no	art.
+332	do	CPC/2015,	de	improcedência	liminar	do	pedido);	(c)	ordinatório,	quando	presentes	vícios	ou
+irregularidades	sanáveis.	Nesse	caso,	incide	o	disposto	no	art.	321	do	CPC/2015,	devendo	o	juiz
+possibilitar	a	emenda	da	petição	inicial.	Cf.	comentário	a	seguir.
+II.	Dever	de	prevenção.	Emenda	da	petição	inicial	(juízo	de	admissibilidade	ordinatório).	É	possível
+a	emenda	da	petição	inicial	quando	esta	apresenta	vícios	ou	irregularidades	sanáveis.	Pode-se	estar,	por
+exemplo,	diante	de	petição	inicial	ininteligível	(art.	330,	§	1.º,	III,	do	CPC/2015),	e	nesse	caso	será
+possível	a	correção	do	vício.	A	emenda	é	considerada	direito	subjetivo	da	parte:	“Sob	o	ângulo
+axiológico,	a	emenda	da	peça	vestibular	é	um	direito	subjetivo	do	autor,	de	modo	que	não	oportunizar	a
+ele	a	emendar	a	inicial,	no	caso	de	ser	a	emenda	possível,	constitui	um	cerceamento	do	seu	direito	de
+defesa,	haja	vista	o	preconizado	nas	normas	insertas	nos	incs.	XXXV	e	LV	do	art.	5.º	da	CF/1988”	(STJ,
+REsp	671.986/RJ,	rel.	Min.	Luiz	Fux,	1.ª	T.,	j.	27.09.2005;	no	mesmo	sentido,	STJ,	AgRg	no	REsp
+1.086.080/AL,	rel.	Min.	Mauro	Campbell	Marques,	2.ª	T.,	j.
+05.12.2013).	Está-se,	no	caso,	diante	de	manifestação	do	dever	de	prevenção,	consectário	do	princípio
+da	cooperação	(cf.
+comentário	aos	arts.	6.º,	139	e	276	do	CPC/2015).
+III.	Momento	processual	de	aplicação	do	art.	321	do	CPC/2015.	A	emenda	da	petição	inicial,	em
+princípio,	deve	ser	realizada	antes	da	citação	do	réu.	Após	a	citação	deste,	há	que	se	distinguir:	(a)	se	o
+vício	exigir,	para	sua	correção,	a	reelaboração	do	pedido	ou	da	causa	de	pedir,	a	solução	da	questão
+desloca-se	para	o	art.	330,	I,	do	CPC/2015.	É	que,	citado	o	réu,	a	alteração	do	pedido	ou	da	causa	de
+pedir	somente	será	possível	se	este	o	consentir	e,	ainda	assim,	em	princípio,	desde	que	antes	do
+saneamento	do	processo	(art.	329,	II,	do	CPC/2015).	A	cor
+[/PAGINA 563]
+
+[PAGINA 564]
+reção	dos	vícios	que	atingem	o	pedido	e	a
+causa	de	pedir	(por	exemplo,	ausência	de	pedido,	incoerência	entre	pedido	e	causa	de	pedir,	ou	entre
+pedidos)	exige	sua	nova	realização,	o	que,	após	a	citação	do	réu,	só	é	possível	com	o	consentimento
+deste	(cf.	STJ,	REsp	1.074.066/PR,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.	04.05.2010;	STJ,	AgRg	no	REsp
+1.043.450/AM,	rel.	Min.	Marco	Buzzi,	4.ª	T.,	j.	12.11.2013);	(b)	se	os	vícios	forem	estritamente	formais
+(por	exemplo,	ausência	de	indicação	do	valor	da	causa,	apresentação	de	procuração,	juntada	de
+documento	essencial),	a	correção	deve	ser	autorizada	(cf.	art.	351	do	CPC/2015;	cf.	STJ,	REsp
+40.878/SP,	4.ª	T.,	rel.	Min.	Antônio	Torreão	Braz;	STJ,	AgRg	no	AgRg	no	REsp	628.463/RJ,	rel.	Min.
+Francisco	Falcão,	1.ª	T.,	j.	27.02.2007;	STJ,	REsp	1.231.152/PR,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.
+20.08.2013;	decidiu-se	que	“a	orientação	que	veda	a	emenda	à	petição	inicial	após	a	apresentação	da
+
+contestação	restringe-se	aos	casos	que	ensejam	a	alteração	da	causa	de	pedir	ou	pedido,	devendo,	nas
+demais	hipóteses,	ser	realizada	a	diligência	em	homenagem	aos	princípios	da	economia	processual	e	das
+instrumentalidade	das	formas”:	STJ,	EDcl	no	AREsp	298.431/DF,	rel.	Min.	Maria	Isabel	Gallotti,	4.ª	T.,
+j.	10.06.2014).
+IV.	Natureza	jurídica	e	recorribilidade	do	pronunciamento	que	determina	a	emenda	da	petição
+inicial.
+Necessidade	de	fundamentação.	Como	quaisquer	outras	decisões	judiciais,	a	que	determina	a	emenda
+da	petição	inicial	deve	ser	fundamentada,	sob	pena	de	nulidade	(cf.	art.	93,	IX,	da	CF/1988),	indicando-
+se	o	vício	a	ser	suprido.	Nesse	sentido,	decidiu	o	STJ:	“Embora	não	exista	dispositivo	legal	impondo	a
+indicação,	quando	intimada	a	parte	autora	para	emendar	a	petição	inicial,	do	requisito	ausente	na
+exordial,	deve	o	magistrado,	com	os	olhos	nos	modernos	princípios	da	instrumentalidade	das	formas	e	da
+economia	e	celeridade	processuais,	especificar	a	falha	contida	na	peça,	sob	pena	de,	por	rigorismo
+processual,	entravar	o	prosseguimento	do	feito	e	impedir	a	célere	composição	do	litígio”	(	RePro
+110/412).	O	Código	de	Processo	Civil	de	2015	dispõe,	expressamente,	que,	ao	determinar	a	emenda	da
+petição	inicial,	deve	o	juiz	indicar	“com	precisão	o	que	deve	ser	corrigido	ou	completado”	(art.	321	do
+CPC/2015).	Considerando	que	este	pronunciamento	judicial	tem	conteúdo	decisório	e	pode	causar
+prejuízo	à	parte	(p.ex.,	nos	casos	em	que	não	há	vício	a	corrigir,	a	ausência	de	emenda	poderá	determinar
+o	indeferimento	equivocado	da	petição	inicial,	cf.	art.	321,	parágrafo	único,	do	CPC/2015),	não	se	estará
+diante	de	mero	despacho,	mas	de	decisão	interlocutória	(cf.	art.	203,	§	2.º,	do	CPC/2015).	Pode-se	estar
+diante	de	decisão	que,	erroneamente,	determina	a	emenda	da	petição	inicial.	Exemplo:	“O	disposto	no
+parágrafo	único	do	art.	284	[do	CPC/1973,	correspondente	ao	art.	321	do	CPC/2015]	não	pode	ser
+aplicado	quando	a	autora,	a	despeito	da	decisão	judicial	que	a	instou	a	juntar	documentos	aos	autos,
+deixa	de	fazê-lo	de	forma
+[/PAGINA 564]
+
+[PAGINA 565]
+legítima	e	fundamentada,	inclusive	com	respaldo	jurisprudencial.
+Recurso	especial	parcialmente	provido	para	determinar	o	retorno	dos	autos	ao	juízo	de	primeiro	grau	a
+fim	de	que	o	feito	tenha	regular	processamento,	uma	vez	que	a	petição	inicial	não	se	encontra	inepta	no
+caso”	(STJ,	REsp	897.485/SP,	2.ª	T.,	rel.
+Min.	Mauro	Campbell	Marques,	j.	05.08.2010).	No	caso,	o	Código	de	Processo	Civil	de	2015	não	prevê
+o	cabimento	de	agravo	de	instrumento	(cf.	art.	1.015	do	CPC/2015;	na	vigência	do	Código	de	Processo
+Civil	de	1973,	admitia-se	esse	recurso:	STJ,	AgRg	no	AREsp	406.753/SP,	rel.	Min.	Humberto	Martins,
+2.ª	T.,	j.	03.12.2013).	Restaria	à	parte,	em	princípio,	apenas	apelar	contra	a
+sentença	que	indeferir	a	petição	inicial,	caso	não	haja	emenda	(cf.	art.	332	do	CPC/2015).	Entendemos,
+contudo,	que	pode	ser	utilizado	o	mandado	de	segurança	contra	tal	decisão	judicial	(cf.,	a	respeito	do
+cabimento	de	mandado	de	segurança	contra	decisões	judiciais	irrecorríveis,	comentário	ao	art.	1.015	do
+CPC/2015).	Sobre	o	cabimento	de	agravo	de	instrumento	contra	decisão	que	determina	a	emenda	da
+petição	inicial	na	execução,	cf.	comentário	ao	art.	801	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	II.	DA	PETIÇÃO	INICIAL
+Seção	II.	Do	pedido	Seção	II
+
+Do	pedido
+Art.	322.	O	pedido	deve	ser	certo.
+§	1º	Compreendem-se	no	principal	os	juros	legais,	a	correção	monetária	e	as	verbas	de	sucumbência,
+inclusive	os	honorários	advocatícios.
+§	2º	A	interpretação	do	pedido	considerará	o	conjunto	da	postulação	e	observará	o	princípio	da	boa-fé.
+CPC/1973:	Art.	293	(correspondente).
+V.	arts.	406	e	407,	CC/2002.
+•	STF,	Súmula	254:	Incluem-se	os	juros	moratórios	na	liquidação,	embora	omisso	o	pedido	inicial	ou	a
+condenação.
+•	STJ,	Súmula	176:	É	nula	a	cláusula	contratual	que	sujeita	o	devedor	à	taxa	de	juros	divulgada	pela
+ANBID-CETIP.
+•	STJ,	Súmula	472:	A	cobrança	de	comissão	de	permanência	–	cujo	valor	não	pode	ultrapassar	a	soma
+dos	encargos	remuneratórios	e	moratórios	previstos	no	contrato	–	exclui	a	exigibilidade	dos	juros
+remuneratórios,	moratórios	e	da	multa	contratual.
+•	STJ,	REsp	(repetitivo)	REsp	1.112.524/DF:	A	correção	monetária	é	matéria	de	ordem	pública,
+integrando	o	pedido	de	forma	implícita,	razão	pela	qual	sua	inclusão	ex	officio,	pelo	juiz	ou	tribunal,
+não	caracteriza	julgamento	extra	ou	ultra	petita,	hipótese	em	que	prescindível	o	princípio	da
+congruência	entre	o	pedido	e	a	decisão	judicial	(STJ,	REsp	1.112.524/DF,	Corte	Especial,	j.
+01.09.2010,	rel.	Min.	Luiz	Fux).
+•	FCCP,	Enunciado	285:	A	interpretação	do	pedido	e	dos	atos	postulatórios	em	geral	deve	levar	em
+consideração	a	vontade	da	parte,	aplicando-se	o	art.	112	do	Código	Civil.
+•	FCCP,	Enunciado	286:	Aplica-se	o	§	2.º	do	art.	322	à	interpretação	de	todos	os	atos	po
+[/PAGINA 565]
+
+[PAGINA 566]
+stulatórios,
+inclusive	da	contestação	e	do	recurso.
+SUMÁRIO:	I.	Precisão	do	pedido	imediato:	“pedido	certo”.	Interpretação	e	boa-fé	–	II.	Pedidos
+“implícitos”	ou	“impróprios”.
+I.	Precisão	do	pedido	imediato:	“pedido	certo”	.	Interpretação	e	boa-fé.	O	pedido	delimita	a
+atividade	jurisdicional	(cf.
+comentário	ao	art.	319	do	CPC/2015).	Por	isso,	o	pedido	deve	ser	formulado	de	modo	preciso	(deve	ser
+“certo”,	diz	a	lei	processual;	sobre	pedido	genérico,	cf.	comentário	ao	art.	324	do	CPC/2015),	e	a	ele
+deve-se	dar	interpretação	autêntica,	de	modo	a	ser	compreendido	no	contexto	da	petição	inicial	como
+um	todo,	a	fim	de	se	poder	dele	extrair	o	real	sentido	e	alcance.
+“A	interpretação	do	pedido	deve	se	guiar	por	duas	balizas:	de	um	lado,	a	contextualização	do	pedido,
+integrando-o	ao	inteiro	teor	da	petição	inicial,	de	modo	a	extrair	a	pretensão	integral	da	parte;	e,	de	outro
+
+lado,	a	adstrição	do	pedido,	atendendo-se	ao	que	foi	efetivamente	pleiteado,	sem	ilações	ou	conjecturas
+que	ampliem	o	seu	objeto”	(STJ,	REsp	1.155.274/PE,	3.ª	T.,	j.
+08.05.2012,	rel.	Min.	Nancy	Andrighi;	no	mesmo	sentido,	STJ,	REsp	1.319.769/GO,	1ª	T.,	j.	20.08.2013,
+rel.	p/	acórdão	Min.
+Benedito	Gonçalves;	STJ,	AgRg	nos	EDcl	no	REsp	1.221.399/PR,	2.ª	T.,	j.	07.10.2014,	rel.	Min.
+Assusete	Magalhães).	O	pedido	deve	ser	interpretado	em	consonância	com	o	princípio	da	boa-fé,	e	assim
+também	a	sentença	que	o	julga.	Havendo	ambiguidade	na	sentença,	deve-se	interpretá-la	de	modo
+harmônico	com	o	ordenamento	jurídico,	e,	havendo	mais	de	um	modo	de	compreendê-la,	“a	única	que
+deve	ser	aceita	é	aquela	que	parte	da	premissa	de	que	a	sentença	não	quis	promover	a	iniquidade”	(STJ,
+REsp	1.267.621/DF,	4.ª	T.,	j.	11.12.2012,	rel.	Min.	Luis	Felipe	Salomão).	Nesse	contexto,	o	pedido	deve
+ser	considerado,	a	fim	de	se	depreender	a	amplitude	da	própria	sentença:	“Havendo	dúvidas	na
+interpretação	do	dispositivo	da	sentença,	deve-se	preferir	a	que	seja	mais	conforme	à	fundamentação	e
+aos	limites	da	lide,	de	acordo	com	o	pedido	formulado	no	processo”	(STJ,	REsp	1.149.575/DF,	3.ª	T.,	j.
+28.08.2012,	rel.	Min.	Nancy	Andrighi;	no	mesmo	sentido,	STJ,	AgRg	nos	EmbExeMS	6.864/DF,	3.ª	T.,	j.
+14.08.2014,	rel.	Min.	Regina	Helena	Costa).	A	repercussão	do	pedido	no	processo	(em	relação	à
+resposta	do	réu,	à	sentença,	e	até	depois,	por	ocasião	da	interpretação	da	sentença,	como	se	viu)	exige
+que	sua
+interpretação	se	realize	em	conformidade	com	a	boa-fé	(a	respeito	da	boa-fé,	cf.	comentário	ao	art.	5.º	do
+CPC/2015).	Importa,	no	caso,	mais	que	a	boa-fé	subjetiva,	a	objetiva.	Como	escrevemos	em	outro
+espaço,	“a	boa-fé	subjetiva	e	a	boa-fé	objetiva	são	formadas	pelo	mesmo	substrato	ôntico,	mas	ambas
+diferem	quanto	ao	modo	de	manifestação.	A	boa-fé	objetiva	se	projeta	do	exterior	para	o	interior,	uma
+vez	que	a	manifestação	da	vontade	no	meio	social	é	o	que	deverá	prevalecer	par	a	segurança	do	tráfego
+negocial	(	Rechtsverkehr).	Na	boa-fé	subjetiva	o	caminho	é	inverso,	centrando-se	a	análise	sobre	o
+sujeito	emitente	da	declaraçã
+[/PAGINA 566]
+
+[PAGINA 567]
+o	de	vontade”	(	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio
+Caldas	de	Araújo,	comentário	ao	art.	113	do	CC).	Sob	essa	perspectiva,	interessa	não	apenas	tentar
+perquirir	sobre	a	vontade	daquele	que	fez	o	pedido,	mas	também	sobre	o	modo	como	foi	recebido	pelos
+demais	sujeitos	do	processo.	Igual	critério	deve	ser	observado	quanto	à	interpretação	da	sentença	(cf.	art.
+489,	§	3.º	do	CPC/2015).	Sobre	a	proteção	da	legítima	confiança,	cf.	comentário	ao	art.	5.º	do
+CPC/2015;	sobre	julgamento	ultra,	extra	ou	infra	petita,	cf.	comentário	ao	art.	492	do	CPC/2015.
+II.	Pedidos	“implícitos”	ou	“impróprios”	.	O	juiz,	em	princípio,	não	pode	fugir	da	definição	traçada	e
+das	providências	pleiteadas	pelo	autor	(cf.	comentário	supra).	Tal	não	ocorre,	porém,	em	relação	ao
+“pedido	impróprio”	(p.	ex.,	pedido	de	condenação	ao	pagamento	de	honorários,	que,	de	acordo	com	o
+art.	85,	caput	do	CPC/2015,	devem	ser	fixados	de	ofício	pelo	juiz),	bem	como	quanto	ao	“pedido
+implícito”,	relativo	aos	juros	legais	e	à	correção	monetária	(cf.	art.	322,	§	1.º	do	CPC/2015;	cf.	também
+Lei	6.899/1981):	“A	correção	monetária	é	matéria	de	ordem	pública,	integrando	o	pedido	de	forma
+implícita,	razão	pela	qual	sua	inclusão	ex	officio,	pelo	juiz	ou	tribunal,	não	caracteriza	julgamento	extra
+ou	ultra	petita,	hipótese	em	que	prescindível	o	princípio	da	congruência	entre	o	pedido	e	a	decisão
+judicial”	(STJ,	REsp	repetitivo	1.112.524/DF,	Corte	Especial,	j.	01.09.2010,	rel.	Min.	Luiz	Fux;	no
+mesmo	sentido,	STJ,	AgRg	no	REsp	1.323.935/DF,	4.ª	T.,	j.	15.10.2013,	rel.	Min.
+Maria	Isabel	Gallotti).	Cf.	também	comentário	ao	art.	323	do	CPC/2015.
+Art.	323.	Na	ação	que	tiver	por	objeto	cumprimento	de	obrigação	em	prestações	sucessivas,	essas	serão
+consideradas	incluídas	no	pedido,	independentemente	de	declaração	expressa	do	autor,	e	serão	incluídas
+
+na	condenação,	enquanto	durar	a	obrigação,	se	o	devedor,	no	curso	do	processo,	deixar	de	pagá-las	ou	de
+consigná-las.
+CPC/1973:	Art.	290	(correspondente).
+Interpretação	do	pedido	e	prestações	sucessivas.	Restringe-se	a	atividade	jurisdicional	àquilo	que
+tiver	sido	delimitado	no	pedido	do	autor	(cf.	comentário	aos	arts.	320	e	323	do	CPC/2015).	Vencendo-se
+prestações	sucessivas	ao	longo	do	processo,	no	entanto,	reputam-se	inseridas	no	pedido	(cf.	STJ,	REsp
+1.055.806/PA,	6.ª	T.,	j.	19.03.2009,	rel.	Min.	Maria	Thereza	de	Assis	Moura).	Tais	prestações	devem
+constar	expressamente	da	sentença	(devem	ser	incluídas	na	condenação,	diz	o	art.	323	do	CPC/2015),	a
+fim	de	que	sejam	posteriormente	executadas	(STJ,	AgRg	no	REsp	1.258.646/SP,	3.ª	T.,	j.	20.09.2012,	rel.
+Min.
+Massami	Uyeda).
+Art.	324.	O	pedido	deve	ser	determinado.
+§	1º	É	lícito,	porém,	formular	pedido	genérico:	I	-	nas	ações	universais,	se	o	autor	não	puder	individuar
+os	bens	demandados;	II	-	quando	não	for	possível	determinar,	desde	logo,	as	consequências	do	ato	ou	do
+fato;	III	-	quando	a	determinação	do	objeto	ou	do	valor	da	condenação	depender	de	ato	que	deva	ser
+praticado	pelo	réu.
+§	2º	O	disposto
+[/PAGINA 567]
+
+[PAGINA 568]
+neste	artigo	aplica-se	à	reconvenção.
+CPC/1973:	Art.	286	(correspondente).
+V.	art.	14,	Lei	9.099/1995	(Juizados	Especiais).
+•	STJ,	Súmula	318:	Formulado	pedido	certo	e	determinado,	somente	o	autor	tem	interesse	recursal	em
+argüir	o	vício	da	sentença	ilíquida.
+SUMÁRIO:	I.	Pedido	mediato	determinado	ou	indeterminado	(ou	genérico)	–	II.	Admissibilidade	de
+pedido	mediato	genérico	–	III.	Indeterminação	do	pedido	mediato	e	respectiva	condenação.	Ausência	de
+absoluta	correspondência.
+I.	Pedido	mediato	determinado	ou	indeterminado	(ou	genérico).	Certo	é	o	pedido	imediato,	elaborado
+com	exatidão	acerca	da	tutela	jurisdicional	pleiteada	(cf.	comentário	ao	art.	322	do	CPC/2015);
+determinado	é	o	pedido	mediato	quando	individuado	o	bem	da	vida;	indeterminado	ou	genérico,	por
+fim,	é	o	pedido	mediato	realizado	de	modo	abrangente	e	impreciso	quanto	aos	seus	limites	(na	doutrina,
+cf.	Athos	Carneiro,	A	sentença	ilíquida.	.	RePro	16/105;	Carmona,	Em	torno	da	petição	inicial,	RePro
+119/11;	Darci	Guimarães	Ribeiro,	Análise	epistemológica.	.	RePro	215/61).	Sobre	a	distinção	entre
+pedido	imediato	e	mediato,	cf.	comentário	ao	art.	322	do	CPC/2015.
+II.	Admissibilidade	de	pedido	mediato	genérico.	Dispensa-se	a	determinação	da	extensão	do	pedido
+sempre	que,	ante	as	circunstâncias	do	caso,	esta	providência	seja	impossível	ou	muito	difícil.	Além	dos
+casos	dos	incisos	do	art.	324	do	CPC/2015,	enquadra-se	em	semelhante	situação	a	hipótese	do	art.	95	da
+Lei	8.078/1990,	dentre	outras.	Sendo	apresentado	pedido	genérico	fora	das	hipóteses	previstas	em	lei,
+deverá	o	juiz	determinar	a	emenda	da	petição	inicial,	sob	pena	de
+
+indeferimento	(cf.	art.	330,	§	1.º,	II	do	CPC/2015).
+III.	Indeterminação	do	pedido	mediato	e	respectiva	condenação.	Ausência	de	absoluta
+correspondência.	Como	regra,	ao	pedido	determinado	deve	ser	proferida	sentença	correspondente,	o
+mesmo	valendo	para	o	pedido	genérico.	O	art.
+491	do	CPC/2015,	no	entanto,	dispõe	que,	a	despeito	de	ter	sido	apresentado	pedido	genérico,	será
+proferida,	se	possível,	condenação	certa;	por	outro	lado,	pode	haver	condenação	genérica,	ainda	que
+formulado	pedido	certo,	nas	hipóteses	ali	referidas.	Cf.	comentário	ao	art.	491	do	CPC/2015.
+Art.	325.	O	pedido	será	alternativo	quando,	pela	natureza	da	obrigação,	o	devedor	puder	cumprir	a
+prestação	de	mais	de	um	modo.
+Parágrafo	único.	Quando,	pela	lei	ou	pelo	contrato,	a	escolha	couber	ao	devedor,	o	juiz	lhe	assegurará	o
+direito	de	cumprir	a	prestação	de	um	ou	de	outro	modo,	ainda	que	o	autor	não	tenha	formulado	pedido
+alternativo.
+CPC/1973:	Art.	288	(correspondente).
+V.	arts.	252	a	256,	CC/2002;	art.	15,	Lei	9.099/1995	(Juizados	Especiais).
+Pedido	de	obrigações	alternativas	(“Pedido	alternativo”	).	O	pedido	de	condenação	do	réu	à
+realização	de	uma	das	prestações	convencionadas	(“pedido	alternativo”,	cf.	art.	325	do	CPC/2015),	a
+rigor,	não	é	exceção	à	regra	segundo	a	qual	o	pedido	deve	ser	determinado	(art.	324	do	CPC/2015).
+Nesse	caso,	o	pedido	é	um	só;	alternativa	é	a	obrigação	(a	respeito
+[/PAGINA 568]
+
+[PAGINA 569]
+das	obrigações	alternativas,	cf.	o	que
+escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo,	comentário	aos
+arts.	252	ss.	do	CC).	Não	incide	a	regra	processual	se	a	obrigação	não	puder	ser	cumprida	por	mais	de
+um	modo	(STJ,	AgRg	no	Ag	1.001.229/SP,	5.ª	T.,	j.	30.05.2008,	rel.	Min.	Laurita	Vaz).	Incide	o	art.	325	o
+CPC/2015	quando	a	escolha	couber	ao	devedor;	incumbindo	ao	credor,	a	especificação	do	objeto	deve
+ser	feita	desde	logo,	na	petição	inicial	(cf.	também	art.	798	do	CPC/2015).	Não	se	confunde	a	hipótese	de
+“pedido	alternativo”	com	a	prevista	no	art.	326	do	CPC/2015:	“O	pedido	alternativo	é	aquele	que,	pela
+natureza	da	obrigação,	pode	ser	cumprido	por	mais	de	um	modo.	Já	o	pedido	cumulativo	sucessivo
+ocorre	quando	o	autor	faz	mais	de	um	pedido	e	pretende	o	acolhimento	de	todos,	sendo	que	o	acolhimento
+do	primeiro	é	pressuposto	para	análise	dos	demais”	(STJ,	REsp	1.371.124/SC,	2.ª	T.,	j.	25.06.2013,	rel.
+Min.	Humberto	Martins).	Cf.
+também	comentário	ao	art.	326	do	CPC/2015.
+Art.	326.	É	lícito	formular	mais	de	um	pedido	em	ordem	subsidiária,	a	fim	de	que	o	juiz	conheça	do
+posterior,	quando	não	acolher	o	anterior.
+Parágrafo	único.	É	lícito	formular	mais	de	um	pedido,	alternativamente,	para	que	o	juiz	acolha	um	deles.
+CPC/1973:	Art.	289	(correspondente).
+•	FPPC,	Enunciado	102:	O	pedido	subsidiário	(art.	326)	não	apreciado	pelo	juiz	–	que	acolheu	o
+pedido	principal	–	é	devolvido	ao	tribunal	com	a	apelação	interposta	pelo	réu.
+•	FCCP,	Enunciado	287:	O	pedido	subsidiário	somente	pode	ser	apreciado	se	o	juiz	não	puder
+
+examinar	ou	expressamente	rejeitar	o	principal.
+•	FCCP,	Enunciado	288:	Quando	acolhido	o	pedido	subsidiário,	o	autor	tem	interesse	de	recorrer	em
+relação	ao	principal.
+SUMÁRIO:	I.	Pedidos	apresentados	em	ordem	subsidiária	(“cumulação”	subsidiária,	ou	eventual)	–	II.
+Pedidos	apresentados	alternativamente	(“cumulação”	alternativa).
+I.	Pedidos	apresentados	em	ordem	subsidiária	(“cumulação”	subsidiária,	ou	eventual).	É	possível	a
+elaboração	de	dois	pedidos	a	fim	de	que	o	juiz	só	examine	o	segundo	(subsidiário)	em	caso	de	rejeição
+do	primeiro	(principal).	Nesse	caso,	não	se	pede	o	acolhimento	de	ambos	os	pedidos,	tal	como	ocorre	na
+cumulação	propriamente	dita	(art.	325	do	CPC/2015).
+Diante	disso,	na	doutrina,	afirma-se	que,	no	caso,	há	“cumulação	imprópria”	(cf.,	p.	ex.,	José	Rogério
+Cruz	e	Tucci,	Reflexões	sobre	a	cumulação.	.	RT	786/57).	Na	hipótese	prevista	no	art.	326	do	CPC/2015,
+os	pedidos	são	apresentados	em	conjunto,	mas	o	acolhimento	de	um	exclui	o	acolhimento	do	outro.	A
+cumulação,	assim,	é	aparente.	Nos	casos	de	cumulação	própria	(art.
+325	do	CPC/2015),	é	viável	o	acolhimento	de	todos	os	pedidos	cumulados;	trata-se,	pois,	de	cumulação
+real	(a	respeito,	cf.	Cruz	e	Tucci,	op.loc.cits.;	Carlos	Alberto	Dabus	Maluf,	Cumulação	de	ações.	.	RePro
+17/61).	Não	se	exige,	em	tal	situação,	que	os	pedidos	sejam	compatíveis	entre	si,	tal	como	impõe	o	art.
+325,	§	1.º,	I	do	CPC/2015,	em	relação	à	cumulação	em	sent
+[/PAGINA 569]
+
+[PAGINA 570]
+ido	estrito	(cf.	art.	325,	§	3.º	do	CPC/2015).
+Cf.	também	comentário	infra.
+II.	Pedidos	apresentados	alternativamente	(“cumulação”	alternativa).	Admite	o	parágrafo	único	do
+art.	326	do	CPC/2015	a	formulação	de	“mais	de	um	pedido,	alternativamente,	para	que	o	juiz	acolha	um
+deles”.	A	hipótese	é	distinta	daquela	apresentada	no	caput	do	mesmo	artigo,	em	que	a	apreciação	do
+pedido	subsidiário	depende	da	rejeição	do	primeiro.
+No	caso	de	os	pedidos	serem	apresentados	alternativamente,	o	acolhimento	de	qualquer	um	deles
+satisfaz,	em	plenitude,	a	pretensão	do	autor.	A	distinção	é	relevante.	Há	hierarquia	entre	os	pedidos,
+quando	houver	relação	de	subsidiariedade;	não	há,	contudo,	hierarquia	entre	os	pedidos	apresentados
+alternativamente.	Apresentados	os	pedidos	alternativamente,	nem	todos	deverão	ser	analisados	se	um
+deles	for	acolhido	(semelhantemente,	Nelson	Nery	Junior,	com	apoio	na	doutrina	de
+Devis	Echandía,	Pedido	alternativo.	.,	in	Soluções	práticas.	.	cit.,	9/377).	P.	ex.,	no	caso	da	“cumulação”
+subsidiária	(art.	326,	caput	do	CPC/2015),	rejeitado	o	pedido	principal	e	acolhido	o	pedido	subsidiário,
+tem	o	autor	interesse	em	recorrer;	diversamente,	no	caso	de	“cumulação”	alternativa	(art.	326,	parágrafo
+único	do	CPC/2015),	acolhido	qualquer	um	dos	pedidos,	faltará	ao	autor	interesse	em	recorrer	com	o
+intuito	de	ver	o	outro	acolhido.	Nesse	sentido:	“Na	cumulação	alternativa	não	há	hierarquia	entre	os
+pedidos,	que	são	excludentes	entre	si.	O	acolhimento	de	qualquer	um	deles	satisfaz	por	completo	a
+pretensão	do	autor,	que	não	terá	interesse	em	recorrer	da	decisão	que	escolheu	uma	dentre	outras
+alternativas	igualmente	possíveis	e	satisfativas.	Se	não	há	interesse	recursal,	conclui-se	que	os	ônus	da
+sucumbência	devem	ser	integralmente	suportados	pelo	réu.	Já	na	cumulação	subsidiária,	como	é	o	caso
+dos	autos,	os	pedidos	são	formulados	em	grau	de	hierarquia,	denotando	a	existência	de	um	pedido
+principal	e	outro	(ou	outros)	subsidiário(s).	Assim,	se	o	pedido	principal	foi	rejeitado,	embora	acolhido
+outro	de	menor	importância,	surge	para	o	autor	o	interesse	em	recorrer	da	decisão”	(STJ,	EREsp
+616.918/MG,	Corte	Especial,	j.	02.08.2010,	rel.	Min.	Castro	Meira).	Não	se	confundem	as	hipóteses
+
+tratadas	pelo	parágrafo	único	do	art.	326	do	CPC/2015	(pedidos	apresentados	alternativamente,	ou
+“cumulação”	alternativa)	e	pelo	art.	325	do	CPC/2015	(pedido	de	obrigações	alternativas,	ou	“pedido
+alternativo”).	Cf.	também	comentário	supra.
+Art.	327.	É	lícita	a	cumulação,	em	um	único	processo,	contra	o	mesmo	réu,	de	vários	pedidos,	ainda	que
+entre	eles	não	haja	conexão.
+§	1º	São	requisitos	de	admissibilidade	da	cumulação	que:	I	-	os	pedidos	sejam	compatíveis	entre	si;	II	-
+seja	competente	para	conhecer	deles	o	mesmo	juízo;	III	-	seja	adequado	para	todos	os	pedidos	o	tipo	de
+procedimento.
+§	2º	Quando,	para	cada	pedido,	corresponder	tipo	diverso	de	procedimento,	será	admitida	a	cumulação
+se	o	autor	empregar	o	procedimento	comum,	sem	prejuízo	do	emprego	das	técnicas	processu
+[/PAGINA 570]
+
+[PAGINA 571]
+ais
+diferenciadas	previstas	nos	procedimentos	especiais	a	que	se	sujeitam	um	ou	mais	pedidos	cumulados,
+que	não	forem	incompatíveis	com	as	disposições	sobre	o	procedimento	comum.
+§	3º	O	inciso	I	do	§	1º	não	se	aplica	às	cumulações	de	pedidos	de	que	trata	o	art.	326.
+CPC/1973:	Art.	292	(correspondente).
+•	STJ,	Súmula	170:	Compete	ao	juízo	onde	primeiro	for	intentada	a	ação	envolvendo	acumulação	de
+pedidos,	trabalhista	e	estatutário,	decidi-la	nos	limites	da	sua	jurisdição,	sem	prejuízo	do	ajuizamento
+de	nova	causa,	com	o	pedido	remanescente,	no	juízo	próprio.
+•	STJ,	Súmula	387:	É	lícita	a	cumulação	das	indenizações	de	dano	estético	e	dano	moral.
+•	FCCP,	Enunciado	289:	Se	houver	conexão	entre	pedidos	cumulados,	a	incompetência	relativa	não
+impedirá	a	cumulação,	em	razão	da	modificação	legal	da	competência.
+SUMÁRIO:	I.	Cumulação	de	ações,	objetiva	e	subjetiva,	originária	e	superveniente	–	II.	Cumulação
+simples	e	sucessiva	–
+III.	Requisitos	para	a	cumulação	–	IV.	Cumulação	e	adequação	do	procedimento.
+I.	Cumulação	de	ações,	objetiva	e	subjetiva,	originária	e	superveniente.	Em	sentido	amplo,	há
+cumulação	sempre	que	juntam	duas	ou	mais	ações.	Há	cumulação	subjetiva	de	ações	no	caso	do
+litisconsórcio	(cf.	comentário	aos	arts.	113	ss.	do	CPC/2015).	O	art.	325	do	CPC/2015	cuida	da
+cumulação	objetiva	(ou	causal)	de	ações	(sobre	a	distinção	entre	cumulação	objetiva	e	subjetiva,	cf.	STJ,
+REsp	886.077/RJ,	1.ª	T.,	j.	18.03.2008,	rel.	Min.	Luiz	Fux).	A	cumulação	pode	ser	originária	(ou	inicial)
+ou	superveniente	(ou	ulterior).	Há	cumulação	originária	quando	as	ações	são	assim	apresentadas	na
+petição	inicial.
+Cada	uma	das	ações	cumuladas	pode	existir,	antes,	em	procedimentos	distintos,	e	virem	a	ser	reunidas
+posteriormente.	Neste	caso,	havendo	reunião	de	ações	conexas	que	tramitam	em	separado	(cf.	arts.	57	e
+58	do	CPC/2015),	também	ocorrerá	o	fenômeno	da	cumulação,	ainda	que	não	haja	cumulação	originária,
+mas	superveniente,	isso	é,	ocorrida	no	curso	do	processo.
+Algo	similar	quando	apresentada	reconvenção	(art.	343	do	CPC/2015;	na	doutrina,	sobre	essa
+classificação,	cf.	Leonardo	Greco,	Concurso	e	cumulação	de	ações,	RePro	147/11).
+
+II.	Cumulação	simples	e	sucessiva.	Há	cumulação	em	sentido	estrito	(ou	cumulação	própria)	quando	se
+tem	por	finalidade	o	acolhimento	conjunto	dos	pedidos.	A	cumulação	pode	ser	simples,	quando	o
+acolhimento	de	um	dos	pedidos	não	depender	do	acolhimento	do	outro,	ou	sucessiva,	quando	o
+acolhimento	do	segundo	pedido	depender	do	acolhimento	do	primeiro	(cf.	José	Carlos	Barbosa	Moreira,
+O	novo	processo	civil.	.	cit.;	José	Rogério	Cruz	e	Tucci,	Reflexões	sobre	a	cumulação.	.	RT	786/57;
+Leonardo	Greco,	Concurso	e	cumulação	de	ações,	RePro	147/11).
+III.	Requisitos	para	a	cumulação.	A	cumulação	de	ações	é	incentivada	pelo	sistema	processual.	Afinal,
+pode-se	obter,	com	isso,	a	solução	de	mais	de	uma	lide	em	um	mesmo	procedimento.	Devem,	no	entanto,
+estar	presentes	os	requisitos	dispostos	no	art.	325	do	CPC/2015:	(a)	pedidos	compatíveis	entre	si;
+[/PAGINA 571]
+
+[PAGINA 572]
+(b)
+juízo	competente	para	julgar	a	todos	os	pedidos;	e,	além	disso,	(c)	procedimento	adequado	ao
+processamento	de	todos	eles.	Admite-se,	p.	ex.,	cumulação	de	pedidos	de
+indenização	por	dano	estético	e	por	dano	moral	(cf.	Súmula	387	do	STJ).	Não	se	admite	que	a	cumulação
+seja	“tumultuária”
+(TJRS,	AgIn	599300050,	6.ª	Câm.,	j.	18.08.1999,	rel.	João	Pedro	Pires	Freire).	Tem-se	admitido	a
+cumulação	de	pedidos	em	ação	civil	pública.	“A	proibição	de	cumular	pedidos	dessa	natureza	não	existe
+no	procedimento	comum,	e	não	teria	sentido	negar	à	ação	civil	pública,	criada	especialmente	como
+alternativa	para	melhor	viabilizar	a	tutela	dos	direitos	difusos,	o	que	se	permite,	pela	via	ordinária,	para
+a	tutela	de	todo	e	qualquer	outro	direito”	(STJ,	REsp	605.323/MG,	1.ª	T.,	j.	18.08.2005,	rel.	p.
+Acórdão	Min.	Teori	Albino	Zavascki	p.	179).	Assim,	“é	possível,	em	ação	civil	pública	ambiental,	a
+cumulação	de	pedidos	de	condenação	a	obrigação	de	fazer	(reflorestamento	de	área)	e	de	pagamento	pelo
+dano	material	causado”	(STJ,	REsp	1.181.820/MG,	3.ª	T.,	j.	07.10.2010,	rel.	Min.	Nancy	Andrighi).	Já	se
+decidiu	que	“a	expressão	‘contra	o	mesmo	réu’	referida	no	art.	292	[do	CPC/1973]	deve	ser	interpretada
+cum	grano	salis,	de	modo	a	se	preservar	o	fundamento	técnico-político	da	norma	de	cumulação	simples
+de	pedidos,	que	é	a	eficiência	do	processo	e	da	prestação	jurisdicional”,	e	que	“é	admissível,	inclusive
+em	ação	civil	pública,	a	cumulação	de	pedidos	contra	réus	distintos	e	atinentes	a	fatos	igualmente
+distintos,	desde	que	estes	guardem	alguma	relação	entre	si”	(STJ,	AgRg	no	REsp	953.731/SP,	2.ª	T.,	j.
+02.10.2008,	rel.	Min.	Herman	Benjamin,	RePro	169/310;	em	sentido	contrário,	não	admitindo	a
+cumulação	de	pedidos	contra	réus	diferentes,	cf.	STJ,	CC	128.277/RS,	2.ª	Seção,	j.	23.10.2013).,	rel.
+Min.	Nancy	Andrighi.	Não	se	admite	a	cumulação,	no	entanto,	em	razão	de	incompatibilidade	entre	as
+causas,	quando	se	tratar	de	“ação	de	dissolução	de	sociedade	em	face	de	entidade	que	autorizou	o
+funcionamento	da	mesma	sem	o	preenchimento	de	requisitos	mínimos	legais,	cumulada	com	ação	de
+improbidade	contra	seus	dirigentes	por	retenções	indevidas”	(STJ,	REsp	745.704/SP,	1.ª	T.,	j.
+13.12.2005,	rel.	p./	acórdão	Min.	Luiz	Fux).
+IV.	Cumulação	e	adequação	do	procedimento.	Como	princípio,	os	pedidos	cumulados	devem	sujeitar-
+se	ao	mesmo	procedimento.	Caso	se	cumulem	pedidos	que	devam	tramitar	por	procedimentos	diversos,
+devem	ambos	tramitar	pelo	procedimento	comum.	Muitos	dos	procedimentos	especiais	o	são	apenas	em
+sua	fase	inicial,	ou	em	relação	a	alguma	peculiaridade,	e	seguem,	em	sua	maior	parte,	o	procedimento
+comum	(p.ex.,	quanto	às	ações	possessórias,	art.	566	do	CPC/2015).	Assim,	não	se	afasta	a	observância
+de	técnicas	processuais	específicas,	previstas	em	procedimentos	especiais,	desde	que	compatíveis	com	o
+procedimento	comum	(cf.	§	2.º	do	art.	327	do	CPC/2015).	É	o	que	pode	ocorrer,	quando	cumulam-se
+pedido	de	consignação	em	pagamento	e	de	revisão	de	cláusulas	contratuais	(cf.
+[/PAGINA 572]
+
+[PAGINA 573]
+STJ,	REsp	464.439/GO,
+3.ª	T.,	j.
+
+15.05.2003,	rel.	Min.	Nancy	Andrighi).	Caso	se	considere	inadmissível	a	cumulação,	não	será	o	caso	de
+extinguir-se	integralmente	o	processo.	Deve	o	órgão	jurisdicional	aproveitar,	sempre	que	possível,	o
+procedimento	já	iniciado,	julgando	a	ação	cujo	julgamento	se	apresentar	viável.	P.ex.,	se	o	juízo	for
+incompetente	para	uma	das	ações,	deverá	assim	decidir	em	relação	à	mesma,	e	julgar	aquela	para	a	qual
+for	competente	(nesse	sentido,	cf.	STJ,	REsp	967.826/RN,	3.ª	T.,	j.	13.11.2007,	rel.
+Min.	Nancy	Andrighi).	Não	sendo	isso	possível,	deverá	ser	intimado	o	autor	para	optar	por	uma	das
+ações	ou,	sendo	o	caso,	separá-las,	movendoas	em	procedimentos	diversos,	ou,	ainda,	adaptá-las	ao
+procedimento	comum,	sendo	isso	admissível.
+Assim,	“não	viola	o	art.	292,	§	1.º,	I	e	II,	do	CPC	[de	1973]	a	decisão	que	defere	ao	autor	a	possibilidade
+de	opção	pelo	procedimento	ordinário	antes	do	indeferimento	da	inicial”	(STJ,	REsp	616.357/PE,	3.ª	T.,
+j.	07.06.2005,	rel.	Min.	Menezes	Direito).
+Art.	328.	Na	obrigação	indivisível	com	pluralidade	de	credores,	aquele	que	não	participou	do	processo
+receberá	sua	parte,	deduzidas	as	despesas	na	proporção	de	seu	crédito.
+CPC/1973:	Art.	291	(correspondente).
+V.	arts.	260	e	261,	CC/2002.
+Obrigação	indivisível	com	pluralidade	de	credores.	Direito	do	credor	que	não	participou	do	processo
+à	sua	parte.	O
+CPC/2015	trata	do	direito	do	credor	que	não	participou	da	ação	em	que	se	cobrava	obrigação
+indivisível.	De	acordo	com	o	art.
+261	do	CC,	“se	um	só	dos	credores	receber	a	prestação	por	inteiro,	a	cada	um	dos	outros	assistirá	o
+direito	de	exigir	dele	em	dinheiro	a	parte	que	lhe	caiba	no	total”.	A	“parte	que	lhe	caiba”	(CC/2002,	art.
+261)	deve	ser	considerada	após	serem
+“deduzidas	as	despesas,	na	proporção	de	seu	crédito”	(CPC/2015,	art.	328).
+Art.	329.	O	autor	poderá:	I	-	até	a	citação,	aditar	ou	alterar	o	pedido	ou	a	causa	de	pedir,
+independentemente	de	consentimento	do	réu;	II	-	até	o	saneamento	do	processo,	aditar	ou	alterar	o	pedido
+e	a	causa	de	pedir,	com	consentimento	do	réu,	assegurado	o	contraditório	mediante	a	possibilidade	de
+manifestação	deste	no	prazo	mínimo	de	15	(quinze)	dias,	facultado	o	requerimento	de	prova	suplementar.
+Parágrafo	único.	Aplica-se	o	disposto	neste	artigo	à	reconvenção	e	à	respectiva	causa	de	pedir.
+CPC/1973:	Art.	294	(correspondente).
+V.	art.	2.º,	§	8.º,	Lei	6.830/1980	(Execução	fiscal).
+SUMÁRIO:	I.	Alteração	dos	elementos	da	ação	–	II.	Alteração	e	aditamento	do	pedido	e	da	causa	de
+pedir,	até	a	citação	e	após	esta,	mas	até	o	saneamento	do	feito	–	III.	Alteração,	aditamento	ou	realização
+de	novo	pedido	após	a	revelia	–	IV.
+Alteração	e	aditamento	do	pedido	e	da	causa	de	pedir	após	o	saneamento	do	feito	–	V.	Alteração	dos
+
+fundamentos	legais	–	VI.
+Alteração	das	partes	após	a	propositura	da	ação.	Concessão	de	liminar	e	formação	ulterior	de
+litisconsórcio	ativo.
+I.	Alteração	dos	elementos	da	ação.	Os	elementos	que	identificam	a	ação	são	partes,	causa	de	pedir
+(próxima	e	remo
+[/PAGINA 573]
+
+[PAGINA 574]
+ta)	e	pedido	(imediato	e	mediato)	(art.	337,	§	2.º,	do	CPC/2015).	Com	a	citação,	a
+alteração	de	qualquer	desses	elementos	passa	a	depender	da	concordância	do	réu	–	salvo,	evidentemente,
+as	modificações	previstas	em	lei.	Assim	se	dá	no	que	respeita	à	alteração	das	partes	(	perpetuatio
+legitimationis,	cf.	comentário	aos	arts.	108	ss.	do	CPC/2015)	e	do	libelo	(pedido	e	causa	de	pedir,	cf.
+art.	329	do	CPC/2015).	Cf.	comentário	a	seguir.
+II.	Alteração	e	aditamento	do	pedido	e	da	causa	de	pedir,	até	a	citação	e	após	esta,	mas	até	o
+saneamento	do	feito.	A	lei	processual	permite	a	alteração	e	o	aditamento	do	pedido	e	da	causa	de
+pedir,	independentemente	de	consentimento	do	réu,	desde	que	antes	da	citação.	Após	a	citação,	e	até	o
+saneamento	do	feito	(art.	357	do	CPC/2015),	a	alteração	dependerá	de	consentimento	do	réu	(cf.	art.	329
+do	CPC/2015).	A	mutatio	libelli,	nesse	caso,	decorrerá	de	negócio	jurídico	processual	entre	as	partes
+(cf.	comentário	aos	arts.	190,	191	e	200	do	CPC/2015).	Se	a	emenda	da	petição	inicial	(art.	324	do
+CPC/2015)	depender	de	modificação	do	pedido	ou	da	causa	de	pedir,	deve-se	observar	o	disposto	no	art.
+329	do	CPC/2015.	Deve-se	assegurar	o	direito	ao	contraditório	e	à	produção	de	provas,	caso	a	alteração
+realize-se	após	a	citação	(art.	329,	II	do	CPC/2015).	Na	doutrina,	afirma-se	que,	no	caso,	está-se	diante
+de	mutatio	libelli,	diversa	da	emendatio	libelli,	em	que	se	dá	a	correta	qualificação	jurídica	ao	fato	(cf.
+Luigi	Viola,	Le	domande	nuova.	.	,	n.	6.5.3,	p.	90	ss.).	A	respeito,	cf.	comentário	infra.
+III.	Alteração,	aditamento	ou	realização	de	novo	pedido	após	a	revelia.	A	alteração	ou	aditamento	do
+pedido	impõe	seja	novamente	ouvido	o	réu	(cf.	art.	329,	II	do	CPC/2015),	mesmo	que	tenha	havido
+revelia,	em	observância	à	garantia	do	due	process	of	law,	que	abrange	o	direito	ao	contraditório	(cf.	STJ,
+REsp	1.307.407/SC,	2.ª	T.,	j.	22/05/2012,	rel.	Min.	Mauro	Campbell	Marques;	a	respeito,	v.	comentário
+ao	art.	2.º	do	CPC/2015).	Não	se	realiza	nova	citação,	mas	intimação,	pois	o	réu	já	foi	citado	e	se
+encontra	na	relação	processual,	embora	seja	revel.	Deve-se	assegurar	ao	réu,	também,	o	direito	de
+produzir	prova	quanto	ao	que	se	aditou	ou	alterou	(cf.	comentário	ao	art.	369	do	CPC/2015).
+IV.	Alteração	e	aditamento	do	pedido	e	da	causa	de	pedir	após	o	saneamento	do	feito.	O	art.	329	do
+CPC/2015	regula	a	mutatio	libelli,	quando	realizada	até	a	citação	do	réu,	e	quando	realizada	entre	a
+citação	e	o	saneamento:	no	primeiro	caso,	basta	a	vontade	do	autor;	no	segundo,	a	mutatio	depende	de
+consentimento	do	réu	(há,	pois,	negócio	jurídico	processual	entre	as	partes).	Não	há	vedação	expressa,
+no	CPC/2015,	a	que	se	altere	ou	adite	o	pedido	ou	a	causa	de	pedir	após	o	saneamento	do	feito
+(diversamente,	o	art.	264,	parágrafo	único	do	CPC/1973,	estabelecia	que	“a	alteração	do	pedido	ou	da
+causa	de	pedir	em	nenhuma	hipótese	será	permitida	após	o	saneamento	do	processo”).	Nada	impede	que,
+no	caso,	haja	negócio	jurídico	processual	entre	as	partes	e
+[/PAGINA 574]
+
+[PAGINA 575]
+o	órgão	jurisdicional,	a	fim	de	que	haja
+alteração	do	pedido	ou	da	causa	de	pedir	após	o	saneamento.	Incide,	no	caso,	o	disposto	no	art.	190	do
+CPC/2015	(cf.	também	comentário	aos	arts.	191	e	200	do	CPC/2015).	Há	soluções	semelhantes,	nesse
+sentido,	previstas	no	direito	comparado.	O	CPC	português,	p.	ex.,	estabelece	que
+“havendo	acordo	das	partes,	o	pedido	e	a	causa	de	pedir	podem	ser	alterados	ou	ampliados	em	qualquer
+altura,	em	l.ª	ou	2.ª
+instância,	salvo	se	a	alteração	ou	ampliação	perturbar	inconvenientemente	a	instrução,	discussão	e
+
+julgamento	do	pleito”
+(art.	264	do	CPC	português);	não	havendo	acordo	entre	as	partes,	também	se	admite	a	alteração	ou
+ampliação,	embora	em	hipótese	mais	restritas	(art.	265	do	CPC	português).	O	§	263	da	ZPO	alemã,	por
+sua	vez,	admite	a	modificação	se	houver	anuência	do	réu	ou	se	o	órgão	jurisdicional	considerar	a
+alteração	adequada	(“Nach	dem	Eintritt	der	Rechtshängigkeit	ist	eine	Änderung	der	Klage	zulässig,	wenn
+der	Beklagte	einwilligt	oder	das	Gericht	sie	für	sachdienlich	erachtet”),	o	que	ocorre,	p.ex.,	quando	se
+entende	que	a	modificação	pode	“evitar-se	um	novo	processo”	ou	“se	a	matéria	do	litígio	se	mantém
+praticamente	a	mesma”	(Othmar	Jauernig,	op.	cit.,	p.	232).	À	luz	do	CPC/2015,	portanto,	a	mutatio	libeli
+poderá	correr:	1.º)	até	a	citação,	por	manifestação	de	vontade	do	autor	(art.	329,	I,	do	CPC/2015);	2.º)
+após	a	citação	e	até	o	saneamento	do	feito,	com	o	consentimento	do	réu	(art.	329,	II	do	CPC/2015);	3.º)
+após	o	saneamento,	se	assim	acertarem,	em	comum	acordo,	partes	e	juiz	(arts.	190	e	191	do	CPC/2015).
+V.	Alteração	dos	fundamentos	legais.	Não	se	altera	a	causa	de	pedir	quando	se	acrescentam	novos
+fundamentos	legais	à	argumentação	contida	na	petição	inicial	(cf.	Barbosa	Moreira,	op.	cit.,	p.	17;	Gian
+Franco	Ricci,	Principi	di	diritto	processuale	generale,	p.	219-223).	Não	se	permite,	porém,	a	alteração
+dos	fatos	que	fundamentam	a	pretensão	do	autor:	“O	processo	civil	brasileiro	é	regido,	quanto	ao	ponto,
+pela	teoria	da	substanciação,	de	modo	que	a	causa	de	pedir	constitui-se	não	pela	relação	jurídica
+afirmada	pelo	autor,	mas	pelo	fato	ou	complexo	de	fatos	que	fundamentam	a	pretensão	que	se	entende	por
+resistida;	a	mudança	desses	fatos	representa,	portanto,	mudança	na	própria	ação	proposta”	(STJ,	REsp
+623.704/SC,	3.ª	T.,	j.	21.02.2006,	rel.	Min.	Nancy	Andrighi).	Assim,	“a	diversidade	de	fundamento	legal
+invocado	pelas	partes	ou	a	alteração	na	qualificação	jurídica	dos	fatos	narrados	não	são	determinantes
+para	afastar	a	identidade	entre	as	ações.	Tais	fatores	não	integram	a	causa	de	pedir,	nem	vinculam	o
+magistrado,	por	força	dos	princípios	iura	novit	curia	e	da	mihi	factum,	dabo	tibi	jus.	Precedentes.	A
+nossa	legislação	processual	adotou	a	teoria	da	substanciação,	segundo	a	qual	são	os	fatos	narrados	na
+petição	inicial	que	delimitam	a	causa	de	pedir”	(STJ,	REsp	1.009.057/SP,	3.ª	T.,	j.	27.04.2010,	rel.	Min.
+Vasco	Della	Giustina).	No	caso,	haveria	apenas	emendatio,	e	não	mutatio	libelli	(cf.	com
+[/PAGINA 575]
+
+[PAGINA 576]
+entário	supra).
+Sobre	as	teorias	da	individuação	e	da	substanciação,	cf.
+comentário	ao	art.	319	do	CPC/2015.
+VI.	Alteração	das	partes	após	a	propositura	da	ação.	Concessão	de	liminar	e	formação	ulterior	de
+litisconsórcio	ativo.	Considerase	proposta	a	ação	quando	protocolada	a	petição	inicial	(cf.	art.	312,	1.ª
+parte,	do	CPC/2015).	Há	litispendência	quando	se	reproduzir	ação	já	ajuizada	(cf.	art.	337,	§	3.º	do
+CPC/2015).	A	litispendência	já	produz	efeitos,	no	processo	(cf.,	p.	ex.,	art.	286,	II	e	III	do	CPC/2015),
+ainda	que,	quanto	ao	demandado,	isso	dependa	da	citação.	Como	regra,	distribuída	a	ação,	não	se	admite
+o	acréscimo	de	litigantes	no	polo	ativo,	em	litisconsórcio,	pois	isso	violaria	a	garantia	do	juiz	natural.
+Essa	é	a	orientação	que	prevalece,	na	jurisprudência:	“A	orientação	desta	Corte	não	admite	a	formação
+de
+litisconsórcio	ativo	facultativo	em	momento	posterior	à	distribuição	da	ação,	para	que	se	preserve	a
+garantia	do	juiz	natural,	ressalvadas	as	hipóteses	autorizativas	previstas	em	lei	especial	(como	é	o	caso
+da	Lei	4.717/1965	–	que	regula	a	ação	popular)”
+(STJ,	REsp	1.221.872/RJ,	2.ª	T.,	j.	16.08.2011,	rel.	Min.	Mauro	Campbell	Marques).	Impõe-se	a	adoção
+desse	entendimento,	a	fortiori,	se	tiver	sido	concedida	liminar:	“1.	Deferida	a	medida	liminar	em
+mandado	de	segurança,	cessa	a	possibilidade	de	formação	do	litisconsórcio	ativo	facultativo,	mesmo	que
+ainda	não	tenham	sido	prestadas	as	informações.	2.	A	admissão	do	litisconsorte,	após	o	provimento
+
+liminar,	implicaria	violação	ao	princípio	do	juiz	natural,	uma	vez	que	se	estaria	possibilitando	à	parte
+escolher	o	julgador	que,	pelo	menos	a	princípio,	seria	consentâneo	com	sua	tese”	(STJ,	REsp
+111.885/PR,	2.ª	T.,	j.	13.11.2001,	rel.	Min.	Laurita	Vaz;	jurisprudência	constante:	STJ,	AgRg	no	AREsp
+184.951/SP,	1.ª	T.,	j.	23.09.2014,	rel.
+Min.	Napoleão	Nunes	Maia	Filho).	O	art.	10,	§	2.º	da	Lei	12.016/2009,	que	disciplina	o	procedimento	do
+mandado	de	segurança,	dispõe	que	“o	ingresso	de	litisconsorte	ativo	não	será	admitido	após	o	despacho
+da	petição	inicial”	(a	respeito,	cf.	o	que	escrevemos	em	Mandado	de	segurança.	.	cit.,	2.	ed.,	em
+coautoria	com	Fábio	Caldas	de	Araújo).	A	alteração	das	partes,	nos	casos	referidos,	pode,	a	nosso	ver,
+ser	realizada,	se	com	isso	concordar	o	réu	(cf.	arts.	190	e	191	do	CPC/2015;	cf.	também	comentário
+supra).
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	II.	DA	PETIÇÃO	INICIAL
+Seção	III.	Do	indeferimento	da	petição	inicial	Seção	III
+Do	indeferimento	da	petição	inicial	Art.	330.	A	petição	inicial	será	indeferida	quando:	I	-	for	inepta;	II
+-	a	parte	for	manifestamente	ilegítima;	III	-	o	autor	carecer	de	interesse	processual;	IV	-	não	atendidas	as
+prescrições	dos	arts.	106	e	321.
+§	1º	Considerase	inepta	a	petição	inicial	qua
+[/PAGINA 576]
+
+[PAGINA 577]
+ndo:	I	-	lhe	faltar	pedido	ou	causa	de	pedir;	II	-	o	pedido	for
+indeterminado,	ressalvadas	as	hipóteses	legais	em	que	se	permite	o	pedido	genérico;	III	-	da	narração	dos
+fatos	não	decorrer	logicamente	a	conclusão;	IV	-	contiver	pedidos	incompatíveis	entre	si.
+§	2º	Nas	ações	que	tenham	por	objeto	a	revisão	de	obrigação	decorrente	de	empréstimo,	de
+financiamento	ou	de	alienação	de	bens,	o	autor	terá	de,	sob	pena	de	inépcia,	discriminar	na	petição
+inicial,	dentre	as	obrigações	contratuais,	aquelas	que	pretende	controverter,	além	de	quantificar	o	valor
+incontroverso	do	débito.
+§	3º	Na	hipótese	do	§	2º,	o	valor	incontroverso	deverá	continuar	a	ser	pago	no	tempo	e	modo	contratados.
+CPC/1973:	Arts.	285-B	e	295	(correspondentes,	em	parte).
+•	FCCP,	Enunciado	290:	A	enumeração	das	espécies	de	contrato	previstas	no	§	2.º	do	art.	330	é
+exemplificativa.
+
+•	FCCP,	Enunciado	291:	Aplicam-se	ao	procedimento	do	mandado	de	segurança	os	arts.	329	e
+parágrafos	e	330,	§	3.º	do	CPC.
+•	FCCP,	Enunciado	292:	Antes	de	indeferir	a	petição	inicial,	o	juiz	deve	aplicar	o	disposto	no	art.	319.
+•	FCCP,	Enunciado	293:	Se	considerar	intempestiva	a	apelação	contra	sentença	que	indefere	a	petição
+inicial	ou	julga	liminarmente	improcedente	o	pedido,	não	pode	o	juízo	a	quo	retratar-se.
+SUMÁRIO:	I.	Indeferimento	da	petição	inicial	(juízo	de	admissibilidade	negativo).	Ausência	de
+requisitos	processuais	e	extinção	precoce	do	processo	sem	resolução	do	mérito	–	II.	Requisitos	da
+demanda	(condições	da	ação).	Teorias	da	asserção	(ou	della	prospettazione)	e	da	exposição	(exame	em
+concreto)	–	III.	Inépcia	da	petição	inicial.	Extinção	do	processo	antes	ou	depois	da	citação	–	IV.
+Indicação	das	obrigações	em	torno	das	quais	se	litiga	e	do	valor	incontroverso	como	requisito	específico
+da	petição	inicial	e	inépcia	–	V.	Controvérsia	sobre	apenas	parte	da	obrigação	não	autoriza	o	devedor	a
+deixar	de	cumprir	a	porção	incontroversa	–	VI.	Valor	controverso	pode	deixar	de	ser	pago,	pelo	mero
+ajuizamento	da	ação,	independentemente	de	decisão	judicial?	–	VII.	Não	observância	do	disposto	no	§	2.º
+do	art.	330	do	CPC/2015.	Consequências.
+I.	Indeferimento	da	petição	inicial	(juízo	de	admissibilidade	negativo).	Ausência	de	requisitos
+processuais	e	extinção	precoce	do	processo	sem	resolução	do	mérito.	O	art.	330	do	CPC/2015
+descreve	circunstâncias	que	conduzem	ao	indeferimento	da	petição	inicial.	Os	problemas	referidos	dizem
+respeito	a	requisitos	processuais,	cuja	ausência	impõe	a	extinção	do	processo	sem	resolução	do	mérito
+(cf.	art.	485,	I	do	CPC/2015).	A	rigor,	o	indeferimento	tem	lugar	quando	ainda	não	citado	o	demandado;
+sendo	o	caso	de	extinção	do	processo	sem	resolução	do	mérito	após	a	citação,	incide	o	art.	354	do
+CPC/2015	(não	se	aplicando,	p.	ex.,	o	regime	especial	do	processamento	da	apelação	a	que	se	refere	o
+art.	331	do	CPC/2015).
+II.	Requisitos	da	demanda	(condições	da	ação).	Teorias	da	asserção	(ou	della	prospettazione	)	e	da
+exposição	(exame	em	concreto).	Examinamos	o	problema	relacionado	à	dist
+[/PAGINA 577]
+
+[PAGINA 578]
+inção	entre	possibilidade
+jurídica	do	pedido	e	mérito	há	algum	tempo,	chegando	à	conclusão	de	que	as	figuras	se	confundem	(cf.	o
+que	escrevemos	em	Possibilidade	jurídica	do	pedido	e	mérito,	RePro	93/371,	jan./1999).	O	CPC/2015
+não	se	refere	àquela	figura	(e	nem	às	condições	da	ação;	cf.	comentário	ao	art.	17	do	CPC/2015),	embora
+mencione	legitimidade	e	interesse	processual	como	figuras	que,	segundo	pensamos,	podem	ser	chamadas
+de	requisitos	da	demanda,	encartando-se	entre	os	pressupostos	processuais	(já	que	a	demanda	é	um	dos
+pressupostos	processuais).	O	problema	liga-se	à	questão	de	se	saber	o	grau	de	cognição	que	o
+magistrado	está	autorizado	a	realizar,	para	dizer	que	tais	requisitos	não	estão	presentes.	Surgiram	duas
+teorias	para	tentar	solucionar	o	dilema.	De	acordo	com	a	teoria	da	asserção	(ou	della	prospettazione),	as
+condições	da	ação	(denominação	empregada	pelo	CPC/1973)	ou	requisitos	da	demanda	(legitimidade	ou
+interesse	processual)	devem	ser	identificados	à	luz	do	que	tiver	afirmado	o	autor,	em	sua	petição	inicial.
+Em	sentido	diverso,	com	base	na	teoria	da	exposição	afirma-se	que	as	condições	da	ação	podem	ser
+examinadas	também	após	a	apresentação	de	defesa	pelo	réu	e	produção	de	provas	(cf.	doutrina	que
+citamos	no	artigo	antes	referido;	cf.	também,	mais	recentemente,	dentre	outros,	Leonardo	Cunha,	Será	o
+fim	da	categoria	condições	da	ação?,	RePro	198/227;	Rodrigo	Ramina	de	Lucca,	O	mérito	do	processo	e
+as	condições	da	ação,	RePro	188/69;	Juan	Obici,	Teorias	da	ação,	RT	Sul	4/191).	Tem-se	decidido	que	o
+juiz	somente	poderia	proferir	sentença	extinguindo	o	processo	sem	resolução	do	mérito	por	falta	das
+condições	da	ação	se	antes	da	realização	de	atividade	probatória;	caso	contrário,	o	resultado	seria	o
+julgamento	de	improcedência	do	pedido:	“Nos	termos	da	teoria	da	asserção,	o	momento	de	verificação
+
+das	condições	da	ação	se	dá	no	primeiro	contato	que	o	julgador	tem	com	a	petição	inicial,	ou	seja,	no
+instante	da	prolação	do	juízo	de	admissibilidade	inicial	do	procedimento.	Para	que	se	reconheça	a
+impossibilidade	jurídica	do	pedido,	é	preciso	que	o	julgador,	no	primeiro	olhar,	perceba	que	o	petitum
+jamais	poderá	ser	atendido,	independentemente	do	fato	e	das	circunstâncias	do	caso	concreto”	(STJ,
+REsp	879.188/RS,	2.ª	T.,	j.	21.05.2009,	rel.	Min.	Humberto	Martins);	“Aplica-se	à	hipótese,	ainda,	a
+teoria	da	asserção,	segundo	a	qual,	se	o	juiz	realizar	cognição	profunda	sobre	as	alegações	contidas	na
+petição,	após	esgotados	os	meios	probatórios,	terá,	na	verdade,	proferido	juízo	sobre	o	mérito	da
+questão”	(STJ,	REsp	832.370/MG,	3.ª	T.,	j.	02.08.2007,	rel.	Min.	Nancy	Andrighi);
+“A	verificação	das	condições	da	ação	deve	ser	realizada	in	status	assertionis,	isto	é,	segundo	o	que	se
+alega	na	inicial”	(STJ,	AR
+495/SP,	rel.	Min.	Ricardo	Villas	Bôas	Cueva,	2.ª	S.,	j.	08.02.2012);	semelhantemente,	cf.	também	STJ,
+AgRg	no	AREsp	53146/SP,	rel.	Min.	Castro	Meira,	2.ª	T.,	j.	16.02.2012;	STJ,	REsp	1395875/PE,	rel.
+Min.	Herman	Benjamin,	2.ª	T.,	j.	20.02.20
+[/PAGINA 578]
+
+[PAGINA 579]
+14;	STJ,	REsp	1424617/RJ,	rel.	Min.	Nancy	Andrighi,	3.ª	T.,	j.
+06.05.2014;	STJ,	AgRg	nos	EDcl	no	REsp	1035860/MS,	rel.	Min.	Antonio	Carlos	Ferreira,	4.ª	T.,	j.
+25.11.2014).	Sobre	a	repercussão	da	distinção,	cf.	comentário	ao	art.	486	do	CPC/2015.
+III.	Inépcia	da	petição	inicial.	Extinção	do	processo	antes	ou	depois	da	citação.	As	variações	de
+inépcia	da	petição	inicial	ligam-se	ao	libelo,	isso	é,	à	petição	inicial	em	sentido	substancial	(sobre	os
+elementos	da	petição	inicial,	cf.	comentário	ao	art.	319	do	CPC/2015;	na	doutrina,	costuma-se	ligar	a
+inépcia	a	vícios	pertinentes	ao	pedido	(cf.,	dentre	outros,	Flávio	Correia	de	Almeida,	Da	emenda	à
+inicial,	RePro	77/236;	Otávio	Barioni,	A	emenda	da	petição	inicial.	.	RePro	121/51;	Gomes	da	Cruz,	A
+petição	inicial,	Revista	do	IASP	8/77),	mas	a	lei	processual	relaciona	a	inépcia	também	à	causa	de	pedir
+(cf.	o	que	escrevemos	em	Possibilidade	jurídica	do	pedido	e	mérito,	RePro	93/371).	Inepta	é,
+literalmente,	a	petição	não	apta	a	veicular	aquilo	que	se	pede.	Os	requisitos	processuais	são	funcionais
+(sobre	função	do	ato	processual,	cf.	comentário	ao	art.	188	do	CPC/2015).	A	petição	inicial	realiza	sua
+função	quando	o	órgão	jurisdicional	depreende	qual	a	prestação	que	deve	realizar	e	o	réu	identifica
+aquilo	em	relação	a	que	deve	responder	e	se	defender.	É	apta	a	petição	que	atinge	esses	objetivos	(cf.
+STJ,	AgRg	no	REsp	1346588/DF,	rel.	Min.	Arnaldo	Esteves	Lima,	Corte	Especial,	DJe	17.03.2014).
+Enquanto	não	citado	o	réu,	os	vícios	relacionados	à	inépcia	devem	ser	sanados	(juízo	de	admissibilidade
+ordinatório,	cf.	comentário	ao	art.	321	do	CPC/2015).	Com	a	citação,	a	alteração	do	pedido	ou	da	causa
+de	pedir	passam	a	depender	da	concordância	do	demandado	(incide,	então,	o	disposto	no	art.	330	do
+CPC/2015);	caso	falte	tal	anuência,	será	caso	de	extinção	do	processo	sem	resolução	do	mérito	(por
+ausência	de	causa	de	pedir	ou	de	pedido,	cf.,	dentre	outros,	STJ,	REsp	1305878/SP,	rel.	Min.	Nancy
+Andrighi,	3.ª	T.,	DJe	11.11.2013;	STJ,	EDcl	no	AgRg	no	REsp	1184763/MG,	rel.	Min.	Ricardo	Villas
+Bôas	Cueva,	3.ª	T.,	DJe	22.05.2014).	Embora	se	esteja	diante	de	inépcia,	a	extinção	do	processo	sem
+resolução	do	mérito	dá-se	em	atenção	ao	disposto	no	art.	354	do	CPC/2015	(e	não	no	art.	330	do
+CPC/2015).
+IV.	Indicação	das	obrigações	em	torno	das	quais	se	litiga	e	do	valor	incontroverso	como	requisito
+específico	da	petição	inicial	e	inépcia.	O	§	2.º	do	art.	330	do	CPC/2015	(correspondente	ao	art.	285-B
+do	CPC/1973)	exige,	nas	hipóteses	que	enuncia,	que	a	petição	inicial	observe	um	requisito	específico:	a
+indicação	das	obrigações	em	torno	das	quais	se	litiga,	bem	como	o	valor	incontroverso.	Tal	disposição
+tem	conteúdo	similar	ao	do	art.	50,	caput	e	§	1.º,	da	Lei	10.931/2004.	O	§	2.º	do	art.
+330	do	CPC/2015,	no	entanto,	tem	alcance	mais	amplo,	não	se	limitando,	p.	ex.,	aos	contratos	de
+
+empréstimo	sujeitos	à	Lei	10.931/2004.
+V.	Controvérsia	sobre	apenas	parte	da	obrigação	não	autoriza	o	devedor	a	deixar	de	cumprir	a
+porção	incont
+[/PAGINA 579]
+
+[PAGINA 580]
+roversa.	A	regra	prevista	no	§	3.º	do	art.	330	do	CPC/2015	tem	caráter	eminentemente
+material,	e	não	processual,	decorrendo	da	vedação	ao	exercício	abusivo	de	direito	(CC/2002,	art.	187).
+O	sistema	jurídico	não	tolera	que	se	deixe	de	adimplir	a	obrigação	tida	por	incontroversa,	não	se
+permitindo	que	o	devedor	crie	obstáculos	injustificáveis	à	realização	imediata	do	direito	do	credor.	A
+jurisprudência,	há	muito,	vem	se	manifestando	nesse	sentido,	em	relação	ao	tratamento	processual	de
+obrigações	“incontroversas”.	É	o	que	ocorre,	por	exemplo,	em	ação	movida	por	devedor,	com	o	intuito
+de	retirar	seu	nome	de	cadastro	restritivo	de	crédito.	Nesse	caso,	tem-se	decidido	que,	sendo	discutida
+apenas	parte	do	débito,	a	liminar	somente	pode	ser	concedida	se	o	devedor	depositar	o	valor	referente	à
+parte	tida	por	incontroversa:	“Para	que	seja	vedada	a	referida	inscrição	do	nome	do	devedor	em
+cadastros	de	inadimplentes	é	necessário	que	sejam	atendidos
+concomitantemente	os	seguintes	requisitos:	(I)	existência	de	ação	ajuizada	pelo	devedor	impugnando	total
+ou	parcialmente	o	débito;	(II)	seja	efetivamente	demonstrado	que	a	cobrança	é	indevida,	por	colidir	com
+a	jurisprudência	consolidada	no	Supremo	Tribunal	Federal	ou	no	Superior	Tribunal	de	Justiça;	(III)
+tratandose	de	impugnação	de	apenas	parte	do	débito,	deve	o	devedor	depositar	o	valor	do	montante	tido
+por	incontroverso	ou	prestar	caução	idônea”	(STJ,	AgRg	no	Ag	1011549/RO,	rel.	Min.	Raul	Araújo,	4.ª
+T.,	j.	07.03.2013).	De	igual	modo,	é	o	que	tem	manifestado	a	jurisprudência,	em	relação	à	manutenção	do
+bem	sob	a	posse	do	devedor,	em	ações	de	busca	e	apreensão:	“Para	que	seja	deferido	o	pedido	de
+manutenção	do	devedor	na	posse	do	bem,	é	indispensável	que	este	demonstre	a	verossimilhança	das
+alegações	de	abusividade	das	cláusulas	contratuais	e	dos	encargos	financeiros	capazes	de	elidir	a	mora,
+bem	como	preste	caução	idônea	ou	deposite	o	valor	incontroverso	da	dívida,	sendo	que,	no	caso	dos
+autos,	não	ocorreu	o	depósito	integral	por	parte	da	agravante”	(STJ,	AgRg	no	AREsp	296.371/MS,	rel.
+Min.	Sidnei	Beneti,	3.ª	T.,	j.	23.04.2013).	Cf.,	também,	§	5.º	do	art.	739-A	do	CPC/1973,	correspondente
+ao	art.	917,	§	3.º	do	CPC/2015.	Algo	parecido	é	disposto	na	Lei	de	Locações,	em	relação	à	ação	de
+despejo	fundada	em	falta	de	pagamento	(Lei	8.245/1991,	art.	62).	Como	afirma	Chiovenda,	“a
+necessidade	de	servir-se	do	processo	para	obter	razão	não	pode	reverter	em	dano	a	quem	tem	razão”	(
+Instituições	de	direito	processual	civil,	São	Paulo,	Saraiva,	1965,	v.	1,	p.	159).	O	processo	não	pode
+servir	ao	exercício	abusivo	de	direito	(cf.	comentário	ao	art.	5.º	do	CPC/2015).
+Cf.,	sobre	o	tema,	o	que	escrevemos	em	Breves	comentários.	.	v.	3,	cit.,	p.	204	ss.,	em	coautoria	com	Luiz
+Rodrigues	Wambier	e	Teresa	Arruda	Alvim	Wambier,	e,	mais	recentemente,	em	coautoria	com	Fábio
+Caldas	de	Araújo,	na	obra	Código	Civil	comentado,	comentário	aos	arts.	113,	187	e	422	do	CC.
+VI.	Valor	controverso	pode	deixar	de	ser	pago,	pelo	mero	ajuizamento
+[/PAGINA 580]
+
+[PAGINA 581]
+da	ação,	independentemente
+de	decisão	judicial?	A	regra	prevista	no	§	3.º	do	art.	330	do	CPC/2015	não	autoriza	o	entendimento	de
+que	o	valor	controverso	pode	deixar	de	ser	pago,	em	razão	de	se	ter	ajuizado	ação,	a	respeito.	Tal	ordem
+de	ideias	contraria	a	finalidade	da	regra,	a	que	acima	se	referiu:	o	mero	ajuizamento	de	ação	pelo
+devedor	contra	o	credor	não	afasta	a	mora.	Imprescindível	a	existência	de	decisão	judicial	a	respeito.	O
+mesmo	princípio	orienta	a	regra	prevista	no	§	1.º	do	art.	784	do	CPC/2015,	segundo	o	qual	a	mera
+propositura	de	ação	relativa	ao	débito	constante	do	título	executivo	não	impede	o	credor	de	promover-
+lhe	a	execução.
+Note-se,	quanto	ao	ponto,	que	o	art.	50	da	Lei	10.931/2004	disciplina	de	modo	mais	completo	a	questão,
+ao	dispor	que	a	exigibilidade	do	valor	controverso	pode	ser	suspensa	mediante	depósito	do	valor
+
+correspondente,	no	tempo	e	modo	contratados	(cf.	§	1.º	do	art.	50	da	referida	Lei),	ou,	então,	por	decisão
+do	juiz	(cf.	§	4.º	do	art.	50	da	mesma	Lei).
+VII.	Não	observância	do	disposto	no	§	2.º	do	art.	330	do	CPC/2015.	Consequências.	Caso	não	seja
+observado	o	requisito	previsto	no	§	2.º	do	art.	330	do	CPC/2015,	deverá	o	juiz	determinar	a	emenda	da
+petição	inicial	(art.	321	do	CPC/2015),	sob	pena	de	indeferimento	(art.	330,	caput,	IV	do	CPC/2015).
+Trata-se	de	decisão	que	não	chega	a	analisar	a	procedência	do	fundamento	invocado,	razão	pela	qual	tal
+pronunciamento	encarta-se	no	disposto	no	art.	485	do	CPC/2015.
+Art.	331.	Indeferida	a	petição	inicial,	o	autor	poderá	apelar,	facultado	ao	juiz,	no	prazo	de	5	(cinco)	dias,
+retratar-se.
+§	1º	Se	não	houver	retratação,	o	juiz	mandará	citar	o	réu	para	responder	ao	recurso.
+§	2º	Sendo	a	sentença	reformada	pelo	tribunal,	o	prazo	para	a	contestação	começará	a	correr	da
+intimação	do	retorno	dos	autos,	observado	o	disposto	no	art.	334.
+§	3º	Não	interposta	a	apelação,	o	réu	será	intimado	do	trânsito	em	julgado	da	sentença.
+CPC/1973:	Art.	296	(correspondente).
+V.	art.	198,	VII,	Lei	8.069/1990	(Estatuto	da	Criança	e	do	Adolescente).
+SUMÁRIO:	I.	Apelação	contra	a	sentença	que	indefere	a	petição	inicial	–	II.	Citação	do	réu	e	limites	da
+cognição	judicial,	no	julgamento	da	apelação.
+I.	Apelação	contra	a	sentença	que	indefere	a	petição	inicial.	Cabe	apelação,	se	indeferida,
+integralmente,	a	petição	inicial.	Caberá	agravo	de	instrumento,	se	houver	rejeição	de	parte	dos	pedidos
+(a	respeito,	cf.	art.	354,	parágrafo	único	do	CPC/2015).	Interposta	apelação	contra	a	sentença	que
+indefere	a	petição	inicial,	permite	o	art.	331	do	CPC/2015	o	exercício	do	juízo	de	retratação	pelo
+magistrado	sentenciante.	Trata-se	de	outra	hipótese,	além	das	previstas	no	art.	494	do	CPC/2015,	em	que
+se	autoriza	a	alteração	da	sentença,	posteriormente	à	sua	publicação.	A	retratação,	no	caso,	não	pode
+significar	apenas	retirar	o	que	antes	se	havia	dito,	mas	de	tratar	novamente	da	questão.	A	retratação	não
+impede	que	o	réu	suscite	novamente	o	vício.
+II.	Citação	do	réu	e	limites	da	cognição	judicial,	no	julgament
+[/PAGINA 581]
+
+[PAGINA 582]
+o	da	apelação.	Havendo	apelação,	deve
+o	réu	ser	citado	para	responder	ao	recurso.	Caso	a	apelação	não	seja	conhecida	ou	provida,	caberá	a
+condenação	do	autor/apelante	ao	pagamento	de	honorários	advocatícios	sucumbenciais	(sobre	essa
+discussão,	cf.	STJ,	REsp	259.589/RJ,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira,	4.ª	T.,	j.	17.08.2000).	O
+réu	não	é	citado	para	contestar,	mas	para	responder	à	apelação,	apenas.	A	cognição	judicial,	em
+princípio,	fica	limitada	às	razões	do	indeferimento	da	petição	inicial.	A	incidência	do	disposto	no	§	3.º
+do	art.	1.013	do	CPC/2015,	segundo	pensamos,	deve	ser	admitida	apenas	em	parte.	É	que,	para	que	se
+aplique	a	teoria	da
+“causa	madura”	no	julgamento	da	apelação,	a	causa	deve	estar	em	condições	de	imediato	julgamento.
+Como	o	réu	é	citado	apenas	para	responder	ao	recurso,	prevendo	a	lei	que	a	contestação	deverá	ser
+apresentada	apenas	se	provida	a	apelação,
+
+não	terá	o	réu	apresentado	todos	os	seus	fundamentos	de	defesa;	logo,	o	§	3.º	do	art.	1.013	do	CPC/2015
+não	pode	ser	aplicado	para	prejudicar	o	réu.	Caso	à	apelação	seja	dado	provimento,	o	prazo	para	o	réu
+apresentar	resposta	conta-se	da	intimação	da	baixa	dos	autos,	devendo	observar,	no	entanto,	o	que	dispõe
+o	art.	331	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	III.	DA	IMPROCEDÊNCIA	LIMINAR	DO	PEDIDO
+Capítulo	III	DA	IMPROCEDÊNCIA	LIMINAR	DO	PEDIDO
+Art.	332.	Nas	causas	que	dispensem	a	fase	instrutória,	o	juiz,	independentemente	da	citação	do	réu,
+julgará	liminarmente	improcedente	o	pedido	que	contrariar:	I	-	enunciado	de	súmula	do	Supremo	Tribunal
+Federal	ou	do	Superior	Tribunal	de	Justiça;	II	-	acórdão	proferido	pelo	Supremo	Tribunal	Federal	ou
+pelo	Superior	Tribunal	de	Justiça	em	julgamento	de	recursos	repetitivos;
+III	-	entendimento	firmado	em	incidente	de	resolução	de	demandas	repetitivas	ou	de	assunção	de
+competência;	IV	-	enunciado	de	súmula	de	tribunal	de	justiça	sobre	direito	local.
+§	1º	O	juiz	também	poderá	julgar	liminarmente	improcedente	o	pedido	se	verificar,	desde	logo,	a
+ocorrência	de	decadência	ou	de	prescrição.
+§	2º	Não	interposta	a	apelação,	o	réu	será	intimado	do	trânsito	em	julgado	da	sentença,	nos	termos	do	art.
+241.
+§	3º	Interposta	a	apelação,	o	juiz	poderá	retratar-se	em	5	(cinco)	dias.
+§	4º	Se	houver	retratação,	o	juiz	determinará	o	prosseguimento	do	processo,	com	a	citação	do	réu,	e,	se
+não	houver	retratação,	determinará	a	citação	do	réu	para	apresentar	contrarrazões,	no	prazo	de	15
+(quinze)	dias.
+CPC/1973:	Art.	285-A	(relacionado).
+•	STJ,	REsp	repetitivo	1100156:	Em	execução	fiscal,	a	prescrição	ocorrida	antes	da	propositura	da
+ação	pode	ser	decretada	de	ofício,	com	base	no	art.	219,	§	5º	do	CPC	[de	1973]	(redação	da	Lei
+11.051/04),	independentemente	da	prévia	ouvida	da	Fazenda	Pública.	O	regim
+[/PAGINA 582]
+
+[PAGINA 583]
+e	do	§	4º	do	art.	40	da
+Lei	6.830/80,	que	exige	essa	providência	prévia,	somente	se	aplica	às	hipóteses	de	prescrição
+intercorrente	nele	indicadas	(STJ,	REsp	1100156/RJ,	Rel.	Ministro	Teori	Zavascki,	1.ª	S.,	j.
+
+10.06.2009).
+•	FPPC,	Enunciado	36:	As	hipóteses	de	impossibilidade	jurídica	do	pedido	ensejam	a	improcedência
+liminar	do	pedido.
+•	FPPC,	Enunciado	146:	Na	aplicação	do	inciso	I	do	art.	332,	o	juiz	observará	o	inciso	III	do	caput	do
+art.	926.
+•	FCCP,	Enunciado	291:	Aplicam-se	ao	procedimento	do	mandado	de	segurança	os	arts.	329	e
+parágrafos	e	330,	§	3.º	do	CPC.
+•	FCCP,	Enunciado	293:	Se	considerar	intempestiva	a	apelação	contra	sentença	que	indefere	a	petição
+inicial	ou	julga	liminarmente	improcedente	o	pedido,	não	pode	o	juízo	a	quo	retratar-se.
+•	FCCP,	Enunciado	294:	O	julgamento	liminar	de	improcedência,	disciplinado	no	art.	333,	salvo	com
+relação	ao	§	1.º,	se	aplica	ao	processo	do	trabalho	quando	contrariar:	a)	enunciado	de	súmula	ou	de
+Orientação	Jurisprudencial	do	TST;	b)	acórdão	proferido	pelo	TST	em	julgamento	de	recursos	de
+revista	repetitivos;	c)	entendimento	firmado	em	resolução	de	demandas	repetitivas.
+SUMÁRIO:	I.	Improcedência	liminar	do	pedido:	do	art.	285-A	do	CPC/1973	ao	art.	332	do	CPC/2015	–
+II.	Improcedência	prima	facie	do	pedido,	no	CPC/2015.	Paralelo	com	a	impossibilidade	jurídica	da
+demanda,	no	CPC/1973	–	III.	Contrariedade	manifesta	à	norma	jurídica.	A	jurisprudência	como
+referencial	–	IV.	A	precisão	da	norma,	tal	como	revelada	pela	jurisprudência.	.	–	V.	.	.	E	a	precisão	da
+sentença	de	improcedência	liminar,	fundada	em	enunciado	de	súmula	ou	julgamento	de	casos	repetitivos	–
+VI.	Improcedência	liminar,	em	caso	de	decadência	ou	prescrição	–	VII.	Apelação,	juízo	de	retratação,
+citação	do	réu	para	apresentação	de	contrarrazões	e	amplitude	do	julgamento	do	recurso.
+I.	Improcedência	liminar	do	pedido:	do	art.	285-A	do	CPC/1973	ao	art.	332	do	CPC/2015.	O	art.	285-
+A	do	CPC/1973
+permitia	a	prolação	de	sentença	de	improcedência,	liminarmente	e	independentemente	de	citação	do	réu,
+nos	casos	de	controvérsia	ligada	apenas	a	questão	de	direito,	quando	o	mesmo	juízo	já	houvesse
+proferido	sentença	de	“total
+improcedência”	em	outros	“casos	idênticos”.	O	art.	332	do	CPC/2015,	de	certo	modo,	mantém	a
+tendência	inaugurada	com	aquele	dispositivo,	mas	não	se	refere	a	decisões	de	improcedência	proferida
+pelo	mesmo	juízo,	tendo,	antes,	optado	pela	orientação	jurisprudencial	firmada	em	súmulas	ou
+julgamentos	de	casos	repetitivos	como	referencial	para	a	improcedência	liminar.	Para	proferir	sentença
+de	improcedência	liminarmente,	assim,	o	juiz	passa	a	ter	como	referencial	o	que	se	tem	produzido	na
+jurisprudência	dos	tribunais,	e	não	mais	aquilo	que,	antes,	ele	mesmo	proferida,	em	outros	casos.
+Referia-se	o	art.	285-A	do	CPC/1973,	além	disso,	a	controvérsia	“unicamente	de	direito”,	enquanto	o
+CPC/2015	permite	a	prolação	de	sentença	liminar	de	improcedência	quando	se	dispensar	a	fase
+instrutória	(logo,	quando	que	a	produção	de	provas	constitue
+[/PAGINA 583]
+
+[PAGINA 584]
+ndas	é	desnecessária,	podendo	ter	sido
+produzida	prova	constituída;	a	respeito	de	provas	constituídas	e	constituendas,	cf.	comentário	ao	art.	369
+do	CPC/2015).
+II.	Improcedência	prima	facie	do	pedido,	no	CPC/2015.	Paralelo	com	a	impossibilidade	jurídica	da
+demanda,	no	CPC/1973.	O	CPC/2015	não	se	refere	à	impossibilidade	jurídica,	tratada	pelo	CPC/1973
+
+como	condição	da	ação.	Por	juridicamente	possível	considerava-se	a	pretensão	do	autor	quando	não
+encontrasse	vedação,	in	abstracto,	na	norma	jurídica.	Sempre	consideramos	ser	muito	difícil	distinguir,
+em	termos	absolutos,	a	impossibilidade	jurídica	(como	requisito	da	ação)	da	improcedência	do	pedido
+(cf.	o	que	escrevemos	em	Possibilidade	jurídica	do	pedido	e	mérito,	RePro	93/371,	jan/1999).	O
+CPC/2015,	embora	não	se	refira	à	impossibilidade	jurídica	(e	não	utilize	o	termo	“condição	da	ação”),
+permite	a	rejeição	liminar,	prima	facie,	do	pedido,	antes	da	citação	do	réu.	Consideramos	que	as
+hipóteses	em	que	à	luz	do	CPC/1973
+poderiam	ser	encartadas	como	de	impossibilidade	jurídica	da	ação	podem	ensejar	a	improcedência
+liminar	do	pedido,	desde	que	a	contrariedade	à	norma	jurídica	possa	ter	a	jurisprudência	como
+referência,	nos	termos	do	art.	332	do	CPC/2015.	Cf.
+também	comentário	ao	art.	17	do	CPC/2015.
+III.	Contrariedade	manifesta	à	norma	jurídica.	A	jurisprudência	como	referencial.	O	art.	332	do
+CPC/2015	permite	a	rejeição	liminar	do	pedido	quando	o	que	pretende	o	autor	é	nitidamente	contrário	à
+norma	jurídica.	Exige-se	mais,	porém:	o	sentido	como	deve	ser	compreendido	o	texto	legal	ou	o
+princípio	jurídico	deve	ser	aquele	firmado	pela	jurisprudência,	em	súmula	ou	julgamento	de	casos
+repetitivos,	p.ex.	É	importante	ter	presente	a	distinção	entre	texto	e	norma	(a	respeito,	cf.
+comentário	ao	art.	1.º	do	CPC/2015):	o	texto	(ou	a	descrição	de	um	princípio)	é	o	ponto	de	partida	para
+se	chegar	à	norma	jurídica,	mas	esta	é	fruto	da	interpretação	realizada	para	resolver	problemas	(daí
+porque,	rigorosamente,	interpretação	e	aplicação	integram	o	mesmo	fenômeno).	Optou	o	legislador	por
+eleger	a	norma	jurídica,	tal	como	resultado	de	interpretação	realizada	pelos	tribunais	através	de
+processos	bem	definidos	(de	edição	de	súmulas,	de	julgamento	de	casos	repetitivos),	para	justificar	a
+improcedência	liminar	do	pedido,	nos	termos	do	art.	332	do	CPC/2015.	A	contrariedade	evidente	do
+pedido	ao	direito,	assim,	tem	como	referencial	a	norma	como	resultado	de	interpretação	jurisprudencial.
+Rigorosamente,	não	é	correto	dizer	que	“o	pedido	é	contrário	à	súmula”,	e	por	isso	é	julgado
+improcedente	liminarmente.	Quando	se	edita	uma	súmula,	ou	quando	se	decide	um	caso	repetitivo,
+espera-se	que	o	tribunal	tenha	chegado	a	um	grau	ótimo	de	interpretação	acerca	do	modo	como	deve	ser
+solucionado	um	problema	à	luz	do	direito,	que	manifeste	uma	orientação	jurisprudencial	íntegra	(sobre
+jurisprudência	íntegra,	cf.	comentário	ao	art.	926	do	CPC/2015).	Mais	adequado	é	afirmar-se,	pois,	que
+“o	pedido	é	nitidamente	contrário	à	norma,	cujo	s
+[/PAGINA 584]
+
+[PAGINA 585]
+entido	foi	manifestado	no	enunciado	da	súmula”,	por
+exemplo.	A	exigência	de	a	orientação	ter-se	firmado	na	jurisprudência	funciona,	pois,	como	um	plus.	Cf.
+também	comentário	a	seguir.
+IV.	A	precisão	da	norma,	tal	como	revelada	pela	jurisprudência...	Para	que	a	finalidade	da	regra
+prevista	no	art.	332
+do	CPC/2015	seja	alcançada,	é	imprescindível	que	a	norma,	como	resultado	de	um	processo
+interpretativo,	tenha	se	estabelecido	firmemente,	não	de	modo	titubeante.	P.	ex.,	um	enunciado	sumular
+ambíguo,	incapaz	de	revelar,	com	precisão,	o	sentido	como	um	texto	legal	foi	compreendido,	ou	a
+conclusão	de	um	julgamento	de	caso	repetitivo	que	não	corresponda	aos	fundamentos	adotados	pelos
+ministros	em	votos	concordantes,	ou,	ainda,	o	resultado	no	julgamento	de	caso	repetitivo	baseado	com
+exclusividade	em	fundamentos	diferentes	(ainda	que	conduzam	a	uma	mesma	conclusão),	não	têm	aptidão
+para	guiar	a	interpretação	que	os	juízes,	em	primeiro	grau	de	jurisdição,	farão	in	concreto,	ao	examinar	o
+caso	submetido	a	julgamento.	Exige-se,	pois,	dos	tribunais,	um	cuidado	todo	especial	quanto	ao	modo
+como	constroem	a	jurisprudência	(cf.
+
+comentário	ao	art.	926	do	CPC/2015,	sobre	jurisprudência	íntegra).
+V.	...	E	a	precisão	da	sentença	de	improcedência	liminar,	fundada	em	enunciado	de	súmula	ou
+julgamento	de	casos	repetitivos.	A	rejeição	liminar	do	pedido,	por	ser	medida	tomada	quando	ainda
+não	citado	o	réu,	apenas	com	supedâneo	no	que	afirmou	o	autor,	é	medida	excepcional,	a	exigir	cautela
+redobrada	do	magistrado	sentenciante.	Tal	como	o	enunciado	de	uma	súmula,	p.	ex.,	não	pode	padecer	de
+ambiguidade	(cf.	comentário	supra),	exige-se	da	sentença	liminar	de	improcedência	igual	precisão:
+deverá	o	juiz	identificar	os	fundamentos	da	súmula	(ou	do	julgamento	de	caso	repetitivo)	e	apresentar	os
+porquês	de	o	caso	em	julgamento	se	harmonizar	com	aqueles	fundamentos	(cf.	art.	489,	§	1.º,	V	do
+CPC/2015).	A	invocação	errônea	da	referência	jurisprudencial	em	sentença	de	improcedência	proferida
+com	base	no	art.	332	do	CPC/2015	(antes	da	citação	do	réu,	portanto)	produz	consequências	mais	graves
+que	o	mesmo	erro,	em	sentença	proferida	em	fase	posterior	(p.
+ex.,	em	julgamento	antecipado	do	mérito,	cf.	art.	355	do	CPC/2015,	ou	após	a	instrução,	cf.	art.	366	do
+CPC/2015).	Dificilmente	o	autor	não	apelará	contra	sentença	proferida	em	tais	condições,	e	o	réu	será,
+então,	citado	para	apresentar	contrarrazões.
+Dependendo	do	que	expuser	o	réu	em	sua	defesa,	o	julgamento	da	apelação	pode	ser	extremamente
+complexo	(cf.	§	4.º	do	art.	332	do	CPC/2015;	a	respeito,	cf.	comentário	infra).	Esses	problemas	podem
+ser	evitados	se,	ao	invés	de	julgar	improcedente	o	pedido	antes	da	citação	do	réu,	nos	termos	do	art.	332
+do	CPC/2015,	o	magistrado	preferir	fazê-lo	após	a	citação,	com	base	no	art.	355	do	CPC/2015
+(julgamento	antecipado	do	mérito).	Sobre	os	problemas	que	podem	suceder	no	processamento	e
+julgamento	da	apelação,	no	regime	previsto	no	§	4.º	do	art.	332	do	CPC/2015,	cf.	comentário	infra.
+VI.	Imp
+[/PAGINA 585]
+
+[PAGINA 586]
+rocedência	liminar,	em	caso	de	decadência	ou	prescrição.	O	pedido	será	julgado	liminarmente
+improcedente,	diz	o	§	1.º	do	art.	332	do	CPC/2015,	quando	o	juiz	verificar,	desde	logo,	a	decadência	ou
+a	prescrição.	A	lei	processual	não	se	ocupa	da	distinção	entre	prescrição	e	decadência,	existente	sob	o
+prisma	do	direito	material.	Se	o	juiz	julga	improcedente	o	pedido	em	razão	da	prescrição,	não	afirma	que
+o	direito	material	se	extinguiu.	Ao	se	manifestar	sobre	a	prescrição,	o	juiz	reconhece	tão	somente	que	a
+pretensão	do	autor	se	extinguiu	(art.	189	do	CC/2002).	Assim,	o	§	5.º	do	art.	219	do	CPC/1973	não
+impede	a	incidência	da	regra	que	permite	a	renúncia	à	prescrição	(art.	191	do	CC/2002),	nem	a	de	que
+“não	se	pode	repetir	o	que	se	pagou	para	solver	dívida	prescrita”	(art.	882,	1.ª	parte,	do	CC/2002;	a
+respeito	do	tema,	cf.	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas
+de	Araújo,	em	comentários	aos	referidos	dispositivos	legais).	Segundo	pensamos,	deve	o	juiz	ouvir	o
+demandante,	antes	de	indeferir	a	petição	inicial	em	razão	da	prescrição	(cf.,	a	respeito,	comentário	ao	art.
+10	do	CPC/2015,	que	expressamente	positivou	o	princípio	que	veda	a	prolação	de	decisão	com	surpresa
+para	as	partes).	A	jurisprudência,	no	entanto,	manifestava-se	em	sentido	contrário,	na	vigência	do
+CPC/1973	(cf.	STJ,	REsp	repetitivo	1100156,	nota	jurisprudencial	supra;	jurisprudência	constante,	cf.,	p.
+ex.,	STJ,	AgRg	no	Ag	1289058/MT,	rel.	Min.
+Sérgio	Kukina,	1.ª	T.,	j.	25.03.2014;	STJ,	AgRg	no	AREsp	480.267/BA,	rel.	Min.	Mauro	Campbell
+Marques,	2.ª	T.,	j.	03.04.2014).	A	rejeição	de	um	dos	pedidos	em	razão	da	prescrição	não	obsta	o
+prosseguimento	do	procedimento	para	julgamento	do	outro	(STJ,	REsp	1089492/RO,	rel.	Min.	Luiz	Fux,
+1.ª	T.,	j.	04.11.2010;	STJ,	AgRg	no	REsp	1318312/PR,	rel.	Min.	Napoleão	Nunes	Maia	Filho,	1.ª	T.,	j.
+27.03.2014).	Nesse	caso	(de	reconhecimento	de	prescrição	parcial),	cabe	agravo	de	instrumento	(cf.	art.
+1.015,	II	do	CPC/2015).
+VII.	Apelação,	juízo	de	retratação,	citação	do	réu	para	apresentação	de	contrarrazões	e	amplitude
+
+do	julgamento	do	recurso.	Contra	a	sentença	que	rejeita	liminarmente	o	pedido,	cabe	apelação	(caberá
+agravo	de	instrumento,	se	houver	rejeição	de	parte	dos	pedidos,	cf.	comentário	aos	arts.	356,	§	5.º	e
+1.015,	I	do	CPC/2015).	O	procedimento	da	apelação,	no	caso,	deve	observar	o	disposto	nos	§§	3.º	e	4.º
+do	art.	332	do	CPC/2015.	Na	apelação,	poderá	o	autor	suscitar	o	erro	da	sentença,	porque	inaplicável	o
+julgamento	no	momento	referido	no	art.	332	do	CPC/2015	(p.	ex.,	porque	necessária	a	produção	de
+provas,	ou	demonstrando	a	existência	de	distinção	e	que	a	súmula	não	é	aplicável	ao	caso,	ou	superação
+do	entendimento	sumulado).	Ao	receber	apelação,	poderá	o	juiz	retratar-se.	O	prazo	de	cinco	dias,
+previsto	no	§	3.º	do	art.	332	do	CPC/2015,	é	considerado	“impróprio”	(cf.	comentário	ao	art.	226	do
+CPC/2015).	Não	havendo	retratação,	será	o	réu	citado	para	apresentar	contrarrazões	à	apelação,	o	que
+faz	pre
+[/PAGINA 586]
+
+[PAGINA 587]
+sumir	que	o	debate	que	se	dará	é	restrito	ao	acerto	da	decisão	proferida	com	base	no	art.	332	do
+CPC/2015,	e,	caso	à	apelação	seja	dado	provimento,	deverá	ser	intimado	o	réu	para	contestar.	Aplica-se
+ao	caso	o	que	se	disse	no	comentário	ao	art.	331	do	CPC/2015.	Solução	diversa	teria	graves
+inconvenientes.	Caso	a	cognição	judicial,	no	julgamento	da	apelação,	não	se	restringisse	ao	acerto	da
+decisão	recorrida	quanto	ao	disposto	no	art.	332	do	CPC/2015,	incidiria	a	regra	geral	prevista	no	art.
+1.013	do	CPC/2015,	em	função	da	qual	a	apelação	tem	efeito	devolutivo	amplíssimo,	permitindo-se	ao
+tribunal,	conforme	o	caso,	julgar	o	mérito	da	causa	ainda	que	a	sentença	apelada	contenha	error	in
+procedendo	(cf.	comentário	ao	art.	1.013	do	CPC/2015).	Além	disso,	caso	não	se	limitasse	a	cognição
+judicial	no	julgamento	da	apelação,	deveria	se	assegurar	ao	réu	o	direito	de	apresentar	todos	os
+possíveis	fundamentos	de	sua	defesa,	como,	p.	ex.,	a	incompetência	relativa	do	foro	(que	se	prorroga,
+caso	não	alegada	na	contestação,	cf.	art.	65	do	CPC/2015),	bem	como	fundamentos	de	defesa	que
+dependam	de	produção	de	provas	etc.	O	procedimento,	em	sede	de	apelação,	se	complicaria,	pois,	caso
+o	réu	apresentasse	defesa	processual	ou	de	mérito	indireta,	o	apelante	deveria	ser	necessariamente
+ouvido	(cf.
+arts.	350	e	351	do	CPC/2015).	Por	todos	esses	motivos,	parece-nos	adequada	a	solução	de	limitar-se	a
+cognição	judicial,	no	julgamento	da	apelação,	à	correção	da	sentença	quanto	à	aplicação	do	art.	332	do
+CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	IV.	DA	CONVERSÃO	DA	AÇÃO	INDIVIDUAL	EM	AÇÃO	COLETIVA	Capítulo	IV
+DA	CONVERSÃO	DA	AÇÃO	INDIVIDUAL	EM	AÇÃO	COLETIVA	Art.	333.	(Vetado.)	CPC/1973:
+Sem	correspondente.
+SUMÁRIO:	I.	Veto	ao	art.	333	do	CPC/2015,	que	previa	a	conversão	de	ação	individual	em	ação
+coletiva.	Ações	pseudoindividuais	–	II.	Dificuldades	procedimentais	da	conversão	prevista	no
+
+dispositivo	vetado.	Alternativas	previstas	na	legislação.	Possível	incidência	do	art.	6.º	da	LACP.
+I.	Veto	ao	art.	333	do	CPC/2015,	que	previa	a	conversão	de	ação	individual	em	ação	coletiva.	Ações
+pseudoindividuais.	O	vetado	art.	333	do	CPC/2015	autorizaria	a	conversão	em	coletiva	da	ação	que,
+embora	na	forma	seja	individual,	veicule	pretensão	que	tenha	alcance	coletivo.	O	fato	de	ter	sido	vetado,
+no	entanto,	não	impede	que	se	encontre,	no	sistema	jurídico,	solução	adequada	para	ações	em	que	a
+conversão	se	mostrasse	cabível.	Na	verdade,	rigorosamente,	não	se	tratava	de	verdadeira	conversão,
+pois,	substancialmente,	o	pedido	veiculado	tem	natureza	coletiva,	desde	o	início,	embora	se	confunda
+com	pretensão	individual.	Com	outras	palavras,	a	medida	seria	admissível	para,	ao	fim	e	ao	cabo,
+revelar	o	que	se	encontra	escondido:	um	pleito	coletivo	en
+[/PAGINA 587]
+
+[PAGINA 588]
+coberto	em	uma	ação	que,	aparentemente,	teria
+índole	exclusivamente	individual.	Destinava-se	o	procedimento	previsto	no	vetado	art.	333	do	CPC/2015
+a	ações	pseudoindividuais.	Ex.:	“A	ação	individual	que	viesse	a	ser	proposta	por	uma	vítima,	por
+exemplo,	um	morador	da	vizinhança,	reclamando	a	indenização	pelos	danos	individualmente	sofridos	em
+virtude	da	mesma	poluição	combatida	na	ação	coletiva,	veicularia	uma	pretensão	individual	própria	e
+inconfundível	com	a	pretensão	coletiva.	Seria	inegável,	nessa	hipótese,	a	presença	do	requisito	da
+compatibilidade	entre	a	pretensão	coletiva	e	a	individual.	Mas,	se	na	ação	individual	fosse	veiculada	a
+pretensão	à	cessação	da	poluição,	teria	ela	escopo	coincidente	com	o	da	ação	coletiva.	Suponhamos,
+para	salientar	bem	essa	distinção,	que	outros	moradores	ajuizassem	também	ações	individuais	com	a
+mesma	finalidade,	qual	seja	a	de	cessação	da	poluição.	Todas	elas	estariam	reproduzindo	a	mesma
+pretensão	veiculada	na	demanda	coletiva.	São	individuais	apenas	no	sentido	de	que	são	propostas	por
+indivíduos,	mas	a	pretensão	é	de	alcance	coletivo,	pois	beneficia	a	totalidade	das	pessoas	que	se
+encontram	na	mesma	situação,	e	não	somente	o	autor	da	ação.	Em	semelhante	situação,	seria	suficiente
+uma	só	demanda,	seja	individual	ou	coletiva”	(Kazuo	Watanabe,	Relação	entre	demanda	coletiva	e
+demandas	individuais,	RePro	139/28).	A	conversão	de	que	cuidava	o	vetado	art.	333	do	CPC/2015
+poderia	dizer	respeito	a	direitos	coletivos	ou	difusos,	mas	não	a	direitos	individuais	homogêneos.	Para
+tais	situações	(isso	é,	caso	observe	o	juiz	que	seria	o	caso	de	se	ajuizar	ação	coletiva	referente	a	direitos
+individuais	homogêneos),	deverá	ser	observado	o	disposto	no	art.	139,	X	do	CPC/2015.
+II.	Dificuldades	procedimentais	da	conversão	prevista	no	dispositivo	vetado.	Alternativas	previstas
+na	legislação.
+Possível	incidência	do	art.	6.º	da	LACP.	O	procedimento	previsto	no	dispositivo	vetado,	a	nosso	ver,
+gerava	muitas	dúvidas.
+Caso	não	tivesse	sido	vetado,	certamente	haveria	muita	dificuldade	na	aplicação	do	procedimento	nele.
+De	certo	modo,	poder-se-ia	afirmar	que	tal	incidente	seria	desnecessário	e	complexo	(eventualmente,
+mesmo	o	autor	poderia	a	ele	se	opor,	já	que,	se	aceito,	acaba	impondo	ao	autor	originário	da	ação	a
+atuação	como	litisconsorte	do	legitimado	para	a	ação	coletiva,	cf.
+§	6.º	do	vetado	art.	333	do	CPC/2015,	algo	que	pode	não	lhe	ser	conveniente;	aliás,	a	atuação	forçada	do
+autor	em	um	processo	que,	após	a	conversão,	tramitaria	como	coletivo,	cf.	§	8.º	do	vetado	art.	333	do
+CPC/2015,	poderia,	até,	ter	sua	constitucionalidade	questionada).	Segundo	pensamos,	podem	ser	obtidos
+iguais	resultados	lançando-se	mão	de	alternativa	pouco	empregada,	embora	mais	simples:	Caso	o
+magistrado	depare-se	com	quaisquer	das	situações	descritas	no	caput	do	vetado	art.	333	do	CPC/2015,
+poderá	valer-se	do	que	prevê	o	art.	6.º	da	LACP	(Lei	7.347/1985),	segundo	a	qual	“qualquer	pessoa
+poderá	e	o	servidor	público	deverá	provocar	a	iniciativa	do	Min
+[/PAGINA 588]
+
+[PAGINA 589]
+istério	Público,	ministrando-lhe
+informações	sobre	fatos	que	constituam	objeto	da	ação	civil	e	indicando-lhe	os	elementos	de	convicção”,
+
+regra	que	se	estende	aos	legitimados	referidos	no	art.	82	do	CDC	(Lei	8.078/1990),	ex	vi	do	art.	90	desta
+Lei	(cf.	também	art.	21	da	Lei	7.347/1985),	para	que	um	desses	legitimados,	sendo	o	caso,	promova	a
+ação	coletiva.	O	ajuizamento	de	ação	coletiva	autônoma	dispensa	o	questionamento	sobre	a
+admissibilidade	da	conversão	(cf.	§§	2.º	e	3.º	do	vetado	art.	333	do	CPC/2015),	bem	como	a	necessidade
+de	cisão	do	procedimento,	a	fim	de	que	pedido	de	natureza	estritamente	individual	realizado	pelo	autor
+originário	seja	processado	em	autos	apartados	(cf.	§	9.º	do	vetado	art.	333	do	CPC/2015).	Ajuizada	ação
+coletiva,	poderá	ser	suspensa	a	ação	individual	(a	respeito,	cf.	comentário	ao	art.	311	do	CPC/2015).	Cf.
+também	comentário	ao	art.	139	do	CPC/2015.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	V.	DA	AUDIÊNCIA	DE	CONCILIAÇÃO	OU	DE	MEDIAÇÃO
+Capítulo	V
+DA	AUDIÊNCIA	DE	CONCILIAÇÃO	OU	DE	MEDIAÇÃO
+Art.	334.	Se	a	petição	inicial	preencher	os	requisitos	essenciais	e	não	for	o	caso	de	improcedência
+liminar	do	pedido,	o	juiz	designará	audiência	de	conciliação	ou	de	mediação	com	antecedência	mínima
+de	30	(trinta)	dias,	devendo	ser	citado	o	réu	com	pelo	menos	20	(vinte)	dias	de	antecedência.
+§	1º	O	conciliador	ou	mediador,	onde	houver,	atuará	necessariamente	na	audiência	de	conciliação	ou	de
+mediação,	observando	o	disposto	neste	Código,	bem	como	as	disposições	da	lei	de	organização
+judiciária.
+§	2º	Poderá	haver	mais	de	uma	sessão	destinada	à	conciliação	e	à	mediação,	não	podendo	exceder	a	2
+(dois)	meses	da	data	de	realização	da	primeira	sessão,	desde	que	necessárias	à	composição	das	partes.
+§	3º	A	intimação	do	autor	para	a	audiência	será	feita	na	pessoa	de	seu	advogado.
+§	4º	A	audiência	não	será	realizada:	I	-	se	ambas	as	partes	manifestarem,	expressamente,	desinteresse	na
+composição	consensual;	II	-	quando	não	se	admitir	a	autocomposição.
+§	5º	O	autor	deverá	indicar,	na	petição	inicial,	seu	desinteresse	na	autocomposição,	e	o	réu	deverá	fazê-
+lo,	por	petição,	apresentada	com	10	(dez)	dias	de	antecedência,	contados	da	data	da	audiência.
+§	6º	Havendo	litisconsórcio,	o	desinteresse	na	realização	da	audiência	deve	ser	manifestado	por	todos	os
+litisconsortes.
+
+§	7º	A	audiência	de	conciliação	ou	de	mediação	pode	realizar-se	por	meio	eletrônico,	nos	termos	da	lei.
+§	8º	O	não	comparecimento	injustificado	do	autor	ou	do	réu	à	audiência	de	conciliação	é	considerado	ato
+atentatório	à	dignidade	da	justiça	e	será	sancionado	com	multa	de	até	2%	(dois	por	cento)	da	vantagem
+econômica	pretendida	ou	do	valor	da	causa,	revertida	em	favor	da	União	ou	do	Estado.
+§	9º	As	partes	devem	estar	acompanhadas	por	seus	adv
+[/PAGINA 589]
+
+[PAGINA 590]
+ogados	ou	defensores	públicos.
+§	10.	A	parte	poderá	constituir	representante,	por	meio	de	procuração	específica,	com	poderes	para
+negociar	e	transigir.
+§	11.	A	autocomposição	obtida	será	reduzida	a	termo	e	homologada	por	sentença.
+§	12.	A	pauta	das	audiências	de	conciliação	ou	de	mediação	será	organizada	de	modo	a	respeitar	o
+intervalo	mínimo	de	20	(vinte)	minutos	entre	o	início	de	uma	e	o	início	da	seguinte.
+CPC/1973:	Arts.	285,	331,	447,	448	e	449	(relacionados).
+V.	art.	841,	CC/2002;	Lei	968/1949	(Conciliação	na	separação	judicial	e	alimentos);	art.	9.º,	Lei
+5.478/1968	(Ação	de	alimentos).
+•	FPPC,	Enunciado	151:	Na	Justiça	do	Trabalho,	as	pautas	devem	ser	preparadas	com	intervalo
+mínimo	de	uma	hora	entre	as	audiências	designadas	para	instrução	do	feito.	Para	as	audiências	para
+simples	tentativa	de	conciliação,	deve	ser	respeitado	o	intervalo	mínimo	de	vinte	minutos.
+•	FCCP,	Enunciado	295:	As	regras	sobre	intervalo	mínimo	entre	as	audiências	do	CPC	só	se	aplicam
+aos	processos	em	que	o	ato	for	designado	após	sua	vigência.
+SUMÁRIO:	I.	Juízo	de	admissibilidade	positivo	da	demanda	–	II.	Ausência	de	decisão	“implícita”	sobre
+os	requisitos	da
+ação	–	III.	Citação	do	réu	para	comparecer	à	audiência	de	conciliação	ou	mediação	ou	para	contestar	–
+IV.	Não	realização	da	audiência	por	vontade	de	uma	ou	de	ambas	as	partes	–	V.	Causas	que	não	admitem
+autocomposição	–	VI.	Prazos	mínimo	e	máximo	para	a	realização	de	audiência	de	conciliação	ou
+mediação.	Frustração	dos	objetivos	da	lei,	face	a	realidade	do	Poder	Judiciário	brasileiro	–	VII.
+Realização	da	audiência	de	conciliação	ou	mediação.
+I.	Juízo	de	admissibilidade	positivo	da	demanda.	Se	os	requisitos	de	admissibilidade	da	ação	estiverem
+presentes	(isso	é,	não	é	caso	de	emenda,	cf.	art.	321	do	CPC/2015,	ou	indeferimento	liminar,	cf.	art.	331
+do	CPC/2015)	e	não	for	hipótese	de	improcedência	liminar	do	pedido	(cf.	art.	332	do	CPC/2015),	dá-se
+o	juízo	de	admissibilidade	positivo	(cf.	comentário	ao	art.
+321	do	CPC/2015).
+II.	Ausência	de	decisão	“implícita”	sobre	os	requisitos	da	ação.	O	juiz,	normalmente,	não	externa
+decisão	declarando	estarem	presentes	os	requisitos	da	ação.	Há	casos	em	que	a	lei	determina	que	o	juiz,
+expressamente,	se	pronuncie	a	respeito	(como,	p.ex.,	dispõe	o	art.	17,	§§	6.º	a	9.º,	da	Lei	8.429/1992),
+mas	essa	não	é	a	regra.	A	admissão	da	petição	inicial	pelo	juiz,	com	a	consequente	citação	do	réu,	não
+significa	que	teria	havido	decisão	“implícita”.	Pode	o	juiz,	posteriormente,	manifestar-se	sobre	a
+
+ausência	de	requisitos	da	ação	(cf.	arts.	337,	§	5.º,	354	e	485,	§	3.º	do	CPC/2015).
+III.	Citação	do	réu	para	comparecer	à	audiência	de	conciliação	ou	mediação	ou	para	contestar.	No
+regime	previsto	no	CPC/2015,	não	sendo	caso	de	indeferimento	da	petição	inicial	ou	de	improcedência
+liminar	do	pedido,	o	juiz	designará	audiência	de	conciliação	ou	mediação	com	antecedência	mínima	de
+trinta	dias.	Não	obtida	a	composição,	o	réu	poderá	oferecer	contestação	por	petição,	no	prazo	de	quinze
+dias	contados
+[/PAGINA 590]
+
+[PAGINA 591]
+da	audiência	ou	da	última	sessão	de	conciliação	ou	mediação.	Pode	suceder,	ainda	no
+regime	do	CPC/2015,	de	não	ser	designada	a	audiência	de	conciliação,	se	uma	das	partes,	ou	ambas,
+manifestar	desinteresse	na	composição	amigável,	ou,	ainda,	estar-se	diante	de	hipótese	que	não	admita
+autocomposição.	Assim,	o	réu	será	citado	para:	(a)	comparecer	à	audiência	de	conciliação	ou	mediação
+(que	é	a	regra,	de	acordo	com	a	lei	processual);	ou,	(b)	apresentar	contestação,	nos	casos	em	que	não	se
+realizar	a	audiência	por	indicação	do	autor	(que	poderá	manifestar,	na	petição	inicial,	não	ter	interesse
+em	autocomposição,	cf.	art.	319,	VII	do	CPC/2015,	c/c	art.
+334,	§	5.º	do	CPC/2015)	ou	por	se	tratar	de	hipótese	que	não	admita	autocomposição	(cf.	art.	334,	§	4.º,
+II	do	CPC/2015).	Cf.
+comentário	a	seguir.
+IV.	Não	realização	da	audiência	por	vontade	de	uma	ou	de	ambas	as	partes.	As	formas	de
+autocomposição,	se	tiverem	êxito,	traduzem-se	em	negócios	jurídicos	realizados	entre	as	partes	(p.ex.,
+através	da	transação,	da	renúncia,	do	reconhecimento	etc.).	Trata-se	de	solução	consensual	do	litígio,
+fundada	no	princípio	da	autonomia	de	vontade	(cf.	art.	166	do	CPC/2015).	O	art.	334,	§	4.º,	I,	do
+CPC/2015	sugere	que	a	audiência	de	conciliação	ou	de	mediação	não	se	realizaria	somente	se	ambas	as
+partes	se	manifestassem	nesse	sentido.	Não	nos	parece,	contudo,	que	seja	assim.	Segundo	pensamos,	o	§
+5.º	do	art.
+334	do	CPC/2015	deve	ser	considerado	como	outra	hipótese	em	que	se	justifica	a	não	realização	da
+referida	audiência,	e	não	uma	explicação	do	modo	como	se	deve	operacionalizar	a	hipótese	já	prevista
+no	§	4.º,	I	do	mesmo	artigo.	A	manifestação	prévia	de	qualquer	das	partes	no	sentido	de	não	haver
+interesse	na	autocomposição	frustra,	desde	logo,	o	desiderato	da	audiência.	São	muitos	os	motivos	que
+nos	conduzem	a	esse	modo	de	pensar.	Compreendemos	que	o	CPC/2015	é	parte	de	um	esforço,	no	sentido
+de	substituir,	ainda	que	gradativamente,	a	cultura	da	sentença	pela	cultura	da	pacificação	(cf.	comentário
+ao	art.	1.º	do	CPC/2015),	mas	a	nova	lei	processual	não	adotou	essa	postura	de	modo	absoluto.	Ora,	o
+próprio	caput	do	art.	334
+do	CPC/2015	admite	que	não	se	realize	a	audiência	de	conciliação	ou	mediação	quando	for	o	caso	de	se
+julgar	improcedente,	liminarmente,	o	pedido,	ficando	claro	que	a	opção	da	lei	processual,	no	caso,	não
+foi	pela	pacificação,	mas	pela	redução	do	número	de	processos	em	trâmite,	ainda	que	pela	prolação	de
+uma	sentença.	Além	disso,	como	se	disse,	a	conciliação	e	a	mediação	são	informadas	pelo	princípio	da
+autonomia	da	vontade	das	partes	(cf.	art.	166	do	CPC/2015),	princípio	este	que	restará	violado,	caso	se
+imponha	a	realização	de	audiência,	mesmo	que	uma	das	partes	manifeste,	previamente,	seu	desinteresse.
+Sob	certo	ponto	de	vista,	poder-se-ia	afirmar	que	a	cultura	da	pacificação	se	imporia,	ainda	que	uma	das
+partes	manifestasse,	momentaneamente,	seu	desinteresse	na	autocomposição.	Mas	se	esse	fosse	correto
+esse	modo	de	pensar,	a	audiência	de	concilia
+[/PAGINA 591]
+
+[PAGINA 592]
+ção	ou	mediação	deveria	se	realizar	mesmo	que	ambas	as
+partes	manifestassem	seu	desinteresse.	A	solução	contrária	à	que	propugnamos,	além	disso,	estaria	em
+desacordo	com	o	princípio	constitucional	da	isonomia.	É	que,	ao	apresentar	os	fundamentos	de	sua
+pretensão	na	petição	inicial,	o	autor	fica	menos	protegido	em	relação	à	outra	parte,	pois	os	motivos	em
+
+razão	dos	quais	crê	que	se	sairá	vitorioso	ficam,	desde	logo,	expostos,	enquanto	o	réu,	nesse	momento
+processual,	ainda	não	apresentou	contestação.	Em	tais	condições,	impor	ao	autor	que	se	sujeite	a	sessões
+de	conciliação	ou	de	mediação	é	algo	que,	sob	o	prisma	da	estratégia	negocial,	viola	o	princípio	da
+isonomia,	pois	o	coloca,	desde	o	início,	em	condição	mais	débil	em	relação	ao	réu.	Não	bastasse,	pode-
+se	estar	diante	de	situação	em	que	já	se	tenha,	de	algum	modo,	tentado	obter	uma	solução	negociada	para
+o	litígio.	É	interessante	notar	que,	não	raro,	aquele	que	ajuíza	ação	já	tentou	solucionar	a	lide	de	outro
+modo.	Impor	ao	autor	que,	a	despeito	disso,	sujeite-se	à	audiência	de	conciliação	ou	de	mediação,	é	algo
+não	apenas	contraproducente,	mas,	também,	que	viola	o	direito	a	um	processo	sem	dilações	indevidas
+(cf.	comentário	ao	art.	4.º	do	CPC/2015).	Por	tais	razões,	ausente	interesse,	manifestado	por	qualquer	das
+partes	(ou	por	ambas)	em	realizar	a	autocomposição,	não	se	justifica	a	realização	de	audiência	de
+conciliação	ou	de	mediação.	Caso	o	autor	tenha	se	manifestado	nesse	sentido	com	a	petição	inicial	(art.
+319,	VII	do	CPC/2015),	deverá	o	réu	ser	citado	para	apresentar	contestação.
+V.	Causas	que	não	admitem	autocomposição.	Não	se	realizará	a	audiência	nos	casos	que	não	admitam
+autocomposição,	algo	que	se	dá	em	situações	bastante	restritas.	São	raras	as	hipóteses	em	que	a	lei	veda
+qualquer	forma	de	autocomposição.
+Pode	não	ser	admissível	a	transação	(cf.	art.	841	do	CC/2002,	segundo	o	qual	“só	quanto	a	direitos
+patrimoniais	de	caráter	privado	se	permite	a	transação”),	mas	possível	a	composição	por	renúncia,	ou
+reconhecimento	(p.ex.,	em	ação	de
+investigação	de	paternidade	a	transação	propriamente	dita	é	inadmissível,	mas	pode	o	réu	reconhecer	a
+paternidade	em	audiência	de	mediação).	Pode	ainda	haver	reconhecimento	da	existência	de	um	direito,
+mas	ajuste	apenas	quanto	à	forma	de	sua	realização	concreta.	O	art.	5.º,	§	6.º	da	Lei	7.347/1985	admite	a
+tomada	de	compromisso	de	ajustamento	de	conduta	às	exigências	legais,	mediante	cominações,	mesmo
+em	se	tratando	de	direitos	difusos	(sobre	o	tema,	quanto	ao	direito	ambiental,	cf.	Paulo	de	Bessa	Antunes,
+Direito	ambiental.	.,	Revista	de	arbitragem	e	mediação	30/103).	Sobre	as	causas	de	interesse	da
+Fazenda	Pública,	cf.	art.	10,	parágrafo	único	da	Lei	10.259/2001	e	art.	8.º	da	Lei	12.153/2009,	bem	como
+Lei	9.469/1997,	que	dispõe	sobre	acordos	ou	transações	em	juízo,	de	acordo	com	os	parâmetros	que
+enuncia	(a	respeito,	cf.
+Mancuso,	O	plano	piloto	de	conciliação.	.,	RT	820/11).	Embora	o	art.	17,	§	1.º	da	Lei	8.429/1992	vede	a
+transação,	acordo	ou	co
+[/PAGINA 592]
+
+[PAGINA 593]
+nciliação	em	ações	de	improbidade	administrativa	(nesse	sentido,	cf.	STJ,	REsp
+1.198.424/PR,	Rel.	Min.	Mauro	Campbell	Marques,	2.T.,	j.	12.04.2012),	parece	ser	possível,	em
+situações	bastante	restritas,	haver	soluções	consensuais	(p.ex.,	afirma-se,	na	doutrina,	que	isso	seria
+possível	“nos	ajustes	secundários	para	fins	de	reparação	do	dano	ou	ressarcimento	do	Erário	e	na	tutela
+preventiva	do	patrimônio	público”,	de	modo	que	“na	reparação	do	dano	ou	no	ressarcimento	do	Erário,	a
+possibilidade	limita-se	ao	local,	forma	e	prazo	de	pagamento,	não	sendo	cabível	a	renúncia	ao	crédito	e
+nem	mesmo	a	concessão	de	desconto”,	enquanto	“na	tutela	preventiva,	busca-se	evitar	que	um	ato	de
+improbidade	venha	a	ocorrer	ou	que	continue	produzindo	efeitos,	preservando-se	assim	a	probidade
+administrativa”,	cf.	Bruno	Takahashi,	A	solução	consensual	de	controvérsias.	.,	RT	927/23).	Ao	decidir	a
+respeito,	deverá	o	juiz	observar	o	princípio	da	economia	processual	e	a	garantia	de	duração	razoável	do
+processo.	Ao	designar	inutilmente	a	audiência,	além	de	se	praticar	um	ato	desnecessário	–	o	que	viola	o
+princípio	da	economia	processual	–,	acaba-se	por	se	retardar	a	resolução	da	lide,	contrariando-se	a
+garantia	constitucional	de	duração	razoável	do	processo	(CF/1988,	art.	5.º,	LXXVIII).
+VI.	Prazos	mínimo	e	máximo	para	a	realização	de	audiência	de	conciliação	ou	mediação.	Frustração
+
+dos	objetivos	da	lei,	face	a	realidade	do	Poder	Judiciário	brasileiro.	Diz	a	lei	processual	que,	como
+regra	(isso	é,	se	não	for	caso	de	não	realização	da	audiência,	cf.	se	disse	acima),	deverá	o	juiz	designar
+audiência	de	conciliação	ou	de	mediação	com	antecedência	mínima	de	trinta	dias,	devendo	o	réu	ser
+citado,	por	sua	vez,	com	vinte	dias	de	antecedência.	Esse,	pois,	é	o	prazo	mínimo	a	ser	respeitado.	Não
+há,	a	nosso	ver,	justificativa	para	que	o	prazo	mínimo	seja	tão	longo.	Embora	incomum	(face	a	quantidade
+muito	grande	de	processos	em	trâmite,	o	que	dificulta	que	tal	audiência	seja	agendada	pelo	juiz	para	data
+muito	próxima	da	do	recebimento	da	ação),	em	comarcas	pequenas	ou	em	que	tramitem	poucas	ações
+poderia	ser	viável	a	realização	de	audiência	de	conciliação	ou	mediação	em	momento	anterior.
+Diversamente	do	que	se	previa	no	CPC/1973,	em	relação	ao	procedimento	sumário	(art.	277	do	CPC
+revogado),	no	regime	do	CPC/2015	o	réu	não	deve	oferecer	contestação	desde	logo,	na	própria
+audiência:	frustrada	a	tentativa	de	autocomposição,	terá	o	réu	prazo	de	quinze	dias	para	contestar	(cf.
+art.	335,	I	do	CPC/2015).	Por	outro	lado,	a	lei	não	estabelece	prazo	máximo	para	a	realização	de	tal
+audiência.	Tudo	dependerá,	pois,	do	acúmulo	de	processos	em	trâmite	no	juízo.	Em	varas	menos
+congestionadas,	há	a	tendência	de	que	a	audiência	seja	agendada	para	data	mais	próxima	da	do
+ajuizamento	da	ação.	Essa,	no	entanto,	não	é	a	realidade	brasileira.
+Como	se	sabe,	são	altas	as	taxas	de	congestionamento	de	processos	em	trâmite,	e	isso	acabará	impondo	o
+agendamento	da	audiência	de	conciliação	ou	mediação	para	data
+[/PAGINA 593]
+
+[PAGINA 594]
+muito	distante.	Diante	desse	contexto,
+não	se	pode	descartar	a	alta	probabilidade	de	os	autores	das	ações	tenderem	a	manifestar	desinteresse	na
+autocomposição	(art.	319,	VII	do	CPC/2015,	c/c	art.	334,	§	5.º	do	CPC/2015),	e	isso	tornar-se	regra,	na
+prática,	o	que	frustraria	o	objetivo	da	lei,	de	estimular	a	composição	entre	as	partes	(cf.	art.	3.º,	§	3.º,	do
+CPC/2015).
+VII.	Realização	da	audiência	de	conciliação	ou	mediação.	A	audiência	poderá	realizar-se	por	meios
+eletrônicos	(cf.	§	7.º
+do	art.	334	do	CPC/2015).	O	não	comparecimento	das	partes	à	audiência	é	considerado	ato	atentatório	à
+dignidade	da	justiça,	sujeito	a	sanção	(cf.	§	8.º	do	art.	334	do	CPC/2015;	o	não	comparecimento	do	réu	à
+audiência	não	conduz	à	revelia,	situação	que	decorre	da	não	apresentação	de	contestação,	cf.	art.	344	do
+CPC/2015).	As	partes	podem	constituir	representantes	ou	prepostos,	com	procuração	específicas	e
+poderes	para	negociar	e	transigir	(cf.	§	10	do	art.	334	do	CPC/2015),	devendo	estar	acompanhadas	por
+seus	advogados	ou	defensores	públicos	(cf.	§	9.º	do	art.	334	do	CPC/2015).	Nos	locais	em	que	houver
+mediador	ou	conciliador,	este	deverá	atuar,	necessariamente,	na	audiência	(cf.	§	1.º	do	art.	334	do
+CPC/2015;	a	respeito	do	conciliador	e	do	mediador,	cf.	comentário	aos	arts.	165	e	ss.	do	CPC/2015).
+Caso	haja	mais	de	uma	audiência	de	conciliação	ou	mediação	agendada	para	o	mesmo	dia,	deve-se
+respeitar	o	intervalo	de	vinte	minutos	entre	o	início	de	cada	uma	delas	(cf.	§
+12	do	art.	334	do	CPC/2015),	e,	se	necessário,	a	audiência	poderá	prolongar-se	por	duas	ou	mais	sessões
+(cf.	§	2.º	do	art.	334	do	CPC/2015).	Obtida	a	composição,	será	ela	homologada	por	sentença	(cf.	§	11	do
+art.	334	do	CPC/2015;	a	respeito,	cf.	comentário	ao	art.	487	do	CPC/2015);	não	se	alcançando	a
+composição,	tem	início	o	prazo	para	apresentação	de	contestação	pelo	réu	(cf.
+art.	335,	I	do	CPC/2015).
+©	desta	edição	[2015]
+2015	-	09	-	01
+
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Especial.
+Livro	I.	DO	PROCESSO	DE	CONHECIMENTO	E	DO	CUMPRIMENTO	DE	SENTENÇA	TÍTULO	I.
+DO	PROCEDIMENTO	COMUM
+Capítulo	VI.	DA	CONTESTAÇÃO
+Capítulo	VI
+DA	CONTESTAÇÃO
+Art.	335.	O	réu	poderá	oferecer	contestação,	por	petição,	no	prazo	de	15	(quinze)	dias,	cujo	termo	inicial
+será	a	data:	I	-	da	audiência	de	conciliação	ou	de	mediação,	ou	da	última	sessão	de	conciliação,	quando
+qualquer	parte	não	comparecer	ou,	comparecendo,	não	houver	autocomposição;	II	-	do	protocolo	do
+pedido	de	cancelamento	da	audiência	de	conciliação	ou	de	mediação	apresentado	pelo	réu,	quando
+ocorrer	a	hipótese	do	art.	334,	§	4º,	inciso	I;	III	-	prevista	no	art.	231,	de	acordo	com	o	modo	como	foi
+feita	a	citação,	nos	demais	casos.
+§	1º	No	caso	de	litisconsórcio	passivo,	ocorrendo	a	hipótese	do	art.	334,	§	6º,	o	termo	inicial	previsto	no
+inciso	II	será,	para	cada	um	dos	réus,	a	data	de	apresentação	de	seu	respectivo	pedido	de	cancelamento
+da	audiência.
+§	2º	Quando	ocorrer
+[/PAGINA 594]
+
+[PAGINA 595]
+a	hipótese	do	art.	334,	§	4º,	inciso	II,	havendo	litisconsórcio	passivo	e	o	autor
+desistir	da	ação	em	relação	a	réu	ainda	não	citado,	o	prazo	para	resposta	correrá	da	data	de	intimação	da
+decisão	que	homologar	a	desistência.
+CPC/1973:	Sem	correspondente;	arts.	297	e	298	(relacionados).
+SUMÁRIO:	I.	Resposta	e	outras	atitudes	possíveis	do	réu.	Concentração	das	reações	do	réu	na
+contestação	–	II.	Termo	inicial	do	prazo	para	apresentação	da	contestação	–	III.	Contestação	apresentada
+intempestivamente.	Desentranhamento.
+I.	Resposta	e	outras	atitudes	possíveis	do	réu.	Concentração	das	reações	do	réu	na	contestação.	A
+resposta	do	réu	é	manifestada	através	da	contestação.	Nela	o	réu	poderá	apresentar	seus	fundamentos	de
+defesa,	de	qualquer	natureza	(aí	incluídos,	por	exemplo,	temas	processuais	como	incompetência	absoluta
+ou	relativa,	impugnação	ao	valor	da	causa,	indevida	concessão	de	assistência	judiciária	gratuita	etc.,	que,
+antes	do	CPC/2015,	exigiam	apresentação	de	petição	autuadas	separadamente,	em	apenso),	bem	como
+mover	nova	demanda	contra	o	autor,	apresentando	reconvenção.	As	atitudes	possíveis	do	réu
+compreendem,	além	da	reação	(defesa	e	nova	demanda	através	da	contestação)	também	a	inação,	com	a
+ausência	de	resposta	(que	conduz	à	revelia).	A	provocação	de	intervenção	de	terceiro	provocada	pelo
+réu	também	se	realiza	através	da	contestação	(pense-se,	por	exemplo,	na	denunciação	da	lide,	em	que	o
+denunciante	move	ação	contra	o	denunciado,	ou,	no	chamamento	ao	processo).	No	regime	do	CPC/2015,
+as	reações	do	réu	concentram-se	unicamente	na	contestação	(diversamente,	à	luz	do	CPC/1973,
+deveria	o	réu	apresentar	contestação,	exceção	de	incompetência	e	reconvenção	em	petições	autônomas,
+
+cf.	art.	297	do	CPC/1973;	particularmente	em	relação	à	reconvenção,	o	CPC/2015	retorna	ao	modelo
+previsto	no	CPC/1939,	cujo	art.	190	previa	sua	apresentação	na	contestação;	similarmente,	na	doutrina,
+cf.
+Bondioli,	Concentração	das	respostas	do	réu.	.,	RePro	195/369).	Logo,	inadequado	falar-se,	à	luz	do
+novo	regime,	em	contestação	como	sinônimo	de	defesa	(diversamente	do	que	se	podia	fazer,	no	contexto
+do	CPC/1973),	pois,	de	acordo	com	o	CPC/2015,	pode	haver:	contestação	que	veicule	apenas	defesa,
+contestação	que	veicule	apenas	nova	demanda	(reconvenção),	e	contestação	que	veicule
+concomitantemente	defesa	e	nova	demanda.	As	alegações	de	impedimento	e	suspeição	não	são,
+propriamente,	reações	à	pretensão	do	autor	(também	o	autor	pode	arguir	tais	vícios),	e	é	apresentada	em
+petição	específica	(cf.	art.	146	do	CPC/2015).
+II.	Termo	inicial	do	prazo	para	apresentação	da	contestação.	Como	regra,	o	termo	inicial	do	prazo
+para	apresentação	de	contestação	depende	da	realização,	ou	não,	da	audiência	de	conciliação	e
+mediação:	(a)	realizada	a	audiência,	e	frustrada	a	tentativa	de	autocomposição,	conta-se	o	prazo	da	data
+da	audiência	(ou	da	última	das	sessões	em	que	a	audiência	tiver	se	desenvolvido);	(b)	caso	o	réu	não
+compareça	à	audiência,	da	data	desta	deve-se	contar	o	prazo	(not
+[/PAGINA 595]
+
+[PAGINA 596]
+e-se	que	o	não	comparecimento	do	réu	à
+audiência	não	conduz	à	revelia,	situação	que	decorre	da	não	apresentação	de	contestação,	cf.	art.
+344	do	CPC/2015;	o	réu	que	não	comparece	à	audiência,	porém,	sujeita-se	à	multa	prevista	no	§	8.º	do
+art.	334	do	CPC/2015);	(c)	caso	inicialmente	designada	a	audiência,	e	o	réu	manifeste	seu	desinteresse	na
+autocomposição,	considerase	o	termo	inicial	a	data	do	protocolo	da	petição	respectiva	(caso	o
+desinteresse	seja	manifestado	por	parte	dos	litisconsortes	passivos,	incide	o	§	1.º	do	art.	335	do
+CPC/2015,	cf.	comentário	infra);	(d)	caso,	por	outro	motivo	(por	exemplo,	desinteresse	do	autor,	ou
+não	ser	admissível	a	autocomposição)	não	se	realizar	a	audiência,	segue-se	o	disposto	no	art.	231	do
+CPC/2015	(por	exemplo,	caso	a	citação	tenha	sido	realizada	por	carta,	conta-se	o	prazo	a	partir	de	sua
+juntada	aos	autos).	Havendo	litisconsortes	com	diferentes	procuradores,	deve-se	observar	o	disposto	no
+art.	231,	§	1.º,	do	CPC/2015	e,	também,	no	art.	229	do	CPC/2015,	quanto	à	contagem	do	prazo	em	dobro.
+Contudo,	não	incide	o	§	1.º	do	art.	231	do	CPC/2015,	mas	o	§	1.º	do	art.	335	do	CPC/2015,	quando,
+havendo	vários	litisconsortes,	cada	um	deles	manifestar	autonomamente	seu	desinteresse	em	participar	da
+audiência.	Não	sendo	o	caso	de	realização	de	audiência,	e	tendo	o	autor	desistido	da	ação	em	relação	a
+um	dos	réus,	o	prazo	para	apresentação	de	contestação	pelos	demais	conta-se	da	decisão	que	homologar
+a	desistência	(cf.	§	2.º	do	art.	335	do	CPC/2015,	correspondente,	em	parte,	ao	parágrafo	único	do	art.
+298	do	CPC/1973;	a	respeito	desse	dispositivo,	decidiu-se	que
+“não	há	revelia	de	quem,	citado,	não	fora	intimado	do	deferimento	à	desistência	do	autor	quanto	a	outro
+réu”:	STJ,	REsp	183.967/SP,	4.ª	T.,	j.	21.08.2008,	rel.	Min.	Luis	Felipe	Salomão;	no	mesmo	sentido,
+STJ,	AgRg	no	REsp	656.566/DF,	rel.	Min.	Og	Fernandes,	6.ª	T.,	j.	23.02.2010).	Pode	o	réu	requerer	a
+limitação	do	litisconsórcio,	hipótese	em	que	interrompe-se	o	prazo	para	apresentação	da	resposta,	até
+que	se	decida	a	respeito	(cf.	comentário	ao	art.	113	do	CPC/2015).
+III.	Contestação	apresentada	intempestivamente.	Desentranhamento.	Decorrido	o	prazo	previsto	no
+art.	335	do	CPC/2015,	extingue-se	o	direito	de	contestar	(cf.	art.	223,	caput,	do	CPC/2015),	e	ocorre	a
+revelia	(cf.	art.	344	do	CPC/2015).	A	contestação	apresentada	intempestivamente,	em	princípio,	deve	ser
+desconsiderada	e	desentranhada	dos	autos	(na	jurisprudência,	cf.	STJ,	AgRg	no	AREsp	129.065/SP,	rel.
+Min.	Paulo	de	Tarso	Sanseverino,	3.ª	T.,	j.	17.10.2013).	Tal	regra	não	é	absoluta,	contudo.	Se,	embora
+intempestiva,	a	contestação	veicula	defesa	que	corresponda	a	matéria	que	deva	ser	conhecida	ex	officio
+
+pelo	juiz,	ou	que	possa	ser	alegada	a	qualquer	tempo	pelo	réu,	deve	a	contestação	ser	mantida	nos	autos,
+em	atenção	ao	que	dispõe	o	art.	342	do	CPC/2015	(nesse	sentido,	STJ,	AgRg	no	Ag	1.074.506/RS,	rel.
+Min.	Sidnei	Beneti,	3.ª	T.,	j.
+17.02.2009).	De	igual	modo,	não	será	caso	de	desentranhamento	s
+[/PAGINA 596]
+
+[PAGINA 597]
+e,	a	despeito	da	revelia,	não	se
+verificarem	seus	efeitos,	razão	pela	qual	poderá	o	juiz	determinar	que	os	documentos	juntados	pelo	réu
+permaneçam	nos	autos	(cf.	art.	370	do	CPC/2015).	Nesse	sentido,	decidiu-se	que	“a	mera	declaração	de
+intempestividade	não	tem,	por	si	só,	o	condão	de	provocar	o	desentranhamento	do	documento	dos	autos,
+impedindo	o	seu	conhecimento	pelo	Tribunal	a	quo,	mormente	tendo	em	vista	a	maior	amplitude,	no
+processo	civil	moderno,	dos	poderes	instrutórios	do	juiz,	ao	qual	cabe	determinar,	até	mesmo	de	ofício,	a
+produção	de	provas	necessárias	à	instrução	do	processo	(art.	130	do	CPC	[de	1973,	correspondente	ao
+art.	370	do	CPC/2015])”,	e	que	“o	processo	civil	contemporâneo	encontra-se	marcado	inexoravelmente
+pela	maior	participação	do	órgão	jurisdicional	na	construção	do	conjunto	probatório”	(STJ,	REsp
+107.2276/RN,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,	j.
+21.02.2013).	O	desentranhamento	da	contestação	não	impede	o	ajuizamento	da	ação	posteriormente	e,
+verificadas	as	condições	previstas	no	art.	55	do	CPC/2015,	a	distribuição	por	conexão.
+Art.	336.	Incumbe	ao	réu	alegar,	na	contestação,	toda	a	matéria	de	defesa,	expondo	as	razões	de	fato	e	de
+direito	com	que	impugna	o	pedido	do	autor	e	especificando	as	provas	que	pretende	produzir.
+CPC/1973:	Art.	300	(correspondente).
+SUMÁRIO:	I.	Defesa	e	princípio	do	contraditório	–	II.	Defesa	e	direito	de	ação.	Exceção	e	pretensão	–
+III.	Classificações	da	defesa:	(a)	processual	(ou	de	admissibilidade)	e	substancial	(ou	de	mérito);	(b)
+autônoma	(ou	independente)	e	subordinada	(ou	dependente,	ou	imprópria);	(c)	direta	e	indireta;	(d)
+peremptória	e	dilatória;	(e)	parcial	e	plena;	(f)	exceção	e	objeção	–	IV.
+Defesa	substancial:	Mérito	–	V.	Princípio	da	eventualidade	e	concentração	da	defesa.
+I.	Defesa	e	princípio	do	contraditório.	O	direito	de	apresentar	defesa	é	manifestação	rudimentar	da
+garantia	do	due	process	of	law,	que	pode	ser	resumido,	como	se	aduz	em	conhecida	fórmula,	na	garantia
+de	ação	e	defesa	em	juízo	(a	respeito,	cf.	comentário	aos	arts.	2.º,	7.º	e	10	do	CPC/2015).	Sob	essa
+perspectiva,	o	direito	de	opor-se	à	pretensão	do	autor	não	pode	ser	integralmente	suprimido	da	parte,	de
+modo	que,	caso	haja	limitação	na	lei	processual	aos	fundamentos	de	defesa	que	podem	ser	arguidos	na
+contestação,	deverá	ser	permitido	à	parte	alegar	tais	matérias	através	de	outro	meio	processual	(como,
+por	exemplo,	o	ajuizamento	de	outra	ação).	Sobre	defesa	parcial	ou	plena,	cf.	comentário	infra.
+II.	Defesa	e	direito	de	ação.	Exceção	e	pretensão.	O	direito	de	apresentar	defesa	é	manifestação	do
+direito	de	ação.
+Consideramos	direito	de	ação	o	direito	ao	processo	adequado,	que	observe	as	garantias	mínimas,
+decorrentes	do	devido	processo	legal	(sobre	o	conceito	de	direito	de	ação,	cf.	comentário	ao	art.	2.º	do
+CPC/2015).	Sob	esse	prisma,	não	somente	o	autor,	mas	também	o	réu	tem	direito	de	ação.	A	lei
+processual	francesa	dispõe	textualmente	nesse	sentido,	ao	afirmar	que,	para	o	demandado,	a	ação	é	o
+direito	de
+[/PAGINA 597]
+
+[PAGINA 598]
+discutir	os	fundamentos	do	pedido	(“l’action	est	le	droit	de	discuter	le	bien-fondé	de	cette
+prétention”,	cf.	art.	30	do	CPC	francês).
+
+III.	Classificações	da	defesa:	(a)	processual	(ou	de	admissibilidade)	e	substancial	(ou	de	mérito);	(b)
+autônoma	(ou	independente)	e	subordinada	(ou	dependente,	ou	imprópria);	(c)	direta	e	indireta;	(d)
+peremptória	e	dilatória;	(e)	parcial	e	plena;	(f)	exceção	e	objeção.	As	matérias	de	defesa	podem	ser
+classificadas	à	luz	de	vários	critérios.	Há	ampla	doutrina,	a	respeito,	cf.,	dentre	outros:	Giuseppe
+Chiovenda,	Instituições.	.	cit.,	vol.	1,	p.	341;	Lopes	da	Costa,	Direito	processual	civil	brasileiro,	vol.	3,
+n.	34,	p.	39;	Celso	Agrícola	Barbi,	Comentários.	.	cit.,	vol.	1,	n.	199-202,	p.	121-122;	Calmon	de
+Passos,	Comentários.	.	cit.,	vol.	3,	n.	189,	p.	306-310;	Kazuo	Watanabe,	op.	cit.,	p.	81-82;	Arruda	Alvim,
+Sentença.	.,	RePro	2/13;	Alcides	de	Mendonça	Lima,	A	nova	sistemática	das	exceções,	RePro	5/61;
+Eduardo	Talamini,	Saneamento	do	processo,	RePro	86/76;	Fredie	Didier	Júnior,	Teoria	da	exceção.	.,
+RePro	116/54;	Rafael	Oliveira,	Delimitação	conceitual	de	exceção.	.,	RePro	193/27;	André	Monteiro,	O
+regime	das	exceções.	.,	RePro	216/35.	A	seguir,	serão	expostos	os	principais	critérios	empregados	pela
+doutrina	citada:	(a)	Defesa	processual	(ou	de	admissibilidade)	e	substancial	(ou	de	mérito):	São
+processuais	as	matérias	de	defesa	relativas	à	admissibilidade	da	demanda.	Preferimos	usar	o	termo
+requisitos	processuais,	simplesmente,	para	designar	o	que	a	doutrina	chamava,	à	luz	do	CPC/1973,	de
+pressupostos	processuais	e	condições	da	ação	(cf.	comentário	ao	art.	485	do	CPC/2015);	substanciais,
+por	sua	vez,	são	as	relacionadas	ao	mérito.	(b)	Defesa	autônoma	(ou	independente)	e	subordinada	(ou
+dependente,	ou	imprópria):	As	defesas	que	decorrem	de	pretensões	são	consideradas	exceções
+impróprias,	pois,	na	verdade,	são	pretensões	manifestadas	como	defesa,	e	não	exceções	(ou	defesas).	O
+direito	de	arguir	tal	defesa	extingue-se	quando	a	pretensão	respectiva	se	extinguir	(assim,	em	relação	à
+prescrição,	cf.	art.	190	do	CC).	Por	exemplo,	havendo	decadência	do	direito	de	se	anular	o	ato	jurídico
+(CC,	art.	178),	isso	atinge	tanto	a	demanda	quanto	a	defesa	respectiva.	Nesses	casos,	afirma-se	que	a
+defesa	é	subordinada	ou	dependente	da	pretensão.	São	defesas	autônomas,	por	sua	vez,	aquelas	que	não
+consistem	ou	decorrem,	substancialmente,	de	uma	pretensão.	É	o	que	ocorre,	por	exemplo,	com	a	coisa
+julgada,	ou	o	pagamento	(a	respeito,	cf.	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria
+com	Fábio	Caldas	de	Araújo,	p.	229).	(c)	Defesa	direta	e	indireta:	A	defesa	é	direta	quando	se	opõe	ao
+fato	constitutivo	do	direito	do	autor,	e	indireta	nos	demais	casos.	A	defesa	direta	refere-se	apenas	ao
+mérito	(defesa	substancial,	cf.	comentário	supra).	A	indireta,	por	sua	vez,	pode	ser	processual	ou
+substancial	(dizendo	respeito,	nesse	caso,	aos	fatos	impeditivos,	modificativos	ou	extintivos	do	direito
+do	autor).	Tem	repercussão	a
+[/PAGINA 598]
+
+[PAGINA 599]
+distinção,	pois,	no	caso	de	o	réu	alegar	defesa	indireta	substancial	ou
+processual	(que	é	sempre	indireta)	deverá	ser	intimado	o	autor	para	se	manifestar	(cf.	arts.	350	e	351	do
+CPC/2015),	o	mesmo	não	ocorrendo,	necessariamente,	quando	o	réu	alegar	defesa	de	mérito	direta.	Há
+consequências	importantes,	também,	em	relação	ao	ônus	da	prova	(art.	373	do	CPC/2015).	(d)	Defesa
+peremptória	e	dilatória:	É	peremptória	a	defesa	quando	seu	acolhimento	leva	à	extinção	do	processo
+(por	exemplo,	ausência	de	um	dos	requisitos	da	demanda,	litispendência	ou	coisa	julgada);	dilatória
+quando,	ao	invés	de	extinguir,	apenas	alargar	o	curso	do	procedimento	(por	exemplo,	nulidade	de	citação,
+incompetência).
+(e)	Defesa	parcial	e	plena:	Em	alguns	procedimentos,	em	que	a	cognição	é	parcial	(limitada	no	plano
+horizontal),	reduz-se	a	amplitude	de	matérias	que	podem	ser	alegadas	por	aquele	que	ocupa	o	polo
+passivo	(o	réu,	ou	o	executado).	É	o	que	ocorre,	por	exemplo,	na	execução	fundada	em	título
+extrajudicial.	Em	tais	casos,	de	todo	modo,	embora	inexistente	contestação	(no	sentido	dos	arts.	335	ss.
+do	CPC/2015),	permite-se	à	parte	opor-se	à	pretensão	daquele	que	ajuizou	a	ação,	apresentando	defesa
+(embora	limitada	àquilo	que,	ao	juiz,	é	permitido	conhecer,	na	execução	de	título	extrajudicial,	cf.	art.
+803,	parágrafo	único,	do	CPC/2015),	ainda	que	com	o	ajuizamento	de	outra	ação	(no	caso	da	execução,
+através	dos	embargos	à	execução,	em	regra,	embora	deva	ser	admissível	também	o	ajuizamento	de	ação
+autônoma).	(f)	Exceção	e	objeção:	O	termo	“exceção”,	nesse	caso,	não	é	usado	como	sinônimo	de	defesa
+
+(sobre	o	uso	da	expressão	nesse	sentido,	cf.	comentário	infra).	As	matérias	que	devem	ser	conhecidas
+pelo	órgão	jurisdicional	são	denominadas	objeções,	enquanto	as	matérias	que	não	poderão	ser
+conhecidas	pelo	magistrado,	salvo	mediante	provocação	da	parte	interessada	são	chamadas	de	exceções.
+As	exceções	ficam	submetidas,	em	regra,	aos	efeitos	da	preclusão	(a	respeito,	cf.	o	que	escrevemos	em	O
+prequestionamento.	.	,	1.	ed.,	1998,	n.
+3.5.2,	p.	211	ss.).
+IV.	Defesa	substancial:	Mérito.	Deve	o	réu	expor,	em	sua	defesa,	as	fundamentos	com	que	impugna	o
+pedido	do	autor.	No	art.	336	do	CPC/2015,	enfatiza-se	a	defesa	substancial,	ou	de	mérito:	ao	libelo
+apresentado	pelo	autor	correspondem	tais	fundamentos	da	defesa	e	a	impugnação	ao	pedido	(sobre	a
+defesa	processual,	cf.	comentário	ao	art.	337	do	CPC/2015).	Vê-se	que	o	direito	de	defesa	pauta-se
+pelos	limites	traçados	pelo	autor	da	ação,	em	seu	pedido.	Na	doutrina	brasileira,	afirma-se	que	“a
+finalidade,	o	objetivo,	do	ato	postulatório	da	contestação”	consiste	em	“apresentar	argumentos	para	a
+impugnação	dos	pedidos	do	autor	e	a	formulação,	por	consequência,	de	um	pedido	específico	de	tutela
+jurisdicional,	representado	pela	negação	da	tutela	pleiteada	pelo	demandante”	(Marcelo	Pacheco
+Machado,	Demanda,	reconvenção	e	defesa,	RePro	236/71).
+Pode	o	réu	veicular,	na	contestação,	“toda	a	matéria	de	defesa”	(art.	336	do	CPC/2015),	com	o	que	p
+[/PAGINA 599]
+
+[PAGINA 600]
+ode-
+se	ampliar	o	objeto	do	processo,	conceito	que	abrange	tanto	o	objeto	litigioso	quanto	outras	questões	que
+deverão	ser	decididas	pelo	juiz.	Mas	pode	o	réu,	na	contestação,	também:	(a)	na	defesa,	ampliar	o	objeto
+litigioso	em	relação	a	questão	prejudicial,	observadas	as	condições	previstas	nos	§§	1.º	e	2.º	do	art.	503
+do	CPC/2015	(nesse	ponto,	diversamente	do	CPC/1973,	que	exigia	o	ajuizamento	de	ação	declaratória
+incidental,	para	tanto);	e,	ainda,	(b)	apresentar	novo	objeto	litigioso,	em	reconvenção	(que,	a	despeito	de
+poder	ser	veiculada	na	contestação,	é	nova	demanda,	cf.	comentário	ao	art.	343	do	CPC/2015;	à	luz	da
+nova	lei	processual	contestação	não	é	sinônimo	de	defesa,	mas	de	resposta,	que	abrange	tanto	a	defesa
+quanto	a	apresentação	de	nova	demanda,	através	da	reconvenção,	cf.	comentário	ao	art.	335	do
+CPC/2015).	Alguns	usam	a	expressão	“exceção”	para	designar	o	que	oferece	o	réu	em	oposição	à
+pretensão	apresentada	pelo	autor,	vinculando-a	à	exceptio	(em	sua	correlação	com	a	actio)	do	direito
+romano,	mas	essa	aproximação,	no	ponto,	não	parece	apropriada	(a	respeito,	cf.	o	que	escrevemos	em
+Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de	Araújo,	no	comentário	ao	art.	190	do
+CC;	v.	também	comentário	supra,	sobre	classificações	da	defesa,	e	doutrina	ali	citada).
+V.	Princípio	da	eventualidade	e	concentração	da	defesa.	Com	a	prática	do	ato	processual	pela	parte,
+dá-se	a	preclusão	consumativa	(como	princípio,	não	se	pode	praticar	o	ato	novamente	ou	corrigir	o	ato	já
+praticado,	mas	o	art.	223	do	CPC/2015,	a	nosso	ver,	mitiga	a	preclusão	consumativa,	desde	que	a
+emenda	realize-se	dentro	do	prazo	originário).	Aplica-se	essa	regra	à	apresentação	de	defesa	pelo	réu:
+incumbe-lhe,	na	contestação,	alegar	todas	as	matérias	de	defesa	(	princípio	da	eventualidade,	cf.	art.	336
+do	CPC/2015;	na	doutrina,	cf.	Dinamarco,	Ônus	de	contestar.	.,	RePro	41/185;	aplicando	o	princípio
+também	à	réplica,	cf.	Redondo,	Réplica.	.,	RePro	215/87;	na	jurisprudência,	cf.	AgRg	na	MC	14.046/RJ,
+3.ª	T.,	j.	24.06.2008,	rel.
+Min.	Nancy	Andrighi;	STJ,	REsp	156.129/MS,	2.ª	T.,	rel.	Min.	Franciulli	Netto;	STJ,	AgRg	no	REsp
+297.538/MG,	3.ª	T.,	rel.	Min.
+Nancy	Andrighi),	ainda	que	entre	as	mesmas	haja	alguma	contradição	(na	doutrina,	cf.	Eduardo
+Yoshikawa,	A	expansão	da	eficácia	preclusiva.	.,	RePro	222/91;	na	jurisprudência,	cf.	STJ,	AgRg	no	Ag
+671.524/SC,	3.ª	T.,	j.	23.11.2005,	rel.	Min.	Humberto	Gomes	de	Barros).	Assim,	por	exemplo,	nada
+
+impede	que	o	réu	alegue,	em	sua	defesa,	nulidade	da	obrigação	e	pagamento.
+Note-se	que	os	fatos	afirmados	pelo	autor	e	não	impugnados	são	considerados	incontroversos	(cf.	art.
+341	do	CPC/2015;	na	jurisprudência,	cf.	STJ,	REsp	1.224.195/SP,	rel.	Min.	Luis	Felipe	Salomão,	4.ª	T.,
+j.	13.09.2011).	Caso	o	réu	deixe	de	alegar	algum	fundamento	de	defesa	na	contestação,	havendo	coisa
+julgada,	a	matéria	não	alegada	reputa-se	deduzida	e	repelida,	consoante	dispõe	o	art.	508	do	CPC/2015.
+Art.	337.	Incumbe	ao	réu,	antes	de	discutir	o	mérito,
+[/PAGINA 600]
+

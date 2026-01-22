@@ -1,0 +1,55 @@
+{
+    "suite": "progressao",
+    "descricao": "Testes para matéria de progressão de regime",
+    "casos": [
+        {
+            "id": "pro-001",
+            "nome": "Progressão regime fechado para semiaberto - Deferimento",
+            "insumos": "Apenado primário com 1/6 da pena cumprida, bom comportamento atestado. RSPE favorável.",
+            "orientacao": "Deferir progressão ao regime semiaberto",
+            "agrupador": "progressao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "calculo_lapso",
+                "citacao_art112_lep"
+            ]
+        },
+        {
+            "id": "pro-002",
+            "nome": "Progressão - Indeferimento falta grave recente",
+            "insumos": "Apenado requer progressão. Falta grave homologada há 6 meses por uso de celular.",
+            "orientacao": "Indeferir - reinício do lapso após falta grave",
+            "agrupador": "progressao",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_falta_grave"
+            ]
+        },
+        {
+            "id": "pro-003",
+            "nome": "Progressão crime hediondo - Deferimento com 2/5",
+            "insumos": "Apenado primário por tráfico, 2/5 da pena cumprida, bom comportamento. MP favorável.",
+            "orientacao": "Deferir progressão conforme Lei 11.464/2007",
+            "agrupador": "progressao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "lapso_hediondo",
+                "citacao_lei_hediondos"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

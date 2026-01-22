@@ -1,0 +1,3306 @@
+[META]
+TITULO: Novo Código de Processo Civil Comentado
+AUTOR: Elpídio Donizetti
+ANO: 2017
+EDICAO: N/A
+EDITORA: Atlas
+PAGINAS: 701-750
+ARQUIVO_ORIGINAL: #Novo Código de Processo Civil Comentado (2017) - Elpídio Donizetti.pdf
+CITACAO_ABNT: DONIZETTI, Elpídio. Novo Código de Processo Civil Comentado. São Paulo: Atlas, 2017.
+[/META]
+
+[PAGINA 701]
+exequente indicar,
+na petição da execução, os bens passíveis de penhora (art. 798, II, c). A indicação
+deve observar a ordem prevista nesse artigo, que, apesar de não ter caráter
+absoluto, só não deve ser seguida quando comprovada “não somente a manifesta
+vantagem para o executado, mas também a ausência de prejuízo para o exequente”
+(STJ, REsp 1.168.543, Rel. Min. Sidney Beneti, julgado em 05.03.2013).
+Novidades. As novidades trazidas pelo CPC/2015 são, inicialmente, as
+seguintes: (i) alteração da ordem dos bens passíveis de penhora; e (ii) inclusão no
+rol dos bens penhoráveis dos semoventes (VII), das ações e quotas de sociedades
+simples (IX) e dos direitos aquisitivos derivados de promessa de compra e venda
+e de alienação fiduciária em garantia (XII).
+A possibilidade de penhora de semoventes já era aceita pela
+jurisprudência.
+281
+ Quanto às ações e quotas de sociedades simples (não
+empresárias), há entendimento no âmbito do Superior Tribunal de Justiça
+282
+ que
+permite a penhora de cotas pertencentes a sócio de cooperativa. Como esta, nos
+termos do art. 982, parágrafo único, do Código Civil,
+283
+ só pode ser constituída
+sob a forma de sociedade simples, já era possível estender o entendimento às
+demais sociedades constituídas sob essa mesma forma.
+No que concerne à possibilidade de penhora dos direitos aquisitivos
+derivados de promessa de compra e venda e de alienação fiduciária em garantia, é
+importante lembrar que, em ambos os casos, como ainda não se adquiriu a
+propriedade plena do bem, este não poderá ser penhorado. O que deve acontecer é
+a constrição executiva sobre os direitos do executado relativos a essas espécies de
+contratos.
+Por fim, ao prever que “é prioritária a penhora em dinheiro” e que, “nas
+demais hipóteses, o juiz pode alterar a ordem prevista no caput de acordo com as
+circunstâncias do caso concreto”, o CPC/2015 está conferindo prioridade absoluta
+à penhora em dinheiro em detrimento das demais formas de constrição. Essa
+interpretação literal, no entanto, merece ser repensada pelos tribunais superiores,
+especialmente em virtude do princípio da menor onerosidade da execução, que
+deve se amoldar às peculiaridades do caso concreto.
+284
+1044
+
+ 
+CPC/2015CPC/1973
+Art. 836. Não se levará a efeito a penhora quando
+ficar evidente que o produto da execução dos bens
+encontrados será totalmente absorvido pelo
+pagamento das custas da execução.
+§ 1º Quando não encontrar bens penhoráveis,
+independentemente de determinação
+judicial expressa, o oficial de justiça descreverá
+na certidão os bens que guarnecem a residência ou
+o estabelecimento do executado, quando este for
+pessoa jurídica.
+§ 2ºElaborada a lista, o executado ou seu
+representante legal será nomeado
+depositário provisório de tais bens até
+ulterior determinação do juiz.
+Art. 659. [...]
+§ 2º Não se levará a efeito a penhora, quando
+evidente que o produto da execução dos bens
+encontrados será totalmente absorvido pelo
+pagamento das custas da execução.
+§ 3º No caso do parágrafo anterio
+[/PAGINA 701]
+
+[PAGINA 702]
+r e bem assim
+quando não encontrar quaisquer bens
+penhoráveis, o oficial descreverá na certidão os
+que guarnecem a residência ou o estabelecimento
+do devedor.
+COMENTÁRIOS:
+Inadequação de bens à finalidade expropriatória. Não é admitida penhora
+de bem cujo valor não é nem sequer é suficiente para cobrir as custas do
+processo. Assim, na ausência de outros bens a serem penhorados, o oficial de
+justiça deverá certificar os bens que guarnecem a residência ou estabelecimento
+do executado. A novidade está na previsão quanto à nomeação do depositário até
+que a listagem dos bens seja analisada pelo juiz.
+A intenção do legislador com esse dispositivo é evitar que o credor arque
+com prejuízos ainda maiores em virtude da insolvência do devedor.
+Subseção II
+Da Documentação da Penhora, de seu Registro e do
+Depósito
+1045
+
+ 
+CPC/2015CPC/1973
+Art. 837. Obedecidas as normas de segurança
+instituídas sob critérios uniformes pelo Conselho
+Nacional de Justiça, a penhora de dinheiro e as
+averbações de penhoras de bens imóveis e móveis
+podem ser realizadas por meio eletrônico.
+Art. 659 [...]
+§ 6º Obedecidas as normas de segurança que
+forem instituídas, sob critérios uniformes, pelos
+Tribunais, a penhora de numerário e as averbações
+de penhoras de bens imóveis e móveis podem ser
+realizadas por meios eletrônicos.
+COMENTÁRIOS:
+Regulamentação.  A  regulamentação do procedimento eletrônico para
+penhora de dinheiro e de bens móveis ou imóveis não mais ficará a cargo dos
+tribunais, mas sim do Conselho Nacional de Justiça, que deverá parametrizar o
+procedimento para a efetivação das medidas executivas.
+285
+ 
+CPC/2015CPC/1973
+Art. 838. A penhora será realizada mediante auto
+ou termo, que conterá:
+I – a indicação do dia, do mês, do ano e do lugar
+em que foi feita;
+II – os nomes do exequente e do executado;
+III – a descrição dos bens penhorados, com as suas
+características;
+IV – a nomeação do depositário dos bens.
+Art. 665. O auto de penhora conterá:
+I – a indicação do dia, mês, ano e lugar em que foi
+feita;
+II – os nomes do credor e do devedor;
+III – a descrição dos bens penhorados, com os seus
+característicos;
+IV – a nomeação do depositário dos bens.
+COMENTÁRIOS:
+Diferença entre auto e termo de penhora. “Duas são as modalidades de
+documentação da penhora no Código de Processo Civil: termo de penhora lavrado
+pelo escrivão e auto de penhora, confeccionado pelo oficial de justiça” (STJ,
+REsp 259.272/GO, Rel. Min. Fernando Gonçalves, julgado em 11.10.2005).
+1046
+
+A rigor, na essência não se distingue entre penhora por oficial de justiça e
+penhora por termo nos autos. A diferença reside apenas no sujeito processual
+incumbido da prática do ato, bem como no lugar onde é praticado.
+A penhora por oficial de justiça é efetuada no lugar onde quer que se
+encontrem os bens, ainda que sob a posse, detenção ou guarda de terceiros (art.
+845), e a documentação se dá por meio de auto (art. 839), lavrado pelo oficial de
+justiça.
+Requisitos. Se o auto de penhora não contiver os requisitos descritos
+[/PAGINA 702]
+
+[PAGINA 703]
+nesse
+dispositivo e for constatado prejuízo para o processo, a invalidação é medida que
+se impõe. Somente a ausência de indicação do depositário (inciso IV) pode ser
+suprimida pelo art. 840.
+Importância do auto e do termo de penhora. Além de formalizarem a
+penhora, esses documentos permitem que, no caso de concurso de credores, seja
+possível identificar qual foi a primeira penhora realizada para fins de exercício do
+direito de preferência.
+ 
+CPC/2015CPC/1973
+Art. 839. Considerar-se-á feita a penhora mediante
+a apreensão e o depósito dos bens, lavrando-se um
+só auto se as diligências forem concluídas no
+mesmo dia.
+Art. 664. Considerar-se-á feita a penhora mediante
+a apreensão e o depósito dos bens, lavrando-se um
+só auto se as diligências forem concluídas no
+mesmo dia.
+Parágrafo único. Havendo mais de uma penhora,
+serão lavrados autos individuais.
+Parágrafo único. Havendo mais de uma penhora,
+lavrar-se-á para cada qual um auto.
+COMENTÁRIOS:
+Penhora e depósito. A penhora, em regra, é ato complexo, que engloba a
+apreensão propriamente dita, a avaliação, o depósito e a intimação, tanto que se
+lavra um só auto se as diligências forem concluídas no mesmo dia (art. 839).
+Nada impede que tais atos possam ser realizados em momentos distintos, seja
+porque não foi possível concluir a diligência no mesmo dia, a avaliação
+demandava conhecimentos especializados, não foi possível proceder ao depósito
+dos bens constritos ou o devedor não se encontrava presente para ser intimado.
+“A finalidade da penhora é afetar o bem à atividade executiva. O depósito
+consiste em ato complementar à penhora. Tem por função conservar o bem
+1047
+
+penhorado.”
+286
+ 
+CPC/2015CPC/1973
+Art. 840. Serão preferencialmente depositados:
+I – as quantias em dinheiro, os papéis de crédito e
+as pedras e os metais preciosos, no Banco do Brasil,
+na Caixa Econômica Federal ou em banco do qual o
+Estado ou o Distrito Federal possua mais da
+metade do capital social integralizado, ou, na falta
+desses estabelecimentos, em qualquer instituição
+de crédito designada pelo juiz;
+II – os móveis, os semoventes, os imóveis
+urbanos e os direitos aquisitivos sobre imóveis
+urbanos, em poder do depositário judicial;
+III – os imóveis rurais, os direitos aquisitivos
+sobre imóveis rurais, as máquinas, os
+utensílios e os instrumentos necessários ou
+úteis à atividade agrícola, mediante caução
+idônea, em poder do executado.
+§ 1º No caso do inciso II do caput, se não
+houver depositário judicial, os bens ficarão
+em poder do exequente.
+§ 2º Os bens poderão ser depositados em poder do
+executado nos casos de difícil remoção ou quando
+anuir o exequente.
+§ 3º As joias, as pedras e os objetos preciosos
+deverão ser depositados com registro do valor
+estimado de resgate.
+Art. 666. Os bens penhorados
+ serão
+preferencialmente depositados:
+I – no Banco do Brasil, na Caixa Econômica
+Federal, ou em um banco, de que o Estado-
+Membro da União possua mais de metade do
+capital social integralizado; ou, em falta de tais
+estabelecimentos de
+[/PAGINA 703]
+
+[PAGINA 704]
+crédito, ou agências suas no
+lugar, em qualquer estabelecimento de crédito,
+designado pelo juiz, as quantias em dinheiro, as
+pedras e os metais preciosos, bem como os papéis
+de crédito;
+II – em poder do depositário judicial, os móveis e
+os imóveis urbanos;
+III – em mãos de depositário particular, os demais
+bens.
+§ 1º Com a expressa anuência do exequente ou nos
+casos de difícil remoção, os bens poderão ser
+depositados em poder do executado.
+§ 2º As joias, pedras e objetos preciosos deverão
+ser depositados com registro do valor estimado de
+resgate.
+§ 3º A prisão de depositário judicial infiel será
+decretada no próprio processo,
+independentemente de ação de depósito.
+COMENTÁRIOS:
+1048
+
+Local de depósito dos bens. O dispositivo estabelece quais os locais onde
+os bens penhorados devem ser depositados. A regra não é absoluta, tanto que o
+CPC/2015 repete o termo “preferencialmente”. Assim, por exemplo, no caso de
+bens de difícil remoção, pode o juiz avaliar a conveniência de os bens
+permanecerem em poder do executado (STJ, AgRg no REsp 1.183.041, Rel.
+Min. Sidnei Beneti, julgado em 11.06.2013).
+Ressalte-se que o depositário, independentemente de quem seja, ficará
+incumbido da guarda e conservação do bem penhorado, sendo responsável
+também pelos frutos e rendimentos produzidos durante o tempo em que a coisa
+permanecer em seu poder. Como já não é mais possível a prisão civil do
+depositário infiel, por força da Súmula Vinculante 25 do Supremo Tribunal
+Federal,
+287
+ o que o CPC/2015 fez foi apenas excluir um dispositivo que já não
+tinha aplicabilidade.
+ 
+CPC/2015CPC/1973
+Art. 841. Formalizada a penhora por qualquer
+dos meios legais, dela será imediatamente
+intimado o executado.
+§ 1º A intimação da penhora será feita ao
+advogado do executado ou à sociedade de
+advogados a que aquele pertença.
+§ 2º Se não houver constituído advogado nos
+autos, o executado será intimado
+pessoalmente, de preferência por via postal.
+§ 3º O disposto no § 1º não se aplica aos casos
+de penhora realizada na presença do
+executado, que se reputa intimado.
+§ 4º Considera-se realizada a intimação a que
+se refere o § 2º quando o executado houver
+mudado de endereço sem prévia
+comunicação ao juízo, observado o disposto
+no parágrafo único do art. 274.
+Não há correspondência.
+1049
+
+COMENTÁRIOS:
+Intimação da penhora. Em regra, a intimação da penhora é feita
+por oficial de justiça, por ocasião do ato constritivo, em cumprimento ao
+mandado utilizado para citar, penhorar, avaliar e depositar. A finalidade da
+intimação é o conhecimento da penhora, de forma que é dispensável o ato formal
+de intimação quando é penhorado o bem indicado pelo executado (art. 829, § 2º)
+ou quando este presencia o ato (art. 841, § 3º), uma vez que este participa do
+respectivo termo. Entretanto, sendo a indicação feita pelo exequente, o que
+constitui regra, bem como no caso de penhora no rosto dos autos e de conversão
+do arresto em penhora, a intimação será necessária.
+A intimação da penhora pode ser feita por oficial de
+[/PAGINA 704]
+
+[PAGINA 705]
+justiça, no momento da
+constrição ou posteriormente. Se o executado já tiver advogado constituído nos
+autos, a intimação será feita na pessoa do causídico ou na sociedade de advogados
+a que ele pertença; caso não o tenha, será intimado pessoalmente, de preferência,
+por via postal (art. 841, §§ 1º e 2º).
+Mesmo não tendo advogado constituído, se o executado mudar de endereço
+sem comunicação ao juízo, considerar-se-á realizada a intimação dirigida ao
+endereço constante dos autos, fluindo os prazos a partir da juntada aos autos do
+comprovante de entrega da correspondência no primitivo endereço (art. 841, § 4º).
+Frustrada a intimação do executado na pessoa de seu advogado, por oficial
+de justiça ou pelo correio, caberá ao juiz adotar uma das seguintes posturas,
+dependendo das circunstâncias do caso: (a) determinar a realização de novas
+diligências para localizar o executado, a fim de intimá-lo por mandado; (b)
+intimá-lo por edital ou, se houver indício de ocultação, por hora certa; (c)
+dispensar a intimação.
+Evidencie-se que, havendo vários executados, apenas aqueles que tiveram
+bens penhorados devem ser intimados da penhora. Em razão de a intimação da
+penhora não constituir marco inicial da fluência de prazo para embargar,
+desnecessária é a intimação da penhora ao executado que não sofreu os efeitos da
+constrição.
+Recaindo a penhora em bens imóveis ou direito real sobre imóvel (hipoteca,
+servidão, usufruto, por exemplo), será intimado também o cônjuge do executado,
+conforme dispõe o art. 842.
+ 
+CPC/2015CPC/1973
+1050
+
+Art. 842. Recaindo a penhora sobre bem imóvel ou
+direito real sobre imóvel, será intimado
+também o cônjuge do executado, salvo se forem
+casados em regime de separação absoluta de
+bens.
+Art. 655. A penhora observará, preferencialmente,
+a seguinte ordem:
+[...]
+§ 2º Recaindo a penhora em bens imóveis, será
+intimado também o cônjuge do executado.
+COMENTÁRIOS:
+Intimação  do cônjuge. De acordo com o CPC/1973, o cônjuge do
+executado sempre deveria ser intimado nos casos de penhora de bem imóvel. No
+CPC/2015, essa intimação deverá observar o regime de bens dos cônjuges, ou
+seja, a depender da relação patrimonial estabelecida entre eles, em decorrência do
+matrimônio, a intimação da penhora poderá ser dispensada.
+A intimação somente será necessária naqueles casos em que o cônjuge
+individualmente não é legitimado para dispor de bens imóveis. No casamento sob
+o regime da separação absoluta de bens, não há necessidade da intimação, a
+menos que o cônjuge, sendo parte na execução, também tenha tido bens
+penhorados. Ao cônjuge reconhece-se legitimidade para opor embargos do
+devedor e de terceiro, bem como para adjudicar o bem penhorado, daí a
+necessidade de intimação, mormente se tratando de bem imóvel, que goza de
+especial proteção legal.
+A dispensa deve ocorrer quando os cônjuges forem casados sob o regime da
+separação total de bens. O fundamento para essa modificação é simples: se não há
+meação a ser defendida, não há razão para que o cônjuge seja in
+[/PAGINA 705]
+
+[PAGINA 706]
+timado da
+penhora. Essa nova disposição contraria o entendimento do Superior Tribunal de
+Justiça, para quem a intimação é obrigatória independentemente do regime de
+bens adotado pelo casal.
+288
+ 
+CPC/2015CPC/1973
+Art. 843. Tratando-se de penhora de bem
+indivisível, o equivalente à quota-parte do
+coproprietário ou do cônjuge alheio à execução
+recairá sobre o produto da alienação do bem.
+§ 1º É reservada ao coproprietário ou ao
+Art. 655-B. Tratando-se de penhora em bem
+indivisível, a meação do cônjuge alheio à execução
+recairá sobre o produto da alienação do bem.
+1051
+
+cônjuge não executado a preferência na
+arrematação do bem em igualdade de
+condições.
+§ 2º Não será levada a efeito expropriação
+por preço inferior ao da avaliação na qual o
+valor auferido seja incapaz de garantir, ao
+coproprietário ou ao cônjuge alheio à
+execução, o correspondente à sua quota-
+parte calculado sobre o valor da avaliação.
+COMENTÁRIOS:
+Penhora e alienação de bem indivisível. O art. 655-B do CPC/1973
+dispunha que se houvesse alienação de bem indivisível do casal, o cônjuge
+poderia opor embargos, mas, sendo vitorioso, não preservava a posse relativa ao
+bem. O que o Código de 1973 garantia era que o valor relativo à meação fosse
+pago após a alienação do objeto da execução.
+De acordo com o CPC/2015, o valor relativo à meação continua a ser pago
+após a alienação. A novidade é que o imóvel não poderá ser alienado se não
+viabilizar a entrega de, pelo menos, o equivalente à quota-parte destinada ao
+cônjuge. Além dessa garantia, o cônjuge também terá preferência na arrematação,
+em igualdade de condições com os demais arrematantes.
+O CPC/2015 também inclui nesse regramento a copropriedade. Se houver
+penhora de imóvel de propriedade de dois amigos, por exemplo, a penhora e a
+alienação serão realizadas na íntegra, mas o coproprietário terá direito à sua parte
+na expropriação. O novo dispositivo vai facilitar a aquisição do imóvel e evitar o
+condomínio forçado.
+ 
+CPC/2015CPC/1973
+Art. 844. Para presunção absoluta de
+conhecimento por terceiros, cabe ao exequente
+providenciar a averbação do arresto ou da
+penhora no registro competente, mediante
+apresentação de cópia do auto ou do termo,
+Art. 659 [...]
+§ 4º A penhora de bens imóveis realizar-se-á
+mediante auto ou termo de penhora, cabendo ao
+exequente, sem prejuízo da imediata intimação do
+executado (art. 652, § 4º), providenciar, para
+1052
+
+independentemente de mandado judicial.
+presunção absoluta de conhecimento por terceiros,
+a respectiva averbação no ofício imobiliário,
+mediante a apresentação de certidão de inteiro teor
+do ato, independentemente de mandado judicial.
+COMENTÁRIOS:
+Presunções legais. A presunção legal pode ser absoluta (juris et de jure) ou
+relativa (juris tantum). No primeiro caso, o fato é considerado verdadeiro pelo
+próprio sistema jurídico, sendo irrelevante qualquer comprovação em sentido
+contrário.
+Exemplo de presunção absoluta é a averbação prevista nesse dispositivo.
+Trata-se de medida que independe de mandad
+[/PAGINA 706]
+
+[PAGINA 707]
+o judicial, sendo necessário apenas
+que o requerente apresente certidão de inteiro teor ao ofício imobiliário.
+Subseção III
+Do Lugar de Realização da Penhora
+ 
+CPC/2015CPC/1973
+Art. 845. Efetuar-se-á a penhora onde se
+encontrem os bens, ainda que sob a posse, a
+detenção ou a guarda de terceiros.
+§ 1º A penhora de imóveis, independentemente de
+onde se localizem, quando apresentada certidão da
+respectiva matrícula, e a penhora de veículos
+automotores, quando apresentada certidão
+que ateste a sua existência, serão realizadas por
+termo nos autos.
+§ 2º Se o executado não tiver bens no foro do
+processo, não sendo possível a realização da
+penhora nos termos do § 1º, a execução será
+Art. 659. [...]
+§ 1º Efetuar-se-á a penhora onde quer que se
+encontrem os bens, ainda que sob a posse,
+detenção ou guarda de terceiros.
+[...]
+§ 5º Nos casos do § 4º
+, quando apresentada
+certidão da respectiva matrícula, a penhora de
+imóveis, independentemente de onde se
+localizem, será realizada por termo nos autos, do
+qual será intimado o executado, pessoalmente ou
+na pessoa de seu advogado, e por este ato
+constituído depositário.
+1053
+
+feita por carta, penhorando-se, avaliando-se e
+alienando-se os bens no foro da situação.
+Art. 658. Se o devedor não tiver bens no foro da
+causa, far-se-á a execução por carta, penhorando-
+se, avaliando-se e alienando-se os bens no foro da
+situação (art. 747).
+COMENTÁRIOS:
+Local de realização da penhora. Efetuar-se-á a penhora onde quer que se
+encontrem os bens, ainda que sob a posse, detenção ou guarda de terceiros (art.
+845, caput). Se o devedor não tiver bens no foro da causa e a penhora não puder
+ser realizada por termo nos autos (art. 845, § 1º), far-se-á a execução por carta
+(art. 845, § 2º). Nesse caso, a penhora, a avaliação, a alienação, enfim, todos os
+atos relativos ao bem apreendido na execução, serão levados a efeito por meio de
+carta precatória, cujo juiz deprecado é o da situação dos bens.
+A grande novidade trazida pelo CPC/2015 se refere à penhora de veículo
+automotor. Apesar de essa modalidade de penhora já estar prevista no art. 655, II,
+do CPC/1973, não havia regramento especial sobre a matéria.
+Tradicionalmente, os veículos eram penhorados por diligência do oficial de
+justiça, que tinha a incumbência de localizar o bem. De acordo com o CPC/2015,
+a penhora de veículos será possível por simples termo nos autos, com anotação da
+restrição por meio do sistema eletrônico RENAJUD (Restrições Judiciais sobre
+Veículos Automotores), disponibilizado pelo Departamento Nacional de Trânsito
+(DENATRAN). Por esse sistema é possível determinar não apenas a restrição
+quanto à transferência do veículo, mas até mesmo quanto à sua circulação.
+Segundo o CPC/2015, a penhora de veículos automotores depende da
+apresentação, pelo exequente, da certidão que ateste a existência do bem.
+Ressalte-se que o Superior Tribunal de Justiça tem entendimento, em relação aos
+veículos automotores, semelhante ao adotado para os bens imóveis, no sentido de
+que apen
+[/PAGINA 707]
+
+[PAGINA 708]
+as a inscrição da penhora no órgão de trânsito torna absoluta a assertiva
+de que a constrição é conhecida por terceiros (STJ, REsp 944.250/RS e REsp
+835.089).
+ 
+CPC/2015CPC/1973
+Art. 846. Se o executado fechar as portas da casa a
+fim de obstar a penhora dos bens, o oficial de
+Art. 660. Se o devedor fechar as portas da casa, a
+fim de obstar a penhora dos bens, o oficial de
+1054
+
+justiça comunicará o fato ao juiz, solicitando-lhe
+ordem de arrombamento.
+§ 1º Deferido o pedido, 2 (dois) oficiais de justiça
+cumprirão o mandado, arrombando cômodos e
+móveis em que se presuma estarem os bens, e
+lavrarão de tudo auto circunstanciado, que será
+assinado por 2 (duas) testemunhas presentes à
+diligência.
+§ 2º Sempre que necessário, o juiz requisitará força
+policial, a fim de auxiliar os oficiais de justiça na
+penhora dos bens.
+§ 3º Os oficiais de justiça lavrarão em duplicata o
+auto da ocorrência, entregando uma via ao escrivão
+ou ao chefe de secretaria, para ser juntada aos
+autos, e a outra à autoridade policial a quem
+couber a apuração criminal dos eventuais
+delitos de desobediência ou de resistência.
+§ 4º Do auto da ocorrência constará o rol de
+testemunhas, com a respectiva qualificação.
+justiça comunicará o fato ao juiz, solicitando-lhe
+ordem de arrombamento.
+Art. 661. Deferido o pedido mencionado no artigo
+antecedente, dois oficiais de justiça cumprirão o
+mandado, arrombando portas, móveis e gavetas,
+onde presumirem que se achem os bens, e
+lavrando de tudo auto circunstanciado, que será
+assinado por duas testemunhas, presentes à
+diligência.
+Art. 662. Sempre que necessário, o juiz requisitará
+força policial, a fim de auxiliar os oficiais de justiça
+na penhora dos bens e na prisão de quem resistir à
+ordem.
+Art. 663. Os oficiais de justiça lavrarão em
+duplicata o auto de resistência, entregando uma
+via ao escrivão do processo para ser junta aos
+autos e a outra à autoridade policial, a quem
+entregarão o preso.
+Parágrafo único. Do auto de resistência constará o
+rol de testemunhas, com a sua qualificação.
+COMENTÁRIOS:
+Resistência à realização da penhora. A penhora, como qualquer ato
+processual, realizar-se-á em dias úteis, das 6 às 20 horas. Entretanto, tal como a
+citação e a intimação, a penhora poderá realizar-se em domingos e feriados, nos
+dias úteis, fora do horário mencionado, bem como nas férias forenses, onde
+houver (art. 212, § 2º). Diferentemente do que previa o CPC/1973, o novo
+Código não condiciona a realização desses atos à prévia autorização judicial.
+Entretanto, se para realizar a citação, intimação ou penhora o oficial de justiça
+precisar do consentimento da parte para adentrar em seu domicílio e esta não
+consentir, o ato necessariamente dependerá de ordem judicial para ser realizado
+(art. 5º, XI, da CF).
+1055
+
+Se o executado fechar as portas da casa a fim de obstar a penhora dos bens,
+o oficial de justiça comunicará o fato ao juiz, solicitando-lhe ordem de
+arrombamento. Nesse caso, deferida a ordem, dois oficiais de justiça cumprirão o
+mandado,
+[/PAGINA 708]
+
+[PAGINA 709]
+arrombando cômodos e móveis em que se presuma encontrar os bens, e
+lavrando de tudo auto circunstanciado, que será assinado por duas testemunhas,
+presentes à diligência (art. 846, caput e § 1º).
+Sempre que necessário, o juiz requisitará força policial, a fim de auxiliar os
+oficiais de justiça na penhora dos bens e na prisão de quem resistir ou
+desobedecer à ordem, porquanto, nesses casos, pode estar tipificado o crime de
+resistência ou de desobediência, a depender da situação concreta (art. 846, § 2º,
+do CPC; arts. 329 e 330 do CP). Esse poder do juiz já se encontra previsto no
+processo de conhecimento (art. 360, III) e na parte geral do processo de execução
+(art. 782, § 2º), de forma que nem haveria necessidade de disposição específica
+para requisição de força policial.
+Para documentar a resistência ou a desobediência à ordem judicial, os
+oficiais de justiça lavrarão o respectivo auto, em duas vias, do qual constarão
+nome, qualificação e, se possível, a assinatura de duas testemunhas. Uma via será
+entregue ao escrivão para juntada aos autos da execução, a outra será entregue à
+autoridade policial, a quem couber a apuração criminal dos eventuais delitos de
+desobediência ou resistência (art. 846, § 3º).
+Subseção IV
+Das Modificações da Penhora
+ 
+CPC/2015CPC/1973
+Art. 847. O executado pode, no prazo de 10 (dez)
+dias contado da intimação da penhora, requerer a
+substituição do bem penhorado, desde que
+comprove que lhe será menos onerosa e não trará
+prejuízo ao exequente.
+§ 1º O juiz só autorizará a substituição se o
+executado:
+I – comprovar as respectivas matrículas e os
+Art. 668. O executado pode, no prazo de 10 (dez)
+dias após intimado da penhora, requerer a
+substituição do bem penhorado, desde que
+comprove cabalmente
+ que a substituição não trará
+prejuízo algum ao exequente e será menos
+onerosa para ele devedor (art. 17, incisos IV e VI, e
+art. 620).
+Parágrafo único. Na hipótese prevista neste artigo,
+1056
+
+registros por certidão do correspondente
+ofício, quanto aos bens imóveis;
+II – descrever os bens móveis, com todas as suas
+propriedades e características, bem como o estado
+deles e o lugar onde se encontram;
+III – descrever os semoventes, com indicação de
+espécie, de número, de marca ou sinal e do local
+onde se encontram;
+IV – identificar os créditos, indicando quem seja o
+devedor, qual a origem da dívida, o título que a
+representa e a data do vencimento; e
+V – atribuir, em qualquer caso, valor aos bens
+indicados à penhora, além de especificar os
+ônus e os encargos a que estejam sujeitos.
+§ 2º Requerida a substituição do bem
+penhorado, o executado deve indicar onde se
+encontram os bens sujeitos à execução, exibir a
+prova de sua propriedade e a certidão negativa ou
+positiva de ônus, bem como abster-se de
+qualquer atitude que dificulte ou embarace a
+realização da penhora.
+§ 3º O executado somente poderá oferecer bem
+imóvel em substituição caso o requeira com a
+expressa anuência do cônjuge, salvo se o regime
+for o de separação absoluta de bens.
+§ 4
+[/PAGINA 709]
+
+[PAGINA 710]
+º O juiz intimará o exequente para
+manifestar-se sobre o requerimento de
+substituição do bem penhorado.
+ao executado incumbe:
+I – quanto aos bens imóveis, indicar as respectivas
+matrículas e registros, situá-los e mencionar as
+divisas e confrontações;
+II – quanto aos móveis, particularizar o estado e o
+lugar em que se encontram;
+III – quanto aos semoventes, especificá-los,
+indicando o número de cabeças
+ e o imóvel em que
+se encontram;
+IV – quanto aos créditos, identificar o devedor e
+qualificá-lo
+, descrevendo a origem da dívida, o
+título que a representa e a data do vencimento; e
+V – atribuir valor aos bens indicados à penhora.
+Art. 656. [...]
+§ 1º É dever do executado (art. 600), no prazo
+fixado pelo juiz, indicar onde se encontram os bens
+sujeitos à execução, exibir a prova de sua
+propriedade e, se for o caso, certidão negativa de
+ônus, bem como abster-se de qualquer atitude
+que dificulte ou embarace a realização da penhora
+(art. 14, parágrafo único)
+.
+[...]
+§ 3º O executado somente poderá oferecer bem
+imóvel em substituição caso o requeira com a
+expressa anuência do cônjuge.
+Art. 848. As partes poderão requerer a substituição
+da penhora se:
+Art. 656. A parte poderá requerer a substituição da
+penhora:
+1057
+
+I – ela não obedecer à ordem legal;
+II – ela não incidir sobre os bens designados em lei,
+contrato ou ato judicial para o pagamento;
+III – havendo bens no foro da execução, outros
+tiverem sido penhorados;
+IV – havendo bens livres, ela tiver recaído sobre
+bens já penhorados ou objeto de gravame;
+V – ela incidir sobre bens de baixa liquidez;
+VI – fracassar a tentativa de alienação judicial do
+bem; ou
+VII – o executado não indicar o valor dos bens ou
+omitir qualquer das indicações previstas em lei.
+Parágrafo único. A penhora pode ser substituída
+por fiança bancária ou por seguro garantia judicial,
+em valor não inferior ao do débito constante da
+inicial, acrescido de trinta por cento.
+I – se não obedecer à ordem legal;
+II – se não incidir sobre os bens designados em lei,
+contrato ou ato judicial para o pagamento;
+III – se, havendo bens no foro da execução, outros
+houverem sido penhorados;
+IV – se, havendo bens livres, a penhora houver
+recaído sobre bens já penhorados ou objeto de
+gravame;
+V – se incidir sobre bens de baixa liquidez;
+VI – se fracassar a tentativa de alienação judicial
+do bem; ou
+VII – se o devedor não indicar o valor dos bens ou
+omitir qualquer das indicações a que se referem os
+incisos I a IV do parágrafo único do art. 668 desta
+Lei. [...]
+§ 2º A penhora pode ser substituída por fiança
+bancária ou seguro garantia judicial, em valor não
+inferior ao do débito constante da inicial, mais
+30% (trinta por cento).
+COMENTÁRIOS AOS ARTS. 847 E 848:
+Substituição  da penhora. Os arts. 847 e 848, atendendo ao princípio
+segundo o qual a execução deve satisfazer o crédito do exequente com o menor
+sacrifício possível para o executado (art. 805), preveem a substituição da penhora
+pelo executado ou por qualquer das partes, respectivamente.
+A in
+[/PAGINA 710]
+
+[PAGINA 711]
+dicação de bens à penhora cabe inicialmente ao credor. Pode ocorrer de a
+indicação não ter obedecido à ordem prevista no art. 835, ou, embora tenha
+respeitado a preferência, o devedor possa ter vislumbrado uma forma menos
+onerosa para execução de seu patrimônio sem comprometer o direito do credor
+(art. 829, § 2º). Essa a razão por que o Código lhe faculta pleitear a substituição
+da penhora.
+1058
+
+Tratando de substituição requerida pelo executado, o requerimento deverá ser
+formulado no prazo de dez dias contados da intimação da penhora, e será deferido
+caso comprove o devedor que a substituição lhe será menos onerosa e não trará
+prejuízo algum ao exequente. Nesse caso, o juiz somente autorizará a substituição
+se o executado: (a) comprovar as respectivas matrículas e os registros por
+certidão do correspondente ofício, quanto aos bens imóveis; (b) descrever os bens
+móveis, com todas as suas propriedades e características, bem como o estado
+deles e o lugar onde se encontram; (c) descrever os semoventes, com indicação de
+espécie, de número, de marca ou sinal e do local onde se encontram; (d)
+identificar os créditos, indicando quem seja o devedor, qual a origem da dívida, o
+título que a representa e a data do vencimento; e (e) atribuir, em qualquer caso,
+valor aos bens indicados à penhora, além de especificar os ônus e os encargos a
+que estejam sujeitos (art. 847, § 1º).
+Além disso, o executado deve indicar onde se encontram os bens sujeitos à
+execução, exibir a prova de sua propriedade e a certidão negativa ou positiva de
+ônus, bem como abster-se de qualquer atitude que dificulte ou embarace a
+realização da penhora (art. 847, § 2º). Preenchidos esses requisitos e estando o
+exequente de acordo com a substituição, o juiz não poderá indeferi-la.
+289
+Ressalte-se que a substituição não trata de direito potestativo do executado. O juiz
+sempre ouvirá o exequente antes de decidir, determinando a lavratura de termo de
+penhora dos novos bens, caso a substituição tenha sido aceita e esteja em
+conformidade com a lei (art. 847, § 4º; arts. 9º e 10; art. 849).
+O § 3º do art. 847 dispõe que o executado somente poderá oferecer bem
+imóvel em substituição caso o requeira com a expressa anuência do cônjuge. A
+norma, conquanto salutar porque evita a oposição de embargos de terceiro por
+parte do cônjuge alheio à execução (art. 674, § 2º, I), não se aplica ao executado
+casado sobre o regime da separação total de bens (art. 1.647, I, do CC; art. 847, §
+3º, parte final, do CPC).
+A substituição também poderá ser requerida por qualquer das partes
+(exequente ou executado) nas situações descritas no art. 848. Embora o caput se
+valha do termo “partes” para indicar os legitimados ao pedido de substituição, as
+hipóteses ali previstas são fundamentalmente relacionadas ao interesse do
+exequente, exceto quanto ao inciso I, que trata da possibilidade de substituição
+quando a penhora não observar a ordem legal.
+De acordo com este dispositivo (art. 848), o pedido de substituição da
+penho
+[/PAGINA 711]
+
+[PAGINA 712]
+ra pode ocorrer ao longo do processo. Não há um momento adequado e,
+portanto, não se pode falar em preclusão. Mesmo naquelas situações cujo termo
+1059
+
+inicial está previsto no texto normativo, por exemplo, o fracasso na alienação
+judicial, não se exige das partes que formulem o pedido logo após a frustração da
+alienação. Em todo caso, o juiz deve analisar se o eventual pedido tardio de
+substituição tem ou não sua razão de ser.
+A substituição será sempre possível desde que útil à execução. O juiz deve
+sempre ter em vista o binômio satisfação do crédito e menor onerosidade para o
+devedor. Decerto que a substituição da penhora de um imóvel, não obstante ter
+obedecido à ordem legal, por fiança bancária ou seguro-garantia judicial, em valor
+não inferior ao do débito constante da inicial, mais 30%, convém ao credor e à
+execução (art. 848, parágrafo único).
+ 
+CPC/2015CPC/1973
+Art. 849. Sempre que ocorrer a substituição dos
+bens inicialmente penhorados, será lavrado novo
+termo.
+Art. 657. Ouvida em 3 (três) dias a parte contrária,
+se os bens inicialmente penhorados (art. 652)
+forem substituídos por outros, lavrar-se-á o
+respectivo termo.
+COMENTÁRIOS:
+Lavratura de novo termo. A substituição do bem penhorado nada mais é
+do que uma nova penhora, distinta daquela anteriormente realizada. Assim sendo,
+torna-se indispensável a lavratura de novo termo.
+ 
+CPC/2015CPC/1973
+Art. 850. Será admitida a redução ou a
+ampliação da penhora, bem como sua
+transferência para outros bens, se, no curso
+do processo, o valor de mercado dos bens
+penhorados sofrer alteração significativa.
+Não há correspondência.
+COMENTÁRIOS:
+Outras  formas de modificação da penhora. Devido à morosidade no
+trâmite processual, não raras vezes o valor do bem penhorado sofre alterações em
+1060
+
+razão do decurso do tempo. Por conta disso, o CPC/2015 passará a autorizar a
+redução, ampliação ou substituição da penhora em razão de significativa alteração
+no valor dos bens penhorados. Entendo que esse dispositivo deverá ser aplicado
+apenas se houver requerimento motivado da parte interessada, tal como no art.
+872, que trata da redução e ampliação da penhora após a avaliação.
+ 
+CPC/2015CPC/1973
+Art. 851. Não se procede à segunda penhora, salvo
+se:
+I – a primeira for anulada;
+II – executados os bens, o produto da alienação
+não bastar para o pagamento do exequente;
+III – o exequente desistir da primeira penhora, por
+serem litigiosos os bens ou por estarem submetidos
+a constrição judicial.
+Art. 667. Não se procede à segunda penhora, salvo
+se:
+I – a primeira for anulada;
+II – executados os bens, o produto da alienação
+não bastar para o pagamento do credor;
+III – o credor desistir da primeira penhora, por
+serem litigiosos os bens, ou por estarem
+penhorados, arrestados ou onerados.
+COMENTÁRIOS:
+Segunda penhora. Além dos casos previstos nesse dispositivo, admite-se a
+realização de uma segunda penhora quando se tratar de obrigação de trato
+sucessivo, que se tornou exigível no curso do processo (STJ, REsp
+164.930/R
+[/PAGINA 712]
+
+[PAGINA 713]
+S).
+290
+ 
+CPC/2015CPC/1973
+Art. 852. O juiz determinará a alienação antecipada
+dos bens penhorados quando:
+I – se tratar de veículos automotores, de
+pedras e metais preciosos e de outros bens
+móveis sujeitos à depreciação ou à deterioração;
+II – houver manifesta vantagem.
+Art. 670. O juiz autorizará a alienação antecipada
+dos bens penhorados quando:
+I – sujeitos a deterioração ou depreciação;
+II – houver manifesta vantagem.
+Art. 853. Quando uma das partes requerer algumaArt. 670. [...]
+1061
+
+das medidas previstas nesta Subseção, o juiz ouvirá
+sempre a outra, no prazo de 3 (três) dias, antes de
+decidir.
+Parágrafo único. O juiz decidirá de plano
+qualquer questão suscitada.
+Parágrafo único. Quando uma das partes requerer
+a alienação antecipada dos bens penhorados, o juiz
+ouvirá sempre a outra antes de decidir.
+COMENTÁRIOS AOS ARTS. 852 E 853:
+Alienação antecipada. O Código permite a alienação antecipada de bens nas
+hipóteses descritas nesse dispositivo. O CPC/2015 limita a alienação antecipada a
+determinados bens, ou seja, não é todo e qualquer bem sujeito à deterioração ou
+depreciação que pode ser antecipadamente alienado. Essa especificação trazida
+pelo CPC/2015 visa evitar que o dispositivo seja utilizado indiscriminadamente.
+A venda antecipada tem caráter excepcional, devendo incidir apenas quando
+imprescindível ao afastamento dos riscos de perecimento do bem. Em qualquer
+situação, o juiz deverá sobrelevar a “manifesta vantagem” (inciso II) da alienação
+para ambas as partes.
+291
+Requerimento. Os pressupostos que justificam a alienação antecipada
+devem estar comprovados nos autos. O exequente deverá, então, motivar o
+pedido, apresentando provas que demonstrem que os bens estão sujeitos à
+“deterioração” ou “depreciação”. O requerimento pode ser feito por qualquer das
+partes (art. 853) ou mesmo por iniciativa do juiz, desde que devidamente
+fundamentada.
+O art. 853 fixa o prazo para oitiva da parte contrária quando forem
+requeridas a alienação antecipada e a substituição de bem penhorado, reforçando,
+assim, a necessidade de prévio contraditório (art. 9º do CPC/2015).
+Subseção V
+Da Penhora de Dinheiro em Depósito ou em Aplicação
+Financeira
+ 
+CPC/2015CPC/1973
+1062
+
+Art. 854. Para possibilitar a penhora de dinheiro
+em depósito ou em aplicação financeira, o juiz, a
+requerimento do exequente, sem dar ciência
+prévia do ato ao executado, determinará às
+instituições financeiras, por meio de sistema
+eletrônico gerido pela autoridade supervisora
+do sistema financeiro nacional, que torne
+indisponíveis ativos financeiros existentes em nome
+do executado, limitando-se a indisponibilidade ao
+valor indicado na execução.
+§ 1º No prazo de 24 (vinte e quatro) horas a
+contar da resposta, de ofício, o juiz
+determinará o cancelamento de eventual
+indisponibilidade excessiva, o que deverá ser
+cumprido pela instituição financeira em igual
+prazo.
+§ 2º Tornados indisponíveis os ativos
+financeiros do executado, este será intimado
+na pessoa de seu advogado ou, não o tendo,
+pess
+[/PAGINA 713]
+
+[PAGINA 714]
+oalmente.
+§ 3º Incumbe ao executado, no prazo de 5 (cinco)
+dias, comprovar que:
+I – as quantias tornadas indisponíveis são
+impenhoráveis;
+II –ainda remanesce indisponibilidade
+excessiva de ativos financeiros.
+§ 4º Acolhida qualquer das arguições dos
+incisos I e II do § 3º, o juiz determinará o
+cancelamento de eventual indisponibilidade
+irregular ou excessiva, a ser cumprido pela
+instituição financeira em 24 (vinte e quatro)
+Art. 655-A. Para possibilitar a penhora de dinheiro
+em depósito ou aplicação financeira, o juiz, a
+requerimento do exequente, requisitará à
+autoridade supervisora do sistema bancário,
+preferencialmente
+ por meio eletrônico,
+informações sobre a existência de ativos em nome
+do executado, podendo no mesmo ato determinar
+sua indisponibilidade, até o valor indicado na
+execução.
+§ 1º As informações limitar-se-ão à existência ou
+não de depósito ou aplicação até o valor indicado
+na execução.
+§ 2º Compete ao executado comprovar que as
+quantias depositadas em conta corrente referem-
+se à hipótese do inciso IV do caput do art. 649
+desta Lei ou que estão revestidas de outra forma de
+impenhorabilidade.
+[...]
+§ 4º Quando se tratar de execução contra partido
+político, o juiz, a requerimento do exequente,
+requisitará à autoridade supervisora do sistema
+bancário, nos termos do que estabelece o caput
+deste artigo, informações sobre a existência de
+ativos tão somente em nome do órgão partidário
+que tenha contraído a dívida executada ou que
+tenha dado causa a violação de direito ou ao dano,
+ao qual cabe exclusivamente a responsabilidade
+pelos atos praticados, de acordo com o disposto no
+art. 15-A da Lei nº 9.096, de 19 de setembro de
+1995.
+1063
+
+horas.
+§ 5º Rejeitada ou não apresentada a
+manifestação do executado, converter-se-á a
+indisponibilidade em penhora, sem
+necessidade de lavratura de termo, devendo
+o juiz da execução determinar à instituição
+financeira depositária que, no prazo de 24
+(vinte e quatro) horas, transfira o montante
+indisponível para conta vinculada ao juízo da
+execução.
+§ 6º Realizado o pagamento da dívida por
+outro meio, o juiz determinará,
+imediatamente, por sistema eletrônico
+gerido pela autoridade supervisora do
+sistema financeiro nacional, a notificação da
+instituição financeira para que, em até 24
+(vinte e quatro) horas, cancele a
+indisponibilidade.
+§ 7º As transmissões das ordens de
+indisponibilidade, de seu cancelamento e de
+determinação de penhora previstas neste
+artigo far-se-ão por meio de sistema
+eletrônico gerido pela autoridade
+supervisora do sistema financeiro nacional.
+§ 8º A instituição financeira será responsável
+pelos prejuízos causados ao executado em
+decorrência da indisponibilidade de ativos
+financeiros em valor superior ao indicado na
+execução ou pelo juiz, bem como na hipótese
+de não cancelamento da indisponibilidade no
+prazo de 24 (vinte e quatro) horas, quando
+assim determinar o juiz.
+1064
+
+§ 9º Quando se tratar de execução contra partido
+político, o juiz, a requerimento do exequente,
+determinará às
+[/PAGINA 714]
+
+[PAGINA 715]
+instituições financeiras, por meio de
+sistema eletrônico gerido por autoridade supervisora
+do sistema bancário, que tornem indisponíveis ativos
+financeiros somente em nome do órgão partidário
+que tenha contraído a dívida executada ou que
+tenha dado causa à violação de direito ou ao dano,
+ao qual cabe exclusivamente a responsabilidade
+pelos atos praticados, na forma da lei.
+COMENTÁRIOS:
+“Penhora” on-line (procedimento). Para possibilitar a penhora de dinheiro
+em depósito ou aplicação financeira, o juiz, a requerimento do exequente,
+292
+ sem
+dar ciência prévia do ato ao executado, determinará às instituições financeiras, por
+meio de sistema eletrônico gerido pela autoridade supervisora do sistema
+financeiro nacional, que torne indisponíveis ativos financeiros existentes em
+nome do executado, limitando-se ao valor indicado na execução. Assim, em vez
+de apenas requisitar informações (art. 655-A do CPC/1973), o juiz já ordenará a
+indisponibilidade do numerário. Nesse primeiro momento o que há é apenas o
+bloqueio, e não a penhora dos valores existentes nas contas de titularidade do
+executado.
+Em 24 horas após a resposta por parte do agente financeiro, o juiz
+determinará, se for o caso, o cancelamento dos valores excedentes (art. 854, § 1º).
+Num segundo momento, o juiz determinará a intimação do executado para se
+manifestar (art. 854, § 2º). A partir dessa intimação deverá o devedor, no prazo
+de cinco dias (art. 854, § 3º), alegar e demonstrar que as quantias tornadas
+indisponíveis são impenhoráveis e/ou que ainda remanesce a indisponibilidade
+excessiva de ativos financeiros.
+Após a manifestação (ou se decorrido o prazo sem ela), o juiz decidirá sobre
+a “conversão” do bloqueio dos ativos financeiros em penhora (art. 854, §§ 4º e
+5º).
+Se, porventura, ainda no primeiro momento, houver necessidade de
+cancelamento do bloqueio em virtude de excesso, irregularidade ou do pagamento
+1065
+
+da dívida pelo executado, a instituição financeira terá o prazo de 24 horas para
+realizar o desbloqueio, sob pena de ser responsabilizada pelos prejuízos causados
+ao devedor. O mesmo ocorre quando a instituição procede ao bloqueio em valor
+superior ao indicado pela autoridade judicial (art. 854, §§ 6º a 8º).
+Observe que, tratando-se de execução contra partido político, a
+indisponibilidade deverá incidir tão somente sobre os ativos em nome do órgão
+partidário que tenha contraído a dívida executada ou que tenha dado causa à
+violação de direito ou ao dano, ao qual cabe exclusivamente a responsabilidade
+pelos atos praticados, na forma da lei (art. 854, § 9º). Objetiva-se, com o § 9º,
+salvaguardar as informações e o patrimônio dos diretórios nacional, estaduais e
+municipais dos atos e condutas imputados exclusivamente a um ou outro órgão.
+A requisição de indisponibilidade é possibilitada a partir de um convênio de
+cooperação técnico-institucional realizado entre o Banco Central, o Superior
+Tribunal de Justiça e o Conselho da Justiça Federal, ao qual os tribunais
+estaduais de modo g
+[/PAGINA 715]
+
+[PAGINA 716]
+eral aderiram.
+Na prática, o juiz determina que se indisponibilize até o valor X (da
+execução) porventura existente em contas de depósito ou aplicações financeiras no
+sistema bancário. A autoridade destinatária da ordem informa o valor e a
+instituição onde se encontra a quantia bloqueada à ordem do juízo. O valor
+bloqueado pode ser inferior ao necessário para pagar o credor. Por óbvio, pode
+ocorrer de não haver quantias depositadas ou aplicadas em nome do devedor e
+então a informação será negativa. É assim que se passam as coisas.
+Concretizada a ordem de indisponibilidade, tudo se passa do modo mais
+simples e informal. A quantia permanece à ordem do juízo até a ultimação dos
+atos da execução. Como já salientado, não se trata de penhora, porquanto não há
+lavratura de auto ou termo, tampouco nomeação de depositário. O termo que o
+escrivão lançará de forma simplificada nos autos se referirá ao cumprimento ou
+não da ordem de bloqueio, em nada se assemelhando ao termo de penhora, que
+deve conter os requisitos do art. 838. Aliás, segundo o STJ, “havendo penhora
+on-line, não há expedição de mandado de penhora e de avaliação, uma vez que a
+constrição recai sobre numerário encontrado em conta-corrente do devedor, sendo
+desnecessária diligência além das adotadas pelo próprio magistrado por meio
+eletrônico”. Em regra, a lavratura do auto de penhora, com a indicação das
+informações contidas no art. 838 (art. 665 do CPC/1973), é indispensável, exceto
+quando se tratar de penhora on-line.
+Desse modo, “se a parte pode identificar, com exatidão, os detalhes da
+operação realizada por meio eletrônico (valor, conta-corrente, instituição
+1066
+
+bancária), e se foi expressamente intimada para apresentar impugnação no prazo
+legal, optando por não fazê-lo, não é razoável nulificar todo o procedimento por
+estrita formalidade” (STJ, 3ª Turma, REsp 1.195.976, Rel. Min. João Otávio de
+Noronha, julgado em 20.02.2014).
+A importância fica sob a guarda dos dirigentes do banco depositário,
+independentemente de lavratura de termo. Caso seja liberada sem ordem do juízo,
+responderá como depositário, pelo que fica obrigado a repor à conta judicial a
+quantia liberada.
+Intimação do executado e arguição de impenhorabilidade. Para resguardo
+de direitos do executado, há necessidade de intimá-lo (art. 854, § 2º). Pode ele,
+por exemplo, arguir excesso de execução, alegar impenhorabilidade da
+importância bloqueada ou mesmo pleitear a substituição da garantia por fiança
+bancária ou seguro-garantia judicial (art. 848, parágrafo único).
+A arguição de impenhorabilidade é feita por simples petição, por se tratar de
+matéria de ordem pública, que pode ser conhecida até de ofício. Recebida a
+petição, o juiz dá vista ao exequente, faculta produção de provas, se necessárias, e
+decide o incidente.
+Bacenjud. Consoante disposto no art. 837, compete ao Conselho Nacional
+de Justiça a instituição, sob critérios uniformes, de normas de segurança, para
+viabilizar a penhora de dinheiro e as averbações de penho
+[/PAGINA 716]
+
+[PAGINA 717]
+ras de bens imóveis e
+móveis realizadas por meio eletrônico.
+A Resolução nº 61 do Conselho Nacional de Justiça já traz algumas regras
+relativas à penhora on-line. O Bacenjud (sistema operado pelo Banco Central do
+Brasil para agilizar a solicitação de informações e o envio de ordens judiciais ao
+Sistema Financeiro Nacional), por exemplo, já foi objeto de convênio com o
+Conselho Nacional de Justiça com vistas ao seu aperfeiçoamento e ao incentivo
+de seu uso.
+“Penhora” on-line negativa. Se negativo o resultado da medida constritiva
+realizada por meio eletrônico, ou seja, se frustrada a diligência em razão da
+inexistência de saldo positivo em nome do devedor, nada impede que o credor
+formalize um novo pedido de penhora on-line. Apesar de não existir, até então,
+qualquer entendimento no sentido de limitar a quantidade de pedidos de penhora
+em dinheiro, importa ressalvar que o próprio STJ considera que os sucessivos
+pedidos de penhora on-line devem ser motivados, a fim de que a medida
+constritiva não se transforme em um direito potestativo do credor.
+293
+É certo que não se pode negar a jurisdição. Assim, sendo negativa a penhora,
+deve-se proceder a uma nova tentativa, a requerimento do exequente, caso haja
+1067
+
+mudança na situação econômica do devedor. Contudo, não pode o juízo ficar à
+disposição do credor, sendo-lhe permitido negar medidas inúteis, que possam
+comprometer a própria prestação jurisdicional. Especialmente quando não tiver
+transcorrido tempo razoável desde a tentativa anterior, há que se demonstrar o
+mínimo de plausibilidade de que existam quantias depositadas ou investidas em
+nome do devedor.
+Subseção VI
+Da Penhora de Créditos
+ 
+CPC/2015CPC/1973
+Art. 855. Quando recair em crédito do executado,
+enquanto não ocorrer a hipótese prevista no art.
+856, considerar-se-á feita a penhora pela
+intimação:
+I – ao terceiro devedor para que não pague ao
+executado, seu credor;
+II – ao executado, credor do terceiro, para que
+não pratique ato de disposição do crédito.
+Art. 671. Quando a penhora recair em crédito do
+devedor, o oficial de justiça o penhorará. Enquanto
+não ocorrer a hipótese prevista no artigo seguinte,
+considerar-se-á feita a penhora pela intimação:
+I – ao terceiro devedor para que não pague ao seu
+credor;
+II – ao credor do terceiro para que não pratique
+ato de disposição do crédito.
+Art. 856. A penhora de crédito representado por
+letra de câmbio, nota promissória, duplicata,
+cheque ou outros títulos far-se-á pela apreensão do
+documento, esteja ou não este em poder do
+executado.
+§ 1º Se o título não for apreendido, mas o terceiro
+confessar a dívida, será este tido como depositário
+da importância.
+§ 2º O terceiro só se exonerará da obrigação
+depositando em juízo a importância da dívida.
+§ 3º Se o terceiro negar o débito em conluio com o
+Art. 672. A penhora de crédito, representada por
+letra de câmbio, nota promissória, duplicata,
+cheque ou outros títulos, far-se-á pela apreensão
+do documento, esteja ou não em poder do
+devedor.
+§ 1º Se o tít
+[/PAGINA 717]
+
+[PAGINA 718]
+ulo não for apreendido, mas o terceiro
+confessar a dívida, será havido como depositário
+da importância.
+§ 2º O terceiro só se exonerará da obrigação,
+depositando em juízo a importância da dívida.
+§ 3º Se o terceiro negar o débito em conluio com o
+1068
+
+executado, a quitação que este lhe der caracterizará
+fraude à execução.
+§ 4º A requerimento do exequente, o juiz
+determinará o comparecimento, em audiência
+especialmente designada, do executado e do
+terceiro, a fim de lhes tomar os depoimentos.
+devedor, a quitação, que este lhe der, considerar-
+se-á em fraude de execução.
+§ 4º A requerimento do credor, o juiz determinará
+o comparecimento, em audiência especialmente
+designada, do devedor e do terceiro, a fim de lhes
+tomar os depoimentos.
+Art. 857. Feita a penhora em direito e ação do
+executado, e não tendo ele oferecido embargos ou
+sendo estes rejeitados, o exequente ficará sub-
+rogado nos direitos do executado até a concorrência
+de seu crédito.
+§ 1º O exequente pode preferir, em vez da sub-
+rogação, a alienação judicial do direito penhorado,
+caso em que declarará sua vontade no prazo de 10
+(dez) dias contado da realização da penhora.
+§ 2º A sub-rogação não impede o sub-rogado, se
+não receber o crédito do executado, de prosseguir
+na execução, nos mesmos autos, penhorando
+outros bens.
+Art. 673. Feita a penhora em direito e ação do
+devedor, e não tendo este oferecido embargos, ou
+sendo estes rejeitados, o credor fica sub-rogado
+nos direitos do devedor até a concorrência do seu
+crédito.
+§ 1º O credor pode preferir, em vez da sub-
+rogação, a alienação judicial do direito penhorado,
+caso em que declarará a sua vontade no prazo de
+10 (dez) dias contados da realização da penhora.
+§ 2º A sub-rogação não impede ao sub-rogado, se
+não receber o crédito do devedor, de prosseguir na
+execução, nos mesmos autos, penhorando outros
+bens do devedor
+.
+Art. 858. Quando a penhora recair sobre dívidas de
+dinheiro a juros, de direito a rendas ou de
+prestações periódicas, o exequente poderá levantar
+os juros, os rendimentos ou as prestações à medida
+que forem sendo depositados, abatendo-se do
+crédito as importâncias recebidas, conforme as
+regras de imputação do pagamento.
+Art. 675. Quando a penhora recair sobre dívidas de
+dinheiro a juros, de direito a rendas, ou de
+prestações periódicas, o credor poderá levantar os
+juros, os rendimentos ou as prestações à medida
+que forem sendo depositadas, abatendo-se do
+crédito as importâncias recebidas, conforme as
+regras da imputação em pagamento.
+Art. 859. Recaindo a penhora sobre direito a
+prestação ou a restituição de coisa determinada, o
+executado será intimado para, no vencimento,
+depositá-la, correndo sobre ela a execução.
+Art. 676. Recaindo a penhora sobre direito, que
+tenha por objeto prestação ou restituição de coisa
+determinada, o devedor será intimado para, no
+vencimento, depositá-la, correndo sobre ela a
+1069
+
+execução.
+Art. 860. Quando o direito estiver sendo pleiteado
+em juízo, a penhora que recair sobre ele será
+averbad
+[/PAGINA 718]
+
+[PAGINA 719]
+a, com destaque, nos autos pertinentes ao
+direito e na ação correspondente à penhora, a fim
+de que esta seja efetivada nos bens que forem
+adjudicados ou que vierem a caber ao executado.
+Art. 674. Quando o direito estiver sendo pleiteado
+em juízo, averbar-se-á no rosto dos autos a
+penhora, que recair nele e na ação que lhe
+corresponder, a fim de se efetivar nos bens, que
+forem adjudicados ou vierem a caber ao devedor.
+COMENTÁRIOS AOS ARTS. 855 A 860:
+Penhora de créditos. Os arts. 855 a 860 regulam a penhora de créditos,
+inclusive dos que porventura estiverem sendo pleiteados em juízo. Trata-se de
+modalidade especial de penhora que incide sobre os créditos do executado. As
+regras aplicam-se a todos os créditos ainda não vencidos que se enquadrem nas
+hipóteses legais.
+Art. 856 (penhora sobre crédito decorrente de título de crédito). A
+penhora de crédito, representada por letra de câmbio, nota promissória, duplicata,
+cheque ou outros títulos, far-se-á pela apreensão do documento, esteja em poder
+do executado (que é o credor da obrigação consubstanciado no título de cuja
+apreensão se cogita) ou de terceiro (art. 856, caput). A apreensão é levada a efeito
+pelo oficial de justiça, mediante auto. Nesse caso, o terceiro só se exonerará da
+obrigação depositando em juízo a importância da dívida (art. 856, § 2º).
+Embora não haja apreensão, se o terceiro confessar a dívida, será havido
+como depositário da importância e, consequentemente, a penhora estará
+consumada (art. 856, § 1º).
+Caso o terceiro negue a existência da dívida, poderá o exequente requerer a
+instauração de incidente com vistas a comprovar que o executado possui o
+crédito. Havendo necessidade, facultará o juiz a produção de prova por parte do
+exequente, a quem incumbe o ônus da prova acerca da existência da dívida. Afora
+outras provas, poder-se-á produzir prova em audiência, na qual serão tomados os
+depoimentos do executado e do terceiro e ouvidas eventuais testemunhas
+arroladas pelas partes (art. 856, § 4º).
+Idêntico procedimento incidental poderá ser instaurado a requerimento do
+exequente se o terceiro negar o débito em conluio com o devedor. O desfecho do
+incidente, também resolvido por decisão interlocutória, será de considerar a
+1070
+
+quitação em fraude de execução, o que significa ineficácia em relação à execução,
+ou, em outras palavras, o crédito será tido por existente e então o terceiro será
+nomeado depositário da importância (art. 856, § 3º).
+Enquanto não ocorrer a apreensão do título, a confissão da dívida pelo
+terceiro ou a declaração de existência dela nos casos de negativa ou de quitação
+fraudulenta, a penhora considerar-se-á feita pelas seguintes intimações (art. 855, I
+e II): (a) ao terceiro devedor para que não pague ao executado, seu credor; (b) ao
+executado, credor do terceiro, para que não pratique ato de disposição do crédito.
+Art. 857 (penhora em direito e ação). Feita a penhora em direito e ação do
+executado, e não tendo este oferecido embargos, ou sendo estes rejeitados,
+[/PAGINA 719]
+
+[PAGINA 720]
+o
+exequente fica sub-rogado nos direitos do devedor até a concorrência do seu
+crédito. Se não receber do terceiro (devedor) o crédito sub-rogado, poderá
+prosseguir na execução, nos mesmos autos, penhorando outros bens do
+executado. Nada obsta, entretanto, que o credor, em vez da sub-rogação, requeira,
+no prazo de dez dias contados da realização da penhora, a alienação judicial do
+direito penhorado (art. 857, § 1º).
+Art. 858 (penhora sobre dívidas em dinheiro). A penhora pode recair
+sobre créditos vincendos exigíveis em prestações ou sujeitos a juros periódicos.
+Nesse caso, a partir do momento do vencimento, fica o devedor obrigado ao
+depósito judicial dos juros, rendas ou prestações. A penhora consuma-se com as
+intimações previstas no art. 855. Depois, os valores poderão ser levantados pelo
+exequente, com o devido abatimento do crédito objeto da execução.
+Art. 859 (penhora sobre direito a coisa). Recaindo a penhora sobre direito,
+que tenha por objeto prestação ou restituição de coisa determinada, o terceiro
+(devedor) será intimado para, no vencimento, depositá-la, correndo sobre ela a
+execução. Depois disso lavra-se o termo de penhora e prossegue-se com os atos
+expropriatórios até a satisfação do crédito.
+Art. 860 (penhora no “rosto” dos autos). Diz-se no rosto dos autos porque
+a penhora é anotada na capa dos autos. O objeto da penhora é o direito
+patrimonial litigioso, de natureza pessoal ou real, cuja titularidade é atribuída ao
+executado, o qual, no processo em que será realizada a penhora, figura como
+autor, exequente ou herdeiro habilitado em processo de inventário.
+Essa modalidade de penhora é feita pelo oficial de justiça, o qual intima o
+escrivão do processo no qual se opera a realização ou acertamento do bem
+litigioso a lavrar o respectivo termo de penhora, procedendo-se à anotação na capa
+dos autos. Trata-se de penhora condicionada ao resultado da demanda referente ao
+direito litigioso. Ao final do processo, se o bem for atribuído ao executado, a
+1071
+
+penhora definitivamente nele se efetivará, prosseguindo-se a execução nos atos
+expropriatórios; ao revés, se sucumbir, a penhora se extinguirá.
+Subseção VII
+Da Penhora das Quotas ou das Ações de Sociedades
+Personificadas
+ 
+CPC/2015CPC/1973
+Art. 861. Penhoradas as quotas ou as ações de
+sócio em sociedade simples ou empresária, o
+juiz assinará prazo razoável, não superior a 3
+(três) meses, para que a sociedade:
+I – apresente balanço especial, na forma da
+lei;
+II – ofereça as quotas ou as ações aos demais
+sócios, observado o direito de preferência
+legal ou contratual;
+III – não havendo interesse dos sócios na
+aquisição das ações, proceda à liquidação das
+quotas ou das ações, depositando em juízo o
+valor apurado, em dinheiro.
+§ 1º Para evitar a liquidação das quotas ou
+das ações, a sociedade poderá adquiri-las
+sem redução do capital social e com
+utilização de reservas, para manutenção em
+tesouraria.
+§ 2º O disposto no caput e no § 1º não se
+aplica à sociedade anônima de capital
+aberto, cujas
+[/PAGINA 720]
+
+[PAGINA 721]
+ações serão adjudicadas ao
+exequente ou alienadas em bolsa de valores,
+Não há correspondência.
+1072
+
+conforme o caso.
+§ 3º Para os fins da liquidação de que trata o
+inciso III do caput, o juiz poderá, a
+requerimento do exequente ou da sociedade,
+nomear administrador, que deverá submeter
+à aprovação judicial a forma de liquidação.
+§ 4º O prazo previsto no caput poderá ser
+ampliado pelo juiz, se o pagamento das
+quotas ou das ações liquidadas:
+I – superar o valor do saldo de lucros ou
+reservas, exceto a legal, e sem diminuição do
+capital social, ou por doação; ou
+II – colocar em risco a estabilidade financeira
+da sociedade simples ou empresária.
+§ 5º Caso não haja interesse dos demais
+sócios no exercício de direito de preferência,
+não ocorra a aquisição das quotas ou das
+ações pela sociedade e a liquidação do inciso
+III do caput seja excessivamente onerosa
+para a sociedade, o juiz poderá determinar o
+leilão judicial das quotas ou das ações.
+COMENTÁRIOS:
+Penhora de quotas de sociedades. Não havia previsão específica no
+CPC/1973 sobre o procedimento relativo à penhora de quotas ou ações de
+sociedades personificadas. A única disposição sobre o tema constava do art. 655,
+VI, introduzido pela Lei nº 11.383/2006:
+Art. 655. A penhora observará, preferencialmente, a seguinte ordem:
+[...]
+VI – ações e quotas de sociedades empresárias.
+1073
+
+Após a concretização expressa da penhora, o Superior Tribunal de Justiça
+passou a entender que, mesmo havendo previsão no contrato social, não era
+possível vedar a alienação das quotas de sociedades personificadas, devendo-se,
+no entanto, ser facultada à sociedade a remissão da execução ou do bem, ou,
+ainda, ser facultado aos sócios o exercício do direito de preferência.
+Apesar do entendimento jurisprudencial favorável à penhora das quotas
+sociais, faltava na legislação a consolidação de regras para disciplinar esse ato e,
+assim, conferir maior efetividade à execução.
+O novo Código tem, então, a função de suprir a lacuna existente na
+legislação processual, propiciando a penhora das cotas sociais mediante a
+observância de regras mínimas que, ao mesmo tempo em que proporcionam
+condições para a recuperação do crédito, harmonizam-se com os princípios
+societários.
+Subseção VIII
+Da Penhora de Empresa, de Outros Estabelecimentos e
+de Semoventes
+ 
+CPC/2015CPC/1973
+Art. 862. Quando a penhora recair em
+estabelecimento comercial, industrial ou agrícola,
+bem como em semoventes, plantações ou edifícios
+em construção, o juiz nomeará administrador-
+depositário, determinando-lhe que apresente em
+10 (dez) dias o plano de administração.
+§ 1º Ouvidas as partes, o juiz decidirá.
+§ 2º É lícito às partes ajustar a forma de
+administração, e escolher o depositário, hipótese
+em que o juiz homologará por despacho a
+indicação.
+§ 3º Em relação aos edifícios em construção
+Art. 677. Quando a penhora recair em
+estabelecimento comercial, industrial ou agrícola,
+bem como em semoventes, plantações ou edifício
+em construção, o juiz nomeará um depositário,
+[/PAGINA 721]
+
+[PAGINA 722]
+determinando-lhe que apresente em 10 (dez) dias
+a forma de administração.
+§ 1º Ouvidas as partes, o juiz decidirá.
+§ 2º É lícito, porém, às partes ajustarem a forma de
+administração, escolhendo o depositário; caso em
+que o juiz homologará por despacho a indicação.
+1074
+
+sob regime de incorporação imobiliária, a
+penhora somente poderá recair sobre as
+unidades imobiliárias ainda não
+comercializadas pelo incorporador.
+§ 4º Sendo necessário afastar o incorporador
+da administração da incorporação, será ela
+exercida pela comissão de representantes
+dos adquirentes ou, se se tratar de
+construção financiada, por empresa ou
+profissional indicado pela instituição
+fornecedora dos recursos para a obra,
+devendo ser ouvida, neste último caso, a
+comissão de representantes dos adquirentes.
+Art. 863. A penhora de empresa que funcione
+mediante concessão ou autorização far-se-á,
+conforme o valor do crédito, sobre a renda, sobre
+determinados bens ou sobre todo o patrimônio, e o
+juiz nomeará como depositário, de preferência, um
+de seus diretores.
+Art. 678. A penhora de empresa, que funcione
+mediante concessão ou autorização, far-se-á,
+conforme o valor do crédito, sobre a renda, sobre
+determinados bens ou sobre todo o patrimônio,
+nomeando o juiz como depositário, de preferência,
+um dos seus diretores.
+§ 1º Quando a penhora recair sobre a renda ou
+sobre determinados bens, o administrador-
+depositário apresentará a forma de administração e
+o esquema de pagamento, observando-se, quanto
+ao mais, o disposto em relação ao regime de
+penhora de frutos e rendimentos de coisa móvel e
+imóvel.
+§ 2º Recaindo a penhora sobre todo o patrimônio,
+prosseguirá a execução em seus ulteriores termos,
+ouvindo-se, antes da arrematação ou da
+adjudicação, o ente público que houver outorgado
+a concessão.
+Parágrafo único. Quando a penhora recair sobre a
+renda, ou sobre determinados bens, o depositário
+apresentará a forma de administração e o
+esquema de pagamento observando-se, quanto ao
+mais, o disposto nos arts. 716 a 720; recaindo,
+porém, sobre todo o patrimônio, prosseguirá a
+execução os seus ulteriores termos, ouvindo-se,
+antes da arrematação ou da adjudicação, o poder
+público, que houver outorgado a concessão.
+Art. 864. A penhora de navio ou de aeronave nãoArt. 679. A penhora sobre navio ou aeronave não
+1075
+
+obsta que continuem navegando ou operando até
+a alienação, mas o juiz, ao conceder a autorização
+para tanto, não permitirá que saiam do porto ou do
+aeroporto antes que o executado faça o seguro
+usual contra riscos.
+obsta a que continue navegando ou operando até
+a alienação; mas o juiz, ao conceder a autorização
+para navegar ou operar, não permitirá que saia do
+porto ou aeroporto antes que o devedor faça o
+seguro usual contra riscos.
+Art. 865. A penhora de que trata esta
+Subseção somente será determinada se não
+houver outro meio eficaz para a efetivação
+do crédito.
+Não há correspondência.
+COMENTÁRIOS AOS ARTS. 862 A 865:
+Excepcionalidade.  O Código trata a penhora de empresa, de
+estabele
+[/PAGINA 722]
+
+[PAGINA 723]
+cimentos e de semoventes como hipóteses excepcionais, que só terão
+lugar quando não for possível a satisfação do crédito por outro meio igualmente
+eficaz (art. 865).
+Nomeação de adminis trador-depositário. Os procedimentos para a
+penhora de estabelecimento comercial, industrial ou agrícola, bem como de
+semoventes, plantações ou edifícios em construção, têm um ponto em comum: a
+nomeação de um administrador-depositário.
+A administração e o depósito dos bens penhorados têm por fim evitar a
+decadência do estabelecimento ou a degradação da coisa penhorada.
+O administrador-depositário tem a incumbência de gerir o estabelecimento
+ou de conservar a coisa até a efetiva expropriação, de forma a evitar prejuízos à
+execução.
+É prudente que o administrador seja escolhido entre alguém que já esteja
+atuando no negócio. Se, no entanto, não existir pessoa habilitada, nada impede
+que o juiz nomeie um terceiro idôneo. É lícito, porém, às partes ajustar a forma
+de administração, escolhendo o depositário, caso em que o juiz homologará por
+despacho a indicação (art. 862, § 2º).
+Tratando-se de empresa que presta serviço público sob a forma de concessão
+ou autorização, o encargo de administrador-depositário recairá preferencialmente
+sobre um dos diretores da própria empresa (art. 863).
+No mais, o administrador tem gerência sobre a coisa penhorada até a
+expropriação, devendo consultar o juízo quando houver necessidade de adotar
+1076
+
+providências que causem maior repercussão econômica. “Em realidade, não se
+concebe tenha o administrador de submeter todas as decisões de rotina ao juiz e
+este, por sua vez, de ouvir as partes.”
+294
+Plano de adminis tração. Após a nomeação do administrador, este dispõe de
+10 (dez) dias para apresentar o plano. Nos termos do § 1º do art. 862, sobre o
+plano as partes serão intimadas, cabendo-lhes fixar todos os pontos relevantes
+para o fiel desenvolvimento da tarefa por parte do administrador-depositário,
+inclusive no que concerne ao controle do plano.
+Diferenças entre o adminis trador da lei processual civil e o
+adminis trador da Lei nº 11.101/2005. A forma de administração prevista nesse
+dispositivo não se confunde com a administração existente na Lei nº 11.101/2005,
+que regula a recuperação judicial, a extrajudicial e a falência do empresário e da
+sociedade empresária. Na hipótese ora analisada, a função precípua do
+administrador é não deixar que a garantia se degenere. A superação da situação da
+crise por meio do incremento nos resultados e, consequentemente, do
+cumprimento dos requisitos legais para evitar a falência do empresário ou da
+sociedade empresária é função que não se enquadra na figura do administrador-
+depositário do art. 862 do CPC.
+Incorporação imobiliária. Nas construções executadas sob o regime da
+incorporação imobiliária (Lei nº 4.591/1964), os créditos provenientes das vendas
+das unidades são legalmente vinculados à execução da obra e à entrega aos
+respectivos adquirentes. Afastam-se, portanto, as constrições que não tenh
+[/PAGINA 723]
+
+[PAGINA 724]
+am
+como fundamento dívidas relativas ao próprio empreendimento. Em outras
+palavras, nas execuções promovidas contra o incorporador, a penhora só pode
+incidir sobre os bens a ele pertencentes, ou seja, não podem alcançar as unidades
+já alienadas (§ 3º).
+Penhora sobre navios e aeronaves. No que concerne à penhora sobre navio
+ou aeronave (art. 864), nada obsta a que se continue navegando ou operando até a
+alienação. O juiz, no entanto, ao conceder a autorização para navegar ou operar,
+não permitirá que saia do porto ou aeroporto antes que o executado faça o seguro
+usual contra riscos.
+Ensina Araken de Assis que navio é qualquer construção destinada ao
+transporte de pessoas ou mercadorias sobre ou sob a água. Aeronave é qualquer
+veículo que se desloca pelo ar, destinado ao transporte de mercadorias e
+pessoas.
+295
+A penhora sobre navio e aeronave em nada distingue das demais quanto ao
+aspecto formal, ou seja, penhora-se, avalia-se e procede-se ao depósito, de tudo
+1077
+
+lavrando o respectivo auto. A diferença encontra-se em dois aspectos: (i) em
+razão da natureza pública dos serviços de transportes marítimos e aéreos,
+principalmente em razão da escassez dos respectivos meios, entendeu por bem o
+legislador processual garantir a continuidade da operação dos navios e aeronaves,
+ainda que penhorados; (ii) em contrapartida, para a garantia da execução, em face
+dos riscos a que tais meios de transporte estão submetidos, condicionou a lei o
+deferimento da autorização para navegar ou operar à contratação de seguros contra
+riscos.
+Subseção IX
+Da Penhora de Percentual de Faturamento de Empresa
+ 
+CPC/2015CPC/1973
+Art. 866. Se o executado não tiver outros bens
+penhoráveis ou se, tendo-os, esses forem de
+difícil alienação ou insuficientes para saldar
+o crédito executado, o juiz poderá ordenar a
+penhora de percentual de faturamento de
+empresa.
+§ 1º O juiz fixará percentual que propicie a
+satisfação do crédito exequendo em tempo
+razoável, mas que não torne inviável o
+exercício da atividade empresarial.
+§ 2º O juiz nomeará administrador-
+depositário, o qual submeterá à aprovação
+judicial a forma de sua atuação e prestará
+contas mensalmente, entregando em juízo
+as quantias recebidas, com os respectivos
+balancetes mensais, a fim de serem
+imputadas no pagamento da dívida.
+§ 3º Na penhora de percentual de faturamento de
+Art. 655-A [...]
+§ 3º Na penhora de percentual do faturamento da
+empresa executada, será nomeado depositário,
+com a atribuição de submeter à aprovação judicial a
+forma de efetivação da constrição, bem como de
+prestar contas mensalmente, entregando ao
+exequente as quantias recebidas, a fim de serem
+imputadas no pagamento da dívida.
+1078
+
+empresa, observar-se-á, no que couber, o disposto
+quanto ao regime de penhora de frutos e
+rendimentos de coisa móvel e imóvel.
+COMENTÁRIOS:
+Penhora de percentual de faturamento de empr esa. Antes mesmo das
+alterações trazidas pela Lei nº 11.383/2006, que inseriu na legislação processual
+de 1973 o art. 655-A, parte da doutr
+[/PAGINA 724]
+
+[PAGINA 725]
+ina e a jurisprudência admitiam a penhora de
+faturamento de empresa como uma hipótese excepcional, que somente poderia ser
+deferida caso não inviabilizasse o exercício da atividade empresarial.
+296
+ Segundo
+Humberto Theodoro Júnior, “a reforma do CPC (de 1973) realizada pela Lei nº
+11.382/2006, e que criou o art. 655-A, normatizou em seu § 3º a orientação que
+predominava no Superior Tribunal”,
+297
+ mas que ainda encontrava resistência em
+parte da doutrina.
+Sendo assim, o CPC/2015 não ampliou o rol de bens penhoráveis com a
+inserção da redação do art. 866, apenas aprimorou a disposição anterior e
+positivou algumas regras já reconhecidas pela jurisprudência.
+Excepcionalidade. O caput evidencia o caráter excepcional da medida ao
+prever que a penhora só deverá incidir sobre o faturamento quando o devedor não
+possuir bens ou, se os possuir, quando eles sejam de difícil execução ou
+insuficientes para saldar o crédito demandado.
+298
+Sendo assim, se não houver outros bens passíveis de constrição ou, havendo,
+sejam eles de difícil alienação, o juiz fixará o percentual que deverá ser
+apropriado do faturamento, bem como a periodicidade da apropriação, não
+podendo, no entanto, inviabilizar o exercício da atividade empresarial.
+Nomeação de depositário-adminis trador. O § 2º estabelece a necessidade
+de nomeação de depositário-administrador com a atribuição de submeter à
+aprovação judicial a sua forma de atuação até a efetivação do cumprimento da
+obrigação, bem como de prestar contas mensalmente, entregando ao exequente as
+quantias recebidas, a fim de serem imputadas no pagamento da dívida.
+Aprovado o plano de atuação, cabe ao depositário-administrador recolher as
+quantias destinadas à garantia do juízo ou ao pagamento da dívida. As quantias
+recolhidas serão depositadas em conta judicial, caso tenha havido oposição de
+embargos com efeito suspensivo. Não havendo oposição de embargos ou tendo
+sido estes recebidos sem efeito suspensivo, as quantias retiradas do faturamento
+1079
+
+da empresa executada serão entregues diretamente ao exequente, a fim de serem
+imputadas ao pagamento da dívida; nesse caso não haverá depósito, mas
+satisfação débito em parcelas. De toda a sua gestão, que não inclui a
+interveniência nas atividades empresariais, a não ser para recolher o percentual
+previsto no esquema aprovado judicialmente, o administrador-depositário prestará
+contas mensalmente ao juízo.
+Penhora em dinheiro x penhora sobre faturamento. Cumpre destacar que
+não se pode confundir a penhora de dinheiro com a penhora sobre faturamento.
+Havendo dinheiro, é sobre ele que prioritariamente deve incidir a penhora.
+Havendo faturamento, não se pode penhorá-lo imediatamente, sem que antes
+sejam verificados os requisitos presentes no caput e no § 1º.
+A penhora em comento é medida de exceção, que jamais poderá
+comprometer o desenvolvimento regular da atividade empresarial, assim como
+não poderá obstar a utilização de valor necessário ao pagamento de salários de
+empregados, fornecedores
+[/PAGINA 725]
+
+[PAGINA 726]
+etc.
+Subseção X
+Da Penhora de Frutos e Rendimentos de Coisa Móvel ou
+Imóvel
+ 
+CPC/2015CPC/1973
+Art. 867. O juiz pode ordenar a penhora de frutos e
+rendimentos de coisa móvel ou imóvel quando a
+considerar mais eficiente para o recebimento do
+crédito e menos gravosa ao executado.
+Art. 716. O juiz pode conceder ao exequente o
+usufruto de móvel ou imóvel, quando o reputar
+menos gravoso ao executado e eficiente para o
+recebimento do crédito.
+COMENTÁRIOS:
+Alteração da modalidade prevista no CPC/1973. A última modalidade de
+penhora prevista no CPC/1973 correspondia ao usufruto de bem móvel ou do
+imóvel (arts. 716 a 724). Tratava-se de medida na qual se instituía “alguém para
+desfrutar um bem alheio como se dele próprio fosse, sem qualquer influência
+modificativa na nua propriedade”.
+299
+1080
+
+No novo CPC não figura mais essa modalidade de usufruto, de perda do
+gozo do móvel ou imóvel, até que a dívida seja paga. O usufruto de bem móvel
+ou imóvel foi substituído pela expropriação, a qual o CPC/2015 nomeou de
+“apropriação de frutos e rendimentos de empresa ou estabelecimentos e de outros
+bens” (art. 825, III). Essa nova modalidade de expropriação deve ocorrer quando
+a penhora não se voltar para o próprio bem, mas para os frutos ou rendimentos
+que ele tem condições de produzir. Nesses casos, as receitas oriundas do bem
+imóvel ou móvel serão transferidas ao credor até que o seu crédito seja
+plenamente satisfeito.
+Ao comentar esse novo dispositivo, Humberto Theodoro Júnior esclarece
+que “é muito mais prático e menos oneroso fazer incidir a penhora diretamente
+sobre os frutos, do que constituir em direito real de usufruto, para que o credor,
+como usufrutuário, possa extrair a renda que irá resgatar o crédito exequendo”.
+300
+A intenção do novo Código é simplificar o procedimento e, na prática, deixá-lo
+apto para ser utilizado com maior frequência do que o usufruto judicial.
+ 
+CPC/2015CPC/1973
+Art. 868. Ordenada a penhora de frutos e
+rendimentos, o juiz nomeará administrador-
+depositário, que será investido de todos os
+poderes que concernem à administração do
+bem e à fruição de seus frutos e utilidades,
+perdendo o executado o direito de gozo do bem,
+até que o exequente seja pago do principal, dos
+juros, das custas e dos honorários advocatícios.
+§ 1º A medida terá eficácia em relação a terceiros a
+partir da publicação da decisão que a conceda ou
+de sua averbação no ofício imobiliário, em
+caso de imóveis.
+§ 2º O exequente providenciará a averbação
+no ofício imobiliário mediante a
+apresentação de certidão de inteiro teor do
+ato, independentemente de mandado
+judicial.
+Art. 717. Decretado o usufruto, perde o executado o
+gozo do móvel ou imóvel, até que o exequente seja
+pago do principal, juros, custas e honorários
+advocatícios.
+Art. 718. O usufruto tem eficácia, assim
+ em relação
+ao executado como
+ a terceiros, a partir da
+publicação da decisão que o conceda.
+1081
+
+COMENTÁRIOS:
+Procedimento. O juiz pode determinar a penhora sobre os frutos de
+rendimentos da coisa mó
+[/PAGINA 726]
+
+[PAGINA 727]
+vel ou imóvel de propriedade do executado se considerar
+que essa medida é mais eficiente para o recebimento do crédito e menos gravosa
+para o devedor. Trata-se, portanto, de modalidade excepcional de penhora, cabível
+somente quando não houver outro meio de satisfação patrimonial.
+Assim como ocorre nas penhoras anteriormente tratadas, o juiz nomeará
+administrador-depositário, “que será investido de todos os poderes que
+concernem à administração do bem e à fruição de seus frutos e utilidades,
+perdendo o executado o direito de gozo do bem, até que o exequente seja pago do
+principal, dos juros, das custas e dos honorários advocatícios” (caput).
+Eficácia da medida. O novo Código esclarece que a eficácia erga omnes
+(contra todos) do ato de penhora dependerá de sua publicidade, a qual se dará com
+a publicação da decisão ou de sua averbação no cartório de registro de imóveis
+competente. Embora a averbação e a publicação da decisão sejam formas de
+exteriorização do ato processual da penhora, tendo, portanto, validade entre as
+partes, elas são necessárias à publicidade do ato perante terceiros.
+A averbação da penhora é um dever do exequente e tende a garantir tanto a
+satisfação do crédito quanto o conhecimento de terceiros, evitando, assim, os atos
+de fraude que obstaculizem o processo.
+Com o objetivo de facilitar o procedimento, o CPC/2015 positiva regra que
+dispensa a expedição de mandado judicial para fins de averbação, bastando apenas
+a expedição de certidão de inteiro teor pela secretaria do juízo. Previsão
+semelhante já consta no § 4º do art. 659 do CPC/1973, e a sua aplicação se dá
+apenas quanto aos bens imóveis.
+ 
+CPC/2015CPC/1973
+Art. 869. O juiz poderá nomear administrador-
+depositário o exequente ou o executado, ouvida a
+parte contrária, e, não havendo acordo,
+nomeará profissional qualificado para o
+desempenho da função.
+§ 1º O administrador submeterá à aprovação
+judicial a forma de administração e a de
+Art. 719. Na sentença
+, o juiz nomeará
+administrador que será investido de todos os
+poderes que concernem ao usufrutuário.
+Parágrafo único. Pode ser administrador:
+I – o credor, consentindo o devedor;
+II – o devedor, consentindo o credor.
+1082
+
+prestar contas periodicamente.
+§ 2º Havendo discordância entre as partes ou
+entre essas e o administrador, o juiz decidirá a
+melhor forma de administração do bem.
+§ 3º Se o imóvel estiver arrendado, o inquilino
+pagará o aluguel diretamente ao exequente, salvo
+se houver administrador.
+§ 4º O exequente ou o administrador poderá
+celebrar locação do móvel ou do imóvel, ouvido o
+executado.
+§ 5º As quantias recebidas pelo administrador
+serão entregues ao exequente, a fim de
+serem imputadas ao pagamento da dívida.
+§ 6º O exequente dará ao executado, por
+termo nos autos, quitação das quantias
+recebidas.
+Art. 724. [...]
+Parágrafo único. Havendo discordância, o juiz
+decidirá a melhor forma de exercício do usufruto.
+Art. 723. Se o imóvel estiver arrendado, o inquilino
+pagará o aluguel diretamente ao usufrutuário,
+sal
+[/PAGINA 727]
+
+[PAGINA 728]
+vo se houver administrador.
+COMENTÁRIOS:
+Legitimidade para ser adminis trador. De acordo com a redação do caput
+do art. 869, o depositário não necessariamente será uma das partes. O
+administrador-depositário poderá ser o exequente, o executado ou um terceiro.
+Caberá ao juiz, diante das peculiaridades do caso concreto, verificar quem tem
+condições de administrar as quantias recebidas e de prestar contas periodicamente
+até a completa satisfação do crédito.
+Imóvel arrendado. Se o imóvel estiver arrendado, o inquilino pagará o
+aluguel ao usufrutuário. Este, por sua vez, deve ser intimado para que possa
+promover o pagamento diretamente ao administrador.
+Locação. Essa espécie de penhora permite que o administrador celebre
+contrato de locação do bem penhorado, desde que seja oportunizada a prévia
+manifestação do executado. Se houver discordância e ainda assim o juiz permitir a
+locação, o executado poderá se insurgir contra essa decisão por meio do agravo de
+instrumento (art. 1.015, parágrafo único).
+1083
+
+Subseção XI
+Da Avaliação
+ 
+CPC/2015CPC/1973
+Art. 870. A avaliação será feita pelo oficial de
+justiça.
+Parágrafo único. Se forem necessários
+conhecimentos especializados e o valor da
+execução o comportar, o juiz nomeará avaliador,
+fixando-lhe prazo não superior a 10 (dez) dias para
+entrega do laudo.
+Art. 680. A avaliação será feita pelo oficial de
+justiça (art. 652), ressalvada a aceitação do valor
+estimado pelo executado (art. 668, parágrafo
+único, inciso V); caso sejam necessários
+conhecimentos especializados, o juiz nomeará
+avaliador, fixando-lhe prazo não superior a 10
+(dez) dias para entrega do laudo.
+COMENTÁRIOS:
+Avaliação dos bens penhorados. A avaliação é ato do oficial de justiça (art.
+154, V, do CPC/2015) e deve anteceder a expropriação. Contudo, quando forem
+necessários conhecimentos especializados e o valor da execução suportar tal ônus,
+o juiz deverá nomear avaliador.
+A avaliação visa determinar o valor do bem para aferir a necessidade de
+reforço ou redução da penhora, bem como para determinar os limites da
+expropriação. Se a expropriação tem por fim precípuo a conversão do bem
+penhorado em dinheiro ou mesmo a sua utilização direta para pagamento do
+credor (adjudicação), curial é a necessidade de verificar o valor dos bens
+penhorados.
+A ressalva no sentido de que a regra só se aplica se “o valor da execução o
+comportar” fundamenta-se no novo art. 836, que inadmite a penhora quando
+restar evidente que o produto da execução nem sequer cobrirá as despesas
+processuais. A intenção do legislador é evitar que o credor arque com prejuízos
+ainda maiores em virtude da insolvência do devedor.
+ 
+CPC/2015CPC/1973
+Art. 871. Não se procederá à avaliação quando:Art. 684. Não se procederá à avaliação se:
+1084
+
+I – uma das partes aceitar a estimativa feita pela
+outra;
+II – se tratar de títulos ou de mercadorias que
+tenham cotação em bolsa, comprovada por
+certidão ou publicação no órgão oficial;
+III – se tratar de títulos da dívida pública, de ações
+de socied
+[/PAGINA 728]
+
+[PAGINA 729]
+ades e de títulos de crédito negociáveis
+em bolsa, cujo valor será o da cotação oficial do dia,
+comprovada por certidão ou publicação no órgão
+oficial;
+IV – se tratar de veículos automotores ou de
+outros bens cujo preço médio de mercado
+possa ser conhecido por meio de pesquisas
+realizadas por órgãos oficiais ou de anúncios
+de venda divulgados em meios de
+comunicação, caso em que caberá a quem
+fizer a nomeação o encargo de comprovar a
+cotação de mercado.
+Parágrafo único. Ocorrendo a hipótese do inciso
+I deste artigo, a avaliação poderá ser
+realizada quando houver fundada dúvida do
+juiz quanto ao real valor do bem.
+I – o exequente aceitar a estimativa feita pelo
+executado (art. 668, parágrafo único, inciso V)
+;
+II – se tratar de títulos ou de mercadorias, que
+tenham cotação em bolsa, comprovada por
+certidão ou publicação oficial;
+Art. 682. O valor dos títulos da dívida pública, das
+ações das sociedades e dos títulos de crédito
+negociáveis em bolsa será o da cotação oficial do
+dia, provada por certidão ou publicação no órgão
+oficial.
+COMENTÁRIOS:
+Dispensa de avaliação. Há situações nas quais se dispensa a avaliação.
+Ocorrem quando: (a) indicando o exequente bens à penhora (art. 798, II, c), com
+a atribuição do respectivo valor não houver impugnação do executado ou não
+forem indicados bens em substituição (art. 829, § 2º, por extensão); (b) uma das
+partes aceitar a estimativa feita pela outra e não houver fundada dúvida do juiz
+quanto ao valor real do bem (art. 871, I, c/c parágrafo único); (c) tratar-se de
+títulos ou de mercadorias que tenham cotação em bolsa, comprovada por certidão
+ou publicação no órgão oficial (art. 871, II); (d) tratar-se de títulos da dívida
+1085
+
+pública, de ações de sociedades e de títulos de crédito negociáveis em bolsa, cujo
+valor será o da cotação oficial do dia.
+Avaliação e veículos automotores. Diferentemente do CPC/1973, o
+CPC/2015 simplifica a expropriação ao propor a dispensa da avaliação de
+veículos automotores, bastando a apresentação do preço médio de mercado do
+bem.
+Uma das formas de obter essa avaliação é por meio da tabela de valores
+médios de veículos, fornecida pela Fundação Instituto de Pesquisas Econômicas
+(FIPE). Contudo, nada impede que a avaliação seja demonstrada em anúncios de
+venda divulgados em meios de comunicação (IV). Na prática, a depender do
+estado do bem, entendo que a parte que o nomeou deverá demonstrar as razões
+pelas quais utilizou uma ou outra forma de avaliação, porquanto, na maioria das
+vezes, os órgãos oficiais não levam em consideração a depreciação do bem.
+Momento da avaliação. O momento da avaliação é no ato da penhora,
+quando esta for efetivada por oficial de justiça. Aliás, a penhora, em regra, é ato
+complexo, que engloba a apreensão propriamente dita, a avaliação, o depósito e a
+intimação, tanto que se lavra um só auto se as diligências forem concluídas no
+mesmo dia (art. 839). Nada impede que tais atos possam ser realizados em
+momentos distintos, seja porque não foi possível conc
+[/PAGINA 729]
+
+[PAGINA 730]
+luir a diligência no mesmo
+dia, a avaliação demandava conhecimentos especializados, não foi possível
+proceder ao depósito dos bens constritos ou o devedor não se encontrava presente
+para ser intimado.
+ 
+CPC/2015CPC/1973
+Art. 872. A avaliação realizada pelo oficial de
+justiça constará de vistoria e de laudo anexados
+ao auto de penhora ou, em caso de perícia
+realizada por avaliador, de laudo apresentado
+no prazo fixado pelo juiz, devendo-se, em
+qualquer hipótese, especificar:
+I – os bens, com as suas características, e o estado
+em que se encontram;
+II – o valor dos bens.
+§ 1º Quando o imóvel for suscetível de cômoda
+Art. 681. O laudo da avaliação integrará o auto de
+penhora ou, em caso de perícia (art. 680)
+, será
+apresentado no prazo fixado pelo juiz, devendo
+conter:
+I – a descrição dos bens, com os seus
+característicos, e a indicação do estado em que se
+encontram;
+II – o valor dos bens.
+Parágrafo único. Quando o imóvel for suscetível de
+cômoda divisão, o avaliador, tendo em conta o
+1086
+
+divisão, a avaliação, tendo em conta o crédito
+reclamado, será realizada em partes, sugerindo-se,
+com a apresentação de memorial descritivo,
+os possíveis desmembramentos para alienação.
+§ 2º Realizada a avaliação e, sendo o caso,
+apresentada a proposta de
+desmembramento, as partes serão ouvidas
+no prazo de 5 (cinco) dias.
+crédito reclamado, o avaliará em partes, sugerindo
+os possíveis desmembramentos.
+COMENTÁRIOS:
+Requisitos do laudo. O dispositivo em comento estabelece os requisitos do
+laudo de avaliação. Apresentado como parte integrante do auto de penhora ou, em
+caso de perícia realizada por avaliador, em separado, o laudo de avaliação deverá
+conter: (a) a descrição dos bens, com os seus característicos, e a indicação do
+estado em que se encontram; (b) o valor dos bens.
+Imóvel suscetível de divisão cômoda. Quando o imóvel for suscetível de
+cômoda divisão, o avaliador, tendo em conta o crédito reclamado, o avaliará em
+partes, sugerindo os possíveis desmembramentos para alienação (art. 872, § 1º).
+Essa norma está em consonância com o disposto no art. 894, que, em atenção ao
+princípio da menor onerosidade, prevê a alienação de parte do imóvel penhorado,
+quando este for passível de divisão e uma fração for suficiente para pagar o
+credor. A avaliação das partes não dispensa a do todo, uma vez que, não havendo
+lançador para a fração, far-se-á a alienação do imóvel em sua integridade (art.
+894, § 1º).
+ 
+CPC/2015CPC/1973
+Art. 873. É admitida nova avaliação quando:
+I – qualquer das partes arguir,
+fundamentadamente, a ocorrência de erro na
+avaliação ou dolo do avaliador;
+II – se verificar, posteriormente à avaliação, que
+houve majoração ou diminuição no valor do bem;
+Art. 683. É admitida nova avaliação quando:
+I – qualquer das partes arguir,
+fundamentadamente, a ocorrência de erro na
+avaliação ou dolo do avaliador;
+II – se verificar, posteriormente à avaliação, que
+houve majoração ou diminuição no valor do bem;
+1087
+
+III – o juiz tiver fundada dúvida sobre o valor
+atrib
+[/PAGINA 730]
+
+[PAGINA 731]
+uído ao bem na primeira avaliação.
+Parágrafo único. Aplica-se o art. 480 à nova
+avaliação prevista no inciso III do caput deste
+artigo.
+ou
+III – houver fundada dúvida sobre o valor atribuído
+ao bem (art. 668, parágrafo único, inciso V).
+COMENTÁRIOS:
+Nova avaliação. A regra é que no processo de execução exista uma só
+avaliação ou, quando muito, uma avaliação para cada penhora. Se houve
+ampliação da penhora inicialmente efetivada, natural é que o novo bem seja
+igualmente avaliado. De qualquer forma, usualmente não se procede a duas
+avaliações de um único bem.
+O art. 873 prevê os casos excepcionais em que se admite seja a avaliação
+repetida. São eles: (a) qualquer das partes arguir, fundamentadamente, a
+ocorrência de erro na avaliação ou dolo do avaliador; (b) se verificar,
+posteriormente à avaliação, que houve majoração ou diminuição no valor do bem;
+ou (c) o juiz tiver fundada dúvida sobre o valor atribuído ao bem na primeira
+avaliação.
+Na hipótese de existir fundada dúvida sobre o valor atribuído ao bem, a
+primeira avaliação não deve ser considerada propriamente uma avaliação,
+porquanto o valor atribuído estará incorreto. Em outras palavras, a “fundada
+dúvida” poderia ser enquadrada na hipótese do inciso I do art. 683 do CPC/1973
+(erro do avaliador).
+De todo modo, feita a crítica ao dispositivo do Código de 1973, que se
+repete no CPC/2015, se for o caso de “nova” avaliação, deverão ser observadas as
+regras que tratam da realização de nova perícia (art. 480 e §§).
+ 
+CPC/2015CPC/1973
+Art. 874. Após a avaliação, o juiz poderá, a
+requerimento do interessado e ouvida a parte
+contrária, mandar:
+I – reduzir a penhora aos bens suficientes ou
+transferi-la para outros, se o valor dos bens
+Art. 685. Após a avaliação, poderá mandar o juiz, a
+requerimento do interessado e ouvida a parte
+contrária:
+I – reduzir a penhora aos bens suficientes, ou
+transferi-la para outros, que bastem à execução
+, se
+1088
+
+penhorados for consideravelmente superior ao
+crédito do exequente e dos acessórios;
+II – ampliar a penhora ou transferi-la para outros
+bens mais valiosos, se o valor dos bens penhorados
+for inferior ao crédito do exequente.
+o valor dos penhorados for consideravelmente
+superior ao crédito do exequente e acessórios;
+II – ampliar a penhora, ou transferi-la para outros
+bens mais valiosos, se o valor dos penhorados for
+inferior ao referido crédito.
+COMENTÁRIOS:
+Modificação da avaliação. Tal é a importância da avaliação para o processo
+executivo, que, estribado nesse ato, poderá mandar o juiz, a requerimento do
+interessado e ouvida a parte contrária, reduzir, ampliar a penhora ou transferi-la
+para outros bens, sempre tendo por baliza os limites da expropriação, que, a um
+só tempo, deve ser suficiente para o pagamento do credor sem sacrificar
+desnecessariamente o devedor. Será reduzida ou transferida para outros bens se o
+valor dos penhorados for consideravelmente superior ao crédito do exequente e
+acessórios (inciso I). Será ampliada ou transferida para outros bens se
+[/PAGINA 731]
+
+[PAGINA 732]
+o valor dos
+penhorados for inferior ao referido crédito (inciso II).
+ 
+CPC/2015CPC/1973
+Art. 875. Realizadas a penhora e a avaliação, o juiz
+dará início aos atos de expropriação do bem.
+Art. 685. [...]
+Parágrafo único. Uma vez cumpridas essas
+providências, o juiz dará início aos atos de
+expropriação de bens.
+COMENTÁRIOS:
+Início dos atos expropriatórios. Após a realização da penhora e avaliação
+dos bens penhorados, o juiz dará início à fase expropriatória. É prudente que o
+magistrado intime o exequente para que este escolha, entre as opções legais, a
+forma expropriatória que melhor atenda a seus interesses.
+Seção IV
+Da Expropriação de Bens
+1089
+
+Subseção I
+Da Adjudicação
+ 
+CPC/2015CPC/1973
+Art. 876. É lícito ao exequente, oferecendo preço
+não inferior ao da avaliação, requerer que lhe
+sejam adjudicados os bens penhorados.
+§ 1º Requerida a adjudicação, o executado
+será intimado do pedido:
+I – pelo Diário da Justiça, na pessoa de seu
+advogado constituído nos autos;
+II – por carta com aviso de recebimento,
+quando representado pela Defensoria
+Pública ou quando não tiver procurador
+constituído nos autos;
+III – por meio eletrônico, quando, sendo o
+caso do § 1º do art. 246, não tiver procurador
+constituído nos autos.
+§ 2º Considera-se realizada a intimação
+quando o executado houver mudado de
+endereço sem prévia comunicação ao juízo,
+observado o disposto no art. 274, parágrafo
+único.
+§ 3º Se o executado, citado por edital, não
+tiver procurador constituído nos autos, é
+dispensável a intimação prevista no § 1º.
+Art. 685-A. É lícito ao exequente, oferecendo preço
+não inferior ao da avaliação, requerer lhe sejam
+adjudicados os bens penhorados.
+§ 1º Se o valor do crédito for inferior ao dos bens, o
+adjudicante depositará de imediato a diferença,
+ficando esta à disposição do executado; se
+superior, a execução prosseguirá pelo saldo
+remanescente.
+§ 2º Idêntico direito pode ser exercido pelo credor
+com garantia real, pelos credores concorrentes que
+hajam penhorado o mesmo bem, pelo cônjuge,
+pelos descendentes ou ascendentes do executado.
+§ 3º Havendo mais de um pretendente, proceder-
+se-á entre eles à licitação; em igualdade de oferta,
+terá preferência o cônjuge, descendente ou
+ascendente, nessa ordem.
+§ 4º No caso de penhora de quota, procedida por
+exequente alheio à sociedade, esta será intimada,
+assegurando preferência aos sócios.
+§ 4º Se o valor do crédito for:
+I – inferior ao dos bens, o requerente da
+adjudicação depositará de imediato a diferença,
+ 
+1090
+
+que ficará à disposição do executado;
+II – superior ao dos bens, a execução prosseguirá
+pelo saldo remanescente.
+§ 5º Idêntico direito pode ser exercido por aqueles
+indicados no art. 889, incisos II a VIII, pelos credores
+concorrentes que hajam penhorado o mesmo bem,
+pelo cônjuge, pelo companheiro, pelos
+descendentes ou pelos ascendentes do executado.
+§ 6º Se houver mais de um pretendente, proceder-
+se-á a licitação entre eles, tendo preferência, em
+caso de igualdade de oferta, o cônjuge, o
+companheiro, o
+[/PAGINA 732]
+
+[PAGINA 733]
+descendente ou o ascendente,
+nessa ordem.
+§ 7º No caso de penhora de quota social ou de
+ação de sociedade anônima fechada realizada
+em favor de exequente alheio à sociedade, esta
+será intimada, ficando responsável por
+informar aos sócios a ocorrência da penhora,
+assegurando-se a estes a preferência.
+COMENTÁRIOS:
+Adjudicação – Conceito. Adjudicação, na lição de Cândido Rangel
+Dinamarco,
+301
+ consiste na transferência do bem penhorado ao patrimônio do
+exequente, para satisfação de seu crédito. Tal como a alienação por iniciativa
+particular ou em leilão (art. 879, I e II) e a apropriação dos frutos e rendimentos,
+a adjudicação é uma forma de expropriação, de alienação forçada. Nas demais
+modalidades de expropriação, o crédito do exequente é satisfeito com o produto
+da alienação ou com valor relativos aos frutos e rendimentos da coisa; na
+adjudicação, o pagamento se dá com a transferência do domínio, assemelhando-se
+a uma dação em pagamento forçada. Digo “forçada” porque se trata de
+transferência judicial e compulsória do bem penhorado, e não de negócio jurídico
+particular.
+1091
+
+Momento para requerer a adjudicação. De acordo com o caput do art.
+876, é lícito ao exequente, oferecendo preço não inferior ao da avaliação, requerer
+lhe sejam adjudicados os bens penhorados. Como se vê, não há momento
+procedimental definido na lei para que se possa requerer a adjudicação. Feita a
+penhora, avaliados e depositados os bens objeto da constrição, o que comumente
+se dá num mesmo momento processual, pode-se requerer a adjudicação.
+Mas qual seria o limite temporal para a formalização do requerimento? De
+acordo com o abalizado Humberto Theodoro,
+302
+ uma vez iniciada a licitação em
+hasta pública, resta frustrada a possibilidade de adjudicação, porquanto não
+haveria como impedir que o arrematante adquirisse o bem, ainda que por lanço
+inferior ao da avaliação. Nessa linha de raciocínio, iniciada a hasta pública – o
+que dizer se iniciada a alienação por iniciativa particular? –, frustrada restaria a
+possibilidade de adjudicação, com graves prejuízos para o exequente, para o
+executado e para a efetividade do processo executivo.
+O ideal é que a adjudicação seja requerida antes de iniciado o procedimento
+de alienação dos bens, seja por interesse particular ou em leilão presencial ou
+eletrônico (art. 879, I e II). Entretanto, à falta de restrição na lei, não há obstáculo
+para que se requeira a adjudicação mesmo depois de findo o procedimento de
+alienação, desde que o requerimento seja protocolado antes da assinatura do termo
+de alienação ou do auto de arrematação a que se referem os arts. 880, § 2º, e 903.
+Deve-se aplicar subsidiariamente o disposto no art. 24, II, da Lei nº 6.830/1980,
+que admite a adjudicação ainda que o procedimento de alienação tenha se
+encerrado com licitantes. A única ressalva a ser feita é que, na concorrência entre
+arrematante e adjudicatário, este só vencerá se apresentar melhor proposta, nunca
+inferior à avaliação, porque, ao contrário da Lei d
+[/PAGINA 733]
+
+[PAGINA 734]
+e Execuções Fiscais, o Código
+não admite adjudicação por valor inferior ao da avaliação.
+Afora o mencionado dispositivo da Lei de Execuções Fiscais, que integra o
+sistema processual brasileiro e por isso mesmo tem aplicação subsidiária, essa
+interpretação é a que melhor se coaduna com o princípio da menor onerosidade.
+Ora, como é sabido, a lei não é o único critério de apreciação do Direito. O
+ordenamento jurídico é estruturado por um conjunto harmônico de normas, que,
+por sua vez, é integrado por regras, estabelecidas em lei e em precedentes
+vinculantes, e princípios.
+Em síntese, observados o princípio da menor onerosidade e a garantia do
+direito adquirido com a assinatura do termo de alienação ou auto de arrematação,
+não há limite temporal para a adjudicação. Entretanto, se requerida depois de
+iniciado o procedimento da alienação, deve o adjudicatário arcar com eventuais
+1092
+
+despesas extras, tais como publicidade e publicação de editais.
+Indispensável é o requerimento, até porque não se pode compelir o credor a
+receber bem de natureza diversa do previsto no título, tampouco obrigar os
+demais legitimados a adjudicarem. O preço a ser oferecido pelo pretendente à
+adjudicação não pode ser inferior ao da avaliação.
+Legitimados a adjudicar. (a) o exequente, desde que pague preço não
+inferior ao da avaliação; (b) o coproprietário de bem indivisível do qual tenha
+sido penhorada a fração ideal (exemplo: na penhora de 50% de um apartamento o
+outro proprietário pode adjudicar); (c) os titulares de usufruto, uso, habitação,
+enfiteuse, direito de superfície, concessão de uso especial para fins de moradia ou
+concessão de direito real de uso, quando a penhora recair sobre bem gravado com
+tais direitos reais; (d) o proprietário do terreno submetido ao regime de direito de
+superfície, enfiteuse, concessão de uso especial para fins de moradia ou
+concessão de direito real de uso, quando a penhora recair sobre tais direitos reais;
+(e) o credor pignoratício, hipotecário, anticrético, fiduciário ou com penhora
+anteriormente averbada, quando a penhora recair sobre bens com tais gravames,
+caso não seja o próprio credor (parte da demanda executiva); (f) o promitente
+comprador, quando a penhora recair sobre bem em relação ao qual haja promessa
+de compra e venda registrada; (g) o promitente vendedor, quando a penhora recair
+sobre o direito aquisitivo derivado de promessa de compra e venda registrada; (h)
+a União, o Estado e o Município, no caso de alienação de bem tombado; (i) o
+cônjuge, o companheiro, os descendentes ou ascendentes do executado; (j) os
+sócios ou a própria sociedade, quando, na execução contra sócio, procedida por
+terceiro alheio à sociedade, a penhora recair sobre quota social ou ação de
+sociedade anônima fechada (§ 7º).
+Requerimento de adjudicação. O requerimento por meio do qual se veicula
+o direito de participar do procedimento adjudicatório deve ser instruído com o
+comprovante do depósito do preço ofertado, que em hipótese alguma pode ser
+inferior
+[/PAGINA 734]
+
+[PAGINA 735]
+ao da avaliação. O exequente estará dispensado de proceder ao depósito
+do preço desde que o valor ofertado seja igual ou inferior ao seu crédito e não
+haja licitantes à adjudicação com preferência legal sobre o produto da execução;
+no caso de a oferta ser inferior ao crédito, poderá adjudicar e prosseguir na
+execução pelo saldo remanescente. Se o preço ofertado pelo exequente for maior
+do que o seu crédito, terá que depositar imediatamente a diferença, a qual poderá
+ser levantada pelo executado, pagas as despesas da execução (arts. 876, § 4º, e
+907).
+Concorrência. Dispõe o § 6º que, havendo mais de um pretendente,
+1093
+
+proceder-se-á entre eles à licitação. Trata-se de um procedimento simples, em
+nada se assemelhando ao procedimento administrativo utilizado pela
+Administração Pública para aquisição de bens e serviços. A licitação entre os
+concorrentes à adjudicação será instaurada sem qualquer formalidade, sempre que
+mais de um legitimado manifestar interesse na adjudicação.
+Havendo licitantes com preferência legal, por exemplo, credor com penhora
+anterior ou com direito real de garantia sobre o bem a ser adjudicado, o exequente
+(credor quirografário), qualquer que seja o valor do seu crédito, terá de depositar
+a integralidade do valor ofertado. A exigência de depósito, nesse caso, decorre do
+direito de preferência, conforme estatuído nos arts. 905 a 909.
+E, quando todos ou alguns legitimados estiverem participando do
+procedimento licitatório, de quem será a preferência para adjudicar? Da
+interpretação do sistema, mormente dos arts. 876, §§ 6º e 7º, e 908, extrai-se que
+o juiz decidirá levando em conta alguns critérios. O primeiro critério a ser
+observado é objetivo, trata-se do valor da oferta. Vencerá a licitação o licitante
+que oferecer o maior preço. Havendo empate das ofertas, o juiz utilizará de
+critério objetivo e subjetivo, ou somente deste, dependendo das circunstâncias do
+caso.
+No caso de penhora de cota ou de ações, havendo igualdade entre as ofertas,
+vencerá o sócio. Não havendo participação de sócio, a sociedade, seguida do
+cônjuge ou companheiro do sócio que teve a cota penhorada, dos descendentes e
+ascendentes dele, do credor com garantia real e, entre os credores quirografários,
+na ordem das penhoras.
+Não sendo o caso de cotas e havendo empate entre os valores ofertados, a
+escolha recairá sobre o cônjuge ou companheiro(a). Se estes não quiseram
+adjudicar ou suas propostas foram rejeitadas, são chamados os descendentes.
+Afastados os descendentes, escolhe-se entre os ascendentes. No caso dos
+descendentes e dos ascendentes, os de grau mais próximo preferem aos de grau
+mais remoto. Havendo coincidência de graus, a escolha é feita por sorteio.
+Se por uma razão ou outra, afastado o cônjuge ou companheiro, os
+descendentes e ascendentes, a adjudicação recairá sobre o credor com garantia
+real, seguido dos credores quirografários, na ordem das prelações (penhoras
+sobre o bem).
+ 
+CPC/2015CPC/1973
+Art. 877. Transcorrido o prazo de 5 (cinco)
+[/PAGINA 735]
+
+[PAGINA 736]
+dias,Art. 685-A. [...]
+1094
+
+contado da última intimação, e decididas
+eventuais questões, o juiz ordenará a lavratura do
+auto de adjudicação.
+§ 5º Decididas eventuais questões, o juiz mandará
+lavrar o auto de adjudicação.
+§ 1º Considera-se perfeita e acabada a adjudicação
+com a lavratura e a assinatura do auto pelo juiz,
+pelo adjudicatário, pelo escrivão ou chefe de
+secretaria, e, se estiver presente, pelo executado,
+expedindo-se:
+I – a carta de adjudicação e o mandado de
+imissão na posse, quando se tratar de bem
+imóvel;
+II – a ordem de entrega ao adjudicatário, quando se
+tratar de bem móvel.
+§ 2º A carta de adjudicação conterá a descrição do
+imóvel, com remissão à sua matrícula e aos seus
+registros, a cópia do auto de adjudicação e a prova
+de quitação do imposto de transmissão.
+§ 3º No caso de penhora de bem hipotecado,
+o executado poderá remi-lo até a assinatura
+do auto de adjudicação, oferecendo preço
+igual ao da avaliação, se não tiver havido
+licitantes, ou ao do maior lance oferecido.
+§ 4º Na hipótese de falência ou de insolvência
+do devedor hipotecário, o direito de remição
+previsto no § 3º será deferido à massa ou aos
+credores em concurso, não podendo o
+exequente recusar o preço da avaliação do
+imóvel.
+Art. 685-B. A adjudicação considera-se perfeita e
+acabada com a lavratura e assinatura do auto pelo
+juiz, pelo adjudicante, pelo escrivão e, se for
+presente, pelo executado, expedindo-se a
+respectiva carta, se bem imóvel, ou mandado de
+entrega ao adjudicante, se bem móvel.
+Parágrafo único. A carta de adjudicação conterá a
+descrição do imóvel, com remissão a sua matrícula
+e registros, a cópia do auto de adjudicação e a
+prova de quitação do imposto de transmissão.
+COMENTÁRIOS:
+Ultimação da adjudicação. A adjudicação é resolvida por meio de decisão
+1095
+
+interlocutória, da qual cabe agravo de instrumento (art. 1.015, parágrafo único).
+Decididas eventuais questões, o juiz mandará lavrar o auto de adjudicação (art.
+877).
+O auto de adjudicação, que fica encartado no caderno processual, constitui a
+prova da celebração do negócio jurídico, tanto que, uma vez lavrado e assinado
+pelo juiz, pelo adjudicatário, pelo escrivão ou chefe de secretaria, e, se for
+presente, pelo executado, a adjudicação considera-se perfeita e acabada (§ 1º).
+Para comprovar a adjudicação perante terceiros e sobretudo para registrá-la
+no cartório de registro de imóveis, quando se tratar de direito real imobiliário,
+expede-se a carta de adjudicação, a qual conterá a descrição do imóvel (ou de
+direito sobre ele, por exemplo, o usufruto), com remissão à sua matrícula e aos
+seus registros, a cópia do auto de adjudicação e a prova de quitação do imposto de
+transmissão (§ 2º).
+Frise-se que, no caso de penhora de bem hipotecado, o executado poderá
+remi-lo até a assinatura do auto de adjudicação, oferecendo preço igual ao da
+avaliação, se não tiver havido licitantes, ou ao do maior lance oferecido. Na
+hipótese de falência ou de insolvência do devedor hipotecário, o direito de
+remição
+[/PAGINA 736]
+
+[PAGINA 737]
+será deferido à massa ou aos credores em concurso, não podendo o
+exequente recusar o preço da avaliação do imóvel (§§ 3º e 4º).
+303
+ 
+CPC/2015CPC/1973
+Art. 878.Frustradas as tentativas de alienação
+do bem, será reaberta oportunidade para
+requerimento de adjudicação, caso em que
+também se poderá pleitear a realização de
+nova avaliação.
+Não há correspondência.
+COMENTÁRIOS:
+Renovação do direito de adjudicação. Pode acontecer de o exequente não
+adjudicar o bem em razão do elevado valor da avaliação e preferir que ele seja
+alienado. Nesse caso, se não houver comprador (alienação particular) ou
+arrematante (alienação em leilão), poderá o exequente requerer nova avaliação
+para constatar uma eventual supervalorização do bem. Tal requerimento deve se
+dar por simples petição nos autos.
+1096
+
+Subseção II
+Da Alienação
+ 
+CPC/2015CPC/1973
+Art. 879. A alienação far-se-á:
+I – por iniciativa particular;
+II – em leilão judicial eletrônico ou
+presencial.
+Art. 647. A expropriação consiste:
+[...]
+II – na alienação por iniciativa particular;
+III – na alienação em hasta pública.
+COMENTÁRIOS:
+Modalidades  de alienação. O CPC/2015 elimina a distinção que se faz
+entre praça e leilão para adotar a hasta pública a ser realizada sob a forma única
+de “leilão judicial eletrônico ou presencial”, qualquer que seja o bem penhorado.
+A diferença entre a alienação por iniciativa particular e a alienação em leilão
+judicial decorre justamente da participação maior do Estado-juiz nessa última
+modalidade.
+ 
+CPC/2015CPC/1973
+Art. 880. Não efetivada a adjudicação, o exequente
+poderá requerer a alienação por sua própria
+iniciativa ou por intermédio de corretor ou
+leiloeiro público credenciado perante o órgão
+judiciário.
+§ 1º O juiz fixará o prazo em que a alienação deve
+ser efetivada, a forma de publicidade, o preço
+mínimo, as condições de pagamento, as garantias
+e, se for o caso, a comissão de corretagem.
+§ 2º A alienação será formalizada por termo nos
+autos, com a assinatura do juiz, do exequente, do
+Art. 685-C. Não realizada a adjudicação dos bens
+penhorados, o exequente poderá requerer sejam
+eles alienados por sua própria iniciativa ou por
+intermédio de corretor credenciado perante a
+autoridade judiciária.
+§ 1º O juiz fixará o prazo em que a alienação deve
+ser efetivada, a forma de publicidade, o preço
+mínimo (art. 680)
+, as condições de pagamento e as
+garantias, bem com
+o, se for o caso, a comissão de
+corretagem.
+§ 2º A alienação será formalizada por termo nos
+1097
+
+adquirente e, se estiver presente, do executado,
+expedindo-se:
+I – a carta de alienação e o mandado de imissão
+na posse, quando se tratar de bem imóvel;
+II – a ordem de entrega ao adquirente, quando se
+tratar de bem móvel.
+§ 3º Os tribunais poderão editar disposições
+complementares sobre o procedimento da
+alienação prevista neste artigo, admitindo,
+quando for o caso, o concurso de meios
+eletrônicos, e dispor sobre o credenciamento dos
+corretores e leiloeiros públicos, os quais deverão
+estar em exercício profissional por nã
+[/PAGINA 737]
+
+[PAGINA 738]
+o menos que
+3 (três) anos.
+§ 4º Nas localidades em que não houver
+corretor ou leiloeiro público credenciado nos
+termos do § 3º, a indicação será de livre
+escolha do exequente.
+autos, assinado pelo juiz, pelo exequente, pelo
+adquirente e, se for presente, pelo executado,
+expedindo-se carta de alienação do imóvel para o
+devido registro imobiliário, ou, se bem móvel,
+mandado de entrega ao adquirente.
+§ 3º Os Tribunais poderão expedir provimentos
+detalhando o procedimento da alienação prevista
+neste artigo, inclusive com o concurso de meios
+eletrônicos, e dispondo sobre o credenciamento
+dos corretores, os quais deverão estar em exercício
+profissional por não menos de 5 (cinco) anos.
+COMENTÁRIOS:
+Alienação particular. Dispõe o art. 880 que, não efetivada a adjudicação
+dos bens penhorados, o exequente poderá requerer a alienação por sua própria
+iniciativa ou por intermédio de corretor ou leiloeiro público credenciado perante o
+órgão judiciário. Verifica-se que a alienação por iniciativa particular constitui
+faculdade do exequente, e somente ocorrerá mediante requerimento deste, não
+havendo possibilidade de determinação do juiz.
+No requerimento, o exequente indicará se alienação do bem será feita por
+iniciativa própria ou por intermédio de corretor ou leiloeiro público credenciado
+perante o órgão judiciário. Se o próprio exequente promover a alienação, não fará
+jus à comissão de corretagem ou àquela que seria destinada ao leiloeiro, mas terá
+direito de ser reembolsado das despesas com publicidade, desde que prevista no
+plano de alienação fixado pelo juiz.
+1098
+
+No caso de o exequente requerer que a alienação seja realizada com a
+intermediação de corretor, o juiz nomeará um profissional cujo perfil se amolde
+ao negócio, tendo em vista principalmente a natureza do bem a ser alienado.
+Tratando-se de leiloeiro público, o juiz dará preferência àqueles previamente
+credenciados no Tribunal, conforme dispuserem as normas regimentais. Diz a lei
+que a nomeação deve recair sobre corretor ou leiloeiro que contar com, pelo
+menos, três anos de experiência (§ 3º).
+E se na localidade não houver leiloeiro ou corretor cadastrado? Nesse caso, a
+indicação será de livre escolha do exequente, conforme dispõe o § 4º. De qualquer
+modo, entendo que a alienação por corretor ou leiloeiro não cadastrado, ainda que
+haja profissionais habilitados na comarca, não deve invalidar a alienação, salvo se
+comprovado prejuízo para uma das partes. Isso porque deve o juiz levar em conta
+o melhor proveito para a execução, ou seja, a alienação deve ser realizada pelo
+melhor preço, com a maior rapidez possível e com o menor custo.
+Se o bem a ser alienado é um apartamento de luxo, no bairro mais nobre da
+capital, cabe ao juiz verificar quem, embora não credenciado, melhor
+desempenhará a função. Talvez, em virtude das peculiaridades do caso, é melhor
+que a alienação seja feita não por um determinado corretor, mas sim por uma rede
+de corretores filiados a uma cooperativa que, embora conte com apena
+[/PAGINA 738]
+
+[PAGINA 739]
+s dois anos
+de atividade, tem-se destacado nesse tipo de negócio, principalmente em razão
+dos meios de comunicação em que atua.
+Tratando-se de automóvel, quem sabe seja mais proveitoso a alienação ser
+feita por agência especializada no ramo de venda de veículos usados, com amplo
+acesso aos diversos meios de comunicação, por exemplo, cadernos especializados
+e portais na Internet; entretanto, tratando-se de automóveis antigos, a venda seria
+mais exitosa se feita por pessoa com acesso ao restrito clube dos colecionadores.
+Resumo da ópera: o juiz não está adstrito à literalidade da lei, mas sim ao
+objetivo por ela visado. Cabe a ele, que estudou por anos a fio, passou no
+concurso, cursou escola judicial e agora exerce a função judicante no fórum,
+decidir a quem atribuirá a incumbência de vender o apartamento de luxo: à maior
+e mais bem estruturada cooperativa de corretores da capital, que nem sequer
+preenche os requisitos para o credenciamento, ou ao mais antigo corretor da
+cidade, com cinquenta anos de experiência na venda de fazendas, inscrito sob o nº
+001 na relação de corretores credenciados da comarca de Alegrete do Sertão. Não
+se esqueça de que o juiz é de Direito, não de leis.
+Seja quem for realizar a alienação, o próprio exequente, corretor, empresa
+especializada ou leiloeiro, terá que submeter ao juiz uma proposta, da qual
+1099
+
+constarão o prazo em que a alienação deve ser efetivada, a forma de publicidade,
+o preço mínimo, as condições de pagamento com as respectivas garantias, bem
+como a comissão de corretagem (§ 1º).
+A lei constitui apenas os parâmetros, o meio, o fim é o melhor proveito para
+a execução – repita-se. A lei visa evitar abuso, entretanto há de se buscar uma
+interpretação construtiva, sob pena de graves prejuízos. Deve-se fixar o prazo
+para a venda, a fim de evitar procrastinação, todavia se trata de prazo não
+preclusivo; se o juiz fixou 40 dias para a alienação e esta se deu no quadragésimo
+segundo, o negócio é válido. A forma de publicidade sugerida deve ser a mais
+eficaz para a alienação, sendo passível de alteração no curso dos trabalhos. O
+preço mínimo, em princípio, deve corresponder ao da avaliação. Nada obsta,
+entretanto, a que, dependendo das circunstâncias do mercado, haja autorização
+para venda por preço inferior, desde que não seja vil. Se a venda for realizada em
+parcelas, há que se estabelecer o prazo de pagamento e a garantia, que pode ser
+real (hipoteca, penhor, alienação fiduciária) ou fidejussória (aval, fiança), tudo de
+acordo com as circunstâncias do negócio entabulado.
+Regulamentação. O § 3º estabelece a regulamentação, pelos tribunais, do
+procedimento de alienação por iniciativa particular, inclusive com o concurso de
+meios eletrônicos. A salutar previsão tem por fim compatibilizar o cumprimento
+das normas legais com as peculiaridades de cada Estado da Federação, mormente
+no que tange aos recursos de informática. Cabe agora aos tribunais, em
+homenagem à efetividade visada pelo legislador, baixar as resol
+[/PAGINA 739]
+
+[PAGINA 740]
+uções cabíveis, de
+forma a dar cumprimento à lei, sem descurar do fim por ela visado.
+Ultimação da alienação. A alienação será formalizada por termo nos autos,
+assinado pelo juiz, pelo exequente, pelo adquirente e, se for presente, pelo
+executado, expedindo-se carta de alienação do imóvel para o devido registro
+imobiliário, ou, se bem móvel, mandado de entrega ao adquirente (§ 2º, I e II).
+ 
+CPC/2015CPC/1973
+Art. 881. A alienação far-se-á em leilão judicial
+se não efetivada a adjudicação ou a alienação por
+iniciativa particular.
+§ 1º O leilão do bem penhorado será realizado
+por leiloeiro público.
+§ 2º Ressalvados os casos de alienação a cargo de
+Art. 686. Não requerida a adjudicação
+ e não
+realizada a alienação particular do bem
+penhorado, será expedido o edital de hasta
+pública, que conterá:
+[...]
+Art. 704. Ressalvados os casos de alienação de
+1100
+
+corretores de bolsa de valores, todos os demais
+bens serão alienados em leilão público.
+bens imóveis e aqueles de atribuição de corretores
+da Bolsa de Valores, todos os demais bens serão
+alienados em leilão público.
+COMENTÁRIOS:
+Alienação judicial. A alienação em leilão judicial presencial ou eletrônico é,
+por sua vez, meio subsidiário de satisfação da execução. Nos termos do art. 881,
+essa forma de alienação somente será realizada quando a adjudicação ou a
+alienação por iniciativa particular não tiver sido efetivada. Assim, frustrada a
+possibilidade de adjudicação e de alienação por iniciativa particular, com a
+finalidade de converter os bens penhorados em dinheiro, outro caminho não resta
+senão o leilão ou, dependendo das circunstâncias, apropriação de frutos e
+rendimentos de empresa, de estabelecimentos ou de outros bens.
+No âmbito do processo executivo, a alienação judicial far-se-á por leiloeiro
+público, com a finalidade de, por meio de arrematação, proceder à conversão dos
+bens em dinheiro, para posterior pagamento do credor. O leilão pode ser
+presencial ou eletrônico, mas a lei dá preferência à segunda modalidade (art. 882).
+Em todo caso, o procedimento desdobra-se em três fases: atos preparatórios,
+leilão e assinatura do auto.
+ 
+CPC/2015CPC/1973
+Art. 882. Não sendo possível a sua realização
+por meio eletrônico, o leilão será presencial.
+§ 1º A alienação judicial por meio eletrônico será
+realizada, observando-se as garantias
+processuais das partes, de acordo com
+regulamentação específica do Conselho Nacional de
+Justiça.
+§ 2º A alienação judicial por meio eletrônico
+deverá atender aos requisitos de ampla
+publicidade, autenticidade e segurança, com
+observância das regras estabelecidas na legislação
+sobre certificação digital.
+Art. 689-A. O procedimento previsto nos arts. 686
+a 689 poderá ser substituído, a requerimento do
+exequente, por alienação realizada por meio da
+rede mundial de computadores, com uso de páginas
+virtuais criadas pelos Tribunais ou por entidades
+públicas ou privadas em convênio com eles firmado.
+Parágrafo único. O Conselho da Justiça Federal e os
+Tribunais de Justiça, no âmbi
+[/PAGINA 740]
+
+[PAGINA 741]
+to das suas
+respectivas competências, regulamentarão esta
+modalidade de alienação, atendendo aos
+requisitos de ampla publicidade, autenticidade e
+segurança, com observância das regras
+1101
+
+§ 3ºO leilão presencial será realizado no local
+designado pelo juiz.
+estabelecidas na legislação sobre certificação
+digital.
+COMENTÁRIOS:
+Leilão presencial como forma subsidiária de alienação. A prática forense
+sempre demonstrou que a alienação de bem em hasta pública traz sérios prejuízos
+ao processo, seja pela morosidade, seja pelos custos. Por conta disso, desde a
+reforma de 2006 foi introduzida no CPC/1973 disposição que permite a alienação
+por meios eletrônicos. Com o novo Código, esse procedimento será adotado
+como regra, ou seja, o leilão presencial passará a ser a exceção em nosso
+ordenamento processual.
+Regulamentação da alienação por meio eletrônico. No que respeita à
+utilização dos meios eletrônicos (Internet), o Código contempla a realização do
+próprio leilão por meio da rede mundial de computadores, com uso de páginas
+virtuais criadas pelos tribunais ou por entidades públicas ou privadas em
+convênio com eles firmado.
+Cabe ao Conselho da Justiça Federal e aos tribunais de Justiça, no âmbito
+das suas respectivas competências, regulamentar o leilão virtual, atendendo aos
+requisitos de ampla publicidade, autenticidade e segurança, com observância das
+regras estabelecidas na legislação sobre certificação digital (§§ 1º e 2º).
+ 
+CPC/2015CPC/1973
+Art. 883. Caberá ao juiz a designação do
+leiloeiro público, que poderá ser indicado pelo
+exequente.
+Art. 706. O leiloeiro público será indicado pelo
+exequente.
+COMENTÁRIOS:
+Designação do leiloeiro. O dispositivo evidencia a regra que passará a viger
+com o novo Código: o juiz deverá designar leiloeiro que esteja previamente
+credenciado no órgão judiciário competente. A indicação pelo exequente passa a
+ser uma exceção, que deve ocorrer apenas na hipótese do § 4º do novo art. 880,
+ou seja, nas localidades onde não houver leiloeiro público.
+ 
+CPC/2015CPC/1973
+1102
+
+CPC/2015CPC/1973
+Art. 884. Incumbe ao leiloeiro público:
+I – publicar o edital, anunciando a alienação;
+II – realizar o leilão onde se encontrem os bens ou
+no lugar designado pelo juiz;
+III – expor aos pretendentes os bens ou as
+amostras das mercadorias;
+IV – receber e depositar, dentro de 1 (um) dia, à
+ordem do juiz, o produto da alienação;
+V – prestar contas nos 2 (dois) dias subsequentes
+ao depósito.
+Parágrafo único. O leiloeiro tem o direito de
+receber do arrematante a comissão estabelecida
+em lei ou arbitrada pelo juiz.
+Art. 705. Cumpre ao leiloeiro:
+I – publicar o edital, anunciando a alienação;
+II – realizar o leilão onde se encontrem os bens, ou
+no lugar designado pelo juiz;
+III – expor aos pretendentes os bens ou as
+amostras das mercadorias;
+IV – receber do arrematante a comissão
+estabelecida em lei ou arbitrada pelo juiz;
+V – receber e depositar, dentro em 24 (vinte e
+quatro) horas, à ordem do juiz, o produto da
+alienação;
+VI – prestar contas na
+[/PAGINA 741]
+
+[PAGINA 742]
+s 48 (quarenta e oito) horas
+subsequentes ao depósito.
+COMENTÁRIOS:
+Leiloeiro. O leiloeiro exerce um munus público, de modo que a lei lhe impõe
+os seguintes deveres: (i) providenciar a publicação do edital; (ii) realizar o leilão
+onde se encontrem os bens ou no local designado pelo juiz; (iii) expor aos
+pretendentes os bens ou amostras das mercadorias a serem leiloadas; (iv) receber
+o produto da alienação e depositá-lo à disposição do juízo, no prazo de um dia;
+304
+(v) prestar contas das despesas que teve, as quais deverão ser ressarcidas, sem
+prejuízo do pagamento da comissão, no prazo de dois dias, contados do depósito.
+Comissão. De acordo com o art. 24 do Decreto nº 21.981/1932, a comissão
+devida ao leiloeiro será de cinco por cento sobre quaisquer bens arrematados. Não
+há limite de valor estabelecido em lei.
+305
+ 
+CPC/2015CPC/1973
+Art. 885. O juiz da execução estabelecerá o
+preço mínimo, as condições de pagamento e
+Não há correspondência.
+1103
+
+as garantias que poderão ser prestadas pelo
+arrematante.
+COMENTÁRIOS:
+Condições para o leilão. Da mesma forma que na alienação particular, se o
+bem penhorado for levado a leilão público, ficará o juiz incumbido de estabelecer
+o valor mínimo da arrematação (lance mínimo). Além disso, o juiz deverá, ao
+liberar o bem para a venda, esclarecer as condições de pagamento e garantias que
+poderão ser prestadas por aquele que realizar a arrematação. Se o arrematante for
+o próprio credor, entendemos que não há necessidade de se garantir o pagamento
+do preço, mas deve-se devolver a eventual diferença entre o valor da arrematação
+e o valor do crédito.
+ 
+CPC/2015CPC/1973
+Art. 886. O leilão será precedido de publicação de
+edital, que conterá:
+I – a descrição do bem penhorado, com suas
+características, e, tratando-se de imóvel, sua
+situação e suas divisas, com remissão à matrícula e
+aos registros;
+II – o valor pelo qual o bem foi avaliado , o preço
+mínimo pelo qual poderá ser alienado, as
+condições de pagamento e, se for o caso, a
+comissão do leiloeiro designado;
+III – o lugar onde estiverem os móveis, os veículos
+e os semoventes e, tratando-se de créditos ou
+direitos, a identificação dos autos do processo em
+que foram penhorados;
+IV – o sítio, na rede mundial de
+computadores, e o período em que se realizará o
+leilão, salvo se este se der de modo presencial,
+hipótese em que serão indicados o local, o dia
+Art. 686. Não requerida a adjudicação e não
+realizada a alienação particular do bem
+penhorado, será expedido o edital de hasta pública,
+que conterá:
+I – a descrição do bem penhorado, com suas
+características e, tratando-se de imóvel, a situação
+e divisas, com remissão à matrícula e aos registros;
+II – o valor do bem;
+III – o lugar onde estiverem os móveis, veículos e
+semoventes; e, sendo direito e ação, os autos do
+processo, em que foram penhorados;
+IV – o dia e a hora de realização da praça, se bem
+imóvel, ou o local, dia e hora de realização do
+leilão, se bem móvel;
+V – menção da existência de ônus, recurso ou
+causa
+[/PAGINA 742]
+
+[PAGINA 743]
+pendente sobre os bens a serem
+arrematados;
+1104
+
+e a hora de sua realização;
+V – a indicação de local, dia e hora de
+segundo leilão presencial, para a hipótese de
+não haver interessado no primeiro;
+VI – menção da existência de ônus, recurso ou
+processo pendente sobre os bens a serem leiloados.
+Parágrafo único. No caso de títulos da dívida pública
+e de títulos negociados em bolsa, constará do edital
+o valor da última cotação.
+§ 1º No caso do art. 684, II, constará do edital o
+valor da última cotação anterior à expedição deste
+.
+COMENTÁRIOS:
+Atos preparatórios.  Os atos preparatórios compreendem a publicação de
+editais e a cientificação de determinadas pessoas que, por razões diversas, o
+legislador achou por bem cientificá-las do leilão.
+Requisitos do edital. O CPC/2015 amplia as informações que devem
+constar no edital que antecede o leilão. Além das que já constavam nos incisos do
+art. 686 do CPC/1973, o edital deverá trazer o preço mínimo da venda (atribuído
+pelo juiz); as condições de pagamento e, sendo o caso, a comissão do leiloeiro; a
+indicação do endereço eletrônico no qual se realizará o leilão – lembre-se de que o
+leilão presencial é exceção; e a menção acerca da existência de eventuais ônus
+incidentes sobre o bem.
+A exigência dessas informações atende à necessidade de divulgação de todos
+os elementos que possam influir no animus de terceiros na aquisição do bem,
+evitando, por exemplo, uma posterior arguição de nulidade por conta de prejuízos
+sofridos pelo arrematante.
+Ônus existentes sobre o bem. O inciso VI tem por escopo levar ao
+conhecimento dos licitantes algum fato que possa comprometer a fruição da coisa
+arrematada ou legitimidade da arrematação. Assim, cabe verificar quais os fatos
+que possam ter relevância para a aquisição do bem. A existência de direitos reais
+de gozo sobre a coisa (usufruto e servidão, por exemplo) acompanhá-la-á depois
+da arrematação, restringindo a fruição, daí por que é indispensável que conste do
+edital. Igualmente há de constar do edital a existência de demanda anulatória do
+negócio jurídico referente à aquisição do bem pelo executado. Por falta de
+1105
+
+consequência sobre a arrematação, não há necessidade de constar a existência de
+outras penhoras sobre o mesmo bem, a existência de direitos reais de garantia e a
+pendência de embargos à execução; eventuais direitos relativos a penhoras
+anteriores e a direitos reais de garantia recairão sobre o produto da alienação. No
+caso de não ter constado do edital a existência de ônus e/ou impedimentos que
+poderiam ter reflexos sobre o direito do arrematante, o art. 903, § 5º, I, permite-
+lhe desistir da arrematação se for comprovada, nos dez dias seguintes à realização
+do leilão, a existência do gravame incidente sobre o bem.
+ 
+CPC/2015CPC/1973
+Art. 887. O leiloeiro público designado adotará
+providências para a ampla divulgação da
+alienação.
+§ 1º A publicação do edital deverá ocorrer
+pelo menos 5 (cinco) dias antes da data
+marcada para o leilão.
+§ 2º O edital será p
+[/PAGINA 743]
+
+[PAGINA 744]
+ublicado na rede mundial
+de computadores, em sítio designado pelo
+juízo da execução, e conterá descrição
+detalhada e, sempre que possível, ilustrada
+dos bens, informando expressamente se o
+leilão se realizará de forma eletrônica ou
+presencial.
+§ 3º Não sendo possível a publicação na rede
+mundial de computadores, ou considerando
+o juiz, em atenção às condições da sede do
+juízo, que esse modo de divulgação é
+insuficiente ou inadequado, o edital será
+afixado em local de costume e publicado, em
+resumo, pelo menos uma vez em jornal de ampla
+circulação local.
+§ 4º Atendendo ao valor dos bens e às condições da
+sede do juízo, o juiz poderá alterar a forma e a
+Art. 687. O edital será afixado no local do costume
+e publicado, em resumo, com antecedência
+mínima de 5 (cinco) dias, pelo menos uma vez em
+jornal de ampla circulação local.
+[...]
+§ 2º Atendendo ao valor dos bens e às condições
+da comarca, o juiz poderá alterar a forma e a
+frequência da publicidade na imprensa, mandar
+divulgar avisos em emissora local e adotar outras
+providências tendentes a mais ampla publicidade da
+alienação, inclusive recorrendo a meios eletrônicos
+de divulgação.
+§ 3º Os editais de praça serão divulgados pela
+imprensa preferencialmente na seção ou local
+reservado à publicidade de negócios imobiliários.
+§ 4º O juiz poderá determinar a reunião de
+publicações em listas referentes a mais de uma
+execução.
+§ 5º O executado terá ciência do dia, hora e local
+da alienação judicial por intermédio de seu
+advogado ou, se não tiver procurador constituído
+nos autos, por meio de mandado, carta registrada,
+1106
+
+frequência da publicidade na imprensa, mandar
+publicar o edital em local de ampla circulação
+de pessoas e divulgar avisos em emissora de
+rádio ou televisão local, bem como em sítios
+distintos do indicado no § 2º.
+§ 5º Os editais de leilão de imóveis e de veículos
+automotores serão publicados pela imprensa ou
+por outros meios de divulgação,
+preferencialmente na seção ou no local reservados
+à publicidade dos respectivos negócios.
+§ 6º O juiz poderá determinar a reunião de
+publicações em listas referentes a mais de uma
+execução.
+edital ou outro meio idôneo.
+COMENTÁRIOS:
+Publicidade. O edital, contendo os requisitos indicados nos incisos do art.
+886, será publicado na rede mundial de computadores, em sítio designado pelo
+juízo da execução, e conterá descrição detalhada e, sempre que possível, ilustrada
+dos bens, informando expressamente se o leilão se realizará de forma eletrônica
+ou presencial. Somente se não for possível a publicidade por meio da rede
+mundial de computadores é que o juiz mandará publicar o edital no local de
+costume, ou seja, no quadro, comumente afixado no saguão de entrada do fórum.
+De todo modo, dependendo das condições da sede do juízo, podem ser adotadas
+outras formas de publicidade (jornal local, emissora de rádio e de televisão),
+cabendo também ao leiloeiro divulgar a alienação pelos meios que julgar mais
+eficientes. A fim de baratear o custo da publicação, o juiz
+[/PAGINA 744]
+
+[PAGINA 745]
+poderá determinar a
+reunião de publicações em listas referentes a mais de uma execução (§ 6º).
+Atendendo ao valor dos bens e às condições da comarca, o juiz poderá alterar
+a forma e a frequência da publicidade na imprensa, mandar divulgar avisos em
+locais de ampla circulação, em emissora local de rádio ou televisão, bem como
+adotar outras providências tendentes à mais ampla publicidade da alienação,
+inclusive recorrendo a meios eletrônicos de divulgação (§ 4º). Ressalte-se que há
+regiões do país aonde não chega jornal e, ainda que chegasse, a maior parte das
+pessoas é analfabeta, embora saiba desenhar o nome (requisito para votar); nesses
+1107
+
+lugares, a rádio e principalmente o alto-falante da igreja são mais eficazes para
+divulgar o leilão.
+Custos. As despesas com a publicação dos editais, como de resto todas as
+despesas processuais, são adiantadas pelo exequente e incluídas na conta da
+execução, para pagamento a final.
+ 
+CPC/2015CPC/1973
+Art. 888. Não se realizando o leilão por qualquer
+motivo, o juiz mandará publicar a transferência,
+observando-se o disposto no art. 887.
+Parágrafo único. O escrivão, o chefe de
+secretaria ou o leiloeiro que culposamente der
+causa à transferência responde pelas despesas da
+nova publicação, podendo o juiz aplicar-lhe a pena
+de suspensão por 5 (cinco) dias a 3 (três) meses, em
+procedimento administrativo regular.
+Art. 688. Não se realizando, por motivo justo, a
+praça ou o leilão, o juiz mandará publicar pela
+imprensa local e no órgão oficial a transferência.
+Parágrafo único. O escrivão, o porteiro ou o
+leiloeiro, que culposamente der causa à
+transferência, responde pelas despesas da nova
+publicação, podendo o juiz aplicar-lhe a pena de
+suspensão por 5 (cinco) a 30 (trinta) dias.
+COMENTÁRIOS:
+Não realização do leilão. O leilão pode não se realizar por uma série de
+motivos (greves, catástrofes naturais, ausência do leiloeiro, ausência de
+documentos essenciais, erro na publicação do edital etc.). O CPC/1973 estabelece
+que, na ocorrência de justo motivo, o leilão será transferido para outra data,
+gerando nova publicação do edital.
+A expressão “justo motivo” sempre foi objeto de crítica, em virtude das
+diversas possibilidades de sua interpretação. Entretanto, como não é possível
+elencar na legislação todas as razões capazes de ensejar o adiamento do leilão, o
+que o legislador fez foi alterar a redação para abranger todo e qualquer motivo
+pelo qual o ato deixe de se realizar.
+Apesar da intenção do legislador em esclarecer a regra, entendemos que o
+juiz poderá dar continuidade ao ato caso o motivo apresentado não seja suficiente
+ao adiamento nem cause prejuízo a qualquer das partes ou mesmo ao pretenso
+arrematante.
+Republicação do edital. Não se realizando o leilão no dia aprazado, o edital
+deverá ser novamente publicado, seguindo-se as regras da primeira publicação;
+1108
+
+nesse caso, o escrivão, o chefe de secretaria ou o leiloeiro, que culposamente tiver
+dado causa à não realização, arcará com as despesas da nova pub
+[/PAGINA 745]
+
+[PAGINA 746]
+licação, podendo
+o juiz punir tais servidores com pena de suspensão por 5 (cinco) dias a 3 (três)
+meses.
+ 
+CPC/2015CPC/1973
+Art. 889. Serão cientificados da alienação
+judicial, com pelo menos 5 (cinco) dias de
+antecedência:
+I – o executado, por meio de seu advogado ou, se
+não tiver procurador constituído nos autos, por
+carta registrada, mandado, edital ou outro meio
+idôneo;
+II – o coproprietário de bem indivisível do
+qual tenha sido penhorada fração ideal;
+III – o titular de usufruto, uso, habitação,
+enfiteuse, direito de superfície, concessão de
+uso especial para fins de moradia ou
+concessão de direito real de uso, quando a
+penhora recair sobre bem gravado com tais
+direitos reais;
+IV – o proprietário do terreno submetido ao
+regime de direito de superfície, enfiteuse,
+concessão de uso especial para fins de
+moradia ou concessão de direito real de uso,
+quando a penhora recair sobre tais direitos
+reais;
+V – o credor pignoratício, hipotecário, anticrético,
+fiduciário ou com penhora anteriormente
+averbada, quando a penhora recair sobre bens
+com tais gravames, caso não seja o credor, de
+qualquer modo, parte na execução;
+Art. 687 [...]
+§ 5º O executado terá ciência do dia, hora e local
+da alienação judicial por intermédio de seu
+advogado ou, se não tiver procurador constituído
+nos autos, por meio de mandado, carta registrada,
+edital ou outro meio idôneo.
+Art. 698. Não se efetuará a adjudicação ou
+alienação de bem do executado sem que da
+execução seja cientificado, por qualquer modo
+idôneo e com pelo menos 10 (dez) dias de
+antecedência, o senhorio direto, o credor com
+garantia real ou com penhora anteriormente
+averbada, que não seja de qualquer modo parte na
+execução.
+1109
+
+VI – o promitente comprador, quando a
+penhora recair sobre bem em relação ao qual
+haja promessa de compra e venda registrada;
+VII – o promitente vendedor, quando a
+penhora recair sobre direito aquisitivo
+derivado de promessa de compra e venda
+registrada;
+VIII – a União, o Estado e o Município, no caso
+de alienação de bem tombado.
+Parágrafo único.Se o executado for revel e não
+tiver advogado constituído, não constando
+dos autos seu endereço atual ou, ainda, não
+sendo ele encontrado no endereço constante
+do processo, a intimação considerar-se-á
+feita por meio do próprio edital de leilão.
+COMENTÁRIOS:
+Intimações necessárias. Feita a publicação do edital do leilão, cabe ao
+exequente promover a intimação de determinadas pessoas, a fim de ultimar os
+atos preparatórios para a praça ou leilão. Afora a intimação da penhora, algumas
+pessoas devem ser intimadas da realização da hasta pública, sob pena de
+ineficácia da alienação.
+Além do exequente, que naturalmente é intimado de todos os atos do
+processo, da designação do leilão, presencial ou eletrônico, serão intimadas as
+pessoas descritas nesse dispositivo. Ressalte-se que, de acordo com as
+disposições constantes nos incisos do art. 799, a cientificação de tais credores
+acerca da existência do processo de execução deve ter ocorrido previamente
+[/PAGINA 746]
+
+[PAGINA 747]
+à
+alienação, porquanto incumbe ao exequente, ainda na petição inicial da execução,
+requerer ao juiz as respectivas intimações.
+Não há necessidade de intimação do executado que não teve bens
+penhorados. Quanto àquele que sofreu constrição, a intimação deve ocorrer com
+pelo menos cinco dias de antecedência, inclusive na pessoa do advogado,
+306
+ ou, se
+não tiver procurador constituído nos autos, por meio de mandado, carta
+1110
+
+registrada, edital ou outro meio idôneo, admitindo-se também intimação por edital
+ou hora certa.
+Se, no entanto, o executado não for revel e não tiver advogado constituído,
+não constando seu endereço atual nos autos ou não sendo ele encontrado no
+endereço constante no processo, considerar-se-á realizada a intimação feita no
+próprio edital de leilão (art. 889, parágrafo único). A norma se fundamenta no art.
+77, V, que exige das partes e de seus procuradores o cumprimento do dever de
+atualização do endereço residencial ou profissional sempre que ocorrer qualquer
+modificação temporária ou definitiva.
+Cabe salientar que, apesar da expressão “se o executado for revel” (parágrafo
+único), não há propriamente revelia no processo de execução, uma vez que a
+citação no processo executivo não é para responder, mas sim para pagar no prazo
+de três dias. A par disso, ao que tudo indica, quis o legislador dar uma última
+oportunidade ao executado que, embora não tenha constituído advogado nos
+autos, possa a eles comparecer com a finalidade de adjudicar, arrematar ou
+mesmo pleitear a invalidação da arrematação (art. 903, § 4º).
+A intimação dos demais (incisos II a VIII) também será procedida com pelo
+menos cinco dias de antecedência do leilão.
+Não há necessidade de intimação do cônjuge do executado, que não figure
+como parte na execução, acerca da designação do leilão, sendo bastante a
+intimação da penhora quando esta recair em bem imóvel e o casamento não for
+sob o regime da separação absoluta de bens.
+ 
+CPC/2015CPC/1973
+Art. 890. Pode oferecer lance quem estiver na livre
+administração de seus bens, com exceção:
+I – dos tutores, dos curadores, dos testamenteiros,
+dos administradores ou dos liquidantes, quanto
+aos bens confiados à sua guarda e à sua
+responsabilidade;
+II – dos mandatários, quanto aos bens de cuja
+administração ou alienação estejam encarregados;
+III – do juiz, do membro do Ministério Público e da
+Defensoria Pública, do escrivão, do chefe de
+Art. 690-A. É admitido a lançar todo aquele que
+estiver na livre administração de seus bens, com
+exceção:
+I – dos tutores, curadores, testamenteiros,
+administradores, síndicos
+ ou liquidantes, quanto
+aos bens confiados a sua guarda e
+responsabilidade;
+II – dos mandatários, quanto aos bens de cuja
+administração ou alienação estejam encarregados;
+III – do juiz, membro do Ministério Público e da
+1111
+
+secretaria e dos demais servidores e auxiliares da
+justiça, em relação aos bens e direitos objeto
+de alienação na localidade onde servirem ou
+a que se estender a sua autoridade;
+IV –dos servidores
+[/PAGINA 747]
+
+[PAGINA 748]
+públicos em geral, quanto
+aos bens ou aos direitos da pessoa jurídica a
+que servirem ou que estejam sob sua
+administração direta ou indireta;
+V – dos leiloeiros e seus prepostos, quanto
+aos bens de cuja venda estejam
+encarregados;
+VI – dos advogados de qualquer das partes.
+Defensoria Pública, escrivão e demais servidores e
+auxiliares da Justiça.
+COMENTÁRIOS:
+Pessoas que podem oferecer lances. Feito o pregão, abre-se oportunidade
+aos licitantes para oferecem seus lances. Nos termos do dispositivo em comento,
+é admitido a lançar todo aquele (pessoa natural ou jurídica) que estiver na livre
+administração de seus bens. Não podem oferecer lance, portanto, os incapazes e
+os interditados.
+Ao devedor, bem como aos legitimados previstos no art. 889, faculta-se o
+direito de adjudicar o bem ou, não havendo adjudicação, de participar da
+arrematação, em condições de igualdade com os demais licitantes.
+Restrições. Os incisos do art. 890 arrolam as pessoas que, em razão de suas
+relações com as partes do processo ou de sua atuação no processo, não podem
+oferecer lance.
+As restrições têm por fim evitar conflito de interesses. Quanto ao
+impedimento dos sujeitos processuais mencionados no inciso III, tem por fim
+preservar a imparcialidade no caso do juiz e do membro do Ministério Público;
+quanto ao membro da Defensoria Pública, objetiva manter a ética no patrocínio da
+causa.
+Os incisos IV a VI são novidades na lei processual. O CPC/2015,
+objetivando conferir maior lisura ao leilão e, também, adequar a legislação
+processual às disposições do Código Civil,
+307
+ ampliou o rol de pessoas
+1112
+
+impedidas de arrematar e esclareceu que os servidores e auxiliares da justiça
+somente se encaixam na limitação “em relação aos bens e direitos objeto de
+alienação na localidade onde servirem ou a que se estender a sua autoridade”.
+Esse entendimento, além de estar expresso no Código Civil (art. 497), também já
+estava pacificado no âmbito do Superior Tribunal de Justiça.
+308
+Note, também, que o CPC fala dos servidores e auxiliares “em relação aos
+bens e direitos objeto de alienação na localidade onde servirem ou a que se
+estender a sua autoridade”. Pressupõe-se, então, que somente enquanto estiverem
+em atividade tais pessoas estarão impedidas de arrematar. Esse é, inclusive, o
+entendimento do STJ.
+309
+ 
+CPC/2015CPC/1973
+Art. 891. Não será aceito lance que ofereça preço
+vil.
+Parágrafo único.Considera-se vil o preço
+inferior ao mínimo estipulado pelo juiz e
+constante do edital, e, não tendo sido fixado
+preço mínimo, considera-se vil o preço
+inferior a cinquenta por cento do valor da
+avaliação.
+Art. 692. Não será aceito lanço que, em segunda
+praça ou leilão, ofereça preço vil.
+Parágrafo único. Será suspensa a arrematação logo
+que o produto da alienação dos bens bastar para o
+pagamento do credor.
+COMENTÁRIOS:
+Preço vil. Não será aceito lance que ofereça preço vil. Como o Código de
+1973 não estabelecia o conceito de “preço civil”, a tarefa ficou a cargo da
+jurisprudência. O STJ, por ex
+[/PAGINA 748]
+
+[PAGINA 749]
+emplo, chegou a considerar que a oferta de
+montante correspondente a 60% do valor do bem arrematado não configura preço
+vil (REsp 649.532/SP; REsp 316.329/MG). Em outros julgados a Corte
+ponderou que, diante da ausência de critério legal, “preço vil” se caracteriza
+quando o lance não alcançar, ao menos, a metade do valor da avaliação (REsp
+1.057.831/SP; REsp 1.017.301/RJ).
+No novo CPC, o preço vil será aquele inferior ao mínimo estipulado pelo
+juiz, de acordo com as peculiaridades do bem levado a leilão. Na sua ausência,
+será considerado vil o preço inferior a 50% do valor da avaliação (art. 891,
+parágrafo único) – conceito que segue o entendimento do STJ:
+1113
+
+PROCESSUAL CIVIL. PREÇO MÍNIMO DE ARREMATAÇÃO. VALOR
+SUPERIOR A 50% DA AVALIAÇÃO DO BEM. PREÇO VIL.
+INEXISTÊNCIA. 1. O STJ entende que está caracterizado o preço vil quando
+o valor da arrematação for inferior a 50% da avaliação do bem, o que não
+ocorre nos autos do processo, em que o valor mínimo fixado pelas instâncias
+ordinárias é superior a esse percentual. 2. Agravo regimental a que se nega
+provimento (STJ, AgRg no AREsp 98.664/RS, Rel. Min. Maria Isabel
+Galloti, julgado em 06.09.2012).
+Se não houver arrematação no primeiro leilão, deve-se seguir o procedimento
+previsto no art. 894 do CPC/2015.
+ 
+CPC/2015CPC/1973
+Art. 892. Salvo pronunciamento judicial em
+sentido diverso, o pagamento deverá ser
+realizado de imediato pelo arrematante, por
+depósito judicial ou por meio eletrônico.
+§ 1º Se o exequente arrematar os bens e for o
+único credor, não estará obrigado a exibir o preço,
+mas, se o valor dos bens exceder ao seu crédito,
+depositará, dentro de 3 (três) dias, a diferença, sob
+pena de tornar-se sem efeito a arrematação, e,
+nesse caso, realizar-se-á novo leilão, à custa do
+exequente.
+§ 2º Se houver mais de um pretendente,
+proceder-se-á entre eles à licitação, e, no
+caso de igualdade de oferta, terá preferência
+o cônjuge, o companheiro, o descendente ou
+o ascendente do executado, nessa ordem.
+§ 3º No caso de leilão de bem tombado, a
+União, os Estados e os Municípios terão,
+nessa ordem, o direito de preferência na
+arrematação, em igualdade de oferta.
+Art. 690. A arrematação far-se-á mediante o
+pagamento imediato do preço pelo arrematante
+ou, no prazo de até 15 (quinze) dias, mediante
+caução.
+Parágrafo único. O exequente, se vier a arrematar
+os bens, não estará obrigado a exibir o preço; mas,
+se o valor dos bens exceder o seu crédito,
+depositará, dentro de 3 (três) dias, a diferença, sob
+pena de ser tornada sem efeito a arrematação e,
+neste caso, os bens serão levados a nova praça ou
+leilão à custa do exequente.
+1114
+
+COMENTÁRIOS:
+Forma de pagamento. Aquele que oferecer o maior lance
+arrematará o bem, que deixará de ser de propriedade do executado e passará ao
+patrimônio do arrematante. De acordo com o novo Código, a regra é que o
+pagamento deverá ser efetuado imediatamente; não o sendo, o arrematante será
+considerado remisso e sofrerá a sanção prevista no art. 897 do CPC/2015 (art.
+695 do
+[/PAGINA 749]
+
+[PAGINA 750]
+CPC/1973). O parcelamento do valor da arrematação é possível desde que
+haja pronunciamento judicial nesse sentido (art. 892 do CPC/2015). Esse já era,
+inclusive, o entendimento jurisprudencial:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.
+ARREMATAÇÃO DE IMÓVEL. PARCELAMENTO. REQUISITOS DO
+ART. 690, § 1º, CPC PREENCHIDOS. POSSIBILIDADE. Atendidos os
+requisitos elencados no art. 690, § 1º, do Código de Processo Civil, para
+parcelamento do valor do bem a ser arrematado, com a expressa concordância
+do credor, é de ser deferida a proposta formulada pelo arrematante. Agravo
+de instrumento provido (Agravo de Instrumento nº 70055254932, 19
+a
+ Câmara
+Cível, Tribunal de Justiça do RS, Rel. Voltaire de Lima Moraes, julgado em
+27.08.2013).
+Vale ressaltar que também já havia permissão legal para o parcelamento nas
+hipóteses de execuções fiscais de dívida ativa do INSS, conforme dispõe o § 1º
+do art. 98 da Lei nº 8.212/1991.
+Art. 98. [...]
+[...] § 1º Poderá o juiz, a requerimento do credor, autorizar seja parcelado o
+pagamento do valor da arrematação, na forma prevista para os parcelamentos
+administrativos de débitos previdenciários.
+Sobre o parcelamento, conferir, também, os comentários ao art. 895.
+O CPC/2015 também estende a regra de preferência referida na adjudicação
+(art. 876, § 6º, do CPC/2015; art. 685-A, § 3º, do CPC/1973) à arrematação do
+bem penhorado na execução quando se tratar de cônjuge, companheiro,
+descendente ou ascendente do executado (art. 892, § 2º). A modificação tende a
+uniformizar a legislação, porquanto tanto a adjudicação quanto a arrematação são
+meios de se satisfazer a execução, não havendo necessidade de diferenciá-las
+nesse ponto.
+1115
+
+Tratando-se de bem tombado, o direito de preferência é estabelecido entre os
+entes da Federação, tendo preferência a União e, na sequência, os Estados e os
+Municípios. O CPC/2015 apenas expressa regra já conhecida no ordenamento.
+Veja:
+Decreto-lei nº 25, de 30 de novembro de 1937:
+Art. 22. Em face da alienação onerosa de bens tombados, pertencentes a
+pessoas naturais ou a pessoas jurídicas de direito privado, a União, os
+Estados e os municípios terão, nesta ordem, o direito de preferência.
+Frise-se que o art. 22 do referido decreto foi revogado pelo CPC/2015 (art.
+1.072, I).
+ 
+CPC/2015CPC/1973
+Art. 893. Se o leilão for de diversos bens e houver
+mais de um lançador, terá preferência aquele que
+se propuser a arrematá-los todos, em conjunto,
+oferecendo, para os bens que não tiverem lance,
+preço igual ao da avaliação e, para os demais,
+preço igual ao do maior lance que, na tentativa
+de arrematação individualizada, tenha sido
+oferecido para eles.
+Art. 691. Se a praça ou
+ o leilão for de diversos bens
+e houver mais de um lançador, será preferido
+aquele que se propuser a arrematá-los
+englobadamente, oferecendo para os que não
+tiverem licitante preço igual ao da avaliação e para
+os demais o de maior lanço.
+COMENTÁRIOS:
+Concorrência de lances. Considera-se vencedor o licitante que oferecer o
+maior lance
+[/PAGINA 750]
+

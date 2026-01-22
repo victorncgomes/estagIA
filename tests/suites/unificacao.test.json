@@ -1,0 +1,54 @@
+{
+    "suite": "unificacao",
+    "descricao": "Testes para matéria de unificação de penas",
+    "casos": [
+        {
+            "id": "uni-001",
+            "nome": "Unificação de penas - Deferimento",
+            "insumos": "Apenado com duas condenações em processos distintos. Requer unificação para fins de contagem de benefícios.",
+            "orientacao": "Deferir unificação das penas",
+            "agrupador": "unificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "soma_penas",
+                "fundamentacao_art111"
+            ]
+        },
+        {
+            "id": "uni-002",
+            "nome": "Revogação de unificação - Crime posterior",
+            "insumos": "MP requer revogação da unificação de penas em razão de novo crime cometido durante a execução.",
+            "orientacao": "Deferir revogação da unificação",
+            "agrupador": "unificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_revogacao"
+            ]
+        },
+        {
+            "id": "uni-003",
+            "nome": "Unificação - Indeferimento penas incompatíveis",
+            "insumos": "Apenado requer unificação de pena privativa com restritiva. MP opina pelo indeferimento.",
+            "orientacao": "Indeferir - regimes incompatíveis",
+            "agrupador": "unificacao",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_incompatibilidade"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

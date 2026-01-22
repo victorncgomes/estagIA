@@ -1,0 +1,3374 @@
+[META]
+TITULO: Código de Processo Penal Comentado
+AUTOR: 2017
+ANO: 2017
+EDICAO: N/A
+EDITORA: JusPodivm
+PAGINAS: 801-850
+ARQUIVO_ORIGINAL: Código de Processo Penal Comentado - Renato Brasileiro - 2017.pdf
+CITACAO_ABNT: 2017. Código de Processo Penal Comentado. São Paulo: JusPodivm, 2017.
+[/META]
+
+[PAGINA 801]
+ia, nem decorra da prova 
+originariamente ilícita, com esta não manten­
+do vínculo causai, tais dados probatórios são 
+admissíveis,  porque  não  contaminados  pela 
+mácula da ilicitude originária. Há de se tomar 
+extrema cautela com a aplicação da exceção da 
+fonte independente, a fim de não se burlar a 
+proibição da valoração das provas ilícitas por 
+derivação, dizendo tratar-se de fonte indepen­
+dente. Para que a teoria da fonte independente 
+seja  aplicada,  impõe-se  demonstração  fática 
+inequívoca de que a prova avaliada pelo juiz 
+efetivamente é oriunda de uma fonte autôno­
+ma, ou seja, não se encontra na mesma linha 
+de  desdobramento  das  informações  obtidas 
+com a prova ilícita.  Caso não  se  demonstre, 
+inequivocamente, a ausência de qualquer nexo
+
+Art.157
+CPP COMENTADO • Renato Brasileiro de Lima
+causai, fica valendo a teoria da prova ilícita por 
+derivação.  Em caso de dúvida, aplica-se o in 
+d u bio p ro  reo. A origem dessa teoria está ligada 
+ao direito norte-americano, sendo lá conhecida 
+como in d ep en d en t  so urce  doctrin e. No  caso 
+Bynum v.  U.S., de  1960, a Corte determinou 
+inicialmente a exclusão de identificação dacti- 
+loscópica que havia sido feita durante a prisão 
+ilegal do acusado Bynum. Ao ser novamente 
+processado, valeu-se a acusação de um antigo 
+conjunto de planilhas dactiloscópicas de By­
+num que se encontrava nos arquivos do FBI 
+e  que  correspondiam  às  impressões  digitais 
+encontradas no local do crime. Como a polícia 
+tinha  razão  para  verificar  as  antigas  plani­
+lhas de Bynum independentemente da prisão 
+ilegal,  e  como  as  impressões  digitais  de  tais 
+planilhas tinham sido colhidas anteriormente 
+sem qualquer relação com o roubo investigado 
+dessa vez, as antigas planilhas foram admitidas 
+como  prova  obtida  independentemente,  de 
+maneira  alguma  relacionada  à  prisão  ilegal. 
+No  caso  Murray v.  United  States,  de  1988, 
+após  perceberem  uma  atividade  suspeita  de 
+tráfico de drogas em uma residência, policiais 
+entraram ilegalmente na casa e confirmaram 
+a  suspeita;  posteriormente,  requereram  um 
+mandado judicial  para  a busca  e  apreensão 
+indicando apenas as suspeitas e sem mencionar 
+a  anterior entrada  e,  de  posse  do  mandado, 
+entraram  novamente  na  residência  e  apre­
+enderam as drogas.  A Corte entendeu que a 
+prova era válida, pois, ainda que os policiais 
+não houvessem realizado a primeira violação, 
+de qualquer forma seria obtido o mandado a 
+justificar  a  segunda  entrada  legal,  com  base 
+apenas nos indícios iniciais. No Brasil, a análise 
+da jurisprudência demonstra que a teoria da 
+fonte independente já vem sendo adotada pelo 
+Supremo  Tribunal  Federal  desde  agosto  de 
+2004 (HC 83.921/RJ). Com a reforma proces­
+sual de 2008, a limitação da fonte independente 
+passou a constar expressamente do Código de 
+Processo  Penal.  Isso  porque,  segundo  o  art. 
+157, §1°, do CPP, “são também inadmissíveis 
+as provas derivadas das ilícitas, sal
+[/PAGINA 801]
+
+[PAGINA 802]
+vo  quan do 
+não  evidenciado  o  n exo  d e  causalidade  entre 
+um as e outras, ou quando as derivadas p u d erem 
+ser  obtidas  p o r  u m a  fo n te   in d ep en d en te  das
+prim eira s”. Especial atenção, todavia, deve ser 
+dispensada ao art. 157, §2°, do CPP, segundo o 
+qual “considera-se fonte independente aquela 
+que, por si só, seguindo os trâmites típicos e de 
+praxe, próprios da investigação ou instrução 
+criminal, seria capaz d e cond uzir ao fa to  objeto 
+da pro v a ”. Como será visto com mais detalhes 
+logo abaixo, apesar de o dispositivo fazer men­
+ção  à fo n te   in d ep en d en te, parece  ter havido 
+um equívoco por parte do legislador, pois, ao 
+empregar o verbo no condicional, o conceito 
+aí fornecido -  
+seria  capaz de con d u zir ao fato 
+objeto  da prova -  refere-se ao da limitação da 
+descoberta inevitável, objeto de nosso estudo 
+nos comentários ao §2° do art. 157 do CPP.
+♦   Jurisprudência selecionada:
+STF:"(...) Eventuais vícios do inquérito policial não con­
+taminam a ação penal. O reconhecimento fotográfico, 
+procedido na fase inquisitorial, em desconformidade 
+com o artigo 226,1, do Código de Processo Penal, não 
+tem  a  virtude  de  contaminar o  acervo  probatório 
+coligido na fase judicial, sob o crivo do contraditório. 
+Inaplicabilidade da teoria da árvore dos frutos envene­
+nados (fruits of the poisonous tree). Sentença conde- 
+natória embasada em provas autônomas produzidas 
+em juízo. (...) Inviabilidade do writ. Ordem denegada". 
+(STF,  I aTurma, HC 83.921/RJ,  Rei. Min. Eros Grau,  DJ 
+27/08/2004).
+STF:"(...) Se, no entanto, o órgão da persecução penal 
+demonstrar que obteve,  legitimamente,  novos  ele­
+mentos de informação a partir de uma fonte autônoma 
+de prova - que não guarde qualquer relação de depen­
+dência nem decorra da prova originariamente ilícita, 
+com esta não mantendo vinculação causai -, tais dados 
+probatórios  revelar-se-ão  plenamente  admissíveis, 
+porque  não contaminados  pela  mácula  da  ilicitude 
+originária. A questão da fonte autônoma de prova ('an 
+independent source') e a sua desvinculação causai da 
+prova ilicitamente obtida -  doutrina -  precedentes do 
+SupremoTribunal Federal -  Jurisprudência comparada 
+(a experiência da Suprema Corte Americana): casos'Sil- 
+verthorne Lumber Co. v. United States (1920); Segura 
+v. United States (1984); Nixv. Williams (1984); Murray 
+v. United  States (1988)". (STF, 2a Turma, RHC 90.376/ 
+RJ,  Rei. Min. Celso de Mello,  DJe 018 -   17/05/2007). 
+Na mesma linha: STF, 2aTurma, HC 75.497/SP, Rei. Min. 
+Maurício Corrêa, j.  14/10/1997,  DJ  09/05/2003;  STF, 
+2a Turma, RHC 88.371/SP,  Rei. Min. Gilmar Mendes, j. 
+14/11/2006, DJ 02/02/2007; STJ, 5aTurma, HC 11.781/ 
+RS, Rei. Min. Gilson Dipp, j. 21/03/2000, DJ 17/04/2000 
+p. 73; STJ, 5a Turma, HC 57.870/RJ, Rei. Min. Felix Fischer, 
+j.  12/09/2006,  DJ  04/12/2006  p.  343;  STJ,  5a Turma, 
+HC 43.234/SP,  Rei.  Min.  Gilson  Dipp, j. 03/11/2005, 
+DJ  21/11/2005  p. 265;  STJ, 6a Turma,  HC 40
+[/PAGINA 802]
+
+[PAGINA 803]
+.637/SP,
+
+TlTULO VII • DA PROVA J    ^ r t. 1 5 7
+Rei.  Min.  Hélio  Quaglia  Barbosa, j.  06/09/2005,  DJ 
+26/09/2005  p. 466; STJ, 6a Turma,  HC 23.432/SP,  Rei. 
+Min. Vicente Leal, j. 01/04/2003, DJ 28/04/2003 p. 266; 
+STJ, 5aTurma, REsp 347.270/BA, Rei. Min. Edson Vidigal, 
+j. 26/03/2002, DJ 29/04/2002 p. 283.
+STF:"(...) Evidenciada, pela instância ordinária, a ausên­
+cia de nexo de causalidade, não há falar que a prova 
+declarada  ilícita  contaminou  o  suporte  probatório 
+embasador da  sentença condenatória  (CPP, art.  157, 
+§  1°).  Ademais,  não sendo  perceptível prima fade a 
+derivação da prova, torna-se inviável, ao menos na via 
+do habeas corpus, cotejar os inúmeros elementos de 
+convicção trazidos aos autos e modificar a conclusão 
+exarada  pelo juízo  sentenciante. Ordem  denegada". 
+(STF, 2a Turma, HC 116.931/RJ, Rei. Min.Teori Zavascki, 
+j. 03/03/2015, DJe 85 07/05/2015).
+6.  Teoria da descoberta inevitável (exce­
+ção da fonte hipotética independente): por
+força dessa teoria, na hipótese de se demons­
+trar que a prova derivada da ilícita seria produ­
+zida de qualquer modo, independentemente da 
+prova ilícita originária, tal prova deve ser con­
+siderada válida. A aplicação dessa teoria não 
+pode ocorrer com base em dados meramente 
+especulativos, sendo indispensável a existência 
+de dados concretos a confirmar que a desco­
+berta seria inevitável. Somente com base em fa­
+tos históricos demonstrados capazes de pronta 
+verificação será possível dizer que a descoberta 
+seria inevitável. Em outras palavras, não basta 
+um juízo do possível. É necessário um juízo do 
+provável, baseado em elementos concretos de 
+prova. Tal qual a limitação anterior, a teoria da 
+descoberta inevitável também tem origem no 
+direito norte-americano -  
+inevitable discovery 
+limitation. Sua aplicação ocorreu no caso N ix 
+v. W illiam s-W illiam s II, em 1984: com base em 
+declaração  obtida  ilegalmente  do  acusado,  a 
+polícia conseguiu localizar o paradeiro do cor­
+po da vítima de homicídio escondido em uma 
+vala à beira de uma estrada. No entanto, apesar 
+de a localização do cadáver só ter sido possível 
+a partir de uma declaração obtida de maneira 
+ilegal, demonstrou-se que, no caso concreto, 
+um  grupo  de  duzentos voluntários já estava 
+procurando pelo cadáver conforme um plano 
+que, inevitavelmente, teria levado à descoberta 
+do local em que o corpo foi encontrado. A Su­
+prema Corte americana entendeu que a teoria 
+dos frutos da árvore envenenada não impediría 
+a admissão de prova derivada de uma violação
+constitucional, se tal prova teria sido descober­
+ta  “inevitavelmente”  por meio  de  atividades 
+investigatórias  lícitas  sem  qualquer  relação 
+com a violação, bem como que a “descoberta 
+inevitável” não envolve elementos especulati­
+vos, mas concentra-se em fatos históricos de­
+monstrados capazes de pronta verificação. Para 
+que a prova fosse admitida, era necessário que 
+a polícia não tivesse atuado de má-fé, com o 
+propósito de acelerar as
+[/PAGINA 803]
+
+[PAGINA 804]
+investigações, fazendo 
+uso de meios ilegais; e que efetivamente a prova 
+não pudesse permanecer oculta. Na visão de 
+parte  da  doutrina,  tal  teoria  teria  passado  a 
+constar expressamente do Código de Processo 
+Penal, a partir das alterações trazidas pela Lei 
+n.  11.690/08. É bem verdade que o legislador 
+não se refere de maneira expressa à teoria da 
+descoberta inevitável. Porém, como dito acima, 
+seu  conteúdo pode  ser extraído  do  art.  157, 
+§2°, do CPP: “considera-se fonte independente 
+aquela  que,  por  si  só,  seguindo  os  trâmites 
+típicos  e  de  praxe,  próprios  da  investigação 
+ou instrução criminal, seria capaz de cond uzir 
+ao fa to   objeto  da prov a” (nosso grifo). Parece 
+ter havido uma confusão por parte do legis­
+lador ao se referir à fo n te  independente, pois 
+o conceito por ele trazido é o da limitação da 
+descoberta inevitável. Com efeito, pela própria 
+redação do §2° do art. 157 do CPP, empregando 
+o verbo no condicional, percebe-se que nem 
+mesmo seria necessário que a prova derivada 
+tivesse sido efetivamente conseguida a partir 
+de  uma  fonte  autônoma  e  regular  de  prova 
+(teoria da fonte independente), bastando que 
+houvesse uma mera possibilidade disso ( “seria 
+capaz  d e  co n d u zir  ao fa to   objeto  da  prov a”). 
+Inequívoca,  pois,  a  adoção  da  limitação  da 
+descoberta inevitável.  Mas seria possível que 
+o legislador infraconstitucional instituísse tal 
+restrição à prova ilícita por derivação? O ques­
+tionamento já tem provocado controvérsia na 
+doutrina.  De um lado, há doutrinadores que 
+se posicionam no sentido da inconstituciona- 
+lidade  da limitação  da descoberta inevitável 
+(CPP,  art.  157,  §2°).  Nesse  sentido,  segundo 
+Antônio  Magalhães  Gomes  Filho  (As refor­
+m as  no processo p en a l:  as  novas  leis  de  2 0 0 8 
+e os projetos  de reform a. Coordenação: Maria 
+Thereza  Rocha  de  Assis  Moura.  São  Paulo:
+
+Art. 157
+CPP COMENTADO • Renato Brasileiro de Lima
+Editora Revista dos Tribunais, 2008.  p.  269), 
+referido dispositivo subverte o espírito da ga­
+rantia constitucional do art.  5, LVI, devendo 
+ser considerado inconstitucional. Na mesma 
+linha, GRINOVER (As nulidades no processo 
+penal.  Op.  cit. p.  133)  adverte que o disposi­
+tivo  coloca  em  risco  a própria  finalidade  da 
+vedação constitucional, que não é outra senão 
+a de coibir atentados aos direitos individuais 
+estabelecidos  na  Lei  Maior.  Para  a  autora,  a 
+disposição  abre  as  portas  para que,  sob  esse 
+fundamento, toda e qualquer prova derivada 
+de outra ilícita venha a ser convalidada. Con­
+clui a autora, assim, pela inconstitucionalidade 
+do art. 157, §2°, do CPP. De outro lado, há res­
+peitável corrente doutrinária segundo a qual, 
+como o conceito de prova ilícita e o de prova 
+ilícita por derivação são indeterminados, tanto 
+a ampliação indevida de seu âmbito conceituai 
+quanto sua restrição podem ser afastadas pelo 
+juiz no momento de sua aplicação. Nessa linha, 
+de  acordo  com
+[/PAGINA 804]
+
+[PAGINA 805]
+Feitoza  (op.  cit.  p.  700-701), 
+tanto  se  pode  admitir limitações  à teoria da 
+prova ilícita por derivação, quanto entender, 
+para  garantir  direito  fundamental,  no  caso 
+concreto, que a limitação deva ser afastada e a 
+prova deva ser reconhecida como prova ilícita. 
+Em que pese a controvérsia doutrinária, certo 
+é  que  referida  teoria já  vem  sendo  adotada 
+no  âmbito  do Superior Tribunal de Justiça e 
+do  Supremo  Tribunal  Federal.  Em  pioneiro 
+julgado acerca do assunto, em que se discutia 
+a ilicitude de extrato bancário obtido por her­
+deiro da vítima, sem autorização judicial, a 6a 
+Turma do STJ fez uso da teoria da descoberta 
+inevitável. Na dicção do Relator Min. Og Fer­
+nandes, o § 2o do art.  157 do CPP serve para 
+mitigar  a teoria  da contaminação  da  prova, 
+restringindo-a para os casos em que a prova 
+ilícita for absolutamente determinante para a 
+descoberta da prova derivada que sem aquela 
+não  existiría,  o  que  não  teria  acontecido  no 
+caso apreciado pelo STJ. Isso porque, no caso 
+concreto, o sobrinho  da vítima, na condição 
+de  herdeiro,  teria,  inarredavelmente,  após  a 
+habilitação  no  inventário,  o  conhecimento 
+das movimentações financeiras e,  certamen­
+te,  saberia  do  desfalque  que  a vítima  havia 
+sofrido; ou seja, a descoberta seria inevitável,
+não havendo, portanto, razoabilidade alguma 
+em  anular todo  o  processo  e  demais  provas 
+colhidas, não só durante a instrução criminal, 
+mas  também  aquelas  colhidas  na  fase  pré- 
+-processual investigativa.
+♦   Jurisprudência selecionada:
+STJ:"(...) Com a publicidade dada pelo banco ao sobri­
+nho da vítima, que também era seu herdeiro. Tratou- 
+-se toda a operação bancária de um golpe efetivado 
+por meio  de  um  engodo. Titularidade  solidária  que 
+detinha uma das pacientes e que agora é reclamada 
+para efeitos de autorização legal, decorreu de ilícito 
+efetivado contra vítima. Pretende-se, na verdade, obter 
+benefício com a própria prática criminosa. Impossibi­
+lidade de se beneficiar da própria torpeza. A segunda 
+consideração, não menos importante, é que o extrato 
+ou documento de transferência foi obtido por herdeiro 
+da vítima,  circunstância  que  ocorrería  de qualquer 
+maneira após a sua habilitação em inventário, a ensejar, 
+da mesma maneira, o desenrolar do processo tal qual 
+como ocorreu  na espécie. Acolhimento da teoria da 
+descoberta inevitável; a prova seria necessariamente 
+descoberta por outros meios legais. No caso, repita-se, 
+o sobrinho da vítima, na condição de herdeiro, teria, 
+inarredavelmente, após a  habilitação  no  inventário, 
+o conhecimento das  movimentações financeiras e, 
+certamente, saberia do desfalque que a vítima havia 
+sofrido; ou  seja, a  descoberta era  inevitável. Ordem 
+denegada". (STJ, 6a Turma, HC 52.995/AL, Rei. O g Fer­
+nandes, j. 16/09/2010, DJe 04/10/2010).
+STF:"(...)  Ilicitude da  prova  produzida  durante o  in­
+quérito policial - violação de registros telefônicos de 
+corréu, execut
+[/PAGINA 805]
+
+[PAGINA 806]
+or do crime, sem  autorização judicial. 
+Suposta ilegalidade decorrente do fato de os policiais, 
+após a prisão em flagrante do corréu, terem realizado 
+a análise dos  últimos  registros telefônicos  dos dois 
+aparelhos celulares apreendidos. Não ocorrência. Não 
+se confundem  comunicação telefônica  e  registros 
+telefônicos, que recebem, inclusive, proteção jurídica 
+distinta. Não se pode interpretar a cláusula do artigo 5°, 
+XII, da CF, no sentido de proteção aos dados enquanto 
+registro, depósito registrai. A proteção constitucional 
+é  da  comunicação de  dados  e  não  dos  dados. Art. 
+6° do CPP: dever da autoridade policial  de proceder 
+à  coleta  do  material  comprobatório  da  prática  da 
+infração  penal. Ao  proceder à  pesquisa  na  agenda 
+eletrônica dos aparelhos devidamente apreendidos, 
+meio material indireto de prova, a autoridade policial, 
+cumprindo o seu mister, buscou, unicamente, colher 
+elementos de informação hábeis a esclarecer a autoria 
+e a materialidade do delito (dessa análise logrou en­
+contrar ligações entre o executor do homicídio e o ora
+ 
+paciente). Verificação que permitiu a orientação inicial 
+da linha investigatória a ser adotada, bem como pos­
+sibilitou concluir que os aparelhos seriam relevantes
+54 2
+
+TÍTULO VII • DA PROVA 5 7
+para a investigação. À guisa de mera argumentação, 
+mesmo que  se  pudesse  reputar a  prova  produzida 
+como  ilícita  e as  demais,  ilícitas  por derivação,  nos 
+termos da teoria dos frutos da árvore venenosa (fruit 
+of the poisonous tree), é certo que, ainda assim, melhor 
+sorte não assistiría à defesa. É que, na hipótese, não há 
+que se falar em prova ilícita por derivação. Nos termos 
+da  teoria  da  descoberta  inevitável,  construída  pela 
+Suprema Corte norte-americana no caso Nixx Williams 
+(1984), o curso normal das investigações conduziria a 
+elementos informativos que vinculariam os pacientes 
+ao fato investigado.  Bases desse entendimento que 
+parecem  ter encontrado  guarida  no  ordenamento 
+jurídico  pátrio  com  o  advento  da  Lei  11.690/2008, 
+que deu nova redação ao art. 157 do CPP, em especial 
+o seu  § 2o. (...) Ordem denegada". (STF, 2a Turma,  HC 
+91,867/PA, Rei. Min. Gilmar Mendes, j. 24/04/2012, DJe 
+185 19/09/2012).
+7.  Limitação  da  mancha  purgada  (limi­
+tação dos vícios sanados, do nexo causai 
+atenuado ou da tinta diluída): de acordo com 
+essa limitação (em inglês, purged taint), não se 
+aplica a teoria da prova ilícita por derivação 
+se o nexo causai entre a prova primária e a se­
+cundária for atenuado em virtude do decurso 
+do  tempo,  de  circunstâncias  supervenientes 
+na cadeia probatória, da menor relevância da 
+ilegalidade ou da vontade de um dos envolvi­
+dos em colaborar com a persecução criminal. 
+Nesse caso, apesar de já ter havido a contami­
+nação de um determinado meio de prova em 
+face da ilicitude ou ilegalidade da situação que 
+o  gerou,  üm  acontecimento  futuro  expurga, 
+afasta, elide esse vício, permitindo-se, assim, 
+o aprovei
+[/PAGINA 806]
+
+[PAGINA 807]
+tamento da prova inicialmente con­
+taminada. Esta teoria foi desenvolvida no caso 
+WONG SUN v.  US  (1963), em que a polícia, 
+de maneira ilegal, ingressou no domicílio de 
+“A” sem causa provável  (indícios probatórios 
+necessários para tanto), efetuando em segui­
+da  sua prisão.  Dessa prisão 
+ilegal resultou  a 
+apreensão de drogas em posse de “B”, o qual, 
+por sua vez, disse ter recebido a droga de “C”, 
+que também foi preso de maneira ilegal. Dias 
+mais  tarde,  após  “C”  ter  sido  colocado  em 
+liberdade, resolveu voluntariamente confessar 
+aos policiais a prática do  delito,  durante  seu 
+interrogatório policial. Quanto à apreensão da 
+droga com “B” e suas declarações, entendeu a 
+Suprema Corte  tratar-se  de prova  ilícita por 
+derivação, eis que resultado da entrada ilegal
+na casa de “A”. No entanto, concluiu que a teoria 
+dos frutos da árvore envenenada não teria o 
+condão de contaminar o que se apurou conta 
+“C”,  pois  sua  ação  voluntária  de  confessar  a 
+prática delituosa após ter sido solto e advertido 
+de seus direitos, teria tornado a conexão entre 
+a  prisão  ilegal  e  a  declaração  tão  atenuada 
+que o veneno da ilegalidade originária teria se 
+dissipado. Da análise do caso WONG SUN v. 
+US, embrião da limitação da mancha purgada, 
+depreende-se que um vício de ilicitude originá­
+rio pode ser expurgado, ou seja, removido, por 
+meio de um ato independente interveniente, 
+praticado pelo acusado ou por um terceiro, a 
+determinar a  interrupção  da corrente  causai 
+entre a ilegalidade originária e a prova subse­
+quente. Não se tem conhecimento da adoção 
+da limitação da mancha purgada pelo Supremo 
+Tribunal Federal, nem tampouco pelo Superior 
+Tribunal de Justiça. Não obstante, importante 
+compreender seu conteúdo, eis que, segundo 
+parte da doutrina, tal teoria passou a constar 
+do Código de Processo Penal, em virtude das 
+alterações introduzidas pela Lei n.  11.690/08. 
+Confira-se  mais  uma vez  a  redação  do  art. 
+157, §1°, do CPP: “são também inadmissíveis 
+as provas derivadas das ilícitas, salvo quando 
+não  evidenciado 0  nexo  de  causalidade  entre 
+umas e outras, ou quando as derivadas pude­
+rem ser obtidas por uma fonte independente 
+das primeiras”. Apesar de não haver qualquer 
+referência  expressa  à  limitação  da  tinta  di­
+luída,  ao  se  referir  o  dispositivo  à  ausência 
+de  nexo  de  causalidade  entre  a prova  ilícita 
+originária  e  prova  subsequente,  pode-se  daí 
+extrair a adoção  da referida teoria.  Isso por­
+que, segundo a teoria em questão, o vício da 
+ilicitude originária, quando atenuado em vir­
+tude do decurso do tempo, de circunstâncias 
+supervenientes, da magnitude da ilegalidade 
+funcional  ou  da  colaboração  voluntária  de 
+um  dos  envolvidos,  faz  desaparecer  o  nexo 
+causai entre a prova ilícita originária e a pro­
+va subsequente, não sendo viável falar-se em 
+prova ilícita por derivação.  Segundo Andrey 
+Borges  de  Mendonça,  a  adoção  dessa teoria 
+pelo legislador não rest
+[/PAGINA 807]
+
+[PAGINA 808]
+ou clara, pois “há um 
+certo nexo -  embora distante -  entre a prova 
+colhida e a ilícita. Certamente o caso concreto
+
+\
+\
+Art. 157 CPP COMENTADO • Renato Brasileiro de Lima
+e a jurisprudência poderão confrontar-se com 
+situações em que o nexo seja tão distante entre 
+a prova ilícita e a prova obtida que se poderia 
+pensar em um afastamento (ao menos norma­
+tivo) deste nexo. A depender do caso concreto, 
+a teoria da contaminação expurgada poderia 
+ser enquadrada na hipótese ampla do §1° do 
+art. 157” (
+Nova reforma do Código de processo 
+penal: comentada artigo por artigo. São Paulo: 
+Editora Método, 2008. p.  177). Para DEZEM 
+(op. cit. p. 137), “esta teoria foi positivada com a 
+reforma processual, ao dispor-se, no parágrafo 
+primeiro do art.  157 que é admissível a prova 
+ilícita por derivação quando não evidenciado 
+o  nexo  de  causalidade  entre  umas  e  outras”. 
+Apesar  de  guardar  certa  semelhança  com  a 
+limitação da fonte independente,  a teoria da 
+mancha  purgada  com  ela  não  se  confunde. 
+Na teoria da fonte independente, o nexo cau­
+sai  entre  as  provas  é  atenuado  em  razão  da 
+circunstância  de  a prova  secundária possuir 
+existência  independente  da prova primária. 
+Na  limitação  da  mancha  purgada,  o  lapso 
+temporal decorrido entre a prova primária e 
+a secundária, as circunstâncias intervenientes 
+na cadeia probatória,  a menor  relevância da 
+ilegalidade ou a vontade  do agente em cola­
+borar com a persecução  criminal atenuam a 
+ilicitude originária, expurgando qualquer vício 
+que  possa  recair  sobre  a  prova  secundária. 
+Nesse sentido: SILVA JÚNIOR. Op. cit. p. 513. 8
+8.  Exceção da boa-fé: a limitação da boa-fé 
+(em inglês, goodfaith exception) foi reconhe­
+cida  pela  Suprema  Corte  norte-americana 
+no caso US v. Leon, em  1984. Nesse julgado, 
+entendeu-se que, na medida em que a vedação 
+às provas ilícitas visa inibir, dissuadir, e deses­
+timular violações  aos  direitos  fundamentais, 
+não seria possível dizer que a prova seria ilícita 
+quando, com base em um mandado de busca e 
+apreensão ilegal expedido por um juiz neutro 
+e imparcial, mas posteriormente considerado 
+como  não  fundado  em  indícios  necessários 
+para  sua  expedição,  o  agente,  desconhecen­
+do tal  ilicitude  e havendo motivos  razoáveis 
+para acreditar na sua validade, obtém provas 
+decorrentes  do  cumprimento  do  mandado, 
+tendo convicção de que agia dentro da legali­
+dade.  Como destaca Feitoza (op. cit.  p. 697),
+entendeu-se  nessa  hipótese  que  “a  exclusão 
+da prova para se dissuadirem juizes seria ina- 
+propriada, pois: a) o  princípio da exclusão’ foi 
+destinado a prevenir (desencorajar) a conduta 
+policial irregular mais do que punir os erros 
+dos juizes;  b)  não  há  provas  sugerindo  que 
+magistrados  sejam  inclinados  a  ignorar  ou 
+subverter a 4a Emenda Constitucional; c) não 
+há qualquer base para acreditar que a exclusão 
+de prova  apreendida em  conformidade  com 
+um mandado judicial terá um  efeito  d
+[/PAGINA 808]
+
+[PAGINA 809]
+issua- 
+sivo  significativo  sobre  magistrados.  Como 
+o policial justificadamente confiou na prévia 
+decisão judicial,  não houve qualquer ilegali­
+dade policial e, portanto, nada a se dissuadir. 
+Numa  análise  de  custo-benefício,  como  não 
+havia  qualquer benefício  com  a exclusão  da 
+prova, que  seria a prevenção  de futuras vio­
+lações, não se justificaria o custo da exclusão 
+da prova, o qual incluiría a credibilidade das 
+decisões judiciais da justiça criminal”. Portan­
+to, com base nessa teoria, deve ser considerada 
+válida a prova obtida com violação a princípios 
+constitucionais,  desde que sua obtenção não 
+tenha decorrido da vontade de quem procedeu 
+à investigação,  mas  sim  de  uma  situação  de 
+erro ou ignorância. Os dois critérios para sua 
+aplicação seriam a boa-fé e a crença razoável na 
+legalidade da conduta do agente. A despeito de 
+sua importância no direito norte-americano, 
+não há registros de sua aplicação pelo Supremo 
+Tribunal Federal nem tampouco pelo Superior 
+Tribunal  de Justiça.  Afinal,  no  ordenamento 
+pátrio, a vedação à admissibilidade das provas 
+ilícitas também visa à proteção dos direitos e 
+garantias fundamentais. Por isso, é irrelevante 
+verificar se o agente que a produziu agia de boa 
+ou má-fé.
+9.  A teoria do risco: outra importante limi­
+tação  às exclusionary  rules  do  direito  norte- 
+-americano  é  a teoria do  risco,  com base  na 
+qual se busca dar fundamento à validade da 
+prova  obtida mediante violação  ao  direito  à 
+intimidade, com a utilização de escutas tele­
+fônicas,  filmagens  e fotografias  clandestinas. 
+Como destaca Silva Júnior (op. cit. p. 521/522), 
+“o argumento  é de que  a pessoa que faz,  es­
+pontaneamente,  revelações  a respeito  de sua 
+participação em eventos ilícitos, assume o risco
+544
+
+TÍTULO V II. DA PROVA j 157
+quanto à documentação do fato por outrem, 
+podendo ser glosado o entendimento na pa- 
+rêmia de que ‘Si usted no cuida sus garantias, 
+no pretenda que lo haga um juez’.  Essa dou­
+trina pretende resolver a questão tendo como 
+parâmetro o  dever de  sigilo que  acompanha 
+algumas profissões, uma vez que quem faz a 
+confissão  ou  revelações  espontâneas  de  um 
+delito  a  outrem,  que  não  tem  o  dever  legal 
+de  não  contar  o  segredo,  assume  o  risco  de 
+que  o  assunto  esteja  sendo  registrado  e  que 
+o trato seja descumprido, sendo irrelevante a 
+circunstância de aquele não ter conhecimento 
+concreto  de  que,  no  momento,  estão  sendo 
+tiradas fotografias, procedidas escutas ou fil­
+magens, etc”. No Brasil, não se tem registros da 
+aplicação expressa da teoria do risco pelo Su­
+premo Tribunal Federal, nem tampouco pelo 
+Superior  Tribunal  de  Justiça.  Não  obstante, 
+em relação às gravações clandestinas, em que 
+um  dos  interlocutores  grava  uma  conversa 
+telefônica sem o conhecimento do outro, o Su­
+premo tem concluído pela sua admissibilidade 
+no processo,  desde  que não  haja  causa legal 
+de sigilo ou de reserva de conversação
+[/PAGINA 809]
+
+[PAGINA 810]
+. Além 
+disso, também têm sido consideradas válidas 
+gravações  feitas  por  câmeras  de  segurança 
+instaladas como mecanismos de vigilância em 
+estabelecimentos bancários,  postos  de  com­
+bustíveis, supermercados, shoppings centers, 
+vias públicas, etc. Com a crescente utilização 
+desses aparatos de segurança nos últimos anos, 
+é cada vez mais comum que as investigações 
+policiais  e  os  próprios  processos  criminais 
+estejam amparados na utilização das imagens 
+captadas  através  desses  dispositivos.  Nesses 
+casos, por mais que não haja prévia autorização 
+judicial para a captação das imagens, não há 
+falar em violação ao direito à intimidade. Afi­
+nal de contas, as gravações foram efetuadas em 
+local público como forma de segurança, sendo 
+inviável que a pessoa que praticou o delito em 
+local público invoque a proteção ao direito à 
+intimidade.
+♦   Jurisprudência selecionada:
+STF:"(...) Como gravação meramente clandestina, que 
+se não confunde com interceptação, objeto de veda­
+ção constitucional, é lícita a prova consistente no teor
+de gravação de conversa telefônica realizada por um 
+dos interlocutores, sem conhecimento do outro, se não 
+há causa legal específica de sigilo nem de reserva da 
+conversação, sobretudo quando se predestine a fazer 
+prova, em juízo ou inquérito, a favor de quem a gravou". 
+(STF, 2a Turma, RE 402.717, Rei. Min. Cezar Peluso, DJe 
+03012/02/2009).
+S T F :"(...)  Paciente denunciado por falsidade  ideoló­
+gica, consubstanciada em exigir quantia em dinheiro 
+para inserirfalsa informação de excesso de contingen­
+te em certificado de dispensa de incorporação. Gra­
+vação clandestina realizada pelo alistando, a pedido
+ 
+de emissora de televisão, que levou as imagens ao ar 
+em todo o território nacional por meio de conhecido 
+programa jornalístico. O conteúdo da reportagem re­
+presentou notitia criminis, compelindo as autoridades 
+ao exercício do dever-poder de investigar, sob pena de 
+prevaricação. A ordem cronológica dos fatos evidencia 
+que  as  provas,  consistentes  nos  depoim entos  das 
+testemunhas e no interrogatório do paciente, foram 
+produzidas em decorrência da notitia criminis e antes 
+da juntada da fita nos autos do processo de sindicância 
+que embasou  o  Inquérito  Policial  Militar. A questão 
+posta  não é de inviolabilidade das  comunicações e 
+sim da  proteção da  privacidade e da  própria  honra, 
+que  não  constitui  direito absoluto,  devendo  ceder 
+em  prol  do interesse  público.  (Precedentes). Ordem 
+denegada". (STF, 1 aTurma, HC 87.341/PR, Rei. Min. Eros 
+Grau, DJ 03/03/2006).
+S T F :"(...) A gravação ambiental meramente clandesti­
+na, realizada por um dos interlocutores, não se confun­
+de com a interceptação, objeto cláusula constitucional 
+de reserva de jurisdição. É lícita a prova consistente em 
+gravação de conversa telefônica realizada por um dos 
+interlocutores, sem conhecimento do outro, se não há 
+causa legal específica de sigilo nem de reserva da con­
+versação. Precedentes. Agrav
+[/PAGINA 810]
+
+[PAGINA 811]
+o regimental desprovido". 
+(STF, Al 560.223 AgR/SP, Rei. Min. Joaquim Barbosa, j. 
+12/04/2011).
+10.   Limitação da destruição da mentira 
+do  imputado: desenvolvida  pela  Suprema 
+Corte norte-americana no  caso WALDER v. 
+US  (1954),  pela limitação  da  destruição  da 
+mentira do imputado, a prova ilícita, conquan­
+to não seja idônea para comprovar a culpabili­
+dade do acusado, pode ser valorada no sentido 
+de demonstrar que o autor do fato delituoso 
+está mentindo. No leading case citado, o acu­
+sado Walder, ao ser perguntado se já tinha tido 
+droga sob sua posse, respondeu negativamente, 
+o  que  não  era verdade,  na  medida  em  que, 
+anteriormente, em uma operação considera­
+da ilícita,  a polícia havia apreendido em  sua 
+casa uma grande quantidade de heroína. No
+
+Art. 157 CPP COMENTADO • Renato Brasileiro de Lima
+Brasil, não se tem conhecimento de nenhum 
+precedente do  Supremo Tribunal  Federal ou 
+do Superior Tribunal de Justiça a respeito da 
+limitação em análise.
+11.   Doutrina  da  visão  aberta: no  siste­
+ma norte-americano, independentemente do 
+consentimento  do  ofendido,  uma  investiga­
+ção em locais protegidos pela inviolabilidade 
+domiciliar só pode ser considerada válida se 
+amparada  por  autorização judicial,  mesmo 
+em  se tratando  de flagrante delito.  Portanto, 
+se, durante o cumprimento de um mandado 
+judicial expedido para apreender documentos 
+ou objetos relacionados a um crime, a autori­
+dade policial encontrar elementos relativos a 
+outro delito,  ainda que se trate de um crime 
+permanente (v.g., armazenamento de drogas), 
+tais elementos não deverão ser considerados 
+válidos,  haja vista  que,  mesmo  nos  casos  de 
+flagrante delito, afigura-se indispensável prévia 
+autorização judicial. Como forma de se atenuar 
+o rigor da necessidade de autorização judicial 
+no cumprimento de buscas e apreensões domi­
+ciliares no direito americano, foi cunhada pela 
+Suprema Corte americana a doutrina da visão 
+aberta, segundo a qual, com base no princípio 
+da razoabilidade, deve ser considerada legítima 
+a apreensão de elementos probatórios do fato 
+investigado ou mesmo de outro crime, quan­
+do,  a despeito  de não  se tratar da finalidade 
+gizada no mandado de busca e apreensão, no 
+momento da realização da diligência, o objeto 
+ou documento é encontrado por se encontrar 
+à plena vista do agente policial. Nesse sentido: 
+SILVA  JÚNIOR,  Walter  Nunes.  Op.  cit.  p. 
+523/524. Segundo o autor, “extremamente as­
+semelhada à cláusula de exceção da plain view 
+doctrine é a dos campos abertos. Esta também 
+foi construída no Direito judicial americano, 
+a fim de dar validade à busca e apreensão de 
+drogas que, muito embora feita em proprieda­
+de privada, ocorre em local ao ar livre”. Como 
+se percebe pelo conceito da doutrina da visão 
+aberta, o encontro  desse elemento relativo  a 
+outro  delito  deve  se  dar  de  maneira  casual. 
+Portanto,  há  de  se  considerar ilícita  a  prova 
+obtida no cumprimento de busca e apreensão 
+d
+[/PAGINA 811]
+
+[PAGINA 812]
+omiciliar quando: a) restar comprovado que 
+o agente policial, a despeito de já ter cumprido
+a diligência que constava do mandado judicial, 
+continua  efetuando  diligências  no  interior 
+do  domicílio  do  investigado,  então  obtendo 
+elementos  relativos  a  outro  delito.  Nessa hi­
+pótese, se o agente policial já logrou êxito na 
+apreensão  do  objeto  do  mandado  judicial, 
+deve fazer cessar imediatamente a diligência. 
+Se delibera por prosseguir, há evidente desvio 
+de finalidade, devendo eventual apreensão de 
+elementos probatórios relativos a outros deli­
+tos ser censurada com a pecha da ilicitude; b) 
+restar comprovado que o agente policial leva 
+a efeito o cumprimento do mandado judicial 
+em locais onde claramente não estaria o ob­
+jeto da autorização judicial.  Exemplificando, 
+se  o  mandado  de busca  e  apreensão  tivesse 
+como  objetivo  a  localização  de  animais  da 
+fauna exótica de grande porte, haveria evidente 
+desvio de finalidade caso a autoridade policial 
+vasculhasse  gavetas e  armários,  devendo  ser 
+considerados  ilícitos  eventuais  provas  rela­
+cionadas  a  outros  delitos  assim  obtidas.  No 
+Brasil,  não  há  registros  da  adoção  expressa 
+teoria. Isso porque, no ordenamento pátrio, em 
+relação à inviolabilidade domiciliar, a própria 
+Constituição  Federal  autoriza  a violação  ao 
+domicílio  nos  casos  de  flagrante  delito  (v.g., 
+em crimes permanentes), independentemente 
+de prévia autorização judicial (CF, art. 5o, XI). 
+Não obstante, o conceito da doutrina da visão 
+aberta muito se assemelha à teoria do encontro 
+fortuito de provas, usualmente trabalhada pela 
+doutrina e jurisprudência pátrias.
+11.1.   Teoria do encontro fortuito (ou ca­
+sual) de provas (serendipidade): é utilizada 
+nos  casos  em que,  no  cumprimento  de uma 
+diligência  relativa  a  um  delito,  a  autoridade 
+policial  casualmente  encontra  provas  perti­
+nentes à outra infração penal, que não estavam 
+na linha de desdobramento normal da investi­
+gação. Fala-se em encontro fortuito de provas 
+quando a prova de determinada infração penal 
+é  obtida  a  partir  de  diligência regularmente 
+autorizada para a investigação de outro crime. 
+Nesses casos, a validade da prova inesperada­
+mente obtida está condicionada à forma como 
+foi realizada a diligência:  se houve desvio de 
+finalidade, abuso de autoridade, a prova não 
+deve ser considerada válida; se o encontro da
+
+TÍTULO VII • DA PROVA  ,/ 1 5 7
+prova foi casual, fortuito, a prova é válida. A 
+título  exemplificativo,  suponha-se  que,  no 
+curso  de  investigação  relacionada  a  crimes 
+contra  a  fauna,  uma autoridade  policial  in­
+gresse em uma residência munida de mandado 
+judicial de busca domiciliar com a finalidade 
+de apreender animal de grande porte mantido 
+em cativeiro sem autorização do IBAMA. Se é 
+esta a finalidade do mandado (CPP, art. 243, 
+II), é de se esperar que a diligência seja levada 
+a efeito  exclusivamente  para a  apreensão  do 
+animal. Logo, na hip
+[/PAGINA 812]
+
+[PAGINA 813]
+ótese de os policiais pas­
+sarem a revistar gavetas e armários, eventuais 
+provas documentais referentes a crimes contra 
+o sistema financeiro nacional ali encontradas 
+hão de ser consideradas ilícitas, porquanto não 
+relacionadas ao objeto do mandado de busca, 
+caracterizando evidente violação do domicílio 
+(CF,  art.  5o,  XI),  pois,  para  tanto,  não  havia 
+prévia  autorização judicial.  Nesses  casos  de 
+cumprimento de mandados de busca, deve-se 
+atentar para o fato de que a Constituição Fede­
+ral autoriza a violação ao domicílio nos casos 
+de flagrante delito (CF, art. 5o, XI). Logo, se a 
+autoridade  policial,  munida  de  mandado  de 
+busca e apreensão, depara-se com certa quanti­
+dade de droga no interior na residência, temos 
+que a apreensão será considerada válida, pois, 
+como se trata do delito de tráfico de drogas na 
+modalidade  de  “guardar”,  “ter em  depósito”, 
+etc.,  espécie  de  crime  permanente,  haverá 
+situação  de  flagrante  delito,  autorizando  o 
+ingresso no domicílio mesmo sem autorização 
+judicial.  Portanto,  nas hipóteses  de flagrante 
+delito (v.g., crimes permanentes), mesmo que 
+o objeto do mandado de busca e apreensão seja 
+distinto, será legítima a intervenção policial, 
+a despeito da autorização para entrar na casa 
+lhe ter sido deferida com outra finalidade. A 
+teoria do encontro fortuito de provas não deve 
+ser trabalhada única e exclusivamente para as 
+hipóteses  de  cumprimento  de  mandados  de 
+busca e apreensão. Sua utilização também se 
+apresenta útil no tocante ao cumprimento de 
+interceptações telefônicas. Isso porque é assaz 
+comum que,  no curso de uma interceptação 
+telefônica  regularmente  autorizada pelo juiz 
+competente para investigar crime punido com 
+pena de reclusão, sejam descobertos elemen­
+tos probatórios relativos a outros delitos e/ou 
+outros  indivíduos.  Em  tais  hipóteses, verifi­
+cando-se que não houve desvio de finalidade 
+no  cumprimento  da  diligência,  dúvidas  não 
+temos quanto à validade dos elementos assim 
+obtidos.  Na visão  dos  Tribunais  Superiores, 
+uma vez realizada  a interceptação telefônica 
+de  forma fundamentada,  legal  e  legítima,  as 
+informações  e  provas  coletas  dessa  diligên­
+cia podem  subsidiar  denúncia com base em 
+crimes puníveis com pena de detenção, desde 
+que  conexos  aos primeiros  tipos  penais  que 
+justificaram a interceptação.  Para Pacelli (op. 
+cit. p. 323), “não é a conexão que justifica a lici- 
+tude da prova. O fato, de todo relevante, é que, 
+uma vez franqueada a violação dos direitos à 
+intimidade e à privacidade dos moradores da 
+residência,  não  haveria razão  alguma para  a 
+recusa de provas de quaisquer outros delitos, 
+punidos  ou  não  com  reclusão.  Isso  porque 
+uma coisa é a justificação para a autorização 
+da quebra de sigilo; tratando-se de violação à 
+intimidade, haveria mesmo de se acenar com 
+a gravidade do crime. Entretanto, outra coisa é 
+o aproveitamento do conteúdo da intervenção 
+autorizada; tratando-se
+[/PAGINA 813]
+
+[PAGINA 814]
+de material relativo à 
+prova de crime (qualquer crime), não se pode 
+mais argumentar com a justificação da medida 
+(interceptação  telefônica),  mas,  sim,  com  a 
+aplicação da lei”. Ainda em relação à teoria do 
+encontro fortuito de provas, especial atenção 
+deve ser dispensada ao cumprimento de man­
+dado de busca e apreensão em escritórios de 
+advocacia.  Isso  porque,  do  cumprimento  de 
+tal diligência, pode eventualmente resultar a 
+apreensão de documentos relativos a clientes 
+do advogado, surgindo o questionamento da 
+validade dessa apreensão em virtude da teoria 
+do encontro fortuito. Nesse caso, mesmo que a 
+apreensão de documentos pertinentes a clien­
+tes do advogado investigado ocorra de forma 
+casual,  fortuita,  sua  utilização  em  eventual 
+processo criminal não será admissível, eis que 
+protegidos pelo sigilo profissional do advoga­
+do, verdadeiro corolário do direito de defesa. 
+Não por outro motivo, segundo o art. 7o, inciso 
+II, da Lei n. 8.906/94, é direito do advogado a 
+inviolabilidade  de  seu escritório  ou local  de 
+trabalho,  bem  como  de  seus  instrumentos
+
+"\
+Art. 157 CPP COMENTADO • Renato Brasileiro de Lima
+de  trabalho,  de  sua  correspondência  escrita, 
+eletrônica, telefônica e telemática, desde que 
+relativas  ao  exercício  da  advocacia.  Por  sua 
+vez,  de acordo com o art.  7°,  §§6° e 7o, com 
+redação dada pela Lei n.  11.767/08, presentes 
+indícios de autoria e materialidade da prática 
+de crime por parte de advogado, a autoridade 
+judiciária competente poderá decretar a que­
+bra da inviolabilidade de que trata o inciso II 
+do caput deste  artigo,  em  decisão  motivada, 
+expedindo  mandado  de  busca  e  apreensão, 
+específico  e pormenorizado,  a ser cumprido 
+na presença de representante da OAB, sendo, 
+em qualquer hipótese, vedada a utilização dos 
+documentos, das mídias e dos objetos perten­
+centes a clientes do advogado averiguado, bem 
+como  dos  demais  instrumentos  de  trabalho 
+que  contenham  informações  sobre  clientes. 
+Essa ressalva, todavia, não se estende a clientes 
+do  advogado  averiguado  que  estejam  sendo 
+formalmente investigados como seus partíci­
+pes ou coautores pela prática do mesmo crime 
+que deu causa à quebra da inviolabilidade.
+♦   Jurisprudência selecionada:
+STF:"(...) Uma vez realizada a interceptação telefônica 
+de forma fundamentada, legal e legítima, as informa­
+ções e provas coletas dessa diligência podem subsidiar
+ 
+denúncia  com  base  em  crimes  puníveis  com  pena 
+de detenção, desde que conexos aos primeiros tipos 
+penais que justificaram a interceptação. Do contrário, 
+a interpretação do art. 2°, III, da L. 9.296/96 levaria ao 
+absurdo de concluir pela impossibilidade de intercep­
+tação para  investigar crimes apenados com  reclusão 
+quando forem estes conexos com crimes punidos com 
+detenção. Habeas corpus indeferido". (STF, Pleno, HC 
+83.515/RS, Rei. Min. Nelson Jobim, DJ 04/03/2005 p. 11).
+STJ:"(...)  O fato  de  as  medidas de  quebra  do  sigilo 
+b
+[/PAGINA 814]
+
+[PAGINA 815]
+ancário e fiscal  não terem como objetivo inicial  in­
+vestigar o crime de peculato não conduz à ausência 
+de  elementos  indiciários  acerca  do  referido  crime, 
+podendo  ocorrer o  que  se chama  de fenômeno da 
+serendipidade,  que  consiste  na  descoberta fortuita 
+de delitos  que  não são objeto da  investigação.  Pre­
+cedentes. (...) Habeas corpus não conhecido". (STJ, 
+6a 
+Turma, HC 282.096/SP, Rei. Min. Sebastião Reis Júnior, 
+j. 24/4/2014, DJe 06/05/2014).
+STJ:"(...)  O recorrente é advogado e foi denunciado 
+pela suposta prática dos crimes previstos nos arts. 33, 
+caput, da Lei n. 11.343/06 c.c 12, da Lei n. 10.826/03, 
+pois, em cumprimento a mandado de busca e apre­
+ensão no escritório do recorrente, expedido com o fim 
+de apreender arma  que  pertencería  a  estagiário do
+escritório, a polícia se deparou com aproximadamente 
+765 g (setecentos e sessenta e cinco gramas) de ma­
+conha e um revólver, calibre 38, além de 14 (quatorze) 
+cartuchos íntegros numa caixa de metal. Não obstante 
+o mandado de busca e apreensão tenha sido expedido 
+para apuração de crime praticado pelo estagiário do 
+escritório do recorrente, verificou-se, no cumprimento 
+da  medida, a  ocorrência flagrancial  de dois  outros 
+crimes que  possuem  natureza  permanente. Contra­
+ria  a  razoabilidade exigir-se dos policiais envolvidos 
+na  diligência  que fingissem  não ver os crimes,  para 
+solicitar, a  posteriori,  um  novo  mandado específico 
+de busca e apreensão para o escritório do recorrente 
+(Doutrina e jurisprudência). A despeito da  não indi­
+cação expressa de representante da OAB local para o
+ 
+acompanhamento da diligência, foi solicitado, pelos 
+policiais nela envolvidos, que uma advogada, estivesse 
+presente e acompanhasse o cumprimento do manda­
+do de busca e apreensão no escritório do recorrente, 
+o qual  se dirigia  contra  o estagiário.  Diligência  que 
+não se revela nula em sua execução, quando muito, 
+meramente irregular. Recurso ordinário desprovido". 
+(STJ, 5a Turma, RHC 39.412/SP, Rei. Min. Felix Fischer, j. 
+03/03/2015, DJe 17/03/2015).
+12.   Limitação da renúncia do interessado:
+como já foi dito, no sistema americano, inde­
+pendentemente do  consentimento do mora­
+dor, exige-se autorização judicial para que seja 
+considerada válida busca e apreensão domici­
+liar. Daí a discussão quanto à possibilidade de 
+o  consentimento  da pessoa ter  o  condão  de 
+afastar eventual nulidade da diligência reali­
+zada pela autoridade policial sem prévia auto­
+rização judicial.  Segundo Hairabedian (apud 
+Silva Júnior, op. cit. p.  525), tanto a doutrina 
+quanto a jurisprudência têm aceitado essa tese, 
+desde que o consentimento da pessoa seja dado 
+de forma prévia, expressa, livre, comprovada e 
+indubitável. No Brasil, em virtude da redação 
+do preceito constitucional do art. 5o, XI, tem- 
+-se que referida teoria é inócua, pois a própria 
+Constituição  Federal autoriza o  ingresso  em 
+domicílio  alheio  mediante  o  consentimento 
+do  morador.  Mesmo  a
+[/PAGINA 815]
+
+[PAGINA 816]
+ssim,  o  tema  merece 
+especial atenção ao se discutir a possibilidade 
+de apreensão do lixo produzido por determi­
+nado indivíduo. Pode parecer que não, porém, 
+a depender do caso concreto, a análise do lixo 
+humano pode ser capaz de fornecer importan­
+tes elementos probatórios, tâis como extratos 
+bancários,  contas de energia e telefone,  com 
+relação de ligações efetuadas, etc. Nesse caso,
+
+título vii- da prova j Art. 1 57
+queremos  crer  que,  enquanto  o  lixo  estiver 
+no interior do domicílio, goza da proteção do 
+art.  5o, XI, da Constituição Federal, somente 
+sendo possível sua apreensão mediante prévio 
+consentimento  do morador,  ou por meio  de 
+autorização judicial. No entanto, se o lixo foi 
+descartado  para  ser  recolhido  pelo  serviço 
+público de limpeza, subentende-se que o indi­
+víduo tenha renunciado à proteção ao direito 
+à  intimidade,  sendo  possível  sua  apreensão 
+independentemente  de prévia  expedição  de 
+mandado judicial.
+13.  A limitação da infração constitucional 
+alheia: de  acordo  com  essa  limitação,  só  a 
+pessoa  que  teve  o  direito  fundamental vio­
+lado e que é prejudicada com a utilização da 
+prova ilícita no processo é que pode solicitar o 
+reconhecimento de sua ilicitude. Assim, caso 
+o direito fundamental violado quando da ob­
+tenção da prova refira-se à pessoa distinta do 
+acusado, a prova deve ser considerada válida. 
+Referida teoria não tem acolhida no ordena­
+mento pátrio. Como dito acima, a inadmissi­
+bilidade das provas ilícitas tem por escopo não 
+apenas a proteção dos direitos fundamentais 
+do acusado, mas também o de impor ao Estado 
+um comportamento ético, a fim de se respeitar 
+os  parâmetros  constitucionais  estabelecidos, 
+especialmente para limitar o exercício do ius 
+puniendi.
+14.   A limitação da infração constitucional 
+por pessoas que não fazem parte do órgão 
+policial: no sistema norte-americano, o pro­
+pósito  do  princípio  da  exclusão  é  dissuadir, 
+intimidar, prevenir -  compelir ao respeito pe­
+las garantias constitucionais da única maneira 
+válida efetivamente -  pela remoção do incen­
+tivo ao seu desrespeito. Logo, a prova somente 
+deve ser reputada ilícita quando a ilegalidade 
+tiver sido  praticada diretamente pelo agente 
+policial.  Por  conseguinte,  não  há  falar  em 
+ilicitude se a ilegalidade tiver sido produzida 
+por outros agentes dos organismos estatais ou 
+ainda por particulares ou autoridades estran­
+geiras.  Como já  dito,  no  Brasil,  a vedação  à 
+admissibilidade das provas obtidas por meios 
+ilícitos tem como objetivo precípuo a tutela dos 
+direitos  e  garantias  fundamentais.  Portanto,
+no ordenamento pátrio, pouco importa quem 
+tenha sido o agente responsável pela produção 
+da prova ilícita -  autoridade policial ou par­
+ticular -  em ambos os casos a prova deve ser 
+considerada ilícita. Não por outro motivo, ao 
+apreciar o RE 251.445/GO, concluiu o Supre­
+mo Tribunal Federal ser prova obtida por meio 
+ilícito  e,  por  isso,  inadmissível,  a  r
+[/PAGINA 816]
+
+[PAGINA 817]
+esultante 
+de furto realizado por menor em consultório 
+odontológico.  Foram  subtraídas  fotografias 
+que, entregues à polícia, serviram para instruir 
+inquérito policial e processo criminal. O assun­
+to ganha relevância, porém, quando se discute 
+o tema da cooperação jurídica internacional. 
+Nessa linha, como propõe Silva Júnior (op. cit. 
+p. 527), suponha-se que a autoridade brasileira 
+solicite a um país estrangeiro que seja efetuada 
+a quebra do sigilo telefônico. Ainda no plano 
+da suposição, admita-se que, segundo a legis­
+lação do país alienígena, para a produção da 
+diligência solicitada, não haja necessidade de 
+prévia autorização judicial e, por isso mesmo, 
+aquele determine que a medida seja adotada 
+sem o pronunciamento de autoridade judicial. 
+Finalizada a cooperação jurídica internacional 
+mediante o encaminhamento da gravação da 
+conversa telefônica sem autorização judicial, 
+seria o caso de indagar-se se o acusado podería, 
+no processo, invocar o maltrato ao seu direito 
+à  inviolabilidade  do  sigilo  telefônico,  pois, 
+conforme  a  Constituição  brasileira,  aquela 
+diligência somente poderia ter sido cumprida 
+com suporte em determinação dada por um 
+juiz. À primeira vista, é possível sustentar que 
+o  direito  fundamental  assegurado  na  Cons­
+tituição  não  tem  como  barreira  os  limites 
+territoriais brasileiros.  Assim,  mesmo  em  se 
+tratando de diligência realizada em outro país, 
+na medida em que o processo tramita no Brasil, 
+as garantias previstas no texto constitucional 
+devem ser respeitadas. No entanto, “a solução 
+mais adequada é a recomendada pela regra de 
+Direito Internacional, segundo a qual, na co­
+operação jurídica entre dois países, o ato deve 
+ser  praticado  segundo  a  legislação  daquele 
+que presta o auxílio. Até porque, em respeito à 
+soberania, um país não pode impor ao outro a 
+sua legislação, ainda que nada impeça que, no 
+pedido de cooperação, diante da divergência
+
+Art.157
+CPP COMENTADO • Renato Brasileiro de Lima
+entre  os  sistemas jurídicos,  o  Estado  reque­
+rente solicite que a diligência seja feita com a 
+adoção de determinada formalidade, o que, na 
+praxe internacional, motivada pelo princípio 
+cooperativo,  sempre  é  atendido,  na  medida 
+em  que  tal  não  afronte  a  ordem  pública do 
+Estado requerido” (op. cit. p. 528). Acerca do 
+assunto, aliás, no julgamento da Extradição n. 
+524, requerida pelo Paraguai, entendeu o Pleno 
+do STF que, conquanto não seja possível, sob 
+o manto do princípio da solidariedade entre 
+os  países,  prestar-se  a  cooperação jurídica 
+internacional em colaboração com pretensões 
+que são inadmissíveis sob a ótica dos direitos 
+fundamentais,  não  cabe,  no  seu  exame  de 
+legalidade, ingressar na análise do mérito ou 
+de questões de ordem formal para o fim, nes­
+te  caso,  de  enxergar  eventuais  nulidades.  A 
+decisão do Supremo reflete o posicionamento 
+segundo o qual, em sede de cooperação jurídi­
+ca entre países, devem ser respeitadas as regras
+[/PAGINA 817]
+
+[PAGINA 818]
+de  ordem  formal  referentes  à  condução  dos 
+processos judiciais em conformidade com as 
+normas estabelecidas no ordenamento jurídico 
+do país em que o processo tramita. Em síntese, 
+verificando-se que a diligência investigatória 
+realizada em outro país em atendimento a pe­
+dido de cooperação jurídica internacional foi 
+feita de acordo com o ordenamento jurídico do 
+Estado estrangeiro, não há falar em nulidade 
+ou ilicitude da prova quando esta for introduzi­
+da no processo em curso no território nacional. 
+Apresenta-se pertinente, assim, o acolhimento 
+da  cláusula  de  exclusão  consubstanciada  na 
+tese da infração constitucional estrangeira.
+15.   Inutilização da prova ilícita: como vis­
+to anteriormente, a sanção prevista na Consti­
+tuição para a prova reconhecida ilícita é a sua 
+inadmissibilidade processual (CF, art. 5o, LVI). 
+Logo, a prova ilícita não pode ingressar nos 
+autos do processo. Porém, a Carta Magna não 
+prevê de modo expresso o que deverá ocorrer 
+com a prova ilícita que, apesar da proibição, 
+tiver ingressado nos autos do processo. A des­
+peito do silêncio da Constituição Federal, com 
+o advento da Lei n. 11.690/08, passou a constar 
+expressamente do CPP que, 
+“preclusa a deci­
+são de desentranhamento da prova declarada 
+inadmissível, esta será inutilizada por decisão
+judicial, facultado às partes acompanhar o inci­
+dente” (art. 157, §3°). Mesmo antes da vigência 
+da Lei n. 11.690/08, o Supremo Tribunal Fede­
+ral já vinha reconhecendo a possibilidade de 
+desentranhamento da prova obtida por meios 
+ilícitos: STF, Pleno, Inq. 731 ED/DF, Rei. Min. 
+Néri da Silveira, j. 22/05/1996, DJ 07/06/1996. 
+Na verdade, como não existia dispositivo espe­
+cífico sobre o desentranhamento, aplicava-se, 
+por interpretação extensiva, o art.  145, IV do 
+CPP, que determina o desentranhamento de 
+documento falso. Da leitura do §3° do art. 157 
+do  CPP  percebe-se  que,  inicialmente,  deve 
+haver uma decisão determinando o desentra­
+nhamento  da prova  declarada  inadmissível. 
+Ademais, uma vez preclusa tal decisão, a prova 
+declarada inadmissível será inutilizada, sendo 
+facultado às partes acompanhar o incidente. 
+O §3° do art.  157 nada dispõe acerca do mo­
+mento processual em que o magistrado deverá 
+analisar  a  ilicitude  da  prova.  A  nosso  ver, 
+porém,  é  possível  concluir  que  a  apreciação 
+da  ilicitude  da prova  deve ocorrer  o  quanto 
+antes possível, sobretudo de modo a se evitar 
+que referida prova venha a contaminar outras. 
+Logicamente,  se  eventual  prova  ilícita  tiver 
+sido produzida no bojo do inquérito policial, 
+já se pode requerer seu desentranhamento. Se, 
+no entanto, a despeito da ilicitude da prova, 
+houver o oferecimento de denúncia pelo Mi­
+nistério Público e ulterior recebimento da peça 
+acusatória, pensamos que o reconhecimento 
+da ilicitude da prova deve ocorrer imediata­
+mente após a apresentação da resposta à acu­
+sação pela defesa. Assim, deverá o magistrado 
+se pronunciar quanto à ilicitude de ev
+[/PAGINA 818]
+
+[PAGINA 819]
+entual 
+prova constante dos autos no momento pre­
+visto no art. 399 do CPP. Obviamente, caso a 
+prova tenha sido  apresentada em audiência, 
+deve o magistrado se pronunciar quanto à sua 
+ilicitude de imediato, afastando sua valoração 
+de eventual sentença condenatória. Em ambas 
+as situações, esse desentranhamento imediato 
+há de se limitar a uma inutilização formal pro­
+visória, devendo a prova ilícita ser preservada 
+na  secretaria judicial,  para eventual retorno 
+aos autos principais caso a decisão seja anu­
+lada ou modificada. Com efeito, a inutilização 
+formal  definitiva  e  a  inutilização  material
+
+TÍTULO V II. DA PROVA -\ 5 7
+(destruição)  somente ocorrerão  após  a pre- 
+clusão da decisão que reconheceu a ilicitude 
+da prova. Se o magistrado, antes da preclusão 
+da decisão que declarou a inadmissibilidade 
+da prova obtida por meio ilícito, determinar 
+sua  destruição,  a  parte  prejudicada  poderá 
+impetrar mandado de segurança com pedido 
+de  medida  liminar,  em virtude  da violação 
+ao  direito  líquido  e  certo  à  preservação  da 
+prova fora dos autos até a preclusão da deci­
+são  que  determinou seu  desentranhamento. 
+O  momento  processual  distinto  em  que  se 
+der a apreciação da (il)licitude da prova trará 
+consequências  distintas  quanto  ao  recurso 
+cabível.  Se  o  magistrado  reconhecer a inad­
+missibilidade da prova antes da audiência una 
+de instrução e julgamento, o recurso cabível 
+será o recurso em sentido estrito. Explica-se: 
+é bem verdade que, segundo o Projeto de Lei 
+n.  4.206/01,  caberia  agravo  de  instrumento 
+contra a decisão que declarasse lícita ou ilícita 
+a prova. Porém, tal projeto não foi aprovado. 
+Destarte, pensamos ser aplicável, por interpre­
+tação extensiva, o disposto no art. 581, inciso 
+XIII, que prevê ser cabível recurso em sentido 
+estrito contra a decisão que anular o processo 
+da instrução criminal, no todo ou em parte. 
+Lado outro, caso não seja reconhecida a ilici­
+tude da prova, será possível a impetração de 
+habeas corpus em favor do acusado, desde que 
+a imputação constante do processo refira-se 
+à infração penal que preveja, pelo menos em 
+tese, pena privativa de liberdade. Também se 
+afigura cabível o mandado de segurança, seja 
+em  favor da  acusação,  apontando  o  direito 
+líquido e certo à prova lícita, consectário do 
+direito de ação, seja em favor do acusado, caso 
+a infração penal não preveja pena privativa de 
+liberdade. Em ambas as situações (reconheci­
+mento ou não da ilicitude da prova), a matéria 
+pode voltar a ser impugnada em preliminar de 
+futura e eventual apelação, em face de cercea­
+mento do direito de defesa ou de acusação. Se, 
+no entanto, o reconhecimento da ilicitude da 
+prova ocorrer durante a audiência una de ins­
+trução e julgamento, sendo proferida sentença 
+em seguida (CPP, art. 403, caput), o recurso a 
+ser manejado será o de apelação, ainda que so­
+mente se recorra quanto à questão probatória.
+Isso porque, segundo o disposto no art. 593, 
+§4°,  “
+[/PAGINA 819]
+
+[PAGINA 820]
+quando cabível a apelação, não poderá 
+ser usado o recurso em sentido estrito, ainda 
+que somente de parte da decisão se recorra”. 
+Preclusa a decisão que reconheceu a inadmis­
+sibilidade  da prova  ilícita,  prevê  o  art.  157, 
+§3°, que haverá sua inutilização, facultado às 
+partes acompanhar o incidente. Nesse ponto, o 
+texto final aprovado pelo Congresso Nacional 
+afastou-se do Projeto de Lei n. 4.205/01, cuja 
+redação era a seguinte: “preclusa a decisão de 
+desentranhamento da prova declarada ilícita, 
+serão tomadas as providências para o arquiva­
+mento sigiloso em cartório”. A nosso juízo, a 
+solução proposta no projeto era a mais correta, 
+não  só  sob  o  ponto  de  vista  teórico,  como 
+também  sob  o  ponto  de  vista  prático.  Isso 
+porque, pela interpretação literal do art.  157, 
+§3°, do CPP, preclusa a decisão que declarou a 
+ilicitude da prova, e a consequente inadmissi­
+bilidade de sua utilização no processo, deverá 
+a prova ser inutilizada, ou seja, deverá haver 
+a destruição física da prova -   não por outro 
+motivo, a própria lei prevê a possibilidade de 
+acompanhamento do incidente de destruição 
+pelas partes. Ocorre que, eventualmente, essa 
+prova cuja ilicitude foi reconhecida pode ser 
+o  próprio  corpo  de  delito  de  outra  infração 
+penal. Ademais, essa prova obtida de maneira 
+ilícita  pode  pertencer  licitamente  a  alguém 
+(v.g.,  cartas  que  foram  furtadas  de  seu  des­
+tinatário).  Em  tais  hipóteses,  como  se  pode 
+cogitar  de  sua  destruição  física?  Portanto, 
+pensamos que a regra constante do art.  157, 
+§3°, do CPP, deve ser interpretada com certo 
+temperamento:  preclusa  a  decisão  que  de­
+clarou  a  inadmissibilidade  da  prova  obtida 
+por meio  ilícito,  esta deverá  ser  fisicamente 
+destruída, salvo nas hipóteses em que a prova 
+pertencer licitamente a alguém, e/ou nos casos 
+em que a prova ilícita constituir-se em corpo 
+de delito em relação a quem praticou o crime 
+para obtê-la, hipótese em que tal prova deve 
+ser utilizada no outro processo  criminal em 
+que o produtor da prova ilícita será respon­
+sabilizado criminalmente.  Por fim, quanto à 
+sentença condenatória ou absolutória impró­
+pria passada em julgado que tiver se baseado 
+em provas ilícitas, sustenta a doutrina que tal
+
+Art. 158
+\
+\   CPP COMENTADO • Renato Brasileiro de Lima
+decisão “será nula e poderá ser desconstituída 
+pela via da revisão criminal, em que o juízo 
+rescisório  poderá  absolver  o  réu.  Mas  se  se 
+tratar de 
+habeas corpus, o tribunal deverá anu­
+lar a sentença, indicando as provas viciadas e 
+determinando seu desentranhamento. É ainda 
+possível que outras provas padeçam de vício, 
+por derivarem da prova ilícita, contaminando 
+atos  processuais  sucessivos  e  ocasionando 
+sua ineficácia” (GRINOVER, Ada Pellegrini; 
+GOMES  FILHO,  Antônio  Magalhães;  FER­
+NANDES,  Antônio  Scarance.  As nulidades 
+no processo penal.  11a ed. São Paulo: Editora 
+Revista dos Tribunais, 2009. p.  136).
+16.   Inutilização da
+[/PAGINA 820]
+
+[PAGINA 821]
+prova ilícita no Tribu­
+nal do Júri; no  âmbito  do  Tribunal  do júri, 
+a  temática  pertinente  à  prova  ilícita  ganha 
+especial relevo em virtude do fato de os jurados 
+não poderem fundamentar seu voto. Tendo em 
+conta que vige no júri o sigilo do voto do jura­
+do (CF, art. 5°, XXXVIII, “b”), não há como se 
+saber qual foi o grau de influência que a prova 
+ilícita exerceu sobre o jurado.  Destarte, caso 
+a prova ilícita tenha sido produzida ainda na 
+primeira fase do procedimento  do júri, deve 
+o juiz sumariante,  ao pronunciar o  acusado, 
+determinar  o  desentranhamento  da  prova 
+ilícita, deixando de levá-la em consideração na 
+sua decisão. Se, no entanto, a prova ilícita tiver 
+permanecido  no  processo  ou  nele  ingressar 
+após  a  pronúncia,  ocorrendo  o julgamento 
+pelos jurados, deverá o Tribunal, em sede de 
+recurso de apelação ou 
+habeas corpus, reconhe­
+cer a ilicitude da prova e, por consequência, 
+determinar a anulação do julgamento, diante
+da  impossibilidade  de  se  avaliar  o  grau  de 
+influência da prova ilícita sobre os jurados.
+17. Descontaminação do julgado: apro­
+vado pelo Congresso Nacional, o §4° do art. 
+157 do CPP tinha a seguinte redação: “o juiz 
+que conhecer do conteúdo da prova declarada 
+inadmissível não poderá proferir a sentença ou 
+acórdão”. O objetivo do dispositivo era evitar 
+que  o juiz  que  tivesse  contato  com  a  prova 
+ilícita  viesse  a julgar  o  caso,  pois  não  teria 
+isenção  de  ânimo  suficiente para  apreciar o 
+caso concreto com a imparcialidade que dele 
+se espera. É o que se denomina de desconta­
+minação do julgado. Entretanto, o dispositivo 
+acabou sendo vetado pelo Presidente da Repú­
+blica, sendo explicitadas as seguintes razões: 
+“o objetivo primordial da reforma processu­
+al penal  consubstanciada,  dentre outros,  no 
+presente projeto de lei, é imprimir celeridade 
+e  simplicidade  ao  desfecho  do  processo  e 
+assegurar a prestação jurisdicional em condi­
+ções adequadas. O referido dispositivo vai de 
+encontro a tal movimento, uma vez que pode 
+causar  transtornos  razoáveis  ao  andamento 
+processual, ao obrigar que o juiz que fez toda 
+a instrução processual deva ser, eventualmente 
+substituído  por  um  outro  que  nem  sequer 
+conhece o caso. Ademais, quando o processo 
+não mais se encontra em primeira instância, a 
+sua redistribuição não atende necessariamente 
+ao que propõe o dispositivo, eis que mesmo 
+que o magistrado conhecedor da prova inad­
+missível seja afastado da relatoria da matéria, 
+poderá ter que proferir seu voto em razão da 
+obrigatoriedade da decisão coligada”.
+Capítulo II
+DO EXAME DO CORPO DE DELITO,12 
+E DAS PERÍCIAS EM GERAL3 6
+Art. 158. Quando a infração deixar vestígios,7 será indispensável o 
+exame de corpo de delito, direto ou indireto,8-10 não podendo supri-lo a 
+confissão do acusado.
+
+TÍTULO VII • DA PROVA j 153
+1.  Corpo de delito: é o conjunto de vestígios 
+materiais ou sensíveis deixados pela infração 
+penal. A palavra corpo não significa ne
+[/PAGINA 821]
+
+[PAGINA 822]
+cessa­
+riamente o corpo de uma pessoa. Significa sim 
+o conjunto de vestígios sensíveis que o delito 
+deixa para trás,  estando  seu  conceito ligado 
+à  própria materialidade  do  crime.  Exempli­
+ficando,  suponha-se  que  haja  um  delito  de 
+latrocínio  no  interior  de  um  apartamento. 
+Nessa hipótese, o corpo de delito não se resu­
+me ao cadáver, abrangendo também todos os 
+vestígios perceptíveis pelos sentidos humanos, 
+tais como eventuais marcas de sangue deixadas 
+no chão, a arma de fogo utilizada para a prática 
+do delito, eventuais sinais de arrombamento da 
+porta do apartamento, etc.
+2.  Exame de corpo de delito: é uma análise 
+feita por pessoas com conhecimentos técnicos 
+ou científicos sobre os vestígios materiais dei­
+xados pela infração penal para comprovação 
+da materialidade  e  autoria  do  delito.  Como 
+o magistrado não é dotado de conhecimen­
+tos enciclopédicos, e se vê obrigado a julgar 
+causas das mais variadas espécies, afigura-se 
+necessário recorrer a especialistas, os quais, 
+dotados de conhecimentos específicos acerca 
+do assunto, podem auxiliar o juiz no esclareci­
+mento do fato delituoso. A depender do caso 
+concreto, um mesmo corpo de delito pode ser 
+submetido a vários exames periciais. Usando 
+o  mesmo  exemplo  citado  acima,  um  perito 
+oficial  deverá  comparecer  ao  apartamento 
+em  que  o  crime  de latrocínio  foi cometido, 
+elaborando  um laudo  de  exame  de local  de 
+morte  violenta.  O  cadáver  da  vítima  será 
+encaminhado aos médicos-legistas, os quais, 
+após  examiná-lo,  elaborarão  um  laudo  ca- 
+davérico,  apontando  qual teria sido  a causa 
+mortis.  A arma de fogo apreendida no local 
+do delito será submetida a exame pericial, a 
+fim de se comprovar se teriam partido dela os 
+disparos de arma de fogo, aferindo, ademais, 
+sua potencialidade lesiva.
+3.  Perícias em geral: é comum a referência 
+ao exame de corpo de delito como a única es­
+pécie de exame pericial, o que não é verdade. 
+Pela própria leitura do art. 159, caput, e do art. 
+6o, inciso VII, ambos do CPP -  ambos fazem
+menção ao exame de corpo de delito e outras 
+perícias -, depreende-se que o exame de corpo 
+de delito é uma espécie de perícia, mas não é 
+a única. Logo, apesar de o exame de corpo de 
+delito  ser o mais importante exame pericial, 
+pois ligado aos vestígios deixados pela infração 
+penal,  há  outros  exames periciais  com igual 
+relevância, tais como os de verificação da sani­
+dade mental do acusado, os de constatação da 
+idade do acusado, etc. Tanto o exame de corpo 
+de  delito  quanto  os  demais  exames periciais 
+têm natureza jurídica de meios de prova, pois 
+funcionam  como  instrumentos  através  dos 
+quais as fontes de prova são introduzidas no 
+processo.
+4.  Valor probatório dos exames periciais:
+não se trata, o exame de corpo de delito (ou os 
+demais exames periciais), de uma prova hie­
+rarquicamente superior às demais. Na verdade, 
+diante do reconhecimento da incapacidade de 
+determinados meios nominados de
+[/PAGINA 822]
+
+[PAGINA 823]
+prova para 
+gerar um juízo de convicção mais seguro em 
+relação a fatos específicos, torna-se necessário 
+recorrer à prova técnica para a comprovação 
+da  existência  de  determinado  elemento  do 
+delito.  É  o  que  ocorre,  a  título  de  exemplo, 
+com a identificação de uma arcada dentária. 
+Caso  não  fosse  determinada a  realização  de 
+exame pericial, subsistiría a dúvida quanto à 
+identidade da pessoa, sendo inviável que o juiz 
+suprisse a ausência do exame pericial com base 
+em seus conhecimentos jurídicos.
+5.  Autoridade  competente  para  deter­
+minar a  realização dos exames  periciais:
+em regra, o exame pericial pode ser determi­
+nado  tanto  pela  autoridade  policial  quanto 
+pelas autoridades judiciária e ministerial. De 
+acordo com o art. 6o, incisos I e VII, do CPP, 
+logo  que  tiver  conhecimento  da  prática  da 
+infração  penal,  a  autoridade policial  deverá 
+dirigir-se  ao  local,  providenciando  para  que 
+não  se  alterem  o  estado  e  conservação  das 
+coisas,  até  a  chegada  dos  peritos  criminais, 
+devendo, ademais, determinar,  se for o caso, 
+que se proceda a exame de corpo de delito e a 
+quaisquer outras perícias. Importante ressalva 
+deve  ser feita  quanto  ao  exame  de  sanidade 
+mental,  cuja  determinação  só  pode  ser  feita
+
+Art.158 CPP COMENTADO • Renato Brasileiro de Lima
+pela  autoridade judiciária.  Quando  houver 
+dúvida sobre a integridade mental do acusado, 
+ojuiz ordenará, de ofício ou a requerimento do 
+Ministério  Público, do defensor, do curador, 
+do  ascendente,  descendente,  irmão  ou  côn­
+juge do acusado, seja este submetido a exame 
+médico-legal (CPP, art.  149, caput). O exame 
+também  poderá  ser ordenado  ainda  na fase 
+do inquérito,  mediante representação da au­
+toridade policial ao juiz competente (CPP, art. 
+149, §1°). Como colocado acima, a realização 
+do exame pericial pode ser determinada, em 
+regra,  pelas  autoridades policial, judiciária e 
+ministerial. Porém, conquanto possam deter­
+minar a realização do exame pericial, jamais 
+poderão estabelecer à qual conclusão deverão 
+chegar os peritos. Como estabelece o art. 2o da 
+Lei n.  12.030/09, no exercício de atividade de 
+perícia oficial de natureza criminal, é assegu­
+rada ao perito autonomia técnica, científica e 
+funcional.
+6.  Laudo pericial: é a peça técnica elaborada 
+pelos peritos quando da realização do exame 
+pericial. Para mais detalhes, remetemos o leitor 
+aos comentários ao art.  160 do CPP. 7
+7.  Obrigatoriedade do exame de corpo de 
+delito (infrações transeuntes e não tran­
+seuntes): no  tocante  à  obrigatoriedade  de 
+realização  do  exame  de  corpo  de  delito,  é 
+importante diferenciarmos as infrações penais 
+transeuntes das não transeuntes. Infrações pe­
+nais transeuntes (delitos de fato transeunte ou 
+délictafacti transeuntis) são as infrações penais 
+que não deixam vestígios. Ex: crimes contra a 
+honra praticados verbalmente. De seu turno, 
+infrações penais não transeuntes (delito de 
+fato permanen
+[/PAGINA 823]
+
+[PAGINA 824]
+te ou délictafactipermanentis) 
+são as infrações penais que deixam vestígios 
+materiais. Ex: crime de homicídio cujo cadáver 
+foi encontrado. Dessa classificação percebe-se 
+que  a  relevância  da  realização  do  exame  de 
+corpo  de  delito  recai  sobre  as  infrações  não 
+transeuntes, pois tais delitos costumam deixar 
+vestígios. Dizemos que costumam deixar ves­
+tígios  materiais  porque,  a depender do  caso 
+concreto,  esses vestígios  podem  ter desapa­
+recido.  A  título  exemplificativo,  suponha-se 
+um  crime  de  lesão  corporal  praticado  com
+violência doméstica e familiar contra a mulher, 
+do  qual  tenham  resultado  graves  ofensas  à 
+integridade corporal da vítima. Por temor do 
+agressor, a vítima deixa de reportar de imediato 
+o fato à autoridade policial, inviabilizando que 
+os vestígios inicialmente deixados pelo delito 
+sejam diagnosticados pelos peritos num exame 
+pericial.  Nesse  caso,  o  desaparecimento  dos 
+vestígios  do  delito de lesão  corporal impede 
+a realização de exame pericial direto, porém 
+não impede que  a materialidade da infração 
+seja  comprovada por  prova  testemunhai, ex 
+vi do art.  167 do CPP.
+8.  Exame de corpo de delito direto e indi­
+reto: de modo a evitarmos repetições desne­
+cessárias, remetemos o leitor aos comentários 
+ao art.  167 do CPP.
+9.  Casuística: tratando-se  de  delito  de  fato 
+permanente, e sendo possível a realização do 
+exame pericial, a materialidade da infração pe­
+nal deve ser comprovada através de exame de 
+corpo de delito direto. Há certa controvérsia, 
+todavia, quanto à necessidade (ou não) de rea­
+lização de exame de corpo de delito em relação 
+a alguns delitos. Vejamos alguns exemplos.
+9.1.  Exposição à venda de mercadoria em 
+condições impróprias ao consumo (Lei n. 
+8.137/90, art. 7o, IX): em  precedentes  mais 
+antigos, a  Ia Turma do STF e a 6a Turma do 
+STJ sustentavam que não haveria necessidade 
+de  exame  pericial  para  a  comprovação  da 
+materialidade de tal delito, porquanto o pro­
+duto com prazo de validade vencido já traria 
+ínsita uma presunção de perigo. Em julgados 
+mais recentes, todavia, os Tribunais Superio­
+res passaram a entender que a tipificação do 
+crime  sob  comento  exige  a  comprovação  da 
+impropriedade do produto para uso, pelo que 
+imprescindível a realização de exame pericial 
+para aferir  a  nocividade  dos produtos  apre­
+endidos, comprovando que a mercadoria era 
+inadequada ao consumo.
+-f  Jurisprudência selecionada:
+STF: “(■.■) A tipificação da figura penal definida no art. 
+7°, IX, da Lei n° 8.137/90, por ser norma penal em bran­
+co, foi adequadamente preenchida pelo art. 18, §6°, I,
+
+TÍTULO VII • DA PROVA -\ 5 g
+do Código de Defesa do Consumidor, que define como 
+impróprio ao uso e consumo produto cujo prazo de va­
+lidade esteja vencido. A exposição à venda de produto 
+em condições impróprias ao consumo já configura o 
+delito, que é formal e de mera conduta, consumando- 
+-se com a simples ação do agente, sendo dispensável a 
+comp
+[/PAGINA 824]
+
+[PAGINA 825]
+rovação da impropriedade material. Recurso de 
+Habeas Corpus improvido". (STF, 1 aTurma, RHC 80.090/ 
+SP, Rei. Min. limar Galvão, DJ  16/06/2000). Na mesma 
+linha: STJ, 6aTurma, RHC 15.087/SP, Rei. Min. Hamilton 
+Carvalhido, DJ 05/02/2007 p. 379.
+STF:"(...) Agentes que fabricam e mantém em depósito, 
+para  venda,  produtos  em  desconformidade com  as 
+normas regulamentares de fabricação e distribuição. 
+Imputação do crime do inciso IX do art. 7o da  Lei n° 
+8.137/90. Norma penal em branco, a ter seu conteúdo 
+preenchido pela norma do inciso II do § 6° do art. 18 
+da Lei n° 8.078/90. São impróprios para consumo os 
+produtos fabricados em  desacordo com  as  normas 
+regulamentares de fabricação, distribuição ou  apre­
+sentação. A criminalização da conduta, todavia, está
+ 
+a  exigir do titular da  ação  penal a  comprovação  da 
+impropriedade do  produto  para  uso.  Pelo que  im­
+prescindível,  no caso, a  realização de exame pericial 
+para  aferir a  nocividade dos  produtos apreendidos. 
+Ordem concedida". (STF 1a Turma, HC 90.779/PR, Rei. 
+Min. Carlos Britto, DJe 202 23/10/2008).
+STJ:"(...) Para caracterizar o elemento objetivo do crime 
+previsto no art. 7.°, inciso IX, da Lei n.°8.137/90, referen­
+te a produto "em condições impróprias ao consumo", 
+faz-se  indispensável  a  demonstração  inequívoca  da 
+potencialidade  lesiva  ao consumidor final.  No caso, 
+foi realizada a apreensão de carne bovina, por fiscais 
+sanitários, por estar armazenada em desacordo com 
+a  legislação vigente.  No entanto, as  irregularidades 
+constatadas  não  permitem  concluir que o  produto 
+estava impróprio ao consumo, sendo imprescindível 
+exame pericial para atestara nocividade da mercadoria 
+apreendida. Recurso desprovido". (STJ, 5a Turma, REsp 
+1.113.330/RS, Rei. Min. Laurita Vaz, DJe 01/03/2010). 
+STJ: "(...)  Para  a  configuração  do  delito  previsto  no 
+art. 7o,  inciso  IX, da  Lei  n.° 8.137/1990,  necessária  a 
+comprovação, mediante perícia, de que a mercadoria 
+esteja inadequada ao consumo. Recurso improvido". 
+(STJ, 5aTurma, REsp 1.154.774, Rei. Min. Jorge Mussi, j. 
+06/04/2010, DJe 28/06/2010).
+9.2.  Furto qualificado pelo rompimento de 
+obstáculo à subtração da coisa (CP, art. 155, 
+§4°, I): se se trata de delito que deixa vestígios, 
+torna-se indispensável a realização de perícia 
+para a sua comprovação, a qual somente pode 
+ser suprida por prova testemunhai quando de­
+saparecerem os vestígios de seu cometimento 
+ou se esses não puderem ser constatados pelos 
+peritos, nos termos do arts. 158 e 167 do CPP.
+Logo,  na  hipótese  de  furto  qualificado  pelo 
+arrombamento de porta e janela da residência, 
+se o rompimento de obstáculo não for com­
+provado por perícia técnica, não é possível o 
+reconhecimento da referida qualificadora.
+♦   Jurisprudência selecionada:
+STJ:"(...) O entendimento desta Corte é no sentido de 
+que para incidir a qualificadora prevista no art. 155, §
+4°, inciso I, do Código Penal é indispensável a realiza­
+ção de perícia, a
+[/PAGINA 825]
+
+[PAGINA 826]
+fim de se constatar o rompimento de 
+obstáculo. No caso, como bem ressaltou o Ministério 
+Público  Federal em seu  parecer (e-fl. 60), "a  infração 
+deixou vestígios materiais. Logo, a prova pericial seria 
+essencial. Inexistente o laudo, não haveria como reco­
+nhecer a incidência da qualificadora de rompimento 
+de obstáculo.” Ordem concedida  para, afastando da 
+condenação o acréscimo decorrente da qualificadora 
+do rompimento de obstáculo (art. 155, § 4°, I, do CP), 
+reduzir a pena decorrente da condenação pelo crime 
+de furto - art. 155 do CP - para 1 (um) ano e 6 (seis) me­
+ses de reclusão, mais 15 (quinze) dias-multa, mantido, 
+o regime prisional aberto". (STJ, 6a Turma, HC 207.588/
+DF, Rei. Min. Og Fernandes, j. 23/8/2011).
+9.3.  Furto qualificado pela escalada  (CP, 
+art.  155, §4°,  II): ainda  que  não  tenha sido 
+realizado exame de corpo de delito, pode ser 
+reconhecida a referida qualificadora na hipóte­
+se em que a dinâmica delitiva tiver sido regis­
+trada por meio de sistema de monitoramento 
+com câmeras de segurança e a materialidade 
+do  crime  qualificado  puder  ser comprovada 
+por meio das filmagens e também por fotos e 
+testemunhos, nos termos do art. 167 do CPP.
+♦   Jurisprudência selecionada:
+STJ: “(...)  Estando devidamente demonstrada a exis­
+tência  de provas  referentes à  utilização  da  escalada 
+para  realizar o furto,  por meio de filmagem, fotos e 
+testemunhos,  ainda  que  não  tenha  sido  realizado 
+exame de corpo de delito - o qual  pode ser suprido 
+pela prova testemunhai, nos termos do que disciplina 
+o art. 167 do Código de Processo Penal -, não há se falar 
+em violação ao art. 155, § 4°, inciso II, do Código Penal, 
+encontrando-se, dessarte, legalmente comprovada a 
+materialidade. Não pode o processo penal andar em 
+descompasso com  a  realidade, desconsiderando-se 
+elementos de prova mais modernos e reiteradamente 
+usados.  Com  efeito, atualmente  existem  inúmeros 
+recursos aptos a registrar imagens, as quais, na maio­
+ria das vezes, podem revelar de forma fiel a dinâmica 
+delitiva e as circunstâncias do crime praticado. Recurso 
+especial  a  que se  nega  provimento".  (STJ,  5a Turma,
+O
+
+Art.158 CPP COMENTADO • Renato Brasileiro de Lima
+REsp  1.392.386/RS,  Rei. Min. Marco Aurélio  Bellizze, 
+j. 03/09/2013).
+9.4.  Violação de direitos autorais prevista 
+no art. 184, §2°, do CP: para a comprovação 
+da prática do referido crime, é dispensável a 
+identificação dos produtores das mídias ori­
+ginais no laudo oriundo de perícia efetivada 
+nos  objetos  falsificados  apreendidos,  sendo, 
+de  igual  modo,  desnecessária  a  inquirição 
+das supostas vítimas para que elas confirmem 
+eventual ofensa a seus direitos autorais. Com­
+provada  a  materialidade  delitiva  por  meio 
+da  perícia  (CPP,  art.  530-D),  é  totalmente 
+desnecessária a identificação e inquirição das 
+supostas vítimas, até mesmo porque o ilícito 
+em  exame  é  apurado  mediante  ação  penal 
+pública incondicionada, nos termos do inciso 
+II d
+[/PAGINA 826]
+
+[PAGINA 827]
+o artigo 186 do CP.
+♦   Jurisprudência selecionada:
+STJ:"(...) O procedimento a ser observado nos casos 
+de crimes contra a propriedade imaterial perseguidos 
+mediante ação penal pública, como é o caso dos au­
+tos, encontra-se disposto  nos artigos 530-B a  530-H 
+do Código de Processo  Penal, merecendo destaque 
+o que contido nos artigos 530-B a 530-D, pelos quais 
+a autoridade  policial  apreenderá  os  bens objeto do 
+delito, que serão submetidos à perícia, que integrará os 
+autos do processo. O exame técnico tem por finalidade 
+atestar a ocorrência ou não de reprodução procedida 
+com violação aos direitos autorais, sendo desneces­
+sária a identificação das supostas vítimas, até mesmo 
+porque o ilícito em exame é, consoante consignado 
+alhures, perseguido mediante ação penal pública in­
+condicionada, nos termos do inciso lido artigo 186 do 
+Estatuto Repressivo. Comprovada a materialidade do 
+crime previsto no § 2o do artigo 184 do Código Penal 
+por meio da perícia que atestou serem falsificados os 
+cd's e dvd's apreendidos com o  paciente,  mostra-se 
+totalmente dispensável e irrelevante a inquirição dos 
+produtores das mídias a partir das quais teriam sido 
+feitas as cópias com ele encontradas para confirmarem 
+que seus direitos autorais teriam  sido violados.  (...)". 
+(STJ, 5a Turma, HC 191.568/SP, Rei. Min. Jorge Mussi,j. 
+07/02/2013, DJe 19/02/2013).
+9.5.  Crimes previstos no Estatuto do De­
+sarmamento (Lei  n.  10.826/03), especifi­
+camente no tocante à ausência do laudo 
+pericial  da arma  de fogo ou  da  munição 
+atestando a sua potencialidade lesiva: há 
+precedentes  do  Supremo  no  sentido  de  ser
+irrelevante  indagar-se  acerca  da  eficácia  da 
+arma  ou  das  munições  para  a  configuração 
+dos  crimes  de  porte  ilegal  de  arma  de  fogo, 
+sendo,  assim, despicienda, do ponto de vista 
+jurídico, a falta ou nulidade do laudo pericial. 
+Nesse  sentido,  a  Ia Turma  do  STF  reputou 
+configurado o crime previsto no caput do art. 
+16  da  Lei  10.826/2003,  uma vez  que  restara 
+atestada  a  materialidade  delitiva  por  outros 
+meios de prova.
++   Jurisprudência selecionada:
+STF: "(...)  A objetividade jurídica  dos delitos  previs­
+tos  na  Lei  10.826/03  transcende  a  mera  proteção 
+da  incolumidade  pessoal,  para  alcançar também  a 
+tutela da liberdade individual e de todo o corpo social, 
+asseguradas ambas  pelo  incremento dos  níveis  de 
+segurança coletiva que a  lei propicia. Despicienda a 
+ausência ou nulidade do laudo pericial da arma ou da 
+munição para a aferição da materialidade do delito. (...) 
+Writ conhecido em parte, denegando-se a ordem na 
+parte conhecida". (STF, 1 aTurma, HC 93.876/RJ, Rei. Min. 
+Ricardo Lewandowski, DJe 208 05/11/2009).
+STF:"(...) É desnecessária a realização de perícia para a 
+configuração do crime de porte ilegal de arma".
+STF: "(...)  A teor do disposto  no artigo 25 da  Lei  n° 
+10.826/2003, apreendida arma de fogo, acessório ou 
+munição, cumpre proceder-se a perícia elaborando-s
+[/PAGINA 827]
+
+[PAGINA 828]
+e 
+laudo para juntada ao processo. O abandono da forma­
+lidade legal implica a impossibilidade de ter-se como 
+configurado o tipo". (STF, 1a Turma, HC 97.209/SC, Rei. 
+Min. Marco Aurélio, j. 16/03/2010, DJe 71 22/04/2010).
+9.6.  Majorante do emprego de arma  no 
+crime de roubo (CP, art. 157, §2°, inciso I):
+muito se discute acerca da necessidade de apre­
+ensão da arma de fogo e subsequente exame 
+pericial para  fins  de  incidência  (ou não)  da 
+majorante do inciso I do art.  157, §2°, do CP, 
+sobretudo nas hipóteses em  que  o  agente se 
+livra da arma durante uma possível tentativa 
+de  fuga.  O  tema  será  objeto  de  análise  nos 
+comentários  ao  art.  175  do  CPP,  para  onde 
+remetemos o leitor.
+10.   Ausência do exame de corpo de de­
+lito: se  a lei  estabelece  a obrigatoriedade  da 
+realização do exame de corpo de delito quando 
+a  infração  penal  deixar vestígios  (CPP,  art. 
+158), indaga-se:  supondo-se que o exame de 
+corpo de delito não tenha sido realizado, deve 
+ser declarada a nulidade ab initio do processo
+
+TlTULO VII • DA PROVA Aft. 159
+ou o acusado deve ser absolvido por ausência 
+de prova da materialidade da infração penal? 
+Inicialmente, vale lembrar que, segundo o art. 
+564, inciso III, “b”, do CPP, haverá nulidade por 
+falta do exame de corpo de delito nos crimes 
+que  deixam vestígios,  ressalvado  o  disposto 
+no art.  167 do CPP. Como o art. 572 do CPP 
+não ressalvou essa nulidade dentre aquelas que 
+podem ser sanadas (ou seja, nulidades relati­
+vas), conclui-se que se trata de uma nulidade 
+absoluta. Logo, se era possível a realização do 
+exame direto, ou, ainda, se a ausência do exame 
+direto não foi suprida pelo exame de corpo de 
+delito indireto, deverá o processo ser anulado, 
+a partir do momento em que o laudo deveria 
+ter sido juntado ao processo. Afinal de contas, 
+é  a própria lei  que  estabelece que,  quando  a 
+infração deixar vestígios, será indispensável o 
+exame de corpo de delito. Situação distinta diz 
+respeito à falta de comprovação do corpo de 
+delito, direto ou indireto, sem que essa ausên­
+cia possa ser suprida pela determinação de rea­
+lização do exame pericial. A título de exemplo, 
+suponha-se que, ao final de um processo por 
+tráfico de drogas, verifique o juiz a ausência de 
+exame pericial atestando a natureza da droga. 
+Em situação como essa, caso ainda seja possível 
+a realização do exame pericial, nada impede 
+que  o  magistrado  determine  a produção  da 
+prova  pericial,  valendo-se  de  seus  poderes 
+instrutórios (CPP, art. 156, inciso II). Porém, se 
+acaso não houver sido guardada uma pequena 
+quantidade da  droga para uma contraprova, 
+sendo inviável a realização do exame pericial, o 
+magistrado jamais poderá condenar o acusado 
+pelo delito de tráfico e/ou porte de drogas para 
+consumo pessoal, na medida em que não há 
+comprovação  da  materialidade  da  infração, 
+sendo inviável que a prova testemunhai supra 
+a ausência do exame pericial. Nesse caso, ine­
+vitavelmente, deve o magi
+[/PAGINA 828]
+
+[PAGINA 829]
+strado prolatar uma 
+sentença absolutória, por ausência de prova da 
+materialidade da infração penal, nos termos do 
+art. 386, inciso II, do CPP.
+Art. 159 . O exame de corpo de delito e outras perícias serão realizados 
+por perito1-2 oficial,3-s portador de diploma de curso superior. (Redação dada 
+pela Lei n. 11.690, de 2008)
+§1 ° Na falta de perito oficial, o exame será realizado por 2 (duas) pessoas 
+idôneas, portadoras de diploma de curso superior preferencialmente na 
+área específica, dentre as que tiverem habilitação técnica relacionada com 
+a natureza do exame.6-7 (Redação dada pela Lei n. 11.690, de 2008)
+§2° Os peritos não oficiais prestarão o compromisso de bem e fielmente 
+desempenhar o encargo.8 (Redação dada pela Lei n. 11.690, de 2008)
+§3° Serão facultadas ao Ministério Público, ao assistente de acusação, ao 
+ofendido, ao querelante e ao acusado a formulação de quesitos9e indicação 
+de assistente técnico.10-11 (Incluído pela Lei n. 11.690, de 2008)
+§4° O assistente técnico atuará a partir de sua admissão pelo juiz e após 
+a conclusão dos exames e elaboração do laudo pelos peritos oficiais, sendo 
+as partes intimadas desta decisão.12 (Incluído pela Lei n. 11.690, de 2008)
+§5° Durante o curso do processo judicial, é permitido às partes, quanto 
+à perícia: (Incluído pela Lei n. 11.690, de 2008)
+I -  requerer a oitiva dos peritos para esclarecerem a prova ou para res­
+ponderem a quesitos, desde que o mandado de intimação e os quesitos 
+ou questões a serem esclarecidas sejam encaminhados com antecedência 
+mínima de 10 (dez) dias, podendo apresentar as respostas em laudo com­
+plementar;13 (Incluído pela Lei n. 11.690, de 2008)
+II -  indicar assistentes técnicos que poderão apresentar pareceres em 
+prazo a ser fixado pelo juiz ou ser inquiridos em audiência. (Incluído pela 
+Lei n. 11.690, de 2008)
+
+Art. 159 ,   CPP COMENTADO • Renato Brasileiro de Lima
+§6° Havendo requerimento das partes, o material probatório que serviu 
+de base à perícia será disponibilizado no ambiente do órgão oficial, que 
+manterá sempre sua guarda, e na presença de perito oficial, para exame 
+pelos assistentes, salvo se for impossível a sua conservação.14 (Incluído pela 
+Lei n. 11.690, de 2008)
+§7°Tratando-se de perícia complexa que abranja mais de uma área de 
+conhecimento especializado, poder-se-á designar a atuação de mais de um 
+perito oficial, e a parte indicar mais de um assistente técnico.15 (Incluído 
+pela Lei n. 11.690, de 2008)
+1.  Perito: é um auxiliar do juízo, dotado de 
+conhecimentos  técnicos  ou  científicos  sobre 
+determinada área do conhecimento humano, 
+que tem a função estatal de proceder à reali­
+zação de exames periciais, fornecendo dados 
+instrutórios de ordem técnica indispensáveis 
+para a decisão do caso concreto. Tem natureza 
+jurídica de sujeito de prova, pois é alguém que 
+irá trazer elementos de prova para a formação 
+do  convencimento  do  magistrado.  A ele  são 
+aplicáveis as regras de impedimento e suspei- 
+ção  (CPP, art.  280), sen
+[/PAGINA 829]
+
+[PAGINA 830]
+do que as partes não 
+podem intervir na escolha do perito, mesmo 
+em se tratando de crime de ação penal privada, 
+tal qual dispõe o art. 276 do CPP. Os peritos 
+podem  ser de  duas  espécies:  peritos  oficiais 
+ou  não  oficiais.  Em  ambas  as  hipóteses,  o 
+perito deve ser portador de diploma de curso 
+superior,  sendo  que,  no  caso  de  perito  não 
+oficial, o diploma de curso superior deve ser 
+preferencialmente na área específica.
+2.  Funcionário  público  para fins  penais:
+tanto o perito oficial quanto o perito não oficial 
+são considerados funcionários públicos para os 
+fins do art. 327 do Código Penal. O primeiro, 
+por ser titular de  cargo  público.  O  segundo, 
+por  exercer,  ainda  que  transitoriamente  ou 
+sem  remuneração,  função pública.  Portanto, 
+supondo  que  determinado  perito,  oficial  ou 
+não oficial, exija, para si ou para outrem, direta 
+ou  indiretamente,  ainda  que  fora  da  função 
+ou  antes  de  assumi-la,  mas  em  razão  dela, 
+vantagem  indevida,  responderá  pelo  crime 
+de concussão, previsto no art. 316 do Código 
+Penal.
+3. Perito  oficial: é  o  funcionário  público 
+de carreira que tem a função de realizar pe­
+rícias  determinadas  pela  autoridade  policial
+ou  judiciária.  De  acordo  com  o  art.  5o  da 
+Lei n.  12.030/2009,  observado o disposto na 
+legislação específica de cada ente a que o pe­
+rito  se  encontra  vinculado,  são  peritos  de 
+natureza criminal os peritos criminais, peritos 
+médico-legistas e peritos odontologistas com 
+formação  superior  específica  detalhada  em 
+regulamento, de acordo com a necessidade de 
+cada órgão e por área de atuação profissional.
+4.  Número de peritos oficiais: antes da en­
+trada em vigor da Lei n.  11.690/08, dispunha 
+o  Código  de  Processo  Penal  que  os  exames 
+de corpo de delito e as outras perícias seriam 
+feitas por dois peritos oficiais  (revogado  art. 
+159, caput). Ademais, caso não houvesse dois 
+peritos oficiais, o exame deveria ser realizado 
+por duas pessoas idôneas (antiga redação do 
+§1° do art. 159 do CPP). Se a perícia não fosse 
+feita por dois peritos, caracterizada estaria uma 
+nulidade relativa, cujo reconhecimento ficava 
+condicionado à comprovação de prejuízo e à 
+arguição  oportuna.  Acerca  do  assunto,  dis­
+punha a súmula n. 361  do Supremo Tribunal 
+Federal: “No processo penal, é nulo o exame re­
+alizado por um só perito, considerando-se im­
+pedido o que tiver funcionado, anteriormente, 
+na diligência de apreensão”.  Com as  modifi­
+cações introduzidas pela Lei n.  11.690/08 no 
+Código de Processo Penal, caso a perícia seja 
+feita por perito oficial, basta apenas um perito. 
+É esse o teor do art. 159, caput, do CPP. Apesar 
+de o Código de Processo Penal prever no art. 
+159, caput, que basta um só perito oficial para 
+a realização do exame pericial, vale ressaltar 
+que, cuidando-se de perícia complexa, assim 
+entendida como aquela que abrange mais de 
+uma área de conhecimento especializado, nada 
+impede que a autoridade p
+[/PAGINA 830]
+
+[PAGINA 831]
+olicial ou judiciária
+
+TÍTULO VII • DA PROVA Alt. 1 59
+designe mais de um perito oficial, nos exatos 
+termos do art.  159, §7°, do CPP.
+♦   Jurisprudência selecionada:
+STF:"(...) O Enunciado n° 361  da Súmula da Jurispru­
+dência Dominante do SupremoTribunal Federal não é 
+aplicável aos peritos oficiais, de sorte que, na espécie, 
+exsurge válido o  laudo  pericial  assinado  por um  só 
+perito  da  Polícia  Federal.  Precedentes do  Supremo 
+Tribunal  Federal:  HC  95595,  Relator(a):  Min.  EROS 
+GRAU, Segunda Turma, julgado em 04/05/2010.  HC 
+72921,  Relator(a): Min. CARLOS VELLOSO,  Segunda 
+Turma, julgado em 21/11/1995). (...)".  (STF,  1a Turma, 
+HC  115.530/PR, Rei. Min. Luiz Fux, j. 25/06/2013, DJe 
+15813/08/2013).
+5.  Número de peritos à luz da legislação 
+especial: ainda  em  relação  ao  número  de 
+peritos, especial atenção deve ser dispensada à 
+legislação especial, senão vejamos: a) De acor­
+do com o art. 50, §§ 1 ° e 2o da Lei n. 11.343/06, o 
+laudo de constatação da natureza e quantidade 
+da droga pode ser firmado por perito oficial 
+ou,  na falta  deste,  por pessoa  idônea,  sendo 
+que  o  perito  que  subscrever esse laudo  não 
+ficará  impedido  de  participar  da elaboração 
+do laudo definitivo; b) No âmbito processual 
+penal militar, dispõe o art. 318 do CPPM que 
+as perícias serão, sempre que possível, feitas por 
+2 (dois) peritos, especializados no assunto ou 
+com habilitação técnica,  devendo ser nome­
+ados  de preferência  dentre  oficiais  da  ativa, 
+atendida a especialidade. Se o CPPM prevê que 
+a perícia será feita por 2 (dois) peritos, sempre 
+que possível,  implicitamente  admite  que  seja 
+feita por um único perito; c) Em se tratando de 
+crimes contra a propriedade imaterial, dispõe o 
+art. 530-D, do CPP, que, após a apreensão dos 
+objetos que constituam o corpo de delito, será 
+realizada, por perito oficial, ou na falta deste, 
+por  pessoa  tecnicamente  habilitada,  perícia 
+sobre todos os bens apreendidos e elaborado o 
+laudo que deverá integrar o inquérito policial 
+ou o processo; d) Como decorrência dos prin­
+cípios da informalidade, celeridade e economia 
+processual, que norteiam o processo perante o 
+Juizado Especial Criminal, dispõe o art. 77, § 1°, 
+da Lei n. 9.099/95, que, para o oferecimento 
+da denúncia, que será elaborada com base no 
+termo  circunstanciado  de  ocorrência,  com 
+dispensa  do  inquérito  policial,  prescindir-
+-se-á do exame de corpo de delito quando a 
+materialidade  do  crime  estiver  aferida  por 
+boletim médico  ou prova equivalente.  De se 
+ver,  portanto,  que  o  rigor  do  CPP  quanto  à 
+necessidade de exame de corpo de delito acaba 
+sendo mitigado pela Lei n.  9.099/95,  onde  a 
+materialidade da infração penal pode ser com­
+provada por intermédio de um simples boletim 
+médico;  e)  A lei que  dispõe sobre  falência e 
+recuperação judicial prevê  que,  no  relatório 
+que o administrador judicial deve apresentar 
+sobre as causas e circunstâncias que conduzi­
+ram à situação d
+[/PAGINA 831]
+
+[PAGINA 832]
+e falência, no qual apontará a 
+responsabilidade civil e penal dos envolvidos, 
+deverá ser apresentada ao juiz da falência expo­
+sição circunstanciada, considerando as causas 
+da falência, o procedimento do devedor, antes 
+e  depois  da  sentença,  e  outras  informações 
+detalhadas a respeito da conduta do devedor 
+e de outros responsáveis, se houver, por atos 
+que possam constituir crime relacionado com 
+a recuperação judicial ou com a falência,  ou 
+outro  delito  conexo  a  estes,  sendo  que  essa 
+exposição circunstanciada será instruída com 
+laudo  do  contador encarregado  do  exame  da
+ 
+escrituração do devedor (Lei n.  11.101/05, art. 
+186, caput, e parágrafo único).
+6.  Perito não oficial: pelo menos em regra, 
+o exame de corpo de delito e outras perícias 
+devem ser realizados por um perito oficial. No 
+entanto, na hipótese de falta de perito oficial, o 
+art.  159, §1°, do CPP, autoriza expressamente 
+que o exame seja realizado por 2 (dois) peritos 
+não oficiais. Perito não oficial ou inoficial é a 
+pessoa idônea (adequada e dotada de condi­
+ções  para  realizar  determinadas  atividades) 
+nomeada pelo juiz ou pela autoridade policial 
+para realizar determinado  exame pericial.  A 
+expressão perito leigo não é de todo adequada. 
+A  uma porque  o  perito  não  oficial  deve  ser 
+portador de  diploma de  curso  superior pre­
+ferencialmente na área específica relacionada 
+com  a  natureza  do  exame.  A  duas  porque  a 
+nomeação  desse  perito  pode  ocorrer  exata­
+mente pelo fato de possuir uma especialização 
+necessária não preenchida por peritos oficiais 
+da  comarca.  Nada  impede  que  funcionários 
+públicos, inclusive policiais, sejam nomeados 
+como peritos não  oficiais.  É o  que acontece, 
+comumente, em cidades menores, em que um
+
+Art.159
+\
+v
+CPP COMENTADO-
+Renato Brasileiro de Lima
+médico  do  posto  de  saúde  é  nomeado  pela 
+autoridade policial para realizar determinado 
+exame pericial de lesões corporais. Como esse 
+médico  não  está  investido  regularmente  no 
+cargo de perito por concurso público, o simples 
+fato de ser funcionário da Secretaria de Saúde 
+do Município e ter sido nomeado perito não 
+o transforma em um perito oficial.  Também 
+não  há  óbice  à  nomeação  de  policiais  como 
+peritos não oficiais, notadamente em exames 
+envolvendo eficiência de armas de fogo. Con­
+soante disposto no art. 159, §1°, do CPP, esses 
+peritos não oficiais devem ser portadores de 
+diploma de curso superior preferencialmente 
+na área específica dentre as  que tiverem ha­
+bilitação técnica relacionada com a natureza 
+do  exame.  No  entanto,  há precedente  da  2a 
+Turma do Supremo reconhecendo a validade 
+de exame feito por dois peritos não oficiais não 
+portadores de diploma de curso superior, por­
+quanto evidenciado que possuíam habilitação 
+técnica para a realização do exame pericial em 
+questão.
+♦   Jurisprudência selecionada:
+STF:"(...) O laudo pericial foi firmado por dois peritos 
+não oficiais, ambos bacharéis, que prest
+[/PAGINA 832]
+
+[PAGINA 833]
+aram compro­
+misso de bem e fielmente proceder à perícia na arma 
+de fogo apreendida em poder do paciente. Tudo em 
+conformidade com o que determina a lei processual, 
+não havendo motivos para se declarar qualquer nuli- 
+dade. A qualidade de policial dos peritos é irrelevante 
+para a validade ou não da perícia. Precedentes. Existin­
+do elementos probatórios que permitam ao julgador 
+formar  sua  convicção  no  sentido  da  existência  do 
+crime de porte ilegal de arma de fogo imputado ao 
+acusado, torna-se desnecessária a realização do exame 
+pericial. Precedentes. Writ denegado". (STF, 2a Turma, 
+HC  100.860/RS,  Rei.  Min.  Ellen  Gracie, j.  17/08/2010, 
+DJe 207 27/10/2010).
+STF:"(...) Os pacientes foram condenados pela prática 
+do delito previsto no art. 16, parágrafo único, IV, da Lei 
+10.826/03. A pistola apreendida estava municiada e o 
+laudo pericial concluiu que a arma se mostrou eficaz 
+para produzir disparos. A perícia foi realizada por dois 
+policiais,  nom eados  pelo  Delegado  de  Polícia,  que 
+assumiram o compromisso, sob as penas da lei, de bem 
+e fielmente desempenharem o encargo. Ainda que o 
+laudo pericial não tenha informado se os peritos no­
+meados para o exame tinham ou não diploma de curso 
+superior, é inegável que, enquanto policiais, possuíam 
+a necessária  habilitação técnica para aferir a eficácia 
+de uma arma de fogo. Habeas corpus denegado". (STF,
+2aTurma, HC 98.306/RS, Rei. Min. Ellen Gracie, DJe 218 
+19/11/2009).
+STJ:"(...) A possibilidade da realização do laudo pericial 
+por duas pessoas idôneas e portadoras de diploma de 
+curso superior, quando inviável a efetivação do exame 
+por peritos oficiais, está amparada no art. 159, § 1 °, do 
+Código de Processo Penal, sem nenhuma restrição ao 
+fato delas serem policiais. Recurso especial  provido". 
+(STJ,  5a Turma,  REsp  1.416.392/RS,  Rei. Min.  Moura 
+Ribeiro, j. 19/11/2013).
+7. Número de peritos não oficiais: se  há
+necessidade de apenas um perito oficial para 
+a  realização  do  exame  de  corpo  de  delito  e 
+das demais perícias, quando houver a neces­
+sidade de nomeação de peritos não oficiais, 
+os exames devem ser realizados por 2 (duas) 
+pessoas.  Diante  das  alterações  produzidas 
+pela  Lei  n.  11.690/08,  conclui-se  que  a  sú­
+mula 361  do STF passa a ter seu âmbito de 
+aplicação  restrito  às  perícias  feitas  por  pe­
+ritos não oficiais, em que o exame deve ser 
+considerado nulo quando realizado por um 
+só  perito.  Na  esteira  do  que já  se  entendia 
+anteriormente, tal nulidade terá caráter rela­
+tivo, sendo imprescindível, por conseguinte, 
+a comprovação do prejuízo e a arguição em 
+momento oportuno.
++   Jurisprudência selecionada:
+STJ:"(...) O fato do exame de corpo de delito ser subs­
+crito por apenas um perito oficial, conquanto caracteri­
+ze nulidade, à luz do disposto no art. 159, § 1 °, do CPP, 
+é vício de natureza relativa, que pressupõe a alegação 
+no  momento oportuno, bem  como a verificação de 
+prejuízo para a  parte, sendo que este
+[/PAGINA 833]
+
+[PAGINA 834]
+não houve no 
+caso. (...) Recurso conhecido em parte e, nessa parte, 
+desprovido". (STJ, 5a Turma, RHC 11.278/MG, Rei. Min. 
+Felix Fischer, DJ 20/08/2001  p. 494).
+8.  Compromisso de bem e fielmente de­
+sempenhar o encargo: os peritos não oficiais 
+prestarão o compromisso de bem e fielmente 
+desempenhar o encargo. Para a doutrina e para 
+a jurisprudência, a ausência desse compromis­
+so configura mera irregularidade.
+9.  Formulação de quesitos  pelas partes:
+quesitos são indagações direcionadas aos pe­
+ritos, que devem ser respondidas quando da 
+elaboração  do  laudo  pericial.  Ao Ministério 
+Público, ao assistente de acusação, ao ofendido,
+
+TÍTULO VII • DA PROVA •] 59
+ainda que não habilitado como assistente do 
+Parquet, ao querelante e ao acusado é facultada 
+a formulação de quesitos. Sua apresentação é 
+mera faculdade dos legitimados.
+10.   Assistentes  técnicos: com  a  Lei  n.
+11.690/08, foi introduzida no processo penal 
+a figura do assistente técnico, outrora prevista 
+tão somente no processo civil. O assistente téc­
+nico deve ser compreendido como um auxiliar 
+das partes, dotado de conhecimentos técnicos, 
+científicos ou artísticos, responsável por tra­
+zer  ao  processo  informações  especializadas 
+pertinentes ao objeto da perícia. É o perito de 
+confiança da parte, que irá atuar na perspectiva 
+de ratificar, complementar, ou infirmar o laudo 
+oficial, consolidando a tese acusatória ou de­
+fensiva. Pelo fato de ser indicado pelas partes, 
+é  natural  que  o  assistente  seja  nitidamente 
+parcial.  O  fruto  do  seu trabalho  é  o  parecer 
+técnico,  onde  deve  apresentar conclusões  de 
+ordem  científica  com  o  objetivo  de  melhor 
+informar o  magistrado  no  sentido  da busca 
+da verdade.
+11.   Distinção entre assistentes técnicos e 
+peritos: o assistente técnico diferencia-se do 
+perito pelos seguintes motivos:  a)  Tratando- 
+-se de auxiliar das partes, é evidente que, da 
+sua  atuação,  não  se  pode  esperar  a  mesma 
+imparcialidade que permeia a atuação do pe­
+rito.  Destarte,  ao  contrário  dos  peritos,  os 
+assistentes técnicos não se sujeitam às causas 
+de impedimento e suspeição; b) Ao contrário 
+dos  peritos  oficiais  ou  não  oficiais,  os  assis­
+tentes técnicos  não podem  ser considerados 
+funcionários públicos, na medida em que não 
+exercem cargo, nem tampouco função pública; 
+c) Como o crime de falsa perícia previsto no 
+art. 342 do Código Penal é um crime de mão 
+própria,  tendo  como  sujeito  ativo  apenas  o 
+perito,  eventuais  falsidades  cometidas  pelo 
+assistente técnico não configuram o referido 
+delito. A depender do caso concreto, todavia, 
+poderá restar caracterizado o delito de falsi­
+dade ideológica (CP, art. 299), caso seja com­
+provado  que  o  assistente  técnico  omitiu  em 
+seu parecer declaração que dele devia constar, 
+nele inseriu ou fez inserir declaração falsa ou 
+diversa da que devia ser. escrita, com o fim de
+prejudicar direito,  criar obrigação  ou alterar 
+a verdade sobre fato jurid
+[/PAGINA 834]
+
+[PAGINA 835]
+icamente relevante. 
+Logicamente, a prática do delito de falsidade 
+ideológica está condicionada à inserção de um 
+dado objetivo falso em seu parecer, jamais po­
+dendo ser censurada criminalmente eventual 
+opinião do assistente técnico distinta daquela 
+firmada pelos peritos.
+12.   Momento para a indicação de assis­
+tente técnico: o  assistente técnico  só  pode 
+ser indicado pelas partes durante o curso do 
+processo judicial. Segundo o art.  159, §4°, do 
+CPP,  o  assistente  técnico  atuará  a  partir  de 
+sua admissão pelo juiz e após a conclusão dos 
+exames e elaboração do laudo pelos peritos ofi­
+ciais, sendo as partes intimadas desta decisão. 
+Como se percebe, admitidos pelo magistrado, 
+os assistentes técnicos indicados pelos interes­
+sados devem aguardar o término do exame fei­
+to pelo perito oficial (ou pelos dois peritos não 
+oficiais) para, somente então, poder atuar. Não 
+haverá  exame  conjunto,  nem  tampouco tem 
+o perito oficial a obrigação de designar data 
+específica para que todos acompanhem 0 seu 
+trabalho. Na mesma linha, o Código também 
+dispõe que, durante o curso do processo judicial, 
+é permitido às partes, quanto à perícia, indicar 
+assistentes  técnicos  que  poderão  apresentar 
+pareceres em prazo a ser fixado pelo juiz ou 
+ser  inquiridos  em  audiência  (CPP,  art.  159, 
+§5°, II). Por fim, e ainda segundo as alterações 
+introduzidas  no  CPP  pela  Lei  n.  11.690/08, 
+havendo requerimento das partes, o material 
+probatório  que serviu  de base  à perícia será 
+disponibilizado no ambiente do órgão oficial, 
+que manterá sempre sua guarda, e na presença 
+de perito oficial, para exame pelos assistentes, 
+salvo se for impossível a sua conservação (CPP, 
+art. 159, §6°). Não se admite, portanto, a inter­
+venção do assistente na fase investigatória.
+13.   Esclarecimentos dos peritos: no curso 
+do processo judicial, as partes podem requerer 
+a oitiva dos peritos para esclarecerem a prova 
+ou  para  responderem  a  quesitos,  podendo 
+apresentar as respostas em laudo complemen­
+tar (CPP, art.  159, §5°, I). O dispositivo legal 
+sob comento visa resguardar o contraditório 
+em relação à prova pericial, geralmente feita
+
+Art. 160
+CPP COMENTADO • Renato Brasileiro de Lima
+durante  as  investigações  preliminares,  logo, 
+sem a obrigatoriedade de participação dialética 
+das partes. Perceba-se que esses esclarecimen­
+tos do perito oficial (ou dos dois peritos não 
+oficiais) podem ser prestados de duas formas 
+distintas: a) oitiva dos peritos durante a audi­
+ência una de instrução e julgamento -  o art. 
+400, caput, do CPP, faz referência expressa aos 
+esclarecimentos dos peritos logo após a oitiva 
+das testemunhas arroladas pela acusação e pela 
+defesa; b) apresentação de laudo complemen­
+tar com  respostas  aos  quesitos  apresentados 
+pelas partes. Ante a carência de peritos no ter­
+ritório nacional, parece-nos que o ideal é que se 
+dê prioridade aos esclarecimentos dos peritos 
+por meio de laudo  complementar,  evitando- 
+-se,
+[/PAGINA 835]
+
+[PAGINA 836]
+assim, desnecessário comparecimento do 
+expert ao fórum para participar da audiência 
+una de instrução e julgamento, o que, em tese, 
+permite que o auxiliar do juízo permaneça em 
+seu  ambiente  de  trabalho  dando  prossegui­
+mento a outros exames periciais, igualmente 
+importantes. Na verdade, se os esclarecimen­
+tos já foram prestados pelo perito, é evidente 
+que seu comparecimento em juízo para mera 
+ratificação oral do laudo complementar seria 
+espécie de prova protelatória, logo, passível de 
+indeferimento pelo magistrado, nos termos do 
+art. 400, §1°, do CPP. Para que o perito preste 
+tais  esclarecimentos,  o  mandado  de  intima­
+ção para comparecimento à audiência una de 
+instrução e julgamento ou os quesitos a serem 
+esclarecidos  devem  ser  encaminhados  com 
+antecedência mínima de 10 (dez) dias. Trata-se 
+de prazo processual, contando-se, portanto, da 
+data da audiência para trás. Na eventualidade 
+de o decêndio não ser observado, o perito não 
+estará  obrigado  a  comparecer  à  audiência. 
+No  entanto,  se  o  fizer,  não  haverá  qualquer 
+nulidade, vez que o prazo foi estabelecido em 
+seu benefício.
+14.   Material  para  contraprova: o  perito 
+oficial -  ou os dois peritos não oficiais -  deve 
+guardar material  suficiente para a realização 
+de contraprova, ou seja, para a eventual análise 
+de outros técnicos,  sejam eles  outros peritos 
+nomeados pelo Delegado de Polícia (ou pelo 
+Juiz), sejam eles assistentes técnicos indicados 
+pelas partes. Afinal, não houvesse a preserva­
+ção do material para eventual contraprova, di­
+ficilmente seria possível a realização de outros 
+exames periciais para que fossem apresentadas 
+opiniões concordantes ou díspares com o laudo 
+pericial  constante  dos  autos  do  processo.  À 
+evidência,  a preservação  desse  material está 
+ligada  diretamente  à  natureza  do  objeto  da 
+perícia, leia-se, à possibilidade de conservação. 
+Deveras,  se,  de  um  lado,  é  possível o  arma­
+zenamento de pequena amostra necessária à 
+realização  do  exame  toxicológico  definitivo 
+no caso  de  drogas  (Lei  n.  11.343/06,  art.  50, 
+§3°, com redação dada pela Lei n.  12.961/14), 
+de outro, não é possível que um cadáver seja 
+armazenado,  haja vista  a  necessidade  de  se- 
+pultamento.  Para  fins  de  elaboração  de  seus 
+pareceres técnicos, os assistentes terão acesso 
+ao  referido  material  no  ambiente  do  órgão 
+oficial, sempre assistidos por um perito oficial 
+-  não necessariamente por aquele que realizou 
+o exame inicial -, o que significa dizer que o 
+material não pode ser retirado daquele local.
+15.   Perícia  complexa  e  designação  de 
+mais de um  perito oficial  (e indicação de 
+mais de um assistente técnico): perícia com­
+plexa é aquela que abrange mais de uma área de 
+conhecimento especializado. Nesse caso, nada 
+impede que a autoridade policial (ou judiciá­
+ria)  designe mais de um perito oficial para a 
+realização do exame de sanidade mental, sem 
+prejuízo da indicação de mais de um as
+[/PAGINA 836]
+
+[PAGINA 837]
+sistente 
+técnico pelas partes.
+Art. 160. Os peritos elaborarão o laudo pericial,''5 onde descreverão 
+minuciosamente o que examinarem, e responderão aos quesitos formula­
+dos. (Redação dada pela Lei n. 8.862, de 28.3.1994)
+Parágrafo único. O laudo pericial será elaborado no prazo máximo 
+de 10 dias, podendo este prazo ser prorrogado, em casos excepcionais, a 
+requerimento dos peritos.6 (Redação dada pela Lei n. 8.862, de 28.3.1994)
+
+TÍTULO VII • DA PROVA   . -J g Q
+1.  Laudo pericial: é a peça técnica elaborada 
+pelos peritos quando da realização do exame 
+pericial.  Subdivide-se  em 4  (quatro)  partes: 
+a)  preâmbulo:  qualificação  do  perito  oficial 
+ou  dos  peritos  não-oficiais  e  do  objeto  da 
+perícia; b) exposição: narrativa de tudo que é 
+observado pelos experts;  c)  fundamentação: 
+motivos  que levaram  os experts  à  conclusão 
+final; d) conclusão técnica: resposta aos que­
+sitos formulados.
+2.  Momento para a juntada do laudo pe­
+ricial: em regra, o laudo pericial não funciona 
+como  condição  de  procedibilidade  da  ação 
+penal, o que significa dizer que o laudo peri­
+cial não é peça indispensável para o início do 
+processo. Portanto, o laudo pode ser juntado 
+aos  autos  ao  longo  de  todo  o  processo.  No 
+entanto, diante do silêncio da lei, questiona-se 
+até quando essa juntada pode ocorrer. Como 
+o acusado deve ter conhecimento de tudo que 
+contra ele foi produzido ou venha a ser utiliza­
+do, a fim de que possa exercer o seu direito de 
+fazer a contraprova, apresentando elementos 
+probatórios para se contrapor ao trazido aos 
+autos pelo exame pericial, queremos crer que 
+o  laudo  pericial  deve  ser juntado  aos  autos 
+antes da audiência una de  instrução e julga­
+mento, com antecedência mínima de 10 (dez) 
+dias. Explica-se: o próprio Código de Processo 
+Penal prevê que, durante o curso do processo 
+judicial, é permitido às partes, quanto à perícia, 
+requerer a oitiva dos peritos para esclarecerem 
+a prova ou para responderem a quesitos, desde 
+que o mandado de intimação e os quesitos ou 
+questões a serem esclarecidas sejam encami­
+nhados com 
+antecedência mínima de 10 (dez) 
+dias, podendo apresentar as respostas em laudo 
+complementar (CPP, art. 159, §5°, I). Ora, se a 
+própria lei prevê que o requerimento da oitiva 
+dos peritos para esclarecerem a prova pericial 
+deve ser feito com antecedência mínima de 10 
+(dez)  dias,  é  evidente  que  a parte  só  poderá 
+considerar a possibilidade de solicitar esclare­
+cimentos caso já tenha tido ciência do laudo 
+pericial que foi juntado aos autos do processo. 
+De todo  modo,  mesmo  que o laudo  pericial 
+seja juntado extemporaneamente, prevalece o 
+entendimento de que se trata de mera nulidade
+relativa, daí porque imprescindível a compro­
+vação do prejuízo.
+•f  Jurisprudência selecionada:
+STF:"(...) Exame de corpo de delito: não é indispensável 
+ao oferecimento da denúncia, podendo realizar-se no 
+curso do  processo; de qualquer sorte,  prescinde-se 
+do exame pericial diret
+[/PAGINA 837]
+
+[PAGINA 838]
+o, se é imputável ao acusado 
+a sonegação do documento onde se materializaria a 
+falsidade material; de resto, há imputação também de 
+falsidade ideológica, à prova da qual" sendo certa a 
+sua existência" não é necessário o exame de corpo de 
+delito". (STF, I o turma, HC 78.719, Rei. Min. Sepúlveda 
+Pertence, DJ 25/06/1999).
+STJ:"(...)  Ainda  quando  se cuide  de  infração  penal 
+transeunte, a ausência de exame de corpo de delito 
+direto não inibe o oferecimento da denúncia, desde 
+que  outros  elementos  certifiquem  a  existência  de 
+crime, até porque o exame de corpo de delito pode 
+ser realizado a qualquer tempo e sua falta  pode ser 
+suprida pelo exame de corpo de delito indireto e pela 
+prova testemunhai". (STJ, 6°Turma, RHC 9.776-SP, Rei. 
+Hamilton Carvalhido, DJ 17/09/2001  p. 191).
+STF:"(...)  A  nulidade  decorrente  da juntada  tardia 
+do laudo de exame toxicológico no crime de tráfico 
+de  drogas  tem  com o  pressuposto  a  comprovação 
+do  prejuízo  ao  réu.  (...)  In  casu:  a)  o  recorrente foi 
+denunciado (fls. 9) com o incurso nas sanções do art. 
+12 da  Lei  6.368/76,  porque, em  27/9/2005,  ao final 
+do banho de sol dos detentos da cadeia  pública da 
+Comarca de Ponte Nova/MG, tentava esconder dos 
+policiais  7  (sete)  invólucros  contendo  substância 
+vegetal esverdeada conhecida com o "maconha", de 
+peso aproximado de 8,57g (oito gramas e cinquenta 
+e sete centigramas); b) o Juiz de Direito de primeira 
+instância  proferiu  sentença  absolutória,  por julgar 
+que,  para  se aferir a  materialidade delitiva, impres­
+cindível  seria  a  elaboração  de  laudo  toxicológico
+ 
+definitivo,  sendo  insuficiente o  laudo  de  constata­
+ção  preliminar; c) o  laudo definitivo, embora tenha
+ 
+sido elaborado antes  da  sentença,  somente veio  a 
+ser juntado  aos  autos  após  a  sua  prolação;  houve 
+apelação pelo Ministério Público, que restou provida 
+para condenar o réu, decisão confirmada em sede de 
+embargos infringentes; d) a condenação fundou-se 
+em  conjunto  probatório  independente  do  laudo 
+definitivo consistente em: laudo preliminar assinado 
+por perito oficial  não  contestado  pela  defesa,  bem 
+como a confissão do acusado de que a droga era de 
+sua propriedade; e) o contraditório foi oportunizado à 
+defesa no momento das contrarrazões de apelação, e 
+pela posterior interposição de embargos infringentes. 
+(...) Recurso ordinário desprovido". (STF, 1aTurma, RHC 
+110.429/MG, Rei. Min. Luiz Fux, 06/03/2012).
+
+Art. 161 \   Cpp COMENTADO • Renato Brasileiro de Lima
+3.  Laudo pericial como condição específi­
+ca da ação penal: como dito acima, em regra, 
+o laudo pericial não precisa constar dos autos 
+quando do oferecimento da peça acusatória. 
+Não  obstante,  não  se  pode  olvidar  que  há 
+exceções  a  essa  regra,  merecendo  destaque 
+as  seguintes  hipóteses:  a)  De  acordo  com  a 
+Lei de Drogas (Lei n.  11.343/06, art. 50, §1°), 
+para efeito da lavratura do auto de prisão em 
+flagrante e estabelecimento da m
+[/PAGINA 838]
+
+[PAGINA 839]
+aterialidade 
+do delito, é suficiente o laudo de constatação 
+da natureza e quantidade da droga,  firmado 
+por perito oficial ou, na falta deste, por pes­
+soa idônea.  Se a lei de drogas exige o laudo 
+preliminar para a própria prisão em flagrante, 
+é  evidente  que  sua juntada  é  indispensável 
+para a deflagração  da ação penal, figurando 
+como condição específica de procedibilidade 
+para  os  processos  penais  relativos  a drogas, 
+sem prejuízo da posterior juntada do exame 
+definitivo; b)  Nos exatos termos do art.  525 
+do CPP, inserido no capítulo que versa sobre 
+o  procedimento  dos  crimes  contra  a  pro­
+priedade imaterial, no caso de haver o crime 
+deixado vestígio, a queixa ou a denúncia não 
+será recebida se não for instruída com o exame 
+pericial dos objetos que constituam o corpo 
+de delito.
+4.  Sistemas de apreciação dos laudos pe­
+riciais: vide comentários ao art.  182 do CPP.
+5.  Laudo pericial e contraditório: na grande 
+maioria dos casos, a eficácia do exame pericial 
+está condicionada a sua imediata realização, 
+de modo a se evitar a dispersão dos elementos 
+probatórios em relação às infrações penais que
+deixam vestígios. Por tal motivo, sua realização 
+deve ser determinada de imediato pela própria 
+autoridade  policial  (CPP,  art.  6o,  incisos  I  e 
+VII),  independentemente  de  prévia  autori­
+zação judicial, sendo dispensável, ademais, a 
+participação da defesa na produção da prova. 
+Nesse caso, o contraditório será diferido. Ou 
+seja, para  que essas provas possam  ser utili­
+zadas  para  fundamentar  eventual  sentença, 
+imperiosa será a observância do contraditório 
+sobre a prova, permitindo que as partes pos­
+sam discutir sua admissibilidade, regularidade 
+e idoneidade. Bom exemplo do exercício desse 
+contraditório  diferido  no  tocante  ao  exame 
+pericial diz respeito ao art.  159, §5°, inciso I, 
+do CPP, que permite às partes, durante o cur­
+so do processo judicial, requerer a oitiva dos 
+peritos para esclarecimento da prova ou para 
+responderem a quesitos.
+6.  Prazo para a conclusão do laudo peri­
+cial: o  laudo  pericial  deve  ser  elaborado  no 
+prazo máximo de 10 (dez) dias, podendo este 
+prazo ser prorrogado, em casos excepcionais, a 
+requerimento dos peritos. A competência para 
+autorizar a prorrogação desse prazo recai sobre 
+a autoridade  responsável pela  determinação 
+da perícia, seja ela o Delegado de Polícia, seja 
+ela a autoridade judiciária. Trata-se de prazo 
+impróprio, ou seja, a juntada extemporânea do 
+laudo pericial não produz qualquer sanção de 
+natureza processual (v.g., nulidade), mas sim 
+mera irregularidade.  Na verdade,  se  o laudo 
+pericial  não  for  concluído  dentro  do  prazo 
+legal, subsiste a possibilidade de aplicação de 
+multa, nos termos do art. 277, parágrafo único, 
+alínea “c”, do CPP.
+Art. 161.0 exame de corpo de delito poderá ser feito em qualquer 
+dia e a qualquer hora.'
+1.  Dia e hora para a realização do exame 
+de corpo de delito: ressalvada a hipótese de 
+inviolabi
+[/PAGINA 839]
+
+[PAGINA 840]
+lidade domiciliar (CF, art.  5o, XI), o 
+exame de corpo de delito e as demais perícias 
+podem ser realizados atqualquer hora do dia
+ou da noite.  Também se  admite a confecção 
+do laudo pericial em qualquer dia da semana, 
+adequando-se à necessidade da atividade pe­
+ricial, e ao sistema de plantão perene em que 
+geralmente é organizada a polícia técnica.
+
+TÍTULO VII • DA PROVA Art. 1 63
+Art. 162. A autópsia será feita pelo menos seis horas depois do óbito, 
+salvo se os peritos, pela evidência dos sinais de morte, julgarem que possa 
+ser feita antes daquele prazo, o que declararão no auto.'
+Parágrafo único. Nos casos de morte violenta, bastará o simples exa­
+me externo do cadáver, quando não houver infração penal que apurar, 
+ou quando as lesões externas permitirem  precisar a causa da  morte e 
+não houver necessidade de exame interno para a verificação de alguma 
+circunstância relevante.2
+1.  Autópsia (ou  necropsia): a  autópsia é  a 
+perícia realizada com o objetivo de identificar a 
+causa da morte. Apesar de o CPP usar a expres­
+são autópsia, o ideal é usar a palavra necropsia, 
+pois autópsia significa inspeção de si próprio. 
+Em regra, a necropsia envolve o exame interno 
+e  externo,  lavrando-se,  em  seguida,  o  laudo 
+necroscópico ou cadavérico. De modo a se evi­
+tar que o exame seja realizado em pessoa viva 
+-  morte aparente é a situação em que alguém é 
+dado como morto pelo médico e assim tratado 
+por seus parentes, quando, na verdade,  ainda 
+está vivo  (ex.:  embriaguez,  catalepsia,  coma 
+epilético) -, deve-se aguardar o período de seis 
+horas após a constatação do óbito para que se 
+proceda ao exame. Esse tempo mínimo de seis
+horas  é  o  necessário  para  o  surgimento  dos 
+incontroversos sinais tanatológicos, demonstra­
+tivos da morte da vítima, evitando-se qualquer 
+engano fatal. No entanto, havendo evidência da 
+morte, devidamente justificada pelo perito no 
+auto, dispensa-se a referida espera.
+2.  Morte violenta: nos casos de morte violen­
+ta, basta o simples exame externo do cadáver, 
+quando não houver infração penal que apurar 
+(ex.:  morte natural patológica decorrente  de 
+doença), ou quando as lesões externas permi­
+tam precisar a causa da morte sem  que haja 
+necessidade  de  exame  interno  para  a verifi­
+cação de alguma circunstância relevante (v.g., 
+esmagamento do crânio).
+Art. 163 . Em caso de exumação para exame cadavérico,' a autoridade 
+providenciará para que, em dia e hora previamente marcados, se realize a 
+diligência, da qual se lavrará auto circunstanciado.2
+Parágrafo único. O administrador de cemitério público ou particular 
+indicará o lugar da sepultura, sob pena de desobediência. No caso de recusa 
+ou de falta de quem indique a sepultura, ou de encontrar-se o cadáver em 
+lugar não destinado a  inumações, a autoridade procederá às pesquisas 
+necessárias, o que tudo constará do auto.3
+1.  Exumação  para  exame  cadavérico:
+exumação significa desenterrar ou retirar o 
+cadáver da sepultura. O procedimento d
+[/PAGINA 840]
+
+[PAGINA 841]
+epen­
+de de autorização legal e não pode ser feito 
+sem justa causa, sob pena de configuração da 
+contravenção penal do art. 67 do Decreto-Lei 
+n. 3.688/41  (“Art. 67. Inumar ou exumar ca­
+dáver, com infração das disposições legais”). 
+Inumação significa enterrar ou sepultar. Em 
+alguns casos, para que se possa fazer o exa­
+me cadavérico,  é  necessária  a exumação  do 
+cadáver.  De  fato,  é  possível  que  a  dúvida
+quanto à causa  mortis tenha surgido após o 
+sepultamento. Para além disso, diante de uma 
+primeira  necropsia  mal  feita,  a  autoridade 
+policial  (ou judiciária)  pode  determinar  a 
+realização de novo exame pericial ou a com- 
+plementação do anterior.
+2.  Autoridade competente para determi­
+nar a exumação: a autoridade policial ou ju­
+diciária providenciará para que, em dia e hora 
+previamente marcados, se realize a diligência, 
+da qual se lavrará auto circunstanciado. Apesar 
+de a doutrina processual penal admitir que a
+
+Art.164 CPP COMENTADO • Renato Brasileiro de Lima
+autoridade policial determine a exumação, é 
+relativamente  comum,  no  dia-a-dia policial, 
+que o Delegado de Polícia solicite autorização 
+ao juízo competente, evitando-se, assim, quais­
+quer questionamentos quanto à legalidade da 
+diligência.
+3.  Recusa do administrador do cemitério 
+em  indicar o  lugar da  sepultura: o  admi­
+nistrador de cemitério público ou particular 
+indicará  o  lugar  da  sepultura,  sob  pena  de 
+configuração do crime de desobediência (CP, 
+art.  330).  No  caso  de  recusa  ou  de  falta  de 
+quem indique a sepultura, ou de encontrar-se o 
+cadáver em lugar não destinado a inumações, a 
+autoridade procederá às pesquisas necessárias, 
+o que tudo constará do auto.
+Art. 164. Os cadáveres serão sempre fotografados na posição em que 
+forem encontrados,'  bem como, na medida do possível, todas as lesões 
+externas e vestígios deixados no local do crime.2 (Redação dada pela Lei 
+n. 8.862, de 28.3.1994)
+1.  Fotografia  dos cadáveres: quando  se 
+trata  de  morte  violenta  ou  suspeita,  é  de 
+fundamental  importância  que  os  cadáveres 
+sejam fotografados na posição em que foram 
+encontrados. Afinal, a depender das circuns­
+tâncias  do  caso  concreto,  as  fotos  podem 
+funcionar como indícios de um suicídio, de 
+um  homicídio,  ou  de  um  simples  acidente. 
+Ante  a  importância  dessas  fotos,  há  de  se 
+tomar  extrema  cautela  na  preservação  do 
+local  do  crime para que  não  haja nenhuma 
+adulteração  do  corpo  de  delito.  Para  mais 
+detalhes  acerca  da  preservação  do  local  do
+crime,  remetemos  o  leitor  aos  comentários 
+ao inciso I do art. 6o do CPP.
+2.  Fotografia das lesões externas e vestígios 
+deixados no local do crime: o trabalho de fo­
+tografia executado pelo perito oficial -  ou pelos 
+2 peritos não oficiais -  não deve ficar restrito ao 
+cadáver. Também devem ser objeto de fotogra­
+fias as lesões externas encontradas no cadáver, 
+como,  por exemplo,  os orifícios de entrada e 
+saída dos projéteis, assim
+[/PAGINA 841]
+
+[PAGINA 842]
+como os demais ves­
+tígios deixados na cena do crime (v.g., poça de 
+sangue, marcas do solado de um sapato, etc.).
+Art. 165. Para representaras lesões encontradas no cadáver, os peritos, 
+quando possível, juntarão ao laudo do exame provas fotográficas, esquemas 
+ou desenhos, devidamente rubricados.'
+1.  Fotografias, esquemas e desenhos na 
+necropsia: fotografias, esquemas e desenhos 
+das  lesões  encontradas  no  cadáver, juntados 
+aos laudo pericial, facilitam sua compreensão
+e análise pelo Delegado de Polícia, pelas partes 
+e pela autoridade judiciária. Portanto, sempre 
+que possível, essas diligências devem ser rea­
+lizadas pelos peritos.
+Art. 166. Havendo dúvida sobre a identidade do cadáver exumado,' 
+proceder-se-á ao reconhecimento pelo Instituto de Identificação e Estatística 
+ou repartição congênere ou pela inquirição de testemunhas, lavrando-se 
+auto de reconhecimento e de identidade, no qual se descreverá o cadáver, 
+com todos os sinais e indicações.2
+
+TÍTULO VII-DA PROVA
+Art.167
+Parágrafo único. Em qualquer caso, serão arrecadados e autenticados 
+todos os objetos encontrados, que possam ser úteis para a identificação 
+do cadáver.3
+1.  Identificação do cadáver: se houver dúvi­
+da quanto à verdadeira identidade do cadáver 
+objeto de exumação, sua identificação deve ser 
+feita através da colheita das impressões dacti- 
+loscópicas, palmares ou plantares, fotografias, 
+radiografias, da análise da arcada dentária ou 
+por  meio  de  observação  de  familiares  e  de 
+pessoas que conheciam o 
+de cujus. À evidência, 
+o método de identificação a ser utilizado está 
+diretamente relacionado às circunstâncias em 
+que o cadáver for encontrado.
+2.  Auto de reconhecimento e identidade:
+a diligência sob comento deve ser formalizada
+através desse auto, com a narrativa do proce­
+dimento  identificatório  utilizado,  das provas 
+realizadas,  dos  confrontos  feitos,  dos  sinais 
+encontrados  e  das pessoas  que participaram 
+do ato.
+3.  Apreensão dos objetos encontrados: to­
+dos os objetos encontrados com o cadáver por 
+ocasião da exumação devem ser apreendidos. 
+Se forem úteis para a identificação do cadáver 
+ou para a apuração dos fatos delituosos, não 
+se  admite  a  restituição  aos  familiares  do de 
+cujus. Caso contrário, é perfeitamente possível 
+a restituição.
+Art. 167. Não sendo possível o exame de corpo de delito,1 por haverem 
+desaparecido os vestígios, a prova testemunhai poderá suprir-lhe a falta.2 S
+1.  Exame de corpo de  delito direto: da
+leitura dos arts.  158 e  167 do CPP denota-se 
+que são duas as espécies de exame de corpo de 
+delito, o direto e o indireto. O exame de corpo 
+de delito direto é aquele feito por perito oficial 
+(ou por dois peritos não oficiais) sobre o pró­
+prio corpo de delito. A título de exemplo, se o 
+cadáver for encontrado após a execução de um 
+crime de homicídio (CP, art.  121), será consi­
+derado exame direto aquele feito no próprio 
+cadáver. Noutro giro, na hipótese de a cocaína 
+ser encontrada com determinad
+[/PAGINA 842]
+
+[PAGINA 843]
+o agente por 
+ocasião  de  eventual  prisão  em  flagrante  no 
+crime de tráfico de drogas  (Lei n.  11.343/06, 
+art. 33), será considerado exame direto aquele 
+feito na própria substância apreendida. 2
+2. Exame de corpo de delito indireto: se
+não há dúvidas quanto ao conceito de exame 
+de corpo de delito direto, o mesmo não ocorre 
+quando  se busca  na  doutrina  o  conceito  de 
+exame de corpo de delito indireto.  Para uma 
+primeira  corrente,  dominante  na jurispru­
+dência,  não  há  qualquer  formalidade  para 
+a  constituição  do  corpo  de  delito  indireto, 
+constituindo-se pela colheita de prova teste­
+munhai, a qual, afirmando ter presenciado o 
+crime ou visto os vestígios, será suficiente para 
+suprir o exame direto, ou, ainda, pela análise de 
+documentos que comprovem a materialidade, 
+tais  como  fotografias  dos vestígios  sensíveis 
+ou o  prontuário  médico  do  atendimento  da 
+vítima  no  posto  de  saúde.  É  o  que  dispõe  o 
+art. 167 do CPP, aplicável inclusive aos crimes 
+de homicídio, quando, por exemplo, o corpo 
+da vítima  não  for  encontrado.  Nesse  caso,  é 
+perfeitamente possível que um exame de DNA 
+comprove  a  presença  do  sangue  da  vítima 
+nas vestes do investigado/acusado ou em seu 
+veículo automotor (ou residência), auxiliando 
+a comprovação da materialidade e da autoria 
+de possível  crime  de  homicídio.  Na  mesma 
+linha, quando os vestígios deixados por uma 
+lesão corporal leve desaparecerem em virtude 
+do decurso do tempo, inviabilizando o acesso 
+dos  peritos,  ainda  que  indireto,  ao  objeto  a 
+ser analisado, a ausência do exame de corpo 
+de delito direto poderá ser suprida pela oitiva 
+de  testemunhas  ou  pela  análise  documental 
+(v.g., prontuário médico). Perceba-se que, para 
+essa primeira corrente, o exame de corpo de 
+delito indireto não é propriamente um exame,
+
+Art. 167
+CPP COMENTADO • Renato Brasileiro de Lima
+mas sim a prova testemunhai ou documental 
+suprindo a ausência do exame direto, em vir­
+tude  do  desaparecimento  dos  vestígios  dei­
+xados pela infração penal. Para uma segunda 
+corrente, dominante na doutrina, o exame de 
+corpo de delito indireto é um exame pericial 
+e  não  se  confunde  com  o  mero  depoimen­
+to  de  testemunhas  (CPP,  art.  167).  Para essa 
+corrente, após colherem os depoimentos das 
+testemunhas acerca dos vestígios deixados pela 
+infração penal, ou analisar documentos per­
+tinentes à materialidade da infração penal, os 
+peritos irão extrair suas conclusões, firmando 
+um laudo  pericial.  Esse  exame  é  tido  como 
+indireto pelo fato de não ser feito diretamente 
+sobre os vestígios deixados pela infração. Logo, 
+nessa acepção, não se tem na regra do art. 167 
+do  CPP  uma  espécie  de  exame  de  corpo  de 
+delito indireto, mas sim exclusivamente prova 
+testemunhai. É essa a posição, entre outros, de 
+Eugênio Pacelli de Oliveira (op. cit. p. 375), Vi­
+cente Greco Filho (Manual de Processo Penal, 
+7a ed. São Paulo: Saraiva, 2009, p. 212) e Hélio 
+Tornaghi
+[/PAGINA 843]
+
+[PAGINA 844]
+(Instituições  de processo penal.  São 
+Paulo: Saraiva, 1959, v. 4. p. 277). Conclui-se, 
+portanto, que o exame de corpo de delito direto 
+é, sim, um exame pericial. De outro lado, a de­
+pender da corrente adotada, o exame de corpo 
+de  delito  indireto  pode  ser  considerado  um 
+exame pericial ou um exame judicial, ou seja, 
+uma análise do juiz acerca da materialidade 
+do delito, porém a ser feita a partir da análise 
+da prova testemunhai (ou documental).
+♦   Jurisprudência selecionada:
+STF:"(...) Nos crimes contra a liberdade sexual cometi­
+dos mediante grave ameaça ou com violência presumi­
+da, não se impõe, necessariamente, o exame de corpo
+ 
+de delito direto, porque tais infrações penais, quando 
+praticadas nessas circunstâncias (com violência moral 
+ou com violência ficta), nem sempre deixam vestígios 
+materiais. - O exame de corpo de delito indireto, fun­
+dado em prova testemunhai idônea e/ou em outros 
+meios de prova consistentes (CPP, art. 167), revela-se 
+legítimo (RTJ 63/836 - RTJ 81/110 - RT 528/311), desde 
+que, por não mais subsistirem vestígios sensíveis do 
+fato delituoso, não se viabilize a realização do exame 
+direto. Precedentes. (...)". (STF, 1 “Turma, HC 69.591/SE, 
+Rei. Min. Celso de Mello, DJ 29/09/2006 p. 46). 
+STF:"(...)TRÁFICO DE DROGAS. MATERIALIDADE DELI- 
+TIVA. NÃO APREENSÃO DA SUBSTÂNCIA ENTORPECEN­
+TE. COMPROVAÇÃO PELAS DEMAIS PROVAS PRODU­
+ZIDAS NOS AUTOS. DEPOIMENTOS DETESTEMUNHAS 
+E INTERCEPTAÇÕES TELEFÔNICAS. INTELIGÊNCIA DO 
+ART.  167  DO  CÓDIGO  DE  PROCESSO  PENAL.  (...)  A 
+falta de laudo pericial não conduz, necessariamente, 
+à  inexistência  de  prova  da  materialidade de  crime 
+que deixa vestígios, a qual pode ser demonstrada, em 
+casos excepcionais, por outros elementos probatórios 
+constante dos autos da ação penal (CPP, art. 167). (...) 
+Ordem denegada". (STF, 2aTurma, HC 130.265/DF, Rei. 
+Min.Teori Zavascki, j. 31 /05/2016, DJe 12010/06/2016).
+3.  Comprovação  da  materialidade  por 
+meio de prova testemunhai (ou documen­
+tal)  direta: para  que  a  ausência  do  exame 
+direto  seja  suprida  pelo  exame  de  corpo  de 
+delito  indireto,  esta  prova  testemunhai  (ou 
+documental) deve ser direta e robusta, jamais 
+indiciária,  frágil.  Ora,  se  até mesmo  um  cri­
+me de homicídio pode ter sua materialidade 
+comprovada por meio do  relato de testemu­
+nhas,  é  evidente  que  tais  pessoas  devem  ter 
+presenciado  diretamente  a prática  delituosa, 
+quer  de  maneira  integral,  quer  de  maneira 
+parcial. Logo, se as testemunhas descreverem 
+que presenciaram o  exato momento  em que 
+o acusado efetuou diversos disparos de arma 
+de fogo contra a vítima, lançando seu corpo 
+do alto de um navio em alto mar, parece não 
+haver dúvidas de que, por mais que o cadáver 
+jamais seja encontrado para fins de necropsia, 
+houve, sim, um crime de homicídio. Portanto, 
+se  a  prova  testemunhai  ou  documental  for­
+madora do exame de corpo de delito indireto 
+for meramente indiciária, leia-se, frágil, com
+[/PAGINA 844]
+
+[PAGINA 845]
+menor valor persuasivo, jamais poderá ter o 
+condão de suprir a ausência do exame direto 
+de modo a comprovar a materialidade de uma 
+infração penal.
+♦   Jurisprudência selecionada:
+STJ: "(...)  H O M ICÍDIO   QUALIFICADO.  (...)  FALTA  DE 
+MATERIALIDADE. AUSÊNCIA DO CORPO DA SUPOSTA 
+VÍTIMA. ART.  167  DO  CPP. SUPRIMENTO  DA  PROVA 
+PERICIAL. (...) 1. Nos termos do art. 167 do Código de 
+Processo  Penal,  a  prova testemunhai  pode suprir a 
+falta do exame de corpo de delito, caso desaparecidos 
+os vestígios. Esta Corte já decidiu que tal situação se 
+aplica inclusive aos casos de homicídio, se ocultado o 
+corpo da vítima. 2. Hipótese em que a Corte estadual, 
+no julgamento do recurso em sentido estrito, entendeu 
+pela existência de outras provas que demonstrariam
+
+TÍTULO V II. DA PROVA   /   / \ r t. -\ 57
+a  materialidade do crime,  indicando a  confissão do 
+paciente e depoimentos testemunhais. 3. Diante desse 
+contexto, não se mostra possível avaliar profundamen­
+te as provas carreadas aos autos para se concluir de 
+m odo diverso. Ademais, caberá aos jurados compe­
+tentes a  análise detida dos elementos de convicção 
+carreados, por ocasião do julgamento peloTribunal do 
+Júri, mostrando-se prematuro o estancamento do feito. 
+4. Ordem  denegada". (STJ, 6a Turma,  HC  170.507/SP, 
+Rei. Min. Maria Thereza de Assis Moura, j. 16/02/2012).
+4.  Impossibilidade de realização do exame 
+de corpo de delito indireto: pelo menos em 
+regra,  na  hipótese  de  desaparecimento  dos 
+vestígios,  a  prova  testemunhai  pode  suprir 
+a ausência do exame direto.  No  entanto,  em 
+determinados  crimes,  que demandam a rea­
+lização de prova técnica específica e, vez por 
+outra, de elevada complexidade, nem sempre 
+será possível a comprovação da materialidade 
+do  delito por meio de  simples  inquirição  de 
+testemunhas.  É o que ocorre na maioria dos 
+casos envolvendo falsidade documental. Se a 
+testemunha é uma pessoa leiga, que não possui 
+conhecimentos  científicos acerca da autenti­
+cidade de documentos, como se pode admitir 
+que seu depoimento seja capaz de atestar a fal­
+sidade documental? Portanto, nessas hipóteses 
+de falsidade documental, o ideal é concluir que, 
+diante  do  desaparecimento  do  objeto  mate­
+rial do delito, impõe-se o reconhecimento da 
+ausência de prova quanto à materialidade da 
+infração penal, porquanto não se admite que 
+a ausência do exame direto seja suprida pelo 
+exame indireto.
+5.  (Im) possibilidade de comprovação da 
+materialidade do crime de tráfico de drogas 
+quando não houver a apreensão da droga:
+como o tráfico de drogas é infração penal que 
+costuma  deixar vestígios,  a  importância  da 
+apreensão da droga está diretamente relacio­
+nada  à realização  do  exame preliminar para 
+estabelecimento da materialidade, permitindo 
+não só a lavratura do auto de prisão em flagran­
+te, como também o oferecimento da denúncia. 
+Posteriormente, a droga apreendida será sub­
+metida  a  exame  toxicológico  definitivo,  que 
+pode  ser
+[/PAGINA 845]
+
+[PAGINA 846]
+juntado  aos  autos  durante  o  curso 
+da  instrução  probatória,  mas  cuja  ausência 
+por ocasião de eventual sentença condenatória
+pode dar ensejo ao reconhecimento de nuli- 
+dade absoluta do feito. Discute-se, todavia, se 
+seria possível o oferecimento de denúncia e a 
+condenação pela prática do crimes de drogas 
+sem a apreensão da droga e subsequente exame 
+de corpo de delito direto. Como os crimes de 
+drogas 
+costumam deixar vestígios, é fácil dedu­
+zir que, em fiel observância ao sistema tarifado 
+adotado pelo art. 158 do CPP, a materialidade 
+da  infração  penal  depende  da  apreensão  da 
+droga para  que  o  material  seja  submetido  a 
+exame toxicológico  definitivo.  Dizemos  que 
+os crimes de drogas costumam deixar vestígios 
+materiais porque, a depender do caso concreto, 
+esses vestígios podem ter desaparecido. Nesse 
+caso, o desaparecimento dos vestígios impede a 
+realização de exame pericial direto, porém não 
+impede que a materialidade da infração seja 
+comprovada por outros meios de prova (v.g., 
+interceptação telefônica e ambiental, oitiva de 
+compradores da droga, narcotestes realizados 
+nos  veículos  usados  pelos  traficantes,  etc.). 
+Se  os  Tribunais  admitem  que  alguém  seja 
+condenado por um crime de homicídio sem a 
+localização do cadáver (v.g., caso do ex-goleiro 
+do Flamengo), desde que a ausência do exame 
+direto  seja suprida pelo  exame  indireto,  nos 
+termos do art. 167 do CPP, seria de todo incon­
+gruente não se aplicar o mesmo raciocínio aos 
+crimes de drogas. Por conseguinte, nos casos 
+de  não  apreensão  da  droga,  é perfeitamente 
+possível a prolação de um decreto condenató- 
+rio pelos crimes da Lei n. 11.343/06, desde que 
+a ausência do exame direto seja suprida por um 
+conjunto probatório robusto extraído da prova 
+documental e testemunhai produzida durante 
+o curso da instrução probatória. Aliás, em caso 
+concreto referente à associação criminosa de 
+policiais  que  subtraía  substâncias  entorpe­
+centes  de  traficantes  para comercialização  e 
+extorsão, concluiu o Supremo que, diante da 
+impossibilidade óbvia de realização do exame 
+toxicológico,  sua ausência podia  ser suprida 
+pela prova testemunhai.
+♦   Jurisprudência selecionada:
+STJ: "(...)  A jurisprudência  do  Superior Tribunal  de 
+Justiça é no sentido de que a materialidade do crime 
+de tráfico de entorpecentes  deve  ser comprovada
+
+Art.168
+CPP COMENTADO • Renato Brasileiro de Lima
+mediante a juntada aos autos do laudo toxicológico 
+definitivo. Entretanto, tal entendimento deve ser apli­
+cado na hipótese em que há a apreensão da substância
+ 
+entorpecente, justamente para se aferirem as caracte­
+rísticas da substância apreendida, trazendo subsídios e 
+segurança ao magistrado para o seu juízo de convenci­
+mento acerca da materialidade do delito. Na hipótese, 
+o laudo de exame toxicológico definitivo da substância 
+entorpecente  não  é  condição  única  para  basear a 
+condenação se outros dados suficientes, incluindo a 
+vasta prova te
+[/PAGINA 846]
+
+[PAGINA 847]
+stemunhai e documental produzidas na 
+instrução criminal, militam no sentido da materialidade 
+do delito. (...)". (STJ, 5a Turma, HC 91.727/MS, Rei. Min. 
+Arnaldo Esteves Lima, j. 02/12/2008, DJe 19/12/2008). 
+Na  mesma  linha: STJ, 6a Turma,  HC  131.455/MT,  Rei. 
+Min. Maria Thereza de Assis Moura, j. 02/08/2012.
+STJ:"(...) A despeito da pacífica orientação desta Corte 
+no sentido da indispensabilidade do laudo toxicológi­
+co para se comprovar a materialidade do crime de trá­
+fico ilícito de drogas, já se posicionou esta Col. Quinta 
+Turma (HC 91.727/MS, 5.a Turma, Rei. Min. ARNALDO 
+ESTEVES LIMA, DJe de 19/12/2008) no sentido de que 
+o referido entendimento só é aplicável nas hipóteses 
+em  que a  substância  entorpecente é  apreendida,  a 
+fim  que se confirme a  sua  natureza.  Dessa forma, é 
+possível, nos casos de não apreensão da droga, que 
+a  condenação  pela  prática  do  delito  tipificado  no 
+art. 12 da Lei n.° 6.368/76 seja embasada em extensa 
+prova documental e testemunhai produzida durante 
+a instrução criminal, o que constitui o caso dos autos. 
+Recurso desprovido". (STJ, 5aTurma, REsp 1.065.592/DF, 
+Rei. Min. Laurita Vaz, j. 05/04/2011, DJe 08/06/2011). 
+Em caso concreto no qual não houve a apreensão de
+substância entorpecente no local dos fatos, impossibi­
+litando o exame de corpo de delito direto, concluiu o 
+STJ que a materialidade do crime de tráfico podia ser 
+feita por exame cadavérico, atestando a asfixia como 
+causa  mortis da  vítima, que se verificou, em  exame 
+complementar, ter sido decorrente de overdose de 
+cocaína:  STJ,  5a Turma,  REsp  805.377/SC,  Rei.  Min. 
+Laurita Vaz, j. 13/08/2009, DJe 08/09/2009.
+STF:"(...) TRÁFICO  DE  ENTORPECENTE.  EXAME TO- 
+XICOLÓGICO.  HIPÓTESE  EM QUE  ESSE  EXAME PODE 
+SER SUBSTITUÍDO PELA PROVATESTEMUNHAL.EMEN- 
+DATIO UBELU. Tráfico de entorpecente. Quadrilha de 
+policiais  que subtraía  substâncias  entorpecentes de 
+traficantes para comercialização e extorsão. Impossi­
+bilidade óbvia do pretendido exame toxicológico, cuja 
+ausência é suprida pela prova testemunhai. Precedente 
+(HC  78.749).  Desclassificação  do  crime  de  extorsão 
+mediante  seqüestro  para  extorsão  simples  (CP, art. 
+158). Hipótese de emendatio libelli e não de mutatio 
+libelli. HC indeferido". (STF, 2a Turma, RHC 83.494/RS, 
+Rei. Min. Ellen Gracie, j. 16/03/2004, DJ 02/04/2004).
+STF:"(...) O exame de corpo de delito tem por objeto, 
+segundo o art. 158 do CPP, os vestígios deixados pela 
+infração tal  com o  concretamente  praticado:  impu­
+tando-se aos acusados a subtração e comercialização 
+de entorpecente depositado em repartição policial, o 
+objeto do exame de corpo de delito obviamente não 
+poderia ser a droga desaparecida, mas sim os vestígios 
+de sua subtração, entre os quais as impressões digitais 
+deixadas nos pacotes de materiais diversos colocados 
+no depósito onde se achava a cocaína para dissimular 
+a retirada dela". (STF, 1 aTurma, HC 78.749/MS, Rei. Min. 
+Sepúlveda Pertence, j. 25/05/199
+[/PAGINA 847]
+
+[PAGINA 848]
+9, DJ 25/06/1999).
+Art. 168. Em caso de lesões corporais, se o primeiro exame pericial 
+tiver sido incompleto, proceder-se-á a exame complementar por determi­
+nação da autoridade policial ou judiciária, de ofício, ou a requerimento do 
+Ministério Público, do ofendido ou do acusado, ou de seu defensor.1
+§1 ° No exame complementar, os peritos terão presente o auto de corpo 
+de delito, a fim de suprir-lhe a deficiência ou retificá-lo.
+§2° Se o exame tiver por fim precisar a classificação do delito no art. 
+129, §1°, I, do Código Penal, deverá ser feito logo que decorra o prazo de 
+30 dias, contado da data do crime.2
+§3° A falta de exame complementar poderá ser suprida  pela prova 
+testemunhai.
+1.  Laudo pericial complementar: havendo 
+deficiência  do  laudo  de  exame  sobre  lesões 
+corporais, deve ser realizado um exame com­
+plementar por determinação do Delegado de
+Polícia, da autoridade judiciária, de ofício ou a 
+requerimento do Ministério Público, do ofen­
+dido, do acusado ou seu defensor. Por razões 
+óbvias, a realização desse exame complementar 
+depende da preservação dos vestígios. Diante 
+do seu desaparecimento, esse exame comple­
+mentar deve ser suprido pela análise da prova 
+testemunhai ou documental (CPP, art. 167). O
+
+TÍTULO VII* DA PROVA
+Art. 168
+perito que elaborou o primeiro laudo não está 
+impedido  de  firmar  o  laudo  complementar. 
+Nesse exame complementar, os peritos terão 
+presente o auto de  corpo  de delito,  a fim  de 
+suprir-lhe a deficiência ou retificá-lo.
+2.  Laudo pericial complementar no crime 
+de lesão corporal  grave quando  resultar 
+incapacidade para as ocupações habitu­
+ais por mais de 30 (trinta) dias: nesse caso, 
+o  mero  prognóstico  do  perito  quando  do 
+primeiro  exame  não  é  suficiente  para  a  ca­
+racterização  da lesão  grave  do  art.  129,  §1°, 
+I, do CP, operando-se a desclassificação para 
+lesão corporal leve. Por isso, além do primei­
+ro  exame  pericial,  comprovando  a  ofensa  à 
+integridade  corporal,  é  necessária  a  realiza­
+ção de um exame complementar, a fim de se 
+aferir se a vítima ficara incapacitada para as 
+ocupações habituais por mais  de  30  (trinta) 
+dias. Como esse prazo de 30 (trinta) dias serve 
+para tipificar o delito do art. 129, §1°, I, do CP, 
+queremos crer que se trata de um prazo de na­
+tureza penal. Por conseguinte, sua contagem 
+deve se dar à luz do art.  10 do Código Penal, 
+incluindo-se  o  dia  do  começo  no  computo 
+do  prazo.  Importante  ressaltar,  todavia,  que 
+a falta desse exame complementar poderá ser 
+suprida pela prova testemunhai, leia-se, por 
+um exame de corpo de delito indireto (CPP, 
+art.  167, c/c art.  168, §3°).
+♦   Jurisprudência selecionada:
+STF:"(...)  O  prazo de 30 dias  a  que alude o §  2o do 
+artigo  168  do  C.P.P.  não  é  peremptório,  mas visa  a 
+prevenir que, pelo decurso de tempo, desapareçam 
+os elementos necessários à verificação da existência 
+de  lesões  graves.  Portanto,  se  m esm o  depois  da 
+fluência do prazo de 3
+[/PAGINA 848]
+
+[PAGINA 849]
+0 dias, houver elementos que 
+permitam a afirmação da ocorrência de lesões graves 
+em  decorrência  da  agressão,  nada  impede  que  se 
+faça  o exame complementar depois  de fluído  esse 
+prazo. (...) Habeas corpus indeferido". (STF, I aTurma, 
+HC 73.444/RJ, Rei. Min. Moreira Alves, j. 27/02/1996, 
+DJ 11/10/1996).
+STF:"(...) Tentativa de homicídio. Desclassificação da 
+conduta peloTribunal do Júri para lesão corporal grave. 
+Condenação. Pedido de afastamento da qualificadora 
+do perigo de vida (art. 129, § 1 °, II, do CP) em razão da 
+ausência do laudo pericial, que poderia apontar o grau 
+das lesões sofridas. Desaparecimento da vítima. Com ­
+provação da gravidade das lesões sofridas mediante
+prova testemunhai  e  laudo  médico. A ausência  do 
+laudo pericial não impede seja reconhecida a materia­
+lidade do delito de lesão corporal de natureza grave 
+por outros meios. Ordem denegada". (STF, 2aTurma, HC 
+114.567/ES, Rei. Min. Gilmar Mendes, j. 16/10/2012).
+STJ: "(...)  Persistindo,  nos autos, elementos  que  per­
+mitam a  aferição da  gravidade das lesões  corporais 
+sofridas  pela  vítima,  nada  impede seja  feito o exa­
+me complementar quando já vencido o prazo legal. 
+Precedente do eg. STF. Recurso em 'Habeas Corpus' 
+parcialmente conhecido e, nesta parte, não provido".
+(STJ, 5a Turma, R H C 12.229/RJ, Rei. Min. Edson Vidigal, 
+j. 26/03/2002, DJ 29/04/2002, p. 261).
+STJ:"(...)  A  incapacidade da vítima  para  ocupações 
+habituais ficou incontroversa, apesar da falta de exa­
+me pericial complementar, pois o ofendido,  mesmo 
+após  seis  meses do fato,  ainda  estava  submetido a 
+tratamento  e  impedido  de  realizar suas  atividades 
+habituais, e com sequela manifesta. As circunstâncias 
+descritas são suficientes para caracterizara gravidade 
+da  lesão e a  incidência do art.  129, §  1°, inciso I, do 
+Código  Penal.  Emanando das  provas coletadas que 
+as lesões sofridas pelo ofendido ensejaram sua inca­
+pacidade para as ocupações habituais por mais de 30 
+(trinta) dias, fica suprida a exigência do exame pericial 
+complementar. (...) Agravo regimental a que se nega 
+provimento". (STJ, 5aTurma, AgRg no AREsp 145.181/
+RS, Rei. Ministro Marco Aurélio Bellizze, j. 20/06/2013,
+DJe 28/06/2013).
+STJ:"(...) No delito de lesão corporal de natureza grave, 
+conquanto a realização da perícia complementar seja, 
+via  de  regra,  necessária  para  a  sua  configuração,  o 
+certo é que tal exame não precisa estar acostado aos 
+autos no momento em que iniciado o processo, uma 
+vez que, para que haja justa causa para a persecução 
+penal, não se exige a comprovação cabal da prática do 
+crime, mas a presença de um lastro probatório mínimo 
+que revele a sua ocorrência. Precedente. Na hipótese 
+dos autos, quando do oferecimento da denúncia, já 
+havia nos autos um laudo que noticiava que as lesões 
+experimentadas  pela vítima  lhe teriam  incapacitado 
+para as suas ocupações habituais por mais de 30 (trinta) 
+dias, documentação que é suficiente para a deflagra
+[/PAGINA 849]
+
+[PAGINA 850]
+­
+ção da ação penal. Ademais, ainda que não realizada a 
+mencionada perícia, o § 3° do artigo 168 do Código de 
+Processo Penal admite que o exame seja suprido por 
+prova testemunhai. Doutrina. Jurisprudência. Inviável 
+a desclassificação pretendida, já que não há notícias 
+acerca da realização ou não do exame complementar 
+após o oferecimento da denúncia, não se admitindo 
+em sede de habeas corpus a análise dos elementos de 
+convicção até então coletados a fim de se verificar se a 
+vítima teria ou não restado incapacitada para exercer 
+suas ocupações habituais por mais de 30 (trinta) dias. 
+Precedente. Recurso desprovido". (STJ, 5a Turma, RHC 
+37.872/MS,  Rei. Min. Jorge Mussi, j.  18/09/2014,  DJe 
+25/09/2014).
+&
+
+Art. 169 CPP COMENTADO • Renato Brasileiro de Lima
+STJ:"(...) Assim, em regra, faz-se necessária a produ­
+ção de laudo complementar para a comprovação da 
+materialidade de lesão corporal que imponha à vítima 
+a incapacidade, por mais de trinta dias, para as suas 
+ocupações habituais. O livre convencimento judicial 
+permite a dispensa da prova pericial se, por outros ele­
+mentos idôneos colhidos na cognição exauriente, ficar
+ 
+comprovado que a incapacidade funcional da vítima 
+perdurou por período superior a trinta dias. Hipótese 
+em que, embora não havendo laudo complementar 
+acerca da incapacidade funcional  por mais de trinta 
+dias,  constatou-se,  por laudo  pericial  conclusivo,  a 
+debilidade  permanente  da  função  mastigatória  da 
+vítima, decorrente da perda do incisivo superior direito, 
+circunstância que, por si só, desautoriza a desclassifica­
+ção para lesões corporais de natureza leve. Ademais, 
+o  pleito  de desclassificação  exigiria  a  refutação  da 
+prova  colhida  na  instância  ordinária,  dem andando
+atos de instrução probatória, vedados na via estreita 
+do mandamus. Habeas corpus não conhecido". (STJ, 6a 
+Turma, HC 285.175/SP, Rei. Min. Rogério Schietti Cruz, 
+j. 16/09/2014, DJe 29/09/2014).
+STJ:"(...) 'Esta Corte tem afirmado ser desnecessário 
+o  laudo  com plementar  do  art.  168,  §  2o.  do  CPP 
+quando  se  cuidar da  hipótese  do  inciso  II  do  § 1o. 
+do artigo 129 do CPB (perigo de vida)' (HC 110.197/ 
+ES). Precedentes. No caso, constata-se dos autos que 
+a prova técnica concluiu pelo perigo de vida decor­
+rente da  agressão  sofrida,  razão  por que foi  dado, 
+corretamente, provimento ao apelo ministerial para 
+se reconhecer a qualificadora do inciso II do § 1° do 
+art. 129 do CP, não havendo falar, por isso mesmo, em 
+constrangimento ilegal  apto  a  ensejar a concessão 
+da ordem. (...) Ordem denegada". (STJ, 5a Turma, HC 
+183.446/MG, Rei. Min. Jorge Mussi, j. 27/09/2011, DJe 
+13/10/2011).
+Art. 169. Para o efeito de exame do local onde houver sido praticada 
+a infração, a autoridade providenciará  imediatamente para  que não se 
+altere o estado das coisas até a chegada dos peritos, que poderão instruir 
+seus laudos com fotografias, desenhos ou esquemas elucidativos.1'2 (Vide 
+Lei n. 5.970, de 1973)
+P
+[/PAGINA 850]
+

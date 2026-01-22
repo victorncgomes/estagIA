@@ -1,0 +1,32 @@
+{
+  "score": 85,
+  "aprovado": true,
+  "estrutura": {
+    "ok": true,
+    "pontos": 25,
+    "problemas": []
+  },
+  "citacoes": {
+    "ok": false,
+    "pontos": 15,
+    "citacoesDetectadas": 2,
+    "problemas": [
+      "Citações de doutrina ausentes.",
+      "Citações de jurisprudência incompletas (falta tribunal e número)."
+    ]
+  },
+  "coerencia": {
+    "ok": true,
+    "pontos": 25,
+    "problemas": []
+  },
+  "alucinacoes": {
+    "detectadas": false,
+    "pontos": 20,
+    "lista": []
+  },
+  "sugestoes": [
+    "Adicionar citações de doutrina para fortalecer a fundamentação.",
+    "Completar as citações de jurisprudência com o tribunal e número do processo."
+  ]
+}

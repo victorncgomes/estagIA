@@ -1,0 +1,2544 @@
+[META]
+TITULO: Código Brasileiro de Defesa do Consumidor
+AUTOR: OK
+ANO: N/A
+EDICAO: 12
+EDITORA: Forense Universitária
+PAGINAS: 901-950
+ARQUIVO_ORIGINAL: #Código Brasileiro de Defesa do Consumidor - Comentado 12ª Ed. - Ada Pellegrini Grinover - OK.pdf
+CITACAO_ABNT: OK. Código Brasileiro de Defesa do Consumidor. 12. ed..
+[/META]
+
+[PAGINA 901]
+s interesses da classe.”
+Trata-se dos requisitos vestibulares (threshold requirements).
+Seguem, na alínea (b), os requisitos para o prosseguimento da ação de classe,
+que na verdade criam três categorias de ações:
+
+(b) “Prosseguimento da ação de classe: Uma ação pode prosseguir como
+ação de classe quando forem satisfeitos os pré-requisitos da subdivisão (a)
+e ainda: (1) o prosseguimento de ações separadas por ou contra membros
+individuais  da  classe  poderia  criar  o  risco  de:  (A)  julgamentos
+inconsistentes  ou  contraditórios  em  relação  a  membros  individuais  da
+classe que estabeleceriam padrões de conduta incompatíveis para a parte
+que se opõe à classe; (B) julgamentos em relação aos membros individuais
+da classe que seriam dispositivos, do ponto de vista prático, dos interesses
+de outros membros que não são parte no julgamento ou que impediriam ou
+prejudicariam,  substancialmente,  sua  capacidade  de  defender  seus
+interesses; ou (2) a parte que se opõe à classe agiu ou recusou-se a agir em
+parâmetros aplicáveis à classe em geral, sendo adequada, desta forma, a
+condenação  na  obrigação  de  fazer  ou  não  fazer  (injunction)  ou  a
+correspondente sentença declaratória com relação à classe como um todo;
+ou  (3)  o  juiz  decide  que  os  aspectos  de  direito  ou  de  fato  comuns  aos
+membros da classe prevalecem sobre quaisquer questões que afetam apenas
+membros individuais e que a ação de classe é superior a outros métodos
+disponíveis para o justo e eficaz julgamento da controvérsia. Os assuntos
+pertinentes aos fundamentos de fato (findings) da sentença incluem: (A) o
+interesse dos membros da classe em controlar individualmente a demanda
+ou a exceção em ações separadas; (B) a amplitude e a natureza de qualquer
+litígio relativo à controvérsia já iniciada, por ou contra membros da classe;
+(C) a vantagem ou desvantagem de concentrar as causas num determinado
+tribunal;  (D)  as  dificuldades  que  provavelmente  serão  encontradas  na
+gestão de uma ação de classe” (grifo nosso).
+Aqui vale uma advertência: o inc. (b1), (A) e (B), assim como o inc. (b2) cuidam
+da  ação  de  classe  obrigatória  (mandatory)  que,  na  nomenclatura  brasileira,
+corresponde às ações em defesa de interesses difusos e coletivos. Não é destas que
+vamos nos ocupar aqui, mas vale a pena observar que o inc. b-1-A significa que, se
+não fosse ajuizada a ação de classe, a classe dos réus ficaria prejudicada, enquanto o
+inc. b-1-B indica que a ausência da ação de classe prejudicaria os reclamantes. Por
+sua vez, o nº 2 contempla, também em caráter de ação de classe obrigatória, os casos
+de obrigações de fazer ou não fazer (injunction) ou de sentenças declaratórias, ainda
+
+1.
+2.
+na categoria que corresponde, no Brasil, às ações em defesa de interesses difusos e
+coletivos.
+Mas é no inc. (b3) que vamos encontrar o regime jurídico da “class action for
+damages”,  que  não  é  obrigatória  (not  mandatory),  porquanto  admite  o opt  out,
+7
+correspondendo à ação brasile
+[/PAGINA 901]
+
+[PAGINA 902]
+ira em defesa de interesses individuais homogêneos,
+exatamente na espécie reparatória dos danos individualmente sofridos.
+Referido  inc.  (b3),  aplicável  especificamente  à  “damage  class  action”,  não
+existia nas regras federais de 1938, podendo ser considerado a grande novidade das
+Federal Rules de 1966.
+De acordo com essa regra, as “class action for damages” [observados os pré--
+requisitos da alínea (a)] devem obedecer a dois requisitos adicionais:
+a prevalência das questões de direito e de fato comuns sobre as questões de
+direito ou de fato individuais;
+a superioridade da tutela coletiva sobre a individual, em termos de justiça e
+eficácia da sentença.
+Destes  dois  requisitos,  enunciados  no  inc.  (b-3),  decorrem  as  especificações
+seguintes (b-3 A usque D), que representam indicadores a serem tomados em conta
+para a aferição da prevalência e da superioridade.
+O espírito geral da regra está informado pelo princípio do acesso à justiça, que
+no sistema norte-americano se desdobra em duas vertentes: a de facilitar o tratamento
+processual de causas pulverizadas, que seriam individualmente muito pequenas, e a
+de  obter  a  maior  eficácia  possível  das  decisões  judiciárias.  E,  ainda,  mantém-se
+aderente aos objetivos de resguardar a economia de tempo, esforços e despesas e de
+assegurar a uniformidade das decisões.
+O requisito da prevalência dos aspectos comuns sobre os individuais indica que,
+sem isso, haveria desintegração dos elementos individuais; e o da superioridade leva
+em conta a necessidade de se evitar o tratamento de ação de classe nos casos em que
+ela  possa  acarretar  dificuldades  insuperáveis,  aferindo-se  a  vantagem,  no  caso
+
+concreto, de não se fragmentarem as decisões.
+Nas diversas fases processuais da “damage class action”, os tribunais norte--
+americanos, incorporando as notes da Advisory Committee, observam rigorosamente
+a  exigência  dos  requisitos  da prevalência  e  da superioridade,  ligando-a  à
+necessidade de escrupuloso respeito aos parâmetros de justiça e eficácia da decisão.
+Descrevam-se  essas  fases:  após  o  juízo  prévio  de  admissibilidade  (certification),
+seguida dos possíveis acordos (sobre os quais pode haver apelação), o caso vai a
+júri,  onde  se  produzem  as  provas  no  processo  genérico.  Em  seguida,  o  juiz  de
+primeira instância confirma ou rejeita a decisão do júri. Na hipótese de confirmação,
+o processo segue para a sentença final de mérito, genérica. E, numa etapa posterior,
+passa-se à liquidação dos danos, culminando na sentença final de liquidação.
+Aliás, vale notar que as ações de classe norte-americanas, que haviam declinado
+numericamente na década passada, ganharam novo e redobrado impulso, exatamente
+no campo das reparações individuais, por força dos denominados mass tort cases:
+assim ocorreu com as vítimas do asbesto, que já eram em 1990 mais de 87 mil e cujas
+pretensões foram frequentemente agrupadas perante tribunais federais e estaduais. Em
+outros casos, obtiveram-s
+[/PAGINA 902]
+
+[PAGINA 903]
+e excelentes resultados pelo deslocamento da competência
+para  os  juízes  da  denominada multidistrict  litigation,  para  efeito  de  tratamento
+conjunto das demandas.
+8
+Mas nem sempre as ações de classe norte-americanas têm obtido sucesso nos
+tribunais,  em  função  da  frequente  falta  de  reconhecimento  dos  requisitos  da
+prevalência   e   da superioridade.  A  análise  das  decisões  judiciárias  mais
+representativas,  no  campo  das  “class  actions  for  damages”,  demonstra  que  a
+existência dos mencionados requisitos tem sido reconhecida, até com facilidade, em
+campos que não são o dos danos provocados por vício do produto: em matéria de
+desastres ambientais, de acidentes aéreos, de desmoronamento de obras, de prejuízos
+aos trabalhadores, muitas são as ações de classe reparatórias de danos individuais em
+que  houve  não  só  a certification,  mas  também  o  juízo  posterior,  chegando-se  à
+sentença final.
+Vale lembrar, entre todas, a recente decisão do caso Mullen et al. v. Treasure
+
+Chest  Casino,  julgado  a  19  de  agosto  de  1999  pelo  Tribunal  de  Apelação  do  5º
+Circuito,
+9
+ visando à reparação dos danos ocasionados à saúde dos empregados pelo
+sistema  de  ventilação  defeituoso.
+10
+  A  prevalência  das  questões  comuns  foi
+reconhecida  em  relação  à  causalidade,  aos  danos  e  à  negligência  da  ré,  sem  que
+houvesse  a  predominância  das  questões  pessoais.  E  a  superioridade  da  decisão
+coletiva foi afirmada com base no fato de que a controvérsia no caso não apresentaria
+as  dificuldades  de  tratamento  encontradas  no  caso  Castano,  possibilitando,  ao
+contrário, economia processual e evitando a multiplicação de ações, com possíveis
+decisões contrastantes.
+Antes  desse  caso,  haviam  sido  admitidas  ações  reparatórias  por  danos
+provocados pela poeira de carvão (Biechele v. Norfolk and Western Railway Co.) e
+por descarga de material químico na Baía de Chesapeake (Pruitt v. Allied Chemical
+Corporation),
+11
+  bem  como  pelo  “agente orange”  (esfoliante  contendo  dioxina
+utilizado pelas Forças Armadas Americanas no Vietnã) em benefício de combatentes
+e  de  suas  viúvas  e  descendentes.  Neste  último  caso,  julgado  pelo  Tribunal  de
+Apelação de Nova Iorque, a prevalência foi reconhecida porque, apesar da existência
+de  relevantes  questões  individuais  (como  o  estado  de  saúde,  o  estilo de  vida  e  a
+natureza  da  exposição  ao  “agente orange”  de  cada  qual),  que  impediriam  a
+admissibilidade  de  uma  ação  de  classe,  entendeu-se  predominar  sobre  elas  uma
+questão jurídica comum, denominada military contractor defense.
+12
+Mas dificuldades maiores têm surgido no reconhecimento da prevalência e da
+superioridade com relação às “class actions for damages”, no campo da reparação
+dos danos aos consumidores ocorridos por vício de produto. Já escrevemos sobre o
+assunto,  relatando  inúmeras  “class actions for damages”  extintas  em  face  do  não
+reconhecimento dos requisitos da p
+[/PAGINA 903]
+
+[PAGINA 904]
+revalência e da superioridade.
+13
+ Acrescentem-se a
+essas  decisões  mais  recentes  que,  em  grau  de  apelação,  deram  pela  falta  dos
+mencionados requisitos em rumorosos casos de milionárias indenizações fixadas em
+primeira instância pelos danos provocados pelo tabaco.
+14
+Como consequência, em 34 anos de aplicação das regras federais de 1966, são
+poucas as obtenções de certification para as “damage class actions” neste âmbito.
+
+2.
+Pode-se apontar, entre elas, o caso de danos ocasionados pelo consumo de produto
+farmacêutico  (Bendectin)  em  que  o  “mass  tort  case”  superou  o  juízo  de
+admissibilidade e chegou à sentença final, que, no entanto, foi de improcedência. E,
+ainda,  os  casos  anteriores  em  que  a  questão  versava  sobre  a  garantia  do  produto
+adquirido,  por  força  do Magnuson-Moss  Warranty –  Federal  Trade  Commission
+Improvement  Act,  de  1975  (Feinstein  v.  Firestone  Tire  and  Rubber  Co.,  sobre  a
+produção  de  pneus  imperfeitos  e  inseguros;  Mullins  v.  Ford  Motor  Co.,  pela
+inadequação do sistema de lubrificação de automóveis;  Skelton v.  General  Motors
+Corp., pela instalação de câmbios defeituosos).
+15
+Cumpre  notar,  no  entanto,  que,  mesmo  sendo  poucos,  no  campo  dos  danos
+provocados por vícios do produto, os processos que passaram a fases posteriores à
+certification,
+16
+ isso não significa a falência do instituto, porque 90% dos casos têm
+sido resolvidos mediante transação, pelos meios alternativos de solução de disputas
+(ADR), nas circunscrições multidistritais.
+Outro ponto importante que deve ser destacado nas class actions for damages
+norte-americanas, e que tem sido salientado por estudos recentes como ponto nodal,
+17
+é o que versa sobre os critérios de submissão de terceiros ao julgado, denominados
+opt in e opt out. A Regra nº 23, c 2 e c 3, das Federal Rules de 1966, expressamente
+prevê a possibilidade de optar-se pela exclusão da coisa julgada, sendo abrangidos
+por ela aqueles que, informados da demanda “da maneira melhor de acordo com as
+circunstâncias”  (inclusive  mediante  intimação  pessoal,  quando  passíveis  de
+identificação), não tiverem procedido ao pedido de exclusão. É o critério denominado
+opt out, reafirmado pela Suprema Corte norte-americana,
+18
+ que dispensou os demais,
+não optantes pela exclusão, de expresso consentimento para integrar a demanda (o que
+corresponderia ao critério do opt in). Em outras palavras, adotado o critério do opt
+out, os que deixam de optar pela exclusão serão automaticamente abrangidos pela
+coisa julgada, sem necessidade de anuência expressa, mas desde que tenha havido
+notícia pessoal do ajuizamento da ação.
+As class  actions  for  damages em  outros  países  de
+
+3.
+common law
+A  mesma  poderosa  tendência,  que  nos  Estados  Unidos  da  América  levou  à
+revitalização das class actions no campo da responsabilidade civil, faz-se sentir em
+outros países pertencentes ao sistema de common law.
+A Austrália introduziu as class actions for dam
+[/PAGINA 904]
+
+[PAGINA 905]
+ages a partir da legislação dos
+Estados  de  Victoria  (1986)  e  Austrália  do  Sul  (1987).
+19
+  No  mesmo  campo,  a
+província de Quebec foi a pioneira no Canadá (1978), seguida pelo Ontario Class
+Proceedings Act, de 1990.
+20
+ E Israel trabalha no sentido de um mais amplo esquema
+d e class  actions  for  damages,  limitadas  por  enquanto  ao  campo  do  mercado  de
+valores mobiliários.
+21
+Tudo  a  demonstrar  a  necessidade  de  os  sistemas  processuais  modernos  se
+abrirem à reparação coletiva de danos individuais, permitindo o tratamento eficiente
+de numerosos casos de responsabilidade civil.
+As class actions no sistema brasileiro
+Adaptando os esquemas do Direito norte-americano a um sistema de civil law,
+sem olvidar – é claro – a realidade de nosso País, o legislador brasileiro inspirou-se
+nas class actions americanas para criar, primeiro, as ações coletivas em defesa de
+interesses  difusos  e  coletivos,  de  natureza  indivisível.  E  o  fez  por  intermédio  da
+denominada Lei de Ação Civil Pública (Lei nº 7.347, de 24 de julho de 1985).
+Mas  a  própria  configuração  da  lei,  destinada  à  proteção  de  bens  coletivos,
+indivisivelmente considerados,
+22
+  não  permitia  que  por  seu  intermédio  se  fizesse  a
+reparação  dos  danos  pessoalmente  sofridos,  cabendo  aos  indivíduos  diretamente
+prejudicados  valer-se  das  ações  pessoais  ressarcitórias,  dentro  dos  esquemas  do
+processo comum.
+Antes mesmo da promulgação do Código do Consumidor, o legislador brasileiro
+interveio  com  a  primeira  lei  que,  no  âmbito  da  ação  civil  pública,  cuidou  da
+reparação pelos danos causados aos investidores no mercado de valores mobiliários:
+a Lei nº 7.913, de 7 de dezembro de 1989, legitimou o Ministério Público a adotar as
+
+3a.
+medidas judiciais necessárias para evitar prejuízos ou obter ressarcimento dos danos
+causados aos titulares de valores mobiliários e aos investidores do mercado. O art. 2º
+da  lei  fala  em condenação,  devendo  a  importância  dela  resultante  reverter  aos
+investidores lesados, na proporção de seu prejuízo. E, por sua vez, o § 1º do mesmo
+dispositivo trata da habilitação dos beneficiários para receberem a parcela que lhes
+couber.  Não  havendo  habilitação,  ou  dela  decaindo  os  beneficiários,  a  quantia
+correspondente será recolhida como receita da União (§ 2º do art. 2º).
+Estava  aí  a  primeira class  action  for  damages  do  sistema  brasileiro,  muito
+embora a lei não especificasse que a habilitação se faria por intermédio de processos
+de liquidação, sugerindo a ideia de uma condenação que já levaria em consideração
+os  danos  sofridos  pelos  investidores.  Por  outro  lado,  a  ausência  de  habilitação
+importaria em recolhimento da importância não reclamada aos cofres da União, numa
+solução diversa da do  Direito  Comparado, que prevê a fluid recovery destinada a
+finalidades conexas com a dos interesses em jogo.
+Nesse momento, já se encontrava em elaboração o Código do Consumidor, que
+criava
+[/PAGINA 905]
+
+[PAGINA 906]
+a categoria mais abrangente das ações coletivas para a defesa de interesses ou
+direitos  subjetivos  individuais,  tratados  conjuntamente  por  sua  origem  comum  (v.
+comentário  nº  6  ao  art.  81,  III).  E  pelo  Código  veio  a  consagração  definitiva,  no
+sistema brasileiro, da categoria das class actions for damages (v. supra, nº 1, in fine,
+e nº 2), a que o Capítulo II do Título III dá agora disciplina específica.
+A prevalência e a superioridade das “class actions for damages”
+reconduzidas ao sistema brasileiro
+Cabe,  agora,  examinar  se  os  requisitos  da  prevalência  e  da  superioridade,
+estabelecidos pelo inc. (b3) da Regra 23 das Federal Rules de 1966 para as class
+actions for damages  (v. retro, nº 1), poderiam ser reconduzidos à ação de classe
+brasileira.
+Em tese, a prevalência da dimensão coletiva sobre a individual poderia ser útil
+para aferir, do ponto de vista prático, se efetivamente os direitos individuais são, ou
+não, homogêneos. Inexistindo a prevalência dos aspectos coletivos, os direitos seriam
+
+heterogêneos, ainda que tivessem origem comum. Provavelmente, poder-se-ia afirmar,
+em linha de princípio, que essa origem comum (ou causa) seria remota e não próxima.
+A  adotar-se  esse  critério,  dever-se-ia  concluir  que,  não  se  tratando  de  direitos
+homogêneos, a tutela coletiva não poderia ser admitida, por falta de possibilidade
+jurídica do pedido.
+Como  é  sabido,  a  possibilidade  jurídica  caracteriza-se  pela  previsão,  no
+ordenamento, da tutela jurisdicional para o pedido que se formula. Se se entender que
+a tutela jurisdicional dos direitos individuais, a título coletivo, está circunscrita, no
+sistema  brasileiro,  aos  direitos homogêneos,  a  falta  dessa  característica  levará  à
+inadmissibilidade  da  ação  civil  pública  em  defesa  de  direitos  individuais
+homogêneos. Sendo os direitos heterogêneos, haveria ausência de interesse-uti-lidade
+na tutela coletiva.
+Chegar-se-ia, por esse caminho, à conclusão de que a prevalência das questões
+comuns  sobre  as  individuais,  que  é  condição  de  admissibilidade  no  sistema  das
+“class  actions  for  damages”  norte-americanas,  também  o  seria  no  ordenamento
+brasileiro, que só possibilita a tutela coletiva dos direitos individuais quando estes
+forem homogêneos.  Prevalecendo  as  questões  individuais  sobre  as  comuns,  os
+direitos  individuais  seriam  heterogêneos  e  o  pedido  de  tutela  coletiva  se  tornaria
+inadequada e inútil.
+O  requisito  da superioridade  da  tutela  coletiva,  em  relação  à  individual,  em
+termos de justiça e eficácia da decisão, pode ser abordado, no Direito brasileiro, sob
+dois aspectos: o do interesse de agir e o da efetividade do processo.
+Mas, antes, é preciso observar que, ao invés de exigir a superioridade (própria
+de um ordenamento que ainda prefere a tutela processual individual à coletiva), no
+sistema brasileiro se falaria, mais propriamente, em necessidade de eficácia da tutela
+coletiva.
+Lembra-se de que
+[/PAGINA 906]
+
+[PAGINA 907]
+o interesse de agir é a condição da ação que exige, para o seu
+exercício, a necessidade e a utilidade do provimento jurisdicional invocado, além da
+adequação deste à proteção do direito reclamado. Isto quer dizer que a via judicial só
+pode ser buscada quando necessária, ou seja, quando as forças do Direito Material se
+
+mostraram insuficientes para solucionar a controvérsia. E a utilidade corresponde à
+aferição, no plano concreto, de que o provimento jurisdicional invocado será útil para
+assegurar o bem da vida pretendido pelo autor. Os requisitos da necessidade e da
+utilidade  se  colocam  no  plano  da  economia  processual,  porquanto  a  função
+jurisdicional,  que  demanda  dispêndio  e  energias,  só  pode  ser  ativada  se  for
+efetivamente necessária e útil.
+Por sua vez, o requisito da adequação significa que o provimento jurisdicional
+invocado  deve  ser  adequado  à  proteção  do  Direito  Material,  cabendo  ao  autor
+escolher, entre as vias processuais previstas no ordenamento jurídico, a que for apta à
+tutela de um determinado interesse.
+Não  é  difícil,  assim,  estabelecer  a  possível  correlação  da  exigência  de
+superioridade da ação de classe, em relação a outros meios de solução dos litígios
+(própria da “common law”), com o interesse-utilidade e o interesse-adequação do
+“civil law”. Se o provimento jurisdicional resultante da ação civil pública em defesa
+de direitos individuais homogêneos não fosse tão eficaz quanto aquele que derivaria
+de ações individuais, a ação coletiva não se demonstraria útil à tutela dos referidos
+interesses. E, ademais, não se caracterizaria como a via adequada à sua proteção.
+Explique-se:  a  ação  civil  pública  de  responsabilidade  pelos  danos
+individualmente  sofridos  conduz  a  uma  sentença  condenatória,  genérica,  que
+reconhece a responsabilidade do réu pelos danos causados e o condena a repará-los
+às vítimas ou a seus sucessores, ainda não identificados (art. 95 do CDC). Segue-se
+uma liquidação da sentença, a título individual, em que caberá provar, aos que se
+habilitarem,  o  dano  pessoal  e  o  nexo  de  causalidade  entre  este  e  o  dano  geral
+reconhecido  pela  sentença,  além  de  quantificar  os  prejuízos  ou  circunstâncias  de
+situações diversas.
+Ora, a prova do nexo causal pode ser tão complexa, no caso concreto, a ponto de
+tornar praticamente ineficaz a sentença condenatória genérica do art. 95, a qual só
+reconhece  a  existência  do  dano  geral.  Nesse  caso,  a  vítima  ou  seus  sucessores
+deverão  enfrentar  uma  fase  de  liquidação  tão  complicada  quanto  uma  ação
+condenatória  individual,  até  porque  ao  réu  devem  ser  asseguradas  as  garantias  do
+
+devido processo legal, e notadamente o contraditório e a ampla defesa. E a via da
+ação coletiva poderá ter sido inadequada para a obtenção da tutela pretendida.
+Certamente, nem todas as ações civis públicas em defesa de direitos individuais
+homogêneos trarão a mesma dificuldade. Pense-se num pedido de restituição
+[/PAGINA 907]
+
+[PAGINA 908]
+de um
+tributo  inconstitucional  a  uma  categoria  de  contribuintes,  ou  de  devolução  de
+mensalidades escolares pagas em excesso, ou ainda de pagamento de uma diferença
+devida pela Previdência Social ou por bancos na aplicação de índices de correção
+monetária. Nesses casos, e em muitos outros, o reconhecimento do dano geral será
+extremamente  útil  e  adequado  para  liquidações  que  demandarão  prova  bastante
+simples.
+O problema situa-se especificamente no campo dos danos provocados por vícios
+do produto, e está restrito à ação reparatória pelos prejuízos individualmente sofridos
+(a chamada “ação de classe brasileira”): ou seja, exatamente à ação prevista nos arts.
+91 e segs. do  CDC, a qual corresponde à “class action for damages”  do  sistema
+norte-americano.
+Mesmo com relação a essas ações de classe, a prova do nexo causal pode ser
+simples: na queda de um avião, num acidente provocado pelo desmoronamento de um
+edifício, na explosão de uma fábrica, na lesão aos consumidores por diferença de
+peso no produto vendido, a utilidade da sentença coletiva será inquestionável. Mas,
+em  outros  casos,  tudo  poderá  depender  de  prova  na  fase  de  liquidação,  tornando
+possivelmente destituída de utilidade a sentença condenatória genérica.
+Mas há outro aspecto a ser considerado na questão: o requisito da superioridade
+da tutela coletiva, em termos de “justiça e eficácia da decisão” (Regra nº 23, b-3, das
+Federal  Rules  de  1966),  colocado  acima  como  possível  interesse-u-tilidade  e
+interesse-adequação, também pode ser examinado como exigência da função social do
+processo, entendido como instrumento que leve à pacificação com justiça.
+Entramos agora num dos temas mais caros à moderna processualística brasileira,
+o da efetividade do processo e de sua instrumentalidade material, a trans-formá-lo
+num instrumento aderente à realidade social subjacente e apto à efetiva solução das
+controvérsias de Direito Material.
+
+3b.
+Uma  sentença  genérica  que  não  fosse  idônea  a  pacificar  com  justiça  e  um
+processo  coletivo  incapaz  de  solucionar  a  controvérsia  de  Direito  Material
+dificilmente encontrariam guarida num ordenamento processual moderno, como é o
+brasileiro. Não será demais lembrar que um provimento jurisdicional desprovido de
+utilidade prática desprestigia o processo e constitui um retrocesso para a generosa
+visão do acesso à justiça, o qual não pode configurar uma promessa vã. Facilitá-lo,
+por  intermédio  de  ações  coletivas,  é  um  grande  avanço,  assimilado  pelo  Direito
+Processual  brasileiro.  Mas  admitir  ações  civis  públicas  inidôneas  para  gerar
+provimentos jurisdicionais efetivamente úteis levaria ao descrédito do instrumento, à
+frustração dos consumidores de justiça, ao desprestígio do Poder Judiciário.
+Sobre as considerações avançadas neste item 3-A, seriam extremamente valiosas
+a reflexão e a contribuição da doutrina
+23
+ e da jurisprudência brasileiras.
+O Código Modelo de Processos Coletivos para Ibero-A
+[/PAGINA 908]
+
+[PAGINA 909]
+mérica (ver Apêndice)
+recepciona a ideia da necessidade da existência dos requisitos da prevalência e da
+utilidade, nas ações coletivas em defesa de direitos individuais homogêneos, assim:
+“Art. 2º “São requisitos da demanda coletiva:
+(...)
+§ 1º Para a tutela dos interesses ou direitos individuais homogêneos, além
+dos requisitos indicados nos n
+os
+ I e II deste artigo, é também necessária a
+aferição da predominância das questões comuns sobre as individuais e da
+utilidade da tutela coletiva no caso concreto.”
+As ações coletivas para a defesa de interesses individuais
+homogêneos
+Na verdade, as ações coletivas em defesa de interesses individuais homogêneos
+não  se  limitam,  no  ordenamento  brasileiro,  à  ação  de  responsabilidade  civil  por
+danos coletivamente causados, sendo sua aplicação mais ampla do que a contida no
+Capítulo  II  do  Título  III,  CDC  (v. infra, comentário nº 1 ao art. 91).  Mas é neste
+capítulo que se encontra a regulamentação das class actions for damages, ou seja, das
+ações  civis  de  responsabilidade  pelos  danos  sofridos  por  uma  coletividade  de
+
+indivíduos.
+Objetivam  tais  ações  a  reparação,  por  processos  coletivos,  dos  danos
+pessoalmente sofridos pelos consumidores, numa adaptação dos esquemas da class
+action,  de  idêntica  destinação,  às  categorias  do  Direito  Processual  romano-ger-
+mânico, com particular atenção às garantias do contraditório e da ampla defesa.
+Para  tanto,  o  capítulo  prevê  regras  de  competência,  estipula  a  intervenção
+sempre necessária do Ministério Público, contempla a ampla divulgação da demanda
+para facultar aos interessados a intervenção no processo e determina que a sentença,
+quando condenatória, seja genérica, limitando-se a fixar a responsabilidade do réu
+pelos danos causados. Caberá depois às vítimas ou a seus herdeiros, numa verdadeira
+habilitação  a  título  individual,  proceder  à  liquidação  da  sentença  (diretamente  ou
+pelas entidades legitimadas), competindo-lhes também provar a existência do dano
+pessoalmente sofrido e seu montante, assim como a relação de causalidade entre este
+e  o  dano  coletivo  reconhecido  pela  sentença  condenatória. A  solução  do  Código,
+nesse  particular,  inspira-se  nas  ações  individuais  de  cumprimento  do  sistema
+brasileiro, decorrentes da sentença coletiva trabalhista.
+A execução, definitiva ou provisória, poderá ser coletiva e será instruída com a
+simples certidão da(s) sentença(s) de liquidação.
+Outras regras disciplinam a hipótese de concurso de créditos (pelas indenizações
+devidas  aos  bens  indivisível  e  divisivelmente  considerados),  bem  como  a
+possibilidade  de  uma fluid  recovery  para  o  caso  de  inexistir  habilitação  dos
+interessados em número compatível com a gravidade do dano.
+Desse  modo,  o  instituto,  que  representa  novidade  absoluta  para  os  sistemas
+processuais  de civil law, ressalvado o precedente brasileiro da Lei nº 7.913/89 (v.
+supra, nº 3), possibilita o tratamento coletiv
+[/PAGINA 909]
+
+[PAGINA 910]
+o da reparação dos danos pessoalmente
+sofridos,  mercê  da  destinação  do  ressarcimento  às  vítimas;  mas  não  exclui  a
+destinação da indenização, globalmente devida, a um fundo, quando impossível ou
+insuficiente o rateio entre as pessoas individualmente prejudicadas.
+Art. 91. Os legitimados de que trata o art. 82 poderão propor, em nome
+
+próprio e no interesse das vítimas ou seus sucessores, ação civil coletiva
+de responsabilidade pelos danos individualmente sofridos, de acordo com
+o disposto nos artigos seguintes. [1][2]
+COMENTÁRIOS
+[1] A AÇÃO CIVIL COLETIVA DE RESPONSABILIDADE PELOS DANOS
+INDIVIDUALMENTE  SOFRIDOS  –  Esclareça-se,  inicialmente,  que  a  matéria
+regulada a partir do art. 91 não esgota todo o repertório dos processos coletivos em
+defesa de interesses individuais homogêneos (art. 81, parágrafo único, III, CDC). É
+perfeitamente  possível  que  a  ação  tendente  à  tutela  desses  interesses  objetive  a
+condenação  à  obrigação  de  fazer  ou  não  fazer,  ou  que  seja  de  índole  meramente
+declaratória ou constitutiva, tudo consoante disposto no art. 83 do CDC.
+O Capítulo III trata de uma ação específica em defesa de interesses individuais
+homogêneos,  qual  seja,  a  reparatória  dos  danos  individualmente  sofridos  pelas
+vítimas ou seus sucessores, uma das espécies a que se refere o art. 81, III, do Código
+sob  a  denominação  de ações  coletivas  para  a  defesa  de  interesses  individuais
+homogêneos (v. comentário ao inc. III do art. 81).
+Em segundo lugar, a demanda regulada a partir do art. 91 não se circunscreve à
+reparação  dos  danos  sofridos  pelos  consumidores,  mas  abrange  os  acarretados  a
+terceiros,  atingidos  pelo  produto  ou  pelo  serviço.  E,  ademais,  a  responsabilidade
+civil pode decorrer do fato do produto ou do serviço (arts. 12-17 do Código) ou de
+qualquer outra causa, como, por exemplo, a publicidade enganosa (arts. 36-38).
+Embora  a  finalidade  última  da  ação  seja  declaradamente  a  indenização  pelos
+prejuízos individualmente sofridos, a sentença de procedência condenará o réu pelos
+danos  provocados  (v.  comentário  ao  art.  95),  não  excluindo  a  lei  a  destinação  da
+indenização a objetivos diversos das reparações pessoais, quando estas se mostrarem
+impossíveis de serem alcançadas ou inadequadas (v. comentário nº 1 ao art. 100).
+[2] A  LEGITIMAÇÃO  PARA A AÇÃO – A legitimação ativa, concorrente e
+
+disjuntiva, é atribuída, pelo dispositivo em foco, aos entes e pessoas indicados no art.
+82.  Aqui  se  trata  inquestionavelmente  de  legitimação  extraordinária,  a  título  de
+substituição  processual.
+24
+  Não  só  porque  assim  o  afirma  o  legislador,  quando
+expressamente se refere ao litigar, em nome próprio e no interesse das vítimas ou
+seus sucessores, mas ainda porque, na hipótese, os legitimados à ação não vão a juízo
+em defesa de seus interesses institucionais, como pode ocorrer nas ações em defesa
+de interesses difusos ou coletivos (v. comentário ao art. 82), m
+[/PAGINA 910]
+
+[PAGINA 911]
+as sim exatamente para
+a  proteção  de  direitos  pessoais,  individualizados  nas  vítimas  dos  danos.  Trata-se,
+portanto, de uma substituição processual, em que o substituto não pleiteia o direito
+concreto  do  substituído,  mas,  sim,  o  reconhecimento  genérico  de  um  direito  que
+depois virá a ser, ou poderá vir a ser, individualmente exercido, na liquidação, pelo
+interessado.
+25
+ Cabe lembrar que este tipo de ação coletiva visa à tutela de direitos ou
+interesses  acidentalmente  coletivos,
+26
+  que  poderiam  merecer  –  e  continuam
+merecendo – proteção individual e pulverizada.
+Sobre a natureza da atuação processual dos entes e pessoas de que trata este
+artigo,  na  liquidação  e  execução  da  sentença,  e  ainda  na  persecução  de  uma fluid
+recovery, v. comentários nº 3 ao art. 97 e nº 2 ao art. 100 do Código.
+Art. 92. O Ministério Público, se não ajuizar a ação, [1] atuará sempre como
+fiscal da lei. [2]
+Parágrafo único. Vetado – Aplica-se à ação prevista no artigo anterior o
+art. 5º, §§ 2º a 6º, da Lei nº 7.347, de 24 de julho de 1985. [3]
+COMENTÁRIOS
+[1] O MINISTÉRIO PÚBLICO COMO AUTOR – Não bastasse a legitimação a
+toda e qualquer ação coletiva, conferida ao Ministério Público pelo art. 82, ao qual o
+art. 91 faz remissão, o próprio art. 92 reforça a ideia da titularidade do parquet para
+o processo tratado no capítulo ora em exame.
+Apesar  disso,  tem  havido  alguns  pronunciamentos  judiciais  contrários  ao
+
+reconhecimento  da  legitimação  ativa  do  Ministério  Público  às  ações  coletivas  em
+defesa  de  interesses  individuais  homogêneos,  por  considerarem  inconstitucional  a
+extensão  da  legitimação  operada  pela  lei  ordinária.  Argumenta-se  em  prol  dessa
+orientação com o art. 129, III, CF, que só se refere à legitimação do MP para a defesa
+de interesses difusos e coletivos. Nem tem bastado, para essa tendência, o argumento
+da extensão das funções do MP a outras que lhe sejam atribuídas por lei, desde que
+compatíveis com sua finalidade (inc. IX do art. 129, CF), porquanto se afirma que o
+MP,  nos  termos  do  art.  127,  CF,  é  preordenado  à defesa de interesses sociais e
+individuais  indisponíveis,  e  os  interesses  individuais  homogêneos  seriam
+disponíveis.
+E, na mesma linha, aduz-se também a circunstância de, a admitir-se a legitimação
+do MP para casos que tais, estaria se retirando do cidadão a liberdade de escolha,
+não se podendo obrigar ninguém a ter um direito reconhecido contra a sua vontade.
+27
+Ora, em primeiro lugar, cumpre notar que a Constituição de 1988, anterior ao
+CDC, evidentemente não poderia aludir, no art. 129, III, à categoria dos interesses
+individuais  homogêneos,  que  só  viria  a  ser  criada  pelo  Código.  Mas  na  dicção
+constitucional, a ser tomada em sentido amplo, segundo as regras da interpretação
+extensiva (quando o legislador diz menos de quanto quis), enqua-dra-se comodamente
+a categoria dos interesses individuais, quando coletivamente tratados.
+Em segundo lugar, a dou
+[/PAGINA 911]
+
+[PAGINA 912]
+trina, internacional e nacional, já deixou claro que a
+tutela  de  direitos  transindividuais  não  significa  propriamente  defesa  de  interesse
+público, nem de interesses privados, pois os interesses privados são vistos e tratados
+em  sua dimensão social e coletiva, sendo de grande importância política a solução
+jurisdicional de conflitos de massa.
+Assim, foi exatamente a relevância social da tutela coletiva dos interesses ou
+direitos individuais homogêneos que levou o legislador ordinário a conferir ao MP e
+a outros entes públicos a legitimação para agir nessa modalidade de demanda, mesmo
+em se tratando de interesses ou direitos disponíveis, em conformidade, aliás, com a
+própria Constituição, que permite a atribuição de outras funções ao MP, desde que
+compatíveis  com  sua  finalidade  (art.  129,  IX);  e  a  dimensão  comunitária  das
+
+demandas coletivas, qualquer que seja seu objeto, insere-as sem dúvida na tutela dos
+interesses sociais referidos no art. 127 da Constituição.
+Quando  muito,  poder-se-ia  exigir,  caso  a  caso,  que  se  aferisse  a  relevância
+social  do  objeto  da  demanda  coletiva  em  defesa  de  interesses  individuais
+homogêneos, para o reconhecimento da legitimação do MP.
+28
+ E isso poderia ser feito
+na esteira do disposto no art. 82, § 1º, CDC, para a dispensa do requisito da pré-
+constituição  para  as  associações.  Mas  não  tem  sentido  a  afirmação  da
+inconstitucionalidade do dispositivo do CDC que confere ao MP a titularidade dessas
+ações.
+Nem se pode argumentar com o fato de a titularidade à ação coletiva em defesa
+de  interesses  individuais  homogêneos  impor  aos  beneficiários  da  sentença
+condenatória  um  direito  que  talvez  não  queiram  eles  exercer.  A  sentença
+condenatória, na técnica brasileira, apenas reconhece a existência do dano genérico e
+o dever de indenizar (v. infra, comentário ao art. 95). Caberá à iniciativa de cada
+beneficiário  habilitar-se  à  liquidação  da  sentença,  incumbindo-lhe  provar  ainda  a
+existência do dano pessoal, seu nexo etiológico com o dano geral reconhecido pela
+sentença, e quantificar o montante da indenização (v. infra, comentário ao art. 97).
+Respeita-se, assim, a autonomia da vontade de cada indivíduo que, se não quiser fruir
+do direito que lhe foi reconhecido, simplesmente não o exercerá.
+29
+Apesar de alguma divergência, a linha preponderante firmou-se no sentido do
+reconhecimento da legitimação, havendo casos em que esta foi negada não em face de
+sua  eventual  inconstitucionalidade,  mas  porque  se  tratava,  na  espécie  concreta,  de
+pequeno  número  de  interessados,  estritamente  definido.  Nessa  última  linha,  a
+legitimação  era  negada  em  face  da  caracterização  mais  estreita  dos  interesses
+individuais homogêneos, que não ocorreriam na espécie (v. retro, comentário ao art.
+81, parágrafo único, III).
+30
+Mais recentemente, já estava tomando força a corrente jurisprudencial em favor
+da  legitimação  do  Ministério  Público,
+31
+  quando
+[/PAGINA 912]
+
+[PAGINA 913]
+o  Supremo  Tribunal  Federal,
+acolhendo por unanimidade o voto do relator, ministro Maurício Corrêa, se firmou no
+mesmo sentido em tema de mensalidades escolares.
+
+Entendendo serem os direitos individuais homogêneos subespécie de interesses
+coletivos, analisa o voto a natureza do bem protegido e afirma inserir-se o assunto em
+segmento de extrema delicadeza e de conteúdo social.
+32
+[2] ATUAÇÃO OBRIGATÓRIA DO MINISTÉRIO PÚBLICO – São conhecidos
+os riscos inerentes a toda e qualquer ação de natureza coletiva, sobretudo quando se
+escolhe o esquema da legitimação concorrente e disjuntiva: riscos de colusão entre os
+sujeitos do processo, de pressões descabidas do autor coletivo, de manobras visando
+a arrancar vantagens indevidas em troca da desistência ou abandono da causa.
+33
+ Por
+isso, o legislador tomou a cautela de exigir a presença do Ministério Público, quando
+não seja o autor da ação, na qualidade de fiscal da lei.
+A  solução  é  bem  conhecida  do  nosso  Direito,  que  a  agasalhou  quer  na  ação
+popular constitucional (Lei nº 4.717, de 29 de junho de 1965), quer na denominada
+ação civil pública (Lei nº 7.347, de 24 de julho de 1985). É certo que na nova ação
+coletiva,  ora  cunhada  pelo  Código  do  Consumidor,  os  interesses  em  jogo  são
+indiscutivelmente de natureza privada: mas existe, assim mesmo, um interesse público
+à correta condução do processo de índole transindividual, que aconselha a técnica ora
+utilizada.
+[3] O VETO E A APLICAÇÃO DAS NORMAS DA LEI Nº 7.347/85 – O veto
+presidencial incidiu sobre o parágrafo único do art. 92, dada a remissão que este fazia
+aos §§ 2º a 6º do art. 5º da Lei nº 7.347/85, e uma vez que foi vetado o acréscimo dos
+§§ 5º e 6º ao referido art. 5º (art. 113 do Código).
+Todavia, permanece de pé a aplicabilidade dos §§ 2º a 4º do art. 5º da Lei de
+Ação Civil Pública à ação coletiva sub examine, não mais, evidentemente, por força
+do dispositivo vetado, mas sim em decorrência do disposto no art. 90 do  Código.
+(“Aplicam-se às ações previstas neste  Título as normas do  Código de  Processo
+Civil  e  da  Lei  nº  7.347,  de  24  de  julho  de  1985,  inclusive  no  que  respeita  ao
+inquérito civil, naquilo que não contrariar suas disposições.”)
+Assim sendo, continuam tendo aplicação à ação coletiva em defesa de interesses
+individuais homogêneos: a) a faculdade de o Poder Público e de outras associações
+
+legitimadas se habilitarem como litisconsortes de qualquer das partes (art. 5º, § 2º da
+Lei nº 7.347); b) a assunção, pelo  Ministério  Público ou por outro legitimado, da
+titularidade da ação, na hipótese de desistência infundada ou abandono do processo
+pela associação autora (§ 3º do art. 5º da lei, na nova redação dada pelo art. 112 do
+Código).
+34
+ Tudo em perfeita coerência com o sistema de controles estatuído sobre a
+ação coletiva, para diminuir os riscos que seu exercício inadequado possa acarretar.
+Art. 93. Ressalvada a competência da Justiça Federal, é competente para a
+causa a justiça local: [1][2
+[/PAGINA 913]
+
+[PAGINA 914]
+]
+I – no foro do lugar onde ocorreu ou deva ocorrer o dano, [3] quando de
+âmbito local; [4][6]
+II – no foro da Capital do Estado ou no do Distrito Federal, para os danos
+[2] de âmbito nacional ou regional, aplicando-se as regras do Código de
+Processo Civil aos casos de competência concorrente. [5][6][7]
+COMENTÁRIOS
+[1]  ÂMBITO  DE APLICAÇÃO  DO ART.  93  –  Embora  inserido  no  capítulo
+atinente às “ações coletivas em defesa de interesses individuais homogêneos”, o art.
+93 do CDC rege todo e qualquer processo coletivo, estendendo-se às ações em defesa
+de  interesses  difusos  e  coletivos.  Não  há  como  não  utilizar,  aqui,  o  método
+integrativo,  destinado  ao  preenchimento  da  lacuna  da  lei,  tanto  pela interpretação
+extensiva  (extensiva  do  significado  da  norma)  como  pela analogia  (extensiva  da
+intenção do legislador).
+Ubi eadem ratio, ibi eadem juris dispositio. É a necessária coerência interna do
+sistema  jurídico  que  exige  a  formulação  de  regras  idênticas  em  que  se  verifica  a
+identidade  de  razão.  Se  o  art.  93  do  CDC  fosse  aplicável  apenas  aos  interesses
+individuais  homogêneos,  o  resultado  seria  a  regra  da  competência  territorial  de
+âmbito  nacional  ou  regional  só  para  as  ações  em  defesa  dos  aludidos  direitos,
+enquanto  nos  processos  coletivos  para  a  tutela  de  interesses  difusos  e  coletivos  a
+competência  nacional  ou  regional  ficaria  fora  do  alcance  da  lei.  O  absurdo  do
+
+resultado dessa posição é evidente, levando a seu repúdio pela razão e pelo bom--
+senso, para o resguardo da coerência do ordenamento.
+Cumpre notar que o dispositivo em análise adquire extraordinária relevância em
+face da Medida Provisória nº 1.570, de 26 de março de 1997,
+35
+ cujo art. 3º deu nova
+redação  ao  art.16  da  Lei  nº  7.347,  de  24  de  julho  de  1985  (Lei  de  Ação  Civil
+Pública),  para  restringir  a  coisa  julgada erga omnes  aos  limites  da  competência
+territorial do órgão prolator. É o que se vê pelo nº 7, infra, e, mais adiante, pelo nº 2a
+dos comentários ao art. 103, dedicados à indigitada medida provisória.
+[2]  COMPETÊNCIA  OBJETIVA  EM  RAZÃO  DA  MATÉRIA  –  O caput  do
+dispositivo ressalva expressamente a competência, constitucionalmente determinada,
+da justiça federal, excluindo, consequentemente, da competência da justiça local as
+causas  em  que  a  União,  entidade  autárquica  ou  empresa  pública  federal  forem
+interessadas na condição de autoras, rés, assistentes ou opoentes (art. 109 da CF).
+36
+Com essa ressalva, a competência objetiva, em razão da matéria (a denominada
+competência de jurisdição),
+37
+ é atribuída, por normas constitucionais, à justiça local
+(ou seja, à justiça comum dos Estados ou do Distrito Federal): é o que especifica o
+caput do dispositivo.
+Interessante  questão,  ainda  atinente  à competência de jurisdição,  é  levantada
+pelo  art.  20  da  Lei  de  Ação  Civil  Pública  (Lei  nº  7.347,  de  24.7.85),  que  tem
+relevância  no
+[/PAGINA 914]
+
+[PAGINA 915]
+caso,  dada  a  interação  que  existe  entre  os  dois  estatutos,  a  teor  do
+disposto no art. 90, CDC, e no art. 21, LACP, introduzido pelo art. 117, CDC (ver
+comentários).
+Num  primeiro  sentido,  o  art.  2º,  LACP  (“As  ações  previstas  nesta  Lei  serão
+propostas  no  foro  do  local  onde  ocorrer  o  dano, cujo  juízo  terá  competência
+funcional para processar e julgar a causa”), deve ser interpretado como regra sobre
+a denominada competência de jurisdição, a indicar aplicação do art. 109, § 3º, CF, o
+qual  permite  à  lei  que  “outras  causas”  sejam  processadas  e  julgadas  pela  justiça
+estadual, sempre que a comarca não seja sede de vara do juízo federal.
+É essa a posição assumida pela Primeira Seção do Superior Tribunal de Justiça,
+
+que entendeu competir à justiça estadual, em primeiro grau, processar e julgar ação
+civil pública visando à proteção do patrimônio e meio ambiente, mesmo no caso de
+comprovado  interesse  da  União  no  seu  deslinde.  Assim  decidindo,  o  tribunal
+reconheceu a compatibilidade do art. 2º, LACP com o art. 109, §§ 2º e 3º, CF.
+38
+Evidentemente, nessa linha de raciocínio também o caput do art. 93, CDC, há de
+ter  a  mesma  interpretação:  em  primeiro  grau,  a  competência  objetiva  em razão  da
+matéria, mesmo havendo interesse da União, é da justiça estadual, nas comarcas que
+não forem sede de vara do juízo federal, cabendo recurso para o  TRF na área de
+jurisdição do juiz de primeiro grau (§§ 3º e 4º do art. 109, CF).
+39
+Entendemos, porém, que a atribuição da competência do juiz federal ao estadual
+só pode ocorrer nos casos em que não tenha sido instalada vara do juízo federal, na
+região: assim, por exemplo, no Estado de São Paulo, onde funciona vara da justiça
+federal na cidade de São José dos Campos, toda a região circunvizinha deverá servir-
+se  da  referida  vara  federal,  não  tendo  sentido  que  o  juiz  estadual  da  Comarca  de
+Taubaté, v.ġ., tenha competência para a causa em primeiro grau de jurisdição.
+Isso porque a regra constitucional há de servir para facilitar o acesso à justiça,
+tendo aplicação quando a competência da justiça federal se estende pelo âmbito de
+todo o Estado. Mas não quando houver descentralização da justiça.
+Em segundo lugar, o art. 2º, LACP significa que se deu à competência territorial
+natureza  absoluta,  que  não  permite  eleição  de  foro  ou  sua  prorrogação,  pela  não
+apresentação  da  exceção  declinatória.
+40
+  Nesse  sentido,  quis  a  LACP  disciplinar  o
+gênero  da  competência funcional  (que  é  uma  das  modalidades  da  competência
+absoluta),  ou  seja,  afirmar  que  a  competência  territorial  é,  no  caso, absoluta,
+inderrogável e improrrogável por vontade das partes.
+41
+ V. infra, nº 6.
+[3]  O  LOCAL  DO  DANO  COMO  CRITÉRIO  PARA  A  FIXAÇÃO  DA
+COMPETÊNCIA TERRITORIAL – A determinação da competência territorial – ou
+distribuição das causas entre órgãos do mesmo tipo
+42
+ – faz-se pelo critério do local
+onde ocorreu ou deva ocorrer o da
+[/PAGINA 915]
+
+[PAGINA 916]
+no (incisos do art. 93). Trata-se de explicitação
+inequívoca, apta a superar eventuais dúvidas de interpretação decorrentes do art. 53,
+IV, do NCPC (correspondente ao art. 100, V, do CPC/1973), que estabelece para as
+
+ações de responsabilidade civil a competência do lugar do ato ou fato (forum delicti
+commissi).
+43
+O legislador guiou-se abertamente pelo critério do local do resultado, que vai
+coincidir, em muitos casos, com o do domicílio das vítimas e da sede dos entes e
+pessoas legitimadas, facilitando o acesso à justiça e a produção da prova. Em mais
+esse ponto, o Código acompanhou o disposto na Lei nº 7.347/85, cujo art. 2º também
+opta pelo critério do local do dano.
+[4]  A  DETERMINAÇÃO  DO  FORO  COMPETENTE:  DANO  DE  ÂMBITO
+LOCAL – A determinação do foro competente varia na conformidade da extensão do
+dano. Quando de âmbito local, a competência territorial é do lugar onde ocorreu ou
+deva ocorrer o dano (inc. I do art. 93).
+Será o caso de danos mais restritos, em razão da circulação limitada de produtos
+ou da prestação de serviços circunscritos, os quais atingirão pessoas residentes num
+determinado local.
+[5]  A  DETERMINAÇÃO  DO  FORO  COMPETENTE:  DANO  DE  ÂMBITO
+REGIONAL OU NACIONAL – Mas o produto ou serviço pode acarretar prejuízos de
+dimensões mais amplas, atingindo pessoas espalhadas por uma inteira região ou por
+todo o território nacional. Nesse caso, a determinação da competência territorial faz-
+se pelo foro da capital do Estado ou do Distrito Federal (inc. II do art. 93). Tanto num
+como noutro caso, a competência é da justiça local, nos termos do disposto no caput
+do dispositivo (v. supra, comentário nº 1).
+Cabe, aqui, uma observação: o dispositivo tem que ser entendido no sentido de
+que, sendo de âmbito regional o dano, competente será o foro da capital do Estado ou
+do Distrito Federal.
+No entanto, não sendo o dano de âmbito propriamente regional, mas esten-dendo-
+se por duas comarcas, tem-se entendido que a competência concorrente é de qualquer
+uma delas.
+44
+Sendo o dano de âmbito nacional, entendemos que a competência deveria ser
+
+sempre do Distrito Federal: isso para facilitar o acesso à justiça e o próprio exercício
+do direito de defesa por parte do réu, não tendo sentido que seja ele obrigado a litigar
+na  capital  de  um  Estado,  longínquo  talvez  de  sua  sede,  pela  mera  opção  do  autor
+coletivo. As regras de competência devem ser interpretadas de modo a não vulnerar a
+plenitude da defesa e o devido processo legal. V. também retro, art. 81, comentário nº
+7.
+Essa  interpretação  reduziria  os  casos  de  competência  concorrente,  que  de
+qualquer  modo  seriam  solucionados  pelos  critérios  do  Código  de  Processo  Civil,
+inclusive quanto à prevenção (arts. 55, § 1º; 57, 58 e 59 do NCPC, correspondem aos
+arts. 105 e 106 do CPC/1973).
+No entanto, não tem sido esta a posição da jurisprudência, que entende, em caso
+de danos de âmbito nacional, ser o foro da capital dos Estados ou do Distrito Federal
+concorrente.
+4
+[/PAGINA 916]
+
+[PAGINA 917]
+5
+  Realce-se,  porém,  que  em  casos  de  dano  abrangendo  mais  de  um
+Estado, o STJ tem-se manifestado pela competência exclusiva do Distrito Federal.
+46
+Também no sentido da não exclusividade do foro do Distrito Federal, em casos de
+danos de âmbito nacional, tem se manifestado autorizada doutrina.
+47
+Permitimo-nos  insistir  em  nossa  posição,  até  porque  parece  claro  que  foi
+justamente a atribuição da competência ao foro da capital dos Estados, para casos de
+abrangência  nacional,  que  provocou  a  (malsucedida)  tentativa  de  restrição  pela
+Medida Provisória nº 1.570/97.
+48
+[6] COMPETÊNCIA TERRITORIAL ABSOLUTA – A competência territorial
+dos incs. I e II do art. 93 não se sujeita às regras do Código de Processo Civil, como
+aconteceria se se tratasse de competência relativa.
+49
+É que, como visto (supra, nº 2), o art. 2º, LACP, aplicável ao CDC por força do
+art.  90  deste,  em  seu  segundo  sentido,  confere  à  competência  territorial  natureza
+absoluta, ao disciplinar o gênero da competência funcional (uma das modalidades da
+competência absoluta).
+50
+ O STJ tem falado em “competência funcional”.
+51
+Afirmamos,  por  isso,  que  a  competência  territorial  é,  no  caso,  absoluta,
+inderrogável e improrrogável pela vontade das partes.
+52
+
+Se assim se entender, não ficará ela submetida a modificações pela conexão e
+pela continência, nos termos do art. 54 (correspondente ao art. 102 do CPC/1973) e
+segs. do NCPC (ver, sobre continência, o comentário nº 6 ao art. 104); e não será
+prorrogável mesmo quando, não tendo sido a ação proposta no foro competente, dela
+o juiz não declinar, ou se o réu não opuser a exceção declinatoria fori (art. 65 do
+NCPC, correspondente ao art. 114 do CPC/1973).
+Diga-se, por oportuno, que, mesmo que se espose o entendimento contrário, qual
+seja, o da natureza relativa da competência territorial – dando-se ao art. 2º, LACP,
+interpretação  restrita  à  determinação  de  regra  sobre  a  competência  de  jurisdição:
+supra, nº 2 –, ainda permaneceria a questão: poderia a convenção das partes derrogar
+a competência territorial prevista no art. 93 do  Código, mediante a estipulação de
+foro de eleição, nos termos do disposto nos arts. 62 e 63 do NCPC (correspondente
+ao art. 111 do CPC/1973)?
+Impõe-se a resposta negativa.  Trata-se, na espécie, de ações coletivas, a que
+estão legitimados, a título de substituição processual (v. comentário nº 2 ao art. 91),
+entes e pessoas que nenhuma relação jurídica de Direito Material tiveram ou têm com
+a parte contrária, de modo a tornar impraticável a eleição de foro.
+O  STJ  em  alguns  casos  tem  decidido  pela  nulidade  da  cláusula  do  fórum  de
+eleição, afirmando poder o juiz declinar da competência ex officio,
+53
+ mas em outros
+tem aceitado a cláusula, quando não imposta unilateralmente,
+54
+ ou quando no momento
+da  celebração  o  contratante  dispunha  de  intelecção  suficiente  para  compreender  o
+sentido e os efeitos da estipulação contratual.
+55
+[7] A COMPETÊNCI
+[/PAGINA 917]
+
+[PAGINA 918]
+A PERANTE A MEDIDA PROVISÓRIA Nº 1.570, DE 26
+DE MARÇO DE 1997
+56
+ – O art. 3º da medida provisória editada pelo Executivo não
+modificou o art. 93 do CDC (nem seu art.103), mas determinou que o art. 16 da Lei de
+Ação Civil Pública passasse a vigorar com a seguinte redação:
+“A  sentença  civil  fará  coisa  julgada erga  omnes,  nos  limites  da
+competência territorial do órgão prolator, exceto se o pedido for julgado
+improcedente  por  insuficiência  de  provas,  hipótese  em  que  qualquer
+
+legitimado poderá intentar outra ação com idêntico fundamento, valendo-se
+de nova prova” (grifos quanto à nova redação).
+O  acréscimo  da  expressão  “nos  limites  da  competência  territorial  do  órgão
+prolator” não pode ficar desvinculado da fixação da referida competência territorial,
+determinada pelo  Código de  Defesa do  Consumidor no art. 93 (aplicável à  Lei nº
+7.347/85, por força de seu art. 21), de modo que o entendimento de que as regras do
+art. 93 regem todos os processos coletivos – e não apenas os voltados à defesa dos
+interesses individuais homogêneos: v. retro, nº 1 – leva à inarredável conclusão de
+que a intenção do Executivo ficou frustrada, e inócua acabou sendo a expressão. Isso
+porque os limites da competência territorial, nas ações coletivas, são exatamente os
+do art. 93 (lex specialis) e não os do Código de Processo Civil.
+Voltaremos à questão no comentário nº 2a ao art. 103.
+Art. 94. Proposta a ação, será publicado edital no órgão oficial, [1] a fim de
+que os interessados possam intervir no processo como litisconsortes, [2]
+sem prejuízo de ampla divulgação pelos meios de comunicação social por
+parte dos órgãos de defesa do consumidor [1].
+COMENTÁRIOS
+[1] DIVULGAÇÃO DA PROPOSITURA DA AÇÃO PARA CONHECIMENTO
+DOS INTERESSADOS – É da índole das ações de classe sua ampla divulgação entre
+os interessados, com a finalidade de possibilitar a intervenção destes no processo ou
+mesmo, em certos ordenamentos, para facultar-se-lhes o pedido de exclusão da futura
+coisa  julgada.
+57
+  É  aquilo  que  o  ordenamento  norte-americano  chama  de  “the  best
+notice  practicable  under  the  circumstances”,  recomendando,  ainda,  “individual
+notice to all members who can be identified through reasonable effort”.
+58
+O  legislador  brasileiro,  deixando  de  lado  as  intimações  pessoais  –  não  só
+impraticáveis, mas até impossíveis na hipótese da ação coletiva sub examine, dada a
+indeterminação  das  vítimas  e  de  seus  sucessores  no  momento  do  ajuizamento  do
+
+processo de conhecimento –, escolheu o caminho da intimação por edital, para a qual
+se aplicarão, analogicamente, as regras do art. 257 do NCPC (correspondente ao art.
+232 do Código de Processo Civil de 1973), no que couberem.
+O  Código  do  Consumidor  dispensa  a  publicação  em  jornal  local,  por  ser
+dispendiosa e pouco acrescentar à notícia do órgão oficial, enquadrando-se ambas na
+categoria da scientia ficta.
+Em  contrapartida,  o  art.  94  orienta  no  sentido  da  ampla  divulga
+[/PAGINA 918]
+
+[PAGINA 919]
+ção  da
+propositura da ação pelos meios de comunicação social – rádio e televisão –, de que
+encarrega  os  órgãos  de  defesa  do  consumidor,  quais  sejam,  os  órgãos  federais,
+estaduais e municipais, bem como as entidades privadas de defesa do consumidor,
+integrantes do Sistema Nacional de Defesa do Consumidor (art. 105 do Código).
+Porém, o dispositivo vetado (art. 96) faz muita falta, porque os legitimados não
+se preocupam em divulgar ou comunicar aos beneficiários a existência de sentença
+coletiva condenatória genérica, dificultando sua habilitação e fazendo com que, em
+decorrência de alguma decisão judiciária, o pedido de liquidação e/ou execução seja
+considerado prescrito.
+[2]  INTERVENÇÃO  DOS  INTERESSADOS  COMO  LITISCONSORTES – A
+ampla  divulgação  prevista  pelo  art.  94  tem  por  finalidade  a  intervenção  dos
+interessados no processo, a título de litisconsortes do autor coletivo. A espécie rege-
+se pelas disposições do Código de Processo Civil (arts. 113 a 118, correspondem aos
+arts. 46 usque 49 CPC/1973), inclusive no que respeita à regra segundo a qual os atos
+e as omissões de um não prejudicarão, mas poderão beneficiar os demais (art. 117 do
+NCPC, correspondente ao art. 48 do CPC/1973).
+Trata-se,  na  espécie,  de litisconsórcio  unitário,  uma  vez  que  a  lide  será
+necessariamente decidida de modo uniforme com relação a todos, no que diz respeito
+ao  dever  de  indenizar,  fixado  na  sentença  condenatória.  Depois,  nos  processos
+individualizados  de  liquidação  da  sentença,  o  litisconsórcio  que  eventualmente  se
+formar será comum.
+59
+Cumpre  observar,  no  entanto,  que  o  interveniente  do  art.  94,  embora
+
+a)
+b)
+litisconsorte, não poderá apresentar novas demandas, ampliando o objeto litigioso da
+ação  coletiva  à  consideração  de  seus  direitos  pessoais,  o  que  contrariaria  todo  o
+espírito de “molecularização” da causa. Assim, aqui também há uma inovação nas
+tradicionais regras processuais, tanto assim que alguns autores preferem considerar a
+intervenção do art. 94 como assistência qualificada ou litisconsorcial.
+60
+Mas o certo é que o enfoque dos institutos processuais, transportados do processo
+individual para o coletivo, está sempre sujeito a mudanças e a novas figuras.
+A  intervenção,  a  título  de  litisconsórcio,  acarreta  importantes  consequências
+quanto aos limites subjetivos da coisa julgada: com efeito, tenham os interessados
+intervindo, ou não, no processo a título de litisconsortes, serão beneficiados pelos
+efeitos da sentença favorável. Se, todavia, a sentença rejeitar a demanda pelo mérito,
+somente  os  que  não  tiverem  intervindo  no  processo  poderão  propor  suas  ações
+reparatórias individuais. É o que determina o art. 103, III, c/c seu § 2º do Código (v.
+comentário nº 6 aos mencionados dispositivos).
+Existem, portanto, duas possibilidades:
+o  interessado  não  intervém  no  processo  coletivo.  Sendo  a  sentença
+procedente, será igualmente beneficiado pela coisa julgada, ma
+[/PAGINA 919]
+
+[PAGINA 920]
+s se a
+demanda  for  rejeitada,  pelo  mérito,  ainda  poderá  ingressar  em  juízo
+com sua ação individual de responsabilidade civil;
+o interessado intervém no processo a título de litisconsorte: será normalmente
+colhido  pela  coisa  julgada,  favorável  ou  desfavorável,  não  podendo,
+neste último caso, renovar a ação a título individual.
+Art. 95. Em caso de procedência do pedido, a condenação será genérica,
+fixando a responsabilidade do réu pelos danos causados. [1]
+COMENTÁRIO
+[1] O CONTEÚDO DA SENTENÇA FAVORÁVEL – A pretensão processual
+
+do autor coletivo, na ação de que trata o presente capítulo, é de natureza condenatória,
+e  condenatória  será  a  sentença  que  acolher  o  pedido.
+61
+  Mas  a  condenação  será
+genérica, ou seja, ilíquida.
+Isso  significa,  no  campo  do  Direito  Processual,  que,  antes  das  liquidações  e
+execuções  individuais  (v. infra,  comentário  ao  art.  97),  o  bem  jurídico  objeto  de
+tutela ainda é tratado de forma indivisível, aplicando-se a toda a coletividade, de
+maneira uniforme, a sentença de procedência ou improcedência.
+Logo se vê que o fato de a condenação ser genérica não significa que a sentença
+não seja certa ou precisa. A certeza é condição essencial do julgamento, devendo o
+comando da sentença estabelecer claramente os direitos e obrigações, de modo que
+seja possível executá-la.
+62
+ E essa certeza é respeitada, na medida em que a sentença
+condenatória estabelece a obrigação de indenizar pelos danos causados, ficando os
+destinatários e a extensão da reparação a serem apurados em liquidação da sentença
+(v. comentário nº 1 ao art. 97). A sentença genérica do art. 95 é, portanto, certa e
+ilíquida.  Enquadra-se  no  disposto  nos  arts.  491,  §  1º;  509  e  512  do  NCPC
+(correspondente ao art. 475-A do CPC/1973), que estabelecem que quando a sentença
+não determinar o valor devido proceder-se-á à liquidação.
+A referida sentença contém-se, ainda, nos limites do pedido – que também será
+genérico, porquanto ilíquido –, nenhuma exceção representando às regras dos arts.
+492 e 497, 499, 500, 536, caput e § 1º, e 537, caput e § 1º, do NCPC (correspondem
+aos arts. 460 e 461 do CPC/1973).
+63
+No entanto, se o juiz tiver elementos para quantificar a indenização na sentença,
+poderá  fazê-lo  (ainda  que  o  pedido  seja  ilíquido),  não  havendo  nessa  técnica
+julgamento  “ultra  petita”.  É  o  que  tem  reconhecido  o  STJ,  em  diversas
+oportunidades.
+64
+Art.  96.  Vetado  –  Transitada  em  julgado  a  sentença  condenatória,  será
+publicado edital, observado o disposto no art. 93. [1]
+COMENTÁRIO
+
+[1] DIVULGAÇÃO DA SENTENÇA CONDENATÓRIA – A razão do veto foi a
+remissão  errônea  do  dispositivo,  no  texto  enviado  à  sanção,  ao  art.  93,  quando  a
+referência correta seria ao art. 94.
+Qual o prejuízo do veto para a ampla publicidade da sentença condenatória entre
+seus beneficiários?
+Que  a  divulgação  é  imprescindível,  não  se  discute.  Se  a  medida  já  é
+aconselhável  no  momento  da  propo
+[/PAGINA 920]
+
+[PAGINA 921]
+situra  da  ação,  pelas  razões  expostas  nos
+comentários ao art. 94, ela se torna absolutamente necessária quando se trata de dar
+conhecimento  às  vítimas  e  a  seus  sucessores  do  trânsito  em  julgado  da  sentença
+condenatória, com a finalidade de possibilitar a habilitação destes no processo, por
+intermédio da fase de liquidação.
+Mas o que o art. 96 colocava obrigatoriamente, de maneira didática, ainda se
+sustenta, pela interpretação sistemática dos demais dispositivos do Código. O art. 100
+fixa o prazo de um ano, após o que, se não houver habilitações em número compatível
+com  a  gravidade  do  dano,  proceder-se-á  à  liquidação  e  execução  da  sentença
+condenatória, para o recolhimento ao fundo da fluid recovery (v. infra, comentário nº
+1 ao art. 100). Ora, é evidente que o juiz deverá proceder à intimação da sentença e
+esta, no caso em tela, só poderá dar-se por meio de editais, devendo o juiz socorrer-
+se,  por  analogia,  do  disposto  no  art.  94. Além  do  mais,  cabe  ao  juiz  dar  efetiva
+aplicação ao princípio da publicidade dos atos processuais (art. 5º, inc. LX, da CF e
+art. 94 do CDC), utilizando as técnicas que mais se coadunam com as ações coletivas.
+E, se assim não o fizer, caberá ao autor coletivo zelar pela observância do princípio
+da ampla publicidade da sentença, providenciando inclusive a divulgação da notícia
+da condenação pelos meios de comunicação de massa, nos termos do art. 94, sob pena
+de a condenação tornar-se inócua.
+Art. 97. A liquidação e a execução de sentença [1] poderão ser promovidas
+[2] pela vítima e seus sucessores, assim como pelos legitimados de que
+trata o art. 82. [3]
+Parágrafo único. Vetado – A liquidação de sentença, que será por artigos,
+[4] poderá ser promovida no foro do domicílio do liquidante, [5] cabendo-
+
+lhe provar, tão só, o nexo de causalidade, o dano e seu montante. [4]
+COMENTÁRIOS
+[1]  LIQUIDAÇÃO  E  EXECUÇÃO  DA  SENTENÇA  –  Como  se  viu  (v.
+comentário ao art. 95), a sentença condenatória, que a lei considera genérica, é certa,
+mas ilíquida. É preciso proceder à sua liquidação, nos termos do disposto no Capítulo
+XIV do Título I do Livro I da Parte Especial do Código de Processo Civil de 2015,
+para a posterior promoção da execução.
+Por intermédio da fase de liquidação, ocorrerá uma verdadeira habilitação das
+vítimas e sucessores, capaz de transformar a condenação pelos prejuízos globalmente
+causados do art. 95 em indenizações pelos danos individualmente sofridos. Aliás, é a
+própria  lei  que,  no  art.  100,  utiliza  a  expressão habilitação  dos  interessados.
+Habilitação essa que, se não guarda parentesco com a dos arts. 687 (correspondente
+ao art. 1.055 do CPC/1973) e segs. do NCPC, tem similitude com aquela que ocorre
+por intermédio das reclamações individuais de cumprimento, após a sentença coletiva
+trabalhista  (muito  embora,  pela  legislação  do  trabalho,  não  se  trate  de  ações  de
+conhecimento,  porquanto  a  sentença  coletiva  é  de  natureza  constitutiva
+[/PAGINA 921]
+
+[PAGINA 922]
+e  não
+condenatória: art. 872 da CLT).
+65
+E  não  há  dúvida  de  que  a  fase  de  liquidação  da  sentença  condenatória,  que
+reconheceu  o  dever  de  indenizar  e  nesses  termos  condenou  o  réu,  oferece
+peculiaridades com relação ao que normalmente ocorre nas liquidações de sentença.
+Nestas,  não  mais  se  perquire  a  respeito  do an  debeatur,  mas  somente  sobre  o
+quantum  debeatur.  Aqui,  cada  liquidante,  na  liquidação,  deverá  provar,  em
+contraditório pleno e com cognição exauriente, a existência do seu dano pessoal e o
+nexo etiológico com o dano globalmente causado (ou seja, o an), além de quan-tificá-
+lo (ou seja, o quantum).
+[2]  PRAZO  PARA  A  LIQUIDAÇÃO  –  O  art.  97  não  estabelece  prazo
+preclusivo
+66
+ para o ajuizamento da liquidação. O prazo de preclusão não pode ser
+
+inferior ao legalmente previsto para a prescrição do direito, ou da pretensão material.
+Por  isso,  o  prazo  de  um  ano,  previsto  no  art.  100  do  Código  para  que  se  possa
+proceder à eventual apuração da fluid recovery (v. comentário nº 1 ao art. 100), não
+pode ser confundido com o prazo preclusivo para a habilitação.
+Em cada caso será o Direito Material que fixará o prazo prescricional para o
+exercício  da  pretensão  individualizada  à  reparação,  que  ocorre  exatamente  por
+intermédio da habilitação na fase de liquidação. Tratando-se de danos decorrentes do
+fato  do  produto  ou  do  serviço,  por  exemplo,  encontrará  aplicação  à  espécie  o
+disposto no art. 27 do Código, que fixa o prazo prescricional em cinco anos, a partir
+do conhecimento do dano e de sua autoria.
+A citação válida, nos termos dos arts. 240 e 241 do NCPC (correspondente ao
+art. 219 do CPC/1973), interrompe a prescrição. Ajuizada a ação coletiva, portanto, a
+citação  válida  interromperá  o  prazo  prescricional,  que  começará  a  contar  da
+intimação  da  sentença.  Intimação  que,  como  já  visto,  deverá  ser  feita  por  editais,
+apesar  do  veto  que  incidiu  sobre  o  art.  96  (v.  comentário  ao  referido  dispositivo
+vetado).
+Cumpre, a propósito da prescrição, fazer referência à posição do STJ, decidindo
+pela  prescrição  em  cinco  anos  de  ACP  para  a  tutela  de  direitos  individuais
+homogêneos,  especificamente  no  caso  de  expurgos  inflacionários  dos  planos
+econômicos nos anos de 1987 e 1989
+67
+ [1]. A Segunda Turma aplicou por analogia o
+prazo quinquenal previsto no art. 21 da Lei da Ação Popular (Lei nº 4.717/65). No
+mesmo sentido, considerando prescrita ACP objetivando a nulificação de prorrogação
+de concessão de exploração, pelo reconhecimento da analogia com a  Lei da Ação
+Popular, já havia se manifestado o STJ
+68
+ [2].
+Em nosso entender, embora a ação popular possa servir para a tutela de certos
+direitos difusos, como os ligados ao meio ambiente (em sentido lato), em relação à
+prescrição não se pode aplicar a analogia entre a LAP e a LACP, pois as duas leis
+tratam  de  situações  distintas:  a  ação  popular  visa  a  anular  ato
+[/PAGINA 922]
+
+[PAGINA 923]
+da  administração,
+prevendo sanções para as autoridades responsáveis, o que não ocorre com a Ação
+Civil  Pública.  Razoável,  portanto,  um  prazo  menor  de  prescrição  (rectius,  de
+
+preclusão)  para  a  ação  popular,  por  se  tratar  de  lei  que  visa  a  nulificar  ato  da
+administração.
+Mas à pretensão (de direito material) relativa a direitos individuais homogêneos
+deve aplicar-se o prazo prescricional de 10 anos previsto no art. 205 do CC/2002, até
+porque não se pode falar em “prescrição da ação”.  O que prescreve, ou não, é o
+direito material.
+Acresce notar que, segundo a moderna teoria processual, a ação “processual”
+(usando a terminologia de Pontes de Miranda, que se diferencia da ação de direito
+material) é imprescritível. A ação é o direito de provocar a atividade jurisdicional do
+Estado e semelhante direito não pode estar sujeito à prescrição, pois é o direito de
+acesso  à  justiça,  constitucionalmente  assegurado  no  art.  5º,  XXXV,  da  CF.  O  que
+prescreve  é  o  direito  material  ou  a  pretensão  material  a  ele  ligada,  que  é  o  bem
+jurídico cuja tutela jurisdicional é postulada na ação.
+Em relação à decadência e prescrição, o nosso legislador processual, à vista da
+controvérsia  que  grassava  entre  os  doutrinadores,  tomou  uma  posição  definitiva  a
+respeito, declarando no art. 487,  II, do  NCPC (correspondente ao art. 269,  IV, do
+CPC/1973),  que  há  resolução  de  mérito  quando  o  juiz  “decidir,  de  ofício  ou  a
+requerimento, sobre a ocorrência de decadência ou prescrição”.
+Algumas  leis  processuais,  como  a  que  disciplina  a  ação  de  mandado  de
+segurança  (art.  23  da  Lei  nº  12.016,  de  07.08.2009),  estabelece  um  prazo  para  a
+utilização do tipo especial de tutela jurisdicional nela prevista. Pontes de Miranda,
+comentando o art. 18 da anterior Lei de Mandado de Segurança (nº 1.533/51), afirma
+que se trata de “prazo preclusivo de direito especial”, que se refere ao exercício da
+pretensão à tutela jurídica “por essa ação especial”. “Expirado ele, não cabe pensar-
+se em ação de mandado de segurança. Porém, a pretensão à tutela jurídica geral não
+está  em  causa,  e  sim  o  remédio,  o  mandado  de  segurança,  que  é  forma”  (in
+Comentários ao Código Processo Civil de 1939, t. V, 2ª ed., Forense, 1959, pp. 212-
+213). Alfredo Buzaid, embora não concorde com Pontes de Miranda quanto a tratar-se
+de  prazo  preclusivo,  uma  vez  que  não  se  verifica  no  curso  do  processo,  entende
+igualmente  que  não  se  trata  também  de  prescrição  ou  decadência,  pois  o  que  se
+
+extingue é o “direito de requerer mandado de segurança”, tratando-se, portanto, de
+prazo “extintivo de uma faculdade pelo seu não exercício dentro de cento e vinte dias,
+contados da ciência do ato a ser impugnado” (Do Mandado de Segurança, Saraiva,
+vol. I, 1989, § 86, pp. 159-160).
+O  prazo  previsto  no  art.  21  da  Ação  Popular,  embora  o  legislador  tenha
+impropriamente utilizado o vocábulo “prescrição”, a
+[/PAGINA 923]
+
+[PAGINA 924]
+tinge apenas o direito de utilizar
+a ação especial, como bem esclarece Elival da Silva Ramos, que traz a respeito a
+seguinte  observação:  “parece  ter  havido  um  equívoco  do  legislador  ao  falar  em
+‘prescrição’  no  art.  21  da  Lei  nº  4.717/65.  Trata-se  de  um  prazo  fixado  para  o
+exercício  do  direito  de  propor  a  ação  popular  em  cada  caso  concreto  que,  ao
+contrário da prescrição, não afeta o direito substancial em debate” (“A ação popular
+como instrumento de participação popular”, RT, 1991, p. 169). Bem por isto, como
+observa Luis Paulo Aliende Ribeiro, “findo o prazo quinquenal, perece o direito do
+autor popular para a utilização desta ação constitucional, o que não obsta que outras
+medidas  judiciais  protetivas  de  direitos  transindividuais  possam  ser  adotadas
+depois  do  prazo  de  cinco  anos,  nem  impede,  até  a  ocorrência  da  prescrição
+correspondente,  o  manejo,  pelo  ente  do  direito  lesado  ou  por  outro  legalmente
+legitimado,  de  outros  meios  e  ações  para  a  defesa  do  patrimônio  público  e  o
+ressarcimento do erário” (in Comentários à Lei de Ação Civil Pública e Lei de Ação
+Popular, Quartier Latin, 2006, obra coordenada por Susana Henriques da Costa, pp.
+308-310).
+Esses  prazos  extintivos  do  direito  de  propor  uma  ação  de  natureza  especial
+devem  ser  criados  pelo  legislador,  caso  a  caso,  não  podendo  ser  aplicado
+analogicamente o prazo previsto numa ação para outra, por mais assemelhadas que
+possam parecer, pois sendo limitador de um direito, mormente do direito de ação, que
+em  princípio  não  deve  estar  sujeito  a  nenhum  prazo  extintivo,  está  submetido  ao
+princípio de interpretação estrita.  E no caso julgado no acórdão acima referido, a
+ação coletiva destinava-se à tutela de interesses individuais homogêneos, não tendo
+consequentemente a similitude afirmada pelo julgado, pois enquanto na ação popular
+o que se objetiva é a tutela de interesses difusos, que são transindividuais de natureza
+indivisível, na ação coletiva relativa a interesses individuais homogêneos, o que se
+
+busca é a tutela coletiva de interesses ontologicamente individuais e divisíveis, sendo
+coletiva apenas a sua forma de tutela jurisdicional.  E mesmo que existisse alguma
+similitude, como já anotado, normas restritivas de direitos devem ser expressamente
+criadas pelo legislador, sendo de todo inadmissível sua aplicação por analogia.
+Em  outro  Acórdão,  o  STJ  considerou  imprescritível  o  “dano  ambiental”–
+remontando, portanto, ao direito material –, por se tratar de direito inerente à vida”.
+69
+E é oportuno lembrar a lição de Rodrigo Mazzei, transcrita por Acórdão do STJ
+que reconheceu, por analogia, a aplicação da regra da remessa obrigatória da Lei da
+Ação Popular às Ações Civis Públicas,
+70
+ no sentido de que os dispositivos da LAP
+poderão ser aproveitados em todo o microssistema coletivo, naquilo que for útil à
+efetivação da tutela de massa.  Mas,  certamente,  não  no  campo  d
+[/PAGINA 924]
+
+[PAGINA 925]
+a  prescrição  da
+pretensão coletiva.
+[3]  LEGITIMAÇÃO  E  REPRESENTAÇÃO  PARA A  LIQUIDAÇÃO  E  EXE-
+CUÇÃO  –  O caput  do  art.  97  estabelece  poderem  a  liquidação  e  execução  da
+sentença condenatória ser promovidas quer pelas vítimas do dano e seus sucessores,
+quer pelos entes e pessoas legitimadas às ações coletivas pelo art. 82 do Código (v.
+comentário ao art. 82).
+Tanto  num  como  noutro  caso,  porém,  a  liquidação  e  a  execução  serão
+necessariamente personalizadas e divisíveis.
+Promovidas que forem pelas vítimas e seus sucessores, estes estarão agindo na
+qualidade de legitimados ordinários.
+E  quando  a  liquidação  e  a  execução  forem  ajuizadas  pelos  entes  e  pessoas
+enumerados  no  art.  82?  A  situação  é  diferente  da  que  ocorre  com  a  legitimação
+extraordinária  à  ação  condenatória  do  art.  91  (v.  comentário  nº  2  ao  referido
+dispositivo).  Lá,  os  legitimados  agem  no  interesse  alheio,  mas  em  nome  próprio,
+sendo  indeterminados  os  beneficiários  da  condenação.  Aqui,  as  pretensões  à
+liquidação  e  execução  da  sentença  serão  necessariamente  individualizadas:  o  caso
+surge  como  de representação,  devendo  os  entes  e  pessoas  enumeradas  no  art.  82
+agirem em nome das vítimas ou sucessores.  Por  isso,  parece  faltar  ao  Ministério
+
+Público legitimação para a liquidação e a execução individual, em que se trata da
+defesa de direitos individuais disponíveis, exclusivamente (art. 127 da CF).
+71
+Quanto  aos  sindicatos,  entretanto,  o  STJ  entendeu  terem  legitimidade  para  a
+execução coletiva, como substitutos processuais, independentemente de autorização
+de  seus  filiados,  observada  a  necessidade  de  que  a  execução  coletiva  indique,
+individualmente, o credor substituído e o valor devido.
+72
+A respeito da execução coletiva, v. comentários n
+os
+ 1 e 2 ao art. 98.
+[4] MODALIDADE E OBJETO DA LIQUIDAÇÃO – O veto que incidiu sobre o
+parágrafo único do art. 97 visava exclusivamente a colher a regra de competência
+fixada  para  a  liquidação  da  sentença.  Levou,  contudo,  de  roldão  –  ao  menos
+aparentemente – a disposição atinente à modalidade da liquidação e aos fatos novos a
+serem provados pelo liquidante.
+Nesta segunda parte, mesmo com o veto, o conteúdo da disposição permanece
+íntegro, em face dos princípios do estatuto processual civil.
+Com efeito, limitando-se a condenação – genérica, nos termos do disposto no
+art.  95  –  a  fixar  a  responsabilidade  do  réu  pelos  danos causados,  será  agora
+necessário,  a  cada  prejudicado,  demonstrar  a  existência  dos  prejuízos sofridos  (v.
+comentário ao art. 95). Havendo, assim, necessidade de alegação e prova de fatos
+novos,  a  liquidação  deverá  ser  feita por  artigos  e  pelo  procedimento  comum,
+consoante disposto nos arts. 509, II (correspondente ao art. 475-E do CPC/1973), e
+art. 511 (correspondente ao art. 475-F do CPC/1973) do NCPC.
+Os fatos a serem provados não são outros senão os indicados pelo dispo
+[/PAGINA 925]
+
+[PAGINA 926]
+sitivo
+vetado: a existência do dano individual, o nexo de causalidade com o dano genérico
+reconhecido pela sentença, bem como o montante do primeiro. Com veto ou sem veto,
+a própria natureza das coisas exige que a liquidação se faça por artigos e tenha esse
+objeto, e nenhum outro.
+73
+[5]  FORO  COMPETENTE  PARA  A  LIQUIDAÇÃO:  O  DISPOSITIVO
+VETADO  –  Ocorre  aqui  uma  situação  curiosa:  a  intenção  declarada  do  veto
+presidencial ao parágrafo único do art. 97 foi de impedir a “dissociação do foro do
+
+processo de conhecimento e de execução”, que seria “arbitrária”, porquanto romperia
+com o “princípio da vinculação” (sic) adotado pelo art. 575 do CPC/1973 (artigo sem
+correspondente  no  NCPC)  e  defendido  pela  “melhor  doutrina”.  O  veto  ainda  se
+apoiou numa suposta lesão ao princípio da ampla defesa, decorrente da “incerteza
+quanto ao foro de execução” (sic).
+Não  é  esta  a  hora  e  vez  de  polemizar  com  as  razões  invocadas  no  veto  que
+apontam, entre outras coisas, para o desconhecimento da natureza da liquidação; para
+o  descaso  com  a  exigência  de  renovação  dos  esquemas  processuais  clássicos,
+necessária para a efetiva tutela dos interesses e direitos coletivamente tratados; para o
+equivocado  enfoque  do  direito  de  ação  e  de  defesa,  que  hão  de  ser  exercidos
+amplamente,  mas  por  ambas  as  partes  e  no  quadro  da  igualdade  real  e  da par
+condicio. O que compete fazer, isso sim, é verificar qual o real e efetivo alcance do
+veto.
+É que, vetado o dispositivo em tela, permaneceu íntegro o § 2º, inc. I, do art. 98
+– que se refere ao juízo da liquidação da sentença ou da ação condenatória, para a
+execução individual. Assim, fica claro que diversos podem ser o foro e o juízo da
+liquidação da sentença e da ação condenatória, nas ações coletivas de que trata o
+Capítulo II do Título III. Recorde-se que, na técnica de determinação da competência
+–  do  geral  ao  específico  –,  há  que  se  fixar  primeiro  a  competência  de  foro,  para
+depois descer à de juízo (com a atribuição da competência a um entre os diversos
+juízes em exercício no mesmo órgão jurisdicional).
+74
+E quais serão esses foro e juízo da liquidação da sentença, alternativos aos foro
+e juízo da ação condenatória? A resposta está no art. 101, inc. I, do Código: a ação de
+responsabilidade civil do fornecedor de produtos e serviços pode ser proposta no
+domicílio do autor.
+Não  é  difícil  aplicar  analogicamente  essa  regra  ao  foro  competente  para  a
+liquidação,  a  que  necessariamente  se  liga  o  §  2º,  inc.  I,  do  art.  98:  a  fase  de
+liquidação é, segundo a doutrina dominante, processo de conhecimento, preparatório
+da futura execução e destinado a complementar o comando da sentença condenatória;
+75
+a  liquidação  da  sentença  prevista  no caput  do  art.  97  será  sempre  feita  a  título
+
+individual, promovida que seja pelo prejudicado ou pelos entes e pessoas que podem
+representá-lo em juízo (v. comentário nº 2 ao art. 91).
+[/PAGINA 926]
+
+[PAGINA 927]
+Ademais, na liquidação da
+sentença  que  reconheceu  o  dever  de  indenizar  e  condenou  o  réu,  os  diversos
+liquidantes deverão ainda provar a existência de seu dano pessoal, bem como o nexo
+etiológico  com  o  dano  geral  que  embasou  a  condenação  genérica  (v. supra,
+comentários ao art. 97 e ao parágrafo vetado). Desse modo, a regra da propositura da
+ação individual no foro do domicílio do autor encontra plena aplicação à hipótese,
+sendo a única capaz de explicar e dar conteúdo ao remanescente § 2º, inc. I, do art. 98
+do  Código  (ver  também  comentário  nº  3  ao  referido  dispositivo). A  lei  não  pode
+conter dispositivos inúteis: o veto não atingiu seu objetivo.
+Art. 98. A execução poderá ser coletiva, sendo promovida pelos legitimados
+de  que  trata  o  art.  82,  abrangendo  as  vítimas  cujas  indenizações  já
+tiverem  sido  fixadas  em  sentença  de  liquidação,  sem  prejuízo  do
+ajuizamento de outras execuções. [1]
+§ 1º A execução coletiva far-se-á com base em certidão das sentenças de
+liquidação,  da  qual  deverá  constar  a  ocorrência  ou  não  do  trânsito  em
+julgado. [2]
+§ 2º É competente para a execução o juízo:
+I  –  da  liquidação  da  sentença  ou  da  ação  condenatória,  no  caso  de
+execução individual;
+II – da ação condenatória, quando coletiva a execução. [3]
+COMENTÁRIOS
+[1]  EXECUÇÃO  INDIVIDUAL  E  COLETIVA  –  Realizada  a  liquidação  da
+sentença condenatória, nos termos do art. 97, a lei contempla dois tipos de execução,
+no art. 98: a individual, à qual continua ordinariamente legitimado o prejudicado; e a
+coletiva,  em  que  os  entes  e  pessoas  indicadas  no  art.  82  agem  na  qualidade  de
+representantes das vítimas ou sucessores (v. comentário nº 3 ao art. 97).
+A execução coletiva é necessariamente individualizada, abrangendo o grupo de
+
+vítimas cujas indenizações já tiverem sido fixadas na(s) sentença(s) de liquidação. À
+medida  que  novas  sentenças  surgirem,  os  entes  ou  pessoas  a  que  a  lei  atribui  a
+representação das vítimas poderão proceder a outras execuções coletivas.
+Aqui, não parece inadequada a legitimação do Ministério Público, porquanto o
+interesse  social  se  estabelece  em  função  do  tratamento  coletivo  das  demandas
+executórias (v. retro, comentário nº 3 ao art. 97).
+[2] EXECUÇÃO COLETIVA DEFINITIVA E PROVISÓRIA – O § 1º do art. 98
+estabelece que a execução coletiva se faça com base em certidão (ou certidões) das
+sentenças  de  liquidação,  certidão  essa  na  qual  se  concretiza  o  título  executivo.
+Facilita-se,  assim,  a  instauração  da  execução,  não  sendo  necessário  que  ela  se
+processe nos autos principais (execução definitiva) ou nos suplementares ou por carta
+de  sentença  (execução  provisória).  A  circunstância  de  que  a  execução  coletiva  é
+destinada a grupos de credores aconselhava a simplificação, necessária à adequada
+condução do processo.
+De  acordo  com  as  regras  do  art.  587  do  CPC/1973  (sem  correspondente  no
+NCPC),  da  cert
+[/PAGINA 927]
+
+[PAGINA 928]
+idão  deve  constar  a  ocorrência,  ou  não,  do  trânsito  em  julgado  da
+sentença, para que se possa distinguir entre execução definitiva e provisória.
+[3]  COMPETÊNCIA  DE  JUÍZO  PARA  EXECUÇÃO  –  Para  a  execução
+coletiva,  o  art.  98,  §  2º,  inc.  II  estabelece  a  competência  do  juízo  da  ação
+condenatória.
+76
+ Nenhuma exceção faz a lei à regra geral do art. 575, II, do CPC (artigo
+sem correspondente no NCPC).
+E  se  a  execução  for  individual?  O  inc.  I  do  §  2º  do  dispositivo  ligavase  ao
+disposto no parágrafo único do art. 97, que foi vetado. Este determinava que o foro
+competente para a liquidação da sentença poderia ser o do domicílio do liquidante,
+daí  derivando  a  regra  ora sub examine,  no  sentido  de  o  juízo  competente  poder,
+correlatamente, ser o da liquidação da sentença ou da ação condenatória.
+O fato é que, mesmo vetado o parágrafo único do art. 97, o inc. I do § 2º do art.
+98  permanece  íntegro.  A  lei  não  pode  conter  disposições  inúteis.  É  preciso  dar
+conteúdo ao dispositivo em tela e a única interpretação capaz de fazê-lo parece ser
+
+aquela que, reportando-se ao disposto no art. 101, inc. I, e aplicando-o por analogia,
+extrai  do  sistema  a  regra  da  competência  de  foro  do  domicílio  do  liquidante,  ora
+vetada: v. supra, comentário nº 5 ao parágrafo único do art. 97.
+Art.  99.  Em  caso  de  concurso  de  créditos  decorrentes  de  condenação
+prevista na Lei nº 7.347, de 24 de julho de 1985, e de indenizações pelos
+prejuízos  individuais  resultantes  do  mesmo  evento  danoso,  estas  terão
+preferência no pagamento. [1]
+Parágrafo  único.  Para  efeito  do  disposto  neste  artigo,  a  destinação  da
+importância recolhida ao Fundo criado pela Lei nº 7.347, de 24 de julho de
+1985, ficará sustada enquanto pendentes de decisão de segundo grau as
+ações  de  indenização  pelos  danos  individuais,  salvo  na  hipótese  de  o
+patrimônio do devedor ser manifestamente suficiente para responder pela
+integralidade das dívidas. [2]
+COMENTÁRIOS
+[1]  CONCURSO  DE  CRÉDITOS  –  O caput do art. 99 cuida do concurso de
+créditos que pode decorrer da condenação à reparação dos danos provocados aos
+bens indivisivelmente considerados, imposta nos termos da denominada Lei de Ação
+Civil Pública – Lei nº 7.347/85 –, em cotejo com as indenizações pessoais devidas
+nos termos do presente capítulo do Código de Defesa do Consumidor.
+O dispositivo em tela claramente indica que o legislador entendeu cumulativos a
+indenização  pelos  danos  provocados  ao  bem  indivisivelmente  considerado  e  o
+ressarcimento devido a título individual às vítimas do mesmo dano.
+O  concurso  resolve-se  pela  preferência  das  reparações  individuais  sobre  a
+coletiva, privilegiando-se, assim, os direitos subjetivos pessoais em confronto com o
+interesse coletivo à indenização do dano indivisivelmente considerado.
+[2] GARANTIA DA PREFERÊNCIA – O parágrafo único do art. 99 garante a
+preferência prevista no caput, lançando mão
+[/PAGINA 928]
+
+[PAGINA 929]
+da sustação da destinação da reparação
+
+ao bem indivisivelmente considerado, consistente em sua reconstituição (art. 13 da
+Lei  nº  7.347/85);  e  o  faz  por  intermédio  da  indisponibilidade  da  importância
+recolhida  ao  Fundo  de  que  trata  o  referido  art.  13  da  Lei  nº  7.347/85,  enquanto
+pendentes  de  decisão  de  segundo  grau  as  ações  de  indenização  pelos  danos
+pessoalmente sofridos.
+A  sustação,  contudo,  não  será  determinada  quando,  a  critério  do  juiz,  o
+patrimônio  do  devedor  for  manifestamente  suficiente  para  responder  pela
+integralidade das dívidas.
+Art. 100. Decorrido o prazo de um ano sem habilitação de interessados em
+número compatível com a gravidade do dano, [1] poderão os legitimados
+do art. 82 promover a liquidação e execução da indenização devida. [2][3]
+Parágrafo único. O produto da indenização devida reverterá para o Fundo
+criado pela Lei nº 7.347, de 24 de julho de 1985. [4]
+COMENTÁRIOS
+[1] A FLUID RECOVERY DO DIREITO BRASILEIRO – As ações coletivas que
+têm  por  objeto  a  reparação  dos  danos  causados  a  pessoas  indeterminadas  podem
+carrear consigo algumas dificuldades. É o que tem demonstrado a experiência norte-
+americana, quando a sentença condena o réu a ressarcir o dano causado a centenas ou
+milhares  de  membros  da class,  surgindo  então  problemas  de  identificação  das
+referidas  pessoas;  de  distribuição  entre  elas  da  arrecadação;  do  uso  do  eventual
+resíduo não reclamado pelos membros da coletividade.
+A jurisprudência norte-americana criou então o remédio da fluid recovery (uma
+reparação fluida), a ser eventualmente utilizado para fins diversos dos ressarcitórios,
+mas  conexos  com  os  interesses  da  coletividade:  por  exemplo,  para  fins  gerais  de
+tutela dos consumidores ou do ambiente.
+77
+A colocação desse tipo de ações coletivas no Código do Consumidor é diversa
+da  que  ocorre  com  as class actions  norte-americanas,  em  que  o  juiz  desde  logo
+
+quantifica a indenização pelos danos causados: no sistema criado pelo Código, o bem
+jurídico objeto de tutela ainda é indivisível e a condenação é genérica, limitando-se a
+fixar a responsabilidade do réu e a condená-lo a reparar os danos causados. Estes
+serão apurados e quantificados em liquidação de sentença, movida por cada uma das
+vítimas para a posterior execução e recebimento da importância correspondente à sua
+reparação.  A  condenação  faz-se,  portanto,  pelos  danos  causados,  mas  em  termos
+ilíquidos, e o pagamento a cada credor corresponderá exatamente aos danos sofridos
+(v. comentário nº 1 aos arts. 95 e 97).
+Todavia,  o  legislador  brasileiro  não  descartou  a  hipótese  de  a  sentença
+condenatória  não  vir  a  ser  objeto  de  liquidação  pelas  vítimas,  ou  então  de  os
+interessados que se habilitarem serem em número incompatível com a gravidade do
+dano. A hipótese é comum no campo das relações de consumo, quando se trate de
+danos insignificantes em sua individualidade mas ponderáveis
+[/PAGINA 929]
+
+[PAGINA 930]
+no conjunto: imagine-
+se,  por  exemplo,  o  caso  de  venda  de  produto  cujo  peso  ou  quantidade  não
+corresponda aos equivalentes ao preço cobrado. O dano globalmente causado pode
+ser considerável, mas de pouca ou nenhuma importância o prejuízo sofrido por cada
+consumidor lesado. Foi para casos como esses que o caput do art. 100 previu a fluid
+recovery.
+Observe-se, porém, que a indenização destinada ao Fundo criado pela LACP,
+nos  termos  do  parágrafo  único  do  art.  100,  é  residual  no  sistema  brasileiro,  só
+podendo  destinar-se  ao  referido  Fundo  se  não  houver  habilitantes  em  número
+compatível com a gravidade do dano (v. infra, comentário nº 4).
+Por isso mesmo, não é correto o pedido direto de recolhimento de indenização
+ao  Fundo,  sendo  censurável  o  acolhimento  desse  mesmo  pedido:
+78
+  o  pedido
+indenizatório,  em  casos  que  tais,  inscreve-se  na  tutela  de  interesses  individuais
+homogêneos,  de  modo  que  o  recolhimento  ao  Fundo  prejudica  o  direito  às
+indenizações  pessoais  dos  consumidores  que  quiserem  habilitar-se  à  reparação
+individual.
+Adequado,  ao  contrário,  o  pedido  de  indenização  pessoal,  por  lesão  aos
+interesses individuais homogêneos, com indicação de sua reversão ao Fundo, somente
+
+na  hipótese  de  não  haver  habilitações  dos  interessados  ou,  em  as  havendo,  a  da
+reversão pelo eventual resíduo não reclamado.
+79
+[2] A  LEGITIMAÇÃO  PARA A  LIQUIDAÇÃO  E  EXECUÇÃO –  Os entes e
+pessoas  legitimados  nos  termos  do  art.  82  são,  então,  legitimados  à  liquidação  e
+execução  da  reparação  global  pelo caput  do  art.  100. Aqui,  não  mais  se  trata  de
+substituição  processual  (v.  comentário  nº  2  ao  art.  91)  nem  de  representação  (v.
+comentário nº 3 ao art. 97, caput). O que agora se consubstancia é algo mais próximo
+à  legitimação  ordinária,  pela  qual  os  legitimados  agem  na  persecução  de  seus
+próprios objetivos institucionais, sendo – na expressão norte-americana – uma real
+party in interest:
+80
+ v. também comentário ao art. 82.
+[3] MODALIDADE E OBJETO DA LIQUIDAÇÃO – A liquidação promovida
+pelos legitimados após o decurso do prazo legal, quando não haja habilitações dos
+prejudicados ou quando essas não forem em número compatível com a gravidade do
+dano, terá por objeto a apuração do prejuízo globalmente causado.
+Assim, o juiz deverá proceder à avaliação e quantificação dos danos causados, e
+não  dos  prejuízos  sofridos.  Avulta,  aqui,  sua defining function  e  seus  poderes  se
+tornam mais amplos.
+81
+É possível, porém, nos termos do próprio art. 100 (que fala em habilitações em
+número  incompatível  com  a  gravidade  do  dano)  que  ao  mesmo  tempo  ocorram
+liquidações  pelos  danos  pessoalmente  sofridos,  passando  então  a fluid recovery  a
+consistir  em  um  verdadeiro  “resíduo  não  reclamado”.
+82
+  Nesse  caso,  o  juiz  deverá
+levar em conta as indenizações pessoais apuradas, para efeito de compensação.
+Seja como for, por in
+[/PAGINA 930]
+
+[PAGINA 931]
+termédio do reconhecimento da fluid recovery, o sistema
+brasileiro adere à verdadeira revolução no conceito de responsabilidade civil que
+certas ações de classe podem exigir: v. supra, comentário ao art. 95.
+[4]  DESTINAÇÃO  DA FLUID RECOVERY  –  O  parágrafo  único  do  art.  100
+destina o produto da indenização pelo dano globalmente causado ao  Fundo criado
+pela Lei nº 7.347/85 (a lei da denominada ação civil pública). Mas a reversão ao
+
+1
+3
+4
+6
+7
+8
+11
+12
+13
+2
+5
+9
+10
+Fundo só pode ocorrer residualmente, como já visto (nº 1).
+Exatamente como faz a jurisprudência norte-americana (v. comentário nº 1 ao
+caput  do  art.  100),  a  indenização  é,  assim,  utilizada  para  fins  diversos  dos
+reparatórios – que não puderam ser atingidos no caso –, mas com eles conexos, por
+intermédio da proteção aos bens e valores da coletividade lesada.
+V.  Vincenzo  Vigoriti, Interessi collettivi e processo:  la  legittimazione  ad  agire,
+Milão, Giuffrè, 1979, p. 254.
+Id., op. et loc. cits.
+Vigoriti, op. cit., ps. 261 e segs.; Michele Taruffo, “I limiti soggettivi del giudicato e
+le class actions”, in Riv. Dir. Proc., 1969, ps. 618 e segs.
+Para uma análise detalhada das normas de 1938 e da evolução jurisprudencial sobre
+a matéria, v. Taruffo, op. cit., ps. 619-28.
+Taruffo, op. cit., p. 629.
+V. doutrina norte-americana citada por Taruffo, op. cit., p. 625: é a spurious class
+action.
+Sobre a técnica do opt out, nas ações de classe norte-americanas, v. exposição no
+Capítulo III, infra, n. 4.2.8 e 5.
+Cf. Bryant G. Garth, “Relatório geral sobre as ações de grupo apresentado ao XII
+Congresso de Direito Comparado”, Montreal, agosto de 1990, ps. 18-20. O relator
+refere-se  ao  “Relatório  dos  Estados  Unidos  da  América”,  preparado  para  o
+Congresso  por  Mary  Kay  Kane,  bem  como  aos  relatórios  da American  Bar
+Association de 1989 sobre os mass torts e do Federal Courts Study Committes, de
+abril de 1990.
+Cuja competência se exerce nos importantes Estados de Texas e Louisiana.
+1999 WL 631758 (5th Cir (La.)), in Westlaw, West 1999, ps. 1 e segs.
+Cf. José Rogério Cruz e Tucci, “Class action“ e mandado de segurança coletivo,
+São Paulo, Saraiva, 1990, ps. 29-30.
+In Re Agent Orange Product (818 F.2d 145 e 187), 2th Circuit, nº 1140 etc., julgado
+aos 21.4.87.
+Ada Pellegrini Grinover, “Da ‘class action for damages’ à ação de classe brasileira:
+
+14
+16
+15
+os requisitos de admissibilidade”, in Revista Forense, vol. 352, ps. 11 e segs.
+Trata-se  de class actions for damages intentadas por grupos de fumantes, após o
+êxito  de  várias  ações  de  Estados  da  Federação  norte-americana  contra  as
+companhias fabricantes de cigarros, para o ressarcimento dos custos sustentados
+pelo  tratamento  das  consequências  do  fumo  e  a  título  punitivo. Agora,  em  duas
+ações de classe reparatórias de danos pessoalmente sofridos, o Tribunal do Estado
+da  Flórida, em grau de apelação, reformou a sentença do júri, que havia fixado
+indenizações  bilionárias,  afirmando  não  existirem
+[/PAGINA 931]
+
+[PAGINA 932]
+no  caso  os  requisitos  da
+prevalência e da superioridade, devendo os fumantes buscar suas indenizações em
+ações individuais (Cases n
+os
+ 3D00-3.400, 3.206, 3.207, 3.208, 3.210, 3.212, 3.215,
+apelantes Ligget Group Incorporated e outras; apelados Howard A. Engle e outros,
+j.  21.5.2003;  e  o  Tribunal  do  Estado  de  Massachusetts,  em  grau  de  recurso  de
+decisão  interlocutória,  determinou,  pela  falta  dos  mesmos  requisitos,  a
+decertificação da classe (SUCV 1998-06002, Lori Aspinal e outros contra Philip
+Morris Companies, Inc. e outro, j. 27.5.2003).
+Cf. José Rogério Cruz e Tucci, op. et loc. cits.
+Mencionem-se, entre os casos em que a “prevalência” e a superioridade não foram
+reconhecidas em grau de apelação ou mesmo pela Suprema Corte, desqualificando-
+se a ação como sendo de  classe,  os  seguintes:  Caso  Castano,  versando  sobre  a
+reparação dos danos provocados pela dependência da nicotina (84 F. 3d 734, 5º
+Circuito, nº 95-30725, julgado aos 23.5.96); Caso Allison, versando sobre danos
+provocados por discriminação racial na empresa (151 F 3d 402, 5º Circuito, nº 96-
+30489,  julgado  aos  18.8.98);  Caso  American  Medycal  System,  atinente  à
+responsabilidade pelo produto consistente em pênis artificial (75  F 3d 1069, 6º
+Circuito, n
+os
+ 95-3303 e 95-3327, julgado aos 15.2.96); Caso Rhone-Poulenc, sobre
+a reparação por danos provocados a hemofílicos por sangue contaminado (51 F 3d
+1293, 3º Circuito, nº 94-3912, julgado aos 16.3.95); Caso Cimino, objetivando a
+reparação por danos provocados pelo asbesto (151 F 3d 297, 5º Circuito, nº 93-
+4452,  julgado  aos  21.9.98);  Caso  Amchen,  ainda  sobre  danos  causados  pelo
+asbesto, que chegou à Suprema Corte (521 US, 117 S. Ct. 2231, nº 96.270, julgado
+aos 25.6.97). Para maiores detalhes sobre os referidos julgados e as razões pelas
+quais  os  tribunais  norte-americanos  não  reconheceram,  nos  casos  concretos,  a
+existência  dos  requisitos  da  prevalência  e  da  superioridade,  v.  Ada  Pellegrini
+Grinover, “Da ‘class action for damages’ à ação de classe brasileira: os requisitos
+de  admissibilidade”, in Revista da Pós-graduação da Faculdade de Direito da
+
+18
+19
+22
+23
+24
+25
+26
+17
+20
+21
+USP, São Paulo, Syntese, 2000.
+Cf. Relatório de Bryant G. Garth, cit., ps. 18-19.
+O Relatório supramencionado (p. 19) refere-se ao julgado da Suprema Corte, de
+1985, no importante caso Phillips Petroleum Co. v. Shutts (472 U.S. 797 (1985),
+U.S. Report, p. 5).
+Cf. Relatório de Bryant G. Garth, cit., ps. 16-17, baseado no relatório nacional de
+David Harland.
+Id., ibid., p. 17, com base no Relatório nacional de Peter P. Mercer.
+Id., ibid., ps. 17-18, com base no Relatório nacional de Stephen Goldstein.
+Ada  Pellegrini  Grinover  (“Ações  coletivas  para  a  defesa  do  ambiente  e  dos
+consumidores: a Lei nº 7.347, de 24 de julho de 1985”, in Novas tendências do
+Direito Processual, Rio de Janeiro, Forense Universitária, 1990, ps. 150 e segs.)
+observou que, no caso de ressarcimento do dano, a i
+[/PAGINA 932]
+
+[PAGINA 933]
+ndenização é destinada, pela
+lei, a um fundo, que deverá utilizá-la para a efetiva reconstituição dos bens lesados.
+Ademais,  a  lei  não  prevê  forma  de  rateio  da  indenização  entre  as  pessoas
+individualmente ofendidas, nem uma fluid recovery do tipo previsto para as class
+actions  nor-te-americanas  (sobre  a fluid  recovery,  v.  Mauro  Cappelletti,
+“Formazioni sociali e interessi di gruppo davanti alla giustizia civile”, in Riv. Dir.
+Proc.,  1975,  ps.  395-6.  O  ensaio  de  Cappelletti,  vertido  para  o  português,  foi
+publicado na Revista de Processo, nº 5, de 1977).
+A problemática foi enfrentada, num enfoque diverso, mas que conduz aos mesmos
+resultados,  por  Luiz  Paulo  da  Silva  Araújo  Filho, in  Ações  coletivas:  a  tutela
+jurisdicional dos direitos individuais homogêneos, Rio de Janeiro, Forense, 2000,
+ps. 199-202, no capítulo intitulado “As ações pseudocoletivas”.
+A expressão substituição processual, utilizada desde Kohler e Chiovenda, continua
+empregada  pelos  autores  modernos:  v.  Celso  Agrícola  Barbi, Comentários  ao
+CPC, Rio de Janeiro, Forense, 1975, vol. I, tomo I, p. 117. Sobre o fenômeno da
+substituição  processual,  v.,  no  Brasil,  Waldemar  Mariz  de  Oliveira  Jr.,
+Substituição processual, São Paulo, Revista dos Tribunais, 1971.
+Cf. Luiz Paulo da Silva Araújo Filho, Ações coletivas: a tutela jurisdicional dos
+direitos individuais homogêneos, Rio de Janeiro, Forense, 2000, ps. 122-123.
+A expressão é de José Carlos Barbosa Moreira, referindo-se ao tratamento coletivo
+de direitos divisíveis, em que inexiste a comunhão indivisível que se verifica nos
+interesses  difusos  e  coletivos;  a  estes,  o  autor  se  refere  como  a  interesses
+
+27
+28
+29
+30
+essencialmente  coletivos:  “Tutela  jurisdicional  dos  interesses  coletivos  ou
+difusos”, in Temas de Direito Processual, 3ª série, São Paulo, Saraiva, 1984, ps.
+195-6.
+Esses argumentos, lançados em parecer de 23.3.92 do eminente prof. Miguel Reale,
+foram encampados, em São Paulo, pelo m. juiz da 15ª Vara Federal, no Processo nº
+92.0056114-4, que extinguiu, sem julgamento do mérito, o processo (intentado pelo
+IDEC – Instituto Brasileiro de Defesa do Consumidor, ao qual o juízo estendeu a
+argumentação, apresentada contra a legitimação do MP). A sentença de primeiro
+grau foi reformada, em apelação. “No REsp nº 910.192-MG, a Terceira Turma do
+STJ, aos 02.02.2010, também reconheceu a legitimação do MP para a defesa de
+direitos  individuais  homogêneos  relacionados  com  a  captação  antecipada  de
+poupança  popular,  disfarçada  de  financiamento  para  compra  de  linha  telefônica
+(relatora Min. Nancy Andrighi)”.
+É  esta,  grosso  modo,  a  posição  de  Hugo  Nigro  Mazzili,  “Interesses  coletivos  e
+difusos”,  RT,  vol.  668,  ps.  47  e  segs.  A  Segunda  Turma  do  STJ  (REsp  nº
+1.120.253, rel. Min. Mauro Campbell Marques) reconheceu a legitimidade do MP
+para pleitear, em ACP, a anulação do acordo firmado pelo sindicato, relativamente
+à verba de manute
+[/PAGINA 933]
+
+[PAGINA 934]
+nção temporária dos trabalhadores, em área desapropriada pela
+companhia;  embora  se  tratasse  de  direitos  específicos  de  determinado  grupo  de
+pessoas, foi reconhecida a relevância social dos direitos defendidos.
+Trata-se  dos  fundamentos  utilizados  por  Ada  Pellegrini  Grinover  em  parecer,
+subscrito aos 18.8.92, que instruiu as razões de apelação do IDEC, no processo
+mencionado  na  nota  nº  18,  supra.  O  parecer  foi  publicado  em O  processo  em
+evolução, da Autora, Rio de Janeiro, Forense Universitária, 1996, ps. 423-441.
+Contra a legitimação do MP à ação coletiva em defesa de interesses individuais
+homogêneos, por razões constitucionais, TJRS, 1ª Câmara, AC nº 59300266-0, j.
+16.3.93, rel. Araken de Assis. Mas a mesma Câmara adotou posição mais atenuada,
+pelo voto do relator Vellinho de Lacerda, entendendo que o MP tem legitimação
+para defender em juízo esses interesses, quando se trate de algo mais do que a soma
+de situações particulares, qualificando-se os interesses como comunitários (AC nº
+59213648-8, j. 2.3.93). Em sentido semelhante, reconhecendo a legitimação do MP
+para a ação que visava ao cancelamento de informações abusivamente mantidas em
+cadastros  de  dados  de  consumidores,  2ª  Câmara  TJRS,  AC  nº  591097050,  j.
+27.11.91. A favor, mais amplamente, da legitimação do MP às ações civis públicas
+em  defesa  de  interesses  individuais  homogêneos,  TACRS,  1ª  Câmara,  MS  nº
+
+31
+32
+33
+34
+36
+35
+193110731,  j.  31.8.93.  O  STJ,  em  caso  relativo  a  mensalidades  escolares,
+manifestou-se à unanimidade, pela 1ª Turma, no RE nº 35.644-O-MG, aos 10.9.93,
+e no RIP 00155946-MG, aos 10.9.93: em ambos os casos, a Turma entendeu tratar-
+se de grupo muito estreito, definido, de um determinado colégio, não vislumbrando
+por isso interesses abrangidos pelo art. 81, CDC. Mas o Pleno do STJ, por maioria,
+decidira a favor da legitimação, em ação visando ao reajuste de 147% do benefício
+previdenciário, no MS nº 0505109-TR5; e assim voltou a julgar o Pleno, aos 3.3.93
+(MS nº 0505341-92-TR5). No mesmo sentido, a decisão unânime da 2ª Turma, em
+25.8.92 (AC nº 0513699-92-RN).
+Em tema de mensalidades escolares, reconhecendo a legitimação do MP, inspirada
+em relevantes motivos sociais: TAPR, Apel. nº 68658-6-Curitiba, Ac. nº 4470 da
+6ª  Câmara,  j.13.11.95;  TJSP,  Apel.  nº  271.930-1/0-Piracicaba,  j.  1.10.96  (no
+mesmo sentido, JTJ 147/210); STJ, 1ª Turma, rel. min. Milton Luiz Pereira, RE nº
+28.715-0-SP, j. 31.8.94 e 5ª Turma, rel. min. Sálvio de Figueiredo Teixeira, RE nº
+95.993 (96/0031524-8-8)-MT, j. 10.12.96. Em matéria de proteção dos adquirentes
+de unidades em conjunto habitacional, aludindo à defesa de direitos disponíveis, de
+interesse social, TJSP, AI nº 261.450-1/1-Leme, j. 23.4.96. Assentando a linha de
+que a legitimação do MP às ações coletivas em defesa de interesses individuais
+homogêneos depende da existência de interesse social, afastada no caso concreto:
+TJSP, Ap.  nº  264.428.2/7-SP,  j.  15.8.95,  e  STJ,
+[/PAGINA 934]
+
+[PAGINA 935]
+RE  nº  65.836-5-MG,  rel.  min.
+Garcia Vieira, j. 14.6.95.
+RE nº 1663231-3-SP, 2ª Turma, j. 26.2.97, v.u. (9 votos a 0), publicado in DOE-SP
+8.3.97, Aviso nº 103/97 PGJ.
+Ver Barbosa Moreira, “A ação popular do direito brasileiro como instrumento de
+tutela  jurisdicional  dos  chamados  interesses  difusos”, in  Temas  de  Direito
+Processual, São Paulo, Saraiva, 1977, p. 118.
+Observe-se que o § 4º do art. 5º da Lei nº 7.347, que dispõe sobre a dispensa, pelo
+juiz, do requisito da pré-constituição das associações, em casos excepcionais, já se
+encontra inserido no texto do Código de Defesa do Consumidor (art. 82, § 1º).
+Transformada na Lei nº 9.494, de 10 de setembro de 1997.
+A  jurisprudência  do  Superior  Tribunal  de  Justiça  tem  se  firmado  no  sentido  de
+competência da justiça estadual em tema de mensalidades escolares cobradas por
+instituto  particular  de  ensino  superior,  em  que  a  universidade  não  age  por
+delegação do Poder Público, cuidando-se de matéria contratual (STJ, Conflitos de
+Competência nº 7.956-0-MG, rel. min. Cláudio dos Santos, j. 13.4.94, e nº 8.438-5-
+
+37
+38
+SP, rel. min. Barros Monteiro, j. 27.4.94). Com relação às ações civis públicas
+sobre questões ligadas ao  Sistema  Financeiro de  Habitação, o  STJ tem posição
+tranquila sobre ser a  Caixa  Econômica  Federal, como sucessora do  BNH, parte
+legítima para figurar no polo passivo, firmando-se a competência da justiça federal
+(STJ, RE n
+os
+ 38.038-3-ES, 38.119-3-RJ, 38.511-3-RJ e 37.994-6-ES; Conflitos de
+Competência nº 5.999-2/DF, rel. min. Demócrito Reinaldo, nº 5.901-1-SP, rel. min.
+Hélio  Mosimann,  e  nº  3.778-4-Pr,  rel.  min. Antônio  de  Pádua  Ribeiro).  Mas  o
+mesmo Tribunal tem assentado que, tratando-se de contrato específico, em que não
+se cuida de normas genéricas, a competência é da justiça estadual (STJ, Conflitos
+de  Competência  nº  8.995-6-MG,  rel.  min.  Demócrito  Reinaldo,  j.  14.6.94,  e  nº
+8.647-9-S, rel. min.  Milton  Luiz  Pereira, j. 7.6.94).  Na questão da diferença de
+correção monetária relativa a planos de governo, o Superior Tribunal de Justiça
+firmou a competência da justiça federal, para a qual se deslocou o conhecimento e
+julgamento de diversas ações civis públicas intentadas pelo IDEC perante a justiça
+estadual.  “Foi  reconhecida  a  competência  da  Justiça  Federal  em  relação  a
+derramamento de óleo na Mata Atlântica, bem da União (Resp nº 1.100.698/PR,
+Primeira Turma, 05.05.09, relator Min. Francisco Falcão). Do mesmo modo, foi
+fixada  a  competência  da  Justiça  Federal  para  demanda  ambiental  objetivando  a
+reparação de danos provocados à comunidade indígena (REsp nº 1.120.117/AC,
+Segunda  Turma,  10.11.09,  relatora  Min.  Eliana  Calmon).  Assim  também  no
+Conflito de  Competência  CC nº 105.196/RJ, em ACP ajuizada pelo  Instituto do
+Patrimônio Histórico e Artístico Nacional, anulando-se decisão do juízo estadual.
+Finalmente, lembra-se que a Súmula Vinculante nº 27, do STF, dispõe: “Compete à
+Justiça  estadua
+[/PAGINA 935]
+
+[PAGINA 936]
+l  julgar  causas  entre  consumidor  e  concessionária  de  serviço
+público de telefonia, quando a ANATEL não seja litisconsorte passiva necessária,
+assistente nem opoente”.
+V., sobre o conceito de competência objetiva, ou competência de jurisdição, como
+critério de distribuição dos processos entre órgãos de tipos diferentes (conforme
+Chiovenda), ou pelas diversas justiças, Cândido Dinamarco, “Apontamentos sobre
+a competência”, in Direito Processual Civil, São Paulo, Bushatsky, 1975, ps. 107 e
+segs.
+Conflito de Competência nº 2.230-RO, j. 26.11.91, rel. Min. Pádua Ribeiro, com
+referências doutrinárias e jurisprudenciais, inclusive ao voto do Min. Carlos Mário
+Velloso  (2ª  Turma  do  ex-TRF,  AI  nº  51.132-RJ,  rel.  Min.  Otto  Rocha,  RTFR
+154/24).
+
+39
+40
+41
+43
+45
+46
+47
+49
+42
+44
+48
+Assim,  expressamente,  manifestou-se  o  STJ,  no  Conflito  de  Competência  nº
+15.885-SC (95.0068696-1, rel. Min. José Delgado, j. 8.5.96), lendo-se da Ementa:
+“3 –  De acordo com a  Lei nº 7.347, de 24.7.85, a ação civil pública deve ser
+ajuizada  no  foro  do  local  onde  ocorreu  o  dano  referido  pelo  art.  2º  do  mesmo
+diploma legal. 4 – Se, no curso da demanda, ficar caracterizado interesse da União
+Federal,  se  se  trata  de  comarca  onde  não  há  vara  da  justiça  federal  instalada,
+competente será o juiz de Direito para a causa, por força do art. 109, § 3º, da CF,
+em c/c o art. 2º da Lei nº 7.347/85, que passa a exercer atividade jurisdicional de
+juiz  federal,  com  recurso  de  seus  atos  para  o  Tribunal  Regional  Federal.  5  –
+Conflito  conhecido  para  se  declarar  competente  o  juízo  estadual,  no  caso,  o  da
+Comarca  de  Xaxim-SC.”  No  entanto,  no  REsp  nº  228.955-RS,  o  STJ  não
+considerou aplicável à LACP o permissivo do art. 109, § 3º, da CF, entendendo
+que o art. 2º da Lei nº 7.347/85 não caracterizaria autorização expressa.
+É o que está expresso na Exposição de Motivos, apresentada pelo então ministro da
+Justiça com o Projeto da LACP.
+É o que afirma, com toda a razão, Hugo Nigro Mazzili, A defesa dos interesses
+difusos em juízo, 4ª ed., São Paulo, Revista dos Tribunais, p. 121.
+V. Dinamarco, op. cit., ps. 110 e segs.
+Sobre conceito de lugar do ato ou fato, como sendo todo aquele onde acontecer pelo
+menos parte dele, circunstância essa da qual decorrem foros concorrentes, v. Celso
+Agrícola Barbi, Comentários ao CPC, cit., ps. 457-8.
+Câmara Especial TJSP, JTJ 142/206 (tópico final do inc. 4º, p. 207).
+Assim, por exemplo, TJSP, AI nº 28.796-0-6-São Paulo; no mesmo sentido o STJ,
+REsp nº 21.8492/ ES, j. 18.2.2002, rel. Peçanha Martins, RT 799/192; Conflito de
+Competência  nº  1999/69326-4,  rel.  Waldemar  Zweiter,  rel.  p/  o  acórdão Asfor
+Rocha,  j.  10.10.2001, DJ  de  5.8.2002,  p.  194.  Ver  também,  no  sentido  da
+inexistência de exclusividade do foro do DF para o julgamento de ACP de âmbito
+nacional, o CC nº 17.533-DF.
+CC nº 28.003/RJ, Conflito de Competência nº 1999/108113-0, rel. Nilson Naves, j.
+24.11.99, LEX
+[/PAGINA 936]
+
+[PAGINA 937]
+STJ, vol. 154, p. 159.
+Arruda Alvim e  Thereza Alvim, Código do Consumidor comentado, 2ª ed., São
+Paulo, Revista dos Tribunais, p. 426.
+Transformada na Lei nº 9.494, de 10 de setembro de 1997.
+Sobre competência absoluta e relativa, v. Cândido Dinamarco, op. cit., ps. 129 e
+
+50
+51
+53
+54
+55
+57
+59
+60
+61
+62
+63
+52
+56
+58
+segs.
+TJSP, AI nº 276.515-1/3-São Vicente, j. 15.4.96, que assentou: “Trata-se, pois, de
+competência absoluta, fundada na natureza da causa, e que se sobrepõe a qualquer
+outro  critério  determinativo,  até  mesmo  em  razão  da  pessoa.”  Ver  também JTJ
+144/149.  No  mesmo  sentido,  STJ,  Conflito  de  Competência  nº  2.230,  rel.  min.
+Pádua Ribeiro, in Rev. STJ 28/40.
+CC nº 28.003/RJ, Conflito de Competência nº 1999/108113-0, rel. Nilson Naves, j.
+24.11.99, LEXSTJ, vol. 154, p. 159.
+Ver supra, nº 27.
+AGA  nº  466.606/DF  –  Agravo  Regimental  no  Agravo  de  Instrumento  nº
+2002/97.429-9, rel. Menezes Direito, j. 25.11.2002, DJ de 10.3.2003, p. 209.
+AGA  nº  407.881/SP  –  Agravo  Regimental  no  Agravo  de  Instrumento  nº
+2001/106.656-0, rel. Menezes Direito, j. 2.4.2002, DJ de 17.6.2002, p. 260.
+REsp nº 47021-1/SP, rel. Sálvio de Figueiredo Teixeira, in RJTST 62/446; REsp nº
+13.531/SC, rel. Eduardo Ribeiro, DJU de 21.9.92, j. 15.6.86. No mesmo sentido,
+JTACSP, LEX 175, p. 8.
+Transformada na Lei nº 9.494, de 10 de setembro de 1997.
+V., supra, comentário nº 1 ao Capítulo II do Título III e comentários n
+os
+ 2 e 3 ao
+Capítulo IV do mesmo Título.
+Federal Rules of Civil Procedure de 1966, Rule 23, c 2.
+V.,  sobre  litisconsórcio  unitário  e  comum,  José  Carlos  Barbosa  Moreira,
+Litisconsórcio  unitário,  Rio  de  Janeiro,  Forense,  1972;  Cândido  Dinamarco,
+Litisconsórcio, São Paulo, Rev. dos Trib., 1986, ps. 41 e segs.
+Assim,  Arruda  Alvim  (“Da  coisa  julgada  no  Código  de  Proteção  e  Defesa  do
+Consumidor”,  inédito,  cit.  por Antonio  Gidi,  Coisa  julgada  e  litispendência  em
+ações coletivas, São Paulo, Saraiva, 1995, p. 56) e Araújo Filho, op. cit, ps. 147 e
+segs.
+A sentença do art. 95 tem sido considerada de natureza declaratória por autores
+como Luiz Paulo da Silva Araújo Filho (Ações coletivas: a tutela jurisdicional dos
+direitos individuais homogêneos, Rio de Janeiro, Forense, 2000, ps. 132-137).
+Já o afirmava Pimenta Bueno, apud Moacyr Amaral Santos, Comentários ao CPC,
+Rio de Janeiro, Forense, vol. IV, 1976, ps. 437-438.
+Segundo interessante observação de Araújo Filho, op. cit., p. 123, a sentença do art.
+
+64
+65
+66
+68
+69
+70
+71
+72
+73
+75
+67
+74
+95 do CDC é “subjetivamente ilíquida”, porquanto não individualizas as pessoas
+que poderão usufruir da condenação.
+REsp nº 285.630/SP, 4ª Turma, j. 16.10.2001, DJ de 4.2.2002, rel. Min. Ruy Rosado
+de Aguiar; REsp nº 647.448/RJ, 4ª Turma, j. 2.8.2005, DJ de 29.8.2005, p. 355,
+rel.  Min.  Jorge  Scartezzini;  REsp  688.536/PA,  1ª  Turma,  j.  2.12.2006, DJ  de
+18.12.2006, rel. Min. Denise Arruda; REsp nº 486.022/SC, 3ª Turma, j. 3.11.2005,
+DJ de 13.2.2006, p. 792, rel
+[/PAGINA 937]
+
+[PAGINA 938]
+. Min. Castro Filho; REsp nº 1.120.117-AC, 2ª Turma,
+j. 10.11.2009, rel. Min. Eliana Calmon.
+Sobre os dissídios coletivos trabalhistas e as ações individuais de cumprimento, v.
+Cintra,  Grinover  &  Dinamarco, Teoria  geral  do  processo,  7ª  ed.,  São  Paulo,
+Revista dos Tribunais, 1990, ps. 238-9.
+Sobre preclusão temporal, como perda de uma faculdade ou poder processual, por
+não  terem  sido  exercidos  dentro  do  prazo,  v.  Cintra,  Grinover  &  Dinamarco,
+Teoria geral, cit., p. 293.
+Resp nº 1.070.896-SC, j. 14.4.2010.
+REsp nº 1.089.206-RS, 1ª Turma, rel. Min. Luiz Fux, v.u., j. 23.6.2009. O voto do
+relator menciona precedentes da mesma Turma.
+STJ, Resp. n. 1120117-Ac, Segunda Turma, j. 10/11/2009, relatora ministra Eliana
+Calmon.
+STJ, Resp. N. 1108542-SC, Segunda Turma, j. 19/05/2009.relator ministro Castro
+Meira,  em  que  se  decidiu,  por  analogia  com  o  disposto  no  art.19  da  Lei  n.
+4.717/64, aplicar-se a regra da remessa necessária à Ação Civil Pública.
+No  mesmo  sentido,  Cândido  Dinamarco,  “As  três  figuras  da  liquidação  da
+sentença”, in  Estudos  de  Direito  Processual  em  memória  de  Luiz  Machado
+Guimarães, coord. José Carlos Barbosa Moreira, Rio de Janeiro, Forense, 1997,
+ps. 101-106.
+Corte Especial do STJ, Embargos de Divergência suscitados pelo Sindicato dos
+Servidores Federais do Rio Grande do Sul, rel. Min. Nancy Andrighi, pacificando
+entendimentos divergentes da Primeira e Sexta Turmas (Coordenadoria de Editoria
+e Imprensa, 1/12/2009).
+Sobre a nova figura de liquidação da sentença no CDC, v. Cândido Dinamarco, “As
+três figuras da liquidação da sentença”, cit., ps. 97-109.
+Ver Cândido Dinamarco, Apontamentos sobre a competência, cit., p. 109.
+Ver, por todos, Humberto Theodoro Jr., Processo de execução, 6ª ed., São Paulo,
+
+76
+78
+79
+80
+81
+77
+82
+Leud, 1981, ps. 189-90.
+Sobre  competência  de  juízo,  v.  Cândido  Dinamarco, Apontamentos  sobre  a
+competência, cit., ps. 107-109.
+Cf. Mauro Cappelletti, Formazioni, cit., ps. 395-6.
+Foi o caso da ação civil pública intentada pelo MP do Estado de São Paulo contra
+indústria alimentícia, pela comercialização de produto com peso real inferior ao
+indicado na embalagem, em que, além da condenação na obrigação de fazer, houve
+pedido e condenação a pagamento de indenização de valor equivalente ao peso
+correspondente  ao  percentual  de  erro  médio  consignado  nos  autos  de  infração,
+destinada ao Fundo (TJSP, Ap. nº 191.866-1/5-Campinas, 5ª Câmara, j. 17.6.93: o
+Acórdão entendeu equivocadamente tratar-se de interesses difusos).
+Assim elaborou o  MP do  Estado de  São  Paulo o pedido, na ação civil pública
+ajuizada perante a 15ª  Vara  Cível da  Capital, pleiteando indenização por danos
+morais e patrimoniais aos consumidores, por redução da produção e retenção de
+estoques  de  medicamentos.  Da  mesma  forma,  agiu  o  MP  no  pedido  formulado
+contra indústria de refrigerantes, pleiteando indenização por acidente de consumo
+decorrente da explosão de garrafas de vidro (P
+[/PAGINA 938]
+
+[PAGINA 939]
+roc. nº 632/94 da 18ª Vara Cível da
+Capital).
+Sobre o conceito de real party in interest, análogo ao de legitimado ordinário do
+nosso  sistema,  v.  a Rule  nº  17  das Federal Rules of Civil Procedure Interessi
+collettivi e processo, cit., ps. 273-274.
+Sobre a defining function e os poderes do juiz nas class actions norte-americanas,
+v. Vincenzo Vigoriti, op. cit., ps. 266 e segs.
+V. Cappelletti, op. et loc. cits.
+
+1.
+Capítulo III
+DAS AÇÕES DE RESPONSABILIDADE DO
+FORNECEDOR DE PRODUTOS E
+SERVIÇOS (Comentários aos arts. 101 e
+102)
+Kazuo Watanabe
+Rápidas considerações sobre o Capítulo III
+O  capítulo  cuida  de  duas  ações  de  tutela  dos  interesses  e  direitos  dos
+consumidores, disciplinando-lhes apenas alguns aspectos que ao legislador pareceram
+relevantes.
+O veto presidencial aos §§ 1º e 2º do art. 102 tornou parcimoniosa a disciplina
+da  ação  mandamental  ali  prevista,  mas  sem  lhe  retirar  sua  elevada  utilidade.  Sua
+efetividade dependerá muito da mentalidade com que for interpretado o dispositivo.
+Art. 101. Na ação de responsabilidade civil do fornecedor de produtos e
+serviços, [1] sem prejuízo do disposto nos Capítulos I e II deste Título,
+serão observadas as seguintes normas:
+I – a ação pode ser proposta no domicílio do autor; [2]
+II  –  o  réu  que  houver  contratado  seguro  de  responsabilidade  poderá
+chamar ao processo [3] o segurador, vedada a integração do contraditório
+pelo Instituto de Resseguros do Brasil. Nesta hipótese, a sentença que
+julgar  procedente  o  pedido  condenará  o  réu  nos  termos  do  art.  80  do
+Código de Processo Civil. Se o réu houver sido declarado falido, o síndico
+será  intimado  a  informar  a  existência  de  seguro  de  responsabilidade
+facultando-se, em caso afirmativo, o ajuizamento de ação de indenização
+diretamente  contra  o  segurador  [4],  vedada  a  denunciação  da  lide  ao
+Instituto de Resseguros do Brasil e dispensado o litisconsórcio obrigatório
+
+com este [5].
+COMENTÁRIOS
+[1] AÇÃO DE RESPONSABILIDADE CIVIL – Até a 7ª edição, sustentamos que
+as  regras  estabelecidas  no  art.  101  dizem  respeito,  apenas,  à  responsabilidade
+extracontratual, não tendo aplicação às ações de responsabilidade contratual.
+Reafirmamos a retificação dessa opinião feita já há várias edições e o fazemos
+em conformidade com a jurisprudência que se vem consolidando a respeito do tema.
+A expressão “responsabilidade civil” tanto pode ser tomada no sentido estrito,
+de  responsabilidade  extracontratual,  como  na  acepção  mais  ampla,  de  dever  de
+indenizar por qualquer ilícito, seja contratual, “se provier da falta de cumprimento de
+obrigações contratuais ou da mora no adimplemento de qualquer relação obrigacional
+resultante de ato negocial”, seja extracontratual, se relativa à “violação de um dever
+genérico de abstenção ou de um dever jurídico geral, como os correspondentes aos
+direitos reais e aos direitos de personalidade”, como ensina Maria Helena Diniz.
+1
+O  nosso  entendimento  anterior  acolh
+[/PAGINA 939]
+
+[PAGINA 940]
+ia  a  acepção  estrita.  Nesse  sentido  é  a
+opinião de Vicente Greco Filho, que assevera que a ação
+“a que se refere o artigo é a que decorre do fato do produto (arts. 12 e 13),
+ou seja, danos causados aos consumidores por defeitos do produto ou do
+serviço, em correspondência com o art. 159 do  Código  Civil, no direito
+comum.  Não  é  ação  que  adviria  dos  arts.  18-20,  porque  ali  a
+responsabilidade  é  contratual  e  não  se  enquadra  no  conceito  jurídico  de
+responsabilidade civil”.
+2
+Estamos  hoje  convencidos  de  que  a  acepção  mais  ampla  do  termo
+“responsabilidade civil” é a que deve prevalecer no caso.
+Com  efeito,  o  CDC,  além  da  regra  em  análise  e  da  do  art.  93,  não  contém
+qualquer outra regra de competência que seja aplicável às ações de responsabilidade
+contratual,  de  sorte  que  a  interpretação  restritiva  deixaria  o  consumidor, nas
+
+controvérsias relativas aos contratos de consumo, com menos facilidade de defesa de
+seus direitos do que em casos de ilícitos extracontratuais, o que contraria o propósito
+repetidamente  manifestado  pelo  legislador,  de  ampla  facilitação  de  defesa  do
+consumidor (cf., entre outros, os arts. 4º, inc. I, e 6º, incs. VII e VIII).
+Demais, o inc. II do art. 101, ao aludir a “seguro de responsabilidade”, não o
+restringe  a  seguros  de  responsabilidade  extracontratual,  sendo  mais  razoável
+entender-se,  para  uma  proteção  mais  ampla  do  consumidor,  que  a  expressão  é
+abrangente também de seguros de responsabilidade contratual.
+A jurisprudência do Superior Tribunal de Justiça vem se firmando, precisamente,
+nesse sentido. No julgamento do Conflito de Competência nº 30.712/SP, relatado pela
+min.  Nancy  Andrighi,  a  Segunda  Seção  do  Superior  Tribunal  de  Justiça,  por
+unanimidade, deixou assentado que
+“é  nula  a  cláusula  de  foro  inserida  em  contrato  de  adesão  quando  gerar
+maior  ônus  para  a  parte  hipossuficiente  defender-se  em  ação  de
+reintegração de posse que envolva relação de consumo, em local distante
+daquele em que reside” (DJ 30.9.2002, p. 00152).
+Posteriormente, a Terceira Turma do mesmo tribunal, no REsp nº 488.274/ MG
+(2002/0174936-6),  relatado  também  pela  min.  Nancy  Andrighi,  adotou  conceito
+amplo de consumidor, abrangente de empresa que se utiliza de serviços prestados por
+outra,  em  benefício  próprio,  sem  transformá-los,  entretanto,  em  prosseguimento  da
+cadeia produtiva, e estando, assim, a relação jurídica sujeita ao CDC, entendeu, com
+a aplicação do art. 101, inc. I, que “deve ser afastada a cláusula que prevê o foro de
+eleição diverso do domicílio do consumidor” (j. 22.5.2003, DJ 23.6.2003 – Superior
+Tribunal de Justiça – Revista Eletrônica de Jurisprudência).
+[2]  COMPETÊNCIA  TERRITORIAL  –  O  foro  do  domicílio  do  autor  é  uma
+regra que beneficia o consumidor, dentro da orientação fixada no inc. VII do art. 6º do
+Código, de facilitar o acesso aos órgãos judiciários.
+Cuida-se, porém, de opção dada a
+[/PAGINA 940]
+
+[PAGINA 941]
+o consumidor, que dela poderá abrir mão para,
+em benefício do réu, eleger a regra geral, que é a do domicílio do demandado (art. 46
+
+do NCPC, correspondente ao art. 94 do CPC/1973).
+A jurisprudência tem sido firme na possibilidade de opção do consumidor pelo
+foro de seu domicílio.
+3
+[3] CHAMAMENTO AO PROCESSO EM VEZ DE DENUNCIAÇÃO DA LIDE
+– O fornecedor demandado poderá convocar ao processo o seu segurador, mas não
+para o exercício da ação incidente de garantia, que constitui a denunciação da lide (cf.
+comentário ao art. 88, supra), e sim para ampliar a legitimação passiva em favor do
+consumidor,  o  que  se  dá  por  meio  do  instituto  do  chamamento  ao  processo,
+disciplinado no Código de Processo Civil nos arts. 130 a 132 (correspondentes aos
+arts. 77 a 80 do CPC/1973. O art. 79 do CPC/1973 não possui correspondente no
+NCPC).
+Com  a  norma  do  art.  101  do  Código,  o  elenco  do  art.  130  do  NCPC
+(correspondente ao art. 77 do CPC/1973) fica ampliado para nele ficar abrangido o
+segurador do fornecedor de produtos e serviços, que passa a assumir a condição de
+codevedor perante o consumidor.
+O dispositivo traz expressa alusão ao art. 80, CPC/1973 (correspondente ao art.
+132 do NCPC), que prevê a condenação de todos os codevedores, reconhecendo “em
+favor do que satisfizer a dívida” o benefício do título executivo para exigir a dívida,
+se for o caso, “por inteiro, do devedor principal, ou de cada um dos codevedores a
+sua  cota,  na  proporção  que  lhes  tocar”.  Certamente,  na  relação  entre  segurador  e
+segurado, pela natureza do contrato, que confere ao segundo o benefício da cobertura
+securitária em troca do pagamento ao primeiro do prêmio correspondente, a título de
+contraprestação, não haverá lugar para essa cobrança regressiva do segurador contra
+o segurado.
+O  chamamento  ao  processo,  portanto,  amplia  a  garantia  do  consumidor  e  ao
+mesmo tempo possibilita ao fornecedor convocar desde logo, sem a necessidade de
+ação  regressiva  autônoma,  o  segurador  para  responder  pela  cobertura  securitária
+prometida.
+[4]    ACIONABILIDADE    DIRETA    DO    SEGURADOR    PELOS
+
+CONSUMIDORES  E  PELAS  VÍTIMAS  DE  DANOS  –  Sendo  declarado  falido  o
+fornecedor,  o  síndico  deverá  informar  da  existência  ou  não  do  seguro  de
+responsabilidade.  Em  caso  afirmativo,  os  consumidores  e  as  vítimas  de  danos
+poderão  ajuizar  ação  de  indenização  diretamente  contra  o  segurador.  A
+responsabilidade deste, evidentemente, ficará contida nos limites do valor do seguro
+contratado.
+[5]  VEDAÇÃO  DE  DENUNCIAÇÃO  DA  LIDE  AO  INSTITUTO  DE
+RESSEGUROS  DO  BRASIL  – A  vedação  de  denunciação  da  lide  ao  Instituto  de
+Resseguros do Brasil e a dispensa de sua convocação para a ação, na condição de
+litisconsorte necessário, atendem ao objetivo de possibilitar aos consumidores e às
+vítimas  de  danos  uma  solução  da  lide  mais  rápida  e  sem  os  complicadores  que,
+necessariamente,  a  intromissão  na  causa  pelo  In
+[/PAGINA 941]
+
+[PAGINA 942]
+stituto  de  Resseguros  do  Brasil
+determinará, conforme a experiência ordinária indica.
+O  segurador  poderá  agir  regressivamente  contra  o  Instituto  de  Resseguros  do
+Brasil, se for o caso, para dele haver a parte que lhe toca. Trata-se de uma relação
+entre o Instituto e o segurador, que nada tem com a relação jurídica existente, por
+disposição de lei, diretamente entre o segurador e os consumidores e as vítimas de
+danos.
+Art. 102. Os legitimados a agir na forma deste Código poderão propor ação
+visando  compelir  [1]  o  Poder  Público  competente  a  proibir,  em  todo  o
+território  nacional,  a  produção,  divulgação,  distribuição  ou  venda,  ou  a
+determinar  a  alteração  na  composição,  estrutura,  fórmula  ou
+acondicionamento  de  produto,  cujo  uso  ou  consumo  regular  se  revele
+nocivo ou perigoso à saúde pública e à incolumidade pessoal.
+§  1º  Vetado  –  Os  fornecedores  poderão  ingressar  no  feito  como
+assistentes. [2]
+§ 2º Vetado – O retardamento pela autoridade competente, por mais de
+sessenta dias, do cumprimento de decisão judicial em ação de que trata
+este artigo, configura crime de responsabilidade nos termos da lei. [3]
+
+COMENTÁRIOS
+[1] AÇÃO PREVENTIVA DE NATUREZA MANDAMENTAL – O dispositivo
+disciplina uma ação preventiva de natureza mandamental (cf. comentários aos arts. 83
+e  84, supra, e também considerações desenvolvidas no item nº 5 das “Disposições
+Gerais” e respectiva nota de rodapé nº 6), e não propriamente uma ação repressiva,
+como dá a entender o título do capítulo.
+Destina-se a ação a compelir o Poder Público competente “a proibir, em todo o
+território nacional, a produção, divulgação, distribuição ou venda, ou a determinar
+alteração  na  composição,  estrutura,  fórmula  ou  acondicionamento  de  produto”,
+procurando-se por essa forma impedir que haja uso ou consumo de algum produto que
+seja nocivo ou perigoso à saúde pública e à incolumidade pessoal dos consumidores.
+O provimento final, se procedente a ação, deverá consistir numa ordem ou num
+mandamento, dirigido à autoridade responsável pelo Poder Público competente, para
+adotar as providências preventivas mencionadas. O magistrado deverá fixar um prazo
+razoável, segundo a peculiaridade de cada caso, para o exato cumprimento da ordem
+pela autoridade competente. Seu descumprimento fará, antes de mais nada, configurar
+o crime de desobediência, previsto no art. 330 do Código Penal.
+Sendo  a  ação  movida  contra  a  administração  centralizada  (União,  Estados,
+Distrito Federal e Municípios), a autoridade competente será, em linha de princípio, o
+chefe  do  Poder  Executivo  correspondente.  Nada  impedirá,  porém,  que  um  auxiliar
+imediato, por exemplo, um ministro de  Estado diretamente responsável pelo setor,
+seja indicado na peça inaugural da ação como um dos destinatários da ordem a ser
+expedida  ao  final  (não  na  condição  de  réu,  que  será  sempre  o  Poder  Público
+competente, e sim como executor direto da determinação judicial), se
+[/PAGINA 942]
+
+[PAGINA 943]
+ndo para isso
+devidamente cientificado da ação. Fosse ação de mandado de segurança, poderia ser
+movida, como é cediço, diretamente contra a autoridade responsável pelo ato ilegal
+ou  abusivo.  Cuida-se,  porém,  de  ação  ordinária,  de  sorte  que  deverá  ser  movida
+contra o ente público dotado de personalidade jurídica. Nada obsta, porém, dada a
+peculiaridade da pretensão formulada e da espécie de provimento jurisdicional a ser
+
+concedido, que é de natureza mandamental, como ficou acentuado, a que não somente
+o  chefe  do  Executivo  fique  sujeito  à  ação,  na  condição  de  representante  legal  do
+Poder  Público competente, como também seu auxiliar imediato e mais diretamente
+responsável  pelos  atos  de  prevenção,  mencionados  no  dispositivo  em  análise,  de
+sorte a permitir ao juiz que, quando da execução da sentença, expeça também ordem
+dirigida a essa autoridade e não apenas ao chefe do Executivo. Semelhante solução
+tornará mais eficaz a ação e fará com que a autoridade diretamente responsável pelo
+setor procure agir com mais senso de responsabilidade. Considerada a natureza da
+ação, que é mandamental, não constitui qualquer heresia jurídica a solução alvitrada.
+[2] § 1º VETADO – A razão do veto é de natureza técnico-processual. Entendeu
+o presidente da República que o caso é de litisconsórcio, e não de assistência.
+Tudo  depende  da  peculiaridade  do  caso.  Se  um  produto  pertencer  a  um
+determinado fornecedor, a ação deverá ser movida diretamente contra ele, pelo dever
+que lhe incumbe de não colocar no mercado produto nocivo ou perigoso à saúde ou
+segurança (art. 10, Código), e não contra o Poder Público ou apenas contra este. Seria
+caso,  portanto,  de  legitimação ad causam  passiva  ou  de  litisconsórcio  necessário,
+conforme a hipótese.
+A assistência que o § 1º vetado permitia era por parte de fornecedor que, por
+alguma  razão  jurídica  ensejadora  da  intervenção  assistencial  (arts.  119  a  124  do
+NCPC  correspondem  aos  arts.  50  a  55  do  CPC/1973),  tivesse  interesse  em
+acompanhar  um  processo  em  que,  de  modo  mais  genérico,  não  referido
+especificamente a produto de determinado fornecedor, se discuta “a necessidade de
+proibição  de  produção,  divulgação,  distribuição  ou  venda”  ou  “a  alteração  na
+composição, estrutura, fórmula ou acondicionamento de produto”.
+Apesar  do  veto,  a  assistência  será  sempre  admitida,  desde  que  os  requisitos
+legais estejam presentes (arts. 119 a 124 do NCPC correspondem aos arts. 50 a 55 do
+CPC/1973).
+[3] § 2º VETADO – A fundamentação do veto é de todo incompreensível. Diz,
+com efeito: “A norma seria admissível se o dispositivo se referisse ao cumprimento
+
+1
+2
+3
+de decisão judicial final, transitada em julgado.”
+Em nenhum momento ficou dito no texto vetado que o crime de responsabilidade
+se configuraria ao descumprimento da ordem judicial antes de seu trânsito em julgado.
+O que ficou dito é que o ato constituiria crime de responsabilidade “nos termos da
+[/PAGINA 943]
+
+[PAGINA 944]
+lei”.
+O veto, aliás, é inócuo, pois a Lei nº 1.079, de 10 de abril de 1950, define como
+crimes  de  responsabilidade  os  atos  do  presidente  da  República,  dos  ministros  de
+Estado,  dos  governadores  e  secretários  dos  Estados  que  atentem  contra  “o
+cumprimento das decisões judiciárias”.
+A natureza da ação em análise, como ficou observado, é mandamental; portanto,
+haverá expedição de ordem para a prática dos atos especificados no caput do artigo,
+de  sorte  que  a  inobservância,  no  prazo  que  o  magistrado  vier  a  estabelecer,  não
+somente representará um ato de desobediência, tipificado como crime no art. 330 do
+Código Penal, como também configurará um crime de responsabilidade nos termos da
+Lei nº 1.079/50 (arts. 2º, 3º, 4º, 12, 13 e 74).
+Nenhum alcance prático, portanto, teve o veto presidencial. Apenas eliminou um
+dispositivo que, através da explicitação, tinha objetivo pedagógico.
+Curso de direito civil brasileiro, 20ª ed., Saraiva, 3º vol., p. 797.
+Comentários ao Código de proteção do consumidor, Saraiva, 1991, p. 353.
+RJTJ 65/451; JTJ-LEX 149/136; JTACSP, LEX 190/233; JTCASP, LEX 175/9.
+
+1.
+Capítulo IV
+DA COISA JULGADA (Comentários aos
+arts. 103 e 104)
+Ada Pellegrini Grinover
+A coisa julgada nas ações coletivas
+O regime da coisa julgada oferece peculiaridades nas ações coletivas. E isso
+porque, de um lado, a própria configuração das ações ideológicas – em que o bem a
+ser tutelado pertence a uma coletividade de pessoas – exige, pelo menos até certo
+ponto, a extensão da coisa julgada ultra partes;
+1
+ mas, de outro lado, a limitação da
+coisa julgada às partes é princípio inerente ao contraditório e à defesa, na medida em
+que  o  terceiro,  juridicamente  prejudicado,  deve  poder  opor-se  à  sentença
+desfavorável  proferida inter  alios,  exatamente  porque  não  participou  da  relação
+jurídico-processual.
+2
+Mas aqui é preciso distinguir.
+Em primeiro lugar, diversas são as peculiaridades da coisa julgada em relação
+aos  interesses  coletivos  e  aos  difusos  (ver  comentário  ao  art.  81,  I  e  II).  Nos
+primeiros, a autoridade da sentença pode ficar restrita aos componentes do grupo,
+perfeitamente  identificáveis;  e  o  portador  dos  interesses,  legitimado  à  ação,  age
+naturalmente dentro de limites mais circunscritos. É mais fácil, então, utilizar certas
+técnicas tradicionais, pelas quais os cotitulares são processualmente substituídos ou
+representados
+3
+ pela pessoa ou ente legitimado: é o que ocorre, até tradicionalmente,
+na declaração de nulidade das assembleias societárias, ou para a responsabilização
+dos  diretores  pelos  atos  nocivos  ao  patrimônio  social;  no  condomínio,  para  que
+qualquer condômino aja contra outro, em mora nas contribuições; na família, para a
+tutela  dos  interesses  comuns  (interdição,  anulação  do  casamento).  Situações
+semelhantes ocorrem quando o sindicato é legitimado à ação coletiva trabalhista ou,
+
+2.
+para  certas  associações  profissionais,  quanto  à  legitimação  par
+[/PAGINA 944]
+
+[PAGINA 945]
+a  a  defesa  dos
+interesses dos associados. Quando, porém, se trata de interesses difusos, a dimensão
+do problema se torna mais vasta, na medida em que a impossibilidade prática de se
+determinarem os titulares dos interesses torna mais ampla a extensão da coisa julgada,
+operando efetivamente erga omnes.
+Maiores cautelas ainda devem ser tomadas quanto às ações que deem tratamento
+coletivo a direitos individuais homogêneos. Aqui, o julgado negativo, que se opusesse
+a  quem  não  foi  parte  na  causa,  poderia  ferir  mais  fundo  as  situações  jurídicas
+substanciais tuteladas pelo Direito.
+Eram essas as dificuldades com que se deparava o legislador brasileiro, quando,
+em boa hora, entendeu enfrentar a questão da coisa julgada nas ações coletivas.
+A extensão subjetiva da coisa julgada e a fórmula da
+representatividade adequada
+É certo que a extensão da coisa julgada a quem não foi pessoalmente parte no
+processo, mas nele foi, na fórmula norte-americana,
+4
+ adequadamente representado
+pelo  portador  em  juízo  dos  interesses  metaindividuais  ou  dos  direitos  subjetivos
+coletivamente tratados, não seria, em última análise, uma verdadeira ampliação ultra
+partes.  Já  se  observou  que  é  justamente  na  ótica  da adequada representação  do
+conjunto  de  interessados  que  se  podem  resolver  os  problemas  constitucionais  da
+informação  e  do  contraditório  e  de  seus  reflexos  nos  limites  subjetivos  da  coisa
+julgada,   porquanto   os adequadamente  representados  não  são  propriamente
+terceiros.
+5
+Com efeito, a cláusula norte-americana tem fundamento constitucional e pretende
+exatamente conciliar as garantias do devido processo legal com técnicas peculiares às
+ações  coletivas.  A  parte  ideológica  leva  a  juízo  o  interesse  metaindividual,
+representando concretamente a classe, que terá exercido seus direitos processuais por
+meio  das  garantias  da  defesa  e  do  contraditório  asseguradas  ao  representante.  O
+mecanismo baseia-se na concepção de que o esquema representativo é apto a garantir
+aos membros da categoria a melhor defesa judicial, a ponto de afirmar-se que, nesse
+
+3.
+caso, o julgado não atuaria propriamente ultra partes, nem significaria real exceção
+ao  princípio  da  limitação  subjetiva  do  julgado,  mas  configuraria  antes  um  novo
+conceito de representação substancial e processual, aderente às novas exigências da
+sociedade.
+6
+O  que  vale  frisar  é  que,  assim  como  repugna  às  garantias  constitucionais  a
+sujeição, ex  post,  ao  julgado  de  terceiros  que  permaneceram  estranhos  ao
+contraditório, se coaduna com elas a ideia de representação adequada dos interesses
+da categoria por parte de pessoas e sobretudo de entes exponenciais. Não só porque
+se  reconhece  que  o  esquema  representativo  é  o  mais  idôneo  para  assegurar  aos
+interessados  a  melhor  defesa  judiciária;
+7
+  mas  sobretudo  porque  a  orientação
+dominante é francamente no sentido da compatibilidade entre o devido processo l
+[/PAGINA 945]
+
+[PAGINA 946]
+egal
+e  as  técnicas  dos  limites  subjetivos  da  coisa  julgada  nas  ações  coletivas.
+8
+Reconhecida a complementaridade entre os interesses individual e social,
+9
+ também se
+indica a coincidência e solidariedade entre o processo constitucional e as modernas
+exigências  de  efetiva  tutela  jurisdicional  dos  direitos  e  interesses  emergentes  na
+sociedade de massa.
+10
+Todavia, não se pode desconhecer que parte da doutrina ainda alimenta dúvidas
+quanto à superação, pela fórmula da representatividade adequada, do problema dos
+limites  subjetivos  do  julgado,  considerando  artificial  a  ideia  de  os  estranhos  ao
+processo  se  considerarem,  na  prática,  “adequadamente  representados”,  assim
+sujeitando-se a uma coisa julgada desfavorável, quando não tiveram a oportunidade
+de  se  manifestar  sobre  a  “adequação”.  A  explicação  pela  “representatividade
+adequada” configuraria, nesse enfoque, uma verdadeira ficção.
+A representatividade adequada no sistema brasileiro
+Diante  do  que  foi  dito,  e  apesar  da  crítica  por  último  formulada,  é  possível
+afirmar que o legislador poderia ter legitimamente determinado a extensão subjetiva
+do julgado, ultra partes ou erga omnes, sem qualquer exceção, desde que se tratasse
+de ações coletivas em que a adequação da representatividade fosse criteriosamente
+aferida.  Lembre-se,  a  esse  propósito,  de  que  na common  law  a  existência  da
+
+4.
+adequacy of representation é analisada caso a caso pelo juiz, para verificação da
+fair  notice  do  processo  e  do  desenvolvimento  da  defesa  da  categoria  com  os
+necessários cuidados; além disso, o sistema norte-americano possibilita a exclusão do
+processo de quem não deseje submeter-se à coisa julgada.
+11
+Nas edições anteriores desta obra sustentamos que o sistema brasileiro não havia
+escolhido  o  caminho  da  “representatividade  adequada”,  satisfazendo-se  com  o
+critério legal da legitimação. Contudo, voltando ao estudo do tema, quer--nos parecer
+que a aferição, pelo juiz brasileiro, não é proibida, mas antes é recomendada pelo
+sistema, de lege lata (v. comentário nº 7a ao art. 82).
+Será que o reconhecimento da possibilidade de aferição da representatividade
+adequada, pelo juiz brasileiro, nos animaria a sugerir, de lege ferenda, um regime de
+coisa  julgada erga omnes, mesmo nos casos de improcedência da ação coletiva em
+defesa de interesses individuais homogêneos?
+Não. Ainda é preferível o regime da coisa julgada secundum eventum litis, só
+para  favorecer,  mas  não  para  prejudicar,  as  pretensões  individuais:  de  contrário,
+teríamos  de  cair  no  regime  do opt  out  do  sistema  das class  actions,  que  tem
+oferecido,  em  sua  aplicação,  inúmeros  problemas  práticos.  É  o  que  se  vê  logo  a
+seguir.
+A opção do Código
+Além dessa razão, outras circunstâncias desaconselhavam a transposição pura e
+simples,  à  realidade  brasileira,  do  esquema  norte-americano  da  coisa  julgada  nas
+class  actions:  a  deficiência  de  in
+[/PAGINA 946]
+
+[PAGINA 947]
+formação  completa  e  correta,  a  ausência  de
+conscientização de enorme parcela da sociedade, o desconhecimento dos canais de
+acesso  à  justiça,  a  distância  existente  entre  o  povo  e  o  Poder  Judiciário,  tudo  a
+constituir  gravíssimos  entraves  para  a  intervenção  de  terceiros,  individualmente
+interessados, nos processos coletivos, e mais ainda para seu comparecimento a juízo
+visando à exclusão da futura coisa julgada.
+Por outro lado, já se integrou à tradição jurídica brasileira, desde a Lei de Ação
+Popular (Lei nº 4.717, de 26 de junho de 1965) – passandose pela Lei nº 7.347, de 24
+
+5.
+de julho de 1985 (Lei de Ação Civil Pública) –, um regime da coisa julgada que até
+certo ponto pode ser qualificado como atuando secundum eventum litis, pelo menos
+nos casos de insuficiência de provas.
+12
+Tudo  aconselhava  o  legislador  a  dar  mais  um  passo  no  mesmo  caminho,
+consagrando corajosamente a extensão subjetiva do julgado secundum eventum litis.
+Foi o que fez.
+A coisa julgada secundum eventum litis
+A reestruturação dos esquemas processuais, indispensável à tutela jurisdicional
+dos interesses metaindividuais, passa pela revisão das posições clássicas contrárias à
+coisa  julgada secundum eventum litis: aliás, já Allorio observava que o princípio
+não merecia as críticas que lhe eram movidas, embora reconhecesse que as exceções
+à proibição deviam resultar de lei;
+13
+ mais recentemente, G. Pugliese preconizou que a
+extensão do julgado secundum eventum fosse tomada em séria consideração.
+14
+ É esta
+também a posição de Carpi.
+15
+Não se desconhecem os argumentos que ainda se levantam contra a coisa julgada
+secundum eventum litis, quando a extensão subjetiva do julgado só for utilizada para
+os  casos  de  acolhimento  da  demanda.  Vigoriti  e  Luiso  observaram  que  a  não
+oponibilidade  do  julgado  negativo  frustraria  a  necessidade  de  uniformização  das
+decisões  nas  ações  coletivas,  além  de  impor  um  desequilíbrio  às  partes  e  um
+excessivo ônus ao réu, obrigado a repetir sua defesa, sem poder opor a eficácia de um
+julgado a ele favorável.
+16
+ Barbosa Moreira apontou a falha denunciada por Schwab,
+podendo  levar  a  coisas  julgadas  contraditórias  (a primeira,  negativa  para  um
+colegitimado; a segunda, se procedente a ação, com eficácia erga omnes, abrangendo
+também o primeiro, que perdeu a demanda).
+17
+Mas é possível responder a essas críticas.
+Em primeiro lugar, note-se que o contraditório não é sacrificado pela técnica do
+julgado secundum eventum, uma vez que o demandado na ação coletiva integrou a
+relação  processual,  sendo  até  de  se  supor  que  pela  magnitude  da  lide  tenha
+concentrado todos os seus esforços no exercício da defesa; pelo contrário, na técnica
+
+da pura e simples extensão subjetiva dos efeitos da coisa julgada, o mesmo não se
+pode  dizer  em  relação  aos  que  em  juízo  tenham  porventura  sido  inadequadamente
+representados.  Por  outro  lado,  parece  claro  que  demandas  sucessivas
+[/PAGINA 947]
+
+[PAGINA 948]
+,  a  título
+individual,  só  teriam  alguma chance  de  êxito  em  casos  excepcionais,  que  são
+justamente  aqueles  que  levam  a  propugnar  a  adoção  da  coisa  julgada secundum
+eventum litis.
+Quanto  ao  desequilíbrio  entre  as  partes,  que  se  caracterizaria  em  termos  de
+chances diversas, note-se que o prejuízo é mais teórico do que prático, uma vez que o
+réu  da  ação  coletiva  entra  no  processo  sabendo  que,  se  ganhar,  só  ganhará  com
+relação ao autor coletivo mas, se perder, perderá com relação a todos. Mas o que
+importa  realçar  é  que,  na  técnica  do  Código  do  Consumidor,  a  sentença  da  ação
+coletiva, que beneficiará as pretensões individuais, só reconhece o dever genérico de
+indenizar, dependendo ainda cada litigante de um processo de liquidação, e portanto
+de conhecimento, em que haverá ampla cognição e completa defesa do réu não só
+sobre  o quantum  debeatur,  mas  também  quanto  à  própria  existência  do  dano
+individual e do nexo etiológico com o prejuízo globalmente causado (an debeatur).
+(Ver,  sobre  a  liquidação  da  sentença  coletiva  para  as  reparações  individuais,
+comentário nº 1 ao art. 97.)
+Na verdade, era preciso fazer uma opção entre duas alternativas possíveis: de
+um lado, a coisa julgada erga omnes, estendendo sua eficácia, independentemente do
+resultado  do  processo,  a  quem  não  integrou  a  relação  processual  e  só  foi
+artificialmente “representado” pelo portador em juízo dos interesses coletivos.  Do
+outro, um certo desequilíbrio das partes, apenas em termos de chances, temperado ao
+máximo pelo fato de que, em cada liquidação para a apuração dos danos pessoais, o
+contraditório  se  restabelece  por  inteiro,  discutindo-se  amplamente  a  pretensão
+indenizatória de cada um.
+Não se podia olvidar, na escolha, das advertências feitas quanto aos riscos da
+legitimação  concorrente  e  disjuntiva,  dentre  os  quais  o  da  colusão  entre  um  dos
+colegitimados  e  o  réu,  no  intuito  mesmo  de  formar  uma  coisa  julgada  negativa,
+oponível a todos.
+18
+
+Além  disso,  para  uma  escolha  correta,  era  preciso  colocar  em  confronto  os
+prejuízos, mais ou menos graves, decorrentes das duas alternativas: aqui não é difícil
+verificar  que,  pela  primeira,  os  danos  advindos  aos  particulares  seriam  reais  e
+efetivos,  enquanto,  na  segunda,  o  eventual  desequilíbrio,  decorrente  de  uma  mera
+diferença  de probabilidades,  não  teria  efeitos  concretos,  por  serem  os  indivíduos
+beneficiados  apenas  pelo  reconhecimento  do  dever  de  indenizar,  tendo  ainda  que
+provar,  em  contraditório  com  o  réu,  a  existência  do  dano  pessoal,  além  de  seu
+montante. Ademais,  em  termos  de  valores  constitucionais,  na  primeira  hipótese,  a
+coisa julgada ultra partes prejudicaria irremediavelmente o contraditório, enquanto a
+segunda poderia ser facilmente reconduzida às técnicas que, com frequência, induzem
+o  legislador  a  tomar  medidas  que  aparentemente  ben
+[/PAGINA 948]
+
+[PAGINA 949]
+eficiam  uma  das  partes,  em
+homenagem  mesmo  ao  princípio  da  igualdade  real,  pelo  que  na  verdade  mais  se
+restabelece, do que se infringe, a paridade.
+Passando à segunda crítica, relativa ao risco de coisas julgadas contraditórias,
+deve-se dizer que a solução do Código evita os inconvenientes apontados, porquanto,
+em caso de derrota do autor coletivo, reserva a via às demandas posteriores somente
+a pessoas físicas, em caráter individual. A demanda não poderá ser repetida a título
+coletivo,  e  a  coisa  julgada  que  se  formar  nas  ações  individuais  terá  seus  efeitos
+normalmente restritos às partes. Ademais, no eventual conflito de coisas julgadas que
+se  formar  entre  a  decisão  favorável  da  demanda  coletiva  e  a  desfavorável,  no
+processo individual, o art. 104 resolve expressamente o problema, pela exclusão do
+demandante  individual,  que  não  requereu  a  suspensão  de  seu  processo,  da  coisa
+julgada coletiva (v. infra, comentários n
+os
+ 4, 5 e 6 ao art. 104).
+Assim, no juízo de valor que antecedeu à escolha do legislador, verificava-se
+que a extensão da coisa julgada a terceiros, que não foram pessoalmente parte do
+contraditório,  ofereceria  riscos  demasiados,  calando  fundo  nas  relações
+intersubjetivas, quando se tratasse de prejudicar direitos individuais; além disso, o
+esquema brasileiro da legitimação poderia suscitar problemas de constitucionalidade,
+na indiscriminada extensão subjetiva do julgado, por infringência ao contraditório.
+Foi por isso que o Código de Defesa do Consumidor agasalhou o regime da extensão
+
+5.1.
+da coisa julgada a terceiros, que não foram parte do processo, apenas para beneficiá-
+los.  É  a  coisa  julgada, ultra partes  ou erga omnes,  em  caso  de  procedência  da
+demanda, mantida a faculdade de os interessados, a título individual, ajuizarem sua
+ação pessoal, em caso de sentença desfavorável ao autor coletivo. Tudo, ainda, com o
+temperamento da inexistência de coisa julgada, na hipótese de rejeição da demanda
+coletiva, por insuficiência de provas.
+A  solução  da  lei  leva  em  conta  todas  as  circunstâncias  apontadas,  visando  a
+harmonizar a índole da coisa julgada nas ações coletivas e sua necessária extensão a
+terceiros  com  as  garantias  do  devido  processo  legal,  do  contraditório  e  da  ampla
+defesa  (art.  5º,  incs.  LIV  e  LV  da  CF),  as  quais  obstam  a  que  o  julgado  possa
+desfavorecer  aquele  que  não  participou  da  relação  jurídico-processual,  sem  o
+correlato, efetivo controle sobre a representatividade adequada e sem a segurança da
+efetiva  possibilidade  de  utilização  de  técnicas  de  intervenção  no  processo  e  de
+exclusão da coisa julgada.
+Ėfeitos da sentença coletiva nos juízos individuais: a ampliação
+do objeto do processo
+Quando  o  Código  determina  a  extensão  subjetiva  do  julgado  para  beneficiar
+terceiros,  transportando  às  ações  individuais  a  sentença  coletiva  favorável,  outra
+inovação ocorre: a ampliação, ope l
+[/PAGINA 949]
+
+[PAGINA 950]
+egis, do objeto do processo, para incluir na coisa
+julgada a decisão sobre o dever de indenizar.
+Trata-se de fenômeno conhecido, mas até agora restrito, no nosso ordenamento,
+aos  efeitos  civis  da  sentença  penal  condenatória:  nos  termos  do  art.  91,  I,  CP,  a
+condenação penal torna certa a obrigação de indenizar o dano causado pelo crime,
+passando-se desde logo à liquidação e execução da sentença no juízo civil (arts. 63,
+CPP, e 515 do NCPC, correspondente ao art. 475-N, II, do CPC/1973). Exatamente o
+mesmo  fenômeno  ocorre  agora,  por  força  do  Código  de  Defesa  do  Consumidor,
+quanto à sentença favorável coletiva, a ser imediatamente liquidada e executada com
+relação aos danos sofridos pelas pessoas individualmente lesadas.
+Analisando  a  questão  no  âmbito  das  relações  interjurisdicionais,  Liebman
+
+5.2.
+entendeu  que  as  normas  italianas,  correspondentes  às  brasileiras,  regulariam  uma
+verdadeira  autoridade  do  julgado  penal  no  processo  civil.
+19
+  E  disse  mais,  que  a
+eficácia da sentença penal, nesse caso, seria vinculante para o juiz civil, com relação
+a  algumas questões de fato e de direito, comuns  ao  processo  penal  e  ao  conexo
+processo civil de reparação.
+20
+ Nesse enfoque, criticava o mestre um sistema, em que a
+autoridade  do  julgado  penal,  transportada  ao  processo  civil,  não  respeitaria  ao
+pronunciamento sobre o objeto do processo, mas sim a algumas das premissas lógicas
+do  mesmo  pronunciamento,  operando  para  a  composição  de  uma  lide  diversa  e
+deixando  indiscutíveis  algumas  questões  que  constituem  o  antecedente  lógico  da
+sentença penal.
+21
+Machado  Guimarães,  porém,  procedeu  a  outra  construção,  que  não  afasta  o
+princípio  tradicional  da  inaptidão  das  questões  de  fato  para  se  revestirem  da
+autoridade da coisa julgada: o art. 1.525 do CC de 1916
+22
+ (correspondente ao art. 935
+do CC de 2002
+23
+) consagraria um tipo de eficácia preclusiva não identificável com a
+coisa  julgada.
+24
+  Já  José  Carlos  Barbosa  Moreira,  apoiado  em  José  Frederico
+Marques, arrolou a exequibilidade civil da sentença penal entre os chamados efeitos
+secundários desta sentença.
+25
+ E, finalmente, numa outra visão, pode-se afirmar que a
+lei opera a ampliação do objeto do processo (penal), para nele incluir o julgamento
+implícito sobre o dever de indenizar, tornando-se a questão indiscutível em outros
+processos.
+Seja como for, e qualquer que seja a explicação científica que se lhe dê (eficácia
+preclusiva,  efeito  secundário  da  sentença,  ou  ampliação  do  objeto  do  processo
+coletivo, para que o julgado inclua o pronunciamento sobre o dever de indenizar, ope
+legis),  trata-se  de  fenômeno  bem  conhecido,  agora  incorporado  ao  Código  do
+Consumidor,  mercê  do  transporte, in utilibus, do julgado da ação coletiva para as
+ações individuais de responsabilidade civil.
+Litispendência, continência e coisa julgada
+O capítulo ainda inclui norma sobre a litispendência,
+[/PAGINA 950]
+

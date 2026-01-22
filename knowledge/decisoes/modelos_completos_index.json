@@ -1,0 +1,1813 @@
+{
+  "meta": {
+    "versao": "2.0.0",
+    "descricao": "Índice completo de modelos de decisão com conteúdo extraído",
+    "dataGeracao": "2026-01-22T02:13:49.848Z",
+    "totalModelos": 79,
+    "estatisticas": {
+      "total": 81,
+      "sucesso": 79,
+      "falha": 2,
+      "por_agrupador": {
+        "vrep": 2,
+        "multa": 4,
+        "retificacao": 14,
+        "remicao": 21,
+        "indulto": 12,
+        "outros": 14,
+        "progressao": 1,
+        "reconsideracao": 2,
+        "prisao_domiciliar": 3,
+        "unificacao": 6
+      },
+      "por_pasta": {
+        "decisoesvrep": {
+          "total": 15,
+          "sucesso": 15
+        },
+        "remicao": {
+          "total": 21,
+          "sucesso": 21
+        },
+        "retificacao": {
+          "total": 5,
+          "sucesso": 5
+        },
+        "indulto": {
+          "total": 12,
+          "sucesso": 12
+        },
+        "old": {
+          "total": 28,
+          "sucesso": 26
+        }
+      },
+      "com_fillin": 14
+    }
+  },
+  "modelos": [
+    {
+      "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+      "nome": "Comutação Da Pena E Crime Violento Impedimento",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 1387,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.txt",
+      "conteudo_preview": "DIREITO PENAL. DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECRETO PRESIDENCIAL N. 11.846/2023. COMUTAÇÃO DE PENAS. CRIMES COMETIDOS COM VIOLÊNCIA OU GRAVE AMEAÇA. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.  1. O habeas corpus foi impetrado em substituição a recurso próprio, prática não admitida por esta Corte, conforme entendimento consolidado pela Terceira Seção do STJ no julgamento do HC n. 535.063/SP (Rel. Ministro Sebastião Reis Júnior, DJe de 25.8.2020).  2. Não se ver...",
+      "data_extracao": "2026-01-22T02:13:49.323Z"
+    },
+    {
+      "arquivo": "INDULTO 1989 - INDEFERE.docx",
+      "nome": "Indulto 1989 Indefere",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 4745,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO 1989 - INDEFERE.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 48 (quarenta e oito) anos e 03 (três) meses de reclusão que foi imposta a Manoel Luciano da Silva.  A Defensoria Pública pediu o indulto das penas com base no Decreto Presidencial nº 98.389/1989, dizendo que o apenado atendia aos requisitos para obtenção do benefício (ev. 224.1).  Com vista dos autos, o Ministério Público pugnou pelo indeferimento (ev. 227.1).  Anoto aqui que o penitente está custodiado na PEA - Penitenciária Es...",
+      "data_extracao": "2026-01-22T02:13:49.348Z"
+    },
+    {
+      "arquivo": "INDULTO 2022 - CONCEDENDO.docx",
+      "nome": "Indulto 2022 Concedendo",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 3658,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO 2022 - CONCEDENDO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 02 (dois) anos, 06 (seis) meses e 28 (vinte e oito) dias imposta a Eraldo Ramiro Dantas.  A Defensoria Pública pediu o indulto das penas o que fez com fulcro no Decreto 11.302/2022 (ev. 489.1).  Instado a se manifestar, o Ministério Público opinou favoravelmente (ev. 493.1).  Anoto aqui que o penitente está cumprindo pena na PES – Penitenciária Estadual do Seridó, conforme consulta SIAPEN desta data.  Relatados.  O pedido deve s...",
+      "data_extracao": "2026-01-22T02:13:49.358Z"
+    },
+    {
+      "arquivo": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.docx",
+      "nome": "Indulto 2022 Indeferimentos Por Não Atender Ao Decreto",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 10962,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 32 (trinta e dois) anos, 11 (onze) meses e 01 (um) dia imposta a Aureliano Trindade Ribeiro.  A Defesa peticionou pugnando pelo indulto da pena de 02 de (dois) anos e 04 (quatro) meses de reclusão referente ao delito do art. 14, caput, da Lei 10.826/2003, que foi imposta na ação penal nº 0106059-84.2017.8.20.0001 , fundamentando o pedido no art. 5º do Decreto Presidencial nº 11.302/2022 (ev. 325.1)  Instado a se manifestar, o Mi...",
+      "data_extracao": "2026-01-22T02:13:49.369Z"
+    },
+    {
+      "arquivo": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+      "nome": "Indulto 2023 Deferimento De Uma Das Penas.",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 3684,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 12 (doze) anos e 08 (oito) meses imposta a Erivaldo Fidelis de Oliveira  O sistema SEEU identificou o apenado como possível beneficiário do indulto com base no Decreto 11.846/2023.  Instado a se manifestar, o Ministério Público opinou pelo deferimento da pena imposta na ação penal nº 0000469-37.2012.8.20.0117, considerando que o apenado cumpriu mais de 2/3 (dois terços) das penas dos crimes impeditivos (ev. 254.1).  Anoto aqui q...",
+      "data_extracao": "2026-01-22T02:13:49.382Z"
+    },
+    {
+      "arquivo": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+      "nome": "Indulto 2024 Crime Patrimonial Deferindo",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 6248,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 40 (quarenta) anos, 07 (sete) meses e 05 (cinco) dias de reclusão imposta a Michael Johnnatan Menezes da Silva.  A Defensoria Pública peticionou pugnando pelo indulto das penas privativa, fundamentando o pedido nos art. 9º, XV, em combinação com o art. 12, ambos do Decreto Presidencial nº 12.338/2024, dizendo que o apenado cometeu crime patrimonial e está desobrigado a reparar o dano, uma vez que é hipossuficiente financeirament...",
+      "data_extracao": "2026-01-22T02:13:49.394Z"
+    },
+    {
+      "arquivo": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.docx",
+      "nome": "Indulto 2024 Não Se Enquadra Em Nenhuma Das Hipóteses",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 12082,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 29 (vinte e nove) anos, 11 (onze) meses e 15 (quinze) dias imposta a Joseilton Alex Nascimento Ursulino.  O sistema SEEU identificou o apenado como possível beneficiário do indulto com base no Decreto Presidencial nº 12.338/2024.  Instado a se manifestar, o Ministério Público opinou pelo indeferimento (ev. 246.1).  Anoto aqui que o penitente está cumprindo pena na PEA - Penitenciária Estadual de Alcaçuz, conforme consulta SIAPEN...",
+      "data_extracao": "2026-01-22T02:13:49.409Z"
+    },
+    {
+      "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+      "nome": "Indulto Despacho Erro Inexistente",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 714,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO - DESPACHO - ERRO INEXISTENTE.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade em que foi concedido indulto das penas de multas das ações penais em execução, conforme decisão do ev. 168.1.  A secretaria certificou erro material na decisão do indulto, uma vez que não citou a ação penal nº 0106969-48.2016.8.20.0001.  Relatados.  A decisão do ev. 168.1 não precisa de qualquer reparo uma vez que deferiu o \"indulto da pena de multa a que foi condenado o apenado\", ou seja, abrangeu as multas referentes à todas as a...",
+      "data_extracao": "2026-01-22T02:13:49.334Z"
+    },
+    {
+      "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+      "nome": "Indulto E Comutação 2024 Indefere Orcrim Ou Facção",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 10398,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.txt",
+      "conteudo_preview": "MEMBROS DE FACÇÃO E OU ORCRIM  Vistos etc.  Trata-se de cumprimento de penas privativas de liberdade que foram unificadas em 33 (trinta e três) anos, 11 (onze) meses e 25 (vinte e cinco) dias em regime Fechado.  A Defesa ingressou com pedido de comutação das penas, o que fez com base no Decreto nº 12.338/2024 (ev. 356.1).  Interveio o Ministério Público pugnando pelo deferimento do pedido (ev. 362.1).  Anoto aqui que o penitente está cumprindo pena na PEA - Penitenciária Estadual de Alcaçuz, con...",
+      "data_extracao": "2026-01-22T02:13:49.436Z"
+    },
+    {
+      "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+      "nome": "Indulto E Comutação Decreto De 2017 Ausencia Requisito Objetivo",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 6121,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.txt",
+      "conteudo_preview": "NÃO CUMPRIU 2/3 DO CRIME IMPEDITIVO  Vistos etc.  Trata-se de execução cujas penas unificadas totalizaram 23 (vinte e três) anos e 02 (dois) meses de reclusão, atualmente sendo cumprida em regime fechado, em que a Defesa ingressou com pedido de indulto natalino, com base no Decreto Presidencial nº 9.246, de 21 de dezembro de 2017, o que fez com fulcro no art. 1º, inciso III, do Decreto, arguindo que o apenado teria cumprido metade da pena, ocasião em que formulou pedido alternativo de que, em ca...",
+      "data_extracao": "2026-01-22T02:13:49.419Z"
+    },
+    {
+      "arquivo": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.docx",
+      "nome": "Indulto Multa Indeferimento Parecer Do Mp",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 4920,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de 47 (quarenta e sete) anos e 09 (nove) meses imposta a Aylton Bezerra da Silva Júnior pela prática de crimes do art. 157, § 3º, do Código Penal em combinação com o art. 244-B, caput, do ECA (ação penal nº 0102101-41.2019.8.20.0124), art. 311,caput, do Código Penal (ação penal nº 0102235-49.2019.8.20.0001), art. 157, § 2º, do Código Penal, 02 (duas) vezes (ações penais nºs 0106285-21.2019.8.20.0001 e 0103718-17.2019.8.20.0001).  O...",
+      "data_extracao": "2026-01-22T02:13:49.451Z"
+    },
+    {
+      "arquivo": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.docx",
+      "nome": "Indulto Pena De Multa 2023 Indeferimento",
+      "pasta": "indulto",
+      "agrupador": "indulto",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 13615,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade de XXXXXX imposta a XXXXXXXXXX pela prática dos crimes do art. XXXX, ação penal XXX, art. XXXX, ação penal XXX.  A Defesa peticionou pedindo o indulta da pena de multa com fulcro no art. 2º inciso X, do Decreto Presidencial nº 11.846/2023 (ev. XXX)  Instado a se manifestar, o Ministério Público ofereceu parecer XXXXXX (ev. XXX).  Anoto aqui que o penitente está cumprindo pena na PEA – Penitenciária Estadual de Alcaçuz, conforme con...",
+      "data_extracao": "2026-01-22T02:13:49.483Z"
+    },
+    {
+      "arquivo": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.docx",
+      "nome": "Multa Autoriza Parcela 10 Porcento Sal Min",
+      "pasta": "decisoesvrep",
+      "agrupador": "multa",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3172,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.txt",
+      "conteudo_preview": "Vistos etc.   Trata-se de pedido de parcelamento das penas de multa impostas ao apenado, nos autos dos processos Nº 0108272-97.2016.8.20.0001, Nº 0106031-82.2018.8.20.0001e Nº0100936-15.2014.8.20.0162, em que foi condenado à 70 (setenta) dias-multa, os quais totalizaram R$ 2.941,22 (dois mil e novecentos e quarenta e um reais e vinte e dois centavos).   Instado a se manifestar, o apenado propôs parcelamento, sendo entrada no valor de R$ 300,00 (trezentos reais) e o restante dividido em 30 (trint...",
+      "data_extracao": "2026-01-22T02:13:48.483Z"
+    },
+    {
+      "arquivo": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.docx",
+      "nome": "Multa Defere Maximo Parcelamento Possivel",
+      "pasta": "decisoesvrep",
+      "agrupador": "multa",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 3096,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.txt",
+      "conteudo_preview": "Vistos etc.   Trata-se de pedido de parcelamento das penas de multa impostas ao apenado, nos autos dos processos Nº 0108272-97.2016.8.20.0001, Nº 0106031-82.2018.8.20.0001 e Nº0100936-15.2014.8.20.0162, os quais totalizaram R$ 2.941,22 (dois mil e novecentos e quarenta e um reais e vinte e dois centavos), conforme cálculos da secretaria (evento ****).   Instado a se manifestar, o apenado requereu que a multa fosse parcelada, contudo sem apresentar as condições pretendidas (evento ***).  O Minist...",
+      "data_extracao": "2026-01-22T02:13:48.493Z"
+    },
+    {
+      "arquivo": "multa defere parcelamento.docx",
+      "nome": "Multa Defere Parcelamento",
+      "pasta": "decisoesvrep",
+      "agrupador": "multa",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 5455,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "multa defere parcelamento.txt",
+      "conteudo_preview": "Vistos etc.  Executando-se pena privativa de liberdade em regime *****fechado, vieram-me conclusos os autos para análise das penas de multa impostas ao apenado, nos autos dos Processos Nº ********, as quais totalizaram R$ ******** (******), conforme cálculos da secretaria (evento ****).  Intimado, o apenado propôs parcelamento, nos seguintes termos: *********** (evento *****).  Instado a se manifestar, o Ministério Público ***não concordou com a proposta (evento *******).  Acrescento ao relatóri...",
+      "data_extracao": "2026-01-22T02:13:48.503Z"
+    },
+    {
+      "arquivo": "MULTA DEFERE PARCELAMENTO.docx",
+      "nome": "Multa Defere Parcelamento",
+      "pasta": "remicao",
+      "agrupador": "multa",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 2377,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Número dos Processos:",
+        "Valor total das penas de multa (incluir também por extenso):",
+        "Evento dos cálculos da secretaria:",
+        "Proposta do apenado (incluir R$ e entre parênteses por extenso)",
+        "Evento da proposta do apenado:",
+        "Evento da proposta do Ministério Público",
+        "Quantidade de parcelas que o apenado deve depositar (entre parênteses por extenso)"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "MULTA DEFERE PARCELAMENTO.txt",
+      "conteudo_preview": "Vistos etc.   Trata-se de pedido de parcelamento da pena de multa imposta ao apenado, nos autos dos processos Nº 0116052-20.2018.8.20.0001, em que foi condenado ao valor de R$ 6.496,87 (seis mil, quatrocentos e noventa e seis reais e oitenta e sete centavos), conforme cálculos da secretaria (evento 195.1).  Instado a se manifestar, o apenado propôs pedido de parcelamento em parcelas de parcelas de R$ 250,00 (duzentos e cinquenta reais) (evento 206.1).  O Ministério Público anuiu com o pedido (ev...",
+      "data_extracao": "2026-01-22T02:13:49.163Z"
+    },
+    {
+      "arquivo": "ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.docx",
+      "nome": "Adequação Do Cumprimento Da Pena No Regime Semiaberto",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2475,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade em regime semiaberto e com uso de tornozeleira eletrônica em que foi determinado pelo Juízo da Comarca de Currais Novos, onde tramitava o feito anteriormente, o cumprimento de prestação de serviços à comunidade, conforme se observa no termo de audiência do evento 25.1.  A defesa do apenado pediu (ev. 65.1) que o feito fosse chamado à ordem para revogação da medida, considerando que o estabelecimento de prestação de serviços à comun...",
+      "data_extracao": "2026-01-22T02:13:49.497Z"
+    },
+    {
+      "arquivo": "ADVOGADO RENUNCIOU POREM NÃO JUNTOU NOTIFICAÇÃO.docx",
+      "nome": "Advogado Renunciou Porem Não Juntou Notificação",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 673,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": false,
+        "tem_isso_posto": true,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ADVOGADO RENUNCIOU POREM NÃO JUNTOU NOTIFICAÇÃO.txt",
+      "conteudo_preview": "Visto, etc.  O advogado do apenado renunciou ao mandato (evento 267.1), alegando que o fez \"a pedido da companheira do apenado\", porém não comprovou ter notificado seu cliente,  limitando-se a dizer que o fez \"em virtude de pedido da companheira do assistido, Sra. Ana Paula da Silva Santos\".  Isto posto, determino a intimação do advogado para que comprove ter notificado o apenado, no prazo de 10 (dez) dias.  Cumpra-se.  Visto, etc.  A advogada do apenado renunciou ao mandato (evento 207.1), poré...",
+      "data_extracao": "2026-01-22T02:13:49.507Z"
+    },
+    {
+      "arquivo": "BUSCAR OBITO.docx",
+      "nome": "Buscar Obito",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 381,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "BUSCAR OBITO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução penal em que sobreveio a notícia de que o apenado teria falecido (ev. XXX).  Diante do exposto, busquem-se informações nos sistemas processuais (SAJ/PJE), solicite-se ao ITEP/RN que se existe alguma certidão e, adicionalmente, busque-se o registro do possível óbito do apenado nos sistemas informatizados (INFOJUD, sistema cartorário).  Cumpra-se....",
+      "data_extracao": "2026-01-22T02:13:49.534Z"
+    },
+    {
+      "arquivo": "Controle das Horas - R2 - Março 2023.docx",
+      "nome": "Controle Das Horas R2 Março 2023",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 1642,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "Controle das Horas - R2 - Março 2023.txt",
+      "conteudo_preview": "TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE  ESCOLA DA MAGISTRATURA DO RIO GRANDE DO NORTE  REGISTRO MENSAL PARA CONTROLE DAS HORAS DO R2  RESIDENTE: JOAQUIM MOREIRA MAIA FILHO  MATRÍCULA: __________________  UNIDADE DE LOTAÇÃO: 1 VARA REGIONAL DE EXECUÇÃO PENAL  MÊS DE REFERÊNCIA: MARÇO/2023  DIA  ENTRADA  SAÍDA  ENTRADA  SAÍDA  HORA  ASSINATURA  HORA  ASSINATURA  HORA  ASSINATURA  HORA  ASSINATURA  01/03/23  02/03/23  03/03/23  04/03/23  SÁBADO  SÁBADO  SÁBADO  SÁBADO  SÁBADO  SÁBADO  SÁBADO  S...",
+      "data_extracao": "2026-01-22T02:13:49.596Z"
+    },
+    {
+      "arquivo": "CORREÇÃO DE FRAÇÃO - DEFERINDO.docx",
+      "nome": "Correção De Fração Deferindo",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 28807,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "CORREÇÃO DE FRAÇÃO - DEFERINDO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de cumprimento de pena privativa de liberdade em que o Ministério Público pediu que fossem diferenciadas as frações utilizadas para os crimes, considerando sua natureza, posto que um é de hediondo, enquanto os outros são crimes comuns, enquanto a GEP está alimentada com fração única de 40% para efeitos de cálculo para progressão de regime (ev. 78.1).  Anoto que primeiramente o apenado cometeu o crime tipificado no art. 157, §3º, primeira parte - latrocínio sem resultado mor...",
+      "data_extracao": "2026-01-22T02:13:49.615Z"
+    },
+    {
+      "arquivo": "declinio de ceara mirim p regional.docx",
+      "nome": "Declinio De Ceara Mirim P Regional",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2641,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "declinio de ceara mirim p regional.txt",
+      "conteudo_preview": "Trata-se de execução de pena em regime semiaberto em que verificou-se que o apenado está monitorado eletronicamente e residindo em outra comarca (Goianinha/RN).  Relatados.  Competente para o acompanhamento do regime semiaberto harmonizado é o juízo do local onde reside o apenado, desde que na Comarca exista a devida estrutura para o processo de execução penal.  No caso, o apenado reside em município integrante da área territorial de competência da Secretaria Estadual Unificada da Execução Penal...",
+      "data_extracao": "2026-01-22T02:13:49.629Z"
+    },
+    {
+      "arquivo": "DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.docx",
+      "nome": "Declinio De Competência De Medida De Segurança Restritiva",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 941,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": true,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.txt",
+      "conteudo_preview": "Vistos etc.   Trata-se de execução de medida de segurança restritiva (tratamento ambulatorial).  Anoto que os autos foram redistribuídos para esta 1ª Vara Regional de Execução Penal em razão da modificação da competência em que foram absorvidos os processos dos regimes fechado e semiaberto, bem como as medidas de segurança detentivas (internação) de diversas comarcas, o que não é o caso dos autos.  Competente para a execução da medida de segurança restritiva é o juízo do local onde reside o inim...",
+      "data_extracao": "2026-01-22T02:13:49.638Z"
+    },
+    {
+      "arquivo": "Desclassifica art. 16 para o 12 da Lei 10.826.docx",
+      "nome": "Desclassifica Art. 16 Para O 12 Da Lei 10.826",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 7434,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "Desclassifica art. 16 para o 12 da Lei 10.826.txt",
+      "conteudo_preview": "Trata-se de processo de execução penal em desfavor do apenado acima nominado, em que a Defesa requereu a readequação da pena aplicada nos autos das ações penais de n. 0113701-11.2017.8.20.0001, sob a alegação da retroatividade de lei penal benéfica (mov. 41).  Alegou a Defesa que, na referida ação penal, o réu foi condenado pelo crime de pote ilegal de arma de fogo de uso restrito, previsto no art. 16 da Lei 10.826/03, respectivamente, a uma pena de 3 anos de reclusão.  Ou seja, para a Defesa, e...",
+      "data_extracao": "2026-01-22T02:13:49.656Z"
+    },
+    {
+      "arquivo": "PEDIDO ADMINISTRATIVO - NEGANDO.docx",
+      "nome": "Pedido Administrativo Negando",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 3213,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PEDIDO ADMINISTRATIVO - NEGANDO.txt",
+      "conteudo_preview": "Visto, etc.   Trata-se de pedido de transferência para a Penitenciária Prof. Barreto Campelo, em Igarassu, Estado de Pernambuco, razão pela qual foi oficiado, de ordem, ao Juízo de Direito da 1ª Vara Regional de Execução Penal.  Com a resposta, informou o Juízo daquele Estado que, assim como no Estado do Rio Grande do Norte, trata-se de matéria administrativa de competência da SERES - Secretaria Executiva de Ressocialização/PE, que detém a atribuição exclusiva e legal para disponibilização de va...",
+      "data_extracao": "2026-01-22T02:13:49.665Z"
+    },
+    {
+      "arquivo": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+      "nome": "Pedido Para Desclassicar Do Art. 16 Para O Art. 14 Arma Com Num Raspada Indefere",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3422,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.txt",
+      "conteudo_preview": "Trata-se de processo de execução penal em desfavor do apenado acima nominado, em que a Defesa requereu a retificação da GEP, para readequar a pena aplicada nos autos da ação penal de n. 0109854-16.2013.8.20.0106, apenas no que respeita à condenação pelo crime de porte ilegal de arma de fogo de uso restrito, sob a alegação da retroatividade de lei penal benéfica (evento 121.1).  Alegou a Defesa que, na referida ação penal, o réu foi condenado pelo crime de porte ilegal de arma de fogo de uso rest...",
+      "data_extracao": "2026-01-22T02:13:49.683Z"
+    },
+    {
+      "arquivo": "RECLUSÃO + DETENÇÃO SIMPLES.docx",
+      "nome": "Reclusão + Detenção Simples",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 4890,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RECLUSÃO + DETENÇÃO SIMPLES.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena de XXX de reclusão no regime semiaberto (ação penal nº XX) imposta a XXX, que agora foi novamente condenado, desta feita a XXX de detenção no regime aberto, ação penal nº X (evento 1.5).  Por oportuno, registro que ambas as sentenças condenatórias transitaram em julgado.  Anoto que o penitente se encontra custodiado na PEA – Penitenciária Estadual de Alcaçuz/Cadeia Pública de Ceará-Mirim /PES – Penitenciária Estadual do Seridó - / PERCM  - Penitenciária ...",
+      "data_extracao": "2026-01-22T02:13:49.744Z"
+    },
+    {
+      "arquivo": "RECLUSÃO + RECLUSÃO SIMPLES.docx",
+      "nome": "Reclusão + Reclusão Simples",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 1852,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RECLUSÃO + RECLUSÃO SIMPLES.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena de XX de reclusão no regime fechado (ação penal nº ) imposta a XXX, que agora foi novamente condenado, desta feita a XXX de reclusão no regime fechado, ação penal nº  (evento 1.2).  Por oportuno, registro que enquanto a primeira sentença condenatória transitou em julgado, a segunda encontra-se em grau de recurso.  Anoto que o penitente se encontra custodiado na PEA – Penitenciária Estadual de Alcaçuz/Cadeia Pública de Ceará-Mirim/ PES – Penitenciária Est...",
+      "data_extracao": "2026-01-22T02:13:49.753Z"
+    },
+    {
+      "arquivo": "TEXTOS PARA DECISÕES.docx",
+      "nome": "Textos Para Decisões",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2006,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "TEXTOS PARA DECISÕES.txt",
+      "conteudo_preview": "Transitada em julgado a sentença condenatória da pena somada, solicite-se ao Juízo de Direito da 4ª Vara Criminal da Comarca de Natal certidão informativa sobre o recolhimento da multa culminada juntamente à pena privativa de liberdade na ação penal nº 0802574-43.2022.8.20.5600.  Observo que, embora devidamente intimado, o apenado não recolheu a pena de multa, conforme certidão de fl. 74, evento 1.2.  Abra-se vista dos autos ao Ministério Público para se manifestar sobre a certidão acostada à fl...",
+      "data_extracao": "2026-01-22T02:13:49.782Z"
+    },
+    {
+      "arquivo": "TRANSFERÊNCIAS - DESPACHOS.docx",
+      "nome": "Transferências Despachos",
+      "pasta": "old",
+      "agrupador": "outros",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 908,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "TRANSFERÊNCIAS - DESPACHOS.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se execução de pena privativa de liberdade, em regime fechado, em que foi formulado pedido de transferência para que o apenado passe a cumprir pena em Campina Grande/PB.  Anoto que o penitente encontra-se custodiado na PERCM - Penitenciária Estadual Rogério Coutinho Madruga, conforme consulta SIAPEN desta data.  Oficie-se ao Juízo de Direito responsável pela execução penal da Comarca de Campina Grande, Estado da Paraíba, indagando sobre a possibilidade de recebimento do apenad...",
+      "data_extracao": "2026-01-22T02:13:49.790Z"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - CONCEDENDO.docx",
+      "nome": "Prisão Domiciliar Concedendo",
+      "pasta": "old",
+      "agrupador": "prisao_domiciliar",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 2321,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PRISÃO DOMICILIAR - CONCEDENDO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade imposta a Debora Stefane da Silva, de 05 (cinco) anos e 04 (quatro) meses de reclusão pelo cometimento do delito de tráfico de drogas, atualmente em regime fechado, tendo peticionado a Defesa Técnica para requerer a concessão de prisão domiciliar alegando que a apenada está grávida de mais de 34 (trinta e quatro) semanas e necessita afastar-se do estabelecimento prisional (evs. 151.1 e 161.1).  O pedido da Defesa baseou-se em infor...",
+      "data_extracao": "2026-01-22T02:13:49.708Z"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.docx",
+      "nome": "Prisão Domiciliar Doença Grave Prorrogação",
+      "pasta": "old",
+      "agrupador": "prisao_domiciliar",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 1780,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade em que a defesa peticionou (ev. 320.1) requerendo nova prorrogação do prazo da prisão domiciliar por 120 (cento e vinte) dias ao apenado, alegando persistir o quadro de gradativa debilidade de sua saúde e gravidade da doença, bem como necessidade de cuidados especiais em razão do tratamento de câncer de próstata, ocasião em que juntou diversos laudos e pareceres médicos.  Interveio o Ministério Público opinando pelo deferimento do ...",
+      "data_extracao": "2026-01-22T02:13:49.720Z"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.docx",
+      "nome": "Prisão Domiciliar Prorrogação Indeferimento",
+      "pasta": "old",
+      "agrupador": "prisao_domiciliar",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 2995,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade imposta a Antônio Fernandes dos Santos, de 37 (trinta e sete) anos de reclusão pelo cometimento do delito capitulado no art.121, §2º, do Código Penal (homicídio qualificado), sendo reincidente específico na prática delituosa, atualmente em regime fechado, tendo ele pedido a prorrogação da autorização do cumprimento da pena em prisão domiciliar (ev. 135.1), sob a alegação de que continua necessitando de tratamento que não pode ser r...",
+      "data_extracao": "2026-01-22T02:13:49.732Z"
+    },
+    {
+      "arquivo": "anotacoes progressao regional.docx",
+      "nome": "Anotacoes Progressao Regional",
+      "pasta": "old",
+      "agrupador": "progressao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 11463,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "anotacoes progressao regional.txt",
+      "conteudo_preview": "$juizo.getCidade(), $data.getDataPorExtenso().  Henrique Baltazar Vilar dos Santos  Juiz de Direito  DECISÃO/OFÍCIO  Executando-se pena privativa de liberdade em regime fechado o SEEU identificou que o apenado atingiu o requisito objetivo para progressão de regime, bem como informou a unidade prisional bom comportamento carcerário (evento  34).  Interveio o Ministério Público, opinando pela concessão do benefício (evento  37).  Anoto que o apenado, custodiado no Complexo Penal Dr. João Chaves - ...",
+      "data_extracao": "2026-01-22T02:13:49.526Z"
+    },
+    {
+      "arquivo": "PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.docx",
+      "nome": "Pedido De Reconsideração Indeferimento",
+      "pasta": "old",
+      "agrupador": "reconsideracao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 4202,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.txt",
+      "conteudo_preview": "Visto, etc.  Trata de execução penal movida em desfavor de Ranie Felipe da Silva, em que o apenado foi regredido provisoriamente para regime prisional fechado em virtude das violações das condições do monitoramento eletrônico, uma vez que deixou a tornozeleira descarregar e, quando contactado pela CEME, não atendeu as ligações telefônicas (ev. 195.1).  A defesa pediu revisão da medida alegando que as violações verificadas se deram em razão do estado de saúde mental do apenado, uma vez que ele so...",
+      "data_extracao": "2026-01-22T02:13:49.676Z"
+    },
+    {
+      "arquivo": "PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.docx",
+      "nome": "Pedidos De Reconsideração Indeferimentos",
+      "pasta": "old",
+      "agrupador": "reconsideracao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 2803,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade em que foi decretada (ev. 253.1) a regressão cautelar do regime prisional para o fechado considerando que o apenado, enquanto cumpria pena no regime semiaberto e com uso de tornozeleira eletrônica, deixou o equipamento descarregar completamente desde o dia 10.11.2022 (ev. 242.1).  Em 29.11.2022, houve a apresentação expontânea ao presídio, ocasião em que foi liberado pela unidade prisional.  Em 19.01.2023, foi recolhido em razão do...",
+      "data_extracao": "2026-01-22T02:13:49.694Z"
+    },
+    {
+      "arquivo": "ACORDAO - REFORMA ENEM.docx",
+      "nome": "Acordao Reforma Enem",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 797,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ACORDAO - REFORMA ENEM.txt",
+      "conteudo_preview": "Vistos, etc.  Proferida decisão de indeferimento em virtude da participação do apenado no ENEM do ano de 2023 (evento 149.1), agravou o apenado da decisão, vindo o TJRN a determinar sua reforma nos autos do Agravo nº 0800626-80.2025.8.20.0000 e consequente concessão da remição de 100 (cem) dias, em virtude do estudo supramencionado (evento 173.2).  Relatados.  Confirmado o trânsito em julgado do Acórdão proferido pelo TJRN (evento 173.3), por força lógico-normativa de nosso ordenamento, há de se...",
+      "data_extracao": "2026-01-22T02:13:48.864Z"
+    },
+    {
+      "arquivo": "AGRAVO ENEM.docx",
+      "nome": "Agravo Enem",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2977,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Número do evento da decisão agravada",
+        "Ano do ENEM que o apenado participou",
+        "Número do evento do recurso",
+        "Número do evento das contrarrazões do Ministério Público"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "AGRAVO ENEM.txt",
+      "conteudo_preview": "Vistos etc.  Agrava o apenado da decisão do evento 403.1 que indeferiu pedido de remição em razão da participação do apenado no ENEM do ano de 2024 (evento 409.1).  Contrarrazões do Ministério Público no evento 413.1.  Relatados.  Sem razão o agravante, pois conforme consignado na decisão agravada, o Exame Nacional do Ensino Médio - ENEM, desde 2017 não mais certifica os conhecimentos do ensino médio. Precedentes do STJ:  AGRAVO REGIMENTAL EM EMBARGOS DE DECLARAÇÃO EM RECURSO EM HABEAS CORPUS. E...",
+      "data_extracao": "2026-01-22T02:13:48.901Z"
+    },
+    {
+      "arquivo": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+      "nome": "Agravo Enem Encceja Mesmo Fato Gerador",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 3180,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.txt",
+      "conteudo_preview": "Processo nº:  5000014-63.2020.8.20.0001  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  DAVID ALESSON NUNES DA SILVA  Vistos etc.  Agrava o apenado da decisão do evento 277.1 que concedeu 33 (trinta e três) dias de remição em razão da participação do apenado no ENCCEJA do ano de 2024, em que buscava a certificação do ensino médio, em razão de já ter o apenado sido beneficiado com outros 100 (...",
+      "data_extracao": "2026-01-22T02:13:48.882Z"
+    },
+    {
+      "arquivo": "ENCCEJA PARCIAL.docx",
+      "nome": "Encceja Parcial",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "parcial",
+      "formato": "docx",
+      "tamanho_chars": 7276,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Disciplinas que o apenado passou",
+        "Quantas disciplinas ? (escreva por extenso)",
+        "Ano do exame",
+        "Nível de ensino pretendido ? (fundamental ou médio)",
+        "Evento em que está o comprovante do ENCCEJA",
+        "O Ministério Público opinou requerendo quantos dias ?",
+        "Evento da manifestação do Ministério Público",
+        "Quantidade de dias de remição a que o apenado tem direito (se for diferente da opinião do MP tem que alterar o texto)"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ENCCEJA PARCIAL.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de remição de parte da pena pelo estudo, em razão do êxito do apenado nas disciplinas de Ciências da Natureza, Ciências Humanas, Português e Redação (quatro áreas de conhecimentos), quando da realização do ENCCEJA do ano de 2024, em que buscava a certificação do ensino médio (evento 373.1).  Instado a se manifestar, o Ministério Público opinou pela remição de 80 (oitenta) dias correspondentes a participação do apenado no ENCCEJA, nos termos do art. 126, §1º, inciso I, e §5...",
+      "data_extracao": "2026-01-22T02:13:48.925Z"
+    },
+    {
+      "arquivo": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+      "nome": "Estudo Ausencia Acréscimo Intelectual Indefere",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5189,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.txt",
+      "conteudo_preview": "Vistos, etc.  Cumprindo pena privativa de liberdade em regime fechado, requereu o apenado remição pelo estudo, amparada na previsão do art. 126 da Lei 12.433/2011 e na Resolução nº 391/2021, do CNJ, em razão de sua participação no ENCCEJA do ano de 2024, em que buscava a certificação do ensino fundamental (evento 185.2).  Opinou o Ministério Público para a concessão do pedido, requerendo a remição de 177 (cento e setenta e sete) dias em favor do apenado (evento 188.1).  Anoto que o apenado já ob...",
+      "data_extracao": "2026-01-22T02:13:48.953Z"
+    },
+    {
+      "arquivo": "ESTUDO DUPLICIDADE INDEFERE.docx",
+      "nome": "Estudo Duplicidade Indefere",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5866,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Nome do concurso prestado (ENEM, ENCCEJA, etc)",
+        "Ano do concurso prestado:",
+        "Evento do pedido proposto pelo apenado:",
+        "Evento da manifestação do Ministério Público (caso o MP tenha opinado favoravelmente, lembrar de mudar a redação)",
+        "Decisão anterior que já concedeu a remição ao apenado em virtude do mesmo fato gerador:"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO DUPLICIDADE INDEFERE.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos para análise de remição por estudo, em virtude ter o apenado prestado o ENCCEJA do ano de 2023 (evento 84.2).  Instado a se manifestar, o Ministério Público opinou pelo indeferimento do pedido, em razão de já ter sido concedida remição anteriormente em razão do mesmo fato gerador (evento 87.1).  Anoto que o apenado já obteve concessão de remição em razão de sua participação no ENCCEJA do ano d...",
+      "data_extracao": "2026-01-22T02:13:48.972Z"
+    },
+    {
+      "arquivo": "ESTUDO EJA - REGULAR.docx",
+      "nome": "Estudo Eja Regular",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2199,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Onde foi que o apenado estudou e cursava o que ?",
+        "Os comprovantes de estudo estão em quais eventos ?",
+        "Qual foi o período de estudo?",
+        "Em qual evento estão os cálculos da secretaria ?",
+        "Quantas horas o apenado estudou ? (colocar por extenso no feminino, pois se refere à horas)",
+        "Quantos dias de remição o apenado tem direito ?",
+        "Em que evento está a manifestação do Ministério Público ?"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ESTUDO EJA - REGULAR.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de remição de parte da pena pelo estudo, em razão da participação do apenado no Curso de Costureiro Industrial do Vestuário emMalha e de Mecânicos de Máquina de Costura, juntados pela unidade prisional (eventos 157.1), no período de 18/09/2024 a 19/12/2024 e 18/02/2025 a 26/03/2025, conforme cálculos realizados pela secretaria (evento 163.1).  Instado a se manifestar, o Ministério Público reconheceu a prática de 320 (trezentas e vinte) horas de estudo, opinando pela conces...",
+      "data_extracao": "2026-01-22T02:13:48.986Z"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA COMPLETO.docx",
+      "nome": "Estudo Encceja Completo",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 5130,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Qual o nível de ensino pretendido ?",
+        "Qual o ano ?",
+        "Em que evento está o certificado ?",
+        "Total de dias de remição propostos pelo Ministério Público (e que o apenado tem direito) com o devido acréscimo de 1/3:",
+        "Evento em que esta a Manifestação do Ministério Público"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO ENCCEJA COMPLETO.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de remição de parte da pena pelo estudo, em razão da conclusão do ensino fundamental pelo apenado, quando da sua aprovação no ENCCEJA do ano de 2024, tendo apresentado comprovante respectivo (evento 372.1).  Instado a se manifestar, o Ministério Público opinou pela concessão da remição de 177 (fundamental) da pena imposta, em razão do disposto no art. 3º da Resolução Nº 391/2021 do CNJ (evento 375.1).  Relatados.  No que concerne especificamente ao estudo em sede de execuç...",
+      "data_extracao": "2026-01-22T02:13:49.002Z"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.docx",
+      "nome": "Estudo Encceja Descontando Dias Remidos",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 7711,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Qual o nível de ensino pretendido ?",
+        "Qual o ano ?",
+        "Em que evento está o certificado ?",
+        "Total de dias de remição proposto pelo Ministério Público (e que o apenado tem direito) com o devido acréscimo de 1/3:",
+        "Evento em que esta a Manifestação do Ministério Público",
+        "Dias de remição concedidos anteriormente, referente ao mesmo nível de ensino (colocar também entre parênteses por extenso):",
+        "Evento(s) da(s) decisão(ões) de remição(ões) anterior(es):",
+        "Dias de remição a que o apenado tem direito (escrever entre parênteses também por extenso)"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de remição de parte da pena pelo estudo, em razão da conclusão do apenado do ensino fundamental, quando da sua aprovação no ENCCEJA do ano de 2023, tendo apresentado comprovante respectivo (evento 174.1).  Instado a se manifestar, o Ministério Público opinou pela remição de 27 (vinte e sete) dias de parte da pena imposta, em razão do disposto no art. 3º da Resolução Nº 391/2021 do CNJ, já incluído o devido acréscimo de 1/3 do §5º do art. 126 da LEP, requerendo ao final que...",
+      "data_extracao": "2026-01-22T02:13:49.021Z"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA PARCIAL.docx",
+      "nome": "Estudo Encceja Parcial",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "parcial",
+      "formato": "docx",
+      "tamanho_chars": 5988,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ESTUDO ENCCEJA PARCIAL.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de remição de parte da pena pelo estudo, em razão do êxito do apenado nas disciplinas de Ciências Humanas, Linguagens e Códigos, Matemática e Redação (quatro áreas de conhecimentos), quando da realização do ENCCEJA do ano de 2022, em que buscava a certificação do ensino médio (evento 347.1).  Instado a se manifestar, o Ministério Público opinou pela remição de 80 (oitenta) dias correspondentes a participação do apenado no ENCCEJA, nos termos do art. 126, §1º, inciso I, e §5...",
+      "data_extracao": "2026-01-22T02:13:49.033Z"
+    },
+    {
+      "arquivo": "ESTUDO ENEM INDEFERE.docx",
+      "nome": "Estudo Enem Indefere",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5367,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Ano do ENEM",
+        "Evento em que está o comprovante do ENEM",
+        "O Ministério Público opinou pela concessão de quantos dias ? (escrever entre parênteses também por extenso)",
+        "Evento do Parecer do MP"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO ENEM INDEFERE.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos para análise de remição por estudo, em virtude ter o apenado prestado o ENEM do ano de 2024 (evento 103.3).  Instado a se manifestar, o Ministério Público opinou pela concessão de remição de 20 (vinte) dias da pena em favor do apenado (evento 106.1).  Relatados.  A remição por estudo mediante aprovação em exames nacionais está atualmente em discussão no Tema Repetitivo nº 1.270 do Superior Tri...",
+      "data_extracao": "2026-01-22T02:13:49.048Z"
+    },
+    {
+      "arquivo": "ESTUDO ENEM INDEFERE2.docx",
+      "nome": "Estudo Enem Indefere2",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5688,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Ano do ENEM",
+        "Evento em que está o comprovante do ENEM",
+        "O Ministério Público opinou pela concessão de quantos dias ? (escrever entre parênteses também por extenso)",
+        "Evento do Parecer do MP"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO ENEM INDEFERE2.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos para análise de remição por estudo, em virtude ter o apenado prestado o ENEM do ano de 2024 (evento 165.2).  Instado a se manifestar, o Ministério Público opinou pela concessão de remição de 60 (sessenta) dias da pena em favor do apenado (evento 168.1).  Relatados.  A remição por estudo mediante aprovação em exames nacionais está atualmente em discussão no Tema Repetitivo nº 1.270 do Superior ...",
+      "data_extracao": "2026-01-22T02:13:49.063Z"
+    },
+    {
+      "arquivo": "ESTUDO ESTUDOS DIVERSOS INDEFERE.docx",
+      "nome": "Estudo Estudos Diversos Indefere",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 15854,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Ano do ENEM",
+        "Evento em que está o comprovante do ENEM",
+        "O Ministério Público opinou pela concessão de quantos dias ? (escrever entre parênteses também por extenso)",
+        "Evento do Parecer do MP"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO ESTUDOS DIVERSOS INDEFERE.txt",
+      "conteudo_preview": "Vistos, etc.   Trata-se de remição de parte da pena por estudo realizado através da conclusão de cursos diversos com duração total de 720 horas de estudo, conforme comprovantes localizados no evento 119.1.  Instado a se manifestar, o Ministério Público opinou pela remição de 60 (sessenta) dias do total da pena (evento 123.1).  Decido.   O pedido não merece prosperar.  É que, o instituto da remição previsto no art. 126 da LEP constitui um forte instrumento para reeducação dos encarcerados, promov...",
+      "data_extracao": "2026-01-22T02:13:49.087Z"
+    },
+    {
+      "arquivo": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+      "nome": "Estudo Indefere Ead Sem Previa Integracao Ao Projeto Politico Pedagogico",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3887,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.txt",
+      "conteudo_preview": "Vistos etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos para análise de remição por estudo, em razão da participação do apenado no(s) curso(s) de xxxxxxxxxxx (evento xxxxx).  Instado a se manifestar, o Ministério Público opinou pelo indeferimento (evento xxxxxx).  Relatados.  O instituto da remição previsto no art. 126 da Lei de Execuções Penais constitui um forte instrumento para reeducação dos encarcerados, promovendo o impedimento à ociosidade pe...",
+      "data_extracao": "2026-01-22T02:13:48.937Z"
+    },
+    {
+      "arquivo": "ESTUDO LIMITADOR DE HORAS.docx",
+      "nome": "Estudo Limitador De Horas",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 3672,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Onde foi que o apenado estudou e cursava o que ?",
+        "Os comprovantes de estudo estão em quais eventos ?",
+        "Qual foi o período de estudo?",
+        "Em qual evento estão os cálculos da secretaria ?",
+        "Quantas horas o apenado estudou ? (colocar por extenso no feminino, pois se refere à horas)",
+        "Em que evento está a manifestação do Ministério Público ?",
+        "Quantidade de horas reconhecidas após a aplicação do limitador de 4 horas diárias:",
+        "Total de dias de remição a serem concedidos (já aplicada a redução do limitador das 4 horas diárias)"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ESTUDO LIMITADOR DE HORAS.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de remição de parte da pena pelo estudo, em razão da participação do apenado no Curso de Pedreiro de Alvenaria, juntados pela unidade prisional (eventos 48.1), no período de 14/07/2025 a 12/08/2025, conforme cálculos realizados pela secretaria (evento 49.1).  Instado a se manifestar, o Ministério Público reconheceu a prática de 160 (cento e sessenta) horas de estudo (evento 52.1).  Relatados.  No que concerne especificamente ao estudo em sede de execução penal, anteriormen...",
+      "data_extracao": "2026-01-22T02:13:49.108Z"
+    },
+    {
+      "arquivo": "modelo completo remicao.docx",
+      "nome": "Modelo Completo Remicao",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 31807,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": false,
+        "tem_pri": false,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "modelo completo remicao.txt",
+      "conteudo_preview": "Posicionamentos atuais:  Remição por trabalho  Defere  Indefere   Defere parcial - divisão por 8 horas com relação às horas computadas fora da jornada regular.  Defere – Jornada fora da instituição prisional  Indefere – Jornada fora da instituição prisional  Despacho – juntar documentação de trabalho realizado fora da instituição prisional  Remição por leitura  Defere 4 dias para cada obra lida  Indefere  Indefere – ausência de vinculação a programa oficial  Remição por estudo (ensino regular)  ...",
+      "data_extracao": "2026-01-22T02:13:49.148Z"
+    },
+    {
+      "arquivo": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+      "nome": "Remicao Leitura Defere De Acordo Com Mp",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 3779,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Nome da obra (ou das obras) que o apenado efetivamente leu:",
+        "Em que ano foi que o apenado leu essa obra ?",
+        "Evento em que está o relatório de leitura:",
+        "Quantidade de dias que o Ministério Público a serem remidos, na opinião do Ministério Público (colocar também entre parênteses por extenso)",
+        "Evento da Manifestação do Ministério Público",
+        "Quantidade de obras que o apenado leu, por extenso"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "REMICAO LEITURA DEFERE DE ACORDO COM MP.txt",
+      "conteudo_preview": "Vistos etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos para análise de pedido de remição por leitura, em razão da leitura realizada pelo apenado, da(s) obra(s) \"Vidas Secas\", \"Dom Casmurro\", \"O Cortiço\", \"Volta ao Mundo\", \"A Hora da Estrela\" e \"O Homem que Calculava\", no ano de 2022, conforme relatório acostado aos autos (evento 500.1.)  Instado a se manifestar, o Ministério Público opinou pela concessão da remição de 24 (vinte e quatro) dias em ra...",
+      "data_extracao": "2026-01-22T02:13:49.212Z"
+    },
+    {
+      "arquivo": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.docx",
+      "nome": "Remicao Leitura Presidio Nao Localizou Relatorio Indefere",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3036,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": false,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.txt",
+      "conteudo_preview": "Vistos, etc.  Trata-se de pedido de remição por leitura, em que a unidade prisional afirma que não encontrou os relatórios de leitura em nome do apenado (evento 205.1).  Opinou o Ministério Público pelo indeferimento do pedido, ante a ausência de comprovação das obras efetivamente lidas pelo apenado (evento 209.1).  Relatados.  Além da remição pelo trabalho e pelo estudo, também devem ser levadas em consideração outras possíveis modalidades, em interpretação extensiva in bonam partem, sendo a re...",
+      "data_extracao": "2026-01-22T02:13:49.172Z"
+    },
+    {
+      "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+      "nome": "Retificacao De Guia Indulto Fracao E Remicao",
+      "pasta": "retificacao",
+      "agrupador": "remicao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3307,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "retificacao de guia - indulto fracao e remicao.txt",
+      "conteudo_preview": "Processo nº:  0001101-37.2016.8.14.0005  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  Estado do Pará   Executado(s):  ALDO FREIRE DA SILVA  Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos para análise de retificação de guia proposta pela defesa, em especial quanto à (a) anotação da fração para fins de progressão de regime quanto às condenações do art. 33 da Lei nº 11.343/2006 vinculada ao pro...",
+      "data_extracao": "2026-01-22T02:13:49.313Z"
+    },
+    {
+      "arquivo": "TRABALHO.docx",
+      "nome": "Trabalho",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2090,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Em qual(is) evento(s) está(ão) as folhas de ponto que o apenado trabalhou ?",
+        "Em que evento está os cálculos da secretaria ?",
+        "Quais foram os meses trabalhados? E de que ano? (ex: dezembro de 2022)",
+        "Como foi a manifestação do Ministério Público (detalhar e informar quantos dias de remição pediu).",
+        "Evento do Parecer do Ministério Público",
+        "Teve manifestação da defesa ? Se sim, conte como foi indicando o número do evento.",
+        "Quantos dias o apenado trabalhou (colocar também entre parênteses por extenso)",
+        "Quantos dias de remição o apenado tem direito ? (colocar também entre parênteses, por extenso)"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "TRABALHO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de remição de parte da pena pelo trabalho, conforme relatório constante no evento 40.1 e cálculos da secretaria (evento 41.1), referente aos meses de setembro de 2024 a março de 2025.  Instado a se manifestar, o Ministério Público opinou pela concessão da remição de 42 (quarenta e dois) dias da pena (evento 44.1).  asdf  Decido.  O instituto da remição previsto no art. 126 da LEP constitui um forte instrumento para reeducação dos encarcerados, promovendo o impedimento à oci...",
+      "data_extracao": "2026-01-22T02:13:49.249Z"
+    },
+    {
+      "arquivo": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).docx",
+      "nome": "Trabalho E Estudo (curso Profissionalizante)",
+      "pasta": "remicao",
+      "agrupador": "remicao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 4415,
+      "tem_fillin": true,
+      "campos_fillin": [
+        "Em qual(is) evento(s) está(ão) as folhas de ponto que o apenado trabalhou ?",
+        "Evento(s) em que está(ão) localizado(s) o(s) certificado(s) de estudo",
+        "Em que evento estão os cálculos da secretaria ?",
+        "Dias trabalhados (e entre parênteses por extenso)",
+        "Quais foram os meses trabalhados ?",
+        "Horas de Estudo",
+        "Nome do(s) curso(s) realizados e depois o período do curso (Ex. Pedreiro de Alvenaria, de 23/01/2023 a 26/04/2023)",
+        "Como foi a manifestação do Ministério Público (detalhar e informar quantos dias de remição pediu).",
+        "Evento do Parecer do Ministério Público",
+        "Quantos dias de remição por trabalho o apenado tem direito ? (colocar também entre parênteses, por extenso)",
+        "Dias de remição por estudo",
+        "Total dias de remição"
+      ],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": false,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de remição de parte da pena pelo trabalho e por estudo realizado através da conclusão de curso profissionalizante, conforme relatório constante no evento 67.1 e comprovante de horas de estudos localizado no evento 66.1, com os devidos cálculos da secretaria (evento 68.1), os quais identificaram 67 (sessenta e sete) dias trabalhados pelo apenado nos meses de dezembro de 2024 a março de 2025, bem como, 233 (duzentas e trinta e três) horas de estudo referente ao curso de Disci...",
+      "data_extracao": "2026-01-22T02:13:49.237Z"
+    },
+    {
+      "arquivo": "RET - data base 1 prisao.docx",
+      "nome": "Ret Data Base 1 Prisao",
+      "pasta": "retificacao",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 1822,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET - data base 1 prisao.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em face de vieram-me conclusos os autos para análise de retificação de guia, onde alega o Ministério Público erro na sua expedição em razão da não observância da data-base para fins de progressão de regime, aduzindo que a data correta deveria ser a data da última prisão, ocorrida em ** (evento *).  Relatados.  A data-base para fins de progressão é, como regra, a data da primeira prisão do apenado, exceto quando houver o cometimento de falta...",
+      "data_extracao": "2026-01-22T02:13:49.260Z"
+    },
+    {
+      "arquivo": "RET - data base ultima prisao - defere.docx",
+      "nome": "Ret Data Base Ultima Prisao Defere",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 3608,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET - data base ultima prisao - defere.txt",
+      "conteudo_preview": "Vistos etc.  Tratam os autos de execução de pena em que a defesa pugnou pela retificação da guia, alegando erro na sua expedição, requerendo que o reconhecimento de 34 (trinta e quatro) dias de pena cumprida, com relação ao período de 21/04/2017 a 25/05/2017 em que o apenado esteve preso preventivamente (evento 190.1).  Interveio o Ministério Público, opinando contrariamente (evento 252.1).  Relatados.  Compulsando os autos, verifico que o período de 21/04/2017 a 25/05/2017 já está anotado como ...",
+      "data_extracao": "2026-01-22T02:13:48.519Z"
+    },
+    {
+      "arquivo": "RET - Feminicidio privilegiado - indefere.docx",
+      "nome": "Ret Feminicidio Privilegiado Indefere",
+      "pasta": "retificacao",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 11088,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET - Feminicidio privilegiado - indefere.txt",
+      "conteudo_preview": "PODER JUDICIÁRIO  TJRN - COMARCA DE NATAL  TJRN - 1ª VARA REGIONAL DE EXECUÇÃO PENAL  Processo nº:  5000005-47.2024.8.20.0103  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  RAIMUNDO PEREIRA DE FRANÇA  Trata-se de pedido formulado pelo Ministério Público, requerendo a retificação da Guia de Execução Penal (GEP) do apenado Raimundo Pereira de França, para que conste o percentual de 25% no cálc...",
+      "data_extracao": "2026-01-22T02:13:49.278Z"
+    },
+    {
+      "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+      "nome": "Ret Gep Corrige Fraçoes Distintas Analise Progressao",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 37885,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET GEP - corrige fraçoes distintas analise progressao.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de PEC com penas unificadas, em que observo que estão sendo utilizadas frações distintas, conforme o delito.  Instado a se manifestar, o MP concordou com os cálculos.   Vistos etc.  Trata-se de PEC com penas unificadas, em que me vieram conclusos os autos para análise da progressão de regime.  Ocorre que, em consulta a guia de execução penal, observo que estão sendo utilizadas frações distintas, conforme o delito.  Relatados.  Inicialmente, verifico que a pena referente ao ...",
+      "data_extracao": "2026-01-22T02:13:48.620Z"
+    },
+    {
+      "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+      "nome": "Ret Gep Defere Detracao Por Outro Crime Posterior",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 2026,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "ret gep - defere detracao por outro crime posterior.txt",
+      "conteudo_preview": "Vistos etc.  Tratam os autos de execução de pena em que a defesa pugnou pela progressão de regime, alegando que o apenado já cumpriu o requisito objetivo, uma vez que foi declarada a prescrição do artigo 14 da lei 10.826/2003 e que o apenado está preso desde 09.10.2014.  Anoto que a guia de execução penal já está atualizada com o lançamento da referida prescrição penal, entretanto, a data da prisão última prisão está 20.07.2018.  Interveio o Ministério Público, opinando contrariamente, pois ente...",
+      "data_extracao": "2026-01-22T02:13:48.649Z"
+    },
+    {
+      "arquivo": "RET GEP - desclassificacao 28 lei 11343 improcedente.docx",
+      "nome": "Ret Gep Desclassificacao 28 Lei 11343 Improcedente",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 6748,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET GEP - desclassificacao 28 lei 11343 improcedente.txt",
+      "conteudo_preview": "PODER JUDICIÁRIO  TJRN - COMARCA DE NATAL  TJRN - 1ª VARA REGIONAL DE EXECUÇÃO PENAL  Processo nº:  5000014-20.2021.8.20.0101  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  DRYELLE PASCOAL BEZERRA  Vistos etc.  Trata-se de pedido de retificação da Guia de Execução Penal (GEP), formulado pela defesa da apenada Dryelle Pascoal Bezerra (evento 234.1), requerendo a aplicação do tema 506 da Reper...",
+      "data_extracao": "2026-01-22T02:13:48.727Z"
+    },
+    {
+      "arquivo": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+      "nome": "Ret Gep Fracao 3 5 Para Todos Os Crimes Hediondos Reincidente Especifico",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 3771,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de pedido de retificação de GEP, proposto pelo apenado, para que fizesse constar a fração para fins de progressão de pena de 1/6 para os crimes comuns, 2/5 para os crimes hediondos e 3/5 quando reincidente específico em crime hediondo (evento 135.1)  Instado a se manifestar, o Ministério Público opinou pelo deferimento parcial do pedido, requerendo que fosse aplicada a fração de 3/5 para todos os crimes hediondos e 1/6 para os crimes comuns, requerendo ainda a correção das ...",
+      "data_extracao": "2026-01-22T02:13:48.753Z"
+    },
+    {
+      "arquivo": "RET GEP - monitoramento cautelar como detracao indefere.docx",
+      "nome": "Ret Gep Monitoramento Cautelar Como Detracao Indefere",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5919,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET GEP - monitoramento cautelar como detracao indefere.txt",
+      "conteudo_preview": "PODER JUDICIÁRIO  TJRN - COMARCA DE NATAL  TJRN - 1ª VARA REGIONAL DE EXECUÇÃO PENAL  Processo nº:  5001747-25.2024.8.20.0001  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  SEDSON FERNANDES LIMA  Vistos etc.  Trata-se de pedido formulado pela defesa de Sedson Fernandes Lima, requerendo o reconhecimento do período em que esteve sob monitoramento eletrônico cautelar para fins de detração penal...",
+      "data_extracao": "2026-01-22T02:13:48.780Z"
+    },
+    {
+      "arquivo": "RET GEP - pedido generico.docx",
+      "nome": "Ret Gep Pedido Generico",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 2088,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET GEP - pedido generico.txt",
+      "conteudo_preview": "Processo nº:  0139190-26.2012.8.20.0001  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  GILBERTO OLIVEIRA DE MELO  Vistos etc.  Trata-se de pedido de retificação da Guia de Execução Penal formulado pelo apenado Gilberto Oliveira de Melo, através de seu advogado, requerendo revisão de cálculos para progressão de regime e livramento condicional, além da homologação dos dias remidos e a justific...",
+      "data_extracao": "2026-01-22T02:13:48.798Z"
+    },
+    {
+      "arquivo": "RET GEP - pedido generico2.docx",
+      "nome": "Ret Gep Pedido Generico2",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3164,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET GEP - pedido generico2.txt",
+      "conteudo_preview": "Processo nº:  0500007-65.2018.8.20.0132  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  EDILSON RAFAEL DE OLIVEIRA  Vistos etc.  Trata-se de pedido formulado pela defesa de Edilson Rafael de Oliveira (evento 277.1), requerendo a retificação da Guia de Execução Penal e a emissão de um novo atestado de pena, sob a alegação de erro no cálculo (evento 277.1).  O Ministério Público manifestou-se p...",
+      "data_extracao": "2026-01-22T02:13:48.831Z"
+    },
+    {
+      "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+      "nome": "Ret Indefere Monalisa Pedido Sem Fundamentacao",
+      "pasta": "retificacao",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 3207,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET - indefere monalisa pedido sem fundamentacao.txt",
+      "conteudo_preview": "Processo nº:  5000682-97.2021.8.20.0001  Classe Processual:  Execução da Pena  Assunto Principal:  Pena Privativa de Liberdade  Autoridade(s):  O ESTADO DO RIO GRANDE DO NORTE   Executado(s):  GUSTAVO SAMMY DUARTE DE MEDEIROS  Vistos, etc.  Postula o reeducando a retificação do atestado carcerário, apresentando fluxograma que, segundo sua exordial, demonstraria, mediante cálculos matemáticos, equívoco no cômputo dos dias remidos, pugnando que a previsão para progressão de regime seja alterada pa...",
+      "data_extracao": "2026-01-22T02:13:49.289Z"
+    },
+    {
+      "arquivo": "RET - pedido retificacao generico - indefere.docx",
+      "nome": "Ret Pedido Retificacao Generico Indefere",
+      "pasta": "retificacao",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 1328,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "RET - pedido retificacao generico - indefere.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos em razão de pedido formulado pelo apenado ANDRÉ BASÍLIO DA SILVA, por sua advogada, para que fosse atualizada a guia de situação carcerária, tendo em vista o indeferimento dos pedidos pleiteados anteriormente de livramento condicional e progressão de regime (evento 403.1).         Instado a se manifestar, o Ministério Público opinou pelo indeferimento do pedido (evento 406.1)     Relatados.   ...",
+      "data_extracao": "2026-01-22T02:13:49.300Z"
+    },
+    {
+      "arquivo": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+      "nome": "Ret Reconhecimento De Detracao De Monitoramento Cautelar Indefere",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 4462,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.txt",
+      "conteudo_preview": "Vistos, etc.  Executando-se pena privativa de liberdade em regime fechado, vieram-me conclusos os autos em razão de pedido formulado pelo apenado José Monteiro da Silva, requerendo o reconhecimento do período de monitoramento eletrônico cautelar (de 02/06/2020 a 29/11/2023) como tempo de pena cumprida, a ser detraído da pena privativa de liberdade para fins de progressão de regime (evento 20.1).  O Ministério Público manifestou-se pelo indeferimento do pleito, argumentando que no monitoramento c...",
+      "data_extracao": "2026-01-22T02:13:48.535Z"
+    },
+    {
+      "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+      "nome": "Retificação Da Gep Indefere Defesa Se Equivoca Na Formula Da Progressao",
+      "pasta": "decisoesvrep",
+      "agrupador": "retificacao",
+      "resultado": "indefere",
+      "formato": "docx",
+      "tamanho_chars": 5653,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": false,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.txt",
+      "conteudo_preview": "Trata-se de execução penal em desfavor do apenado acima nominado, em que a Defesa pugnou pela retificação da GEP, alegando que a secretaria lançou apenas 1 ano, 8 meses e 7 dias de pena cumprida, quando o apenado já cumpriu miais de 7 anos e 7 meses da pena.  Instado a se manifestar, o Ministério Público opinou pelo indeferimento do pedido.  Relatados.  Com razão o Ministério Público.  Aparentemente a Defesa confundiu o tempo cumprido até a data-base com o tempo total de pena cumprida.  Em análi...",
+      "data_extracao": "2026-01-22T02:13:48.849Z"
+    },
+    {
+      "arquivo": "REFORMA DE UNIFICAÇÕES.docx",
+      "nome": "Reforma De Unificações",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 4301,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "REFORMA DE UNIFICAÇÕES.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução de pena privativa de liberdade atualmente cumprida no regime fechado, em que a secretaria certificou erro material no somatório das penas  Relatados.  Inicialmente importa anotar que o apenado fora condenado a penas que unificadas anteriormente totalizavam 13 (treze) anos e 01 (um) mês de reclusão em regime fechado, enquanto a pena somada corresponde a 03 (três) anos e 06 (seis) meses.  Ocorre que a somatória final constante da decisão do ev. 95.1 menciona uma u...",
+      "data_extracao": "2026-01-22T02:13:49.763Z"
+    },
+    {
+      "arquivo": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.docx",
+      "nome": "Revogação De Unificação Em Razão De Acórdão",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 3568,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": false,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução em que foram as penas unificadas em 19 (dezenove) anos e 04 (quatro) meses de reclusão, a ser cumprida em regime fechado (evento 51.1), tratando-se a segunda condenação de execução provisória (ação penal nº 0106058-94.2020.8.20.0001).  Julgado o acórdão referente a ação penal 0106058-94.2020.8.20.0001, foi a ré absolvida em decisão transitada em julgado, conforme se observa na peça juntada aos autos (evento 115.1).  O Ministério Público se pronunciou pela retifi...",
+      "data_extracao": "2026-01-22T02:13:49.771Z"
+    },
+    {
+      "arquivo": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.docx",
+      "nome": "Unificada ^m Reclusao ^m Reclusao",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2257,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução cujas penas unificadas totalizaram XXX de reclusão no regime fechado (ações penais nºs ) impostas a XXX, que agora foi novamente condenado, desta feita a XXX de reclusão no regime fechado, ação penal nº XXX (evento 1.4).  Por oportuno, registro que enquanto as sentenças condenatórias das penas unificadas estão transitadas em julgado, a que ora é somada encontra-se em grau de recurso.  Anoto que o penitente se encontra custodiado na PEA – Penitenciária Estadual d...",
+      "data_extracao": "2026-01-22T02:13:49.848Z"
+    },
+    {
+      "arquivo": "UNIFICADA + RECLUSÃO + DETENÇÃO.docx",
+      "nome": "Unificada + Reclusão + Detenção",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 4706,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "UNIFICADA + RECLUSÃO + DETENÇÃO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução cujas penas unificadas totalizaram XXX de reclusão no regime fechado (ações penais nºs ) impostas a XXX, que agora foi novamente condenado, desta feita a XXX de detenção no regime aberto, ação penal nº  (evento 1.5).  Por oportuno, registro que todas as sentenças condenatórias transitaram em julgado.  Anoto que o penitente encontra-se custodiado na PEA – Penitenciária Estadual de Alcaçuz, conforme informações do SIAPEN nesta data.  Relatados.  Trata-se, na espéc...",
+      "data_extracao": "2026-01-22T02:13:49.814Z"
+    },
+    {
+      "arquivo": "UNIFICADA +  RECLUSAO + RECLUSAO.docx",
+      "nome": "Unificada + Reclusao + Reclusao",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2257,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "UNIFICADA +  RECLUSAO + RECLUSAO.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução cujas penas unificadas totalizaram XXX de reclusão no regime fechado (ações penais nºs ) impostas a XXX, que agora foi novamente condenado, desta feita a XXX de reclusão no regime fechado, ação penal nº XXX (evento 1.4).  Por oportuno, registro que enquanto as sentenças condenatórias das penas unificadas estão transitadas em julgado, a que ora é somada encontra-se em grau de recurso.  Anoto que o penitente se encontra custodiado na PEA – Penitenciária Estadual d...",
+      "data_extracao": "2026-01-22T02:13:49.802Z"
+    },
+    {
+      "arquivo": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.docx",
+      "nome": "Unificada Reclusão + Reclusão +resttritiva De Direitos",
+      "pasta": "old",
+      "agrupador": "unificacao",
+      "resultado": "indefinido",
+      "formato": "docx",
+      "tamanho_chars": 2895,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": true
+      },
+      "arquivo_texto": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de execução cujas penas unificadas totalizaram XXXX de reclusão no regime fechado (ações penais nºs ) imposta a XXX, que agora foi novamente condenado, desta feita a XXX de reclusão no regime aberto, pena que foi substituída por 02 (duas) penas restritivas de direito a serem fixadas pelo juízo da execução penal, ação penal nº  (evento XX).  Por oportuno, registro que todasas ações penais transitaram em julgado, inclusive a que ora é somada.  Anoto que a penitente encontra-s...",
+      "data_extracao": "2026-01-22T02:13:49.828Z"
+    },
+    {
+      "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.docx",
+      "nome": "Corregedoria Compartilhamento De Provas Ceme Deferimento",
+      "pasta": "decisoesvrep",
+      "agrupador": "vrep",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 4340,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de pedido formulado pela Delegada da 3ª Delegacia de Homicídios e Proteção à Pessoa de Natal/RN, requerendo que fosse fornecido relatório de movimentação do monitorado ALEF BRUNO OLIVEIRA DA SILVA, nos dias 30 e 31 de maio de 2021, para fins de instrução do inquérito policial nº 15.06/2021-DHZ01, processo nº: 0800155-04.2022.8.20.5001 (evento 1.1).  Instado a se manifestar, o Ministério Público opinou pela extração e compartilhamento das provas ao inquérito policial conform...",
+      "data_extracao": "2026-01-22T02:13:48.440Z"
+    },
+    {
+      "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.docx",
+      "nome": "Corregedoria Compartilhamento De Provas Ceme Deferimento2",
+      "pasta": "decisoesvrep",
+      "agrupador": "vrep",
+      "resultado": "defere",
+      "formato": "docx",
+      "tamanho_chars": 4631,
+      "tem_fillin": false,
+      "campos_fillin": [],
+      "estrutura": {
+        "tem_vistos": true,
+        "tem_relatados": true,
+        "tem_isso_posto": true,
+        "tem_pri": true,
+        "tem_cabecalho": false
+      },
+      "arquivo_texto": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.txt",
+      "conteudo_preview": "Vistos etc.  Trata-se de pedido formulado pela Delegada da 3ª Delegacia de Homicídios e Proteção à Pessoa de Natal/RN, requerendo que fosse fornecido relatório de movimentação do monitorado RONALDO DE OLIVEIRA FONTOURA, do dia 13/11/2023 ao dia 16/11/2023, para fins de instrução do inquérito policial nº 034.11/2023-3ª-DHPP, processo nº: 0811037-54.2024.8.50.5001 e ainda, se no intervalo de tempo indicado o monitorado esteve nas seguintes coordenadas geográficas: -5.796399035223733, -35.235714535...",
+      "data_extracao": "2026-01-22T02:13:48.472Z"
+    }
+  ]
+}

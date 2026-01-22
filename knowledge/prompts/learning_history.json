@@ -1,0 +1,16 @@
+[
+  {
+    "iteracao": 1,
+    "avgScore": 100,
+    "avgRatio": 0.9289507185209822,
+    "config": {
+      "instrucaoTamanho": "A decisão deve ter entre 3000 e 6000 caracteres.",
+      "instrucaoEstrutura": "ESTRUTURA: Vistos → Relatório → Relatados. → Fundamentação → Isso posto, → P.R.I.",
+      "numExemplos": 2,
+      "maxCharsExemplo": 5000,
+      "enfase": "IMPORTANTE: Seu texto deve ter tamanho SIMILAR aos exemplos.",
+      "multiplicadorTamanho": 1.3
+    },
+    "mudancas": []
+  }
+]

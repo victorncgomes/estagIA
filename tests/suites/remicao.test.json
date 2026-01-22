@@ -1,0 +1,78 @@
+{
+    "suite": "remicao",
+    "descricao": "Testes para matéria de remição (estudo, trabalho, leitura)",
+    "casos": [
+        {
+            "id": "rem-001",
+            "nome": "Remição por estudo - Deferimento ENEM",
+            "insumos": "Apenado requer remição por participação no ENEM. Obteve nota acima da média. RSPE favorável.",
+            "orientacao": "Deferir",
+            "agrupador": "remicao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_legal",
+                "citacao_lep_126"
+            ]
+        },
+        {
+            "id": "rem-002",
+            "nome": "Remição por estudo - Indeferimento sem acréscimo intelectual",
+            "insumos": "Apenado requer remição por curso de culinária básica (4h). MP opina pelo indeferimento por ausência de acréscimo intelectual.",
+            "orientacao": "Indeferir por falta de acréscimo intelectual",
+            "agrupador": "remicao",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_acrescimo_intelectual"
+            ]
+        },
+        {
+            "id": "rem-003",
+            "nome": "Remição por trabalho - Deferimento",
+            "insumos": "Apenado comprova 180 dias de trabalho na cozinha do presídio. Atestado da direção anexo.",
+            "orientacao": "Deferir remição de 60 dias",
+            "agrupador": "remicao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "calculo_correto_3_1"
+            ]
+        },
+        {
+            "id": "rem-004",
+            "nome": "Remição por leitura - Deferimento parcial",
+            "insumos": "Apenado apresenta 5 resenhas de obras literárias. 3 aprovadas, 2 reprovadas por insuficiência.",
+            "orientacao": "Deferir parcialmente (3 obras)",
+            "agrupador": "remicao",
+            "resultado_esperado": "parcial",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_parcial"
+            ]
+        },
+        {
+            "id": "rem-005",
+            "nome": "Remição ENCCEJA - Indeferimento mesmo fato gerador",
+            "insumos": "Apenado já obteve remição por ENCCEJA 2022. Agora requer novamente pelo mesmo exame.",
+            "orientacao": "Indeferir por mesmo fato gerador",
+            "agrupador": "remicao",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_bis_in_idem"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

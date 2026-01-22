@@ -1,0 +1,3576 @@
+[META]
+TITULO: Direito-Administrativo-32ed
+AUTOR: Maria Sylvia Zanella
+ANO: N/A
+EDICAO: 32
+EDITORA: Atlas
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: #Direito-Administrativo-32ed - 2019 - Maria Sylvia Zanella.pdf
+CITACAO_ABNT: ZANELLA, Maria Sylvia. Direito-Administrativo-32ed. 32. ed..
+[/META]
+
+[PAGINA 1]
+■
+■
+■
+■
+■
+■
+■
+A EDITORA FORENSE se responsabiliza pelos vícios do produto no que concerne à sua
+edição (impressão e apresentação a fim de possibilitar ao consumidor bem manuseá-lo e
+lê-lo).  Nem  a  editora  nem  o  autor  assumem  qualquer  responsabilidade  por  eventuais
+danos ou perdas a pessoa ou bens, decorrentes do uso da presente obra.
+Nas  obras  em  que  há  material  suplementar on-line,  o  acesso  a  esse  material  será
+disponibilizado somente durante a vigência da respectiva edição. Não obstante, a editora
+poderá franquear o acesso a ele por mais uma edição.
+Todos os direitos reservados. Nos termos da Lei que resguarda os direitos autorais, é
+proibida a reprodução total ou parcial de qualquer forma ou por qualquer meio, eletrônico
+ou  mecânico,  inclusive  através  de  processos  xerográficos,  fotocópia  e  gravação,  sem
+permissão por escrito do autor e do editor.
+Impresso no Brasil – Printed in Brazil
+Direitos exclusivos para o Brasil na língua portuguesa
+Copyright © 2019 by
+EDITORA FORENSE LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11 – Térreo e 6º andar – 20040-040 – Rio de Janeiro – RJ
+Tel.: (21) 3543-0770 – Fax: (21) 3543-0896
+faleconosco@grupogen.com.br | www.grupogen.com.br
+O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de qualquer forma
+utilizada poderá requerer a apreensão dos exemplares reproduzidos ou a suspensão da
+divulgação, sem prejuízo da indenização cabível (art. 102 da Lei n. 9.610, de 19.02.1998).
+Quem vender, expuser à venda, ocultar, adquirir, distribuir, tiver em depósito ou utilizar
+obra ou fonograma reproduzidos com fraude, com a finalidade de vender, obter ganho,
+vantagem, proveito, lucro direto ou indireto, para si ou para outrem, será solidariamente
+responsável com o contrafator, nos termos dos artigos precedentes, respondendo como
+contrafatores o importador e o distribuidor em caso de reprodução no exterior (art. 104 da
+Lei n. 9.610/98).
+Capa: Danilo Oliveira
+Produção digital: Geethik
+Data de fechamento: 14.01.2019
+ 
+
+■CIP – BRASIL. CATALOGAÇÃO NA FONTE.
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ.
+D524d
+Di Pietro, Maria Sylvia Zanella
+Direito administrativo / Maria Sylvia Zanella Di Pietro. – 32. ed. – Rio de Janeiro: Forense,
+2019.
+Inclui bibliografia
+ISBN 978-85-309-8482-3
+1. Direito administrativo – Brasil. I. Título.
+18-54384CDU: 342.9(81)
+Vanessa Mafra Xavier Salgado - Bibliotecária - CRB-7/6644
+
+ 
+ 
+ 
+Ao Professor José Cretella Júnior, pela
+amizade, pelo incentivo e pelo apoio de valor
+inestimável.
+
+Além  das  costumeiras  correções  e  aperfeiçoamentos  na  redação,  esta
+edição atualiza a legislação promulgada no corrente exercício, em especial a
+LINDB – Lei de Introdução às Normas do Direito Brasileiro (Decreto-lei nº
+4.657,  de  4-9-42),  este  ano  acrescida  de  vários  dispositivos  pela  Lei  nº
+13.655,  de  25-4-18,  com  significativos  reflexos  no  âmbito  do  Direito
+Administrativo.  Já  conhecida  como  “lei
+[/PAGINA 1]
+
+[PAGINA 2]
+da  segurança  jurídica”,  ela  é
+relevante para aplicação de vários princípios do Direito Administrativo. Por
+isso, além de comentários genéricos sobre as inovações da lei, no Capítulo 3,
+item 3.3, ela é ainda analisada em relação aos princípios da motivação, da
+proporcionalidade, da eficiência, da consensualidade, do non bis in idem, este
+último limitando à cumulação de penalidades da mesma natureza pela prática
+do mesmo ilícito. A lei ainda exigiu referência e análise em relação a outros
+temas  do  Direito  Administrativo,  como  o  das  sanções,  impostas  inclusive
+com base nas leis de improbidade administrativa e anticorrupção, além do
+tema  do  controle,  amplamente  alcançado  pelos  efeitos  da  lei.  Tem-se  a
+impressão de que o grande alvo da lei foram os órgãos de controle.
+Outras leis e decretos foram mencionados no livro, como o Decreto nº
+9.427,  de  28-6-18,  que  reserva  aos  negros  trinta  por  cento  das  vagas
+oferecidas  nas  seleções  para  estágio  no  âmbito  da  administração  pública
+
+federal direta, autárquica e fundacional, e o Decreto nº 9.508, de 24-9-18, que
+reserva  às  pessoas  com  deficiência  percentual  de  cargos  e  de  empregos
+públicos ofertados em concursos públicos e em processos seletivos no âmbito
+da administração pública federal direta e indireta.
+Ainda  merece  referência  o  Decreto  nº  9.507,  de  21-9-18,  que,
+interessando  ao  tema  das  terceirizações,  dispõe  sobre  a  execução  indireta,
+mediante  contratação,  de  serviços  da  administração  pública  federal  direta,
+autárquica  e  fundacional  e  das  empresas  públicas  e  das  sociedades  de
+economia mista controladas pela União. A lei indica as hipóteses em que essa
+terceirização é cabível.
+
+Estudando-se o Direito Administrativo desde o seu nascimento, com o
+Estado de Direito até os dias atuais, constata-se a ampliação do seu conteúdo
+e  as  frequentes  mutações  que  vem  sofrendo,  intensificadas,  no  direito
+brasileiro,  com  a  entrada  em  vigor  da  Constituição  de  1988  e,  mais
+recentemente, das Constituições estaduais.
+Isto  se  explica,  de  um  lado,  pelo  sensível  acréscimo  das  funções
+assumidas  pelo  Estado  como  consequência  das  crescentes  necessidades
+coletivas  nos  âmbitos  econômico  e  social.  O  conceito  de  serviço  público
+ampliou-se  para  abranger  serviços  sociais,  comerciais  e  industriais,  antes
+privativos do particular; o poder de polícia estendeu-se a áreas onde antes não
+se  fazia  necessário,  como  a  proteção  ao  meio  ambiente  e  a  defesa  do
+consumidor; a atuação do Estado estendeu-se, também, à esfera da atividade
+econômica de natureza privada.
+Mas, paralelamente, a nova Constituição trouxe princípios inovadores que
+refletem  o  espírito  democrático  que  norteou  a  sua  elaboração;  nota-se  a
+preocupação  em  restringir  a  autonomia  administrativa,  aumentando  o
+controle  dos  demais  Poderes  sobre  a  Administração  Pública  e  inserindo  a
+participação popular na fu
+[/PAGINA 2]
+
+[PAGINA 3]
+nção fiscalizadora.
+O Direito Administrativo assume, pois, feição nova. Não é fácil discorrer
+
+sobre ele, porque a fase é de aprendizado, de interpretação, de assimilação de
+novos  conceitos  e  princípios;  o  momento  é  de  elaboração  legislativa,
+doutrinária e jurisprudencial; muita coisa há por fazer.
+Mas a dificuldade não pode deter ou atemorizar quem exerce a função de
+Procurador do Estado há vinte anos e faz do estudo do direito administrativo
+objeto  de  trabalho  no  dia  a  dia,  na  difícil  missão  de  defesa  da  legalidade
+administrativa, combinada com o exercício do Magistério na mesma área.
+Vivemos o direito administrativo cotidianamente e acompanhamos a sua
+constante  evolução,  facilmente  perceptível  pela  quantidade  de  leis  e
+regulamentos que se editam nessa área, revelando um aspecto de flexibilidade
+que lhe é próprio e inevitável em face da dinâmica dos interesses públicos
+que a Administração deve atender.
+O  livro  cuida  dos  vários  temas  do  Direito  Administrativo,  começando
+pelo  seu  conceito,  origem  e  objetivo,  passando  para  o  exame  da
+Administração Pública em sentido objetivo (serviço público, poder de polícia,
+atos e contratos, licitação) e em sentido subjetivo (pessoas jurídicas, órgãos e
+agentes  públicos)  para,  a  seguir,  analisar  os  instrumentos  de  atuação
+(processo  administrativo  e  bens  públicos),  deixando  para  a  parte  final  a
+matéria  relativa  ao  controle,  já  que  este  incide  sobre  vários  aspectos  da
+atuação administrativa.
+A Autora
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+Livros
+Servidão administrativa. São Paulo: Revista dos Tribunais, 1978.
+Uso privativo de bem público por particular. 3. ed. São Paulo: Atlas,
+2014.
+Do direito privado na administração pública. São Paulo: Atlas, 1989.
+Direito administrativo. 31. ed. Rio de Janeiro: Forense, 2018.
+Discricionariedade administrativa na Constituição de 1988. 3. ed. São
+Paulo: Atlas, 2012.
+Temas  polêmicos  sobre  licitações  e  contratos.  5.  ed.  São  Paulo:
+Malheiros, 2001 (em coautoria).
+Parcerias na administração pública: concessão, permissão, franquia,
+terceirização, parceria público-privada e outras formas. 11. ed. Rio de
+Janeiro: Forense, 2017.
+Direito  regulatório.  Temas  polêmicos  (organizadora).  2.  ed.  Belo
+Horizonte: Fórum, 2004.
+Supremacia do interesse público e outros temas relevantes do direito
+administrativo  (coordenação,  juntamente  com  Carlos  Vinícius  Alves
+Ribeiro). São Paulo: Atlas, 2010.
+
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+1.
+2.
+3.
+4.
+5.
+Servidores públicos na Constituição de 1988. 3. ed. São Paulo: Atlas,
+2015 (em coautoria com Fabrício Motta e Luciano de Araújo Ferraz).
+Direito privado administrativo (organização). São Paulo: Atlas, 2013.
+Tratado de direito administrativo (coordenação). São Paulo: Revista dos
+Tribunais, 2014. 7 volumes.
+Teoria  geral  e  princípios  do  direito  administrativo.  In:  DI  PIETRO,
+Maria Sylvia Zanella. Tratado de direito administrativo. São Paulo, v. 1,
+Parte I, p. 29-237.
+[/PAGINA 3]
+
+[PAGINA 4]
+Administração  Pública  e  servidores  públicos.  In:  DI  PIETRO,  Maria
+Sylvia  Zanella. Tratado de direito administrativo.  São  Paulo:  Revista
+dos Tribunais, 2014, v. 2, Parte I, capítulo 9, e Parte II, p. 265-573.
+Direito administrativo – Pareceres. São Paulo: Forense, 2015.
+Teses jurídicas dos tribunais superiores. (coordenação juntamente com
+Irene Patrícia Nohara). Direito Administrativo, v. I, II e III. São Paulo:
+Revista dos Tribunais, 2017.
+Lei anticorrupção comentada  (coordenação  em  conjunto  com  Thiago
+Marrara). Belo Horizonte: Fórum, 2017.
+Artigos e Pareceres
+Cremação de cadáveres. Revista da Procuradoria Geral do Estado, São
+Paulo, v. 7, p. 213-302, dez. 1975.
+Autarquias.  Regime  de  dedicação  exclusiva.  Ilegalidade. Revista  da
+Procuradoria Geral do Estado, São Paulo, v. 11, p. 535-543, dez. 1977.
+Tribunal de Contas. Fundações públicas. Revista da Procuradoria Geral
+do Estado, São Paulo, v. 12, p. 619-629, jun. 1978.
+As competências no Estado Federal. Revista da Procuradoria Geral do
+Estado, v. 13/15, p. 237-262, dez. 1978-1979.
+Isenção  de  tarifas  relativas  às  travessias  por  balsas.  Preço  público.
+Boletim da Procuradoria Geral do Estado, São Paulo, v. 3, p. 659-661,
+
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+ago. 1979.
+Natureza dos bens das empresas estatais. Revista da Procuradoria Geral
+do Estado, São Paulo, v. 30, p. 173-186.
+Fundações públicas. Revista de Informação Legislativa, ano 26, nº 101,
+p. 173-182, jun./mar. 1989.
+Conceito e princípios da licitação. Boletim de Licitação e Contratos, p.
+73-80, dez. 1988.
+A gestão do patrimônio imobiliário do Estado. Cadernos Fundap, ano 9,
+nº 17, p. 55-65, dez. 1989.
+Concurso público. Natureza jurídica da importância paga para fins de
+inscrição. Boletim da Procuradoria Geral do Estado, v. 12, p. 198-200,
+jun. 1988.
+Da exigência de concurso público na Administração Indireta. RDP nº
+93, p. 129-132.
+Sociedade de economia mista. Incorporação. Necessidade de autorização
+legislativa. Boletim de Direito Administrativo, ano 6, nº 11, p. 599-603,
+nov. 1990.
+Contratação de professores estrangeiros perante a Constituição Federal
+de 1988. RDP nº 97, p. 76-80, 1991.
+Fundação.  Personalidade  de  direito  privado.  Admissão  de  pessoal.
+Boletim de Direito Administrativo, ano 7, nº 10, p. 561-564, out. 1991.
+Funcionário  público.  Acumulação  de  cargos  e  funções.  Proventos.
+Boletim de Direito Administrativo, nº 10, p. 561-564, out. 1991.
+Polícia do meio ambiente. Revista Forense, v. 317, p. 179-187, 1992.
+Participação  popular  na  Administração  Pública. Revista Trimestral de
+Direito Público, v. 1, p. 127-139.
+Processo  administrativo.  Garantia  do  administrado. Revista de Direito
+Tributário, nº 58, p. 113-139, out./dez. 1991.
+
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+Servidor  público.  Incompetência  da  Justiça  do  Trabalho  para  julgar
+dissídios de servidores públicos estatutários. Comentários a acórdão do
+STF. Revista de Direito do Trabalho, nº 4, p. 379-38
+[/PAGINA 4]
+
+[PAGINA 5]
+5, abr. 1993.
+Responsabilidade administrativa do servidor público. Revista de Direito
+Administrativo Aplicado, v. 4, p. 29-36, mar. 1995.
+Fundação governamental. Personalidade de direito privado. Revista de
+Direito Administrativo Aplicado, v. 3/784-794, mar. 1994.
+Da  franquia  na  Administração  Pública. Boletim  de  Direito
+Administrativo,  nº  3,  p.  131-151,  mar.  1995,  e Revista  de  Direito
+Administrativo, v. 199, p. 131-140, jan./mar. 1995.
+Responsabilidade  do  Estado  por  ato  jurisdicional. Revista  de  Direito
+Administrativo, v. 198, p. 85-96, out./dez. 1994.
+Mandado  de  segurança:  ato  coator  e  autoridade  coatora.  In:
+GONÇALVES,  Aroldo  Pínio  (Coord.). Mandado de Segurança.  Belo
+Horizonte: Del Rey, 1996.
+Coisa  julgada.  Aplicabilidade  a  decisões  do  Tribunal  de  Contas  da
+União. Revista do Tribunal de Contas da União, v. 27, nº 70, p. 23-36,
+out./dez. 1996.
+As  carreiras  jurídicas  e  o  controle  da  Administração  Pública. Revista
+Jurídica de Osasco, v. 3, p. 59-68, 1996.
+Contratos de gestão. Contratualização do controle administrativo sobre a
+administração  indireta  e  sobre  as  organizações  sociais. Revista  da
+Procuradoria  Geral  do  Estado  de  São  Paulo,  v.  45-46,  p.  173-194,
+jan./dez. 1996.
+Advocacia  pública. Revista  Jurídica  da  Procuradoria  Geral  do
+Município de São Paulo, v. 3, p. 11-30, dez. 1996.
+Necessidade  de  motivação  do  ato  de  dispensa  de  servidor  celetista.
+Revista Trimestral de Direito Público, v. 13, p. 74-76, 1996.
+O  sistema  de  parceria  entre  os  setores  público  e  privado. Boletim de
+
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+Direito Administrativo, São Paulo: NDJ, nº 9, p. 586-590, set. 1997.
+A Reforma Administrativa e os contratos de gestão. Revista Licitar, ano
+1, nº 4, p. 10-19, out. 1997.
+O  que  muda  na  remuneração  dos  servidores?  (subsídios). Boletim de
+Direito Administrativo, São Paulo: NDJ, nº 7, p. 421-428, jul. 1998.
+A  defesa  do  cidadão  e  da res  publica. Revista  do  Serviço  Público,
+Fundação Nacional Escola Nacional de Administração Pública, ano 49,
+nº 2, p. 127-132, abr./jun. 1998.
+500 anos de direito administrativo. Cadernos de Direito e Cidadania II
+– Instituto de Estudos de Direito e Cidadania. São Paulo: Artchip, 2000,
+p. 39-69.
+Reforma administrativa. Anais da XVII Conferência Nacional da OAB.
+Rio de Janeiro, v. 1, p. 579-587.
+Teto  salarial  posterior  à  Emenda  Constitucional  nº  19/98. Boletim de
+Direito Administrativo, São Paulo: NDJ, nº 12, p. 893-903, dez. 2000.
+Previdência  Social  do  servidor  público. Revista Trimestral de Direito
+Público, São Paulo, v. 26, p. 168-185, 1999.
+Agências  executivas,  agências  reguladoras  e  organizações  sociais.
+Boletim de Direito Municipal, São Paulo: NDJ, nº 12, p. 745-767, dez.
+2000.
+Atos administrativos. Elementos. Poder discricionário face ao princípio
+da legalidade. Boletim de Direito Municipal, São Paulo: NDJ, nº 11, p.
+669-691, 2000.
+Comentários  à  Lei  de  Responsabilidade  Fis
+[/PAGINA 5]
+
+[PAGINA 6]
+cal  (arts.  18  a  28).  In:
+MARTINS,  Ives  Gandra  da  Silva;  NASCIMENTO,  Carlos  Valder  do
+(Org.). 6. ed. São Paulo: Saraiva, 2012, p. 182-237.
+As  inovações  constitucionais  no  regime  previdenciário  do  servidor
+público. Fórum Administrativo, Belo Horizonte, ano 1, nº 2, p. 163-175,
+abr. 2001.
+
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+As  novas  regras  para  os  servidores  públicos.  In: Cadernos
+FUNDAP/Fundação  do  Desenvolvimento  Administrativo.  São  Paulo:
+FUNDAP, 2002, nº 22. Reforma Administrativa.
+Compartilhamento  de  infraestrutura  por  concessionárias  de  serviços
+públicos. Fórum  Administrativo  –  Direito  Público,  Belo  Horizonte:
+Fórum, ano 2, nº 11, p. 43-52, jan. 2002.
+Aspectos jurídicos envolvendo o uso de bens públicos para implantação
+e instalação do serviço de telefonia. Fórum de Contratação e Gestão
+Pública, Belo Horizonte: Fórum, ano 1, nº 1, p. 38-48, jan. 2002.
+Concessão de uso especial para fins de moradia (Medida Provisória nº
+2.220,  de  4-9-2001). Estatuto  da  cidade:  comentários  à  Lei  Federal
+10.257/2001. São Paulo: Malheiros, 2002, p. 152-170.
+Direito  de  superfície. Estatuto  da  cidade:  comentários  à  Lei  Federal
+10.257/2002. São Paulo: Malheiros, 2002, p. 172-190.
+Terceirização  municipal  em  face  da  Lei  de  Responsabilidade  Fiscal.
+Revista de Direito Municipal. Belo Horizonte: Fórum, no 1, ano 4, no 7,
+p. 40-50, jan./fev./mar. 2003.
+Limites  da  função  reguladora  das  agências  diante  do  princípio  da
+legalidade. Direito  Regulatório.  Temas  Polêmicos.  Belo  Horizonte:
+Fórum, 2003. p. 27-60.
+O  equilíbrio  econômico-financeiro  e  o  controle  das  agências
+reguladoras. O  controle  externo  da  regulação  de  serviços  públicos.
+Brasília: Tribunal de Contas da União, 2002, p. 55-65.
+Transporte alternativo de passageiros por “perueiros”. Poder de polícia
+do  Município. Direito  Público  Moderno.  Org.  por  Luciano  Ferraz  e
+Fabrício Motta. Belo Horizonte: Del Rey, 2003, p. 3.
+Função  social  da  propriedade  pública. Direito  Público.  Estudos  em
+homenagem ao Prof. Adilson Abreu Dallari. Org. por Luiz Guilherme da
+Costa Wagner Júnior. Belo Horizonte: Del Rey, 2004.
+
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+Inovações  no  direito  administrativo  brasileiro.  In: Revista  Interesse
+Público. Porto Alegre: Notadez, ano 6, nº 30, 2005, p. 39-55.
+Regulação, poder estatal e controle social. In: Revista de Direito Público
+da Economia. Belo Horizonte: Fórum, nº 11, jul./set. 2005, p. 163-172.
+Bens públicos e trespasse de uso. In: Boletim de Direito Administrativo.
+São Paulo: NDJ, nº 4, abr. 2005, p. 403-412.
+Concessões de serviços públicos. In: Boletim de Licitações e Contratos.
+São Paulo: NDJ, nº 3, mar. 2006, p. 210-219.
+Discricionariedade técnica e discricionariedade administrativa. Estudos
+de direito público em homenagem a Celso Antônio Bandeira de Mello.
+São Paulo: Malheiros, 2006, p. 480-504.
+Omissões na atividade regulatória do Estado e responsabilidade civil das
+agência
+[/PAGINA 6]
+
+[PAGINA 7]
+s  reguladoras.  In:  FREITAS,  Juarez  (Org.). Responsabilidade
+civil do Estado. São Paulo: Malheiros, 2006, p. 249-267.
+O consórcio público na Lei nº 11.107, de 6-4-05. In: Boletim de Direito
+Administrativo. São Paulo: NDJ, nº 11, nov. 2005, p. 1220-1228.
+Os princípios da proteção à confiança, da segurança jurídica e da boa-fé
+na anulação do ato administrativo. In: MOTTA, Fabrício (Org.). Estudos
+em  homenagem  ao  Professor  Nélson  Figueiredo.  Belo  Horizonte:
+Fórum, 2008. p. 295-315.
+O  princípio  da  supremacia  do  interesse  público:  sobrevivência  diante
+dos ideais do neoliberalismo. In: Revista Trimestral de Direito Público.
+São Paulo: Malheiros, v. 48, p. 63-76, 2004; e Jam-Jurídica, ano XIII,
+nº 9, set. 2008, p. 32-45.
+Parecer sobre a exclusividade das atribuições da carreira de Advogado
+da União. In: Revista de Direito dos Advogados da União, ano 7, nº 7,
+out. 2008, p. 11-35.
+Direito adquirido: comentário a acórdão do STF. Fórum Administrativo
+– Direito Público. Belo Horizonte: Fórum, 2007, nº 81, ano 6, p. 7-16.
+
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+O  princípio  da  supremacia  do  interesse  público.  In: Revista Interesse
+Público. Belo Horizonte: Fórum, jul./ago. 2009, ano 11, nº 56, p. 35-54.
+Gestão  de  florestas  públicas  por  meio  de  contratos  de  concessão.  In:
+Revista do Advogado. São Paulo: AASP – Associação dos Advogados
+de São Paulo, dez. 2009, nº 107, p. 140-149.
+O  Ministério  Público  como  função  essencial  à  justiça.  In: Ministério
+Público – Reflexões sobre princípios e funções institucionais. Org. por
+Carlos Vinícius Alves Ribeiro. São Paulo: Atlas, 2010, p. 3-12.
+Servidores temporários. Lei no 500/1974. Inclusão no regime próprio de
+previdência do servidor público. In: Revista da Procuradoria Geral do
+Estado de São Paulo, nº 69-70, jan./dez. 2009, p. 221-237.
+Transformações da organização administrativa. Diretrizes, relevância e
+amplitude  do  anteprojeto.  In:  Modesto,  Paulo  (Coord.). Nova
+organização administrativa brasileira.  2.  ed.  Belo  Horizonte:  Fórum,
+2010, p. 21-33.
+Das entidades paraestatais e das entidades de colaboração. In: Modesto,
+Paulo (Coord.). Nova organização administrativa brasileira. 2. ed. Belo
+Horizonte: Fórum, 2010, p. 239-255.
+Existe um novo direito administrativo? In: DI PIETRO, Maria Sylvia
+Zanella;  RIBEIRO,  Carlos  Vinícius  Alves  (Coord.). Supremacia  do
+interesse público e outros temas relevantes do direito administrativo.
+São Paulo: Atlas, 2010, p. 1-9.
+O  princípio  da  supremacia  do  interesse  público:  sobrevivência  diante
+dos  ideais  do  neoliberalismo.  In:  DI  PIETRO,  Maria  Sylvia  Zanella;
+RIBEIRO,  Carlos  Vinícius  Alves  (Coord.). Supremacia  do  interesse
+público e outros temas relevantes do direito administrativo. São Paulo:
+Atlas, 2010, p. 85-102.
+Da  constitucionalização  do  direito  administrativo:  reflexos  sobre  o
+princípio  da  legalidade  e  a  discricionariedade  administrativa.  In:  DI
+
+72.
+73.
+74.
+75.
+76.
+77.
+PIETRO,  Maria  Sylvia
+[/PAGINA 7]
+
+[PAGINA 8]
+Zanella;  RIBEIRO,  Carlos  Vinícius  Alves
+(Coord.). Supremacia do interesse público e outros temas relevantes do
+direito  administrativo.  São  Paulo:  Atlas,  2010,  p.  175-196;  e
+Atualidades  Jurídicas  –  Revista  do  Conselho  Federal  da  Ordem  dos
+Advogados do Brasil, ano 1, nº 1, jul./dez. 2011, Belo Horizonte: Fórum,
+2011, p. 83-106.
+Ainda  existem  os  contratos  administrativos?  In:  DI  PIETRO,  Maria
+Sylvia Zanella; RIBEIRO, Carlos Vinícius Alves (Coord.). Supremacia
+do interesse público e outros temas relevantes do direito administrativo.
+São Paulo: Atlas, 2010, p. 398-410.
+Responsabilidade  civil  das  entidades  paraestatais.  In:  GUERRA,
+Alexandre  Dartanhan  de  Mello;  PIRES,  Luis  Manuel  Fonseca;
+BENACCHIO,  Marcelo  (Org.). Responsabilidade  civil  do  Estado:
+desafios contemporâneos. São Paulo: Quartier Latin, 2010, p. 824-842.
+A lei de processo administrativo federal: sua ideia matriz e âmbito de
+aplicação.  In:  NOHARA,  Irene  Patricia;  MORAES  FILHO,  Marco
+Antonio Praxedes de (Org.). Processo administrativo. Temas polêmicos
+da Lei nº 9.784/99. São Paulo: Atlas, 2011, p. 185-201.
+Princípio da segurança jurídica no direito administrativo. In: BOTTINO,
+Marco Túlio (Org.). Segurança jurídica no Brasil. São Paulo: RG, 2012,
+p. 159-188.
+Terceirização municipal em face da lei de responsabilidade fiscal (com
+adendo:  inovações  em  matéria  de  terceirização  na  Administração
+Pública).  In:  FORTINI,  Cristiana  (Coord.). Terceirização  na
+Administração  Pública.  Estudos  em  homenagem  ao  Professor  Pedro
+Paulo de Almeida Dutra. 2. ed. Belo Horizonte: Fórum, 2012, p. 71-87.
+Serviços  públicos.  In:  DALLARI,  Adilson  Abreu;  NASCIMENTO,
+Carlos Valder do; MARTINS, Ives Gandra da Silva. Tratado de direito
+administrativo. São Paulo: Saraiva, 2013, v. 2, p. 292-317.
+
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+Direito  fundamental  à  intimidade  e  publicação  da  remuneração  dos
+agentes públicos. In: Revista de Direito Administrativo Contemporâneo,
+São Paulo: Revista dos Tribunais, ano 1, nº 1, jul./ago. 2013, p. 15-26.
+Direito  administrativo  e  dignidade  da  pessoa  humana.  In: Revista de
+Direito Administrativo & Constitucional, Belo Horizonte: Fórum, ano
+13, nº 52, abr./jul. 2013, p. 13-33.
+Do  direito  privado  na  Administração  Pública.  In:  DI  PIETRO,  Maria
+Sylvia Zanella. Direito privado administrativo. São Paulo: Atlas, 2013.
+p. 1-20.
+Limites  da  utilização  de  princípios  do  processo  judicial  no  processo
+administrativo. In: Fórum Administrativo, Belo Horizonte: Fórum, ano
+13, nº 147, maio 2013, p. 44-60.
+Da  estabilidade  do  servidor  público.  In:  CANOTILHO,  J.  J.  Gomes;
+MENDES,  Gilmar  Ferreira;  STRECK,  Lenio  Luiz;  LEONCY,  Léo
+Ferreira. Comentários  à  Constituição  do  Brasil.  São  Paulo:  Saraiva,
+2014. p. 981-989 e 2211-2216.
+O  papel  dos  Tribunais  de  Contas  no  controle  dos  contratos
+administrativos. In: Revista Interesse Público. Belo Horizonte: Fórum,
+ano XII, 2013, nº 82,
+[/PAGINA 8]
+
+[PAGINA 9]
+p. 15-48.
+Participação popular na Administração Pública. In: Revista Trimestral
+de  Direito  Público.  São  Paulo:  Malheiros,  n.  59,  p.  226-239
+(republicação).
+Parecer:  Alteração  da  poligonal  de  porto  organizado:  requisitos
+materiais, segundo a Lei 12.815/13. Revista de Direito Administrativo
+Contemporâneo – ReDAC.  São  Paulo:  RT,  ano  3,  vol.  17,  mar-abril
+2015, p. 13-27.
+Parecer:  Consulta  pública  realizada  para  discussão  de  proposta  de
+alteração da poligonal do Porto Organizado de Paranaguá e Antonina,
+apresentada  pela  Secretaria  Especial  de  Portos  da  Presidência  da
+
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+República.  In: Boletim de Licitações e Contratos  –  BLC.  São  Paulo:
+NDJ, 2015, nº 5, maio, ano 28, p. 479-501.
+Parecer:  Cobrança  de  tarifa  independentemente  da  conclusão  do
+mecanismo  de  tratamento  do  esgoto:  exame  dos  aspectos  de
+constitucionalidade e legalidade. In: Boletim de Licitações e Contratos –
+BLC.  São  Paulo:  NDJ,  nº  6,  ano  28,  jun-2015,  p.  599-616; Direito
+administrativo. Pareceres. São Paulo: Forense, 2015, p. 525-551.
+Terceirização municipal em face da Lei de Responsabilidade Fiscal. In:
+Fórum de Contratação e Gestão Pública. Belo Horizonte: Fórum, ano
+14, nº 161, maio 2015, p. 36-44.
+O  regime  das  licitações  para  os  contratos  de  concessão.  In:
+SUNDFELD,  Carlos  Ari;  JUSSATIS,  Guilherme  Jardim. Contratos
+públicos e direito administrativo. São Paulo: Malheiros, 2015. p. 114-
+141.
+As  possibilidades  de  arbitragem  em  contratos  administrativos.  In:
+www.conjur.com.br, 24-9-15.
+Cassação  de  aposentadoria  afronta  regime  previdenciário  dos
+servidores. In: www.conjur.com.br, 15-4-15.
+Responsabilização  dos  advogados  públicos  pela  elaboração  de
+pareceres. In: www.conjur.com.br, 20-8-15.
+Politização do Judiciário pode opor interesses individuais e coletivos.
+In: www.conjur.com.br, 28-5-15.
+Princípios  do  processo  administrativo  no  novo  CPC.   In:
+www.conjur.com.br, 29-10-2015.
+Princípios  do  processo  civil  no  processo  administrativo.  In:
+www.conjur.com.br, 10-12-15.
+Supremacia do interesse público e a questão dos direitos fundamentais.
+In:   BLANCHET,   Luiz   Alberto;   HACHEM,   Daniel   Wunder;
+SANTANO, Ana Cláudia (coordenadores). Estado, Direito & Políticas
+
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+Públicas.  Homenagem  ao  Professor  Romeu  Felipe  Bacellar  Filho.
+Curitiba: Íthala, 2014, p. 23-37.
+Estudo sobre o artigo 27 do Projeto de Lei nº 349/2015, que inclui, na
+Lei  de  Introdução  às  Normas  do  Direito  Brasileiro,  disposições  para
+aumentar  a  segurança  jurídica  e  a  eficiência  na  aplicação  do  direito
+público. In: PEREIRA, Flávio Unes (Coord.); ANASTASIA, Antonio
+Augusto  Junho  (apresentação). Segurança  jurídica  e  qualidade  das
+decisões  públicas.  Desafios  de  uma  sociedade  democrática.  Brasília:
+Senado Federal, 2015, p. 36-39.
+Advocacia  pública  e  sua  atuação  no  procedimento  licitatório:
+fundamentos,  l
+[/PAGINA 9]
+
+[PAGINA 10]
+imites  e  responsabilização  (em  coautoria  com  Fabrício
+Motta). In: Revista de Direito Administrativo – RDA, Rio de Janeiro:
+FGV, vol. 270, set.-dez. 2015, p. 285-299.
+Carreiras e remuneração no serviço público. In: Fórum Administrativo.
+Belo Horizonte: Fórum, ano 16, nº 186, I, ago. 2016, p. 76-82.
+A arbitragem em contratos administrativos. Repercussões da Nova Lei
+nº  13.129,  de  26-5-15.  In:  CÂMARA,  Alexandre  Freitas;  PIRES,
+Adilson  Rodrigues;  e  MARÇAL,  Thaís  Boia  (coords.). Estudos  de
+direito  administrativo  em  homenagem  ao  Prof.  Jessé  Torres  Pereira
+Júnior. Belo Horizonte: Fórum, 2016, p. 273-285.
+Contratos – Regime jurídico e formalização. Artigos 54 a 64 da Lei nº
+8.666/1993. In: PEREIRA JUNIOR, Jessé Torres (coord.). Comentários
+ao Sistema Legal Brasileiro de Licitações e Contratos Administrativos.
+São Paulo: NDJ, 2016, p. 319-349.
+A  advocacia  pública  como  função  essencial  à  justiça.  In:
+www.conjur.com.br, 18-8-16.
+Quando  o  reajuste  salarial  contraria  o  interesse  público.  In:
+www.conjur.com.br, 23-6-16.
+Princípios  do  processo  administrativo  no  novo  Código  de  Processo
+
+105.
+106.
+107.
+108.
+109.
+110.
+111.
+Civil.  In:  PONTES  FILHO,  Valmir;  MOTTA,  Fabrício;  GABARDO,
+Emerson  (coords.). Administração  Pública  –  Desafios  para  a
+transferência,  probidade  e  desenvolvimento.  Belo  Horizonte:  Fórum,
+2017, p. 229-232.
+Comentários  a  teses  do  STJ.  In: Teses  jurídicas  dos  Tribunais
+Superiores.  São  Paulo:  Revista  dos  Tribunais,  2017,  v.  I,  p.  45-56,
+(sobre independência das instâncias administrativa e penal); e v. II, p.
+595-610  e  661-676  (respectivamente  sobre  termo  inicial  dos  juros
+compensatórios na desapropriação direta e indireta e sobre cumulação de
+juros moratórios e juros compensatórios na desapropriação).
+Comentários aos artigos 6º, 7º, 18, 19 e 24 da lei anticorrupção. In: DI
+PIETRO, Maria Sylvia Zanella; MARRARA, Thiago. Lei anticorrupção
+comentada. Belo Horizonte: Fórum, p. 115-140, 243-254 e 279-280.
+Princípios  do  processo  administrativo  no  novo  Código  de  Processo
+Civil. Administração Pública. Desafios para a transparência, probidade e
+desenvolvimento.   XXIX   Congresso   Brasileiro   de   Direito
+Administrativo. Belo Horizonte: Fórum, 2017, p. 229-232.
+Terceirização  e  subcontratação  de  atividades  inerentes  à  concessão:
+distinções necessárias. Revista Interesse Público – IP. Ano 20, nº 107.
+Belo Horizonte: Fórum, p. 15-33, jan./fev.2018.
+Concessões, permissões e autorizações de serviços públicos municipais.
+In: NASCIMENTO, Carlos Valder; DI PIETRO, Maria Sylvia Zanella;
+MENDES,  Gilmar  (coords.). Tratado  de  Direito  Municipal.  Belo
+Horizonte: Fórum, 2018, p. 681-710.
+Entrevista com o Mestre. In: Solução em licitações e contratos, ano 1, nº
+7, out. 2018, p. 7-14.
+O  futuro  do  concurso  público.  In:  MOTTA,  Fabrício;  DI  PIETRO,
+Maria Sylvia Zanella (coords.). Crise e reformas legislativas na agenda
+do direito administrativo. Belo H
+[/PAGINA 10]
+
+[PAGINA 11]
+orizonte: Fórum, 2018, p. 153-164.
+
+112.
+113.
+Introdução. In: MOTTA, Fabrício; DI PIETRO, Maria Sylvia Zanella
+(coords.). O direito administrativo nos 30 anos da Constituição. Belo
+Horizonte: Fórum, 2018, p. 13-26.
+Impacto da Constituição de 1988 sobre o direito administrativo. 30 anos
+da  Constituição  Federal  e  o  direito  brasileiro.  [organização  Equipe
+Forense]. Rio de Janeiro: Forense, 2018, p. 27-70.
+
+Capítulo 1
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+1.7
+1.8
+1.9
+1.10
+1.11
+1.11.1
+1.11.2
+O Direito Administrativo
+Formação do Direito Administrativo
+Fundamentos filosóficos e constitucionais do Direito
+Administrativo
+Contribuição do direito francês
+Direito Administrativo alemão
+Direito Administrativo italiano
+Direito Administrativo anglo-americano
+Direito Administrativo brasileiro
+O Direito Administrativo brasileiro sob influência do direito
+estrangeiro: sistemas de base romanística, do common law e do
+direito comunitário europeu
+Transformações do Direito Administrativo brasileiro
+Objeto do Direito Administrativo
+Métodos de estudo
+Escola legalista, exegética, empírica ou caótica
+O estudo do Direito Administrativo jurisprudencial
+
+1.11.3
+1.11.4
+1.12
+1.13
+1.13.1
+1.13.2
+1.13.3
+1.13.4
+1.13.5
+1.13.6
+1.13.7
+1.13.8
+1.13.9
+Capítulo 2
+2.1
+2.2
+2.3
+2.3.1
+2.3.2
+2.4
+2.5
+2.6
+Capítulo 3
+3.1
+Direito Administrativo e Ciência da Administração
+Critério técnico-científico de estudo do Direito
+Administrativo
+Fontes do Direito Administrativo
+Conceito de Direito Administrativo
+Escola da puissance publique
+Escola do serviço público
+Critério do Poder Executivo
+Critério das relações jurídicas
+Critério teleológico
+Critério negativo ou residual
+Critério da distinção entre atividade jurídica e social do
+Estado
+Critério da Administração Pública
+Nossa definição
+Administração Pública
+O vocábulo administração
+A expressão Administração Pública
+Administração pública e governo
+Aspecto objetivo
+Aspecto subjetivo
+Administração pública em sentido estrito
+Administração pública em sentido objetivo
+Administração pública em sentido subjetivo
+Regime Jurídico Administrativo
+Regimes público e privado na Administração Pública
+
+3.2
+3.3
+3.4
+3.4.1
+3.4.2
+3.4.3
+3.4.4
+3.4.5
+3.4.6
+3.4.7
+3.4.8
+3.4.9
+3.4.10
+3.4.11
+3.4.12
+3.4.13
+3.4.14
+3.4.15
+3.4.15.1
+3.4.15.2
+3.4.15.3
+3.4.15.4
+3.5
+3.5.1
+3.5.2
+3.5.3
+Regime jurídico administrativo
+Reflexos da LINDB sobre o Direito Administrativo
+Princípios da Administração Pública
+Legalidade
+Supremacia do interesse público
+Impessoalidade
+Presunção de legitimidade ou de veracidade
+Especialidade
+Controle ou tutela
+Autotutela
+Hierarquia
+Continuidade do serviço público
+Publicidade
+Moralidade administrativa
+Razoabilidade e proporcionalidade
+Motivação
+Eficiência
+Segurança jurídica, proteção à confiança e boa-fé
+Segurança jurídica
+Proteção à confiança
+Boa-fé
+Aplicação dos princípios da segurança
+jurídica, boa-fé e proteção à confiança
+Poderes da Administração
+Normativo
+Disciplinar
+Decorrentes da hierarquia
+
+Capítulo 4
+4.1
+4.1.1
+4.1.2
+4.1.3
+4.1.4
+4.2
+4.2.1
+4.2.2
+4.2.3
+4.3
+4.4
+4.5
+4.6
+Capí
+[/PAGINA 11]
+
+[PAGINA 12]
+tulo 5
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+Capítulo 6
+6.1
+6.2
+Serviços Públicos
+Conceito
+Serviço público em sentido amplo
+Serviço público em sentido restrito
+Evolução
+Conclusões quanto ao conceito
+Elementos da definição
+Elemento subjetivo
+Elemento formal
+Elemento material
+Crise na noção de serviço público
+Princípios
+Classificação
+Formas de gestão
+Poder de Polícia
+Introdução
+Evolução
+Conceito
+Polícia administrativa e judiciária
+Meios de atuação
+Características
+Limites
+Restrições do Estado sobre a Propriedade Privada
+Evolução
+Modalidades
+
+6.3
+6.4
+6.5
+6.6
+6.7
+6.8
+6.8.1
+6.8.2
+6.8.3
+6.8.4
+6.8.5
+6.8.6
+6.8.7
+6.9
+6.9.1
+6.9.2
+6.9.3
+6.9.4
+6.9.5
+6.9.6
+6.9.7
+6.9.8
+6.9.8.1
+6.9.8.2
+6.9.8.3
+Fundamento
+Função social da propriedade
+Limitações administrativas
+Ocupação temporária
+Requisição administrativa
+Tombamento
+Proteção do patrimônio histórico e artístico nacional
+Conceito e características
+Objeto
+Modalidades
+Procedimento
+Efeitos
+Natureza jurídica
+Servidão administrativa
+Servidão na teoria geral do direito
+Servidão de direito privado e de direito público
+Servidão administrativa e limitação administrativa
+Conceito
+Forma de constituição
+Extinção
+Direito à indenização
+Modalidades
+Servidão sobre terrenos marginais
+Servidão a favor das fontes de água
+mineral, termal ou gasosa e dos recursos
+hídricos
+Servidão sobre prédios vizinhos de obras ou
+
+6.9.8.4
+6.9.8.5
+6.9.8.6
+6.9.8.7
+6.10
+6.10.1
+6.10.2
+6.10.3
+6.10.4
+6.10.5
+6.10.6
+6.10.7
+6.10.8
+6.10.9
+6.10.10
+6.10.11
+6.10.12
+6.10.13
+Capítulo 7
+7.1
+7.2
+7.3
+7.4
+imóvel pertencente ao patrimônio histórico
+e artístico nacional
+Servidão em torno de aeródromos e
+heliportos
+Servidão militar
+Servidão de aqueduto
+Servidão de energia elétrica
+Desapropriação
+Evolução no direito brasileiro
+Conceito
+Modalidades de desapropriação sancionatória
+Procedimento
+Sujeitos ativo e passivo
+Pressupostos
+Objeto
+Indenização
+Natureza jurídica
+Imissão provisória na posse
+Destino dos bens desapropriados
+Desapropriação indireta
+Retrocessão
+Atos Administrativos
+Fatos da Administração
+Atos da Administração
+Origem da expressão
+Conceito
+
+7.5
+7.6
+7.6.1
+7.6.2
+7.6.3
+7.6.4
+7.7
+7.7.1
+7.7.2
+7.7.3
+7.7.4
+7.7.5
+7.8
+7.8.1
+7.8.2
+7.8.3
+7.8.4
+7.8.5
+7.9
+7.10
+7.10.1
+7.10.1.1
+7.10.1.2
+7.10.1.3
+7.10.1.4
+7.10.1.5
+Ato administrativo e produção de efeitos jurídicos
+Atributos
+Presunção de legitimidade e veracidade
+Imperatividade
+Autoexecutoriedade
+Tipicidade
+Elementos
+Sujeito
+Objeto
+Forma
+Finalidade
+Motivo
+Discricionariedade e vinculação
+Conceito
+Justificação
+Âmbito de aplicação da discricionariedade
+Legalidade e mérito do ato administrativo
+Limites da discricionariedade e controle pelo Poder
+Judiciário
+Classificação
+Atos administrativos em espécie
+Quanto ao conteúdo
+Autorização
+Licença
+Admissão
+Permissão
+Aprovação
+
+7.10.1.6
+7.10.1.7
+7.10.1.8
+7.10.2
+7.10.2.1
+7.10.2.2
+7.10.2.3
+7.10.2.4
+7.10.2.5
+7.11
+7.11.1
+7.11.2
+7.11.2.1
+7.11.2.2
+7.11.2.3
+7.11.2.4
+7.11.2.5
+7.11.2.6
+7.11.2.7
+7.11.2.8
+7.11.2.9
+7.11.2.10
+7.11.2.11
+7.11.3
+Capítulo 8
+Homologação
+Parecer
+Visto
+Quanto à forma
+Decreto
+Resolução
+[/PAGINA 12]
+
+[PAGINA 13]
+e portaria
+Circular
+Despacho
+Alvará
+Extinção
+Modalidades
+Anulação ou invalidação
+Conceito, efeitos e natureza
+Vícios: peculiaridades no Direito
+Administrativo
+Vícios relativos ao sujeito
+Vícios relativos ao objeto
+Vícios relativos à forma
+Vícios quanto ao motivo
+Vícios relativos à finalidade
+Consequências decorrentes dos vícios
+Atos administrativos nulos e anuláveis
+Convalidação
+Confirmação
+Revogação
+Contrato Administrativo
+
+8.1
+8.2
+8.3
+8.4
+8.5
+8.5.1
+8.5.2
+8.6
+8.6.1
+8.6.2
+8.6.3
+8.6.4
+8.6.5
+8.6.6
+8.6.7
+8.6.7.1
+8.6.7.2
+8.6.7.3
+8.6.7.4
+8.6.7.5
+8.6.7.6
+8.6.7.7
+8.6.7.8
+8.6.8
+8.6.8.1
+Contratos da Administração
+Divergências doutrinárias
+O contrato administrativo como espécie do gênero contrato
+Traços distintivos entre o contrato administrativo e o contrato de
+direito privado
+Direito positivo
+Normas constitucionais
+Legislação ordinária
+Características dos contratos administrativos
+Presença da Administração Pública como Poder Público
+Finalidade pública
+Obediência à forma prescrita em lei
+Procedimento legal
+Contrato de adesão
+Natureza intuitu personae
+Presença das cláusulas exorbitantes
+Exigência de garantia
+Alteração unilateral
+Rescisão unilateral
+Fiscalização
+Aplicação de penalidades
+Anulação
+Retomada do objeto
+Restrições ao uso da exceptio non adimpleti
+contractus
+Mutabilidade
+Álea administrativa: alteração unilateral do
+
+8.6.8.2
+8.6.8.3
+8.6.8.4
+8.7
+8.8
+8.8.1
+8.8.1.1
+8.8.1.2
+8.8.1.3
+8.8.1.3.1
+8.8.1.3.2
+8.8.1.3.3
+8.8.1.4
+8.8.1.4.1
+8.8.1.4.2
+8.8.1.4.3
+8.8.1.4.4
+8.8.1.4.5
+8.8.1.4.6
+8.8.1.4.7
+8.8.1.4.8
+contrato
+Álea administrativa: fato do príncipe
+Álea administrativa: fato da administração
+Álea econômica: teoria da imprevisão
+Rescisão do contrato administrativo
+Modalidades de contratos administrativos
+Concessão
+Conceito e modalidades
+Natureza jurídica
+Concessão de serviço público
+Evolução
+Conceito e características
+Concessão, permissão e
+autorização de serviço
+público
+Parcerias público-privadas
+Direito positivo
+Conceito e modalidades
+Concessão patrocinada
+Concessão administrativa
+Traços comuns à concessão
+patrocinada e à concessão
+administrativa
+Da licitação
+Procedimento de
+manifestação de interesse
+Normas aplicáveis apenas à
+
+8.8.1.5
+8.8.1.6
+8.8.2
+8.8.2.1
+8.8.2.2
+8.8.2.3
+8.8.2.4
+8.8.3
+8.9
+8.10
+8.11
+8.12
+8.13
+8.14
+8.14.1
+8.14.2
+8.14.3
+8.14.4
+8.14.5
+Capítulo 9
+9.1
+9.2
+9.3
+9.3.1
+9.3.2
+União
+Concessão de obra pública
+Concessão de uso
+Contratos de obra pública e de prestação de serviços
+Empreitada
+Administração contratada
+Tarefa
+Serviços de publicidade
+Contrato de fornecimento
+Programa de Parcerias de Investimentos – PPI
+Contrato de gestão
+Convênio
+Consórcio administrativo
+Terceirização
+Contratos em Regime Diferenciado de Contratação (RDC)
+Regime jurídico
+Regime de contratação integrada
+Convocação para assinatura do contrato
+Remuneração variável
+Contratações simultâneas
+Licitação
+Conceito
+Direito positivo
+Princípios
+Princípio da igualdade
+Princípio da legalidade
+
+9.3.3
+9.3.4
+9.3.5
+9.3.6
+9.3.7
+9.3.8
+9.3.9
+9.3.10
+9.4
+9.5
+9.6
+9.6.1
+9.6.2
+9.6.3
+9.6.4
+9.6.5
+9.6.6
+9
+[/PAGINA 13]
+
+[PAGINA 14]
+.6.7
+9.7
+9.7.1
+9.7.1.1
+9.7.1.2
+9.7.1.3
+9.7.1.4
+9.7.1.5
+9.7.2
+9.7.3
+Princípio da impessoalidade
+Princípio da moralidade e da probidade
+Princípio da publicidade
+Princípio da vinculação ao instrumento convocatório
+Princípio do julgamento objetivo
+Princípio da adjudicação compulsória
+Princípio da ampla defesa
+Princípio da licitação sustentável
+Obrigatoriedade de licitação
+Dispensa e inexigibilidade
+Modalidades
+Concorrência
+Tomada de preços
+Convite
+Concurso
+Leilão
+Pregão
+Regime Diferenciado de Contratação (RDC)
+Procedimento
+Procedimento da concorrência
+Edital
+Habilitação
+Classificação
+Homologação
+Adjudicação
+Procedimento da tomada de preços
+Procedimento do convite
+
+9.7.4
+9.7.5
+9.7.6
+9.7.7
+9.8
+9.9
+9.10
+9.11
+9.11.1
+9.11.2
+9.11.3
+9.11.4
+9.11.5
+9.11.6
+9.11.7
+9.11.8
+9.11.9
+9.11.10
+Capítulo 10
+10.1
+10.1.1
+10.1.2
+10.1.3
+10.1.3.1
+10.1.3.2
+Procedimento do concurso
+Procedimento do leilão
+Procedimento do pregão
+Procedimento para contratação de serviços de
+publicidade
+Sistema de registro de preços
+Anulação e revogação
+Recursos administrativos
+Licitação no Regime Diferenciado de Contratação (RDC)
+Direito positivo
+Principais inovações
+Objetivos da licitação
+Princípios da licitação
+Restrições à publicidade do orçamento estimado
+Comissão de licitação
+Procedimento da licitação
+Procedimentos auxiliares das licitações
+Pedidos de esclarecimento, impugnações e recursos
+Sanções
+Administração Indireta
+Descentralização
+Descentralização e desconcentração
+Descentralização política e administrativa
+Modalidades de descentralização administrativa
+Descentralização territorial
+Descentralização por serviços
+
+10.1.3.3
+10.1.4
+10.1.5
+10.1.5.1
+10.1.5.2
+10.2
+10.2.1
+10.2.2
+10.3
+10.3.1
+10.3.2
+10.3.3
+10.3.4
+10.3.5
+10.4
+10.4.1
+10.4.2
+10.4.3
+10.4.4
+10.5
+10.5.1
+10.5.2
+10.5.3
+10.5.3.1
+Descentralização por colaboração
+Evolução
+A descentralização administrativa no direito positivo
+brasileiro
+A confusão do legislador
+A expressão Administração Indireta na
+Constituição
+Entidades da Administração Indireta
+Modalidades e natureza jurídica
+Regime jurídico
+Autarquias
+O vocábulo autarquia
+Evolução no direito brasileiro
+Conceito e características
+Posição perante a Administração Pública e terceiros
+Classificação
+Fundação
+Natureza jurídica e conceito
+Fundação de direito privado
+Direito positivo brasileiro
+Fundação de direito público
+Empresas estatais
+Alcance da expressão
+Distinção quanto ao tipo de atividade
+Sociedade de economia mista, empresa pública e
+subsidiárias
+Estatuto jurídico
+
+10.5.3.2
+10.5.3.3
+10.5.3.4
+10.5.3.5
+10.5.3.6
+10.5.3.7
+10.5.3.8
+10.5.3.9
+10.5.3.10
+10.5.3.11
+10.6
+10.7
+10.8
+10.9
+10.9.1
+10.9.2
+10.9.3
+10.10
+10.10.1
+10.10.2
+10.10.3
+10.10.4
+10.10.5
+10.11
+Conceito legal
+Traços comuns
+Traços distintivos
+Regime jurídico
+Órgãos de Administração
+Função social
+Responsabilidade e controle interno
+Licitação
+Contratos
+Fiscalização
+Normas comuns às entidades da Administração Indireta
+Privilégios próprios das autarquias e fundações públicas
+Natureza jurídica dos bens das entidades da Administração
+Indireta
+[/PAGINA 14]
+
+[PAGINA 15]
+Agências
+Considerações gerais
+Agência executiva
+Agência reguladora
+Consórcio público
+Considerações gerais
+Conceito e natureza jurídica
+Constituição, alteração e extinção do consórcio
+Contratos de rateio
+Contratos de programa e convênios de cooperação
+Controle administrativo ou tutela das entidades da Administração
+Indireta
+
+Capítulo 11
+11.1
+11.2
+11.3
+11.4
+11.5
+11.6
+11.7
+11.8
+11.8.1
+11.8.2
+11.8.3
+11.8.3.1
+11.8.3.2
+11.8.3.3
+11.8.4
+11.8.5
+11.8.6
+11.8.7
+Capítulo 12
+12.1
+12.2
+Entidades Paraestatais e Terceiro Setor
+A expressão entidade paraestatal
+Aproximação entre entidades paraestatais e terceiro setor
+As entidades paraestatais no direito positivo
+Serviços sociais autônomos
+Entidades de apoio
+Organizações sociais
+Organizações da sociedade civil de interesse público
+Organizações da sociedade civil
+Abrangência da Lei nº 13.019/14
+Do termo de colaboração, do termo de fomento e do
+acordo de cooperação
+Do chamamento público
+Providências preliminares
+Procedimento do chamamento público
+Dispensa e inexigibilidade do chamamento
+público
+Da celebração do termo de colaboração e do termo de
+fomento
+Das vedações
+Das contratações realizadas pelas organizações da
+sociedade civil
+Medidas moralizadoras
+Órgãos Públicos
+Teorias sobre as relações do Estado com os agentes públicos
+Conceito
+
+12.3
+12.4
+Capítulo 13
+13.1
+13.2
+13.2.1
+13.2.2
+13.2.3
+13.2.4
+13.3
+13.4
+13.4.1
+13.4.2
+13.4.3
+13.4.4
+13.4.4.1
+13.4.4.2
+13.4.4.2.1
+13.4.4.2.2
+13.4.4.2.3
+13.4.4.3
+Natureza
+Classificação
+Servidores Públicos
+Terminologia
+Agentes públicos
+Agentes políticos
+Servidores públicos
+Militares
+Particulares em colaboração com o Poder Público
+Cargo, emprego e função
+Normas constitucionais
+Regime jurídico do servidor
+Direito de acesso aos cargos, empregos e funções
+públicas
+Condições de ingresso
+Sistema remuneratório dos servidores públicos
+Normas constitucionais pertinentes à
+remuneração ou vencimento
+Regime de subsídios
+Agentes públicos em regime
+de subsídio
+Competência para fixação e
+alteração dos subsídios
+Subsídios para os servidores
+organizados em carreira
+Normas comuns à remuneração e aos
+subsídios
+
+13.4.4.3.1
+13.4.4.3.2
+13.4.4.3.3
+13.4.5
+13.4.6
+13.4.7
+13.4.7.1
+13.4.7.2
+13.4.7.3
+13.4.7.4
+13.4.7.5
+13.4.7.6
+13.4.7.7
+13.4.7.8
+13.4.8
+13.4.9
+13.4.10
+13.4.11
+13.4.12
+13.5
+13.6
+13.7
+13.8
+Fixação e alteração da
+remuneração e do subsídio
+Teto das remunerações e
+subsídios
+Irredutibilidade de
+remuneração e subsídio
+Direito de greve e de livre associação sindical
+Proibição de acumulação de cargos
+Aposentadoria e pensão
+Regime previdenciário
+Princípios da reforma previdenciária
+Regimes previdenciários diferenciados
+Modalidades de aposentadoria
+Valor dos proventos de aposentadoria
+voluntária e das pensões
+Disposições transitórias
+Previdência complementar
+Contagem de tempo para aposentadoria
+Estabilidade
+Afastamento para exercício de mandato eletivo
+Direitos sociais
+Limites de despesa com pessoal
+Limites decorrentes da Emenda Constitucional nº 95/16
+Provimento e investidura
+Vacância
+Direitos e deveres
+Responsab
+[/PAGINA 15]
+
+[PAGINA 16]
+ilidade
+
+13.8.1
+13.8.2
+13.8.3
+13.8.4
+Capítulo 14
+14.1
+14.2
+14.3
+14.4
+14.5
+14.6
+14.6.1
+14.6.2
+14.6.3
+14.6.4
+14.6.5
+14.6.6
+14.6.7
+14.6.8
+14.6.9
+14.7
+14.8
+14.8.1
+14.8.2
+Capítulo 15
+Responsabilidade civil
+Responsabilidade administrativa
+Responsabilidade penal
+Comunicabilidade de instâncias
+Processo Administrativo
+Processos estatais
+Processo administrativo
+Processo e procedimento
+Modalidades
+Processo administrativo eletrônico
+Princípios
+Princípio da publicidade
+Princípio da oficialidade
+Princípio da obediência à forma e aos procedimentos
+Princípio da gratuidade
+Princípio da ampla defesa e do contraditório
+Princípio da atipicidade
+Princípio da pluralidade de instâncias
+Princípio da economia processual
+Princípio da participação popular
+Processo administrativo disciplinar
+Processo sumário
+Sindicância
+Verdade sabida
+Responsabilidade Extracontratual do Estado
+
+15.1
+15.2
+15.2.1
+15.2.2
+15.2.3
+15.3
+15.4
+15.5
+15.6
+15.7
+15.8
+Capítulo 16
+16.1
+16.2
+16.3
+16.3.1
+16.3.2
+16.3.3
+16.3.4
+16.4
+16.4.1
+16.4.2
+16.4.3
+16.5
+16.5.1
+Delimitação do tema
+Evolução
+Teoria da irresponsabilidade
+Teorias civilistas
+Teorias publicistas
+Direito positivo brasileiro
+Causas excludentes e atenuantes da responsabilidade
+Responsabilidade do Estado por omissão
+Responsabilidade do Estado por danos decorrentes de leis e
+regulamentos
+Responsabilidade do Estado por atos jurisdicionais
+Reparação do dano
+Bens Públicos
+Evolução
+Classificação
+Bens do domínio público do Estado
+Conceito
+Natureza jurídica
+Modalidades
+Regime jurídico
+Bens do domínio privado do Estado ou bens dominicais
+Conceito
+Características
+Regime jurídico
+Alienação
+Alienação dos bens de uso comum e de uso especial
+
+16.5.2
+16.6
+16.6.1
+16.6.2
+16.6.3
+16.6.3.1
+16.6.3.2
+16.6.3.3
+16.6.3.4
+16.6.3.5
+16.7
+16.8
+16.8.1
+16.8.2
+16.8.3
+16.8.4
+16.8.5
+16.8.5.1
+16.8.5.2
+16.8.5.3
+16.8.5.4
+16.8.6
+16.8.7
+16.8.8
+16.8.9
+16.8.9.1
+Alienação dos bens dominicais
+Uso de bem público por particular
+Uso normal e uso anormal
+Uso comum
+Uso privativo
+Conceito e características
+Instrumentos estatais de outorga de uso
+privativo
+Autorização, permissão e concessão
+Uso privativo de bens imóveis da União
+Tutela do uso privativo
+Formação do patrimônio público
+Bens públicos em espécie
+Direito positivo
+Terrenos reservados
+Terrenos de marinha e seus acrescidos
+Terras tradicionalmente ocupadas pelos índios
+Terras devolutas
+Evolução da propriedade rural no Brasil
+Conceito e natureza jurídica
+Titularidade
+Processo de discriminação
+Faixa de fronteira
+Ilhas
+Águas públicas
+Minas e jazidas
+Conceito
+
+16.8.9.2
+16.8.9.3
+16.8.9.4
+Capítulo 17
+17.1
+17.2
+17.3
+17.3.1
+17.3.2
+17.3.2.1
+17.3.2.2
+17.3.2.3
+17.3.2.4
+17.4
+17.4.1
+17.4.2
+17.4.3
+17.5
+17.5.1
+17.5.2
+17.5.3
+17.5.3.1
+17.5.3.2
+Sistemas de exploração e aproveitamento
+das jazidas
+Evolução no direito brasileiro
+Sistema atual
+Controle da Administração Pública
+Conceito e abrangência
+Espécies
+Controle administrativo
+Conceito e alcance
+Recursos administrativos
+Conceito, efeitos e fundamento
+Modalidades
+Coisa julgada administrativa
+Prescrição admin
+[/PAGINA 16]
+
+[PAGINA 17]
+istrativa
+Controle legislativo
+Alcance
+Controle político
+Controle financeiro
+Controle judicial
+Sistema de unidade de jurisdição
+Limites
+Controle judicial das políticas públicas
+Conceito de políticas públicas e
+competência para sua definição e execução
+Controle das políticas públicas pelo Poder
+Judiciário
+
+17.5.4
+17.5.5
+17.5.5.1
+17.5.5.2
+17.5.5.3
+17.5.5.3.1
+17.5.5.3.2
+17.5.5.3.3
+17.5.5.3.4
+17.5.5.3.5
+17.5.5.3.6
+17.5.5.3.7
+17.5.5.4
+17.5.5.4.1
+17.5.5.4.2
+17.5.5.4.3
+17.5.5.4.4
+17.5.5.4.5
+17.5.5.5
+17.5.5.6
+17.5.5.6.1
+A Administração Pública em juízo
+Meios de controle
+Habeas corpus
+Habeas data
+Mandado de injunção
+Controvérsias quanto à
+origem
+Objeto do mandado de
+injunção
+A solução adotada pela Lei
+nº 13.300/16
+Pressupostos
+Mandado de injunção
+individual ou coletivo
+Anotações quanto ao
+processo
+Competência para
+julgamento
+Mandado de segurança individual
+Origem
+Conceito e pressupostos
+Restrições
+Anotações quanto ao
+processo
+Prazo
+Mandado de segurança coletivo
+Ação popular
+Evolução
+
+17.5.5.6.2
+17.5.5.6.3
+17.5.5.6.4
+17.5.5.6.5
+17.5.5.6.6
+17.5.5.7
+17.5.5.7.1
+17.5.5.7.2
+17.5.5.7.3
+17.5.5.7.4
+17.5.5.7.5
+17.5.5.7.6
+17.5.5.7.7
+Capítulo 18
+18.1
+18.2
+18.3
+18.3.1
+18.3.2
+Conceito e pressupostos
+Sujeito ativo e passivo
+Posição do Ministério
+Público
+Objeto
+Anotações quanto ao
+processo
+Ação civil pública
+Origem e evolução
+Comparação com ação
+popular e mandado de
+segurança coletivo
+Pressupostos e conceito
+Sujeito ativo e passivo
+Funções do Ministério
+Público
+Objeto
+Anotações quanto ao
+processo
+Improbidade Administrativa
+Legalidade, moralidade e probidade
+Evolução no direito positivo
+Lei de Improbidade Administrativa
+Competência para legislar sobre improbidade
+administrativa em função da natureza do ilícito e da
+sanção cabível
+Concomitância de instâncias penal, civil e
+
+18.3.3
+18.3.3.1
+18.3.3.2
+18.3.3.3
+18.3.3.4
+18.3.4
+18.3.5
+18.3.6
+Capítulo 19
+19.1
+19.2
+19.3
+19.4
+19.5
+19.6
+19.7
+19.8
+Capítulo 20
+20.1
+20.2
+20.2.1
+20.2.2
+administrativa
+Elementos constitutivos do ato de improbidade
+administrativa
+Sujeito passivo
+Sujeito ativo
+Ocorrência de ato danoso
+Elemento subjetivo: dolo ou culpa
+Sanções
+Procedimento administrativo
+Ação judicial de improbidade administrativa
+Responsabilidade das Pessoas Jurídicas pela Prática de
+Atos Danosos Contra a Administração Pública
+Da Lei Anticorrupção
+Dos requisitos da responsabilização
+Responsabilização administrativa
+Do processo administrativo de responsabilização
+Do acordo de leniência
+Da responsabilização judicial
+Da cumulatividade de sanções
+Do Cadastro Nacional de Empresas Punidas – CNEP
+Arbitragem, Mediação e Autocomposição de Conflitos na
+Administração Pública
+Direito positivo
+A arbitragem na Administração Pública
+Das controvérsias doutrinárias
+Inovações da Lei nº 13.129, de 26-5-15, quanto à
+
+20.2.3
+20.2.4
+20.2.5
+20.2.6
+20.2.7
+20.2.8
+20.3
+20.4
+20.4.1
+20.4.2
+arbitragem na Administração Pública
+Direitos patrimoniais disponíveis
+Previsão de contratos de direito privado na Lei nº
+8.666/93
+Matérias que podem ser submetidas à arbitragem
+Com
+[/PAGINA 17]
+
+[PAGINA 18]
+petência para autorizar a arbitragem
+Arbitragem de direito
+Conflito entre sigilo e publicidade
+Mediação
+Autocomposição de conflitos em que for parte pessoa jurídica de
+direito público
+Conceito e alcance
+Medidas de autocomposição de conflitos
+Bibliografia
+Nota  da  Editora:  as  alterações  na  organização  básica  dos  órgãos  da  Presidência  da
+República  e  dos  Ministérios,  estabelecidas  pela  Medida  Provisória  870/2019,  não  foram
+incorporadas ao conteúdo da obra tendo em vista que, até o fechamento desta edição, as
+novas  estruturas  regimentais  que  constam  nos  Decretos  regulamentadores  não  estavam
+em vigor (início previsto para 30.01.2019).
+
+
+
+1.1FORMAÇÃO DO DIREITO ADMINISTRATIVO
+O  Direito  Administrativo,  como  ramo autônomo,  nasceu  em  fins  do
+século XVIII e início do século XIX, o que não significa que inexistissem
+anteriormente  normas  administrativas,  pois  onde  quer  que  exista  o  Estado
+existem órgãos encarregados do exercício de funções administrativas. O que
+ocorre é que tais normas se enquadravam no jus civile, da mesma forma que
+nele se inseriam as demais, hoje pertencentes a outros ramos do direito.
+Além disso, o que havia eram normas esparsas relativas principalmente
+ao funcionamento da Administração Pública, à competência de seus órgãos,
+aos poderes do Fisco, à utilização, pelo povo, de algumas modalidades de
+bens públicos, à servidão pública. Não se tinha desse ramo do direito uma
+elaboração baseada em princípios informativos próprios que lhe imprimissem
+autonomia.
+A Idade Média não encontrou ambiente propício para o desenvolvimento
+do  Direito  Administrativo.  Era  a  época  das  monarquias  absolutas,  em  que
+todo poder pertencia ao soberano; a sua vontade era a lei, a que obedeciam
+todos os cidadãos, justificadamente chamados servos  ou vassalos  (aqueles
+que se submetem à vontade de outrem). Nesse período, do chamado Estado
+de  Polícia,  assinala  Merkl  (1980:93)  que  o  direito  público  se  esgota  num
+único  preceito  jurídico,  que  estabelece  um direito  ilimitado  para
+administrar, estruturado sobre princípios segundo os quais quod regi placuit
+lex est, the king can do no wrong, le roi ne peut mal faire.
+O  rei  não  podia  ser  submetido  aos  Tribunais,  pois  os  seus  atos  se
+colocavam acima de qualquer ordenamento jurídico. Com base nessa ideia é
+que  se  formulou  a  teoria  da  irresponsabilidade  do  Estado,  que,  em  alguns
+sistemas,  continuou  a  ter  aplicação  mesmo  após  as  conquistas  do  Estado
+Moderno em benefício dos direitos individuais.
+Não havia Tribunais independentes, uma vez que, em uma primeira fase,
+
+o próprio rei decidia os conflitos entre particulares e, em fase posterior, as
+funções judicantes foram delegadas a um conselho, que ficava, no entanto,
+subordinado ao soberano.
+No  entanto,  apontam-se  algumas  obras  de  glosadores  da  Idade  Média,
+principalmente dos séculos XIII e XIV, nas quais se encontra o germe dos
+atuais  direitos  constitucional,  ad
+[/PAGINA 18]
+
+[PAGINA 19]
+ministrativo  e  fiscal.  Indica-se  a  obra  de
+Andrea  Bonello  (1190  a  1275  d.C.),  dedicada  ao  estudo  dos  três  últimos
+livros  do  Código  Justiniano,  que  tinham  sido  deixados  de  lado,  porque
+dedicados  a  estruturas  fiscais  e  administrativas  de  um  império  que  já  não
+existia. Outro texto sobre o qual trabalharam os juristas, na época, foi o Liber
+Constitutionis, publicado pelo parlamento de Melfi em 1231. No século XIV,
+a  obra  de  Bartolo  de  Sassoferrato  (1313-57)  lança  as  bases  da  teoria  do
+Estado Moderno (cf. Mario G. Losano, 1979:55).
+Mas a formação do Direito Administrativo, como ramo autônomo, teve
+início,  juntamente  com  o  direito  constitucional  e  outros  ramos  do  direito
+público, a partir do momento em que começou a desenvolver-se – já na fase
+do Estado Moderno – o conceito de Estado de Direito, estruturado sobre o
+princípio da legalidade (em decorrência do qual até mesmo os governantes
+se  submetem  à  lei,  em  especial  à  lei  fundamental  que  é  a  Constituição)  e
+sobre o princípio da separação de poderes, que tem por objetivo assegurar
+a proteção dos direitos individuais, não apenas nas relações entre particulares,
+mas também entre estes e o Estado.
+Daí a afirmação de que o Direito Administrativo nasceu das Revoluções
+que  acabaram  com  o  velho  regime  absolutista  que  vinha  da  Idade  Média.
+“Constitui  disciplina  própria  do  Estado  Moderno,  ou  melhor,  do  chamado
+Estado de Direito, porque só então se cogitou de normas delimitadoras da
+organização  do  Estado-poder  e  da  sua  ação,  estabelecendo  balizas  às
+prerrogativas dos governantes, nas suas relações recíprocas, e, outrossim, nas
+relações  com  os  governados.  Na  verdade,  o  Direito  Administrativo  só  se
+plasmou como disciplina autônoma quando se prescreveu processo jurídico
+
+para  atuação  do  Estado-poder,  através  de  programas  e  comportas  na
+realização das suas funções” (cf. O. A. Bandeira de Mello, 1979, v. 1:52).
+Alguns vão ao ponto de afirmar que o Direito Administrativo é produto
+exclusivo  da  situação  gerada  pela  Revolução  Francesa,  só  existindo  nos
+países  que  adotaram  os  princípios  por  ela  defendidos.  Onde  não  houve  a
+mesma  luta  que  convergiu  para  a  mudança  brusca  de  regime,  não  existe
+Direito Administrativo. É o que expõe Mario G. Losano (1979:68), quando,
+citando tese defendida, na França, por Hauriou, na Suíça, por Fleiner, e na
+Itália, por Zanobini, afirma que ela “foi reconsolidada pela constatação de
+que o direito inglês – não tendo sofrido o nítido corte gerado pela Revolução
+Francesa  entre  mundo  feudal  e  mundo  burguês  –  não  conhece  um  Direito
+Administrativo,  tal  como  não  conhece  direitos  imobiliários  (ou  reais)
+encerrados em categorias taxativas determinadas”. Com isso, deve concluir-
+se que “o Direito Administrativo é um produto da Europa continental pós-
+revolucionária, o que impede a generalização de conceitos para além destes
+limites de
+[/PAGINA 19]
+
+[PAGINA 20]
+espaço e de tempo. Na realidade, ele apresenta-se como o direito
+que o Estado burguês utiliza para se defender tanto contra a classe derrubada
+como  contra  a  que,  utilizada  como  aliada  no  decurso  da  revolução,  é
+reprimida depois da tomada do poder”.
+Não se afigura verdadeira a tese de que o Direito Administrativo só exista
+nos sistemas europeus formados com base nos princípios revolucionários do
+século XVIII. O que é verdadeiro é o fato de que nem todos os países tiveram
+a  mesma  história  nem  estruturaram  pela  mesma  forma  o  seu  poder;  em
+consequência,   o   Direito   Administrativo   teve   origem   diversa   e
+desenvolvimento  menor  em  alguns  sistemas,  como  o  anglo-americano.
+Mesmo  dentro  dos  “direitos”  filiados  ao  referido  sistema  europeu  existem
+diferenças  que  vale  a  pena  assinalar,  uma  vez  que,  quanto  menos
+desenvolvido o Direito Administrativo, maior é a aplicação do direito privado
+nas relações jurídicas de que participa o Estado.
+Na realidade, o conteúdo do Direito Administrativo varia no tempo e
+
+no  espaço,  conforme  o  tipo  de  Estado  adotado.  No  chamado  Estado  de
+Polícia, em que a finalidade é apenas a de assegurar a ordem pública, o objeto
+do  Direito  Administrativo  é  bem  menos  amplo,  porque  menor  é  a
+interferência estatal no domínio da atividade privada. O Estado do Bem-estar
+é um Estado mais atuante; ele não se limita a manter a ordem pública, mas
+desenvolve  inúmeras  atividades  na  área  da  saúde,  educação,  assistência  e
+previdência social, cultura, sempre com o objetivo de promover o bem-estar
+coletivo. Nesse caso, o Direito Administrativo amplia o seu conteúdo, porque
+cresce  a  máquina  estatal  e  o  campo  de  incidência  da  burocracia
+administrativa.  O  próprio  conceito  de  serviço  público  amplia-se,  pois  o
+Estado  assume  e  submete  a  regime  jurídico  publicístico  atividades  antes
+reservadas  aos  particulares.  Além  disso,  a  substituição  do  Estado  liberal,
+baseado  na  liberdade  de  iniciativa,  pelo  Estado-Providência  ampliou,  em
+muito, a atuação estatal no domínio econômico, criando novos instrumentos
+de  ação  do  poder  público,  quer  para  disciplinar  e  fiscalizar  a  iniciativa
+privada, com base no poder de polícia do Estado, quer para exercer atividade
+econômica,  diretamente,  na  qualidade  de  empresário.  Também  sob  esse
+aspecto, ampliou-se o conteúdo do Direito Administrativo, a ponto de já se
+começar a falar em novo ramo que a partir daí vai-se formando – o direito
+econômico  –  baseado  em  normas  parcialmente  públicas  e  parcialmente
+privadas.
+Neste  capítulo,  o  que  se  pretende  mostrar,  em  primeiro  lugar,  são  os
+fundamentos  constitucionais  e  filosóficos  do  Direito  Administrativo.  A
+seguir, será analisada a contribuição do direito francês, do direito alemão e do
+direito  italiano  para  a  formação  do  Direito  Administrativo  como  ramo
+autônomo. A orientação seguida pelos três “direitos” foi d
+[/PAGINA 20]
+
+[PAGINA 21]
+iversa: o primeiro,
+que praticamente deu origem ao Direito Administrativo, formou, no início, a
+chamada  escola  legalista  ou  exegética,  porque  o  estruturou  quase
+inteiramente a partir da interpretação de textos legais, levada a efeito pelos
+Tribunais  Administrativos;  o  segundo,  embora  influenciado  pelo  direito
+
+francês,  deu  os  primeiros  passos  no  sentido  da  elaboração  científica  do
+Direito Administrativo; e o terceiro, seguindo um pouco de cada tendência –
+a exegética e a científica – trouxe inegável contribuição para a elaboração
+sistemática do Direito Administrativo. Os três fazem parte do sistema de base
+romanística, assim chamado porque proveio dos estudos do direito romano,
+realizados, a partir do século XII, nas universidades dos países latinos e dos
+países germânicos, dentre as quais se destaca a Universidade de Bolonha, na
+Itália. Esse sistema tinha por objetivo criar um direito comum (jus commune)
+para a Europa continental, porém respeitando a diversidade dos povos que a
+integram. Embora idealizado para a Europa, expandiu-se para fora dela, por
+conta da colonização ou por recepção voluntária. Abrange a maior parte dos
+países  da  Europa  ocidental:  Itália,  Espanha,  Portugal,  Grécia,  Alemanha,
+Áustria,  Suíça,  Bélgica,  Dinamarca,  Suécia,  Finlândia,  Noruega,  Escócia;
+fora  da  Europa,  abrange  os  países  que  foram  colonizados  por  países  da
+Europa continental: América Latina, Luisiana (nos Estados Unidos), Quebec
+(no Canadá francês), países africanos colonizados pela França, pela Bélgica
+ou por Portugal, bem como a África do Sul.
+A  ideia  de  direito  comum  caiu  por  terra  com  o  desenvolvimento  da
+Escola  do  Direito  Natural,  nos  séculos  XVII  e  XVIII,  que  inspirou  as
+codificações e levou ao positivismo interno de cada país. O objetivo de criar
+um direito comum europeu só ressurgiu no século XX, com a formação da
+União Europeia e, em consequência, do direito comunitário europeu, no qual
+se verifica um encontro entre os sistemas romanístico e do common law.
+Também  se  fará  rápida  análise  do  Direito  Administrativo  anglo-
+americano, inserido no sistema do common law, que se caracteriza por ser
+essencialmente um direito feito pelo juiz; nesse sistema, a jurisprudência é a
+principal  fonte  do  direito.  O  sistema  do common law  é  adotado  na  Grã-
+Bretanha (com ressalva para a Escócia, que permaneceu no sistema de base
+romanística), nos Estados Unidos, no Canadá (com exceção de Quebec), na
+Austrália, Nova Zelândia, Jamaica, alguns países africanos, Índia, Birmânia,
+
+Malásia.  Seu  estudo,  neste  capítulo,  tem  como  objetivo  demonstrar  a
+diversidade  de  sua  formação  e  o  seu  menor  desenvolvimento  quando
+comparado com o sistema de base romanística.
+Não se poderia deixar de dedicar um parágrafo ao Direito Administrativo
+brasileiro que, seguindo a orientação dos demais países da América Latina,
+adotou  o  sistema  europeu-continental,  porém  também  sofreu  influência
+[/PAGINA 21]
+
+[PAGINA 22]
+do
+sistema  do common  law  e,  mais  recentemente,  do  direito  comunitário
+europeu.  Um  item  será  dedicado  ao  exame  da  influência  do  direito
+estrangeiro na formação e evolução do Direito Administrativo brasileiro.
+Também será dedicado um item apontando as principais transformações
+do Direito Administrativo.
+O capítulo se encerrará com itens sobre o objeto, as fontes e o conceito do
+Direito Administrativo.
+
+1.2FUNDAMENTOS FILOSÓFICOS E CONSTITUCIONAIS DO
+DIREITO ADMINISTRATIVO
+Na  doutrina  administrativista  brasileira,  alguns  autores  mais  recentes
+defendem a origem autoritária do Direito Administrativo, que teria nascido
+para  proteger  os  interesses  econômicos  e  políticos  da  burguesia.  A
+divergência  surgiu  em  razão  das  críticas  ao  princípio  da  supremacia  do
+interesse  público,  que  também  teria  conteúdo  autoritário.  Nessa  linha  de
+pensamento, inserem-se, dentre outros, Gustavo Binenbojm, Humberto Ávila
+e  Daniel  Sarmento,  todos  com  textos  publicados  em  obra  organizada  pelo
+último,  sob  o  título  de Interesses  públicos  versus interesses  privados:
+desconstruindo o princípio da supremacia do interesse público.
+Também é o pensamento de Marçal Justen Filho (2008:67), para quem “a
+organização do aparato administrativo do Estado se modela pelas concepções
+napoleônicas, que traduzem uma rígida hierarquia de feição militar do século
+XIX. A fundamentação filosófica do Direito Administrativo ainda se reporta
+à clássica disputa entre Duguit e Hauriou, ocorrida nos primeiros decênios do
+século  XX.  Mais  do  que  isso,  predomina  a  influência  do  pensamento  de
+Hauriou muito mais intensamente do que a visão de Duguit. O conteúdo do
+Direito Administrativo é preenchido por institutos vinculados a concepções
+políticas de um período distante. Ou seja, o Direito Administrativo continua
+vinculado  às  concepções  filosóficas,  políticas  e  constitucionais  que
+vigoravam  na  primeira  metade  do  século  XX.  A  evolução  radical  do
+constitucionalismo do final do século XX permanece ignorada pelo Direito
+Administrativo”.
+Falando sobre a constitucionalização do Direito Administrativo, Marçal
+Justen  Filho  acrescenta  que  “[...]  a  evolução  recente  importou  alterações
+radicais nas instituições e nas concepções vigentes. A função e o conteúdo da
+Constituição foram impregnados por princípios e valores democráticos, o que
+se afirma com ainda grande relevância no Brasil – cuja vivência democrática
+
+é muito limitada. Todas essas modificações não ingressaram integralmente no
+Direito  Administrativo.  O  conteúdo  e  as  interpretações  do  Direito
+Administrativo  permanecem  vinculados  e  referidos  a  uma  realidade
+sociopolítica  que  há  muito  deixou  de  existir.  O  instrumental  do  Direito
+Administrativo, é, na sua essência, o mesmo de um século atrás”.
+Uma das grandes razões que deram nascimento à tese do autoritarismo do
+Direito  Administrativo  é,  provavelmente,  a  teoria  da puissance  publi
+[/PAGINA 22]
+
+[PAGINA 23]
+que,
+elaborada  no  século  XIX  e  defendida,  entre  outros,  por  Batbie,  Ducroq,
+Louis-Edouard  Laferrière,  León  Aucoc,  Berthlémy.  Sistematizada  por
+Maurice Hauriou (1927:133), essa teoria, ao procurar o critério definidor do
+Direito Administrativo, apontou a existência de prerrogativas e privilégios
+do Estado diante do particular, criando uma posição de verticalidade ou de
+desigualdade entre Administração Pública e cidadão.
+Outro  fator  relevante,  apontado  por  Celso  Antônio  Bandeira  de  Mello
+(2016:44),  foi  a  própria  definição  inicial  do  Direito  Administrativo  como
+derrogatório e exorbitante do direito comum. Diz o autor que “talvez a razão
+primordial desta forma errônea de encarar o Direito Administrativo resida no
+fato de que este, ao surgir, foi encarado como um direito ‘excepcional’, que
+discrepava do ‘direito comum’, isto é, do direito privado, o qual, até então,
+era, com ressalva do Direito Penal, o único que se conhecia. Com efeito, o
+Direito  Administrativo,  tal  como  foi  sendo  elaborado,  pressupunha  a
+existência, em prol do Estado, de prerrogativas inexistentes nas relações entre
+os particulares, as quais, então, foram nominadas de ‘exorbitantes’, isto é,
+que  exorbitavam  dos  direitos  e  faculdades  que  se  reconheciam  aos
+particulares em suas recíprocas relações”.
+Em outra oportunidade, já analisei o tema (2012a:10-11) afirmando que,
+paradoxalmente, o Estado de Direito, preocupado embora com a liberdade do
+cidadão  e  a  igualdade  de  todos  perante  o  Direito,  trouxe  em  seu  bojo  o
+Direito  Administrativo,  como  ramo  autônomo,  composto  por  normas  de
+direito  público,  aplicáveis  à  Administração  Pública  e  que,  derrogando  o
+
+direito comum, a ela reconhece uma série de prerrogativas e privilégios de
+que  o  particular  não  dispõe.  E  lembramos  a  lição  de  Massimo  Severo
+Giannini  (1970:28),  para  quem  a  existência  de  Estados  com Direito
+Administrativo é o resultado de uma síntese de pensamentos contrastantes e
+de experiências político-jurídicas oriundos de todas as partes da Europa. O
+Estado  com  Direito  Administrativo  recebe,  do direito  inglês,  o  princípio
+constitucional  da  divisão  de  poderes  e  a  ideia  de  não  arbítrio  do  poder
+público, que coloca como princípio o primado da função normativa e do qual
+deriva  o  princípio  da  legalidade  da  ação  administrativa;  do pensamento
+político-jurídico comum, nasce o princípio constitucional do absolutismo da
+jurisdição, do qual deriva o reconhecimento de situações jurídicas subjetivas
+tuteláveis  perante  o  juiz,  criando-se  a  categoria  dos  direitos  subjetivos  de
+conteúdo  público;  da estrutura estatal do absolutismo iluminado  recebe  a
+ideia de legislação pública especial para regular a atividade da administração
+pública, transformando os poderes absolutos da coroa em poderes do Estado
+regulados pela lei.
+Na  realidade,  o  caráter  pretensamente  autoritário  do  Direito
+Administrativo  foi  abra
+[/PAGINA 23]
+
+[PAGINA 24]
+ndado  pelos  princípios  vigentes  no  Estado  liberal,
+uma  vez  que  a  autoridade  era  limitada  pelo  reconhecimento  de  direitos
+individuais  garantidos  pelo  Poder  Judiciário  ou  por  uma  jurisdição
+administrativa independente do Poder Executivo.
+O Direito Administrativo, desde as origens, caracterizou-se pelo binômio
+prerrogativas  (que  protegem  a  autoridade)  e sujeições  (que  protegem  os
+direitos individuais perante os excessos do poder); e esse é um dos grandes
+paradoxos  do  Direito  Administrativo  como  ramo  do  direito  caracterizado
+fundamentalmente pelo referido binômio. Não há justificativa para que esse
+binômio seja visto de um lado só.
+Pode ter havido períodos da evolução do Direito Administrativo, em que
+a balança pendeu para o lado das prerrogativas e, portanto, do autoritarismo.
+No primeiro período, da justice rétenue (justiça retida), em que o contencioso
+
+administrativo  esteve  vinculado  ao  imperador  (fase  do  administrador-juiz)
+prevaleceu  o  caráter  autoritário  das  normas  que  disciplinavam  a  atuação
+administrativa,  fortemente  centralizada;  a  última  palavra  sobre  as
+manifestações  do  contencioso  administrativo  era  do  imperador.  Com  a
+instauração do Estado de Direito, pendeu-se para o lado oposto, ou seja, para
+a proteção das liberdades individuais; o que mais contribuiu para isso foi a
+atribuição de função jurisdicional propriamente dita, desvinculada do Poder
+Executivo, aos órgãos do contencioso administrativo. Abandonou-se a fase da
+justice rétenue  e  entrou-se  na  fase  da justice déléguée  (justiça  delegada),
+quando a decisão proferida pelo juiz passa a ser definitiva. Nesse período,
+dentro do binômio direitos individuais e prerrogativas públicas, preocupava-
+se especialmente com o primeiro aspecto.
+Foi, portanto, o Direito Administrativo elaborado sob a base de alguns
+princípios fundamentais do constitucionalismo também incipiente, dentre os
+quais  ressaltam,  por  sua  importância,  o  da  separação  de  poderes  e  o  da
+legalidade. Um e outro tinham por objetivo assegurar a liberdade do cidadão
+diante  das  prerrogativas  do  poder  público.  Segundo  José  Eduardo  Faria
+(1988:40), “equilíbrio entre poderes e representação política, certeza jurídica
+e  garantia  dos  direitos  individuais,  constitucionalidade  e  legalidade,
+hierarquia  das  leis  e  distinção  entre  atos  de  império  e  atos  de  gestão,
+autonomia  da  vontade  e  liberdade  contratual  –  eis  alguns  dos  princípios
+básicos em torno dos quais o Estado liberal se desenvolveu”. Foi sob a égide
+desses postulados que evoluiu o Direito Administrativo nesse período.
+Importante,  quanto  ao  tema,  é  o  pensamento  de  Miguel  Reale,  em
+trabalho sobre Nova fase do direito moderno (1990:79-82), em que o autor
+demonstra que tanto o direito constitucional como o administrativo são filhos
+da Revolução Francesa. Observa o autor que “nesta, com efeito, surgem as
+condições históricas e os pressupostos teóricos
+[/PAGINA 24]
+
+[PAGINA 25]
+indispensáveis ao estudo da
+administração pública segundo categorias jurídicas próprias, a começar pela
+afirmação  dos  direitos  do  cidadão  perante  o  Estado;  o  princípio  da
+
+responsabilidade  dos  agentes  públicos  por  seus  atos  arbitrários,  e  o  livre
+acesso de todos às funções administrativas”. Acrescenta o autor que, “sem a
+subordinação  do  Estado  ao  império  da  lei  e  da  jurisdição  não  teria  sido
+possível o tratamento autônomo e sistemático do Direito Administrativo”.
+Miguel Reale parece reconhecer o caráter autoritário da origem do Direito
+Administrativo,  mas  realça  que  é  necessário  separar  o  aspecto  político  do
+jurídico.  Ele  lembra  observação  feita  por  Massimo  Severo  Giannini  (em
+trabalho sobre Diritto amministrativo, publicado na Enciclopedia del Diritto,
+t.  12,  p.  862)  de  que  o  advento  dessa  nova  disciplina  “foi  visto  por
+historiadores, como Salvemini e Lefèvre, ‘como um instrumento mediante o
+qual a burguesia, conquistando o poder graças à Revolução, tende a conservá-
+lo, por um lado, contra as classes privilegiadas destituídas de seus antigos
+poderes, e, por outro lado, contra as classes subalternas, donde um Direito
+privilegiado do Estado, por ser este, na realidade, instrumento exclusivo dos
+detentores do poder político”. Lembra ainda Miguel Reale que: “Giannini não
+diverge dessa visão histórica no plano político, mas, sob o prisma jurídico,
+faz uma ressalva que me parece relevante, assinalando que, não obstante sua
+origem  autoritária  e  centralizadora  inspirada  nos  propósitos  políticos  dos
+Termidorianos, empenhados em prevenir e reprimir desordens sociais, para a
+manutenção  da  ordem  pública  e  da  paz  social, o  Direito  Administrativo
+redundava em respeito à liberdade pregada pela Revolução na medida em
+que  eram  reconhecidos  limites  à  autoridade  estatal,  sujeita  a  controle
+jurisdicional” (grifamos).
+A  conclusão  de  Reale  é  a  de  que:  “O  Direito  Administrativo,  embora
+vinculado  originariamente  a  interesses  políticos  e  econômicos  burgueses,
+transcendia esses objetivos, representando, desde o início, uma das vertentes
+realizadoras do Estado de Direito de cunho liberal.”
+Na  realidade,  pode-se  afirmar  que,  qualquer  que  tenha  sido  o  intuito
+inicial da criação do Direito Administrativo, o fato é que, sob o ponto de vista
+jurídico,  ele  nasceu  junto  com  o  constitucionalismo  e  com  o  Estado  de
+
+Direito,  não  tendo  como  furtar-se  à  influência  dos  ideais  filosóficos  que
+inspiraram a Revolução Francesa (representados especialmente pelas figuras
+de  Rousseau  e  de  Montesquieu)  e  deram  nascimento  aos  princípios  da
+separação de poderes, da isonomia, da legalidade e do controle judicial.
+Nas palavras de Celso Antônio Bandeira de Mello (2016:47), “o Direito
+Administrativo nasce com o Estado de Direito. Nada semelhante àquilo que
+chamamos de Direito Administrativo existia no período histórico que precede
+a submissão do Esta
+[/PAGINA 25]
+
+[PAGINA 26]
+do à ordem jurídica. Antes disso, nas relações entre o
+Poder, encarnado na pessoa do soberano, e os membros da sociedade, então
+súditos – e não cidadãos –, vigoravam ideias que bem se sintetizam em certas
+máximas clássicas, de todos conhecidas, quais as de que quod principi placuit
+leges habet vigorem: ‘o que agrada ao príncipe tem vigor de lei’. Ou, ainda:
+‘o próprio da soberania é impor-se a todos sem compensação’; ou, mesmo: ‘o
+rei  não  pode  errar’.  O  advento  do  Estado  de  Direito  promoveu  profunda
+subversão nestas ideias políticas, que eram juridicamente aceitas. Ao firmar a
+submissão do Estado, isto é, do Poder, ao Direito e ao regular a ação dos
+governantes nas relações com os administrados, fundando, assim, o Direito
+Administrativo,  este  último  veio  trazer,  em  antítese  ao  período  histórico
+precedente – o do Estado de Polícia –, justamente a disciplina do Poder, sua
+contenção e a inauguração dos direito dos, já agora, administrados – não mais
+súditos”.
+Com efeito, o Direito Administrativo incorporou o princípio da legalidade
+e,  do  outro  lado  da  moeda,  o  princípio  da  justicialidade.  Se  incorporou
+também o princípio do interesse público é porque ao Estado incumbe a defesa
+dos interesses da coletividade.
+E  talvez  nunca  se  tenha  vivido  outro  período  da  evolução  do  Direito
+Administrativo  em  que  se  defende  de  forma  tão  efetiva  a  proteção  dos
+direitos  individuais  como  o  atual.  O  Direito  Administrativo  se
+constitucionalizou, se humanizou, se democratizou. Este, desde as origens,
+encontrou fundamento no Estado de Direito e acompanhou a sua evolução
+
+nas  várias  fases  (Liberal,  Social  e  Democrática).  Mais  recentemente,  a
+ligação com os princípios do Estado de Direito ainda mais se acentuou com a
+constitucionalização do Direito Administrativo, referida no item 1.8 sobre as
+transformações do Direito Administrativo.
+Por essas razões, não é possível concordar com os autores que apontam a
+origem   autoritária   do   Direito   Administrativo,   negam   a   sua
+constitucionalização  e  afirmam  a  sua  imutabilidade  no  decurso  do  tempo.
+Não há dúvida de que a doutrina e, em grande parte, a jurisprudência, muito
+avançaram e continuam avançando, no que diz respeito à constitucionalização
+do  Direito  Administrativo.  O  Direito  Administrativo  vem  passando  por
+profundas  modificações,  das  quais  se  realça  precisamente  a  sua
+constitucionalização, hoje tratada e defendida pela doutrina e aplicada pela
+jurisprudência,   com   reflexos   sensíveis   sobre   a   legalidade,   a
+discricionariedade administrativa e o controle judicial. O conteúdo do Direito
+Administrativo  ampliou-se  consideravelmente,  não  só  no  direito  brasileiro,
+mas  também  no  direito  europeu,  levando  Jacqueline  Morand-Deviller
+(2013:11) a afirmar que “as mutações do fim do século XX foram descritas
+pelos administrativistas como um período de pós-modernismo. O século XXI
+conhece já um pós-pós-modernismo cu
+[/PAGINA 26]
+
+[PAGINA 27]
+jas características seriam, em reação
+contra os excessos do período precedente, uma nova aproximação mais sutil
+da  normatividade,  como  contrapeso  ao  excesso  de  regulação,  uma  nova
+maneira  de  conceber  as  relações  sociais  humanizando  o  consensualismo
+(empobrecimento do contrato) pela convivência (ética da convivência) e uma
+nova maneira de conceber os direitos, vinculando-os a deveres. A obrigação e
+a  coerção  se  transformariam  em  um  consentimento  voluntário  de  assumir
+suas  responsabilidades.  No  face  a  face  entre  a  administração  e  os
+administrados, a primeira não conceberia suas prerrogativas senão vinculadas
+a seu dever de prestar contas e, os segundos, transformados plenamente em
+cidadãos,  não  separariam  seus  direitos  de  seus  deveres  para  com  a  coisa
+pública”.
+
+Por  isso  mesmo,  pode-se  afirmar  que  as  bases  filosóficas  do  Direito
+Administrativo, desde as origens, são as mesmas do Estado de Direito, tendo
+acompanhado de perto as mutações por este sofridas, em suas várias fases –
+liberal, social, democrática e, talvez, pós-pós-modernista (como mencionado
+por Jacqueline Morando-Deviller). Hoje, o Direito Administrativo – de base
+essencialmente constitucional – foi enriquecido pelos ideais de centralidade e
+dignidade da pessoa humana, de participação, de transparência, de exigência
+de motivação, de processualização, de controle social.
+
+1.3CONTRIBUIÇÃO DO DIREITO FRANCÊS
+É inegável a contribuição do direito francês para a autonomia do Direito
+Administrativo.
+Costuma-se  indicar,  como  termo  inicial  do  nascimento  do  Direito
+Administrativo,  a  Lei  de  28  pluvioso  do  Ano  VIII  (1800),  que  organizou
+juridicamente a Administração Pública na França.
+Mas foi graças principalmente à elaboração jurisprudencial do Conselho
+de Estado francês que se construiu o Direito Administrativo.
+O  apego  ao  princípio  da  separação  de  poderes  e  a  desconfiança  em
+relação aos juízes do velho regime serviram de fundamento para a criação, na
+França,  da jurisdição  administrativa  (o contencioso  administrativo),  ao
+lado  da jurisdição  comum,  instituindo-se,  dessa  forma,  o  sistema  da
+dualidade de jurisdição.
+Com efeito, os constituintes franceses pós-revolucionários deram alcance
+mais amplo à teoria da separação de poderes, entendendo que a solução dos
+litígios nos quais a Administração Pública é parte não pode ser atribuída ao
+Poder Judiciário, sob pena de criar-se subordinação de um Poder ao outro.
+Essa  concepção  do  princípio  da  separação  de  poderes  traduzia  uma  visão
+política herdada da experiência do Velho Regime: a desconfiança em relação
+ao Poder Judiciário, pois a sua resistência ao poder real e às reformas que ele
+pretendia promover foi uma das principais causas do imobilismo que acabou
+por provocar a Revolução (cf. Georges Vedel, 1964:60).
+Tal  o  fundamento  pelo  qual  se  instituiu  na  França  o  contencioso
+administrativo, com apoio no texto do artigo 13 da Lei de 16-24
+[/PAGINA 27]
+
+[PAGINA 28]
+de agosto de
+1790, em cujos termos “as funções judiciárias são distintas e permanecerão
+sempre  separadas  das  funções  administrativas.  Não  poderão  os  juízes,  sob
+pena de prevaricação, perturbar de qualquer modo as operações dos corpos
+administrativos,  nem  citar  diante  de  si  os  administradores  por  motivo  das
+
+funções que estes exercem”.
+Essa norma foi confirmada, posteriormente, pelo decreto de 16 frutidor
+do  ano  III:  “Proibições  iterativas  feitas  aos  tribunais  de  conhecer  atos  de
+administração  de  qualquer  espécie...”  (cf.  José  Cretella  Júnior, Tratado de
+Direito Administrativo, 1969, v. 6:69-71).
+De  início,  a  própria  Administração  decidia  os  seus  conflitos  com  os
+particulares,  já  que  o  Judiciário  não  podia  fazê-lo.  Foi  a  fase  do
+administrador-juiz,  em  que  a  Administração  era,  ao  mesmo  tempo,  juiz  e
+parte.  No  entanto,  no  ano  VIII,  começa  a  desenvolver-se  uma  verdadeira
+jurisdição administrativa, com a criação do Conselho de Estado, que só passa
+a exercer função verdadeiramente jurisdicional a partir de 1872, quando se
+tornou independente e suas decisões deixaram de submeter-se ao chefe de
+Estado.
+Foi pela elaboração pretoriana desse órgão de jurisdição administrativa
+que  se  desenvolveram  inúmeros  princípios  informativos  do  Direito
+Administrativo, incorporados ao regime jurídico de inúmeros outros países.
+Pode-se dizer que a autonomia do Direito Administrativo, ou seja, a sua
+posição  como  ciência  dotada  de  objeto,  método,  institutos,  princípios  e
+regime jurídico próprios, começou a conquistar-se a partir do famoso caso
+Blanco, ocorrido em 1873, e que envolveu uma menina (Agnès Blanco) que,
+ao atravessar uma rua da cidade francesa de Bordeaux, foi colhida por uma
+vagonete da Companhia Nacional de Manufatura de Fumo, que transportava
+matéria-prima de um para outro edifício (cf. José Cretella Júnior, Tratado de
+Direito  Administrativo,  1970,  v.  8:22-23).  Naquela  oportunidade,  o
+Conselheiro Davi, do Tribunal de Conflitos, proferiu o seu voto, colocando
+de  lado  o  Código  Napoleão  e  afirmando,  pela  primeira  vez,  o
+equacionamento e a solução da responsabilidade civil do Estado em termos
+publicísticos.  Relembre-se  de  que,  nessa  ocasião,  ocorreu  choque  de
+competência entre o Conselho de Estado e a Corte de Cassação. O conflito
+era  de  atribuição  negativo;  suscitado  perante  o  Tribunal  de  Conflitos  –  a
+
+quem cabia dirimir os conflitos dessa natureza entre a jurisdição comum e a
+administrativa  –,  o  Conselheiro  Davi,  entusiasmado  com  o  caso,  não  só
+concluiu  que  o  Conselho  de  Estado  era  competente  para  decidir  a
+controvérsia, como também devia fazê-lo em termos publicísticos, já que o
+Estado era parte na relação jurídica. Acentua-se aqui a saída do instituto da
+responsabilidade  do  campo  do  direito  civil,  como  então  era  tratado,  para
+mergulhar no campo do Direito Administrativo, onde a relação entre preposto
+e
+[/PAGINA 28]
+
+[PAGINA 29]
+preponente é diversa dessa mesma relação no campo do Direito Civil.
+Embora  a  decisão  apenas  confirmasse,  quanto  à  competência  da
+jurisdição  administrativa,  jurisprudência  anterior  do  Conselho  de  Estado,
+adotada nos casos Rotschild (1855) e Dekeister (1862), ela inovava em dois
+pontos:  quando  definia  a  competência  da  jurisdição  administrativa  pelo
+critério  do serviço  público  (responsabilidade  por  danos  decorrentes  do
+serviço  público)  e  quando  resolvia  a  questão  com  base  em  princípios
+autônomos, distintos daqueles adotados pelo Código Civil para as relações
+entre particulares.
+A  partir  de  então,  inegável  foi  a  contribuição  do  Conselho  de  Estado
+francês  para  a  elaboração  de  princípios  informativos  do  Direito
+Administrativo.  “Em  1945,  o  Conselho  de  Estado  francês  invocou,  pela
+primeira vez de modo expresso, os princípios de direito aplicáveis, mesmo na
+ausência  de  textos  legais,  às  relações  entre  Administração-indivíduo,
+Administração-funcionário  ou  entre  órgãos  administrativos.  E  a  partir  de
+então expediu-se naquele tribunal essa diretriz, atribuindo-se aos princípios
+força de lei quanto aos atos administrativos gerais e especiais. Em virtude do
+surgimento de regulamentos autônomos previstos na Constituição francesa de
+1958  e  dotados  da  mesma  força  de  lei,  o  Conselho  de  Estado  passou  a
+conferir, aos princípios gerais, valor constitucional, com base no preâmbulo
+da referida Constituição” (cf. Odete Medauar, O Estado de S. Paulo, 24-4-86,
+p. 42).
+Georges Vedel (1964:53) ressalta o fato de que o Direito Administrativo
+
+francês é, em grande parte, não legislativo, porque formulado pelo juiz. Diz
+ele que, nesse ramo do Direito, o repúdio ao Código Civil e ao direito privado
+e a imensidão de lacunas legislativas levaram o juiz a fazer verdadeiramente
+o direito. A função do juiz administrativo não era só a de interpretar o direito
+positivo,  como  o  fazia  o  juiz  comum,  mas  também  preencher,  por  suas
+decisões, as lacunas da lei. Daí a contribuição do Conselho de Estado para a
+elaboração de princípios informativos do Direito Administrativo, ainda hoje
+vigentes em vários sistemas: o da responsabilidade civil da Administração, o
+da  alteração  unilateral  dos  contratos  administrativos,  os  concernentes  ao
+regime jurídico especial dos bens do domínio público, a teoria da nulidade
+dos atos administrativos.
+Afora  a  contribuição  do  Conselho  de  Estado,  que  não  se  limitou  às
+origens  do  Direito  Administrativo,  pois  se  perpetuou  nas  sucessivas
+interpretações  de  leis  e  regulamentos  administrativos,  mediante  princípios
+publicísticos, o direito francês também se coloca entre os pioneiros no campo
+da elaboração doutrinária do Direito Administrativo.
+É verdade que se indica como primeira obra, nessa matéria, os Principii
+fondamentali  di  diritto  amministrativo,  de  Giandomenico  Romagnosi,
+publicada  na  Itália  em  1814;  porém,  logo
+[/PAGINA 29]
+
+[PAGINA 30]
+a  seguir,  surgem,  na  França,  as
+obras  de  Macarel  (Élements  de  jurisprudence  administrative,  1818)  e  De
+Cormenin (Questions de droit administratif, 1822). Costuma-se criticar essas
+primeiras  obras  pelo  fato  de  que  se  limitaram  a  comentar  textos  legais  e
+decisões jurisprudenciais. Assim foram as obras de Macarel, Cormenin e De
+Gerando.  No  entanto,  são  ainda  do  Direito  Administrativo  francês  as
+primeiras  obras  que  trataram  dos  temas  do  Direito  Administrativo  como
+categoria própria, constituída por princípios autônomos; é o caso do Cours de
+droit administratif, de Ducroq, das Conférences sur le Droit, de Aucoc, e do
+Traité sur la juridiction administrative, de Laferrière.
+Também  foi  o  direito  francês  o  primeiro  a  colocar  o  Direito
+Administrativo como matéria de ensino universitário. Em 1819, muito antes,
+
+portanto, do referido caso Blanco, foi inaugurada na Faculdade de Direito de
+Paris a cadeira de Direito Administrativo, ministrada pelo Barão de Gerando,
+que publica o seu Programe du Cours de Droit Public Positif Administratif à
+la Faculté de Droit de Paris, no qual expõe os princípios gerais da Ciência da
+Administração,  distinta  do  Direito  Administrativo  Positivo.  Em  1829,  ele
+publica as Institutes du Droit Administratif Français, nas quais sistematiza a
+exposição  de  mais  de  80.000  dispositivos  legais  e  regulamentares  (cf.
+Oswaldo Aranha Bandeira de Mello, 2007:78).
+O Direito Administrativo francês formou-se como disciplina normativa
+referida a um sujeito – a Administração Pública, ou, nas palavras de André
+Hauriou (RDA 1:465), il reste une discipline interieure à un groupe. Ele se
+elaborou com base em determinados conceitos, como o de serviço público, de
+autoridade, de Poder Público, de especialidade de jurisdição, nenhum deles
+inspirado  no  direito  privado.  Segundo  Vedel  (1964:57),  quatro  princípios
+essenciais informam o Direito Administrativo francês: o da separação das
+autoridades administrativa e judiciária, que determina as matérias para as
+quais os tribunais judiciais são incompetentes; o das decisões executórias,
+que reconhece à Administração a prerrogativa de emitir unilateralmente atos
+jurídicos que criam obrigações para o particular, independentemente de sua
+concordância; o da legalidade, que obriga a Administração a respeitar a lei; e
+o  da responsabilidade  do  poder  público,  em  virtude  do  qual  as  pessoas
+públicas devem reparar os danos causados aos particulares.
+Tendo  o  Direito  Administrativo  francês  nascido  como  o  direito
+concernente  a  um  sujeito  –  Administração  Pública  –,  é  natural  que  se
+entendesse  que  sua  organização,  seus  direitos,  prerrogativas  e  obrigações
+fossem regulados por normas próprias, diversas daquelas que disciplinam as
+relações particulares. Daí a razão pela qual muitos autores viram o Direito
+Administrativo  como  “o  conjunto  das  derrogações  que  as  leis  trariam  à
+aplicação do direito privado no q
+[/PAGINA 30]
+
+[PAGINA 31]
+ue concerne à via administrativa. Ele sempre
+foi apresentado como um corpo de regras globalmente autônomo, repudiando
+
+em bloco o direito privado” (cf. Vedel, 1964:47). Foi o que fez o Conselheiro
+Davi,  no  caso  Blanco,  onde  ele  afirma  que  “a  responsabilidade  que  pode
+incumbir  ao  Estado  para  os  danos  causados  aos  particulares  por  fato  das
+pessoas  que  ele  emprega  no  serviço  público  não  pode  ser  regida  por
+princípios  que  são  estabelecidos  pelo  Código  Civil  para  as  relações  de
+particular a particular...” (cf. Vedel, 1964:48).
+A mesma rejeição às normas do Direito Civil, que se verifica em relação
+ao  tema  da  responsabilidade,  repete-se  também  em  relação  aos  contratos
+administrativos, às fundações públicas, à propriedade pública. Vale dizer que
+se  procura  solucionar  com  normas  e  princípios  do  Direito  Administrativo
+todas as questões em que a Administração é parte.
+Evidentemente, a autonomia nunca foi total. Jean Waline (apud Vedel,
+1964:48) “mostra que as hipóteses nas quais o juiz administrativo aplica aos
+litígios que lhe são submetidos regras emprestadas ao Código e leis de direito
+privado são muito mais numerosas do que se supõe geralmente, de tal sorte
+que  a  apresentação  tradicional  que  nisso  vê  ‘exceções’  à  autonomia  do
+Direito  Administrativo  repudiando  ‘em  bloco’  o  direito  privado  torna-se
+muito contestável”.
+Vedel (1964:48), que aceita essa conclusão, afirma que “o que permanece
+verdadeiro  da  tese  clássica  é  que,  ao  contrário  do  juiz  judiciário,  o  juiz
+administrativo é senhor de decidir se os Códigos e as leis de direito privado
+se aplicam a tal ou tal matéria dependente de sua competência. Conforme os
+casos,  ele  próprio  forjará  as  regras  aplicáveis  ou  considerará  inútil  a
+derrogação das regras do direito privado”.
+Não se pode encerrar este item sem realçar que o direito francês, inclusive
+seu Direito Administrativo, vem passando por importantes transformações,
+em decorrência de sua integração na União Europeia, cujo direito se impõe
+aos  Estados-membros,  inclusive  às  suas  Constituições.  A  própria
+jurisprudência do Conselho de Estado, que sempre se constituiu na principal
+fonte do Direito Administrativo francês, perdeu grande parte de sua força,
+
+não  só  pela  grande  quantidade  de  leis  hoje  existentes,  mas  também  pela
+submissão obrigatória aos atos normativos provenientes de organismos que
+compõem a estrutura da União Europeia. De resto, a constitucionalização, a
+privatização, a consensualidade, a democratização, a substituição do conceito
+de serviço público por serviço de interesse econômico (agora substituído, por
+sua  vez,  por  serviço  de  interesse  geral),  a  força  crescente  das  fontes
+internacionais do direito, o surgimento do Direito Administrativo econômico,
+são  algumas  das  transformações  pelas  quais  vem  passando  o  Direito
+Administrativo francês e que acabam por se expandir por todos os países que
+integram o
+[/PAGINA 31]
+
+[PAGINA 32]
+sistema de base romanística.
+
+1.4DIREITO ADMINISTRATIVO ALEMÃO
+Enquanto  na  França  o  Direito  Administrativo  surgiu  após  a  revolução,
+que rompeu inteiramente com o sistema anterior, na Alemanha não houve a
+mesma ruptura, pois resultou, esse ramo do direito, de longa evolução, não
+processada pela mesma forma nos diferentes Estados. Lá, a transformação
+“não  se  desenrolou  segundo  um  ritmo  uniforme  nos  diferentes  Estados
+alemães,  e  em  nenhuma  parte  o  velho  direito  foi  em  um  dado  momento
+totalmente eliminado para ser substituído por um direito novo; constata-se,
+em cada período, a subsistência de reminiscências jurídicas de concepções
+passadas. Mas em cada um desses períodos, a situação do poder público em
+relação aos sujeitos e em relação ao direito é determinada por uma concepção
+nova, que se afasta das tendências anteriores” (cf. Fritz Fleiner, 1933:25).
+Na Idade Média, a proteção jurídica para a autoridade e para o particular
+era  a  mesma,  sujeitando-se,  um  e  outro,  às  instâncias  jurisdicionais  dos
+tribunais, cabendo, no entanto, ao príncipe um direito eminente (jus eminens),
+composto por uma série de prerrogativas e poderes que ele devia exercer no
+interesse da coletividade. Em uma segunda fase, após a Reforma, ampliou-se
+o poder do príncipe; constitui-se o chamado jus politiae (direito de polícia),
+que, partindo da ideia de poder sobre a vida religiosa e espiritual do povo,
+concentrou em mãos dos príncipes poderes de interferir na vida privada dos
+cidadãos,  sob  o  pretexto  de  alcançar  a  segurança  e  o  bem-estar  coletivo;
+houve, nesse período, uma separação entre a polícia e a justiça; o príncipe
+podia baixar regras de polícia, relativas à Administração, e normas relativas à
+justiça;  estas  últimas  ficavam  fora  de  sua  ação  e  só  podiam  ser  aplicadas
+pelos juízes; as outras eram aplicadas pelo príncipe e seus funcionários, que
+agiam  exclusivamente  sob  normas  dele  emanadas  e  sem  assegurar  aos
+indivíduos apelo aos tribunais.
+Para combater esse poder absoluto do príncipe, elaborou-se a teoria do
+fisco,  em  consonância  com  a  qual  o  patrimônio  público  não  pertence  ao
+
+príncipe  nem  ao  Estado,  mas  ao  Fisco,  que  teria  personalidade  de  direito
+privado,  diversa  da  personalidade  do  Estado,  associação  política,  pessoa
+jurídica de direito público, com poderes de mando, de império; o primeiro
+submetia-se ao direito privado e, em consequência, aos tribunais; o segundo
+regia-se por normas editadas pelo príncipe, fora da apreciação dos tribunais.
+Com isto, muitas das relações jurídicas em que a Administração era parte
+passaram  a  ser  regidas  pelo Direito  Civil  e  a  submeter-se  a  tribunais
+independentes,  sem  qualquer  vinculação  com  o  príncipe.  Estes  tribunais
+passaram  a  reconhecer,  em  favor  do  indivíduo,  a  titularidade  de  direitos
+adquiridos contra o Fisco, todos eles fundamentados no direito privado. Na
+realidade, não havia outro direito além do
+[/PAGINA 32]
+
+[PAGINA 33]
+Direito Civil.
+Como diz Otto Mayer (1982, t. 1:56), “o resultado foi que nesse período
+do regime de polícia existe efetivamente um direito civil, um direito penal,
+um direito processual; em uma palavra: o direito de justiça. Com relação à
+administração  não  existem  regulamentos  que  sejam  obrigatórios  para  a
+autoridade frente ao súdito: não há direito público”.
+No  Estado  Moderno,  conservou-se  do  regime  de  polícia  a  ideia  de
+soberania  do  Estado  e,  embora  desaparecendo  o  dualismo  do  Estado  e  do
+Fisco, manteve-se a ideia de submissão de uma parte da atividade estatal ao
+Direito Civil.
+Por outro lado, deixou este de ser o direito único, pois desenvolveu-se o
+direito público, em especial o Direito Administrativo, para reger as relações
+entre  o  Estado  e  os  administrados;  o  Direito  Civil  passou  a  ter  aplicação
+apenas subsidiária.
+Tudo  isto,  não  é  demais  repetir,  foi  produto  de  longa  evolução;  não
+resultou de rupturas violentas com regimes anteriores, nem do trabalho do
+legislador; nas palavras de Fritz Fleiner (1933:33), “o progresso decorreu da
+prática das autoridades, da jurisdição administrativa e do trabalho silencioso
+da doutrina”.
+Embora  o  direito  público  alemão  tivesse  sofrido  influência  do  direito
+
+francês, foi diversa a origem do seu Direito Administrativo e a sua própria
+formação;  o  Direito  Administrativo,  na  França,  foi  produto  de  elaboração
+pretoriana do Conselho de Estado, desenvolvida para atender a necessidades
+puramente  práticas,  surgidas  em  cada  caso  concreto.  Na  Alemanha,
+predominou a elaboração sistemática e científica, mais abstrata, a cargo dos
+doutrinadores,  conforme  se  demonstrará  além,  ao  cuidar-se  do  objeto  do
+Direito Administrativo.
+No  direito  alemão,  a  influência  do  direito  civil  foi  muito  maior  na
+elaboração  do  Direito  Administrativo  do  que  ocorreu  no  direito  francês.
+Enquanto neste houve uma tendência para rejeitar, em bloco, as normas do
+direito privado, construindo-se o Direito Administrativo como conjunto de
+normas  derrogatórias  e  exorbitantes  do  direito  comum,  na  Alemanha  a
+sistematização do Direito Administrativo, por ideias herdadas do Estado de
+Polícia,  seguiu  muito  mais  a  orientação  adotada  pelos  pandectistas  na
+interpretação do Código Civil. Na sistematização do Direito Administrativo,
+adotou-se o método construtivo, preocupado em formular dogmas específicos
+do  direito  público,  mas  sempre  a  partir  do  modelo  construído  pelo  direito
+privado.
+Segundo Fritz Fleiner (1933:44), a expressão Direito Administrativo não
+designa,  na  Alemanha,  ao  contrário  da  França,  uma  espécie  particular  de
+direito. “No sentido mais amplo, o ‘Direito Administrativo’ designa todas as
+normas que regulam a atividade das autoridades estatais administrativas, quer
+façam parte do direito público ou do direito privado. Mas a ciência do direito
+não entende a noção dessa maneira tão ampla. Ela parte da consid
+[/PAGINA 33]
+
+[PAGINA 34]
+eração de
+que as normas particulares não foram elaboradas pela Administração Pública
+senão nos casos em que as normas gerais do direito privado, do direito penal
+e  do  processo  não  podem  proteger,  pelo  menos  de  maneira  suficiente,  em
+razão do modo mesmo pelo qual elas são concebidas, os interesses especiais
+da administração pública.” Acrescenta o mesmo autor que se entenderá por
+Direito  Administrativo  “o  direito  público  estabelecido  na  medida  das
+
+necessidades da administração pública”.
+Também  com  relação  ao  Direito  Administrativo  alemão,  é  importante
+lembrar  que,  tal  como  ocorreu  com  todos  os  países-membros  da  União
+Europeia, está sujeito ao direito comunitário europeu. Tal afirmação, já feita
+com  relação  ao  direito  francês,  tem  por  objetivo  ressaltar  que  as
+transformações  do  Direito  Administrativo,  a  serem  analisadas  no  item  1.8
+deste capítulo, são muito semelhantes em todos os países que fazem parte da
+União Europeia, inclusive naqueles filiados ao sistema do common law.
+Foi  o  direito  alemão  que  deu  os  primeiros  passos  no  sentido  da
+valorização  dos  direitos  fundamentais  e  da  constitucionalização  dos
+princípios  e  valores  que  devem  orientar  a  atividade  da  Administração
+Pública,  da  teoria  dos  conceitos  jurídicos  indeterminados,  do  princípio  da
+dignidade  da  pessoa  humana  como  fundante  do  Estado  de  Direito,  do
+princípio da proporcionalidade, do princípio da proteção à confiança. Tudo
+isso influenciou os países filiados ao sistema romanista e produziu reflexos
+inclusive  sobre  a  União  Europeia,  que  foi  progressivamente  se
+constitucionalizando,  pela  integração,  a  partir  do  Tratado  de  Lisboa,  de
+artigos relativos aos valores e objetivos da União, a afirmação da dimensão
+cidadã da União, o reconhecimento dos direitos fundamentais (cf. Marianne
+Donny, 2012:37 ss).
+
+1.5DIREITO ADMINISTRATIVO ITALIANO
+Também na Itália não houve o mesmo rompimento brusco com o regime
+anterior.
+Encontram-se  as  origens  do  Direito  Administrativo  italiano  no
+ordenamento  administrativo  piemontês  que,  sob  dominação  da  França,  foi
+profundamente influenciado pelo direito francês elaborado a partir da época
+de Napoleão. O próprio método exegético do direito francês foi seguido, nas
+origens,  pelo  Direito  Administrativo  italiano.  Com  a  anexação  das  demais
+províncias  ao  Reino  piemontês,  aquela  mesma  influência  se  fez  sentir,  na
+medida em que houve a unificação administrativa, em especial pela Lei nº
+2.248, de 20-3-1865, conhecida como “Lei sobre unificação administrativa
+do  Reino”,  compreendendo  seis  anexos  referentes  às  leis  fundamentais  do
+Estado; a Lei provincial e municipal, a Lei sobre segurança pública, a Lei de
+saúde, a do Conselho de Estado, a do contencioso administrativo e a de obras
+públicas.
+Num segundo período, que vai de 1865 até a Primeira Guerra Mundial,
+verificaram-se importantes alterações na legislação, espec
+[/PAGINA 34]
+
+[PAGINA 35]
+ialmente nas quatro
+primeiras partes anexas à referida lei de unificação do Reino, para adaptá-las
+aos princípios liberais defendidos na Europa do século XIX.
+A terceira fase (1922 a 1943), iniciada após a Primeira Guerra Mundial,
+foi  marcada  pelo  aparecimento  do  fascismo,  com  adoção  de  princípios
+autoritários e abolição de postulados democráticos na organização dos órgãos
+administrativos:  definição  dos  poderes  do  Primeiro  Ministro,  faculdades
+normativas do Poder Executivo, extinção de órgãos eletivos nos municípios,
+ampliação  dos  poderes  do  prefeito,  intervenção  do  Estado  na  vida  social,
+econômica e moral dos cidadãos.
+A  partir  da  queda  do  fascismo,  voltam  os  princípios  democráticos,
+reinstaurando-se  o  sistema  de  governo  parlamentar,  reconstituindo-se  os
+
+órgãos eletivos nos municípios e nas províncias, limitando-se os poderes do
+prefeito e criando-se a autonomia regional (cf. Alessi, 1970:20-23).
+Sob  o  aspecto  doutrinário,  o  Direito  Administrativo,  na  primeira  fase,
+sofreu  influência  da  doutrina  francesa  e  paralelamente  se  inspirou  nos
+esquemas  do  direito  privado.  Na  segunda  fase,  já  abandonando
+gradativamente o apego aos métodos de direito privado e à escola exegética,
+foi  assumindo  caráter  científico,  com  sistematização  própria,  embora  com
+influência alienígena, especialmente do direito alemão. Nessa fase, as obras
+de Orlando, Santi Romano, Oreste Ranelletti, Federico Cammeo.
+Segundo  Orlando  (1900:47),  o  direito  italiano  conseguiu  uma  “feliz
+harmonia” entre as duas tendências opostas verificadas no direito francês e no
+direito  alemão;  o  primeiro  apegou-se  excessivamente  ao  caso  concreto  tal
+como  estudado  pela  jurisprudência;  e  o  segundo  pecou  pela  excessiva
+abstração e distanciamento da realidade.
+Como se verá no item 1.7, o direito italiano também influenciou o Direito
+Administrativo  brasileiro  (quanto  ao  conceito  de  mérito  do  ato
+administrativo, de interesse público primário e secundário, de autarquia, de
+entidades  paraestatais,  dentre  outros).  Hoje  passa  por  transformações
+decorrentes de sua submissão ao direito comunitário europeu.
+
+1.6DIREITO ADMINISTRATIVO ANGLO-AMERICANO
+Enquanto o direito francês, o italiano, o alemão e, entre tantos outros, o
+brasileiro são filiados ao sistema de base romanística, o direito vigente nos
+Estados Unidos e na Inglaterra integra o chamado sistema do common law,
+expressão  que  designa,  nas  palavras  de  José  Cretella  Júnior  (Revista  da
+Procuradoria-Geral do Estado, v. 12:10), “o direito não escrito de um país,
+baseado no costume, no uso e nas decisões das Cortes de Justiça”.
+Uma das diferenças básicas entre os dois sistemas está em que o primeiro
+tem  como  fonte  principal  o  direito  legislado  (statute law)  e  o  segundo,  o
+precedente  judiciário,  ou  seja,  o  direito  comum  (common law)  criado  por
+decisões judiciárias.
+Conforme  ensinamento  de  John  Clarke  Adams  (1964:
+[/PAGINA 35]
+
+[PAGINA 36]
+10-11),  na
+elaboração  de  sua  sentença,  “o  juiz  do common  law  está  teoricamente
+vinculado  pelo common  law.  Praticamente,  entretanto,  está  vinculado
+somente na medida em que este tenha sido gradualmente revelado através das
+sentenças anteriores”.
+Outra  fonte  do  direito  anglo-saxão  é  a equidade,  que  serve  de
+fundamento  a  decisões  judiciais  nos  casos  em  que  não  se  encontra  no
+common  law  a  tutela  eficaz  aos  direitos  privados.  Uma  vez  proferida  a
+decisão  com  base  na  equidade,  ela  também  se  transforma  em  precedente
+judiciário e passa a integrar o common law.
+Os  direitos  filiados  a  esse  sistema  têm  também  como  fonte  o  direito
+legislado, que é direito escrito, ao contrário das demais fontes citadas, que
+compõem o direito não escrito. Em caso de conflito entre este último e a lei,
+esta é que prevalece. Desse modo, à medida que aumenta o direito legislado,
+diminui  o  campo  de  aplicação  do  direito  não  escrito.  Mas  as  decisões
+proferidas  com  base  na  lei  passam  também  a  constituir  precedentes
+judiciários que vinculam os juízes nas decisões futuras; o mesmo ocorre, nos
+
+Estados Unidos, com relação à interpretação judicial da Constituição escrita.
+O  papel  do  juiz,  no  sistema  anglo-americano,  é  da  maior  relevância,
+porque ele não se limita a aplicar uma norma preexistente ao caso concreto,
+pois,  “para  ele,  os precedentes,  os  atos  legislativos  e  até  a  carta
+constitucional não são senão as peças já ordenadas de um vasto e incompleto
+mosaico  que  representará  ao  direito  eterno,  peças  às  quais  ele  mesmo
+agregará sua modesta contribuição no ato de ditar a sentença” (John Clarke
+Adams, 1964:17).
+No  que  diz  respeito  ao  Direito  Administrativo  no  sistema  anglo-
+americano, o seu nascimento, além de posterior ao do sistema continental,
+não teve a seu favor as razões históricas que justificaram a interpretação que
+na França se deu ao princípio da separação de poderes e inspiraram a criação
+do contencioso administrativo.
+Na  Inglaterra  e  Estados  Unidos,  o  Poder  Judiciário  exerce  sobre  a
+Administração Pública o mesmo controle que exerce sobre os particulares,
+graças  ao  apego  aos  princípios  da rule  of  law,  na  Inglaterra, judicial
+supremacy e due process of law, nos Estados Unidos.
+Enquanto aos franceses, após a revolução, repugnava a ideia de submeter
+a Administração ao Judiciário em consequência dos apontados antecedentes
+históricos, na Inglaterra e nos Estados Unidos os revolucionários dos séculos
+XVII e XVIII, respectivamente, receavam os excessos do Poder Executivo,
+razão pela qual registrou-se a tendência oposta de atribuir ao Judiciário e ao
+Legislativo maiores poderes de controle.
+Havia grande resistência ao nascimento do Direito Administrativo, que
+era  visto  como  um  conjunto  de  normas  que  asseguravam  privilégios  e
+prerrogativas para a Administração frente ao particular, parecendo mais como
+direito próprio dos regimes to
+[/PAGINA 36]
+
+[PAGINA 37]
+talitários.
+Se o Direito Administrativo surgiu no sistema anglo-americano, não foi
+em  consequência  dos  princípios  revolucionários,  mas  para  atender  aos
+reclamos da sociedade moderna, em favor da atuação crescente do Estado no
+
+a)
+b)
+c)
+campo social e econômico, a exigir o crescimento da máquina administrativa
+e, paralelamente, a elaboração de normas próprias para a sua atuação.
+Hoje não é possível negar mais a existência do Direito Administrativo
+naquele  sistema,  embora  com  conteúdo  menos  amplo  do  que  no  direito
+francês.  Porém,  durante  algum  tempo,  os  juristas  resistiram  ao
+reconhecimento  desse  fato,  graças  principalmente  à  obra  de  Albert  Venn
+Dicey (Lectures introductory to the study of law of the constitution, publicada
+pela primeira vez em 1885), e que influenciou tanto o direito inglês, como o
+norte-americano.
+Um estudo crítico a respeito do pensamento de Dicey foi feito por James
+W.  Garner  (1929:337-385).  Do  seu  trabalho  extrai-se  a  ideia  de  que,  para
+Dicey, existem no Direito Administrativo francês dois princípios estranhos à
+concepção inglesa: o primeiro é o que reconhece aos funcionários uma série
+de prerrogativas que não têm os particulares, colocando-os em situação de
+desigualdade no que concerne à sua responsabilidade perante os Tribunais;
+enquanto na Inglaterra os funcionários e os simples cidadãos submetem-se ao
+mesmo direito  comum  e  respondem  perante  os  tribunais  ordinários,  na
+França,  os  funcionários  gozam  de  privilégios  assegurados  por  leis
+administrativas e não podem ser processados perante a justiça comum. Para
+Dicey, o princípio do rule of law (império da lei) significa:
+supremacia  do  direito  comum,  a  impedir  o  reconhecimento  de
+privilégios,  prerrogativas  e  poderes  discricionários  às  autoridades
+administrativas e governamentais;
+unidade  da  lei  e  da  jurisdição  para  todos,  sejam  funcionários  ou
+particulares;
+existência  de  um direito  comum  constituído  pelo  conjunto  dos
+direitos  individuais  tal  como  aplicados  e  interpretados  pelos
+tribunais.
+
+O outro princípio do direito francês, diferente do anglo-americano, é o
+que concerne à separação de poderes que, na França, é interpretado de forma
+a impedir a apreciação, pelos juízes da jurisdição comum, dos atos praticados
+pela  Administração  Pública  e,  nos  Estados  Unidos  e  Inglaterra,  como
+separação  funcional,  a  impedir  a  Administração  de  exercer  função
+jurisdicional como a que exerce o Conselho de Estado francês.
+Tais  ideias  são  contestadas  por  Garner,  no  referido  trabalho.  Ele
+demonstra, de um lado, que os funcionários franceses respondem perante os
+tribunais administrativos, apenas quando se trata de falta cometida em razão
+do serviço; pelas suas faltas pessoais e pelos seus crimes, eles respondem
+perante  a  jurisdição  ordinária.  Por  outro  lado,  ele  observa  que  não  é
+inteiramente  verdadeira  a  afirmação  de  Dicey  segundo  a  qual,  no  direito
+inglês
+[/PAGINA 37]
+
+[PAGINA 38]
+, funcionário e cidadão encontram-se em pé de igualdade perante a lei,
+no  que  concerne  à  prática  de  infrações.  Além  do  Chefe  de  Estado,
+personificado pela Coroa, e dos Ministros, uns e outros gozando de proteção
+e  imunidades  especiais,  inúmeros  funcionários  ingleses  são  total  ou
+parcialmente  liberados  de  responder  perante  os  tribunais  ordinários  pelas
+consequências de seus atos oficiais; é o caso dos juízes, oficiais de polícia,
+funcionários das alfândegas e outros. Além disso, uma lei de 1893 concedeu
+certo privilégio aos servidores do Estado, ao exigir que todas as ações contra
+os  mesmos,  por  atos  praticados  no  exercício  do  cargo,  sejam  iniciadas  no
+prazo de apenas seis meses da data do ato.
+Quanto  à  impossibilidade  de  os  tribunais  ordinários,  na  França,
+apreciarem  atos  da  Administração  Pública,  Garner  contesta  também,
+mostrando  que  essa  apreciação  ocorre  em  vários  casos,  como  nas  faltas
+pessoais   cometidas   por   funcionários,   nas   desapropriações,   na
+responsabilização civil da Administração, na aplicação das regras de polícia,
+nos  processos  contra  a  administração  dos  correios  e  telégrafos.  Por  outro
+lado,  embora  não  exista  na  Inglaterra  o  contencioso  administrativo,  foi
+atribuída função judicial ou quase judicial a inúmeros órgãos administrativos,
+
+a)
+b)
+cujas decisões não podem, em geral, ser revistas pelos tribunais ordinários,
+com  a  agravante  de  que  esses  órgãos  não  têm  as  características  de  corpo
+judiciário que revestem os tribunais administrativos.
+O  mesmo  ocorreu  nos  Estados  Unidos,  onde  inúmeros  órgãos
+administrativos foram investidos de funções judiciais ou quase judiciais, para
+a solução de reclamações dos particulares contra o Estado, dos empregados
+contra  os  trabalhadores,  sem  as  características  essenciais  dos  tribunais
+judiciários e sem a possibilidade de revisão por estes últimos, a não ser sobre
+questões de direito.
+É  interessante  notar  que,  na  última  edição  da  sua  obra,  Dicey,
+influenciado  por  Gaston  Jèze,  reconhece  que  sua  concepção  do  Direito
+Administrativo francês está errada e que as decisões do Conselho de Estado
+se aproximavam bastante das decisões tomadas pelos tribunais comuns (cf.
+Garner, 1929:353-355).
+Também é oportuno observar que o pensamento de Dicey, inteiramente
+avesso ao regime administrativo francês, justificava-se, talvez, pela própria
+diversidade da organização do poder na Inglaterra, embora ele não tivesse se
+apercebido da evolução que já na sua época se verificava.
+Garrido  Falla  (1970:109-111)  aponta  as  seguintes  características  do
+regime inglês da primeira metade do século XIX, quando a França já estava
+desenvolvendo e aperfeiçoando o Direito Administrativo:
+falta quase absoluta de uma burocracia, significando que os cargos
+públicos  do  reino  compreendiam  apenas  os  chamados supremos
+(Parlamento e Rei, por exemplo) e os subordinados, que incluíam
+apenas  alguma
+[/PAGINA 38]
+
+[PAGINA 39]
+s  categorias,  deixando  fora  dessa  classificação
+inúmeros  cargos  de  relevo  no  Estado,  como  os  de  Secretários  de
+Estado, que não eram previstos em lei, embora existissem de fato;
+falta de centralização administrativa, pois a maior parte das funções
+públicas  típicas,  em  especial  as  concernentes  ao  poder  de  polícia,
+
+c)
+pertenciam  aos  governos  locais,  que  eram  dotados  de  autonomia
+(self-government)  em  relação  ao  poder  central,  ao  qual  não  se
+subordinavam hierarquicamente, mas através do Parlamento; este é
+que legislava para os órgãos locais;
+a  atividade  administrativa  era,  do  século  XVI  ao  XIX,  realizada
+pelos  juízes  e  pelo  Parlamento;  a  administração  dos  condados  era
+feita pelos juízes de paz, controlados pelos Tribunais ordinários, o
+que  significa  dizer  que  os  juízes  praticavam  atos  judiciais  e  atos
+administrativos. Também o Parlamento praticava e ainda pratica atos
+administrativos,  donde  a  distinção  entre public business  e private
+business, estes últimos dando lugar a bills privados.
+Já no século XVIII iniciaram-se algumas reformas, que se intensificaram
+no século XIX, revelando a tendência crescente no sentido do fortalecimento
+do Governo central, que recebeu amplos poderes para a elaboração de leis
+delegadas, as quais chegaram a superar sensivelmente, em quantidade, as leis
+promulgadas pelo Parlamento. O poder central também cresceu, à medida que
+foi criando empresas estatais e assumindo algumas funções quase judiciais.
+No direito inglês, a Administração goza de ampla discricionariedade, a
+tal  ponto  que  muitos  dos  seus  atos  são  subtraídos  à  apreciação  do  Poder
+Judiciário,  como  ocorria  com  a  chamada  “cláusula  de  Henrique  VIII”,  em
+decorrência da qual pode o Parlamento delegar à Administração o poder de
+mudar  a  lei,  inclusive  subtraindo  a  lei  delegada  à  apreciação  pelo  Poder
+Judiciário;  nesses  casos,  os  regulamentos  baixados  pela  Administração
+tinham a mesma força que a lei, produzindo o mesmo efeito de impedir a
+apreciação  judicial.  Vale  dizer  que,  como  na  Inglaterra  os  tribunais  não
+controlam a constitucionalidade das leis, os regulamentos também escapavam
+a  esse  controle;  hoje  essa  cláusula  está  em  desuso,  não  sendo  mais  aceita
+pelos Tribunais, que exercem controle sobre os regulamentos, exigindo a sua
+conformidade  com  a  lei.  Aquilo  que  ocorria  em  relação  aos  regulamentos
+
+ainda ocorre no caso das decisões proferidas por órgãos administrativos com
+funções quase-judiciais, em que se presume, juris et de jure, que o ato reúne
+todos  os  requisitos  legais,  vedada,  em  muitos  casos,  a  apreciação,  pelo
+Judiciário,  da  matéria  de  fato,  reservada  à  competência  discricionária  da
+Administração.
+No  que  diz  respeito  à  responsabilidade  civil  do  Estado,  vigorou,  na
+Inglaterra,  até  1947,  a  teoria  da  irresponsabilidade,  baseada  no  princípio
+segundo o qual the king can do no wrong;
+[/PAGINA 39]
+
+[PAGINA 40]
+o  funcionário  é  que  respondia
+pelos danos causados ao particular. Com a aprovação, naquele ano, do Crown
+Proceeding Act,  a  Coroa  passou  a  responder  nas  seguintes  hipóteses:  por
+danos cometidos pelos seus funcionários ou agentes, desde que haja infração
+daqueles  deveres  que  todo  patrão  tem  em  relação  aos  seus  prepostos  e
+também  daqueles  deveres  que  toda  pessoa  comum  tem  em  relação  à
+propriedade.
+A  responsabilidade,  no  entanto,  não  é  total,  porque  sofre  algumas
+limitações, não se aplicando aos entes locais nem às empresas estatais.
+Quanto  aos contratos  celebrados  pela  Coroa,  há  também  algumas
+particularidades,  que  decorrem  da  aplicação  do  princípio,  de  elaboração
+pretoriana, segundo o qual a Coroa não pode obrigar-se em detrimento da sua
+liberdade  de  ação,  ou,  por  outras  palavras,  o  poder  discricionário  da
+autoridade pública não pode ser restringido por via contratual (cf. Garrido
+Falla, 1970:116). Em decorrência disso, nos contratos com seus funcionários,
+ainda  que  conste  cláusula  que  impeça  a  rescisão,  é  possível  a  destituição
+sumária,  contra  a  qual  não  cabe  nenhum  recurso;  também  é  possível  a
+redução  de  salários,  cabendo  ao  funcionário  a  possibilidade  de  desistir  do
+contrato.  No  caso  dos  militares,  ainda  que  a  Administração  atrase  o
+respectivo  pagamento,  não  lhes  é  dado  abandonar  o  serviço  (cf.  Wade,
+1971:453-455).  Além  disso,  são  comuns,  nos  contratos  de  obras  públicas,
+cláusulas muito semelhantes às dos contratos administrativos, regidos pelo
+direito  público;  tais  são  as  cláusulas  que  estabelecem  amplos  poderes  de
+
+controle sobre o contratado, as que asseguram à Coroa o poder sancionador,
+sem recurso prévio aos Tribunais, as que preveem o poder de modificação,
+suspensão  ou  rescisão  do  contrato,  a  qualquer  momento,  mediante
+compensação pecuniária ao particular, as que conferem à Coroa o poder de
+interpretação e privilégios de decisão unilateral.
+Gaspar  Ariño  Ortiz,  em  prólogo  escrito  na  obra  de  José  Ignacio
+Monedero Gil (1977:12-14), onde faz um estudo do contrato no sistema do
+common law, mostra que tais cláusulas são estabelecidas, em caráter geral,
+para os contratos de obras públicas (United Kingdom General Government
+Contracts  for  Building  and  Civil  Engeneering  Works,  General  Conditions,
+1971), revelando que, embora a doutrina inglesa continue a afirmar que os
+contratos  celebrados  pela  Coroa  se  regem  pelo  direito  privado,  em  uma
+colocação  teórica  de  “religioso  respeito  à  tradição  jurídica  recebida”,  a
+realidade  das  coisas  é  diferente;  inexiste  um  texto  de  lei  que  estabeleça
+normas sobre tais contratos, que se regem pelas condições estabelecidas em
+seu próprio texto, aprovado pelo Governo. Os litígios se resolvem geralmente
+por  árbitros,  a  tal  ponto  que  foi  criado  um  órgão  –  Review  Board  of
+Government   Contracts   –   de   caráter   ind
+[/PAGINA 40]
+
+[PAGINA 41]
+ependente,   que   decide,
+definitivamente, sobre todos os conflitos que versem sobre rompimento do
+equilíbrio do contrato.
+As  características  apontadas  revelam  que  o rule  of  law  não  tem,  na
+Inglaterra,  o  alcance  que  Dicey  lhe  imprimiu:  a  Administração  goza  de
+privilégios e prerrogativas e de poder discricionário perante o particular; o
+princípio da unidade de jurisdição sofre a restrição decorrente das funções
+quase judiciais exercidas pelo Executivo; o direito comum elaborado pelos
+tribunais ordinários não é a única fonte do direito na Inglaterra.
+Dessa  forma,  sob  muitos  aspectos,  o  Direito  Administrativo  inglês  se
+aproximou  bastante  do  regime  de  Direito  Administrativo  condenado  por
+Dicey.  Mas,  como  diz  Garrido  Falla  (1970:118),  “não  são  poucos  os  que
+diagnosticaram a situação entendendo que a Inglaterra copiou uma parte do
+
+a)
+b)
+c)
+d)
+regime  administrativo  (precisamente  a  que  supõe  maior  sujeição  para  o
+particular), porém mostrou-se refratária a admitir, em troca, suas instituições
+de garantia (um contencioso no estilo francês)”.
+Nos Estados Unidos, onde também se fez presente a influência de Dicey,
+o conteúdo do Direito Administrativo é bem menos amplo do que nos países
+que adotam o chamado regime jurídico administrativo. Isto porque toda a
+matéria  relativa  à  organização  administrativa  está  fora  da  abrangência
+daquela  disciplina,  sendo  tratada  exclusivamente  pela  Ciência  da
+Administração,  como  ramo,  portanto,  da  Ciência  Política.  O  próprio
+problema das relações entre a Administração e seus funcionários rege-se pelo
+direito  comum;  desse  modo,  o  objeto  do  Direito  Administrativo  fica
+restringido apenas às relações da Administração com os particulares.
+John  Clarke  Adams  (1964:36),  fazendo  uma  comparação  entre  o
+conteúdo do Direito Administrativo norte-americano e o dos direitos francês
+e italiano, aponta, para o primeiro, as seguintes peculiaridades em relação aos
+demais:
+a doutrina norte-americana da separação de poderes está fundada
+em critérios funcionais, em decorrência dos quais a Administração
+Pública  deve  limitar-se  a  exercer  funções  administrativas,  não
+podendo  assumir  funções  jurisdicionais,  como  a  que  exerce  o
+Conselho de Estado francês;
+falta, no direito norte-americano, o conceito de interesse legítimo
+que delimita, na Itália, as competências do Conselho de Estado e da
+magistratura ordinária;
+a doutrina norte-americana da judicial supremacy dá aos tribunais
+ordinários  um  poder  genérico  de  controle  sobre  qualquer  ato
+administrativo, por questões de legalidade, sempre que um particular
+tenha um direito de ação garantido pelo common law ou pelas leis;
+a doutrina da irresponsabilidade do Estado no common law opõe-se à
+
+e)
+f)
+g)
+h)
+i)
+da responsabilidade no direito francês e italiano;
+é limitado o uso da execução forçada no direito norte-americano,
+onde, a não ser em casos excepcionais, em que o interesse coletivo
+esteja
+[/PAGINA 41]
+
+[PAGINA 42]
+em perigo, a execução dos atos da Administração depende de
+autorização dos tribunais;
+falta um regime jurídico de emprego público nos Estados Unidos;
+inexiste um corpus de jurisprudência administrativa;
+é escasso o desenvolvimento e importância da doutrina no direito
+anglo-americano;
+a predominante   posição   da   jurisprudência   no   Direito
+Administrativo  norte-americano  leva  a  um  método  de ensino
+universitário  diverso,  baseado  quase  só  em  textos  de  decisões
+judiciais.
+No que diz respeito à responsabilidade do Estado, houve uma evolução;
+até bem recentemente prevalecia, também, a regra da irresponsabilidade, sob
+influência do princípio inglês de que o rei não pode errar (the king can do no
+wrong).
+Hoje, o particular pode acionar diretamente o funcionário, admitindo-se,
+em algumas hipóteses, a responsabilidade direta do Estado.
+Com relação ao funcionário, responde da mesma forma que o particular,
+segundo  normas  do  direito  privado.  Desde  que  o  Tribunal  reconheça  a
+ilegalidade do ato praticado, o seu autor fica sujeito a reparar os danos dele
+decorrentes.  Mas  mesmo  essa  orientação  já  sofreu  certa  evolução;  os
+tribunais  resolveram  reconhecer  a  determinados  funcionários  imunidade
+semelhante  àquela  de  que  gozam  os  juízes;  isto  ocorreu  em  relação  aos
+funcionários administrativos que exercem funções de caráter jurisdicional e
+àqueles que exercem competências discricionárias.
+No que diz respeito à responsabilidade do Estado, o Federal Tort Claims
+
+Act (lei federal sobre demandas de danos civis), de 1948, estabeleceu a regra
+de  que  os  Estados  Unidos  serão  responsáveis,  sempre  que  haja culpa,  da
+mesma  maneira  e  tão  amplamente  como  um  particular  nas  mesmas
+circunstâncias.
+Além  de  a  responsabilidade  ser  baseada  na  culpa,  portanto,  segundo
+normas de direito privado, a lei estabelece uma série de restrições, pois não se
+aplica  nas  seguintes  situações:  reclamações  relativas  à  perda  de  cartas  ou
+objetos postais; cobrança de taxas, tarifas aduaneiras ou retenção de bens ou
+mercadorias pela alfândega; danos causados pela imposição de medidas de
+quarentena; reclamações que se produzam em país estrangeiro; reclamações
+relativas às atividades fiscais do Tesouro; danos causados por forças militares
+e  navais  em  tempo  de  guerra;  quando  o  funcionário  tenha  agido  em
+cumprimento  a  leis  ou  regulamentos  ou  no  exercício  de  funções
+discricionárias, desde que tenha usado da diligência devida.
+Nos  Estados  Unidos  também  surgiram órgãos  administrativos  com
+funções quase judiciais, à semelhança do que ocorreu na Inglaterra. Trata-se
+das Commissions,  Offices,  Agencies,  Boards,  que  são  dotadas  de  relativa
+independência em relação ao presidente da República. Segundo Garrido Falla
+(1970:126), “trata-se de uma autêntica concentração de poderes, posto que
+ditam regulamentos, aplicam-nos e, finalmente, perseguem por si mesmos e
+julgam os seus infratores”.
+No que di
+[/PAGINA 42]
+
+[PAGINA 43]
+z respeito aos serviços de utilidade pública, muitos dos quais
+são  assumidos  pelo  Estado  no  sistema  europeu  continental  e  delegados  ao
+particular  mediante  concessão  ou  permissão,  nos  Estados  Unidos  são
+deixados  para  a  iniciativa  privada,  dentro  do  princípio  constitucional  da
+liberdade  de  indústria  e  comércio;  no  entanto,  muitos  desses  serviços
+dependem  da  licença  do  poder  público  para  funcionar  e  são  submetidos  a
+uma  regulamentação  administrativa,  como  se  verifica  com  os  serviços  de
+navegação aérea e de transportes ferroviários.
+Na  parte  relativa  aos contratos,  ocorre  situação  muito  semelhante  à
+
+mencionada para a Inglaterra; embora se continue a afirmar que os contratos
+celebrados pelo poder público são regidos pelo direito privado, na realidade
+crescem, a partir de 1940, as leis e decisões judiciais que reconhecem poderes
+e privilégios para o Estado, quando contrata com outras entidades, públicas
+ou privadas. Antes disso, entendia-se que as regras ditadas pelo Estado, para
+celebração de contratos, não tinham caráter obrigatório, pois serviam apenas
+como instruções para os agentes administrativos; isto porque se igualavam o
+Governo e o particular, em direitos e obrigações, perante o contrato.
+A primeira lei que se promulgou dando orientação diferente foi a “Armed
+Services Procurement Act” (Lei de Contratos para as Forças Armadas), que
+impõe  limites  à  ação  governamental,  exigindo  publicidade  e  concorrência,
+para eliminar abusos e assegurar ao Governo um preço justo e razoável, além
+de permitir aos diversos empresários igual oportunidade para competirem e
+participarem dos negócios com o Governo, tal como consta da justificativa da
+referida lei (cf. Ortiz, 1968:29).
+A partir daí, outras leis e regulamentos foram publicados, com objetivos
+análogos; também a Corte Suprema vem proferindo decisões, reconhecendo
+força  de  lei  às  normas  administrativas  referentes  aos  contratos,  além  de
+privilégios  e  poderes  para  a  Administração,  como  o  da  decisão  unilateral
+executória,  com  a  consequente  compensação  pecuniária  ao  particular
+prejudicado. Também nos Estados Unidos existem os órgãos administrativos
+–  Board  of  Contracts  Appeals  –  com  poder  de  decisão  dos  conflitos
+decorrentes de contratos com o Estado, em muitos casos sem possibilidade de
+recursos aos tribunais; suas decisões são publicadas e constituem um corpo
+de doutrina citado pelos autores e pelos advogados em suas argumentações
+perante o Poder Judiciário.
+Quanto ao poder regulamentar, não constitui uma atribuição inerente à
+Administração Pública, pois depende de delegação expressa em cada caso;
+além  disso,  as  normas  regulamentares  têm  a  mesma  força  de  lei,  à
+semelhança do que ocorre na Inglaterra com a “cláusula de Henrique VIII”.
+
+Assinale-se,  ainda,  a  adoção  do princípio  da  publicidade  dos  atos  da
+Administração Pública, que assegura ao público em geral a possibilidade de
+con
+[/PAGINA 43]
+
+[PAGINA 44]
+hecer  os  atos  do  seu  interesse,  salvo  hipóteses  de  sigilo  previamente
+declarado; assegura-se também a participação do cidadão no procedimento de
+elaboração  dos  regulamentos,  mediante  consultas  e  conferências  para
+conhecer a opinião dos grupos econômicos interessados, audiências públicas,
+publicação prévia dos projetos (cf. Garrido Falla, 1970:133).
+Não há dúvida, portanto, de que o sistema de common law já tem um
+Direito  Administrativo,  embora  a  sua  formação  e  o  seu  desenvolvimento
+estejam  sendo  muito  mais  lentos.  Note-se  que,  no  momento  em  que  se
+constituíram  os  Estados  Unidos  da  América,  como  federação,  o  povo
+americano  já  era  senhor  dos  direitos  pelos  quais  o  povo  francês  teve  que
+lutar. Garrido Falla (1970:129) sintetiza essa diferença de maneira precisa: na
+Europa, “o Estado de Direito é uma criação historicamente tardia que vem a
+sobrepor-se às antigas monarquias absolutas centralizadas. A Administração,
+frente às garantias jurídicas que se introduzem para garantia da liberdade dos
+súditos,  segue,  entretanto,  atuando  como  herdeira  do  antigo  Monarca
+absoluto, com poderes residuais. Ao contrário, os Estados Unidos nascem
+como Estado independente, sendo já Estado de Direito: a liberdade individual
+não é ali uma conquista frente a um poderoso Estado anterior, senão também
+um pressuposto do Estado que nasce. O desenvolvimento ulterior faz com
+que  a  situação  se  pareça  cada  vez  mais  com  a  da  Europa;  porém,  o  que
+merece destacar é que isto se consegue através de um processo em que é o
+Estado que vai conquistando pouco a pouco (em contrapartida das lutas do
+cidadão europeu por suas liberdades) as suas prerrogativas de poder público”.
+Mas também não há dúvida de que, comparando-se os dois sistemas (o
+europeu  continental  e  o  do common  law),  este  último  ainda  utiliza,  nas
+relações  da  Administração  com  o  funcionário  e  com  o  particular,
+predominantemente, o regime jurídico de direito privado.
+
+1.7DIREITO ADMINISTRATIVO BRASILEIRO
+À  semelhança  do  que  ocorreu  na  Europa  continental,  o  Direito
+Administrativo não nasceu, no Brasil, como ramo autônomo, enquanto esteve
+sob o regime da monarquia absoluta.
+No período colonial, ao tempo das capitanias, os respectivos donatários
+detinham em mãos poderes absolutos que lhes eram outorgados pelo monarca
+português  e  que  abrangiam,  sem  qualquer  controle,  a  administração,  a
+legislação e a distribuição da justiça.
+Quando da criação do governo-geral, embora se dividissem as atribuições
+entre  o  governador-geral  (representante  do  Rei),  o  provedor-mor
+(representante  do  Fisco)  e  o  ouvidor-geral  (distribuidor  da  justiça),  ainda
+assim  o  primeiro  concentrava  grande  parte  dos  poderes,  inclusive  o  de
+legislar  e  o  de  presidir  a  distribuição  da  justiça,  a  ponto  de  atribuir-se  ao
+governador-geral, a partir de 1640, o título de vice-rei. No século seguinte,
+alguns  receberam  podere
+[/PAGINA 44]
+
+[PAGINA 45]
+s  em  matéria  cível  e  criminal,  com  possibilidade,
+inclusive, de aplicar a pena de morte.
+Com o Império, há uma divisão de funções entre o Poder Legislativo, o
+Poder Judiciário, o Poder Executivo e o Poder Moderador, os dois últimos
+concentrados em mãos do Imperador.
+Já  existia,  nessa  época,  uma  administração  pública  organizada,  mas
+regida  praticamente  pelo  direito  privado,  que  o  Conselho  de  Estado  se
+limitava a aplicar.
+No  entanto,  já  no  período  imperial,  criou-se  a  cadeira  de  Direito
+Administrativo  nos  cursos  jurídicos,  instalada,  em  1856,  na  Faculdade  de
+Direito de São Paulo e regida por José Antonio Joaquim Ribas.
+Começa,  então,  a  desenvolver-se  o  Direito  Administrativo  graças  ao
+trabalho  de  doutrinadores,  dentre  os  quais  Vicente  Pereira  do  Rego
+(Elementos  de  Direito  Administrativo  brasileiro,  de  1857),  Prudêncio
+
+Giraldes  Tavares  da  Veiga  Cabral  (Direito  administrativo  brasileiro,  de
+1859),  Visconde  do  Uruguai  (Ensaios  sobre  o  Direito  Administrativo,  de
+1862), Furtado de Mendonça (Excerto de Direito Administrativo pátrio, de
+1865), José Rubino de Oliveira (Epítome do Direito Administrativo pátrio, de
+1865),  José  Antonio  Joaquim  Ribas  (Direito administrativo brasileiro,  de
+1866), José Higino Duarte Pereira (Lições de Direito Administrativo).
+Com o início do período republicano, suprime-se o Poder Moderador e a
+jurisdição  administrativa  antes  atribuída  ao  Conselho  de  Estado.  A
+Administração Pública começa a agilizar-se e afastar-se dos moldes do direito
+privado.  No  entanto,  na  primeira  fase,  foi  pobre  o  trabalho  doutrinário
+desenvolvido no âmbito do Direito Administrativo.
+Segundo  Ruy  Cirne  Lima  (1982:33),  “reside  a  causa  dessa  indiferença
+pelo Direito Administrativo na própria base, sobre que se fez assentar o nosso
+direito público. Foram as instituições dos Estados Unidos da América e os
+princípios  da common  law  tomados  para  fundamento  do  nosso  regime
+jurídico  incipiente”.  O  autor  acrescenta  que  o  fundamento  estava  em
+contradição com o regime, pois aqui a Constituição de 1891, no artigo 34, nº
+23,  dividia  o  direito  objetivo  em  civil,  comercial,  criminal  e  processual,
+enquanto a common law abrange, no conceito norte-americano, “os princípios
+que regem assim de uma parte a justiça repressiva, como, de outra, a direção
+dos negócios jurídicos e, de outra ainda, a conservação de interesse privado, a
+regulamentação  das  instituições  domésticas,  e  a  aquisição,  fiscalização  e
+transferência  da  propriedade;  toca,  destarte,  todos  os  ramos  da  Ciência  do
+Direito. O resultado dessa contradição é a incerteza das categorias jurídicas
+no  nosso  Direito  Administrativo:  é  o  desconhecimento  de  pessoas
+administrativas,  fora  da  União,  dos  Estados  e  dos  Municípios;  é  o
+desconhecimento dos limites do domínio público, além dos que lhe assinala a
+propriedade da União, dos Estados ou dos Munic
+[/PAGINA 45]
+
+[PAGINA 46]
+ípios; é o desconhecimento
+da  doutrina  dos  atos  administrativos,  acima  das  prescrições  do  direito
+privado”.
+
+São dessa fase os trabalhos de Viveiros de Castro (Tratado de ciência da
+administração e do Direito Administrativo, de 1906), Alcides Cruz (Direito
+administrativo  brasileiro,  de  1910),  Manuel  Porfírio  de  Oliveira  Santos
+(Direito administrativo e ciência da administração, de 1919), Carlos Porto
+Carneiro (Lições de Direito Administrativo, de 1916) e Aarão Reis (Direito
+administrativo brasileiro, de 1923).
+A partir da Constituição de 1934, o Direito Administrativo experimentou
+grande  evolução,  em  decorrência  da  própria  previsão  constitucional  de
+extensão da atividade do Estado nos âmbitos social e econômico. Instituiu-se,
+inclusive,  um  Tribunal  de  Direito  Administrativo  na  esfera  federal.  Ao
+contrário  da  Constituição  de  1891,  de  feição  nitidamente  liberal  e
+individualista,  a  de  1934,  que  se  seguiu  ao  movimento  revolucionário  de
+1930,  assume  caráter  socializante,  marcado  pela  intervenção  crescente  na
+ordem social. O Estado deixa a sua posição de guardião da ordem pública e
+passa a atuar no campo da saúde, higiene, educação, economia, assistência e
+previdência social.
+Como  consequência,  cresce  a  máquina  estatal,  pela  criação  de  novas
+pessoas jurídicas públicas, quer as de capacidade específica para execução de
+serviços públicos (autarquias), quer as de capacidade genérica (territórios);
+paralelamente, aumenta o quadro de funcionários públicos necessários para o
+atendimento das novas tarefas assumidas pelo Estado.
+A partir de então, enriqueceu-se o Direito Administrativo com sucessivas
+obras, das quais, excluídas as monografias, que são inúmeras, destacam-se as
+de Themístocles Brandão Cavalcanti (Instituições de Direito Administrativo
+brasileiro,  de  1936; Tratado  de  Direito  Administrativo,  de  1948/1949;
+Princípios de Direito Administrativo, de 1945), José Mattos de Vasconcellos
+(Direito administrativo,  de  1932),  Ruy  Cirne  Lima  (Princípios de Direito
+Administrativo,  de  1939,  e Lições de Direito Administrativo,  de  1943),  J.
+Rodrigues  Vale  (Curso de Direito Administrativo,  de  1943),  J.  Guimarães
+Menegale  (Direito  administrativo  e  ciência  da  administração,  de  1950),
+
+Fernando Mendes de Almeida (Noções de Direito Administrativo, de 1956),
+José  Cretella  Júnior  (Direito administrativo do Brasil,  de  1956; Curso de
+Direito  Administrativo,  de  1964; Tratado  de  Direito  Administrativo,  de
+1966/1972; Lições  de  Direito  Administrativo,  de  1970),  Mário  Masagão
+(Curso de Direito Administrativo, de 1959/1960), Carlos S. de Barros Júnior
+(Compêndio  de  Direito  Administrativo,  de  1962),  Hely  Lopes  Meirelles
+(Direito  administrativo  brasileiro,  de  1964),  Manuel  Ribeiro  (Direito
+administrativo,  de  1964),  Oswaldo  Aranha  Bandeira  de  Mello  (Princípios
+gerais  de  Direito  Administrativo,  de  1969),  Valmir  Pontes  (Programa  de
+[/PAGINA 46]
+
+[PAGINA 47]
+Direito Administrativo,  de  1968),  Luiz  Delgado  (Compêndio elementar de
+Direito Administrativo, de 1970), Diogo de Figueiredo Moreira Netto (Curso
+de Direito Administrativo, de 1970/1971), Júlio Scantimburgo (Elementos de
+Direito  Administrativo,  de  1971),  Oscar  de  Oliveira  (Sinopse  de  Direito
+Administrativo,  de  1971),  Sérgio  de  Andréa  Ferreira  (Lições  de  Direito
+Administrativo, de 1972), Nelson Schiesari (Direito administrativo, de 1975),
+Celso Antônio Bandeira de Mello (Elementos de Direito Administrativo, de
+1980),  Diógenes  Gasparini  (Direito administrativo,  de  1989),  Lúcia  Valle
+Figueiredo  (Curso  de  Direito  Administrativo,  de  1994),  Odete  Medauar
+(Direito administrativo moderno, de 1996), José dos Santos Carvalho Filho
+(Manual de Direito Administrativo, de 2000), Edmir Netto de Araújo (Curso
+de Direito Administrativo, de 2005), Marçal Justen Filho (Curso de Direito
+Administrativo, de 2005).
+Atualmente existem inúmeros manuais de Direito Administrativo, como
+os de Dirley da Cunha Júnior, Irene Patrícia Nohara, Aloísio Zimmer Júnior,
+Elyesis Silva do Nascimento, Rafael Carvalho Rezende Oliveira, Alexandre
+Mazza,  Alexandre  de  Santos  Aragão,  Celso  Ribeiro  Bastos,  Raquel  Melo
+Urbano de Carvalho, dentre outros. Também se multiplicaram as monografias
+em  matérias  de  Direito  Administrativo,  em  razão  do  crescimento  das
+dissertações  de  mestrado  e  teses  de  doutorado.  E  ainda  inúmeras  obras
+coletivas sobre variados temas do Direito Administrativo.
+
+O  Direito  Administrativo  brasileiro  sofreu  grande  influência  do  direito
+alienígena, em especial, nas origens, do francês e italiano e, posteriormente,
+também do direito alemão, todos inseridos no sistema de base romanística.
+Porém,  também  adotou  institutos  originários  do  sistema  do common  law.
+Mais recentemente, vem sofrendo influência do direito comunitário europeu,
+em que houve encontro dos sistemas de base romanística e do common law. É
+o que se demonstrará no item subsequente.
+
+1.8O DIREITO ADMINISTRATIVO BRASILEIRO SOB
+INFLUÊNCIA DO DIREITO ESTRANGEIRO: SISTEMAS DE
+BASE ROMANÍSTICA, DO COMMON LAW E DO DIREITO
+COMUNITÁRIO EUROPEU
+Embora sob influência do direito francês e de outros direitos enquadrados
+no sistema de base romanística (direito italiano, alemão, espanhol, português
+etc.),  o  regime  jurídico  administrativo,  no  Brasil,  também  sofreu  alguma
+influência  do  sistema  do common  law,  especialmente  do  direito  norte-
+americano. Mais recentemente, também vem sofrendo influência do direito
+comunitário europeu, emanado da União Europeia.
+No  Brasil-Colônia,  aplicavam-se  as  leis  portuguesas,  especialmente  as
+Ordenações do Reino.
+No período do Império, adotaram-se os princípios do Estado Liberal, sob
+influência do direito francês, inclusive com a criação do Conselho de Estado.
+Só  que  este  não  exercia  função  jurisdicional  e  sim  função  consultiva.
+Também nesse aspecto o direito francês serviu de modelo
+[/PAGINA 47]
+
+[PAGINA 48]
+, porque, na fase
+inicial  do  Conselho  de  Estado  francês,  o  órgão  não  tinha  independência,
+sendo suas manifestações sujeitas à aprovação do Imperador.
+No primeiro período da República, suprime-se o Poder Moderador e o
+Conselho de Estado. Isto ocorreu porque se abandonou a influência francesa
+da dualidade de jurisdição e se acolheu o modelo anglo-americano da unidade
+de jurisdição. No Decreto nº 848, de 11-10-1898, inseriu-se dispositivo (art.
+387) determinando que “os estatutos dos povos cultos e especialmente os que
+regem as relações jurídicas da República dos Estados Unidos da América, os
+casos de common law e equity serão também subsidiários da jurisprudência
+e processo federal”.
+Com  isso,  passou  a  Administração  Pública  a  submeter-se  ao  controle
+jurisdicional. E também, em matéria de Direito Administrativo e ainda sob
+
+influência do direito norte-americano, a jurisprudência passou a ocupar papel
+de  destaque  como  fonte  do  direito.  Ou  seja,  a  jurisprudência  passou  a
+desempenhar importante papel na criação do direito.
+Conforme  demonstramos  em  artigo  sobre  “500  anos  de  Direito
+Administrativo brasileiro” (in Cadernos de Direito e Cidadania II, publicado
+pelo Instituto de Estudos de Direito e Cidadania. São Paulo: Artchip, 2000, p.
+39-69), com base nos ensinamentos de Lafayette Pondé (in RDA 178, p. 24-
+37),  existem  vários  exemplos  de  criação  jurisprudencial  de  institutos
+consagrados no Direito Administrativo brasileiro, alguns temporariamente e
+outros em caráter duradouro, até os dias atuais; alguns foram aplicados como
+institutos não previstos no direito positivo e outros contrariamente à letra da
+lei: ampliação do instituto do habeas corpus para proteção de outros direitos
+individuais  que  não  a  proteção  da  liberdade  de  locomoção;  criação  do
+instituto  da desapropriação indireta,  ao  arrepio  do  artigo  547  do  Código
+Civil  de  1916,  que  exigia  indenização  prévia  e  o  requisito  de  decreto
+explícito; aplicação do contrato de concessão de uso e não de contratos de
+direito privado para a ocupação de boxes ou bancas de mercado público ou de
+locais em logradouros públicos; submissão das servidões administrativas a
+regime jurídico próprio; adoção de uma teoria dos contratos administrativos,
+com características diversas do direito privado; afastamento da exceptio non
+adimpleti contractus  nos  contratos  administrativos;  aplicação  da teoria da
+imprevisão e da teoria do fato do príncipe segundo regras especiais; tese de
+que  os  funcionários  públicos  se  regem  por  um status  e  não  por  contrato,
+sendo  suas  vantagens  e  deveres  iguais  para  uma  mesma  categoria;
+reconhecimento e qualificação da autarquia, como pessoa jurídica de direito
+público não prevista no artigo 14 do Código Civil de 1916; reconhecimento
+da teoria  do  risco,  em  termos  de  responsabilidade  civil  do  Estado,
+contrariamente à norma do artigo 15 do Código Civil.
+Pode-se  afirmar  que  o  Direito  Admini
+[/PAGINA 48]
+
+[PAGINA 49]
+strativo  brasileiro  sofreu,  nessa
+fase, influência do direito norte-americano, no que diz respeito ao sistema de
+
+unidade de jurisdição, à jurisprudência como fonte do direito, à submissão da
+Administração Pública ao controle jurisdicional. Mas, no que diz respeito às
+teorias e aos princípios, ficou evidente que a influência predominante foi a do
+direito  francês  criado  pela  jurisdição  administrativa,  que,  aos  poucos,  pela
+decisão de casos concretos, foi derrogando o direito privado antes aplicado à
+Administração  e  criando  regime  jurídico  próprio  que  acabou  por  dar
+autonomia ao Direito Administrativo. Nisto afastou-se do sistema do common
+law,  que  repudiava  a  existência  de  um  regime  jurídico  especial  para  a
+Administração  Pública,  como  também  repudiava  a  existência  de  tribunais
+administrativos para decidir os litígios em que ela fosse parte interessada.
+Do direito francês, o Direito Administrativo brasileiro acolheu a ideia de
+ato  administrativo,  com  o  atributo  da  autoexecutoriedade,  as  sucessivas
+teorias sobre responsabilidade civil do Estado, o conceito de serviço público,
+as  prerrogativas  da  Administração  Pública,  a  teoria  dos  contratos
+administrativos, o princípio da legalidade.
+Na  realidade,  a  influência  da  doutrina  na  formação  do  Direito
+Administrativo  brasileiro  foi  muito  grande.  O  direito  positivo  previu  a
+unidade  de  jurisdição  e  o  princípio  da  legalidade.  Mas,  pelo  trabalho  da
+doutrina,  fortemente  inspirada  no  direito  europeu  continental,  os  tribunais
+foram acatando e aplicando teorias e princípios não consagrados no direito
+positivo,  senão  em  fase  bem  mais  adiantada  da  evolução  do  Direito
+Administrativo brasileiro. Veja-se, por exemplo, que, em termos de contratos
+administrativos,  de  teoria  dos  atos  administrativos,  seus  vícios,  nulidades,
+revogação,  convalidação,  discricionariedade,  responsabilidade  objetiva  do
+Estado, tivemos todo um regime jurídico construído e elaborado muito antes
+de sua previsão legal. Muito antes de haver uma lei disciplinando os contratos
+administrativos (o que só foi feito de forma mais completa pelo Decreto-lei nº
+2.300, de 1986), nós já aplicávamos tudo o que hoje está no direito positivo.
+Se for analisada a fundo a evolução do Direito Administrativo brasileiro,
+poder-se-á  caminhar  no  seguinte  sentido:  trabalho  da  doutrina  (fortemente
+
+inspirada no direito francês), acolhido pela jurisprudência e consagrado no
+direito positivo. Doutrina, jurisprudência e direito positivo. Esse foi o sentido
+da evolução.
+Quanto  ao  princípio  da  legalidade,  embora  adotando  o  sistema  de
+jurisdição  una  próprio  do common law,  o  direito  brasileiro  não  adotou  o
+mesmo princípio do stare decisis, que dá força obrigatória aos precedentes
+judiciais. E, embora adotando o princípio da legalidade herdado do direito
+francês, o mesmo foi aceito em sua pureza, tal como apregoado pelos ideais
+revolucionário
+[/PAGINA 49]
+
+[PAGINA 50]
+s:  a  lei,  como  ato  do  parlamento,  representante  da  vontade
+geral do povo, é a principal fonte do direito. E esse postulado foi inserido,
+com  ressalva  para  a  Constituição  de  1937,  em  todas  as  Constituições
+brasileiras,  inclusive  na  do  Império  (art.  179,  I).  Vale  dizer  que  todas  as
+Constituições,  com  a  ressalva  já  apontada,  sempre  contiveram  a  norma
+segundo a qual ninguém é obrigado a fazer ou deixar de fazer alguma coisa
+senão em virtude de lei.
+É  curioso  que,  embora  o  direito  francês  considerasse  o  princípio  da
+legalidade  como  uma  das  bases  do  Direito  Administrativo,  na  prática,
+afastou-se desse postulado, na medida em que a jurisprudência adotada pela
+jurisdição administrativa transformou-se, aos poucos, na principal fonte do
+Direito Administrativo. No direito francês, falar em princípio da legalidade
+significa falar na força obrigatória das decisões do Conselho de Estado, órgão
+de cúpula da jurisdição administrativa.
+Em  decorrência  da  adoção  do  princípio  da  legalidade,  o  Direito
+Administrativo brasileiro, à semelhança de outros direitos, como o espanhol,
+o português, o dos países sul-americanos, colocou no direito positivo aquilo
+que  no  direito  francês  constituíam  teorias  e  princípios  de  elaboração
+jurisprudencial.  Aquilo  que  na  França  é  alterado  pela  jurisdição
+administrativa  no  Brasil  depende  de  alteração  legislativa.  E  com  uma
+agravante:  as  bases  do  Direito  Administrativo  estão  na  Constituição:  as
+intervenções  do  Estado  na  propriedade  privada,  o  regime  estatutário  do
+
+servidor  público,  os  princípios  da  Administração  Pública,  a  regra  sobre
+responsabilidade civil do Estado, o princípio da licitação, as normas sobre
+orçamento e contabilidade pública, as competências normativas, a proteção
+do  patrimônio  público,  os  direitos  e  garantias  do  cidadão  perante  a
+Administração Pública, o controle interno, o judicial e o legislativo.
+A consequência é que a evolução do Direito Administrativo depende, em
+grande parte, de reformas constitucionais, o que conduz a dois caminhos: (a)
+um,  lícito,  que  é  a  reforma  pelos  instrumentos  que  a  própria  Constituição
+prevê;  (b)  outro  que  é  feito  ao  arrepio  da  Constituição,  que  vai  sendo
+atropelada  pelas  leis  ordinárias,  por  atos  normativos  da  Administração
+Pública  e,  às  vezes,  sem  qualquer  previsão  normativa;  a  Administração
+Pública,  com  muita  frequência,  coloca-se  na  frente  do  legislador.  Daí  o
+desprestígio da Constituição e do princípio da legalidade.
+Este  é  talvez  o  maior  paradoxo:  afastamo-nos  do  direito  francês  e  do
+sistema  da common law,  quando  colocamos  a  lei  como  principal  fonte  do
+direito. Mas, na prática, colocamos uma distância grande entre o que está na
+lei e o que se aplica na prática, pelo afã de copiar modelos estrangeiros nem
+sempre adaptáveis ao direito positivo brasileiro, em especial à Constituição.
+O ce
+[/PAGINA 50]
+

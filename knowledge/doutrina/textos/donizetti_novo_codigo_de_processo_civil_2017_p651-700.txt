@@ -1,0 +1,3191 @@
+[META]
+TITULO: Novo Código de Processo Civil Comentado
+AUTOR: Elpídio Donizetti
+ANO: 2017
+EDICAO: N/A
+EDITORA: Atlas
+PAGINAS: 651-700
+ARQUIVO_ORIGINAL: #Novo Código de Processo Civil Comentado (2017) - Elpídio Donizetti.pdf
+CITACAO_ABNT: DONIZETTI, Elpídio. Novo Código de Processo Civil Comentado. São Paulo: Atlas, 2017.
+[/META]
+
+[PAGINA 651]
+na
+972
+
+sistemática da execução. Isso porque, se a legitimidade já está prevista em lei,
+ainda que se trate de hipótese de sucessão processual, o consentimento do
+executado quanto à ocupação do polo ativo é irrelevante.
+Legitimidade passiva. A legitimidade passiva ad causam prevista no novo
+art. 779 apresenta duas diferenças em relação ao CPC/1973: a inclusão do fiador
+do débito constante em título extrajudicial e do titular de bem vinculado por
+garantia real (incisos IV e V, respectivamente).
+O fiador extrajudicial garante atos de direito material – e não processual,
+como é o caso do fiador judicial –, por força de lei ou convenção. O fiador
+extrajudicial (convencional ou legal), ao contrário do judicial, somente pode
+integrar o polo passivo da execução se figurar em título executivo extrajudicial
+ou, no caso de cumprimento de sentença, se tiver participado da fase de
+conhecimento (art. 513, § 5º, CPC/2015). Em síntese, o fiador extrajudicial (legal
+ou convencional) deve figurar no título executivo, judicial ou extrajudicial.
+Como o CPC/2015 elenca no rol dos títulos executivos extrajudiciais “o
+contrato garantido por hipoteca, penhor, anticrese ou outro direito real de
+garantia, e aquele garantido por caução” (art. 784, V), nada mais coerente que
+incluir o fiador como legitimado passivo para execução de contrato garantido por
+caução fidejussória.
+236
+Quanto à legitimidade passiva do titular de bem vinculado por garantia real
+(inciso V), observa-se questão semelhante. Apesar de os contratos garantidos por
+hipoteca, penhor ou anticrese estarem previstos como títulos extrajudiciais, o
+CPC/1973 não permitia o direcionamento da execução em face do titular dos bens
+gravados por essas garantias.
+Note-se que a nova previsão é importante, pois o responsável, titular do
+bem, não necessariamente se confunde com o devedor principal, que é o sujeito
+passivo da obrigação objeto do contrato.
+Com o advento dessa nova regra, a execução poderá ser promovida
+diretamente contra o responsável garantidor, destacando-se, quanto ao fiador, que
+lhe assiste em matéria de defesa o benefício de ordem sempre que não o houver
+expressamente renunciado (art. 794, caput e § 3º, CPC/2015).
+ 
+CPC/2015CPC/1973
+Art. 780. O exequente pode cumular várias
+execuções, ainda que fundadas em títulos
+diferentes, quando o executado for o mesmo e
+Art. 573. É lícito ao credor, sendo o mesmo o
+devedor, cumular várias execuções, ainda que
+fundadas em títulos diferentes, desde que para
+973
+
+desde que para todas elas seja competente o
+mesmo juízo e idêntico o procedimento.
+todas elas seja competente o juiz e idêntica a forma
+do processo.
+COMENTÁRIOS:
+Requisitos para a cumula ção. Poderá ocorrer a cumulação de execuções,
+desde que observados os seguintes requisitos (a) identidade do credor nos
+diversos títulos: não se permite a chamada coligação de credores, ou seja, a
+reunião em um só processo de diferentes credores com base em diferentes títulos
+executivos; (b) identidade do devedor: as execuç
+[/PAGINA 651]
+
+[PAGINA 652]
+ões que se pretende cumular
+devem ser dirigidas contra o mesmo devedor; (c) competência do mesmo juízo
+para todas as execuções: não se poderá cumular, por exemplo, a execução de um
+cheque, cuja competência é da justiça estadual de primeiro grau, com uma
+certidão de dívida ativa da Fazenda Nacional, cuja competência, em regra, é da
+justiça federal; (d) identidade de procedimento: os procedimentos devem ser
+idênticos para as execuções cumuladas, ou seja, não se pode cumulativamente
+pretender a execução de uma obrigação de pagar com outra de não fazer.
+A cumulação indevida de execuções pode ser arguida por meio de embargos
+à execução ou via exceção de pré-executividade.
+Capítulo III
+Da Competência
+ 
+CPC/2015CPC/1973
+Art. 781. A execução fundada em título
+extrajudicial será processada perante o juízo
+competente, observando-se o seguinte:
+I – a execução poderá ser proposta no foro de
+domicílio do executado, de eleição constante
+do título ou, ainda, de situação dos bens a ela
+sujeitos;
+II – tendo mais de um domicílio, o executado
+Art. 576. A execução, fundada em título
+extrajudicial, será processada perante o juízo
+competente, na conformidade do disposto no Livro
+I, Título IV, Capítulos II e III.
+974
+
+poderá ser demandado no foro de qualquer
+deles;
+III – sendo incerto ou desconhecido o
+domicílio do executado, a execução poderá
+ser proposta no lugar onde for encontrado ou
+no foro de domicílio do exequente;
+IV – havendo mais de um devedor, com
+diferentes domicílios, a execução será
+proposta no foro de qualquer deles, à escolha
+do exequente;
+V – a execução poderá ser proposta no foro
+do lugar em que se praticou o ato ou em que
+ocorreu o fato que deu origem ao título,
+mesmo que nele não mais resida o
+executado.
+COMENTÁRIOS:
+CPC/1973 × CPC/2015. Dispunha o art. 576 do CPC/1973 que a execução
+fundada em título extrajudicial seria processada perante o juízo competente,
+conforme determinado pelas regras relativas ao processo de conhecimento. A
+jurisprudência, então, com fundamento no art. 100, IV, d, do CPC/1973,
+estabeleceu que o foro competente para a execução de título extrajudicial é o do
+lugar do pagamento do título. O exequente poderia, no entanto, optar pelo foro de
+eleição ou pelo foro de domicílio do réu.
+237
+De acordo com o novo Código, a depender da situação, a execução poderá
+ser proposta em locais diversos daqueles previstos no Código de 1973. Ressalte-
+se que o CPC/2015 não estabelece nenhuma ordem de preferência, podendo a
+execução ser promovida no foro que melhor atenda aos interesses do exequente.
+ 
+CPC/2015CPC/1973
+Art. 782. Não dispondo a lei de modo diverso, o juiz
+determinará os atos executivos e o oficial de justiça
+Art. 577. Não dispondo a lei de modo diverso, o
+juiz determinará os atos executivos e os oficiais de
+975
+
+os cumprirá.
+§ 1º O oficial de justiça poderá cumprir os atos
+executivos determinados pelo juiz também
+nas comarcas contíguas, de fácil
+comunicação, e nas que se situem na mesma
+região metropolitana.
+§ 2º Sempre que, para
+[/PAGINA 652]
+
+[PAGINA 653]
+efetivar a execução, for
+necessário o emprego de força policial, o juiz a
+requisitará.
+§ 3º A requerimento da parte, o juiz pode
+determinar a inclusão do nome do executado
+em cadastros de inadimplentes.
+§ 4º A inscrição será cancelada
+imediatamente se for efetuado o
+pagamento, se for garantida a execução ou
+se a execução for extinta por qualquer outro
+motivo.
+§ 5º O disposto nos §§ 3º e 4º aplica-se à
+execução definitiva de título judicial.
+justiça os cumprirão.
+Art. 579. Sempre que, para efetivar a execução, for
+necessário o emprego da força policial, o juiz a
+requisitará.
+COMENTÁRIOS:
+Atos executivos.  Como espécie de atos jurisdicionais, os atos executivos
+são realizados por ordem do juiz. Nos termos do art. 154, II, incumbe ao oficial
+de justiça “executar as ordens do juiz a que estiver subordinado”.
+O § 1º autoriza o oficial de justiça a cumprir atos executivos determinados
+pelo juiz em comarcas contíguas, de fácil comunicação, ou nas que se situem na
+mesma região metropolitana. Como se pode perceber, o dispositivo não menciona
+apenas os atos de citação e intimação, como fez o CPC/1973 em seu art. 230,
+238
+que, apesar de figurar na parte relativa ao processo de conhecimento, era aplicável
+ao processo de execução.
+O auxílio de força policial já decorre da previsão do art. 360, III, que
+permite ao juiz requisitar, quando necessário, o auxílio de força policial. Os §§ 3º
+976
+
+e 4º preveem medida de restrição de acesso a crédito por parte do executado,
+mediante requerimento do credor. Trata-se de inscrição em cadastro de
+inadimplentes, que complementa (e não substitui) as demais medidas executivas.
+A “negativação” prevista nesses dispositivos só não será eficaz para aquele que já
+se encontra com o nome inserido nos órgãos de proteção ao crédito por outro
+motivo.
+Ressalte-se que a restrição do nome do executado também pode ser feita no
+bojo do processo de execução definitiva fundada em título judicial, conforme
+permissivo constante no § 5º. Essa medida não se confunde com o protesto da
+sentença transitada em julgado, que só se viabiliza após o decurso do prazo para
+cumprimento da decisão definitiva.
+Capítulo IV
+Dos Requisitos Necessários para Realizar Qualquer
+Execução
+Seção I
+Do Título Executivo
+ 
+CPC/2015CPC/1973
+Art. 783. A execução para cobrança de crédito
+fundar-se-á sempre em título de obrigação certa,
+líquida e exigível.
+Art. 586. A execução para cobrança de crédito
+fundar-se-á sempre em título de obrigação certa,
+líquida e exigível.
+COMENTÁRIOS:
+Obrigação certa, líquida e exigível. Além da previsão na lei, o título
+extrajudicial, ou melhor, o crédito nele estampado, deve ser certo. Por certeza do
+direito do exequente entende-se a necessidade de que do título executivo
+transpareçam todos os seus elementos, como a natureza da obrigação, seu objeto e
+seus sujeitos. Dessa forma, diz-se que o título é certo quando não deixa dúvida
+acerca da obrigação que deva ser cumprida, quem é devedor e quem é credor. Tal
+977
+
+requisito sofre certa atenuaçã
+[/PAGINA 653]
+
+[PAGINA 654]
+o nos casos de obrigação de dar coisa incerta e nas
+obrigações alternativas, uma vez que em tais casos não há a exata previsão do
+objeto da prestação.
+A liquidez, a par da tipicidade e da certeza, também figura como requisito do
+título executivo extrajudicial. A liquidez ocorre quando o título permite,
+independentemente de qualquer outra prova, a exata definição do quantum
+debeatur. Assim, deve o título conter todos os elementos necessários para que se
+possa determinar a quantia a ser paga ou a quantidade da coisa a ser entregue ao
+titular do direito. Tal determinação pode ser direta ou pode depender de meros
+cálculos aritméticos (art. 786, parágrafo único).
+Por fim, a exigibilidade, que constitui requisito para promover a ação
+executiva, ocorrerá quando o cumprimento da obrigação prevista no título
+executivo não se submeter a termo, condição ou qualquer outra limitação.
+Exigível é o crédito se o devedor encontra-se inadimplente.
+ 
+CPC/2015CPC/1973
+Art. 784. São títulos executivos extrajudiciais:
+I – a letra de câmbio, a nota promissória, a
+duplicata, a debênture e o cheque;
+II – a escritura pública ou outro documento público
+assinado pelo devedor;
+III – o documento particular assinado pelo devedor
+e por 2 (duas) testemunhas;
+IV – o instrumento de transação referendado pelo
+Ministério Público, pela Defensoria Pública, pela
+Advocacia Pública, pelos advogados dos
+transatores ou por conciliador ou mediador
+credenciado por tribunal;
+V – o contrato garantido por hipoteca, penhor,
+anticrese ou outro direito real de garantia e
+aquele garantido por caução;
+VI – o contrato de seguro de vida em caso de
+Art. 585. São títulos executivos extrajudiciais:
+I – a letra de câmbio, a nota promissória, a
+duplicata, a debênture e o cheque;
+II – a escritura pública ou outro documento
+público assinado pelo devedor; o documento
+particular assinado pelo devedor e por duas
+testemunhas; o instrumento de transação
+referendado pelo Ministério Público, pela
+Defensoria Pública ou pelos advogados dos
+transatores;
+III – os contratos garantidos por hipoteca, penhor,
+anticrese e caução, bem como os de seguro de
+vida;
+IV – o crédito decorrente de foro e laudêmio;
+V – o crédito, documentalmente comprovado,
+decorrente de aluguel de imóvel, bem como de
+encargos acessórios, tais como taxas e despesas de
+978
+
+morte;
+VII – o crédito decorrente de foro e laudêmio;
+VIII – o crédito, documentalmente comprovado,
+decorrente de aluguel de imóvel, bem como de
+encargos acessórios, tais como taxas e despesas de
+condomínio;
+IX – a certidão de dívida ativa da Fazenda Pública
+da União, dos Estados, do Distrito Federal e dos
+Municípios, correspondente aos créditos inscritos
+na forma da lei;
+X – o crédito referente às contribuições
+ordinárias ou extraordinárias de condomínio
+edilício, previstas na respectiva convenção ou
+aprovadas em assembleia geral, desde que
+documentalmente comprovadas;
+XI – a certidão expedida por serventia
+notarial ou de registro relativa a valores de
+emolumentos e demais despesa
+[/PAGINA 654]
+
+[PAGINA 655]
+s devidas
+pelos atos por ela praticados, fixados nas
+tabelas estabelecidas em lei;
+XII – todos os demais títulos aos quais, por
+disposição expressa, a lei atribuir força executiva.
+§ 1º A propositura de qualquer ação relativa a
+débito constante de título executivo não inibe o
+credor de promover-lhe a execução.
+§ 2º Os títulos executivos extrajudiciais oriundos de
+país estrangeiro não dependem de homologação
+para serem executados.
+§ 3º O título estrangeiro só terá eficácia executiva
+quando satisfeitos os requisitos de formação
+condomínio;
+VI – o crédito de serventuário de justiça, de perito,
+de intérprete, ou de tradutor, quando as custas,
+emolumentos ou honorários forem aprovados por
+decisão judicial;
+VII – a certidão de dívida ativa da Fazenda Pública
+da União, dos Estados, do Distrito Federal, dos
+Territórios e dos Municípios, correspondente aos
+créditos inscritos na forma da lei;
+VIII – todos os demais títulos a que, por disposição
+expressa, a lei atribuir força executiva.
+§ 1º A propositura de qualquer ação relativa ao
+débito constante do título executivo não inibe o
+credor de promover-lhe a execução.
+§ 2º Não dependem de homologação pelo
+Supremo Tribunal Federal, para serem executados,
+os títulos executivos extrajudiciais, oriundos de
+país estrangeiro. O título, para ter eficácia
+executiva, há de satisfazer aos requisitos de
+formação exigidos pela lei do lugar de sua
+celebração e indicar o Brasil como o lugar de
+cumprimento da obrigação.
+979
+
+exigidos pela lei do lugar de sua celebração e
+quando o Brasil for indicado como o lugar de
+cumprimento da obrigação.
+COMENTÁRIOS:
+Conceito.  Título  executivo é o documento previsto na lei como tal e que
+representa obrigação certa e líquida, a qual, uma vez inadimplida, possibilita o
+manejo da ação executiva (art. 783). Trata-se de requisito essencial da execução.
+Rol de títulos executivos extrajudiciais. Os documentos dotados de força
+executiva estão designados no art. 784 do CPC/2015. Trata-se de rol taxativo, ou
+seja, somente a lei, em sentido estrito, pode criar outros tipos de documentos
+dotados de força executiva (art. 784, XII, CPC/2015). Em outras palavras, o
+elenco dos títulos executivos é obra exclusiva do legislador, sendo vedado aos
+juízes retocá-lo, alterá-lo ou ampliá-lo.
+239
+Inciso I. Nas hipóteses aventadas neste inciso, é imprescindível que a inicial
+da ação executiva seja instruída com o original do título executivo. A
+jurisprudência, entretanto, tem admitido a apresentação da cópia da cártula quando
+comprovado pelo exequente que o original não está circulando, o que ocorre, por
+exemplo, quando este está instruindo outro processo (REsp 712.334). A ausência
+do original não implica o automático indeferimento da execução, devendo o juiz
+determinar a intimação do exequente para que este supra a falta de documentos
+(REsp 924.989). Tratando-se de títulos virtuais/eletrônicos,
+240
+ o STJ entende que
+os boletos de cobrança a eles vinculados, devidamente acompanhados dos
+instrumentos de protes
+[/PAGINA 655]
+
+[PAGINA 656]
+to por indicação e dos comprovantes de entrega de
+mercadoria ou da prestação de serviços, suprem a ausência física do título (STJ,
+REsp 1.024.691/PR, Rel. Min. Nancy Andrighi, julgado em 22.03.2011).
+Inciso II. Qualquer que seja a obrigação (de dar coisa certa, de fazer e de
+não fazer) que conste de tal documento, desde que satisfaça os requisitos da
+liquidez, da certeza e da exigibilidade, pode ser exigida pela via executiva. Um
+exemplo do que a lei chama de “outro documento público” é o termo de acordo de
+parcelamento subscrito pelo devedor e pela Fazenda Pública.
+241
+Inciso III. No que se refere a esse título, pertinente observar que o
+entendimento pacífico do STJ é no sentido de que as testemunhas podem ser
+instrumentárias, isto é, podem assinar o documento em momento posterior ao ato
+de sua criação. Não se admite, no entanto, a assinatura de testemunha interessada
+980
+
+no negócio jurídico.
+242
+ Aqui também se inclui o instrumento de confissão de
+dívida firmado entre credor e devedor, assinado por duas testemunhas. Nos
+termos da Súmula 300 do STJ, ele constitui título executivo extrajudicial ainda
+que originário de contrato de abertura de crédito (cheque especial). Entretanto,
+importante esclarecer que o contrato de abertura de crédito não constitui, por si
+só, título executivo extrajudicial, pois trata-se de documento unilateral,
+desprovido dos requisitos de liquidez, certeza e exigibilidade.
+Interessante notar que o “poder executivo” desse título pode ser invocado
+ainda que no documento particular conste cláusula que determine a instituição de
+juízo arbitral no caso de eventual controvérsia. Transcreve-se o seguinte excerto
+do voto da Ministra Nancy Andrighi no REsp 944.917, que bem demonstra essa
+compreensão: “[...] Deve-se admitir que a cláusula compromissória possa
+conviver com a natureza executiva do título. Não se exige que todas as
+controvérsias oriundas de um contrato sejam submetidas à solução arbitral.
+Ademais, não é razoável exigir que o credor seja obrigado a iniciar uma
+arbitragem para obter juízo de certeza sobre uma confissão de dívida que, no seu
+entender, já consta do título executivo. Além disso, é certo que o árbitro não tem
+poder coercitivo direto, não podendo impor, contra a vontade do devedor,
+restrições a seu patrimônio, como a penhora, e nem excussão forçada de seus
+bens.”
+Em suma, ainda que possua cláusula compromissória, o contrato assinado
+pelo devedor e por duas testemunhas pode ser levado a execução judicial. Se, por
+exemplo, tratar-se de contrato de confissão de dívida líquida, certa e exigível,
+desnecessária é a instituição de juízo arbitral.
+243
+Inciso V. Hipoteca é direito real de garantia que recai sobre direitos reais
+imobiliários, incluindo-se nestes as vias férreas, os navios e as aeronaves (art.
+1.473 do CC). Pode ser convencional, legal ou judicial. Como garantia de
+obrigações contratuais, constitui-se por meio de cláusula acessória com a
+finalidade de garantir a obrigação pactuada. Uma vez constituída,
+[/PAGINA 656]
+
+[PAGINA 657]
+sujeita o bem ao
+pagamento da dívida, acompanhando-o onde quer que se encontre (direito de
+sequela).
+Penhor, tal como a hipoteca, também é direito real de garantia, que se
+constitui por meio de cláusula acessória com a finalidade de garantir uma
+determinada dívida. Há, entretanto, algumas diferenças que distinguem os dois
+institutos. O penhor recai sobre bem móvel, cuja posse é transferida ao credor. O
+penhor pode ser legal (art. 1.467 do CC) ou convencional. No caso sob análise,
+interessa apenas o penhor convencional.
+981
+
+Anticrese é o direito real de garantia, pelo qual o devedor ou outrem, por ele,
+entrega bem imóvel ao credor, a fim de que este receba os frutos e rendimentos
+do bem anticrético para compensação da dívida (art. 1.506 do CC).
+Caução é termo genérico que significa garantia. Temos caução real (hipoteca,
+penhor e anticrese) e fidejussória (fiança). Afora as garantias reais já
+mencionadas, interessa ao ponto estudado a fiança formalizada em instrumento
+público ou particular. Dispensável, para eficácia executiva do contrato de caução
+(real ou fidejussória), é a existência de duas testemunhas, a que se refere o inciso
+III do art. 784.
+Inciso VI. Anteriormente à alteração promovida pela Lei nº 11.382/2006, o
+Código de 1973 contemplava como título executivo extrajudicial o “seguro de
+vida e de acidentes pessoais de que resulte morte ou incapacidade”.
+Posteriormente, de acordo a redação do art. 585, III – alterada pela referida lei –,
+o Código passou a prever como título executivo “o contrato de seguro de vida”. A
+jurisprudência e a doutrina tiveram, então, que solucionar a seguinte questão: o
+contrato de seguro de acidentes pessoais de que não resultasse morte, mas tão
+somente incapacidade, poderia embasar ação executiva, ou, ao revés, teria o
+beneficiário de se valer do procedimento comum? Prevaleceu o entendimento
+segundo o qual o beneficiário do seguro de acidente cujo sinistro acarretou a
+morte do segurado tem o direito de exigir o pagamento da respectiva indenização
+por meio da execução forçada.
+244
+ O Novo CPC seguiu esse entendimento. Assim,
+somente se constitui o título executivo se do sinistro advier o evento morte. Nem
+poderia ser diferente, uma vez que o seguro assegura a vida e, portanto, cobre tão
+somente o risco morte. Outros danos pessoais – como a perda de um membro,
+por exemplo – dependem de ação de conhecimento.
+Inciso VII. Foro, também denominado pensão, é o valor pago anualmente
+pelo enfiteuta ou foreiro ao senhorio direto, em decorrência do contrato de
+enfiteuse, pelo uso, gozo e disposição do domínio útil da coisa emprazada.
+Laudêmio consiste na compensação devida pelo enfiteuta ao senhorio direto
+quando este não usar o direito de preferência na aquisição do domínio útil da
+propriedade (art. 683 do CC/1916).
+Dá-se a enfiteuse, aforamento ou emprazamento quando, por ato entre vivos
+ou de última vontade, o proprietário atribui a outrem o domínio útil do imóvel
+(art. 678 do CC/1916).
+Nos termos do art. 2.038 do atua
+[/PAGINA 657]
+
+[PAGINA 658]
+l CC, fica proibida a constituição de
+enfiteuses e subenfiteuses, subordinando-se as existentes, até sua extinção, à
+disposição do CC anterior. A execução deverá ser instruída com o contrato de
+982
+
+enfiteuse.
+Inciso VIII. Aluguel é a quantia paga ao locador em decorrência do contrato
+de locação. Quanto aos encargos acessórios, referem-se aos fixados no contrato
+como de responsabilidade do locatário. Constituem exemplos de tais encargos os
+impostos, a taxa de incêndio, de água e luz. Essas verbas podem ser cobradas
+pelo locador por meio de processo de execução, desde que previstas no contrato
+de locação, independentemente da assinatura de duas testemunhas.
+Inciso IX. Trata-se do título que embasa execução fiscal, regulada pela Lei
+nº 6.830/1980.
+Novos títulos executivos extrajudiciais. O CPC/2015 inseriu dois novos
+incisos ao rol dos títulos executivos extrajudiciais. Os incisos X e XI tratam,
+respectivamente, do “crédito referente às contribuições ordinárias ou
+extraordinárias de condomínio edilício, na respectiva convenção de condomínio
+ou aprovadas em assembleia geral, desde que documentalmente comprovadas” e
+da “certidão expedida por serventia notarial ou de registro relativa a valores de
+emolumentos e demais despesas devidas pelos atos por ela praticados, fixados
+nas tabelas estabelecidas em lei”.
+A possibilidade de executar as cotas condominiais não estava expressamente
+prevista no CPC/1973, o qual apenas permitia a cobrança dos créditos
+condominiais por meio do processo de conhecimento. A tramitação deveria seguir
+o rito sumário, nos termos do art. 275, II, b, do referido Código.
+No CPC/2015 houve uma elevação do status desse crédito. Agora não há
+mais necessidade de trilhar o demorado caminho do processo de conhecimento e
+aguardar uma sentença para, então, receber a contribuição destinada a cobrir as
+despesas de condomínio (ordinárias ou extraordinárias). Assim, o condômino que
+deixar de liquidar as despesas de condomínio na proporção de suas frações ideais
+poderá se sujeitar à execução forçada e, consequentemente, aos meios
+expropriatórios dela decorrentes. Essa ideia já era defendida por alguns
+doutrinadores, especialmente em virtude do disposto no art. 72 da Lei nº
+11.977/2009:
+Art. 72. Nas ações judiciais de cobrança ou execução de cotas de condomínio,
+de imposto sobre a propriedade predial e territorial urbana ou de outras
+obrigações vinculadas ou decorrentes da posse do imóvel urbano, nas quais o
+responsável pelo pagamento seja o possuidor investido nos respectivos
+direitos aquisitivos, assim como o usufrutuário ou outros titulares de direito
+real de uso, posse ou fruição, será notificado o titular do domínio pleno ou
+983
+
+útil, inclusive o promitente vendedor ou fiduciário.
+Para parte da doutrina, ao mencionar execução de quotas de condomínio, a
+Lei nº 11.977/2009 teria atribuído a força executiva a esse tipo de crédito, o que,
+inclusive, era permitido pelo art. 585, VIII, do CPC/1973.
+Apesar dos argumentos, a interpretação dominan
+[/PAGINA 658]
+
+[PAGINA 659]
+te sempre foi a de que os
+créditos condominiais deveriam ser cobrados pelo rito sumário. Com a reforma
+processual, a ação cognitiva de cobrança dará lugar ao ajuizamento da ação
+executiva, desde que as despesas devidas pelo condômino estejam
+documentalmente comprovadas.
+O documento comprobatório do crédito, ao qual a lei atribui os requisitos
+que o caracterizam como título executivo (certeza, liquidez e taxatividade), de
+regra, é a ata da assembleia. O art. 1.336, I, do Código Civil estabelece que é
+obrigação de cada condômino contribuir para o pagamento das despesas
+condominiais. Em assembleia geral são apreciadas as despesas para conservação e
+manutenção do condomínio no ano seguinte (despesas ordinárias), bem como os
+gastos com eventuais obras, indenizações ou outras despesas extraordinárias.
+Excepcionalmente, pode-se dispensar a realização de assembleia geral para se
+fixar a contribuição condominial. Por exemplo, quando a convenção de
+condomínio, a priori, estabelece um indexador para a contribuição. Nesse caso, o
+título executivo será a própria convenção. Caso necessário, os dois títulos (ata e
+convenção) podem aparelhar a execução.
+Ressalte-se que, por força do § 1º do novo art. 833 do CPC/2015,
+245
+ os atos
+constritivos da execução de cotas condominiais podem recair sobre o bem imóvel
+do devedor, ainda que se trate de bem de família.
+As certidões cartorárias também terão força executiva sempre que
+dispuserem acerca do valor dos emolumentos e de outras despesas decorrentes
+dos atos praticados por notários e registradores. A certidão deve ser detalhada de
+forma a permitir a verificação do que deveria ter sido recolhido e não foi. Trata-
+se de título formado unilateralmente, tal como se passa com a certidão de dívida
+ativa.
+Impende destacar que o crédito de serventuário de justiça, elencado no
+CPC/1973 no rol de títulos extrajudiciais, passou a ser tratado pelo CPC/2015
+como título judicial, submetendo-se, portanto, ao procedimento de cumprimento
+de sentença.
+Por fim, no que concerne aos títulos executivos extrajudiciais oriundos de
+país estrangeiro, a supressão da referência ao Supremo Tribunal Federal
+246
+ revela
+984
+
+a absoluta desnecessidade de homologação desses instrumentos para a efetivação
+da tutela executiva.
+ 
+CPC/2015CPC/1973
+Art. 785. A existência de título executivo
+extrajudicial não impede a parte de optar
+pelo processo de conhecimento, a fim de
+obter título executivo judicial.
+Não há correspondência.
+COMENTÁRIOS:
+Via executiva: opção do credor. Mesmo aquele que possui documento
+capaz de desencadear atos executivos poderá optar por ajuizar processo de
+conhecimento em detrimento do processo de execução e, assim, obter um título
+judicial com fundamento da mesma obrigação. Exemplo: credor que possui
+cheque ainda não prescrito e opta por cobrar o título por meio de ação de cobrança
+(processo de conhecimento) em vez de ação executiva. Nesse caso, não há falar
+em ausência de interesse de agir, pois a própria lei confere ao credor a
+po
+[/PAGINA 659]
+
+[PAGINA 660]
+ssibilidade de escolher o procedimento que melhor lhe convém.
+Seção II
+Da exigibilidade da obrigação
+ 
+CPC/2015CPC/1973
+Art. 786. A execução pode ser instaurada caso o
+devedor não satisfaça a obrigação certa, líquida e
+exigível consubstanciada em título executivo.
+Parágrafo único. A necessidade de simples
+operações aritméticas para apurar o crédito
+exequendo não retira a liquidez da obrigação
+constante do título.
+Art. 580. A execução pode ser instaurada caso o
+devedor não satisfaça a obrigação certa, líquida e
+exigível consubstanciada em título executivo.
+985
+
+COMENTÁRIOS:
+Liquida ção por cálculo do credor. As operações aritméticas para
+identificar a liquidez do título extrajudicial não fazem dele um título ilíquido.
+247
+Assim, se um simples cálculo aritmético puder determinar com precisão o valor
+devido, o título será considerado instrumento hábil a aparelhar o processo de
+execução. Essa, aliás, é a regra que também vale para os títulos executivos
+judiciais (art. 509, § 2º, CPC/2015).
+ 
+CPC/2015CPC/1973
+Art. 787. Se o devedor não for obrigado a satisfazer
+sua prestação senão mediante a contraprestação do
+credor, este deverá provar que a adimpliu ao
+requerer a execução, sob pena de extinção do
+processo.
+Parágrafo único. O executado poderá eximir-se da
+obrigação, depositando em juízo a prestação ou a
+coisa, caso em que o juiz não permitirá que o
+credor a receba sem cumprir a contraprestação que
+lhe tocar.
+Art. 582. Em todos os casos em que é defeso a um
+contraente, antes de cumprida a sua obrigação,
+exigir o implemento da do outro, não se procederá à
+execução, se o devedor se propõe satisfazer a
+prestação, com meios considerados idôneos pelo
+juiz, mediante a execução da contraprestação pelo
+credor, e este, sem justo motivo, recusar a oferta.
+Parágrafo único. O devedor poderá, entretanto,
+exonerar-se da obrigação, depositando em juízo a
+prestação ou a coisa; caso em que o juiz
+suspenderá a execução,
+ não permitindo que o
+credor a receba, sem cumprir a contraprestação,
+que lhe tocar.
+COMENTÁRIOS:
+Contratos sinalagmáticos. O novo dispositivo determina a extinção do
+processo executivo na hipótese de o credor, ao propor a ação, deixar de
+comprovar o adimplemento relativo à contraprestação que lhe cabia. Em outras
+palavras, tratando-se de contrato com obrigações recíprocas (bilaterais),
+248
+ a
+inicial executiva deve vir acompanhada da prova do adimplemento da
+contraprestação pelo credor, sob pena de extinção do feito. A prova desse
+requisito já estava prevista no art. 615, IV, do CPC/1973, mas a sua
+demonstração, já na petição inicial, agora se torna imprescindível.
+O parágrafo único suprimiu a previsão anterior de suspensão do processo
+986
+
+quando o executado deposita em juízo a prestação ou a coisa devida (art. 582,
+parágrafo único, do CPC/1973). Nesse caso, de acordo com o CPC/2015, se o
+exequente não cumprir com a sua parte na obrigação, o processo não ficará
+eternamente suspenso. O juiz poderá extinguir o feito, sem que isso interfira na
+exigibilid
+[/PAGINA 660]
+
+[PAGINA 661]
+ade da contraprestação, cujo cumprimento é condição para levantar a
+prestação depositada pelo executado.
+ 
+CPC/2015CPC/1973
+Art. 788. O credor não poderá iniciar a execução ou
+nela prosseguir se o devedor cumprir a obrigação,
+mas poderá recusar o recebimento da prestação se
+ela não corresponder ao direito ou à obrigação
+estabelecidos no título executivo, caso em que
+poderá requerer a execução forçada, ressalvado ao
+devedor o direito de embargá-la.
+Art. 581. O credor não poderá iniciar a execução,
+ou nela prosseguir, se o devedor cumprir a
+obrigação; mas poderá recusar o recebimento da
+prestação, estabelecida no título executivo, se ela
+não corresponder ao direito ou à obrigação; caso
+em que requererá ao juiz a execução, ressalvado ao
+devedor o direito de embargá-la.
+COMENTÁRIOS:
+Adimplemento. O dispositivo reflete a ideia do art. 313 do Código Civil,
+segundo o qual “o credor não é obrigado a receber prestação diversa da que lhe é
+devida, ainda que mais valiosa”. O objeto do pagamento é a prestação, podendo o
+credor se recusar a receber o que não foi acertado com o devedor.
+Violação positiva do contrato. “Ocorre quando a prestação é realizada, mas
+de maneira diversa daquela legitimamente esperada.”
+249
+ Nessa hipótese, pode o
+credor recusar a prestação e dar início à execução objetivando o adimplemento na
+forma e modo contratados. “O adimplemento insatisfatório e a violação positiva
+do contrato não impedem a busca pela tutela jurisdicional do direito.”
+250
+Capítulo V
+Da Responsabilidade Patrimonial
+ 
+CPC/2015CPC/1973
+987
+
+Art. 789. O devedor responde com todos os seus
+bens presentes e futuros para o cumprimento de
+suas obrigações, salvo as restrições estabelecidas
+em lei.
+Art. 591. O devedor responde, para o cumprimento
+de suas obrigações, com todos os seus bens
+presentes e futuros, salvo as restrições
+estabelecidas em lei.
+COMENTÁRIOS:
+Responsabilidade patrimonial do devedor ou responsável. A
+responsabilidade patrimonial consiste no vínculo de natureza processual que
+sujeita os bens de uma pessoa, devedora ou não, à execução. No direito brasileiro,
+a responsabilidade é patrimonial. Exceto nos casos de não pagamento de pensão
+alimentícia, a execução recairá diretamente sobre o patrimônio do devedor.
+A responsabilidade patrimonial pode ser originária ou secundária. A regra
+geral é de que, para o cumprimento de suas obrigações, salvo as restrições
+estabelecidas em lei, o devedor responde com todos os seus bens presentes, ou
+seja, aqueles que compõem o patrimônio no momento do ajuizamento da
+execução, e futuros, isto é, aqueles que vierem a ser adquiridos no curso da
+execução, enquanto não declarada a extinção das obrigações, ainda que pelo
+advento da prescrição (art. 789).
+As restrições estabelecidas em lei referem-se aos bens reputados
+impenhoráveis ou inalienáveis (art. 832), por exemplo, os previstos no art. 833 e
+na Lei nº 8.009/1990.
+Contudo, há bens que, a despeito de não integrarem o patrimônio do devedor
+no momento do ajuizamento do processo
+[/PAGINA 661]
+
+[PAGINA 662]
+executivo ou dele terem saído no curso
+deste, mesmo assim se sujeitam à execução. São os bens pertencentes às pessoas
+indicadas nos incisos I a IV e VII do art. 790 ou alienados na forma dos incisos
+V e VI.
+ 
+CPC/2015CPC/1973
+Art. 790. São sujeitos à execução os bens:
+I – do sucessor a título singular, tratando-se de
+execução fundada em direito real ou obrigação
+reipersecutória;
+II – do sócio, nos termos da lei;
+Art. 592. Ficam sujeitos à execução os bens:
+I – do sucessor a título singular, tratando-se de
+execução fundada em direito real ou obrigação
+reipersecutória;
+II – do sócio, nos termos da lei;
+988
+
+III – do devedor, ainda que em poder de terceiros;
+IV – do cônjuge ou companheiro, nos casos em
+que seus bens próprios ou de sua meação
+respondem pela dívida;
+V – alienados ou gravados com ônus real em
+fraude à execução;
+VI – cuja alienação ou gravação com ônus real
+tenha sido anulada em razão do
+reconhecimento, em ação autônoma, de
+fraude contra credores;
+VII – do responsável, nos casos de
+desconsideração da personalidade jurídica.
+III – do devedor, quando em poder de terceiros;
+IV – do cônjuge, nos casos em que os seus bens
+próprios, reservados
+ ou de sua meação respondem
+pela dívida;
+V – alienados ou gravados com ônus real em
+fraude de execução.
+COMENTÁRIOS:
+Responsabilidade patrimonial secundá ria. Afora a responsabilidade
+originária (do devedor), a execução pode sujeitar também o patrimônio de pessoas
+que não figuram como devedoras, aliás, de pessoas que nem sequer foram citadas
+para a execução. É o que se denomina responsabilidade secundária, cujas
+hipóteses estão elencadas nesse dispositivo.
+Inciso I. Sucessor a título singular, de que trata o inciso I do art. 790, é
+aquele que adquiriu a coisa litigiosa no curso do processo de conhecimento ou de
+execução, tenha ou não substituído a parte originária da demanda. Execução
+fundada em direito real é aquela que visa à realização de um dos direitos
+relacionados no art. 1.225 do CC. Obrigação reipersecutória é aquela pela qual o
+devedor se obriga a restituir a coisa ao proprietário.
+O bem adquirido nessas circunstâncias fica submetido à execução, a despeito
+de o adquirente não ser parte no processo de conhecimento ou de execução.
+Inciso II. Em princípio, os bens particulares dos sócios não respondem
+pelas dívidas da sociedade (art. 795). Em certos casos, entretanto, o sócio
+responde, solidariamente, por obrigação contraída pela pessoa jurídica por ele
+integrada. É o que ocorre quando há solidariedade natural entre o sócio e a pessoa
+jurídica (por exemplo, na sociedade em nome coletivo), ou solidariedade
+989
+
+extraordinária, decorrente de violação do contrato ou de gestão abusiva.
+Inciso III. O fato de os bens do devedor estarem em poder de terceiros, a
+toda evidência, não constitui obstáculo à execução.
+Inciso IV. Em geral, qualquer que seja o regime de casamento, somente os
+bens do cônjuge que firmou a dívida respondem pela respectiva execução.
+Tratando-se de dívida contraída em benefício da f
+[/PAGINA 662]
+
+[PAGINA 663]
+amília, todos os bens dos
+cônjuges respondem pela dívida.
+Inciso V. Os bens alienados em fraude à execução já se encontrarão
+integrados ao patrimônio do adquirente, mas o ato jurídico realizado será
+desconsiderado, pois é ineficaz perante o credor, e o bem será penhorado mesmo
+em mãos de terceiro.
+Inciso VI. A fraude contra credores, que está regulamentada no Código
+Civil (art. 158 e seguintes), tem como requisitos a diminuição do patrimônio do
+devedor, que configure situação de insolvência (eventus damni), e a intenção do
+devedor e do adquirente do bem de causar o dano por meio da fraude (consilium
+fraudis). Essa modalidade de fraude, que acarreta prejuízo apenas para o credor, é
+combatida por meio de ação própria (ação pauliana), tendo como consequência a
+anulabilidade do ato.
+251
+Dito isso, a execução fundada em título extrajudicial somente poderá ser
+direcionada aos bens do devedor cuja alienação ou gravação com ônus real já
+tenha sido previamente anulada em ação de conhecimento. Não basta, portanto,
+que tenha ocorrido a fraude alegada pelo credor; é preciso que a autoridade
+judiciária tenha desconstituído o negócio jurídico firmado com o terceiro.
+Inciso VII. Trata-se de disposição nova, que se harmoniza com os art. 133 e
+seguintes, que permitem ao juiz, preenchidos os requisitos legais, ignorar a
+existência da pessoa jurídica no caso concreto e superar a autonomia patrimonial
+da sociedade para alcançar o patrimônio dos sócios. No caso da execução, esta
+será redirecionada contra os sócios que serão incluídos no polo passivo e citados
+para exercerem o contraditório.
+ 
+CPC/2015CPC/1973
+Art. 791. Se a execução tiver por objeto
+obrigação de que seja sujeito passivo o
+proprietário de terreno submetido ao regime
+do direito de superfície, ou o superficiário,
+responderá pela dívida, exclusivamente, o
+Não há correspondência.
+990
+
+direito real do qual é titular o executado,
+recaindo a penhora ou outros atos de
+constrição exclusivamente sobre o terreno,
+no primeiro caso, ou sobre a construção ou a
+plantação, no segundo caso.
+§ 1º Os atos de constrição a que se refere o
+caput serão averbados separadamente na
+matrícula do imóvel, com a identificação do
+executado, do valor do crédito e do objeto
+sobre o qual recai o gravame, devendo o
+oficial destacar o bem que responde pela
+dívida, se o terreno, a construção ou a
+plantação, de modo a assegurar a
+publicidade da responsabilidade patrimonial
+de cada um deles pelas dívidas e pelas
+obrigações que a eles estão vinculadas.
+§ 2º Aplica-se, no que couber, o disposto
+neste artigo à enfiteuse, à concessão de uso
+especial para fins de moradia e à concessão
+de direito real de uso.
+COMENTÁRIOS:
+Responsabilidade envolvendo o direito de superfície. Os dispositivos
+individualizam a tutela executiva quando esta recair sobre bens gravados pelo
+direito real de superfície. Em síntese, distinguem-se a responsabilidade do
+concedente – proprietário do imóvel que o cede, nos termos da lei civil, a outrem
+– e do superficiário – t
+[/PAGINA 663]
+
+[PAGINA 664]
+erceiro não proprietário que recebe o direito de construir
+ou plantar no imóvel. Importante notar que, a despeito da inexistência de previsão
+semelhante no código anterior, o direito de superfície reapareceu no ordenamento
+pátrio com o Estatuto da Cidade (2001) e, posteriormente, com o Código Civil
+(2002).
+O preceito contido no caput ressalva a intangibilidade do direito de
+superfície constituído, de maneira que, quando a execução for promovida em face
+991
+
+do proprietário, apenas nessa medida poder-se-á praticar atos de constrição, sem
+que implique desconstituição do direito real de superfície. Por outro lado, quando
+o executado for o superficiário, apenas a construção ou plantação estará sujeita à
+satisfação do crédito inadimplido.
+O § 1º, por sua vez, prevê que os atos de constrição a que se refere o caput
+do art. 791 serão averbados separadamente na matrícula do imóvel, com a
+identificação do executado, do valor do crédito e do objeto sobre o qual recai o
+gravame, devendo o oficial destacar o bem que responde pela dívida, se o terreno,
+a construção ou a plantação, de modo a assegurar a publicidade da
+responsabilidade patrimonial de cada um deles pelas dívidas e pelas obrigações
+que a eles estão vinculadas.
+Essa previsão de averbação permite que se particularize o ônus da execução
+sobre o bem, de forma que, por meio do registro, individualiza-se o bem
+executado: ora o terreno, ora as construções ou plantações sobre o terreno. A
+satisfação do direito do exequente não implica extinção do direito constituído
+entre concedente e superficiário, mas, no máximo, a substituição destes. Por
+exemplo: em execução movida em face de superficiário construtor de um
+shopping center, não poderá o exequente pretender, com o processo de execução,
+penhorar todo o imóvel, incluindo o terreno sobre o qual fora construído, pois
+atingiria o direito de propriedade do concedente que não toca o superficiário.
+Nesse caso, qualquer ato de constrição que ameace o direito de propriedade do
+concedente desafia a oposição de embargos de terceiro.
+ 
+CPC/2015CPC/1973
+Art. 792. A alienação ou a oneração de bem é
+considerada fraude à execução:
+I – quando sobre o bem pender ação fundada em
+direito real ou com pretensão reipersecutória,
+desde que a pendência do processo tenha
+sido averbada no respectivo registro público,
+se houver;
+II – quando tiver sido averbada, no registro
+do bem, a pendência do processo de
+execução, na forma do art. 828;
+Art. 593. Considera-se em fraude de execução a
+alienação ou oneração de bens:
+I – quando sobre eles pender ação fundada em
+direito real;
+II – quando, ao tempo da alienação ou oneração,
+corria contra o devedor demanda capaz de reduzi-
+lo à insolvência;
+III – nos demais casos expressos em lei.
+992
+
+III – quando tiver sido averbado, no registro
+do bem, hipoteca judiciária ou outro ato de
+constrição judicial originário do processo
+onde foi arguida a fraude;
+IV – quando, ao tempo da alienação ou da
+oneração, tramitava contra o devedor ação capaz
+de re
+[/PAGINA 664]
+
+[PAGINA 665]
+duzi-lo à insolvência;
+V – nos demais casos expressos em lei.
+§ 1º A alienação em fraude à execução é
+ineficaz em relação ao exequente.
+§ 2º No caso de aquisição de bem não sujeito
+a registro, o terceiro adquirente tem o ônus
+de provar que adotou as cautelas necessárias
+para a aquisição, mediante a exibição das
+certidões pertinentes, obtidas no domicílio
+do vendedor e no local onde se encontra o
+bem.
+§ 3º Nos casos de desconsideração da
+personalidade jurídica, a fraude à execução
+verifica-se a partir da citação da parte cuja
+personalidade se pretende desconsiderar.
+§ 4º Antes de declarar a fraude à execução, o
+juiz deverá intimar o terceiro adquirente,
+que, se quiser, poderá opor embargos de
+terceiro, no prazo de 15 (quinze) dias.
+COMENTÁRIOS:
+Fraude à execução. O legislador processual, visando conferir maior
+instrumentalidade ao procedimento executório – que se aperfeiçoa com a efetiva
+entrega da prestação jurisdicional, que não é outra se não a recuperação do
+prejuízo pelo credor –, ampliou o rol de situações capazes de caracterizar a fraude
+993
+
+à execução. Em suma, “adotou-se um regime único de ineficácia para todos os
+atos alienatórios capazes de comprometer a exequibilidade das condenações e dos
+títulos extrajudiciais”.
+252
+Inciso I. Reconhece-se a presunção absoluta de fraude à execução se
+realizada a alienação ou a oneração de bem quando já houver averbação da
+existência de ação envolvendo direito real ou pretensão reipersecutória sobre esse
+mesmo bem, de modo que a fraude poderá ser reconhecida, inclusive, antes da
+penhora.
+Incisos II e III. O inciso II remete ao disposto no art. 828, que possibilita
+ao exequente obter certidão de que a execução foi admitida pelo juiz, com a
+identificação das partes e valor da causa, para fins de averbação no registro de
+imóveis, registro de veículos ou registro de outros bens sujeitos à penhora,
+arresto ou indisponibilidade. A redação do art. 828 é semelhante à do art. 615-A
+do CPC/1973, sendo que o Código anterior permitia a obtenção dessa certidão tão
+logo fosse ajuizada a execução. Com o novo Código, a obtenção da certidão só
+será possível após a execução ser admitida pelo juiz natural (ou seja, após o juízo
+de admissibilidade). A diferença com relação ao CPC/1973 está na apreciação
+judicial; antes, bastava que a certidão, constatando a distribuição, fosse expedida
+pela secretaria do juízo; com o CPC/2015, a expedição da certidão estará
+condicionada à apreciação judicial.
+A simples averbação dessa certidão é suficiente para comprovar a má-fé do
+adquirente no caso de se alegar que a alienação, ocorrida depois do ato
+averbatório, desfalcou o patrimônio do executado, comprometendo a efetividade
+do processo executivo. Nesse caso, para reconhecimento da fraude, despiciendo é
+que a alienação tenha ocorrido posteriormente à citação do executado (art. 828, §
+4º). A fraude, todavia, só ocorrerá se a alienação foi capaz de reduzir o devedor à
+insolvência. Se, a despeito da alienação, houver bens suficientes pa
+[/PAGINA 665]
+
+[PAGINA 666]
+ra garantir a
+execução, não se pode cogitar de fraude, a menos que a alienação refira-se a bem
+constrito por qualquer gravame judicial, caso em que pouco importa a situação de
+solvência do devedor. É o que ocorre na hipótese do inciso III.
+Inciso IV. Bastará o ajuizamento de ação capaz de reduzir o devedor à
+insolvência para a caracterização da fraude à execução. Não precisa ser ação de
+execução, mas qualquer ação (processo de conhecimento, por exemplo), sendo
+indispensável que essa ação possa levar o devedor à insolvência. Assim, se o réu
+em uma ação de cobrança de R$ 10.000,00 (dez mil reais) tem patrimônio
+constituído de bens móveis e imóveis de grande valor, não será a alienação de um
+automóvel que vai caracterizar fraude à execução, a menos, obviamente, que sobre
+994
+
+esse bem já contenha algum gravame (art. 792, III).
+Inciso V. Com relação aos demais casos expressos em lei, podem-se citar a
+penhora sobre crédito (art. 856, § 3º) e a alienação ou oneração de bens do sujeito
+passivo de dívida ativa em execução fiscal (art. 185 do CTN).
+Ineficácia da alienação. O § 1º agora deixa claro que, mesmo sendo
+constatada a fraude, a execução, a alienação ou oneração dos bens não será
+invalidada, mas apenas será considerada ineficaz em relação ao exequente. Esse já
+era, inclusive, o entendimento assentado na jurisprudência.
+253
+Bens não sujeitos a registro. De acordo com o novo diploma, quando o
+gravame que paira sobre o bem se achar devidamente “documentado” (por
+exemplo, se averbada na matrícula de imóvel ou se assentado no prontuário de
+registro do veículo a existência de demanda executiva), a alienação ou oneração
+desse bem pelo devedor gerará as sanções relativas à fraude à execução. A
+presunção acerca da existência de fraude, nesse caso, é absoluta, uma vez que a
+eventual aquisição por terceiro não poderá se fundamentar na boa-fé se já era
+possível, à época da aquisição, conhecer a restrição.
+Se, no entanto, o bem não estiver sujeito a registro (bens semoventes, por
+exemplo), o CPC/2015 obriga o terceiro adquirente a demonstrar a sua boa-fé por
+meios objetivos que atestem o seu desconhecimento quanto à existência de
+execução em desfavor do devedor/alienante. A cautela do terceiro adquirente de
+bem não sujeito à publicidade dos registros públicos, para evitar a declaração de
+fraude à execução, demanda a obtenção de certidões não apenas no domicílio do
+vendedor, mas também no local do bem (§ 2º).
+Cumpre salientar que esse entendimento adotado no § 2º é contrário ao que
+foi decidido pelo STJ no REsp 956.943/PR, submetido ao rito dos recursos
+repetitivos. Isso porque, segundo a Corte, como a presunção de boa-fé é princípio
+geral de direito universalmente aceito, sendo milenar a parêmia “a boa-fé se
+presume; a má-fé se prova”, se não houver registro da penhora na matrícula do
+imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha
+conhecimento de demanda capaz de levar o alienante à insolvência. O referido
+recurso especial, julgado em 2
+[/PAGINA 666]
+
+[PAGINA 667]
+1 de agosto de 2014, consolidou o entendimento
+exposto na Súmula 375, segundo a qual “O reconhecimento da fraude de execução
+depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro
+adquirente”. Agora, com o novo CPC, inverte-se o ônus: o credor não precisa
+comprovar a má-fé do terceiro adquirente, pois é este que precisa demonstrar que,
+ao tempo da alienação, estava de boa-fé.
+Desconsideração da personalidade jurídica. Destaca-se, ainda, a
+995
+
+configuração da fraude à execução nos casos de desconsideração da personalidade
+jurídica a partir do momento em que o alienante for citado para o respectivo
+incidente. O objetivo dessa nova regra é proteger o exequente “contra manobras
+do terceiro para desviar seus bens antes de ser alcançado pelo julgamento do
+incidente em questão”.
+254
+A fim de resguardar os interesses do terceiro adquirente e de evitar a
+realização de atos que tumultuem o processo, o CPC/2015 prevê que aquele
+deverá ser intimado antes de ser declarada a fraude à execução. Essa necessidade
+de participação já indica a abertura de contraditório e da ampla defesa, muito
+embora estes só venham a se efetivar em ação autônoma (embargos de terceiro).
+ 
+CPC/2015CPC/1973
+Art. 793. O exequente que estiver, por direito de
+retenção, na posse de coisa pertencente ao devedor
+não poderá promover a execução sobre outros bens
+senão depois de excutida a coisa que se achar em
+seu poder.
+Art. 594. O credor, que estiver, por direito de
+retenção, na posse de coisa pertencente ao
+devedor, não poderá promover a execução sobre
+outros bens senão depois de excutida a coisa que
+se achar em seu poder.
+COMENTÁRIOS:
+Direito de retenção. Se o credor estiver na posse do bem em virtude de
+direito de retenção, este bem deverá ser indicado à penhora já na petição inicial
+(art. 829, § 2º). Se este não for o procedimento adotado pelo exequente, o
+executado poderá alegar a exceptio excussionis realis, que nada mais é do que
+uma defesa indicando que a execução deve recair sobre o bem retido.
+O dispositivo não pode, contudo, ser interpretado de forma rígida. Pode ser
+que outro bem tenha sido ofertado à penhora e o executado concorde com a oferta.
+Nessa hipótese, conforme explica Marinoni, Arenhart e Mitidiero, “tem o
+exequente que devolver imediatamente a coisa do executado que está em seu
+poder, porque aí se entende que, ao indicar coisa diversa, renunciou ao direito de
+retenção”.
+255
+ 
+CPC/2015CPC/1973
+Art. 794. O fiador, quando executado, tem o direito
+de exigir que primeiro sejam executados os bens do
+Art. 595. O fiador, quando executado, poderá
+nomear à penhora bens livres e desembargados do
+996
+
+devedor situados na mesma comarca, livres e
+desembargados, indicando-os pormenorizadamente
+à penhora.
+§ 1º Os bens do fiador ficarão sujeitos à execução se
+os do devedor, situados na mesma comarca
+que os seus, forem insuficientes à satisfação do
+direito do credor.
+§ 2º O fiador que pagar a dívida poderá executar o
+afiançado nos autos do mesmo processo.
+§ 3º
+[/PAGINA 667]
+
+[PAGINA 668]
+O disposto no caput não se aplica se o
+fiador houver renunciado ao benefício de
+ordem.
+devedor. Os bens do fiador ficarão, porém, sujeitos
+à execução, se os do devedor forem insuficientes à
+satisfação do direito do credor.
+Parágrafo único. O fiador, que pagar a dívida,
+poderá executar o afiançado nos autos do mesmo
+processo.
+COMENTÁRIOS:
+Fiador. Caso a execução seja direcionada ao fiador, este tem o direito de
+exigir que primeiro sejam executados os bens do devedor situados na mesma
+comarca em que tramita a demanda executiva (art. 794). Essa ideia já estava
+prevista no Código Civil, mais precisamente no parágrafo único do art. 827:
+Art. 827. O fiador demandado pelo pagamento de dívida tem direito a exigir,
+até a contestação da lide, que sejam primeiro executados os bens do devedor.
+Parágrafo único. O fiador que alegar o benefício de ordem, a que se refere
+este artigo, deve nomear bens do devedor, sitos no mesmo município, livres e
+desembaraçados, quantos bastem para solver o débito.
+A exceção constante no § 3º do novo art. 794 também já era possível de ser
+extraída da redação do art. 828, I, do Código Civil:
+Art. 828. Não aproveita este benefício (do artigo 827) ao fiador:
+I – se ele o renunciou expressamente;
+O benefício de ordem, quando renunciado, permite que a execução seja
+direcionada ao fiador sem que antes sejam executados os bens do devedor. O que
+restará ao fiador, nesse caso, será o exercício do direito de regresso contra o seu
+997
+
+afiançado, depois de efetuar o pagamento da dívida.
+ 
+CPC/2015CPC/1973
+Art. 795. Os bens particulares dos sócios não
+respondem pelas dívidas da sociedade, senão nos
+casos previstos em lei.
+§ 1º O sócio réu, quando responsável pelo
+pagamento da dívida da sociedade, tem o direito
+de exigir que primeiro sejam excutidos os bens da
+sociedade.
+§ 2º Incumbe ao sócio que alegar o benefício do §
+1º nomear quantos bens da sociedade situados na
+mesma comarca, livres e desembargados, bastem
+para pagar o débito.
+§ 3º O sócio que pagar a dívida poderá executar a
+sociedade nos autos do mesmo processo.
+§ 4º Para a desconsideração da personalidade
+jurídica é obrigatória a observância do
+incidente previsto neste Código.
+Art. 596. Os bens particulares dos sócios não
+respondem pelas dívidas da sociedade senão nos
+casos previstos em lei; o sócio, demandado pelo
+pagamento da dívida, tem direito a exigir que
+sejam primeiro excutidos os bens da sociedade.
+§ 1º Cumpre ao sócio, que alegar o benefício deste
+artigo, nomear bens da sociedade, sitos na mesma
+comarca, livres e desembargados, quantos bastem
+para pagar o débito.
+§ 2ºAplica-se aos casos deste artigo o disposto no
+parágrafo único do artigo anterior.
+COMENTÁRIOS:
+Proteção legal aos bens dos sócios. Somente se houver autorização legal,
+os bens dos sócios podem ser atingidos em razão de dívidas contraídas pela
+sociedade. Se houver redirecionamento, o sócio tem o direito de exigir que antes a
+execução recaia sobre bens da sociedade, para, somente depois, recair sobre seus
+bens
+[/PAGINA 668]
+
+[PAGINA 669]
+para pagamento de eventual remanescente. Não se trata, contudo, de
+benefício absoluto, pois a lei deixa claro que os bens devem estar localizados na
+mesma comarca.
+Incidente de desconsideração da personalidade jurídica. O § 4º reforça a
+necessidade de se observar o incidente previsto nos arts. 133 a 137 para que seja
+possível alcançar os bens do sócio por dívidas da sociedade.
+ 
+CPC/2015CPC/1973
+998
+
+CPC/2015CPC/1973
+Art. 796. O espólio responde pelas dívidas do
+falecido, mas, feita a partilha, cada herdeiro
+responde por elas dentro das forças da herança
+e na proporção da parte que lhe coube.
+Art. 597. O espólio responde pelas dívidas do
+falecido; mas, feita a partilha, cada herdeiro
+responde por elas na proporção da parte que na
+herança lhe coube.
+COMENTÁRIOS:
+Responsabilidade do espólio. O novo Código, a par do que já previa o art.
+1.792 do Código Civil,
+256
+ esclarece que a responsabilidade dos herdeiros pelas
+dívidas do falecido não pode ultrapassar as forças da herança. Isso quer dizer
+que o herdeiro não assumirá a condição de devedor a título próprio, devendo seu
+patrimônio ser, necessariamente, separado do acervo hereditário. Em outras
+palavras, a herança não pode trazer prejuízos ao herdeiro, que deverá “evidenciar
+o excesso de que fala a lei, isto é, débito além das forças da herança”.
+257
+TÍTULO II
+DAS DIVERSAS ESPÉCIES DE EXECUÇÃO
+Capítulo I
+Disposições Gerais
+ 
+CPC/2015CPC/1973
+Art. 797. Ressalvado o caso de insolvência do
+devedor, em que tem lugar o concurso universal,
+realiza-se a execução no interesse do exequente
+que adquire, pela penhora, o direito de preferência
+sobre os bens penhorados.
+Art. 612. Ressalvado o caso de insolvência do
+devedor, em que tem lugar o concurso universal
+(art. 751, III)
+, realiza-se a execução no interesse do
+credor, que adquire, pela penhora, o direito de
+preferência sobre os bens penhorados.
+Parágrafo único. Recaindo mais de uma penhora
+sobre o mesmo bem, cada exequente conservará o
+Art. 613. Recaindo mais de uma penhora sobre os
+mesmos bens, cada credor conservará o seu título
+999
+
+seu título de preferência.de preferência.
+COMENTÁRIOS:
+Interesse do exequente. A execução realiza-se no interesse do exequente, o
+que significa dizer que o processo executivo autônomo deve proporcionar ao
+exequente o resultado prático equivalente ao cumprimento espontâneo da
+obrigação descrita no título.
+Anterioridade da penhora. Havendo várias penhoras sobre o mesmo bem,
+tem o credor quirografário (aquele sem título legal de preferência) que realizou a
+primeira penhora a preferência no recebimento de valores para satisfação de seu
+crédito. Os demais exequentes quirografários que penhoraram o mesmo bem
+receberão a sobra na ordem da respectiva penhora, obedecendo à anterioridade.
+Aos credores que possuem privilégios estabelecidos pelo direito material não
+se aplica esse dispositivo, porquanto eles preferem aos credores quirografários.
+Os arts. 961 e 962 do CC disciplinam eventuais conflitos entre aqueles que detêm
+títulos le
+[/PAGINA 669]
+
+[PAGINA 670]
+gais de preferência.
+ 
+CPC/2015CPC/1973
+Art. 798. Ao propor a execução, incumbe ao
+exequente:
+I – instruir a petição inicial com:
+a) o título executivo extrajudicial;
+b) o demonstrativo do débito atualizado até a data
+de propositura da ação, quando se tratar de
+execução por quantia certa;
+c) a prova de que se verificou a condição ou ocorreu
+o termo, se for o caso;
+d) a prova, se for o caso, de que adimpliu a
+contraprestação que lhe corresponde ou que lhe
+assegura o cumprimento, se o executado não for
+obrigado a satisfazer a sua prestação senão
+Art. 614. Cumpre ao credor, ao requerer a
+execução, pedir a citação do devedor
+ e instruir a
+petição inicial:
+I – com o título executivo extrajudicial;
+II – com o demonstrativo do débito atualizado até
+a data da propositura da ação, quando se tratar de
+execução por quantia certa;
+III – com a prova de que se verificou a condição, ou
+ocorreu o termo (art. 572)
+.
+Art. 615. Cumpre ainda ao credor:
+I – indicar a espécie de execução que prefere,
+quando por mais de um modo pode ser efetuada;
+[...]
+1000
+
+mediante a contraprestação do exequente;
+II – indicar:
+a) a espécie de execução de sua preferência,
+quando por mais de um modo puder ser realizada;
+b) os nomes completos do exequente e do
+executado e seus números de inscrição no
+Cadastro de Pessoas Físicas ou no Cadastro
+Nacional da Pessoa Jurídica;
+c) os bens suscetíveis de penhora, sempre que
+possível.
+Parágrafo único. O demonstrativo do débito
+deverá conter:
+I – o índice de correção monetária adotado;
+II – a taxa de juros aplicada;
+III – os termos inicial e final de incidência do
+índice de correção monetária e da taxa de
+juros utilizados;
+IV – a periodicidade da capitalização dos
+juros, se for o caso;
+V – a especificação de desconto obrigatório
+realizado.
+IV – provar que adimpliu a contraprestação, que lhe
+corresponde, ou que lhe assegura o cumprimento, se
+o executado não for obrigado a satisfazer a sua
+prestação senão mediante a contraprestação do
+credor.
+Art. 652. [...]
+§ 2º O credor poderá, na inicial da execução,
+indicar bens a serem penhorados (art. 655)
+.
+COMENTÁRIOS:
+Requisitos da petição inicial na ação de execução. Além dos requisitos
+previstos nos arts. 319 e 320 – com exceção do requerimento de produção de
+provas e da opção quanto à audiência de conciliação ou mediação –, a petição
+inicial do processo de execução deve indicar: (i) a espécie de execução de
+preferência do credor, quando por mais de um modo ela puder ser realizada, e (ii)
+os bens suscetíveis de penhora, sempre que possível.
+1001
+
+Quanto aos documentos indispensáveis à propositura da demanda, o título
+executivo extrajudicial representa a via de acesso à execução, materializando o
+princípio nulla executio sine titulo (art. 798, I, a). A prova da ocorrência da
+condição ou termo, bem como o adimplemento de eventual contraprestação,
+demonstram a exigibilidade da obrigação constante no título, relevando o
+interesse de agir do credor na demanda executiva.
+O demonstrativo do débito que funda a e
+[/PAGINA 670]
+
+[PAGINA 671]
+xecução também é indispensável à
+propositura da ação. É nele que estará evidenciada a liquidez da obrigação.
+Diferentemente do CPC/1973, o novo Código traz os elementos que deverão
+compor o cálculo (art. 798, parágrafo único), a fim de que se tenha a exata
+compreensão das verbas incidentes sobre o débito. A regra é a mesma para o
+cumprimento de sentença, conforme dispõem os arts. 524 e 534.
+ 
+CPC/2015CPC/1973
+Art. 799. Incumbe ainda ao exequente:
+I – requerer a intimação do credor pignoratício,
+hipotecário, anticrético ou fiduciário, quando a
+penhora recair sobre bens gravados por penhor,
+hipoteca, anticrese ou alienação fiduciária;
+II – requerer a intimação do titular de
+usufruto, uso ou habitação, quando a
+penhora recair sobre bem gravado por
+usufruto, uso ou habitação;
+III – requerer a intimação do promitente
+comprador, quando a penhora recair sobre
+bem em relação ao qual haja promessa de
+compra e venda registrada;
+IV – requerer a intimação do promitente
+vendedor, quando a penhora recair sobre
+direito aquisitivo derivado de promessa de
+compra e venda registrada;
+V – requerer a intimação do superficiário,
+enfiteuta ou concessionário, em caso de
+Art. 615. Cumpre ainda ao credor:
+[...]
+II – requerer a intimação do credor pignoratício,
+hipotecário, ou anticrético, ou usufrutuário
+,
+quando a penhora recair sobre bens gravados por
+penhor, hipoteca, anticrese ou usufruto
+;
+III – pleitear medidas acautelatórias urgentes;
+1002
+
+direito de superfície, enfiteuse, concessão de
+uso especial para fins de moradia ou
+concessão de direito real de uso, quando a
+penhora recair sobre imóvel submetido ao
+regime do direito de superfície, enfiteuse ou
+concessão;
+VI – requerer a intimação do proprietário de
+terreno com regime de direito de superfície,
+enfiteuse, concessão de uso especial para fins
+de moradia ou concessão de direito real de
+uso, quando a penhora recair sobre direitos
+do superficiário, do enfiteuta ou do
+concessionário;
+VII – requerer a intimação da sociedade, no
+caso de penhora de quota social ou de ação
+de sociedade anônima fechada, para o fim
+previsto no art. 876, § 7º;
+VIII – pleitear, se for o caso, medidas urgentes;
+IX – proceder à averbação em registro público
+do ato de propositura da execução e dos atos
+de constrição realizados, para conhecimento
+de terceiros.
+COMENTÁRIOS:
+Intimação  de interessados na execução. O dispositivo complementa os
+requisitos específicos da petição inicial da ação de execução (art. 798),
+estabelecendo algumas incumbências do exequente. Uma dessas incumbências
+refere-se ao requerimento, na própria petição inicial – nada obsta a que seja feita
+posteriormente, depois da penhora –, de intimação de interessados na execução
+em razão de ostentarem direitos sobre o bem penhorado. De regra, a execução
+interessa ao exequente e ao executado. Contudo, em certos casos, pode alcançar
+direitos de terceiros, razão pela qual necessária é a comunicação de todos os atos
+1003
+
+executivos, a começar pela penhora. É o que se passa com as pe
+[/PAGINA 671]
+
+[PAGINA 672]
+ssoas indicadas
+no dispositivo.
+A intimação da penhora, bem como do ato de alienação tem por fim
+possibilitar a defesa dos direitos que ostentam e também o exercício de
+prerrogativas que lhes são conferidas, como, por exemplo, requerer a adjudicação.
+A alienação que não for precedida da intimação de tais interessados, em relação a
+eles, é reputada ineficaz. O credor com garantia real tem legitimidade para opor
+embargos de terceiro, visando obstar a expropriação judicial do bem objeto da
+garantia, caso não tenha sido intimado dos atos expropriatórios (art. 674, § 2º,
+IV).
+Medidas urgentes. O inciso VIII prevê que incumbe ao exequente requerer
+medidas urgentes. É de se lembrar que as tutelas de urgências podem ser
+requeridas em caráter antecedente, concomitantemente com a inicial (no caso da
+execução) e incidentalmente. Uma das medidas que se pode pleitear no bojo da
+inicial da execução é o denominado “arresto on-line”, que tem por fim tornar
+indisponíveis ativos financeiros do executado antes da penhora.
+Averbação da execução nos registros públicos. Trata-se de uma faculdade
+conferida ao exequente, que tem a finalidade de prevenir fraude à execução (art.
+828, § 4º). Dispensável é a formulação de qualquer requerimento nesse sentido na
+petição da ação executiva. Uma vez levada a efeito a cognição preliminar, com a
+admissão da execução, pode o exequente obter certidão na secretaria judicial, sem
+qualquer interferência do juiz.
+ 
+CPC/2015CPC/1973
+Art. 800. Nas obrigações alternativas, quando a
+escolha couber ao devedor, esse será citado para
+exercer a opção e realizar a prestação dentro de 10
+(dez) dias, se outro prazo não lhe foi determinado
+em lei ou em contrato.
+§ 1º Devolver-se-á ao credor a opção, se o devedor
+não a exercer no prazo determinado.
+§ 2º A escolha será indicada na petição inicial da
+execução quando couber ao credor exercê-la.
+Art. 571. Nas obrigações alternativas, quando a
+escolha couber ao devedor, este será citado para
+exercer a opção e realizar a prestação dentro em
+10 (dez) dias, se outro prazo não lhe foi
+determinado em lei, no contrato, ou na sentença.
+§ 1º Devolver-se-á ao credor a opção, se o devedor
+não a exercitou no prazo marcado.
+§ 2º Se a escolha couber ao credor, este a indicará
+na petição inicial da execução.
+1004
+
+COMENTÁRIOS:
+Obrigação alternativa. É aquela a que contém duas ou mais
+prestações com objetos distintos, da qual o devedor se libera com o cumprimento
+de uma só delas, mediante escolha sua ou do credor.
+Nas obrigações alternativas, que podem ser de dar, fazer ou não fazer (por
+exemplo, o dever de construir uma casa ou pagar quantia equivalente ao seu
+valor), quando a escolha couber ao devedor, este será citado para exercer a opção
+e realizar a prestação no prazo de dez dias, se outro prazo não lhe foi determinado
+em lei ou em contrato. Se o devedor se omitir, desaparece o seu direito de
+escolha, cabendo ao credor fazê-la.
+Se a escolha couber ao credor, a petição inicial da execução indicará a coisa a
+ser ent
+[/PAGINA 672]
+
+[PAGINA 673]
+regue. Se não o fizer, fica subtendido o interesse em qualquer das
+prestações.
+ 
+CPC/2015CPC/1973
+Art. 801. Verificando que a petição inicial está
+incompleta ou que não está acompanhada dos
+documentos indispensáveis à propositura da
+execução, o juiz determinará que o exequente a
+corrija, no prazo de 15 (quinze) dias, sob pena de
+indeferimento.
+Art. 616. Verificando o juiz que a petição inicial
+está incompleta, ou não se acha acompanhada dos
+documentos indispensáveis à propositura da
+execução, determinará que o credor a corrija, no
+prazo de 10 (dez) dias, sob pena de ser indeferida.
+COMENTÁRIOS:
+Emenda da petição. Percebida a ausência de qualquer elemento
+indispensável à propositura da ação de execução (demonstrativo do débito, por
+exemplo), deverá o juiz determinar que o exequente sane a pendência, ou seja,
+emende a petição, no prazo de quinze dias. No CPC/1973 esse prazo era de dez
+dias.
+A emenda à petição inicial é direito do exequente, não sendo possível que o
+juiz, ao verificar, por exemplo, a ausência de demonstrativo, indefira de pronto a
+petição. Segundo entendimento do STJ, “o suprimento dessa eventual
+irregularidade é possível ainda que já opostos embargos do devedor, em razão do
+princípio da instrumentalidade do processo” (REsp 577.773/PR).
+ 
+CPC/2015CPC/1973
+1005
+
+CPC/2015CPC/1973
+Art. 802. Na execução, o despacho que ordena a
+citação, desde que realizada em observância ao
+disposto no § 2º do art. 240, interrompe a
+prescrição, ainda que proferido por juízo
+incompetente.
+Parágrafo único. A interrupção da prescrição
+retroagirá à data de propositura da ação.
+Art. 617. A propositura da execução, deferida pelo
+juiz, interrompe a prescrição, mas a citação do
+devedor deve ser feita com observância do
+disposto no art. 219.
+COMENTÁRIOS:
+Interrupção da prescrição. Um dos efeitos da propositura da ação de
+execução é a interrupção da prescrição, desde que a inicial seja deferida pelo juiz
+e que a citação do devedor seja promovida em dez dias, isto é, providenciada,
+com o fornecimento do endereço do devedor, o pagamento da diligência e outras
+providências a cargo do exequente.
+O despacho gerará a interrupção ainda que ordenado por juízo incompetente.
+Nesse ponto, não há qualquer diferença entre a nova legislação e o Código de
+1973.
+Lembre-se de que a demora para a realização da citação por motivos
+inerentes ao mecanismo da Justiça não impede a interrupção do prazo
+prescricional. Tal entendimento está exposto na Súmula 106 do STJ e é reforçado
+pelo § 3º do art. 240 do CPC/2015.
+ 
+CPC/2015CPC/1973
+Art. 803. É nula a execução se:
+I – o título executivo extrajudicial não
+corresponder a obrigação certa, líquida e exigível;
+II – o executado não for regularmente citado;
+III – for instaurada antes de se verificar a condição
+ou de ocorrer o termo.
+Parágrafo único. A nulidade de que cuida este
+Art. 618. É nula a execução:
+I – se o título executivo extrajudicial não
+corresponder a obrigação certa, líquida e exigível
+(art. 586)
+;
+II – se o devedor não for regu
+[/PAGINA 673]
+
+[PAGINA 674]
+larmente citado;
+III – se instaurada antes de se verificar a condição
+ou de ocorrido o termo, nos casos do art. 572
+.
+1006
+
+artigo será pronunciada pelo juiz, de ofício
+ou a requerimento da parte,
+independentemente de embargos à
+execução.
+COMENTÁRIOS:
+Nulidade da execução. A falta de qualquer dos atributos da obrigação
+(certeza, liquidez, exigibilidade) gera a nulidade da execução. Do mesmo modo, a
+ausência de citação válida impede o prosseguimento da demanda executiva,
+porquanto o processo não pode se desenvolver sem contraditório.
+Não verificada a condição ou termo da obrigação contida no título executivo,
+haverá inexigibilidade. Nessa hipótese, o executado nem sequer será
+inadimplente, razão pela qual a execução será nula.
+Nos termos do parágrafo único do art. 803, a nulidade será pronunciada pelo
+juiz, de ofício ou a requerimento da parte, independentemente de embargos à
+execução. O dispositivo é novo na legislação processual, mas ratifica prática já
+adotada pelos tribunais.
+258
+ Por se tratar de matérias de ordem pública, não
+sujeitas, portanto, à preclusão, as situações inseridas no art. 803 podem ser
+conhecidas a qualquer tempo, independentemente do manejo de embargos à
+execução.
+Tal dispositivo, em verdade, positiva um instituto muito utilizado na prática
+forense, mas que, até então, tinha respaldo apenas doutrinário e jurisprudencial.
+Trata-se da exceção ou objeção de pré-executividade, cabível para fins de
+discussão de matérias cognoscíveis de ofício (pressupostos processuais e vícios
+objetivos do título, por exemplo) e que não demandem dilação probatória.
+ 
+CPC/2015CPC/1973
+Art. 804. A alienação de bem gravado por penhor,
+hipoteca ou anticrese será ineficaz em relação ao
+credor pignoratício, hipotecário ou anticrético não
+intimado.
+§ 1º A alienação de bem objeto de promessa
+de compra e venda ou de cessão registrada
+Art. 619. A alienação de bem aforado ou
+ gravado
+por penhor, hipoteca, anticrese ou usufruto será
+ineficaz em relação ao senhorio direto
+, ou ao
+credor pignoratício, hipotecário, anticrético, ou
+usufrutuário, que não houver sido intimado.
+1007
+
+será ineficaz em relação ao promitente
+comprador ou ao cessionário não intimado.
+§ 2º A alienação de bem sobre o qual tenha
+sido instituído direito de superfície, seja do
+solo, da plantação ou da construção, será
+ineficaz em relação ao concedente ou ao
+concessionário não intimado.
+§ 3º A alienação de direito aquisitivo de bem
+objeto de promessa de venda, de promessa
+de cessão ou de alienação fiduciária será
+ineficaz em relação ao promitente vendedor,
+ao promitente cedente ou ao proprietário
+fiduciário não intimado.
+§ 4º A alienação de imóvel sobre o qual tenha
+sido instituída enfiteuse, concessão de uso
+especial para fins de moradia ou concessão
+de direito real de uso será ineficaz em relação
+ao enfiteuta ou ao concessionário não
+intimado.
+§ 5º A alienação de direitos do enfiteuta, do
+concessionário de direito real de uso ou do
+concessionário de uso especial para fins de
+moradia será
+[/PAGINA 674]
+
+[PAGINA 675]
+ineficaz em relação ao
+proprietário do respectivo imóvel não
+intimado.
+§ 6º A alienação de bem sobre o qual tenha
+sido instituído usufruto, uso ou habitação
+será ineficaz em relação ao titular desses
+direitos reais não intimado.
+COMENTÁRIOS:
+1008
+
+Ineficácia da alienação. A execução por quantia recai sobre o patrimônio do
+executado. Ocorre que terceiros à execução podem ter algum direito sobre o bem
+objeto da penhora. É o que ocorre com o credor pignoratício, hipotecário,
+anticrético e fiduciário e também com o superficiário, com os promitentes
+comprador e vendedor, com o enfiteuta e com o usufrutuário, entre outros. Em
+tais casos, esses terceiros interessados na execução devem ser intimados de todos
+os atos executivos, como a penhora (art. 799) e a alienação (art. 889).
+O art. 804, c/c o 903, § 1º, II, preveem a ineficácia como consequência da
+intimação.
+ 
+CPC/2015CPC/1973
+Art. 805. Quando por vários meios o exequente
+puder promover a execução, o juiz mandará que se
+faça pelo modo menos gravoso para o executado.
+Parágrafo único. Ao executado que alegar ser a
+medida executiva mais gravosa incumbe
+indicar outros meios mais eficazes e menos
+onerosos, sob pena de manutenção dos atos
+executivos já determinados.
+Art. 620. Quando por vários meios o credor puder
+promover a execução, o juiz mandará que se faça
+pelo modo menos gravoso para o devedor.
+COMENTÁRIOS:
+Princípio da menor onerosidade da execução. Ao longo dos anos, o
+princípio da menor onerosidade da execução teve sua aplicação significativamente
+ampliada, de modo a conferir proteção substancial ao devedor.
+Esse princípio tem, contudo, que ser aplicado harmonicamente com o
+princípio da efetividade da execução, já que a finalidade do processo executivo é a
+satisfação do credor, e não o contrário.
+Em outras palavras, o princípio da menor onerosidade deve atuar como uma
+espécie de freio ou limite à satisfação do credor, de forma a impedir que direitos
+patrimoniais assolem direitos de maior significância, como é o caso da dignidade
+da pessoa humana (art. 1º, III, da CF). Há, porém, um limite também ao princípio
+da menor onerosidade, cuja incidência não pode servir de amparo a calotes de
+maus pagadores.
+Em síntese, “é preciso distinguir entre o devedor infeliz e de boa-fé, que vai
+1009
+
+ao desastre patrimonial em razão de involuntárias circunstâncias da vida, e o
+caloteiro chicanista, que se vale das formas do processo executivo e da
+benevolência dos juízes como instrumento a serviço de suas falcatruas.
+Infelizmente, essas práticas são cada vez mais frequentes nos dias de hoje,
+quando raramente se vê uma execução civil chegar ao fim, com a satisfação do
+credor. Quando não houver meios mais amenos para o executado, capazes de
+conduzir à satisfação do credor, que se apliquem os mais severos”.
+259
+ O novo
+Código de Processo Civil, atento à necessidade de se criarem mecanismos para
+minimizar os conflitos entre o princípio da efetividade da execução e o da menor
+onerosidade ao devedor, promoveu algumas al
+[/PAGINA 675]
+
+[PAGINA 676]
+terações no procedimento
+executivo. O art. 805, por exemplo – correspondente ao art. 620 do CPC/1973 –,
+traz, em seu parágrafo único, regra destinada ao executado que eventualmente
+alegar maior gravosidade da medida executiva. A inclusão desse dispositivo
+suaviza a aplicabilidade desse princípio e, ao mesmo tempo, valoriza a efetividade
+da execução. Isso porque, apesar de o legislador possibilitar a substituição da
+medida executiva mais gravosa, determina que o próprio executado (devedor)
+indique meio equivalente para a satisfação do crédito. Em suma, não há mais
+espaço para alegações sem a devida indicação da medida igualmente eficaz à
+efetivação do direito do credor.
+Capítulo II
+Da Execução para a Entrega de Coisa
+Seção I
+Da Entrega de Coisa Certa
+ 
+CPC/2015CPC/1973
+Art. 806. O devedor de obrigação de entrega de
+coisa certa, constante de título executivo
+extrajudicial, será citado para, em 15 (quinze) dias,
+satisfazer a obrigação.
+§ 1º Ao despachar a inicial, o juiz poderá fixar
+Art. 621. O devedor de obrigação de entrega de
+coisa certa, constante de título executivo
+extrajudicial, será citado para, dentro de 10 (dez)
+dias, satisfazer a obrigação ou, seguro o juízo (art.
+737, II), apresentar embargos.
+1010
+
+multa por dia de atraso no cumprimento da
+obrigação, ficando o respectivo valor sujeito a
+alteração, caso se revele insuficiente ou excessivo.
+§ 2º Do mandado de citação constará ordem para
+imissão na posse ou busca e apreensão,
+conforme se tratar de bem imóvel ou móvel,
+cujo cumprimento se dará de imediato, se o
+executado não satisfizer a obrigação no
+prazo que lhe foi designado.
+Parágrafo único. O juiz, ao despachar a inicial,
+poderá fixar multa por dia de atraso no
+cumprimento da obrigação, ficando o respectivo
+valor sujeito a alteração, caso se revele insuficiente
+ou excessivo.
+Art. 625. Não sendo a coisa entregue ou depositada,
+nem admitidos embargos suspensivos da execução,
+expedir-se-á, em favor do credor, mandado de
+imissão na posse ou de busca e apreensão,
+conforme se tratar de imóvel ou de móvel.
+COMENTÁRIOS:
+Execução para entrega de coisa. A execução para entrega de coisa
+(automóvel, fazenda), constante de título extrajudicial, desdobra-se em execução
+para entrega de coisa certa e execução para entrega de coisa incerta. Tanto em
+uma quanto em outra, a prestação estabelecida no título executivo extrajudicial é
+de dar, prestar ou restituir.
+Prazo para cumpr imento da obrigação e fixação de mult a na execução
+para entrega de coisa certa. O prazo para que o executado satisfaça
+voluntariamente a obrigação de entregar coisa certa passou de dez para quinze
+dias. O juiz, ao despachar a inicial, determinando a citação, poderá fixar multa
+por dia de atraso no cumprimento da obrigação, ficando o respectivo valor sujeito
+a alteração, caso se revele insuficiente ou excessivo. Apesar de o Código utilizar
+a expressão “poderá”, não se trata de poder discricionário. O despacho que
+determina a citação deverá fixar a multa.
+Observe-se que o procedim
+[/PAGINA 676]
+
+[PAGINA 677]
+ento da execução para entrega de coisa constante
+de título extrajudicial contempla um sistema misto de coerção e sub-rogação. A
+multa visa pressionar o devedor a entregar a coisa, de modo que, se o valor
+fixado não for suficiente para influir no ânimo do devedor, poderá ser elevado,
+estabelecendo inclusive valores diferenciados dependendo do período de atraso;
+ao contrário, se o valor se revelar excessivo, poderá haver redução. Saliente-se
+que a multa não substitui a obrigação principal. Assim, mesmo adimplindo a
+obrigação, porém fora do prazo fixado, será devida a multa, devendo a execução
+prosseguir, todavia, por quantia certa.
+1011
+
+Requisito especial do mandado de citação. A novidade é que a ordem de
+imissão na posse ou de busca e apreensão constará no próprio mandado de
+citação, simplificando o procedimento e conferindo-lhe maior efetividade. O
+transcurso do prazo de quinze dias sem o cumprimento da obrigação será
+suficiente para que a ordem de imissão na posse ou de busca e apreensão seja
+cumprida imediatamente.
+Ressalte-se que, apesar de o art. 621 do CPC/1973 condicionar a
+apresentação de embargos à prévia garantia do juízo, doutrina e jurisprudência já
+consideravam inaplicável essa regra por conta da revogação do art. 737
+(CPC/1973) pela Lei nº 11.382/2006.
+260
+ Por conta desse mesmo entendimento, os
+arts. 622 e 623 do CPC/1973
+261
+ não foram reproduzidos pelo CPC/2015.
+ 
+CPC/2015CPC/1973
+Art. 807. Se o executado entregar a coisa, será
+lavrado o termo respectivo e considerada satisfeita
+a obrigação, prosseguindo-se a execução para o
+pagamento de frutos ou o ressarcimento de
+prejuízos, se houver.
+Art. 624. Se o executado entregar a coisa, lavrar-
+se-á o respectivo termo e dar-se-á por finda a
+execução, salvo se esta tiver de prosseguir para o
+pagamento de frutos ou ressarcimento de
+prejuízos.
+Art. 808. Alienada a coisa quando já litigiosa, será
+expedido mandado contra o terceiro adquirente,
+que somente será ouvido após depositá-la.
+Art. 626. Alienada a coisa quando já litigiosa,
+expedir-se-á mandado contra o terceiro
+adquirente, que somente será ouvido depois de
+depositá-la.
+Art. 809. O exequente tem direito a receber, além
+de perdas e danos, o valor da coisa, quando essa se
+deteriorar, não lhe for entregue, não for
+encontrada ou não for reclamada do poder de
+terceiro adquirente.
+§ 1º Não constando do título o valor da coisa e
+sendo impossível sua avaliação, o exequente
+apresentará estimativa, sujeitando-a ao
+arbitramento judicial.
+§ 2º Serão apurados em liquidação o valor da coisa
+e os prejuízos.
+Art. 627. O credor tem direito a receber, além de
+perdas e danos, o valor da coisa, quando esta não
+lhe for entregue, se deteriorou, não for encontrada
+ou não for reclamada do poder de terceiro
+adquirente.
+§ 1º Não constando do título o valor da coisa, ou
+sendo impossível a sua avaliação, o exequente far-
+lhe-á a estimativa, sujeitando-se ao arbitramento
+judicial.
+§ 2º Serão apurados em liquidação o valor da coisa
+e os prejuízos.
+1012
+
+Art. 810.
+[/PAGINA 677]
+
+[PAGINA 678]
+Havendo benfeitorias indenizáveis feitas
+na coisa pelo executado ou por terceiros de cujo
+poder ela houver sido tirada, a liquidação prévia é
+obrigatória.
+Parágrafo único. Havendo saldo:
+I – em favor do executado ou de terceiros, o
+exequente o depositará ao requerer a entrega da
+coisa;
+II – em favor do exequente, esse poderá cobrá-lo
+nos autos do mesmo processo.
+Art. 628. Havendo benfeitorias indenizáveis feitas
+na coisa pelo devedor ou por terceiros, de cujo
+poder ela houver sido tirada, a liquidação prévia é
+obrigatória. Se houver saldo em favor do devedor,
+o credor o depositará ao requerer a entrega da
+coisa; se houver saldo em favor do credor, este
+poderá cobrá-lo nos autos do mesmo processo.
+COMENTÁRIOS AOS ARTS. 807 A 810:
+Atitudes do devedor. Citado, o devedor pode assumir uma das seguintes
+atitudes: (i) entregar a coisa, lavrando-se, nesse caso, o respectivo termo e
+extinguindo-se a execução, exceto se o título estabelecer o pagamento de frutos
+e/ou ressarcimento de prejuízos, bem como se houver incidência de multa em
+decorrência de a entrega da coisa não ter sido efetuada no prazo, hipóteses em que
+a execução transmuda-se em execução por quantia certa, exigindo a prévia
+liquidação, se for o caso (art. 807); (ii) defender-se por meio de embargos,
+independentemente de prévia garantia (art. 914, caput). O depósito da coisa, no
+entanto, faz-se necessário quando o executado pretender que seja conferido efeito
+suspensivo aos embargos (art. 919, § 1º); (iii) permanecer inerte. Nessa última
+hipótese, não sendo a coisa entregue ou não tendo sido deferido efeito suspensivo
+aos embargos, iniciam-se os atos executivos tendentes à satisfação do credor.
+Na execução para entrega de coisa certa, o meio empregado é o
+desapossamento. Este é realizado com ato de busca e apreensão do bem, em caso
+de bem móvel, ou com ato de imissão do exequente na posse do bem objeto da
+execução, em caso de imóvel. Encontrado o bem e estando em perfeitas
+condições, fica satisfeita a obrigação. Se a coisa tiver sido alienada, expedir-se-á
+mandado contra o terceiro adquirente, que somente será ouvido após depositá-la
+(art. 808).
+Na impossibilidade de receber a coisa, seja porque se deteriorou, não foi
+encontrada ou não foi reclamada do terceiro adquirente, o credor tem direito ao
+1013
+
+seu valor e às perdas e danos (art. 809), convertendo-se o procedimento em
+execução por quantia certa. Nesse caso, proceder-se-á à liquidação incidente, para
+determinação do valor da coisa e, por conseguinte, do montante devido a título de
+perdas e danos.
+Se houver benfeitorias a serem indenizadas, terá o devedor direito à retenção,
+hipótese em que a execução só prosseguirá depois do depósito do valor daquelas.
+Apurado saldo em favor do executado ou de terceiros, o credor deverá depositá-lo
+em juízo para que possa levantar a coisa. Já se o saldo for favorável ao
+exequente/credor, este poderá cobrá-lo nos autos da execução (art. 810, parágrafo
+único, II).
+Seção II
+Da Entrega de Coisa Incerta
+[/PAGINA 678]
+
+[PAGINA 679]
+CPC/2015CPC/1973
+Art. 811. Quando a execução recair sobre coisa
+determinada pelo gênero e pela quantidade, o
+executado será citado para entregá-la
+individualizada, se lhe couber a escolha.
+Parágrafo único. Se a escolha couber ao exequente,
+esse deverá indicá-la na petição inicial.
+Art. 629. Quando a execução recair sobre coisas
+determinadas pelo gênero e quantidade, o devedor
+será citado para entregá-las individualizadas, se
+lhe couber a escolha; mas se essa couber ao credor,
+este a indicará na petição inicial.
+Art. 812. Qualquer das partes poderá, no prazo de
+15 (quinze) dias, impugnar a escolha feita pela
+outra, e o juiz decidirá de plano ou, se necessário,
+ouvindo perito de sua nomeação.
+Art. 630. Qualquer das partes poderá, em 48
+(quarenta e oito) horas, impugnar a escolha feita
+pela outra, e o juiz decidirá de plano, ou, se
+necessário, ouvindo perito de sua nomeação.
+Art. 813. Aplicar-se-ão à execução para entrega de
+coisa incerta, no que couber, as disposições da
+Seção I deste Capítulo.
+Art. 631. Aplicar-se-á à execução para entrega de
+coisa incerta o estatuído na seção anterior.
+COMENTÁRIOS AOS ARTS. 811 A 813:
+1014
+
+Execução para entrega de coisa incerta. Quando se tratar de coisa
+determinada pelo gênero e quantidade (uma vaca do rebanho de um grande
+criador, por exemplo), antes de proceder à execução propriamente dita é
+indispensável a escolha da coisa, ou seja, a concentração da obrigação. Essa
+peculiaridade caracteriza o procedimento da execução para entrega de coisa
+incerta, que é regulada pelos arts. 811 a 813. Quanto ao mais, tal execução rege-
+se pelas normas da execução para entrega de coisa certa (art. 813).
+Escolha do objeto. Competirá a escolha ao credor ou ao devedor, conforme
+dispuser o título. Se nada dispuser, a escolha pertencerá ao devedor (art. 244 do
+CC).
+Se a escolha couber ao credor, competirá a ele indicar a coisa na petição
+inicial, seguindo-se a citação do devedor, para, dentro de quinze dias, satisfazer a
+obrigação ou apresentar embargos (art. 806), os quais, em regra, não terão efeito
+suspensivo (art. 919).
+Cabendo a escolha ao devedor, este será citado para entregá-la
+individualizada (art. 811). Qualquer das partes poderá, em quinze dias, impugnar
+a escolha feita pela outra, e o juiz decidirá de plano ou, se necessário, ouvindo
+perito de sua nomeação (art. 812).
+O devedor não está obrigado a escolher a melhor coisa, mas também não
+poderá dar a pior. Igualmente, o credor não pode escolher a melhor nem está
+obrigado a aceitar a pior. Procedimento semelhante é adotado quando se trata de
+prestação decorrente de obrigação alternativa, ou seja, daquela que contém duas
+ou mais prestações com objetos distintos, da qual o devedor se libera com o
+cumprimento de uma só delas, mediante escolha sua ou do credor.
+Nas obrigações alternativas, que podem ser de dar, fazer ou não fazer (por
+exemplo, o dever de construir uma casa ou pagar quantia equivalente ao seu
+valor), quando a escolha couber ao devedor, este será citado para
+[/PAGINA 679]
+
+[PAGINA 680]
+exercer a opção
+e realizar a prestação no prazo de dez dias, se outro prazo não lhe foi determinado
+em lei ou em contrato (art. 800). Se a escolha couber ao credor, a petição inicial
+da execução indicará a coisa a ser entregue (art. 800, § 2º).
+Capítulo III
+Da Execução das Obrigações de Fazer ou de Não
+Fazer
+1015
+
+Seção I
+Disposições Comuns
+ 
+CPC/2015CPC/1973
+Art. 814. Na execução de obrigação de fazer ou de
+não fazer fundada em título extrajudicial, ao
+despachar a inicial, o juiz fixará multa por período
+de atraso no cumprimento da obrigação e a data a
+partir da qual será devida.
+Parágrafo único. Se o valor da multa estiver
+previsto no título e for excessivo, o juiz poderá
+reduzi-lo.
+Art. 645. Na execução de obrigação de fazer ou não
+fazer, fundada em título extrajudicial, o juiz, ao
+despachar a inicial, fixará multa por dia de atraso
+no cumprimento da obrigação e a data a partir da
+qual será devida.
+Parágrafo único. Se o valor da multa estiver
+previsto no título, o juiz poderá reduzi-lo se
+excessivo.
+COMENTÁRIOS:
+Obrigação de fazer e de não fazer. Obrigação de fazer é aquela em que o
+devedor se comprometeu a prestar um ato positivo, por exemplo, construir um
+muro, escrever um livro. Obrigação de não fazer é aquela em que o devedor
+assume o compromisso de se abster de praticar determinado ato, como não
+construir edifício com mais de três andares, não impedir a passagem do vizinho.
+Quando os títulos judiciais (sentença ou acórdão) dirimem lide referente a
+tais modalidades de obrigação, na hipótese de procedência do pedido, não só
+contêm a condenação do réu, mas também um mandamento, uma ordem, no
+sentido de que o preceito seja imediatamente cumprido ou efetivado,
+independentemente de instauração de processo executivo. O inadimplemento do
+comando judicial sujeita o devedor ao pagamento de multa periódica (astreintes)
+ou a outras medidas previstas no art. 536 (por exemplo, busca e apreensão,
+remoção de pessoas e coisas, desfazimento de obras, impedimento de atividade
+nociva. Caso necessário, é possível a requisição de força policial).
+Tratando-se de título executivo extrajudicial, como não há prévia
+condenação, o despacho de recebimento da petição inicial é que conterá o
+mandamento relativo ao cumprimento da obrigação pactuada, sob pena de multa.
+Multa. Na execução de obrigação de fazer ou de não fazer constituída por
+1016
+
+meio de título extrajudicial, não é necessária a prévia intimação do devedor para
+cobrança da multa, já que, nos termos do art. 814, este é citado para satisfazer a
+obrigação – isto é, fazer, abster-se de fazer ou desfazer aquilo a que se obrigou a
+não fazer –, e o juiz, já no despacho da petição inicial, fixa a multa e a data a
+partir da qual ela será devida.
+Seção II
+Da Obrigação de Fazer
+ 
+CPC/2015CPC/1973
+Art. 815. Quando o objeto da execução for
+obrigação de fazer, o executado será citado para
+satisfazê-la no prazo que o juiz lhe designar, se
+outro não estiver determinado no título executivo.
+Art. 632. Quando o objeto da ex
+[/PAGINA 680]
+
+[PAGINA 681]
+ecução for
+obrigação de fazer, o devedor será citado para
+satisfazê-la no prazo que o juiz lhe assinar, se
+outro não estiver determinado no título executivo.
+COMENTÁRIOS:
+Execução das obrigações de fazer. Quando o objeto da execução for
+obrigação de fazer (pouco importa a natureza da prestação), o executado será
+citado para satisfazê-la no prazo que o juiz lhe assinar, se outro não estiver
+determinado no título (art. 815). O juiz, ao despachar a inicial, determinando a
+citação, fixará multa por dia de atraso no cumprimento da obrigação e a data a
+partir da qual será devida (art. 814), independentemente de previsão no título. O
+valor da multa fixada pelo juiz pode ou não corresponder ao eventualmente
+previsto no título, cabendo, em qualquer hipótese, a elevação ou a redução,
+sempre tendo em vista o objetivo da sanção, que é sensibilizar o devedor de que
+vale a pena cumprir a obrigação no prazo assinado (art. 814, parágrafo único).
+Não cumprido o preceito a tempo e modo, devida é a multa.
+Multa em valor superior ao da obrigação principal. De acordo com o STJ
+(Informativo 562), é possível exigir valor de multa cominatória superior ao
+montante da obrigação principal. “Para a corte a apuração da razoabilidade e da
+proporcionalidade do valor da multa diária deve ser verificada no momento de sua
+fixação em cotejo com o valor da obrigação principal. Com efeito, a redução do
+montante total a título de astreintes, quando superior ao valor da obrigação
+1017
+
+principal, acaba por prestigiar a conduta de recalcitrância do devedor em cumprir
+as decisões judiciais, bem como estimula a interposição de recursos com esse
+fim, em total desprestígio da atividade jurisdicional das instâncias ordinárias.”
+ 
+CPC/2015CPC/1973
+Art. 816. Se o executado não satisfizer a obrigação
+no prazo designado, é lícito ao exequente, nos
+próprios autos do processo, requerer a satisfação da
+obrigação à custa do executado ou perdas e danos,
+hipótese em que se converterá em indenização.
+Parágrafo único. O valor das perdas e danos será
+apurado em liquidação, seguindo-se a execução
+para cobrança de quantia certa.
+Art. 633. Se, no prazo fixado, o devedor não
+satisfizer a obrigação, é lícito ao credor, nos
+próprios autos do processo, requerer que ela seja
+executada à custa do devedor, ou haver perdas e
+danos; caso em que ela se converte em
+indenização.
+Parágrafo único. O valor das perdas e danos será
+apurado em liquidação, seguindo-se a execução
+para cobrança de quantia certa.
+COMENTÁRIOS:
+Meio  alternativo de satisfação da obrigação. Caso o executado não
+satisfaça a obrigação nem oponha embargos (ou se estes forem rejeitados), é
+lícito ao credor, nos próprios autos do processo, requerer que o “fazer” ou o
+“desfazer” seja executado à custa do executado, ou haver perdas e danos, caso em
+que ela se converte em indenização (art. 816). As perdas e danos serão apuradas
+em liquidação, seguindo-se a execução para cobrança da quantia certa apurada.
+Nem sempre, entretanto, é possível satisfazer a obr
+[/PAGINA 681]
+
+[PAGINA 682]
+igação, por intermédio de
+outra pessoa, à custa do devedor. É que as obrigações de fazer podem ser de dois
+tipos: obrigações de fazer com prestação fungível e obrigações de fazer com
+prestação não fungível.
+Prestação fungível é aquela que pode ser satisfeita por pessoa diversa do
+devedor, por exemplo, a construção de um muro ou o conserto de um automóvel.
+Nessa hipótese, interessa ao credor apenas o resultado final da atividade. Não
+fungível é a obrigação que somente pode ser satisfeita pelo devedor, seja em
+razão de suas habilidades, seja em razão dos termos do contrato (art. 821). A
+pintura de um quadro por um pintor famoso e prestação de serviço em razão de
+contrato de trabalho constituem exemplos de obrigação não fungível. Nessa
+modalidade de obrigação, havendo recusa ou mora do devedor, poderá o credor
+1018
+
+requerer a conversão em perdas e danos (art. 821, parágrafo único).
+Assim, tratando-se de prestação fungível, a obrigação pode ser adimplida
+pelo próprio devedor ou por terceiro, à custa do devedor, ou converter-se em
+perdas e danos. No caso de prestação não fungível, ou a obrigação é satisfeita
+pelo devedor, ou converte-se em perdas e danos.
+ 
+CPC/2015CPC/1973
+Art. 817. Se a obrigação puder ser satisfeita por
+terceiro, é lícito ao juiz autorizar, a requerimento
+do exequente, que aquele a satisfaça à custa do
+executado.
+Parágrafo único. O exequente adiantará as
+quantias previstas na proposta que, ouvidas as
+partes, o juiz houver aprovado.
+Art. 634. Se o fato puder ser prestado por terceiro,
+é lícito ao juiz, a requerimento do exequente,
+decidir que aquele o realize à custa do executado.
+Parágrafo único. O exequente adiantará as
+quantias previstas na proposta que, ouvidas as
+partes, o juiz houver aprovado.
+Art. 818. Realizada a prestação, o juiz ouvirá as
+partes no prazo de 10 (dez) dias e, não havendo
+impugnação, considerará satisfeita a obrigação.
+Parágrafo único. Caso haja impugnação, o juiz a
+decidirá.
+Art. 635. Prestado o fato, o juiz ouvirá as partes no
+prazo de 10 (dez) dias; não havendo impugnação,
+dará por cumprida a obrigação; em caso contrário,
+decidirá a impugnação.
+Art. 819. Se o terceiro contratado não realizar a
+prestação no prazo ou se o fizer de modo
+incompleto ou defeituoso, poderá o exequente
+requerer ao juiz, no prazo de 15 (quinze) dias, que o
+autorize a concluí-la ou a repará-la à custa do
+contratante.
+Parágrafo único. Ouvido o contratante no prazo de
+15 (quinze) dias, o juiz mandará avaliar o custo das
+despesas necessárias e o condenará a pagá-lo.
+Art. 636. Se o contratante não prestar o fato no
+prazo, ou se o praticar de modo incompleto ou
+defeituoso, poderá o credor requerer ao juiz, no
+prazo de 10 (dez) dias, que o autorize a concluí-lo,
+ou a repará-lo, por conta do contratante.
+Parágrafo único. Ouvido o contratante no prazo de
+5 (cinco) dias, o juiz mandará avaliar o custo das
+despesas necessárias e condenará o contratante a
+pagá-lo.
+Art. 820. Se o exequente quiser executar ou mandar
+executar, sob sua direção e
+[/PAGINA 682]
+
+[PAGINA 683]
+vigilância, as obras e os
+trabalhos necessários à realização da prestação,
+Art. 637. Se o credor quiser executar, ou mandar
+executar, sob sua direção e vigilância, as obras e
+trabalhos necessários à prestação do fato, terá
+1019
+
+terá preferência, em igualdade de condições de
+oferta, em relação ao terceiro.
+Parágrafo único. O direito de preferência deverá ser
+exercido no prazo de 5 (cinco) dias, após aprovada
+a proposta do terceiro.
+preferência, em igualdade de condições de oferta,
+ao terceiro.
+Parágrafo único. O direito de preferência será
+exercido no prazo de 5 (cinco) dias, contados da
+apresentação da proposta pelo terceiro (art. 634,
+parágrafo único).
+COMENTÁRIOS AOS ARTS. 817 A 820:
+Execução de prestação fungível. Havendo opção pela execução à custa do
+devedor, o credor apresentará proposta que, ouvidas as partes, será submetida à
+aprovação do juiz (art. 817, parágrafo único). Aprovada a proposta, o exequente
+adiantará as quantias nela previstas, para pagamento do contratante, prestador do
+fato. Se o credor quiser executar, ou mandar executar, sob sua direção e
+vigilância, as obras e trabalhos necessários à prestação do fato, terá preferência,
+em igualdade de condições de oferta, ao terceiro (art. 820).
+Inadimplemento do terceiro. Se o terceiro deixar de prestar o fato ou
+prestá-lo de forma incompleta ou defeituosa, poderá o exequente, no prazo de
+quinze dias, requerer autorização ao juiz para concluir a prestação, à custa do
+contratante (no caso, do executado). O que muda com o CPC/2015 são os prazos
+para requerer a referida autorização e para a posterior manifestação do executado
+acerca das despesas necessárias à execução ou à complementação do trabalho que
+deixou de ser realizado pelo terceiro contratado (art. 819).
+Direito de preferência. Em razão do princípio da menor onerosidade ao
+executado, à custa de quem correrão as despesas para o cumprimento da prestação
+realizada por terceiro, o direito de preferência previsto no art. 820 só poderá ser
+exercido se igual ou menor for o ônus gerado pela proposta realizada por terceiro.
+O prazo para exercício do direito de preferência – concedido ao exequente – é
+o mesmo do CPC/1973, e o seu termo a quo passará a ser o da aprovação da
+proposta ofertada pelo terceiro e não o da sua mera apresentação.
+ 
+CPC/2015CPC/1973
+Art. 821. Na obrigação de fazer, quando se
+convencionar que o executado a satisfaça
+pessoalmente, o exequente poderá requerer ao juiz
+Art. 638. Nas obrigações de fazer, quando for
+convencionado que o devedor a faça
+pessoalmente, o credor poderá requerer ao juiz
+1020
+
+que lhe assine prazo para cumpri-la.
+Parágrafo único. Havendo recusa ou mora do
+executado, sua obrigação pessoal será convertida
+em perdas e danos, caso em que se observará o
+procedimento de execução por quantia certa.
+que lhe assine prazo para cumpri-la.
+Parágrafo único. Havendo recusa ou mora do
+devedor, a obrigação pessoal do devedor
+converter-se-á em perdas e danos, aplicando-se
+outrossim o disposto no art. 633.
+COMENT
+[/PAGINA 683]
+
+[PAGINA 684]
+ÁRIOS:
+Prestação infungível. Prestação fungível é aquela que pode ser satisfeita
+por pessoa diversa do devedor, por exemplo, a construção de um muro ou o
+conserto de um automóvel. Nessa hipótese, interessa ao credor apenas o resultado
+final da atividade.
+Não fungível é a obrigação que somente pode ser satisfeita pelo devedor,
+seja em razão de suas habilidades, seja em razão dos termos do contrato (art.
+821). A pintura de um quadro por um pintor famoso e a prestação de serviço em
+razão de contrato de trabalho constituem exemplos de obrigação não fungível.
+Nessa modalidade de obrigação, havendo recusa ou mora do devedor, poderá o
+credor requerer a conversão em perdas e danos (art. 821, parágrafo único).
+Assim, tratando-se de prestação fungível, a obrigação pode ser adimplida
+pelo próprio devedor ou por terceiro, à custa do devedor, ou converter-se em
+perdas e danos. No caso de prestação não fungível, ou a obrigação é satisfeita
+pelo devedor, ou converte-se em perdas e danos.
+Seção III
+Da Obrigação de Não Fazer
+ 
+CPC/2015CPC/1973
+Art. 822. Se o executado praticou ato a cuja
+abstenção estava obrigado por lei ou por contrato,
+o exequente requererá ao juiz que assine prazo ao
+executado para desfazê-lo.
+Art. 642. Se o devedor praticou o ato, a cuja
+abstenção estava obrigado pela lei ou pelo
+contrato, o credor requererá ao juiz que lhe assine
+prazo para desfazê-lo.
+1021
+
+COMENTÁRIOS:
+Objeto  da execução de obrigação de não fazer. O objeto da
+execução da obrigação de não fazer consiste num desfazer. Se o executado
+praticou o ato, a cuja abstenção estava obrigado pela lei ou pelo contrato, o
+exequente requererá ao juiz que lhe assine prazo para desfazê-lo.
+ 
+CPC/2015CPC/1973
+Art. 823. Havendo recusa ou mora do executado, o
+exequente requererá ao juiz que mande desfazer o
+ato à custa daquele, que responderá por perdas e
+danos.
+Parágrafo único. Não sendo possível desfazer-se o
+ato, a obrigação resolve-se em perdas e danos,
+caso em que, após a liquidação, se observará
+o procedimento de execução por quantia
+certa.
+Art. 643. Havendo recusa ou mora do devedor, o
+credor requererá ao juiz que mande desfazer o ato
+à sua custa, respondendo o devedor por perdas e
+danos.
+Parágrafo único. Não sendo possível desfazer-se o
+ato, a obrigação resolve-se em perdas e danos.
+COMENTÁRIOS:
+Prestação negativa instantânea. Se a prestação negativa for daquelas que a
+doutrina denomina “instantânea”, por exemplo, a decorrente de obrigação de não
+cantar num determinado local, em face da impossibilidade de se retornar ao status
+quo ante, a obrigação resolve-se em perdas e danos, caso em que, após a
+liquidação (se necessário), observar-se-á o procedimento relativo à execução por
+quantia certa (art. 823).
+Prestação negativa permanente. Tratando-se de execução da obrigação de
+não fazer permanente (por exemplo, a pessoa se obrigou a não construir e
+constrói), pode ser executada especificamente com o desfazimento do que se fez
+ou com a conversão em perdas e danos. Quanto ao desfazimento, po
+[/PAGINA 684]
+
+[PAGINA 685]
+de ser
+realizado por terceiro, à custa do devedor, aplicando-se o art. 816 e seguintes.
+Qualquer que seja a natureza da prestação executada, é lícito ao devedor opor
+embargos no prazo de quinze dias, contado, conforme o caso, na forma do art.
+231.
+1022
+
+Capítulo IV
+Da Execução por Quantia Certa
+Seção I
+Disposições Gerais
+ 
+CPC/2015CPC/1973
+Art. 824. A execução por quantia certa realiza-se
+pela expropriação de bens do executado,
+ressalvadas as execuções especiais.
+Art. 646. A execução por quantia certa tem por
+objeto expropriar bens do devedor, a fim de
+satisfazer o direito do credor (art. 591).
+COMENTÁRIOS:
+Noções gerais. A expropriação de bens é meio de satisfação de crédito
+objeto de execução por quantia certa. Para as execuções especiais (contra a
+Fazenda Pública, por exemplo), a satisfação se dará de forma diversa.
+O procedimento da execução por quantia certa, que, em regra, culmina com a
+entrega, ao credor, de quantia em dinheiro, desenvolve-se em quatro fases: a fase
+da proposição (ajuizamento), a da apreensão de bens (penhora, que pode ser
+antecedida por arresto), a da expropriação (leilão) e a do pagamento.
+ 
+CPC/2015CPC/1973
+Art. 825. A expropriação consiste em:
+I – adjudicação;
+II – alienação;
+III – apropriação de frutos e rendimentos de
+empresa ou de estabelecimentos e de outros bens.
+Art. 647. A expropriação consiste:
+I – na adjudicação em favor do exequente ou das
+pessoas indicadas no § 2º do art. 685-A desta Lei;
+II – na alienação por iniciativa particular;
+III – na alienação em hasta pública;
+IV – no usufruto de bem móvel ou imóvel.
+1023
+
+COMENTÁRIOS:
+Expropriação.  Consiste no ato pelo qual o Estado-juízo, para
+satisfação do direito de crédito, desapossa o devedor de seus bens, converte esses
+bens em dinheiro ou simplesmente transfere o domínio deles ao credor.
+Se o ato de apreensão recai sobre dinheiro, a expropriação é mais
+simplificada. Nesse caso, não havendo embargos do devedor ou sendo estes
+julgados improcedentes, passa-se, de imediato, ao pagamento do credor.
+Entretanto, tratando-se de bens de natureza diferente de dinheiro, torna-se
+necessária a observância de um procedimento expropriatório, a fim de que o
+credor possa receber o seu crédito, seja com a transferência a ele do domínio do
+bem penhorado, com o pagamento da quantia que lhe é devida ou com a
+apropriação dos frutos e rendimentos da coisa penhorada.
+Adjudicação. Na lição de Cândido Rangel Dinamarco,
+262
+ consiste na
+transferência do bem penhorado ao patrimônio do exequente, para satisfação de
+seu crédito. Tal como a alienação por iniciativa particular ou em leilão (art. 879, I
+e II) e a apropriação dos frutos e rendimentos, a adjudicação é uma forma de
+expropriação, de alienação forçada. Nas demais modalidades de expropriação, o
+crédito do exequente é satisfeito com o produto da alienação ou com valores
+relativos aos frutos e rendimentos da coisa; na adjudicação, o pagamento se dá
+com a transferência do domínio, assemelhando-se a uma dação em pagamento
+forçada. D
+[/PAGINA 685]
+
+[PAGINA 686]
+igo “forçada” porque se trata de transferência judicial e compulsória do
+bem penhorado, e não de negócio jurídico particular.
+Alienação. A primeira forma de expropriação dos bens penhorados, a
+adjudicação, dá-se mediante requerimento e depósito do preço. Pode ser que a
+adjudicação não se concretize, seja porque os legitimados não dispõem da quantia
+necessária ao depósito ou, por outros motivos, não se interessam em adquirir o
+bem. Muito bem. Frustrada a adjudicação, passa-se à segunda modalidade de
+expropriação, que consiste na alienação, a qual pode ocorrer por iniciativa
+particular ou em leilão judicial eletrônico ou presencial. As modalidades de
+alienação constantes no CPC/1973 também foram mantidas pela nova legislação.
+É que, apesar de não estarem expressamente previstas no novo art. 827, estão
+enunciadas no art. 879
+263
+ do CPC/2015.
+Apropriação de frutos e rendimentos. O usufruto de bem móvel ou imóvel
+foi substituído pela expropriação, a qual o CPC/2015 nomeou de “apropriação de
+frutos e rendimentos de empresa ou estabelecimentos e de outros bens”. Essa
+modalidade de expropriação deve ocorrer quando a penhora não se voltar para o
+1024
+
+próprio bem, mas para os frutos ou rendimentos que ele tem condições de
+produzir. Nesses casos, as receitas oriundas do bem imóvel ou móvel serão
+transferidas ao credor até que o seu crédito seja plenamente satisfeito.
+Ao comentar esse dispositivo, Humberto Theodoro Júnior nos esclarece que
+“é muito mais prático e menos oneroso fazer incidir a penhora diretamente sobre
+os frutos, do que constituir em direito real de usufruto, para que o credor, como
+usufrutuário, possa extrair a renda que irá resgatar o crédito exequendo”.
+264
+ A
+intenção do novo Código é simplificar o procedimento e, na prática, deixá-lo apto
+a ser utilizado com maior frequência do que o usufruto judicial.
+ 
+CPC/2015CPC/1973
+Art. 826. Antes de adjudicados ou alienados os
+bens, o executado pode, a todo tempo, remir a
+execução, pagando ou consignando a importância
+atualizada da dívida, acrescida de juros, custas e
+honorários advocatícios.
+Art. 651. Antes de adjudicados ou alienados os
+bens, pode o executado, a todo tempo, remir a
+execução, pagando ou consignando a importância
+atualizada da dívida, mais juros, custas e
+honorários advocatícios.
+COMENTÁRIOS:
+Conceitos. Muito cuidado para não confundir remição de bens, remição da
+execução e remissão. “Remição de bens” é o instituto pelo qual se permite que se
+resgate o bem penhorado. A “remição da execução”, prevista no art. 826, é o ato
+pelo qual o executado deposita em juízo a coisa devida ou a quantia suficiente
+para pagamento do débito, o que acarreta a extinção da execução. “Remissão”
+significa ação ou efeito de remitir ou perdoar; por exemplo, perdão da dívida.
+Legitimidade. O executado ou qualquer interessado por remir a execução,
+desde que antes da adjudicação ou alienação (art. 304 do CC). Se, no entanto,
+qualquer desses atos (adjudicação ou alienação) for anulado, deve ser concedido
+no
+[/PAGINA 686]
+
+[PAGINA 687]
+vo prazo para o devedor remir a execução.
+Seção II
+Da citação do devedor e do arresto
+ 
+CPC/2015CPC/1973
+1025
+
+CPC/2015CPC/1973
+Art. 827. Ao despachar a inicial, o juiz fixará, de
+plano, os honorários advocatícios de dez por
+cento, a serem pagos pelo executado.
+§ 1º No caso de integral pagamento no prazo de 3
+(três) dias, o valor dos honorários advocatícios será
+reduzido pela metade.
+§ 2ºO valor dos honorários poderá ser elevado
+até vinte por cento, quando rejeitados os
+embargos à execução, podendo a majoração,
+caso não opostos os embargos, ocorrer ao
+final do procedimento executivo, levando-se
+em conta o trabalho realizado pelo advogado
+do exequente.
+Art. 652-A. Ao despachar a inicial, o juiz fixará, de
+plano, os honorários de advogado a serem pagos
+pelo executado (art. 20, § 4º)
+.
+Parágrafo único. No caso de integral pagamento
+no prazo de 3 (três) dias, a verba honorária será
+reduzida pela metade.
+COMENTÁRIOS:
+Fixação de honorários. O juiz, ao despachar a inicial, fixará os honorários
+advocatícios em 10% (dez por cento) sobre o valor da execução, não vigorando
+mais a regra do CPC/1973 que permitia o arbitramento segundo apreciação
+equitativa. Continua, no entanto, existindo a possibilidade de redução do valor
+pela metade, caso o devedor (executado) pague a dívida no prazo legal (três dias).
+Majoração dos honorários. A novidade está no § 2º, que admite a
+majoração dos honorários, até o limite de 20%, caso os embargos sejam
+rejeitados ou não tenham sido opostos pelo executado. Nesse caso, os honorários
+serão majorados segundo trabalho realizado pelo advogado, semelhante ao que
+ocorre no procedimento comum (art. 85, § 2º, do CPC/2015). Trata-se, portanto,
+de inovação que visa proteger a remuneração do advogado.
+Redução da verba honorária. Somente o pagamento integral (que
+compreende o valor do crédito atualizado e despesas processuais) permite a
+redução da verba honorária na forma do § 1º. Se houver solicitação de
+parcelamento (moratória legal do art. 916), não há possibilidade de redução.
+Não incidência da verba honorária. De acordo com o STJ (Informativo
+561), os honorários sucumbenciais fixados no despacho inicial de execução de
+1026
+
+título extrajudicial não podem ser cobrados do exequente, mesmo que, no
+decorrer do processo executivo, este tenha utilizado parte de seu crédito na
+arrematação de bem antes pertencente ao executado, sem reservar parcela para o
+pagamento de verba honorária. Para a Corte, o sucesso dos embargos importa a
+desconstituição do título exequendo e, consequentemente, interfere na respectiva
+verba honorária. Assim, tendo em vista que o resultado dos embargos influencia
+no resultado da execução, a fixação inicial dos honorários sucumbenciais na
+execução tem apenas caráter provisório.
+ 
+CPC/2015CPC/1973
+Art. 828. O exequente poderá obter certidão de que
+a execução foi admitida pelo juiz, com identificação
+das partes e do valor da causa, para fins de
+averbação no registro de imóveis, de veículos ou de
+outros bens sujeitos a p
+[/PAGINA 687]
+
+[PAGINA 688]
+enhora, arresto ou
+indisponibilidade.
+§ 1º No prazo de 10 (dez) dias de sua
+concretização, o exequente deverá comunicar ao
+juízo as averbações efetivadas.
+§ 2º Formalizada penhora sobre bens suficientes
+para cobrir o valor da dívida, o exequente
+providenciará, no prazo de 10 (dez) dias, o
+cancelamento das averbações relativas àqueles não
+penhorados.
+§ 3º O juiz determinará o cancelamento das
+averbações, de ofício ou a requerimento, caso o
+exequente não o faça no prazo.
+§ 4º Presume-se em fraude à execução a alienação
+ou a oneração de bens efetuada após a averbação.
+§ 5º O exequente que promover averbação
+manifestamente indevida ou não cancelar as
+averbações nos termos do § 2º indenizará a
+Art. 615-A. O exequente poderá, no ato da
+distribuição, obter certidão comprobatória do
+ajuizamento da execução, com identificação das
+partes e valor da causa, para fins de averbação no
+registro de imóveis, registro de veículos ou registro
+de outros bens sujeitos à penhora ou arresto.
+§ 1º O exequente deverá comunicar ao juízo as
+averbações efetivadas, no prazo de 10 (dez) dias
+de sua concretização.
+§ 2º Formalizada penhora sobre bens suficientes
+para cobrir o valor da dívida, será determinado o
+cancelamento das averbações de que trata este
+artigo relativas àqueles que não tenham sido
+penhorados.
+§ 3º Presume-se em fraude à execução a alienação
+ou oneração de bens efetuada após a averbação
+(art. 593)
+.
+§ 4º O exequente que promover averbação
+manifestamente indevida indenizará a parte
+contrária, nos termos do § 2º do art. 18 desta Lei,
+processando-se o incidente em autos apartados.
+1027
+
+•
+•
+parte contrária, processando-se o incidente em
+autos apartados.
+COMENTÁRIOS:
+Averbação premonitória. A chamada “averbação premonitória” foi
+introduzida no ordenamento processual pelo art. 615-A, inserido no CPC/1973
+pela Lei nº 11.382/2006. O dispositivo instituiu mais uma hipótese de averbação,
+junto às que já estavam previstas no art. 167, II, da Lei de Registros Públicos.
+De acordo com a redação do art. 615-A do CPC/1973, “o exequente poderá,
+no ato da distribuição, obter certidão comprobatória do ajuizamento da
+execução, com identificação das partes e valor da causa, para fins de averbação no
+registro de imóveis, registro de veículos ou registro de outros bens sujeitos à
+penhora ou arresto”. Tal averbação tem por fim estabelecer presunção absoluta de
+má-fé do adquirente nas hipóteses de fraude à execução.
+O novo Código de Processo Civil mantém o instituto, mas com uma
+importante diferença: a obtenção dessa certidão só será possível após a
+execução ser admit ida pelo juiz natural (ou seja, após o juízo de
+admissibilidade da execução). Não basta, portanto, o mero ajuizamento da
+execução, como previa o Código anterior. Em termos práticos, vejamos como era
+e como ficou esse procedimento:
+Procedimento no CPC/1973. O exequente, tão logo ajuizada a execução,
+pode requerer a certidão de distribuição do processo no setor de
+distribuição do Fórum ou na secretaria da vara, a depende
+[/PAGINA 688]
+
+[PAGINA 689]
+r do trâmite
+adotado pelo judiciário local. A averbação independerá de mandado
+judicial, bastando a certidão de distribuição da execução. O problema
+aqui era o seguinte: corria-se o risco de o distribuidor emitir certidão
+mesmo que a petição inicial estivesse incompleta, porquanto cabia apenas
+ao juiz verificar se havia (ou não) necessidade de emenda.
+Procedimento no CPC/2015. O exequente poderá obter a certidão
+somente depois de o juiz exarar o despacho inicial de citação do
+executado – com a ordem de citação, pressupõe-se que o juiz admitiu a
+execução. Assim, se o exequente propuser a demanda executiva e o juiz
+determinar a emenda da petição inicial na forma do art. 801, somente
+depois de nova apreciação judicial é que ele poderá pleitear a expedição
+da certidão. Não há, no entanto, necessidade de mandado judicial
+1028
+
+(decisão judicial) determinando a averbação.
+Averbação da certidão. A certidão poderá ser averbada pelo credor em
+qualquer cartório de registro público em que se observe a existência de bens em
+nome do executado (Cartórios de Registro de Imóveis, DETRAN, Comissão de
+Valores Mobiliários etc.), podendo recair sobre todas as espécies de bens sujeitos
+à penhora (imóveis, móveis, ações, quotas sociais etc.).
+Comunicação da averbação. O exequente deverá comunicar ao juízo as
+averbações efetivadas, no prazo de dez dias de sua concretização (§ 1º). À falta de
+sanção, forçoso é concluir que se trata de faculdade, não de ônus do exequente,
+apesar da utilização do verbo “dever”. Caso não faça a comunicação, nenhuma
+consequência jurídica haverá. Além disso, a falta de comunicação não atingirá a
+eficácia da averbação em relação a terceiros. As averbações porventura efetivadas
+surtirão efeito até a formalização da penhora (§ 2º), haja ou não comunicação ao
+juízo.
+Cancelamento da averbação. De acordo com o CPC/1973, após a
+efetivação da penhora sobre bens suficientes para cobrir o valor da execução,
+deveriam ser canceladas as averbações relativas aos bens que não tivessem sido
+penhorados. Não havia, porém, nenhum prazo ou para o referido cancelamento.
+O CPC/2015, na tentativa de evitar prejuízos desnecessários ao executado,
+determinou que o cancelamento das averbações relativas aos bens não penhorados
+é de responsabilidade do exequente, que deve fazê-las no prazo de 10 (dez) dias
+após a formalização da penhora. Caso o cancelamento não seja realizado nesse
+prazo, o juiz poderá determiná-lo de ofício ou mediante requerimento do
+executado.
+Tratando-se de bens imóveis, o cancelamento da averbação depende de
+requerimento ao tabelionato competente, que normalmente exige a apresentação de
+mandado judicial para efetivar o procedimento. Sendo assim, o prazo previsto na
+nova legislação (dez dias) não serve para que se conclua o cancelamento, mas
+para que o exequente (credor) o requeira perante a autoridade judiciária
+competente.
+Averbação manifestamente indevida. Ainda sobre a averbação da
+execução, dispõe o § 5º que o exequente que promover averbação m
+[/PAGINA 689]
+
+[PAGINA 690]
+anifestamente
+indevida, ou não cancelá-la na forma do § 2º do art. 828, indenizará a parte
+contrária, processando-se o incidente em autos apartados, não havendo
+necessidade de propositura de ação condenatória, a menos que se trate de
+terceiros.
+“Manifestamente indevida” significa que a averbação era notoriamente
+1029
+
+desnecessária. Por exemplo, procedeu-se à averbação na matrícula de determinado
+imóvel cujo valor é mais do que suficiente para garantir a execução. As
+averbações posteriores, dependendo do caso concreto, podem ser reputadas
+manifestamente indevidas.
+A responsabilidade do exequente por danos causados ao executado ou a
+terceiros, em razão de indevida averbação, é objetiva. Dispensa-se a demonstração
+de culpa. Basta ao executado, na própria ação de execução, requerer a
+indenização, mediante comprovação dos danos (que podem ser apurados
+incidentalmente) e do nexo de causalidade. Quando formulado pelo próprio
+executado ou alguma outra parte na execução, é incidental, com autuação em
+apartado.
+ 
+CPC/2015CPC/1973
+Art. 829. O executado será citado para pagar a
+dívida no prazo de 3 (três) dias, contado da
+citação.
+§ 1º Do mandado de citação constarão, também, a
+ordem de penhora e a avaliação a serem cumpridas
+pelo oficial de justiça tão logo verificado o não
+pagamento no prazo assinalado, de tudo lavrando-
+se auto, com intimação do executado.
+§ 2º A penhora recairá sobre os bens indicados pelo
+exequente, salvo se outros forem indicados pelo
+executado e aceitos pelo juiz, mediante
+demonstração de que a constrição proposta
+lhe será menos onerosa e não trará prejuízo
+ao exequente.
+Art. 652. O executado será citado para, no prazo de
+3 (três) dias, efetuar o pagamento da dívida.
+§ 1º Não efetuado o pagamento, munido da
+segunda via do mandado, o oficial de justiça
+procederá de imediato à penhora de bens e a sua
+avaliação, lavrando-se o respectivo auto e de tais
+atos intimando, na mesma oportunidade
+, o
+executado.
+§ 2º O credor poderá, na inicial da execução,
+indicar bens a serem penhorados (art. 655).
+§ 3º O juiz poderá, de ofício ou a requerimento do
+exequente, determinar, a qualquer tempo, a
+intimação do executado para indicar bens passíveis
+de penhora.
+COMENTÁRIOS:
+Citação. Porque o processo executivo tem por fim a simples realização do
+direito já definido no título exequendo, a citação não é para que o réu se defenda,
+mas sim para que efetive o pagamento no prazo de três dias (art. 829). O Novo
+CPC permite que essa citação seja realizada por correio, diferentemente do
+1030
+
+CPC/1973, que vedava essa espécie de comunicação no processo de execução
+autônomo (art. 247 do CPC/2015; art. 222 do CPC/1973). Na prática, em razão
+de os atos de penhora, avaliação e arresto dependerem da atuação do oficial de
+justiça, dificilmente a citação irá ocorrer por outro meio senão por oficial de
+justiça (art. 246, II).
+Termo inicial do prazo para pagamento. O CPC/2015 confirma o
+entendimento jurisprudencial que considera termo inicial para contagem do prazo
+para
+[/PAGINA 690]
+
+[PAGINA 691]
+pagamento da dívida o dia de efetiva realização da citação,
+265
+ e não o dia da
+juntada do mandado aos autos. Não se aplica aqui a regra do art. 231, segundo o
+qual, entre outras hipóteses, “considera-se dia do começo do prazo” a data da
+juntada aos autos do mandado de citação, da juntada de outros instrumentos
+citatórios. Assim, se o executado é citado numa terça-feira (pelo oficial de justiça
+ou pelo carteiro), seu prazo começa a correr a partir da quarta-feira, por força da
+regra geral prevista no art. 224. O prazo para pagar se encerrará, portanto, na
+sexta-feira. Se pagar nesse prazo, terá benefício da redução dos honorários.
+266
+Findo o prazo legal (três dias), o oficial de justiça realizará a penhora e avaliação
+dos bens, sem a necessidade de nova ordem judicial, porquanto no próprio
+mandado de citação já deve conter a ordem de penhora e avaliação (art. 829, § 1º).
+Na prática, o oficial de justiça guarda consigo o mandado e aguarda o transcurso
+do prazo para pagamento. Não pago o débito no prazo de três dias, procede à
+penhora em bens do devedor. Pode ocorrer, contudo, de a citação ter sido feita
+pelo correio, por carta precatória, por edital ou por meio eletrônico – o art. 246
+prevê as modalidades de citação e as circunstâncias em que elas podem incidir,
+não havendo restrição alguma quanto ao processo de execução. Nesses casos,
+embora não se afaste o impulso oficial – o que significa que, ultrapassado o prazo
+para pagamento, o juiz, de ofício, pode determinar a penhora –, recomenda-se que
+o exequente peticione no sentido de que se proceda à penhora. O advogado é o
+guardião-mor do processo e dos interesses da parte que representa. Essa é a sua
+missão constitucional. Age com ética, mas não coopera com a parte adversa,
+tampouco espera a cooperação do juiz.
+Bens sujeitos à penhora. A penhora deve incidir, como regra, sobre os
+bens indicados pelo exequente na petição inicial (art. 798, II, c, c/c o art. 829, §
+2º, primeira parte). A nova legislação também faculta ao executado a indicação de
+bens à penhora distintos daqueles apresentados pelo exequente, condicionando a
+substituição dos bens à demonstração da menor onerosidade e da ausência de
+prejuízo ao exequente (critérios que são reforçados pelo novo art. 847). Frise-se
+que para a substituição é indispensável a apreciação judicial.
+267
+1031
+
+Por fim, esclarece-se que as regras referentes à intimação da penhora (§§ 4º
+e 5º do art. 652 do CPC/1973) foram substituídas pelas disposições constantes
+nos §§ 1º e 2º do novo art. 841.
+ 
+CPC/2015CPC/1973
+Art. 830. Se o oficial de justiça não encontrar o
+executado, arrestar-lhe-á tantos bens quantos
+bastem para garantir a execução.
+§ 1º Nos 10 (dez) dias seguintes à efetivação do
+arresto, o oficial de justiça procurará o executado 2
+(duas) vezes em dias distintos e, havendo suspeita
+de ocultação, realizará a citação com hora
+certa, certificando pormenorizadamente o
+ocorrido.
+§ 2º Incumbe ao exequente requerer a citação por
+edital, uma vez frustradas a
+[/PAGINA 691]
+
+[PAGINA 692]
+pessoal e a com
+hora certa.
+§ 3º Aperfeiçoada a citação e transcorrido o prazo de
+pagamento, o arresto converter-se-á em penhora,
+independentemente de termo.
+Art. 653. O oficial de justiça, não encontrando o
+devedor, arrestar-lhe-á tantos bens quantos
+bastem para garantir a execução.
+Parágrafo único. Nos 10 (dez) dias seguintes à
+efetivação do arresto, o oficial de justiça procurará
+o devedor três vezes em dias distintos; não o
+encontrando, certificará o ocorrido.
+Art. 654. Compete ao credor, dentro de 10 (dez)
+dias, contados da data em que foi intimado do
+arresto a que se refere o parágrafo único do artigo
+anterior, requerer a citação por edital do devedor.
+Findo o prazo do edital, terá o devedor o prazo a que
+se refere o art. 652, convertendo-se o arresto em
+penhora em caso de não pagamento.
+COMENTÁRIOS:
+Arresto e citação. Se o oficial de justiça não encontrar o devedor para citá-
+lo, arrestar-lhe-ão tantos bens quantos bastem para garantir a execução (art. 830).
+Nos dez dias seguintes à efetivação do arresto, o oficial de justiça procurará o
+executado duas vezes em dias distintos para tentar realizar a citação; não o
+encontrando, e havendo suspeita de sua ocultação, realizará a citação com hora
+certa. O § 1º, em consonância com o entendimento construído pela doutrina
+268
+ e
+pela jurisprudência,
+269
+ passa a admitir a realização de citação por hora certa do
+devedor/executado.
+Se a citação por hora certa não lograr êxito, deverá o exequente requerer a
+citação por edital (§ 2º) para que, aperfeiçoada a citação ficta, inicie-se a
+1032
+
+contagem do prazo de três dias para pagamento (art. 829, caput).
+Bens sujeitos ao arresto. Esse arresto prévio pode ocorrer sobre qualquer
+bem do patrimônio do devedor. O STJ já admitiu, inclusive, aquilo que designou
+por “arresto prévio on-line”: “frustrada a tentativa de localização do executado, é
+admissível o arresto de seus bens na modalidade on-line”. Nessa hipótese,
+concretizando-se “a citação, qualquer que seja a sua modalidade, se não houver o
+pagamento da quantia executada, o arresto será convertido em penhora” (REsp
+1.370.867, 4ª Turma, Rel. Min. Antonio Carlos Ferreira, DJ 15.08.2013).
+Citado e não efetuado o pagamento no prazo de três dias, passa-se à fase da
+apreensão de bens, que em última análise consiste na penhora, cujo fim é a
+satisfação do crédito. A penhora pressupõe citação, em qualquer uma de suas
+modalidades. Antes da citação admite-se o arresto cautelar, levado a efeito pelo
+próprio oficial de justiça, ainda que sem ordem expressa do juiz. Não encontrado
+o devedor para citá-lo, ope legis, o oficial procede ao arresto dos bens. Essa
+modalidade de arresto só é cabível na hipótese de citação por oficial de justiça.
+Feita a citação por outros meios (correio, edital e eletrônico, por exemplo), o
+oficial de justiça procede à penhora, não ao arresto. Nada obsta a que o exequente,
+antes mesmo de iniciar o processo executivo, requeira tutela cautelar (de arresto)
+em caráter antecedente (arts. 305 a
+[/PAGINA 692]
+
+[PAGINA 693]
+308).
+Seção III
+Da Penhora, do Depósito e da Avaliação
+Subseção I
+Do Objeto da Penhora
+ 
+CPC/2015CPC/1973
+Art. 831. A penhora deverá recair sobre tantos bens
+quantos bastem para o pagamento do principal
+atualizado, dos juros, das custas e dos honorários
+advocatícios.
+Art. 659. A penhora deverá incidir em tantos bens
+quantos bastem para o pagamento do principal
+atualizado, juros, custas e honorários advocatícios.
+1033
+
+COMENTÁRIOS:
+Conceito de penhora. Denomina-se penhora o ato pelo qual se
+apreendem bens para empregá-los, de maneira direta ou indireta, na satisfação do
+crédito exequendo.
+Diz-se que o bem é empregado diretamente na satisfação do crédito quando o
+credor o adjudica ou dele usufrui até a quitação da dívida exequenda; é empregado
+indiretamente quando é o produto da alienação do bem (por iniciativa particular
+ou em hasta pública) que satisfaz o crédito.
+A penhora, qualquer que seja o bem objeto da constrição, em regra, é feita
+por oficial de justiça. Tanto pode ocorrer na forma prevista no art. 829 – quando
+o credor ou o próprio devedor indica o(s) bem(ns) a ser(em) penhorado(s) –
+como quando o oficial de justiça, por não encontrar o devedor, realiza o arresto
+dos bens necessários à satisfação do crédito e, posteriormente à efetivação do ato
+citatório, o procedimento é convertido em penhora (art. 830, § 3º). Entretanto, há
+penhora que dispensa a atuação do oficial de justiça, porquanto realizada por
+termo nos autos (art. 845, § 1º) ou por meio eletrônico (art. 837).
+Princípio da efetividade da execução ou do resultado. Pelo processo de
+execução ou cumprimento da sentença deve-se assegurar ao credor precisamente
+aquilo a que tem ele direito, nada mais, “no resultado mais próximo que se teria
+caso não tivesse havido a transgressão de seu direito”.
+270
+ Exemplo da aplicação
+de tal princípio é o dispositivo em comento.
+ 
+CPC/2015CPC/1973
+Art. 832. Não estão sujeitos à execução os bens que
+a lei considera impenhoráveis ou inalienáveis.
+Art. 648. Não estão sujeitos à execução os bens que
+a lei considera impenhoráveis ou inalienáveis.
+Art. 833. São impenhoráveis:
+I – os bens inalienáveis e os declarados, por ato
+voluntário, não sujeitos à execução;
+II – os móveis, os pertences e as utilidades
+domésticas que guarnecem a residência do
+executado, salvo os de elevado valor ou os que
+ultrapassem as necessidades comuns
+correspondentes a um médio padrão de vida;
+Art. 649. São absolutamente
+ impenhoráveis:
+I – os bens inalienáveis e os declarados, por ato
+voluntário, não sujeitos à execução;
+II – os móveis, pertences e utilidades domésticas
+que guarnecem a residência do executado, salvo os
+de elevado valor ou que ultrapassem as
+necessidades comuns correspondentes a um
+médio padrão de vida;
+1034
+
+III – os vestuários, bem como os pertences de uso
+pessoal do executado, salvo se de elevado valor;
+IV – os vencimentos, os subsídios, os soldos, os
+salários, as remunerações, os proventos de
+aposentadoria, as pensões, os pecúlios e os
+montepios, bem como as q
+[/PAGINA 693]
+
+[PAGINA 694]
+uantias recebidas por
+liberalidade de terceiro e destinadas ao sustento do
+devedor e de sua família, os ganhos de trabalhador
+autônomo e os honorários de profissional liberal,
+ressalvado o § 2º;
+V – os livros, as máquinas, as ferramentas, os
+utensílios, os instrumentos ou outros bens móveis
+necessários ou úteis ao exercício da profissão do
+executado;
+VI – o seguro de vida;
+VII – os materiais necessários para obras em
+andamento, salvo se essas forem penhoradas;
+VIII – a pequena propriedade rural, assim definida
+em lei, desde que trabalhada pela família;
+IX – os recursos públicos recebidos por instituições
+privadas para aplicação compulsória em educação,
+saúde ou assistência social;
+X – a quantia depositada em caderneta de
+poupança, até o limite de 40 (quarenta) salários
+mínimos;
+XI – os recursos públicos do fundo partidário
+recebidos por partido político, nos termos da lei;
+XII – os créditos oriundos de alienação de
+unidades imobiliárias, sob regime de
+incorporação imobiliária, vinculados à
+III – os vestuários, bem como os pertences de uso
+pessoal do executado, salvo se de elevado valor;
+IV – os vencimentos, subsídios, soldos, salários,
+remunerações, proventos de aposentadoria,
+pensões, pecúlios e montepios; as quantias
+recebidas por liberalidade de terceiro e destinadas
+ao sustento do devedor e sua família, os ganhos de
+trabalhador autônomo e os honorários de
+profissional liberal, observado o disposto no § 3º
+deste artigo;
+V – os livros, as máquinas, as ferramentas, os
+utensílios, os instrumentos ou outros bens móveis
+necessários ou úteis ao exercício de qualquer
+profissão;
+VI – o seguro de vida;
+VII – os materiais necessários para obras em
+andamento, salvo se essas forem penhoradas;
+VIII – a pequena propriedade rural, assim definida
+em lei, desde que trabalhada pela família;
+IX – os recursos públicos recebidos por instituições
+privadas para aplicação compulsória em educação,
+saúde ou assistência social;
+X – até o limite de 40 (quarenta) salários mínimos,
+a quantia depositada em caderneta de poupança.
+XI – os recursos públicos do fundo partidário
+recebidos, nos termos da lei, por partido político.
+§ 1º A impenhorabilidade não é oponível à
+cobrança do crédito concedido para a aquisição do
+próprio bem.
+§ 2º O disposto no inciso IV do caput deste artigo
+1035
+
+execução da obra.
+§ 1º A impenhorabilidade não é oponível à
+execução de dívida relativa ao próprio bem, inclusive
+àquela contraída para sua aquisição.
+§ 2º O disposto nos incisos IV e X do caput não se
+aplica à hipótese de penhora para pagamento de
+prestação alimentícia, independentemente de
+sua origem, bem como às importâncias
+excedentes a 50 (cinquenta) salários mínimos
+mensais, devendo a constrição observar o
+disposto no art. 528, § 8º, e no art. 529, § 3º.
+§ 3º Incluem-se na impenhorabilidade
+prevista no inciso V do caput os
+equipamentos, os implementos e as
+máquinas agrícolas pertencentes a pessoa
+física ou a empresa individual produtora
+rural, exceto quando tais bens tenham sido
+objeto de
+[/PAGINA 694]
+
+[PAGINA 695]
+financiamento e estejam
+vinculados em garantia a negócio jurídico ou
+quando respondam por dívida de natureza
+alimentar, trabalhista ou previdenciária.
+não se aplica no caso de penhora para pagamento
+de prestação alimentícia.
+COMENTÁRIOS AOS ARTS. 832 E 833:
+Noções gerais. Em princípio, todos os bens de propriedade do devedor ou
+dos responsáveis pelo débito, desde que tenham valor econômico, são passíveis
+de penhora. Bens de propriedade de terceiros também podem ser penhorados,
+desde que a lei estabeleça a sujeição de tais bens à execução, seja porque há
+responsabilidade do terceiro, seja porque o bem foi alienado em fraude à
+execução.
+O devedor responde, para o cumprimento de suas obrigações, com todos os
+seus bens presentes e futuros, salvo as restrições estabelecidas em lei (art. 789).
+Por restrições estabelecidas em lei devem-se entender os bens que a lei considera
+1036
+
+impenhoráveis ou inalienáveis (art. 832).
+A inalienabilidade abrange a impenhorabilidade. Todo bem inalienável é
+também impenhorável; a recíproca, entretanto, não é verdadeira, porquanto há
+bens que, embora impenhoráveis, são passíveis de alienação. A inalienabilidade
+pode decorrer de lei ou de ato voluntário. Como exemplo de bem inalienável por
+disposição legal podem-se citar os bens públicos (arts. 99 e 100 do CC) e o
+capital, cuja renda assegure o pagamento de pensão mensal fixada em decorrência
+de ato ilícito (art. 533, § 1º); por ato voluntário, citem-se os bens doados com
+cláusula de inalienabilidade (art. 1.911 do CC).
+Há bens absolutamente impenhoráveis e bens relativamente impenhoráveis.
+Os primeiros não podem ser penhorados em hipótese alguma. Quanto aos
+segundos, o art. 834 admite a penhora dos frutos e rendimentos, desde que o
+executado não possua outros bens livres sobre os quais possa recair a constrição.
+Inciso I. Os bens públicos, de qualquer natureza, e o capital garantidor de
+renda destinada a pagamento de prestação alimentar fixada em decorrência de ato
+ilícito constituem exemplos de bens inalienáveis e, portanto, impenhoráveis. O
+bem de família, instituído na forma dos arts. 1.711 a 1.722 do CC, e o recebido
+em doação com cláusula de inalienabilidade ou impenhorabilidade (arts. 1.848 e
+1.911 do CC) igualmente não estão sujeitos à penhora.
+Inciso II. Na linha da jurisprudência, positivou-se a impenhorabilidade dos
+bens móveis, exceto os de elevado valor ou dispensáveis às necessidades do
+executado e de sua família. Aliás, conforme disposto no parágrafo único do art. 1º
+da Lei nº 8.009/1990, a impenhorabilidade do imóvel residencial próprio do casal,
+ou da entidade familiar, compreende, além de outros bens, os móveis que
+guarnecem a casa.
+A lei não estabelece parâmetros para verificação das circunstâncias
+excludentes da impenhorabilidade (bens de elevado valor ou que ultrapassem as
+necessidades comuns correspondentes a um médio padrão de vida). Cabe ao juiz,
+em face do caso concreto, sobretudo levando em conta as condições das pessoas
+envolvidas na execução,
+[/PAGINA 695]
+
+[PAGINA 696]
+definir o que deva ser excluído da impenhorabilidade.
+Um frigobar, instalado na suíte do casal, é penhorável; a geladeira de médio
+padrão, que guarnece a cozinha da residência, não é.
+Inciso III. O intuito do legislador, ao estabelecer a impenhorabilidade de
+tais bens, é idêntico ao que o norteou na redação do inciso II, ou seja, garantir a
+sobrevivência digna do executado, o que, a toda evidência, inclui o uso de
+vestuário e outros objetos de uso pessoal que assegurem um médio padrão de
+vida. O vestido da socialite, feito pelo costureiro Versace, a um custo de R$ 60
+1037
+
+mil, é penhorável; penhorável também é o relógio Rolex, todo em ouro, adquirido
+por R$ 35 mil.
+Inciso IV. Em regra, todo e qualquer numerário recebido em decorrência de
+relação de trabalho é impenhorável, ou seja, o vencimento percebido pelo
+funcionário público, o subsídio do membro de poder (magistrados, parlamentares
+e Presidente da República, entre outros), o soldo do militar, a remuneração do
+empregado celetista. Igualmente impenhorável é o provento do aposentado, a
+pensão paga ao dependente do segurado morto, o pecúlio (isto é, a aplicação, a
+poupança, programada para utilização depois de um determinado tempo ou idade
+do poupador), o montepio, ou seja, o benefício instituído a favor de terceiro, para
+ser recebido depois da morte do instituidor. Também não se admite a penhora
+sobre as quantias recebidas por liberalidade de terceiro e destinadas ao sustento
+do devedor e de sua família (tenças), bem como os ganhos do trabalhador
+autônomo e do profissional liberal.
+Excepcionalmente, nos termos do § 2º do art. 833, esses bens poderão ser
+penhorados. Tratando de prestação alimentícia – pouco importa se decorrente da
+relação de parentesco ou de ato ilícito –, os vencimentos, subsídios, soldos e
+salários e as outras verbas contempladas no inciso IV poderão ser objeto de
+constrição.
+Outra exceção refere-se às verbas que ultrapassem o limite de 50 salários
+mínimos. Qualquer que seja a natureza da obrigação, admite-se a penhora do que
+exceder a esse limite. Em suma: prestação alimentícia de qualquer origem:
+podem-se penhorar as importâncias mencionadas no inciso IV, qualquer que seja
+o montante. Outras prestações: pode-se penhorar o que exceder a 50 salários
+mínimos mensais das importâncias mencionadas no inciso IV.
+271
+Inciso V. O inciso V do art. 649 do CPC/1973, que corresponde ao
+dispositivo em exame, originariamente se orientou no sentido de proteger a
+pessoa física, enquanto profissional. O microcomputador do advogado, a plaina
+do marceneiro e o automóvel do taxista constituem exemplos de bens
+impenhoráveis. Apesar disso, a jurisprudência já estendeu essa impenhorabilidade
+aos bens da microempresa e da empresa de pequeno porte.
+272
+Para o reconhecimento da impenhorabilidade com fundamento no art. 833,
+V, necessária a demonstração específica da utilidade do bem à atividade
+profissional do executado. Em outras palavras, se o devedor comprovar que o
+automóvel indicado à penhora o
+[/PAGINA 696]
+
+[PAGINA 697]
+u já penhorado é utilizado como seu instrumento
+de trabalho, o juiz deverá determinar a desconstituição da penhora, a suspensão da
+alienação ou da adjudicação do bem. A jurisprudência corrobora com esse
+1038
+
+entendimento.
+273
+De acordo com o Novo CPC, incluem-se nessa hipótese de
+impenhorabilidade “os equipamentos, os implementos e as máquinas agrícolas
+pertencentes a pessoa física ou a empresa individual produtora rural, exceto
+quando tais bens tenham sido objeto de financiamento e estejam vinculados em
+garantia a negócio jurídico ou quando respondam por dívida de natureza
+alimentar, trabalhista ou previdenciária” (§ 3º). Nesse ponto, entendo que houve
+consolidação do entendimento dos tribunais superiores,
+274
+ para quem a
+impenhorabilidade deve ser estendida aos bens necessários à realização da
+atividade do pequeno produtor rural. Vale lembrar que, de acordo com a regra
+constante no § 1º do art. 833, a impenhorabilidade só prevalece quando os
+equipamentos, implementos e máquinas agrícolas não estiverem financiados ou
+vinculados como garantia à operação destinada à sua aquisição.
+O ônus da demonstração da utilidade ou necessidade do bem penhorado para
+o exercício da profissão é do próprio executado, nos termos da jurisprudência do
+Superior Tribunal de Justiça.
+275
+Inciso VI. O dispositivo corresponde ao inciso VI do art. 649 do CPC/1973,
+sobre o qual a jurisprudência assentou entendimento de que não se pode
+estabelecer qualquer distinção sobre o evento pelo qual o seguro de vida foi pago,
+se morte ou invalidez, uma vez que em ambas as hipóteses o fundamento da
+impenhorabilidade recai sobre a natureza alimentar da verba. Por outro lado, não
+se faz distinção entre ser o executado o beneficiário do seguro ou o próprio
+segurado (no caso de cobertura securitária por invalidez). Igualmente irrelevante é
+perquirir se a indenização securitária já se incorporou ou não diretamente ao
+patrimônio do beneficiário. Impenhorável é o seguro de vida ainda não recebido e
+aquele que o segurado (não morto, obviamente) ou o beneficiário já recebeu.
+Naturalmente deve haver coincidência entre as pessoas do executado e daquele
+que recebeu ou vai receber o valor do seguro.
+276
+ “[...] Penhora que recaiu sobre
+valores em conta-corrente advindos de prêmio de seguro de vida. Tratando-se de
+prêmio auferido pelo beneficiário, em virtude de seguro de vida, tais valores são
+absolutamente impenhoráveis, não importando se integram ou não integram o
+patrimônio jurídico da pessoa beneficiada [...].”
+277
+Inciso VII. Embora os materiais destinados a alguma construção, enquanto
+não forem empregados, conservem sua qualidade de móveis (art. 84 do CC), o
+legislador achou por bem atribuir-lhes a qualidade de impenhoráveis, exceto se a
+obra à qual se destinam já se encontrar penhorada.
+Inciso VIII. De acordo com a jurisprudência do STJ, “para saber se o
+1039
+
+imóvel possui as características para enquadramento na legislação protecionista é
+necessário ponderar as regras estabelecidas pela
+[/PAGINA 697]
+
+[PAGINA 698]
+Lei nº 8629/93 que, em seu
+artigo 4º, estabelece que a pequena propriedade rural é aquela cuja área tenha entre
+1 (um) e 4 (quatro) módulos fiscais” (REsp 1.284.708/PR, 3ª Turma, Rel. Min.
+Massami Uyeda, DJ 09.12.2011). Também de acordo com o STJ, deve-se levar
+em consideração se a propriedade é, ou não, fonte de subsistência familiar. Isso
+porque a legislação prevê a necessidade de a propriedade ser “trabalhada pela
+família”. Assim, quando os titulares do domínio nem sequer residirem na
+comarca nem o bem for trabalhado pela família, a impenhorabilidade deve ser
+afastada. Nesse sentido: REsp 469.496/PR, 3ª Turma, Rel. Min. Menezes
+Direito, DJ 01.09.2003.
+Ressalte-se que a impenhorabilidade da pequena propriedade rural já era
+prevista no art. 5º, XXVI, da CF, de forma que, desde 1988, a pequena
+propriedade rural, desde que trabalhada pela família, não podia ser objeto de
+penhora, nem mesmo para pagamento de débitos decorrentes de sua atividade
+produtiva.
+Inciso IX. Atendidos os requisitos legais, instituições privadas que atuem
+em atividades típicas do Estado, como educação, saúde e assistência social,
+podem receber recursos públicos. Tais recursos, até em razão de sua natureza
+(públicos), são impenhoráveis, embora já liberados pelo poder público e
+creditados na conta bancária da instituição.
+Inciso X. Com relação a esse inciso, a 3ª Turma do STJ, em decisão
+unânime, entendeu que a impenhorabilidade aqui prevista refere-se ao montante
+de 40 salários mínimos, considerando a totalidade do valor depositado em
+caderneta de poupança, independentemente do número de cadernetas titularizadas
+pelo devedor. No caso em análise, o devedor mantinha várias aplicações da
+mesma natureza, e o valor total superava o permitido em lei.
+Assim, “para a realização da penhora de poupança, deve-se apurar o valor de
+todas as aplicações em caderneta de poupança titularizadas pelo devedor e realizar
+a constrição apenas sobre o valor que exceder o limite legal de 40 salários
+mínimos” (STJ, REsp 1.231.123/SP, Rel. Min. Nancy Andrighi, julgado em
+02.08.2012).
+Importante frisar que, apesar de algumas decisões em sentido contrário, no
+final de 2014 o STJ reafirmou a tese que considera ser impenhorável a quantia de
+40 salários mínimos mesmo que ela esteja depositada em mais de um fundo de
+investimento (ou caderneta de poupança). Em termos práticos, caso o devedor
+possua mais de um fundo de investimento, todas as respectivas contas devem ser
+1040
+
+consideradas impenhoráveis, até o limite global de 40 salários mínimos.
+278
+Inciso XI. O direito à participação no fundo partidário é uma garantia
+constitucionalmente assegurada aos partidos políticos (art. 17, § 3º, da CF/1988).
+A vedação prevista no inciso XI tem por objetivo, principalmente, evitar que as
+dívidas contraídas por diretórios estaduais e municipais (ou seja, órgãos
+partidários específicos) prejudiquem o partido como um todo, o que
+invariavelmente ocorria na medida em que os juízes determinavam a penhora dos
+recursos do fu
+[/PAGINA 698]
+
+[PAGINA 699]
+ndo partidário por atos praticados por um diretório estadual ou
+municipal. Nos termos da jurisprudência do STJ,
+279
+ esses recursos são
+absolutamente impenhoráveis, inclusive na hipótese em que a origem do débito
+esteja relacionada às atividades previstas no art. 44 da Lei nº 9.096/1995 –
+manutenção das sedes e serviços do partido, propaganda doutrinária e política,
+alistamento e campanhas eleitorais etc.
+Inciso XII. À vista da sistemática já existente nos arts. 31-A a 31-F da Lei
+nº 4.591/1964 (Lei das Incorporações Imobiliárias), o CPC/2015 também prevê
+que o patrimônio de afetação não sofrerá constrição, sob pena de se desconfigurar
+a sua própria finalidade, que é garantir entrega das unidades imobiliárias aos
+futuros adquirentes (consumidores). Em outras palavras, em virtude do regime de
+vinculação de receitas estabelecido pela Lei nº 4.591/1964, com as modificações
+trazidas pela Lei nº 10.931/2004, os créditos correspondentes às prestações
+devidas pelos adquirentes das unidades imobiliárias em construção somente
+servirão para a execução da obra, e não para garantir o pagamento de credores da
+entidade incorporadora por meio de demanda executiva.
+Inoponibilida de da impenhorabilidade. O CPC/1973 dispõe que a
+impenhorabilidade não pode ser oposta pelo devedor quando se tratar de crédito
+para a aquisição do próprio bem. Estão inseridas nesse contexto, por exemplo, as
+dívidas relativas ao crédito para financiar a construção ou aquisição de bem
+imóvel.
+A interpretação literal do dispositivo constante no Código Buzaid não
+permitia, no entanto, que se estendesse a penhorabilidade às demais dívidas
+relativas aos bens. Até mesmo aplicando as regras constantes da Lei nº
+8.009/1990, que tratam do bem de família, não era possível concluir que toda e
+qualquer dívida relativa ao bem é capaz de fundamentar o ato de penhora. No caso
+de despesas condominiais, por exemplo, como não havia previsão expressa no
+CPC/1973 nem na Lei nº 8.009/1990, ficava a dúvida quanto à possibilidade (ou
+não) de penhora.
+Com o novo Código essa dúvida está sanada, porquanto a impenhorabilidade
+1041
+
+não é oponível na execução de dívida relativa ao próprio bem. Sendo assim, além
+das dívidas de IPTU e de hipoteca (já previstas como exceções à
+impenhorabilidade pela Lei nº 8.009/1990), também estão no rol de exceções as
+despesas condominiais (ordinárias ou extraordinárias). Ressalte-se que essa nova
+disposição vai ao encontro do entendimento do Superior Tribunal de Justiça.
+280
+ 
+CPC/2015CPC/1973
+Art. 834. Podem ser penhorados, à falta de outros
+bens, os frutos e os rendimentos dos bens
+inalienáveis.
+Art. 650. Podem ser penhorados, à falta de outros
+bens, os frutos e rendimentos dos bens
+inalienáveis, salvo se destinados à satisfação de
+prestação alimentícia.
+COMENTÁRIOS:
+Penhora de frutos e rendimentos de bens inalienáveis. De acordo com o
+CPC/1973, caso o devedor não disponha de outros bens, poderão ser penhorados
+os frutos e rendimentos dos bens inalienáveis. Isso quer dizer que,
+[/PAGINA 699]
+
+[PAGINA 700]
+se houver
+outros bens do executado para incidência da penhora, serão considerados
+absolutamente impenhoráveis os frutos e rendimentos de bem inalienável. Se, no
+entanto, a penhora for requerida em sede de execução de alimentos, os frutos e
+rendimentos terão penhorabilidade plena, independentemente da existência ou não
+de outros bens.
+A novidade é que o CPC/2015 não mais excepciona a impenhorabilidade
+quando se trata de execução de alimentos. A regra, portanto, é que a existência de
+outros bens do executado impedirá a penhora de frutos e rendimentos dos bens
+inalienáveis ainda que o objeto da execução esteja relacionado à satisfação de
+prestação alimentícia.
+ 
+CPC/2015CPC/1973
+Art. 835. A penhora observará, preferencialmente,
+a seguinte ordem:
+I – dinheiro, em espécie ou em depósito ou
+aplicação em instituição financeira;
+II – títulos da dívida pública da União, dos Estados
+Art. 655. A penhora observará, preferencialmente,
+a seguinte ordem:
+I – dinheiro, em espécie ou em depósito ou
+aplicação em instituição financeira;
+II – veículos de via terrestre;
+1042
+
+e do Distrito Federal com cotação em mercado;
+III – títulos e valores mobiliários com cotação em
+mercado;
+IV – veículos de via terrestre;
+V – bens imóveis;
+VI – bens móveis em geral;
+VII – semoventes;
+VIII – navios e aeronaves;
+IX – ações e quotas de sociedades simples e
+empresárias;
+X – percentual do faturamento de empresa
+devedora;
+XI – pedras e metais preciosos;
+XII – direitos aquisitivos derivados de
+promessa de compra e venda e de alienação
+fiduciária em garantia;
+XIII – outros direitos.
+§ 1º É prioritária a penhora em dinheiro,
+podendo o juiz, nas demais hipóteses, alterar
+a ordem prevista no caput de acordo com as
+circunstâncias do caso concreto.
+§ 2º Para fins de substituição da penhora,
+equiparam-se a dinheiro a fiança bancária e o
+seguro garantia judicial, desde que em valor não
+inferior ao do débito constante da inicial, acrescido
+de trinta por cento.
+§ 3º Na execução de crédito com garantia real, a
+penhora recairá sobre a coisa dada em garantia, e,
+III – bens móveis em geral;
+IV – bens imóveis;
+V – navios e aeronaves;
+VI – ações e quotas de sociedades empresárias;
+VII – percentual do faturamento de empresa
+devedora;
+VIII – pedras e metais preciosos;
+IX – títulos da dívida pública da União, Estados e
+Distrito Federal com cotação em mercado;
+X – títulos e valores mobiliários com cotação em
+mercado;
+XI – outros direitos.
+§ 1º Na execução de crédito com garantia
+hipotecária, pignoratícia ou anticrética, a penhora
+recairá, preferencialmente,
+ sobre a coisa dada em
+garantia; se a coisa pertencer a terceiro garantidor,
+será também esse intimado da penhora.
+Art. 656 [...]
+§ 2º A penhora pode ser substituída por fiança
+bancária ou seguro garantia judicial, em valor não
+inferior ao do débito constante da inicial, mais
+30% (trinta por cento).
+1043
+
+se a coisa pertencer a terceiro garantidor, este
+também será intimado da penhora.
+COMENTÁRIOS:
+Indicação de bens passíveis de penhora. Faculta-se ao
+[/PAGINA 700]
+

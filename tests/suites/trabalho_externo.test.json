@@ -1,0 +1,41 @@
+{
+    "suite": "trabalho_externo",
+    "descricao": "Testes para matéria de trabalho externo",
+    "casos": [
+        {
+            "id": "tra-001",
+            "nome": "Trabalho externo - Deferimento semiaberto",
+            "insumos": "Apenado em regime semiaberto requer autorização para trabalho externo. Proposta de emprego anexa.",
+            "orientacao": "Deferir autorização para trabalho externo",
+            "agrupador": "trabalho_externo",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "citacao_art36_lep"
+            ]
+        },
+        {
+            "id": "tra-002",
+            "nome": "Trabalho externo - Indeferimento regime fechado",
+            "insumos": "Apenado em regime fechado requer trabalho externo. Obra pública próxima ao presídio.",
+            "orientacao": "Indeferir - regime incompatível",
+            "agrupador": "trabalho_externo",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_regime"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1000,
+        "tamanho_maximo": 6000
+    }
+}

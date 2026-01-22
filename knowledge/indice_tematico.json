@@ -1,0 +1,2961 @@
+{
+  "geradoEm": "2026-01-21T22:26:24.014Z",
+  "versao": "2.0.0",
+  "temas": {
+    "remicao": {
+      "nome": "Remição",
+      "palavrasChave": [
+        "remição",
+        "remicao",
+        "leitura",
+        "trabalho",
+        "estudo",
+        "enem",
+        "encceja",
+        "diploma",
+        "certificado",
+        "dias remidos",
+        "art. 126",
+        "lei 7.210",
+        "12 horas",
+        "3 dias",
+        "1 dia",
+        "carga horária",
+        "frequência escolar",
+        "educação",
+        "ensino fundamental",
+        "ensino médio",
+        "supletivo"
+      ]
+    },
+    "progressao": {
+      "nome": "Progressão de Regime",
+      "palavrasChave": [
+        "progressão",
+        "progressao",
+        "regime",
+        "semiaberto",
+        "aberto",
+        "fechado",
+        "requisito objetivo",
+        "requisito subjetivo",
+        "lapso temporal",
+        "1/6",
+        "2/5",
+        "3/5",
+        "40%",
+        "50%",
+        "60%",
+        "70%",
+        "bom comportamento",
+        "atestado carcerário",
+        "art. 112",
+        "lep"
+      ]
+    },
+    "livramento": {
+      "nome": "Livramento Condicional",
+      "palavrasChave": [
+        "livramento",
+        "condicional",
+        "art. 83",
+        "código penal",
+        "1/3",
+        "1/2",
+        "2/3",
+        "mais de um terço",
+        "metade da pena",
+        "condições",
+        "revogação",
+        "suspensão",
+        "período de prova"
+      ]
+    },
+    "indulto": {
+      "nome": "Indulto e Comutação",
+      "palavrasChave": [
+        "indulto",
+        "comutação",
+        "comutacao",
+        "decreto natalino",
+        "decreto presidencial",
+        "requisitos",
+        "vedação",
+        "crime hediondo",
+        "tortura",
+        "tráfico",
+        "art. 84",
+        "constituição",
+        "perdão",
+        "extinção da punibilidade"
+      ]
+    },
+    "retificacao": {
+      "nome": "Retificação GEP",
+      "palavrasChave": [
+        "retificação",
+        "retificacao",
+        "gep",
+        "guia de execução",
+        "cálculo",
+        "calculo",
+        "atestado de penas",
+        "data-base",
+        "fração",
+        "soma",
+        "unificação",
+        "detração",
+        "erro material"
+      ]
+    },
+    "multa": {
+      "nome": "Multa",
+      "palavrasChave": [
+        "multa",
+        "pena de multa",
+        "conversão",
+        "execução fiscal",
+        "fazenda",
+        "pagamento",
+        "parcelamento",
+        "extinção",
+        "art. 51"
+      ]
+    },
+    "falta": {
+      "nome": "Falta Disciplinar",
+      "palavrasChave": [
+        "falta",
+        "disciplinar",
+        "grave",
+        "média",
+        "leve",
+        "procedimento disciplinar",
+        "pad",
+        "sindicância",
+        "regressão",
+        "interrupção",
+        "contagem",
+        "art. 50",
+        "art. 52"
+      ]
+    },
+    "saida": {
+      "nome": "Saída Temporária",
+      "palavrasChave": [
+        "saída temporária",
+        "saida temporaria",
+        "autorização",
+        "monitoramento",
+        "tornozeleira",
+        "art. 122",
+        "art. 123",
+        "art. 124",
+        "trabalho externo",
+        "visita à família",
+        "frequência a curso"
+      ]
+    },
+    "extincao": {
+      "nome": "Extinção da Punibilidade",
+      "palavrasChave": [
+        "extinção",
+        "extincao",
+        "punibilidade",
+        "cumprimento",
+        "prescrição",
+        "prescricao",
+        "morte",
+        "art. 107",
+        "art. 109",
+        "alvará de soltura",
+        "término",
+        "fim da pena"
+      ]
+    },
+    "unificacao": {
+      "nome": "Unificação de Penas",
+      "palavrasChave": [
+        "unificação",
+        "unificacao",
+        "penas",
+        "soma",
+        "cúmulo",
+        "material",
+        "concurso",
+        "art. 111",
+        "lep",
+        "limite",
+        "40 anos",
+        "30 anos"
+      ]
+    }
+  },
+  "estatisticas": {
+    "modelos": {
+      "total": 254,
+      "porTema": {
+        "remicao": 25,
+        "progressao": 108,
+        "livramento": 3,
+        "indulto": 13,
+        "retificacao": 32,
+        "multa": 10,
+        "falta": 22,
+        "saida": 5,
+        "extincao": 14,
+        "unificacao": 14,
+        "outros": 8
+      }
+    },
+    "doutrina": {
+      "total": 34,
+      "porTema": {
+        "remicao": 2,
+        "progressao": 5,
+        "livramento": 3,
+        "indulto": 10,
+        "retificacao": 1,
+        "multa": 0,
+        "falta": 7,
+        "saida": 0,
+        "extincao": 3,
+        "unificacao": 3,
+        "outros": 0
+      }
+    },
+    "jurisprudencia": {
+      "total": 100,
+      "porTema": {
+        "remicao": 9,
+        "progressao": 30,
+        "livramento": 4,
+        "indulto": 4,
+        "retificacao": 0,
+        "multa": 20,
+        "falta": 16,
+        "saida": 5,
+        "extincao": 0,
+        "unificacao": 6,
+        "outros": 6
+      }
+    },
+    "legislacao": {
+      "total": 36,
+      "porTema": {
+        "remicao": 0,
+        "progressao": 1,
+        "livramento": 2,
+        "indulto": 7,
+        "retificacao": 0,
+        "multa": 0,
+        "falta": 0,
+        "saida": 0,
+        "extincao": 0,
+        "unificacao": 0,
+        "outros": 26
+      }
+    }
+  },
+  "modelos": {
+    "remicao": {
+      "count": 25,
+      "modelos": [
+        {
+          "nome": "embargos remicao (acolhe).odt",
+          "categoria": "decisoesvrep",
+          "score": 25
+        },
+        {
+          "nome": "ACORDAO - REFORMA ENEM.docx",
+          "categoria": "remicao",
+          "score": 10
+        },
+        {
+          "nome": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+          "categoria": "remicao",
+          "score": 34
+        },
+        {
+          "nome": "AGRAVO ENEM.docx",
+          "categoria": "remicao",
+          "score": 26
+        },
+        {
+          "nome": "ENCCEJA PARCIAL.docx",
+          "categoria": "remicao",
+          "score": 99
+        },
+        {
+          "nome": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+          "categoria": "remicao",
+          "score": 38
+        },
+        {
+          "nome": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+          "categoria": "remicao",
+          "score": 67
+        },
+        {
+          "nome": "ESTUDO DUPLICIDADE INDEFERE.docx",
+          "categoria": "remicao",
+          "score": 63
+        },
+        {
+          "nome": "ESTUDO EJA - REGULAR.docx",
+          "categoria": "remicao",
+          "score": 19
+        },
+        {
+          "nome": "ESTUDO ENCCEJA COMPLETO.docx",
+          "categoria": "remicao",
+          "score": 55
+        },
+        {
+          "nome": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.docx",
+          "categoria": "remicao",
+          "score": 87
+        },
+        {
+          "nome": "ESTUDO ENCCEJA PARCIAL.docx",
+          "categoria": "remicao",
+          "score": 75
+        },
+        {
+          "nome": "ESTUDO ENEM INDEFERE.docx",
+          "categoria": "remicao",
+          "score": 80
+        },
+        {
+          "nome": "ESTUDO ENEM INDEFERE2.docx",
+          "categoria": "remicao",
+          "score": 82
+        },
+        {
+          "nome": "ESTUDO ESTUDOS DIVERSOS INDEFERE.docx",
+          "categoria": "remicao",
+          "score": 102
+        },
+        {
+          "nome": "ESTUDO LIMITADOR DE HORAS.docx",
+          "categoria": "remicao",
+          "score": 41
+        },
+        {
+          "nome": "modelo completo remicao.docx",
+          "categoria": "remicao",
+          "score": 102
+        },
+        {
+          "nome": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.docx",
+          "categoria": "remicao",
+          "score": 32
+        },
+        {
+          "nome": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+          "categoria": "remicao",
+          "score": 37
+        },
+        {
+          "nome": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).docx",
+          "categoria": "remicao",
+          "score": 52
+        },
+        {
+          "nome": "TRABALHO.docx",
+          "categoria": "remicao",
+          "score": 22
+        },
+        {
+          "nome": "DECISÃO REMIÇÃO DEFERIDO TRABALHO, INDEFERIDO ESTUDO.odt",
+          "categoria": "old",
+          "score": 34
+        },
+        {
+          "nome": "Remição ENEM.odt",
+          "categoria": "old",
+          "score": 113
+        },
+        {
+          "nome": "remição estudo enem e ensino superior.odt",
+          "categoria": "old",
+          "score": 94
+        },
+        {
+          "nome": "remição- deferimento trabalho, indeferimento estudo.odt",
+          "categoria": "old",
+          "score": 25
+        }
+      ]
+    },
+    "progressao": {
+      "count": 108,
+      "modelos": [
+        {
+          "nome": "decisao retificao data base nao usar preventiva ou progressao qd preso o apenado.odt",
+          "categoria": "decisoesvrep",
+          "score": 44
+        },
+        {
+          "nome": "RET GEP  indefere pedido de 2_5 para resultado morte.odt",
+          "categoria": "decisoesvrep",
+          "score": 79
+        },
+        {
+          "nome": "RET GEP -  APLICA ISOLADEMENTE a lei mais benefica 2023.odt",
+          "categoria": "decisoesvrep",
+          "score": 100
+        },
+        {
+          "nome": "RET GEP - acordao aplica lei mais favoravel.odt",
+          "categoria": "decisoesvrep",
+          "score": 19
+        },
+        {
+          "nome": "RET GEP - aplica lei mais benefica intefralmente23.odt",
+          "categoria": "decisoesvrep",
+          "score": 82
+        },
+        {
+          "nome": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+          "categoria": "decisoesvrep",
+          "score": 95
+        },
+        {
+          "nome": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+          "categoria": "decisoesvrep",
+          "score": 65
+        },
+        {
+          "nome": "RET GEP - crime praticado antes da lei de crimes hediondos nao reincidente.odt",
+          "categoria": "decisoesvrep",
+          "score": 14
+        },
+        {
+          "nome": "RET GEP - defere fração 1_8 mulher.odt",
+          "categoria": "decisoesvrep",
+          "score": 17
+        },
+        {
+          "nome": "RET GEP - defere novo calculo para data base progressao do aberto.odt",
+          "categoria": "decisoesvrep",
+          "score": 54
+        },
+        {
+          "nome": "Ret Gep - Deferir cumprimento de acordao.odt",
+          "categoria": "decisoesvrep",
+          "score": 14
+        },
+        {
+          "nome": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+          "categoria": "decisoesvrep",
+          "score": 24
+        },
+        {
+          "nome": "RET GEP - indefere detracao quando a data da prisao eh a data-base.odt",
+          "categoria": "decisoesvrep",
+          "score": 49
+        },
+        {
+          "nome": "RET GEP - INDEFERE PEDIDO DE FRACOES DIVERSAS.odt",
+          "categoria": "decisoesvrep",
+          "score": 61
+        },
+        {
+          "nome": "RET GEP - Indefere pedido de roubo nao ser hediondo.odt",
+          "categoria": "decisoesvrep",
+          "score": 19
+        },
+        {
+          "nome": "ret gep - indefere regressao para o semiaberto.odt",
+          "categoria": "decisoesvrep",
+          "score": 26
+        },
+        {
+          "nome": "RET GEP - monitoramento cautelar como detracao indefere.docx",
+          "categoria": "decisoesvrep",
+          "score": 18
+        },
+        {
+          "nome": "RET GEP - pedido generico.docx",
+          "categoria": "decisoesvrep",
+          "score": 14
+        },
+        {
+          "nome": "RET GEP data base pos alvara prisao provisoria.odt",
+          "categoria": "decisoesvrep",
+          "score": 59
+        },
+        {
+          "nome": "RET GEP defere 40_ converte pena e unifica.odt",
+          "categoria": "decisoesvrep",
+          "score": 39
+        },
+        {
+          "nome": "RET GEP indefere trafico de drogas como crime comum.odt",
+          "categoria": "decisoesvrep",
+          "score": 39
+        },
+        {
+          "nome": "ret gep MP pede 2_5 crime anterior a lei.odt",
+          "categoria": "decisoesvrep",
+          "score": 15
+        },
+        {
+          "nome": "RET GEP reforma UNIFICACAO com erro.odt",
+          "categoria": "decisoesvrep",
+          "score": 21
+        },
+        {
+          "nome": "RET GEP retifica gep lei mais benefica.odt",
+          "categoria": "decisoesvrep",
+          "score": 87
+        },
+        {
+          "nome": "Ret GEP- corrige erro material art 16 armas nao hediondo.odt",
+          "categoria": "decisoesvrep",
+          "score": 33
+        },
+        {
+          "nome": "RET GEP- indefere 40_ por ser globalmente pior pro apenado.odt",
+          "categoria": "decisoesvrep",
+          "score": 93
+        },
+        {
+          "nome": "RET REGIME INDEFERE.odt",
+          "categoria": "decisoesvrep",
+          "score": 39
+        },
+        {
+          "nome": "RET - Feminicidio privilegiado - indefere.docx",
+          "categoria": "retificacao",
+          "score": 34
+        },
+        {
+          "nome": "RET - indefere monalisa pedido sem fundamentacao.docx",
+          "categoria": "retificacao",
+          "score": 16
+        },
+        {
+          "nome": "RET - Modificacao regime prisional revisao criminal indefere.odt",
+          "categoria": "retificacao",
+          "score": 14
+        },
+        {
+          "nome": "RET - pedido retificacao generico - indefere.docx",
+          "categoria": "retificacao",
+          "score": 9
+        },
+        {
+          "nome": "RET GEP - crime hediondo resultado morte 50 porcento.odt",
+          "categoria": "retificacao",
+          "score": 31
+        },
+        {
+          "nome": "retificacao de guia - indulto fracao e remicao.docx",
+          "categoria": "retificacao",
+          "score": 19
+        },
+        {
+          "nome": "ACÓRDÃO - CUMPRIMENTOS.odt",
+          "categoria": "old",
+          "score": 9
+        },
+        {
+          "nome": "ADAPTAÇÃO DE REGIME PARA O INTERIOR.odt",
+          "categoria": "old",
+          "score": 11
+        },
+        {
+          "nome": "Adequação de regime - preventiva em outro processo - mantem indeferimento.odt",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.docx",
+          "categoria": "old",
+          "score": 13
+        },
+        {
+          "nome": "anotacoes progressao regional.docx",
+          "categoria": "old",
+          "score": 93
+        },
+        {
+          "nome": "anotações progressao indeferimento.odt",
+          "categoria": "old",
+          "score": 90
+        },
+        {
+          "nome": "ANULAÇÃO decisão prescrição.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "autorização de viagem.odt",
+          "categoria": "old",
+          "score": 21
+        },
+        {
+          "nome": "Certidão de LANÇAMENTO DE DADOS.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "CORREÇÃO DE FRAÇÃO - DEFERINDO.docx",
+          "categoria": "old",
+          "score": 45
+        },
+        {
+          "nome": "Curso SEEU.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "decisão erro material.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "decisão reconsideração de regressão provisoria novo crime.odt",
+          "categoria": "old",
+          "score": 18
+        },
+        {
+          "nome": "decisão reconsideração regre prov fuga.odt",
+          "categoria": "old",
+          "score": 7
+        },
+        {
+          "nome": "Decisão reconsideração regressão.odt",
+          "categoria": "old",
+          "score": 11
+        },
+        {
+          "nome": "decisão transferencia cpjc.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "decisão transferencia regime fechado.odt",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "declinio de ceara mirim p regional.docx",
+          "categoria": "old",
+          "score": 9
+        },
+        {
+          "nome": "DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.docx",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "defere pedido de prontuario medico.odt",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+          "categoria": "old",
+          "score": 20
+        },
+        {
+          "nome": "despacho não tem comprovação de dolo do dano do equipamento.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "despacho proravel progressão.odt",
+          "categoria": "old",
+          "score": 5
+        },
+        {
+          "nome": "despacho transferencia apenado semiaberto.odt",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "despacho transferencia regime fechado.odt",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "despacho vista ao mp progressão.odt",
+          "categoria": "old",
+          "score": 5
+        },
+        {
+          "nome": "diversos.odt",
+          "categoria": "old",
+          "score": 28
+        },
+        {
+          "nome": "EMBARGO DE DECLRARAÇÃO conhece e nega provimento.odt",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "Embargo declaracao inobservancia do acordao de ret guia.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "embargos e retificação.odt",
+          "categoria": "old",
+          "score": 36
+        },
+        {
+          "nome": "INCOMPETENCIA , APENADO EM LIBERDADE.odt",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "indefrimento doença prisão domiciliar.odt",
+          "categoria": "old",
+          "score": 11
+        },
+        {
+          "nome": "JUSTIFICATIVA DE FALTA.odt",
+          "categoria": "old",
+          "score": 30
+        },
+        {
+          "nome": "PEDIDO ADMINISTRATIVO - NEGANDO.docx",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.docx",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.docx",
+          "categoria": "old",
+          "score": 27
+        },
+        {
+          "nome": "PRAZO ADAPTAÇÃO NO REGIME PARA PROGRESSÃO.odt",
+          "categoria": "old",
+          "score": 38
+        },
+        {
+          "nome": "PRISÃO DOMICILIAR  - INDEFERIMENTOS.odt",
+          "categoria": "old",
+          "score": 27
+        },
+        {
+          "nome": "PRISÃO DOMICILIAR - CONCEDENDO.docx",
+          "categoria": "old",
+          "score": 7
+        },
+        {
+          "nome": "PRISÃO DOMICILIAR - mãe de menores.odt",
+          "categoria": "old",
+          "score": 13
+        },
+        {
+          "nome": "PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.docx",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "prisão domiciliar reconsideração.odt",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "prisão domiciliar.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "Progressao - indefere - liderança facção comunicacao e periculosidade.odt",
+          "categoria": "old",
+          "score": 84
+        },
+        {
+          "nome": "progressao com DATA.odt",
+          "categoria": "old",
+          "score": 59
+        },
+        {
+          "nome": "progressao de regime - indefere - ausencia subjetivo.odt",
+          "categoria": "old",
+          "score": 95
+        },
+        {
+          "nome": "progressao de regime - indefere- acc regular ma.odt",
+          "categoria": "old",
+          "score": 57
+        },
+        {
+          "nome": "progressao de regime indeferimento sem subjetivo.odt",
+          "categoria": "old",
+          "score": 88
+        },
+        {
+          "nome": "PROGRESSAO DE REGIME SEMIABERTO- DEFERE.odt",
+          "categoria": "old",
+          "score": 43
+        },
+        {
+          "nome": "progressao indefere laudo criminologico.odt",
+          "categoria": "old",
+          "score": 58
+        },
+        {
+          "nome": "Progressao INDEFERIMENTO periculosidade no crime.odt",
+          "categoria": "old",
+          "score": 102
+        },
+        {
+          "nome": "progresso de regime - indefere - prisao preventiva em outro processo.odt",
+          "categoria": "old",
+          "score": 58
+        },
+        {
+          "nome": "PROGRESSÃO - reabilitação após sanção disciplinar.odt",
+          "categoria": "old",
+          "score": 47
+        },
+        {
+          "nome": "RECLUSÃO + RECLUSÃO SIMPLES.docx",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "RECONSIDERAÇÃO - Pecúlio - NEY PEREIRA.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "REFORMA DE DECISÃO ANTERIOR - ERRO MATERIAL.odt",
+          "categoria": "old",
+          "score": 22
+        },
+        {
+          "nome": "REGRESSÃO CABULOSA.odt",
+          "categoria": "old",
+          "score": 6
+        },
+        {
+          "nome": "RETIFICADA DA GEP 1 - data-base.odt",
+          "categoria": "old",
+          "score": 32
+        },
+        {
+          "nome": "retificação da GEP 1 - 8 mãe.odt",
+          "categoria": "old",
+          "score": 30
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.odt",
+          "categoria": "old",
+          "score": 51
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.odt",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+          "categoria": "old",
+          "score": 22
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - FRAÇÃO MULHER - DEFERE - PROGRESSÃO.odt",
+          "categoria": "old",
+          "score": 37
+        },
+        {
+          "nome": "retificação de guia - data base progressão e redução da pena.odt",
+          "categoria": "old",
+          "score": 28
+        },
+        {
+          "nome": "Retificação de Guia - Frações das Penas.odt",
+          "categoria": "old",
+          "score": 15
+        },
+        {
+          "nome": "retificação de guia 2-5 3-5.odt",
+          "categoria": "old",
+          "score": 59
+        },
+        {
+          "nome": "REVOGAÇÃO DE REGRESSÃO DECRETADA ANTES DO INÍCIO DO CUMPRIMENTO.odt",
+          "categoria": "old",
+          "score": 21
+        },
+        {
+          "nome": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.docx",
+          "categoria": "old",
+          "score": 16
+        },
+        {
+          "nome": "REVOGAÇÃO OU REFORMA DE DECISÕES.odt",
+          "categoria": "old",
+          "score": 87
+        },
+        {
+          "nome": "revogcao progressao.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "ROSIVANIA DA SILVA.odt",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "transferencia regime aberto.odt",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "TRANSFERÊNCIAS - DESPACHOS.docx",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.docx",
+          "categoria": "old",
+          "score": 15
+        },
+        {
+          "nome": "UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.odt",
+          "categoria": "old",
+          "score": 22
+        }
+      ]
+    },
+    "livramento": {
+      "count": 3,
+      "modelos": [
+        {
+          "nome": "INDULTO 1989 - INDEFERE.docx",
+          "categoria": "indulto",
+          "score": 24
+        },
+        {
+          "nome": "Continuidade Delitiva- indefere criminoso habitual.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.odt",
+          "categoria": "old",
+          "score": 12
+        }
+      ]
+    },
+    "indulto": {
+      "count": 13,
+      "modelos": [
+        {
+          "nome": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+          "categoria": "indulto",
+          "score": 15
+        },
+        {
+          "nome": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+          "categoria": "indulto",
+          "score": 5
+        },
+        {
+          "nome": "INDULTO 2022 - CONCEDENDO.docx",
+          "categoria": "indulto",
+          "score": 9
+        },
+        {
+          "nome": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.docx",
+          "categoria": "indulto",
+          "score": 25
+        },
+        {
+          "nome": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+          "categoria": "indulto",
+          "score": 15
+        },
+        {
+          "nome": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+          "categoria": "indulto",
+          "score": 22
+        },
+        {
+          "nome": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+          "categoria": "indulto",
+          "score": 48
+        },
+        {
+          "nome": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+          "categoria": "indulto",
+          "score": 60
+        },
+        {
+          "nome": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.docx",
+          "categoria": "indulto",
+          "score": 21
+        },
+        {
+          "nome": "comutação requisito objetivo indeferimento.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "comutação.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.odt",
+          "categoria": "old",
+          "score": 28
+        },
+        {
+          "nome": "indulto indeferimento decreto 8615.odt",
+          "categoria": "old",
+          "score": 9
+        }
+      ]
+    },
+    "retificacao": {
+      "count": 32,
+      "modelos": [
+        {
+          "nome": "erro material.odt",
+          "categoria": "decisoesvrep",
+          "score": 71
+        },
+        {
+          "nome": "HUGO SIMEONE pedido extinção de pena unificada.odt",
+          "categoria": "decisoesvrep",
+          "score": 23
+        },
+        {
+          "nome": "RET - data base ultima prisao - defere.docx",
+          "categoria": "decisoesvrep",
+          "score": 17
+        },
+        {
+          "nome": "RET GEP - corrige erro material separacao delitos da pena.odt",
+          "categoria": "decisoesvrep",
+          "score": 43
+        },
+        {
+          "nome": "RET GEP - corrige erro no marco temporal hediondo art 76 cp.odt",
+          "categoria": "decisoesvrep",
+          "score": 15
+        },
+        {
+          "nome": "RET GEP - defere data base ultima prisao.odt",
+          "categoria": "decisoesvrep",
+          "score": 20
+        },
+        {
+          "nome": "ret gep - defere detracao por outro crime posterior.docx",
+          "categoria": "decisoesvrep",
+          "score": 11
+        },
+        {
+          "nome": "RET GEP - desclassificacao 28 lei 11343 improcedente.docx",
+          "categoria": "decisoesvrep",
+          "score": 7
+        },
+        {
+          "nome": "RET GEP - MANTEM 3_5 reincidente especifico.odt",
+          "categoria": "decisoesvrep",
+          "score": 9
+        },
+        {
+          "nome": "RET GEP - mantem artigo 35 11343_06 2_3.odt",
+          "categoria": "decisoesvrep",
+          "score": 8
+        },
+        {
+          "nome": "RET GEP - pedido de detracao - indefere ja feita na gep.odt",
+          "categoria": "decisoesvrep",
+          "score": 40
+        },
+        {
+          "nome": "RET GEP - pedido generico2.docx",
+          "categoria": "decisoesvrep",
+          "score": 27
+        },
+        {
+          "nome": "RET GEP - RENCIDENCIA condição penal mesmo sentença primario .odt",
+          "categoria": "decisoesvrep",
+          "score": 15
+        },
+        {
+          "nome": "ret gep - retificacao de erro material.odt",
+          "categoria": "decisoesvrep",
+          "score": 118
+        },
+        {
+          "nome": "RET GEP indefe pedido ausencia de interesse processual.odt",
+          "categoria": "decisoesvrep",
+          "score": 9
+        },
+        {
+          "nome": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+          "categoria": "decisoesvrep",
+          "score": 15
+        },
+        {
+          "nome": "RET GEP preclusao da materia percentual nao conhece.odt",
+          "categoria": "decisoesvrep",
+          "score": 58
+        },
+        {
+          "nome": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+          "categoria": "decisoesvrep",
+          "score": 85
+        },
+        {
+          "nome": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+          "categoria": "decisoesvrep",
+          "score": 56
+        },
+        {
+          "nome": "Retificação de GEP - indefere detração - data base primeira prisão.odt",
+          "categoria": "decisoesvrep",
+          "score": 29
+        },
+        {
+          "nome": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+          "categoria": "retificacao",
+          "score": 87
+        },
+        {
+          "nome": "CERTIDÕES.odt",
+          "categoria": "old",
+          "score": 6
+        },
+        {
+          "nome": "decisão retificação da gep guia provisória indeferida.odt",
+          "categoria": "old",
+          "score": 19
+        },
+        {
+          "nome": "embargo declaracao acordao lei mais benefica.odt",
+          "categoria": "old",
+          "score": 13
+        },
+        {
+          "nome": "Indefere indulto 2013 e 2014 severino dorgival.odt",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+          "categoria": "old",
+          "score": 9
+        },
+        {
+          "nome": "RETIFICAÇÃO DA GEP - indefere - estupro - hediondo.odt",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.odt",
+          "categoria": "old",
+          "score": 21
+        },
+        {
+          "nome": "RETIFICAÇÃO DA GEP - novo entendimento data-base.odt",
+          "categoria": "old",
+          "score": 29
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.odt",
+          "categoria": "old",
+          "score": 10
+        },
+        {
+          "nome": "RETIFICAÇÃO DE GEP - DATA-BASE E DETRAÇÃO - DEFERE.odt",
+          "categoria": "old",
+          "score": 11
+        },
+        {
+          "nome": "retificação de guia - indefere cumprida a pena em prisão domiciliar.odt",
+          "categoria": "old",
+          "score": 11
+        }
+      ]
+    },
+    "multa": {
+      "count": 10,
+      "modelos": [
+        {
+          "nome": "Multa - Indefere Parcelamento (autoriza outro).odt",
+          "categoria": "decisoesvrep",
+          "score": 24
+        },
+        {
+          "nome": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.docx",
+          "categoria": "decisoesvrep",
+          "score": 21
+        },
+        {
+          "nome": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.docx",
+          "categoria": "decisoesvrep",
+          "score": 22
+        },
+        {
+          "nome": "multa defere parcelamento.docx",
+          "categoria": "decisoesvrep",
+          "score": 34
+        },
+        {
+          "nome": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.docx",
+          "categoria": "indulto",
+          "score": 39
+        },
+        {
+          "nome": "MULTA DEFERE PARCELAMENTO.docx",
+          "categoria": "remicao",
+          "score": 19
+        },
+        {
+          "nome": "Desclassifica art. 16 para o 12 da Lei 10.826.docx",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "desclassificao 16 para 14 com 2 processos.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "inicial multa completo.odt",
+          "categoria": "old",
+          "score": 5
+        },
+        {
+          "nome": "TEXTOS PARA DECISÕES.docx",
+          "categoria": "old",
+          "score": 6
+        }
+      ]
+    },
+    "falta": {
+      "count": 22,
+      "modelos": [
+        {
+          "nome": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.docx",
+          "categoria": "indulto",
+          "score": 18
+        },
+        {
+          "nome": "RET - data base 1 prisao.docx",
+          "categoria": "retificacao",
+          "score": 14
+        },
+        {
+          "nome": "COMUNICAÇÃO ELETRÔNICA.odt",
+          "categoria": "old",
+          "score": 4
+        },
+        {
+          "nome": "Decisão - Falta Grave sancao coletiva nao homologa.odt",
+          "categoria": "old",
+          "score": 16
+        },
+        {
+          "nome": "decisão regressão nao cumpriu  a punição.odt",
+          "categoria": "old",
+          "score": 20
+        },
+        {
+          "nome": "deixo de homologar falta grave celular.odt",
+          "categoria": "old",
+          "score": 17
+        },
+        {
+          "nome": "despacho monitoramento.odt",
+          "categoria": "old",
+          "score": 3
+        },
+        {
+          "nome": "despacho pad.odt",
+          "categoria": "old",
+          "score": 7
+        },
+        {
+          "nome": "FALTA GRAVE - PAD E NOVO CRIME.odt",
+          "categoria": "old",
+          "score": 27
+        },
+        {
+          "nome": "FALTA GRAVE - PAD.odt",
+          "categoria": "old",
+          "score": 22
+        },
+        {
+          "nome": "homologação e manter regimr.odt",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "homologação falta grave drogas.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "homologação falta grave fuga.odt",
+          "categoria": "old",
+          "score": 24
+        },
+        {
+          "nome": "juisprudencia nova LC.odt",
+          "categoria": "old",
+          "score": 25
+        },
+        {
+          "nome": "MODELOS FALTA MÉDIA.odt",
+          "categoria": "old",
+          "score": 13
+        },
+        {
+          "nome": "PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.docx",
+          "categoria": "old",
+          "score": 1
+        },
+        {
+          "nome": "RECONSIDERAÇÃO - regressão provisória.odt",
+          "categoria": "old",
+          "score": 12
+        },
+        {
+          "nome": "REGRESSAO cancelamento.odt",
+          "categoria": "old",
+          "score": 8
+        },
+        {
+          "nome": "REGRESSAO DEFINITIVA  rompimento e novo crime.odt",
+          "categoria": "old",
+          "score": 55
+        },
+        {
+          "nome": "regressão indeferido - aplicação de falta media.odt",
+          "categoria": "old",
+          "score": 14
+        },
+        {
+          "nome": "regressão por novo crime.odt",
+          "categoria": "old",
+          "score": 13
+        },
+        {
+          "nome": "regressão regime fechado.odt",
+          "categoria": "old",
+          "score": 12
+        }
+      ]
+    },
+    "saida": {
+      "count": 5,
+      "modelos": [
+        {
+          "nome": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.docx",
+          "categoria": "decisoesvrep",
+          "score": 9
+        },
+        {
+          "nome": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.docx",
+          "categoria": "decisoesvrep",
+          "score": 9
+        },
+        {
+          "nome": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+          "categoria": "decisoesvrep",
+          "score": 11
+        },
+        {
+          "nome": "RET GEP despacho monitoramento medida cautelar.odt",
+          "categoria": "decisoesvrep",
+          "score": 5
+        },
+        {
+          "nome": "AUTORIZA TRANSFERENCIA OUTRO ESTADO.odt",
+          "categoria": "old",
+          "score": 6
+        }
+      ]
+    },
+    "extincao": {
+      "count": 14,
+      "modelos": [
+        {
+          "nome": "ADVOGADO RENUNCIOU POREM NÃO JUNTOU NOTIFICAÇÃO.docx",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "decisão extinção de punibilidade por prescrição executoria.odt",
+          "categoria": "old",
+          "score": 15
+        },
+        {
+          "nome": "despacho determinando extinção do processo e abrindo novo PEC.odt",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "extinção punitiva.odt",
+          "categoria": "old",
+          "score": 21
+        },
+        {
+          "nome": "PRECRIÇÃO - punitiva.odt",
+          "categoria": "old",
+          "score": 64
+        },
+        {
+          "nome": "PRESCRIÇÃO - Concurso material- Continuidade delitiva.odt",
+          "categoria": "old",
+          "score": 59
+        },
+        {
+          "nome": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).odt",
+          "categoria": "old",
+          "score": 20
+        },
+        {
+          "nome": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).odt",
+          "categoria": "old",
+          "score": 48
+        },
+        {
+          "nome": "PRESCRIÇÃO - Fuga - Menor de 21a - Primário.odt",
+          "categoria": "old",
+          "score": 58
+        },
+        {
+          "nome": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+          "categoria": "old",
+          "score": 66
+        },
+        {
+          "nome": "PRESCRIÇÃO - Nunca iniciou - Medida de Segurança.odt",
+          "categoria": "old",
+          "score": 32
+        },
+        {
+          "nome": "PRESCRIÇÃO - Nunca iniciou - Primário - Maior de 21a.odt",
+          "categoria": "old",
+          "score": 52
+        },
+        {
+          "nome": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+          "categoria": "old",
+          "score": 66
+        },
+        {
+          "nome": "PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.odt",
+          "categoria": "old",
+          "score": 75
+        }
+      ]
+    },
+    "unificacao": {
+      "count": 14,
+      "modelos": [
+        {
+          "nome": "Decisão - revoga extincao calcula limite trintenario.odt",
+          "categoria": "decisoesvrep",
+          "score": 16
+        },
+        {
+          "nome": "RET GEP - indefere extinção limitação trintenaria.odt",
+          "categoria": "decisoesvrep",
+          "score": 19
+        },
+        {
+          "nome": "anulação decisão unificação.odt",
+          "categoria": "old",
+          "score": 10
+        },
+        {
+          "nome": "despacho oficiar.odt",
+          "categoria": "old",
+          "score": 2
+        },
+        {
+          "nome": "ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.odt",
+          "categoria": "old",
+          "score": 16
+        },
+        {
+          "nome": "MODELOS DE UNIFICAÇÃO.odt",
+          "categoria": "old",
+          "score": 57
+        },
+        {
+          "nome": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+          "categoria": "old",
+          "score": 7
+        },
+        {
+          "nome": "RECLUSÃO + DETENÇÃO SIMPLES.docx",
+          "categoria": "old",
+          "score": 48
+        },
+        {
+          "nome": "RECONSIDERAÇÃO - unificação de penas (petição louca).odt",
+          "categoria": "old",
+          "score": 25
+        },
+        {
+          "nome": "REFORMA DE UNIFICAÇÕES.docx",
+          "categoria": "old",
+          "score": 30
+        },
+        {
+          "nome": "UNIFICADA +  RECLUSAO + RECLUSAO.docx",
+          "categoria": "old",
+          "score": 15
+        },
+        {
+          "nome": "UNIFICADA + RECLUSÃO + DETENÇÃO.docx",
+          "categoria": "old",
+          "score": 49
+        },
+        {
+          "nome": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.docx",
+          "categoria": "old",
+          "score": 15
+        },
+        {
+          "nome": "unificação.odt",
+          "categoria": "old",
+          "score": 7
+        }
+      ]
+    },
+    "outros": {
+      "count": 8,
+      "modelos": [
+        {
+          "nome": "Continuidade Delitiva- indefere criminoso habitual.odt",
+          "categoria": "decisoesvrep",
+          "score": 3
+        },
+        {
+          "nome": "RET GEP - computo em dobro Curado - indefere.odt",
+          "categoria": "decisoesvrep",
+          "score": 4
+        },
+        {
+          "nome": "BUSCAR OBITO.docx",
+          "categoria": "old",
+          "score": 0
+        },
+        {
+          "nome": "Controle das Horas - R2 - Março 2023.docx",
+          "categoria": "old",
+          "score": 0
+        },
+        {
+          "nome": "despacho certifique-se.odt",
+          "categoria": "old",
+          "score": 0
+        },
+        {
+          "nome": "despacho reiterando ofício.odt",
+          "categoria": "old",
+          "score": 0
+        },
+        {
+          "nome": "despacho reiteração de ofício urgencia.odt",
+          "categoria": "old",
+          "score": 0
+        },
+        {
+          "nome": "pedido de escolta tratamento de suade.odt",
+          "categoria": "old",
+          "score": 0
+        }
+      ]
+    }
+  },
+  "doutrina": {
+    "remicao": {
+      "count": 2,
+      "citacoes": [
+        {
+          "id": "2019_curso_de_execucao_penal_2019",
+          "titulo": "Curso de Execução Penal",
+          "autor": "2019",
+          "citacaoABNT": "2019. Curso de Execução Penal. São Paulo: Saraiva, 2019.",
+          "score": 152,
+          "temasSecundarios": [
+            "progressao",
+            "livramento"
+          ]
+        },
+        {
+          "id": "maia_execucao_penal_e_criminologia",
+          "titulo": "Execucao penal e criminologia",
+          "autor": "Erick de Figueiredo Maia",
+          "citacaoABNT": "MAIA, Erick de Figueiredo. Execucao penal e criminologia.",
+          "score": 140,
+          "temasSecundarios": [
+            "progressao",
+            "falta"
+          ]
+        }
+      ]
+    },
+    "progressao": {
+      "count": 5,
+      "citacoes": [
+        {
+          "id": "2019_1_execucao_penal_5a_edica_2019",
+          "titulo": "2019 1 Execucao Penal 5a edição",
+          "autor": "",
+          "citacaoABNT": "2019 1 Execucao Penal 5a edição. 2019.",
+          "score": 85,
+          "temasSecundarios": [
+            "livramento",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "2019_2_codigo_penal_comentado_2019",
+          "titulo": "2019 2 Código Penal Comentado 10ª",
+          "autor": "",
+          "citacaoABNT": "2019 2 Código Penal Comentado 10ª. 2019.",
+          "score": 128,
+          "temasSecundarios": [
+            "unificacao",
+            "livramento"
+          ]
+        },
+        {
+          "id": "2020_curso_de_execucao_penal_2020",
+          "titulo": "Curso de Execução Penal",
+          "autor": "2020",
+          "citacaoABNT": "2020. Curso de Execução Penal. São Paulo: Forense, 2020.",
+          "score": 247,
+          "temasSecundarios": [
+            "unificacao",
+            "livramento"
+          ]
+        },
+        {
+          "id": "execucao_penal",
+          "titulo": "Execução Penal",
+          "autor": "",
+          "citacaoABNT": "Execução Penal.",
+          "score": 209,
+          "temasSecundarios": [
+            "falta",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "cunha_lei_de_execucao_penal_para_con_2017",
+          "titulo": "Lei de Execução Penal para Concursos",
+          "autor": "Rogério Sanches Cunha",
+          "citacaoABNT": "CUNHA, Rogério Sanches. Lei de Execução Penal para Concursos. São Paulo: JusPodivm, 2017.",
+          "score": 163,
+          "temasSecundarios": [
+            "unificacao",
+            "falta"
+          ]
+        }
+      ]
+    },
+    "livramento": {
+      "count": 3,
+      "citacoes": [
+        {
+          "id": "nucci_codigo_penal_comentado_2017",
+          "titulo": "Código Penal Comentado",
+          "autor": "Guilherme de Souza Nucci",
+          "citacaoABNT": "NUCCI, Guilherme de Souza. Código Penal Comentado. São Paulo: Forense, 2017.",
+          "score": 45,
+          "temasSecundarios": [
+            "unificacao",
+            "extincao"
+          ]
+        },
+        {
+          "id": "greco_codigo_penal_comentado_2017",
+          "titulo": "Código Penal Comentado",
+          "autor": "Rogério Greco",
+          "citacaoABNT": "GRECO, Rogério. Código Penal Comentado. São Paulo: Impetus, 2017.",
+          "score": 77,
+          "temasSecundarios": [
+            "progressao",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "2021.1_cs",
+          "titulo": "CS",
+          "autor": "2021.1",
+          "citacaoABNT": "2021.1. CS.",
+          "score": 111,
+          "temasSecundarios": [
+            "falta",
+            "progressao"
+          ]
+        }
+      ]
+    },
+    "indulto": {
+      "count": 10,
+      "citacoes": [
+        {
+          "id": "(2018)_caderno_sistematizado_de_direi_2018",
+          "titulo": "Caderno Sistematizado de Direito Constitucional",
+          "autor": "Parte I (2018)",
+          "citacaoABNT": "(2018), Parte I. Caderno Sistematizado de Direito Constitucional. 2018.",
+          "score": 56,
+          "temasSecundarios": [
+            "unificacao",
+            "falta"
+          ]
+        },
+        {
+          "id": "zanella_direito_administrativo_32ed",
+          "titulo": "Direito-Administrativo-32ed",
+          "autor": "Maria Sylvia Zanella",
+          "citacaoABNT": "ZANELLA, Maria Sylvia. Direito-Administrativo-32ed. 32. ed..",
+          "score": 34,
+          "temasSecundarios": [
+            "falta",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "-_cpc_2016_comentado_jose_miguel",
+          "titulo": "CPC 2016 Comentado José Miguel Garcia Medina",
+          "autor": "3ª ed.  2016 -",
+          "citacaoABNT": "-, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..",
+          "score": 37,
+          "temasSecundarios": [
+            "multa",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "codigo_civil_comentado_doutrin_2021",
+          "titulo": "Código Civil Comentado Doutrina e Jurisprudencia 2021",
+          "autor": "",
+          "citacaoABNT": "Código Civil Comentado Doutrina e Jurisprudencia 2021. 2021.",
+          "score": 18,
+          "temasSecundarios": [
+            "unificacao",
+            "retificacao"
+          ]
+        },
+        {
+          "id": "2020_direito_administrativo_2020",
+          "titulo": "Direito Administrativo",
+          "autor": "2020",
+          "citacaoABNT": "2020. Direito Administrativo. 33. ed.. São Paulo: Atlas, 2020.",
+          "score": 38,
+          "temasSecundarios": [
+            "falta",
+            "remicao"
+          ]
+        },
+        {
+          "id": "lenza_direito_constitucional_esquema",
+          "titulo": "Direito Constitucional Esquematizado",
+          "autor": "Pedro Lenza",
+          "citacaoABNT": "LENZA, Pedro. Direito Constitucional Esquematizado.",
+          "score": 105,
+          "temasSecundarios": [
+            "unificacao",
+            "falta"
+          ]
+        },
+        {
+          "id": "guilherme_nucci_2020_codigo_de_2020",
+          "titulo": "Guilherme Nucci 2020 Código de Processo Penal Comentado 1 130520010700",
+          "autor": "",
+          "citacaoABNT": "Guilherme Nucci 2020 Código de Processo Penal Comentado 1 130520010700. São Paulo: Forense, 2020.",
+          "score": 26,
+          "temasSecundarios": [
+            "falta",
+            "extincao"
+          ]
+        },
+        {
+          "id": "junior_legislacao_penal_especial_esqu_2017",
+          "titulo": "Legislação Penal Especial Esquematizado",
+          "autor": "Victor Eduardo Rios Gonçalves e José Paulo Baltazar Junior",
+          "citacaoABNT": "JUNIOR, Victor Eduardo Rios Gonçalves e José Paulo Baltazar. Legislação Penal Especial Esquematizado. 2017.",
+          "score": 115,
+          "temasSecundarios": [
+            "unificacao",
+            "progressao"
+          ]
+        },
+        {
+          "id": "2017_processo_penal",
+          "titulo": "Processo Penal",
+          "autor": "2017",
+          "citacaoABNT": "2017. Processo Penal.",
+          "score": 26,
+          "temasSecundarios": [
+            "falta",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "2016_renato_brasileiro_de_lima_2016",
+          "titulo": "Renato Brasileiro de Lima",
+          "autor": "2016",
+          "citacaoABNT": "2016. Renato Brasileiro de Lima. São Paulo: JusPodivm, 2016.",
+          "score": 37,
+          "temasSecundarios": [
+            "livramento",
+            "extincao"
+          ]
+        }
+      ]
+    },
+    "retificacao": {
+      "count": 1,
+      "citacoes": [
+        {
+          "id": "scavone_direito_imobiliario",
+          "titulo": "Direito Imobiliario",
+          "autor": "Luiz Antonio Junior Scavone",
+          "citacaoABNT": "SCAVONE, Luiz Antonio Junior. Direito Imobiliario.",
+          "score": 116,
+          "temasSecundarios": [
+            "multa",
+            "falta"
+          ]
+        }
+      ]
+    },
+    "multa": {
+      "count": 0,
+      "citacoes": []
+    },
+    "falta": {
+      "count": 7,
+      "citacoes": [
+        {
+          "id": "ok_codigo_brasileiro_de_defesa_do",
+          "titulo": "Código Brasileiro de Defesa do Consumidor",
+          "autor": "OK",
+          "citacaoABNT": "OK. Código Brasileiro de Defesa do Consumidor. 12. ed..",
+          "score": 29,
+          "temasSecundarios": [
+            "unificacao",
+            "remicao"
+          ]
+        },
+        {
+          "id": "brasileiro_codigo_de_processo_penal_comen_2017",
+          "titulo": "Código de Processo Penal Comentado",
+          "autor": "Renato Brasileiro",
+          "citacaoABNT": "BRASILEIRO, Renato. Código de Processo Penal Comentado. São Paulo: JusPodivm, 2017.",
+          "score": 31,
+          "temasSecundarios": [
+            "unificacao",
+            "progressao"
+          ]
+        },
+        {
+          "id": "donizetti_novo_codigo_de_processo_civil_2017",
+          "titulo": "Novo Código de Processo Civil Comentado",
+          "autor": "Elpídio Donizetti",
+          "citacaoABNT": "DONIZETTI, Elpídio. Novo Código de Processo Civil Comentado. São Paulo: Atlas, 2017.",
+          "score": 21,
+          "temasSecundarios": [
+            "multa",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "2017_curso_de_direito_processual_pe_2017",
+          "titulo": "Curso de Direito Processual Penal",
+          "autor": "2017",
+          "citacaoABNT": "2017. Curso de Direito Processual Penal. São Paulo: JusPodivm, 2017.",
+          "score": 21,
+          "temasSecundarios": [
+            "indulto",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "2017_codigo_de_processo_penal_comen_2017",
+          "titulo": "Código de Processo Penal Comentado",
+          "autor": "2017",
+          "citacaoABNT": "2017. Código de Processo Penal Comentado. São Paulo: JusPodivm, 2017.",
+          "score": 31,
+          "temasSecundarios": [
+            "unificacao",
+            "progressao"
+          ]
+        },
+        {
+          "id": "2021_execucao_penal_2021",
+          "titulo": "Execução Penal",
+          "autor": "2021",
+          "citacaoABNT": "2021. Execução Penal. 5. ed.. São Paulo: Saraiva, 2021.",
+          "score": 169,
+          "temasSecundarios": [
+            "progressao",
+            "unificacao"
+          ]
+        },
+        {
+          "id": "cunha_pacote_anticrime_lei_13_964201",
+          "titulo": "Pacote Anticrime — Lei 13.9642019 Comentários às Alterações no CP, CPP e LEP",
+          "autor": "Rogério Sanches Cunha",
+          "citacaoABNT": "CUNHA, Rogério Sanches. Pacote Anticrime — Lei 13.9642019 Comentários às Alterações no CP, CPP e LEP.",
+          "score": 46,
+          "temasSecundarios": [
+            "unificacao",
+            "progressao"
+          ]
+        }
+      ]
+    },
+    "saida": {
+      "count": 0,
+      "citacoes": []
+    },
+    "extincao": {
+      "count": 3,
+      "citacoes": [
+        {
+          "id": "mitidiero_novo_codigo_de_processo_civil_2017",
+          "titulo": "Novo Código de Processo Civil Comentado",
+          "autor": "Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel Mitidiero",
+          "citacaoABNT": "MITIDIERO, Luiz Guilherme Marinoni, Sérgio Cruz Arenhart e Daniel. Novo Código de Processo Civil Comentado. São Paulo: RT, 2017.",
+          "score": 20,
+          "temasSecundarios": [
+            "falta",
+            "multa"
+          ]
+        },
+        {
+          "id": "2020_1_manual_de_direito_civil_2020",
+          "titulo": "2020 1 Manual de Direito Civil 10ª",
+          "autor": "",
+          "citacaoABNT": "2020 1 Manual de Direito Civil 10ª. 2020.",
+          "score": 29,
+          "temasSecundarios": [
+            "remicao",
+            "multa"
+          ]
+        },
+        {
+          "id": "edição_codigo_civil_comentado",
+          "titulo": "Código Civil Comentado",
+          "autor": "1ª Edição",
+          "citacaoABNT": "EDIÇÃO, 1ª. Código Civil Comentado. 1. ed..",
+          "score": 96,
+          "temasSecundarios": [
+            "unificacao",
+            "falta"
+          ]
+        }
+      ]
+    },
+    "unificacao": {
+      "count": 3,
+      "citacoes": [
+        {
+          "id": "junior_curso_de_direito_processual_ci",
+          "titulo": "Curso de Direito Processual Civ",
+          "autor": "Humberto Theodoro Junior",
+          "citacaoABNT": "JUNIOR, Humberto Theodoro. Curso de Direito Processual Civ.",
+          "score": 28,
+          "temasSecundarios": [
+            "indulto",
+            "falta"
+          ]
+        },
+        {
+          "id": "2015_nestor_tavora_2015",
+          "titulo": "Nestor Távora",
+          "autor": "2015",
+          "citacaoABNT": "2015. Nestor Távora. São Paulo: JusPodivm, 2015.",
+          "score": 36,
+          "temasSecundarios": [
+            "extincao",
+            "falta"
+          ]
+        },
+        {
+          "id": "2015_rogerio_sanches_cunha_2015",
+          "titulo": "Rogério Sanches Cunha",
+          "autor": "2015",
+          "citacaoABNT": "2015. Rogério Sanches Cunha. São Paulo: JusPodivm, 2015.",
+          "score": 70,
+          "temasSecundarios": [
+            "livramento",
+            "falta"
+          ]
+        }
+      ]
+    },
+    "outros": {
+      "count": 0,
+      "citacoes": []
+    }
+  },
+  "jurisprudencia": {
+    "remicao": {
+      "count": 9,
+      "julgados": [
+        {
+          "id": "stj_rep_5",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Nada obstante a interpretação restritiva que deve ser conferida ao art. 126, §4º, da LEP, os princípios da individualização da pena, da dignidade da pessoa humana, da isonomia e da fraternidade, ao l",
+          "score": 36
+        },
+        {
+          "id": "stj_rep_26",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A remição de pena em razão do estudo a distância - EAD demanda a prévia integração da instituição ao Projeto Político-Pedagógico - PPP da unidade ou sistema prisional, não bastando o necessário crede",
+          "score": 29
+        },
+        {
+          "id": "stj_rep_27",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A remição de pena em razão do estudo a distância - EAD demanda a prévia integração da instituição ao Projeto Político-Pedagógico - PPP da unidade ou sistema prisional, não bastando o necessário crede",
+          "score": 29
+        },
+        {
+          "id": "stj_rep_28",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A remição de pena em razão do estudo a distância - EAD demanda a prévia integração da instituição ao Projeto Político-Pedagógico - PPP da unidade ou sistema prisional, não bastando o necessário crede",
+          "score": 29
+        },
+        {
+          "id": "stj_rep_46",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Em decorrência dos objetivos da execução penal, a leitura pode resultar na remição de pena, com fundamento no art. 126 da Lei de Execução Penal, desde que observados os requisitos previstos para sua ",
+          "score": 49
+        },
+        {
+          "id": "stj_rep_55",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO DA PENA. REMIÇÃO DA PENA. REMIÇÃO DECORRENTE DA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_56",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO DA PENA. REMIÇÃO DA PENA. REMIÇÃO DECORRENTE DA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_57",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO DA PENA. REMIÇÃO DA PENA. REMIÇÃO DECORRENTE DA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIA DE JOVENS E",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_68",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É possível a remição de parte do tempo de execução da pena quando o condenado, em regime fechado ou semiaberto, desempenha atividade laborativa extramuros\". Veja o Tema Repetitivo 917",
+          "score": 28
+        }
+      ]
+    },
+    "progressao": {
+      "count": 30,
+      "julgados": [
+        {
+          "id": "stj_sumula_562",
+          "tipo": "Súmula",
+          "numero": 562,
+          "texto": "É possível a remição de parte do tempo de execução da pena quando o condenado, em regime fechado ou semiaberto, desempenha atividade laborativa, ainda que extramuros.",
+          "score": 4
+        },
+        {
+          "id": "stj_sumula_534",
+          "tipo": "Súmula",
+          "numero": 534,
+          "texto": "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração.",
+          "score": 3
+        },
+        {
+          "id": "stj_sumula_493",
+          "tipo": "Súmula",
+          "numero": 493,
+          "texto": "É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto.",
+          "score": 2
+        },
+        {
+          "id": "stj_sumula_491",
+          "tipo": "Súmula",
+          "numero": 491,
+          "texto": "É inadmissível a chamada progressão per saltum de regime prisional.",
+          "score": 3
+        },
+        {
+          "id": "stj_sumula_471",
+          "tipo": "Súmula",
+          "numero": 471,
+          "texto": "Os condenados por crimes hediondos ou assemelhados cometidos antes da vigência da Lei n. 11.464/2007 sujeitam-se ao disposto no art. 112 da Lei n. 7.210/1984 (Lei de Execução Penal) para a progressão ",
+          "score": 4
+        },
+        {
+          "id": "stj_sumula_341",
+          "tipo": "Súmula",
+          "numero": 341,
+          "texto": "A frequência a curso de ensino formal é causa de remição de parte do tempo de execução de pena sob regime fechado ou semi-aberto.",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_1",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam ",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_2",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam ",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_9",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INADIMPLEMENTO DA PENA DE MULTA. (IM)POSSIBILIDADE DE SE CONDICIONAR A BENESSE AO PAGAMENTO",
+          "score": 6
+        },
+        {
+          "id": "stj_rep_10",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INADIMPLEMENTO DA PENA DE MULTA. (IM)POSSIBILIDADE DE SE CONDICIONAR A BENESSE AO PAGAMENTO",
+          "score": 6
+        },
+        {
+          "id": "stj_rep_11",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo ",
+          "score": 41
+        },
+        {
+          "id": "stj_rep_12",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo ",
+          "score": 41
+        },
+        {
+          "id": "stj_rep_13",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo ",
+          "score": 41
+        },
+        {
+          "id": "stj_rep_14",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo ",
+          "score": 41
+        },
+        {
+          "id": "stj_rep_15",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A decisão que defere a progressão de regime não tem natureza constitutiva, senão declaratória. O termo inicial para a progressão de regime deverá ser a data em que preenchidos os requisitos objetivo ",
+          "score": 41
+        },
+        {
+          "id": "stj_rep_16",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO. DATA DO EXAME CRIMINOL",
+          "score": 18
+        },
+        {
+          "id": "stj_rep_17",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO. DATA DO EXAME CRIMINOL",
+          "score": 18
+        },
+        {
+          "id": "stj_rep_18",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO. DATA DO EXAME CRIMINOL",
+          "score": 18
+        },
+        {
+          "id": "stj_rep_19",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO. DATA DO EXAME CRIMINOL",
+          "score": 18
+        },
+        {
+          "id": "stj_rep_20",
+          "tipo": "Decisão de Afetação",
+          "texto": "PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. EXECUÇÃO PENAL. TERMO INICIAL PARA NOVA PROGRESSÃO DE REGIME PRISIONAL. PREENCHIMENTO DO ÚLTIMO REQUISITO. DATA DO EXAME CRIMINOL",
+          "score": 18
+        },
+        {
+          "id": "stj_rep_21",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos ",
+          "score": 27
+        },
+        {
+          "id": "stj_rep_22",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos ",
+          "score": 27
+        },
+        {
+          "id": "stj_rep_23",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É válida a aplicação retroativa do percentual de 50% (cinquenta por cento), para fins de progressão de regime, a condenado por crime hediondo, com resultado morte, que seja reincidente genérico, nos ",
+          "score": 27
+        },
+        {
+          "id": "stj_rep_43",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O fato de o visitante cumprir pena privativa de liberdade em regime aberto ou em livramento condicional não impede, por si só, o direito à visita em estabelecimento prisional\". Veja o Tema Repetitivo",
+          "score": 26
+        },
+        {
+          "id": "stj_rep_44",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O fato de o visitante cumprir pena privativa de liberdade em regime aberto ou em livramento condicional não impede, por si só, o direito à visita em estabelecimento prisional\". Veja o Tema Repetitivo",
+          "score": 26
+        },
+        {
+          "id": "stj_rep_59",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto\". Veja o Tema Repetitivo 20",
+          "score": 9
+        },
+        {
+          "id": "stj_rep_60",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto\". Veja o Tema Repetitivo 20",
+          "score": 9
+        },
+        {
+          "id": "stj_rep_61",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É inadmissível a fixação de pena substitutiva (art. 44 do CP) como condição especial ao regime aberto\". Veja o Tema Repetitivo 20",
+          "score": 9
+        },
+        {
+          "id": "stj_rep_65",
+          "tipo": "Recurso Repetitivo",
+          "texto": "RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA (ART. 543-C DO CPP). PENAL. TRÁFICO DE DROGAS. APLICAÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. CAUSA DE DIMINUIÇÃO. CARÁTER HEDIONDO. MANUTENÇÃO. DEL",
+          "score": 7
+        },
+        {
+          "id": "stj_rep_73",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A inexistência de estabelecimento penal adequado ao regime prisional determinado para o cumprimento da pena não autoriza a concessão imediata do benefício da prisão domiciliar, porquanto, nos termos ",
+          "score": 43
+        }
+      ]
+    },
+    "livramento": {
+      "count": 4,
+      "julgados": [
+        {
+          "id": "stj_sumula_617",
+          "tipo": "Súmula",
+          "numero": 617,
+          "texto": "A ausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena.",
+          "score": 5
+        },
+        {
+          "id": "stj_sumula_441",
+          "tipo": "Súmula",
+          "numero": 441,
+          "texto": "A falta grave não interrompe o prazo para obtenção de livramento condicional.",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_24",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A reincidência pode ser admitida pelo juízo das execuções penais para análise da concessão de benefícios, ainda que não reconhecida pelo juízo que prolatou a sentença condenatória\". Veja o Tema Repet",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_25",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A reincidência pode ser admitida pelo juízo das execuções penais para análise da concessão de benefícios, ainda que não reconhecida pelo juízo que prolatou a sentença condenatória\". Veja o Tema Repet",
+          "score": 2
+        }
+      ]
+    },
+    "indulto": {
+      "count": 4,
+      "julgados": [
+        {
+          "id": "stj_sumula_535",
+          "tipo": "Súmula",
+          "numero": 535,
+          "texto": "A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto.",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_45",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"É possível, conforme o artigo 42 do Código Penal, o cômputo do período de prisão provisória na análise dos requisitos para a concessão do indulto e da comutação previstos nos respectivos decretos\". V",
+          "score": 20
+        },
+        {
+          "id": "stj_rep_49",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O indulto previsto no Decreto n. 11.846/2023 não se aplica ao condenado por tráfico de drogas na forma do caput e § 1º do art. 33 da Lei de Drogas, vedação essa que abrange a pena de multa eventualme",
+          "score": 14
+        },
+        {
+          "id": "stj_rep_50",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O indulto previsto no Decreto n. 11.846/2023 não se aplica ao condenado por tráfico de drogas na forma do caput e § 1º do art. 33 da Lei de Drogas, vedação essa que abrange a pena de multa eventualme",
+          "score": 14
+        }
+      ]
+    },
+    "retificacao": {
+      "count": 0,
+      "julgados": []
+    },
+    "multa": {
+      "count": 20,
+      "julgados": [
+        {
+          "id": "stj_sumula_521",
+          "tipo": "Súmula",
+          "numero": 521,
+          "texto": "A legitimidade para a execução fiscal de multa pendente de pagamento imposta em sentença condenatória é exclusiva da Procuradoria da Fazenda Pública.",
+          "score": 4
+        },
+        {
+          "id": "stj_rep_29",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_30",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_31",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_32",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_33",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_34",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_35",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_36",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_37",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_38",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_39",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_40",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_41",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_42",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O adicional noturno não será devido ao servidor da então carreira de Agente Federal de Execução Penal nos períodos de afastamento, ainda que considerados como de efetivo exercício\". Veja o Tema Repet",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_58",
+          "tipo": "Decisão de Afetação",
+          "texto": "EXECUÇÃO PENAL. PROPOSTA DE AFETAÇÃO AO RITO DOS RECURSOS REPETITIVOS. EXECUÇÃO. PENA DE MULTA. PRESCRIÇÃO. ART. 114, II, DO CÓDIGO PENAL. MESMO PRAZO PREVISTO PARA A PENA PRIVATIVA DE LIBERDADE. REQU",
+          "score": 4
+        },
+        {
+          "id": "stj_rep_69",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se ",
+          "score": 44
+        },
+        {
+          "id": "stj_rep_70",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O inadimplemento da pena de multa, após cumprida a pena privativa de liberdade ou restritiva de direitos, não obsta a extinção da punibilidade, ante a alegada hipossuficiência do condenado, salvo se ",
+          "score": 49
+        },
+        {
+          "id": "stj_rep_71",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconheciment",
+          "score": 40
+        },
+        {
+          "id": "stj_rep_72",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconheciment",
+          "score": 40
+        }
+      ]
+    },
+    "falta": {
+      "count": 16,
+      "julgados": [
+        {
+          "id": "stj_sumula_668",
+          "tipo": "Súmula",
+          "numero": 668,
+          "texto": "Não é hediondo o delito de porte ou posse de arma de fogo de uso permitido, ainda que com numeração, marca ou qualquer outro sinal de identificação raspado, suprimido ou adulterado.",
+          "score": 1
+        },
+        {
+          "id": "stj_sumula_661",
+          "tipo": "Súmula",
+          "numero": 661,
+          "texto": "A falta grave prescinde da perícia do celular apreendido ou de seus componentes essenciais.",
+          "score": 2
+        },
+        {
+          "id": "stj_sumula_660",
+          "tipo": "Súmula",
+          "numero": 660,
+          "texto": "A posse, pelo apenado, de aparelho celular ou de seus componentes essenciais constitui falta grave.",
+          "score": 2
+        },
+        {
+          "id": "stj_sumula_533",
+          "tipo": "Súmula",
+          "numero": 533,
+          "texto": "Para o reconhecimento da prática de falta disciplinar no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o",
+          "score": 2
+        },
+        {
+          "id": "stj_sumula_526",
+          "tipo": "Súmula",
+          "numero": 526,
+          "texto": "O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal in",
+          "score": 2
+        },
+        {
+          "id": "stj_rep_6",
+          "tipo": "Decisão de Afetação",
+          "texto": "RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO SOB O RITO DOS RECURSOS REPETITIVOS (ARTS. 1.036 DO CPC E 256, I, DO RISTJ). EXECUÇÃO PENAL. FALTA DISCIPLINAR. INEXISTÊNCIA DE LEGISLAÇÃO ESPECÍFICA. LAPSO PRES",
+          "score": 4
+        },
+        {
+          "id": "stj_rep_7",
+          "tipo": "Decisão de Afetação",
+          "texto": "RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO SOB O RITO DOS RECURSOS REPETITIVOS (ARTS. 1.036 DO CPC E 256, I, DO RISTJ). EXECUÇÃO PENAL. FALTA DISCIPLINAR. INEXISTÊNCIA DE LEGISLAÇÃO ESPECÍFICA. LAPSO PRES",
+          "score": 4
+        },
+        {
+          "id": "stj_rep_8",
+          "tipo": "Decisão de Afetação",
+          "texto": "RECURSO ESPECIAL. PROPOSTA DE AFETAÇÃO SOB O RITO DOS RECURSOS REPETITIVOS (ARTS. 1.036 DO CPC E 256, I, DO RISTJ). EXECUÇÃO PENAL. FALTA DISCIPLINAR. INEXISTÊNCIA DE LEGISLAÇÃO ESPECÍFICA. LAPSO PRES",
+          "score": 4
+        },
+        {
+          "id": "stj_rep_47",
+          "tipo": "Decisão de Afetação",
+          "texto": "RECURSO ESPECIAL. PROPOSTA DE JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. EXECUÇÃO PENAL. DESCUMPRIMENTO DO PERÍMETRO FIXADO PARA MONITORAMENTO DE TORNOZELEIRA ELETRÔNICA. CARACTERIZAÇÃO DE FALTA ",
+          "score": 6
+        },
+        {
+          "id": "stj_rep_48",
+          "tipo": "Decisão de Afetação",
+          "texto": "RECURSO ESPECIAL. PROPOSTA DE JULGAMENTO SOB O RITO DOS RECURSOS REPETITIVOS. EXECUÇÃO PENAL. DESCUMPRIMENTO DO PERÍMETRO FIXADO PARA MONITORAMENTO DE TORNOZELEIRA ELETRÔNICA. CARACTERIZAÇÃO DE FALTA ",
+          "score": 6
+        },
+        {
+          "id": "stj_rep_51",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a ",
+          "score": 21
+        },
+        {
+          "id": "stj_rep_52",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a ",
+          "score": 21
+        },
+        {
+          "id": "stj_rep_53",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A regressão cautelar de regime prisional é medida de caráter provisório e está autorizada pelo poder geral de cautela do juízo da execução, podendo ser aplicada, mediante fundamentação idônea, até a ",
+          "score": 20
+        },
+        {
+          "id": "stj_rep_54",
+          "tipo": "Decisão de Afetação",
+          "texto": "DIREITO PENAL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPETÊNCIA DA TERCEIRA SEÇÃO. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. PRÉVIA OITIVA DO APENADO. CONTROVÉRSIA N. 592 DO STJ. PROPOSTA DE",
+          "score": 13
+        },
+        {
+          "id": "stj_rep_66",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado",
+          "score": 9
+        },
+        {
+          "id": "stj_rep_67",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal i",
+          "score": 8
+        }
+      ]
+    },
+    "saida": {
+      "count": 5,
+      "julgados": [
+        {
+          "id": "stj_sumula_520",
+          "tipo": "Súmula",
+          "numero": 520,
+          "texto": "O benefício de saída temporária no âmbito da execução penal é ato jurisdicional insuscetível de delegação à autoridade administrativa do estabelecimento prisional.",
+          "score": 2
+        },
+        {
+          "id": "stj_sumula_40",
+          "tipo": "Súmula",
+          "numero": 40,
+          "texto": "Para obtenção dos benefícios de saída temporária e trabalho externo, considera-se o tempo de cumprimento da pena no regime fechado.",
+          "score": 3
+        },
+        {
+          "id": "stj_rep_62",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Primeira tese: É recomendável que cada autorização de saída temporária do preso seja precedida de decisão judicial motivada. Entretanto, se a apreciação individual do pedido estiver, por deficiência ",
+          "score": 21
+        },
+        {
+          "id": "stj_rep_63",
+          "tipo": "Recurso Repetitivo",
+          "texto": "RECURSO ESPECIAL REPETITIVO. EXECUÇÃO PENAL. CONCESSÃO DE SAÍDAS TEMPORÁRIAS. IMPOSSIBILIDADE DE DELEGAÇÃO DE FUNÇÃO JURISDICIONAL AO ADMINISTRADOR DO PRESÍDIO. LIMITE ESTABELECIDO EM 35 (TRINTA E CIN",
+          "score": 6
+        },
+        {
+          "id": "stj_rep_64",
+          "tipo": "Recurso Repetitivo",
+          "texto": "RECURSO ESPECIAL REPETITIVO. EXECUÇÃO PENAL. CONCESSÃO DE SAÍDAS TEMPORÁRIAS. IMPOSSIBILIDADE DE DELEGAÇÃO DE FUNÇÃO JURISDICIONAL AO ADMINISTRADOR DO PRESÍDIO. LIMITE ESTABELECIDO EM 35 (TRINTA E CIN",
+          "score": 6
+        }
+      ]
+    },
+    "extincao": {
+      "count": 0,
+      "julgados": []
+    },
+    "unificacao": {
+      "count": 6,
+      "julgados": [
+        {
+          "id": "stj_sumula_527",
+          "tipo": "Súmula",
+          "numero": 527,
+          "texto": "O tempo de duração da medida de segurança não deve ultrapassar o limite máximo da pena abstratamente cominada ao delito praticado.",
+          "score": 1
+        },
+        {
+          "id": "stj_sumula_192",
+          "tipo": "Súmula",
+          "numero": 192,
+          "texto": "Compete ao juízo das execuções penais do Estado a execução das penas impostas a sentenciados pela Justiça Federal, Militar ou Eleitoral, quando recolhidos a estabelecimentos sujeitos a administração e",
+          "score": 1
+        },
+        {
+          "id": "stj_rep_3",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de l",
+          "score": 11
+        },
+        {
+          "id": "stj_rep_4",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"Sobrevindo condenação por pena privativa de liberdade no curso da execução de pena restritiva de direitos, as penas serão objeto de unificação, com a reconversão da pena alternativa em privativa de l",
+          "score": 11
+        },
+        {
+          "id": "stj_rep_74",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios\". Veja o Tema Repetitivo 1006",
+          "score": 16
+        },
+        {
+          "id": "stj_rep_75",
+          "tipo": "Recurso Repetitivo",
+          "texto": "\"A unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios\". Veja o Tema Repetitivo 1006",
+          "score": 16
+        }
+      ]
+    },
+    "outros": {
+      "count": 6,
+      "julgados": [
+        {
+          "id": "stj_sumula_662",
+          "tipo": "Súmula",
+          "numero": 662,
+          "texto": "Para a prorrogação do prazo de permanência no sistema penitenciário federal, é prescindível a ocorrência de fato novo; basta constar, em decisão fundamentada, a persistência dos motivos que ensejaram ",
+          "score": 0
+        },
+        {
+          "id": "stj_sumula_643",
+          "tipo": "Súmula",
+          "numero": 643,
+          "texto": "A execução da pena restritiva de direitos depende do trânsito em julgado da condenação.",
+          "score": 0
+        },
+        {
+          "id": "stj_sumula_639",
+          "tipo": "Súmula",
+          "numero": 639,
+          "texto": "Não fere o contraditório e o devido processo decisão que, sem ouvida prévia da defesa, determine transferência ou permanência de custodiado em estabelecimento penitenciário federal.",
+          "score": 0
+        },
+        {
+          "id": "stj_sumula_604",
+          "tipo": "Súmula",
+          "numero": 604,
+          "texto": "O mandado de segurança não se presta para atribuir efeito suspensivo a recurso criminal interposto pelo Ministério Público.",
+          "score": 0
+        },
+        {
+          "id": "stj_sumula_439",
+          "tipo": "Súmula",
+          "numero": 439,
+          "texto": "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.",
+          "score": 0
+        },
+        {
+          "id": "stj_sumula_347",
+          "tipo": "Súmula",
+          "numero": 347,
+          "texto": "O conhecimento de recurso de apelação do réu independe de sua prisão.",
+          "score": 0
+        }
+      ]
+    }
+  },
+  "legislacao": {
+    "remicao": {
+      "count": 0,
+      "leis": []
+    },
+    "progressao": {
+      "count": 1,
+      "leis": [
+        {
+          "id": "lei_execucao_penal",
+          "apelido": "LEP",
+          "titulo": "Lei de Execução Penal - Lei nº 7.210/1984",
+          "score": 1
+        }
+      ]
+    },
+    "livramento": {
+      "count": 2,
+      "leis": [
+        {
+          "id": "codigo_penal",
+          "apelido": "CP",
+          "titulo": "Código Penal - Decreto-Lei nº 2.848/1940",
+          "score": 1
+        },
+        {
+          "id": "codigo_penal_militar",
+          "apelido": "CPM",
+          "titulo": "Código Penal Militar - Decreto-Lei nº 1.001/1969",
+          "score": 1
+        }
+      ]
+    },
+    "indulto": {
+      "count": 7,
+      "leis": [
+        {
+          "id": "constituicao_federal",
+          "apelido": "CF/88",
+          "titulo": "Constituição da República Federativa do Brasil de 1988",
+          "score": 1
+        },
+        {
+          "id": "indulto_2025",
+          "apelido": "Indulto 2025",
+          "titulo": "Decreto de Indulto Natalino 2025 - Decreto nº 12.790/2025",
+          "score": 2
+        },
+        {
+          "id": "indulto_2024",
+          "apelido": "Indulto 2024",
+          "titulo": "Decreto de Indulto Natalino 2024 - Decreto nº 12.338/2024",
+          "score": 2
+        },
+        {
+          "id": "indulto_2023",
+          "apelido": "Indulto 2023",
+          "titulo": "Decreto de Indulto Natalino 2023 - Decreto nº 11.846/2023",
+          "score": 2
+        },
+        {
+          "id": "indulto_2022",
+          "apelido": "Indulto 2022",
+          "titulo": "Decreto de Indulto Natalino 2022 - Decreto nº 11.302/2022",
+          "score": 2
+        },
+        {
+          "id": "indulto_2021",
+          "apelido": "Indulto 2021",
+          "titulo": "Decreto de Indulto Natalino 2021 - Decreto nº 10.913/2021",
+          "score": 2
+        },
+        {
+          "id": "lei_tortura",
+          "apelido": "Lei 9.455",
+          "titulo": "Lei de Tortura - Lei nº 9.455/1997",
+          "score": 1
+        }
+      ]
+    },
+    "retificacao": {
+      "count": 0,
+      "leis": []
+    },
+    "multa": {
+      "count": 0,
+      "leis": []
+    },
+    "falta": {
+      "count": 0,
+      "leis": []
+    },
+    "saida": {
+      "count": 0,
+      "leis": []
+    },
+    "extincao": {
+      "count": 0,
+      "leis": []
+    },
+    "unificacao": {
+      "count": 0,
+      "leis": []
+    },
+    "outros": {
+      "count": 26,
+      "leis": [
+        {
+          "id": "codigo_processo_penal",
+          "apelido": "CPP",
+          "titulo": "Código de Processo Penal - Decreto-Lei nº 3.689/1941",
+          "score": 0
+        },
+        {
+          "id": "codigo_processo_civil",
+          "apelido": "CPC",
+          "titulo": "Código de Processo Civil - Lei nº 13.105/2015",
+          "score": 0
+        },
+        {
+          "id": "lei_crimes_hediondos",
+          "apelido": "Lei 8.072",
+          "titulo": "Lei dos Crimes Hediondos - Lei nº 8.072/1990",
+          "score": 0
+        },
+        {
+          "id": "lei_drogas",
+          "apelido": "Lei 11.343",
+          "titulo": "Lei de Drogas - Lei nº 11.343/2006",
+          "score": 0
+        },
+        {
+          "id": "estatuto_desarmamento",
+          "apelido": "Lei 10.826",
+          "titulo": "Estatuto do Desarmamento - Lei nº 10.826/2003",
+          "score": 0
+        },
+        {
+          "id": "lei_organizacao_criminosa",
+          "apelido": "Lei 12.850",
+          "titulo": "Lei das Organizações Criminosas - Lei nº 12.850/2013",
+          "score": 0
+        },
+        {
+          "id": "codigo_civil",
+          "apelido": "CC",
+          "titulo": "Código Civil - Lei nº 10.406/2002",
+          "score": 0
+        },
+        {
+          "id": "lei_maria_penha",
+          "apelido": "Lei 11.340",
+          "titulo": "Lei Maria da Penha - Lei nº 11.340/2006",
+          "score": 0
+        },
+        {
+          "id": "lei_juizados_especiais",
+          "apelido": "Lei 9.099",
+          "titulo": "Lei dos Juizados Especiais - Lei nº 9.099/1995",
+          "score": 0
+        },
+        {
+          "id": "lei_crimes_ambientais",
+          "apelido": "Lei 9.605",
+          "titulo": "Lei de Crimes Ambientais - Lei nº 9.605/1998",
+          "score": 0
+        },
+        {
+          "id": "lei_execucao_fiscal",
+          "apelido": "LEF",
+          "titulo": "Lei de Execuções Fiscais - Lei nº 6.830/1980",
+          "score": 0
+        },
+        {
+          "id": "lei_lavagem_dinheiro",
+          "apelido": "Lei 9.613",
+          "titulo": "Lei de Lavagem de Dinheiro - Lei nº 9.613/1998",
+          "score": 0
+        },
+        {
+          "id": "eca",
+          "apelido": "ECA",
+          "titulo": "Estatuto da Criança e do Adolescente - Lei nº 8.069/1990",
+          "score": 0
+        },
+        {
+          "id": "codigo_transito",
+          "apelido": "CTB",
+          "titulo": "Código de Trânsito Brasileiro - Lei nº 9.503/1997",
+          "score": 0
+        },
+        {
+          "id": "lei_contravencoes",
+          "apelido": "LCP",
+          "titulo": "Lei das Contravenções Penais - Decreto-Lei nº 3.688/1941",
+          "score": 0
+        },
+        {
+          "id": "lei_abuso_autoridade",
+          "apelido": "Lei 13.869",
+          "titulo": "Lei de Abuso de Autoridade - Lei nº 13.869/2019",
+          "score": 0
+        },
+        {
+          "id": "lei_crimes_financeiros",
+          "apelido": "Lei 7.492",
+          "titulo": "Lei de Crimes contra o Sistema Financeiro - Lei nº 7.492/1986",
+          "score": 0
+        },
+        {
+          "id": "lei_antitruste",
+          "apelido": "Lei 12.529",
+          "titulo": "Lei de Defesa da Concorrência (CADE) - Lei nº 12.529/2011",
+          "score": 0
+        },
+        {
+          "id": "lei_crimes_tributarios",
+          "apelido": "Lei 8.137",
+          "titulo": "Lei de Crimes contra a Ordem Tributária - Lei nº 8.137/1990",
+          "score": 0
+        },
+        {
+          "id": "cdc",
+          "apelido": "CDC",
+          "titulo": "Código de Defesa do Consumidor - Lei nº 8.078/1990",
+          "score": 0
+        },
+        {
+          "id": "lgpd",
+          "apelido": "LGPD",
+          "titulo": "Lei Geral de Proteção de Dados - Lei nº 13.709/2018",
+          "score": 0
+        },
+        {
+          "id": "codigo_processo_penal_militar",
+          "apelido": "CPPM",
+          "titulo": "Código de Processo Penal Militar - Decreto-Lei nº 1.002/1969",
+          "score": 0
+        },
+        {
+          "id": "lei_licitacoes",
+          "apelido": "Lei 14.133",
+          "titulo": "Nova Lei de Licitações - Lei nº 14.133/2021",
+          "score": 0
+        },
+        {
+          "id": "estatuto_servidores",
+          "apelido": "Lei 8.112",
+          "titulo": "Estatuto dos Servidores Públicos Federais - Lei nº 8.112/1990",
+          "score": 0
+        },
+        {
+          "id": "codigo_tributario_nacional",
+          "apelido": "CTN",
+          "titulo": "Código Tributário Nacional - Lei nº 5.172/1966",
+          "score": 0
+        },
+        {
+          "id": "codigo_eleitoral",
+          "apelido": "Código Eleitoral",
+          "titulo": "Código Eleitoral - Lei nº 4.737/1965",
+          "score": 0
+        }
+      ]
+    }
+  }
+}

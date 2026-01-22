@@ -1,0 +1,65 @@
+{
+    "suite": "retificacao",
+    "descricao": "Testes para matéria de retificação de cálculos e prazos",
+    "casos": [
+        {
+            "id": "ret-001",
+            "nome": "Retificação de data-base - Deferimento",
+            "insumos": "Defesa requer retificação da data-base para data da última prisão. Cálculo estava usando data de sentença.",
+            "orientacao": "Deferir retificação da data-base",
+            "agrupador": "retificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_data_base"
+            ]
+        },
+        {
+            "id": "ret-002",
+            "nome": "Retificação - Indeferimento prescrição intercorrente",
+            "insumos": "Defesa alega prescrição intercorrente. Cálculo mostra que não houve inércia estatal.",
+            "orientacao": "Indeferir - não configurada prescrição",
+            "agrupador": "retificacao",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_prescricao"
+            ]
+        },
+        {
+            "id": "ret-003",
+            "nome": "Unificação de penas - Deferimento",
+            "insumos": "Apenado com duas condenações não unificadas. Requer unificação para cálculo correto de benefícios.",
+            "orientacao": "Deferir unificação das penas",
+            "agrupador": "retificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_unificacao"
+            ]
+        },
+        {
+            "id": "ret-004",
+            "nome": "Detração - Deferimento prisão preventiva",
+            "insumos": "Apenado ficou 180 dias preso preventivamente antes da condenação. Requer detração.",
+            "orientacao": "Deferir detração de 180 dias",
+            "agrupador": "retificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "calculo_detracao"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

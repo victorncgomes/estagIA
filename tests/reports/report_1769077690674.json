@@ -1,0 +1,108 @@
+{
+  "dataExecucao": "2026-01-22T10:28:10.672Z",
+  "totalCasos": 5,
+  "totalSucesso": 1,
+  "taxaGlobal": "20.0",
+  "suites": [
+    {
+      "suite": "remicao",
+      "casos": [
+        {
+          "id": "rem-001",
+          "nome": "Remição por estudo - Deferimento ENEM",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3390,
+          "tamanho": 1496,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1496,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos, etc.\n\nRequer o apenado a remição de pena, alegando participação e obtenção de nota acima da média no Exame Nacional do Ensino Médio (ENEM), conforme se depreende dos documentos acostados aos a"
+        },
+        {
+          "id": "rem-002",
+          "nome": "Remição por estudo - Indeferimento sem acréscimo intelectual",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 2960,
+          "tamanho": 1462,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 75,
+            "tamanho": 1462,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos, etc.\n\nRequer o apenado a remição da pena em razão da conclusão de curso de culinária básica, com carga horária de 4 horas (evento X). O Ministério Público manifestou-se pelo indeferimento "
+        },
+        {
+          "id": "rem-003",
+          "nome": "Remição por trabalho - Deferimento",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 2177,
+          "tamanho": 880,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 75,
+            "tamanho": 880,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos, etc.\n\nApenado apresenta comprovante de 180 dias de trabalho na cozinha do presídio, conforme atestado da direção anexo, e requer a remição da pena correspondente (evento X).\n\nRelatados.\n\nA"
+        },
+        {
+          "id": "rem-004",
+          "nome": "Remição por leitura - Deferimento parcial",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 2970,
+          "tamanho": 1243,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1243,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos, etc.\n\nO apenado pleiteia remição da pena por meio da apresentação de resenhas de obras literárias, juntando comprovantes de 5 (cinco) resenhas, das quais 3 (três) foram aprovadas e 2 (duas"
+        },
+        {
+          "id": "rem-005",
+          "nome": "Remição ENCCEJA - Indeferimento mesmo fato gerador",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3286,
+          "tamanho": 1529,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1529,
+            "tamanho_ok": true
+          },
+          "preview": "```\nVistos etc.\n\nRequer o apenado a remição de sua pena, alegando aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) de 2022 (evento X.1).\n\nRelatados.\n\nO pedid"
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 1,
+        "taxa": "20.0"
+      }
+    }
+  ]
+}

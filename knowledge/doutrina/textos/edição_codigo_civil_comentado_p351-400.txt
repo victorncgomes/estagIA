@@ -1,0 +1,2091 @@
+[META]
+TITULO: Código Civil Comentado
+AUTOR: 1ª Edição
+ANO: N/A
+EDICAO: 1
+EDITORA: N/A
+PAGINAS: 351-400
+ARQUIVO_ORIGINAL: Código Civil Comentado - Doutrina e Jurisprudência - 1ª Edição.pdf
+CITACAO_ABNT: EDIÇÃO, 1ª. Código Civil Comentado. 1. ed..
+[/META]
+
+[PAGINA 351]
+rompimento de nexo
+causal, o que faz desaparecer o dever de indenizar. Mas o que se considera caso
+fortuito ou de força maior? São fatos necessários cujos efeitos não era possível evitar
+ou impedir. O conceito de “não impedir” passa por previsibilidade do evento. Passa
+por evitabilidade de seus efeitos de acordo com o standard do homem médio, ou seja,
+não a pessoa em concreto do devedor. Assim, as condições pessoais do devedor não
+são  levadas  em  conta  para  a  verificação  desses  elementos.  O  furacão  pode  ser
+previsto  com  grande  grau  de  certeza  pela  meteorologia,  mas  seus  efeitos  são
+inevitáveis e, por isso, rompe o nexo causal. A greve que é informada ao público
+pode ser prevista, mas a cidade para sem o transporte público, e não há como se
+evitar o efeito. Há diversas teorias que pretendem distinguir os conceitos de caso
+fortuito  e  de  força  maior  (por  todos,  Washington  de  Barros  Monteiro, Curso  de
+Direito Civil: Obrigações, Segunda parte). As que se destacam são aquelas que tratam
+os fatores da natureza e o fato humano como elemento de distinção. Curiosamente, os
+
+autores divergem com esses critérios. Para alguns, se o evento está ligado à natureza,
+estamos diante de força maior, e, se está ligado ao ser humano, estamos diante de caso
+fortuito  (por  todos,  Carvalho  Santos).  Para  outros,  é  exatamente  o  contrário:  se  o
+evento  está  ligado  à  natureza,  estamos  diante  de  caso  fortuito  e  se  está  ligado  à
+atividade humana, estamos diante de força maior (por todos, Clóvis Beviláqua). Há,
+ainda, os que utilizam o critério de previsibilidade como diferenciador. Se o evento
+for previsível, estamos diante de caso fortuito, mas se imprevisível estamos diante da
+força maior. A importante distinção se dá no âmbito do direito do consumidor, que
+abandona as categorias do caso fortuito e de força maior e adota a noção de fortuito
+interno e externo. O fortuito interno está ligado à atividade do fornecedor e o externo
+é estranho à atividade. É por isso que o fortuito externo afasta o dever de indenizar e
+o interno não. É esse o teor do Enunciado n. 443 da V Jornada de Direito Civil: “O
+caso  fortuito  e  a  força  maior  somente  serão  considerados  como  excludentes  da
+responsabilidade  civil  quando  o  fato  gerador  do  dano  não  for  conexo  à  atividade
+desenvolvida”. Se há uma explosão em um posto de gasolina em razão de faísca ou
+uso de celular, temos um fortuito interno ligado ao risco da atividade. Se um avião cai
+sobre o posto de gasolina que explode, o fortuito é externo.
+ JURISPRUDÊNCIA COMENTADA: Foi com precisão que o STJ resumiu a
+questão do conceito de caso fortuito e de força maior: “Na circunstância concreta o
+que se deve considerar é se houve impossibilidade absoluta que afetou o cumprimento
+da  prestação,  o  que  não  se  confunde  com  dificuldade  ou  onerosidade.  O  que  se
+considera é se o acontecimento natural, ou o fato de terceiro, erigiu-se como barreira
+intransponível  à  exe
+[/PAGINA 351]
+
+[PAGINA 352]
+cução  da  obrigação.  [...] A  inevitabilidade  do  evento  é  outro
+elemento  a  ser  considerado,  igualmente  de  forma  concreta.  O  fato  deve  ser
+irresistível,  invencível,  atuando  com  força  indomável  e  inarredável.  O  que  se
+considera é se o evento não podia ser impedido nos seus efeitos. O fato resistível, que
+pode  ser  superado,  não  constitui  evento  a  autorizar  a  exoneração.  É  perfeitamente
+possível  que  o  fato  seja  imprevisível,  mas  suas  consequências  evitáveis.  Se  o
+devedor  não  toma  medidas  para  evitá-la,  tipifica-se  o  inadimplemento  e  não  a
+impossibilidade com apoio no caso fortuito ou força maior” (STJ, REsp 1.564.705-
+
+PE, Rel. Min. Ricardo Villas Bôas Cueva, j. 16.08.2016, v.u.). É por isso que o fato
+de o MST invadir o imóvel objeto de cédula de crédito rural hipotecária não torna o
+crédito  inexigível. A  prestação  do  devedor,  de  pagar  o  empréstimo,  não  se  torna
+cumprimento prejudicado pela invasão. Em matéria de transporte urbano, o assalto é
+considerado fortuito externo e afasta a responsabilidade do transportador. Isso porque
+o  transportador  não  dispõe  de  meios  de  evitar  o  assalto,  mesmo  sendo  esse
+previsível. A segurança por assalto incumbe ao Estado e não ao particular. É por isso
+que  “‘o  fato  inteiramente  estranho  ao  transporte  (assalto  no  interior  de  ônibus)
+constitui  caso  fortuito,  excludente  de  responsabilidade  da  empresa  transportadora.
+Entendimento pacificado pela eg. Segunda Seção desta Corte. Precedentes’ (AgRg no
+AREsp  n.  531.739/SP,  Rel.  Min.  Raul  Araújo,  4.ª  Turma,  j.  05.02.2015, DJe
+23.02.2015)” (STJ, AgInt-AREsp 1.013.560/PR, 4.ª Turma, Rel. Min. Antonio Carlos
+Ferreira, DJe 17.03.2017). Da mesma forma, em se tratando de roubo de mercadorias
+que estão sendo transportadas, o STJ decidiu que “roubo de mercadoria transportada,
+praticado mediante ameaça exercida com arma de fogo, é fato desconexo ao contrato
+de  transporte  e,  sendo  inevitável,  diante  das  cautelas  exigíveis  da  transportadora,
+constitui-se em caso fortuito ou força maior, excluindo-se sua responsabilidade pelos
+danos causados, nos termos do CC/2002. 6. Conforme jurisprudência do STJ, ‘se não
+for demonstrado que a transportadora não adotou as cautelas que razoavelmente dela
+se  poderia  esperar,  o  roubo  de  carga  constitui  motivo  de  força  maior  a  isentar  a
+responsabilidade daquela’ (REsp 435.865/RJ, 2.ª Seção)” (STJ, REsp 1.660.163/SP,
+3.ª Turma, Rel. Min. Nancy Andrighi, j. 06.03.2018).
+CAPÍTULO II
+DA MORA
+Art. 394. Considera-se em mora o devedor que não efetuar o pagamento e o credor que não
+quiser recebê-lo no tempo, lugar e forma que a lei ou a convenção estabelecer.
+ COMENTÁRIOS  DOUTRINÁRIOS:  A  doutrina  divide  o  inadimplemento,
+tradicionalmente,  em  dois  institutos:  inadimplemento  relativo  (mora)  ou
+inadimplemento absoluto. A diferença entre os institutos não se verifica, como podem
+
+pensar  alguns,  no  fato  de  a  mora  si
+[/PAGINA 352]
+
+[PAGINA 353]
+gnificar  simples  atraso  no  cumprimento  e  o
+inadimplemento  absoluto  o  total  descumprimento.  Tal  assertiva  revela  dois
+equívocos.  O  primeiro  é  que  o  atraso  no  cumprimento  da  prestação  pode  gerar
+inadimplemento absoluto, mora, ou simples retardamento sem culpa. Explico. Se a
+prestação  perder  a  utilidade  para  o  credor,  estamos  diante  de  inadimplemento
+absoluto (art. 395, parágrafo único, do CC). Para não ficarmos no lugar-comum dos
+manuais (que sempre mencionam a costureira que entrega à noiva o vestido no dia
+seguinte ao casamento), pensemos no exemplo de um exportador de café que enviará
+ao exterior um grande lote de café. O vendedor das sacas, culposamente, atrasa a
+entrega do café em oito horas e, quando chega ao porto, o navio já partiu. Evidente
+que se trata de inadimplemento absoluto, pois as sacas são inúteis ao comprador que
+as adquiriu exatamente com o único objetivo de exportá-las. Se, por outro lado, o
+comprador tem uma empresa de torrefação de café em que transformará os grãos em
+pó de café, o atraso culposo de oito horas significará mora, pois a prestação ainda é
+útil ao credor. Na hipótese de inadimplemento absoluto, o credor poderá cobrar as
+perdas e danos decorrentes da conduta culposa do devedor, que não poderá cumprir a
+prestação em razão de sua inutilidade. Já na hipótese de mora, como a prestação ainda
+é útil, o devedor poderá purgá-la (emendatio morae), ou seja, entregar as sacas de
+café e indenizar o credor quanto aos prejuízos sofridos (art. 401, II, do CC). Assim, o
+devedor pagará ao credor o valor das horas em que a fábrica de beneficiamento do
+café  ficou  parada  aguardando  as  sacas  que  não  chegaram  na  hora  avençada.  O
+segundo ponto que invalida a afirmação pela qual mora é o simples atraso é que o
+conceito de mora no Brasil é tríplice: a mora se verifica se o cumprimento se dá fora
+do tempo, do local e da forma estabelecidos por lei ou contrato (art. 394 do CC). É
+verdade que o vocábulo latino mora, é radical da palavra demora. É verdade também
+que em outros países, a noção de mora é sempre ligada ao atraso. O Projeto Clóvis
+Beviláqua, do qual se originou o Código Civil de 1916, ao definir mora, em seu art.
+110,  assim  o  fazia:  “Ficarão  constituídos  em  mora  o  devedor  que  não  efetuar  o
+pagamento e o credor que não o quiser receber no tempo oportuno.” Na Câmara dos
+Deputados,  o  artigo  sofreu  emenda  e  passou  a  ter  a  seguinte  redação:  “Art.  956.
+Considera-se em mora o devedor que não efetuar o pagamento e o credor que o não
+
+quiser receber no tempo, lugar e pelo modo convencionados.” E, finalmente, o artigo
+recebeu a seguinte redação quando da promulgação do Código Civil de 1916: “Art.
+955. Considera-se em mora o devedor que não efetuar o pagamento e o credor que o
+não quiser receber no tempo, lugar e forma convencionados”. Assim, se o devedor
+pagar no dia certo, na forma certa, mas no lugar errado estará em mora e responderá
+pelos prejuízos. É o caso de de
+[/PAGINA 353]
+
+[PAGINA 354]
+vedor entregar sem a ciência do credor os animais na
+Fazenda Santa Lúcia localizada em Palmas, quando deveria entregar na Fazenda Santo
+Antônio localizada em Teresina. As despesas que o comprador terá para transportar
+os  animais  de  uma  fazenda  à  outra  serão  arcadas  pelo  vendedor.  Também,  se  o
+devedor deve pagar o aluguel em dinheiro e o faz por meio de cheque, na data certa e
+no lugar certo, estará em mora quanto à forma. O cheque pode demorar alguns dias
+para compensar e o locador entra no cheque especial, nesse período, pagando juros
+ao banco. Em ambos os casos, o pagamento ocorreu na data certa, mas mesmo assim o
+devedor está em mora. Tanto credor quanto devedor podem estar em mora. A mora do
+devedor  (ver  arts.  395,  396  e  399)  é  chamada  de  mora debitoris, debendi  ou
+solvendi. A mora do credor (ver art. 400) é chamada de mora creditoris, credendi ou
+accipiendi. Se ambos estiverem em mora, nenhum deles estará. Na mora recíproca, há
+uma compensação de moras e, portanto, não há qualquer produção de efeitos, não se
+aplicando os arts. 395, 399 e 400 do Código Civil.
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização
+dos valores monetários segundo índices oficiais regularmente estabelecidos, e honorários de
+advogado.
+Parágrafo único. Se a prestação, devido à mora, se tornar inútil ao credor, este poderá enjeitá-la,
+e exigir a satisfação das perdas e danos.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo traz a diferença entre mora
+e  inadimplemento  absoluto.  A  utilidade  da  prestação  para  o  credor.  Claro  que  a
+análise  da  utilidade  da  prestação  é  objetiva  e  não  passa  pela  simples  vontade  do
+credor em aceitá-la ou não. É por isso que o Enunciado n. 395/CJF prevê que “a
+inutilidade  da  prestação  que  autoriza  sua  recusa  por  parte  do  credor  deverá  ser
+aferida objetivamente, consoante o princípio da boa-fé e a manutenção do sinalagma e
+
+não  de  acordo  com  o  mero  interesse  subjetivo  do  credor”.  Note-se  que,  pelo
+dispositivo em comento, o efeito da mora do devedor é o pagamento de perdas e
+danos,  de  juros  de  mora,  correção  monetária  e  honorários  de  advogado.  Há  uma
+repetição do art. 389 do CC (ver comentários ao dispositivo).
+ JURISPRUDÊNCIA COMENTADA: Se a prestação ainda for útil ao credor,
+estamos diante de mora e caberá, inclusive, como forma de compelir o devedor a
+cumpri-la, a fixação de multa cominatória para seu cumprimento: “Ainda no ponto,
+cumpre  firmar  outras  importantes  premissas,  principalmente  a  de  que  a  multa
+pecuniária  tem  campo  natural  de  incidência  no  estado  de mora debitoris,  ou  seja,
+enquanto ainda há interesse do credor no cumprimento da obrigação, descartando-se
+sua aplicabilidade nas hipóteses de inadimplemento absoluto. Por não gerar efeitos
+com repercussão no mundo dos fatos, mas apenas ressarcitórios e intimidatórios, a
+multa deve guardar feição de ultima ratio, cabendo ao magistrado, no momento d
+[/PAGINA 354]
+
+[PAGINA 355]
+e
+aferir a medida mais adequada para garantir o adimplemento da obrigação de fazer ou
+não fazer, ter sempre em mira que o próprio sistema de tutela específica previsto no
+art.  461  do  CPC  confere  a  possibilidade  da  adoção  de  providências  muito  mais
+eficazes, que significam a pronta satisfação do direito do demandante” (STJ, REsp
+949.509/RS, 4.ª Turma, Rel. p/ acórdão Min. Marco Buzzi, j. 08.05.2012). A questão
+do  prazo  prescricional  para  a  cobrança  de  indenização  por  descumprimento  do
+contrato  ainda  é  controversa.  De  acordo  com  o  STJ,  há  duas  possíveis  decisões:
+prazo de dez anos (art. 205 do CC) ou prazo de três anos (art. 206, § 3º, V do CC).
+Pela  primeira  corrente  temos:  “Nesse  sentido,  o  art.  205  do  CC/2002  mantém  a
+integridade lógica e sistemática da legislação civil. Assim, quando houver mora, o
+credor  poderá  exigir  tanto  a  execução  específica  como  o  pagamento  por  perdas  e
+danos, pelo prazo de dez anos. Da mesma forma, diante do inadimplemento definitivo,
+o credor poderá exigir a execução pelo equivalente ou a resolução contratual e, em
+ambos  os  casos,  o  pagamento  de  indenização  que  lhe  for  devida,  igualmente  pelo
+prazo de dez anos. Por observância à lógica e à coerência, portanto, o mesmo prazo
+prescricional  de  dez  anos  deve  ser  aplicado  a  todas  as  pretensões  do  credor  nas
+hipóteses de inadimplemento contratual, incluindo o da reparação de perdas e danos
+
+por  ele  causados”  (EREsp  1.280.825/RJ,  2.ª  Seção,  Rel.  Min.  Nancy Andrighi,  j.
+27.06.2018,  m.v.).  Pelo  prazo  de  três  anos  temos:  “O  termo  ‘reparação  civil’,
+constante do art. 206, § 3º, V, do CC/2002, deve ser interpretado de maneira ampla,
+alcançando  tanto  a  responsabilidade  contratual  (arts.  389  a  405)  como  a
+extracontratual (arts. 927 a 954), ainda que decorrente de dano exclusivamente moral
+(art.  186,  parte  final),  e  o  abuso  de  direito  (art.  187).  Assim,  a  prescrição  das
+pretensões dessa natureza originadas sob a égide do novo paradigma do Código Civil
+de 2002 deve observar o prazo comum de três anos. Ficam ressalvadas as pretensões
+cujos prazos prescricionais estão estabelecidos em disposições legais especiais. 3.
+N a V  Jornada  de  Direito  Civil,  do  Conselho  da  Justiça  Federal  e  do  Superior
+Tribunal de Justiça, realizada em novembro de 2011, foi editado o Enunciado n. 419,
+segundo o qual ‘o prazo prescricional de três anos para a pretensão de reparação civil
+aplica-se  tanto  à  responsabilidade  contratual  quanto  à  responsabilidade
+extracontratual’”  (STJ,  REsp  1.281.594/SP,  3.ª  Turma,  Rel.  Min.  Marco  Aurélio
+Bellizze, DJe 28.11.2016).
+Art. 396. Não havendo fato ou omissão imputável ao devedor, não incorre este em mora.
+ COMENTÁRIOS DOUTRINÁRIOS: O elemento essencial para a verificação
+da mora do credor é a culpa. Sem culpa, não há mora, mas simples retardo ou atraso
+sem  qualquer  incidência  dos  arts.  395  e  399  do  Código  Civil.
+[/PAGINA 355]
+
+[PAGINA 356]
+Se  o  devedor  não
+consegue entregar o animal vendido, pois a estrada inundou, entregará fora do prazo
+sem que haja pagamento de perdas e danos (representadas ou não por cláusula penal),
+de juros e correção monetária. Frise-se, novamente, que, havendo o atraso, há uma
+presunção de culpa contra o devedor que por ele deve ser afastada. Caberá a ele
+provar  que  esteve  diante  de  caso  fortuito  ou  de  força  maior  (art.  373,  II  do
+CPC/2015). É por isso que nos termos do Enunciado n. 354 da IV Jornada de Direito
+Civil:  “A  cobrança  de  encargos  e  parcelas  indevidas  ou  abusivas  impede  a
+caracterização da mora do devedor”. Isso porque se há encargos abusivos, o devedor
+não tem culpa e logo não está em mora.
+
+ JURISPRUDÊNCIA COMENTADA: É por força da presunção de culpa que
+milita contra o devedor que temos a Súmula n. 380 do STJ: “A simples propositura da
+ação de revisão de contrato não inibe a caracterização da mora do autor”. E nem
+poderia.  Alegar  a  revisão  contratual  não  ilide  a  culpa  do  devedor.  A  mora  se
+caracteriza da mesma forma. Somente ao final da ação, com o trânsito em julgado, é
+que a mora pode ser afastada para se reconhecer que houve mero retardo. A Súmula n.
+72  do  STJ  reforça  a  necessidade  de  culpa  para  fins  de  extinção  do  contrato  e
+apreensão do bem: “A comprovação da mora é imprescindível à busca e apreensão
+do bem alienado fiduciariamente”. Sem culpa, não há mora e, sem mora, não há como
+se tomar o bem.
+Art. 397. O inadimplemento da obrigação, positiva e líquida, no seu termo, constitui de pleno
+direito em mora o devedor.
+Parágrafo  único.  Não  havendo  termo,  a  mora  se  constitui  mediante  interpelação  judicial  ou
+extrajudicial.
+ COMENTÁRIOS DOUTRINÁRIOS: Quanto ao termo inicial da mora, temos
+duas espécies de mora: a mora automática ou ex re que independe de qualquer atitude
+do credor e a mora ex persona que exige do credor a notificação do devedor para que
+se inicie. O caput do art. 397 traz a mora ex re: a obrigação deve ser positiva (dar ou
+fazer) e líquida (certa quanto à existência e determinada quanto ao valor) com data de
+vencimento para que ocorra de pleno direito (dies interpellat pro homine – o dia
+interpela  pelo  homem).  São  mais  comuns  as  hipóteses  de  mora ex re  do  que ex
+persona. Assim,  qualquer  dívida  com  valor  certo  e  data  de  pagamento  implicará
+início da mora no dia seguinte ao vencimento. O parágrafo único do art. 397 traz a
+mora ex persona: não havendo prazo de vencimento ou sendo a obrigação negativa
+(ver comentários ao art. 390 do CC), a mora dependerá de interpelação ao devedor.
+Aqui, pode-se afirmar que os termos interpelação ou notificação podem ser usados
+indistintamente, pois o que deve fazer o credor é exigir o pagamento. A prova dessa
+liberdade no uso dos termos é que o Enunciado n. 427 da V Jornada de Direito Civil
+menciona “notificação” e afirma ser “válida a notificação extrajudicial promovida em
+serviço de registro de títulos e do
+[/PAGINA 356]
+
+[PAGINA 357]
+cumentos de circunscrição judiciária diversa da do
+
+domicílio  do  devedor”.  Por  outro  lado,  o  Enunciado  n.  619  da VIII  Jornada  de
+Direito Civil se utiliza de interpelação extrajudicial, afirmando que ela “admite meios
+eletrônicos como e-mail ou aplicativos de conversa on-line, desde que demonstrada a
+ciência inequívoca do interpelado, salvo disposição em contrário no contrato”. Há
+alguns contratos em que a mora é necessariamente ex persona, ou seja, depende de
+notificação ou interpelação para ter início, mesmo sendo a obrigação líquida, positiva
+e  com  data  de  vencimento.  Nos  contratos  imobiliários,  quer  seja  de  imóvel  não
+loteado  (Decreto-lei  n.  58/1937  com  a  alteração  do  Decreto-lei  n.  745/1969)  ou
+loteado (Lei n. 6.766/1979) há necessidade de constituição em mora. Vejamos: a) art.
+32  da  Lei  n.  6.766/1979:  “Vencida  e  não  paga  a  prestação,  o  contrato  será
+considerado rescindido 30 (trinta) dias depois de constituído em mora o devedor. § 1º
+Para  os  fins  deste  artigo  o  devedor-adquirente  será  intimado,  a  requerimento  do
+credor, pelo Oficial do Registro de Imóveis, a satisfazer as prestações vencidas e as
+que se vencerem até a data do pagamento, os juros convencionados e as custas de
+intimação”; b) art. 22 do Decreto-lei n. 58/1937 e art. 1º do Decreto-lei n. 745/1969:
+“Os contratos, sem cláusula de arrependimento, de compromisso de compra e venda e
+cessão de direitos de imóveis não loteados, cujo preço tenha sido pago no ato de sua
+constituição  ou  deva  sê-lo  em  uma,  ou  mais  prestações,  desde  que,  inscritos  a
+qualquer tempo, atribuem aos compromissos direito real oponível a terceiros, e lhes
+conferem o direito de adjudicação compulsória” e como consequência nós temos que
+“ainda  que  não  tenham  sido  registrados  junto  ao  Cartório  de  Registro  de  Imóveis
+competente, o inadimplemento absoluto do promissário comprador só se caracterizará
+se, interpelado por via judicial ou por intermédio de cartório de Registro de Títulos e
+Documentos,  deixar  de  purgar  a  mora,  no  prazo  de  15  (quinze)  dias  contados  do
+recebimento  da  interpelação”.  A  desnecessidade  de  registro  do  compromisso  de
+compra e venda junto ao registro de imóveis que decorria apenas da Súmula n. 76 do
+STJ (a falta de registro do compromisso de compra e venda de imóvel não dispensa a
+prévia  interpelação  para  constituir  em  mora  o  devedor),  hoje,  está  prevista
+expressamente no art. 1º do Decreto-lei n. 745/1969.
+ JURISPRUDÊNCIA COMENTADA: A orientação do Código Civil no tocante
+
+à  mora  automática  é  acompanhada  pela  jurisprudência:  “[...]  considerando  que  o
+contrato versa sobre obrigação positiva e com termo certo, verifica-se que o aresto
+impugnado, ao entender que a ocorrência de mora independia de prévia interpelação
+dos  devedores,  decidiu  em  consonância  com  a  jurisprudência  pacífica  do  STJ,
+firmada no sentido de que em tais casos está configurada a mora ex re, na qual
+[/PAGINA 357]
+
+[PAGINA 358]
+é
+dispensável  a  prévia  interpelação  para  ser  constituída”  (STJ,  AgInt  no  AREsp
+439.516/PR, 4.ª Turma, Rel. Min. Antonio Carlos Moreira, j. 06.02.2018). O caso
+decidido tratava-se de contrato de compra e venda de imóvel rural em que o contrato
+especificou  a  data  de  vencimento  de  cada  parcela  do  preço.  Há  duas  questões
+interessantes a se abordar: o contrato de seguro e de leasing. No contrato de seguro, a
+orientação do STJ é de que a rescisão contratual depende de notificação ao segurado.
+Assim, o simples fato de o segurado não pagar o prêmio (valor que o segurado paga
+ao  segurador)  não  permite  a  resolução  contratual  automática.  É  necessária  a
+notificação. Assim: “A jurisprudência firmada neste Sodalício é no sentido de que o
+mero  atraso  no  pagamento  de  prestação  do  prêmio  do  seguro  não  importa  em
+desfazimento  automático  do  contrato,  para  o  que  se  exige,  ao  menos,  a  prévia
+constituição em mora do contratante pela seguradora, mediante interpelação” (STJ,
+AgInt  no  AREsp  1.266.077/RO,  4.ª  Turma,  Rel.  Min.  Luis  Felipe  Salomão,  j.
+18.09.2018).  Em  igual  sentido,  para  fins  de  permitir  a  purgação  da  mora  pelo
+devedor,  o  STJ  sumulou  o  seguinte  entendimento:  “No  contrato  de  arrendamento
+mercantil  (leasing),  ainda  que  haja  cláusula  resolutiva  expressa,  é  necessária  a
+notificação prévia do arrendatário para constituí-lo em mora” (Súmula n. 369). Note-
+se que tanto no caso do seguro, quanto no do leasing, a notificação é exigida para se
+permitir a purgação da mora pelo devedor que, assim, restabelece a normalidade da
+relação contratual, impossibilitando seu desfazimento. Como ambos os contratos são
+por adesão, o STJ entendeu que a notificação garante um maior equilíbrio contratual
+ao facultar ao devedor o pagamento das parcelas em atraso. Há aqui uma confusão
+entre a natureza da mora e a questão da resolução contratual. Em ambas as hipóteses
+(seguro  e leasing) a mora prossegue sendo automática, mas a notificação é exigida
+como requisito da resolução (impropriamente chamada de rescisão) do contrato. A
+mora prossegue sendo ex re (para fins de juros, por exemplo) e a notificação é um
+
+requisito apenas para permitir a resolução. Se o credor quiser cobrar as parcelas em
+atraso, a notificação não é necessária.
+Art. 398. Nas obrigações provenientes de ato ilícito, considera-se o devedor em mora, desde que
+o praticou.
+ COMENTÁRIOS DOUTRINÁRIOS: Em se tratando de ilícito extracontratual,
+aplica-se o art. 398 do Código Civil. Apesar de não mencionar expressamente sua
+aplicação apenas ao ilícito extracontratual, para as hipóteses de inadimplemento do
+contrato temos as regras dos arts. 390 (para as obrigações negativas) e 397 (para as
+positivas com ou sem prazo de vencimento). Logo, só resta ao art. 398 um campo de
+aplicação e, nesse ponto, não há divergência doutrinária: o ilícito extracontratual. Por
+opção do legislador de 1916, repetida pelo de 2002, a regra está tratada
+[/PAGINA 358]
+
+[PAGINA 359]
+junto com
+dispositivos da responsabilidade contratual. É o caso da batida de automóveis, dos
+danos morais por ofensa à honra, dos danos ao corpo, da indevida negativação no
+Serasa  ou  no  SPC,  dos  danos  causados  pelos  médicos  em  tratamentos,  pelos
+advogados nos erros profissionais etc.
+ JURISPRUDÊNCIA  COMENTADA:   A   orientação   pela   qual   na
+responsabilidade extracontratual os juros se iniciam com a ocorrência do ato ilícito é
+confirmada pelo STJ: “Houve exaustivo debate a respeito do termo inicial dos juros
+de mora em casos de responsabilidade, contratual e extracontratual. De fato, firmou-
+se, nesse debate, a tese de que, em caso de responsabilidade extracontratual, os juros
+moratórios  deveriam  começar  a  correr  a  partir  do  ato  danoso  (ou,  como  se
+denominava à época, do delito civil), e não a partir da citação, como normalmente
+ocorre nas relações contratuais” (STJ, REsp 1.270.983/SP, 3.ª Turma, Rel. Min. Luis
+Felipe Salomão, j. 08.03.2016). E dessa lógica decorre o teor da Súmula n. 54 do
+STJ:  “Os  juros  moratórios  fluem  a  partir  do  evento  danoso,  em  caso  de
+responsabilidade extracontratual”. Interessante notar que, efetivamente, essa Súmula
+tem cabimento se a indenização for paga em prestação única a título de dano moral ou
+material. Contudo, se a título de lucro cessante houver um pensionamento mensal, tem
+razão o STJ ao afirmar que “embora se trate de relação extracontratual, observa-se
+
+que a prestação não é de cunho singular (pagável uma única vez), sendo, na verdade,
+obrigação de trato sucessivo. Dessa forma, os juros moratórios a serem acrescidos ao
+valor pago a título de pensão mensal não devem ser contabilizados a partir do ato
+ilícito (por não ser uma quantia singular), tampouco da citação (por não ser ilíquida).
+Com efeito, o art. 397, caput, do CC/2002 (art. 960 do CC/1916) – segundo o qual ‘O
+inadimplemento  da  obrigação,  positiva  e  líquida,  no  seu  termo,  constitui  de  pleno
+direito  em  mora  o  devedor’  –,  adotando  o  adágio dies interpellat pro homine  (o
+termo interpela em lugar do credor), regula a mora ex re, na qual o mero advento do
+tempo,  sem  o  cumprimento  da  obrigação  positiva  e  líquida,  constitui  o  devedor
+automaticamente em mora, haja vista que, sendo o devedor sabedor da data em que
+deve ser adimplida a obrigação líquida, descabe advertência complementar por parte
+do credor” (STJ, REsp 1.270.983/SP, 3.ª Turma, Rel. Min. Luis Felipe Salomão, j.
+08.03.2016).
+Art.  399.  O  devedor  em  mora  responde  pela  impossibilidade  da  prestação,  embora  essa
+impossibilidade resulte de caso fortuito ou de força maior, se estes ocorrerem durante o atraso;
+salvo se provar isenção de culpa, ou que o dano sobreviria ainda quando a obrigação fosse
+oportunamente desempenhada.
+ COMENTÁRIOS DOUTRINÁRIOS: Além dos efeitos previstos no art. 395, a
+mora produz um outro e importante efeito: aumento da responsabilidade do devedor.
+O devedor em mora passa a responder pelos prejuíz
+[/PAGINA 359]
+
+[PAGINA 360]
+os decorrentes do caso fortuito ou
+de força maior. Essa ampliação da responsabilidade civil dá poucas chances de o
+devedor não indenizar o credor, já que responderá inclusive pelos fatos necessários
+cujos efeitos não era possível evitar ou impedir, afastando a incidência do art. 393.
+Há duas exceções no dispositivo: uma de fácil compreensão, que remonta ao Digesto,
+e outra mais complexa, que é explicada na obra de Agostinho Alvim (Da inexecução
+das obrigações e suas consequências. Rio de Janeiro: Ed. Jurídica e Universitária,
+1965). O devedor em mora não responde pelos prejuízos decorrentes do caso fortuito
+e da força maior se: a) provar que os prejuízos teriam ocorrido ainda que a obrigação
+tivesse sido oportunamente desempenhada. Isso significa que o devedor pode provar
+que, mesmo se tivesse cumprido a obrigação na data certa, no lugar certo e na forma
+
+certa, o prejuízo teria ocorrido. É o caso do cavalo emprestado, que vem do Direito
+Romano. Se Tício empresta a seu vizinho Mévio o cavalo que deve ser devolvido em
+10 de janeiro, mas Mévio não devolve e, já em mora, há uma enchente (força maior)
+que mata o cavalo afogado, o devedor responde pelas perdas e danos. Contudo, se
+Mévio provar que os cavalos de Tício (credor) também morreram em razão da mesma
+enchente, Mévio nada paga a Tício. O ônus de provar que “o prejuízo teria ocorrido
+ainda que a obrigação tivesse sido oportunamente desempenhada” é do devedor (373,
+II do CPC/2015). Provado tal fato, o devedor nada indeniza, pois se o fizesse haveria
+enriquecimento injustificado do credor. O credor, contudo, pode tomar para si o ônus
+da prova para demonstrar que o prejuízo não teria ocorrido, ainda que a obrigação
+tivesse sido cumprida no tempo, lugar e forma avençados (375, I do CPC/2015). No
+caso dos cavalos, Tício poderia provar que o cavalo que Mévio deveria restituir em
+10 de janeiro, mas não o fez, estaria em um rodeio, na data da enchente, na cidade
+vizinha, e não teria morrido afogado; b) provar isenção de culpa. A interpretação do
+dispositivo  só  pode  ser  a  seguinte.  Se  o  devedor  provar  isenção  de  culpa  não  há
+mora, mas simples retardo (art. 396 do CC) e, assim, o devedor não responde pelos
+efeitos da mora, não havendo incidência dos arts. 395, nem 399 do CC. Assim, com a
+isenção de culpa não há mora e se retorna à regra do art. 393 pela qual o devedor não
+responde  pelo  caso  fortuito  ou  de  força  maior.  Há  uma  outra  possibilidade  de
+compreensão desta exceção. O dispositivo, ao utilizar o termo “mora”, o utiliza como
+sinônimo  de  atraso. Assim,  se  o  atraso  for  culposo,  há  mora.  Se  o  atraso  não  for
+culposo,  há  “mora”  (não  em  seu  sentido  técnico)  sem  a  incidência  da
+responsabilidade  do  devedor  pelo  caso  fortuito  ou  pela  força  maior.  Estaríamos
+diante de atraso ou ‘mora’ (acepção vulgar e não jurídica) não culposa.
+Art. 400. A mora do credor subtrai o devedor isento de dolo à responsabilidade pela conservação
+da coisa, obriga o credor
+[/PAGINA 360]
+
+[PAGINA 361]
+a ressarcir as despesas empregadas em conservá-la, e sujeita-o a
+recebê-la  pela  estimação  mais  favorável  ao  devedor,  se  o  seu  valor  oscilar  entre  o  dia
+estabelecido para o pagamento e o da sua efetivação.
+ COMENTÁRIOS DOUTRINÁRIOS: A mora do credor, diferentemente da mora
+do devedor, não exige culpa para se caracterizar. Essa diferença parte da premissa
+
+pela qual o devedor suporta o fardo obrigacional e o credor tem apenas as vantagens
+da  relação  jurídica.  É  por  isso  que  o  credor  entra  em  mora,  tendo  ou  não  culpa.
+Explicamos. Se João deve o cavalo a José e na data avençada para pagamento vai
+entregar o animal na fazenda do credor e José não está lá para receber a prestação,
+José  estará  em  mora.  José  pode  ter  simplesmente  esquecido  da  entrega  do  cavalo
+(culpa) ou estar hospitalizado e não poder receber o cavalo (caso fortuito ou força
+maior). Em ambos os casos, haverá mora do devedor. Pode haver uma aparência de
+injustiça na regra. Como o credor que está hospitalizado, que não teve culpa, estará
+em mora? O sistema tem que tomar uma decisão. Apesar do fato de o credor não ter
+tido culpa nessa hipótese, o devedor também não teve, pois estava no lugar certo, na
+data certa e não conseguiu cumprir a prestação. O devedor terá despesas acrescidas
+com  o  não  recebimento  da  prestação  pelo  credor,  mesmo  não  tendo  ele  qualquer
+culpa.  No  exemplo  do  cavalo,  deverá  regressar  com  o  animal  para  sua  fazenda,
+alimentar o animal, cuidar do animal, e, novamente, transportar o animal ao credor.
+Note-se que a lei poderia ter dado duas soluções: a primeira seria impor uma divisão
+dessas  despesas  entre  credor  e  devedor. A  segunda  seria  imputá-las  ao  credor. A
+segunda opção parte da premissa pela qual a lei deve suavizar o fardo obrigacional
+(favor debitoris), como forma de estimular o cumprimento da prestação pelo devedor.
+É por isso, pelo favor debitoris, que o credor suportará os efeitos da mora, mesmo
+sem culpa sua. Cabe ainda uma nota. Se o credor se recusar a receber a prestação por
+um motivo juridicamente permitido, não haverá mora sua, mas sim do devedor. É o
+caso de o devedor pretender pagar menos do que deve, em afronta ao art. 314 do CC,
+ou pagar prestação diferente da devida, em afronta ao art. 313 do CC. Os efeitos da
+mora do credor são três: a) o credor responderá pelas despesas de conservação da
+coisa, ou seja, as benfeitorias necessárias. Assim, o devedor que realizou tais gastos
+terá  direito  de  cobrá-los  do  credor;  b)  há  uma  redução  da  responsabilidade  do
+devedor pelos prejuízos. Afasta-se a regra do art. 392 e o devedor só responderá
+pelos  prejuízos  que  causar  com  dolo,  com  intenção,  não  respondendo  por  simples
+culpa;  c)  se  o  preço  da  coisa  variar  entre  a  data  em  que  deveria  ter  cumprido  a
+prestação e a data em que efetivamente cumpriu, o devedor poderá exigir o preço
+mais alto. Vejamos. Se João vende a Maria 1 saca de café pelo preço de R$
+[/PAGINA 361]
+
+[PAGINA 362]
+100,00
+
+para entrega em 18 de abril e, nada data avençada, Maria não está lá para receber o
+café, Maria está em mora. Um mês depois, João regressa com o café que, naquele
+momento, vale R$ 120,00. Maria pagará, não R$ 100,00, mas sim o novo preço, que é
+mais alto. Se, ao contrário, o preço do café cair e a saca valer R$ 80,00, Maria paga
+R$ 100,00 a João.
+Art. 401. Purga-se a mora:
+I  –  por  parte  do  devedor,  oferecendo  este  a  prestação  mais  a  importância  dos  prejuízos
+decorrentes do dia da oferta;
+II – por parte do credor, oferecendo-se este a receber o pagamento e sujeitando-se aos efeitos
+da mora até a mesma data.
+ COMENTÁRIOS DOUTRINÁRIOS: Como na mora, a prestação ainda é útil ao
+credor (ver art. 395 do CC), a obrigação pode ser cumprida tanto pelo credor, quanto
+pelo devedor, por meio de purgação ou emenda da mora (emendatio morae). Com a
+purgação da mora, a obrigação é reconduzida à normalidade, ou seja, por ficção, a
+mora  não  ocorreu.  No  caso  da  mora  do  devedor,  não  basta  cumprir  a  prestação
+devida. A  purgação  exige  que  ele  pague  as  perdas  e  danos  decorrentes  da  mora
+(muitas vezes quantificadas pela cláusula penal ou multa), além dos juros de mora,
+correção monetária e honorários de advogado. A purgação pode ocorrer de maneira
+extrajudicial (simples depósito em conta, por exemplo), ou por meio de consignação
+em pagamento se o credor se recusar a aceitar a purga ou mesmo na ação movida pelo
+credor em que o devedor é réu para resolução (extinção do contrato). O direito de
+purgar  a  mora  existe  até  o  momento  que  antecede  a  contestação.  Se  o  devedor
+contestar a ação que pretende a resolução (extinção) do contrato, perde o direito de
+purgar a mora. Note-se que se o contrato contiver cláusula resolutiva expressa (ver
+art. 474 do CC) pela qual o inadimplemento do devedor gera automática extinção do
+contrato, a purgação da mora não é possível. O inadimplemento extinguiu a obrigação
+e não se pode purgar a mora se a relação contratual não mais existe. Se o credor vier
+a aceitar tal pagamento, há o surgimento de uma nova obrigação entre as partes. Não
+há, em regra, limitação do direito de purgar a mora por parte do devedor. O limite
+geral será o abuso de direito do art. 187 do CC. Há, contudo, leis que limitam tais
+
+direitos  ou  mesmo  geram  requisitos  para  que  a  purgação  ocorra. Assim,  a  Lei  de
+Locação (art. 62, parágrafo único da Lei n. 8.245/1991), prevê que não se admitirá a
+emenda  da  mora  se  o  locatário  já  houver  utilizado  essa  faculdade  nos  24  meses
+imediatamente anteriores à propositura da ação. A purgação da mora a que se refere o
+dispositivo abrange a modalidade judicial ou extrajudicial.
+ JURISPRUDÊNCIA COMENTADA: Na alienação fiduciária de bens imóveis
+(Lei n. 9.514/1997), tem-se admitido a purgação da mora mesmo após a consolidação
+da propriedade na mão do credor até a assinatura do auto de arrematação (art. 34 do
+Decreto-lei  n.  70/1996).  É  nesse  sentido  a  orie
+[/PAGINA 362]
+
+[PAGINA 363]
+ntação  do  STJ:  “O  devedor  pode
+purgar a mora em 15 (quinze) dias após a intimação prevista no art. 26, § 1º, da Lei n.
+9.514/1997, ou a qualquer momento, até a assinatura do auto de arrematação (art. 34
+do  Decreto-lei  n.  70/1966).  Aplicação  subsidiária  do  Decreto-lei  n.  70/1966  às
+operações de financiamento imobiliário a que se refere a Lei n. 9.514/1997 (REsp
+1462210/RS, 3.ª Turma, Rel. Min. Ricardo Villas Bôas Cueva, j. 18.11.2014, DJe
+25.11.2014)” (STJ, AgInt no REsp 1567195/SP, 3.ª Turma, Rel. Min. Paulo de Tarso
+Sanseverino, j. 13.06.2017, DJe 30.06.2017). Para a purgação da mora, na hipótese
+de  alienação  fiduciária  de  bens  móveis,  havia  uma  regra  com  a  exigência  de
+pagamento  pelo  devedor  de,  pelos  menos  40%  do  valor  devido  (art.  3º,  §  1º  do
+Decreto-lei n. 911/1969). Assim, temos a Súmula n. 284 do STJ: “A purga da mora,
+nos  contratos  de  alienação  fiduciária,  só  é  permitida  quando  já  pagos  pelo  menos
+40% (quarenta por cento) do valor financiado”. Contudo, a Lei n. 10.931 de 2004
+retirou a possibilidade de o devedor purgar a mora nesse tipo de contrato. É por isso
+que o STJ em decisão de recurso repetitivo (tema 722), assim decidiu: “Nos contratos
+firmados  na  vigência  da  Lei  n.  10.931/2004,  compete  ao  devedor,  no  prazo  de  5
+(cinco)  dias  após  a  execução  da  liminar  na  ação  de  busca  e  apreensão,  pagar  a
+integralidade  da  dívida  –  entendida  esta  como  os  valores  apresentados  e
+comprovados pelo credor na inicial –, sob pena de consolidação da propriedade do
+bem móvel objeto de alienação fiduciária” (STJ, REsp 1418593/MS, 2.ª Seção, Rel.
+Min. Luis Felipe Salomão, j. 14.05.2014, DJe 27.05.2014).
+
+CAPÍTULO III
+DAS PERDAS E DANOS
+Art. 402. Salvo as exceções expressamente previstas em lei, as perdas e danos devidas ao
+credor abrangem, além do que ele efetivamente perdeu, o que razoavelmente deixou de lucrar.
+ COMENTÁRIOS DOUTRINÁRIOS: A noção de perdas e danos em matéria
+contratual se restringe aos danos materiais, e não aos extrapatrimoniais, quais sejam
+os danos emergentes e os lucros cessantes. O dano extrapatrimonial (moral e estético)
+não é consequência automática do descumprimento do contrato pelo devedor, ainda
+que esse descumprimento aborreça o credor. É por isso que o Enunciado n. 159 do
+CJF prevê que “o dano moral, assim compreendido todo o dano extrapatrimonial, não
+se caracteriza quando há mero aborrecimento inerente a prejuízo material”. Há um
+equívoco, com relação ao dano moral, na extensão da responsabilidade contratual,
+que  deve  ser  esclarecido  desde  logo.  A  responsabilidade  contratual  se  limita  ao
+descumprimento  das  prestações  contratuais  e  nada  mais.  Se  o  cirurgião  plástico
+recebe do paciente R$ 5.000,00 para fazer a cirurgia e não faz, estamos diante de
+responsabilidade  contratual.  Há  inadimplemento.  Se  erra  e  deixa  cicatrizes,  a
+responsabilidade é extracontratual e daí surgem os danos morais. Da mesma forma, o
+emprei
+[/PAGINA 363]
+
+[PAGINA 364]
+teiro  que  atrasa  a  entrega  da  obra  descumpre  a  prestação  e  sua
+responsabilidade é contratual. Contudo, se o adquirente do apartamento for visitar a
+obra e um tijolo cair em sua cabeça, a responsabilidade é extracontratual. Isso porque
+a queda do tijolo não tem relação com as prestações de dar (do adquirente), nem de
+fazer (do empreiteiro). Os danos emergentes são chamados de danos negativos; é o
+prejuízo  representado  por  uma  perda,  uma  diminuição  do  patrimônio. Algo  que  o
+credor tinha e deixou de ter. É difícil imaginar um dano emergente no descumprimento
+do contrato de dar dinheiro. É por isso que o art. 404 do Código Civil fala em juros,
+custas  e  honorários  de  advogado.  Tanto  isso  é  verdade  que  o  parágrafo  único  do
+artigo em questão permite ao credor cobrar os prejuízos que excederem os juros de
+mora. Há um exemplo que pode servir de base para o raciocínio. O devedor não paga
+o credor na data avençada e, com isso, o credor entra no limite do cheque especial
+
+para pagar suas contas. Esse valor é dano emergente decorrente do inadimplemento.
+Contudo, no caso concreto, não seria um dano direto, ou seja, não haveria nexo de
+causalidade  (ver  art.  403  do  CC).  O  lucro  cessante  é  o  valor  que  o  credor
+razoavelmente deixou de lucrar. Assim, é algo que deixou de receber. Não há redução
+do patrimônio. Deixa de haver um acréscimo patrimonial.
+ JURISPRUDÊNCIA  COMENTADA:  São  raras  as  hipóteses  em  que  o
+inadimplemento  contratual  tem  por  efeito  o  dano  moral.  A  jurisprudência  tem
+admitido, com acerto, que no caso de descumprimento do contrato de seguro-saúde
+pelos planos, o segurado sofre dano moral, pois, afinal, o sofrimento com a saúde e o
+risco de não ter atendimento ultrapassam, em muito, um mero aborrecimento. É por
+isso  que,  segundo  o  STJ  “a  jurisprudência  desta  Corte  reconhece  o  direito  ao
+ressarcimento  dos  danos  morais  advindos  da  injusta  recusa  de  manutenção  da
+cobertura de seguro-saúde, pois tal fato agrava a situação de aflição psicológica e de
+angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora,
+já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada”
+(STJ,  AgInt  no  AREsp  1169303/PE,  3.ª  Turma,  Rel.  Min.  Moura  Ribeiro,  j.
+05.06.2018, DJe 15.06.2018). A entrega no imóvel pelo construtor traz exemplos de
+danos  emergentes  e  de  lucros  cessantes.  Quando  o  comprador  precisa  alugar  um
+imóvel  porque  a  construtora  atrasou  a  obra,  estamos  diante  de  danos  emergentes.
+Quando o comprador de um imóvel comercial está privado do uso do imóvel pelo
+atraso  na  entrega,  tem  os  lucros  cessantes  decorrentes  do  não  uso.  É  isso  que  se
+verifica nas decisões do STJ: “Prevalece nessa Corte o entendimento esposado no
+paradigma  de  que  descumprido  o  prazo  para  a  entrega  do  imóvel  objeto  do
+compromisso de compra e venda, é cabível a condenação da vendedora por lucros
+cessantes, ha
+[/PAGINA 364]
+
+[PAGINA 365]
+vendo a presunção de prejuízo do adquirente, ainda que não demonstrada
+a finalidade negocial da transação” (STJ, EREsp 1.341.138/SP, 2.ª Seção, Rel. Min.
+Isabel Gallotti, j. 09.05.2018, v.u.). Há que se ter cuidado, apenas, para que não haja
+confusão conceitual. Se o adquirente do imóvel, em razão do atraso, aluga outro para
+morar, poderá cobrar como dano emergente o valor do aluguel, mas isso não pode ser
+cumulado  com  lucro  cessante  pela  não  entrega.  Se  possível  fosse,  o  adquirente
+
+ganharia duas vezes pela mesma posse: a que ele pagou aluguel e a que ele usaria se a
+entrega tivesse ocorrido. É com razão que o STJ decidiu: “O dano material decorrente
+do  atraso  na  entrega  de  imóvel  residencial  pode  ser  classificado  como  dano
+emergente ou lucros cessantes, sendo ambos as duas faces da mesma moeda. O dano,
+seja em qual dessas rubricas for classificado, será o mesmo: a privação da fruição do
+imóvel.  2.  A  concessão  de  indenização  pelos  danos  emergentes  decorrentes  da
+demora na entrega do imóvel, com o pagamento dos gastos de moradia despendidos
+pelo  autor  no  período  da  mora,  exclui  a  possibilidade  de  percepção  de  lucros
+cessantes pelo mesmo fato, pois o bem estaria lhe servindo de moradia” (STJ, AgInt
+no  AgRg  no  AREsp  795.125/RJ,  4.ª  Turma,  Rel.  Min.  Maria  Isabel  Gallotti,  j.
+12.11.2018). Interessante notar que o dano emergente deve ser efetivo. A perda de
+algo que o credor tinha em seu patrimônio. Em um caso de negativa de empréstimo
+pelo banco a certo consumidor, o STJ decidiu que tal fato “não representou qualquer
+alteração no patrimônio da vítima, antes ou depois do ilícito (negativação indevida),
+já que impediu tanto o acréscimo de bens quanto a aquisição da dívida equivalente.
+Nessa perspectiva, admitir-se o reconhecimento de dano emergente pelo valor que
+seria  objeto  do  mútuo  frustrado  seria,  por  via  oblíqua,  autorizar  a  teratológica
+condenação com liquidação equivalente a ‘dano zero’ ou ‘sem resultado positivo’.
+Dessa  forma,  não  há  perda  material  efetiva  pela  conduta  da  negativa  de  crédito,
+carecendo  o  ressarcimento  por  dano  emergente  de  suporte  fático,  consistindo  a
+condenação,  nessas  condições,  em  verdadeira  hipótese  de  enriquecimento  ilícito”
+(REsp  1.369.039/RS,  3.ª  Turma,  Rel.  Min.  Ricardo  Villas  Bôas  Cueva,  j.
+04.04.2017). A  decisão  é  perfeita.  Se  o  banco  deixou  de  emprestar,  não  há  dano
+algum, pois o patrimônio da pessoa permaneceu inalterado.
+Art. 403. Ainda que a inexecução resulte de dolo do devedor, as perdas e danos só incluem os
+prejuízos efetivos e os lucros cessantes por efeito dela direto e imediato, sem prejuízo do
+disposto na lei processual.
+ COMENTÁRIOS DOUTRINÁRIOS:  Há  duas  questões  importantes  no  artigo
+em comento. A primeira é que o dolo não é fator de agravamento da responsabilidade
+civil. A indenização não é maior, nem menor, pelo fato de o devedor descumprir o
+
+contrato e causar os prejuízos inte
+[/PAGINA 365]
+
+[PAGINA 366]
+ncionalmente (dolo) ou por mero descuido (culpa).
+Contudo, deve-se salientar que, havendo dolo, a limitação de prejuízo estabelecida
+pela cláusula penal ou multa deve ser afastada, não se aplicando aquela do art. 416.
+Se o contrato, para afastar a responsabilidade civil do devedor, contiver cláusulas de
+irresponsabilidade ou de limitação de responsabilidade civil, e o devedor agir com
+dolo (intenção de causar o prejuízo), tais cláusulas serão ineficazes sob pena de se
+ferir o caráter ético do direito e premiar a torpeza do devedor. O dispositivo trata do
+nexo causal entre a conduta do devedor e os prejuízos experimentados pelo credor.
+Quais  são  os  prejuízos  indenizáveis?  Em  matéria  de  responsabilidade  contratual,
+dúvida não há de que o sistema adota a teoria dos danos diretos e imediatos, ou seja,
+a teoria pela qual só não haverá reparação do dano decorrente do inadimplemento do
+contrato. Para a responsabilidade extracontratual, há grande controvérsia (ver art. 187
+do CC). Por essa teoria, há o dever de indenizar se a conduta do devedor for causa
+direta e imediata do dano experimentado pelo credor. Afasta-se o chamado damnum
+remotum  ou  indireto. Ainda,  se  entre  a  conduta  e  o  dano  houver  uma  conduta  de
+terceiro (fato de terceiro) ou culpa exclusiva do credor, ou, ainda, caso fortuito ou
+força maior, não há dever de indenizar. No conhecido exemplo do engenheiro cujo
+erro de projeto de edifício faz despencar o prédio e destruir todos os móveis que
+estão  lá  dentro,  o  erro  de  projeto  (conduta)  é  causa  direta  e  imediata  da
+responsabilidade  por  indenizar  os  móveis  destruídos  pela  queda.  Contudo,  se  a
+mesma queda derrubou o muro e permitiu que ladrões roubassem os móveis do jardim
+(que estavam intactos após a queda do prédio), há um fato de terceiro que rompe o
+nexo causal. Da mesma forma, se o locador, de maneira ilícita, retira todos os móveis
+do  locatário  inadimplente  da  casa,  deixando-os  na  calçada  (abuso  do  direito  do
+locador que deveria promover uma ação de despejo) e depois vem uma forte chuva
+que estraga os móveis, o locador não responde pelos estragos da chuva. O raciocínio
+“se o locador não tivesse retirado os móveis a chuva não os teria estragado” não pode
+ser aplicado. Seria a aplicação, que não é possível, da conditio sine qua non (ver
+comentários  ao  art.  187  do  CC).  A  conduta  é  causa  do  dano  quando  for  causa
+necessária, ou seja, ao inadimplemento se atribua o dano de maneira exclusiva (sem
+outros fatores como culpa do credor ou de terceiro). Se o dano é imediato, entre a
+
+conduta e ele não ocorreu nenhum intervalo, lapso temporal. Se o dano é direto, é
+aquele que segue em linha reta. Há uma sinonímia entre dano direto e imediato na
+língua portuguesa. Se foi direto a Jaú, ele o foi sem interrupção, sem paradas, de
+maneira imediata.
+ JURISPRUDÊNCIA COMENTADA: Há interessante decisão do STJ em que
+uma empresa teve seu nome indevidamente inscrito nos cadastros de maus pagador
+[/PAGINA 366]
+
+[PAGINA 367]
+es
+(Serasa,  SPC)  e,  em  razão  dessa  inscrição  indevida  teria  falido.  A  decisão  não
+admitiu nexo causal entre a inscrição e o insucesso da empresa: “Sendo incontroverso
+que o insucesso da empresa não decorreu diretamente do evento danoso, inscrição
+indevida,  e  ausentes  indícios  objetivos  de  que  o  lucro  poderia  ser  razoavelmente
+esperado até os dias atuais caso o ato ilícito não tivesse ocorrido, os lucros cessantes
+devem  ser  delimitados  entre  janeiro/1992,  início  da  diminuição  dos  lucros  da
+empresa, e o fim de suas atividades em junho/1996” (REsp 1.553.790/PE, 3.ª Turma,
+Rel.  Min.  Ricardo  Villas  Bôas  Cueva,  j.  25.10.2016).  Realmente,  imputar  todo  o
+insucesso de uma atividade empresarial a um apontamento indevido é algo que foge
+da teoria do nexo adotada pelo CC. Seria algo admissível na teoria da conditio sine
+qua non, ou seja, a teoria da equivalência das condições, que não é admitida pelo
+sistema brasileiro.
+Art.  404. As  perdas  e  danos,  nas  obrigações  de  pagamento  em  dinheiro,  serão  pagas  com
+atualização monetária segundo índices oficiais regularmente estabelecidos, abrangendo juros,
+custas e honorários de advogado, sem prejuízo da pena convencional.
+Parágrafo único. Provado que os juros da mora não cobrem o prejuízo, e não havendo pena
+convencional, pode o juiz conceder ao credor indenização suplementar.
+ COMENTÁRIOS DOUTRINÁRIOS:  O caput do dispositivo repete o art. 389
+do CC ao qual remetemos o leitor. A questão da correção monetária é trabalhada nos
+comentários ao art. 315 do CC e a dos juros no art. 406 do CC. A pena convencional
+é a cláusula penal, matéria tratada nos arts. 408 e seguintes do CC. O interessante do
+presente dispositivo é seu parágrafo único, que tem origem no Anteprojeto do Código
+das Obrigações de Caio Mário da Silva Pereira. Já era mencionado pela doutrina
+
+como  algo  desejado  ao  sistema,  mas  que,  por  falta  de  previsão  no  CC/1916,  não
+poderia ser aplicado. Trata-se de consequência do princípio da reparação integral do
+dano e, por isso, se os juros de mora não cobrem os prejuízos, provando o credor tal
+fato (é dele o ônus da prova), o devedor pagará indenização suplementar. Há uma
+questão importante a se mencionar. Se a obrigação inadimplida não contiver cláusula
+penal (ver arts. 408 e seguintes), bastará ao credor provar que os juros de mora são
+insuficientes  para  a  completa  indenização.  Se,  contudo,  houver  cláusula  penal,  em
+regra, esta será o valor máximo da indenização (ver comentários ao art. 416) e, então,
+o credor não poderá cobrar indenização suplementar, mesmo que os prejuízos sejam
+superiores ao valor da cláusula penal. É por isso que o parágrafo único do art. 404 só
+terá aplicação em duas hipóteses: a) não há cláusula penal avençada pelas partes; b)
+há  cláusula  penal,  mas  o  contrato  admite  que  o  credor  cobre  os  prejuízos
+suplementares desde que faça prova que o dano excedeu o valor da cláusula penal.
+Caberá ao juiz, verifi
+[/PAGINA 367]
+
+[PAGINA 368]
+cando o inadimplemento e a inexistência de cláusula penal, a
+análise de uma questão fática: o valor dos juros são insuficientes para a indenização
+completa do credor.
+Art. 405. Contam-se os juros de mora desde a citação inicial.
+ COMENTÁRIOS DOUTRINÁRIOS:  Esse  dispositivo  exige  uma  explicação.
+Os juros de mora são devidos a partir do momento em que há mora. É por isso que,
+topologicamente, ele vem depois dos dois dispositivos que cuidam do início da mora
+(arts. 397 e 398 do CC). Assim, temos que o art. 405 não se aplica: a) quando a
+obrigação por positiva (dar e fazer), líquida, com prazo de vencimento, pois a mora é
+ex re e, iniciando-se no dia seguinte à data do pagamento inadimplido, começam a
+fluir os juros de mora; b) no ato ilícito extracontratual, em que os juros começam a
+fluir da data do ilícito. É por isso que o Enunciado n. 163 da III Jornada de Direito
+Civil, assim prevê: “A regra do art. 405 do novo Código Civil aplica-se somente à
+responsabilidade  contratual,  e  não  aos  juros  moratórios  na  responsabilidade
+extracontratual, em face do disposto no art. 398 do novo Código Civil, não afastando,
+pois, o disposto na Súmula n. 54 do STJ”. Então, em que hipóteses temos a aplicação
+
+do art. 405 do CC? Apenas e tão somente para as obrigações em que a mora seja ex
+persona, ou seja, dependa de um ato do credor para constituir o devedor em mora.
+Assim  vejamos.  Há  um  contrato  de  mútuo  de  dinheiro  pelo  qual  não  há  prazo
+estipulado  para  a  devolução  da  quantia  devida.  Os  juros  se  iniciaram  com  a
+notificação ou interpelação, pois assim se inicia a mora. Se notificação não houve,
+será a citação que exercerá seu papel, ou seja, constituirá o devedor em mora e dará
+início  à  fluência  dos  juros.  É  esse  o  teor  do  Enunciado  n.  428  da V Jornada de
+Direito Civil: “Os juros de mora, nas obrigações negociais, fluem a partir do advento
+do termo da prestação, estando a incidência do disposto no art. 405 da codificação
+limitada às hipóteses em que a citação representa o papel da notificação do devedor
+ou  àquelas  em  que  o  objeto  da  prestação  não  tem  liquidez”. A  questão  fica  bem
+esclarecida com a redação do art. 240 do CPC/2015: “A citação válida, ainda quando
+ordenada  por  juízo  incompetente,  induz  litispendência,  torna  litigiosa  a  coisa  e
+constitui em mora o devedor, ressalvado o disposto nos arts. 397 e 398 da Lei n.
+10.406, de 10 de janeiro de 2002 (Código Civil)”. Para o pagamento do DPVAT, ou
+seja, da indenização decorrente do seguro obrigatório, prevê a Súmula n. 426 do STJ
+o seguinte: “Os juros de mora na indenização do seguro DPVAT fluem a partir da
+citação”. Contudo, se o beneficiário do seguro notificou o segurador para pagamento,
+os juros devem ser contados, a partir da constituição, em mora.
+CAPÍTULO IV
+DOS JUROS LEGAIS
+Art.  406.  Quando  os  juros  moratórios  não  forem  convencionados,  ou  o  forem  sem  taxa
+estipulada, ou quando provierem de determinação da lei, serão fixado
+[/PAGINA 368]
+
+[PAGINA 369]
+s segundo a taxa que
+estiver em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional.
+ COMENTÁRIOS  DOUTRINÁRIOS:   O   dispositivo   encerra   muitas
+controvérsias a respeito da taxa legal de juros. De início, vamos explicar as espécies
+de juros e, depois, em breve análise histórica, demonstraremos a controvérsia. Os
+juros são acessórios, ou seja, frutos civis produzidos pelo principal, que é o capital (é
+o preço de uso do capital). Juros e correção monetária não se confundem. A correção
+
+monetária é a atualização ou reposição do valor de compra da moeda, que se altera
+em razão da inflação. A correção monetária não é um acessório, mas sim o principal
+(ver comentários ao art. 316 do CC). Os juros podem ser classificados de acordo com
+sua função e sua origem. De acordo com sua função, temos: a) juros compensatórios
+(ou remuneratórios): são os frutos produzidos pelo capital, utilizado por um terceiro,
+que não seja o proprietário (ex.: juros pagos pelo banco nas aplicações financeiras).
+Independem de culpa e necessitam de expressa previsão contratual (ver comentários
+ao art. 316), salvo nas hipóteses de mútuo feneratício (com finalidade econômica), em
+que  são  presumidos  (art.  591  do  CC/2002).  b)  juros  moratórios:  são  devidos  na
+hipótese  de  inadimplemento  culposo,  relativo  (mora)  ou  absoluto,  do  devedor.
+Independem de prova do prejuízo ou previsão contratual. De acordo com sua origem,
+temos:  a)  juros  convencionais:  decorrem  de  estipulação  contratual.  O  Decreto  n.
+22.626/1933 (Lei da Usura) proíbe que os juros sejam estipulados em superior ao
+dobro da taxa legal e menciona o art. 1.062 do CC/1916; b) juros legais: são aqueles
+previstos no art. 406 do CC/2002 (“Os juros serão fixados segundo a taxa que estiver
+em vigor para a mora do pagamento de impostos devidos à Fazenda Nacional”). A
+questão sobre a taxa legal de juros no Brasil é polêmica desde a vigência do Código
+Civil de 2002. Um breve histórico ajuda na compreensão da questão. O Código Civil
+de 1916, em seu art. 1.062, determinava que a taxa de juros moratórios fosse de 6%
+ao ano, quando não convencionada. A Lei da Usura (Decreto n. 22.626/1933) permite
+que os juros convencionais sejam de até o dobro da taxa legal e, portanto, os juros
+convencionais poderiam atingir patamar de 12% ao ano. A Constituição Federal de
+1988, em seu art. 192, § 3º, dispunha que “as taxas de juros reais, nelas incluídas
+comissões  e  quaisquer  outras  remunerações  direta  ou  indiretamente  referidas  à
+concessão de crédito, não poderão ser superiores a doze por cento ao ano; a cobrança
+acima deste limite será conceituada como crime de usura, punido, em todas as suas
+modalidades,  nos  termos  que  a  lei  determinar”.  Tal  dispositivo  foi  tido  pelo  STF
+como não autoaplicável, ou seja, dependente de regulamentação por lei complementar
+(Súmula n. 648 do STF que repetiu entendimento já constante da ADIn n. 4 assim
+dispõe: “A norma do § 3º do art. 192 da Constituição
+[/PAGINA 369]
+
+[PAGINA 370]
+, revogada pela EC n. 40/2003,
+que  limitava  a  taxa  de  juros  reais  a  12%  ao  ano,  tinha  sua  aplicabilidade
+
+condicionada  à  edição  de  lei  complementar”).  O  dispositivo,  contudo,  sem  ter
+ocorrido  edição  de  lei  para  regulamentá-lo,  foi  revogado  pela  Emenda  40/2003.
+Assim, nunca chegou a produzir efeitos. Com a edição do Código Civil de 2002, a
+locução “a taxa que estiver em vigor para a mora do pagamento de impostos devidos
+à Fazenda Nacional” gerou polêmica na doutrina por sua falta de operabilidade. A
+taxa de juros seria a de 1% ao mês prevista no Código Tributário Nacional ou seria a
+Taxa SELIC? a) Taxa SELIC. É o Sistema Especial de Liquidação e Custódia. Note-
+se que “custódia” é guarda, conservação de algo. Então, por que a “taxa de juros” tem
+a palavra custódia? O Sistema Especial de Liquidação e Custódia é aquele em que se
+registram transações e se efetua custódia de títulos federais. Assim, o Brasil emite
+títulos e os oferece ao investidor, que recebe uma remuneração por ser credor desses
+títulos. O SELIC custodia, guarda esses títulos. Pela remuneração, o Brasil paga uma
+taxa aos investidores e essa taxa, que é paga pelo Brasil, tem o nome de SELIC. Em
+1995, a SELIC passou a ser utilizada na cobrança dos devedores da União Federal. A
+taxa do Sistema Especial de Liquidação e Custódia (SELIC) foi criada pela Lei n.
+9.065/1995,  que  teve  sua  origem  na  Medida  Provisória  n.  947,  de  22.03.1995
+(reeditada  972/1995,  em  20.04.1995,  e  998,  em  19.05.1995),  cujo  art.  13  dispõe:
+“Art. 13 – A partir de 1º de abril de 1995 os juros de que tratam a alínea ‘c’ do
+parágrafo único do art. 14 da Lei n. 8847, de 28 de janeiro de 1994 com redação dada
+pelo artigo 6º da Lei n. 8850, de 28 de janeiro de 1994 e pelo artigo 90 da Lei n.
+8.981/95 o artigo 84, inciso I, e o artigo 91, § único, alínea ‘a.2’, da Lei n. 8.981/95,
+serão  equivalentes  à  taxa  referencial  do  Sistema  Especial  de  Liquidação  e  de
+Custódia – SELIC – para títulos federais, acumulada mensalmente.” Assim, a SELIC
+foi introduzida no sistema interno, para os devedores da União em termos de tributos.
+A  meta  da  Taxa  SELIC  é  fixada  nas  reuniões  do  COPOM  –  Comitê  de  Política
+Monetária  –,  que  ocorrem  a  cada  45  dias.  A  taxa,  em  si,  que  se  efetivou,  é
+posteriormente publicada no site da Receita Federal
+(http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-
+parcelamentos/taxa-de-juros-selic#Taxaselic). Contudo, deve-se ressaltar o seguinte:
+a SELIC não é taxa de juros. É uma taxa mais ampla de remuneração financeira cujo
+cômputo  já  considera  a  inflação  do  período.  Não  é  taxa  de  juros,  mas  uma  taxa
+
+híbrida. Isso porque, em sua criação, era utilizada apenas para pagar os investidores
+estrangeiros  que  adquiriam  títulos  brasileiros.  Para  estes,  interessa  a  remuneração
+paga, não havendo razão nem o costume de se fracionar os juros da correção. Assim,
+a SELIC não é taxa de juros e, po
+[/PAGINA 370]
+
+[PAGINA 371]
+r isso, não serve de base para o art. 406. É simples
+assim: não pode ser taxa de juros o que não tem natureza jurídica de juros, uma taxa
+de remuneração que cuida de política macroeconômica. É por isso que se a SELIC for
+aplicada como ‘taxa de juros’, em completa distorção de categoria, não poderá ser
+aplicada a correção monetária (IPC – por lei – ou IGP-M – pelo contrato). Assim, se
+o  contrato  adotar  um  índice  específico  de  correção,  do  valor  da  SELIC  deve-se
+descontar  a  correção  monetária  nela  embutida,  para,  depois,  se  aplicar  o  índice
+contratual. É a total inoperabilidade do sistema; b) a taxa de juros a que se refere o
+art.  406  é  do  art.  161,  §  1º  do  CTN  e  é  de  1%  ao  mês.  Nesse  sentido,  temos  o
+Enunciado n. 20 da I Jornada de Direito Civil: “A taxa de juros moratórios a que se
+refere o art. 406 é a do art. 161, § 1º, do Código Tributário Nacional, ou seja, um por
+cento ao mês”. Essa é a taxa adequada para o sistema de juros simplesmente por ser
+taxa  de  juros  e  não  algo  híbrido  que  foge  da  categoria  jurídica  em  questão.  Uma
+última nota. Se não houver previsão contratual para os juros e a mora se iniciou na
+vigência do Código Civil de 1916 e prossegue até o momento, pelo princípio tempus
+regit actum haverá a seguinte situação: para os meses que antecedem 10 de janeiro de
+2003, os juros legais de mora serão de 0,5% ao mês (art. 1.062 do CC/1916) e, para
+os meses posteriores, os juros serão os do art. 406 do CC/2002, ou seja, 1%. Esse é o
+teor do Enunciado n. 164 da III Jornada de Direito Civil: “Tendo início a mora do
+devedor ainda na vigência do Código Civil de 1916, são devidos juros de mora de
+6% ao ano, até 10 de janeiro de 2003; a partir de 11 de janeiro de 2003 (data de
+entrada em vigor do novo Código Civil), passa a incidir o art. 406 do Código Civil de
+2002”. A orientação é confirmada pelo STJ no Recurso Repetitivo 176: “Tendo sido
+a sentença exequenda prolatada anteriormente à entrada em vigor do Novo Código
+Civil, fixados juros de 6% ao ano, correto o entendimento do Tribunal de origem ao
+determinar a incidência de juros de 6% ao ano até 11 de janeiro de 2003 e, a partir de
+então, da taxa a que alude o art. 406 do Novo CC, conclusão que não caracteriza
+qualquer violação à coisa julgada”.
+
+ JURISPRUDÊNCIA COMENTADA: Nos Tribunais, a questão da taxa legal de
+juros é muito controversa. Pela aplicação dos juros de 1% ao mês temos: “Razão
+assiste à parte, porquanto, deve ser observada, no tocante aos juros legais, a taxa de
+0,5% ao mês (art. 1.062 do Código Civil de 1916), até o dia 10.01.2003; e a partir de
+11.01.2003, marco inicial da vigência do novo Código Civil, deve ser aplicada a taxa
+prevista no artigo 406 desse último. Confiram-se: Embargos de declaração. Recurso
+especial.  Responsabilidade  civil. Abertura  de  conta  corrente.  Documentação  falsa.
+Forma de correção dos valores arbitrados a título de danos morais. Questões novas.
+Omissão  inexistente.  (...)  3.  Os  juros
+[/PAGINA 371]
+
+[PAGINA 372]
+moratórios,  tratando-se  de  responsabilidade
+extracontratual, incidem a partir do evento danoso (Súmula n. 54/STJ), no percentual
+de 0,5% (meio por cento) ao mês na vigência do Código Civil de 1916 e de 1% (um
+por  cento)  ao  mês  na  vigência  do  Código  Civil  de  2002.  (STJ,  EDcl  no  REsp
+671.964/BA, Rel. Ministro Fernando Gonçalves, 4.ª Turma, julgado em 18/08/2009,
+DJe 31/08/2009)” (STJ, AgInt-EDcl-AREsp 216.417/RJ, Proc. 2012/0168216-2, 4.ª
+Turma,  Rel.  Des.  Fed.  Conv.  Lázaro  Guimarães,  j.  14.08.2018, DJe  21.08.2018).
+“Termo  inicial  dos  juros  de  mora.  Data  da  citação.  Precedentes.  5.  Art.  406  do
+Código  Civil.  Percentual  de  1%  ao  mês.  Incidência  da  Súmula  n.  83  desta  corte”
+(STJ,  REsp  1.575.125/PB,  Proc.  2015/0318341-4,  3.ª  Turma,  Rel.  Min.  Marco
+Aurélio Bellizze, DJe 13,09,2017). Pela SELIC temos: “1. Os juros de mora incidem
+desde o vencimento da obrigação positiva e líquida, sendo desinfluente o fato de ter
+sido utilizada ação monitória. Súmula n. 83/STJ. 2. A taxa de juros prevista no art.
+406  do  Código  Civil  c/c  art.  161,  §  1º,  do  CTN  é  a  taxa  referencial  do  Sistema
+Especial de Liquidação e Custódia – SELIC, por ser ela que incide como juros de
+mora  dos  tributos  federais.  Provimento.  RESP  1.111.117/PR,  representativo  de
+controvérsia, Rel. Ministro Luis Felipe Salomão, Rel. p/ Acórdão Ministro Mauro
+Campbell  Marques,  Corte  Especial,  julgado  em  02/06/2010, DJe  02/09/2010.  3.
+Recurso  Especial  parcialmente  provido”  (STJ,  REsp  1.554.412/MG,  Proc.
+2015/0180592-2, Rel. Min. Luis Felipe Salomão, j. 28.11.2018, DJe 05.12.2018). “1.
+Imprescindível  a  previsão  contratual  da  capitalização  anual  de  juros  no  contrato
+bancário, o que não restou comprovado no caso. 2. Após a vigência do CC/2002, os
+juros moratórios são devidos em consonância com o índice estabelecido pela Taxa
+
+SELIC (art. 406 do CC/2002), que engloba correção monetária e juros, não podendo
+com  eles  ser  cumulada.  3.  Recurso  Especial  provido  em  parte”  (STJ,  REsp
+1.626.025/PR, Proc. 2016/0240932-3, Rel. Min. Luis Felipe Salomão, j. 05.12.2018,
+DJe  12.12.2018).  “Aplica-se  a  Taxa  SELIC  para  calcular  os  juros  moratórios
+previstos  no  art.  406  do  CC/2002,  não  sendo  possível  cumulá-la  com  correção
+monetária.  Precedentes.  3.  A  existência  de  fundamento  do  acórdão  recorrido  não
+impugnado  –  quando  suficiente  para  a  manutenção  de  suas  conclusões  –  impede  a
+apreciação do Recurso Especial. 4. Recurso Especial parcialmente conhecido do [...]
+e,  nessa  parte,  provido.  Recurso  Especial  de  [...]  não  conhecido”  (STJ,  REsp
+1.702.350/PR, Proc. 2017/0246892-8, Rel. Min. Nancy Andrighi, j. 23.05.2018, DJe
+29.05.2018).
+Art. 407. Ainda que se não alegue prejuízo, é obrigado o devedor aos juros da mora que se
+contarão assim às dívidas em dinheiro, como às prestações de outra natureza, uma vez que lhes
+esteja fixado o valor pecuniário por sentença judic
+[/PAGINA 372]
+
+[PAGINA 373]
+ial, arbitramento, ou acordo entre as partes.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Os  juros  de  mora  são  consectários
+naturais da mora ou do inadimplemento absoluto culposo do devedor. Note-se que há
+uma presunção absoluta de prejuízo (iuris et de iure) que não pode ser afastada com
+prova  em  sentido  contrário.  O  fato  de  alguém  (devedor)  estar  com  capital  alheio
+(alheio não no sentido de propriedade, mas ao qual faz jus o credor), gera a presunção
+de que o credor perdeu dinheiro e o devedor teve uma vantagem pecuniária. Se o
+locatário não paga o aluguel, o credor (locador) está privado do uso do dinheiro e o
+devedor está se beneficiando dele (em uma aplicação financeira, por exemplo), por
+presunção legal. O artigo determina que os juros de mora são devidos em todas as
+prestações inadimplidas (dar, fazer e não fazer) e não apenas nas obrigações de dar
+dinheiro. Contudo, há uma questão de se fixar a base sobre a qual incidem os juros.
+Nas obrigações pecuniárias (dar dinheiro), os juros se calculam com relação ao valor
+da própria prestação. Para as prestações de outra natureza (fazer uma obra, dar um
+carro),  os  juros  são  devidos  da  mesma  maneira,  mas  se  contam  sobre  o  valor
+pecuniário da prestação inadimplida. Tal valor pode ser determinado por sentença,
+por arbitramento ou por acordo entre as partes. Assim, se o devedor não fez a obra, as
+
+perdas e danos podem estar representados por uma cláusula penal (multa contratual) e
+sobre esse valor acordado pelas partes incidem os juros. Contudo, o juiz pode fixar o
+valor  da  prestação  inadimplida  e,  então,  teremos  a  base  de  cálculo  dos  juros. A
+locução “desde que” não indica o início da fluência dos juros, que seguirá as regras
+dos arts. 397, 398 e 405 do CC. Trata de como são fixados os juros de mora em
+obrigações que não de dar dinheiro. Fixado o valor, tem-se a base de incidência dos
+juros. Somente isso. O início dos juros, repita-se, não é tratado nesse dispositivo.
+CAPÍTULO V
+DA CLÁUSULA PENAL
+Art. 408. Incorre de pleno direito o devedor na cláusula penal, desde que, culposamente, deixe
+de cumprir a obrigação ou se constitua em mora.
+ COMENTÁRIOS DOUTRINÁRIOS: Cláusula penal é a obrigação acessória a
+um contrato, pela qual o devedor se obriga a uma prestação determinada no caso de
+descumprimento do contrato ou de qualquer uma de suas cláusulas. É a chamada multa
+contratual ou pena convencional. A doutrina se divide quanto à sua função. O termo
+“pena” leva parte da doutrina a considerar a cláusula penal uma sanção, ou seja, uma
+punição  ao  devedor  inadimplente  (por  todos  Rubens  Limongi  França).  Parte  da
+doutrina  à  qual  nos  filiamos  vê  na  cláusula  penal  a  função  (histórica,  diga-se  de
+passagem) de servir com prefixação do valor das perdas e danos. Essa função de
+“ajuste  prévio  do  valor  da  indenização”  é  que  se  percebe  de  todos  os  artigos  do
+Código Civil brasileiro sobre o tema. A  ideia  de  punição  não  passa  pelo  sistema
+brasileiro
+[/PAGINA 373]
+
+[PAGINA 374]
+revelando-se contrária à disciplina do instituto no Brasil. É por isso que
+contrariamente  ao  pensamento  de  alguns  autores  (por  todos  Clóvis  Beviláqua),
+discordamos da possibilidade de cláusula penal em negócio jurídico unilateral, tal
+como o testamento. O testador não poderia, unilateralmente, fixar uma cláusula penal
+prefixando prejuízos de terceiros. Se o testador previr que o herdeiro deve, em dez
+dias após sua morte, R$ 10.000,00 (valor que sai da parte disponível) ao legatário
+sob  pena  de  multa  de  10%,  estamos  diante  de  clara  punição  sem  conteúdo
+indenizatório. A  disciplina  da  cláusula  penal  não  se  aplica  ao  caso  em  tela.  Uma
+
+única  vontade  (testador)  não  pode  vincular  outras  vontades  (herdeiro  e  legatário)
+quanto à fixação de futuros prejuízos. É de grande utilidade a cláusula penal, pois,
+como se verá (art. 416), faz presumir de maneira absoluta a existência de um dano e o
+valor da indenização devida. Dispensa o credor de provar a existência do dano, bem
+como de quantificá-lo. Há uma outra função (claramente secundária) que desempenha
+a  cláusula  penal:  estimular  o  devedor  a  cumprir  a  obrigação.  Havendo  multa,  a
+obrigação se torna mais onerosa ao devedor, que estará estimulado a cumpri-la no
+tempo, lugar e forma. Há uma importante distinção entre cláusula penal e astreinte (ou
+multa  cominatória):  enquanto  a  astreinte  tem  caráter  cominatório  (coercitivo),  a
+cláusula penal tem natureza indenizatória (portanto, o contrato pode conter ambas as
+multas). Também a limitação prevista no art. 412 do CC/2002, em nossa opinião, não
+se aplica à astreinte (ver comentários ao art. 249 do CC). Sobre a questão de eventual
+possibilidade de cumulação da cláusula penal com as arras, sugerimos a leitura dos
+comentários ao art. 419 do CC.
+ JURISPRUDÊNCIA COMENTADA: A  cláusula  penal  não  é  exclusiva  dos
+contratos  comutativos.  Nos  contratos  aleatórios,  em  que  não  há  certeza  da
+contraprestação ou da extensão, podem as partes avençar uma obrigação acessória
+para prefixação das perdas e danos. Assim, já se decidiu: “Nos contratos agrícolas de
+venda para entrega futura, de natureza aleatória, em razão do risco pela futuridade e
+incerteza,  as  partes  podem  convencionar  cláusula  penal,  obrigação  acessória  de
+responsabilidade, cuja natureza tem duplo escopo: coercitivo e indenizatório (artigo
+408  e  seguintes  do  Código  Civil).  Logo,  no  caso  de  inadimplemento  total  da
+obrigação, a multa contratual assume a modalidade compensatória, cuja exclusão não
+se  justifica,  por  força  do  princípio  do pacta  sunt  servanda,  notadamente  se  não
+demonstrada  a  infringência  aos  princípios  da  boa-fé  objetiva,  a  função  social  do
+contrato,  e  se  não  verificado  desequilíbrio  contratual  que  deva  ser  combatido”
+(TJGO, AC  0196943-87.2013.8.09.0137,  2.ª  Câmara  Cível,  Rio  Verde,  Rel.  Des.
+Zacarias Neves Coelho, DJGO 25.04.2016, p. 186).
+Art. 409. A cláusula penal e
+[/PAGINA 374]
+
+[PAGINA 375]
+stipulada conjuntamente com a obrigação, ou em ato posterior, pode
+referir-se à inexecução completa da obrigação, à de alguma cláusula especial ou simplesmente à
+
+mora.
+ COMENTÁRIOS DOUTRINÁRIOS: Não há dúvidas de que a cláusula penal é
+obrigação acessória, ou seja, acompanha uma obrigação principal. Aliás, o próprio
+texto do art. 412 menciona que seu valor não pode exceder ao da obrigação principal.
+A  cláusula  penal  só  produzirá  efeitos  se  a  obrigação  principal  for  descumprida.
+Assim, nada impede que a cláusula penal nasça após a obrigação principal ou seja
+estipulada em instrumento diverso. O contrato pode nascer sem a previsão de multa e,
+por  aditivo,  as  partes  podem  avençá-la.  Isso  significa  que,  cumprida  a  obrigação
+principal  pelo  pagamento,  extinta  estará  a  cláusula  penal. Ainda,  a  invalidade  do
+contrato  (nulidade  ou  anulabilidade)  contamina  a  cláusula  penal.  Ao  contrário,  a
+invalidade  da  cláusula  penal  não  contamina  a  obrigação  principal.  Se  uma  pessoa
+plenamente  capaz  firma  um  contrato  de  empréstimo  e,  posteriormente,  torna-se
+incapaz por prodigalidade e avença uma multa para o descumprimento desse mútuo,
+sem a assistência do curador, a cláusula penal é anulável e o mútuo não. O dispositivo
+traz as duas espécies de cláusula penal: cláusula penal moratória e cláusula penal
+compensatória:  a)  compensatória:  é  aquela  aplicada  para  a  hipótese  de
+descumprimento absoluto da obrigação (inexecução completa da obrigação). Exemplo
+clássico é o contrato de locação de imóvel urbano. Se o inquilino desocupar o imóvel
+antes do prazo avençado para locação, paga uma multa equivalente a três aluguéis. Há
+uma alternatividade em favor do credor (ver comentários ao art. 410); b) moratória:
+aplica-se às hipóteses de mora (art. 394 do CC/2002). Exemplo disso se verifica na
+previsão contratual pela qual se o inquilino não pagar o aluguel no vencimento pagará
+multa  de  10%.  Nessa  hipótese,  há  uma  cumulatividade,  pois  paga-se  a  prestação
+acrescida da cláusula penal. O descumprimento de uma única cláusula pode implicar
+a incidência tanto da cláusula compensatória, quanto da moratória a depender do caso
+concreto. Se a prestação é descumprida fora do tempo, do lugar e da forma, a cláusula
+descumprida implica mora, pois a prestação poderá ser exigida cumulativamente com
+a multa moratória. É o caso do inquilino que descumpre a prestação de segurar o
+imóvel contra incêndio. Deverá efetivar o seguro e pagar a multa moratória. Por outro
+lado, se o vendedor entregar o café (vendido para exportação) com algumas horas de
+
+atraso  e  o  navio  que  o  transportaria  já  partiu,  a  prestação  não  mais  poderá  ser
+cumprida (navio já partiu) e há incidência da cláusula penal compensatória. Não se
+exigirão o café e a multa, mas apenas a multa. O critério, portanto, para a avaliação
+da  cláusula  penal  que  garante  o  descumprimento  de  uma  determinada  cláusula
+dependerá do teor dessa cláusula
+[/PAGINA 375]
+
+[PAGINA 376]
+e dos efeitos do descumprimento. A cumulatividade
+ou não é uma pista que o contrato dará para saber a diferença. A real distinção entre
+elas  pode  depender  do  próprio  texto  do  contrato  e  seus  efeitos.  Se  o  contrato
+determinar que o descumprimento de certa cláusula gera ao credor o direito de exigi-
+la cumulada com a multa, há claramente uma cláusula penal moratória. Se o contrato
+mencionar que, com o inadimplemento, o credor pode optar entre a prestação ou a
+cláusula penal, esta será compensatória.
+Art. 410. Quando se estipular a cláusula penal para o caso de total inadimplemento da obrigação,
+esta converter-se-á em alternativa a benefício do credor.
+ COMENTÁRIOS DOUTRINÁRIOS:  Estamos  diante  de  uma  cláusula  penal
+compensatória  em  que  o  inadimplemento  é  absoluto,  ou  seja,  a  prestação  não  foi
+cumprida  (inexecução  foi  total,  completa).  Não  é  a  utilidade  da  prestação  que
+distingue  a  cláusula  penal  moratória  e  a  compensatória.  É  a  extensão  do
+inadimplemento  que  o  faz.  A  possibilidade  física  de  cumprimento  da  prestação
+interessa à aplicação do dispositivo. Vejamos. Se João deve a Antônia seu carro da
+marca Ford, modelo Focus, XPTO6367 e por culpa de João, o carro é destruído pela
+enchente,  há  impossibilidade  física  da  prestação  e  Antônia  pode  exigir  apenas  a
+indenização  pela  perda  do  carro  que,  por  contrato,  pode  estar  prefixada  em  uma
+cláusula penal compensatória. Não há alternatividade alguma. Se João deve a Antônia
+seu  carro  da  marca  Ford,  modelo  Focus,  XPTO6367  e  João  se  nega  a  entregar  o
+carro, há possibilidade física da prestação e Antônia pode exigir: a) a entrega do
+carro ou b) a cláusula penal que, por contrato, pode estar prefixada em uma cláusula
+penal  compensatória.  Há  efetivamente  alguma  alternatividade.  O  que  não  pode
+ocorrer é se exigir a prestação devida cumulada com a cláusula penal compensatória,
+pois o credor receberia duas vezes a prestação (uma in natura e outra na forma de
+perdas e danos prefixadas). Isso não se verifica no caso de cláusula penal moratória
+
+(ver  art.  411  do  CC).  Há  também  uma  normal  correlação  entre  a  cláusula  penal
+compensatória  e  o  valor  do  objeto  da  prestação.  Normalmente,  se  fixada  em
+percentuais, estamos diante de uma cláusula penal moratória. Escolhida a cláusula
+penal  pelo  credor,  a  obrigação  original  desaparece.  Nada  mais  poderá  o  credor
+exigir.
+ JURISPRUDÊNCIA COMENTADA: A leitura do STJ é precisa ao distinguir
+as  espécies  de  cláusula  penal.  Inadimplemento  completo  significa  aplicação  da
+cláusula penal compensatória: “Enquanto a cláusula penal moratória manifesta com
+mais evidência a característica de reforço do vínculo obrigacional, a cláusula penal
+compensatória  prevê  indenização  que  serve  não  apenas  como  punição  pelo
+inadimplemento, mas também como prefixação de perdas e danos. A finalidade da
+cláusula penal compensatória é recompor a parte pe
+[/PAGINA 376]
+
+[PAGINA 377]
+los prejuízos que eventualmente
+decorram  do  inadimplemento  total  ou  parcial  da  obrigação.  Tanto  assim  que,
+eventualmente,  sua  execução  poderá  até  mesmo  substituir  a  execução  do  próprio
+contrato. Não é possível, pois, cumular cláusula penal compensatória com perdas e
+danos  decorrentes  de  inadimplemento  contratual”  (REsp  1.335.617/SP,  3.ª  Turma,
+Rel. Min. Sidnei Beneti, j. 27.03.2014).
+Art. 411. Quando se estipular a cláusula penal para o caso de mora, ou em segurança especial de
+outra cláusula determinada, terá o credor o arbítrio de exigir a satisfação da pena cominada,
+juntamente com o desempenho da obrigação principal.
+ COMENTÁRIOS DOUTRINÁRIOS: Nessa espécie, temos o cumprimento da
+prestação  acrescido  da  cláusula  penal.  Não  há  uma  alternatividade  e  sim  uma
+cumulatividade. Imaginemos que o contrato preveja que se o café for entregue pelo
+vendedor em lugar diverso do avençado, o vendedor paga ao comprador uma multa de
+10% do valor das sacas de café. Essa multa é claramente cláusula penal moratória,
+pois o comprador exigirá o café e a multa. Note-se que esse dispositivo indica que a
+cláusula  penal  moratória  e  a  compensatória  não  têm  por  diferença  a  utilidade  da
+prestação para o credor (que é o que difere a mora do inadimplemento absoluto nos
+termos do art. 396 do CC). A própria lei determina que a cláusula moratória se aplica
+
+ao descumprimento de uma parte do contrato (mora ou cláusula específica). As partes
+não se confundem com o todo. Ao  se  descumprir  o  todo,  aplica-se  cláusula  penal
+compensatória;  já  a  parte,  cláusula  penal  moratória.  Não  há  qualquer  vedação  ou
+contradição em cobrar o valor da cláusula penal moratória e também juros de mora.
+Isso porque os juros são frutos civis que são pagos pela privação do uso do capital
+por quem de direito. A lei expressamente autoriza a cobrança das perdas e danos,
+representadas ou não pela cláusula penal, e também de juros (arts. 389 e 394 do CC).
+Há um interessante debate na doutrina a respeito do chamado abono de pontualidade.
+São os chamados ‘descontos’ ao devedor que pagar antes do prazo de vencimento.
+Vejamos. O contrato prevê que se a mensalidade escolar no importe de R$ 1.000,00
+for paga até o dia 5 do mês, há um desconto de 20%, se paga até o dia 10, o desconto
+é de 10% e se paga na data do vencimento, dia 15, não há desconto. Entretanto, se
+houver atraso a multa moratória é de 10%. Qual o valor efetivo da prestação escolar?
+R$  1.000,00  ou  R$  800,00,  já  que  se  paga  antes  da  data  de  vencimento  há  um
+‘desconto’? A data real de pagamento é o dia 5 e não dia 15. Na realidade, o valor da
+prestação é R$ 800,00, pois se deve descontar o abono de pontualidade de 20%, que
+é  cláusula  penal  disfarçada.  Então,  temos  no  contrato  duas  cláusulas  penais
+cumuladas:  a  primeira,  que  transforma  o  valor  da  prestação  de  R$  800,00  em  R$
+1.000,00  e  a  segunda,  aplicada  após  o  vencimento,  que  transforma  o
+[/PAGINA 377]
+
+[PAGINA 378]
+valor  de  R$
+1.000,00 em R$ 1.100,00. O abono de pontualidade é forma de se cobrar multa sobre
+multa mascarando o valor da prestação e a data real de vencimento. Ele exerce a
+exata função da cláusula penal: estimular o devedor a cumprir a prestação e já prever
+o valor das perdas e danos caso haja inadimplemento.
+ JURISPRUDÊNCIA COMENTADA: O STJ tem orientação distinta quanto ao
+abono de pontualidade. Entende que a prática é lícita e decorre da autonomia privada.
+Assim:  “O  denominado  ‘desconto  de  pontualidade’,  concedido  pela  instituição  de
+ensino  aos  alunos  que  efetuarem  o  pagamento  das  mensalidades  até  a  data  do
+vencimento ajustada, não configura prática comercial abusiva. Em relação à natureza
+jurídica, pode-se afirmar que o abono por pontualidade e a multa contratual possuem,
+como traço em comum, o propósito de instar a outra parte contratante a adimplir a sua
+
+obrigação, de garantir o cumprimento da obrigação ajustada. Porém, diversamente do
+desconto por pontualidade, a multa contratual, concebida como espécie de cláusula
+penal  (no  caso,  cláusula  penal  moratória),  assume  um  nítido  viés  coercitivo  e
+punitivo,  na  medida  em  que  as  partes,  segundo  o  princípio  da  autonomia  privada,
+convencionam  a  imposição  de  uma  penalidade  na  hipótese  de  descumprimento  da
+obrigação, cujo limite, nos contratos civis, é de 10% sobre o valor da dívida (arts. 8º
+e 9º do Decreto n. 22.626/1933); nas dívidas condominiais, de 2% (art. 1.336, § 1º,
+do CC); e nos contratos de consumo, de 2%” (STJ, REsp 1.424.814/SP, 3.ª Turma,
+Rel. Min. Marco Aurélio Bellizze, j. 04.10.2016).
+Art. 412. O valor da cominação imposta na cláusula penal não pode exceder o da obrigação
+principal.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Havendo  cláusula  penal  há  uma
+prefixação das perdas e danos pelas partes. Há uma presunção absoluta de dano (iuris
+et de iuri) e que não admite prova em sentido contrário. Não poderá o devedor provar
+que dano não existiu ou que, tendo existido, seu valor é inferior ao da cláusula penal.
+É em razão dessa presunção absoluta de dano que o sistema limita o valor da cláusula
+penal ao valor da prestação principal. A disposição é de ordem pública, pois visa a
+evitar o enriquecimento injustificado. Em se tratando de cláusula penal moratória, os
+limites costumeiros são de 20% do valor da prestação inadimplida para as relações
+civis e empresariais e de 2% para as relações de consumo, conforme se verá. Esse
+limite de 20% para as relações civis e empresarias é resultado de longa experiência
+histórica e de uma verdadeira repetição de condutas em matéria contratual. É por isso
+que  as  multas  que  passam  20%  acabam  por  destoar  do  cenário  contratual.  Há  na
+legislação especial limitações específicas. Assim vejamos: a) Lei da usura – Art. 9º
+do Decreto n. 22.626/1933: “Não é válida a cláusula penal superior a importância de
+10% do valor da dívida”; b) CDC – “Art. 52. § 1º As multas de mora decorrentes do
+inadimplemento de
+[/PAGINA 378]
+
+[PAGINA 379]
+obrigações no seu termo não poderão ser superiores a dois por
+cento  do  valor  da  prestação”.  Há  uma  dúvida  se  essa  limitação  se  restringe  ao
+contratos bancários (caput do artigo) ou a todos os contratos de consumo; c) Taxa
+condominial – Art. 1.336 do CC: “§ 1º O condômino que não pagar a sua contribuição
+
+ficará sujeito aos juros moratórios convencionados ou, não sendo previstos, os de um
+por cento ao mês e multa de até dois por cento sobre o débito”; d) Lei n. 13.786/2018
+que alterou o texto da Lei n. 4.591/1964 com a criação do art. 67-A que assim dispõe:
+“Em caso de desfazimento do contrato celebrado exclusivamente com o incorporador,
+mediante  distrato  ou  resolução  por  inadimplemento  absoluto  de  obrigação  do
+adquirente, este fará jus à restituição das quantias que houver pago diretamente ao
+incorporador,  atualizadas  com  base  no  índice  contratualmente  estabelecido  para  a
+correção  monetária  das  parcelas  do  preço  do  imóvel,  delas  deduzidas,
+cumulativamente: (...) II – a pena convencional, que não poderá exceder a 25% (vinte
+e cinco por cento) da quantia paga”; e) Lei n. 13.786/2018 que alterou o texto da Lei
+n.  4.591/1964  com  a  criação  do  art.  67-A  que  assim  dispõe  “§  5º  Quando  a
+incorporação estiver submetida ao regime do patrimônio de afetação, de que tratam os
+arts.  31-A  a  31-F  desta  Lei,  o  incorporador  restituirá  os  valores  pagos  pelo
+adquirente,  deduzidos  os  valores  descritos  neste  artigo  e  atualizados  com  base  no
+índice contratualmente estabelecido para a correção monetária das parcelas do preço
+do  imóvel,  no  prazo  máximo  de  30  (trinta)  dias  após  o  habite-se  ou  documento
+equivalente expedido pelo órgão público municipal competente, admitindo-se, nessa
+hipótese, que a pena referida no inciso II do caput deste artigo seja estabelecida até o
+limite  de  50%  (cinquenta  por  cento)  da  quantia  paga”;  f)  Lei  n.  13.786/2018  que
+alterou a Lei n. 6.766/1979 com a criação do art. 32-A que tem a seguinte redação:
+“Em  caso  de  resolução  contratual  por  fato  imputado  ao  adquirente,  respeitado  o
+disposto  no  §  2º  deste  artigo,  deverão  ser  restituídos  os  valores  pagos  por  ele,
+atualizados  com  base  no  índice  contratualmente  estabelecido  para  a  correção
+monetária das parcelas do preço do imóvel, podendo ser descontados dos valores
+pagos os seguintes itens (...) II – o montante devido por cláusula penal e despesas
+administrativas, inclusive arras ou sinal, limitado a um desconto de 10% (dez por
+cento)  do  valor  atualizado  do  contrato”.  Há  uma  importante  nota  a  se  fazer.  Se  a
+cláusula  penal  exceder  o  limite  do  art.  412  ou  das  regras  especiais,  o  excesso  é
+considerado  ineficaz,  ou  seja,  só  produzirá  efeitos  no  limite  legal.  Assim,  se  a
+convenção contiver previsão de multa de 20% (como era possível anteriormente à
+vigência do CC/2002), a partir de 10 de janeiro de 2003 prevalece a multa do atual
+[/PAGINA 379]
+
+[PAGINA 380]
+art. 1.336, ou seja, de apenas 2%. O que supera o limite legal é ineficaz. Nessas
+hipóteses, em que a cláusula penal supera o limite legal, a eliminação do excesso se
+dará  por  meio  de  pedido  da  parte  interessada,  para  afastar  o  enriquecimento  sem
+causa. Contudo, mesmo respeitados os limites legais, quer seja o limite do art. 412,
+quer  seja  aquele  previsto  em  regra  especial,  a  cláusula  penal  ainda  poderá  ser
+reduzida nas hipóteses do art. 413 do CC.
+ JURISPRUDÊNCIA COMENTADA: Temos duas questões interessantes sobre
+o limite da cláusula penal na jurisprudência. A primeira diz respeito à limitação de
+2% imposta pelo CDC. A maioria das decisões envolvendo a redução da multa para
+2% ocorre nos contratos bancários. No entanto, o artigo não se limita a esse tipo de
+contrato, conforme se vê pela aplicação do dispositivo a outros contratos, como os de
+telefonia: “Os contratos de prestação de serviços de telefonia, por envolver relação
+de consumo, estão sujeitos à regra prevista no § 1º do art. 52 do Código de Defesa do
+Consumidor, segundo a qual é de até 2% do valor da prestação (e não de 10%) a
+multa de mora decorrente do inadimplemento de obrigação no seu termo” (STJ, REsp
+436.224/DF,  Rel.  Min.  Teori  Albino  Zavascki,  j.  18.12.2007);  e  ainda  “a
+interpretação  desse  dispositivo  legal  não  pode  ficar  adstrita  à  sua  mera  posição
+topológica em detrimento da sua interpretação sistemática e teleológica, motivo pelo
+qual se evidencia despropositado o debate a respeito da inaplicabilidade da limitação
+de 2% prevista no § 1º do art. 52 do CDC a contrato que não envolva outorga de
+crédito ou concessão de financiamento” (STJ, REsp 476.649/SP, 3.ª Turma, Rel. Min.
+Nancy Andrighi, j. 20.11.2003). A melhor orientação é a dada pelo TJ/SP que aplicou
+a limitação ao contrato de prestação de serviços educacionais: “A interpretação desse
+dispositivo legal não pode ficar adstrita à sua mera posição topológica em detrimento
+da  sua  interpretação  sistemática  e  teleológica,  motivo  pelo  qual  se  evidencia
+despropositado o debate a respeito da inaplicabilidade da limitação de 2% prevista
+no § 1º do art. 52 do CDC a contrato que não envolva outorga de crédito ou concessão
+de financiamento” (TJSP, AC 1040881-58.2017.8.26.0114, 32.ª Câmara de Direito
+Privado, Rel. Des. Ruy Coppola, j. 10.01.2019). A segunda diz respeito às multas
+condominiais que eram de 20% nas convenções laboradas anteriormente à vigência
+
+do CC/2002 por permissão da Lei n. 4.591/1964. É pacífica a orientação do STJ: “A
+multa  por  atraso  prevista  na  convenção  de  condomínio,  que  tinha  por  limite  legal
+máximo o percentual de 20% previsto no art. 12, parágrafo 3º, da Lei n. 4.591/1964,
+vale  para  as  prestações  vencidas  na  vigência  do  diploma  que  lhe  dava  respaldo,
+sofrendo automática modificação, no entanto, a partir da revogação daquele teto pelo
+art. 1.336, parágrafo 1º, em relação às cotas vencidas sob a égide do Código Civil
+atual”  (STJ,
+[/PAGINA 380]
+
+[PAGINA 381]
+REsp  746.589/RS,  4.ª  Turma,  Rel.  Min.  Aldir  Passarinho  Junior,  j.
+15.08.2006, DJ 18.09.2006, p. 327).
+Art. 413. A penalidade deve ser reduzida equitativamente pelo juiz se a obrigação principal tiver
+sido cumprida em parte, ou se o montante da penalidade for manifestamente excessivo, tendo-
+se em vista a natureza e a finalidade do negócio.
+ COMENTÁRIOS DOUTRINÁRIOS: A redução da cláusula penal caso supere
+o valor da obrigação principal prevista no artigo anterior tem uma facilidade: o juiz
+simplesmente a reduz ao limite. A operação se revela simples, bastando que se saiba
+o valor da obrigação principal. A redução que prevê o art. 413 é bem mais complexa.
+Parte-se da premissa de que a cláusula penal não excedeu o teto previsto no art. 412
+e/ou nas regras especiais. Todavia, mesmo no limite legal, o juiz deverá reduzir o seu
+valor em duas hipóteses: a) se a obrigação foi cumprida em parte. Se a cláusula penal
+prefixa  os  prejuízos  pelo  inadimplemento  total  do contrato,  havendo  cumprimento
+parcial, os prejuízos foram menores que o valor da cláusula penal. É por essa razão
+que o cumprimento parcial do contrato implica necessariamente redução da cláusula
+penal. b) Se o montante for manifestamente excessivo tendo-se em vista a finalidade e
+a natureza do negócio. Há contratos gratuitos e contratos onerosos. A natureza distinta
+do contrato altera a lógica da cláusula penal. Em um contrato gratuito, em que apenas
+uma das partes tem a vantagem, a cláusula penal pode ser mais pesada quanto a ela. É
+o caso de o comodatário não restituir o bem emprestado. Pode haver uma cláusula
+penal mais pesada para essa hipótese. Assim, a lei permite ao comodante que cobre
+do comodatário um aluguel pelo uso da coisa durante o período de sua mora. Para a
+hipótese de não pagamento de valor, em sendo o contrato gratuito e com vantagens
+apenas para o comodatário, a multa pode ser maior (50%, por exemplo) e isso não
+
+significará  que  é  excessiva.  Caso  fosse  uma  locação  de  imóvel  urbano,  contrato
+oneroso com vantagens e desvantagens recíprocas, a multa deve seguir a praxe do
+mercado  e  se  limitar  a  20%.  A  cláusula  penal  de  50%  imposta  pela  Lei  n.
+13.786/2018, que alterou o texto da Lei n. 4.591/1964, com a criação do art. 67-A no
+caso  de  desistência  da  aquisição  pelo  adquirente  do  imóvel  sujeito  ao  regime  do
+patrimônio de afetação, revela-se excessiva, ab initio. Primeiro, porque a multa nasce
+em  um  contrato  por  adesão  em  que  o  adquirente  não  pode  debater  seu  conteúdo
+(natureza  do  negócio).  Depois,  porque  trata  de  aquisição  da  casa  própria  (muitas
+vezes, finalidade do negócio). Por último, porque é superior a todas as demais multas
+previstas no ordenamento jurídico brasileiro. Note-se que o critério para se verificar
+se a cláusula penal é ou não excessiva diz respeito à natureza da obrigação e sua
+finalidade.  Não  se  confunde  com  a  noção  de  onerosidade  excessiva  em  que  as
+prestações  nascem  e
+[/PAGINA 381]
+
+[PAGINA 382]
+quilibradas  e,  por  um  motivo  superveniente  à  formação  do
+contrato se desequilibram de maneira a permitir a resolução ou revisão (art. 478 do
+CC).  No  artigo  que  se  comenta,  há  um  problema  já  na  formação  do  contrato
+(sinalagma  genético)  em  que  a  cláusula  penal  já  se  revela  excessiva,  mesmo  nos
+limites legais (art. 412 ou regras especiais). Com razão, o Enunciado n. 358 da IV
+Jornada de Direito Civil pelo qual “o caráter manifestamente excessivo do valor da
+cláusula  penal  não  se  confunde  com  a  alteração  das  circunstâncias,  a  excessiva
+onerosidade  e  a  frustração  do  fim  do  negócio  jurídico,  que  podem  incidir
+autonomamente e possibilitar sua revisão para mais ou para menos”. A redução se faz
+pelo critério da equidade e não da proporção. O advérbio proporcionalmente (do art.
+924 do CC/1916) não é mais utilizado pelo texto de lei. Foi substituído pelo advérbio
+equitativamente.  O  conceito  de  equidade  é  o  de  justiça  no  caso  concreto,  com  a
+possibilidade de abrandamento dos rigores da lei, de acordo com as peculiaridades
+do caso. O juiz deve suavizar o rigor legislativo, levando em conta o caso concreto
+que está sub judice. Exemplifica-se. Um agricultor se compromete a realizar a entrega
+mensal  de  hortaliças,  pelo  prazo  de  três  anos,  a  um  restaurante. A  cláusula  penal
+fixada para hipótese de inadimplemento é de R$ 3.000,00. Se o agricultor cumprir o
+contrato  por  um  período  de  dois  anos  e,  culposamente,  deixar  de  entregar  as
+hortaliças apenas no terceiro e último ano da avença, qual seria o valor da multa a ser
+
+fixada se o juiz deve reduzi-la equitativamente em razão do parcial cumprimento do
+contrato? Se a conta tomasse por base a proporção (art. 924 do CC/1916), o cálculo
+seria meramente aritmético: 2/3 do contrato foram cumpridos, reduz-se a multa em 2/3
+e,  portanto,  o  valor  da  cláusula  penal  seria  de  apenas  R$  1.000,00.  Entretanto,
+equidade não é proporção e o cálculo não é simplesmente aritmético. Deve o juiz
+considerar  as  peculiaridades  do  contrato  específico  e  quão  prejudicial  foi  ao
+restaurante ficar sem as hortaliças. Aumenta-se o poder do juiz no ato decisório, não
+sem antes se esclarecer que a decisão por equidade deve ser igualmente motivada.
+Tem razão, assim, o Enunciado n. 359 da IV Jornada de Direito Civil: “A redação do
+art.  413  do  Código  Civil  não  impõe  que  a  redução  da  penalidade  seja
+proporcionalmente idêntica ao percentual adimplido”. A lei especial, pode, contudo,
+afastar o critério da equidade e adotar o da proporção. É o que ocorre com a Lei do
+Inquilinato (8.245/1991) que em seu art. 4º expressamente dispõe que se o locatário
+devolver  o  imóvel  antes  do  fim  do  prazo  da  locação,  pagará  ao  locador  “multa
+pactuada,  proporcional  ao  período  de  cumprimento  do  contrato”.  A  questão  da
+locação  é  interessante,  pois  a  lei  foi  alterada  em  2009  pela  Lei  n.  12.112,  que
+efetivamente utiliz
+[/PAGINA 382]
+
+[PAGINA 383]
+ou o advérbio “proporcionalmente” e retirou a remissão ao art. 924
+do  CC/1916.  É  por  isso  que  no  período  de  11  de  janeiro  de  2003  (vigência  do
+CC/2002) até janeiro de 2010 (quando entrou em vigor a Lei n. 12.112) a redução da
+multa se dava por equidade (Enunciado n. 357 da IV Jornada de Direito Civil: “O
+art. 413 do Código Civil é o que complementa o art. 4º da Lei n. 8.245/1991”). A
+partir de 2010, com a alteração legal, a proporção passou a ser o critério de redução
+da cláusula penal e assim prossegue sendo. Há uma questão controversa, contudo.
+Seria a norma do artigo em comento uma norma de ordem pública? Quais os efeitos
+dessa conclusão? É verdade que o art. 413 utiliza o verbo “deve” e não “poderá”
+como  fazia  o  revogado  Código  Civil  (“Art.  924.  Quando  se  cumprir  em  parte  a
+obrigação, poderá o juiz reduzir proporcionalmente a pena estipulada para o caso de
+mora, ou de inadimplemento”). Contudo, há que se compreender que a questão aqui é
+de direito patrimonial disponível. Não há interesse público na redução da cláusula
+penal  que  obedece  aos  limites  legais  do  art.  412  e  normas  especiais.  As  partes
+podem, por contrato, estabelecer irredutibilidade da cláusula penal ou regras próprias
+
+para a redução, como, por exemplo, uma relação entre prazo cumprido e redução da
+multa (quanto maior o prazo cumprido pelo devedor, menor a multa contratual). Da
+mesma forma, pode o devedor simplesmente não invocar a regra do art. 413 por achar
+adequado  o  valor  da  cláusula  penal. A  questão  não  é  de  ordem  pública.  Está  no
+campo da autonomia privada. É por isso que os Enunciados 355 e 356, que seriam
+perfeitamente lógicos quando aplicados aos contratos de adesão, em que o aderente
+não pode debater o conteúdo do contrato, revelam-se equivocados ao se aplicarem a
+todo e qualquer contrato. A leitura dos enunciados deve ser restrita aos contratos por
+adesão.  “Enunciado  n.  355  da IV Jornada de Direito Civil: Não podem as partes
+renunciar  à  possibilidade  de  redução  da  cláusula  penal  se  ocorrer  qualquer  das
+hipóteses previstas no art. 413 do Código Civil, por se tratar de preceito de ordem
+pública. Enunciado n. 356 da IV Jornada de Direito Civil: Nas hipóteses previstas no
+art. 413 do Código Civil, o juiz deverá reduzir a cláusula penal de ofício”. A matéria
+não  é  de  ordem  pública,  é  questão  puramente  patrimonial  que  só  interessa  aos
+contratantes.  Permitir  ao  juiz,  em  um  contrato  paritário,  mormente  entre
+hipersuficientes, controlar a cláusula penal, é ignorar a base do contrato: a autonomia
+das  partes  e  sua  vontade.  Exatamente  por  não  ser  matéria  de  ordem  pública,
+exatamente por se admitir que nos contratos paritários as partes podem ajustar uma
+não  redução  da  multa,  é  que  na II  Jornada  de  Direito  Comercial  aprovou-se  o
+Enunciado  n.  67:  “Na  locação built to suit,  é  válida  a  estipulação  contratual  que
+estabeleça  cláusula  penal  compensatória  equival
+[/PAGINA 383]
+
+[PAGINA 384]
+ente  à  totalidade  dos  alugueres  a
+vencer, sem prejuízo da aplicação do art. 416, parágrafo único, do Código Civil”. No
+contrato built to suit, o locatário encomenda ao dono do terreno a construção (ou
+reforma substancial) de certo imóvel para que este seja adequado à sua atividade. É o
+que fazem os bancos quando precisam de uma agência. Firmam esse contrato em que o
+prédio é construído e depois locado por longos períodos. Nesse contrato, claramente
+atípico  misto,  a  cláusula  não  pode  ser  reduzida  pelo  juiz,  ainda  que  equivalha  à
+totalidade dos alugueres a vencer, pois os aluguéis não remuneram apenas a posse do
+locatário, mas também as despesas do locador na construção.
+ JURISPRUDÊNCIA COMENTADA: Interessante a decisão do STJ a respeito
+
+dos contratos de telefonia e TV a cabo com a chamada cláusula de fidelização. Em
+razão  dessa  cláusula,  não  pode  o  consumidor  resolver  o  contrato,  se  não  pagando
+multa integral, sem qualquer redução. A cláusula, em contrato de adesão, foi tida por
+abusiva  exatamente  por  desconsiderar  o  cumprimento  parcial  da  prestação  pelo
+consumidor. Assim vejamos: “Nada obstante, em que pese ser elemento oriundo de
+convenção  entre  os  contratantes,  a  fixação  da  cláusula  penal  não  pode  estar
+indistintamente  ao  alvedrio  destes,  já  que  o  ordenamento  jurídico  prevê  normas
+imperativas e cogentes, que possuem a finalidade de resguardar a parte mais fraca do
+contrato, como é o caso do art. 412 do Código Civil (‘O valor da cominação imposta
+na  cláusula  penal  não  pode  exceder  o  da  obrigação  principal’).  4.  A  citada
+preocupação reverbera, com maior intensidade, em se tratando de contrato de adesão,
+como o de prestação de serviços de telecomunicações, o que motivou a ANATEL a
+expedir a Resolução n. 632/2014, a fim de regular a forma de cálculo da multa a ser
+cobrada em caso de resilição antecipada dos contratos com fidelização. 5. O referido
+regulamento  entrou  em  vigor  em  07  de  julho  de  2014  e,  a  partir  de  então,  as
+prestadoras de serviço de TV a cabo (assim como as demais prestadoras de serviços
+de  telecomunicações)  são  obrigadas  a  oferecer  contratos  de  permanência  aos
+consumidores – vinculados aos contratos de prestação de serviços com cláusula de
+fidelização – e a calcular a multa fidelidade proporcionalmente ao valor do benefício
+concedido  e  ao  período  restante  para  o  decurso  do  prazo  mínimo  estipulado.  6.
+Contudo, mesmo antes da vigência do citado normativo, revelava-se abusiva a prática
+comercial adotada pela prestadora do serviço de TV a cabo, que, até 2011, cobrava a
+multa fidelidade integral dos consumidores, independentemente do tempo faltante para
+o término da relação de fidelização. 7. Isso porque a cobrança integral da multa, sem
+computar  o  prazo  de  carência  parcialmente  cumprido  pelo  consumidor,  coloca  o
+fornecedor em vantagem exagerada, caracterizando conduta iníqua, incompatível com
+a equidade, consoante dispo
+[/PAGINA 384]
+
+[PAGINA 385]
+sto no § 1º e inciso IV do art. 51 do código consumerista”
+(STJ, REsp 1.362.084/RJ, 4.ª Turma, Rel. Min. Luís Felipe Salomão, j. 16.05.2017).
+A decisão segue a lógica da abusividade da cláusula penal em contrato por adesão,
+pois o estipulante impõe e o aderente aceita. O tema da redução da cláusula penal de
+ofício, bem como em contratos paritários, é ainda controverso, mas nota-se que os
+
+Tribunais admitem a aplicação do art. 413 mesmo a contratos de fornecimento entre
+grandes  empresas,  ou  seja,  contratos  claramente  mercantis  e  entre  partes
+hipersuficientes. A redução ocorreu no contrato entre duas empresas (Brasil Madeiras
+Ltda. e Melhoramentos Florestal S/A), de compra e venda de 150.000 metros estéreos
+de  árvores,  no  valor  de  R$  1.099.500,00:  “A  cláusula  penal,  em  que  pese  ser
+elemento oriundo de convenção entre os contratantes, sua fixação não fica ao total e
+ilimitado alvedrio deles, porquanto o atual Código Civil introduziu normas de ordem
+pública,  imperativas  e  cogentes,  que  possuem  o  escopo  de  preservar  o  equilíbrio
+econômico financeiro da avença, afastando o excesso configurador de enriquecimento
+sem causa de qualquer uma das partes. A redução da cláusula penal pelo magistrado
+deixou  de  traduzir  uma  faculdade  restrita  às  hipóteses  de  cumprimento  parcial  da
+obrigação  e  passou  a  consubstanciar  um  poder/dever  de  coibir  os  excessos  e  os
+abusos que venham a colocar o devedor em situação de inferioridade desarrazoada.
+Nesse sentido, é o teor do Enunciado n. 356 da IV Jornada de Direito Civil, o qual
+dispõe que ‘nas hipóteses previstas no art. 413 do Código Civil, o juiz deverá reduzir
+a cláusula penal de ofício’. Do mesmo modo, o Enunciado n. 355 da referida Jornada
+consigna que as partes não podem renunciar à possibilidade de redução da cláusula
+penal se ocorrer qualquer das hipóteses previstas no art. 413 do Código Civil, por se
+tratar de preceito de ordem pública” (STJ, REsp 1.447.247/SP, 4.ª Turma, Rel. Min.
+Luis Felipe Salomão, j. 19.04.2018).
+Art. 414. Sendo indivisível a obrigação, todos os devedores, caindo em falta um deles, incorrerão
+na pena; mas esta só se poderá demandar integralmente do culpado, respondendo cada um dos
+outros somente pela sua quota.
+Parágrafo único. Aos não culpados fica reservada a ação regressiva contra aquele que deu
+causa à aplicação da pena.
+ COMENTÁRIOS  DOUTRINÁRIOS:  Há  no  presente  artigo  situação  de
+pluralidade de devedores: dois ou mais devedores obrigados à prestação por inteiro.
+Em termos técnicos, cada devedor responde pelo todo (responsabilidade ou Haftung),
+mas só deve parte da prestação (dívida ou Schuld). É por isso que se João e José
+devem um cavalo a Maria, Maria pode exigir de cada um deles o cavalo por inteiro
+
+(indivisível por natureza), mas aquele que pagar (entregando o cavalo) pode exigir
+seu  quinhão  no  débito  do  outro  codevedor.  Isso  porque  pagou  100%  (Haftung)
+quando só devia 50% (Schuld). A cláusula penal represent
+[/PAGINA 385]
+
+[PAGINA 386]
+a a indenização prefixada
+pelas partes. Logo, em tese, apenas o culpado pagaria seu valor ao credor e não todos
+os devedores de coisa indivisível. Seria uma decorrência lógica do art. 263, § 2º do
+CC (ver comentários). Contudo, o art. 414 impõe, assim como o faz o art. 280 no caso
+da obrigação solidária, obrigação de todos os devedores pela culpa de apenas um
+deles.  É  por  isso  que  temos  duas  situações:  a)  se  o  culpado  for  demandado  pelo
+credor, ele paga integralmente o valor da cláusula penal e não terá nenhum direito
+quanto aos demais devedores; b) se um dos devedores não culpado for demandado,
+ele só pagará a sua parte na cláusula penal, pois o dinheiro é divisível. Contudo,
+haverá direito de regresso daquele devedor que pagou sua quota da cláusula penal
+quanto ao culpado. Contudo, se a cláusula penal for indivisível (perda de um bem
+indivisível), todos responderão integralmente por ela. Nessa hipótese, o devedor não
+culpado que solver integralmente a cláusula penal, terá direito de regresso também da
+totalidade contra o devedor culpado. Se João e José devem o cavalo Trovão a Maria
+e  no  contrato  preveem  que  o  não  pagamento  do  cavalo  implica,  a  título  de
+indenização, a entrega da vaca Mimosa, Maria pode exigir de cada um deles a vaca
+por inteiro, pois o objeto da cláusula penal é indivisível por natureza. Contudo, se
+João for culpado pela perda do cavalo e José for demandado pela vaca, poderá exigir
+de João o valor integral da vaca. Se João for demandado, ao contrário, nada poderá
+cobrar de José.
+Art. 415. Quando a obrigação for divisível, só incorre na pena o devedor ou o herdeiro do
+devedor que a infringir, e proporcionalmente à sua parte na obrigação.
+ COMENTÁRIOS  DOUTRINÁRIOS:  A  obrigação  será  divisível  quando  o
+objeto  da  prestação  (objeto  mediato  ou  remoto)  puder  ser  fracionado  sem  sua
+destruição ou perda de sua utilidade (ver art. 257 do CC). Assim, se Maria e Carlos
+devem 100 camisas a Márcia, a prestação é divisível e a obrigação também o é. Se
+Maria e João devem pagar R$ 10.000,00 a Pedro, a prestação é divisível, logo, a
+obrigação também o é. A obrigação presume-se dividida em partes iguais entre os
+
+tantos credores e/ou os tantos devedores (concursu partes fiunt). Se Maria e Carlos
+devem  100  camisas  a  Márcia,  a  credora  só  poderá  exigir  50  camisas  de  cada
+devedor. Se Maria e João devem pagar R$ 10.000,00 a Pedro, Pedro só pode cobrar
+R$ 5.000,00 de cada devedor. A mesma lógica se mantém quanto à cláusula penal. Se
+um dos devedores é culpado, só dele será cobrada a sua quota da cláusula penal. Se
+Maria  e  João  devem  pagar  R$  10.000,00  a  Pedro  e  estipulam,  pela  mora,  uma
+cláusula penal de 10%, Pedro só pode cobrar R$ 5.000,00 de cada devedor. Logo, se
+Maria atrasar, a multa de 10% incidirá só sobre R$ 5.000,00. Pedro não responde
+pela  mora  de  Maria.  Se  todos  forem  culpados,  a  cláusula  penal  será  de
+responsabilidade de todos, mantendo-se a divisibilidade. As
+[/PAGINA 386]
+
+[PAGINA 387]
+sim, se Maria e Carlos
+devem 100 camisas a Márcia e se estipula que, no caso da não entrega das camisas a
+cláusula penal compensatória é de R$ 1.000,00, a credora só poderá exigir R$ 500 de
+cada devedor se as camisas não forem entregues.
+Art. 416. Para exigir a pena convencional, não é necessário que o credor alegue prejuízo.
+Parágrafo único. Ainda que o prejuízo exceda ao previsto na cláusula penal, não pode o credor
+exigir indenização suplementar se assim não foi convencionado. Se o tiver sido, a pena vale
+como mínimo da indenização, competindo ao credor provar o prejuízo excedente.
+ COMENTÁRIOS DOUTRINÁRIOS: O dispositivo traz a regra mais importante
+sobre a cláusula penal: a presunção absoluta de danos e sua limitação. A cláusula
+penal realmente traz grande vantagem ao credor, que não precisa provar a existência
+dos danos e sua extensão. Ocorrendo o inadimplemento da obrigação, surge o dever
+de se reparar o dano, que é presumido de maneira absoluta. O valor da cláusula penal
+é devido ainda que o dano não exista ou seja de valor menor ao avençado. É por isso
+que  a  cláusula  penal  traz  também  uma  vantagem  ao  devedor:  a  limitação  de  sua
+responsabilidade.  Sabe  ele,  ao  iniciar  o  programa  obrigacional,  o  máximo  que
+perderá  se  inadimplir  a  obrigação.  Assim,  a  cláusula  penal  não  representa  uma
+vantagem apenas para o credor. Há uma vantagem para o devedor, que é a limitação.
+É por isso que o credor não tem uma faculdade: exigir o valor da cláusula penal ou,
+sendo os prejuízos maiores que seu valor, demandar o devedor pela integralidade dos
+danos. Não, a regra do jogo não é essa. O credor só pode cobrar o valor da cláusula
+
+penal e mais nada. Há duas exceções: a) se o devedor agiu com dolo na fixação da
+cláusula penal, ocultando, por exemplo, um prejuízo já existente, ou, se agiu com dolo
+para causar o prejuízo, valendo-se, posteriormente, da cláusula penal como forma de
+irresponsabilidade. O dolo na contratação é vício do consentimento apto a invalidar a
+cláusula penal, mantendo-se o contrato válido e eficaz (ver art. 409 do CC). O dolo na
+causação  do  dano  é  manifestação  de  torpeza  da  qual  o  contratante  não  pode  ter
+benefícios.  Nessa  hipótese,  os  prejuízos  excedentes  ao  valor  da  cláusula  penal
+poderão ser cobrados pelo credor. b) Se o contrato autorizar ao credor a cobrança de
+prejuízos excedentes ou suplementares. Aqui o jogo tem regra distinta por força da
+vontade das partes. O devedor admite que o credor poderá, provando que os danos
+superam o valor da cláusula penal, recebê-la como mínimo da indenização, bem como
+receber os prejuízos excedentes que provar. A cláusula contratual, normalmente, fixa
+o valor da multa e depois prossegue “ressalvado o direito de cobrança dos prejuízos
+suplementares pelo credor”. Essa frase indica que a multa servirá como mínimo e não
+como máximo de indenização e, nesse jogo, o devedor pode pagar valores superiores
+ao da cláusula penal. Quanto à prova que caberá ao
+[/PAGINA 387]
+
+[PAGINA 388]
+credor, temos uma questão de
+lógica. Se a multa for de R$ 5.000,00 e o prejuízo efetivo de R$ 7.000,00 caberá ao
+credor provar apenas R$ 2.000,00 (porque R$ 5.000,00 são presumidos) ou deverá
+provar R$ 7.000,00 para ter direito aos prejuízos suplementares? Deverá provar R$
+7.000,00. Se o credor provar que seus prejuízos foram de R$ 3.000,00, note-se que
+não excederam o valor da multa (R$ 5.000,00), logo, ele só terá direito ao valor da
+multa e nada mais. Para ganhar um valor superior ao da cláusula penal, deve provar
+que  os  prejuízos  superam  seu  valor.  Se  não  houver  prova  do  excesso,  do  valor  a
+maior dos danos, o credor se restringe a receber o valor da cláusula penal (mínimo de
+indenização); c) Se o contrato for por adesão, a limitação dos prejuízos ao valor da
+cláusula penal poderá ser extremamente danosa ao aderente. É por isso que se admite
+que, se o estipulante impôs certa cláusula penal que prejudica ao aderente, a cláusula
+é  relativamente  ineficaz  e  o  aderente  pode,  provando  os  prejuízos  suplementares,
+cobrar a totalidade das perdas e danos do devedor. O fundamento é a renúncia prévia
+de direitos pelo aderente (ver art. 424 do CC). Esse é o teor do Enunciado n. 430 da
+V Jornada de Direito Civil:  “No  contrato  de  adesão,  o  prejuízo  comprovado  do
+
+aderente que exceder ao previsto na cláusula penal compensatória poderá ser exigido
+pelo credor independentemente de convenção”.
+CAPÍTULO VI
+DAS ARRAS OU SINAL
+Art. 417. Se, por ocasião da conclusão do contrato, uma parte der à outra, a título de arras,
+dinheiro  ou  outro  bem  móvel,  deverão  as  arras,  em  caso  de  execução,  ser  restituídas  ou
+computadas na prestação devida, se do mesmo gênero da principal.
+ COMENTÁRIOS DOUTRINÁRIOS:  Constitui  quantia  em  dinheiro  ou  coisa
+móvel dada por uma das partes à outra em confirmação à conclusão de um contrato ou
+para permitir arrependimento. O nome popular das arras é sinal. As arras têm natureza
+real, ou seja, somente se aperfeiçoam com a entrega do objeto. Ainda que o contrato
+que  preveja  as  arras  tenha  natureza  consensual  (tal  como  a  compra  e  venda,  por
+exemplo), antes da entrega da coisa móvel ou dinheiro, há apenas uma promessa de
+arras. São duas as espécies de arras: a) confirmatórias: representam prova de que o
+contrato foi celebrado. Tais arras decorrem da obrigatoriedade do contrato (pacta
+sunt servanda) e não permitem arrependimento. Estão nos arts. 418 e 419 do CC; b)
+penitenciais: permitem o arrependimento das partes e, portanto, abrandam o princípio
+da obrigatoriedade. Representam uma exceção ao princípio pacta sunt servanda, pois
+facultam o arrependimento. Estão disciplinadas no art. 420 do CC. O dispositivo em
+comento trata da hipótese em que as arras são confirmatórias e, portanto, o contrato
+deve ser cumprido pelas partes. Se as arras forem dadas em dinheiro ou na mesma
+espécie da obrigação principal, são consideradas princípio de pagamento. Assim, se
+João compra o carro de Maria po
+[/PAGINA 388]
+
+[PAGINA 389]
+r R$ 30.000,00 e paga a título de arras R$ 2.000,00,
+elas são abatidas do preço total, pois funcionam como princípio de pagamento. Se as
+arras  não  coincidirem  com  a  prestação  principal,  elas  devem  ser  restituídas  ao
+devedor  quando  concluída  a  prestação  devida.  Assim,  se  João  vende  o  carro  a
+Antônia por R$ 30.000,00 e ela dá em arras seu relógio de ouro para confirmar a
+compra, findo o pagamento, João devolve o relógio a Antônia.
+
+Art. 418. Se a parte que deu as arras não executar o contrato, poderá a outra tê-lo por desfeito,
+retendo-as;  se  a  inexecução  for  de  quem  recebeu  as  arras,  poderá  quem  as  deu  haver  o
+contrato por desfeito, e exigir sua devolução mais o equivalente, com atualização monetária
+segundo índices oficiais regularmente estabelecidos, juros e honorários de advogado.
+ COMENTÁRIOS DOUTRINÁRIOS: As arras, em regra, são confirmatórias e
+decorrem do princípio pacta sunt servanda. É por isso que as arras farão parte da
+indenização  a  ser  paga  pela  parte  culpada  (inadimplente)  à  parte  inocente.  a)
+Inadimplemento por quem deu as arras. Assim, temos que, se a parte que deu as arras
+não cumprir o contrato, as arras ficam com a parte inocente (mínimo de indenização),
+que  poderá,  ainda,  pedir  a  resolução  do  contrato  por  inadimplemento  (“haver  o
+contrato por desfeito”). Se o contrato contiver cláusula resolutiva expressa (ver art.
+474),  a  resolução  é  automática,  bastando  o  simples  inadimplemento.  b)
+Inadimplemento por quem recebeu as arras. Se a parte que deu as arras não cumprir o
+contrato, as arras devem ser devolvidas à outra parte mais seu equivalente (mínimo de
+indenização), que poderá, ainda, pedir a resolução do contrato por inadimplemento
+(“haver o contrato por desfeito”). Se o contrato contiver cláusula resolutiva expressa
+(ver art. 474), a resolução é automática, bastando o simples inadimplemento. A lei
+não utiliza o termo “dobro”, pois objetos não têm dobro (só dinheiro tem). Se João
+deu um cavalo em arras e se arrepende, João perde o cavalo. Se Maria recebeu o
+cavalo em arras e se arrepende, Maria devolve o cavalo mais seu valor em dinheiro.
+O  dinheiro  é  o  equivalente  universal.  Se  João  deu  R$  1.000,00  em  arras  e  se
+arrepende,  João  perde  o  dinheiro.  Se  Maria  recebeu  R$  1.000,00  em  arras  e  se
+arrepende, Maria devolve os R$ 1.000,00, com correção monetária desde a data do
+recebimento  (momento  em  passou  a  usufruir  do  dinheiro),  mais  juros  de  mora
+iniciados com o inadimplemento, tendo a obrigação data de vencimento (ver art. 397),
+mais honorários de advogado, em dobro.
+ JURISPRUDÊNCIA  COMENTADA:  Se  o  valor  das  arras  for  excessivo,
+poderá  este  ser  reduzido  pelo  juiz  em  aplicação  analógica  ao  art.  413  do  CC? A
+resposta é afirmativa. Imaginemos que o comprador dê a título de arras 90% do preço
+do imóvel e depois descumpra o contrato. Poderia o vendedor reter a totalidade do
+
+valor? A orientação jurisprudencial do
+[/PAGINA 389]
+
+[PAGINA 390]
+STJ é no sentido de que a fixação das arras
+confirmatórias se dá em percentual inferior a 20% do valor do bem, variando, mais
+precisamente,  entre  10%  e  20%  (AgRg  no  REsp  1.013.249-PE,  4.ª  Turma, DJe
+08.06.2010;  REsp  355.818-MG,  4.ª  Turma, DJ 13.10.2003). Assim, se o valor for
+superior (10 a 20%), para se evitar desequilíbrio entre os contratantes, o STJ tem
+entendido que “convém esclarecer que o valor dado a título de arras confirmatórias
+deve ser integralmente perdido, ou seja, quando a parte que deu as arras não executar
+o contrato, não terá direito à devolução do ‘sinal’ por ter dado causa à rescisão. Mas,
+se  o  valor  do  pagamento  inicial  englobava  mais  do  que  o  sinal,  o  percentual  de
+retenção deve ser reduzido. Isso porque não é razoável o entendimento de que todo o
+referido valor inicial pago seja enquadrado como sinal ou arras confirmatórias e, em
+consequência,  sujeite-se  ao  perdimento  em  prol  do  vendedor.  Entender  de  forma
+diversa implicaria onerar excessivamente a parte que deu as arras, ainda que a ela
+tenha  sido  atribuída  culpa  pela  rescisão  do  contrato,  e  beneficiar  a  parte  que  as
+recebeu”  (REsp  1.513.259/MS,  3.ª  Turma,  Rel.  Min.  João  Otávio  de  Noronha,  j.
+16.02.2016). Essa é a orientação que decorre do Enunciado n. 165 da III Jornada de
+Direito Civil do CJF: “Em caso de penalidade, aplica-se a regra do art. 413 ao sinal,
+sejam as arras confirmatórias ou penitenciais”.
+Art.  419.  A  parte  inocente  pode  pedir  indenização  suplementar,  se  provar  maior  prejuízo,
+valendo  as  arras  como  taxa  mínima.  Pode,  também,  a  parte  inocente  exigir  a  execução  do
+contrato, com as perdas e danos, valendo as arras como o mínimo da indenização.
+ COMENTÁRIOS DOUTRINÁRIOS: Note-se que o Código Civil indica que,
+sendo as arras confirmatórias, prevalece o princípio pacta sunt servanda e, portanto,
+há uma outra opção para a parte inocente (além da resolução do contrato – ver art.
+418) que é exigir a execução do contrato. O princípio da conservação do negócio
+jurídico indica que, havendo interesse no contrato, razão não há para o sistema deixar
+de permitir sua execução. Assim, se Maria vende a Pedro ações de sua empresa pela
+importância de R$ 1.000.000,00 e recebe de sinal R$ 100.000,00. O contrato não
+permite  o  arrependimento  das  partes,  logo,  as  arras  são  confirmatórias.  Pedro
+“desiste”  da  compra.  Maria  tem  duas  opções:  a)  exigir  o  preço  restante  (R$
+
+900.000,00), mais a cobrança de eventuais prejuízos que ela teve (deverá prová-los)
+pela  desistência  de  Pedro.  Como  as  arras  foram  início  de  pagamento  da  compra,
+Maria deverá provar todos os prejuízos para que tenha indenização; b) considerar
+desfeito  o  contrato,  ficar  com  o  sinal  de  R$  100.000,00  como  taxa  mínima  de
+indenização e, provando prejuízos superiores ao valor do sinal, receber o prejuízo
+suplementar. E se Maria “desistir” da venda? Pedro tem duas opções: a) paga o preço
+res
+[/PAGINA 390]
+
+[PAGINA 391]
+tante (R$ 900.000,00) e fica com as ações vendidas, e terá direito à cobrança de
+eventuais prejuízos que ele teve (deverá prová-los) pela desistência de Maria. Como
+as  arras  foram  início  de  pagamento  da  compra,  Pedro  deverá  provar  todos  os
+prejuízos para que tenha indenização; b) considerar desfeito o contrato, receber de
+Maria o sinal de R$ 100.000,00, mais correção monetária, juros de mora e honorários
+de advogados, em dobro. Tal valor será uma taxa mínima de indenização. Se Pedro
+provar  que  os  prejuízos  foram  superiores  a  esse  valor,  receberá  o  prejuízo
+suplementar.
+ JURISPRUDÊNCIA  COMENTADA:  Surge  uma  questão  curiosa:  como  a
+indenização a título de arras dialoga com a indenização prevista na cláusula penal? A
+cláusula penal é a prefixação das perdas e danos pela vontade das partes. As arras
+confirmatórias  serão  o  valor  mínimo  de  indenização  em  caso  de  inadimplemento.
+Temos  duas  previsões  contratuais  (arras  confirmatórias  e  cláusula  penal
+compensatória) com uma coincidência (parcial) de função: a indenizatória. É parcial,
+pois as arras que têm natureza real (surgem com a entrega) servem para confirmar a
+existência do contrato e, a cláusula penal, não. Mesmo assim, se o credor se utilizar
+do  mecanismo  das  arras  e  ainda  cumular  com  a  cláusula  penal,  teria  ele  dupla
+indenização pelo mesmo ilícito culposo do devedor: descumprimento do contrato. É
+por isso que decidiu o STJ que “na hipótese de inexecução do contrato, revela-se
+inadmissível a cumulação das arras com a cláusula penal compensatória, sob pena de
+ofensa ao princípio do non bis in idem” (REsp 1.617.652/DF, 3.ª Turma, Rel. Min.
+Nancy Andrighi, j. 26.09.2017). Há acerto na fundamentação do julgado: “A função
+indenizatória das arras se faz presente não apenas quando há o lícito arrependimento
+do negócio (art. 420), mas principalmente quando ocorre a inexecução do contrato”.
+
+Assim, ao credor restará a opção: cláusula penal ou arras confirmatórias. Se optar
+pelas  arras,  ficará  adstrito  ao  regime  dos  arts.  418  e  419  do  CC.  Se  optar  pela
+cláusula penal, e o contrato não contiver a possibilidade de cobrança dos prejuízos
+suplementares  (ver  comentários  ao  art.  416),  essa  valerá  como  o  máximo  de
+indenização. Estará, ainda, sujeito aos limites do art. 412 do CC, com a possibilidade
+de redução por força do art. 413. Como o contrato tem os dois mecanismos, cabe ao
+credor escolher um deles e adotar seu regime em sua inteireza. Não será possível
+escolher os benefícios de ambos os regimes.
+Art. 420. Se no contrato for estipulado o direito de arrependimento para qualquer das partes, as
+arras ou sinal terão função unicamente indenizatória. Neste caso, quem as deu perdê-las-á em
+benefício da outra parte; e quem as recebeu devolvê-las-á, mais o equivalente. Em ambos os
+casos não haverá direito a indenização suplementar.
+ COMENTÁRIOS DOUTRINÁRIOS: Em regra, as arras confirmam o contrato.
+Contudo, por vontade das partes, e
+[/PAGINA 391]
+
+[PAGINA 392]
+las podem permitir o arrependimento. É por isso
+que as arras penitenciais devem estar expressas em contrato. Na dúvida, as arras são
+penitenciais. O arrependimento será, por força do contrato, um direito e, portanto, um
+ato  lícito.  E  se  o  arrependimento  for  conferido,  deve  ele  ser  exercido  antes  de
+iniciada a execução (cumprimento do contrato). Se o contrato tiver seu cumprimento
+iniciado, não há mais como se exercer o arrependimento. Maria vende a Pedro ações
+de  sua  empresa  pela  importância  de  R$  1.000.000,00  e  recebe  de  sinal  R$
+100.000,00.  O  contrato  permite  o  arrependimento  das  partes.  Tal  direito  deve  ser
+exercido antes de o restante do preço ser pago. Se o for, não há como se arrepender
+de  um  contrato  cuja  prestação  de  uma  das  partes  já  foi  iniciada  ou  totalmente
+cumprida. Ocorrendo o exercício do lícito direito de arrependimento por aquele que
+deu  as  arras,  este  perdê-las-á.  Ocorrendo  o  exercício  do  lícito  direito  de
+arrependimento  por  aquele  que  recebeu  as  arras,  este  as  restituirá  mais  seu
+equivalente.  A  lei  não  utiliza  o  termo  “dobro”,  pois  objetos  não  têm  dobro  (só
+dinheiro tem). Se João deu um cavalo em arras e se arrepende, João perde o cavalo.
+Se Maria recebeu o cavalo em arras e se arrepende, Maria devolve o cavalo mais seu
+valor em dinheiro. O dinheiro é o equivalente universal. Se João deu R$ 1.000,00 em
+
+arras e se arrepende, João perde o dinheiro. Se Maria recebeu R$ 1.000,00 em arras e
+se arrepende, Maria devolve os R$ 1.000,00, com correção monetária desde a data do
+recebimento (momento em passou a usufruir do dinheiro), em dobro. Não há juros,
+nem honorários de advogado, pois não há culpa (logo, não há mora – ver art. 396 do
+CC).  Note-se  que,  sendo  as  arras  penitenciais,  esse  é  o  único  efeito  do
+arrependimento.  É  isso  que  diferencia  as  arras  penitenciais  das  confirmatórias.  O
+credor nada mais pode exigir. Não pode exigir o cumprimento da prestação, não pode
+exigir indenização suplementar. Não há aplicação das regras dos arts. 418 e 419 que
+cuidam exclusivamente das arras confirmatórias. Nesta hipótese, ainda que o contrato
+tenha  uma  cláusula  penal  (multa),  esta  não  pode  ser  cobrada  daquele  que  se
+arrepender. A  cláusula  penal  pressupõe  o  descumprimento  culposo  (ato  ilícito)  da
+obrigação. Havendo arras penitenciais, o arrependimento é um direito e ato lícito,
+portanto.  As  arras  penitenciais  seguem  a  lógica  das  confirmatórias  quanto  à
+possibilidade de sua redação. As arras comuns, de acordo com a praxe comercial, são
+de 10 a 20%. Se excessivas, o Enunciado n. 165 da III Jornada de Direito Civil do
+CJF permite que “em caso de penalidade, aplica-se a regra do art. 413 ao sinal, sejam
+as arras confirmatórias ou penitenciais”.
+
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+SEÇÃO I
+PRELIMINARES
+Comentários de
+ANDERSON SCHREIBER
+Art. 421. A liberdade de contratar será exercida em razão e nos limites da função socia
+[/PAGINA 392]
+
+[PAGINA 393]
+l do
+contrato.
+Artigo com redação dada pela MP n. 881/2019:
+ A liberdade de contratar será exercida em razão e nos limites da função social do contrato,
+observado o disposto na Declaração de Direitos de Liberdade Econômica. (Caput com redação dada pela
+Medida Provisória n. 881, de 30 de abril de 2019)
+Parágrafo  único.  Nas  relações  contratuais  privadas,  prevalecerá  o  princípio  da  intervenção  mínima  do
+Estado, por qualquer dos seus poderes, e a revisão contratual determinada de forma externa às partes será
+excepcional. (Parágrafo único incluído pela Medida Provisória n. 881, de 30 de abril de 2019)
+ COMENTÁRIOS DOUTRINÁRIOS:  O  contrato  é  usualmente  definido  pela
+doutrina  brasileira  como  o  acordo  de  vontades  destinado  a  criar,  modificar  ou
+extinguir obrigações. Significa dizer que, ainda hoje, o contrato é apreendido sob a
+ótica da sua gênese voluntarista (o acordo de vontades) a que todos os seus efeitos
+são remetidos. O artigo em comento, que não encontrava paralelo na codificação de
+1916,  veio,  em  boa  hora,  romper  com  essa  tradição  individual-voluntarista,
+reservando primordial importância ao elemento funcional do contrato, ao qual imputa
+
+ainda  uma  conotação  social.  Um  Direito  Civil  comprometido  com  os  valores
+solidários  da  Constituição  de  1988  não  pode  viver  constantemente  à  cata  de  um
+artificioso  reenvio  às  declarações  originárias  de  vontade  dos  contratantes.  Em
+primeiro lugar, porque a intenção dos particulares não se exprime exclusivamente em
+declarações  negociais,  mas  se  renova  continuamente  por  seu  agir  cotidiano.  O
+contrato  é,  antes  de  tudo,  uma  relação  concreta,  um  processo  prolongado,
+caracterizado pela coordenação de múltiplos atos e atitudes, que antecedem o negócio
+jurídico, que o sucedem e que, algumas vezes, o dispensam (como se vê no exemplo
+das  chamadas relações contratuais de fato),  destinando-se  a  um  fim  concreto. A
+atuação efetiva dos contratantes na persecução desse fim revela, frequentemente com
+mais precisão e clareza que o negócio jurídico originário, a sua genuína vontade e,
+especialmente,  o  seu  propósito  comum.  Nesse  sentido,  parte  da  doutrina  tem
+destacado  que  a  expressão  contrato  deve  ser  vista,  hoje,  com  duplo  significado,
+designando não apenas a) o negócio jurídico fundante da relação contratual (o acordo
+de vontades destinado a criar, modificar ou extinguir obrigações); mas também b) a
+relação  jurídica  que  se  forma  e  se  desenvolve,  a  partir  desse  negócio  jurídico
+fundante, na concreta atuação das partes em prol de seu escopo comum. Em segundo
+lugar, é importante notar que o contrato consiste em fruto do exercício da autonomia
+privada  no  campo  patrimonial,  dirigindo-se  necessariamente  a  um  fim.  A  ordem
+jurídica atribui efeitos jurídicos ao contrato, mas não o faz simplesmente porque se
+trata  de  um  exercício  de  liberdade  individual  dos  contratantes. A  ordem  jurídica
+avalia
+[/PAGINA 393]
+
+[PAGINA 394]
+o  fim  perseguido  pelas  partes  no  exercício  da  sua  liberdade  de  contratar,
+exigindo que exprima alguma utilidade social. Em outras palavras, o contrato não é
+considerado merecedor de tutela apenas porque atende aos interesses individuais dos
+contratantes, mas sim porque se vislumbra em cada contrato um fim socialmente útil
+que deverá ser igualmente atendido. Daí por que o Código Civil brasileiro inicia o
+título dedicado aos contratos com a afirmação de que a liberdade de contratar será
+exercida “em razão e nos limites da função social do contrato”. A disposição do art.
+421  merece  aplausos  no  sentido  de  que  retira  o  contrato  do  campo  puramente
+individual, para lhe exigir benefícios que transcendam a esfera particular daqueles
+que  celebraram  o  contrato,  promovendo  interesses  socialmente  relevantes.  Sem
+
+prejuízo do mérito da inovação, é de se ressaltar que o Código Civil de 2002 deveria
+ter ido além, especificando como se deve concretizar a função social do contrato.
+Hoje, um dos maiores desafios da doutrina e da jurisprudência no campo contratual
+consiste  justamente  em  identificar  o  que  se  deve  entender  por  função  social  do
+contrato e como é possível atendê-la. Aqui, convém recorrer a outro campo onde a
+trajetória  da  noção  de  função  social  é  já  mais  antiga  e  sedimentada:  o  campo  do
+direito de propriedade. De fato, é nos estudos sobre propriedade que nasce a ideia de
+função social. Como reação ao individualismo excessivo que caracterizava o direito
+de propriedade, a doutrina europeia passa a decompor o direito de propriedade em
+dois aspectos: a) estrutura; e b) função. Enquanto a estrutura revela “como é” o direito
+de propriedade (quais as faculdades que integram o domínio, como funcionam essas
+faculdades etc.), a função responde à pergunta: “para que serve esse direito?” ou,
+mais precisamente, para que fins a ordem jurídica o reconhece e o tutela. A função
+corresponde,  em  outras  palavras,  aos  interesses  que  a  ordem  jurídica  pretende
+realizar por meio do direito em questão. O surgimento de uma leitura funcional da
+propriedade  tinha  um  propósito  ideologicamente  bem  definido:  opor-se  à  visão
+dominante sobre o direito de propriedade, que ainda o enxergava como o direito do
+proprietário  de  usar,  gozar  e  dispor  de  suas  coisas  “de  modo  mais  absoluto”. A
+abordagem  funcional  pretendeu  realçar  que,  além  dos  interesses  individuais  do
+proprietário, o direito de propriedade deve servir à coletividade, tendo o proprietário
+o dever de atribuir ao bem apropriado alguma utilidade social ou, em outras palavras,
+o dever de promover a realização de interesses sociais relevantes. Daí a denominação
+“função social” da propriedade, consagrada, entre nós, já na Constituição brasileira
+de 1946. Naquele texto constitucional, a noção apareceu, contudo, de modo genérico.
+Diante disso, os juristas, ainda influenciados pelo liberalismo jurídico, não chegavam
+a acordo sobre quais se
+[/PAGINA 394]
+
+[PAGINA 395]
+riam os interesses sociais que a propriedade deveria realizar
+e  nada  de  concreto  era  efetivamente  exigido  dos  proprietários.  A  genuína
+transformação no tratamento jurídico da propriedade só viria com a Constituição de
+1988, que teve o cuidado de especificar, em relação à propriedade imobiliária urbana
+e rural, quais interesses sociais deveriam ser atendidos para que restasse cumprida,
+minimamente, a função social da propriedade (art. 186 da CR), sem prejuízo de outros
+
+interesses sociais que assumam relevância nos casos concretos. A função social do
+contrato  nada  mais  é  que  a  tentativa  do  legislador  civil  de  atrair  para  o  campo
+contratual a saudável transformação verificada no campo do direito de propriedade.
+A construção da função social é, em tese, aplicável a qualquer instituto jurídico. É de
+se  observar,  contudo,  que  a  construção  da  função  social  da  propriedade  está
+intimamente  ligada  ao  reconhecimento  da  pluralidade  do  domínio  ou,  em  outras
+palavras,  ao  reconhecimento  de  que  não  existe  uma  propriedade,  mas  várias
+propriedades  distintas,  conforme  a  célebre  lição  de  Salvatore  Pugliatti.  Assim,  a
+função social da propriedade imobiliária rural é inevitavelmente distinta da função
+social  da  propriedade  imobiliária  urbana.  Tratar  da  função  social  de  qualquer
+instituto – propriedade, empresa ou contrato – sem atenção à ampla diversidade de
+situações  jurídicas  reunidas  sob  o  mesmo  rótulo  representaria  grave  equívoco
+metodológico, por contrariar, em larga medida, a própria inspiração da abordagem
+funcional.  Daí  ter  caminhado  bem  o  Constituinte  de  1988,  ao  abandonar  o  plano
+metalinguístico, para especificar normativamente interesses sociais relevantes que a
+propriedade imobiliária urbana e propriedade imobiliária rural devem atender. Ao
+tratar  da  função  social  do  contrato,  o  Código  Civil  brasileiro  não  seguiu  o  bom
+exemplo dado pela Constituição de 1988 em matéria de propriedade. O art. 421 da
+codificação  condiciona  o  exercício  da  liberdade  de  contratar  ao  cumprimento  da
+função  social  do  contrato,  sem  nem  sequer  apresentar  um  conceito.  Tampouco
+estabelece elementos ou parâmetros mínimos para a aferição do seu atendimento em
+tipos  contratuais  específicos.  Nesse  sentido,  o  Código  Civil  de  2002,  em  matéria
+contratual, assemelha-se à Carta Constitucional de 1946, que se limitou a anunciar a
+existência da função social da propriedade, sem aportar elementos mais concretos que
+permitissem  uma  aplicação  efetiva  da  noção.  À  falta  de  parâmetros  normativos,  a
+doutrina brasileira tem se limitado a indicar, de modo meramente ilustrativo, alguns
+interesses sociais relevantes que devem ser cumpridos pelos contratos em geral, como
+a proteção do meio ambiente e o respeito à livre concorrência. Apresentada dessa
+forma  genérica,  a  função  social  do  contrato  acaba  soando  como mero pleonasmo,
+segundo o qual a liberd
+[/PAGINA 395]
+
+[PAGINA 396]
+ade contratual deve respeitar o que já deveria ser respeitado
+por força de outras normas jurídicas, em especial normas constitucionais. No mesmo
+
+sentido caminham as definições que apresentam a função social do contrato como a
+necessidade  de  respeito  à  ordem  pública,  que,  por  óbvio,  deve  ser  respeitada
+independentemente da norma contida no art. 421, ou seja, independentemente de os
+contratos terem ou não função social. Se a função social do contrato representasse
+apenas  isso,  não  consistiria  em  um  princípio  jurídico,  mas  em  mero  enunciado
+confirmador de que o contrato não afasta a aplicação das normas jurídicas de caráter
+cogente  –  circunstância  que,  de  resto,  nunca  foi  rejeitada,  nem  mesmo  pelos  mais
+árduos defensores do liberal-individualismo jurídico. Há, ainda, autores que definem
+a função social do contrato como um conceito-síntese, que teria o condão de impor
+aos contratantes o respeito ao princípio do equilíbrio contratual e ao princípio da
+boa-fé  objetiva  –  princípios  que,  como  se  verá  adiante,  possuem  independência
+conceitual  e  base  normativa  própria,  sendo  aplicáveis  às  relações  contratuais
+independentemente  da  disposição  do  art.  421. Ao  contrário  de  ampliar,  tais  teses
+restringem a função social do contrato, na medida em que lhe atribuem um papel que
+já é realizado por outros princípios e regras jurídicas. Com isso, a função social do
+contrato  ficaria  esvaziada  de  conteúdo  próprio,  tornando-se  puro  eco  de  noções
+outras  que  a  lei  já  consagra  expressamente.  Outro  equívoco  comum  consiste  em
+definir  a  função  social  do  contrato  como  princípio  que  atua  na  proteção  dos
+contratantes. Nessa linha de entendimento, o art. 421 atribuiria função social a todo e
+qualquer contrato, reconhecendo uma espécie de utilidade social no contrato em si,
+por definição legal. A norma em questão atuaria, assim, na defesa dos contratantes
+contra terceiros, como no caso da chamada responsabilidade do terceiro cúmplice
+por lesão ao crédito (v. comentário ao art. 608). O erro dessa abordagem é flagrante,
+na medida em que, contrariamente a toda tradição desenvolvida no terreno do direito
+de propriedade, vem converter a função social do contrato em uma norma de proteção
+dos  interesses  particulares.  A  proteção  contra  a  interferência  de  terceiros,  nas
+situações em que se justifique, deve ser buscada com base em outros fundamentos
+(como a boa-fé objetiva), mas não  com  base  na  função  social,  que  restaria,  nesse
+caso,  desprovida  de  qualquer  caráter  genuinamente  social.  Em  resumo,  à  função
+social do contrato deve ser reservado um papel a) autônomo em relação aos demais
+princípios contratuais e b) voltado especificamente à realização de interesses sociais
+
+relevantes, ou seja, interesses da sociedade como um todo que se relacionem àquele
+contrato  específico,  justamente  quando  tais  interesses não  coincidem  com  os
+interesses dos contratantes. É aí
+[/PAGINA 396]
+
+[PAGINA 397]
+que a função social revela seu importante papel no
+direito  dos  contratos.  Em  um  exemplo  didático,  suponha-se  que  um  laboratório
+celebre com determinada clínica privada um contrato de fornecimento de determinado
+medicamento com cláusula de exclusividade. Suponha-se, ainda, que uma epidemia
+venha a se abater sobre a população daquela região, que, embora disposta a comprar
+o medicamento, fica impossibilitada de adquiri-lo diretamente com o laboratório por
+força da cláusula de exclusividade. O juiz pode, diante do interesse social à saúde,
+concretamente  ameaçado  no  caso  em  questão,  suspender  a  eficácia  da  cláusula  de
+exclusividade em virtude da função social do contrato. O dispositivo contratual, no
+caso  concreto,  choca-se  com  um  interesse  socialmente  relevante.  A  liberdade  de
+contratar encontra, por assim dizer, um “limite” na realização desse interesse, ficando
+a eficácia da cláusula suspensa até que tal interesse tenha sido atendido e com os
+necessários  ajustes  na  dinâmica  econômica  do  contrato.  Isso  ocorre  porque  cada
+exercício concreto de liberdade contratual pelos contratantes está permanentemente
+condicionado ao atendimento de interesses sociais que se afigurem relevantes naquela
+situação  particular.  A  ordem  jurídica  realiza  um  juízo  de  merecimento  de  tutela
+(meritevolezza)  de  cada  ato  da  vida  contratual,  à  luz  dos  interesses  sociais  que
+toquem aquele contrato específico. Evidentemente, nada disso significa que o contrato
+celebrado  entre  as  partes  possa  ser  simplesmente  apagado  ou  desconsiderado,
+bastando para isso a invocação genérica de algum interesse supraindividual qualquer.
+Como a Constituição brasileira reconhece o valor social da livre-iniciativa (art. 1º,
+inc. IV), o exercício da liberdade contratual afigura-se legítimo sempre que estiver em
+conformidade com os valores constitucionais. A Medida Provisória n. 881, editada
+em 30 de abril de 2019, inseriu na parte final do caput do art. 421 a necessidade de
+observância  ao  disposto  na  chamada  Declaração  de  Direitos  de  Liberdade
+Econômica. O acréscimo parece ter tentado prestigiar o princípio norteador daquela
+Medida Provisória, qual seja, a “proteção à livre-iniciativa e ao livre exercício de
+atividade econômica” (art. 1º). A função social, contudo, exerce justamente o papel
+de impor juízo de merecimento de tutela sobre o exercício da liberdade contratual,
+
+condicionando-a à promoção dos valores constitucionais. Determinar que a aplicação
+da noção de função social do contrato se dê com observância da liberdade econômica
+é uma contradição nos seus próprios termos e parece exprimir uma absoluta falta de
+conhecimento do próprio conceito de função social. O acréscimo somente não merece
+crítica mais aguda porque é inócuo: afirma, a rigor, que a liberdade de contratar deve
+ser exercida em razão e nos limites da função social do contrato, observada a própria
+liberdade de contratar. Embora tautológica, a nova redaç
+[/PAGINA 397]
+
+[PAGINA 398]
+ão do caput do art. 421 não
+promete  trazer  qualquer  transformação  concreta  no  modo  como  nossa  doutrina  e
+jurisprudência aplicam a noção de função social do contrato – noção que, de resto,
+derivaria diretamente da Constituição, independentemente de atuação do legislador
+ordinário, na medida em que a funcionalização dos institutos jurídicos ao atendimento
+de valores sociais relevantes resulta da própria primazia que o Constituinte atribui a
+tais valores, mesmo quando tutela a livre-iniciativa, não como liberdade vazia, mas
+em  atenção  ao  seu  “valor  social”  (CR,  art.  1º,  IV).  A  MP  n.  881/2019  também
+introduziu no art. 421 um parágrafo único, que estabelece a prevalência de um assim
+chamado  “princípio  da  intervenção  mínima  do  Estado”  e  reserva  caráter
+“excepcional” à revisão contratual “determinada de forma externa às partes”. Mais
+uma vez, o equívoco salta aos olhos. Não existe um “princípio da intervenção mínima
+do Estado”; a intervenção do Estado nas relações contratuais de natureza privada é
+imprescindível,  quer  para  assegurar  a  força  vinculante  dos  contratos,  quer  para
+garantir a incidência das normas jurídicas, inclusive das normas constitucionais, de
+hierarquia superior à referida Medida Provisória. A MP n. 881/2019 parece ter se
+deixado se levar aqui por uma certa ideologia que enxerga o Estado como inimigo da
+liberdade  de  contratar,  quando,  na  verdade,  a  presença  do  Estado  –  e,  por
+conseguinte, o próprio Direito – afigura-se necessária para assegurar o exercício da
+referida liberdade. No que tange à revisão contratual, também parece ter incorrido a
+Medida Provisória nessa falsa dicotomia entre atuação do Estado-juiz e liberdade de
+contratar,  quando,  ao  contrário,  a  revisão  contratual  privilegia  o  exercício  dessa
+liberdade ao preservar a relação contratual estabelecida livremente entre as partes, ao
+contrário do que ocorre com a resolução contratual, remédio a que já tem direito todo
+contratante nas mesmas situações em que a revisão é cabível (v. comentários ao art.
+
+478). Se a intenção da MP foi evitar que revisões judiciais de contratos resultem em
+alterações  excessivas  do  pacto  estabelecido  entre  as  partes,  empregou  meio
+inadequado: afirmar que a revisão contratual deve ser excepcional nada diz, porque
+não  altera  as  hipóteses  em  que  a  revisão  se  aplica,  as  quais  são  expressamente
+delimitadas no próprio Código Civil. O novo parágrafo único, acrescentado pela MP,
+tampouco indica parâmetros, critérios ou limites à revisão contratual, o que leva a
+crer, mais uma vez, que a alteração não produzirá qualquer efeito relevante no modo
+como a revisão contratual é aplicada na prática jurisprudencial brasileira – aplicação
+que,  de  resto,  já  se  dá  com  bastante  cautela  e  parcimônia,  sem  interferências
+inusitadas no conteúdo contratual.
+ JURISPRUDÊNCIA  COMENTADA:  A  incerteza  da  doutrina  em  definir  o
+exato conteúdo da função social do contrato repercu
+[/PAGINA 398]
+
+[PAGINA 399]
+te sobre as decisões de nossas
+cortes judiciais. Verifica-se, a título ilustrativo, que, na maior parte das vezes em que
+é invocada pelo Superior Tribunal de Justiça, a função social aparece desprovida de
+um conteúdo normativo autônomo, servindo de mero “reforço” da aplicação de outro
+instituto  específico,  frequentemente  ao  lado  de  algum  outro  princípio  ou  conceito
+jurídico  indeterminado.  Veja-se  um  exemplo:  “Dentre  os  diversos  mecanismos  de
+proteção  ao  consumidor  estabelecidos  pela  lei,  a  fim  de  equalizar  a  relação
+faticamente desigual em comparação ao fornecedor, destacam-se os arts. 39 e 51 do
+CDC, que, com base nos princípios da função social do contrato e da boa-fé objetiva,
+estabelecem,  em  rol  exemplificativo,  as  hipóteses,  respectivamente,  das  chamadas
+práticas  abusivas,  vedadas  pelo  ordenamento  jurídico,  e  das  cláusulas  abusivas,
+consideradas  nulas  de  pleno  direito  em  contratos  de  consumo,  configurando  nítida
+mitigação  da  força  obrigatória  dos  contratos  (pacta  sunt  servanda)”  (STJ,  REsp
+1.699.780/SP, 3ª Turma, Rel. Min. Marco Aurélio Bellizze, j. 11.09.2018). Em outro
+acórdão, afirmou a Corte: “Trata-se de uma relação contratual de direito privado, em
+que a parte ré invoca a inusitada tese de nada ter de pagar, embora seja incontroverso
+que tenha mesmo ocasionado custos ao hospital privado – que não atende pelo SUS.
+Com efeito, evidentemente, não pode ser imposto pelo Estado – ainda que em sua
+função jurisdicional – que a sociedade empresária assuma as despesas decorrentes da
+
+prestação do serviço emergencial, cuja prestação, como expressamente reconhece a
+Corte  local,  nem  mesmo  poderia  ser  recusada  pelo  nosocômio  –  ensejando
+enriquecimento sem causa para o consumidor. (...) Os princípios da função social do
+contrato, boa-fé objetiva, equivalência material e moderação impõem, por um lado,
+seja reconhecido o direito à retribuição pecuniária pelos serviços prestados e, por
+outro  lado,  constituem  instrumentário  que  proporcionará  ao  julgador  o  adequado
+arbitramento do valor a que faz jus o hospital” (STJ, AgInt no REsp 1.278.178/MG, 4ª
+Turma, Rel. Min. Luis Felipe Salomão, j. 18.05.2017).
+Art. 422. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua
+execução, os princípios de probidade e boa-fé.
+ COMENTÁRIOS DOUTRINÁRIOS: O art. 422 consagra a aplicação da boa-fé
+objetiva  nas  relações  contratuais. A  boa-fé  objetiva  foi  amplamente  desenvolvida
+pela doutrina e jurisprudência alemãs a partir do fim do século XIX, com base no §
+242 do BGB, em que se lê: “O devedor está adstrito a realizar a prestação tal como
+exija  a  boa-fé,  com  consideração  pelos  costumes  do  tráfego.”  Tal  dispositivo  do
+Código  Civil  alemão  guarda  inegável  semelhança  com  o  art.  422  da  nossa
+codificação. A boa-fé aí mencionada não é, como se vê, a boa-fé subjetiva, também
+chamada  de  boa-fé  possessória  e  definida  como  estado  ps
+[/PAGINA 399]
+
+[PAGINA 400]
+icológico  de  ignorância
+acerca dos vícios que maculam um direito real. Diversamente, a interpretação dada ao
+§ 242 do BGB trouxe uma concepção objetiva da boa-fé como standard de conduta
+leal e confiável (Treu und Glauben), a vincular, independentemente de considerações
+subjetivistas,  os  contratantes.  No  Brasil,  a  boa-fé  objetiva  foi  incorporada  pela
+jurisprudência a partir da década de 1970, tendo seu ingresso formal no ordenamento
+positivo ocorrido apenas duas décadas mais tarde, por meio do Código de Defesa do
+Consumidor.  O  Código  Civil  brasileiro  de  2002  encampou  a  noção  em  diversas
+passagens, assumindo maior importância os arts. 113 e 187, ambos situados na Parte
+Geral  da  codificação,  e  o  presente  art.  422,  que  se  situa  no  título  dedicado  aos
+contratos. A esses três dispositivos da nossa codificação civil tem-se, não sem algum
+esforço hermenêutico, conectado a construção dogmática que atribui à boa-fé objetiva
+uma  tríplice  função  no  sistema  jurídico:  a)  servir  de  cânone  interpretativo  dos
+
+negócios  jurídicos  e,  portanto,  também  dos  contratos  (art.  113);  b)  impedir  o
+exercício de direitos quando tal exercício se mostrar, concretamente, contrário aos
+parâmetros  de  comportamento  leal  e  confiável  nas  relações  jurídicas  e,  portanto,
+também nas relações contratuais (art. 187); e c) criar deveres anexos ou acessórios à
+prestação principal, como deveres de cuidado, de informação e de assistência. A essa
+última função tem sido associado o art. 422, ora em comento, o que se explica pelo
+fato  de  que,  embora  sua  redação  possua,  a  rigor,  maior  abrangência,  as  demais
+funções da boa-fé objetiva já se encontram cobertas pelos dois dispositivos legais
+mencionados anteriormente. Em sua função hermenêutica, a boa-fé objetiva impõe que
+a interpretação dos negócios jurídicos privilegie sempre o sentido mais conforme a
+lealdade e confiança recíprocas entre as partes (v. comentário ao art. 113). Na sua
+função proibitiva, a boa-fé objetiva impede o exercício de direitos que, embora legal
+ou contratualmente assegurados, não se conformem aos standards de comportamento
+leal entre as partes (v. comentário ao art. 187). Na função associada ao artigo em
+comento,  a  boa-fé  objetiva  apresenta-se  como  fonte  criadora  de  deveres  anexos  à
+prestação principal, impondo às partes deveres outros que não aqueles previstos no
+contrato, como o dever de informação, o dever de segurança, o dever de sigilo, o
+dever de colaboração para o integral cumprimento dos fins contratuais, e assim por
+diante.  Esses  deveres anexos  –  também  chamados  de acessórios,  laterais,
+instrumentais ou tutelares – variam de acordo com cada relação jurídica concreta da
+qual  decorram.  Por  isso  mesmo,  tais  deveres  independem  da  vontade  das  partes,
+incidindo quando e na medida em que imponham os parâmetros de mútua lealdade e
+confiança.  Todos  esses  papéis  desempenhados  pela  boa-fé  não  se  limitam,  c
+[/PAGINA 400]
+

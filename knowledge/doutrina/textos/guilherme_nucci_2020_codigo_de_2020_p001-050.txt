@@ -1,0 +1,2331 @@
+[META]
+TITULO: Guilherme Nucci 2020 Código de Processo Penal Comentado 1 130520010700
+AUTOR: Desconhecido
+ANO: 2020
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: Guilherme_Nucci_2020_Código_de_Processo_Penal_Comentado_1_130520010700.pdf
+CITACAO_ABNT: Guilherme Nucci 2020 Código de Processo Penal Comentado 1 130520010700. São Paulo: Forense, 2020.
+[/META]
+
+[PAGINA 1]
+■
+■
+■
+■
+■
+■
+■
+■
+O  autor  deste  livro  e  a  editora  empenharam  seus  melhores  esforços  para  assegurar  que  as
+informações e os procedimentos apresentados no texto estejam em acordo com os padrões aceitos
+à época da publicação, e todos os dados foram atualizados pelo autor até a data de fechamento do
+livro. Entretanto, tendo em conta a evolução das ciências, as atualizações legislativas, as mudanças
+regulamentares  governamentais  e  o  constante  fluxo  de  novas  informações  sobre  os  temas  que
+constam do livro, recomendamos enfaticamente que os leitores consultem sempre outras fontes
+fidedignas, de modo a se certificarem de que as informações contidas no texto estão corretas e de
+que não houve alterações nas recomendações ou na legislação regulamentadora.
+Fechamento desta edição: 03.02.2020
+O Autor e a editora se empenharam para acitar adequadamente e dar o devido crédito a todos os
+detentores de direitos autorais de qualquer material utilizado neste livro, dispondo-se a possíveis
+acertos posteriores caso, inadvertida e involuntariamente, a identificação de algum deles tenha sido
+omitida.
+Atendimento ao cliente: (11) 5080-0751 | faleconosco@grupogen.com.br
+Direitos exclusivos para a língua portuguesa
+Copyright © 2020 by
+Editora Forense Ltda.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11 – Térreo e 6º andar
+Rio de Janeiro – RJ – 20040-040
+www.grupogen.com.br
+Reservados todos os direitos. É proibida a duplicação ou reprodução deste volume, no todo ou em
+parte,  em  quaisquer  formas  ou  por  quaisquer  meios  (eletrônico,  mecânico,  gravação,  fotocópia,
+distribuição pela Internet ou outros), sem permissão, por escrito, da Editora Forense Ltda.
+Capa: Aurélio Corrêa
+CIP – BRASIL. CATALOGAÇÃO NA FONTE.
+SINDICATO NACIONAL DOS EDITORES DE LIVROS, RJ.
+N876c
+Nucci, Guilherme de Souza
+Código de Processo Penal Comentado / Guilherme de Souza Nucci. – 19. ed. – Rio de Janeiro:
+Forense, 2020.
+Inclui bibliografia
+
+ISBN 978-85-309-8905-7
+1. Brasil. [Código de processo penal (1941)]. 2. Processo penal – Brasil. I. Título.
+19-59933CDU: 343.1(81)
+Vanessa Mafra Xavier Salgado – Bibliotecária – CRB-7/6644
+
+Livre-docente em Direito Penal, Doutor e Mestre em Direito Processual Penal pela
+PUC-SP. Professor concursado da PUC-SP, atuando nos cursos de Graduação e Pós-
+graduação (Mestrado e Doutorado). Desembargador na Seção Criminal do Tribunal
+de Justiça de São Paulo.
+www.guilhermenucci.com.br
+
+Muito anos se passaram desde a 1.ª edição. Durante esse período, acreditei em
+mudanças  estruturais  e  sistemáticas  no  processo  penal  brasileiro.  Não  houve  uma
+modificação uniforme e integral do  Código de  Processo  Penal.  Em 2008, três leis
+foram editadas, inserindo várias modificações no CPP, mas sem se preocupar com o
+equilíbrio do sistema.
+Entretanto, no fim do ano passado, foi editada a Lei 13.964/2019, que, embora
+não  tenha  contemplado  uma  modificação  estrutural  em  vários  campos  criminais,
+trouxe
+[/PAGINA 1]
+
+[PAGINA 2]
+alterações no âmbito penal, processual penal, execução penal e em diversas
+leis penais especiais.
+No universo do processo penal, introduziu a figura do juiz das garantias, que
+deverá  fiscalizar  qualquer  investigação  criminal,  controlando  a  sua  legalidade.
+Consolida-se  o  sistema  acusatório,  pois  esse  magistrado  somente  atuará  até  o
+recebimento da denúncia ou queixa. Depois, passará o processo às mãos de um juiz,
+que irá apreciar o mérito da causa. Veda-se qualquer iniciativa probatória por parte
+do juiz das garantias e os autos da investigação não poderão chegar às mãos, para
+conhecimento,  do  magistrado  do  mérito.  Por  outro  lado,  as  provas  periciais  e  as
+antecipadamente produzidas poderão ser analisadas por quem vai julgar a causa.
+Ingressaram novas regras para a prisão cautelar, fez-se presente no texto legal a
+audiência de custódia e novos controles para a duração da preventiva. Foi alterado o
+
+art. 28 do CPP, retirando do juiz a atividade de controlar o arquivamento proposto
+pelo membro do  Ministério  Público.  Ordenado o arquivamento, deverá ser revisto
+por órgão superior do próprio MP, além de se permitir à vítima recorrer a este órgão,
+tomando conhecimento do referido arquivamento.
+Introduziu-se um acordo de não persecução penal bem diverso que seria o plea
+bargain, incompatível com a nossa Constituição. O disposto pelo art. 28-A do CPP
+funcionará como mais um benefício concedido a quem não pretende discutir culpa e,
+eventualmente, ser condenado. Pode-se celebrar um acordo de não persecução penal,
+com diversas condições, se os requisitos previstos em lei forem preenchidos.
+Foram modificadas algumas regras sobre o sequestro de bens e o destino das
+coisas apreendidas; inseriu-se a vedação de julgamento da causa ao magistrado que
+tomar contato com prova ilícita. Ainda no campo das provas, introduziu-se o art. 158-
+A, que prevê a cadeia de custódia dos vestígios do crime, mostrando todas as fases
+pelas quais passa a análise do mencionado vestígio.
+Algumas normas tiveram a sua vigência suspensa por decisão liminar do STF,
+proferida na Medida Cautelar na Ação Direta de Inconstitucionalidade 6.299-DF, de
+lavra  do  Ministro  Luiz  Fux,  datada  de  22  de  janeiro  de  2019.  Comentamos  essa
+liminar nos exatos pontos da nova lei, para permitir o conhecimento amplo do assunto
+pelo leitor.
+Em suma, a reforma foi extensa; embora o CPP continue sendo uma lei de 1941,
+esperamos que as novas alterações sejam úteis ao processamento de casos criminais,
+afinal, é o desejo de todos os operadores do  Direito a modernização do processo
+penal.
+Entrego mais uma edição do CPP Comentado, contendo todos os comentários à
+reforma de 2019, esperando que o leitor aprecie a obra. Continuamos receptivos às
+críticas construtivas dos leitores.
+Agradeço  à  equipe  de  produção  da  Editora  Forense,  do  Grupo  GEN,  pela
+dedicação e pelo empenho.
+
+São Paulo, janeiro de 2020.
+O Autor
+
+A Constituição Federal brasileira comemorou seus 30 anos
+[/PAGINA 2]
+
+[PAGINA 3]
+, em outubro de 2018,
+emergindo,  por  conta  disso,  várias  obras  em  homenagem  à  nossa  Carta  Magna.  É
+preciso lembrar que, no art. 5.º da CF, tratando dos direitos e garantias individuais,
+há um considerável número de incisos destinados ao processo penal. Não por acaso.
+Busca-se, afinal, a vivência realística de um Estado Democrático de Direito, razão
+pela  qual  as  regras  processuais  penais,  com status  constitucional,  precisam  ser
+rigorosamente respeitadas.
+Por isso, tanto na elaboração do nosso Curso de Direito Processual Penal como
+no Código de Processo Penal comentado, tivemos o especial empenho em dar relevo
+aos princípios constitucionais processuais penais, demonstrando a sua influência no
+âmbito da legislação ordinária.
+Por outro lado, aguarda-se, há muitas décadas, que o Código de Processo Penal
+seja  integralmente  reformado.  Enquanto  essa  providência  legislativa  não  se
+concretiza, temos atuado comentando as alterações pontuais introduzidas tanto no CPP
+como na legislação especial.
+Nesta edição, incluímos todas as modificações ocorridas, em particular as que
+dizem respeito à prisão domiciliar para mulheres gestantes e mães de filhos pequenos,
+bem como outras reformas advindas de leis especiais, com influência no Código de
+Processo Penal.
+
+Atualizamos  a  doutrina  e  a  jurisprudência,  cumprindo  o  nosso  compromisso,
+desde a primeira edição, de manter os julgados recentes, espelhando a voz atual dos
+tribunais  pátrios,  especialmente  no  tocante  ao  Supremo  Tribunal  Federal  e  ao
+Superior Tribunal de Justiça.
+Cumprimentamos  as  equipes  prestativas  e  dedicadas  da  Editora  Forense  pelo
+empenho voltado ao lançamento de mais uma edição desta obra.
+Agradecemos a voz de apoio e de crítica construtiva do leitor, sempre atento.
+São Paulo, janeiro de 2019.
+O Autor
+
+O Direito Processual Penal, no Brasil, precisa ser atualizado para incorporar os
+diversos princípios e regras constantes da Constituição Federal de 1988, em especial
+os  que  se  referem  diretamente  à  liberdade  individual.  Afinal,  rege  o  cenário  do
+processo criminal o princípio da dignidade da pessoa humana.
+Houve, por certo, algumas reformas pontuais voltadas ao Código de Processo
+Penal, no ano de 2008, bem como algumas pequenas alterações após essa data. Nada
+que pudesse modernizar realmente o ordenamento jurídico-processual penal.
+A sociedade clama por uma Justiça rápida, que permita superar os obstáculos
+naturais à impunidade, mas, ao mesmo tempo, espera o respeito aos direitos humanos
+fundamentais. A economia processual jamais pode representar o atropelo a garantias
+individuais.
+Enquanto não se concretiza uma autêntica mudança no Código de Processo Penal,
+nos  moldes  já  vivenciados  pelo  processo  civil,  continuamos  a  buscar  o
+aprimoramento  da  aplicação  da  lei  ao  caso  concreto,  sempre  inspirados  pelos
+princípios constitucionais da área criminal.
+Nesse  cenário,  atingimos  a  17.ª  edição  do Código  de  Processo  Pena
+[/PAGINA 3]
+
+[PAGINA 4]
+l
+comentado, certos de que podemos auxiliar o operador do direito a exercer a sua
+atividade de maneira firme e confiante. Para isso, ao lado de críticas construtivas,
+propomos soluções e reformas legislativas, bem como novos entendimentos no campo
+
+jurisprudencial.
+Esta  nova  edição  conta  com  a  nossa  pessoal  atualização,  contendo
+aprimoramentos  nos  campos  doutrinário  e  jurisprudencial.  Esperamos  que  o  leitor
+continue  satisfeito,  além  de  participar  das  obras,  enviando-nos  suas  sugestões  e
+críticas construtivas.
+Agradecemos  à  Editora  Forense  pelo  suporte  indispensável  à  publicação  dos
+nossos trabalhos.
+São Paulo, fevereiro de 2018.
+O Autor
+
+Índice Sistemático do Código de Processo Penal
+Tábua de Abreviaturas
+Código de Processo Penal – Decreto-lei 3.689, de 3 de outubro de 1941
+Bibliografia
+Apêndice
+Obras do Autor
+
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo VII –
+DECRETO-LEI 3.689, DE 3 DE OUTUBRO DE 1941
+LIVRO I
+DO PROCESSO EM GERAL
+TÍTULO I – DISPOSIÇÕES PRELIMINARES
+Arts. 1º a 3º-F
+TÍTULO II – DO INQUÉRITO POLICIAL
+Arts. 4º a 23
+TÍTULO III – DA AÇÃO PENAL
+Arts. 24 a 62
+TÍTULO IV – DA AÇÃO CIVIL
+Arts. 63 a 68
+TÍTULO V – DA COMPETÊNCIA
+Art. 69
+Da competência pelo lugar da infração (arts. 70 e 71)
+Da competência pelo domicílio ou residência do réu (arts. 72 e 73)
+Da competência pela natureza da infração (art. 74)
+Da competência por distribuição (art. 75)
+Da competência por conexão ou continência (arts. 76 a 82)
+Da competência por prevenção (art. 83)
+Da competência pela prerrogativa de função (arts. 84 a 87)
+
+Capítulo VIII –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo VII –
+Capítulo VIII –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo VII –
+Capítulo VIII –
+Capítulo IX –
+Capítulo X –
+Capítulo XI –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo I –
+Capítulo II –
+Disposições especiais (arts. 88 a 91)
+TÍTULO VI – DAS QUESTÕES E PROCESSOS INCIDENTES
+Das questões prejudiciais (arts. 92 a 94)
+Das exceções (arts. 95 a 111)
+Das incompatibilidades e impedimentos (art. 112)
+O conflito de jurisdição (arts. 113 a 117)
+Da restituição das coisas apreendidas (arts. 118 a 124-A)
+Das medidas assecuratórias (arts. 125 a 144-A)
+Do incidente de falsidade (arts. 145 a 148)
+Da insanidade mental do acusado (arts. 149 a 154)
+TÍTULO VII – DA PROVA
+Disposições gerais (arts. 155 a 157)
+Do exame do corpo de delito, da cadeia de custódia e das perícias em geral (arts. 158 a 184)
+Do interrogatório do acusado (arts. 185 a 196)
+Da confissão (arts. 197 a 200)
+Do ofendido (art. 201)
+Das testemunhas (arts. 202 a 225)
+Do reconhecimento de pessoas e coisas (arts. 226 a 228)
+Da acareação (arts. 229 e 230)
+Dos documentos (arts. 231 a 238)
+Dos indícios (art. 239)
+Da busca e da apreensão (arts. 240 a 250)
+TÍTULO VIII – DO JUIZ, DO MINISTÉRIO PÚBLICO, DO ACUSADO E DEFENSOR
+[/PAGINA 4]
+
+[PAGINA 5]
+, DOS
+ASSISTENTES E AUXILIARES DA JUSTIÇA
+Do juiz (arts. 251 a 256)
+Do Ministério Público (arts. 257 e 258)
+Do acusado e seu defensor (arts. 259 a 267)
+Dos assistentes (arts. 268 a 273)
+Dos funcionários da justiça (art. 274)
+Dos peritos e intérpretes (arts. 275 a 281)
+TÍTULO IX – DA PRISÃO, DAS MEDIDAS CAUTELARES E DA LIBERDADE PROVISÓRIA
+Disposições gerais (arts. 282 a 300)
+Da prisão em flagrante (arts. 301 a 310)
+
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo I –
+Capítulo II –
+Capítulo I –
+Capítulo II –
+Seção I –
+Seção II –
+Seção III –
+Seção IV –
+Seção V –
+Seção VI –
+Seção VII –
+Seção VIII –
+Seção IX –
+Seção X –
+Seção XI –
+Seção XII –
+Seção XIII –
+Seção XIV –
+Da prisão preventiva (arts. 311 a 316)
+Da prisão domiciliar (arts. 317 e 318-B)
+Das outras medidas cautelares (arts. 319 e 320)
+Da liberdade provisória, com ou sem fiança (arts. 321 a 350)
+TÍTULO X – DAS CITAÇÕES E INTIMAÇÕES
+Das citações (arts. 351 a 369)
+Das intimações (arts. 370 a 372)
+TÍTULO XI – DA APLICAÇÃO PROVISÓRIA DE INTERDIÇÕES DE DIREITOS E MEDIDAS DE
+SEGURANÇA
+Arts. 373 a 380
+TÍTULO XII – DA SENTENÇA
+Arts. 381 a 393
+LIVRO II
+DOS PROCESSOS EM ESPÉCIE
+TÍTULO I – DO PROCESSO COMUM
+Da instrução criminal (arts. 394 a 405)
+Do procedimento relativo aos processos da competência do Tribunal do Júri (arts. 406 a 497)
+Da acusação e da instrução preliminar (arts. 406 a 412)
+Da pronúncia, da impronúncia e da absolvição sumária (arts. 413 a 421)
+Da preparação do processo para julgamento em plenário (arts. 422 a 424)
+Do alistamento dos jurados (arts. 425 e 426)
+Do desaforamento (arts. 427 e 428)
+Da organização da pauta (arts. 429 a 431)
+Do sorteio e da convocação dos jurados (arts. 432 a 435)
+Da função do jurado (arts. 436 a 446)
+Da composição do Tribunal do Júri e da formação do Conselho de Sentença (arts. 447 a
+452)
+Da reunião e das sessões do Tribunal do Júri (arts. 453 a 472)
+Da instrução em Plenário (arts. 473 a 475)
+Dos debates (arts. 476 a 481)
+Do questionário e sua votação (arts. 482 a 491)
+Da sentença (arts. 492 e 493)
+
+Seção XV –
+Seção XVI –
+Capítulo III –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo VII –
+Capítulo I –
+Capítulo II –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo IV –
+Capítulo V –
+Capítulo VI –
+Capítulo VII –
+Da ata dos trabalhos (arts. 494 a 496)
+Das atribuições do presidente do Tribunal do Júri (art. 497)
+Do processo e do julgamento dos crimes da competência do juiz singular (arts. 498 a 502)
+(Revogados pela Lei 11.719/2008)
+TÍTULO II – DOS PROCESSOS ESPECIAIS
+Do processo e do julgamento dos crimes de falência (arts. 503 a 512) (Revogados pela Lei
+11.101/2005)
+Do processo e do julgamento dos crimes de responsabilidade dos funcionários públicos
+(arts. 513 a 518)
+Do processo e do julgamento dos crimes de calúnia e injúria, de competência do juiz singular
+(arts. 519 a 523)
+Do processo e do julgamento dos crimes contra a propriedade imaterial (arts. 524 a 530-I)
+Do processo sumário (arts. 531 a 540)
+[/PAGINA 5]
+
+[PAGINA 6]
+Do processo de restauração de autos extraviados ou destruídos (arts. 541 a 548)
+Do processo de aplicação de medida de segurança por fato não criminoso (arts. 549 a 555)
+TÍTULO III – DOS PROCESSOS DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL E DOS
+TRIBUNAIS DE APELAÇÃO
+Da instrução (arts. 556 a 560) (Revogados pela Lei 8.658/1993)
+Do julgamento (arts. 561 e 562) (Revogados pela Lei 8.658/1993)
+LIVRO III
+DAS NULIDADES E DOS RECURSOS EM GERAL
+TÍTULO I – DAS NULIDADES
+Arts. 563 a 573
+TÍTULO II – DOS RECURSOS EM GERAL
+Disposições gerais (arts. 574 a 580)
+Do recurso em sentido estrito (arts. 581 a 592)
+Da apelação (arts. 593 a 606)
+Do protesto por novo júri (arts. 607 e 608) (Revogados pela Lei 11.689/2008)
+Do processo e do julgamento dos recursos em sentido estrito e das apelações, nos tribunais
+de apelação (arts. 609 a 618)
+Dos embargos (arts. 619 e 620)
+Da revisão (arts. 621 a 631)
+
+Capítulo VIII –
+Capítulo IX –
+Capítulo X –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Capítulo I –
+Capítulo II –
+Capítulo I –
+Capítulo II –
+Capítulo I –
+Capítulo II –
+Capítulo III –
+Do recurso extraordinário (arts. 632 a 638)
+Da carta testemunhável (arts. 639 a 646)
+Do habeas corpus e seu processo (arts. 647 a 667)
+LIVRO IV
+DA EXECUÇÃO
+TÍTULO I – DISPOSIÇÕES GERAIS
+Arts. 668 a 673
+TÍTULO II – DA EXECUÇÃO DAS PENAS EM ESPÉCIE
+Das penas privativas de liberdade (arts. 674 a 685)
+Das penas pecuniárias (arts. 686 a 690)
+Das penas acessórias (arts. 691 a 695)
+TÍTULO III – DOS INCIDENTES DA EXECUÇÃO
+Da suspensão condicional da pena (arts. 696 a 709)
+Do livramento condicional (arts. 710 a 733)
+TÍTULO IV – DA GRAÇA, DO INDULTO, DA ANISTIA E DA REABILITAÇÃO
+Da graça, do indulto e da anistia (arts. 734 a 742)
+Da reabilitação (arts. 743 a 750)
+TÍTULO V – DA EXECUÇÃO DAS MEDIDAS DE SEGURANÇA
+Arts. 751 a 779
+LIVRO V
+DAS RELAÇÕES JURISDICIONAIS COM AUTORIDADE ESTRANGEIRA
+TÍTULO ÚNICO
+Disposições gerais (arts. 780 a 782)
+Das cartas rogatórias (arts. 783 a 786)
+Da homologação das sentenças estrangeiras (arts. 787 a 790)
+LIVRO VI
+DISPOSIÇÕES GERAIS
+Arts. 791 a 811
+
+ADIn – Ação Direta de Inconstitucionalidade
+Ag – Agravo
+AgExec. – Agravo em Execução
+AgRg – Agravo Regimental
+AI – Agravo de Instrumento
+Ajuris – Revista da Associação dos Juízes do Rio Grande do Sul
+Ap. – Apelação Criminal
+Ap. Cív. – Apelação Civil
+Ap. Crim. – Apelação Criminal
+BMJ – Boletim Mensal de Jurisprudência do Tribunal de Alçada Criminal de São Paulo
+Bol. AASP – Boletim da Associação dos Advogados de São Paulo
+Bol. IBCCrim – Boletim do Instituto Brasileiro de Ciências Criminais
+Bol. TJSP – Boletim de Jurisprudência da Biblioteca do Tribunal de Justiça de São Paulo
+C. – Câmara
+CA – Conflito de Atribuições
+CC – Código Civil
+cit. – citado(a)
+CJ – Conflito de Jurisdição
+CLT – Consolidação das Leis do Trabalho
+Cor. Parc. – Correição Parcial
+CP – Código Penal
+CPC – Código de Processo Civil
+CPP – Código de Processo Penal
+
+Crim. – Criminal
+CT – Carta Testemunhável
+CTN – Código Tributário Nacional
+Den. – Denúncia
+Des. – Desembar
+[/PAGINA 6]
+
+[PAGINA 7]
+gador
+DJ – Diário da Justiça
+DJU – Diário da Justiça da União
+ECA – Estatuto da Criança e do Adolescente
+ED – Embargos Declaratórios
+EI – Embargos Infringentes
+Emb. Div. – Embargos de Divergência
+EV – Exceção da Verdade
+Extr. – Extradição
+HC – Habeas Corpus
+Inq. – Inquérito Policial
+IUF – Incidente de Uniformização de Jurisprudência
+j. – Julgado em
+JC – Jurisprudência Catarinense
+JM – Jurisprudência Mineira
+JSTF-Lex – Jurisprudência do Supremo Tribunal Federal
+JSTJ – Jurisprudência do Superior Tribunal de Justiça
+JTJ-Lex – Julgados do Tribunal de Justiça (antiga Revista de Jurisprudência do Tribunal de Justiça de
+São Paulo – RJTJESP)
+JUBI  –  Departamento  Técnico  de  Jurisprudência  e  Biblioteca  do  Tribunal  de  Justiça  de  São  Paulo
+(boletim)
+JUTACRIM-SP – Julgados do Tribunal de Alçada Criminal de São Paulo
+JUTARS – Julgados do Tribunal de Alçada do Rio Grande do Sul
+LCP – Lei das Contravenções Penais
+LEP – Lei de Execução Penal
+MI – Mandado de Injunção
+Min. – Ministro
+MS – Mandado de Segurança
+m.v. – maioria de votos
+
+ob. – obra
+p. – página
+PE – Pedido de Extradição
+PT – Petição
+QC – Queixa-crime
+RA – Recurso de Agravo
+RBCCrim. – Revista Brasileira de Ciências Criminais
+RC – Reclamação
+RDA – Revista de Direito Administrativo
+RDP – Revista de Direito Público
+RDTJRJ – Revista de Direito do Tribunal de Justiça do Rio de Janeiro
+RE – Recurso Extraordinário
+Rec. – Recurso Criminal
+Rec. Adm. – Recurso Administrativo
+rel. – Relator
+REsp – Recurso Especial
+Rev. – Revisão Criminal
+RF – Revista Forense
+RHC – Recurso de Habeas Corpus
+RISTF – Regimento Interno do Supremo Tribunal Federal
+RJDTACRIM – Revista de Jurisprudência e Doutrina do Tribunal de Alçada Criminal de São Paulo
+RJTAMG – Revista de Julgados do Tribunal de Alçada de Minas Gerais
+RJTJ – Revista de Jurisprudência do Tribunal de Justiça (ex.: RJTJSP, RJTJRS)
+RJTJRJ – Revista de Jurisprudência do Tribunal de Justiça do Rio de Janeiro
+RJTJRS – Revista de Jurisprudência do Tribunal de Justiça do Rio Grande do Sul
+RJTJSP – Revista de Jurisprudência do Tribunal de Justiça de São Paulo
+RMS – Recurso em Mandado de Segurança
+RO – Recurso de Ofício
+RSE – Recurso em Sentido Estrito
+RSTJ – Revista do Superior Tribunal de Justiça
+RT – Revista dos Tribunais
+RTFR – Revista do Tribunal Federal de Recursos
+RTJ – Revista Trimestral de Jurisprudência (STF)
+
+RTJE – Revista Trimestral de Jurisprudência dos Estados
+STF – Supremo Tribunal Federal
+STJ – Superior Tribunal de Justiça
+TA – Tribunal de Alçada
+TACRIM-RJ – Tribunal de Alçada Criminal do Rio de Janeiro
+TACRIM-SP – Tribunal de Alçada Criminal de São Paulo
+TFR – Tribunal Federal de Recursos
+TJ – Tribunal de Justiça
+TP – Tribunal Pleno
+TRF – Tribunal Regional Federal
+VCP – Verificação de Cessação de Periculosidade
+v.u. – votação unânime
+
+Decreto-lei 3.689, de 3 de outubro de 1941
+O Presidente da República, usando da atribuição que lhe confere o art. 180 da
+Constituição, decreta a seguinte Lei:
+
+1.  Princípios  do  processo  penal: princípio,  etimolog
+[/PAGINA 7]
+
+[PAGINA 8]
+icamente,  significa
+causa  primária,  momento  em  que  algo  tem  origem,  elemento  predominante  na
+constituição de um corpo orgânico, preceito, regra, fonte de uma ação. Em Direito,
+princípio jurídico quer dizer uma ordenação que se irradia e imanta os sistemas de
+normas,  conforme  ensina  José  Afonso  da  Silva  (Curso  de  direito  constitucional
+positivo, p. 85), servindo de base para a interpretação, integração, conhecimento e
+aplicação do direito positivo. Cada ramo do Direito possui princípios próprios, que
+informam  todo  o  sistema,  podendo  estar  expressamente  previstos  em  lei  ou  ser
+implícitos, isto é, resultar da conjugação de vários dispositivos legais, de acordo com
+a cultura jurídica formada com o passar dos anos de estudo de determinada matéria. O
+processo penal não foge à regra, sendo regido, primordialmente, por princípios, que,
+por  vezes,  suplantam  a  própria  literalidade  da  lei.  Na  Constituição  Federal
+
+encontramos  a  maioria  dos  princípios  que  tutelam  o  processo  penal  brasileiro.
+Pretendemos  classificá-los,  para  melhor  estudo,  em  constitucionais  processuais  e
+meramente processuais, bem como em explícitos e implícitos. Entretanto, de início,
+convém registrar a existência de dois princípios regentes, governadores de todos os
+demais,  seja  no  campo  processual  penal,  seja  no  âmbito  penal.  O  conjunto  dos
+princípios constitucionais forma um sistema próprio, com lógica e autorregulação. Por
+isso, torna-se imperioso destacar dois aspectos: a) há integração entre os princípios
+constitucionais penais e os processuais penais; b) coordenam o sistema de princípios
+os mais relevantes para a garantia dos direitos humanos fundamentais: dignidade da
+pessoa  humana  e  devido  processo  legal.  Estabelece  o  art.  1.º,  III,  da  Constituição
+Federal:  “A  República  Federativa  do  Brasil,  formada  pela  união  indissolúvel  dos
+Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de
+Direito e tem como fundamentos: (...) III – a dignidade da pessoa humana”. No art. 5.º,
+LIV, da Constituição Federal encontra-se: “Ninguém será privado da liberdade ou de
+seus bens sem o devido processo legal”. Nada se pode tecer de justo e realisticamente
+isonômico  que  passe  ao  largo  da  dignidade  humana,  base  sobre  a  qual  todos  os
+direitos e garantias individuais são erguidos e sustentados. Ademais, inexistiria razão
+de ser a tantos preceitos fundamentais não fosse o nítido suporte prestado à dignidade
+humana.  Há  dois  prismas  para  o  princípio  constitucional  regente  da  dignidade  da
+pessoa humana: objetivo e subjetivo. Sob o aspecto objetivo, significa a garantia de
+um mínimo existencial ao ser humano, atendendo às suas necessidades básicas, como
+moradia,  alimentação,  educação,  saúde,  lazer,  vestuário,  higiene,  transporte  e
+previdência  social,  nos  moldes  fixados  pelo  art.  7.º,  IV,  da  CF.  Sob  o  aspecto
+subjetivo, trata-se do sentimento de respe
+[/PAGINA 8]
+
+[PAGINA 9]
+itabilidade e autoestima, inerentes ao ser
+humano,  desde  o  nascimento,  em  relação  aos  quais  não  cabe  qualquer  espécie  de
+renúncia ou desistência. O Direito Penal, constituindo a mais drástica opção estatal
+para  regular  conflitos  e  aplicar  sanções,  deve  amoldar-se  ao  princípio  regente  da
+dignidade humana, justamente pelo fato de se assegurar que o braço forte do Estado
+continue a ser democrático e de direito. O devido processo legal guarda suas raízes
+no princípio da legalidade, garantindo ao indivíduo que somente seja processado e
+
+punido  se  houver  lei  penal  anterior  definindo  determinada  conduta  como  crime,
+cominando-lhe  pena.  Além  disso,  modernamente,  representa  a  união  de  todos  os
+princípios penais e processuais penais, indicativo da regularidade ímpar do processo
+criminal. Associados, os princípios constitucionais da dignidade humana e do devido
+processo legal entabulam a regência dos demais, conferindo-lhes unidade e coerência.
+Consultar  o  nosso Princípios  constitucionais  penais  e  processuais  penais  para
+maiores  esclarecimentos.  Classificando  os  princípios  processuais,  temos:  I  –
+Princípios  constitucionais  explícitos  do  processo  penal:  1.  Concernentes  ao
+indivíduo:  1.1) princípio  da  presunção  de  inocência:  também  conhecido  como
+princípio do estado de inocência ou da não culpabilidade, significa que todo acusado
+é presumido inocente, até que seja declarado culpado por sentença condenatória, com
+trânsito  em  julgado.  Encontra-se  previsto  no  art.  5.º,  LVII,  da  Constituição.  O
+princípio tem por objetivo garantir que o ônus da prova cabe à acusação e não à
+defesa. As  pessoas  nascem  inocentes,  sendo  esse  o  seu  estado  natural,  razão  pela
+qual, para quebrar tal regra, torna-se indispensável que o Estado-acusação evidencie,
+com provas suficientes, ao  Estado-juiz a culpa do réu.  Por outro lado, confirma a
+excepcionalidade  e  a  necessariedade  das  medidas  cautelares  de  prisão,  já  que
+indivíduos inocentes somente podem ser levados ao cárcere quando isso realmente for
+útil à instrução e à ordem pública. Entretanto, não serve para vedar a prisão cautelar,
+pois há outros princípios e regras em jogo, como o tema relativo à segurança pública.
+Em 2016, o STF, no Plenário, por 6 x 5, decidiu ser cabível a prisão do condenado,
+quando a decisão proferida em segundo grau ocorra (ADCs 43 e 44, Plenário, rel.
+Marco Aurélio, 05.12.2016, m.v.). Entretanto, em 2019, nas ADCs 43, 44 e 54 (Pleno,
+rel. Min. Marco Aurélio, m.v., 07.11.2019), retornou ao entendimento de 2009, ou
+seja, somente se prende o acusado, para cumprir pena, após o trânsito em julgado da
+decisão condenatória. Essa última postura não impede, no entanto, a decretação de
+prisão cautelar quando preencher os requisitos legais, como, por exemplo, a prisão
+preventiva  (art.  312,  CPP).  Em  nosso  entendimento,  o  princípio  da  presunção  de
+inocência, da forma como redigido na Carta Magna, foi viol
+[/PAGINA 9]
+
+[PAGINA 10]
+ado pela decisão do STF
+de  2016.  Não  importa  o  que  ocorre  em  outros  países,  pois  essas  legislações  não
+
+possuem igual dispositivo em sua Constituição. Quando a CF foi promulgada, houve
+uma  disposição  política  do  legislador-constituinte,  optando,  com  clareza,  pelo
+princípio de ser considerado o réu inocente até o trânsito em julgado da condenação.
+Outra não pode ser a interpretação de trânsito em julgado, sob pena de se subverter
+uma  série  de  conceitos  doutrinários,  reinantes  há  muito  tempo.  São  princípios
+consequenciais da presunção de inocência: prevalência do interesse do réu (in dubio
+pro reo, favor rei, favor inocentiae, favor libertatis) e imunidade à autoacusação: o
+primeiro significa que, em caso de conflito entre a inocência do réu – e sua liberdade
+– e o poder-dever do Estado de punir, havendo dúvida razoável, deve o juiz decidir
+em favor do acusado. Aliás, pode-se dizer que, se todos os seres humanos nascem em
+estado de inocência, a exceção a essa regra é a culpa, razão pela qual o ônus da
+prova é do Estado-acusação. Por isso, quando houver dúvida no espírito do julgador,
+é imperativo prevalecer o interesse do indivíduo, em detrimento da sociedade ou do
+Estado. Exemplo: absolve-se quando não existir prova suficiente para a condenação
+(art. 386, VII, CPP). Há, ainda, a imunidade à autoacusação, sob o princípio de que
+ninguém  está  obrigado  a  produzir  prova  contra  si  mesmo  (nemo  tenetur  se
+detegere):  trata-se  de  decorrência  natural  da  conjugação  dos  princípios
+constitucionais da presunção de inocência (art. 5.º, LVII) e ampla defesa (art. 5.º, LV)
+com  o  direito  humano  fundamental  que  permite  ao  réu  manter-se  calado  (art.  5.º,
+LXIII). Se o indivíduo é inocente, até que seja provada sua culpa, possuindo o direito
+de  produzir  amplamente  prova  em  seu  favor,  bem  como  se  pode  permanecer  em
+silêncio sem qualquer tipo de prejuízo à sua situação processual, é mais do que óbvio
+não estar obrigado, em hipótese alguma, a produzir prova contra si mesmo. O Estado
+é a parte mais forte na persecução penal, possuindo agentes e instrumentos aptos a
+buscar e descobrir provas contra o agente da infração penal, prescindindo, pois, de
+sua  colaboração.  Seria  a  admissão  de  falência  de  seu  aparato  e  fraqueza  de  suas
+autoridades se dependesse do suspeito para colher elementos suficientes a sustentar a
+ação penal. Nas palavras de Maria Elizabeth Queijo, “o nemo tenetur se detegere foi
+acolhido, expressamente, no direito brasileiro, com a incorporação ao direito interno
+do  Pacto  Internacional  dos  Direitos  Civis  e  Políticos  e  da  Convenção Americana
+
+sobre  Direitos  Humanos.  Por  força  de  tal  incorporação,  em  consonância  com  o
+disposto no art. 5.º, § 2.º, da Constituição Federal, como direito fundamental, o nemo
+tenetur  se  detegere  possui  hierarquia  constitucional,  portanto,  não  poderá  ser
+suprimido  nem  mesmo  por  emenda  constitucional.  Tal  entendime
+[/PAGINA 10]
+
+[PAGINA 11]
+nto  não  foi
+modificado  pelo  art.  5.º,  §  3.º,  do  texto  constitucional,  incluído  pela  Emenda
+Constitucional 45/2004, mas por ele corroborado” (O direito de não produzir prova
+contra si mesmo,  p.  480);  1.2) princípio da ampla defesa:  significa  que  ao  réu  é
+concedido o direito de se valer de amplos e extensos métodos para se defender da
+imputação  feita  pela  acusação.  Encontra  fundamento  constitucional  no  art.  5.º,  LV.
+Considerado, no processo, parte hipossuficiente por natureza, uma vez que o Estado é
+sempre  mais  forte,  agindo  por  órgãos  constituídos  e  preparados,  valendo-se  de
+informações  e  dados  de  todas  as  fontes  às  quais  tem  acesso,  merece  o  réu  um
+tratamento diferenciado e justo, razão pela qual a ampla possibilidade de defesa se
+lhe afigura a compensação devida pela força estatal. Lembremos que há, no contexto
+do júri, o princípio da plenitude de defesa, a ser tratado em seguida, que apresenta
+diferença  com  o  princípio  em  comento.  A  ampla  defesa  gera  inúmeros  direitos
+exclusivos  do  réu,  como  é  o  caso  de  ajuizamento  de  revisão  criminal  –  o  que  é
+vedado  à  acusação  –,  bem  como  a  oportunidade  de  ser  verificada  a  eficiência  da
+defesa  pelo  magistrado,  que  pode  desconstituir  o  advogado  escolhido  pelo  réu,
+fazendo-o eleger outro ou nomeando-lhe um dativo, entre outros. Sobre o controle do
+juiz sobre a eficiência da defesa, ver as notas 318 ao art. 497 e 18 ao art. 564. Outro
+ponto fundamental da ampla defesa é a possibilidade de autodefesa, ou seja, pode o
+réu, em narrativa direta ao juiz,  no  interrogatório,  levantar  as  teses  de  defesa  que
+entender cabíveis. Estas, por sua vez, por ocasião da sentença, devem ser levadas em
+conta pelo julgador. Conferir: TJRS: “Todas as teses defensivas levantadas, mesmo
+em autodefesa, devem ser enfrentadas no ato sentencial, sob pena de nulidade” (Ap.
+70008337206,  5.ª  C.,  rel.  Amilton  Bueno  de  Carvalho,  03.08.2004,  v.u., Boletim
+AASP 2.423, jun. 2005). Sobre o direito à efetiva ampla defesa, consultar as notas 8 e
+8-B ao art. 261; 1.3) plenitude de defesa: significa que, no Tribunal do Júri, busca-se
+garantir ao réu não somente uma defesa ampla, mas plena, completa, o mais próxima
+
+possível  do  perfeito  (art.  5.º,  XXXVIII, a,  CF).  Vale  ressaltar  que  o  texto
+constitucional mencionou, além da plenitude de defesa, o princípio da ampla defesa,
+voltado aos acusados em geral (art. 5.º, LV, CF), razão pela qual é preciso evidenciar
+a natural diversidade existente entre ambos. A lei, de um modo geral, não contém
+palavras inúteis, muito menos a Constituição Federal. Portanto, inexiste superfetação
+na dupla previsão dos referidos princípios, destinando-se cada qual a uma finalidade
+específica.  Enquanto aos réus em processos criminais comuns assegura-se a ampla
+defesa,  aos  acusados  e  julgados  pelo  Tribunal  do  Júri  garante-se  a plenitude  de
+defesa. Os vocábulos são diversos e também o seu s
+[/PAGINA 11]
+
+[PAGINA 12]
+entido. Amplo quer dizer vasto,
+largo,  muito  grande,  rico,  abundante,  copioso; pleno  significa  repleto,  completo,
+absoluto,  cabal,  perfeito.  O  segundo  é,  evidentemente,  mais  forte  que  o  primeiro.
+Assim, no processo criminal, perante o juiz togado, tem o acusado assegurada a ampla
+defesa,  isto  é,  vasta  possibilidade  de  se  defender,  propondo  provas,  questionando
+dados, contestando alegações, enfim, oferecendo os dados técnicos suficientes para
+que  o  magistrado  possa  considerar  equilibrada  a  demanda,  estando  de  um  lado  o
+órgão acusador e de outro uma defesa eficiente. Por outro lado, no Tribunal do Júri,
+onde  as  decisões  são  tomadas  pela  íntima  convicção  dos  jurados,  sem  qualquer
+fundamentação, onde prevalece a oralidade dos atos e a concentração da produção de
+provas, bem como a identidade física do juiz, torna-se indispensável que a defesa atue
+de  modo  completo  e  perfeito  –  logicamente  dentro  das  limitações  impostas  pela
+natureza  humana.  A  intenção  do  constituinte  foi  aplicar  ao  Tribunal  Popular  um
+método que privilegie a defesa, em caso de confronto inafastável com a acusação,
+homenageando  a  sua  plenitude.  São  vários  os  efeitos  extraídos  dessa  diferença.
+Remetemos o leitor para a nota 3 do Capítulo II, Título I, Livro II (“Do procedimento
+relativo  aos  processos  da  competência  do  Tribunal  do  Júri”),  onde  cuidamos
+novamente do tema. Na jurisprudência: STJ: “I – A Constituição Federal assegura, no
+art. 5.º, inciso XXXVIII, alínea a, nos julgamentos realizados pelo Tribunal do Júri, a
+plenitude  de  defesa.  A  preocupação  do  constituinte  foi  corroborada  pelo  CPP,
+mediante a previsão de regra que determina a dissolução do Conselho de Sentença na
+hipótese  do  Juiz  Presidente  verificar  que  o  acusado  está  indefeso.  II  –  No  caso
+
+concreto,  além  do  advogado  dativo  ter  utilizado  somente  nove  minutos  para  a
+sustentação oral, não fez menção à tese da legítima defesa invocada pelo réu em seu
+interrogatório e que foi, de certa forma, encampada por testemunha presencial dos
+fatos durante o juízo de acusação. Limitou-se o causídico a pugnar pelo afastamento
+das  qualificadoras.  III  –  Além  disso,  dispensou  a  oitiva  de  referida  testemunha
+faltante em plenário, prejudicando inequivocamente a defesa do réu. IV – Portanto,
+referidas  circunstâncias  indicam  a  ausência  de  defesa  técnica,  suficientes  para
+justificar  a  aplicação  da  primeira  parte  da  Súmula  523/STF  e,  por  conseguinte,  a
+anulação do julgamento. Recurso ordinário provido” (RHC 51118 – SP, 5.ª T., rel.
+Felix Fischer, 11.06.2015, v.u.). TJMT: “Em respeito ao disposto no art. 5.º, inciso
+XXXVIII, a da Carta da República promulgada em 1988, aos acusados em processos
+da competência do Tribunal do Júri, deve sempre ser observado o princípio-garantia
+pétreo da plenitude de defesa. E, na hipótese vertente, por restar demonstrado que a
+fundamentação  lançada  para
+[/PAGINA 12]
+
+[PAGINA 13]
+reconhecer  a  qualificadora  do  motivo  fútil  levada  a
+efeito pelos jurados restou contrária as provas dos autos, não há outra alternativa a
+não ser desconstituir a condenação vergastada para que ele seja submetido a novo
+julgamento, anulando-se, também, a sentença de pronúncia” (Ap. 142177/2014 – MT,
+3.ª  Câmara  Criminal,  rel.  Luiz  Ferreira  Da  Silva,  20.05.2015);  2.  Concernentes  à
+relação processual: 2.1) princípio do contraditório: quer dizer que a toda alegação
+fática ou apresentação de prova, feita no processo por uma das partes, tem a outra,
+adversária,  o  direito  de  se  manifestar,  havendo  um  perfeito  equilíbrio  na  relação
+estabelecida  pela  pretensão  punitiva  do  Estado  em  confronto  com  o  direito  à
+liberdade  e  à  manutenção  do  estado  de  inocência  do  acusado  (art.  5.º,  LV,  CF).
+Excepcionalmente,  o  contraditório  deve  ser  exercitado  quando  houver  alegação  de
+direito.  Nesse  caso,  deve-se  verificar  se  a  questão  invocada  pode  colocar  fim  à
+demanda. Exemplo  disso  é  a  alegação  de  ter  havido abolitio criminis,  que  deve
+provocar  a  oitiva  da  parte  contrária,  pois  o  processo  pode  findar  em  função  da
+extinção da punibilidade. No mais, se uma parte invoca uma questão de direito, não há
+necessidade  de  ouvir  a  parte  contrária,  bastando  que  o  juiz  aplique  a  lei  ao  caso
+concreto.  Aliás,  é  o  que  ocorre  nas  alegações  finais:  primeiro  manifesta-se  a
+
+acusação,  depois,  fala  a  defesa,  não  sendo  necessário  ouvir  novamente  o  órgão
+acusatório, embora possam ter sido invocadas questões de direito, analisando a prova
+produzida. Sobre o contraditório, o novo CPC disciplina o seguinte: “Art. 9.º Não se
+proferirá decisão contra uma das partes sem que ela seja previamente ouvida. (...);
+Art.  10.  O  juiz  não  pode  decidir,  em  grau  algum  de  jurisdição,  com  base  em
+fundamento  a  respeito  do  qual  não  se  tenha  dado  às  partes  oportunidade  de  se
+manifestar, ainda que se trate de matéria sobre a qual deva decidir de ofício”. Na
+jurisprudência:  STJ:  “Esta  Corte  Superior  tem  se  posicionado  no  sentido  de  que,
+diante  da  inércia  da  defesa  na  apresentação  das  devidas  razões  recursais,  em
+homenagem  ao  princípio  da  ampla  defesa  e  contraditório,  é  imprescindível  a
+intimação do réu, oportunizando a constituição de novo defensor” (RHC 25736 – MS,
+6.ª T., rel. Nefi Cordeiro, 09.06.2015, v.u.); 3. Concernentes à atuação do Estado:
+3.1) princípio do juiz natural e imparcial e princípio consequencial da iniciativa
+das partes:  estabelece  o  direito  do  réu  de  ser  julgado  por  um  juiz  previamente
+determinado por lei e pelas normas constitucionais, acarretando, por consequência,
+um  julgamento  imparcial.  Encontra  previsão  no  art.  5.º,  LIII,  da  Constituição.  Seu
+contraponto é a vedação ao juízo ou tribunal de exceção (art. 5.º, XXXVII, CF), ou
+seja, a nomeação de um juiz ou a constituição de um tribunal
+[/PAGINA 13]
+
+[PAGINA 14]
+, após a prática do delito,
+especialmente para julgar o seu autor. Logicamente, havendo um juízo de exceção, não
+se  pode  considerá-lo natural, vale dizer, previamente constituído e previsto em lei
+para julgar toda e qualquer infração, seja quem for o seu autor. Esse juízo de exceção
+tem enorme possibilidade de não ser imparcial, justamente porque foi criado para
+analisar um caso concreto já ocorrido. Assim, pelas regras constitucionais, todos têm
+direito a um julgador desapaixonado e justo, previamente existente. Quando houver
+alteração  na  organização  judiciária,  criando-se  uma  Vara  especializada  em
+determinada matéria, os feitos pertinentes a tal assunto, objeto de processos criminais
+distribuídos e em andamento em outras Varas, serão redistribuídos e encaminhados à
+novel Vara específica. Nenhum atentado existe ao princípio do juiz natural, uma vez
+que  este  busca,  em  meta  maior,  o  juiz  imparcial.  Ora,  a  mera  criação  de  Vara
+especializada não faz nascer nenhuma espécie de parcialidade, até pelo fato de ser
+
+medida genérica e válida para todos os casos relativos à mesma matéria. Em suma,
+não se está idealizando e construindo um juízo de exceção, voltado especialmente a
+um réu. Nesse sentido: STJ: “De acordo com entendimento deste Superior Tribunal de
+Justiça, admite-se a redistribuição da ação penal em razão da criação de novas Varas
+Criminais  ou  alteração  das  competências  das  preexistentes,  mediante  a  edição  de
+Resolução do respectivo Tribunal, sem que isso importe em violação do princípio do
+Juiz  natural”  (EDcl  no  REsp  1476752  –  RS,  6.ª  T.,  rel.  Maria  Thereza  de  Assis
+Moura,  04.08.2015,  v.u.).  Sobre  o  tema,  ainda:  STF:  “O  princípio  do  juiz  natural
+reveste-se,  em  sua  projeção  político-jurídica,  de  dupla  função  instrumental,  pois,
+enquanto  garantia  indisponível,  tem  por  titular  qualquer  pessoa  exposta,  em  juízo
+criminal,  à  ação  persecutória  do  Estado,  e,  enquanto  limitação  insuperável,  incide
+sobre  os  órgãos  do  poder  incumbidos  de  promover,  judicialmente,  a  repressão
+criminal. Vê-se, desse modo, que o postulado da naturalidade do juízo, ao qualificar-
+se como prerrogativa individual (ex parte subjecti), tem por destinatário específico o
+réu,  erigindo-se,  em  consequência,  como  direito  público  subjetivo  inteiramente
+oponível  ao  próprio  Estado.  Esse  mesmo  princípio,  contudo,  se  analisado  em
+perspectiva  diversa, ex parte principis, atua como fator de inquestionável restrição
+ao  poder  de  persecução  penal,  submetendo,  o  Estado,  a  múltiplas  limitações
+inibitórias de suas prerrogativas institucionais” (HC 79.865-9 – RS, 2.ª T., rel. Celso
+de  Mello,  14.03.2000,  v.u.  embora  antigo,  espelha  importante  visão  do  STF).
+Assegurando-se  o  juiz  natural,  em  último  grau,  estabelece-se  a  regra  do  juiz
+imparcial. Entretanto, por mais cautela que se tenha na elaboração de leis, é possível
+que um determinado caso chegue às m
+[/PAGINA 14]
+
+[PAGINA 15]
+ãos de magistrado parcial. Essa falta de isenção
+pode decorrer de fatores variados: corrupção, amizade íntima ou inimizade capital
+com  alguma  das  partes,  ligação  com  o  objeto  do  processo,  conhecimento  pessoal
+sobre o fato a ser julgado etc. Nota-se, portanto, que não basta ao processo penal o
+juiz natural. Demanda-se igualmente o juiz imparcial, motivo pelo qual o Código de
+Processo Penal coloca à disposição do interessado as exceções de suspeição e de
+impedimento, para buscar o afastamento do magistrado não isento. Esse princípio é
+constitucionalmente  assegurado,  embora  de  maneira  implícita.  Ingressa  no  sistema
+
+pela porta do art. 5.º, § 2.º, da Constituição (“Os direitos e garantias expressos nesta
+Constituição  não  excluem  outros  decorrentes  do  regime  e  dos  princípios  por  ela
+adotados, ou dos tratados internacionais em que a  República  Federativa do  Brasil
+seja parte”). Ora, não somente o princípio do juiz imparcial decorre do juiz natural –
+afinal, este sem aquele não tem finalidade útil –, como também é fruto do Pacto de
+San  José da  Costa  Rica (Convenção Americana sobre  Direitos  Humanos), firmado
+pelo Brasil e em vigor desde 1992. Verifica-se no art. 8.º, item 1, o seguinte: “Toda
+pessoa terá o direito de ser ouvida, com as devidas garantias e dentro de um prazo
+razoável, por um juiz ou tribunal competente, independente e imparcial, estabelecido
+anteriormente por lei, na apuração de qualquer acusação penal formulada contra ela,
+ou na determinação de seus direitos ou obrigações de caráter civil, trabalhista, fiscal
+ou de qualquer outra natureza” (destaque nosso).  Questão interessante sobre o juiz
+natural e imparcial surge com a edição da Lei 12.694/2012, que permite a instalação
+de  colegiados  de  juízes,  em  primeira  instância,  deliberando  acerca  de  importantes
+matérias no cenário de crimes cometidos por organizações criminosas. Em princípio,
+a referida lei não fere o princípio constitucional do juiz natural e imparcial, pois há
+expressa  previsão  em  lei  sobre  seu  funcionamento  e  quando  é  viável  a  sua
+convocação.  Maiores  considerações  na  nota  6-G  ao  art.  69.  Para  que  possa  o
+magistrado  atuar,  realmente,  com  imparcialidade,  advém  o princípio da iniciativa
+das partes, significando não dever o juiz agir de ofício para dar início à ação penal.
+Observe-se o disposto no art. 2.º do CPC: “o processo começa por iniciativa da parte
+e  se  desenvolve  por  impulso  oficial,  salvo  as  exceções  previstas  em  lei”.  Em
+processo penal, tais regras são absolutas: o juiz não atua de ofício para inaugurar a
+ação penal e a conduz sob impulso oficial, mesmo diante do desdém de qualquer das
+partes. Cabe ao titular da ação penal, que é o Ministério Público (art. 129, I, CF),
+como regra, essa providência. Não propondo a ação penal, no prazo legal, pode o
+particular ofendido tomar a iniciativa (art. 5.º, LIX, CF). E mais: deve o magistrado
+julgar o pedido nos estritos limites em que foi f
+[/PAGINA 15]
+
+[PAGINA 16]
+eito, não podendo ampliar a acusação,
+piorando  a  situação  do  réu,  sem  aditamento  à  denúncia,  promovido  por  quem  de
+direito. Registre-se exceção ao princípio, mencionando que a execução penal pode ter
+
+início por atuação de ofício do magistrado: “O procedimento judicial iniciar-se-á de
+ofício, a requerimento do Ministério Público, do interessado, de quem o represente,
+de seu cônjuge, parente ou descendente, mediante proposta do Conselho Penitenciário,
+ou,  ainda,  da  autoridade  administrativa”  (art.  195,  Lei  7.210/84).  Porém,  nenhuma
+lesão provoca na imparcialidade do juiz, por duas razões: a) as Varas de Execução
+Penal, como regra, são especializadas, onde atuam magistrados diferentes daqueles
+que  condenaram  os  réus;  b)  a  execução  penal  é  consequência  do  poder-dever  do
+Estado em punir o culpado. Logo, afirmada a culpa na sentença condenatória, com
+trânsito em julgado, deve-se executar a pena, razão pela qual o início do processo de
+execução  é  obrigatório;  3.2) princípio  da  publicidade,  que  encontra  previsão
+constitucional nos arts. 5.º, XXXIII, LX, e 93, IX, da Constituição Federal. Quer dizer
+que os atos processuais devem ser realizados publicamente, à vista de quem queira
+acompanhá-los, sem segredos e sem sigilo.  É justamente o que permite o controle
+social dos atos e decisões do Poder Judiciário. Ocorre que, em algumas situações
+excepcionais,  a  própria  Constituição  ressalva  a  possibilidade  de  se  restringir  a
+publicidade. Quando houver interesse público ou a intimidade o exigir, o juiz pode
+limitar o acesso à prática dos atos processuais, ou mesmo aos autos do processo,
+apenas às partes envolvidas. Conforme o caso, até mesmo o réu pode ser afastado da
+sala, permanecendo o seu advogado.  Note-se, no entanto, que jamais haverá sigilo
+total, fazendo com que o magistrado conduza o processo sem o acesso dos órgãos de
+acusação  e  defesa,  bem  como  jamais  realizará  um  ato  processual  válido  sem  a
+presença  do  promotor  e  do  defensor.  A  partir  da  Emenda  45/2004  (Reforma  do
+Judiciário), modificou-se a redação do art. 93, IX, mencionando-se ser a publicidade
+a  regra  e  o  sigilo  a  exceção,  neste  caso  quando  houver  interesse  relacionado  à
+intimidade  de  alguém,  sem  que  haja  prejuízo  ao interesse  público  à  informação.
+Aparentando contradição, a referida norma assegura a publicidade, garante o sigilo
+para  preservar  a  intimidade,  mas  faz  a  ressalva  de  que,  acima  de  tudo,  estaria  o
+direito à informação. Por outro lado, o art. 5.º, LX, enaltece a publicidade, mas fixa
+como exceções a preservação da intimidade e a exigência do interesse social. Para
+argumentar, afastando-se o aspecto da preservação da intimidade, pode o juiz decretar
+
+sigilo  por  conta  exclusiva  do  interesse  social?  Afinal,  isso  poderia  ocorrer  na
+apuração de crime de enorme repercussão ou envolvendo o crime organizado. Cremos
+que sim. O conflito entre o disposto no art. 5.º, LX, e
+[/PAGINA 16]
+
+[PAGINA 17]
+o art. 93, IX (com nova redação)
+é apenas aparente. Em primeiro lugar, continua em vigor a garantia fundamental da
+publicidade, com as exceções do art. 5.º, LX, que são a preservação da intimidade e o
+interesse  da  sociedade.  Em  segundo  lugar,  o  art.  93,  IX,  passa  a  referir-se
+expressamente  à  preservação  da  intimidade  (que  antes  não  havia),  ressalvado  o
+interesse público à informação, entendendo-se apenas que não deve o juiz exagerar na
+dose de interpretação do que vem a ser intimidade para não prejudicar o direito da
+sociedade de acompanhar o que se passa no processo; 3.3) princípio da vedação das
+provas ilícitas, que significa não poder a parte produzir provas não autorizadas pelo
+ordenamento  jurídico  ou  que  não  respeitem  as  formalidades  previstas  para  a  sua
+formação (art. 5.º, LVI, CF). Finalmente, vale destacar que não há princípio absoluto,
+prevalente  sobre  todos  os  outros,  devendo  haver  harmonização  e  equilíbrio  na
+aplicação de cada um deles. Este princípio será mais bem desenvolvido no Capítulo I,
+Título VII, Livro I (“Da Prova”, notas 4 a 18); 3.4) princípio da economia processual
+e  princípios  correlatos  e  consequenciais  da  duração  razoável  do  processo  e  da
+duração razoável da prisão cautelar: o primeiro significa que o Estado deve procurar
+desenvolver  todos  os  atos  processuais  no  menor  tempo  possível,  dando  resposta
+imediata à ação criminosa e poupando tempo e recursos das partes. A edição da EC
+45/2004  (Reforma  do  Judiciário)  tornou  o  princípio  explícito,  dentre  as  garantias
+individuais, passando a figurar no art. 5.º, LXXVIII: “A todos, no âmbito judicial e
+administrativo,  são  assegurados  a  razoável  duração  do  processo e  os  meios  que
+garantam a celeridade de sua tramitação”. Nessa esteira, inseriram-se, no art. 93 da
+Constituição  Federal,  os  seguintes  incisos:  “XII  –  a  atividade  jurisdicional  será
+ininterrupta, sendo vedado férias coletivas nos juízos e tribunais de segundo grau,
+funcionando,  nos  dias  em  que  não  houver  expediente  forense  normal,  juízes  em
+plantão  permanente”;  “XIII  –  o  número  de  juízes  na  unidade  jurisdicional  será
+proporcional  à  efetiva  demanda  judicial  e  à  respectiva  população”;  “XIV  –  os
+servidores receberão delegação para a prática de atos de administração e atos de
+
+mero  expediente  sem  caráter  decisório”;  “XV  –  a  distribuição  de  processos  será
+imediata, em todos os graus de jurisdição”. É nítida a preocupação do legislador com
+a celeridade da Justiça, tudo para fazer valer o direito individual, supramencionado,
+assegurando  a  “razoável  duração  do  processo”  e  com  “os  meios  que  garantam  a
+celeridade de sua tramitação”. Aliás, até mesmo na avaliação da duração da prisão
+cautelar os tribunais têm alterado o seu entendimento e exigido dos magistrados de
+primeiro grau maior preocupação com o trâmite rápido dos feitos, pois, se assim não
+ocorrer, torna-se preferível determina
+[/PAGINA 17]
+
+[PAGINA 18]
+r a libertação do acusado. Já dizia Borges da
+Rosa, há muito: “O primeiro requisito é a celeridade ou brevidade, que consiste em
+obter que a aplicação da sanção legal seja a mais próxima possível da violação da
+lei.  Tal  requisito  é  necessário  para  evitar  as  demandas  de  longa  duração  por
+contrárias à concórdia e ao sossego sociais, de vez que toda demanda é uma fonte de
+incômodos,  incertezas,  preocupações,  enervamentos,  surpresas,  animosidades,
+inimizades, desperdício de tempo e de esforços etc.” (Nulidades do processo, p. 37).
+Por outro lado, o princípio da economia processual é previsto, expressamente, na Lei
+9.099/95  (art.  62),  lembrando-se,  no  entanto,  que  ele  sempre  foi,  igualmente,  uma
+meta utilizada no processo penal comum.  Não pode implicar, no entanto, nenhuma
+hipótese, na restrição ao direito da parte de produzir prova e buscar a verdade real.
+Exemplos de utilização da economia processual: a) possibilita-se o uso da precatória
+itinerante (art. 355, § 1.º, CPP), isto é, quando o juízo deprecado constata que o réu se
+encontra em outra  Comarca, em vez de devolver a precatória ao juízo deprecante,
+envia ao juízo competente para cumpri-la, diretamente; b) quando houver nulidade,
+por incompetência do juízo, somente os atos decisórios serão refeitos, mantendo-se os
+instrutórios (art. 567, CPP); c) o cabimento da suspensão do processo, quando houver
+questão prejudicial, somente deve ser deferido em caso de difícil solução, a fim de
+não procrastinar inutilmente o término da instrução (art. 93, CPP). Em decorrência de
+avançadas  posições  doutrinárias  e  jurisprudenciais,  emerge  outro  princípio
+constitucional,  embora  implícito,  dentre  as  garantias  fundamentais:  o princípio da
+duração razoável da prisão cautelar. Observa-se, como fruto natural dos princípios
+constitucionais explícitos da presunção de inocência, da economia processual e da
+
+estrita  legalidade  da  prisão  cautelar,  ser  época  de  se  consagrar,  com status
+constitucional, a meta de que ninguém poderá ficar preso, provisoriamente, por prazo
+mais extenso do que for absolutamente imprescindível para o escorreito desfecho do
+processo. Essa tem sido a tendência dos tribunais pátrios, em especial do Supremo
+Tribunal Federal. De fato, não se torna crível que, buscando-se respeitar o estado de
+inocência,  conjugado  com  o  direito  ao  processo  célere,  associando-se  a  todas  as
+especificações para se realizar, legitimamente, uma prisão cautelar, possa o indiciado
+ou réu permanecer semanas, meses, quiçá anos, em regime de restrição de liberdade,
+sem culpa formada. O Código de Processo Penal, de 1941, já não apresenta solução
+concreta para o binômio, hoje realidade intrínseca do sistema judiciário brasileiro,
+prisão  cautelar  necessária  x  lentidão  do  trâmite  processual.  Não  é  possível,
+igualmente, quedar inerte a doutrina; muito menos, nada fazer a jurisprudência. Por
+isso,  extraindo-se  uma  interpretação  lógico-sistemática  de  pre
+[/PAGINA 18]
+
+[PAGINA 19]
+ceitos  existentes  na
+Constituição Federal, é medida transitável afirmar a indispensabilidade da duração
+razoável  não  somente  do  processo-crime,  mas,  sobretudo,  da  prisão  cautelar.  É
+realidade  não  se  poder  fixar  em  dias  o  número  exato  de  duração  de  uma  prisão
+preventiva, por exemplo. Porém, ingressa, nesse cenário, o critério da razoabilidade,
+devendo o magistrado avaliar, no caso concreto, o que ultrapassa a medida do bom
+senso. Somente para ilustrar, quem estiver sujeito a uma pena variável de 4 a 10 anos
+(roubo, art. 157, CP), não possuindo outras condenações, não poderia ficar detido,
+sem culpa formada, por mais de um ano. Fere a razoabilidade, uma vez que, ainda
+argumentando, se condenado, em primeiro grau, a seis anos de reclusão, já poderia
+conseguir, pela via da execução provisória da pena, outra realidade na jurisprudência
+brasileira,  a  progressão  para  o  regime  semiaberto.  Ora,  inviável,  então,  manter
+alguém  no  cárcere  por  mais  de  ano,  sem  que  se  consiga  concluir  a  instrução  do
+processo  em  primeira  instância.  A  prática  forense  nos  evidencia  a  ocorrência  de
+prisões preventivas  que  chegam  a  atingir  vários  anos,  o  que  não  nos  soa  sensato,
+ainda que se possa agir em nome da segurança pública. Cabe ao Judiciário adiantar o
+andamento do feito, sem permitir a ruptura de direitos fundamentais (como a ampla
+defesa),  mas  proporcionando  a  duração  razoável  da  prisão  cautelar.  O  atual  CPC
+
+cuida especificamente do assunto: “Art. 4.º As partes têm o direito de obter em prazo
+razoável  a  solução  integral  do  mérito,  incluída  a  atividade  satisfativa”;  3.5)
+princípios regentes do Tribunal do Júri: 3.5.1) sigilo das votações: está previsto no
+art.  5.º,  XXXVIII, b,  da  Constituição  Federal,  significando  que  os  jurados  devem
+proferir  o  veredicto  em  votação  situada  em  sala  especial,  assegurando-lhes
+tranquilidade  e  possibilidade  para  reflexão,  com  eventual  consulta  ao  processo  e
+perguntas  ao  magistrado,  contando  apenas  com  a  presença  das  partes  (embora,  no
+caso  do  réu,  representado  por  seu  defensor)  e  de  funcionários  da  Justiça,  sob  a
+presidência do Juiz de Direito (ver a nota 4 ao Capítulo II, Título I, Livro II – “Do
+procedimento relativo aos processos da competência do  Tribunal do  Júri”); 3.5.2)
+soberania dos veredictos: conforme disposto no art. 5.º, XXXVIII, c, da Constituição
+Federal, proferida a decisão final pelo Tribunal do Júri, não há possibilidade de ser
+alterada pelo tribunal togado, quanto ao mérito. No máximo, compatibilizando-se os
+princípios regentes do processo penal, admite-se o duplo grau de jurisdição. Ainda
+assim, havendo apelação, se provida, o tribunal determina novo julgamento, porém,
+quem  o  fará,  quanto  ao  mérito  da  imputação,  será,  novamente,  o  Tribunal  Popular
+(consultar  a  nota  5  ao  Capítulo  II,  Título  I,  Livro  II);  3.5.3) competência para o
+julgamento dos crimes do
+[/PAGINA 19]
+
+[PAGINA 20]
+losos contra a vida:  a  previsão  encontra-se  no  art.  5.º,
+XXXVIII, d,  da  Constituição  Federal,  assegurando  a  competência mínima  para  o
+Tribunal do Júri. Nada impede que o legislador ordinário promova a inserção, em
+normas processuais, de outros casos a serem julgados pelo Tribunal Popular. Aliás,
+lembremos que, atualmente, o Júri já julga outras infrações penais, desde que conexas
+com os delitos dolosos contra a vida (consultar a nota 6 do Capítulo II, Título I, Livro
+II);   3.6) princípio  da  legalidade  estrita  da  prisão  cautelar:  refletindo-se,
+detalhadamente, sobre o sistema processual, constitucionalmente estabelecido, deve-
+se  acrescentar  e  ressaltar  que,  no  Brasil,  a  prisão  de  qualquer  pessoa  necessita
+cumprir requisitos formais estritos. Por isso, estabelece-se o seguinte: a) “ninguém
+será  preso  senão  em  flagrante  delito  ou  por  ordem  escrita  e  fundamentada  de
+autoridade judiciária competente, salvo nos casos de transgressão militar ou crime
+propriamente militar, definidos em lei” (art. 5.º, LXI, CF); b) “a prisão de qualquer
+
+pessoa  e  o  local  onde  se  encontre  serão  comunicados  imediatamente  ao  juiz
+competente e à família do preso ou à pessoa por ele indicada” (art. 5.º, LXII, CF); c)
+“o preso será informado de seus  direitos,  entre  os  quais  o  de  permanecer  calado,
+sendo-lhe assegurada a assistência da família e de advogado” (art. 5.º, LXIII, CF); d)
+“o  preso  tem  direito  à  identificação  dos  responsáveis  por  sua  prisão  ou  por  seu
+interrogatório policial” (art. 5.º, LXIV, CF); e) “a prisão ilegal será imediatamente
+relaxada pela autoridade judiciária” (art. 5.º, LXV, CF); f) “ninguém será levado à
+prisão  ou  nela  mantido,  quando  a  lei  admitir  a  liberdade  provisória,  com  ou  sem
+fiança”  (art.  5.º,  LXVI,  CF);  g)  “o  civilmente  identificado  não  será  submetido  a
+identificação  criminal,  salvo  nas  hipóteses  previstas  em  lei”  (art.  5.º,  LVIII,  CF).
+Conecta-se ao princípio da legalidade ou da reserva legal, previsto em Direito Penal.
+II  –  Princípios  constitucionais  implícitos  do  processo  penal:  1.  Concernentes  à
+relação processual: 1.1) princípio do duplo grau de jurisdição: significa ter a parte o
+direito de buscar o reexame da causa por órgão jurisdicional superior. O princípio é
+consagrado  na  própria  Constituição  quando  se  tem  em  mira  a  estrutura  do  Poder
+Judiciário  em  instâncias,  bem  como  a  expressa  menção, v.g.,  feita  no  art.  102,  II,
+referente  ao  Supremo  Tribunal  Federal,  cabendo-lhe  julgar,  em recurso ordinário:
+“a)  o habeas corpus,  o  mandado  de  segurança,  o habeas data  e  o  mandado  de
+injunção decididos em única instância pelos Tribunais Superiores, se denegatória a
+decisão; b) o crime político”. Ora, se uma pessoa, condenada na Justiça Federal de
+primeiro  grau  por  delito  político,  tem  o  direito  constitucional  de  recorrer
+ordinariamente ao STF, por que outros réus não teriam o m
+[/PAGINA 20]
+
+[PAGINA 21]
+esmo direito? Assim, a
+garantia  do  duplo  grau  de  jurisdição  é,  sem  dúvida,  princípio  básico  no  processo
+penal. Por outro lado, há expressa disposição no Pacto de São José da Costa Rica
+(art. 8.º, item 2, h) a respeito do direito de recurso contra sentença a juiz ou tribunal
+superior. Os tratados internacionais, versando sobre direitos humanos, ingressam no
+ordenamento jurídico brasileiro com status de norma constitucional, como autoriza do
+art.  5.º,  §  2.º,  da  Constituição  Federal  (ver  a  nota  9  ao  art.  1.º).  Sobre  o  tema,
+posicionando-se igualmente pela aplicação do duplo grau de jurisdição no processo
+penal, inclusive porque é corolário natural da ampla defesa, consultar Carolina Alves
+
+de  Souza  Lima, O princípio constitucional do duplo grau de jurisdição, p. 91-95.
+Admitindo, também, a garantia do duplo grau de jurisdição está a lição de Jaques de
+Camargo  Penteado:  “A  Constituição  da  República,  no  capítulo  dos  direitos
+individuais, reconhece uma série de garantias da pessoa humana que, pela plenitude
+de  sua  abrangência  e  de  sua  imprescindibilidade  à  consecução  do  bem  comum,
+abarcaria o duplo grau de jurisdição, até mesmo como forma adequada à efetividade
+dos  direitos  do  homem.  Todavia,  mantendo  a  vocação  de  reconhecimento  integral
+desses valores, dispõe que a previsão não exclui aqueles decorrentes do seu regime e
+principiologia,  bem  como  dos  tratados  internacionais  firmados  (art.  5.º,  §  2.º)”
+(Duplo grau de jurisdição no processo penal, p. 123-124). Entretanto, o mencionado
+autor  faz  uma  crítica  ao  julgamento  realizado  pelas  turmas  recursais  dos  Juizados
+Especiais Criminais: “A Constituição da República, ao criar os juizados, permite o
+‘julgamento de recursos por turmas de juízes de primeiro grau’ (art. 98, I), o que não
+atende ao princípio do duplo grau de jurisdição, principalmente se enfocarmos o texto
+constitucional integrado pelos diplomas protetivos dos direitos humanos que preveem
+o  reexame  por  juízo  superior”  (ob.  cit.,  p.  135).  Nesse  ponto,  permitimo-nos
+discordar. Muito embora o duplo grau de jurisdição seja uma garantia constitucional,
+em nossa visão, não vemos afronta ao princípio em relação às turmas recursais dos
+Juizados  Especiais  Criminais.  O  acusado,  especialmente  o  condenado,  deve  ter
+direito a uma reavaliação do seu caso, como regra. A referência a “juiz ou tribunal
+superior”  depende  da  organização  judiciária  de  cada  país.  Imagine-se  que  o  réu
+pudesse  recorrer  de  sentença  condenatória,  mas  seu  apelo  fosse  avaliado  por  um
+único  desembargador  (e  não  por  um  colegiado).  Estaria  atendido  o  duplo  grau  de
+jurisdição, porém, segundo nos parece, de maneira menos adequada do que se faz em
+um órgão colegiado, quando opiniões diversas sobre a mesma matéria podem chocar-
+se,  provocando  o  saudável  conflito  de  ideias.  Na  estrutura  do  Juizado  Especial
+Criminal, a turma recursal é composta por, pelo
+[/PAGINA 21]
+
+[PAGINA 22]
+menos, três magistrados, o que lhe
+confere, na estrutura do Judiciário, um caráter de “corte superior”. Há quem sugira
+que os julgamentos criminais de autoridades, com foro privilegiado, em competência
+originária,  sem  possibilidade  de  recurso,  significaria  uma  lesão  ao duplo grau de
+
+jurisdição. Não concordamos com a assertiva, pois o foro por prerrogativa de função
+já é um enorme (e injusto) benefício a determinadas autoridades. Logo, ilustrando,
+quando um Senador é julgado diretamente pelo STF, por um crime qualquer, não tem
+para quem recorrer, uma vez que seu processo foi avaliado pelo  Pretório  Excelso
+(último  grau  de  jurisdição).  Os  princípios  constitucionais  não  são  absolutos,  mas
+relativos, devendo acomodar-se, uns com os outros, de maneira harmônica. Dito isso,
+o foro privilegiado constitui uma exceção, estabelecida pela própria CF, em geral,
+deslocando o julgamento para Tribunais superiores ao primeiro grau. Diante dessa
+vantagem,  não  se  pode  aplicar  o duplo  grau.  Na  jurisprudência:  STJ:  “A
+jurisprudência dos tribunais superiores não reconhece incidência do direito ao duplo
+grau  de  jurisdição  em  julgamentos  proferidos  em  ações  penais  de  competência
+originária  dos  Tribunais.  Tal  compreensão  não  ressoa incongruente, na medida em
+que, se a prerrogativa de função tem o condão de qualificar o julgamento daquelas
+pessoas que ocupam cargos públicos relevantes (julgadas que são por magistrados
+com  maior  conhecimento  técnico  e  experiência,  em  composição  colegiada  mais
+ampla), não haveria sentido exigir-se duplo grau de jurisdição, cuja essência, além da
+possibilidade  de  revisão  da  decisão  proferida  por  órgão  jurisdicional  distinto,  é
+exatamente  a  mesma  que  subjaz  ao  foro  especial,  qual  seja,  o  exame  do  caso  por
+magistrados de hierarquia funcional superior, em tese mais qualificados e experientes.
+Assim,  como  diz  um  velho  brocardo  jurídico,  ‘aquele  que  usufrui  do  bônus,  deve
+arcar com o ônus’. Precedentes” (EDcl no REsp 1484415 – DF, 6.ª T., rel. Rogerio
+Schietti Cruz, 03.03.2016, v.u.); 2. Concernentes à atuação do Estado: 2.1) princípio
+do promotor natural e imparcial: significa que o indivíduo deve ser acusado por
+órgão imparcial do  Estado, previamente designado por lei, vedada a indicação de
+acusador  para  atuar  em  casos  específicos.  Não  está  esse  princípio  expressamente
+previsto na Constituição, embora se possam encontrar suas raízes na conjugação de
+normas  constitucionais  e  infraconstitucionais. A  inamovibilidade  do  promotor  está
+prevista no art. 128, § 5.º, I, b, da Constituição, o que sustenta um acusador imparcial,
+visto  não  poder  ser  possível  alterar  o  órgão  acusatório,  conforme  interesses
+particulares. Ademais, a Lei Orgânica do Ministério Público (Lei 8.625/93) prevê a
+
+admissibilidade de designação de promotores de justiça para casos expressamente
+previstos e não para satisfazer qualquer vontade específica do Procurado
+[/PAGINA 22]
+
+[PAGINA 23]
+r-Geral de
+Justiça  (art.  10,  IX:  cabe  ao  chefe  da  instituição  designar  membros  do  Ministério
+Público  para:  “a)  exercer  as  atribuições  de  dirigente  dos  Centros  de  Apoio
+Operacional;  b)  ocupar  cargo  de  confiança  junto  aos  órgãos  da  Administração
+Superior; c) integrar organismos estatais afetos a sua área de atuação; d) oferecer
+denúncia  ou  propor  ação  civil  pública  nas  hipóteses  de  não  confirmação  de
+arquivamento  de  inquérito  policial  ou  civil,  bem  como  de  quaisquer  peças  de
+informação; e) acompanhar inquérito policial ou diligência investigatória, devendo
+recair a escolha sobre o membro do Ministério Público com atribuição para, em tese,
+oficiar no feito, segundo as regras ordinárias de distribuição de serviços; f) assegurar
+a continuidade dos serviços, em caso de vacância, afastamento temporário, ausência,
+impedimento ou suspeição de titular de cargo, ou com consentimento deste; g) por ato
+excepcional e fundamentado, exercer as funções processuais afetas a outro membro da
+instituição, submetendo sua decisão previamente ao Conselho Superior do Ministério
+Público;  h)  oficiar  perante  a  Justiça  Eleitoral  de  primeira  instância,  ou  junto  ao
+Procurador-Regional Eleitoral, quando por este solicitado”). Fora disso, respeita-se a
+lei e o cargo para o qual o promotor foi nomeado. No mesmo sentido: STJ: “A Lei
+Orgânica do Ministério Público dispõe, dentre as competências do Procurador-Geral
+de Justiça, a designação de seus integrantes para, por ato excepcional e fundamentado,
+exercer as funções processuais afetas a outro membro da instituição, submetendo sua
+decisão  previamente  ao  Conselho  Superior  (art.  10,  IX,  ‘g’).  Não  restando
+evidenciado que a designação se deu para fins de manipulações casuísticas ou por
+critérios políticos, ou até mesmo em desacordo com o regramento legal pertinente,
+não há invalidade a ser reconhecida” (RHC 57.573 – RS, 6.ª T., Rel. Nefi Cordeiro,
+18.08.2016, v.u.); “Não há ofensa ao princípio do Promotor Natural quando, em razão
+da declinação de competência do processo criminal para outra comarca, a denúncia
+for recebida sem que o novo representante do Ministério Público tenha expressamente
+ratificado a peça acusatória, pois incompetência territorial e de todo modo ciente sem
+impugnação o novo agente ministerial” (RHC 25314 – MG, 6.ª T., rel. Nefi Cordeiro,
+
+26.05.2015,  v.u.).  Atualmente,  o  STF  não  mais  consagra,  por  unanimidade,  o
+princípio do promotor natural, ora decidindo que sim, ora decidindo que não; 2.2)
+princípio da obrigatoriedade da ação penal pública e princípio consequencial da
+indisponibilidade da ação penal: significa não ter o órgão acusatório, tampouco o
+encarregado da investigação, a faculdade de investigar e buscar a punição do autor da
+infração penal, mas o dever de fazê-lo. Assim, ocorrida a infração penal, ensejadora
+de  ação  pública  incondicionada,  deve  a  autoridade  policial  investigá-la  e,  em
+seguida, havendo eleme
+[/PAGINA 23]
+
+[PAGINA 24]
+ntos, é obrigatório que o promotor apresente denúncia. Não
+há,  como  regra,  no  Brasil,  o princípio  da  oportunidade  no  processo  penal,  que
+condicionaria  o  ajuizamento  da  ação  penal  ao  critério  discricionário  do  órgão
+acusatório – exceção seja feita à ação privada e à pública condicionada. Ressalte-se
+que,  neste  último  caso,  se  trata  da  incidência  de  ambos  os  princípios,  ou  seja,
+oportunidade  para  o  oferecimento  da  representação,  obrigatoriedade  quando  o
+Ministério  Público  a  obtém  (ver  nota  31  ao  art.  5.º  e  nota  12  ao  art.  24).  Como
+decorrência  desse  princípio  temos  o  da indisponibilidade  da  ação  penal,
+significando  que,  uma  vez  ajuizada,  não  pode  dela  desistir  o  promotor  de  justiça.
+Logicamente, hoje, já existem exceções, abrandando o princípio da obrigatoriedade,
+tal como demonstra a suspensão condicional do processo, instituto criado pela Lei
+9.099/95,  bem  como  a  possibilidade  de  transação  penal,  autorizada  pela  própria
+Constituição (art. 98, I). Conectam-se ao princípio da legalidade ou da reserva legal,
+no  âmbito  penal.  Na  jurisprudência:  TJGO:  “O  princípio  da  indisponibilidade  da
+ação penal pública, permite ao Magistrado, em razão do interesse público, proferir
+sentença condenatória, ainda que o titular da ação tenha rogado pela absolvição nas
+alegações finais, conforme preconiza o art. 385 do CPP, sendo que tal dispositivo de
+lei jamais teve a sua inconstitucionalidade reconhecida pelos Tribunais Superiores”
+(Ap. Crim. 391656-38.2008.8.09.0137 – GO, 2.ª Câmara Criminal, rel. João Waldeck
+Felix de Sousa, 25.03.2014, v.u.); 2.3) princípio da oficialidade, que significa ser a
+persecução  penal  uma  função  primordial  e  obrigatória  do  Estado.  As  tarefas  de
+investigar,  processar  e  punir  o  agente  do  crime  cabem  aos  órgãos  constituídos  do
+Estado, através da polícia judiciária, do Ministério Público e do Poder Judiciário.
+
+Igualmente,  relaciona-se  à  legalidade,  no  âmbito  penal;  2.4) princípio  da
+intranscendência: significa não dever a ação penal transcender da pessoa a quem foi
+imputada  a  conduta  criminosa.  Para  assegurar  o  princípio,  existe,  à  disposição  da
+parte, o incidente de ilegitimidade de parte (art. 110, vide notas 58 a 61). Vincula-se
+aos princípios da responsabilidade pessoal e da culpabilidade em Direito Penal; 2.5)
+princípio da vedação do duplo processo pelo mesmo fato, demonstrando que não se
+pode processar alguém duas vezes com base no mesmo fato, impingindo-lhe dupla
+punição (ne bis in idem). E mesmo que ocorra absolvição, preceitua o art. 8.º, item 4,
+da  Convenção  Americana  sobre  Direitos  Humanos:  “O  acusado  absolvido  por
+sentença  transitada  em  julgado  não  poderá  ser  submetido  a  novo  processo  pelos
+mesmos fatos”. Conecta-se ao princípio da vedação à dupla punição pelo mesmo fato,
+oriundo  do  Direito  Penal.  III  –  Princípios  do  processo  penal:  1.  Concernentes  à
+relação
+[/PAGINA 24]
+
+[PAGINA 25]
+processual:  1.1) princípio  da  busca  da  verdade  real:  proporciona,  no
+processo  penal,  inúmeras  aplicações  frutíferas,  embora  gere,  também,  expectativas
+impossíveis de serem atendidas. A começar pelo conceito de verdade, que é sempre
+relativa, até findar com a impossibilidade real de se extrair, nos autos, o fiel retrato
+da  realidade  da  ocorrência  criminosa.  Ensina  Malatesta  que  a  verdade  é  a
+“conformidade da noção ideológica com a realidade” e que a certeza é a crença nessa
+conformidade,  gerando  um  estado  subjetivo  do  espírito  ligado  a  um  fato,  sendo
+possível  que  essa  crença  não  corresponda  à  verdade  objetiva.  Portanto,  pode-se
+afirmar que “certeza e verdade nem sempre coincidem; por vezes, duvida-se do que
+objetivamente  é  verdadeiro;  e  a  mesma  verdade  que  parece  certa  a  um,  a  outros
+parece  por  vezes  duvidosa,  quiçá  até  mesmo  falsa  a  outros  ainda”  (A lógica das
+provas em matéria criminal, vol. 1, p. 22). Diante disso, jamais, no processo, pode
+assegurar  o  juiz  ter  alcançado  a verdade  objetiva,  aquela  que  corresponde
+perfeitamente com o acontecido no plano real. Tem, isto sim, o magistrado uma crença
+segura  na  verdade  que  transparece  através  das  provas  colhidas  e,  por  tal  motivo,
+condena ou absolve.  Logo, tratando do mesmo tema, já tivemos a oportunidade de
+escrever o seguinte: “Material ou real é a verdade que mais se aproxima da realidade.
+Aparentemente,  trata-se  de  um  paradoxo  dizer  que  pode  haver  uma  verdade  mais
+
+próxima da realidade e outra menos. Entretanto, como vimos, o próprio conceito de
+verdade  é  relativo,  de  forma  que  é  impossível  falar  em  verdade  absoluta  ou
+ontológica,  mormente  no  processo,  julgado  e  conduzido  por  homens,  perfeitamente
+falíveis em suas análises e cujos instrumentos de busca do que realmente aconteceu
+podem ser insuficientes. Ainda assim, falar em verdade real implica em provocar no
+espírito  do  juiz  um  sentimento  de  busca,  de  inconformidade  com  o  que  lhe  é
+apresentado pelas partes, enfim, um impulso contrário à passividade. Afinal, estando
+em jogo direitos fundamentais do homem, tais como liberdade, vida, integridade física
+e  psicológica  e  até  mesmo  honra,  que  podem  ser  afetados  seriamente  por  uma
+condenação criminal, deve o juiz sair em busca da verdade material, aquela que mais
+se aproxima do que realmente aconteceu” (O valor da confissão como meio de prova
+no processo penal, p. 65). Podemos completar com a lição de Rogério Lauria Tucci
+acerca de verdade material: “Trata-se, com efeito, de atividade concernente ao poder
+instrutório  do  magistrado,  imprescindível  à  formação  de  sua  convicção,  de  que,
+inequivocamente,  se  faz  instrumento;  e  à  qual  se  agrega,  em  múltiplas  e  variadas
+circunstâncias, aquela resultante do poder acautelatório, por ele desempenhado para
+garantir o desfecho do processo criminal” (Do corpo de delito no direito processual
+pena
+[/PAGINA 25]
+
+[PAGINA 26]
+l brasileiro, p. 88). O princípio da verdade real significa, pois, que o magistrado
+deve  buscar  provas,  tanto  quanto  as  partes,  não  se  contentando  com  o  que  lhe  é
+apresentado, simplesmente. Note-se o disposto nos arts. 209, caput (“o juiz, quando
+julgar necessário, poderá ouvir outras testemunhas, além das indicadas pelas partes”
+– grifamos), 234 (“se o juiz tiver notícia da existência de documento relativo a ponto
+relevante  da  acusação  ou  da  defesa,  providenciará, independentemente  de
+requerimento de qualquer das partes, para sua juntada aos autos, se possível” – grifo
+nosso),  147  (“o  juiz  poderá, de  ofício,  proceder  à  verificação  da  falsidade”  –
+grifamos),  566  (“não  será  declarada  a  nulidade  de  ato  processual  que  não  houver
+influído  na  apuração  da verdade substancial  ou  na  decisão  da  causa”  –  destaque
+nosso)  do  Código  de  Processo  Penal,  ilustrativos  dessa  colheita  de  ofício  e  da
+expressa  referência  à  busca  da  verdade  real.  Contrariamente  à  verdade  formal,
+inspiradora  do  processo  civil,  onde  o  juiz  não  está  obrigado  a  buscar  provas,
+
+mormente em ações de conteúdo exclusivamente patrimonial, que constitui interesse
+disponível,  contentando-se  com  as  trazidas  pelas  partes  e  extraindo  sua  conclusão
+com o que se descortina nos autos, a verdade real vai além: quer que o magistrado
+seja  coautor  na  produção  de  provas.  Esse  princípio  muitas  vezes  inspira  o
+afastamento da aplicação literal de preceitos legais. Exemplo disso é o que ocorre
+quando a parte deseja ouvir mais testemunhas do que lhe permite a lei. Invocando a
+busca da verdade real, pode obter do magistrado a possibilidade de fazê-lo. Sabemos,
+no entanto, que a doutrina vem tornando relativo o princípio da busca da verdade
+formal no processo civil, mencionando vários dispositivos do Código de Processo
+Civil que imporiam ao magistrado o dever de buscar a prova da verdade tanto quanto
+as partes. Expõe Marco Antonio de Barros, cuidando do processo civil, que “todas
+essas  regras  processuais”  –  fazendo  menção  aos  arts.  130,  342,  355  e  440  do
+CPC/1973 – vide arts. 370, 385, 396 e 481 do CPC/2015 – “constituem providências
+que melhor se encaixam à estrutura do princípio da verdade material, sobretudo pela
+previsão de diligências investigativas que podem ser ordenadas pelo juiz ex officio,
+isto  é,  independentemente  da  iniciativa  ou  vontade  das  partes.  A  lei  confere  ao
+julgador a faculdade de aplicá-las em qualquer processo. Isto revela, mais uma vez, a
+tendência  publicista  do  direito  processual  moderno,  que  se  destina  a  produzir  a
+efetivação da justiça, em cujo contexto inclui-se a providencial intervenção do juiz
+durante a instrução do processo, realizada com o propósito de garantir a paz social”
+(A busca da verdade no processo penal, p. 33). A mostra realística de que o processo
+civil preza a verdade formal, em detrimento da verdade real, é o disposto no art.
+[/PAGINA 26]
+
+[PAGINA 27]
+344
+do CPC/2015: “se o réu não contestar a ação, será considerado revel e presumir-se-
+ão verdadeiras as alegações de fato formuladas pelo autor”. Ameniza-se a busca da
+verdade formal, por meio do art. 348 do CPC/2015: “se o réu não contestar a ação, o
+juiz, verificando a inocorrência do efeito da revelia previsto no art. 344, ordenará que
+o autor especifique as provas que pretenda produzir, se ainda não as tiver indicado”.
+Contrariando,  igualmente,  a  distinção  entre  verdade  material  e  verdade  formal,
+Gustavo  Badaró  afirma  que  não  são  verdades  absolutas,  logo  essas  expressões
+serviriam  apenas  para  distinguir  graus  distintos  de  aproximação  daquela  “verdade
+
+absoluta  e  intangível”.  Ainda  assim,  o  conceito  de  verdade  seria  uno  e  não
+comportaria  adjetivações  (Ônus  da  prova  no  processo  penal,  p.  31-36).  Porém,
+esclarecem Ada  Pellegrini  Grinover, Antonio  Carlos  de Araújo  Cintra  e  Cândido
+Rangel Dinamarco o seguinte: “No processo penal sempre predominou o sistema da
+livre  investigação  de  provas.  Mesmo  quando,  no  processo  civil,  se  confiava
+exclusivamente no interesse das partes para o descobrimento da verdade, tal critério
+não poderia ser seguido nos casos em que o interesse público limitasse ou excluísse a
+autonomia privada. Isso porque, enquanto no processo civil em princípio o juiz pode
+satisfazer-se com a verdade formal (ou seja, aquilo que resulta ser verdadeiro em face
+das provas carreadas aos autos), no processo penal o juiz deve atender à averiguação
+e  ao  descobrimento  da  verdade  real  (ou  verdade  material),  como  fundamento  da
+sentença”  (Teoria  geral  do  processo,  p.  71).  Ademais,  não  questionamos  que  a
+verdade é una e sempre relativa (ver nota 3 ao Título VII, do Livro I), consistindo
+busca inviável, no processo, encontrar a realidade dos fatos tal como ocorreram. A
+verdade  é  apenas  uma  noção  ideológica  da  realidade,  motivo  pelo  qual  o  que  é
+verdadeiro  para  uns,  não  o  é  para  outros.  O  que  a  distinção  almeja  atingir  é  a
+demonstração  de  finalidades  diversas  existentes  nos  âmbitos  civil  e  penal  do
+processo. Enquanto na esfera cível o magistrado é mais um espectador da produção
+da prova, no contexto criminal deve atuar como autêntico copartícipe na busca dos
+elementos  probatórios.  Nem  se  diga  que  o  juiz  introduz  no  feito meios  de  prova,
+enquanto  as  partes  buscam  as fontes de prova, porque tal distinção (entre meios e
+fontes), sim, em nosso entender, cuida-se de mero eufemismo. Nessa esteira, Benedito
+Roberto  Garcia  Pozzer  explica  que  “no  processo  penal,  diferentemente,  dada  a
+indisponibilidade dos direitos em confronto, deve-se buscar a verdade dos fatos o
+mais  próximo  da  realidade  acontecida.  O  julgador  não  pode  contentar-se  com  a
+verdade  apresentada  pelas  partes.  Ao  contrário,  busca,  incansavelmente,  os
+verdadeiros fatos, encontrando limites, somente, na moral e legalidade das p
+[/PAGINA 27]
+
+[PAGINA 28]
+rovas”
+(Correlação entre acusação e sentença no processo penal brasileiro, p. 40). Além
+disso, a realidade nos demonstra que o juiz, exercendo suas atividades em Vara Cível,
+tem  nitidamente  menor  preocupação  em  produzir  provas  de  ofício,  especialmente
+
+quando  cuida  de  interesses  patrimoniais,  aguardando  a  atitude  positiva  das  partes
+nesse sentido. Por outro lado, na esfera criminal, ainda que o réu admita o teor da
+acusação, o juiz determinará a produção de provas, havendo um cuidado maior para
+não  levar  ao  cárcere  um  inocente,  visto  que  estão  em  jogo,  sempre,  interesses
+indisponíveis.  Parece-nos,  pois,  presente  a  busca  da  verdade  real  muito  mais  no
+processo penal do que no civil. Na jurisprudência: STF: “A busca da verdade real
+não se subordina, aprioristicamente, a formas rígidas, por isso que a afirmação da
+reincidência independe de certidão na qual atestado cabalmente o trânsito em julgado
+de anterior condenação, sobretudo quando é possível provar, por outros meios, que o
+paciente  está  submetido  a  execução  penal  por  crime  praticado  anteriormente  à
+sentença condenatória que o teve por reincidente” (HC 116301 – MG, 1.ª T., rel. Luiz
+Fux, 03.12.2013, m.v.). STJ: “No caso concreto, a decisão que admitiu a ouvida das
+testemunhas  ao  final  da  instrução,  dispensadas  pelo  órgão  acusador  no  primeiro
+momento,  tão  somente  traduz  expressão  da busca  da  verdade  real,  cuja  inspiração
+norteia  o  funcionamento  do  processo  penal  pátrio,  não  representando,  por  si  só,
+qualquer prejuízo à parte” (HC 451.745 – RJ, 5.ª T., rel. Ribeiro Dantas, 23.10.2018,
+v.u.);  “1.  No  processo  penal  da  competência  do  Tribunal  do  Júri,  o  momento
+adequado para o acusado alegar tudo que interessa à defesa, com a indicação das
+provas que pretende produzir, a juntada de documentos e a apresentação do rol de
+testemunhas é a defesa prévia, nos termos do artigo 406, § 3.º do Código de Processo
+Penal. 2. Não há preclusão se a parte, no momento da apresentação da defesa prévia,
+formula  pedido  de  indicação  de  rol  de  testemunhas a  posteriori;  tampouco  há
+violação do contraditório se o magistrado defere o pedido em busca da verdade real
+e  diante  da  impossibilidade  do  contato  do  defensor  público  com  o  acusado.  3.
+Recurso improvido” (REsp 1443533 – RS, 6.ª T., rel. Maria Thereza de Assis Moura,
+23.06.2015, m.v., grifamos); 1.2) princípio da oralidade e princípios consequenciais
+da  concentração,  da  imediatidade  e  da  identidade  física  do  juiz:  significa  que  a
+palavra oral deve prevalecer, em algumas fases do processo, sobre a palavra escrita,
+buscando enaltecer os princípios da concentração, da imediatidade e da identidade
+física  do  juiz.  Explica  Demercian  que  a  adoção  desse  princípio,  como  regra  no
+
+processo  penal,  seria  a  “grande  solução  para  a  agilização  dos  procedimentos
+criminais e, até mesmo, a maneira mais viável para a apuração da verdade real
+[/PAGINA 28]
+
+[PAGINA 29]
+– na
+qual  há  fulcrar-se  todo  o  processo  penal  –  e  a  forma  de  se  prestar  com  maior
+equidade e justeza a tutela jurisdicional” (A oralidade no processo penal brasileiro,
+p.  50).  O  princípio  somente  estava  consolidado  no  julgamento  em  plenário  do
+Tribunal do Júri quando se dava o predomínio da palavra oral sobre a escrita, todos
+os atos eram realizados de forma concentrada e os jurados julgavam logo após terem
+acompanhado  a  colheita  da  prova.  A  partir  da  reforma  trazida  pelas  Leis
+11.689/2008,  11.690/2008  e  11.719/2008  buscou-se  estender  a  oralidade  e  seus
+princípios consequenciais para outros procedimentos, tanto comuns quanto especiais.
+Os princípios que decorrem da oralidade são: a) concentração (toda a colheita da
+prova e o julgamento devem se dar em uma única audiência ou no menor número
+delas). Passa-se a adotar tal medida em várias situações, durante a colheita da prova
+(exemplos: arts. 400, § 1.º, 411, 473, 531, CPP); b) imediatidade (o magistrado deve
+ter contato direto com a prova produzida, formando mais facilmente sua convicção).
+A partir da adoção do sistema da audiência única, naturalmente, o juiz que a conduzir
+terá a oportunidade de ter contato direto com a prova produzida; c) identidade física
+do juiz (o magistrado que preside a instrução, colhendo as provas, deve ser o que
+julgará o feito, vinculando-se à causa). René Ariel Dotti ressalta que “o princípio da
+identidade física, portanto, assenta numa das magnas exigências do processo penal,
+situando-se em plano superior às condições da ação e muitos outros pressupostos de
+validade da relação processual” (Bases e alternativas para o sistema de penas, p.
+418). Além do Tribunal do Júri, quando, em plenário, já era consagrada a identidade
+física  do  juiz,  passa-se  a  tê-lo  por  princípio  regente,  também,  nos  procedimentos
+comuns,  tal  como  previsto  pelo  art.  399,  §  2.º,  do  CPP;  1.3) princípio  da
+indivisibilidade da ação penal privada: quer dizer não poder o ofendido, ao valer-se
+da queixa-crime, eleger contra qual dos seus agressores – se houver mais de um –
+ingressará com ação penal. Esta é indivisível. Se o Estado lhe permitiu o exercício da
+ação  –  lembrando-se  sempre  que  o  direito  de punir  é  monopólio  estatal  e  não  é
+transmitido ao particular nesse caso –, torna-se natural a exigência de que não escolha
+
+quem será acusado, evitando-se barganhas indevidas e vinganças mesquinhas contra
+um ou outro. Por isso, o art. 48 preceitua que a queixa contra um dos autores do crime
+obrigará ao processo de todos, zelando o Ministério Público para que o princípio da
+indivisibilidade seja respeitado. Este princípio somente ocorre com destaque na ação
+penal privada, regida pelo critério da oportunidade. Não há o menor sentido em se
+sustentar a prevalência da indivisibilidade também na ação penal pública, pois esta é
+norteada  pela  obrigatoriedade. Assim,  quando  o  promotor  toma  conhecimento  de
+quais  são  os  autores
+[/PAGINA 29]
+
+[PAGINA 30]
+do  crime, deve  ingressar  com  ação  penal  contra  todos,  não
+porque a ação penal pública é indivisível, mas porque é obrigatória.  Nessa ótica,
+confira-se a lição de Afrânio Silva Jardim: “A indivisibilidade da ação penal pública
+é uma consequência lógica e necessária do princípio da obrigatoriedade, podendo-se
+dizer que este abrange aquele outro princípio” (Ação penal pública,  p.  136);  1.4)
+princípio da comunhão da prova: significa que a prova, ainda que produzida por
+iniciativa de uma das partes, pertence ao processo e pode ser utilizada por todos os
+participantes  da  relação  processual,  destinando-se  a  apurar  a  verdade  dos  fatos
+alegados e contribuindo para o correto deslinde da causa pelo juiz. Realmente, não há
+titular  de  uma  prova,  mas  mero  proponente.  As  testemunhas  de  acusação,  por
+exemplo,  não  são  arroladas  pelo  promotor  unicamente  para  prejudicar  o  réu;  do
+mesmo modo, as testemunhas de defesa não estão obrigadas a prestar declarações
+integralmente favoráveis ao acusado. Inserida no processo, a prova tem a finalidade
+de buscar a verdade real, não mais servindo ao interesse de uma ou de outra parte; 2.
+Concernentes à atuação do Estado: 2.1) princípio do impulso oficial: significa que,
+uma vez iniciada a ação penal, por iniciativa do Ministério Público ou do ofendido,
+deve  o  juiz  movimentá-la  até  o  final,  conforme  o  procedimento  previsto  em  lei,
+proferindo  decisão.  Liga-se  ao princípio da indeclinabilidade  da  ação  penal,  que
+prevê o exercício da função jurisdicional, até sentença final, sem que o magistrado
+possa furtar-se a decidir. Impede-se, com isso, a paralisação indevida e gratuita da
+ação penal, incompatível com o Estado Democrático de Direito, pois o processo fica
+em aberto, caso as partes não provoquem o seu andamento, havendo prejuízo para a
+sociedade, que deseja ver apurada a infração penal e seu autor, e também para o réu,
+
+contra quem existe processo criminal em andamento, configurando constrangimento
+natural. Registre-se o disposto no art. 251 do Código de Processo Penal: “Ao juiz
+incumbirá  prover  à regularidade  do  processo  e  manter  a  ordem  no  curso  dos
+respectivos atos, podendo, para tal fim, requisitar a força pública” (grifamos).  Na
+jurisprudência: TJRS: “Ajuizada a ação penal pública, deverá o julgador impulsioná-
+la até decisão final, independente do comparecimento do Promotor de Justiça aos atos
+processuais aprazados. Sendo dispensável sua presença, eventual falta não nulifica a
+instrução  ou  determina  a  invalidade  da  prova  produzida”  (Apelação  Crime
+70062202734  –  RS,  8.ª  Câmara  Criminal,  rel.  Naele  Ochoa  Piazzeta,  13.05.2015,
+v.u.);  2.2) princípio  da  persuasão  racional:  significa  que  o  juiz  forma  o  seu
+convencimento de maneira livre, embora deva apresentá-lo de modo fundamentado ao
+tomar  decisões  no  processo. A  exceção  encontra-se  no  Tribunal  do  Júri,  onde  os
+jurados decidem a causa livremente, sem apresentar
+[/PAGINA 30]
+
+[PAGINA 31]
+suas razões. TJRJ: “A Decisão
+do  Conselho de  Sentença é soberana e prescinde de fundamentação.  Não há como
+saber em qual prova ou quais provas os jurados se basearam para a formação de suas
+convicções”  (APL  00190015720008190004  –  RJ,  6.ª  C.,  rel.  Des. Antonio  Carlos
+Nascimento  Amado, DJ  06.08.2013);  2.3) princípio da colegialidade:  cuida-se  de
+decorrência lógica do princípio constitucional implícito do duplo grau de jurisdição,
+significando  que  a  parte  tem  o  direito  de,  recorrendo  a  uma  instância  superior  ao
+primeiro grau de jurisdição, obter um julgamento proferido por órgão colegiado. A
+ideia é promover a reavaliação por um grupo de magistrados, não mais se entregando
+a causa a um juiz único. Esta já foi a tarefa do magistrado de primeira instância, que,
+como regra, recebe a peça acusatória, instrui o feito, profere as decisões necessárias
+para  a  colheita  da  prova  e  determina  as  medidas  cautelares  de  urgência.  Após,
+prolatando sua sentença – condenatória ou absolutória – em função de sua persuasão
+racional, não teria sentido haver um recurso para que outro juiz, isoladamente, sem
+debater a causa, reavaliasse a decisão de seu colega. Não importaria, simplesmente,
+alegar que o recurso seguiria a um magistrado mais antigo e, em tese, mais experiente
+e  erudito,  pois  o  relevante  consiste  em  proporcionar  a  discussão  de  teses,  a
+contraposição de ideias, enfim, o nobre exercício do convencimento e da evolução da
+
+aplicação do Direito. Somente em um colegiado há debate. O juiz, em sua atividade
+individual,  reflete  e  chega  a  um  veredicto,  porém,  inexiste  a  troca  de  ideias  e
+experiências. O foco do processo é um só, pois há somente um magistrado avaliando.
+Por  mais  que  leia  e  se  informe,  captará  a  realidade  processual  por  um  ângulo
+exclusivo. A  meta  consistente  em  manter  as  principais  e  derradeiras  decisões  em
+órgãos  jurisdicionais  colegiados  é  salutar  e  positiva,  constituindo  um  princípio
+processual  dos  mais  proeminentes.  É  o  que  se  pode  verificar  em  julgamentos
+coletivos, quando um componente de determinada turma, câmara ou plenário altera
+seu voto ao ouvir a exposição de outro magistrado. Nada mais ilustrativo; nada mais
+criativo; nada mais do que a demonstração de respeito aos interesses colocados em
+litígio.  Em  especial,  no  contexto  criminal,  onde  direitos  fundamentais,  como  a
+liberdade, estão quase sempre em jogo. A legislação brasileira consagra esse sistema.
+A  Constituição  Federal,  ao  cuidar  dos  tribunais,  sempre  se  refere  a  colegiados.
+Ilustrando: “O Supremo Tribunal Federal compõe-se de onze Ministros...” (art. 101,
+caput);  “O  Superior  Tribunal  de  Justiça  compõe-se  de,  no  mínimo,  trinta  e  três
+Ministros”  (art.  104, caput). Ao mencionar a  Justiça dos  Estados, estabelece: “Os
+Estados  organizarão  sua  Justiça, observados  os  princípios  estabelecidos  nesta
+Constituição” (art. 125, caput – grifamos).
+[/PAGINA 31]
+
+[PAGINA 32]
+No art. 101 da Lei Complementar 35/79
+(Lei Orgânica da Magistratura Nacional) registra-se: “Os tribunais compor-se-ão de
+Câmaras  ou  Turmas,  especializadas  ou  agrupadas  em  Seções  especializadas.  A
+composição  e  competência  das  Câmaras  ou  Turmas  serão  fixadas  na  lei  e  no
+Regimento Interno. § 1.º Salvo nos casos de embargos infringentes ou de divergência,
+do julgamento das Câmaras ou Turmas participarão apenas três dos seus membros, se
+maior o número de composição de umas ou outras”. Em suma, julgamentos de mérito,
+mormente  na  área  criminal,  jamais  devem  ser  produzidos  por  um  só  magistrado,
+quando pertencente a tribunal de segundo grau ou superior, respeitado o princípio da
+colegialidade. Nesse prisma, confira-se decisão do STF: “Por vislumbrar ofensa ao
+princípio da colegialidade, a Turma deferiu, parcialmente, habeas corpus para cassar
+decisão  monocrática  proferida  por  Ministro  do  STJ  que  denegara  idêntica  medida
+impetrada em favor de condenado pela suposta prática dos crimes de estupro e de
+
+atentado violento ao pudor [a Lei 12.015/2009 unificou os dois crimes sob o título de
+estupro]  contra  suas  filhas,  bem  como  de  tortura  contra  seu  filho.  Considerou-se
+incabível o julgamento monocrático, porquanto o relator concluíra pela inexistência
+do  alegado  constrangimento  ilegal  a  partir  do  exame  do  mérito  da  causa,  quando
+analisara questões referentes à extinção da punibilidade pela decadência do direito de
+ação e à dosimetria da pena. Asseverou-se que o regimento interno daquela Corte (art.
+34,  XVIII)  apenas  autoriza  esse  julgamento  quando  o  recurso  for  manifestamente
+intempestivo, incabível, improcedente, quando contrário a súmula do  Tribunal, ou,
+ainda, quando for evidente a incompetência deste. Determinou-se, por fim, o retorno
+dos  autos  ao  STJ  para  que  o  julgamento  seja  submetido  ao  colegiado.  Precedente
+citado: HC 87.163 – MG (DJU 13.10.2006)” (HC 90.427 – GO, 2.ª T., rel. Joaquim
+Barbosa,  19.06.2007,  v.u., Informativo  472).  STJ:  “Não  viola  o  princípio  da
+colegialidade a apreciação unipessoal, pelo relator, do mérito do recurso especial
+quando  obedecidos  todos  os  requisitos  para  a  sua  admissibilidade,  bem  como
+observada a jurisprudência dominante desta Corte Superior e do Supremo Tribunal
+Federal” (AgRg no REsp 1339206 – MT, 6.ª T., rel. Ericson Maranho, 05.03.2015,
+v.u.); “Não há ofensa ao princípio da colegialidade quando a decisão monocrática é
+proferida em obediência ao artigo 557, § 1.º-A, do Código de Processo Civil e do art.
+61  do  Código  de  Processo  Penal  que  possibilita  ao  relator,  em  qualquer  fase  do
+processo, reconhecer, de ofício, a extinção da punibilidade do réu” (AgRg no AgRg
+no  REsp  1393682  –  MG,  6.ª  T.,  rel.  Maria  Thereza  de Assis  Moura,  28.04.2015,
+v.u.).
+1-A.  Consagração  da  supremacia  constitucional:  observa-se,  já  pelo
+art. 1.º do atual CPC, a sua atualidade, em confronto com o art. 1.º do CP
+[/PAGINA 32]
+
+[PAGINA 33]
+P, antiquado
+e demonstrativo da necessidade de renovação. O processo civil, corretamente, deve
+ser  aplicado  conforme  a  Constituição  Federal  –  e  jamais  a  lei  ordinária  pode  ter
+primazia sobre o Texto Magno. De outra parte, utilizaram-se os termos valores, mais
+amplos  que princípios  –  embora  este  último  pareça-nos  mais  adequado,  e normas
+fundamentais, apontando para os direitos e garantias humanas fundamentais (art. 5.º,
+CF), basicamente.
+
+2. Fontes do processo penal:  entendida fonte como o lugar de onde algo
+provém, são fontes do processo penal as que criam o direito (fontes materiais), cuja
+origem é a União (art. 22, I, CF) e, excepcionalmente, o Estado-membro (arts. 22,
+parágrafo único, 24, IV, X e XI, CF), bem como as que tornam conhecido o direito
+(fontes formais), constituídas das leis, dos tratados e das convenções internacionais
+(diretas),  bem  como  dos  costumes,  da  analogia  e  dos  princípios  gerais  de  direito
+(indiretas). Quanto às fontes materiais, convém ressaltar que, em algumas situações,
+não somente ao Legislativo cabe criar lei processual penal, mas a competência da
+União biparte-se entre o Executivo e o Legislativo. O Presidente da República tem a
+atribuição de celebrar tratados, convenções e atos internacionais, devendo haver o
+referendo do Congresso Nacional (art. 84, VIII, CF). A Convenção Americana dos
+Direitos  Humanos  criou  pelo  menos  três  regras  (verdadeiras  garantias  humanas
+fundamentais)  de  processo  penal:  o  direito  ao  julgamento  por  um  juiz  ou  tribunal
+imparcial, o direito ao duplo grau de jurisdição e a vedação ao duplo processo pelo
+mesmo fato. Por outro lado, deve-se destacar o disposto no art. 24 da Constituição:
+“Compete  à  União,  aos  Estados  e  ao  Distrito  Federal  legislar concorrentemente
+sobre: I – direito tributário, financeiro, penitenciário, econômico e urbanístico; (...)
+IV  –  custas  dos serviços forenses;  (...)  X  –  criação,  funcionamento e processo  do
+juizado de pequenas causas; XI – procedimentos em matéria processual” (grifamos).
+Percebe-se,  pois,  que,  por  via  reflexa,  os  Estados  e  o  Distrito  Federal  têm
+competência concorrente com a União, isto é, nas lacunas da legislação federal, cabe-
+lhes editar leis que envolvam, de certo modo, processo penal, apontadas as seguintes
+matérias: direito penitenciário (organização e funcionamento de presídios, o que não
+significa execução penal, matéria pertinente tanto a penal quanto a processo penal);
+custas  dos  serviços  forenses  (envolvendo  o  gasto  da  parte  para  estar  em  juízo);
+processo do juizado especial criminal; procedimentos em matéria processual. Neste
+último caso, encontramos aplicação importante no contexto da correição parcial. Este
+recurso,  criado  por  lei  federal  (Lei  1.533/1951  [hoje  substituída  pela  Lei
+12.016/2009]  e  Lei  5.010/1966),  padecia  da  falta  de  procedimento  para  o  seu
+processamento, o que foi conseguido pela edição do Código Judiciário
+[/PAGINA 33]
+
+[PAGINA 34]
+do Estado de
+
+São  Paulo  (Lei  de  Organização  Judiciária),  indicando  o  mesmo  rito  do  agravo  de
+instrumento para tanto (atualmente, prevalece, entretanto, o rito do recurso em sentido
+estrito). Outros Estados podem ter atuado da mesma forma. Vale ressaltar, ainda, que
+a  Constituição  Federal  autorizou  os  Estados  a  editar  lei  de  organização  judiciária
+própria  (art.  125:  “Os  Estados  organizarão  sua  Justiça,  observados  os  princípios
+estabelecidos nesta Constituição. § 1.º A competência dos tribunais será definida na
+Constituição  do  Estado,  sendo  a  lei  de  organização  judiciária  de  iniciativa  do
+Tribunal  de  Justiça”),  o  que  termina  por  influir  nas  normas  gerais  acerca  de
+competência. Exemplo: o Estado de São Paulo editou a Lei 3.947/83, atribuindo ao
+juízo  cível,  onde  foi  decretada  a  falência,  a  competência  para  julgar  crimes
+falimentares, o que já foi considerado constitucional pelo Supremo Tribunal Federal.
+Logo, embora o art. 512 do Código de Processo Penal (atualmente revogado pela Lei.
+11.101/2005),  juntamente  com  o  art.  109,  §  2.º,  do  Decreto-lei  7.661/45  (também
+revogado pela Lei 11.101/2005), preceituem que, recebida a denúncia ou queixa, o
+processo deve prosseguir em Vara Criminal pelo rito comum, não se observa essa
+regra na esfera da Justiça Paulista. A Lei de Organização Judiciária do Estado pode
+criar  Varas  Especializadas  em  determinada  matéria,  o  que  reflete,  sem  dúvida,  na
+competência do juízo, matéria típica de processo penal. Outro aspecto importante é
+destacar a força que os Regimentos Internos dos Tribunais possuem para cuidar de
+rito e processamento de recursos, por vezes com possibilidade de criar determinados
+tipos  de  recurso,  de  trâmite  interno,  como  ocorre  com  o  denominado agravo
+regimental. Exemplo de alteração do disposto em lei pelo Regimento Interno do STF:
+no procedimento de homologação de sentença estrangeira (atualmente, após a Emenda
+45/2004 à CF, de competência do STJ), o CPP (art. 789, § 2.º) fixa o prazo de dez
+dias  para  o  interessado,  citado,  residindo  no  Distrito  Federal,  se  manifestar.
+Entretanto, o Regimento Interno (art. 220, caput) concede o prazo de quinze dias para
+isso.  Nenhum  prejuízo  advém  ao  residente  no  DF  –  ao  contrário,  amplia-se  a
+oportunidade de defesa, porém ao não residente o prazo tornou-se mais curto. Outra
+ilustração  que  se  pode  inserir  acerca  da  importância  dos  Regimentos  Internos  em
+matéria  de  disciplina  do  procedimento  e  do  trâmite  dos  recursos  nas  Cortes
+
+encontramos  em  julgamento  do  Supremo  Tribunal  Federal:  “A  Turma  concluiu
+julgamento  de habeas corpus impetrado em favor de condenado por latrocínio (CP,
+art. 157, § 3.º) no qual se pretendia a declaração de nulidade do julgamento proferido
+pelo STJ em idêntica medida, sob a alegação de cerceamento de defesa consistente:
+a) no indeferimento do pedido de prévia intimação do dia em que seria julga
+[/PAGINA 34]
+
+[PAGINA 35]
+do o writ,
+para fins de sustentação oral; b) no prejuízo advindo da condenação do paciente em
+razão  de  deficiência  técnica  da  defesa,  apresentada  por  defensor  dativo  –  v.
+Informativo 427. Preliminarmente, não se conheceu do writ relativamente à suposta
+deficiência  na  defesa,  porquanto  esta  seria  reiteração  de  outro habeas  corpus
+examinado pelo STF (HC 83503 – GO, DJU 07.11.2003). No mérito, indeferiu-se a
+ordem  por  se  entender  que  à  parte  caberia  a  diligência  de  acompanhar,  junto  ao
+gabinete do relator, a colocação do processo em mesa, haja vista a ciência tanto do
+indeferimento da solicitação quanto do teor do dispositivo do Regimento Interno do
+STJ – o qual dispõe que o julgamento de habeas corpus independe de pauta (RISTJ,
+art. 91). Ademais, considerou-se violado o art. 571,  VIII, do  CPP, uma vez que a
+alegada nulidade somente fora arguida dois anos depois da publicação do acórdão,
+asseverando que esta matéria estaria preclusa, já que não aduzida naquele writ aqui
+impetrado. Por fim, ressaltou-se que, embora o STF tenha modificado o seu regimento
+interno (RISTF, art. 192, alterado pela Emenda Regimental 17/2006) para permitir
+que o impetrante, caso requeira, seja cientificado pelo gabinete da data do julgamento,
+não  existe  previsão  semelhante  no  RISTJ”  (HC  87520–  GO,  1.ª  T.,  rel.  Ricardo
+Lewandowski,  24.10.2006,  v.u., Informativo 446, grifos nossos). Em conclusão, as
+normas processuais penais – diversamente das normas penais, cujo âmbito de criação
+é  limitado  à  União  (Legislativo)  e,  excepcionalmente,  ao  Estado-membro,  se
+autorizado por lei complementar – têm mais opções no campo das fontes materiais.
+Quanto às fontes formais, o Direito Processual Penal expressa-se, como regra, por lei
+ordinária,  editada  pela  União.  Excepcionalmente,  podemos  encontrar  regras  de
+processo penal em leis complementares e, em tese, até em emendas à Constituição.
+Afinal,  essas  fontes  normativas,  embora  não  sejam  o  palco  ideal  para  cuidar  de
+processo,  estão  hierarquicamente  acima  da  lei  ordinária  e  provêm  do  Congresso
+
+Nacional.  Por  isso,  nada  impediria  que  criassem  alguma  norma  processual  penal.
+Lembremos  que  a  Constituição  Federal  contém  vários  dispositivos  tratando  de
+matéria  concernente  a  essa  área,  como  a  norma  do  art.  5.º,  LVIII,  cuidando  da
+identificação criminal (“o civilmente identificado não será submetido a identificação
+criminal,  salvo  nas  hipóteses  previstas  em  lei”)  ou  ainda  tratando  do  direito  ao
+silêncio (art. 5.º, LXIII), da liberdade provisória (art. 5.º, LXVI), dentre outros. Além
+das leis em geral, lembremos que os tratados e convenções, aprovados por decreto
+legislativo, servem de fonte de expressão do direito processual penal. Não estando a
+norma processual penal vinculada estreitamente ao princípio da legalidade penal (não
+há crime sem lei que o defina, nem pena sem lei que a comine), é viável admitir que
+outras  f
+[/PAGINA 35]
+
+[PAGINA 36]
+ontes  de  expressão  sejam  incluídas  nesse  contexto,  denominadas  de  fontes
+indiretas.  Os  costumes  (regras  habitualmente  praticadas,  que  se  incorporam  ao
+ordenamento jurídico, tornando-se obrigatórias, embora não previstas em lei) podem
+servir  de  base  para  expressar  normas  processuais  penais.  Lembremos  o  uso
+tradicional das vestes talares, tradicionalmente utilizadas por magistrados em sessões
+de julgamento e por todos os operadores do direito (juiz, promotor e advogado) no
+plenário do Júri. A quebra do costume pode inviabilizar um julgamento ou cercear o
+exercício de um direito (ex.: um advogado não seria admitido a fazer sustentação oral
+no  tribunal  vestindo-se  informalmente,  como  se  estivesse  em  atividade  esportiva).
+Outro exemplo pode ser encontrado no art. 793 do CPP, disciplinando o modo de agir
+das partes e dos presentes em audiências ou sessões do tribunal. Não há mais sentido
+em se obrigar que cada pessoa da sala de audiências somente se dirija ao juiz se
+estiver  em  pé,  nem  mesmo  se  levante  a  cada  momento  em  que  o  magistrado  se
+levantar.  Novos  tempos  e  outros  hábitos,  mais  abertos  e  flexíveis,  permeiam  o
+comportamento em audiência. Os princípios gerais de direito (postulados éticos que
+inspiram a formação de normas e a aplicação da legislação ao caso concreto, sem
+expressa previsão legal) também podem contribuir para o cenário do processo penal.
+Exemplo:  ninguém  pode  beneficiar-se  da  própria  torpeza  ou  má-fé.  Esse  princípio
+geral de direito pode dar margem ao juiz para resolver situações de conflito geradas
+pela  defesa  que,  interessada  na  prescrição,  arrola  pessoas  em  outros  Estados  da
+
+Federação,  sem  justificar  a  medida,  somente  para  prorrogar  indefinidamente  a
+instrução,  expedindo-se  sistematicamente  precatórias  para  ouvi-las,  sem  êxito
+imediato.  Se  o  magistrado  fixar  prazo  para  o  cumprimento  das  precatórias,  não
+admitindo prorrogação, fundado nesse, estará atuando em homenagem à ética que deve
+reger os atos processuais. A analogia é um processo de integração da norma, por um
+método  de  semelhança,  voltado  ao  suprimento  de  lacunas.  Assim,  inexistindo  lei
+específica  para  regular  determinada  situação,  podemos  usar  outra,  análoga,  para
+solucionar  o  impasse.  Não  deixa  de  ser  fonte  do  direito.  Registremos,  ainda,  que,
+após  a  Emenda  Constitucional  45/2004,  autorizou-se  o  STF  a  editar  súmulas
+vinculantes,  que  passam  a  ter  força  de  lei  –,  logo,  temos  novas  fontes  material  e
+formal.  O  Pretório  Excelso,  como  fonte  material;  a  súmula  vinculante,  como  fonte
+formal.  Confira-se  no  art.  103-A  da  Constituição  Federal:  “O  Supremo  Tribunal
+Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos
+seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula
+que, a partir de sua publicação na imprensa oficial, terá efeito vinculant
+[/PAGINA 36]
+
+[PAGINA 37]
+e em relação
+aos demais órgãos do Poder Judiciário e à administração pública direta e indireta,
+nas  esferas  federal,  estadual  e  municipal,  bem  como  proceder  à  sua  revisão  ou
+cancelamento,  na  forma  estabelecida  em  lei.  §  1.º  A  súmula  terá  por  objetivo  a
+validade, a interpretação e a eficácia de normas determinadas, acerca das quais haja
+controvérsia atual entre órgãos judiciários ou entre esses e a administração pública
+que acarrete grave insegurança jurídica e relevante multiplicação de processos sobre
+questão  idêntica.  §  2.º  Sem  prejuízo  do  que  vier  a  ser  estabelecido  em  lei,  a
+aprovação, revisão ou cancelamento de súmula poderá ser provocada por aqueles que
+podem propor a ação direta de inconstitucionalidade. § 3.º Do ato administrativo ou
+decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar,
+caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará
+o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra
+seja proferida com ou sem a aplicação da súmula, conforme o caso”. Editou-se a Lei
+11.417/2006, regulamentando o disposto no referido art. 103-A da CF.
+
+
+
+
+
+
+
+Art. 1.º O processo penal reger-se-á, em todo o território brasileiro,
+3
+ por este Código, ressalvados:
+I – os tratados,
+4
+ as convenções
+5
+ e regras
+6
+ de direito internacional;
+7-9
+II – as prerrogativas constitucionais do Presidente da República, dos ministros de Estado, nos crimes
+conexos com os do Presidente da República, e dos ministros do Supremo Tribunal Federal, nos crimes
+de responsabilidade (Constituição, arts. 86, 89, § 2.º, e 100);
+10
+III – os processos da competência da Justiça Militar;
+11
+IV – os processos da competência do tribunal especial (Constituição, art. 122, n. 17);
+12
+V – os processos por crimes de imprensa.
+13
+Parágrafo único. Aplicar-se-á, entretanto, este Código aos processos referidos nos ns. IV e V, quando
+as leis especiais que os regulam não dispuserem de modo diverso.
+14-15
+3.  Princípio  da  territorialidade:  significa  que  se  aplica  a  lei  processual
+penal brasileira a todo delito ocorrido em território nacional, da mesma forma que o
+mesmo princípio é utilizado em Direito Penal (art. 5.º, CP). É regra que assegura a
+soberania  nacional,  tendo  em  vista  que  não  teria  sentido  aplicar  normas
+procedimentais  estrangeiras  para  apurar  e  punir  um  delito  ocorrido  dentro  do
+território  brasileiro.  O  direito  alienígena  é  composto  pela  vontade  de  outro  povo,
+razão pela qual os magistrados, em nosso País, não cumprem e não devem, de fato,
+seguir legislação que não seja fruto do exclusivo desejo da nação brasileira. Convém
+ressaltar, no entanto, que o art. 5.º, § 4.º, da Constituição Federal (Emenda 45/2004)
+prevê que “o Brasil se submete à jurisdição de Tribunal Penal Internacional a cuja
+criação  tenha  manifestado  adesão”.  Significa,  pois,  que,  apesar  de  um  delito  ser
+
+cometido no território nacional, haven
+[/PAGINA 37]
+
+[PAGINA 38]
+do interesse do Tribunal Penal Internacional,
+podemos  entregar  o  agente  à  jurisdição  estrangeira  (exceto  quando  se  tratar  de
+brasileiro nato, pois o próprio art. 5.º, LI, o veda, constituindo norma específica em
+relação ao § 4.º). Conferir: STJ: “1. A competência internacional é regulada ou pelo
+direito internacional ou pelas regras internas de determinado país acerca da matéria,
+tendo  por  fontes  os  costumes,  os  tratados  normativos  e  outras  regras  de  direito
+internacional. 2. Em matéria penal adota-se, em regra, o princípio da territorialidade,
+desenvolvendo-se  na  justiça  pátria  o  processo  e  os  respectivos  incidentes,  não  se
+podendo olvidar, outrossim, de eventuais tratados ou outras normas internacionais a
+que o país tenha aderido, nos termos dos artigos 1.º do Código de Processo Penal e
+5.º, caput, do Código Penal. Doutrina” (HC 231633 – PR, 5.ª T., rel. Jorge Mussi,
+25.11.2014, v.u.).
+4.  Conceito  de  tratado:  expõe  a  convenção  sobre  direito  dos  tratados,
+finalizada  em  Viena,  em  1969,  como  ensina  Celso  D.  de Albuquerque  Mello,  que
+“tratado significa um acordo internacional concluído entre Estados em forma escrita e
+regulado pelo Direito Internacional, consubstanciado em um único instrumento ou em
+dois ou mais instrumentos conexos qualquer que seja a sua designação específica”
+(Curso de direito internacional público, vol. 1, p. 133). Para Francisco Rezek, trata-
+se de “todo acordo formal concluído entre sujeitos de direito internacional público, e
+destinado  a  produzir  efeitos  jurídicos”  (Direito  internacional  público,  p.  14).
+Debate-se, outrossim, se tratado e convenção são termos correlatos ou diferenciados,
+até porque os textos legais, no Brasil, utilizam ambos, como é o caso deste inciso do
+art.  1.º  do  Código  de  Processo  Penal.  Para  Rezek  são  termos  correlatos,
+indevidamente utilizados no mesmo contexto – como ocorre na lei processual penal –,
+dando a ideia de que cuidam de coisas diversas (ob. cit., p. 15). Para Albuquerque
+Mello,  no  entanto,  pode-se  fazer  a  seguinte  diferença  entre  ambos:  “Tratado  é
+utilizado  para  os  acordos  solenes,  por  exemplo,  tratados  de  paz;  convenção  é  o
+tratado que cria normas gerais, por exemplo, convenção sobre mar territorial” (ob.
+cit., p. 133). A tradição dos textos legislativos brasileiros tem, realmente, utilizado os
+dois termos, como se vê, também, no art. 5.º do Código Penal, razão pela qual nada
+
+impede que possamos nos valer do sentido exposto por Albuquerque Mello, embora
+cientes de que tratado é a essência do conceito.
+5. Conceito de convenção: ver nota anterior.
+6. Regras de direito internacional: regem, ainda, o direito internacional e,
+consequentemente,  podem  ser  consideradas  para  a  aplicação  excepcional  em
+território brasileiro, como prevê este inciso, as demais regras de direito internacional
+não  abrangidas  pelos  tratados,  como  os  costumes  –  vigentes  em  muitos  aspectos
+referentes ao do
+[/PAGINA 38]
+
+[PAGINA 39]
+mínio do mar, relativos à guerra e a outros conflitos –, os princípios
+gerais de direito internacional, aceitos pela grande maioria das nações, na aplicação
+do seu direito interno, além de se poder incluir, ainda, as decisões tomadas pelas
+organizações internacionais. A respeito, ver Francisco Rezek, Direito internacional
+público, p. 122-146.
+7. Exceção à regra da territorialidade: caso o Brasil firme um tratado, uma
+convenção  ou  participe  de  uma  organização  mundial  qualquer,  cujas  regras
+internacionais a norteiem, deve a lei processual penal pátria ser afastada para que
+outra, proveniente dessas fontes supragentes, em seu lugar, seja aplicada.  É o que
+ocorre  com  os  diplomatas,  que  possuem  imunidade  em  território  nacional,  quando
+estiverem a serviço de seu país de origem. Assinou o Brasil a Convenção de Viena,
+em 1961, referendada pelo Decreto 56.435/65, concedendo imunidade de jurisdição
+aos  diplomatas,  razão  pela  qual,  se  qualquer  deles  cometer  um  crime  em  solo
+nacional, aqui não será punido, o que representa a inaplicabilidade do disposto no
+Código de Processo Penal. O mesmo se dá com o cônsul, também imune da jurisdição
+brasileira, desde que cometa infração pertinente ao exercício das suas funções e no
+território do seu consulado. É o disposto na Convenção de Viena, assinada em 1963,
+ratificada pelo  Decreto 61.078/67.  Mencione-se, ainda, que, além de determinadas
+situações  estarem  previstas  expressamente  na  Constituição  Federal,  estão
+disciplinadas também por tratados e convenções internacionais, fazendo com que um
+delito  ocorrido  fora  do  território  nacional  possa  contar  com  a  aplicação  da  lei
+brasileira,  o  que  foge  à  regra  da  territorialidade.  É  o  que  se  dá  no  tocante  ao
+
+cumprimento de cartas rogatórias – embora dependentes do exequatur do Superior
+Tribunal de Justiça – provenientes de Justiça estrangeira, à homologação de sentença
+estrangeira, que pode implicar o cumprimento, no Brasil, de decisão de magistrado
+alienígena, e ao processo de extradição, que se instaura no Pretório Excelso, a pedido
+de Estado estrangeiro, para que o Brasil promova a entrega de pessoa acusada ou
+condenada por determinado delito, cometido no exterior, a fim de ser processada ou
+para que cumpra pena. São hipóteses em que as normas processuais penais brasileiras
+deixam de ser aplicadas para que tratados ou convenções – e mesmo o disposto na
+Constituição Federal e nos Regimentos Internos do Supremo Tribunal Federal e do
+Superior Tribunal de Justiça – sejam sobrepostos.
+8. Conflito entre tratado e direito interno: a doutrina especializada em
+direito internacional expõe a dicotomia existente entre as teorias dualista e monista
+acerca das relações entre o direito internacional e o direito interno dos países. Pela
+teoria  dualista,  menos  aplicada  atualmente,  há  duas  ordens  jurídicas  diversas:  a
+internacional e a interna. Por isso, para que um tratado possa ser admitido, como lei
+interna,  em
+[/PAGINA 39]
+
+[PAGINA 40]
+determinado  país,  é  preciso  que  ele  seja  “transformado”  em  direito
+interno.  Pela  teoria  monista,  não  há  duas  ordens  jurídicas,  mas  apenas  uma.  Os
+adeptos  desta  teoria,  hoje  majoritária,  divergem  quanto  à  primazia  do  direito
+internacional  sobre  o  direito  interno.  Sustentam  alguns  que  o  tratado  jamais  pode
+contrariar  a  lei  interna  do  país,  especialmente  a  Constituição,  em  homenagem  à
+soberania nacional. Outros, no entanto, concedem primazia absoluta à ordem jurídica
+internacional,  inclusive,  se  for  preciso,  sobrepondo-se  à  própria  Constituição.
+Explica  Albuquerque  Mello  (Curso  de  direito  internacional  público)  que  há
+inúmeras teorias “conciliadoras”, buscando ora a primazia do direito internacional,
+ora a sobreposição do direito interno. O Brasil, embora adote a teoria monista, deixou
+clara  a  sua  preferência  pelo  direito  interno  sobre  o  direito  internacional,
+especialmente pela posição do Supremo Tribunal Federal, adotada em caso pioneiro
+(leading case) de 1978, quando afirmou que lei federal posterior afasta a aplicação
+de tratado anterior. E, atualmente, é o que continua prevalecendo na jurisprudência
+dos  tribunais.  Em  nosso  País,  o  tratado  jamais  pode  atentar  contra  a  Constituição
+
+Federal, mas pode ser afastado por lei federal mais recente. Caso seja o tratado o
+mais  novo,  no  entanto,  afeta  a  aplicação  de  lei  federal.  Note-se,  inclusive,  que  a
+Constituição prevê competência ao Supremo Tribunal Federal para julgar, em recurso
+extraordinário, as causas decididas em única ou última instância, quando a decisão
+“declarar a inconstitucionalidade de tratado ou lei federal” (art. 102, III, b), o que
+demonstra a equiparação de um e outro, ambos submetidos ao texto constitucional.
+Apoia  essa  tese  Francisco  Rezek,  afirmando  não  haver,  em  direito  internacional
+positivo, norma alguma assegurando a primazia do tratado sobre o direito interno –
+logo, somente leis anteriores podem ser afastadas pelo tratado mais recente (Direito
+internacional público, p. 103-104). Acompanham esse posicionamento Luiz Alberto
+David Araújo, Clèmerson Merlin Clève, Manoel Gonçalves Ferreira Filho (citações
+feitas por Sylvia Steiner, A convenção americana sobre direitos humanos, p. 74) e
+Luís Roberto Barroso (Interpretação e aplicação da Constituição, p. 31-32). Não
+faltam críticas a essa postura. Albuquerque Mello, defensor da primazia do tratado
+sobre  a  ordem  jurídica  interna,  indaga:  “Qual  o  valor  de  um  tratado  se  um  dos
+contratantes por meio de lei interna pode deixar de aplicá-lo?” E sobre a decisão do
+STF, de 1978, sustenta que, “sendo o Estado sujeito de Direito Interno e de Direito
+Internacional,  é  uma  mesma  pessoa,  não  se  podendo  conceber  que  ele  esteja
+submetido a duas ordens jurídicas que se chocam. É o Direito na sua essência um só.
+A ordem internacional acarreta a responsabilidade do Estado quando ele viola um de
+seus preceitos e
+[/PAGINA 40]
+
+[PAGINA 41]
+o Estado aceita essa responsabilidade, como não poderia deixar de
+ser.  Da  constatação  deste  simples  fato  podemos  observar  que  o  Estado  sujeito  de
+direito  das  duas  ordens  jurídicas  dá  primazia  ao  Direito  Internacional”  (Curso de
+direito internacional público, vol. 1, p. 75). O magistério de Gerson de Britto Mello
+Bóson não é diferente: “A validade da ordem jurídica estatal, no tempo, cai sob as
+normas internacionais que dispõem sobre o aparecimento do Estado, e que asseguram
+a  continuidade  deste  quando  acontecimentos  revolucionários  alteram  a  sua  ordem
+constitucional, enquanto que, no espaço, o Direito interno é delimitado pelo Direito
+internacional, no sentido de que as suas normas só são aplicáveis no território do
+respectivo Estado, salvo as exceções previstas pelo Direito internacional” (Direito
+
+internacional público, p. 144-145).  Finaliza, assegurando que “o monismo, com a
+supremacia do Direito internacional é a única doutrina que seria viável e necessária
+às  condições  atuais  do  mundo  moderno”  (ob.  cit.,  p.  149).  Vale  citar,  ainda,  a
+importante lição de Sylvia Helena de Figueiredo Steiner: “Cumpre assinalar nossa
+adesão ao entendimento segundo o qual o direito brasileiro adota o sistema monista,
+ou seja, o tratado ingressa no ordenamento jurídico interno sem necessidade de lei no
+sentido  formal.  Em  verdade,  pelo  nosso  sistema,  é  de  competência  exclusiva  do
+Executivo a celebração de tratados (art. 84, VIII, CF). Ao Congresso é enviada cópia
+do texto, a qual, se aprovada, gera a publicação de um decreto legislativo, cuja função
+é  apenas  a  de  dar  ciência  da  aprovação  do  texto  apreciado,  das  reservas
+eventualmente  impostas,  das  cláusulas  facultativas  aceitas  etc.  Somente  após  a
+aprovação do texto é que o Executivo ratifica o tratado e, por via da promulgação,
+assinala o início de sua vigência e eficácia no País. Nem o decreto legislativo nem o
+decreto do  Executivo de promulgação podem ser considerados ‘lei’ no sentido de
+norma  de  direito  interno  editada  segundo  a  forma  e  procedimento  previstos  na
+Constituição”  (A  convenção  americana  sobre  direitos  humanos,  p.  69-70).  Em
+conclusão, conforme entendimento adotado pelo STF, o tratado somente é aplicado
+com primazia sobre leis federais, no Brasil, caso seja mais recente, jamais podendo
+entrar em conflito com a Constituição Federal.
+9.  Normas  internacionais  relativas  aos  direitos  humanos
+fundamentais: quando normas de proteção aos direitos humanos constam de tratado
+assinado  pelo  Brasil  devem  ingressar,  no  direito  interno,  com status  de  norma
+constitucional, em face do disposto no art. 5.º, § 2.º, da Constituição Federal. Nessa
+ótica, diz Sylvia Steiner que, “no direito brasileiro, também não vemos espaço para
+controvérsias. O § 2.º do art. 5.º da CF nos parece claro na determinação da inserção,
+no  rol  de  direitos  e  garantias  previstos  no  seu  próprio  corpo,  das  normas
+internaci
+[/PAGINA 41]
+
+[PAGINA 42]
+onais  de  proteção  aos  direitos  fundamentais.  A  incorporação  pelo  texto
+constitucional dessas normas internacionais é inequívoca” (A convenção americana
+sobre  direitos  humanos,  p.  86).  E  conclui:  “Exatamente  em  razão  do  fato  de  as
+normas de proteção e garantia de direitos fundamentais terem status constitucional,
+
+devem  a  doutrina  e,  principalmente,  a  jurisprudência  cuidar  de  resolver  eventuais
+conflitos ou antinomias que possam surgir entre normas decorrentes da incorporação
+dos tratados e dispositivos elencados no texto constitucional. Assim, relevando-se a
+fonte, deve a solução atender aos princípios da equidade, interpretando-se as normas
+em  conflito  de  forma  a  prevalecer  no  caso  concreto  a  que  for  mais  favorável  ao
+indivíduo,  a  que  decorra  de  princípios,  ou  a  que  amplie  os  direitos,  tudo  para  se
+preservar  o  próprio  sistema  de  proteção  aos  seres  humanos”  (ob.  cit.,  p.  91).
+Igualmente, ensina  Pedro  Dallari que “parece lógico, portanto, nos marcos de uma
+hermenêutica clássica, o entendimento de que, se a Constituição distinguiu os tratados
+de direitos humanos, o fez para assegurar-lhes uma condição mais relevante no quadro
+da hierarquia das normas jurídicas vigentes no Brasil do que aquela reconhecida para
+o  restante  das  normas  convencionais  internacionais,  sendo  plenamente  defensável,
+portanto,  a  tese  da  equiparação  constitucional  dos  primeiros”  (Constituição  e
+tratados internacionais,  p.  61). A  introdução  do  §  3.º  ao  art.  5.º  da  Constituição
+Federal (“Os tratados e convenções internacionais sobre direitos humanos que forem
+aprovados, em cada Casa do Congresso Nacional, em dois turnos, por três quintos dos
+votos  dos  respectivos  membros,  serão  equivalentes  às  emendas  constitucionais”)
+permite, a partir de agora, reforçar o entendimento supraexposto. Entretanto, embora
+defendamos que todo tratado ou convenção em vigor atualmente, cuidando de direitos
+humanos, deva ter status constitucional, é possível que o Supremo Tribunal Federal
+somente venha a reconhecê-los com tal amplitude se cumprido o disposto no referido
+§ 3.º do art. 5.º. Em suma, os tratados e convenções sobre direitos humanos em vigor
+no  Brasil  continuam  a  fomentar  o  debate  (têm  ou  não status  constitucional?),  mas
+certamente os próximos deverão ser submetidos à votação qualificada nas duas Casas
+do Congresso e terão, com certeza, força de norma constitucional.
+10. Jurisdição política: trata-se de outra exceção ao princípio segundo o qual
+aos  crimes  cometidos  no  território  nacional  devem  ser  aplicadas  as  normas
+processuais penais brasileiras. A jurisdição, como regra, é o poder de aplicar a lei ao
+caso  concreto  conferida  às  autoridades  judiciárias,  embora  exista,  na  própria
+Constituição Federal, exceção, consistente na jurisdição política. Assim, para julgar
+
+determinados crimes de responsabilidade, não se invoca o Poder Judiciário, mas sim
+órgãos
+[/PAGINA 42]
+
+[PAGINA 43]
+do Poder Legislativo. É o que ocorre quando se atribui ao Senado Federal a
+competência para julgar o Presidente e o Vice-Presidente da República, bem como os
+Ministros de Estado e os Comandantes da Marinha, do Exército e da Aeronáutica, nos
+delitos da mesma natureza conexos àqueles (art. 52, I, CF), os Ministros do Supremo
+Tribunal  Federal,  os  membros  do  Conselho  Nacional  de  Justiça  e  do  Conselho
+Nacional do  Ministério  Público, o  Procurador-Geral da  República e o Advogado-
+Geral da União, também nos crimes de responsabilidade (art. 52, II, CF, com redação
+alterada pela Emenda 45/2004). Outras exceções podem ser detectadas na legislação
+brasileira. Ver, para tanto, a nota 6 ao art. 69.
+11.  Justiça  especial:  a  Justiça  Militar  integra  o  rol  das  jurisdições
+consideradas  especiais,  que  cuidam  de  matéria  específica,  razão  pela  qual  possui
+regras próprias, tanto no tocante ao direito material, quanto no que se refere ao direito
+processual. O Código Penal Militar define os crimes militares (Decreto-lei 1.001/69)
+e o Código de Processo Penal Militar (Decreto-lei 1.002/69) os procedimentos de um
+modo geral para apurá-los, punindo seus autores. Note-se que nem sempre uma justiça
+especial vale-se inteiramente de regras processuais próprias. A Justiça Eleitoral, na
+esfera criminal, atuará segundo o disposto no Código Eleitoral (Lei 4.737/65, arts.
+355 a 364), embora com a seguinte ressalva a respeito da aplicação subsidiária do
+Código de Processo Penal: “Art. 364. No processo e julgamento dos crimes eleitorais
+e dos comuns que lhes forem conexos, assim como nos recursos e na execução, que
+lhes  digam  respeito,  aplicar-se-á,  como  lei  subsidiária  ou  supletiva,  o  Código  de
+Processo Penal”.
+12.  Tribunal  de  Segurança  Nacional:  não  mais  existe  em  nosso
+ordenamento jurídico. Era previsto no art. 122, n. 17, da Constituição de 1937: “Os
+crimes que atentarem contra a existência, a segurança e a integridade do Estado, a
+guarda e o emprego da economia popular serão submetidos a processo e julgamento
+perante tribunal especial, na forma que a lei instituir”. Atualmente, os crimes contra a
+segurança nacional, previstos na Lei 7.170/83, são, em regra, julgados pela Justiça
+
+Federal  Comum  (art.  109,  IV,  CF),  pois  considerados  delitos  políticos.
+Eventualmente, no entanto, o civil que cometa crime contra a segurança do Estado,
+voltado às instituições militares, poderá responder junto à Justiça Militar Federal. É o
+que  dispõe  o  art.  82,  §  1.º,  do  Código  de  Processo  Penal  Militar  (Decreto-lei
+1.002/69). A competência, portanto, não pode ser firmada unicamente com base no
+art. 109, IV, da Constituição Federal, que remete o julgamento dos crimes políticos
+para  a  Justiça  Federal,  pois  há  determinados  delitos  dessa  natureza  que  ofendem
+igualmente as instituições militares, deslocando-se para a justiça especial, prevalente
+sobre a comum, que é a Federal.
+13. Justiça comum: os crimes de imprensa dev
+[/PAGINA 43]
+
+[PAGINA 44]
+eriam ser julgados pela justiça
+comum, respeitado o procedimento estabelecido na Lei de Imprensa (Lei 5.250/67),
+embora  fosse  o  Código  de  Processo  Penal  aplicado  subsidiariamente,  conforme
+previsto no art. 48 da referida legislação: “Em tudo o que não é regulado por norma
+especial  desta  Lei,  o  Código  Penal  e  o  Código  de  Processo  Penal  se  aplicam  à
+responsabilidade penal, à ação penal e ao processo e julgamento dos crimes de que
+trata  esta  Lei”.  Vale  destacar  ter  o  STF  julgado  inconstitucional  a  Lei  5.250/67
+(ADPF 130-7).
+14.  Desnecessidade  da  previsão:  em  face  do  já  comentado  nas  notas
+acima,  o  disposto  neste  parágrafo  perde  a  utilidade.  O  Tribunal  de  Segurança
+Nacional já não existe, aplicando-se o Código de Processo Penal, quando o processo
+por crime político estiver sendo julgado na Justiça Federal, e o Código de Processo
+Penal Militar, quando o processo estiver na alçada da Justiça Militar Federal.
+15.  Legislação  especial:  quando  lei  especial  regular  um  procedimento
+diverso do previsto no Código de Processo Penal, pelo princípio da especialidade,
+aplica-se  aquela  e  somente  em  caráter  subsidiário  este  último.  Ilustrando:  Lei  de
+Drogas (Lei 11.343/2006), Lei de Abuso de Autoridade (Lei 13.869/2019) etc.
+Art. 2.º A lei processual penal aplicar-se-á desde logo,
+16
+ sem prejuízo da validade dos atos realizados
+sob a vigência da lei anterior.
+17
+
+16. Aplicação da lei processual penal: a regra é que seja ela aplicada tão
+logo entre em vigor, e usualmente, quando é editada, nem mesmo vacatio legis possui,
+justamente por ser norma que não implica a criminalização de condutas, inexigindo
+período de conhecimento da sociedade. Passa, assim, a valer imediatamente (tempus
+regit actum), colhendo processos em pleno desenvolvimento, embora não afete atos
+já realizados sob a vigência de lei anterior. Exemplificando: se uma lei processual
+recém-criada  fixa  novas  regras  para  a  citação  do  réu  ou  para  a  intimação  de  seu
+defensor,  o  chamamento  já  realizado  sob  a  égide  da  antiga  norma  é  válido  e  não
+precisa ser refeito. As intimações futuras imediatamente passam a ser regidas pela lei
+mais  recente.  Na  jurisprudência:  STF:  “Até  a  edição  da  Lei  11.719/2008,  a
+apresentação de defesa prévia era mera faculdade e, por consequência, a sua ausência
+não configurava nulidade. Portanto, o ato impugnado não apresenta ilegalidade, já que
+praticado à luz da legislação processual vigente à época, forte no princípio tempus
+regit actum (CPP, art. 2º)” (HC 142.994 AgR, 1.ª T., rel. Alexandre de Moraes, j.
+04.04.2018, maioria); “Nos termos do art. 2.º do  Código de  Processo  Penal, a lei
+adjetiva penal tem eficácia imediata, preservando-se os atos praticados anteriormente
+à  sua  vigência,  isso  porque  vigora,  no  processo  penal,  o  princípio  ‘tempus  regit
+actum’ segundo o qual são plenamente válidos os atos processuais praticados sob a
+vigência  de  lei  anterior,
+[/PAGINA 44]
+
+[PAGINA 45]
+uma  vez  que  as  normas  processuais  penais  não  possuem
+efeito” (AI 853.545 AgR, 2.ª T., rel. Ricardo Lewandowski, j. 26.02.2013, v.u.). STJ:
+“As normas de direito processual penal são regidas pelo princípio do tempus regit
+actum,  nos  termos  do  art.  2.º  do  Código  de  Processo  Penal.  Assim,  iniciado  o
+processo penal no Juízo comum, antes do advento de nova lei, não há falar em sua
+redistribuição nos termos da novel Lei n. 13.491/2017. 3. No caso, tendo a sentença
+condenatória  sido  proferida  em  18.08.2014  e  o  acórdão  do  recurso  de  apelação
+prolatado em 25.05.2016, ambos anteriores à entrada em vigor da Lei n. 13.491/2017,
+de  13.10.2017,  não  há  que  se  falar  em  deslocamento  de  competência.  4.  Recurso
+ordinário  em habeas corpus  parcialmente  conhecido  e,  na  extensão,  desprovido”
+(RHC 107.228 – RS, 5.ª T., rel. Jorge Mussi, j. 19.03.2019, v.u.). No mesmo prisma,
+dispõe o atual CPC: “Art. 14. A norma processual não retroagirá e será aplicável
+
+imediatamente aos processos em curso, respeitados os atos processuais praticados e
+as situações jurídicas consolidadas sob a vigência da norma revogada”.
+17. Normas processuais penais materiais:  são  aquelas  que,  apesar  de
+estarem no contexto do processo penal, regendo atos praticados pelas partes durante a
+investigação policial ou durante o trâmite processual, têm forte conteúdo de Direito
+Penal. E referido conteúdo é extraído da sua inter-relação com as normas de direito
+material, isto é, são normalmente institutos mistos, previstos no Código de Processo
+Penal, mas também no Código Penal, tal como ocorre com a perempção, o perdão, a
+renúncia,  a  decadência,  entre  outros.  Uma  vez  que  as  regras  sejam  modificadas,
+quanto  a  um  deles,  podem  existir  reflexos  incontestes  no  campo  do  Direito  Penal.
+Imagine-se que uma lei crie nova causa de perempção. Apesar de dizer respeito a
+situações futuras, é possível que, em determinado caso concreto, o querelado seja
+beneficiado pela norma processual penal recém-criada. Deve ela ser retroativa para o
+fim  de  extinguir  a  punibilidade  do  acusado,  pois  é  nítido  o  seu  efeito  no  direito
+material  (art.  107,  IV,  CP).  Além  dos  institutos  com  dupla  previsão  (penal  e
+processual penal), existem aqueles vinculados à prisão do réu, merecedores de ser
+considerados  normas  processuais  penais  materiais,  uma  vez  que  se  referem  à
+liberdade  do  indivíduo.  Note-se  que  a  finalidade  precípua  do  processo  penal  é
+garantir a correta aplicação da lei penal, permitindo que a culpa seja apurada com
+amplas garantias para o acusado, de forma que não tem cabimento falar em prisão
+cautelar  totalmente  dissociada  do  contexto  de  direito  material.  A  prisão  cautelar
+somente  tem  razão  de  existir,  a  despeito  do  princípio  da  presunção  de  inocência,
+porque há pessoas, acusadas da prática de um crime, cuja liberdade poderá colocar
+em risco a sociedade, visando-se, com isso, dar suste
+[/PAGINA 45]
+
+[PAGINA 46]
+ntação a uma futura condenação.
+É o que se verifica pelo próprio sistema que autoriza – ou não – a decretação de
+prisões cautelares, cujo sentido se dá na medida em que têm à frente a hipótese de
+aplicação de penas privativas de liberdade e em regime fechado. Não teria o menor
+sentido decretar a prisão preventiva de um acusado por contravenção penal ou por
+delito cuja pena cominada é de multa, por exemplo. Assim, lidando-se com o tema da
+prisão,  é  indispensável  que  se  considerem  tais  normas  processuais  de  conteúdo
+
+material. Havendo qualquer mudança legal, benéfica ao réu, podem elas retroagir para
+abranger situações ocorridas antes da sua existência, desde que isso contribua para
+garantir a liberdade do réu. O art. 2.º da Lei de Introdução ao Código de Processo
+Penal determina que sejam aplicados os dispositivos mais favoráveis ao réu, no que
+concerne à prisão preventiva e à fiança, quando houver a edição de lei nova que colha
+situação processual em desenvolvimento. Concordamos com a lição de Mirabete ao
+comentar  essa  norma:  “Tal  dispositivo,  segundo  entendemos,  continua  em  vigor,
+aplicando-se a todas as modificações introduzidas no Código de Processo Penal de
+1941,  relativamente  a  tais  matérias.  Embora  o  citado  Decreto-lei  visasse
+especialmente a transição da lei anterior para o Código de Processo Penal, não foi ele
+revogado,  sendo  aplicável  às  modificações  desse  estatuto.  Essa  sempre  foi  a
+orientação seguida pelo STF quanto à aplicação do art. 13 da LICPP” (Código de
+Processo  Penal  interpretado,  p.  32).  Contra  o  entendimento,  está  a  posição  de
+Tourinho Filho: “Se a lei nova instituir ou excluir fiança, instituir ou excluir prisão
+preventiva  etc.,  tal  norma  terá  incidência  imediata,  a  menos  que  o  legislador,
+expressamente, determine tenha a lei mais benigna ultra-atividade ou retroatividade”
+(Código  de  Processo  Penal  comentado,  vol.  1,  p.  22).  A  modificação  legal  nas
+normas  processuais  pode  afetar,  por  exemplo,  o  instituto  da  prisão  preventiva,
+estabelecendo  nova  hipótese  para  sua  decretação.  Imagine-se  que  um  réu  venha
+respondendo  ao  processo  em  liberdade,  porque  não  existia  razão  para  detê-lo
+cautelarmente; diante da nova hipótese – como ocorreu com a introdução, no art. 312
+do  CPP,  da garantia  da  ordem  econômica  –,  em  que  pese  ter  ele causado  (no
+passado,  portanto,  antes  da  nova  lei)  abalo  à  ordem  econômica,  não  deve  o  juiz
+decretar a sua prisão preventiva sem que surja fato novo. Se o fizer, a pretexto de a
+lei processual ter vigência imediata, estará, em verdade, tornando-a retroativa, para
+abranger situação ocorrida no passado. Entretanto, se, a partir da sua edição, o réu
+tornar  a  provocar  algum  abalo  à  ordem  econômica,  a  prisão  cautelar  passa  a  ter
+sentido, podendo ser decretada. O mesmo se diga do réu que já se encontra preso por
+prisão preventiva em virtude de garantia da ordem pública. Havendo al
+[/PAGINA 46]
+
+[PAGINA 47]
+teração da lei
+processual que extirpe tal causa, é preciso aplicar a norma retroativamente, a fim de
+
+colher o fato que gerou a prisão por motivo não mais existente, concedendo-se ao
+acusado  imediata  liberdade.  Registre-se  que  a  aplicação  imediata  da  norma
+processual penal, ainda que mais rigorosa, é a regra, desde que não envolva questão
+de direito material ou o status libertatis do indivíduo. E mais: quando se verifica a
+retroatividade da lei processual penal material benigna ou a sua ultratividade, devem-
+se levar em conta os atos processuais ou relativos ao desenvolvimento do processo e
+não  simplesmente  a  data  do  fato  criminoso.  Assim,  o  fato  gerador  da  prisão
+preventiva muitas vezes ocorre depois de o crime já ter ocorrido. É sobre esse fato
+gerador  que  devemos  analisar  a  retroatividade  ou  ultratividade  da  lei  processual
+benéfica. O mesmo se pode dizer do fato gerador da perempção, que não diz respeito
+à data do delito, pois é bem posterior a isso. A retroatividade de lei processual penal
+material, que beneficie o acusado, leva em conta a ocorrência da perempção, segundo
+as novas regras instituídas, com imediata vigência. Desse modo procedendo, fornece-
+se ao processo penal o seu nítido e indispensável caráter garantista das liberdades
+individuais.
+Art. 3.º A lei processual penal admitirá interpretação extensiva e aplicação analógica,
+18-18-A
+ bem
+como o suplemento dos princípios gerais de direito.
+19
+18.  Interpretação  extensiva,  interpretação  analógica  e  analogia:  o
+Código de Processo Penal admite, expressamente, que haja interpretação extensiva,
+pouco importando se para beneficiar ou prejudicar o réu, o mesmo valendo no tocante
+à analogia. Pode-se, pois, concluir que, admitido o mais – que é a analogia –, cabe
+também  a  aplicação  da  interpretação  analógica,  que  é  o  menos. Interpretação  é  o
+processo  lógico  para  estabelecer  o  sentido  e  a  vontade  da  lei.  A  interpretação
+extensiva  é  a  ampliação  do  conteúdo  da  lei,  efetivada  pelo  aplicador  do  direito,
+quando a norma disse menos do que deveria. Tem por fim dar-lhe sentido razoável,
+conforme os motivos para os quais foi criada. Ex.: quando se cuida das causas de
+suspeição do juiz (art. 254, CPP), deve-se incluir também o jurado, que não deixa de
+ser um magistrado, embora leigo. Onde se menciona no Código de Processo Penal a
+palavra réu, para o fim de obter liberdade provisória, é natural incluir-se indiciado.
+
+Amplia-se  o  conteúdo  do  termo  para  alcançar  o  autêntico  sentido  da  norma.  A
+interpretação  analógica  é  um  processo  de  interpretação,  usando  a  semelhança
+indicada pela própria lei. É o que se vê, por exemplo, no caso do art. 254 do Código
+de  Processo  Penal,  cuidando  das  razões  de  suspeição  do  juiz,  ao  usar  na  lei  a
+expressão “estiver respondendo a processo por fato análogo”. Analogia, por sua vez,
+é um processo de integração do direito, utilizado para suprir lacunas. Aplica-se uma
+norma
+[/PAGINA 47]
+
+[PAGINA 48]
+existente para uma determinada situação a um caso concreto semelhante, para o
+qual não há qualquer previsão legal. Ensina Carlos Maximiliano que a analogia, “no
+sentido primitivo, tradicional, oriundo da Matemática, é uma semelhança de relações.
+(...) Passar, por inferência, de um assunto a outro de espécie diversa é raciocinar por
+analogia. Esta se baseia na presunção de que duas coisas que têm entre si um certo
+número de pontos de semelhança possam consequentemente assemelhar-se quanto a
+um outro mais. Se entre a hipótese conhecida e a nova a semelhança se encontra em
+circunstância  que  se  deve  reconhecer  como essencial, isto é, como aquela da qual
+dependem todas as consequências merecedoras de apreço na questão discutida; ou,
+por outra, se a circunstância comum aos dois casos, com as consequências que da
+mesma decorrem, é a causa principal de todos os efeitos; o argumento adquire a força
+de uma indução rigorosa” (Hermenêutica e aplicação do direito, p. 253). Exemplos:
+a) art. 265 do CPC/2015 – prevê a possibilidade de se transmitir por telefone uma
+carta de ordem ou precatória, dependendo somente da confirmação do emissor. Não
+havendo  dispositivo  semelhante  no  Código  de  Processo  Penal,  tem-se  usado  tal
+preceito para a transmissão de ordens de habeas corpus, para a soltura do paciente,
+justamente  porque  mais  eficaz;  b)  não  há  um  número  especificado  no  Código  de
+Processo Penal para ouvir testemunhas no caso de exceção de suspeição apresentada
+contra o juiz, razão pela qual se deve usar o disposto no art. 357, § 6.º, do CPC/2015,
+ou seja, três para cada fato. No processo penal, a analogia pode ser usada contra ou a
+favor do réu, pois não se trata de norma penal incriminadora, protegida pelo princípio
+da reserva legal, que exige nítida definição do tipo em prévia lei. Conferir: STF: “1.
+O princípio da identidade física do juiz, previsto no art. 399, § 2.º, do Código de
+Processo Penal, não é absoluto, comportando as exceções previstas no art. 132 do
+
+Código de Processo Civil (hoje revogado), aplicável ao processo penal pela via do
+art. 3.º do CPP. (...)” (Ap 971 – RJ, 1.ª T., rel. Edson Fachin, 28.06.2016, m.v.). STJ:
+“1. Consoante entendimento antigo desta Corte, ‘da decisão monocrática que rejeita o
+aditamento à denúncia cabe recurso em sentido estrito, por interpretação extensiva do
+art.  581,  I,  do  Código  de  Processo  Penal’  (REsp  n.  184.477/DF,  relator  Ministro
+Gilson  Dipp,  Quinta  Turma,  julgado  em  19.02.2002, DJ  25.03.2002,  p.  302).
+Precedente” (AgRg nos EDcl no REsp 1706412 – SP, 6.ª T., rel. Antonio Saldanha
+Palheiro,  j.  11.06.2019,  v.u.).  TJRS:  “1.  O  Estatuto  Adjetivo  Penal,  em  caráter
+excepcional (art. 3.º do CPP), ante a lacuna da lei, admite a interpretação extensiva
+das possibilidades de manejo de recurso em sentido estrito contra decisão que, apesar
+de não estar expressamente arrolada no art. 581 do CPP, seja conceitualmente muito
+próxima ou produza uma sucumbência semelhante a u
+[/PAGINA 48]
+
+[PAGINA 49]
+ma hipótese legal de cabimento.
+2. Inexiste nulidade na revogação do benefício da suspensão condicional do processo
+quando o réu, intimado para justificar descumprimento, mantém-se inerte, não sendo
+necessária a intimação concomitante da defesa técnica. Precedentes” (Recurso Crime
+71006027320 –  RS,  Turma  Recursal  Criminal, rel.  Luis  Gustavo  Zanella  Piccinin,
+10.10.2016, v.u.). TJDFT: “1. O princípio da identidade física do juiz, disposto no
+art.  399,  §  2.º  do  CP,  embora  preveja  que  o  magistrado  que  concluir  a  instrução
+deverá  sentenciar  o  feito,  admite  exceções.  O  art.  3.º  do  CPP  faculta  a  aplicação
+subsidiária art. 132, caput, do antigo CPC, pelo qual: ‘O juiz, titular ou substituto, que
+concluir a audiência julgará a lide, salvo se estiver convocado, licenciado, afastado
+por qualquer motivo, promovido ou aposentado, casos em que passará os autos ao seu
+sucessor’. (...)” (APR 20100110460489 – DFT, 1ª Turma Criminal, rel. Ana Maria
+Amarante, 08.06.2017, v.u.).
+18-A.  Uso  indevido  da  analogia:  somente  se  utiliza  do  processo  de
+integração da lei processual penal, valendo-se da lei processual civil, se realmente
+houver lacuna em determinado caso. Porém, quando há norma específica no processo
+penal, é indevida a utilização da analogia. Exemplo disso é o caso de impedimentos e
+suspeições de testemunhas para depor. O CPP tem o seu rol específico e não se pode
+utilizar, por analogia, o disposto, no mesmo tema, no  CPC.  Entretanto, em sentido
+
+contrário: TJSP: “Falso testemunho. Conduta de fazer afirmação falsa em Juízo, na
+tentativa   de   inocentar   réu   em   processo   penal.   Pretendida   absolvição.
+Admissibilidade.  Falso  testemunho  prestado  pela  tia  de  réu  em  processo  criminal.
+Conflito  de  normas.  Figura  do  parente  consanguíneo  em  terceiro  grau  na  linha
+colateral não dispensada de prestar compromisso, a teor dos arts. 206 e 208, do CPP,
+o  que  conflita  com  o  disposto  no  art.  405,  §  2.º,  I,  do  CPC,  que,  considerando-a
+impedida  de  depor,  autoriza  sua  oitiva  na  condição  de  informante,  sem,  portanto,
+exigir-lhe compromisso com a verdade. Discrepância harmonizada pelo emprego da
+analogia,  com  o  permissivo  do  art.  3.º,  do  CPP.  Aplicação  ao  caso  concreto  do
+dispositivo  contido  na  lei  processual  civil,  de  espectro  mais  amplo.  Ré  que,  não
+possuindo a qualidade legal de testemunha, não pode praticar o crime previsto no art.
+342,  §  1.º,  do  CPP.  Conduta  atípica. Absolvição  decretada. Apelo  provido”  (Ap.
+0002129-94.2012.8.26.0280  –  SP,  16.ª  C.  D.  C.,  rel.  Otávio  de Almeida  Toledo,
+14.04.2015, v.u.).
+19. Comparação com o Código de Processo Penal Militar: o Decreto-
+lei 1.002/69 prevê, no art. 2.º: “A lei de processo penal militar deve ser interpretada
+no sentido literal de suas expressões. Os termos técnicos hão de ser entendidos em
+sua acepção especial, salvo se evidentemente empregados com outra significação. §
+1.º Admitir-s
+[/PAGINA 49]
+
+[PAGINA 50]
+e-á a interpretação extensiva ou a interpretação restritiva, quando for
+manifesto, no primeiro caso, que a expressão da lei é mais estrita e, no segundo, que é
+mais ampla, do que sua intenção. § 2.º  Não é, porém, admissível qualquer dessas
+interpretações,  quando: a)  cercear  a  defesa  pessoal  do  acusado; b)  prejudicar  ou
+alterar  o  curso  normal  do  processo,  ou  lhe  desvirtuar  a  natureza; c)  desfigurar  de
+plano os fundamentos da acusação que deram origem ao processo”; no art. 3.º: “Os
+casos  omissos  neste  Código  serão  supridos: a)  pela  legislação  de  processo  penal
+comum,  quando  aplicável  ao  caso  concreto  e  sem  prejuízo  da  índole  do  processo
+penal  militar; b)  pela  jurisprudência; c)  pelos  usos  e  costumes  militares; d)  pelos
+princípios gerais de Direito; e) pela analogia”.
+Juiz das Garantias
+20-20-A
+
+Art. 3.º-A. O processo penal terá estrutura acusatória,
+21
+ vedadas a iniciativa do juiz na fase de
+investigação e a substituição da atuação probatória do órgão de acusação.
+22
+20.  Juiz  das  Garantias:  criou-se,  pela  Lei  13.964/2019,  a  figura  do  juiz
+encarregado de fiscalizar as investigações criminais, além de se tornar responsável
+por tomar decisões de ordem jurisdicional, em nível cautelar. Não se trata de um juiz
+instrutor, como há em algumas legislações estrangeiras; adotou-se, no Brasil, o juiz
+fiscalizador, sem qualquer poder instrutório.
+20-A.  Liminar  do  STF:  o  relator  da  Medida  Cautelar  na  Ação  Direta  de
+Inconstitucionalidade 6.299-DF, Ministro Luiz Fux, houve por bem, em 22 de janeiro
+de  2020,  suspender  a  vigência  dos  arts.  3.º-A  a  3.º-F,  todos  relacionados  à  nova
+figura do juiz das garantias. Assim sendo, embora a Lei 13.964/2019 tenha entrado em
+vigor  em  23  de  janeiro  de  2020,  os  referidos  artigos  estão  suspensos,  por  prazo
+indeterminado, até que o Plenário do Pretório Excelso avalie o mérito da causa. Isso
+não significa a revogação desses artigos ou a declaração de mérito, no sentido da sua
+inconstitucionalidade.  O  relator  valeu-se,  basicamente,  de  dois  argumentos:  a)  as
+normas do juiz das garantias, na essência, constituem regras de organização judiciária,
+cabendo ao próprio Judiciário manejá-las, citando o art. 96 da Constituição Federal;
+b) a efetiva criação do juiz das garantias exigiria gasto por parte do Judiciário, sendo
+constatada a ausência de dotação orçamentária prévia para tanto, invocando o art. 169
+da  Constituição  Federal. Venia  concessa,  discordamos  desse  entendimento.  Em
+primeiro lugar, o juiz das garantias é parte da estrutura acusatória do processo penal
+brasileiro, como ficou bem nítido no art. 3.º-A do CPP. Sem a sua criação e eficiente
+atuação, havendo, sim, separação entre o juiz fiscalizador da investigação criminal e
+o juiz do mérito da causa, torna-se inviável a estrutura acusatória. Portanto, todas as
+normas regentes dessa figura são de natureza intrinsecamente processual, implicando
+consequências  proces
+[/PAGINA 50]
+

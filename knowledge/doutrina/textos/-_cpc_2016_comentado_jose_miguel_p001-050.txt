@@ -1,0 +1,1911 @@
+[META]
+TITULO: CPC 2016 Comentado José Miguel Garcia Medina
+AUTOR: 3ª ed.  2016 -
+ANO: N/A
+EDICAO: 3
+EDITORA: RT
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: CPC 2016 Comentado  José Miguel Garcia Medina - Editora RT -  3ª ed.  2016 -.pdf
+CITACAO_ABNT: -, 3ª ed.  2016. CPC 2016 Comentado José Miguel Garcia Medina. 3. ed..
+[/META]
+
+[PAGINA 1]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Primeiras	páginas
+
+
+
+
+
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+
+Sobre	o	autor
+
+SOBRE	O	AUTOR
+JOSÉ	MIGUEL	GARCIA	MEDINA	Membro	da	Comissão	de	Juristas	nomeada	pelo	Senado	Federal
+para	a	elaboração	do	Anteprojeto	de	Novo	Código	de	Processo	Civil.	Visiting	Scholar	na	Columbia
+Law	School.	Estancia	docente	y	investigadora	na	Faculdad	de	Derecho	da	Universidad	de	Sevilla.
+Doutor	e	Mestre	em	Direito	Processual	Civil	pela	PUC-SP.	Professor	Titular	na	Universidade
+Paranaense.	Professor	Associado	na	Universidade	Estadual	de	Maringá.	Foi	Presidente	da	Comissão
+Nacional	de	Acesso	à	Justiça	da	Ordem	dos	Advogados	do	Brasil.	Membro	do	Comitê	Científico
+Consultivo	do	Instituto	Autismo	e	Vida.	Secretário-Geral	Adjunto	do	Instituto	Brasileiro	de	Direito
+Processual	–	IBDP.	Membro	do	Instituto	Brasileiro	de	Ciências	Jurídicas	–	IBCJ,	da	Academia
+Brasileira	de	Direito	Processual	Civil	–	ABDPC,	do	Instituto	Panamericano	de	Derecho	Procesal	–	IPDP
+e	do	Instituto	IberoAmericano	de	Direito	Processual.	Membro	do	conselho	de	redação	da	Revista	de
+Processo	–	RePro	e	do	conselho	editorial	da	Revista	Brasileira	de	Direito	Processual	–	RBDPro.
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+
+Agradecimentos
+
+AGRADECIMENTOS
+Ninguém	escreve	um	livro	sozinho.	Mesmo	que	isso	não	fique	consignado	expressamente,	ao	longo	do
+texto	acabam	ficando	registradas	as	experiências	que	o	autor	teve,	ao	longo	de	sua	vida	e,	de	algum
+modo,	a	marca	das	pessoas	com	quem	conviveu.
+Tenho	que	agradecer,	de	modo	especial,	a	participação	mais	que	fundamental,	verdadeira	sustentação,	de
+minha	mulher,	Janaina,	e	de	meus	filhos,	José	Gabriel	e	João	Pedro.	A	eles,	toda	minha	gratidão,	meu
+carinho	e	meu	amor.
+Agradeço,	também,	a	todos	os	meus	colegas	de	escritório	que	me	apoiaram,	concretamente,	na	realização
+de	mais	este	trabalho.	Minha	gratidão	aos	professores	e	sócios	de	escritório	Rafael	de	Oliveira
+Guimarães,	Vinicius	Secafen	Mingatti,	Renata	Paccola	Mesquita	e	Henrique	Cavalheiro	Ricci.	Em	nome
+deles	agradeço	a	todos	os	meus	colegas	de	escritório.
+Também	agradeço	aos	professores	Fábio	Caldas	de	Araújo	e	Alexandre	Freire,	com	quem	tenho	o
+privilégio	de	conversar,	quase	que	cotidianamente,	sobre	os	assuntos	versados	no	presente	trabalho.
+À	Janaina	de	Castro	Marchi	Medina,	minha	mulher,	que,	além	de	compartilhar	tudo	comigo	em	meu	dia	a
+dia,	revisou	as	partes	mais	relevantes	deste	trabalho,	e	fez	importantes	apontamentos.
+Registro,	aqui,	meu	agradecimento	especial	à	equipe	de	pesquisa	que	me	acompanhou	ao	longo	de	todos
+esses	anos,	de	que	participaram	Carlos	Eduardo	Pitelli	Zanutto,	Italo	Santos	Alves,	Juliana	Kaway	Van
+Linschoten,	Luiza	Haruko	Ishie	Macedo,	Marcos	Thadeu	Piffer	Filho,	Mariana	Barsaglia	Pimentel,	Pedro
+Ramos,	Rafael	Verí
+[/PAGINA 1]
+
+[PAGINA 2]
+ssimo	Siquerolo,	Samuel	Hubler,	Victória	Maria	Américo	de	Oliveira	e	Vitória	de
+Oliveira.
+Minha	gratidão,	também,	por	ter	recebido,	mais	uma	vez,	o	apoio	profissional	da	equipe	da	Editora
+Revista	dos	Tribunais
+–	Thomson	Reuters,	sob	direção	de	Marisa	Harms	e	colaboração	da	editora	Cristiane	Faria	e	seu	grupo
+de	trabalho,	e	a	equipe	de	revisores,	coordenada	por	Juliana	De	Cicco	Bianco,	de	que	participam:
+Damares	Regina	Felício,	Danielle	Rondon	Castro	de	Morais,	Flávia	Campos	Marcelino	Martines,
+Gabriele	Lais	Sant’Anna	dos	Santos,	George	Silva	Melo,	Luara	Coentro	dos	Santos,	Luciano	Mazzolenis
+J.	Cavalheiro,	Maurício	Zednik	Cassim,	Rodrigo	Domiciano	de	Oliveira,	Sue	Ellen	dos	Santos	Gelli	e
+Thiago	César	Gonçalves	de	Souza.
+Agradeço,	por	fim,	a	todos	os	queridos	amigos	professores,	advogados,	juízes,	promotores	de	justiça,
+estudantes	e	alunos	que	tive	ao	longo	desses	anos,	que	enviaram	sugestões	às	edições	anteriores	do
+presente	trabalho,	todas	levadas	em	consideração	na	obra	que	agora	vem	a	público.
+A	todos,	minha	sincera	gratidão.
+JOSÉ	MIGUEL	GARCIA	MEDINA
+©	desta	edição	[2015]
+2015	-	09	-	01
+
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Nota	do	autor	à	3.ª	edição	NOTA	DO	AUTOR	À	3.ª	EDIÇÃO
+Neste	domingo,	pela	manhã,	enquanto	enviava	os	últimos	arquivos	revisados,	referentes	à	comparação
+entre	os	artigos	finais	do	CPC/2015	e	do	CPC/1973,	à	editora,	eu	pensava	no	significado	deste	livro	para
+mim,	e	do	que	esperava	que	ele	viesse	a	significar	para	as	pessoas	que	o	lessem,	que	o	utilizassem	em
+seu	trabalho	diário.
+Especialmente	neste	dia	vêm	à	nossa	mente	pensamentos	relacionados	ao	recomeço,	à	renovação,	a	como
+podemos	proceder,	para	tentar,	desta	vez,	fazer	melhor	do	que	fizemos	antes.	Enfim,	é	um	começar	de
+novo.	.
+Na	presente	edição	mantém-se	a	ideia	original,	apresentada	quando	da	publicação	da	1.ª	edição:	a	de
+apresentar	ao	leitor	as	novidades	e	diferenças	mais	significativas	existentes	entre	o	CPC/1973	e	o
+CPC/2015,	em	notas	comparativas	inseridas	ao	longo	dos	comentários.	Mas,	tendo	em	vista	a	aprovação
+recente	do	Novo	Código	de	Processo	Civil,	alterou-se	a	perspectiva:	se,	nas	edições	anteriores,
+analisavam-se	as	mudanças	à	luz	do	CPC	então	em	vigor,	a	partir	da	presente	edição	a	obra	examina
+essas	mesmas	alterações	sob	o	ponto	de	vista	da	Lei	13.105/2015,	que	instituiu	o	Novo	Código	de
+Processo	Civil,	que	chamamos,	simplesmente,	de	CPC/2015.
+O	leitor	de	edições	anteriores	logo	se	identificará	com	o	formato	do	presente	trabalho:	os	temas	então
+versados	continuam	sendo	examinados,	mas,	agora,	de	modo	atualizado	e	mais	profundo.	Desde	a	edição
+anterior,	passamos	a	preparar	a	presente	versão,	pensando	em	publicá-la	como	comentário	ao	Projeto	de
+Novo	CPC	ou,	como	a	que	vem	a	público,	como	comentário	ao	Novo	CPC.	Esse	tempo	permitiu-nos
+meditar,	com	mais	cuidado,	sobre	muitos	dos	temas	antes	versados.
+Sempre	entendemos	que	livro	de	Direito	Processual	Civil	deve	ser	útil,	servir	ao	labor	diário	daqueles
+q
+[/PAGINA 2]
+
+[PAGINA 3]
+ue	lidam	com	esse	tema.	Este	trabalho	tem,	desde	sua	1.ª	edição,	a	preocupação	de	examinar	todos	os
+assuntos	com	contornos	eminentemente	práticos.	Mas	não	se	trata,	aqui,	da	“prática”	como	a	realização,
+destituída	de	significado,	de	um	amontoado	de	atos	processuais,	mas	de	praxis,	no	sentido	de	prática
+reflexiva.
+Cada	um	dos	artigos	comentados	é	acompanhado	de	remissão	ao	dispositivo	correspondente,	no
+CPC/1973
+(disponibilizamos,	para	download,	quadro	comparativo	entre	o	CPC/1973	e	o	CPC/2015	no	site
+http://professormedina.com/).
+Em	seguida,	quando	consideramos	oportuno,	inserimos	enunciados	de	súmula	e	julgamentos	de	casos
+repetitivos	pelos	tribunais	superiores,	bem	como	enunciados	oriundos	do	Fórum	Permanente	de
+Processualistas	Civis	(indicados	como	FPPC).
+Apresentamos,	assim,	os	presentes	comentários	à	comunidade	jurídica,	e	o	sujeitamos,	humildemente,	à
+consideração	e	crítica	de	professores,	advogados,	juízes,	promotores	de	justiça	e	estudantes,	esperando	a
+opinião	dos	doutos.
+Mas	este	tempo,	como	eu	disse	antes,	é	de	renovação.	Reexaminei	tudo	o	que	antes	escrevi	e	publiquei
+
+sobre	assuntos	relacionados	ao	Direito	Processual	Civil.	Atualizei	pontos	de	vista,	ajustando-os	à	nova
+realidade	jurídica,	abandonando	ideias	que	restaram	obsoletas,	em	face	da	nova	lei.	O	leitor	notará,	ao
+longo	do	texto,	as	hipóteses	em	que	isso	ocorreu,	pois	tomei	o	cuidado	de	registrá-las.	Levei	em
+consideração	as	críticas	que	recebi,	sobretudo	para	deixar	mais	claras	e	para	aprimorar	minhas	opiniões
+sobre	os	mais	variados	assuntos	relacionados	ao	processo	civil.
+Como	sempre,	sugestões	e	críticas	serão	muito	bem-vindas,	e	poderão	ser	enviadas	para	o	e-mail
+novocpc@medina.adv.br.
+Os	anos	que	se	passaram,	entre	a	edição	anterior	e	a	presente	edição,	não	foram	nada	fáceis.	Tive,
+sempre,	ao	meu	lado,	minha	família	e	o	apoio	de	bons	amigos.	Entre	nós,	sempre	senti	a	presença
+marcante	de	Deus.	Quando	caí,	Deus	me	deu	sustentação,	me	apoiou	e	levantou.	Devo	dar	a	Ele	toda	a
+glória.	Graças	a	Ele	este	trabalho	chega,	agora,	à	3.ª	edição.
+A	todos	os	que	se	dispuserem	a	ler	o	presente	trabalho,	o	meu	abraço	afetuoso.	Espero,	sinceramente,	que
+este	livro	lhes	seja	útil.
+JOSÉ	MIGUEL	GARCIA	MEDINA	Páscoa	de	2015
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Lei	13.105,	de	16	de	março	de	2015
+Código	de	Processo	Civil.
+A	Presidenta	da	República:	Faço	saber	que	o	Congresso	Nacional	decreta	e	eu	sanciono	a	seguinte	Lei:
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+
+Parte	Geral
+©	desta	edição	[2015]
+2015	-	09	-	01
+Novo	Código	de	Processo	Civil	comentado:	com	remissões	e	notas	comparativas	ao	CPC/1973
+Lei	13.105,	de	16	de	março	de	2015
+Parte	Geral.
+Parte	Geral
+Livro	I
+
+DAS	NORMAS	PROCESSUAIS	CIVIS
+TÍTULO	ÚNICO
+DAS	NORMAS	FUNDAMENTAIS	E	DA	APLICAÇÃ
+[/PAGINA 3]
+
+[PAGINA 4]
+O	DAS	NORMAS	PROCESSUAIS
+Capítulo	I
+DAS	NORMAS	FUNDAMENTAIS	DO	PROCESSO	CIVIL
+Art.	1º.	O	processo	civil	será	ordenado,	disciplinado	e	interpretado	conforme	os	valores	e	as	normas
+fundamentais	estabelecidos	na	Constituição	da	República	Federativa	do	Brasil,	observando-se	as
+disposições	deste	Código.
+CPC/1973:	Sem	correspondente;	arts.	1.º	e	1.211	(relacionados).
+SUMÁRIO:	I.	Métodos	para	a	solução	de	controvérsias.	O	processo	judicial	–	II.	Fins	do	processo	e
+problemas	sociais	de	nosso	tempo	–	III.	Realização	dos	direitos	subjetivos	através	do	processo	–	IV.
+Estrutura	peculiar	do	processo	e	suas	fontes.
+Particularmente	a	importância	da	Constituição	Federal	–	V.	Criação	da	solução	jurídica.	Papel	da
+jurisprudência.	Importância	da	doutrina.
+I.	Métodos	para	a	solução	de	controvérsias.	O	processo	judicial.	O	processo	judicial	é	um	dos
+métodos	de	resolução	de	controvérsias,	tendo	sido	considerado,	durante	muito	tempo,	com	exclusividade,
+como	o	método	institucional	de	solução	de	controvérsias	(desse	modo	foi	considerado,	p.	ex.,	na
+exposição	de	motivos	do	CPC/1973,	que,	em	seu	item	5,	designava	o	processo	como	o	“instrumento	que
+o	Estado	põe	à	disposição	dos	litigantes,	a	fim	de	administrar	justiça”).	Essa	ordem	de	ideias	tende	a	ser
+alterada,	na	medida	em	que	incorporam-se	outros	métodos	de	solução	de	conflitos	ao	cenário	judicial:
+por	acesso	à	justiça	tende-se,	gradativamente,	a	compreender	não	apenas	o	acesso	a	uma	solução
+decisional	(através	do	processo),	mas,	também,	a	meios	consensuais,	como	a	conciliação	e	a	mediação.
+O	CPC/2015	adota	esse	modo	de	pensar,	trazendo	para	o	ambiente	da	administração	estatal	da	justiça
+esses	meios	consensuais	de	solução	de	controvérsias,	antes	chamados	de	“alternativos”,	agora,
+estimulados	(cf.	comentário	ao	art.	3.º).	A	mudança	da	cultura	da	sentença	para	a	cultura	da	pacificação,
+a	que	se	refere	Kazuo	Watanabe	(Política	pública.	.,	RePro	195/381),	tende	a	ser	lenta	e	gradual,	ainda
+que	o	CPC/2015	dê	passos	importantes,	nesse	sentido.	A	finalidade	do	processo	civil,	de	todo	modo,	é	a
+solução	de	controvérsias.	De	acordo	com	concepção	bastante	difundida	entre	nós,	lide	é	o	conflito	de
+interesses	qualificado	por	uma	pretensão	resistida	ou	insatisfeita	(cf.	conhecida	concepção	de	Francesco
+Carnelutti,	Instituições	do	processo	civil,	vol.	1,	p.	78).	Esse	conceito	não	perdeu	sua	atualidade,	embora
+devam	ser	atualizados	os	elementos	que	o	compõem.	Afinal,	os	bens	jurídicos	em	torno	dos	quais
+controvertem	as	pessoas	evoluem	(de	abundantes,	tornam-se	escassos;	antes	irrelevantes,	passam	a	ser
+considerados	importantes),	já	que	alteram-se	as	aspirações	das	pessoas,	da	sociedade	como	um	todo	e,
+sob	esse	influxo,	altera-se	o	próprio	direito	substantivo	(cf.	o	que	se	diz	infra).	De	todo	modo,	o
+processo	“quer	a	paz	jurídica,	quer	a	realização	e	verificação	do	direito	objectivo,	da	ordem	jurídica”
+(Othmar	Jauernig,	Direito	processual	civil,	p.	36),	vale	dizer,	a	proclamação	e	a	realização	do	direito,	e
+espera-se,	com	isso,	sejam	al
+[/PAGINA 4]
+
+[PAGINA 5]
+cançados	os	fins	a	que	se	refere	Cândido	Dinamarco.	Segundo	esse	autor,	o
+processo	tem	escopos	social	(pacificar	com	justiça,	conscientizar	os	membros	da	sociedade	para	que
+
+estes	deem	cumprimento	aos	seus	deveres	etc.),	político	(afirmação	do	poder	estatal	de	administrar	a
+justiça,	respeitando	a	liberdade	dos	cidadãos)	e	jurídico	(isto	é,	deve	conter	técnicas	processuais
+adequadas	à	realização	do	direito	material)	(cf.	Cândido	Rangel	Dinamarco,	A	instrumentalidade	do
+processo,	13.	ed.,	passim).	No	processo	civil,	a	solução	para	a	controvérsia	decorre	da	atuação	de	um
+terceiro,	mas,	diversamente	do	que	sucede	com	o	processo	arbitral	(em	que	o	terceiro	é	escolhido	pelas
+partes	envolvidas),	no	processo	o	conflito	é	resolvido	por	um	órgão	instituído	pelo	Estado	para	o
+exercício	da	função	jurisdicional	(cf.	Luigi	Paolo	Comoglio,	Corrado	Ferri	e	Michele	Taruffo,	Lezioni
+sul	processo	civile,	I,	p.	17).	Sobre	arbitragem	e	meios	consensuais	de	solução	de	conflitos,	cf.
+comentário	ao	art.	3.º.	Tratamos	do	processo	judicial,	no	presente	estudo;	mas	processo	é	tema	que
+interessa	à	teoria	geral	do	direito	(sobre	os	processos	administrativo	e	legislativo,	cf.	o	que	escrevemos
+em	Constituição	Federal	comentada,	3.	ed.,	2014,	comentário	ao	art.	5.º,	LIV	e	LV	da	Constituição,
+dentre	outros;	sobre	o	processo	obrigacional,	cf.	o	que	escrevemos	em	coautoria	com	Fábio	Caldas	de
+Araújo,	em	Código	Civil	comentado,	2013,	comentário	aos	arts.	113,	421	e	427,	bem	como	ao	Título	I	do
+Livro	I,	do	Código	Civil).
+II.	Fins	do	processo	e	problemas	sociais	de	nosso	tempo.	Segundo	pensamos,	as	normas	processuais
+relativas	à	realização	concreta	dos	direitos	incidem	de	modo	rente	à	realidade	social	e	econômica	de
+um	povo.	A	controvérsia,	a	ser
+solucionada	à	luz	do	ordenamento	jurídico,	emerge	da	sociedade,	motivo	pelo	qual	o	processo	deve	ter
+aptidão	para	realizar	materialmente	os	direitos	subjetivos	amoldando-se	às	variações	sociais.	O	ponto
+de	partida	do	estudo	do	processo	civil	consiste	na	compreensão	da	controvérsia	social	que	haverá	de
+ser	solucionada.	Cf.,	também,	o	que	escrevemos	em	Parte	geral	e	processo	de	conhecimento,	4.	ed.,	cit.,
+em	coautoria	com	Teresa	Arruda	Alvim	Wambier,	em	que	também	sustentamos	esse	modo	de	pensar.
+Como	temos	afirmado	em	outros	trabalhos	(cf.,	p.	ex.,	o	que	escrevemos	em	Constituição	Federal
+comentada,	3.	ed.,	p.	15-16),	o	desafio,	hoje,	está	em	como	formular	soluções	ajustadas	ao	nosso	modelo
+de	Constituição	e	ao	tempo	em	que	vivemos.	Segundo	Zigmunt	Bauman,	“no	momento,	nós	estamos	em	um
+interregno.	Um	interregno	que	significa,	simplesmente,	que	a	antiga	maneira	de	agir	não	funciona	mais,	e
+novos	modos	de	agir	ainda	não	foram	inventados.	Esse	é	o	interregno”	(Sociedade	do	consumo	e	do
+crédito	não	funciona	mais).	Não	se	pode,	porém,	aguardar	o	término	desse	interregno	para	encontrar
+fórmulas	que	permitam	resolver	bem	(e	não	apenas	razoavelmente)	os	problemas	relativos	à
+interpretação	e	aplicação	do	direito,	exigindo-se,	hoje,	um	novo	modo	de	pe
+[/PAGINA 5]
+
+[PAGINA 6]
+nsar	o	direito,	em	diálogo
+com	outras	“ciências”
+(p.	ex.,	política,	econômica.	.)	e	também	com	outros	conhecimentos	oriundos	da	dinâmica	da	vida.	O
+direito	não	deve	ser	estudado	apenas	em	si	mesmo,	mas	a	partir	do	déficit	identificado	na	vida	das
+pessoas,	que	reclamou	a	sua	criação.	O	direito	não	pode	pertencer	apenas	ao	imaginário	dos	juristas,
+sendo	alheio	à	realidade.	Se	assim	o	for,	será,	então,	um	direito	não	apenas	alheio	à	realidade,	mas	que
+oculta	os	problemas	que,	de	fato,	ocorrem.
+III.	Realização	dos	direitos	subjetivos	através	do	processo.	Através	do	processo	realizam-se	os
+direitos	subjetivos	–
+embora,	evidentemente,	não	tenha	o	processo	apenas	a	finalidade	de	realizar	o	direito	subjetivo	das
+partes,	já	que,	evidentemente,	atua	a	jurisdição	de	modo	a	realizar	a	ordem	jurídica,	ainda	que	isso
+contrarie	o	interesse	das	partes	(cf.
+comentário	supra).	Não	tem	o	processo,	pois,	função	meramente	acessória	em	relação	ao	direito
+
+material.	Como	afirma	Ada	Pelegrini	Grinover,	“vãs	seriam	as	liberdades	do	indivíduo,	se	não	pudessem
+ser	reivindicadas	e	defendidas	em	juízo”	(	As	garantias	constitucionais	do	direito	de	ação,	n.	7,	p.	15).
+Entendemos	que	a	previsão	de	um	direito	subjetivo	pelo	ordenamento	sem	que	haja	procedimento
+adequado	(	due	process)	à	concretização	material	de	tal	direito	significaria,	quando	muito,	a	previsão
+apenas	de	um	direito	“em	potencial”	ou	abstrato,	irrealizável	concretamente,	e,	em	última	análise,	um
+direito	inexistente,	ou	existente	apenas	teoricamente.	“O	aspecto	processual	dos	direitos	fundamentais	faz
+efetivos	seus	componentes	substanciais	‘de	modo	básico’,	não	como	uma	garantia	conexa	ou
+complementar:	uma	garantia	só	substancial	dos	direitos	fundamentais	seria	em	parte	inútil”	(Peter
+Häberle,	La	libertad	fundamental	en	el	estado	constitucional,	p.	292).
+IV.	Estrutura	peculiar	do	processo	e	suas	fontes.	Particularmente	a	importância	da	Constituição
+Federal.	O
+processo	é	sistema	interacional,	isso	é,	dá-se	através	da	interação	entre	partes	e	órgão	jurisdicional.
+Essa	noção	de	processo	envolve	e	supera	aquela,	tradicional,	que	vê	o	processo	apenas	como	mera
+relação	jurídica	(cf.	comentário	ao	art.	2.º).	No	contexto	democrático,	o	modo	como	se	manifestam	e
+relacionam	os	sujeitos	do	processo	deve	observar	as	garantias	mínimas	decorrentes	do	due	process	of
+law.	Assim,	interessam,	evidentemente,	as	regras	dispostas	no	Código	de	Processo	Civil	e	em	outras	leis,
+mas,	sobretudo,	a	norma	constitucional.	Entendemos	que	os	princípios	e	valores	dispostos	na
+Constituição	Federal	constituem	o	ponto	de	partida	do	trabalho	do	processualista.	A	atuação	das
+partes	e	a	função	jurisdicional	devem	ser	estudadas	a	partir	da	compreensão	de	que	o	processo	é	um
+espaço	em	que	devem	se	materializar	os	princípios	inerentes	a	um	Estado	que	se	intitula	“Democrático	de
+Direito”	(cf.	art.	1.º	da	Constituição).	O	CPC/2015	reproduz	e	esmiúça	uma	série	de	princípios
+constitucionais,	fazendo-o,	principalmente	(mas	não	exclusivamente),	no	começo	da	P
+[/PAGINA 6]
+
+[PAGINA 7]
+arte	Geral,	em
+tópico	dedicado	às	normas	fundamentais	do	processo	civil.	Deixa	claro,	com	isso,	que	o	processo	civil	é
+ordenado,	disciplinado	e	interpretado	em	conformidade	com	a	Constituição.	Longe	de	ser	mera
+redundância,	a	referência	a	princípios	constitucionais	ao	longo	do	texto	do	Código	tem	importante	papel
+pedagógico.	Sobre	fontes,	cf.	também	comentário	ao	art.	13	ss.	do	CPC/2015.	Sobre	as	garantias
+fundamentais	do	processo,	cf.	comentário	aos	artigos	seguintes.
+V.	Criação	da	solução	jurídica.	Papel	da	jurisprudência.	Importância	da	doutrina.	O	sentido	do	direito
+não	se	encontra	apenas	no	texto	da	lei,	ou	na	descrição	de	um	princípio.	O	texto	é	o	ponto	de	partida	para
+se	chegar	à	norma	jurídica,	mas	esta	é	fruto	da	interpretação	realizada	para	resolver	problemas.	É
+importante	que	isso	fique	claro,	e	que	se	entenda	o	papel	da	interpretação	para	a	compreensão	da	norma
+jurídica.	Isso	sucede	até	mesmo	com	as	afirmações	que	nós	mesmos	fazemos	–	ainda	que	fora	do	âmbito
+acadêmico	ou	jurídico.	Se	me	recordo	de	uma	afirmação	que	fiz	há	vários	anos,	ao	recordá-la	a
+interpreto,	à	luz	do	que	hoje	sou,	do	que	se	passou	ao	longo	de	minha	história,	e	do	que	vi	nas	histórias
+daqueles	que	conviveram	comigo.	Explica	Miguel	Nicolélis	que	nosso	cérebro	“‘vê’	antes	de	‘enxergar’,
+para	impor	a	cada	um	de	nós	seu	próprio	ponto	de	vista	sobre	o	mundo	que	nos	circunda”.	Segundo
+afirma,	“são	os	encontros	e	desencontros	entre	esses	dois	sinais	espaçotemporais,	um	gerado	dentro	do
+cérebro	e	o	outro	proveniente	da	transdução	de	estímulos	do	mundo	exterior,	que	definem	o	que
+percebemos	como	realidade.	Isso	implica	que	a	tão	procurada	verdade	absoluta	não	existe,	porque	o
+cérebro	não	é	um	mero	escravo	daquilo	que,	por	exemplo,	nossas	retinas	dizem	ver.	Essa	colisão
+neurofisiológica	sintetiza	o	princípio	da	contextualização”,	isso	é,	“a	forma	como	o	cérebro	responde
+como	um	todo,	seja	em	resposta	a	um	estímulo	sensorial,	seja	para	produzir	um	comportamento	motor
+particular,	depende	de	seu	estado	global	interno	a	cada	instante”	(	Muito	além	de	nosso	eu,	p.	417).
+Assim	também	é	com	o	direito.	O	sujeito	que	interpreta	o	direito	visualiza-o,	considerando	algo	a	ser
+
+resolvido	(o	que	denomino,	usando	termo	de	Josef	Esser	na	obra	Principio	y	norma.	.	,	p.	9	ss.,	de
+“problemática	concreta”),	mas	o	próprio	sujeito	que	interpreta	faz	parte	do	processo	de	interpretação
+(ou,	dito	de	outra	forma,	o	aplicador	do	direito	não	é	alguém	que	observa	“de	fora”	o	fenômeno.	.).	Daí	a
+importância	que	damos	ao	modo	de	construção	da	solução	jurídica	pelos	tribunais	e	ao	modo	como	eles
+interagem	com	a	comunidade	jurídica	e	a	sociedade.
+Como	temos	afirmado,	em	nosso	dia	a	dia	não	laboramos	sobre	teses	jurídicas:	antes,	as	formulamos	para
+resolver	problemas	e	aplicar	a	casos	(cf.	o	que	escrevemos	em	Constituição	Federal	comentada,	3.	ed.,
+p.	16-17).	Afirma	Hans-Georg
+Gadamer	que	é	“um	processo	unitário	não	somente	a	compreensão	e	interpretação,	mas	também	a
+aplicação”,	ressaltando	que	“a	aplicaçã
+[/PAGINA 7]
+
+[PAGINA 8]
+o	é	um	momento	do	processo	hermenêutico,	tão	essencial	e
+integrante	como	a	compreensão	e	a	interpretação”
+(	Verdade	e	método,	p.	379).	A	experiência	dos	tribunais	na	resolução	de	casos	e	o	amadurecimento	que
+se	espera	obter,	com	essa	experiência,	ao	longo	do	tempo	(com	erros	e	acertos,	mas,	sobretudo,	com	a
+reiteração	de	uma	orientação	verificada	como	certeira)	acaba	funcionando	como	importante	ingrediente,
+na	interpretação	das	regras	relacionadas	ao	processo.	É
+importante,	no	entanto,	para	que	sirva	a	esse	propósito,	que	a	jurisprudência	seja	dotada	de	integridade.
+Para	servir	como	guia,	a	jurisprudência	deve	ser	íntegra;	caso	contrário,	não	passará	de	um	amontoado	de
+julgados.	De	todo	modo,	os	casos	levados	pelas	pessoas	ao	Judiciário	representam	a	problemática
+concreta,	sendo	importante	examinar	o	método	(ou	arte)	de	resolver	tais	problemas,	já	que	com	tal
+técnica	devemos	lidar,	no	processo.	Essa	assertiva	vale	para	a	atividade	jurisdicional,	mas	também	deve
+ser	considerada	pela	doutrina,	que	deve	se	envolver	com	o	que	se	passa	na	jurisprudência.	Entendemos
+que,	se	é	certo	que	os	juízes	não	estão	sozinhos	no	mundo,	não	menos	correto	é	dizer	que	não	estão
+sozinhos	no	“mundo	jurídico”.	Ninguém	duvida,	por	exemplo,	que	o	STF	tem	a	“última	palavra”,	ao
+menos	em	determinado	momento,	em	relação	à	interpretação/aplicação	da	norma	constitucional.	Mas
+mesmo	as	afirmações	desse	Tribunal	sobre	o	significado	da	Constituição	devem	sujeitar-se	ao	exame
+crítico	da	doutrina,	que	deve	reafirmar	os	acertos	e	apontar	os	erros	interpretativos	para	que	estes	sejam
+corrigidos	e	o	STF	volte	ao	rumo	correto	(essa	atitude	doutrinária	–	que,	de	resto,	é	não	apenas	da
+doutrina,	mas	de	toda	a	comunidade	–	nos	remete	àquilo	que	alguns	chamam	de	“sentimento
+constitucional”,	a	que	se	refere	Pablo	Lucas	Verdú,	em	O	sentimento	constitucional:	aproximação	ao
+estudo	do	sentir	constitucional	como	de	integração	política).	Como	afirmou	Celso	Furtado,	“que	é	a
+utopia	senão	o	fruto	da	percepção	de	dimensões	secretas	da	realidade,	um	afloramento	das	energias
+contidas	que	antecipa	a	ampliação	do	horizonte	de	potencialidades	aberto	ao	homem?	Esta	ação	de
+vanguarda	constitui	uma	das	ações	mais	nobres	a	serem	cumpridas	pelos	intelectuais	nas	épocas	de	crise.
+Cabe-lhes	aprofundar	a	percepção	da	realidade	social	para	evitar	que	se	alastrem	as	manchas	de
+irracionalidade	que	alimentam	o	aventureirismo	político;	cabe-lhes	projetar	luz	sobre	os	desvãos	da
+história,	onde	se	ocultam	os	crimes	cometidos	pelos	que	abusam	do	poder;	cabe-lhes	auscultar	e	traduzir
+as	ansiedades	e	aspirações	das	forças	sociais	ainda	sem	meios	próprios	de	expressão”	(	Ensaios	sobre
+cultura.	.	,	p.	174).	Entendemos	que	“o	jurista	tem	a	grave	tarefa	de	promover	a	melhor	aplicação	do
+direito,	aumentando,	com	sua	atividade,	o	grau	de	certeza	da	ciência	do	direito”	e	“não	pode	interpretar	o
+direito	contra	os	preceitos	éticos,	morais	e,	principalmente,	democráticos”	(Nelson	Nery	Jr.	e	Rosa
+Maria	de	Andrade	Nery,	CPC	comentad
+[/PAGINA 8]
+
+[PAGINA 9]
+o,	9.
+ed.,	p.	604).	Tem	o	processualista	o	dever	de	observar	os	princípios	democráticos,	no	exame	crítico
+
+daquilo	que	doutrina	e	jurisprudência	apresentam	como	solução	para	os	problemas	que	afetam	a	vida	das
+pessoas	(a	respeito,	cf.	Otavio	Luiz	Rodrigues	Jr.,	Dogmática	e	crítica	da	jurisprudência,	RT	891/65).	“A
+tarefa	do	processualista”,	assim,	é,	fundamentalmente,	a	de	“objetivar	a	simplificação	desse
+instrumento”,	que	é	o	processo	(Arruda	Alvim,	Manual	de	direito	processual	civil,	vol.	1,	n.
+26,	p.	99),	em	atenção	aos	princípios	e	valores	democráticos	dispostos	na	Constituição.	É	verdade	que
+isso	não	é	tarefa	fácil	(como	disse	George	Sand,	“simplicity	is	the	most	difficult	thing	to	secure	in	this
+world.	It	is	the	last	limit	of	experience	and	the	last	effort	of	genius”,	Letters.	.	,	p.	355),	mas	não	podemos
+nos	curvar	diante	desse	desafio.	Devemos	nos	empenhar	em	alcançar	esse	desiderato,	pois	o	processo
+pode	ser	tão	complexo	exatamente	porque	não	tentamos	simplificá-lo.	Se,	como	disse	Wittgentein,	o	que
+se	pode	dizer,	pode	ser	dito	claramente	(“What	can	be	said	at	all	can	be	said	clearly”,	Tractatus.	.	,
+Preface,	p.	3),	temos	que	tornar	simples	o	processo.	Mas	dizer	que	nossa	tarefa,	enquanto	estudiosos	do
+direito	processual	civil,	é	a	de	simplificá-lo,	não	equivale	a	dizer	que	devemos	ser	simplistas,
+desprezando	dados	ou	informações	necessárias	à	análise	dos	problemas,	ou	mesmo	simplórios,
+analisando	as	questões	jurídicas	como	se	estas	fossem	meramente	abstratas,	não	emergissem	de	uma
+sociedade	extremamente	complexa,	a	serem	resolvidas	num	ambiente	também	permeado	de	problemas
+(basta	lembrar,	por	exemplo,	a	quantidade	muito	grande	de	processos	que	aguardam	julgamento,	frente	o
+número	pequeno	de	magistrados	para	dar	conta	de	tal	trabalho).
+Art.	2º.	O	processo	começa	por	iniciativa	da	parte	e	se	desenvolve	por	impulso	oficial,	salvo	as
+exceções	previstas	em	lei.
+CPC/1973:	Art.	262	(correspondente);	art.	2º	(relacionado).
+SUMÁRIO:	I.	Direito	de	ação	–	II.	Direito	de	petição	e	direito	de	ação.	Distinção	–	III.	Direito	de	ação
+e	tutela	jurisdicional	adequada	ao	direito	material	–	IV.	Teorias	sobre	a	natureza	do	direito	de	ação	–	V.
+Direito	de	ação	e	teoria	da	relação	de	status	–	VI.	Processo	como	sistema	interacional	–	VII.	Princípios
+da	demanda	e	da	inércia	da	jurisdição	–	VIII.	Princípio	do	impulso	oficial	–	IX.	Exercício	da	demanda	e
+desistência	da	ação	–	X.	Requisitos	processuais.	Requisitos	de	formação	do	processo	e	dos	atos
+realizados	ao	longo	do	procedimento.	Pressupostos	processuais	e	condições	da	ação,	no	CPC/1973	e	no
+CPC/2015	–	XI.	Devido	processo	legal	(	Due	process	of	law,	processo	“justo”	ou	“equitativo”).
+Garantias	mínimas.
+I.	Direito	de	ação.	O	direito	de	ação	não	se	manifesta	apenas	com	a	apresentação	de	pedido	de	tutela
+jurisdicional	pelo	demandante.	Esse	ponto	de	vista,	bastante	restrito	(sob	essa	perspectiva	se	estuda	o
+direito	de	ação	e	suas	“condições”,	ou	requisitos,	p.ex.;	cf.	o	que	escrevemos	a	respeito	em	Possibilidade
+j
+[/PAGINA 9]
+
+[PAGINA 10]
+urídica	do	pedido	e	mérito,	RePro	93/371,	jan./1999),	não	contempla	outras	relações	que	surgem	ao
+longo	do	processo	e,	além	disso,	visualiza	o	fenômeno	apenas	sob	o	ponto	de	vista	do	autor	(ou
+exequente).	O	direito	de	ação	envolve	um	conjunto	de	situações	subjetivas	em	que	se	encontram	as	partes
+frente	ao	Estado:	de	um	lado,	condiciona	o	início	da	atividade	jurisdicional,	mas,	por	outro,	representa	o
+direito	que	tem	a	parte	à	proteção	e	realização	do	direito,	através	da	prestação	praticada	pela	jurisdição.
+O	direito	de	ação,	assim,	manifesta-se	não	apenas	através	da	demanda	(cf.	comentário	infra),	mas
+também	ao	longo	do	desenvolvimento	de	todo	o	procedimento,	do	qual	deve	poder	a	parte	participar
+ativamente	(cf.	Luigi	Paolo	Comoglio	et	al.	,	Lezioni.	.	,	cit.,	p.	224),	exaurindo-se	com	a
+obtenção	de	tutela	jurisdicional	adequada	ao	direito	(cf.	art.	5.º,	XXXV,	da	CF/1988;	no	mesmo	sentido,
+cf.	Giovanni	Arieta	et	al.	,	Corso.	.	,	3.	ed.,	cit.,	n.	60,	p.	144;	sob	a	perspectiva	constitucional,	cf.	o	que
+escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	ao	art.	5.º,	XXXV	da	CF/1988;	opinião
+
+que	reproduzimos	também	na	obra	Processo	civil	moderno,	v.	1,	Parte	geral	e	processo	de
+conhecimento,	4.	ed.,	em	coautoria	com	Teresa	Arruda	Alvim	Wambier;	semelhantemente,	na	doutrina
+recente,	afirma-se	que	o	direito	de	ação	“tem	conteúdo	múltiplo”,	é	um	“direito	compósito”,	um
+“complexo	de	situações	jurídicas”,	ou,	ainda,	um	“complexo	de	poderes	ou	faculdades”,	cf.	Fredie
+Didier	Jr.,	O	direito	de	ação	como	complexo	de	situações	jurídicas,	RePro	210/41).	Em	síntese,	pode-se
+dizer	que	o	direito	de	ação	é	o	direito	ao	processo	adequado,	que	observe	as	garantias	mínimas,
+decorrentes	do	devido	processo	legal.	É	correto,	sob	esse	prisma,	afirmar-se	que	também	o	réu	tem
+direito	de	ação	(cf.	o	que	escrevemos	em	Chamamento	ao	processo,	RePro	95/39,	jul./1999;	nesse
+sentido,	reconhece-o	expressamente	o	art.	30	do	CPC	francês	ao	dispor	que	“l’action	est	le	droit,	pour
+l’auteur	d’une	prétention,	d’être	entendu	sur	le	fond	de	celle-ci	afin	que	le	juge	la	dise	bien	ou	mal
+fondée”,	mas,	“pour	l’adversaire,	l’action	est	le	droit	de	discuter	le	bien-fondé	de	cette	prétention”).
+II.	Direito	de	petição	e	direito	de	ação.	Distinção.	A	Constituição	assegura	o	direito	de	petição,	isto	é,
+o	direito	de	manifestar-se	perante	os	órgãos	que	exercem	o	poder,	contra	ilegalidades	ou	abusos
+(CF/1988,	art.	5.º,	XXXIV,	a).	O	exercício	do	direito	de	petição,	diz	a	Constituição,	independe	do
+pagamento	de	taxas.	Corretamente,	dispõe	a	Súmula	Vinculante	21	do	STF	que	“é	inconstitucional	a
+exigência	de	depósito	ou	arrolamento	prévios	de	dinheiro	ou	bens	para	admissibilidade	de	recurso
+administrativo”	(no	mesmo	sentido,	cf.	Súmula	373	do	STJ	e	Súmula	424	do	TST).	O	direito	de	petição,
+pois,	é	mais	amplo	que	o	direito	de	ação,	já	que	aquele	é	incondicionado,	e	pode	ser	exercido	perante
+qualquer	dos	órgãos	que	desempenham	o	poder	estatal.	A	respeito,	cf.	o	que	escrevemos	em
+Constituição	Fe
+[/PAGINA 10]
+
+[PAGINA 11]
+deral	comentada	cit.,	no	comentário	ao	referido	dispositivo	constitucional.
+III.	Direito	de	ação	e	tutela	jurisdicional	adequada	ao	direito	material.	De	acordo	com	o	art.	5.º,
+XXXV,	da	CF/1988,	“a	lei	não	excluirá	da	apreciação	do	Poder	Judiciário	lesão	ou	ameaça	a	direito”.
+Não	se	limita	a	norma	constitucional	a	obstar	que	alguma	lei	impeça	o	acesso	à	jurisdição,	mas	vai	além,
+para	assegurar	o	direito	de	exigir	do	Estado	a	tutela	jurisdicional.
+Modernamente,	tem-se	pensado	em	tutela	jurisdicional	não	apenas	como	resultado,	mas	também	para
+designar	os	meios	tendentes	à	sua	consecução	(Flávio	Luiz	Yarshell,	Tutela	jurisdicional,	p.	30	ss.;
+Cândido	Rangel	Dinamarco,	Execução	civil,	n.
+60,	p.	112;	Vicente	Greco	Filho,	Tutela	jurisdicional	das	liberdades,	p.	70).	O	direito	de	ação
+corresponde,	portanto,	ao	direito	à	prestação	jurisdicional	adequada	ao	direito	substancial	(cf.	Andrea
+Proto	Pisani,	op.	cit.,	p.	54-55).	Assim,	também	a	configuração	processual	do	direito	de	ação	deve
+ajustar-se	ao	direito	material.	P.	ex.,	em	se	tratando	de	tutela	de	direitos	difusos,	deve-se	amoldar	a	ação
+a	este	direito	(o	que	se	reflete	na	questão	consistente	em	se	saber,	por	exemplo,	quem	pode	agir	em	juízo,
+em	busca	de	tutela	protetiva	de	direito	supraindividual,	p.	ex.,	art.	5.º,	LXXIII	da	CF/1988,	quanto	à
+legitimidade	para	o	ajuizamento	de	ação	popular,	e	art.	82	da	Lei	8.078/1990).	A	inexistência,	no	plano
+processual,	de	tutela	correspondente	à	reclamada	pelo	direito	material,	significaria	tornar	inexistente	o
+próprio	direito	substantivo.	O	direito	de	ação,	assim,	compreende	não	apenas	o	direito	à	tutela
+jurisdicional	adequada,	mas	também	a	um	processo	adequado.
+IV.	Teorias	sobre	a	natureza	do	direito	de	ação.	Ao	longo	do	tempo,	surgiram	várias	concepções
+acerca	da	natureza	da	ação,	nem	sempre	excludentes,	muitas	vezes	formuladas	à	luz	dos	dados	existentes
+em	um	determinado	ordenamento	jurídico.	Quando	não	se	concebia	o	processo	como	relação	distinta	da
+do	direito	material,	pensava-se	na	ação	como	mera	manifestação	ou	extensão	do	direito	material,	e	não
+como	direito	da	parte	contra	o	Estado	(teoria	imanentista	ou	civilista).	A	partir	da	célebre	polêmica
+
+havida	entre	Windscheid	e	Müther,	chamou-se	a	atenção	para	o	fato	de	que	a	ação	processual	consistia
+em	direito	a	uma	prestação	jurisdicional,	distinto,	portanto,	do	direito	a	prestação	oriunda	do	direito
+material.
+Seguiu-se,	no	entanto,	a	teoria	segundo	a	qual,	embora	distinto	do	direito	material,	o	direito	de	ação
+somente	existiria	quando	existente	o	direito	material	(teoria	da	ação	como	direito	concreto,	de	que	foi
+partidário	Wach).	Para	Chiovenda,	embora	autônomo	em	relação	ao	direito	material,	o	direito	processual
+de	ação	não	seria	direito	a	ser	exercido	contra	o	Estado,	mas	um	direito	potestativo	a	ser	exercido	em
+relação	ao	adversário	(teoria	da	ação	como	direito	potestativo).	Outros,	ainda,	viram	a	ação	como	direito
+autônomo	e	abstrato,	totalmente	desvinculado	do	direito	material	(Degenkolb	e	Plòsz,	que
+[/PAGINA 11]
+
+[PAGINA 12]
+formularam	a
+teoria	da	ação	como	direito	abstrato).	Liebman,	por	sua	vez,	sustentava	que	a	ação	seria	direito	autônomo
+e	abstrato,	mas	condicionável	(teoria	eclética).	A	respeito	do	tema,	cf.,	amplamente,	Gabriel	de	Rezende
+Filho,	Direito	processual	civil,	vol.	1,	n.	150	e	ss.,	p.	151	e	ss.;	Leonardo	Greco,	A	teoria	da	ação	no
+processo	civil;	Fábio	Gomes,	Carência	de	ação;	Rodrigo	da	Cunha	Lima	Freire,	Condições	da	ação;
+José	Ignacio	Botelho	de	Mesquita,	Da	ação	civil.	Tais	teorias,	a	nosso	ver,	explicam	a	evolução
+doutrinária	do	conceito	de	ação	na	ciência	processual,	mas	não	revelam	satisfatoriamente	como	deve	ser
+compreendido	o	direito	de	ação	no	Estado	Constitucional	Democrático	de	Direito.	Segundo	nosso	modo
+de	pensar,	não	é	possível	reduzir	o	conceito	de	ação	ou	formular	uma	definição	unitária.	Como	afirmamos
+acima,	entendemos	que	o	direito	de	ação	é	o	direito	ao	processo	adequado,	que	observe	as	garantias
+mínimas	decorrentes	do	devido	processo	legal.
+Essa	é,	a	nosso	ver,	a	natureza	do	direito	de	ação.
+V.	Direito	de	ação	e	teoria	da	relação	de	status	.	Temos	estudado	o	direito	de	ação	sob	a	perspectiva
+da	teoria	das	relações	de	status	(como	posição	das	pessoas	frente	ao	Estado),	a	partir	das	lições	de
+Jellinek	e	dos	desenvolvimentos	de	Häberle	(sobre	essa	teoria,	cf.,	mais	amplamente,	comentário	ao	art.
+5.º	do	CPC/2015).	Afirma	Ada	Pellegrini	Grinover	(O
+direito	de	ação	cit.),	que	também	Alfredo	Rocco	teria	se	inspirado	na	doutrina	de	Jellinek.	Segundo	esse
+autor,	o	direito	de	ação	é	um	direito	subjetivo	“que	corresponde	a	cada	ciudadano	como	tal”,	“un	derecho
+subjetivo	público	del	ciudadano	con	el	Estado,	y	sólo	con	el	Estado”	(	La	sentencia	civil	cit.,	n.	33,	p.
+128,	e	n.	39,	p.	153),	e	que	compreende	em	si	“todas	las	facultades
+que	corresponden	a	las	partes	en	el	procedimiento	y	el	ejercicio	de	aquel	derecho	como	compreendiendo
+todos	los	actos	procesales	de	las	partes”	(ob.cit.,	n.	41,	p.	165).	Fazendo	referência	a	“una	cantidad	de
+facultades,	reconocidas	y	disciplinadas	por	el	derecho	procesal	objetivo”,	faz	Alfredo	Rocco
+desenvolvimento	semelhante,	embora	sem	se	referir	às	categorias	de	status	acima	mencionadas	(ob.cit.,
+n.	41	e	42,	p.	165	ss.).	Como	temos	sustentado	(cf.	comentário	I	ao	presente	dispositivo	legal,	supra),	o
+direito	de	ação	envolve	um	conjunto	de	situações	subjetivas	em	que	se	encontram	as	partes	frente	ao
+Estado.
+Assim,	o	direito	de	ação	compreende	o	dever	do	Estado	de	prestar	a	tutela	jurisdicional	(	status
+positivo).	Paralelamente	a	esse	direito	da	parte,	há,	ainda,	o	de	participar	efetivamente	do	procedimento
+destinado	à	entrega	da	prestação	jurisdicional.	Este
+“direito	de	participação	no	processo”	corresponde	ao	status	activus	processualis.	Sobressaem,	quanto	a
+este	status	ativo,	aspectos	que	dizem	respeito	à	interação	dos	sujeitos	no	processo.	O	direito	de	ação
+pode	ser	considerado,	também,	sob	outro	prisma,	que	é	o	de	condicionante	do	início	da	atividade
+
+jurisdicional	(art.	2.º	do	CPC/2015).	Sob	esta	perspectiv
+[/PAGINA 12]
+
+[PAGINA 13]
+a,	o	direito	de	ação	encerra	também	uma
+faculdade	que	é	manifestação	da	esfera	de	liberdade	individual	frente	ao	Estado	(	status	libertatis;	cf.,	a
+respeito	desta	manifestação	de	status,	Georg	Jellinek,	op.	cit.,	p.	87;	Robert	Alexy,	op.	cit.,	p.	258),	já
+que	este	último	somente	pode	atuar	após	a	livre	manifestação	de	vontade	do	indivíduo	(sobre	a	liberdade
+de	agir	em	juízo	como	uma	projeção	do	status	libertatis,	cf.	Luigi	Paolo	Comoglio	et	al,	op.	cit.,	p.	66).
+VI.	Processo	como	sistema	interacional.	Há,	no	processo,	relação	júridica	entre	as	partes	e	o	órgão
+jurisdicional.	Embora	consideremos	acertado	esse	ponto	de	vista,	com	isso	não	se	quer	dizer	que	há,	em
+tal	relação,	apenas	um	simples	“esquema	de	interdependência	das	posições	ativa	e	passiva”	que
+sintetizaria	os	“poderes	e	atividades	que	as	partes	desenvolvem	no	processo”	(essa	é	a	crítica	de
+Giovanni	Arieta	et	al,	Corso	base	di	diritto	processuale	civile,	3.	ed.,	p.	90,	ao	tratarem	da	“crisi	del
+concetto	di	rapporto	processuale”;	na	doutrina	brasileira,	semelhantemente,	cf.	Aroldo	Plínio	Gonçalves,
+Técnica	processual	e	teoria	do	processo,	p.	97).	As	críticas	que	podem	ser	desferidas	a	esse	ponto	de
+vista	–	de	processo	é	uma	relação	jurídica	–
+depende	de	que	se	adote	uma	concepção	bastante	restrita	de	relação	jurídica,	algo	que	não	nos	parece
+acertado	(desenvolvemos	esse	ponto	de	vista	também	ao	analisarmos	as	relações	jurídicas
+obrigacionais,	cf.	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas	de
+Araújo,	especialmente	p.	128,	278	e	391).	Se,	com	efeito,	há	relações	jurídicas	simples	e	estáticas,	tal
+não	é	o	que	sucede	com	o	processo.	Isso	não	impede	que	o	processo	seja	visualizado	como	um	esquema
+angular	(isto	é,	autor	–	juiz	–	réu)	ou	triangular	(em	que	cada	um	dos	sujeitos	ocupa	um	dos	vértices),
+desde	que	haja	a	ciência	de	que	essa	perspectiva	não	esgota	o	fenômeno.	O	processo	não	é	uma	relação
+jurídica	simples,	simétrica	e	unidirecional,	em	que	os	sujeitos	podem	ser	alocados	em	compartimentos
+capazes	de	representar,	geometricamente,	os	papéis	que	desempenham.	Entendemos	que	o	processo	é
+relação	jurídica	complexa,	dinâmica,	bidirecional	e	circular,	em	que	o	comportamento	de	cada	um	dos
+sujeitos	afeta	e	é	afetado	pelo	comportamento	dos	outros	etc.	O	status	das	partes,	no	processo,	manifesta-
+se	com	diferentes	conteúdos	e	estruturas.	Para	a	definição	de	processo	interessa	notar	não	apenas	a
+relação	existente	entre	os	sujeitos,	mas,	também,	a	relação	existente	entre	os	atributos	de	tais	sujeitos,	e
+o	modo	como	os	sujeitos	os	exercem,	no	processo.	Estas	relações	(entre	os	sujeitos	e	entre	os	atributos)
+dão	coesão	a	este	sistema,	que	é	o	processo.	O	processo	é	um	sistema	interacional,	já	que	se	desenvolve
+através	da	influência	mútua	entre	partes	e	órgão	jurisdicional,	devendo	ser	definido,	portanto,	como	uma
+estrutura	dialética	(Elio	Fazzalari,	Istituzioni	di	diritto	processuale,	7.	ed.,	p.	83;	sobre	a	ideia	de
+sistema	interacional,	cf.	Paul	Watzlawick	et	al.
+[/PAGINA 13]
+
+[PAGINA 14]
+,	Pragmática	da	comunicação	humana,	p.	109;	cf.
+também	o	que	escrevemos,	com	base	nessa	noção	de	sistema,	em	Execução	civil	cit.,	2.ed.,	2004,	n.	8.1.,
+p.
+70	ss.,	e,	mais	recentemente,	desenvolvendo-a	para	tratar	da	natureza	de	processo,	em	Processo	civil
+moderno,	v.	1.,	Parte	geral	e	processo	de	conhecimento,	4.ed.,	em	coautoria	com	Teresa	Arruda	Alvim
+Wambier,	n.	1.5.1,	p.	52	ss.).	O	processo,	assim,	é	um	sistema	integrado	pelos	sujeitos	processuais	e	por
+seus	atributos,	em	que	interagem	as	partes	(no	exercício	de	seu	status	positivo,	ativo	etc.)	e	o	órgão
+jurisdicional.	O	processo	só	pode	ser	compreendido,	assim,	como	globalidade:	não	se	trata	apenas	de
+acumulação	(ou	soma)	de	elementos	abstratos.	A	interação	que	há	entre	os	sujeitos	do	processo	e	seus
+atributos	não	pode	ser	explicada	apenas	pelos	elementos	separadamente	considerados	(não	somatividade;
+a	respeito,	cf.	uma	vez,	mais,	o	que	escrevemos	em	Execução	civil	cit.,	e,	mais	aprofundadamente,
+Watzlavick	et	al.,	passim).	Embora	não	consideremos	errônea	a	afirmação	de	que	o	processo	é	uma
+relação	jurídica	–	desde	que	consideradas	as	ressalvas	que	fizemos	ao	próprio	conceito	de	relação
+jurídica	–,	parecemos	mais	adequada	a	concepção	de	processo	como	sistema	interacional,	pois	esta	tem	a
+
+aptidão	de	destacar	características	dos	sujeitos	processuais	e	do	envolvimento	que	estes	têm	no	e	ao
+longo	do	processo,	em	que	sucedem	variadas	“micror-relações”.	Ademais,	compreender	o	processo
+como	sistema	interacional	implica	reconhecer	a	importância	da	comunicação	que	deve	haver	entre	as
+partes	e	no	modo	como	deve	ser	as	manifestações	destas.	Assim,	p.ex.,	deve	haver	um	esforço,	por	parte
+do	órgão	jurisdicional,	em	compreender	as	manifestações	das	partes	e	manifestar-se	de	modo	a	ser
+entendido	(cf.	comentário	ao	art.	8.º	do	CPC/2015).	A	exigência	de	sensibilidade	para	o	que	vai
+veiculado	no	conteúdo	da	manifestação	das	partes	impõe	ao	intérprete,	também,	dar	novo	sentido	ao
+modo	como	devem	ser	entendidas	as	formas	dos	atos	processuais	(e,	também,	à	forma	do	próprio
+processo,	cf.
+comentário	aos	arts.	188	ss.	do	CPC/2015).
+VII.	Princípios	da	demanda	e	da	inércia	da	jurisdição.	O	início	do	processo	é	condicionado	à	demanda
+da	parte	(	nemo	iudex	sine	actore).	A	demanda	é	a	primeira	manifestação	processual	do	exercício	do
+direito	de	ação	(cf.	comentário	supra).	A	jurisdição	movimenta-se	em	decorrência	da	demanda	(	nemo
+iudex	sine	actore),	ficando,	antes	disso,	inerte	(	ne	procedat	iudex	ex	officio).	O	princípio	da	inércia	da
+jurisdição,	assim,	é	a	outra	face	do	princípio	da	demanda,	encontrando-se	ambos	nos	princípios
+positivados	nos	arts.	2.º	do	CPC/2015.
+VIII.	Princípio	do	impulso	oficial.	Tendo-se	iniciado	por	provocação	das	partes,	o	processo	desenvolve-
+se	“por	impulso	oficial”	(art.	2.º	do	CPC/2015).	Doravante,	põe-se	a	jurisdição	a	atuar,	com	o	intuito	de
+dar	fim	à	lide,	realizando	os	princípios	e
+garantias	decorrentes	do	due	process	of	law	(cf.	comentário	ao	art.	3.º	do	CPC/2015).
+IX.	Exercício	da	de
+[/PAGINA 14]
+
+[PAGINA 15]
+manda	e	desistência	da	ação.	Exercido	o	direito	de	ação	através	da	demanda,	a	sua
+desistência	condiciona-se	à	observação	do	disposto	no	art.	485,	§§	4.º	e	5.º,	do	CPC/2015.	À	luz	do	art.
+267,	§	4.º	do	CPC/1973	(segundo	o	qual	“depois	de	decorrido	o	prazo	para	a	resposta,	o	autor	não
+poderá,	sem	o	consentimento	do	réu,	desistir	da	ação”)	assim	já	se	decidia,	a	fortiori,	que	não	poderia
+ser	admitida	a	desistência	da	ação	após	a	prolação	de	sentença,	pelo	juiz:	“A	desistência	da	ação	é
+faculdade	processual	conferida	à	parte	que	abdica,	momentaneamente,	do	monopólio	da	jurisdição,
+exonerando	o	Judiciário	de	pronunciarse	sobre	o	mérito	da	causa,	por	isso	que	não	pode	se	dar,	após	a
+sentença	de	mérito”
+(STJ,	REsp	1.115.161/RS,	j.	04.03.2010,	rel.	Min.	Luiz	Fux).
+X.	Requisitos	processuais.	Requisitos	de	formação	do	processo	e	dos	atos	realizados	ao	longo	do
+procedimento.
+Pressupostos	processuais	e	condições	da	ação,	no	CPC/1973	e	no	CPC/2015.	São	requisitos	para	que
+o	processo	exista	(chamados,	comumente,	de	pressupostos	processuais	de	existência):	demanda,
+jurisdição	e,	também,	citação	(sobre	a	existência	do	processo	sem	citação,	cf.	comentário	infra).	Para
+que	o	processo	exista,	deve	haver	o	exercício	de	demanda	perante	a	jurisdição.	A	atividade
+jurisdicional	é	condicionada	pela	demanda	(art.	2.º	do	CPC/2015;	a	capacidade	postulatória	não	é
+pressuposto	de	existência	do	processo;	o	CPC/2015	considera	ineficaz	em	relação	àquele	em	cujo	nome
+foi	praticado	o	ato	sem	procuração,	caso	não	haja	ratificação,	cf.	art.	104,	§	2.º	do	CPC/2015,	mas	o	ato,
+em	si,	não	será	considerado,	se	não	houver	ratificação,	cf.	art.	76	do	CPC/2015;	o	Código	revogado
+considerava	juridicamente	inexistente	o	ato,	se	ausente	a	capacidade	postulatória,	em	caso	de	não
+
+ratificação,	cf.	art.	37,	parágrafo	único,	do	CPC/1973).	É	inadmissível	a	demanda,	por	outro	lado,	se
+ausentes	aquilo	que	o	Código	revogado	(art.	267,	VI	do	CPC/1973)	denominava	de	condições	da	ação
+(legitimidade	ad	causam	e	interesse	processual).	O	CPC/2015	não	mais	se	refere	ao	termo	(cf.
+comentário	ao	art.	485	do	CPC/2015).	Deve	a	demanda	ser	exercida	perante	órgão	dotado	de	jurisdição.
+Mas	quem	pede	tutela	jurisdicional,	o	faz	para	que	esta	produza	efeitos	sobre	a	esfera	jurídica	de	outrem
+(o	réu,	em	ação	de	conhecimento;	o	executado,	em	ação	de	execução	etc.).	Para	que	este	passe	a	integrar
+a	relação	jurídico-processual,	deve-se	realizar	a	citação.	Sem	citação,	portanto,	inexiste	processo	com	o
+réu	(nesse	sentido,	cf.	STJ,	REsp	1009246/RN,	3.ª	T.,	j.	26.06.2008,	rel.	Min.	Nancy	Andrighi,	em	que	se
+decidiu	que	“a	ausência	de	citação	–	que	é	pressuposto	de	existência	da	relação	processual	–,	impede	a
+abertura	do	debate	a	respeito	da	decretação	dos	efeitos	da	revelia”;	a	respeito,	cf.	comentário	ao	art.	312
+do	CPC/2015,	sobre	a	distinção	entre	inexistência	e	ineficácia	do	processo	em	relação	a	quem	não	foi
+citado).	Ao	lado	desses	pressupostos	de	existência,	há	também	o	que	se	convencionou	chamar	de
+pressupostos	de	v
+[/PAGINA 15]
+
+[PAGINA 16]
+alidade	do	processo.	Assim,	p.ex.,	afirma-se	que	não	basta	haver	jurisdição,	mas	esta
+deve	ser	exercida	por	juiz	imparcial,	sob	pena	de	nulidade;	diz-se,	ainda,	que	além	de	existir	citação,
+deve	esta	ser	válida.	.	Em	muitos	destes	casos,	contudo,	não	se	estará	diante	de	vício	que	gera	mera
+nulidade.	Pensamos	nós,	p.	ex.,	que	não	se	pode	dizer	ter	havido	autêntica	jurisdição	quando	o	processo
+tiver	sido	dirigido	por	um	juiz	condenado	por	crime	de	corrupção.	Apesar	de,	nesse	caso,	prever	a	norma
+a	possibilidade	de	ajuizamento	de	ação	rescisória	(art.	966,	I	do	CPC/2015,	correspondente	ao	art.	485,	I
+do	CPC/1973),	para	haver	jurisdição,	não	basta	que	a	sentença	seja	proferida	por	um	agente	constituído
+pelo	Estado:	faz-se	necessário	também	o	animus	judicandi.	Algo	similar	se	dá	com	a	citação.	Se	esta	se
+considera	realizada	com	a	informação	ao	réu/executado,	não	se	poderá	dizer	que	há	processo	em	relação
+a	este,	se	a	citação	não	tiver	observado	seus	requisitos	intrínsecos	de	validade	e,	por	isso,	não	tiver
+alcançado	sua	finalidade.	Citação,	assim,	ou	há,	ou	não	há:	“Considerando	que	a	citação	é	ato	de
+comunicação,	deve	a	informação	de	que	há	ação	judicial	em	trâmite	chegar	ao	seu	destinatário.	A
+expedição	da	carta,	mandado	ou	edital	de	citação,	assim,	é	apenas	parte	da	citação,	que	somente	se
+perfaz	quando	o	demandado	recebe	a	informação.	Por	isso	que,	tão	ou	mais	importante	que	a	emissão	da
+informação	e	sua	validade,	em	si	mesma	considerada,	é	o	conhecimento	por	parte	daquele	que	ocupa	o
+polo	passivo	da	relação	jurídico-processual”	(Teresa	Arruda	Alvim	Wambier,	Nulidades.	.	,	6.	ed.,	cit.,
+n.	3.3.2,	p.	354).	O	processo,	assim,	não	é	inválido,	se	inválida	a	citação.	Inválida	a	citação,	e	não	tendo
+sido	sua	falta	suprida,	não	há	mera	nulidade,	já	que	o	processo	ainda	não	chegou	a	se	formar	com	o
+réu/executado,	mas	apenas	entre	demandante	e	órgão	jurisdicional.	Sob	outra	perspectiva,	é	possível
+dizer	que,	não	citado	o	réu,	há,	em	relação	a	ele,	ineficácia	do	processo	(e	dos	atos	processuais
+realizados)	e,	se	o	réu	comparece	sem	arguir	a	falta	de	citação	e	passa	a	postular	em	juízo,	a	falta	de
+citação	fica	suprida	(cf.
+comentário	ao	art.	239	do	CPC/2015).	Sobre	a	distinção	entre	inexistência	e	ineficácia	do	processo,
+quando	não	citado	o	réu	ou	executado,	cf.	comentário	ao	art.	312	do	CPC/2015.
+XI.	Devido	processo	legal	(	Due	process	of	law	,	processo	“justo”	ou	“equitativo”	).	Garantias
+mínimas.	Afirma-se,	tradicionalmente,	que	o	devido	processo	legal,	“no	processo	civil,	subsume-se	na
+garantia	da	ação	e	da	defesa,	em	juízo”	(Ada	Pellegrini	Grinover,	As	garantias	constitucionais	do
+direito	de	ação,	cit.,	n.	20,	p.	40).	Este	princípio	tem	raízes	no	due	process	of	law	do	direito	norte-
+americano,	sendo	estudado	pela	doutrina	mais	recente	sob	o	título	de	“garantias	de	um	processo	justo”
+ou	“equitativo”	(cf.	doutrina	citada	em	Parte	geral	e	processo	de	conhecimento,	Processo	civil
+moderno,	v.	1,	item	1.7,	que	escrevemos	em	coautoria	com	Teresa	Arruda	Alvim	W
+[/PAGINA 16]
+
+[PAGINA 17]
+ambier).	Entre	as
+garantias	fundamentais,	a	CF/1988	estabelece	o	direito	à	inafastabilidade	da	tutela	jurisdicional	(art.	5.º,
+
+XXXV),	à	ampla	defesa	e	ao	contraditório	(art.	5.º,	LV),	à	duração	razoável	do	processo	(art.	5.º,
+LXXVIII)	e,	em	outras	disposições,	refere-se	a	mais	princípios,	como	o	da	motivação	das	decisões
+judiciais	(art.	93,	IX).	Há	ainda	princípios	que,	embora	não	digam	respeito	exclusivamente	ao	processo,
+mostram-se,	nesta	seara,	fecundos	de	consequências,	tal	como	ocorre	com	o	princípio	da	isonomia	(art.
+5.º,	caput,	I,	da	CF/1988;	v.
+comentário	a	seguir).	Estes	princípios	e	garantias	decorrem	da	cláusula	do	devido	processo	legal,
+também	textualmente	referida	no	art.	5.º,	LIV	da	CF/1988.	O	CPC/2015	reproduz	muitas	dessas
+disposições,	em	seus	primeiros	artigos	(cf.
+comentários	seguintes).	As	garantias	que	decorrem	do	princípio	do	devido	processo	legal	são
+consideradas	mínimas,	operando	em	todos	os	momentos	ou	fases	do	procedimento	(cf.	Luigi	Paolo
+Comoglio	et	al,	Lezioni.	.	cit.,	p.	59	e	63).	A	respeito,
+cf.	o	que	escrevemos	em	Constituição	Federal	comentada,	no	comentário	aos	incisos	do	art.	5.º	da
+CF/1988	acima	referidos.
+Art.	3º.	Não	se	excluirá	da	apreciação	jurisdicional	ameaça	ou	lesão	a	direito.
+§	1º	É	permitida	a	arbitragem,	na	forma	da	lei.
+§	2º	O	Estado	promoverá,	sempre	que	possível,	a	solução	consensual	dos	conflitos.
+§	3º	A	conciliação,	a	mediação	e	outros	métodos	de	solução	consensual	de	conflitos	deverão	ser
+estimulados	por	juízes,	advogados,	defensores	públicos	e	membros	do	Ministério	Público,	inclusive	no
+curso	do	processo	judicial.
+CPC/1973:	Sem	correspondente.
+V.	arts.	5.º,	XXXV,	e	92,	CF/1988;	Lei	9.307/1996	(Arbitragem);	Res.	125/2010	do	CNJ	(Política
+Judiciária	Nacional	de	tratamento	adequado	dos	conflitos	de	interesses	no	âmbito	do	Poder	Judiciário).
+•	STF,	Súmula	Vinculante	28:	É	inconstitucional	a	exigência	de	depósito	prévio	como	requisito	de
+admissibilidade	de	ação	judicial	na	qual	se	pretenda	discutir	a	exigibilidade	de	crédito	tributário.
+•	STF,	Súmula	667:	Viola	a	garantia	constitucional	de	acesso	à	jurisdição	a	taxa	judiciária	calculada
+sem	limite	sobre	o	valor	da	causa.
+•	STJ,	Súmula	485:	A	Lei	de	Arbitragem	aplica-se	aos	contratos	que	contenham	cláusula	arbitral,
+ainda	que	celebrados	antes	da	sua	edição.
+•	STJ,	REsp	(repetitivo)	962.838/BA:	A	propositura	de	ação	anulatória	de	débito	fiscal	não	está
+condicionada	à	realização	do	depósito	prévio	previsto	no	art.	38	da	Lei	de	Execuções	Fiscais,	posto
+não	ter	sido	o	referido	dispositivo	legal	recepcionado	pela	Constituição	Federal	de	1988,	em	virtude
+de	incompatibilidade	material	com	o	art.	5º,	inc.	XXXV	(STJ,	REsp	962.838/BA,	1.ª	S.,	j.
+25.11.2009,	rel.	Min.	Luiz	Fux).
+SUMÁRIO:	I.	Acesso	à	ordem	jurídica	justa	e	variados	meios	de	solução	de	conflitos.	Sistema	de
+
+Justiça	multiportas	(	multidoor	courthouse)	–	II.	Inafastabilidade	da	jurisdição	–	III.	Ameaça	ou	lesão	a
+direito	e	tutelas	preventiva	e	repressiva.
+Variações	–	IV.	Acesso	à	justiça	e	formal
+[/PAGINA 17]
+
+[PAGINA 18]
+ismo	processual.	O	formalismo	constitucional	–	V.	Acesso	à
+justiça	e	prévio	requerimento	ou	esgotamento	da	via	administrativa	–	VI.	Métodos	de	solução	consensual
+de	conflitos.	Conciliação	e	mediação.	Crítica	–	VII.	Arbitragem	–	VIII.	Convenção	de	arbitragem:
+cláusula	compromissória	e	compromisso	arbitral	–	IX.
+Cláusula	arbitral	cheia	ou	vazia.
+I.	Acesso	à	ordem	jurídica	justa	e	variados	meios	de	solução	de	conflitos.	Sistema	de	Justiça
+multiportas	(	multi-
+door	courthouse	).	De	acordo	com	a	Res.	CNJ	125/2010,	“o	direito	de	acesso	à	Justiça,	previsto	no	art.
+5.º,	XXXV,	da	CF/1988
+além	da	vertente	formal	perante	os	órgãos	judiciários,	implica	acesso	à	ordem	jurídica	justa”,	e,	“por
+isso,	cabe	ao	Judiciário	estabelecer	política	pública	de	tratamento	adequado	dos	problemas	jurídicos	e
+dos	conflitos	de	interesses,	que	ocorrem	em	larga	e	crescente	escala	na	sociedade,	de	forma	a	organizar,
+em	âmbito	nacional,	não	somente	os	serviços	prestados	nos	processos	judiciais,	como	também	os	que
+possam	sê-lo	mediante	outros	mecanismos	de	solução	de	conflitos,	em	especial	dos	consensuais,	como	a
+mediação	e	a	conciliação”.	Há	franca	tendência	a	que	se	incremente,	gradativamente,	entre	nós,	o	sistema
+de	Justiça	conhecido	como	“multiportas”,	decorrente	das	ideias	de	Frank	Sander	(cf.	Varieties	of	dispute
+processing,	cit.,	p.	65-87).	A	partir	das	ideias	do	referido	autor,	a	expressão	“multidoor	courthouse”	foi
+concebida	posteriormente.	Frank	Sander	considera	melhor,	contudo,	falar	em	“centro	de	justiça
+abrangente”	(“comprehensive	justice	center”).	Defendeu	o	autor	que	se	estabelecesse	“a	flexible	and
+diverse	panoply	of	dispute	resolution	processes,	with	particular	types	of	cases	being	assigned	to	differing
+processes	(or	combination	of	processes)”	(op.	cit.,	p.	83).	Faz-se	necessário,	antes,	classificar	os
+variados	litígios	a	fim	de	identificar	qual	o	meio	(ou	os	meios)	mais	adequado(s)	para	solucioná-los.
+Como	afirmou	Frank	Sander,	“the	idea	is	to	look	at	different	forms	of	dispute	resolution-mediation,
+arbitration,	negotiation,	and	med-arb	(a	blend	of	mediation	and	arbitration).	I	tried	to	look	at	each	of	the
+different	processes	and	see	whether	we	could	work	out	some	kind	of	taxonomy	of	which	disputes	ought	to
+go	where,	and	which	doors	are	appropriate	for	which	disputes”.	Adverte	Frank	Sander,	contudo,	que	“the
+thing	about	the	multidoor	courthouse	is	that	it	is	a	simple	idea,	but	not	simple	to	execute	because	to	decide
+which	cases	ought	to	go	to	what	door	is	not	a	simple	task”	(cf.	Mariana	Hernandez-Crespo,	A	dialogue.	.,
+cit.,	p.	670).	Não	basta,	pois,	conceber	meios	alternativos	à	jurisdição	ordinária	para	a	solução	de
+conflitos	ou,	pior	ainda,	simplesmente	impô-los	aos	litigantes.	Faz-se	necessário	compreender	a	natureza
+do	conflito	para	verificar	qual	o	meio	mais	adequado	para	solucioná-lo.
+II.	Inafastabilidade	da	jurisdição.	Tendo	em	vista	que,	de	acordo	com	Constituição,	a	lei	não	excluirá	da
+apreciação	do	Poder	Judiciário	lesão	ou	ameaça	a	direito	(art.	5.º,
+[/PAGINA 18]
+
+[PAGINA 19]
+XXXV,	da	CF/1988),	a	jurisdição
+deve	realizar	o	Direito,	restaurando	a	ordem	jurídica	violada	ou	evitando	que	tal	violação	ocorra,
+através	de	procedimento	ordenado	para	este	fim.	Este	princípio	constitucional	revela	que	não	se	concebe
+que	a	atividade	jurisdicional	seja	entendida	como	“agir	orientado	pelo	passado”,	mas,	“orientada	por
+normas	fundamentais”,	deve	a	jurisdição	voltar-se	a	“problemas	do	presente	e	do	futuro”	(Jürgen
+Habermas,	Direito	e	democracia:	entre	faticidade	e	validade,	vol.	1,	p.	305-306).	Sobre	a	natureza	da
+função	jurisdicional,	cf.
+
+comentário	ao	art.	16	do	CPC/2015;	sobre	as	espécies	de	ação,	cf.	comentário	ao	art.	19	do	CPC/2015;
+sobre	tutelas	preventiva	e	repressiva,	cf.	comentário	a	seguir.
+III.	Ameaça	ou	lesão	a	direito	e	tutelas	preventiva	e	repressiva.	Variações.	A	atividade	jurisdicional
+realiza	o	direito	não	apenas	restaurando	a	ordem	jurídica	violada,	mas,	também,	evitando	que	tal
+violação	ocorra	(CF/1988,	art.	5.º,	XXXV).
+Sob	este	prisma,	afirma-se	que	a	tutela	jurisdicional	pode	ser	repressiva	ou	preventiva.	A	tutela
+repressiva	é,	evidentemente,	sancionatória,	mas	optamos	por	não	usar	tais	expressões	como	sinônimas,
+pois	adotamos	conceito	mais	amplo	de	sanção,	que	abrange	mecanismos	voltados	à	prevenção	(cf.
+comentário	ao	art.	771	do	CPC/2015;	sobre	os	usos	desses	termos,	cf.	José	Carlos	Barbosa	Moreira,
+Tutela	sancionatória	e	tutela	preventiva,	Revista	da	Faculdade	de	Direito	da	UFPR,	v.	19,	1979,	p.	117
+ss.;	Ada	Pellegrini	Grinover,	A	tutela	preventiva	das	liberdades.	.,	RePro	v.	22,	1981,	p.	26	ss.).
+Costuma-se	aludir,	dentre	as	variações	dessas	formas	de	tutela,	à	modalidades	inibitória,	ressarcitória,
+pelo	equivalente,	em	forma	específica	(tutela	reintegratória	e	de	reparação	em	forma	específica).	A
+respeito,	cf.	comentário	ao	art.	497	do	CPC/2015.
+IV.	Acesso	à	justiça	e	formalismo	processual.	O	formalismo	constitucional.	Devem	ser	rejeitadas	tanto
+a	figura	do	formalismo	excessivo	quanto	a	do	formalismo	arbitrário.	Decidiu	o	STF,	com	acerto,	que	o
+formalismo	processual	exacerbado	impede	a	realização	do	princípio	consagrado	no	art.	5.º,	XXXV	da
+CF/1988:	“A	doutrina	moderna	ressalta	o	advento	da	fase	instrumentalista	do	Direito	Processual,	ante	a
+necessidade	de	interpretar	os	seus	institutos	sempre	do	modo	mais	favorável	ao	acesso	à	justiça	(art.	5.º,
+XXXV,	CF/1988)	e	à	efetividade	dos	direitos	materiais	(Carlos	Alberto	Alvaro	de	Oliveira,	O
+formalismo-valorativo	no	confronto	com	o	formalismo	excessivo.	Revista	de	Processo,	São	Paulo:	RT,	n.
+137,	p.	7-31,	2006;	Cândido	Rangel	Dinamarco.	A	instrumentalidade	do	processo.	14.	ed.	São	Paulo:
+Malheiros,	2009;	José	Roberto	dos	Santos	Bedaque.	Efetividade	do	Processo	e	Técnica	Processual.	3.
+ed.	São	Paulo:	Malheiros,	2010).	‘A	forma,	se	imposta	rigidamente,	sem	dúvidas	conduz	ao	perigo	do
+arbítrio	das	leis,	nos	moldes	do	velho	brocardo	dura	lex,	sed	lex’	(Bruno	Vinícius	Da	Rós	Bodart.
+Simplificação	e	adaptabilidade	no	anteprojeto	do	novo	CPC	brasileiro.	In:	O	Novo	Pr
+[/PAGINA 19]
+
+[PAGINA 20]
+ocesso	Civil
+Brasileiro	–	Direito	em	Expectativa.	Org.	Luiz	Fux.	Rio	de	Janeiro:	Forense,	2011.	p.	76).	As	preclusões
+se	destinam	a	permitir	o	regular	e	célere	desenvolvimento	do	feito,	por	isso	que	não	é	possível	penalizar
+a	parte	que	age	de	boa-fé	e	contribui	para	o	progresso	da	marcha	processual	com	o	não	conhecimento	do
+recurso,	arriscando	conferir	o	direito	à	parte	que	não	faz	jus	em	razão	de	um	purismo	formal
+injustificado.	O	formalismo	desmesurado	ignora	a	boa-fé	processual	que	se	exige	de	todos	os	sujeitos	do
+processo,	inclusive,	e	com	maior	razão,	do	Estado-Juiz,	bem	como	se	afasta	da	visão
+neoconstitucionalista	do	direito,	cuja	teoria	proscreve	o	legicentrismo	e	o	formalismo	interpretativo	na
+análise	do	sistema	jurídico,	desenvolvendo	mecanismos	para	a	efetividade	dos	princípios	constitucionais
+que	abarcam	os	valores	mais	caros	à	nossa	sociedade	(Paolo	Comanducci.	Formas	de
+(neo)constitucionalismo:	un	análisis	metateórico.	Trad.	Miguel	Carbonell.	In:	‘Isonomía.	Revista	de
+Teoría	y	Filosofía	del	Derecho’,	n.	16,	2002).	O	Supremo	Tribunal	Federal,	recentemente,	sob	o	influxo
+do	instrumentalismo,	modificou	a	sua	jurisprudência	para	permitir	a	comprovação	posterior	de
+tempestividade	do	Recurso	Extraordinário,	quando	reconhecida	a	sua	extemporaneidade	em	virtude	de
+feriados	locais	ou	de	suspensão	de	expediente	forense	no	Tribunal	a	quo	(STF,	RE	626.358-AgR/MG,
+Pleno,	j.	22.03.2012,	rel.	Min.	Cezar	Peluso).	(.	.).	O	recurso	merece	conhecimento,	na	medida	em	que	a
+parte,	diligente,	opôs	os	embargos	de	declaração	mesmo	antes	da	publicação	do	acórdão,	contribuindo
+para	a	celeridade	processual”	(STF,	HC	101.132	ED,	1.ª	T.,	j.	24.04.2012,	rel.	Min.	Luiz	Fux).	Sobre
+
+nossa	concepção	de	formalismo	constitucional,	cf.	comentário	ao	art.	188	do	CPC/2015.
+V.	Acesso	à	justiça	e	prévio	requerimento	ou	esgotamento	da	via	administrativa.	“O	direito
+constitucional	de	petição	e	o	princípio	da	legalidade	não	implicam	a	necessidade	de	esgotamento	da	via
+administrativa	para	discussão	judicial	da	validade	de	crédito	inscrito	em	dívida	ativa	da	Fazenda
+Pública”	(STF,	RE	233.582,	Plenário,	rel.	p/	o	acórdão	Min.	Joaquim	Barbosa,	j.	16.08.2007).	Decidiu	o
+STJ	que,	“em	regra,	não	se	materializa	a	resistência	do	INSS	à	pretensão	de	concessão	de	benefício
+previdenciário	não	requerido	previamente	na	esfera	administrativa”,	mas	“o	interesse	processual	do
+segurado	e	a	utilidade	da	prestação	jurisdicional	concretizam-se	nas	hipóteses	de	a)	recusa	de
+recebimento	do	requerimento	ou	b)	negativa	de	concessão	do	benefício	previdenciário,	seja	pelo
+concreto	indeferimento	do	pedido,	seja	pela	notória	resistência	da	autarquia	à	tese	jurídica	esposada”
+(STJ,	REsp	1.310.042/PR,	2.ª	T.,	j.	15.05.2012,	rel.	Min.	Herman	Benjamin).	Note-se,	contudo,	que	“a
+propositura,	pelo	contribuinte,	de	mandado	de	segurança,	ação	de	repetição	do	indébito,	ação	anulatória
+ou	declaratória	da	nulidade	do	crédito	da	Fazenda	Nacional	importa	em	renúncia	ao	direito	de	recorrer
+na	esfera	administrativa	e
+[/PAGINA 20]
+
+[PAGINA 21]
+desistência	do	recurso	interposto	(art.	1.º,	§	2.º,	do	Dec.-lei	1.737/1959	e
+parágrafo	único	do	art.	38	da	Lei	6.830/1980)”	(STJ,	REsp	1294946/MG,	2.ª	T.,	j.	28.08.2012,	rel.	Min.
+Mauro	Campbell	Marques).
+VI.	Métodos	de	solução	consensual	de	conflitos.	Conciliação	e	mediação.	Crítica.	Tem	o	juiz,	à	luz	do
+CPC/2015,	também	a	incumbência	de	promover	a	autocomposição	e,	nesse	caso,	“preferencialmente	com
+auxílio	de	conciliadores	e	mediadores	judiciais”	(cf.	art.	139,	V	do	CPC/2015).	Estabelece	o	art.	3.º,	§
+3.º	do	CPC/2015,	também,	que	“a	conciliação,	a	mediação	e	outros	métodos	de	solução	consensual	de
+conflitos	deverão	ser	estimulados	por	magistrados,	advogados,	defensores	públicos	e	membros	do
+Ministério	Público,	inclusive	no	curso	do	processo	judicial”.	O	uso	de	técnicas	que	favoreçam	a
+autocomposição,	assim,	pode	ser	feito	incidentalmente,	no	curso	do	processo,	devendo	ser	estimulados.
+O
+CPC/2015	optou,	de	todo	modo,	pelo	uso	facultativo	de	tais	mecanismos,	e	não	obrigatório	(seja
+incidentalmente,	seja	previamente,	como	requisito	para	o	ajuizamento	da	ação;	cf.	também	comentário
+aos	arts.	166	e	176	do	CPC/2015).	Podem	as	partes	chegar	por	si	mesmas	a	uma	composição,	ou	serem
+conduzidas	a	isso	por	mediadores	ou	conciliadores.	Na	mediação	há	um	plus	em	relação	à	conciliação,
+já	que	na	mediação	o	terceiro	(mediador)	tenta	criar	condições	favoráveis	a	que	as	partes	possam	chegar,
+por	si	mesmas,	à	composição	(sobre	a	diferença	entre	mediação	e	conciliação,	cf.	comentário	ao	art.
+166	do	CPC/2015).	A	composição	pode	ser	obtida	quando	já	instaurado	o	processo,	e,	homologada	pelo
+juiz,	valerá	como	título	executivo	judicial	(CPC/2015,	art.	515,	II);	podem	as	partes,	também,	realizar	a
+autocomposição	extraprocessualmente,	levando	tal	acordo	à	homologação	judicial,	obtendo,	também
+neste	caso,	um	título	executivo	judicial	(cf.	art.	515,	III	do
+CPC/2015,	correspondente	ao	art.	475-N,	V	do	CPC/1973).	As	partes	podem,	ainda,	buscar	a	solução	do
+conflito	através	do	processo	arbitral	(cf.	comentário	a	seguir).	Refere-se	o	CPC/2015	a	outros	métodos
+de	solução	consensual	de	conflitos	(a	avaliação	neutra	por	terceiro,	p.ex.,	foi	alternativa	aventada	durante
+a	tramitação	do	projeto	de	CPC/2015	no	Congresso	Nacional,	mas	acabou	não	sendo	aprovada;	no	caso,
+ocorre	algo	parecido	com	o	que	sucede	na	mediação	avaliativa,	com	a	diferença	de	que,	naquele	caso,	o
+terceiro	não	se	limitar	a	apresentar	consequências	possíveis,	mas	opina	sobre	o	caso,	indicando	qual,	a
+seu	ver,	seria	a	melhor	alternativa;	sobre	o	tema,	cf.,	dentre	outros,	Lilia	Maia	de	Morais	Sales,
+Mediação	facilitativa	e	“mediação”	avaliativa.	.,	Novos	estudos	jurídicos,	v.	16,	p.	20	ss.).
+
+Manifestamo-nos	favoravelmente	ao	estímulo	ao	uso	de	meios	consensuais	de	solução	de	conflitos,	desde
+que	não	sejam	utilizados	critérios	discriminatórios	de	“seleção”
+dos	casos	dirigidos	a	tais	alternativas	(por	exemplo,	causas	em	que	litiguem	classes	sociais	menos
+favorecidas),	tendentes	a	reservar	o	processo	judicial	tra
+[/PAGINA 21]
+
+[PAGINA 22]
+dicional	a	causas	supostamente	mais
+importantes,	de	interesse	de	determinados	grupos.	Há	que	se	considerar,	além	disso,	que	a	solução
+consensual	pode	por	fim,	ao	menos	formalmente,	à	lide,	mas	acaba	impedindo	o	Judiciário	de	se
+manifestar	a	respeito	do	problema	jurídico,	fazendo	perpetuar,	assim,	o	estado	de	incerteza	do	direito	(o
+que	poderá	levar	ao	surgimento	de	novas	lides,	em	torno	do	mesmo	tema).	Há	que	se	ter	em	conta,	por
+fim,	sob	o	ponto	de	vista	da	administração	estatal	da	justiça,	que	o	investimento	na	criação	e	manutenção
+de	centros	de	conciliação	e	mediação	também	gerará	despesas	públicas,	ainda	que	em	menor	grau	que	as
+decorrentes	da	justiça	ordinária.	O	estímulo	ao	uso	de	métodos	de	solução	consensual	de	controvérsias	e
+de	processo	arbitral	não	deve	levar	à	sobreposição	de	tais	caminhos	à	atuação	jurisdicional	realizada
+através	do	processo,	devendo-se	evitar	o	risco	de	ocorrer	o	alheamento	do	Estado-Juiz	quanto	aos
+problemas	sociais	(com	amplo	levantamento	das	críticas	que	tem	sido	feitas	a	respeito,	na	doutrina	norte-
+americana,	cf.
+Eugênio	Facchini	Neto,	ADR	(	alternative	dispute	resolution).	.	cit.,	p.	118	ss.).	Sobre	a	conciliação	e	a
+mediação,	cf.	comentário	aos	arts.	166	ss.	do	CPC/2015.
+VII.	Arbitragem.	No	processo	arbitral	a	resolução	do	conflito	não	se	dá	por	proposição	dos	próprios
+litigantes,	já	que,	por	este	método,	obtém-se	a	sentença	arbitral	(que,	consoante	dispõe	o	art.	515,	VII	do
+CPC/2015,	correspondente	ao	art.	475-N,	IV
+do	CPC/1973,	é	título	executivo	judicial),	proferida	por	um	terceiro	(órgão	ou	juízo	arbitral)	escolhido
+pelas	partes.	Sobre	a	natureza	jurisdicional	da	arbitragem,	cf.	comentário	ao	art.	16	do	CPC/2015.
+VIII.	Convenção	de	arbitragem:	cláusula	compromissória	e	compromisso	arbitral.	A	convenção	de
+arbitragem	é	o	acordo	de	vontades	das	partes	em	submeter	um	determinado	conflito	potencial	ou	real	ao
+juízo	arbitral,	podendo	dar-se	por	cláusula	compromissória	(arts.	4.º	a	8.º	da	Lei	9.307/1996)	ou
+compromisso	arbitral	(arts.	9.º	a	12	da	mesma	Lei).	Na	última	hipótese,	convenciona-se	a	arbitragem
+após	o	surgimento	da	controvérsia.	A	cláusula	arbitral,	por	sua	vez,	diz	respeito	a
+“litígios	que	possam	vir	a	surgir”	(art.	4.º,	caput,	da	referida	Lei).	A	respeito,	cf.	o	que	escrevemos	em
+Processo	civil	moderno,	v.	IV,	Procedimentos	cautelares	e	especiais,	5.	ed.,	item	22,	p.	360	ss.,	item
+escrito	em	coautoria	com	Fábio	Caldas	de	Araújo.
+Tem-se	decidido	que	a	previsão	contratual	de	cláusula	de	arbitragem,	quando	anteriormente	ajustada
+pelas	partes,	gera	a	obrigatoriedade	de	solução	de	conflitos	por	essa	via	(STJ,	REsp	791.260/RS,	3.ª	T.,
+j.	22.06.2010,	rel.	Min.	Paulo	Furtado).	É
+importante	notar	que,	“com	a	promulgação	da	Lei	de	Arbitragem,	passaram	a	conviver,	em	harmonia,	três
+regramentos	de	diferentes	graus	de	especificidade:	(i)	a	regra	geral,	que	obriga	a	observância	da
+arbitragem	quando	pactuada	pelas	partes,	com	derrogação	da	jurisdição	estatal;	(ii)	a	regra	específica,
+contida	no	art.	4.º,	§	2.º,	d
+[/PAGINA 22]
+
+[PAGINA 23]
+a	Lei	9.307/1996	e	aplicável	a	contratos	de	adesão	genéricos,	que	restringe	a
+eficácia	da	cláusula	compromissória;	e	(iii)	a	regra	ainda	mais	específica,	contida	no	art.
+51,	VII,	do	CDC,	incidente	sobre	contratos	derivados	de	relação	de	consumo,	sejam	eles	de	adesão	ou
+
+não,	impondo	a	nulidade	de	cláusula	que	determine	a	utilização	compulsória	da	arbitragem,	ainda	que
+satisfeitos	os	requisitos	do	art.	4.º,	§
+2.º,	da	Lei	9.307/1996.	O	art.	51,	VII,	do	CDC	se	limita	a	vedar	a	adoção	prévia	e	compulsória	da
+arbitragem,	no	momento	da	celebração	do	contrato,	mas	não	impede	que,	posteriormente,	diante	de
+eventual	litígio,	havendo	consenso	entre	as	partes	(em	especial	a	aquiescência	do	consumidor),	seja
+instaurado	o	procedimento	arbitral”	(STJ,	REsp	1.169.841/RJ,	3.ª	T.,	j.
+06.11.2012,	rel.	Min.	Nancy	Andrighi).	Já	se	decidiu	que	é	válido	o	procedimento	arbitral	aceito	sem
+oposição	pelas	partes,	ainda	que	inexista	prévia	cláusula	compromissória	(STJ,	Sentença	Estrangeira
+Contestada	856/EX,	Corte	Especial,	j.
+18.05.2005,	rel.	Min.	Menezes	Direito;	no	mesmo	sentido,	TJPR,	EIC	428067-1/10,	17.ª	Câm.,	j.
+07.12.2011,	rel.	Des.	Stewalt	Camargo	Filho).	De	acordo	com	a	Súmula	485	do	STJ,	“a	Lei	de
+Arbitragem	aplica-se	aos	contratos	que	contenham	cláusula	arbitral,	ainda	que	celebrados	antes	da	sua
+edição”.
+IX.	Cláusula	arbitral	cheia	ou	vazia.	A	lei	não	estabeleceu	um	procedimento	próprio	para	a	arbitragem.
+As	partes	são	livres	para	estabelecer	o	procedimento,	desde	que	obedeçam	aos	princípios	do
+contraditório	e	da	igualdade,	imparcialidade	e	convencimento	motivado	do	árbitro	(art.	21,	§	2.º,	da	Lei
+9.307/1996).	A	respeito,	cf.	o	que	escrevemos	em	Processo	civil	moderno,	v.	IV,	Procedimentos
+cautelares	e	especiais,	5.	ed.,	item	22,	p.	360	ss.,	item	escrito	em	coautoria	com	Fábio	Caldas	de	Araújo.
+A	cláusula	arbitral	pode	ser	cheia	ou	vazia,	caso	preveja	ou	não	todos	os	elementos	necessários	à
+instituição	da	arbitragem,	considerando-se	cheia	a	cláusula	compromissória	também	quando	“as	partes,
+valendo-se	da	faculdade	instituída	no	art.	5.º,	da	Lei	9.307/1996,	reportam-se	às	regras	de	um	órgão
+arbitral”	(TJSP,	Ap.c/Rev	1117830-0/7,	25.ª	Câm.,	j.	26.02.2008,	rel.	Des.	Antonio	Benedito	Ribeiro
+Pinto).	Decidiu-se	que,	“uma	vez	acionado	para	proceder	à	execução	específica	da	cláusula
+compromissória,	deve	o	Juízo	prolatar	sentença	contendo	os	elementos	necessários	à	instalação	da
+arbitragem”	(STJ,	REsp	1082498/MT,	4.ª	T.,	j.	20.11.2012,	rel.	Min.	Luis	Felipe	Salomão).	Decidiu-se
+que	a	validade	de	cláusula	arbitral	cheia	somente	pode	ser	examinada	pelo	Poder	Judiciário	após	a
+prolação	de	sentença	arbitral:	“A	cláusula	compromissória	‘cheia’,	ou	seja,	aquela	que	contém,	como
+elemento	mínimo	a	eleição	do	órgão	convencional	de	solução	de	conflitos,	tem	o	condão	de	afastar	a
+competência	estatal	para	apreciar	a	questão	relativa	à	validade	da	cláusula	arbitral	na	fase	inicial	do
+procedimento	(parágrafo	único	do	art.	8.º,	c/c	o	art.	20	da	LArb).	De	fato,	é	certa	a	coexistência
+[/PAGINA 23]
+
+[PAGINA 24]
+das
+competências	dos	juízos	arbitral	e	togado
+relativamente	às	questões	inerentes	à	existência,	validade,	extensão	e	eficácia	da	convenção	de
+arbitragem.	Em	verdade	–
+excluindo-se	a	hipótese	de	cláusula	compromissória	patológica	(‘em	branco’)	–,	o	que	se	nota	é	uma
+alternância	de	competência	entre	os	referidos	órgãos,	porquanto	a	ostentam	em	momentos	procedimentais
+distintos,	ou	seja,	a	possibilidade	de	atuação	do	Poder	Judiciário	é	possível	tão	somente	após	a	prolação
+da	sentença	arbitral,	nos	termos	dos	arts.
+32,	I	e	33	da	Lei	de	Arbitragem”	(STJ,	REsp	1.278.852/MG,	4.ª	T.,	j.	21.05.2013,	rel.	Min.	Luis	Felipe
+Salomão).
+Art.	4º.	As	partes	têm	o	direito	de	obter	em	prazo	razoável	a	solução	integral	do	mérito,	incluída	a
+
+atividade	satisfativa.
+CPC/1973:	Sem	correspondente.
+V.	arts.	5.º,	XXXV	e	92	da	CF/1988;	Lei	9.307/1996	(Arbitragem);	Res.	CNJ	125/2010	(Política
+Judiciária	Nacional	de	tratamento	adequado	dos	conflitos	de	interesses	no	âmbito	do	Poder	Judiciário).
+Direito	à	solução	do	mérito	em	prazo	razoável.	O	art.	4.º	do	CPC/2015	reproduz,	no	Código,	o	que
+prevê	a	Constituição	no	art.	5.º,	LXXVIII,	que	assegura	o	direito	à	razoável	duração	do	processo,	bem
+como	aos	meios	que	garantam	que	sua	tramitação	se	dê	celeremente.	É	também	assegurada,	sob	esse
+prisma,	a	prestação	jurisdicional	sem	dilações	indevidas	(expressão	empregada	na	Constituição
+espanhola,	art.	24,	2:	todos	têm	direito	“a	un	proceso	público	sin	dilaciones	indebidas	y	con	todas	las
+garantias”).	Segundo	nosso	entendimento,	a	garantia	de	razoável	duração	do	processo	constitui
+desdobramento	do	princípio	estabelecido	no	art.	5.º,	XXXV	da	CF/1988,	já	que	a	tutela	a	ser	realizada
+pelo	Poder	Judiciário	deve	ser	capaz	de	realizar,	eficientemente,	aquilo	que	o	ordenamento	jurídico
+material	reserva	à	parte	(nesse	sentido,	com	análise	do	direito	comparado,	cf.	José	Rogério	Cruz	e	Tucci,
+Garantia	da	prestação	jurisdicional	sem	dilações	indevidas.	.,	RePro	66/72).	É	evidente	que	só	poderá
+ser	considerada	eficiente	a	tutela	jurisdicional	prestada	tempestivamente,	e	não	tardiamente.	Em
+consonância	com	o	texto	constitucional	–	e,	de	sua	vez,	com	o	art.	4.º	do	CPC/2015	–	o	art.	1.048,	I,	do
+CPC/2015,	correspondente	ao	art.	1.211-A	do	CPC/1973	(inserido	no	Código	de	1973	pela	Lei
+12.008/2009),	prevê	a	prioridade	de	tramitação	de	processos	em	que	figure	como	parte	ou	interessado
+pessoa	com	idade	igual	ou	superior	a	60	(sessenta)	anos	ou	portadora	de	doença	grave	(a	respeito,	cf.
+STJ,	REsp	1.052.244/MG,	3.ª	T.,	j.	26.08.2008,	rel.	Min.	Nancy	Andrighi).	A	redação	do	1.211-A	do
+CPC/1973	anterior	à	Lei	12.008/2009	não	se	referia	a	pessoas	portadoras	de	doença	grave,	mas	a
+jurisprudência	já	vinha	estendendo-lhes	o	benefício,	com	fundamento	no	princípio	do	respeito	à
+dignidade	da	pessoa	humana	(STJ,	REsp	1026899/DF,	3.ª	T.,	j.	17.04.2008,	rel.	Min.	Nancy	Andrighi),
+orientação	que	nos	parece	acertada.	A	Lei	12.955/2014	acrescentou	o	§	9.º	ao	art.	47	da	Lei	8.069/1990
+(ECA),	para	estabelecer	prioridade	d
+[/PAGINA 24]
+
+[PAGINA 25]
+e	tramitação	aos	processos	de	adoção	em	que	o	adotando	for
+criança	ou	adolescente	com	deficiência	ou	com	doença	crônica,	e	no	mesmo	sentido	é	a	redação	do	art.
+1.048,	I	do	CPC/2015.	Cf.	também	o	que	escrevemos	em	Constituição	Federal	comentada,	cit.,
+comentário	ao	art.	5.º,	LXXVIII.
+Art.	5º.	Aquele	que	de	qualquer	forma	participa	do	processo	deve	comportar-se	de	acordo	com	a	boa-fé.
+CPC/1973:	Sem	correspondente.
+•	FPPC,	Enunciado	6:	O	negócio	jurídico	processual	não	pode	afastar	os	deveres	inerentes	à	boa-fé	e
+à	cooperação.
+SUMÁRIO:	I.	Ordem	processual	democrática	e	direito	das	partes	à	participação	procedimental	–	II.
+Proteção	da	legítima	confiança	–	III.	Boa-fé	objetiva.	Lealdade	processual	–	IV.	Vedação	ao	exercício
+abusivo	de	direito	–	V.	Proibição	de	venire	contra	factum	proprium	–	VI.	Má-fé	e	má	técnica.
+I.	Ordem	processual	democrática	e	direito	das	partes	à	participação	procedimental.	Temos	defendido
+que	do	processo	devem	participar,	ativa	e	racionalmente,	as	partes	e	o	órgão	jurisdicional.	Deve	o
+processo	oferecer	instrumentos	de	proteção	e	realização	dos	direitos	dos	indivíduos,	e	ser,	também,
+espaço	em	que	se	permita	exercitar	democraticamente	tais	direitos.	Trata-se	de	concepção	que	se
+impõe	como	a	única	correta,	em	um	Estado	Democrático	de	Direito	(CF,	art.	1.º).	Pode-se	dizer,	seguindo
+
+a	teoria	das	relações	de	status,	que	o	direito	de	exigir	do	Estado	a	prestação	jurisdicional	através	da
+demanda	corresponde	ao	denominado	status	positivo	(ou	status	civitatis).	Mas	o	status	positivo	não
+esgota	o	papel	das	partes,	no	processo.	No	status	passivo	(ou	status	subiectionis)	leva-se	em	conta	a
+sujeição	do	indivíduo	ao	Estado;	no	negativo	(	status	libertatis),	a	liberdade	frente	ao	Estado.	Assim,	o
+status	libertatis	tem	a	ver	com	a	faculdade	de	agir	em	juízo,	que	condiciona	o	início	da	atividade
+jurisdicional;	sob	outra	face,	ao	exercer	a	demanda	a	parte	reclama	do	órgão	a	prestação	jurisdicional
+que	lhe	deve	ser	conferida	pelo	Estado	(	status	positivo);	mas	o	pedido	apresentado	pelo	autor	pode	ser
+ou	não	julgado	procedente,	e	a	este	resultado	se	submeterão	as	partes,	o	que	é	manifestação	do	status
+subiectionis	(cf.	também	comentário	ao	art.	3.º	do	CPC/2015;	sobre	a	teoria	das	relações	de	status,	cf.
+Georg	Jellinek,	System	der	subjektiven	Öffentliche	Rechte,	Ed.
+Elibron,	2006	[reimpressão	da	ed.	de	1892],	p.	87;	Robert	Alexy,	Teoria	dos	direitos	fundamentais,	p.
+254	e	ss.).	Além	destas	formas	de	status,	reconhece-se	que	as	partes	têm	status	activus	processualis,	isto
+é,	o	direito	de	participar	“no	procedimento	da	decisão	da	competência	dos	poderes	públicos”	(José
+Joaquim	Gomes	Canotilho,	Estudos	sobre	direitos	fundamentais,	p.	73).
+Tal	participação	não	se	limita	ao	direito	de	se	manifestar	e	de	ser	ouvido,	mas,	mais	que	isso,	consiste
+em	poder	influir	decisivamente	nos	destinos	do	processo	(a	respeito	do	status	activus	processualis,	cf.
+Peter	Häberle,	Grundrechte	im	Leistungsstaat,	in	Veröffentlichungen	der	Vereinigung	Deutscher
+Staatsrechtsl
+[/PAGINA 25]
+
+[PAGINA 26]
+ehrer,	vol.	30,	Berlim,	Ed.	Walter	de	Gruyter,	1972,	p.	43-131,	especialmente	p.	86	e	ss.;
+Willis	Santiago	Guerra	Filho,	A	dimensão	processual	dos	direitos	fundamentais,	RePro,	v.	87,	p.	166	e
+ss.,	e	doutrina	citada	acima).	Como	já	se	decidiu	na	jurisprudência,	“o	direito	de	acesso	à	justiça
+compreende,	entre	outros,	o	direito	daquele	que	está	em	juízo	poder	influir	no	convencimento	do
+magistrado,	participando
+adequadamente	do	processo”	(STJ,	REsp	1027797/MG,	3.ª	T.,	j.	17.02.2011),	rel.	Min.	Nancy	Andrighi.
+O	status	activus	processualis	tem	importante	papel,	no	Estado	Democrático	de	Direito,	já	que	através
+deste	se	assegura	a	plenitude	das	outras	formas	de	status.
+II.	Proteção	da	legítima	confiança.	Fundamentalmente,	a	proteção	à	confiança,	como	um	dos	elementos
+constitutivos	do	Estado	de	direito,	“se	reconduz	à	exigência	de	certeza	e	calculabilidade,	por	parte	dos
+cidadãos”	(José	Joaquim	Gomes	Canotilho,	Manual	de	direito	constitucional,	6.	ed.,	p.	264).	Sendo	o
+processo	um	sistema	interacional	(cf.	comentário	ao	art.
+2.º),	a	conduta	dos	órgãos	judiciários	influencia	significativamente	o	comportamento	das	partes:	estas
+correspondem	às	determinações	judiciais	na	medida	em	que	os	órgãos	do	Poder	Judiciário	despertam,
+objetivamente,	a	confiança	dos	litigantes.	Decidiu-se	que	“os	postulados	da	segurança	jurídica,	da	boa-fé
+objetiva	e	da	proteção	da	confiança,	enquanto	expressões	do	Estado	Democrático	de	Direito,	mostram-se
+impregnados	de	elevado	conteúdo	ético,	social	e	jurídico”,	e	incidem	estes	princípios	“sobre
+comportamentos	de	qualquer	dos	Poderes	ou	órgãos	do	Estado”	(STF,	MS	25.805/DF,	j.
+07.02.2006,	rel.	Min.	Celso	de	Mello,	decisão	monocrática).	A	proteção	à	legítima	confiança	é
+considerada	desdobramento	do	princípio	da	segurança	jurídica	(ou,	ainda,	dimensão	subjetiva	deste
+princípio;	cf.	STJ,	REsp	799.965/RN,	3.ª	T.,	j.	07.10.2008,	rel.	Min.	Sidnei	Beneti,	em	que	se	decidiu
+que	“o	direito	processual	deve	trazer	segurança	às	partes”).	Assim,	caso	ausentes	a	segurança,	a
+estabilidade	e	a	previsibilidade,	o	Direito	“se	constituiria,	de	certa	forma	mesmo,	até	em	fator	de
+insegurança”
+
+(Arruda	Alvim.	Tratado	de	direito	processual	civil,	vol.	1,	p.	19).	A	atividade	jurisdicional	deve
+orientar-se	de	acordo	com	o	princípio	da	proteção	da	confiança	do	cidadão.	Ex.:	Decidiu-se	que	a
+circunstância	de	regimento	interno	de	tribunal	local	prever	prazo	maior	que	o	estabelecido	na	lei
+processual	para	complementação	do	preparo	não	favorece	o	recorrente	(STJ,	EREsp	488.304/MA,	Corte
+Especial,	j.	19.11.2008,	m.v.,	rel.	Min.	Luiz	Fux,	RePro	177/256;	no	mesmo	sentido,	STJ,	REsp
+883.911/RS,	4.ª	T.,	j.	02.06.2011,	rel.	Min.	Luis	Felipe	Salomão),	orientação	com	a	qual	não
+concordamos,	pois,	a	nosso	ver,	viola	o	princípio	da	proteção	da	legítima	confiança,	já	que	o	equívoco
+criado	pela	estrutura	jurisdicional	não	pode	causar	prejuízos	à	parte.	Corretamente,	por	outro	lado,	assim
+se	decidiu:	“Na	hipótese	em	que,	por	equívoco	do	escrivão,	fica	consignado	de	maneir
+[/PAGINA 26]
+
+[PAGINA 27]
+a	expressa	na
+correspondência	do	art.	229/CPC	[de	1973],	que	o	prazo	para	a	contestação	será	contado	a	partir	da
+juntada	do	respectivo	AR,	a	parte	foi	induzida	a	erro	por	ato	emanado	do	próprio	Poder	Judiciário.	Essa
+peculiaridade	justifica	que	se	excepcione	a	regra	geral,	admitindo	a	contestação	e	afastando	a	revelia”
+(STJ,	REsp	746.524/SC,	3.ª	T.,	j.	18.10.2011,	v.u.,	rel.	Min.	Nancy	Andrighi,	RT	884/170).	A	construção
+de	um	sistema	jurídico-processual	racional	requer	não	apenas	instrumentos	que	possibilitem	a	realização
+imediata,	mas,	também,	segura	dos	direitos,	sem	instabilidade	dos	entendimentos	jurisprudenciais:	“A
+fase	histórica	do	Poder	Judiciário	nacional,	visando	à	tranquilidade	da	sociedade	brasileira,	exige	o
+desenvolvimento	de	uma	doutrina	brasileira	de	stare	decisis	et	non	quieta	movere”,	isto	é,	“ficar	como
+foi	decidido	e	não	mover	o	que	está	em	repouso”	(STJ,	REsp	1.088.045/RJ,	3.ª	T.,	j.	22.09.2009,	rel.	p/
+Acórdão	Min.	Sidnei	Beneti).
+No	CPC/2015,	a	preocupação	com	a	uniformidade	e	estabilidade	da	jurisprudência	é	objeto	de	destaque
+(cf.	arts.	489,	§	1.º,	V	e	VI,	926	e	927	do	CPC/2015).
+III.	Boa-fé	objetiva.	Lealdade	processual.	A	proteção	à	boa-fé	objetiva	é	postulado	ético	imposto	pelo
+sistema	normativo,	estendendo-se	por	todas	as	áreas	do	direito.	Como	se	afirma	na	doutrina,	trata-se	de
+uma	“norma	de	conduta”,	em	razão	da	qual	se	impõe	àqueles	que	participam	de	uma	relação	jurídica	“um
+agir	pautado	pela	lealdade”	(Judith	Martins-Costa,	Comentários	ao	novo	Código	Civil,	v.	5,	t.	II,	p.	33).
+Decidiu-se	que	“a	boa-fé	objetiva	se	apresenta	como	uma	exigência	de	lealdade,	modelo	objetivo	de
+conduta,	arquétipo	social	pelo	qual	impõe	o	poder-dever	de	que	cada	pessoa	ajuste	a	própria	conduta	a
+esse	modelo,	agindo	como	agiria	uma	pessoa	honesta,	escorreita	e	leal”	(STJ,	REsp	803.481/GO,	3.ª	T.,
+j.	28.06.2007,	rel.	Min.	Nancy	Andrighi).	Em	outro	trabalho,	escrito	em	coautoria	com	Fábio	Caldas	de
+Araújo,	dedicado	ao	estudo	do	Código	Civil,	assim	escrevemos:	“Desde	o	direito	romano,	a	boa-fé	(
+fides)	correspondeu	a	um	mecanismo	de	ajuste	à	realidade.	No	período	das	legis	actiones,	a	rigidez	e
+tipificação	do	sistema	das	actiones	exigiu	a	boa-fé	como	processo	de	adaptação	de	situações	não
+previstas	pela	lei	das	XII	tábuas.	No	período	formulário	a	boa-fé	expandiu	a	criação	pretoriana	para	a
+concessão	de	fórmulas	processuais	até	então	não	previstas	(Menezes	Cordeiro,	Tratado	de	Direito	Civil
+–	Parte	Geral,	p.
+225).	No	período	canônico	a	boa-fé	assume	conotação	religiosa,	com	ausência	do	pecado,	influenciando
+institutos	como	a	usura,	ou	mesmo	a	usucapião	ordinária	(	mala	fides	superveniens	non	nocet).	As
+codificações	modernas,	como	o	Código	Napoleônico,	recepcionaram	a	boa-fé	subjetiva	tratando-a	como
+um	estado	de	ignorância,	o	que	refletia	o	fortalecimento	do	individualismo	na	emissão	da	declaração	da
+vontade.	Com	a	codificação	alemã	(	BGB,
+§	242)	conferiu-se	sentido	ético	à	boa-fé	subjetiva	pela	concepção	de	que	a	ignorância	não	seria
+sufi
+[/PAGINA 27]
+
+[PAGINA 28]
+ciente,	pois	a	boa-fé	exige	a	consciência	de	não	lesar	alguém	(	Guter	Glauben).	A	boa-fé	subjetiva	e
+a	boa-fé	objetiva	são	formadas	pelo	mesmo	substrato	ôntico,	mas	ambas	diferem	quanto	ao	modo	de
+
+manifestação.	A	boa-fé	objetiva	se	projeta	do	exterior	para	o	interior,	uma	vez	que	a	manifestação	da
+vontade	no	meio	social	é	o	que	deverá	prevalecer	par	a	segurança	do	tráfego	negocial	(	Rechtsverkehr).
+Na	boa-fé	subjetiva	o	caminho	é	inverso,	centrando-se	a	análise	sobre	o	sujeito	emitente	da	declaração
+de	vontade.	(.	.).	Afirma	Couto	e	Silva	que	a	boa-fé	é	‘conceito	nuclear,	fundamental	ou	essencial,
+relacionado	diretamente	com	valores	éticos’	(	A	obrigação	como	processo	cit.,	p.	23).	O	aspecto	ético	–
+e	não	meramente	psicológico	–	é	fundamental,	na	caracterização	da	boa-fé	objetiva,	tendo	em	vista	as
+necessidades	do	direito	moderno.	Tal	concepção	não	é	nova.	Cf.,	a	respeito,	Herbert	Hausmaninger,	que
+notou	o	surgimento	da	boa-fé	como	aspecto	ético,	na	segunda	fase	do	direito	romano	(	Die	Bona	Fides
+des	Ersitzungsbesitzers	im	Klassischen	R	ömischen	Recht,	Munique:	Verlag	Herold,	1964,	p.	70	e	ss.	).
+Há	muito,	já	destacava	François	Gorphe	a	importância	da	boa-fé	objetiva	em	relação	aos	valores
+materializados	pelas	partes	em	suas	relações	empresariais:	‘(.	.),	aux	actes	où	predomine	le	caractère
+objectif,	qui	lient	un	plus	grand	nombre	de	parties	ou	d’intéressés	et	ont	une	valeur,	en	quelque	sorte,	par
+eux-mêmes,	toute	manifestée	dans	la	forme	et	les	termes,
+comme	il	arrive	dans	les	rapports	d’affaires’	(	Le	principe.	.	cit.,	p.	33)”	(	Código	Civil	comentado	cit.,
+comentário	ao	art.	113	do	Código	Civil,	que	escrevemos	em	coautoria	com	Fábio	Caldas	de	Araújo).
+IV.	Vedação	ao	exercício	abusivo	de	direito.	Como	corolário	da	proteção	à	boa-fé	objetiva	(cf.
+comentário	acima),	o	exercício	abusivo	de	uma	posição	jurídica	deve	ser	reprimido.	Afirma	a	doutrina
+que	o	exercício	abusivo	de	direito	ocorre	quando	se	excederem	manifestamente	os	limites	próprios	do
+exercício	de	um	direito	(cf.	Menezes	Cordeiro,	Da	boa-fé	no	direito	civil,	p.	861	e	ss.).	A	figura	do
+abuso	do	direito,	embora	não	encontre	conformação	apenas	no	Direito	Civil,	teve	nesse	âmbito	seu	berço
+de	criação	e	desenvolvimento.	No	Código	Civil,	a	matéria	é	referida	no	art.	187,	segundo	o	qual	“comete
+ato	ilícito	o	titular	de	um	direito	que,	ao	exercê-lo,	excede	manifestamente	os	limites	impostos	pelo	seu
+fim	econômico	ou	social,	pela	boa-fé	ou	pelos	bons	costumes”.	As	bases	estabelecidas	pelo	art.	187	do
+CC/2002	devem	ser	observadas	também	para	a	averiguação	da	ocorrência	ou	não	de	exercício	abusivo
+do	direito,	no	plano	processual.	A	respeito,	assim	se	decidiu:	“Ação	de	indenização	movida	por	empresa
+demandada	pela	Microsoft,	mediante	ação	de	busca	e	apreensão,	para	vistoria	de	seus	computadores	e
+verificação	da	ocorrência	de	pirataria	de	‘software’.	Vistoria	realizada,	mediante	ordem	judicial
+concedida
+‘inaudita	altera	pars’,	que	não	localizou	nenhum	‘software’	da	empresa	requerente	da	medida.	Ape
+[/PAGINA 28]
+
+[PAGINA 29]
+sar	da
+importância	de	se	assegurar	ao	autor	de	obra	intelectual	o	direito	de	fiscalização	de	sua	correta
+utilização,	reconhecimento,	no	caso,	da	ocorrência	de	abuso	de	direito.	Interpretação	do	disposto	no	art.
+14,	§	5.º,	da	Lei	9.609/1998,	à	luz	da	norma	do	art.	187	do	CC/2002”	(STJ,	REsp	1.114.889/DF,	3.ª	T.,	j.
+15.05.2012,	rel.	Min.	Paulo	de	Tarso	Sanseverino).	A	referência,	em	várias	destas	disposições,	ao
+exercício	manifestamente	abusivo	revela	que	se	adotou,	no	direito	brasileiro,	o	critério	objetivo,
+segundo	o	qual	mais	importante	que	a	intenção	do	sujeito	é	a	constatação	de	que	o	direito	foi	exercido	de
+modo	contrário	à	sua	finalidade	econômica	ou	social.	O	direito	brasileiro,	consoante	revelam	as
+disposições	do	CPC	citadas	e	o	art.	187	do	CC/2002,	portanto,	assemelha-se	ao	direito	português,	que
+lhe	serviu	de	inspiração	(cf.	art.	334	do	Código	Civil	português),	adotando	o	critério	objetivo,	funcional
+ou	finalístico	para	que	se	possa	aferir	a	existência	de	exercício	abusivo	do	direito.	A	violação	ao
+princípio	da	boa-fé	objetiva	não	depende,	necessariamente,	da	prova	da	má-fé	subjetiva;	há	exercício
+abusivo	de	um	direito	processual	não	quando	se	quebra	um	determinado	ou	específico	dever	processual,
+mas	quando	se	contraria	ou	se	afasta	da	finalidade	essencial	de	um	direito	processual.	Sobre	o	tema,	à	luz
+do	direito	civil,	cf.	o	que	escrevemos	em	Código	Civil	comentado	cit.,	em	coautoria	com	Fábio	Caldas
+de	Araújo.	Sobre	boa-fé	subjetiva	e	objetiva,	cf.	comentário	acima;	sobre	a	ideia	de	finalidade	essencial
+
+(ou	função,	ou	causa	objetiva)	do	ato	processual,	cf.	comentário	ao	art.	188	do	CPC/2015.
+V.	Proibição	de	venire	contra	factum	proprium	.	Dentre	as	consequências	da	proteção	à	boa-fé
+objetiva,	no	âmbito	processual,	não	se	aceita	que	parte	adote	comportamento	contraditório.	Proíbe-se,
+assim,	venire	contra	factum	proprium,	ou	seja,	não	se	permite	que	o	comportamento	gerador	de
+expectativa	justificada	seja	posteriormente	contrariado,	em	detrimento	de	outrem.	É	que,	agindo	desse
+modo,	a	parte	viola	o	princípio	da	confiança	no	tráfego	jurídico,	já	que,	uma	vez	despertada	a	legítima
+confiança,	espera-se	um	comportamento	em	sintonia	com	o	procedimento	até	então	manifestado	(cf.
+comentário	acima).	Exemplo:	o	STF	decidiu	a	respeito	de	um	caso	em	que	a	parte	praticara	vários	atos
+processuais	e,	depois,	passou	a	contrariá-los,	afirmando	“ter	mudado	de	opinião”.	Decidiu	o	Tribunal
+que	“não	há	como	nem	por	onde	admitir	tal	pretensão,	que,	de	um	lado,	viola	a	proibição	de	venire
+contra	factum	proprium,	com	surpreender	a	outra	parte	da	causa”
+(STF,	MS-AgR	25742-DF,	Pleno,	j.	05.04.2006,	rel.	Min.	Cezar	Peluso).	No	mesmo	sentido,	STJ,	REsp
+605.687/AM,	3.ª	T.,	j.
+02.06.2005,	rel.	Min.	Nancy	Andrighi.	Aplicando	o	mesmo	princípio,	decidiu-se	que	“tendo	a	agravante,
+ao	pagar	os	honorários	periciais	provisórios,	claramente	demonstrado	sua	capacidade	financeira	de	arcar
+com	tais	despesas,	não	pode	ela,	em	momento	posterior,	simplesmente	alegar	o	contrário”	(
+[/PAGINA 29]
+
+[PAGINA 30]
+STJ,	AgRg	no
+REsp	1.099.550/SP,	5.ª	T.,	j.	02.03.2010,	rel.	Min.
+Arnaldo	Esteves	Lima).	Decidiu-se	que,	se	as	partes	requereram	o	julgamento	antecipado	da	lide,	não
+podem,	posteriormente,	apelar	contra	a	sentença	alegando	cerceamento	de	defesa	(STJ,	REsp
+876.682/PR,	2.ª	T.,	j.	22.06.2010,	rel.	Min.
+Mauro	Campbell	Marques).	O	princípio	deve	ser	observado	também	pelo	órgão	jurisdicional:	“A
+jurisprudência	desta	Corte	Superior	proclama	que,	na	hipótese	de	oposição	de	embargos	do	devedor,	sem
+a	comprovação	do	recolhimento	de	preparo,	o	juiz	deve	determinar	o	cancelamento	da	distribuição	do
+processo	e	o	arquivamento	dos	respectivos	autos,	independentemente	de	intimação	pessoal.	Todavia,	na
+espécie,	a	conduta	do	juízo	a	quo	revela-se	contraditória	e	viola	o	princípio	insculpido	na	máxima	nemo
+potest	venire	contra	factum	proprium,	na	medida	em	que	anteriormente	determinou	–
+quando	não	precisava	fazê-lo	–	a	intimação	para	recolhimento	do	preparo	e,	ato	contínuo,	mesmo	após	o
+cumprimento	de	sua	ordem,	entendeu	por	bem	julgar	extinta	a	demanda,	sem	julgamento	de	mérito.	Tal
+atitude	viola	o	princípio	da	boa-fé	objetiva	porque	criou,	na	parte	autora,	a	legítima	expectativa	de	que,
+após	o	recolhimento	do	preparo,	dentro	do	prazo	estabelecido	pelo	magistrado,	suas	razões	iniciais
+seriam	examinadas,	observando-se	o	devido	processo	legal”	(STJ,	REsp	1.116.574/ES,	3.ª	T.,	j.
+14.04.2011,	rel.	Min.	Massami	Uyeda).	Decidiu-se,	semelhantemente,	que	“é	imperiosa	a	proteção	da
+boa-fé	objetiva	das	partes	da	relação	jurídico-processual,	em	atenção	aos	princípios	da	segurança
+jurídica,	do	devido	processo	legal	e	seus	corolários	–	princípios	da	confiança	e	da	não	surpresa	–
+valores	muito	caros	ao	nosso	ordenamento	jurídico.	Ao	homologar	a	convenção	pela	suspensão	do
+processo,	o	Poder	Judiciário	criou	nos	jurisdicionados	a	legítima	expectativa	de	que	o	processo	só
+voltaria	a	tramitar	após	o	termo	final	do	prazo	convencionado.	Por	óbvio,	não	se	pode	admitir	que,	logo
+em	seguida,	seja	praticado	ato	processual	de	ofício	–	publicação	de	decisão	–	e,	ademais,	considerá-lo
+como	termo	inicial	do	prazo	recursal.	Está	caracterizada	a	prática	de	atos	contraditórios	justamente	pelo
+sujeito	da	relação	processual	responsável	por	conduzir	o	procedimento	com	vistas	à	concretização	do
+princípio	do	devido	processo	legal.	Assim	agindo,	o	Poder	Judiciário	feriu	a	máxima	nemo	potest	venire
+
+contra	factum	proprium,	reconhecidamente	aplicável	no	âmbito	processual”
+(STJ,	Resp	1306463/RS,	2.ª	T.,	j.	04.09.2012,	rel.	Min.	Herman	Benjamin).	Em	interessante	julgado,
+afirmou-se,	com	acerto,	que	devedor	que	emitiu	promissória	com	assinatura	escaneada	não	pode	arguir
+nulidade	formal	por	seu	próprio	ato:	“Vício	que	não	pode	ser	invocado	por	quem	lhe	deu	causa.
+Aplicação	da	‘teoria	dos	atos	próprios’,	como	concreção	do	princípio	da	boa-
+fé	objetiva,	sintetizada	nos	brocardos	latinos	‘tu	quoque’	e	‘venire	contra	factum	proprium’,	segundo	a
+qual	ninguém	é	lícito	fazer	valer	um	direito	em	contradição	com	a	s
+[/PAGINA 30]
+
+[PAGINA 31]
+ua	conduta	anterior	ou	posterior
+interpretada	objetivamente,	segundo	a	lei,	os	bons	costumes	e	a	boa-fé”	(STJ,	REsp	1.192.678/PR,	3.ª	T.,
+j.	13.11.2012,	rel.	Min.	Paulo	de	Tarso	Sanseverino).
+VI.	Má-fé	e	má	técnica.	Não	se	confundem	má-fé	processual	e	erro	ou	falta	de	técnica.	Assim,	decidiu	o
+STJ	que	“não	há	de	se	confundir	má-fé,	dolo,	com	erro	processual	ou	falta	de	técnica	jurídica,	razão	pela
+qual	se	mostra	desproporcional	a	aplicação	da	multa	de	1%	ao	embargante,	principalmente	quando	o
+Tribunal	de	origem	não	identifica	o	dever	processual	de	lealdade	violado	e	quando	o	embargante	faz	a
+defesa	de	interpretação	que	encontra	respaldo	na	jurisprudência	desta	Corte,	ainda	que	em	corrente
+minoritária”	(STJ,	REsp	1.177.878/SP,	2.ª	T.,	j.	06.04.2010,	rel.	Min.	Castro	Meira).
+Art.	6º.	Todos	os	sujeitos	do	processo	devem	cooperar	entre	si	para	que	se	obtenha,	em	tempo	razoável,
+decisão	de	mérito	justa	e	efetiva.
+CPC/1973:	Sem	correspondente.
+•	FPPC,	Enunciado	6:	O	negócio	jurídico	processual	não	pode	afastar	os	deveres	inerentes	à	boa-fé	e
+à	cooperação.
+•	FPPC,	Enunciado	106:	Não	se	pode	reconhecer	a	deserção	do	recurso,	em	processo	trabalhista,
+quando	houver	recolhimento	insuficiente	das	custas	e	do	depósito	recursal,	ainda	que	ínfima	a
+diferença,	cabendo	ao	juiz	determinar	a	sua	complementação.
+SUMÁRIO:	I.	Cooperação	entre	os	sujeitos	do	processo	–	II.	Economia	processual.	Custo	do	processo.
+Economia	de	processos,	de	atos	e	de	formalidades	processuais.
+I.	Cooperação	entre	os	sujeitos	do	processo.	Todos	os	sujeitos	do	processo	(parte	e	órgão
+jurisdicional)	e	também	terceiros	devem	colaborar	entre	si	para	que	o	processo	alcance	seu	objetivo	em
+tempo	razoável	(não	necessariamente	célere,	com	sacrifício	da	justiça,	mas	eficiente).	Consideramos	que
+o	dever	de	cooperação	é	intersubjetivo,	dizendo	respeito	a	deveres	entre	as	partes,	destas	para	com	o
+órgão	jurisdicional,	e	também	do	órgão	jurisdicional	para	com	as	partes.	O	dever	de	cooperação	do
+órgão	jurisdicional	se	manifesta,	em	sua	forma	mais	rudimentar,	no	dever	de	decidir	em	observância	ao
+princípio	do	contraditório,	sem	surpresa	para	as	partes.	Também	se	manifesta	o	dever	de	cooperação	o
+dever	do	órgão	jurisdicional,	p.	ex.,	de	viabilizar	a	emenda	da	petição	inicial,	antes	de	indeferi-la.	Tem	o
+órgão	judicante,	assim,	dever	de	esclarecer,	prevenir,	bem	como	de	consultar	e	auxiliar	as	partes.	Tal
+dever,	em	síntese,	“orienta	o	magistrado	a	tomar	uma	posição	de	agente-colaborador	do	processo,	de
+participante	ativo	do	contraditório,	e	não	mais	a	de	um	mero	fiscal	de	regras”
+(Fredie	Didier	Junior,	O	princípio	da	cooperação,	RePro	127/75).	As	partes,	por	sua	vez,	também	são
+responsáveis	pelos	resultados	do	processo	–	ainda	que,	no	processo,	defendam	seus	interesses	pessoais.
+
+Segundo	nosso	modo	de	pensar,	deve	haver	colaboração	também	entre	as	partes,	e	não	apenas	das	partes
+para	com	o	juiz,	ou	deste	para	com	aquelas.	Há	entendimento	diverso,	no	entanto,	na	doutrina,	segundo	o
+qual	“as	partes	não	colabo
+[/PAGINA 31]
+
+[PAGINA 32]
+ram	e	não	devem	colaborar	entre	si	simplesmente	porque	obedecem	a
+diferentes	interesses	no	que	tange	à	sorte	do	litígio”	(Daniel	Mitidiero,	Colaboração	no	processo	civil
+como	prêt-à-porter?	RePro	194/55).	Evidentemente,	as	partes	têm	interesses	contrapostos,	em	relação	ao
+desfecho	do	processo,	mas	não	é	nesse	sentido	que	afirmamos	que	as	partes	têm	dever	de	colaborar
+também	entre	si.
+Pensamos	que	o	dever	de	colaborar	“para	se	obter,	com	brevidade	e	eficácia,	a	justa	composição	do
+litígio”,	como	afirma	o	art.	266	do	CPC	português,	diz	respeito	também	à	relação	entre	as	partes.	Isso
+corresponde	“à	introdução	de	uma	nova	cultura	judiciária	que	potencie	o	diálogo	franco	entre	todos	os
+sujeitos	processuais”	(Helder	Martins	Leitão,	Dos	princípios	básicos	em	processo	civil,	p.	195-196),
+sem	desprezar,	evidentemente,	a	distinção	da	dimensão	que	tem	o	princípio,	na	relação	entre	juiz	e	partes
+e	entre	as	partes	(cf.,	também,	sobre	o	tema	no	direito	português,	Miguel	Teixeira	de	Souza,	Aspectos.	.,
+RePro	86/174).	A	propósito,	mesmo	a	doutrina	antes	citada	reconhece,	no	que	diz	respeito	ao	dever	de
+auxílio	do	órgão	jurisdicional,	que	este	“muitas	vezes	depende	de	determinado	comportamento	da	parte
+para	que	o	juiz	possa	colaborar	com	a	outra”,	motivo	pelo	qual	uma	das	partes,	indiretamente,	pode
+frustrar	a	colaboração	do	juiz	para	com	a	parte	contrária	(Mitidiero,	op.	loc.	cits.).	Na	doutrina,	afirma-
+se	que	a	cooperação	das	partes	para	com	o	órgão	jurisdicional	revela-se	através	da	exigência	de
+observância	à	boa-fé	(cf.	Lúcio	Grassi	de	Gouveia,	A	função	legitimadora	do	princípio	da	cooperação.	.,
+RePro	172/32;	na	doutrina	portuguesa,	Miguel	Teixeira	de	Souza,	Aspectos.	.,	RePro	86/174).	Sobre	boa-
+fé	objetiva,	cf.	comentário	ao	art.	5.º	do	CPC/2015.
+II.	Economia	processual.	Custo	do	processo.	Economia	de	processos,	de	atos	e	de	formalidades
+processuais.	Ao	princípio	da	economia	processual	(ou	econômico)	são	dados	dois	sentidos	(escrevemos
+a	respeito	na	obra	Execução	civil	cit.,	1.ed.,	2002,	n.	1.2,	p.	45-46;	2.ed.,	2004,	n.	8.3,	p.	81-83,	quando
+examinamos	a	distinção,	realizada	pela	doutrina,	entre	princípios	informativos	e	fundamentais).	Por	um
+lado,	significa	o	princípio	que	o	acesso	à	Justiça	não	pode	ser	condicionado	ao	pagamento	de	taxas	e
+custas	demasiadas,	mas	estabelecidas	com	parcimônia	e	moderação.	Consoante	escreveu	Mancini,
+“il	principio	economico	richiede	che	le	liti	non	siano	materia	di	gravose	imposte,	nè	per	la	loro
+lunghezza	e	la	spesa,	si	rendano	accessibili	soltanto	ad	alcuni	cittadini	privilegiati	per	ricchezza”	(
+Commentario	del	codice	di	procedura	civile	sardo,	vol.	I,	p.	10).	Sob	esta	perspectiva,	liga-se	o
+princípio	ao	direito	de	ação,	já	que	as	custas	processuais	não	podem	servir	de	empecilho	ao	acesso	à
+tutela	jurisdicional.	De	acordo	com	a	Súmula	667	do	STF,	“viola	a	garantia	constitucional	de	acesso	à
+jurisdição	a	taxa	judiciária	calculada	sem	limite	sobre	o	valor	da	causa”.	Já	decidiu	o	STF,	além	disso,
+que,	havendo	cobrança	de
+[/PAGINA 32]
+
+[PAGINA 33]
+taxas	judiciárias	e	custas	em	valores	excessivos,	há	“possibilidade	de
+inviabilização	do	acesso	de	muitos	à	Justiça,	com	ofensa	ao	princípio	da	inafastabilidade	do	controle
+judicial	de	lesão	ou	ameaça	a	direito”	(STF,	ADIn	1.772/MC,	j.	15.04.1998,	rel.	Min.	Carlos	Velloso).
+Sob	outro	ponto	de	vista,	de	acordo	com	o	princípio	deve-se	obter	o	máximo	de	resultado	na	atuação
+do	direito	com	o	mínimo	emprego	possível	de	atividade	jurisdicional	(Giuseppe	Chiovenda,	Principios
+de	derecho	procesal	civil,	t.	I,	p.	170).	Manifesta-se	o	princípio,	sob	esta	perspectiva	(cf.	José	Lebre	de
+Freitas,	Introdução	ao	processo	civil,	2.	ed.,	p.
+177	e	ss.):	(a)	com	a	economia	de	processos,	tal	como	se	dá	com	o	litisconsórcio	(STJ,	REsp
+382.659/RS,	1.ª	T.,	j.	02.12.2003,	rel.
+
+Min.	Humberto	Gomes	de	Barros),	a	cumulação	de	pedidos	etc.;	e	(b)	com	a	economia	de	atos	e
+formalidades,	como,	p.	ex.,	evitando-se	realizar,	inutilmente,	audiências	ou	atividades	probatórias.
+Art.	7º.	É	assegurada	às	partes	paridade	de	tratamento	em	relação	ao	exercício	de	direitos	e	faculdades
+processuais,	aos	meios	de	defesa,	aos	ônus,	aos	deveres	e	à	aplicação	de	sanções	processuais,
+competindo	ao	juiz	zelar	pelo	efetivo	contraditório.
+CPC/1973:	Art.	125,	I	(relacionado).
+V.	art.	5.º,	caput	e	II,	CF/1988.
+•	FPPC,	Enunciado	107:	O	juiz	pode,	de	ofício,	dilatar	o	prazo	para	a	parte	se	manifestar	sobre	a
+prova	documental	produzida.
+•	FPPC,	Enunciado	235:	Aplicam-se	ao	procedimento	do	mandado	de	segurança	os	arts.	7º,	9º	e	10	do
+CPC.
+SUMÁRIO:	I.	Isonomia	processual	–	II.	Princípio	do	juiz	natural	e	imparcialidade.
+I.	Isonomia	processual.	Rege-se	o	processo	pelo	princípio	constitucional	da	isonomia	(art.	5.º,	caput	e	I,
+da	CF/88),	devendo	o	juiz	assegurar	às	partes	igualdade	de	tratamento	(art.	139,	I	do	CPC/2015).	Liga-se
+o	princípio,	portanto,	de	um	lado,	à	ideia	de	que	o	juiz	deve	atuar	de	modo	imparcial,	em	relação	às
+partes	(cf.	Giovanni	Arieta	et	al,	Corso.	.	cit.,	n.	87,	p.
+208),	e,	de	outro,	à	ideia	de	“paridade	de	armas”.	Assim,	“viola	o	art.	125,	I,	do	CPC	[de	1973,
+correspondente	ao	art.	139,	I	do	CPC/2015]	o	julgado	que	se	apoia,	exclusivamente,	em	prova	produzida
+fora	da	instrução	probatória	regular,	pertinente	na	ação	rescisória,	sem	a	possibilidade	do	contraditório”
+(STJ,	REsp	294.601/PA,	3.ª	T.,	j.	28.05.2002,	rel.	Min.	Menezes	Direito).	O
+CPC/2015,	a	respeito,	dispõe	que	é	assegurada	às	partes	paridade	de	tratamento	em	relação	ao	exercício
+de	direitos	e	faculdades	processuais	(art.	7.º).	Dizer	que	o	juiz	deva	assegurar	às	partes	paridade	de
+tratamento	não	significa	dizer	que	deva	o	juiz	agir	passivamente,	diante	da	desigualdade	material
+existente	entre	as	partes.	Sobre	princípio	do	contraditório,	cf.
+comentário	ao	art.	10	do	CPC/2015;	sobre	desigualdade	material	e	isonomia	processual,	cf.	comentário
+ao	art.	139	do	CPC/2015.
+II.	Princípio	do	juiz	natural	e	imparcialidade.	O	direito	de	toda	pessoa	de	ser	ouvida	por	um	juiz	ou
+tribunal	imparcial	é	assegurado	expressamente,	entre	nós,
+[/PAGINA 33]
+
+[PAGINA 34]
+pelo	art.	14	do	Pacto	internacional	sobre
+direitos	civis	e	políticos	(aprovado	pelo	Congresso	Nacional	através	do	Dec.Legislativo	226/1991	e
+promulgado	pelo	Dec.	592/1992)	e	pelo	art.	8.º	da	Convenção	Americana	de	Direitos	Humanos	(Pacto	de
+San	José	da	Costa	Rica	(aprovado	pelo	Dec.Legislativo	27/1992	e	promulgado	pelo	Dec.	678/1992).	O
+direito	a	um	juiz	imparcial	já	constava,	também,	do	art.	10	da	Declaração	Universal	dos	Direitos
+Humanos.
+Temos	sustentado,	à	luz	dos	§§	2.º	e	3.º	do	art.	5.º	da	Constituição	(cf.	o	que	escrevemos	a	respeito
+desses	dispositivos	em	Constituição	Federal	comentada,	cit.),	que	os	tratados	e	convenções
+internacionais	relativos	a	direitos	humanos	de	que	o	Brasil	faz	parte	adquirem	o	status	de	norma
+
+constitucional	(a	jurisprudência	majoritária	do	STF	é	no	sentido	de	que,	ainda	que	não	se	reconheça	a
+hierarquia	constitucional	de	tais	disposições,	teriam	elas	natureza	supralegal;	sobre	essa	discussão,	cf.	o
+que	escrevemos	em	Constituição.	.	cit.,	comentário	aos	§§	2.º	e	3.º	do	art.	5.º	da	CF/1988;	na	doutrina,
+cf.	também	Wendel	de	Brito	Lemos	Teixeira,	O	princípio	da	imparcialidade.	.	RePro	186/333).	A
+Constituição	Federal,	de	todo	modo,	ao	incorporar	o	princípio	do	due	process	of	law,	e	contemplar
+vários	de	seus	corolários	em	muitas	de	suas	disposições,	minudenciando-os,	também	garante	a
+imparcialidade.	Temos	dado,	em	nossos	estudos,	especial	destaque	à	imprescindível	imparcialidade	com
+que	deve	o	julgador	atuar,	na	condução	do	processo.	Embora	não	haja	sobreposição	entre	os	fenômenos,
+com	frequência	relacionam-se,	na	doutrina	e	na	jurisprudência,	imparcialidade,	isonomia	e	outras
+garantias,	como	a	do	devido	processo	legal.	Liga-se	o	princípio	da	isonomia	à	ideia	de	que	o	juiz	deve
+atuar	de	modo	imparcial,	em	relação	às	partes	(cf.	Giovanni	Arieta	et	al,	Corso.	.	cit.,	n.	87,	p.	208).	“A
+imparcialidade	do	magistrado	é	de	índole	pessoal	e	constitui	pilar	do	princípio	do	juiz	natural”	(STJ,
+REsp	731.766/RJ,	5.ª	T.,	j.	15/09/2005,	rel.	Ministro	Arnaldo	Esteves	Lima).	A	Constituição	Federal
+contém	vários	dispositivos	voltados	a	assegurar	tal	imparcialidade.	A	causa	deve	ser	processada	e
+decidida	por	órgão	jurisdicional	que	tenha	sido	previamente	constituído.	Diz	a	Constituição,	a	respeito,
+que	“ninguém	será	processado	nem	sentenciado	senão	pela	autoridade	competente”	(art.	5.º,	LIII).	Veda	a
+Constituição	a	criação	de	juízos	ou	tribunais	de	exceção	(art.	5.º,	XXXVII),	criados	para	julgar
+determinado	caso,	garantia	esta	que	decorre	da	do	juiz	natural	(não	se	considera	violada	a	disposição
+constitucional,	porém,	quando	da	designação	de	magistrado	para	atuar,	de	forma	genérica,	em	uma	vara,
+mas	configura	nulidade	“a	designação	específica,	casuística,	de	Magistrado	para	atuar	em	determinado
+feito”,	cf.	STF,	RHC	89.890,	j.
+05.12.2006,	rel.	Min.	Ricardo	Lewandowski).	Como	se	disse,	há	ligação	entre	os	fenômenos,	já	que	a
+violação	ao	princípio	do	juiz	natural	rompe	também	com	a	garantia	de	imparcialidade	do	juiz;	não	se
+sobrepõem,
+[/PAGINA 34]
+
+[PAGINA 35]
+contudo,	os	fenômenos:	basta	ver	que	o	juiz	pode	ser	parcial,	a	despeito	de	não	haver
+violação	ao	princípio	do	juiz	natural,	ou	não	se	tratar	de	tribunal	de	exceção.	É	desnecessário,	de	todo
+modo,	recorrer-se	à	ideia	de	vedação	à	existência	de	tribunais	de	exceção	para	se	justificar	a	garantia	a
+que	o	processo	se	desenvolva	por	um	juiz	imparcial,	ante	o	que	acima	se	dispôs,	acerca	das	convenções
+internacionais	a	que	o	Brasil	aderiu.	A	preocupação	com	a	imparcialidade	do	juiz	se	encontra	também
+ressaltada	nos	arts.
+144	ss.	do	CPC/2015,	referentes	ao	impedimento	e	suspeição.	Decidiu-se	que	“a	garantia	do	juízo
+natural,	proclamada	no	inciso	LIII	do	art.	5.º	da	Carta	de	Outubro,	é	uma	das	mais	eficazes	condições	de
+independência	dos	magistrados.
+Independência,	a	seu	turno,	que	opera	como	um	dos	mais	claros	pressupostos	de	imparcialidade	que
+deles,	julgadores,	se	exige”	(STF,	RE	418.852,	j.	06.12.2005,	rel.	Min.	Carlos	Britto).
+Art.	8º.	Ao	aplicar	o	ordenamento	jurídico,	o	juiz	atenderá	aos	fins	sociais	e	às	exigências	do	bem
+comum,	resguardando	e	promovendo	a	dignidade	da	pessoa	humana	e	observando	a	proporcionalidade,	a
+razoabilidade,	a	legalidade,	a	publicidade	e	a	eficiência.
+CPC/1973:	Sem	correspondente;	art.	126	(relacionado).
+V.	art.	5.º,	caput,	I,	LX,	art.	37,	caput,	art.	93,	IX,	da	CF/1988;	art.	5.º,	Dec.-lei	4.657/1942	(Lei	de
+Introdução	às	Normas	do	Direito	Brasileiro	–	LINDB).
+Sobre	publicidade,	cf.	comentário	ao	art.	11	do	CPC/2015.
+
+•	FPPC,	Enunciado	106:	Não	se	pode	reconhecer	a	deserção	do	recurso,	em	processo	trabalhista,
+quando	houver	recolhimento	insuficiente	das	custas	e	do	depósito	recursal,	ainda	que	ínfima	a
+diferença,	cabendo	ao	juiz	determinar	a	sua	complementação.
+SUMÁRIO:	I.	Estado	democrático	de	direito	e	significado	princípio	da	legalidade.	Legalidade,
+liberdade	e	direito	a	procedimentos	que	assegurem	a	liberdade	–	II.	Defesa	e	promoção	da	dignidade
+humana.	Princípio	pro	persona	e	direitos	fundamentais	–	III.	Proporcionalidade	e	razoabilidade	–	IV.
+Fins	sociais	do	direito.	Sensibilidade	social	–	V.	Eficiência	e	gestão.
+I.	Estado	democrático	de	direito	e	significado	princípio	da	legalidade.	Legalidade,	liberdade	e	direito
+a	procedimentos	que	assegurem	a	liberdade.	Consideramos	que,	em	um	estado	constitucional,
+democrático	e	de	direito	(CF/1988,	art.	1.º),	justifica-se	a	sujeição	de	todos	à	lei	–	todos,	vale	dizer,
+indivíduos	e	o	próprio	Estado	(cf.	o	que	escrevemos	em	Constituição	Federal	comentada	cit.,
+comentário	aos	arts.	3.º	e	5.º,	II).	Cuida-se,	mais	que	direito	fundamental,	de	primado	da	própria	ordem
+democrática:	a	lei	é	concebida	por	representantes	do	povo	(que	é	o	que	dá	legitimidade	à	lei,	cf.	art.	1.º,
+parágrafo	único,	da	Constituição),	que	a	criam	(ou	devem	criar)	em	observância	ao	sentido	disposto	na
+Constituição	(cf.	o	que	escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	aos	arts.	59
+ss.).	Por	“lei”,	aqui,	pode-se	considerar,	além	do	próprio	texto	(das	leis	e,	evidentemente,	da
+Constituição),	o	se
+[/PAGINA 35]
+
+[PAGINA 36]
+ntido	atribuído	ao	sistema	jurídico	composto	por	regras	e	princípios,	sentido	esse
+decorrente	do	modo	como	são	interpretados	historicamente	e	assim	aplicados	pela	comunidade	jurídica
+(doutrina,	jurisprudência,	administração	e	a	própria	prática	dos	indivíduos).	“Lei”,	assim,	não	é	sinônimo
+de	texto	legal.	Viola-se	o	princípio	da	legalidade	quando	se	contrapõe	ao	sentido	do	sistema	jurídico.	O
+princípio	da	legalidade	tem	graves	desdobramentos:	a	proteção	ao	direito	adquirido,	ao	ato	jurídico
+perfeito	e	à	coisa	julgada	(CF/1988,	art.	5.º,	XXXVI),	por	exemplo,	é	corolário	do	princípio	da
+legalidade.	Temos	estudado	o	princípio	da	legalidade	à	luz	da	ideia	de	liberdade	(cf.
+o	que	escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	aos	arts.	3.º	e	5.º,	II).	A
+liberdade	pode	ser	considerada	sob	dois	enfoques:	um,	para	se	identificar	o	âmbito	de	liberdade	do
+indivíduo	que	não	pode	sofrer	qualquer	restrição	estatal;	e	outro	que,	embora	restringível,	poderia	sê-lo
+indevidamente	(cf.	escrevemos	em	Constituição.	.	cit.,	comentário	ao	art.	e	5.º,	II,	e	doutrina	ali	citada).
+No	estado	constitucional,	o	direito	fundamental	à	liberdade	não	é	visto	apenas	como	proteção	contra	o
+Estado	(	status	negativus),	no	sentido	referido	no	inc.	II	do	art.	5.º	da	Constituição.	Liberdade	deve	ser
+vista	também	como	direito	a	procedimentos	que	assegurem	a	própria	liberdade	(	status	activus).	Essa
+dimensão	do	direito	à	liberdade	é	relevante	no	contexto	socioeconômico	moderno,	em	que	em	várias
+searas	constata-se	a	ausência	do	Estado.	A	inexistência	de	lei	–	no	sentido	de	ausência	de	normas
+criadas	pelo	Estado	–	não	significa,	necessariamente,	aumento	de	liberdade,	mas,	sim,	aumento	de
+espaço	de	atuação	de	outros	agentes	sociais	que	criam	modelos	de	conduta	paraestatais.	Assim,	p.ex.,
+discute-se	sobre	o	dever	de	o	Estado	regular	o	mercado,	afirmando-se	que	a	liberdade	de	mercado	é
+ilusória	(a	respeito	do	tema,	cf.	Bernard	E.
+Harcourt,	The	illusion	of	free	markets:	punishment	and	the	myth	of	natural	order,	p.	151	ss.	e	p.	176
+ss.;	para	uma	visão	realista	sobre	a	ideia	de	“mão	invisível”	que	guia	o	mercado,	cf.	Giorgio	Agamben,
+O	reino	e	a	glória,	p.	301	ss.).	Nesse	contexto,	tem	relevância	o	direito	a	assegurar	a	liberdade	contra
+agentes	que	desejem	impor,	paralelamente	ao	Estado,	modelos	de	conduta,	e	esse	direito	à	liberdade
+deve	ser	protegido	e	realizado	pelo	Estado.
+II.	Defesa	e	promoção	da	dignidade	humana.	Princípio	pro	persona	e	direitos	fundamentais.	O	juiz
+
+deve	orientar-se	pelo	defesa	e	promoção	da	dignidade	da	pessoa	humana,	diz	o	CPC/2015.	Trata-se	de
+reprodução,	na	lei	processual,	de	comando	previsto	na	norma	constitucional	(a	respeito,	cf.	o	que
+escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	ao	art.	1.º).	A	Constituição	estabelece
+a	dignidade	da	pessoa	humana	como	um	dos	fundamentos	da	República	Federativa	do	Brasil	(cf.	art.	1.º,
+III	da	CF/1988).	O	conteúdo	desse	fundamento	é	compreendido	a	partir	de	outros	princípios	e	garantias
+existentes	na
+[/PAGINA 36]
+
+[PAGINA 37]
+própria	Constituição,	bem	como	nas	disposições	que	inspiraram	o	constituinte.	Na
+Declaração	Universal	dos	Direitos	Humanos,	fala-se	em	dignidade	“inerente	a	todos	os	membros	da
+família	humana”,	e,	de	acordo	com	seu	art.	1.º,	“todos	os	seres	humanos	nascem	livres	e	iguais	em
+dignidade	e	em	direitos.	Dotados	de	razão	e	de	consciência,	devem	agir	uns	para	com	os	outros	em
+espírito	de	fraternidade”.	Com	base	na	referida	disposição,	a	doutrina	extrai	as	seguintes	características:
+“a)	a	dignidade	da	pessoa	humana	reporta-se	a	todas	e	cada	uma	das	pessoas	e	é	a	dignidade	da	pessoa
+individual	e	concreta;	b)	cada	pessoa	vive	em	relação	comunitária,	mas	a	dignidade	que	possui	é	dela
+mesma,	e	não	da	situação	em	si;	c)	o	primado	da	pessoa	é	o	do	ser,	não	o	do	ter;	a	liberdade	prevalece
+sobre	a	propriedade;	d)	a	proteção	da	dignidade	das	pessoas	está	para	além	da	cidadania	portuguesa	[ou
+brasileira,	acrescentamos	nós]	e	postula	uma	visão	universalista	da	atribuição	de	direitos;	e)	a	dignidade
+da	pessoa	pressupõe	a	autonomia	vital	da	pessoa,	a	sua	autodeterminação	relativamente	ao	estado,	às
+demais	entidades	públicas	e	às	outras	pessoas”	(Jorge	Miranda,	Manual	de
+direito	constitucional,	t.	IV,	p.	169).	A	dignidade	da	pessoa	humana	é	“um	conceito	multifacetado,	que
+está	presente	na	religião,	na	filosofia,	na	política	e	no	direito.	Há	um	razoável	consenso	de	que	ela
+constitui	um	valor	fundamental	subjacente	às	democracias	constitucionais	de	modo	geral,	mesmo	quando
+não	expressamente	prevista	nas	suas	constituições”	(Luis	Roberto	Barroso,	A	Dignidade	da	Pessoa
+Humana.	.	cit.,	p.63).	Trata-se,	pois,	de	princípio	de	aceitação	universal:	a	dignidade	humana	é	o	eixo	em
+torno	do	qual	deve	girar	todo	o	sistema	normativo,	núcleo	dos	direitos	fundamentais	(cf.	escrevemos	em
+Constituição	Federal	comentada	cit.,	comentário	ao	art.	5.º).	Nesse	sentido,	assim	se	decidiu:	“Na
+resolução	do	caso	concreto,	os	princípios	se	aproximam	mais	dos	ideais	de	justiça	(Dworkin)	e	de
+direito	(Larenz),	sendo	imprescindível	que	se	os	busquem	em	sua	fonte	primordial:	a	Constituição.	O
+primeiro	deles	–	a	dignidade	da	pessoa	humana	(art.	1.º	da	CF/1988)	–,	é	considerado,	mesmo,	um
+sobreprincípio,	já	que	constitui	não	só	um	norte	para	a	produção	e	aplicação	de	novas	regras,	mas	fonte
+comum	a	todos	os	demais	princípios.	A	partir	da	dignidade	da	pessoa	humana,	a	Carta	Magna	elencou
+inúmeros	outros	direitos,	nos	arts.	5.º	e	6.º,	este	último	que	engloba	a	educação,	a	saúde,	a	alimentação,	o
+trabalho,	a	moradia,	o	lazer,	a	segurança,	a	previdência	social,	a	proteção	à	maternidade	e	à	infância	e	a
+assistência	aos	desamparados”	(STJ,	REsp	1.251.566/SC,	2.ª	T.,	j.	07.06.2011,	rel.	Min.	Mauro
+Campbell	Marques).	É	certo	que	dignidade	da	pessoa	humana	deve	compreender	“a	qualidade	intrínseca
+e	distintiva	de	cada	ser	humano	que	o	faz	merecedor	do	mesmo	respeito	e	consideração	por	parte	do
+Estado	e	da	comunidade,	implicando,	neste	sentido,	um	complexo	de	direitos	e	deveres	fundamentais	que
+assegurem	a	pesso
+[/PAGINA 37]
+
+[PAGINA 38]
+a	tanto	contra	todo	e	qualquer	ato	de	cunho	degradante	e	desumano,	como	venham	a	lhe
+garantir	as	condições	existenciais	mínimas	para	uma	vida	saudável,	além	de	propiciar	e	promover	sua
+participação	ativa	corresponsável	nos	destinos	da	própria	existência	e	da	vida	em	comunhão	dos	demais
+seres	humanos”	(Ingo	Wolfgang	Sarlet,	Dignidade	da	pessoa	humana	e	direitos	fundamentais,	p.	60).
+Não	obstante	seja	tamanha	a	sua	importância,	a	densificação	desse	fundamento	é	difícil,	sendo	tarefa
+árdua	a	definição	de	seu	conteúdo	e	de	seus	limites.	De	modo	geral,	a	dignidade	da	pessoa	humana	é
+tratada	como	princípio	ou	direito	fundamental.	Afirma-se,	na	doutrina,	que	a	dignidade	da	pessoa	humana
+“é	um	valor	fundamental,	mas	não	deve	ser	tomada	como	absoluta.	Valores,	sejam	políticos	ou	morais,
+adentram	o	mundo	do	direito	usualmente	assumindo	a	forma	de	princípios.	E	embora	direitos
+constitucionais	e	princípios	constitucionais	frequentemente	se	justaponham,	esse	não	é	o	caso	aqui.	A
+
+melhor	maneira	de	classificar	a	dignidade	humana	é	como	um	princípio	jurídico	com	status
+constitucional,	e	não	como	um	direito	autônomo”	(Luis	Roberto	Barroso,	A	Dignidade	da	Pessoa
+Humana.	.	cit.,	p.	64).	Na	jurisprudência	do	STF,	a	dignidade	da	pessoa	humana	tem	servido	de	vetor	às
+decisões	que	afirmam	haver	violação	a	algum	direito	fundamental	(cf.	escrevemos	em	Constituição
+Federal	comentada	cit.,	comentário	ao	Preâmbulo,	bem	como	aos	arts.	1.º,	3.º	e	5.º).	Com	base	na
+dignidade	da	pessoa	humana,	determinou-se	a	alteração	de	assento	de	óbito,	para	nele	se	consignar	que	a
+morte	decorreu	“de	lesões	e	maus	tratos	sofridos	durante	interrogatório	em	dependência	do	II	Exército
+(DOl/CODI)”,	a	despeito	de	a	amplitude	de	tal	informação	extrapolar	o	que	consta	do	art.	80,	8.º,	da	Lei
+6.015/1973	(Lei	de	Registros	Públicos):	“Uma	Constituição	que	erigiu	como	supraprincípio	a	dignidade
+humana,	reclama	interpretação	a	partir	do	eixo	dos	direitos	fundamentais	e	dos	princípios	sobre	que	se
+baseia	a	República.	Compreende-se	a	hesitação	em	fazer	inserir	num	assento	de	óbito	expressões	que
+nele	não	teriam	lugar,	à	luz	da	arcaica	visão	do	papel	dos	Registros	Públicos.	(.	.)	A	inserção	no	assento
+de	óbito	de	uma	causa	para	a	morte	de	Vladimir	Herzog	–	‘asfixia	mecânica	por	enforcamento’	–	atendeu
+às	formalidades	legais.	Mas	ela	traduz	o	que	de	fato	ocorreu	nas	dependências	estatais	onde	ele	foi
+morto?	Por	que	sacrificar	a	verdade	à	forma?	Não	é	essa	a	vontade	fundante	que	consagra	a	transparência
+como	um	dos	valores	republicanos,	estratégia	pedagógica	para	que	novos	atos	que	envergonham	a
+espécie	humana	sejam	banidos	do	convívio	democrático.	(.	.).	O	constituinte	de	1988	abomina	a
+violência	e	quis	bani-la	da	realidade	brasileira.	Por	isso	é	que	o	direito	não	pode	desprezar	princípios
+meta	jurídicos,	situados	para	além	da	norma,	calcados	na	inevitável	conclusão	de	que	os	seres	humanos
+têm	direitos	morais	contra	o	Estado.	Sobre	o	ordenamento,	notadamente	o	calcado	em	formalismos,
+sobreleva	e	se	impõe	a
+[/PAGINA 38]
+
+[PAGINA 39]
+superioridade	dos	direitos	humanos,	como	expressão	de	sadia	concepção	de
+Humanidade,	titular	de	direitos	pré-políticos	e	pré-jurídicos.	Respeitar	a	dignidade	da	pessoa	é	o	critério
+último	de	validade	de	toda	a	ordem	jurídica”
+(Corregedoria	TJSP,	Processo	2012/137854,	j.	12.12.2012,	Corregedor	Des.	José	Renato	Nalini).	Nota-
+se	que	a	jurisprudência,	ainda	que	sem	mencioná-lo	explicitamente,	orienta-se	pelo	princípio	pro
+persona	(ou,	in	dubio	pro	persona),	segundo	o	qual	deve-se	privilegiar	a	interpretação	que	melhor
+realize	(e	não	restrinja)	o	exercício	dos	direitos	da	pessoa	(a	respeito,	cf.
+Fabián	Salvioli,	Un	análisis	desde	el	principio	pro	persona.	.	cit.,	p.	143	ss.),	sendo	nesse	sentido	o	art.
+29	da	Convenção	Americana	Sobre	Direitos	Humanos	(Pacto	de	São	José	da	Costa	Rica).	Dando-se	essa
+dimensão	à	dignidade	da	pessoa	humana,	admite-se	que	esta	funcione	também	como	critério
+interpretativo.	Afirma-se,	por	exemplo,	que	“a	cláusula	da	reserva	do	possível	–	que	não	pode	ser
+invocada,	pelo	Poder	Público,	com	o	propósito	de	fraudar,	de	frustrar	e	de	inviabilizar	a	implementação
+de	políticas	públicas	definidas	na	própria	Constituição	–	encontra	insuperável	limitação	na	garantia
+constitucional	do	mínimo	existencial,	que	representa,	no	contexto	de	nosso	ordenamento	positivo,
+emanação	direta	do	postulado	da	essencial	dignidade	da	pessoa	humana”	(STF,	AgRg	no	AgRE	639.337,
+2.ª	T.,	j.	23.08.2011,	rel.	Min.	Celso	de	Mello).	Afirma-se,	na	doutrina,	que	o	uso	da	cláusula	da	reserva
+do	possível	em	detrimento	da	realização	de	direitos	fundamentais,	depois	dos	recentes	aportes	realizados
+por	variados	governos	do	mundo	com	o	intuito	de	resolver	a	crise	financeira	internacional,	só	pode	ser
+fruto	de	ingénuité	collective	(Paulo	Ferreira	da	Cunha,	Principes	constitutionnels	herméneutiques,	p.	22).
+Com	efeito:	os	direitos	fundamentais	funcionam	como	limites,	algo	como	“muros	de	resistência”.
+Temos	sustentado	(cf.	Constituição	Federal	comentada,	op.	cit.),	que	a	essa	afirmação	deve	ser	dado
+significado	diferente	do	tradicional	(como,	v.g.	,	tomado	como	direito	à	liberdade	contra	o	Estado),	no
+sentido	de	que	os	direitos	fundamentais	devem	ser	respeitados	também	por	decisões	políticas	tomadas
+em	momentos	de	crise	(econômica,	por	exemplo).	O	argumento	para	a	tomada	de	tais	decisões,	não	raro,
+é,	formalmente,	a	proteção	aos	direitos	fundamentais,	mas,	na	verdade,	acabam-se	sacrificando	direitos
+
+fundamentais	e	protegendo-se	outros	valores	(assim,	por	exemplo,	afirma-se	que	para	se	recuperar	de
+uma	crise	econômica,	considerada	um	mal	maior,	o	Estado	deverá	investir	em	setores	específicos	da
+economia	e,	ao	mesmo
+tempo,	reduzir	benefícios	de	aposentados,	ou	limitar	investimentos	em	saúde	ou	educação).	Como	lembra
+C.	S.	Lewis,	um	dos	maiores	erros	dos	seres	humanos	é	não	acreditar	na	existência	dos	demônios	(
+Cartas	de	um	diabo	a	seu	aprendiz,	p.	IX).
+Suposições	como	a	de	que	decisões	tomadas	pelos	agentes	públicos	em	relação	à	economia	seriam
+politicamente	neutras,	ou
+[/PAGINA 39]
+
+[PAGINA 40]
+de	que	é	necessário	sacrificar	direitos	fundamentais	para	se	proteger	a
+economia,	são,	racionalmente,	grandes	equívocos,	e,	juridicamente,	não	sobrevivem,	se	testadas	à	luz	da
+Constituição.	Por	isso	que	consideramos	o	respeito	aos	direitos	fundamentais	um	limite,	mas,	também,	o
+maior	fundamento	da	autoridade,	porque	esta	somente	se	legitima	se	respeitados	os	direitos
+fundamentais.	A	respeito,	cf.	escrevemos	em	Constituição	Federal	comentada	cit.,	comentário	ao
+Preâmbulo,	bem	como	aos	arts.	1.º,	3.º	e	5.º	e	6.º	da	CF/1988.
+III.	Proporcionalidade	e	razoabilidade.	De	acordo	com	a	regra	da	proporcionalidade,	consoante	se
+afirma	na	doutrina,	deve	haver	uma	“relação	adequada	entre	um	ou	vários	fins	determinados	e	os	meios
+com	que	são	levados	a	cabo”,	compreendendo	a	regra	os	seguintes	elementos:	o	meio	escolhido	deve	ser
+adequado;	ainda,	deverá	ser	necessário,	“não	excedendo	os	limites	indispensáveis	à	conservação	do	fim
+legítimo	que	se	almeja”;	por	fim,	deve-se	realizar	a	ponderação	entre	os	bens	ou	interesses	em	jogo,	a
+fim	de	que	o	sacrifício	imposto	a	um	dos	interesses	seja	efetivamente	necessário	e	justificável	(cf.	Paulo
+Bonavides,	Curso.	.	cit.,	Cap.	12,	n.	1,	p.	357-361;	no	mesmo	sentido,	cf.	Karl	Larenz,	Metodologia	da
+ciência	do	direito,	p.	500-501).	As	normas	que	contemplam	direitos	fundamentais,	para	parte	expressiva
+da	doutrina,	podem	ter	estrutura	de	princípios	jurídicos.	Afirma-se,	na	doutrina,	que	“a	tarefa	dos
+tribunais,	de	dar	atuação	aos	modernos	‘Bill	of	Rights’,	grandemente	contribui	para	‘expandir	o	âmbito
+do	direito	judiciário’	e	aumentar	a	criatividade	dos	juízes”	(Mauro	Cappelletti,	Juízes	legisladores,	p.
+66).	Para	realizar	essa	tarefa,	lida	o	juiz	com	direitos	fundamentais	(e	princípios	correspondentes)	muitas
+vezes	colidentes,	incumbindo-lhe	definir	qual	direito	deve	ser	reconhecido,	no	caso.	Parte	da	doutrina
+afirma	que	o	método	de	ponderação	entre	princípios	colidentes	não	seria	racional,	o	que	favoreceria	o
+subjetivismo	e,	até,	a	arbitrariedade	na	prolação	de	decisões	judiciais	fundadas	em	princípios	(assim,
+p.ex.,	Jürgen	Habermas,	op.	loc.	cit.).
+Robert	Alexy	reconhece	que	um	“sopesamento	irracional”	pode	ameaçar	a	própria	existência	dos	direitos
+fundamentais.	Mas,	em	resposta	à	crítica	de	Habermas,	afirma	que	o	sopesamento	deve	ser	realizado	com
+base	em	um	modelo	fundamentado,	e	não	decisionista	(op.	cit.,	p.	165	e	598).	Mas	Alexy	admite	a
+dificuldade,	ao	afirmar	que	“una	única	respuesta	correcta	para	cada	caso	sólo	podría	admitirse
+recurriendo	a	cinco	idealizaciones,	a	saber:	1)	tiempo	ilimitado,	2)	información	ilimitada,	3)	claridad
+linguística	conceptual	ilimitada,	4)	capacidad	y	disposición	ilimitada	para	el	cambio	de	roles	y	5)
+carencia	de	prejuicios	ilimitada”	(Sistema	jurídico,	principios	jurídicos	y	razón	práctica,	Doxa	5,	p.
+151).	Ronald	Dworkin,	tendo	em	vista	sua	concepção	mais	restrita	que	a	de	Alexy	quanto	ao	que	seja	um
+princípio	jurídico,	não	admite	que	uma	decisão	seja	tomada	com	base	em	policies,	o	que
+[/PAGINA 40]
+
+[PAGINA 41]
+afasta	a
+possibilidade	de	ponderação	de	valores	jurídicos.	A	solução,	segundo	Dworkin,	será	aquela	que	melhor
+corresponder	à	Constituição,	às	regras	jurídicas	e	aos	precedentes.	De	todo	modo,	lembra	Dworkin	que	o
+juiz	deve	“decidir	os	casos	difíceis	com	humildade”	(	Levando	os	direitos	a	sério,	p.	203).	A	única
+saída,	assim,	parece	ser	a	imprescindibilidade	de	a	decisão	conter	uma	fundamentação	diferenciada.
+Mas,	enquanto	para	Robert	Alexy	faz-se	necessário	recorrer	a	uma	ordem	de	valores	(escolhe-se	o	que
+
+tem	“mais	peso”),	para	Ronald	Dworkin	a	escolha	deveria	considerar	o	princípio	ajustado	ao
+ordenamento	jurídico	(escolhe-se	“o	adequado”).	A	nosso	ver,	em	qualquer	caso,	seguindo-se	a	ideia	de
+Robert	Alexy,	acaba	o	julgador	por	decidir	com	base	em	valores,	o	que,	evidentemente,	dificulta	que	se
+fundamente	objetiva	e	racionalmente	a	decisão	judicial.	Mas	o	critério	proposto	por	Ronald	Dworkin,
+por	si	só,	pode	não	oferecer	caminho	mais	seguro,	se	não	houver	real	comprometimento	do	órgão
+jurisdicional	com	os	valores	democráticos,	que	devem	traduzir-se	concretamente	no	processo	de	criação
+da	solução	jurídica.	Assim,	a	tomada	de	decisões	fundada	em	princípios	jurídicos	deve	considerar	os
+seguintes	fatores:	(a)	integridade,	previsibilidade	e	estabilidade	de	orientação;	(b)	construção	da	solução
+jurídica	em	sistema	interacional	e	dialético,	de	que	participam	o	órgão	jurisdicional	e	os	destinatários	da
+solução;	(c)	compreensão	social	da	problemática	concreta,	pelo	órgão	no	exercício	da	jurisdição
+constitucional.	Estes	fatores	são	considerados	mínimos,	e	têm	sérios	desdobramentos,	e	procuramos
+explicar	isso	ao	longo	dos	presentes	comentários.	De	todo	modo,	a	não	observância	de	critérios	mínimos
+de	racionalidade	da	criação	da	solução	jurídica	pela	jurisdição	constitucional	pode	ser	fator	de
+insegurança,	o	que	é	inadmissível,	em	um	Estado	Democrático	de	Direito,	conduzindo,	assim,	ao
+enfraquecimento	dos	direitos	fundamentais,	cujo	teor	acaba	variando	ao	sabor	do	entendimento	pessoal
+do	juiz.	A	criação	judicial	de	soluções	jurídicas	fundadas	em	tais	princípios,	assim,	exige	do	magistrado
+um	modo	peculiar	de	pensar	o	direito,	vinculado	não	apenas	à	identificação	da	regra	legal,	em	si	mesma
+considerada,	e	à	sua	incidência,	de	modo	praticamente	automático,	em	uma	dada	situação:	deve	o	órgão
+jurisdicional	dar	especial	atenção	à	repercussão	da	solução	jurídica	estabelecida	para	o	caso	na
+realização	da	própria	atividade	jurisdicional	e	na	sociedade.	Como	o	recurso	à	proporcionalidade	para
+a	solução	de	problemas	relativos	à	ponderação	de	valores	pode	acabar	se	baseando	em	uma	hierarquia
+pessoal	do	órgão	julgador,	desvinculada	de	toda	a	história	das	instituições	que	devem	ser	consideradas
+durante	o	processo	de	ponderação,	impõe-se	a	necessidade	de	se	recorrer	a	um	procedimento	de
+aplicação	do	direito	que	seja	previamente	aprovado	em	um	teste	de	comprometimento	com	os	valores
+fundamentais	da	ordem	constitucional.
+Razoabilidade	é	algo	tratado,	muitas	vezes,	como	si
+[/PAGINA 41]
+
+[PAGINA 42]
+nônimo	de	proporcionalidade.	A	regra	da
+proporcionalidade,	no	entanto,	opera	ao	lidar-se	com	direitos	fundamentais	cotejados,	no	contexto	da
+criação	da	solução	jurídica.	Razoabilidade,	de	sua	vez,	diz	respeito	à	compatibilidade	entre	meios	e	fins
+de	uma	medida	(sobre	essa	discussão,	cf.	Virgílio	Afonso	da	Silva,	O
+proporcional	e	o	razoável,	RT	798/23).	Atos	imoderados	e	abusivos,	assim,	ferem	a	razoabilidade.
+IV.	Fins	sociais	do	direito.	Sensibilidade	social.	Interessa,	para	o	processo,	não	apenas	como	se
+relacionam	os	sujeitos.
+Devem	ser	considerados	também	os	atributos	dos	sujeitos	do	processo.	Canalizam-se,	no	processo,	os
+anseios	de	entes	que	integram	a	sociedade,	e	tais	entes	manifestam	no	processo	sua	condição	humana,
+social,	econômica	etc.	Como	o	processo	se	desenvolve	através	da	interação	entre	as	partes	e	o	juiz
+(sobre	o	processo	como	sistema	interacional,	cf.	comentário	ao	art.	2.º
+do	CPC/2015),	isto	é,	através	da	comunicação	que	deve	se	dar	entre	as	partes	e	o	órgão	jurisdicional
+(aproximadamente	nesse	sentido,	cf.	José	Rodrigues	de	Carvalho	Netto,	Da	ação	monitória,	p.	14),	é
+imprescindível	que	tais	sujeitos	encontrem-se	em	condições	de	compreender	e	de	serem	compreendidos,
+e	o	primeiro	passo	para	que	isso	ocorra	é	a	percepção	de	que	os	sujeitos	que	compõem	a	relação	jurídica
+não	são	abstratos,	mas	concretos	(sobre	a	importância	da	conscientização	recíproca	dos	interlocutores	de
+uma	relação,	cf.	Enrique	Dussel,	Ética	da	libertação,	p.	437	ss.).	Com	isso	quer-se	dizer,	p.	ex.,	que	o
+
+juiz,	ao	proferir	a	sentença,	deve	ter	consciência	de	que,	ao	longo	do	desenvolvimento	do	processo,	terá
+conhecido	as	partes	e	o	contexto	socioeconômico	em	que	se	encontram	inseridas,	as	ouvido	e	entendido.
+Deve,	reciprocamente,	manifestar-se	de	modo	a	ser	entendido,	e	assim	sucessivamente.	Essa	perspectiva
+do	modo	como	deve	se	dar	a	atuação	jurisdicional	impõe	seja	compreendida	de	modo	diverso	também	a
+finalidade	das	formas	dos	atos	processuais	e	do	processo	(cf.	comentário	ao	art.
+188	do	CPC/2015).	A	constatação	de	que	a	atividade	jurisdicional	chegou	ou	não	ao	seu	fim	ideal	se
+verifica	através	do	grau	de	profundidade	com	que	o	juiz	interpreta	os	problemas	que	lhe	são	submetidos,
+bem	como	pela	identificação	de	que	foram	empregadas	justificativas	seguras,	não	só	sob	o	prisma
+jurídico,	mas	também	sob	a	perspectiva	social,	para	a	tomada	da	decisão.	Decidiu-se,	por	exemplo:
+“Numa	quadra,	como	a	que	vivemos,	de	enorme	dificuldade,	com	retração	da	economia	e	escassez	de
+emprego,	a	postura	reclamada	do	judiciário	é	a	de	que	tenha	uma	maior	sensibilidade	para	não	agravar
+esses	problemas,	por	isso	mesmo	que	deve	dar	às	regras	falimentares,	sobretudo	à	estabelecida	pelo	art.
+4.º,	VIII	da	Lei	de	Quebra,	uma	interpretação	que	conduza,	tanto	quanto	possível,	a	manter	as	empresas
+em	atividade	no	caso	como	o	dos	autos	em	que	a	ninguém	interessa	o	encerramento	das	atividades	da
+recorrente,	não	havendo	nenhum	credor	a	se	dizer	lesado,	não	tendo	fomento	de	utilidade	nem	d
+[/PAGINA 42]
+
+[PAGINA 43]
+e	justiça
+manter-se	a	decretação	da	falência,	evitando-se,	assim,	que	seja	instalado	um	mal	social	de	maior
+gravidade”	(STJ,	REsp	175.158/SP,	4.ª	T.,	rel.	Min.	Cesar	Asfor	Rocha;	semelhantemente,	STJ,	REsp
+920.140/MT,	rel.
+Min.	Aldir	Passarinho	Junior,	4.ª	T.,	j.	08.02.2011).
+V.	Eficiência	e	gestão.	O	CPC/2015,	no	art.	8.º,	reproduz	em	parte	algo	que,	na	Constituição,	encontra-se
+destacado	em	Capítulo	dedicado	à	Administração	Pública	(art.	37	da	CF/1988).	Não	há	nada	de
+despropositado	nisso.	Afinal,	o	magistrado	também	é	gestor,	não	apenas	de	um	processo,	mas	de	todas	as
+causas	que	perante	ele	estejam	em	trâmite.	O	CPC/2015,	por	exemplo,	incumbe	o	juiz	de	ordenar	as
+causas,	a	fim	de	que	seja	respeitada	determinada	ordem	de	julgamento	(cf.	art.	12	do	CPC/2015).	Nesse
+ponto,	tal	como	um	administrador,	deve	ele	se	organizar	e	realizar	os	atos	de	modo	a	alcançar	o	melhor
+resultado	possível	com	os	meios	disponíveis.	A	ideia	de	eficiência	aspira	a	que	algo	seja	realizado	de
+modo	a	propiciar	um	grau	máximo	de	satisfação.	Tratando	da	eficiência	administrativa,	escrevemos	que	o
+art.	37	revela	preocupação	que	ultrapassa	a	ética,	sujeitando-se	os	atos	da	Administração	também	a	um
+juízo	estético	(esse,	para	nós,	o	significado	de	eficiência	administrativa,	cf.	escrevemos	em	Constituição
+Federal	comentada	cit.,	comentário	ao	art.	37,	caput,	que,	segundo	pensamos,	pode	ser	transposto	para
+a	esfera	jurisdicional).
+Art.	9º.	Não	se	proferirá	decisão	contra	uma	das	partes	sem	que	ela	seja	previamente	ouvida.
+Parágrafo	único.	O	disposto	no	caput	não	se	aplica:	I	-	à	tutela	provisória	de	urgência;	II	-	às	hipóteses
+de	tutela	da	evidência	previstas	no	art.	311,	incisos	II	e	III;	III	-	à	decisão	prevista	no	art.	701.
+CPC/1973:	Sem	correspondente;	art.	804	(relacionado).
+V.	art.	5.º,	XXXV	e	LV,	CF/1988.
+•	FPPC,	Enunciado	108:	No	processo	do	trabalho,	não	se	proferirá	decisão	contra	uma	das	partes,
+sem	que	esta	seja	previamente	ouvida	e	oportunizada	a	produção	de	prova,	bem	como	não	se	pode
+decidir	com	base	em	causa	de	pedir	ou	fundamento	de	fato	ou	de	direito	a	respeito	do	qual	não	se
+tenha	oportunizado	manifestação	das	partes	e	a	produção	de	prova,	ainda	que	se	trate	de	matéria
+
+apreciável	de	ofício.
+•	FPPC,	Enunciado	235:	Aplicam-se	ao	procedimento	do	mandado	de	segurança	os	arts.	7º,	9º	e	10	do
+CPC.
+SUMÁRIO:	I.	Contraditório	e	direito	de	ser	ouvido	–	II.	Contraditório	diferido.	Liminar	inaudita	altera
+parte.
+I.	Contraditório	e	direito	de	ser	ouvido.	Refere-se	o	art.	9.º	do	CPC/2015	àquela	que,	segundo
+pensamos,	é	a	manifestação	mais	básica	do	contraditório:	o	direito	de	ser	ouvido.	A	garantia	do
+contraditório,	no	entanto,	é	mais	ampla,	e	compreende	também	o	direito	de	influir	decisivamente	nos
+destinos	do	processo.	Há,	pois,	o	direito	de	ser	ouvido,	de	se	manifestar,	e	de	ter	suas	manifestações
+levadas	em	consideração.	Veda-se,	nesse	contexto,	a	prolação	de	decisões	com	surpresa	para	as	partes,
+disso	tratando	o	art.	10	do	NCPC.	Os	arts.	9.º	e	10	do	CPC/2015	devem	ser
+[/PAGINA 43]
+
+[PAGINA 44]
+lidos	em	conjunto,	e
+compreendidos	à	luz	dos	demais	princípios	a	que	nos	referimos	no	comentário	ao	art.	2.º	do	CPC/2015.
+II.	Contraditório	diferido.	Liminar	inaudita	altera	parte	.	O	direito	ao	contraditório	convive	com	outro
+direito	fundamental,	que	diz	respeito	à	necessidade	de	concessão	de	tutela	que	se	evite	a	consumação	de
+lesão	em	estado	de	ameaça.
+Será	o	caso,	pois,	de	definir	os	limites	dos	direitos	fundamentais	compreendidos	nos	incs.	XXXV	e	LV
+do	art.	5.º	da	CF/1988.
+Autoriza-se	a	concessão	de	providência	jurisdicional	liminarmente,	embora	não	ouvido	o	réu	ou	o
+executado	(	inaudita	altera
+parte),	se	sua	prévia	ciência	puder	comprometer,	tornar	inócua	ou	ineficaz	a	medida	pleiteada.	Tais
+circunstâncias,	contudo,	são	extremadas.	Impõe-se	ao	magistrado,	como	regra,	observar	o	contraditório,
+somente	diferindo-o	para	momento	posterior	em	circunstâncias	excepcionais,	a	fim	de	que	não	se	frustre
+a	plena	realização	da	tutela	jurisdicional.	O	art.	804	do	CPC/1973
+era	claro	nesse	sentido:	“É	lícito	ao	juiz	conceder	liminarmente	ou	após	justificação	prévia	a	medida
+cautelar,	sem	ouvir	o	réu,	quando	verificar	que	este,	sendo	citado,	poderá	torná-la	ineficaz”.	Não	há,	no
+caso,	violação	à	garantia	do	contraditório,	que,	no	caso,	fica	diferido,	isso	é,	adiado	para	momento
+posterior.	Não	fosse	assim,	se	poderia	tornar	concreta	lesão	cuja	ameaça,	com	a	liminar,	se	pretendia
+evitar,	restando	violado	o	inc.	XXXV	do	art.	5.º	da	CF/1988	(a	respeito,	cf.	o	que	escrevemos	em
+Constituição	Federal	comentada.	.	cit.,	comentário	aos	incs.	XXXV,	LIV	e	LV	do	art.	5.º	da	CF/1988;	na
+doutrina	recente,	cf.,	dentre	outros,	José	Roberto	dos	Santos	Bedaque,	Tutela	cautelar	e	tutela	antecipada,
+p.	346;	Gilberto	Gomes	Bruschi,	A	tutela	antecipada	e	a	postura	do	juiz	diante	do	pedido	liminar	–	A
+possibilidade	de	sua	concessão	antes	da	citação	do	réu	visando	maior	efetividade	ao	processo,	in	José
+Miguel	Garcia	Medina	et	al.,	Os	poderes	do	juiz	e	controle	das	decisões	judiciais.	.	cit.,	Felippe	Borring
+Rocha,	O	contraditório	utilitarista,	RePro	229/171).	Nesse	sentido	deve	ser	compreendido	o	disposto	no
+parágrafo	único	do	art.	9.º	do	CPC/2015.	Não	basta,	p.	ex.,	a	presença	de	fumus	e	periculum	para	que	se
+difira	o	contraditório.	É	necessário	haver	um	plus,	consistente	no	efetivo	risco	de	frustação	da	tutela
+jurisdicional,	caso	essa	seja	postergada	em	prol	do	contraditório.	Isso	tenderá	a	ocorrer	em	casos	de
+liminares	fundados	na	urgência,	tendo	em	conta	os	bens	jurídicos	em	conflito.	Mas	poderá	suceder,
+também,	embora	em	menor	medida,	em	casos	de	tutela	de	evidência	sem	urgência,	quando,	tamanha	a
+contundência	quanto	à	manifesta	existência	do	direito,	dispensa	a	lei	a	necessidade	de	demonstração	de
+
+periculum.	A	respeito,	cf.	comentário	aos	dispositivos	referidos	no	parágrafo	único	do	art.	9.º	do
+CPC/2015.
+Art.	10.	O	juiz	não	pode	decidir,	em	grau	algum	de	jurisdição,	com	base	em	fundamento	a	respeito	do
+qual	não	se	tenha	dado	às	partes	oportunidade	de	se	manifestar,	ainda
+[/PAGINA 44]
+
+[PAGINA 45]
+que	se	trate	de	matéria	sobre	a	qual
+deva	decidir	de	ofício.
+CPC/1973:	Sem	correspondente.
+V.	art.	5.º,	XXXV	e	LV,	CF/1988.
+•	FPPC,	Enunciado	2:	Para	a	formação	do	precedente,	somente	podem	ser	usados	argumentos
+submetidos	ao	contraditório.
+•	FPPC,	Enunciado	19:	São	admissíveis	os	seguintes	negócios	processuais,	dentre	outros:	pacto	de
+impenhorabilidade,	acordo	de	ampliação	de	prazos	das	partes	de	qualquer	natureza,	acordo	de	rateio
+de	despesas	processuais,	dispensa	consensual	de	assistente	técnico,	acordo	para	retirar	o	efeito
+suspensivo	da	apelação,	acordo	para	não	promover	execução	provisória.
+•	FPPC,	Enunciado	108:	No	processo	do	trabalho,	não	se	proferirá	decisão	contra	uma	das	partes,
+sem	que	esta	seja	previamente	ouvida	e	oportunizada	a	produção	de	prova,	bem	como	não	se	pode
+decidir	com	base	em	causa	de	pedir	ou	fundamento	de	fato	ou	de	direito	a	respeito	do	qual	não	se
+tenha	oportunizado	manifestação	das	partes	e	a	produção	de	prova,	ainda	que	se	trate	de	matéria
+apreciável	de	ofício.
+•	FPPC,	Enunciado	235:	Aplicam-se	ao	procedimento	do	mandado	de	segurança	os	arts.	7.º,	9.º	e	10
+do	CPC	[de	2015].
+Contraditório	e	processo	como	sistema	interacional	e	dialético.	Direito	das	partes	ao	diálogo	com	o
+órgão	jurisdicional.	Garantia	de	influência.	As	“decisões	surpresa”	.	Sustentamos	que	às	partes	deve
+ser	reconhecido	o	direito	de	participar	ativamente	no	procedimento	de	tomada	da	decisão	judicial.	Tal
+participação	consiste	em	poder	influir	decisivamente	nos	destinos	do	processo	(cf.	o	que	se	disse	no
+comentário	ao	art.	5.º	do	CPC/2015,	a	respeito	da	teoria	das	relações	de	status,	e	doutrina	ali	citada).	A
+manifestação	mais	rudimentar	do	princípio	do	contraditório	dá-se	através	do	binômio	“informação	+
+reação”.	Esse	princípio	é	também	decorrente	do	princípio	constitucional	da	isonomia	(art.	5.º,	caput	e	II
+da	CF/1988;	art.	7.º	do	CPC/2015),	já	que,	se	o	juiz	decidir	apenas	com	base	no	que	uma	das	partes	tiver
+argumentado,	dará	a	elas	tratamento	desigual.	Mas	hoje,	ao	princípio,	deve	ser	reconhecida	dimensão
+mais	ampla.	Modernamente,	entende-se	que	somente	se	considerará	atendido	o	princípio	se	propiciada	às
+partes	a	participação	real	e	efetiva	na	realização	dos	atos	preparatórios	da	decisão	judicial:	“o
+princípio	do	contraditório,	garantia	constitucional,	serve	como	pilar	do	processo	civil	contemporâneo,
+permitindo	às	partes	a	participação	na	realização	do	provimento”	(STJ,	REsp	421.342/AM,	4.ª	T.,	j.
+11.06.2002,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	Assim,	o	princípio	do	contraditório	concretiza-se
+através	da	participação	das	partes	no	processo,	e	do	diálogo	que	deve	ter	o	órgão	jurisdicional	com	as
+partes	(cf.	Giuseppe	Tarzia,	Lineamenti	del	processo	civile	di	cognizione,	2.	ed.,	p.	9-10;	na	doutrina
+italiana,	cf.,	ainda,	dentre	outros,	Luigi	Montesano,	La	garantia	costituzionale	del	contraddittorio	e	i
+giudizi	civili	“di	terza	via”,	Rivista	di	Diritto	Processuale,	n.	4,	2000,	p.	931;	mais	recentemente,	Sergio
+Chiarloni,	Questioni	rilevabi
+[/PAGINA 45]
+
+[PAGINA 46]
+li	d’ufficio,	diritto	di	defesa	e	“formalismo	delle	garanzie”,	RePro	212/83).
+Merece	transcrição,	quanto	ao	ponto,	a	lição	de	Carlos	Alberto	Alvaro	de	Oliveira:	“Torna-se,	assim,
+
+palpável	a	insuficiência	do	conceito	do	contraditório,	tal	como	geralmente	entrevisto	na	doutrina
+brasileira,	ou	seja,	como	mera	ciência	bilateral	dos	atos	do	processo	e	possibilidade	de	contraditá-los.
+Tal	concepção,	convém	sublinhar,	encontra-se	ainda	fortemente	atrelada	ao	prejuízo	antigo	de	que	o
+direito	deveria	ser	dito	exclusivamente	pelo	Juiz,	sem	a	interferência	das	partes.	A	realidade,	porém,	é
+muito	mais	complexa,	a	impor	permanente	disquisição	em	conjunto	do	órgão	judicial	e	dos	participantes
+do	litígio	processual.	Ora,	essa	colaboração	só	se	ostenta	possível,	do	ângulo	visual	das	partes,	quando
+sabem	elas	ou	podem	saber	de	que	depende,	no	caso	concreto,	o	ponto	de	vista	do	órgão	judicial.	De
+modo	nenhum	pode-se	admitir	sejam	as	partes,	ou	uma	delas,	surpreendidas	por	decisão	que	se	apoie,	em
+ponto	decisivo,	numa	visão	jurídica	de	que	não	se	tenham	apercebido,	ou	considerada	sem	maior
+significado:	o	Tribunal	deve	dar	conhecimento	de	qual	direção	o	direito	subjetivo	corre	perigo.
+Permitir-se-á	apenas	o	aproveitamento,	na	sentença,	dos	fatos	sobre	os	quais	as	partes	tenham	tomado
+posição.	Dentro	da
+mesma	orientação,	a	liberdade	concedida	ao	julgador	de	escolher	a	norma	a	aplicar,	independentemente
+de	sua	invocação	pela	parte	interessada,	consubstanciada	no	brocardo	iura	novit	curia,	não	dispensa	a
+prévia	ouvida	das	partes	sobre	os	novos	rumos	a	serem	imprimidos	à	solução	do	litígio,	em	homenagem
+ao	princípio	do	contraditório.	Não	se	considere,	aliás,	rara	a	hipótese:	são	frequentes	os	empecilhos	com
+que	se	depara	o	aplicador	do	Direito,	nem	sempre	solucionáveis	com	facilidade;	dificuldade	geralmente
+agravada	pela	posição	necessariamente	parcializada	do	litigante,	o	que	colabora	para	empecer	visão
+clara	a	respeito	dos	possíveis	rumos	do	processo	e	de	sua	solução.	Mesmo	a	matéria	que	o	Juiz	deva
+conhecer	de	oficio	impõe-se	pronunciada	apenas	com	a	prévia	manifestação	das	partes,	pena	de
+infringência	da	garantia.	Por	sinal,	é	bem	possível	recolha	o	órgão	judicial,	dessa	audiência,	elementos
+que	o	convençam	da	desnecessidade,	inadequação	ou	improcedência	da	decisão	que	iria	tomar.	Ainda
+aqui	o	diálogo	pode	ser	proveitoso,	porque	o	Juiz	ou	o	Tribunal,	mesmo	por	hipótese	imparcial,	muita
+vez	não	se	percebe	ou	não	dispõe	de	informações	ou	elementos	capazes	de	serem	fornecidos	apenas
+pelos	participantes	do	contraditório”	(O	juiz	e	o	princípio	do	contraditório,	RePro	71/31).	À	semelhança
+do	que	faz	o	CPC/2015	nos	arts.	9.º	e	10,	esta	concepção	do	princípio	vem	sendo	acolhida	por	todas	as
+legislações	processuais	modernas.
+Assim,	por	exemplo,	o	art.	16	do	CPC	francês:	“Le	juge	doit,	en	toutes	circonstances,	faire	observer	et
+observer	lui-même	le	principe	de	la	contradiction.	Il	ne	peut	retenir,	dans	sa	décision,	les	moyens,	les
+explications	et	les	documents	invoqués	ou	pr
+[/PAGINA 46]
+
+[PAGINA 47]
+oduits	par	les	parties	que	si	celles-ci	ont	été	à	même	d’en
+débattre	contradictoirement.	Il	ne	peut	fonder	sa	décision	sur	les	moyens	de	droit	qu’il	a	relevés	d’office
+sans	avoir	au	préalable	invité	les	parties	à	présenter	leurs	observations”.	Por	sua	vez,	o	art.	3.º,	n.	3,	do
+CPC	português	dispõe	que	“o	juiz	deve	observar	e	fazer	cumprir,	ao	longo	de	todo	o	processo,	o
+princípio	do	contraditório,	não	lhe	sendo	lícito,	salvo	caso	de	manifesta	desnecessidade,	decidir
+questões	de	direito	ou	de	facto,	mesmo	que	de	conhecimento	oficioso,	sem	que	as	partes	tenham	tido	a
+possibilidade	de	sobre	elas	se	pronunciarem”	(cf.,	a	respeito,	Carlos	Francisco	de	Oliveira	Lopes	do
+Rego,	Comentários	ao	Código	de	Processo	Civil,	v.	1,	p.	32).	Similarmente,	a	ZPO	alemã	prevê,	no	§
+139,	que	o	órgão	jurisdicional	somente	pode	decidir	sobre	alguma	questão	quando	as	partes	tenham	tido
+oportunidade	de	se	manifestar	em	relação	à	mesma	(ZPO,	§	139,	2:	“(.	.),	wenn	es	darauf	hingewiesen
+und	Gelegenheit	zur	Äußerung	dazu	gegeben	hat”;	cf.,	a	respeito,	Wolfgang	Lüke,	Zivilprozessrecht,	p.	12-
+13;	Wolfgang	Grunsky,	Zivilprozessrecht,	p.	26-27).	Vê-se	que,	como	uma	das	consequências	do
+princípio,	o	órgão	jurisdicional	não	pode	proferir	decisão	com	surpresa	para	as	partes.	Reconhece-se
+que,	mesmo	em	se	tratando	de	temas	a	respeito	dos	quais	deva	o	juiz	manifestar-se	ex	officio,	deve	o
+órgão	jurisdicional,	atento	ao	princípio	do	contraditório,	ouvir	a	parte	interessada,	evitando-se,	com	isso,
+
+a	prolação	de	“decisão	surpresa”	para	a	parte,	o	que	não	se	coadunaria	com	o	princípio	do	contraditório.
+Naturalmente,	o	contraditório	deve	ser	observado	também	em	procedimento	arbitral	(nesse	sentido,
+TJRJ,	AP	0351390-45.2011.8.19.0001,	6.ª	Câm.,	j.
+19.09.2012,	rel.	Des.	Regina	Lucia	Passos).
+Art.	11.	Todos	os	julgamentos	dos	órgãos	do	Poder	Judiciário	serão	públicos,	e	fundamentadas	todas	as
+decisões,	sob	pena	de	nulidade.
+Parágrafo	único.	Nos	casos	de	segredo	de	justiça,	pode	ser	autorizada	a	presença	somente	das	partes,	de
+seus	advogados,	de	defensores	públicos	ou	do	Ministério	Público.
+CPC/1973:	Sem	correspondente;	arts.	131,	155	e	165	(relacionados).
+V.	arts.	5.º,	X,	XIV,	LX,	e	93,	IX,	CF/1988.
+SUMÁRIO:	I.	Publicidade	dos	julgamentos	–	II.	Realização	dos	julgamentos	em	público.	Transmissão
+dos	julgamentos	ao	vivo,	através	de	meios	de	comunicação.	Modelos	de	deliberação	interno	ou	externo	–
+III.	Fundamentação	das	decisões	judiciais.
+I.	Publicidade	dos	julgamentos.	A	publicidade	dos	atos	processuais	é	garantia	prevista	no	art.	5.º,	LX,
+da	CF/1988,	segundo	o	qual	“a	lei	só	poderá	restringir	a	publicidade	dos	atos	processuais	quando	a
+defesa	da	intimidade	ou	o	interesse	social	o	exigirem”.	Esse	comando	é	repetido	de	modo	mais	detalhado
+no	art.	93,	IX,	da	CF/1988,	que	estabelece	que	pode	“a	lei	limitar	a	presença,	em	determinados	atos,	às
+próprias	partes	e	a	seus	advogados,	ou	somente	a	estes,	em	casos	nos	quais	a	preservação	do	direito	à
+intimidade	do	interessado	no	sigilo	não	prejudique
+[/PAGINA 47]
+
+[PAGINA 48]
+o	interesse	público	à	informação”.	A	ressalva
+constante	do	final	do	art.	93,	IX,	da	CF/1988	diz	respeito	aos	limites	do	direito	de	preservação	da
+intimidade	(art.	5.º,	X,	da	CF/1988),	que	poderá	ceder	quando	houver	“interesse	público	à	informação”,
+a	que	se	refere	também	o	art.	5.º,	XIV,	da	CF/1988.	No	entanto,	não	se	deve	pensar,	de	antemão,	que	o
+“interesse	público	à	informação”	está	sempre	acima	do	direito	à	preservação	da	intimidade,	ou	vice-
+versa.	Sobre	a	limitação	legal	referida	no	art.	93,	IX,	da	CF/1988,	cf.	comentário	ao	art.	189
+do	CPC/2015.
+II.	Realização	dos	julgamentos	em	público.	Transmissão	dos	julgamentos	ao	vivo,	através	de	meios
+de	comunicação.	Modelos	de	deliberação	interno	ou	externo.	Não	se	confunde	a	publicidade	exigida
+pela	Constituição	e	referida	no	CPC/2015	com	a	decorrente	da	transmissão	ao	vivo	de	julgamentos,
+através	de	variados	meios	de	comunicação	(como	televisão,	rádio	ou	internet).	O	tema	relaciona-se	a
+debate	interessante,	consistente	em	saber	se	os	julgadores	devem	convencer	os	demais	integrantes	do
+colegiado	do	tribunal	ou	o	“público”,	algo	que,	na	doutrina,	é	analisado	no	contexto	dos	modelos	de
+deliberação	interna	e	externa:	“a	deliberação	interna	envolve	a	troca	de	razões	e	argumentos	no	interior
+de	um	grupo,	no	intuito	de	fazer	com	que	esse	grupo,	como	um	todo,	decida	em	uma	determinada	direção.
+A	deliberação	externa	consiste	no	esforço	de	convencer	atores	externos	ao	grupo.	No	caso	dos	tribunais,
+então,	a	deliberação	interna	diz	respeito	ao	fluxo	de	argumentos	entre	os	juízes,	ou	seja,	no	interior	do
+próprio	tribunal;	a	deliberação	externa	diz	respeito	ao	fluxo	de
+argumentos	entre	o	tribunal	e	o	mundo	externo	a	ele.	(.	.)	Quais	são	as	consequências	desse	modelo	de
+deliberação?	A	principal	delas	reside	no	fato	de	que	os	juízes,	ao	decidir	em	conjunto,	sem	grandes
+
+possibilidades	de	divergência,	argumentam	internamente,	sem	se	expor	individualmente	para	o	exterior	e
+podem	tentar	–	e	sempre	tentam	–	chegar	a	uma	decisão	‘única’,	‘institucional’,	‘clara’,	‘objetiva’	e	de
+‘consenso’”	(Virgílio	Afonso	da	Silva,	O	STF	e	o	controle	de	constitucionalidade.	.,	Revista	de	direito
+administrativo	250/197).	Nem	a	Constituição,	nem	o	CPC/2015	impõem	a	transmissão	do	julgamento
+através	de	tais	meios	de	comunicação.	Se	a	transmissão	dos	julgamentos	ao	vivo	fosse	determinante	para
+que	se	aumentasse	o	grau	de	confiança	dos	cidadãos	na	Justiça	estatal,	todos	os	julgamentos,	realizados
+por	todos	os	tribunais,	deveriam	ser	televisionados.	Não	nos	parece	que	deva	ser	assim.	A	violação	à
+Lei	pode	ser	dissimulada	por	um	discurso	que	aparente	que	à	mesma	se	esteja	dando	efetividade,	esteja	o
+juiz	diante	da	televisão,	ou	não.	Segundo	Orozimbo	Nonato,	“não	importa	que	a	vulneração	se	mostre
+velada	pelo	silêncio	do	julgador	ou	se	aninhe	oculta	nas	dobras	e	refego	da	sentença.
+Não	montaria	até	que	a	sentença	proclamasse	e	anunciasse	fieldade	e	obediência	ao	texto	malferido”	(
+apud	José	Afonso	da	Silva,	na	obra	Do	recurso	extraordinário
+[/PAGINA 48]
+
+[PAGINA 49]
+no	direito	processual	brasileiro,	Ed.
+RT.,	1963,	p.	197).	Por	outro	lado,	como	há	muito	afirmou	Barbosa	Moreira,	ao	se	referir	às	condições
+externas	capazes	de	interferir	no	julgamento	realizado	pelos	tribunais,
+“votando	coram	populo,	o	juiz	pode	sem	dúvida	ver-se	tentado	a	‘jogar	para	a	plateia’”	(Notas	sobre
+alguns	fatores	extrajurídicos	no	julgamento	colegiado,	Revista	de	Processo,	vol.	75,	p.	7,	jul.1994).	Com
+efeito,	não	se	pode	descartar	que,	ciente	da	repercussão	que	sua	atuação	terá	–	não	apenas	em	relação	às
+partes	ou	aos	demais	atores	institucionais	(como,	p.
+ex.,	os	legisladores)	–,	o	juiz	cuide	de	sua	própria	performance,	do	modo	como	se	porta	(gestos,
+entonação	de	voz)	ao	transmitir	suas	ideias	etc.	Sob	esse	ponto	de	vista,	o	televisionamento	dos
+julgamentos	pode	acabar	repercutindo	na	qualidade,	no	conteúdo	e	na	extensão	dos	votos	dos
+magistrados.	É	de	se	indagar,	por	exemplo,	sobre	a	maior	possibilidade	de	o	juiz	se	manifestar	sobre	uma
+questão	extrajurídica	(p.	ex.,	eminentemente	política	ou,	até,	moral)	se	o	julgamento	for	transmitido	ao
+vivo.	O	estado	ideal	de	coisas	é	aquele	em	que	os	juízes	do	tribunal	preocupem-se	em	buscar	uma
+solução	coesa,	que	construa,	gradativamente,	uma	jurisprudência	íntegra	(cf.	o	que	escrevemos	em
+“Juízes	do	Supremo	Tribunal	Federal	são	midiáticos”,	cit.).	Contenta-se	a	norma	constitucional,	de	todo
+modo,	com	a	realização	do	julgamento	em	público,	de	modo	não	secreto.
+III.	Fundamentação	das	decisões	judiciais.	De	acordo	com	o	art.	93,	IX	da	CF/1988,	devem	ser
+“fundamentadas	todas	as	decisões”	proferidas	pelo	órgão	jurisdicional,	“sob	pena	de	nulidade”.	O	juiz,
+na	fundamentação	da	decisão,	não	deverá	ocupar-se	apenas	de	demonstrar	às	partes	e	às	demais
+instâncias	judiciais	o	acerto	das	ideias	veiculadas	no	em	seu	julgado.
+Sob	uma	ótica	democrática,	também	as	pessoas	em	geral,	em	maior	ou	menor	grau,	têm	interesse	no	modo
+como	decidem	os	juízes	(Michele	Taruffo,	La	motivazione	della	sentenza	civile,	cit.,	p.	406-407;	no
+mesmo	sentido,	na	doutrina,	cf.	Teresa	Arruda	Alvim	Wambier,	Omissão	e	embargos	de	declaração,	cit.,
+item	7.2.).	Em	alguns	casos	(p.	ex.,	grau	elevado	de	vaguidade	do	texto	legal,	ou	solução	da	controvérsia
+sobre	como	determinado	texto	legal	de	grande	alcance	social	deve	ser	compreendido),	é	ainda	mais
+importante	que	seja	assim,	na	medida	em	que	isso	contribua	para	o	grau	de	certeza	e	compreensão	do
+direito.
+Decidiu-se,	corretamente,	que	a	decisão	judicial	sem	fundamentação	“agride	o	devido	processo	legal	e
+mostra	a	face	da	arbitrariedade,	incompatível	com	o	Judiciário	democrático”	(STJ,	REsp	18.731/PR,	4.ª
+T.,	rel.	Min.	Sálvio	de	Figueiredo	Teixeira).	A	fundamentação	“viabiliza	às	partes	o	exercício	do	duplo
+grau	de	jurisdição,	além	de	permitir,	a	todos,	a	fiscalização	da	atuação	do	Poder	Judiciário”	(STJ,	HC
+
+82.757/RJ,	6.ª	T.,	j.	01.06.2010,	rel.	Min.	Maria	Thereza	de	Assis	Moura).	A	respeito,	cf.	comentário	aos
+arts.	140	e	489	do	CPC/2015.
+Art.	12.	Os	juízes	e	os	tribunais	deverão
+[/PAGINA 49]
+
+[PAGINA 50]
+obedecer	à	ordem	cronológica	de	conclusão	para	proferir
+sentença	ou	acórdão.
+§	1º	A	lista	de	processos	aptos	a	julgamento	deverá	estar	permanentemente	à	disposição	para	consulta
+pública	em	cartório	e	na	rede	mundial	de	computadores.
+§	2º	Estão	excluídos	da	regra	do	caput:	I	-	as	sentenças	proferidas	em	audiência,	homologatórias	de
+acordo	ou	de	improcedência	liminar	do	pedido;	II	-	o	julgamento	de	processos	em	bloco	para	aplicação
+de	tese	jurídica	firmada	em	julgamento	de	casos	repetitivos;	III	-	o	julgamento	de	recursos	repetitivos	ou
+de	incidente	de	resolução	de	demandas	repetitivas;	IV	-	as	decisões	proferidas	com	base	nos	arts.	485	e
+932;	V	-	o	julgamento	de	embargos	de	declaração;	VI	-	o	julgamento	de	agravo	interno;	VII	-	as
+preferências	legais	e	as	metas	estabelecidas	pelo	Conselho	Nacional	de	Justiça;	VIII	-	os	processos
+criminais,	nos	órgãos	jurisdicionais	que	tenham	competência	penal;	IX	-	a	causa	que	exija	urgência	no
+julgamento,	assim	reconhecida	por	decisão	fundamentada.
+§	3º	Após	elaboração	de	lista	própria,	respeitar-se-á	a	ordem	cronológica	das	conclusões	entre	as
+preferências	legais.
+§	4º	Após	a	inclusão	do	processo	na	lista	de	que	trata	o	§	1º,	o	requerimento	formulado	pela	parte	não
+altera	a	ordem	cronológica	para	a	decisão,	exceto	quando	implicar	a	reabertura	da	instrução	ou	a
+conversão	do	julgamento	em	diligência.
+§	5º	Decidido	o	requerimento	previsto	no	§	4º,	o	processo	retornará	à	mesma	posição	em	que
+anteriormente	se	encontrava	na	lista.
+§	6º	Ocupará	o	primeiro	lugar	na	lista	prevista	no	§	1º	ou,	conforme	o	caso,	no	§	3º,	o	processo	que:	I	-
+tiver	sua	sentença	ou	acórdão	anulado,	salvo	quando	houver	necessidade	de	realização	de	diligência	ou
+de	complementação	da	instrução;	II	-	se	enquadrar	na	hipótese	do	art.	1.040,	inciso	II.
+CPC/1973:	Sem	correspondente.
+V.	arts.	5.º,	caput,	I	e	II,	e	37,	CF/1988.
+Ordem	cronológica	dos	julgamentos.	Gestão	isonômica	dos	processos	pelos	juízes	e	reconhecimento
+do	direito	à	diferença.	De	acordo	com	o	12	do	CPC/2015,	a	prolação	de	sentenças	ou	acórdãos	pelos
+juízes	e	tribunais	deverá	obedecer	a	ordem	cronológica	de	conclusão.	Trata-se	de	disposição	que	tende	a
+materializar	a	isonomia	processual	(cf.	comentário	ao	art.	7.º	do	CPC/2015),	evitando-se	a	realização	de
+tratamentos	diferenciados	e	injustificáveis	entre	os	processos	que	tramitem	perante	um	mesmo	órgão
+jurisdicional.	Nesse	ponto,	pode-se	enxergar,	aqui,	manifestação	do	princípio	da	impessoalidade	(sobre	a
+ligação	entre	os	princípios	da	impessoalidade	e	da	isonomia,	cf.	o	que	escrevemos	em	Constituição
+Federal	comentada	.	.	cit,	comentário	ao	art.	37	da	CF/1988).	A	disponibilização,	para	consulta	pública,
+da	lista	de	processos	aptos	a	julgamento	(§	1.º	do	art.	12	do	CPC/2015),	por	sua	vez,	além	de	poder	ser
+vista	como	manifestação	do	princípio	da	publicidade	(cf.	comentário	ao	art.	11	do	CPC/2015),	torna	o
+modus	operandi	da	atividade	jurisdicional	mais	previsível	para	as	partes,	dando-lhes	mais	segurança.	A
+isonomia,	no	entanto,	não	d
+[/PAGINA 50]
+

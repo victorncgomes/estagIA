@@ -1,0 +1,53 @@
+{
+    "suite": "multa",
+    "descricao": "Testes para matéria de multa penal",
+    "casos": [
+        {
+            "id": "mul-001",
+            "nome": "Multa - Deferimento parcelamento máximo",
+            "insumos": "Apenado hipossuficiente requer parcelamento da multa em 12x. Renda de 1 salário mínimo.",
+            "orientacao": "Deferir parcelamento máximo",
+            "agrupador": "multa",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_parcelamento"
+            ]
+        },
+        {
+            "id": "mul-002",
+            "nome": "Multa - Indeferimento execução fiscal",
+            "insumos": "MP requer conversão da multa em privativa de liberdade por inadimplência.",
+            "orientacao": "Indeferir - encaminhar para execução fiscal",
+            "agrupador": "multa",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_execucao_fiscal"
+            ]
+        },
+        {
+            "id": "mul-003",
+            "nome": "Multa - Deferimento desconto em folha",
+            "insumos": "Apenado trabalhando no presídio requer desconto da multa diretamente do pecúlio.",
+            "orientacao": "Deferir desconto de até 25% do pecúlio",
+            "agrupador": "multa",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "percentual_desconto"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1000,
+        "tamanho_maximo": 6000
+    }
+}

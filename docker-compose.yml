@@ -1,0 +1,78 @@
+# estagIA - Docker Compose para RAG Híbrido
+
+services:
+  # ===========================================
+  # MEMGRAPH - Knowledge Graph Database
+  # ===========================================
+  # Compatível com Cypher, mais leve que Neo4j
+  # UI disponível em http://localhost:3000 (Memgraph Lab)
+  memgraph:
+    image: memgraph/memgraph-platform:latest
+    container_name: estagia-memgraph
+    ports:
+      - "3108:7687"   # Bolt protocol (conexão do app)
+      - "3208:3000"   # Memgraph Lab (UI web)
+      - "3308:7444"   # WebSocket (opcional)
+    environment:
+      - MEMGRAPH_USER=estagia
+      - MEMGRAPH_PASSWORD=${MEMGRAPH_PASSWORD:-estagia_dev_2026}
+    volumes:
+      - memgraph_data:/var/lib/memgraph
+      - memgraph_log:/var/log/memgraph
+      - ./schema:/schema:ro  # Schema Cypher para inicialização
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:7444/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - estagia-network
+
+  # ===========================================
+  # CHROMADB - Vector Store
+  # ===========================================
+  # Modo server para suporte multi-tenant (login/usuários)
+  chromadb:
+    image: chromadb/chroma:latest
+    container_name: estagia-chromadb
+    ports:
+      - "3408:8000"
+    environment:
+      # Autenticação por token para segurança
+      - CHROMA_SERVER_AUTHN_PROVIDER=chromadb.auth.token_authn.TokenAuthenticationServerProvider
+      - CHROMA_SERVER_AUTHN_CREDENTIALS=${CHROMA_AUTH_TOKEN:-estagia_chroma_token_2026}
+      - CHROMA_AUTH_TOKEN_TRANSPORT_HEADER=X-Chroma-Token
+      # Persistência
+      - IS_PERSISTENT=TRUE
+      - PERSIST_DIRECTORY=/chroma/chroma
+      - ANONYMIZED_TELEMETRY=FALSE
+    volumes:
+      - chroma_data:/chroma/chroma
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/heartbeat"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    networks:
+      - estagia-network
+
+# ===========================================
+# VOLUMES - Persistência de dados
+# ===========================================
+volumes:
+  memgraph_data:
+    name: estagia-memgraph-data
+  memgraph_log:
+    name: estagia-memgraph-log
+  chroma_data:
+    name: estagia-chroma-data
+
+# ===========================================
+# NETWORK - Rede interna
+# ===========================================
+networks:
+  estagia-network:
+    name: estagia-network
+    driver: bridge

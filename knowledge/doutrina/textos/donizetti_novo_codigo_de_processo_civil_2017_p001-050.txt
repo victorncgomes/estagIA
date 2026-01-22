@@ -1,0 +1,2992 @@
+[META]
+TITULO: Novo Código de Processo Civil Comentado
+AUTOR: Elpídio Donizetti
+ANO: 2017
+EDICAO: N/A
+EDITORA: Atlas
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: #Novo Código de Processo Civil Comentado (2017) - Elpídio Donizetti.pdf
+CITACAO_ABNT: DONIZETTI, Elpídio. Novo Código de Processo Civil Comentado. São Paulo: Atlas, 2017.
+[/META]
+
+[PAGINA 1]
+A numeração das páginas não 
+corresponde à paginação original 
+
+■
+■
+■
+■
+■
+A EDITORA ATLAS se responsabiliza pelos vícios do produto no que
+concerne à sua edição (impressão e apresentação a fim de possibilitar ao
+consumidor bem manuseá-lo e lê-lo). Nem a editora nem o autor assumem
+qualquer responsabilidade por eventuais danos ou perdas a pessoa ou bens,
+decorrentes do uso da presente obra.
+Todos os direitos reservados. Nos termos da Lei que resguarda os direitos
+autorais, é proibida a reprodução total ou parcial de qualquer forma ou por
+qualquer meio, eletrônico ou mecânico, inclusive através de processos
+xerográficos, fotocópia e gravação, sem permissão por escrito do autor e do
+editor.
+Impresso no Brasil – Printed in Brazil
+Direitos exclusivos para o Brasil na língua portuguesa
+Copyright © 2017 by
+EDITORA ATLAS LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Rua Conselheiro Nébias, 1384 – Campos Elíseos – 01203-904 – São Paulo –
+SP
+Tel.: (11) 5080-0770 / (21) 3543-0770
+faleconosco@grupogen.com.br / www.grupogen.com.br
+O titular cuja obra seja fraudulentamente reproduzida, divulgada ou de
+qualquer forma utilizada poderá requerer a apreensão dos exemplares
+reproduzidos ou a suspensão da divulgação, sem prejuízo da indenização
+cabível (art. 102 da Lei n. 9.610, de 19.02.1998).
+Quem vender, expuser à venda, ocultar, adquirir, distribuir, tiver em depósito
+ou utilizar obra ou fonograma reproduzidos com fraude, com a finalidade de
+vender, obter ganho, vantagem, proveito, lucro direto ou indireto, para si ou
+para outrem, será solidariamente responsável com o contrafator, nos termos
+dos artigos precedentes, respondendo como contrafatores o importador e o
+distribuidor em caso de reprodução no exterior (art. 104 da Lei n. 9.610/98).
+Capa: Danilo Oliveira
+Produção digital: Geethik
+Fechamento desta edição: 18.10.2016
+ 
+ 
+
+■  DADOS INTERNACIONAIS DE CATALOGAÇÃO NA PUBLICAÇÃO (CIP)
+(CÂMARA BRASILEIRA DO LIVRO, SP, BRASIL)
+ 
+Donizetti, Elpídio
+Novo Código de Processo Civil comentado – 2. ed. rev., atual. e ampl. –
+Elpídio Donizetti. – São Paulo: Atlas, 2017.
+Bibliografia.
+ISBN 978-85-970-0984-2
+1. Processo civil 2. Processo civil – Brasil I. Título.
+15-04245CDU-347.9 (81)
+(094.46)
+
+Dedico este livro a Ana Carolina Barbosa Pereira. Em tudo que faz deixa a
+marca da inteligência e dedicação. Vocacionada, sua estrela agora brilha na
+altaneira magistratura paraense.
+
+Um sistema processual civil que não proporcione à sociedade o
+reconhecimento e a realização
+1
+ dos direitos, ameaçados ou violados, que tem cada
+um dos jurisdicionados, não se harmoniza com as garantias constitucionais
+2
+ de
+um Estado Democrático de Direito.
+3
+Sendo ineficiente o sistema processual, todo o ordenamento jurídico passa a
+carecer de real efetividade. De fato, as normas de direito material se transformam
+em pura ilusão, sem a garantia de sua correlata realização, no mundo empírico,
+por meio do processo.
+4
+Não há fórmulas mágicas. O Código vigente, de 1973, operou
+sat
+[/PAGINA 1]
+
+[PAGINA 2]
+isfatoriamente durante duas décadas. A partir dos anos noventa, entretanto,
+sucessivas reformas, a grande maioria delas liderada pelos Ministros Athos
+Gusmão Carneiro e Sálvio de Figueiredo Teixeira, introduziram no Código
+revogado significativas alterações, com o objetivo de adaptar as normas
+processuais a mudanças na sociedade e ao funcionamento das instituições.
+A expressiva maioria dessas alterações, como, por exemplo, em 1994, a
+inclusão no sistema do instituto da antecipação de tutela; em 1995, a alteração
+do regime do agravo; e, mais recentemente, as leis que alteraram a execução, foi
+bem recebida pela comunidade jurídica e gerou resultados positivos, no plano da
+
+operatividade do sistema.
+O enfraquecimento da coesão entre as normas processuais foi uma
+consequência natural do método consistente em se incluírem, aos poucos,
+alterações no CPC, comprometendo a sua forma sistemática. A complexidade
+resultante desse processo confunde-se, até certo ponto, com essa desorganização,
+comprometendo a celeridade e gerando questões evitáveis (pontos que geram
+polêmica e atraem atenção dos magistrados) que subtraem indevidamente a
+atenção do operador do direito.
+Nessa dimensão, a preocupação em se preservar a forma sistemática das
+normas processuais, longe de ser meramente acadêmica, atende, sobretudo, a uma
+necessidade de caráter pragmático: obter-se um grau mais intenso de
+funcionalidade.
+Sem prejuízo da manutenção e do aperfeiçoamento dos institutos
+introduzidos no sistema pelas reformas ocorridas nos anos de 1992 até hoje,
+criou-se um Código novo, que não significa, todavia, uma ruptura com o passado,
+mas um passo à frente. Assim, além de conservados os institutos cujos resultados
+foram positivos, incluíram-se no sistema outros tantos que visam a atribuir-lhe
+alto grau de eficiência.
+Há mudanças necessárias, porque reclamadas pela comunidade jurídica, e
+correspondentes a queixas recorrentes dos jurisdicionados e dos operadores do
+Direito, ouvidas em todo país. Na elaboração deste Anteprojeto de Código de
+Processo Civil, esta foi uma das linhas principais de trabalho: resolver
+problemas. Deixar de ver o processo como teoria descomprometida de sua
+natureza fundamental de método de resolução de conflitos, por meio do qual se
+realizam valores constitucionais.
+5
+Assim, e por isso, um dos métodos de trabalho da Comissão foi o de
+resolver problemas, sobre cuja existência há praticamente unanimidade na
+comunidade jurídica. Isso ocorreu, por exemplo, no que diz respeito à
+complexidade do sistema recursal existente na lei revogada. Se o sistema recursal,
+que havia no Código revogado em sua versão originária, era consideravelmente
+mais simples que o anterior, depois das sucessivas reformas pontuais que
+ocorreram, se tornou, inegavelmente, muito mais complexo.
+Não se deixou de lado, é claro, a necessidade de se construir um Código
+coerente e harmônico interna corporis, mas não se cultivou a obsessão em
+elaborar uma obra magistral, estética e tecnicamente perfei
+[/PAGINA 2]
+
+[PAGINA 3]
+ta, em detrimento de
+sua funcionalidade.
+De fato, essa é uma preocupação presente, mas que já não ocupa o primeiro
+
+lugar na postura intelectual do processualista contemporâneo.
+A coerência substancial há de ser vista como objetivo fundamental, todavia,
+e mantida em termos absolutos, no que tange à Constituição Federal da
+República. Afinal, é na lei ordinária e em outras normas de escalão inferior que
+se explicita a promessa de realização dos valores encampados pelos princípios
+constitucionais.
+O novo Código de Processo Civil tem o potencial de gerar um processo mais
+célere, mais justo,
+6
+ porque mais rente às necessidades sociais
+7
+ e muito menos
+complexo.
+8
+A simplificação do sistema, além de proporcionar-lhe coesão mais visível,
+permite ao juiz centrar sua atenção, de modo mais intenso, no mérito da causa.
+Com evidente redução da complexidade inerente ao processo de criação de
+um novo Código de Processo Civil, poder-se-ia dizer que os trabalhos da
+Comissão se orientaram precipuamente por cinco objetivos: (1) estabelecer
+expressa e implicitamente verdadeira sintonia fina com a Constituição Federal;
+(2) criar condições para que o juiz possa proferir decisão de forma mais rente à
+realidade fática subjacente à causa; (3) simplificar, resolvendo problemas e
+reduzindo a complexidade de subsistemas, como, por exemplo, o recursal; (4) dar
+todo o rendimento possível a cada processo em si mesmo considerado; e, (5)
+finalmente, sendo talvez este último objetivo parcialmente alcançado pela
+realização daqueles mencionados antes, imprimir maior grau de organicidade ao
+sistema, dando-lhe, assim, mais coesão.
+Esta Exposição de Motivos obedece à ordem dos objetivos acima alistados.
+1) A necessidade de que fique evidente a harmonia da lei ordinária em
+relação à Constituição Federal da República
+9
+ fez com que se incluíssem no
+Código, expressamente, princípios constitucionais, na sua versão processual.
+Por outro lado, muitas regras foram concebidas, dando concreção a princípios
+constitucionais, como, por exemplo, as que preveem um procedimento, com
+contraditório e produção de provas, prévio à decisão que desconsidera da pessoa
+jurídica, em sua versão tradicional, ou “às avessas”.
+10
+Está expressamente formulada a regra no sentido de que o fato de o juiz
+estar diante de matéria de ordem pública não dispensa a obediência ao princípio
+do contraditório.
+Como regra, o depósito da quantia relativa às multas, cuja função processual
+seja levar ao cumprimento da obrigação in natura, ou da ordem judicial, deve ser
+feito logo que estas incidem.
+
+Não podem, todavia, ser levantadas, a não ser quando haja trânsito em
+julgado ou quando esteja pendente agravo de decisão denegatória de seguimento a
+recurso especial ou extraordinário.
+Trata-se de uma forma de tornar o processo mais eficiente e efetivo, o que
+significa, indubitavelmente, aproximá-lo da Constituição Federal, em cujas
+entrelinhas se lê que o processo deve assegurar o cumprimento da lei material.
+Prestigiando o princí
+[/PAGINA 3]
+
+[PAGINA 4]
+pio constitucional da publicidade das decisões, previu-
+se a regra inafastável de que à data de julgamento de todo recurso deve-se dar
+publicidade (todos os recursos devem constar em pauta), para que as partes
+tenham oportunidade de tomar providências que entendam necessárias ou, pura e
+simplesmente, possam assistir ao julgamento.
+Levou-se em conta o princípio da razoável duração do processo.
+11
+ Afinal a
+ausência de celeridade, sob certo ângulo,
+12
+ é ausência de justiça. A simplificação
+do sistema recursal, de que trataremos separadamente, leva a um processo mais
+ágil.
+Criou-se o incidente de julgamento conjunto de demandas repetitivas, a que
+adiante se fará referência.
+Por enquanto, é oportuno ressaltar que levam a um processo mais célere as
+medidas cujo objetivo seja o julgamento conjunto de demandas que gravitam em
+torno da mesma questão de direito, por dois ângulos: (a) o relativo àqueles
+processos, em si mesmos considerados, que, serão decididos conjuntamente; (b)
+no que concerne à atenuação do excesso de carga de trabalho do Poder Judiciário
+– já que o tempo usado para decidir aqueles processos poderá ser mais
+eficazmente aproveitado em todos os outros, em cujo trâmite serão evidentemente
+menores os ditos “tempos mortos” (períodos em que nada acontece no processo).
+Por outro lado, haver, indefinidamente, posicionamentos diferentes e
+incompatíveis, nos Tribunais, a respeito da mesma norma jurídica, leva a que
+jurisdicionados que estejam em situações idênticas tenham de submeter-se a
+regras de conduta diferentes, ditadas por decisões judiciais emanadas de tribunais
+diversos.
+Esse fenômeno fragmenta o sistema, gera intranquilidade e, por vezes,
+verdadeira perplexidade na sociedade.
+Prestigiou-se, seguindo-se direção já abertamente seguida pelo ordenamento
+jurídico brasileiro, expressado na criação da Súmula Vinculante do Supremo
+Tribunal Federal (STF) e do regime de julgamento conjunto de recursos especiais
+e extraordinários repetitivos (que foi mantido e aperfeiçoado) tendência a criar
+
+estímulos para que a jurisprudência se uniformize, à luz do que venham a decidir
+tribunais superiores e até de segundo grau, e se estabilize.
+Essa é a função e a razão de ser dos tribunais superiores: proferir decisões
+que moldem o ordenamento jurídico, objetivamente considerado. A função
+paradigmática que devem desempenhar é inerente ao sistema.
+Por isso é que esses princípios foram expressamente formulados. Veja-se,
+por exemplo, o que diz o novo Código, no Livro IV: “A jurisprudência do STF e
+dos Tribunais Superiores deve nortear as decisões de todos os Tribunais e
+Juízos singulares do país, de modo a concretizar plenamente os princípios da
+legalidade e da isonomia.”
+Evidentemente, porém, para que tenha eficácia a recomendação no sentido de
+que seja a jurisprudência do STF e dos Tribunais superiores, efetivamente, norte
+para os demais órgãos integrantes do Poder Judiciário, é necessário que aqueles
+Tribunais mantenham jurisprudência razoavelmente estável.
+[/PAGINA 4]
+
+[PAGINA 5]
+A segurança jurídica fica comprometida com a brusca e integral alteração do
+entendimento dos tribunais sobre questões de direito.
+13
+Encampou-se, por isso, expressamente princípio no sentido de que, uma vez
+firmada jurisprudência em certo sentido, esta deve, como norma, ser mantida,
+salvo se houver relevantes razões recomendando sua alteração.
+Trata-se, na verdade, de um outro viés do princípio da segurança jurídica,
+14
+que recomendaria que a jurisprudência, uma vez pacificada ou sumulada, tendesse
+a ser mais estável.
+15
+De fato, a alteração do entendimento a respeito de uma tese jurídica ou do
+sentido de um texto de lei pode levar ao legítimo desejo de que as situações
+anteriormente decididas, com base no entendimento superado, sejam redecididas à
+luz da nova compreensão. Isto porque a alteração da jurisprudência,
+diferentemente da alteração da lei, produz efeitos equivalentes aos ex tunc. Desde
+que, é claro, não haja regra em sentido inverso.
+Diz, expressa e explicitamente, o novo Código que: “A mudança de
+entendimento sedimentado observará a necessidade de fundamentação adequada
+e específica, considerando o imperativo de estabilidade das relações jurídicas
+[...];”.
+E, ainda, com o objetivo de prestigiar a segurança jurídica, formulou-se o
+seguinte princípio: “Na hipótese de alteração da jurisprudência dominante do
+STF e dos Tribunais superiores, ou oriunda de julgamentos de casos repetitivos,
+pode haver modulação dos efeitos da alteração no interesse social e no da
+
+segurança jurídica” (grifo nosso).
+Esse princípio tem relevantes consequências práticas, como, por exemplo, a
+não rescindibilidade de sentenças transitadas em julgado baseadas na orientação
+abandonada pelo Tribunal. Também em nome da segurança jurídica, reduziu-se
+para um ano, como regra geral, o prazo decadencial dentro do qual pode ser
+proposta a ação rescisória.
+Mas talvez as alterações mais expressivas do sistema processual ligadas ao
+objetivo de harmonizá-lo com o espírito da Constituição Federal, sejam as que
+dizem respeito a regras que induzem à uniformidade e à estabilidade da
+jurisprudência.
+O novo Código prestigia o princípio da segurança jurídica, obviamente de
+índole constitucional, pois que se hospeda nas dobras do Estado Democrático de
+Direito e visa a proteger e a preservar as justas expectativas das pessoas.
+Todas as normas jurídicas devem tender a dar efetividade às garantias
+constitucionais, tornando “segura” a vida dos jurisdicionados, de modo a que
+estes sejam poupados de “surpresas”, podendo sempre prever, em alto grau, as
+consequências jurídicas de sua conduta.
+Se, por um lado, o princípio do livre convencimento motivado é garantia de
+julgamentos independentes e justos, e neste sentido mereceu ser prestigiado pelo
+novo Código, por outro, compreendido em seu mais estendido alcance, acaba por
+conduzir a distorções do princípio da legalidade e à própria ideia, antes
+mencionada, de Estado Democrático de Direito. A dispersão excessiva da
+jurisprudência produz intra
+[/PAGINA 5]
+
+[PAGINA 6]
+nquilidade social e descrédito do Poder Judiciário.
+Se todos têm que agir em conformidade com a lei, ter-se-ia, ipso facto,
+respeitada a isonomia. Essa relação de causalidade, todavia, fica comprometida
+como decorrência do desvirtuamento da liberdade que tem o juiz de decidir com
+base em seu entendimento sobre o sentido real da norma.
+A tendência à diminuição
+16
+ do número
+17
+ de recursos que devem ser
+apreciados pelos Tribunais de segundo grau e superiores é resultado inexorável da
+jurisprudência mais uniforme e estável.
+Proporcionar legislativamente melhores condições para operacionalizar
+formas de uniformização do entendimento dos Tribunais brasileiros acerca de
+teses jurídicas é concretizar, na vida da sociedade brasileira, o princípio
+constitucional da isonomia.
+Criaram-se figuras, no novo CPC, para evitar a dispersão
+18
+ excessiva da
+jurisprudência. Com isso, haverá condições de se atenuar o assoberbamento de
+
+trabalho no Poder Judiciário, sem comprometer a qualidade da prestação
+jurisdicional.
+Dentre esses instrumentos, estão a complementação e o reforço da eficiência
+do regime de julgamento de recursos repetitivos, que agora abrange a
+possibilidade de suspensão do procedimento das demais ações, tanto no juízo de
+primeiro grau, quanto dos demais recursos extraordinários ou especiais, que
+estejam tramitando nos tribunais superiores, aguardando julgamento,
+desatreladamente dos afetados.
+Com os mesmos objetivos, criou-se, com inspiração no direito alemão,
+19
+ o
+já referido incidente de Resolução de Demandas Repetitivas, que consiste na
+identificação de processos que contenham a mesma questão de direito, que
+estejam ainda no primeiro grau de jurisdição, para decisão conjunta.
+20
+O incidente de resolução de demandas repetitivas é admissível quando
+identificada, em primeiro grau, controvérsia com potencial de gerar multiplicação
+expressiva de demandas e o correlato risco da coexistência de decisões
+conflitantes.
+É instaurado perante o Tribunal local, por iniciativa do juiz, do MP, das
+partes, da Defensoria Pública ou pelo próprio Relator. O juízo de admissibilidade
+e de mérito caberá ao tribunal pleno ou ao órgão especial, onde houver, e a
+extensão da eficácia da decisão acerca da tese jurídica limita-se à área de
+competência territorial do tribunal, salvo decisão em contrário do STF ou dos
+Tribunais superiores, pleiteada pelas partes, interessados, MP ou Defensoria
+Pública. Há a possibilidade de intervenção de amici curiae.
+O incidente deve ser julgado no prazo de seis meses, tendo preferência sobre
+os demais feitos, salvo os que envolvam réu preso ou pedido de habeas corpus.
+O recurso especial e o recurso extraordinário, eventualmente interpostos da
+decisão do incidente, têm efeito suspensivo e se considera presumida a
+repercussão geral, de questão constitucional eventualmente discutida.
+Enfim, não observada a tese firmada, caberá reclamação ao tribunal
+competente.
+As hipóteses de cabimento dos embargos de divergência agora se baseiam
+exclusiv
+[/PAGINA 6]
+
+[PAGINA 7]
+amente na existência de teses contrapostas, não importando o veículo que
+as tenha levado ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça.
+Assim, são possíveis de confronto teses contidas em recursos e ações, sejam as
+decisões de mérito ou relativas ao juízo de admissibilidade.
+Está-se, aqui, diante de poderoso instrumento, agora tornado ainda mais
+
+eficiente, cuja finalidade é a de uniformizar a jurisprudência dos Tribunais
+superiores, interna corporis.
+Sem que a jurisprudência desses Tribunais esteja internamente uniformizada,
+é posto abaixo o edifício cuja base é o respeito aos precedentes dos Tribunais
+superiores.
+2) Pretendeu-se converter o processo em instrumento incluído no contexto
+social em que produzirá efeito o seu resultado. Deu-se ênfase à possibilidade de
+as partes porem fim ao conflito pela via da mediação ou da conciliação.
+21
+Entendeu-se que a satisfação efetiva das partes pode dar-se de modo mais intenso
+se a solução é por elas criada e não imposta pelo juiz.
+Como regra, deve realizar-se audiência em que, ainda antes de ser
+apresentada contestação, se tentará fazer com que autor e réu cheguem a acordo.
+Dessa audiência, poderão participar conciliador e mediador e o réu deve
+comparecer, sob pena de se qualificar sua ausência injustificada como ato
+atentatório à dignidade da justiça. Não se chegando a acordo, terá início o prazo
+para a contestação.
+Por outro lado, e ainda levando em conta a qualidade da satisfação das partes
+com a solução dada ao litígio, previu-se a possibilidade da presença do amicus
+curiae, cuja manifestação, com certeza tem aptidão de proporcionar ao juiz
+condições de proferir decisão mais próxima às reais necessidades das partes e
+mais rente à realidade do país.
+22
+Criou-se regra no sentido de que a intervenção pode ser pleiteada pelo
+amicus curiae ou solicitada de ofício, como decorrência das peculiaridades da
+causa, em todos os graus de jurisdição.
+Entendeu-se que os requisitos que impõem a manifestação do amicus curiae
+no processo, se existem, estarão presentes desde o primeiro grau de jurisdição,
+não se justificando que a possibilidade de sua intervenção ocorra só nos Tribunais
+Superiores. Evidentemente, todas as decisões devem ter a qualidade que possa
+proporcionar a presença do amicus curiae, não só a última delas.
+Com objetivo semelhante, permite-se no novo CPC que os Tribunais
+Superiores apreciem o mérito de alguns recursos que veiculam questões
+relevantes, cuja solução é necessária para o aprimoramento do Direito, ainda que
+não estejam preenchidos requisitos de admissibilidade considerados menos
+importantes. Trata-se de regra afeiçoada à processualística contemporânea, que
+privilegia o conteúdo em detrimento da forma, em consonância com o princípio
+da instrumentalidade.
+
+3) Com a finalidade de simplificação, criou-se,
+23
+ v. g., a possibilidade de o
+réu formular pedido independentemente do expediente formal da reconvenção, que
+desapareceu. Extinguiram-se muitos incidentes: passa a ser ma
+[/PAGINA 7]
+
+[PAGINA 8]
+téria alegável em
+preliminar de contestação a incorreção do valor da causa e a indevida concessão
+do benefício da justiça gratuita, bem como as duas espécies de incompetência.
+Não há mais a ação declaratória incidental nem a ação declaratória incidental de
+falsidade de documento, bem como o incidente de exibição de documentos. As
+formas de intervenção de terceiro foram modificadas e parcialmente fundidas:
+criou-se um só instituto, que abrange as hipóteses de denunciação da lide e de
+chamamento ao processo. Deve ser utilizado quando o chamado puder ser réu em
+ação regressiva; quando um dos devedores solidários saldar a dívida, aos demais;
+quando houver obrigação, por lei ou por contrato, de reparar ou garantir a
+reparação de dano, àquele que tem essa obrigação. A sentença dirá se terá havido
+a hipótese de ação regressiva, ou decidirá quanto à obrigação comum. Muitos
+24
+procedimentos especiais
+25
+ foram extintos. Foram mantidos a ação de consignação
+em pagamento, a ação de prestação de contas, a ação de divisão e demarcação de
+terras particulares, inventário e partilha, embargos de terceiro, habilitação,
+restauração de autos, homologação de penhor legal e ações possessórias.
+Extinguiram-se também as ações cautelares nominadas. Adotou-se a regra no
+sentido de que basta à parte a demonstração do fumus boni iuris e do perigo de
+ineficácia da prestação jurisdicional para que a providência pleiteada deva ser
+deferida. Disciplina-se também a tutela sumária que visa a proteger o direito
+evidente, independentemente de periculum in mora.
+O Novo CPC agora deixa clara a possibilidade de concessão de tutela de
+urgência e de tutela à evidência. Considerou-se conveniente esclarecer de forma
+expressa que a resposta do Poder Judiciário deve ser rápida não só em situações
+em que a urgência decorre do risco de eficácia do processo e do eventual
+perecimento do próprio direito. Também em hipóteses em que as alegações da
+parte se revelam de juridicidade ostensiva deve a tutela ser antecipadamente (total
+ou parcialmente) concedida, independentemente de periculum in mora, por não
+haver razão relevante para a espera, até porque, via de regra, a demora do
+processo gera agravamento do dano.
+Ambas essas espécies de tutela vêm disciplinadas na Parte Geral, tendo
+também desaparecido o livro das Ações Cautelares.
+A tutela de urgência e da evidência podem ser requeridas antes ou no curso
+do procedimento em que se pleiteia a providência principal.
+Não tendo havido resistência à liminar concedida, o juiz, depois da
+
+efetivação da medida, extinguirá o processo, conservando-se a eficácia da medida
+concedida, sem que a situação fique protegida pela coisa julgada.
+Impugnada a medida, o pedido principal deve ser apresentado nos mesmos
+autos em que tiver sido formulado o pedido de urgência.
+As opções procedimentais acima descritas exemplificam sobremaneira a
+concessão da tutela cautelar ou antecipatória, do ponto de vista procedimental.
+Além de a incompetência, absoluta e relativa, pode
+[/PAGINA 8]
+
+[PAGINA 9]
+r ser levantada pelo réu
+em preliminar de contestação, o que também significa uma maior simplificação
+do sistema, a incompetência absoluta não é, no Novo CPC, hipótese de cabimento
+de ação rescisória.
+Cria-se a faculdade de o advogado promover, pelo correio, a intimação do
+advogado da outra parte. Também as testemunhas devem comparecer
+espontaneamente, sendo excepcionalmente intimadas por carta com aviso de
+recebimento.
+A extinção do procedimento especial “ação de usucapião” levou à criação do
+procedimento edital, como forma de comunicação dos atos processuais, por meio
+do qual, em ações deste tipo, devem-se provocar todos os interessados a intervir,
+se houver interesse.
+O prazo para todos os recursos, com exceção dos embargos de declaração,
+foi uniformizado: quinze dias.
+O recurso de apelação continua sendo interposto no 1º grau de jurisdição,
+tendo-lhe sido, todavia, retirado o juízo de admissibilidade, que é exercido apenas
+no 2º grau de jurisdição. Com isso, suprime-se um novo foco desnecessário de
+recorribilidade.
+Na execução, se eliminou a distinção entre praça e leilão, assim como a
+necessidade de duas hastas públicas. Desde a primeira, pode o bem ser alienado
+por valor inferior ao da avaliação, desde que não se trate de preço vil.
+Foram extintos os embargos à arrematação, tornando-se a ação anulatória o
+único meio de que o interessado pode valer-se para impugná-la.
+Bastante simplificado foi o sistema recursal. Essa simplificação, todavia, em
+momento algum significou restrição ao direito de defesa. Em vez disso deu, de
+acordo com o objetivo tratado no item seguinte, maior rendimento a cada
+processo individualmente considerado.
+Desapareceu o agravo retido, tendo, correlatamente, sido alterado o regime
+das preclusões.
+26
+ Todas as decisões anteriores à sentença podem ser impugnadas
+na apelação. Ressalte-se que, na verdade, o que se modificou, nesse particular, foi
+
+exclusivamente o momento da impugnação, pois essas decisões, de que se
+recorria, no sistema anterior, por meio de agravo retido, só eram mesmo alteradas
+ou mantidas quando o agravo era julgado, como preliminar de apelação. Com o
+novo regime, o momento de julgamento será o mesmo; não o da impugnação.
+O agravo de instrumento ficou mantido para as hipóteses de concessão, ou
+não, de tutela de urgência; para as interlocutórias de mérito, para as
+interlocutórias proferidas na execução (e no cumprimento de sentença) e para
+todos os demais casos a respeito dos quais houver previsão legal expressa.
+Previu-se a sustentação oral em agravo de instrumento de decisão de mérito,
+procurando-se, com isso, alcançar resultado do processo mais rente à realidade
+dos fatos.
+Uma das grandes alterações havidas no sistema recursal foi a supressão dos
+embargos infringentes.
+27
+ Há muito, doutrina da melhor qualidade vem
+propugnando pela necessidade de que sejam extintos.
+28
+ Em contrapartida a essa
+extinção, o relator terá o dever de declarar o voto vencido, sendo este considerado
+como parte integrante do
+[/PAGINA 9]
+
+[PAGINA 10]
+acórdão, inclusive para fins de prequestionamento.
+Significativas foram as alterações, no que tange aos recursos para o STJ e
+para o STF. O Novo Código contém regra expressa, que leva ao aproveitamento
+do processo, de forma plena, devendo ser decididas todas as razões que podem
+levar ao provimento ou ao improvimento do recurso. Sendo, por exemplo, o
+recurso extraordinário provido para acolher uma causa de pedir, ou (a)
+examinam-se todas as outras, ou, (b) remetem-se os autos para o Tribunal de
+segundo grau, para que decida as demais, ou, (c) remetem-se os autos para o
+primeiro grau, caso haja necessidade de produção de provas, para a decisão das
+demais; e, pode-se também, (d) remeter os autos ao STJ, caso as causas de pedir
+restantes constituam-se em questões de direito federal.
+Com os mesmos objetivos, consistentes em simplificar o processo, dando-
+lhe, simultaneamente, o maior rendimento possível, criou-se a regra de que não
+há mais extinção do processo, por decisão de inadmissão de recurso, caso o
+tribunal destinatário entenda que a competência seria de outro tribunal. Há, isto
+sim, em todas as instâncias, inclusive no plano de STJ e STF, a remessa dos
+autos ao tribunal competente.
+Há dispositivo expresso determinando que, se os embargos de declaração são
+interpostos com o objetivo de prequestionar a matéria objeto do recurso principal,
+e não são admitidos, considera-se o prequestionamento como havido, salvo, é
+claro, se se tratar de recurso que pretenda a inclusão, no acórdão, da descrição de
+fatos.
+
+Vê-se, pois, que as alterações do sistema recursal a que se está, aqui,
+aludindo, proporcionaram simplificação e levaram a efeito um outro objetivo, de
+que abaixo se tratará: obter-se o maior rendimento possível de cada processo.
+4) O novo sistema permite que cada processo tenha maior rendimento
+possível. Assim, e por isso, estendeu-se a autoridade da coisa julgada às questões
+prejudiciais.
+Com o objetivo de se dar maior rendimento a cada processo,
+individualmente considerado, e, atendendo a críticas tradicionais da doutrina,
+29
+deixou, a possibilidade jurídica do pedido, de ser condição da ação. A sentença
+que, à luz da lei revogada seria de carência da ação, à luz do Novo CPC é de
+improcedência e resolve definitivamente a controvérsia.
+Criaram-se mecanismos para que, sendo a ação proposta com base em várias
+causas de pedir e sendo só uma levada em conta na decisão do 1º e do 2º graus,
+repetindo-se as decisões de procedência, caso o tribunal superior inverta a
+situação, retorne o processo ao 2º grau, para que as demais sejam apreciadas, até
+que, afinal, sejam todas decididas e seja, efetivamente, posto fim à
+controvérsia.
+O mesmo ocorre se se tratar de ação julgada improcedente em 1º e em 2º
+graus, como resultado de acolhimento de uma razão de defesa, quando haja mais
+de uma.
+Também visando a essa finalidade, o novo Código de Processo Civil criou,
+inspirado no sistema italiano
+30
+ e francês,
+31
+ a estabilização de tutela, a que já se
+referiu no
+[/PAGINA 10]
+
+[PAGINA 11]
+item anterior, que permite a manutenção da eficácia da medida de
+urgência, ou antecipatória de tutela, até que seja eventualmente impugnada pela
+parte contrária.
+As partes podem, até a sentença, modificar pedido e causa de pedir, desde
+que não haja ofensa ao contraditório. De cada processo, por esse método, se
+obtém tudo o que seja possível.
+Na mesma linha, tem o juiz o poder de adaptar o procedimento às
+peculiaridades da causa.
+32
+Com a mesma finalidade, criou-se a regra, a que já se referiu, no sentido de
+que, entendendo o Superior Tribunal de Justiça que a questão veiculada no
+recurso especial seja constitucional, deve remeter o recurso do Supremo Tribunal
+Federal; do mesmo modo, deve o Supremo Tribunal Federal remeter o recurso ao
+Superior Tribunal de Justiça, se considerar que não se trata de ofensa direta à
+Constituição Federal, por decisão irrecorrível.
+
+5) A Comissão trabalhou sempre tendo como pano de fundo um objetivo
+genérico, que foi de imprimir organicidade às regras do processo civil brasileiro,
+dando maior coesão ao sistema.
+O Novo CPC conta, agora, com uma Parte Geral,
+33
+ atendendo às críticas de
+parte ponderável da doutrina brasileira. Neste Livro I, são mencionados
+princípios constitucionais de especial importância para todo o processo civil, bem
+como regras gerais, que dizem respeito a todos os demais Livros. A Parte Geral
+desempenha o papel de chamar para si a solução de questões difíceis relativas às
+demais partes do Código, já que contém regras e princípios gerais a respeito do
+funcionamento do sistema.
+O conteúdo da Parte Geral (Livro I) consiste no seguinte: princípios e
+garantias fundamentais do processo civil; aplicabilidade das normas processuais;
+limites da jurisdição brasileira; competência interna; normas de cooperação
+internacional e nacional; partes; litisconsórcio; procuradores; juiz e auxiliares da
+justiça; Ministério Público; atos processuais; provas; tutela de urgência e tutela da
+evidência; formação, suspensão e extinção do processo. O Livro II diz respeito ao
+processo de conhecimento, incluindo cumprimento de sentença e procedimentos
+especiais, contenciosos ou não. O Livro III trata do processo de execução, e o
+Livro IV disciplina os processos nos Tribunais e os meios de impugnação das
+decisões judiciais. Por fim, há as disposições finais e transitórias.
+O objetivo de organizar internamente as regras e harmonizá-las entre si foi o
+que inspirou, por exemplo, a reunião das hipóteses em que os Tribunais ou juízes
+podem voltar atrás, mesmo depois de terem proferido decisão de mérito: havendo
+embargos de declaração, erro material, sendo proferida decisão pelo STF ou pelo
+STJ com base nos artigos 543-B e 543-C do Código anterior.
+Organizaram-se em dois dispositivos as causas que levam à extinção do
+processo, por indeferimento da inicial, sem ou com julgamento de mérito,
+incluindo-se neste grupo o que constava do art. 285-A do Código anterior.
+Unificou-se o critério relativo ao fenômeno que gera a prevenção: o desp
+[/PAGINA 11]
+
+[PAGINA 12]
+acho
+que ordena a citação. A ação, por seu turno, considera-se proposta assim que
+protocolada a inicial.
+Tendo desaparecido o Livro do Processo Cautelar e as cautelares em espécie,
+acabaram sobrando medidas que, em consonância com parte expressiva da
+doutrina brasileira, embora estivessem formalmente inseridas no Livro III, de
+cautelares, nada tinham. Foram, então, realocadas, junto aos procedimentos
+especiais.
+Criou-se um livro novo, a que já se fez menção, para os processos nos
+
+Tribunais, que abrange os meios de impugnação às decisões judiciais – recursos e
+ações impugnativas autônomas – e institutos como, por exemplo, a homologação
+de sentença estrangeira.
+Também com o objetivo de desfazer “nós” do sistema, deixaram-se claras as
+hipóteses de cabimento de ação rescisória e de ação anulatória, eliminando-se
+dúvidas, com soluções como, por exemplo, a de deixar sentenças homologatórias
+como categoria de pronunciamento impugnável pela ação anulatória, ainda que se
+trate de decisão de mérito, isto é, que homologa transação, reconhecimento
+jurídico do pedido ou renúncia à pretensão.
+Com clareza e com base em doutrina autorizada,
+34
+ disciplinou-se o
+litisconsórcio, separando-se, com a nitidez possível, o necessário do unitário.
+Inverteram-se os termos sucessão e substituição, acolhendo-se crítica
+antiga e correta da doutrina.
+35
+Nos momentos adequados, utilizou-se a expressão convenção de arbitragem,
+que abrange a cláusula arbitral e o compromisso arbitral, imprimindo-se, assim, o
+mesmo regime jurídico a ambos os fenômenos.
+36
+Em conclusão, como se frisou no início desta exposição de motivos,
+elaborar-se um Código novo não significa “deitar abaixo as instituições do
+Código vigente, substituindo-as por outras, inteiramente novas”.
+37
+Nas alterações das leis, com exceção daquelas feitas imediatamente após
+períodos históricos que se pretendem deixar definitivamente para trás, não se
+deve fazer “tabula rasa” das conquistas alcançadas. Razão alguma há para que
+não se conserve ou aproveite o que há de bom no sistema que se pretende
+reformar.
+Assim procedeu a Comissão de Juristas que reformou o sistema processual:
+criou saudável equilíbrio entre conservação e inovação, sem que tenha havido
+drástica ruptura com o presente ou com o passado.
+Foram criados institutos inspirados no direito estrangeiro, como se
+mencionou ao longo desta Exposição de Motivos, já que a época em que vivemos
+é de interpenetração das civilizações. O Novo CPC é fruto de reflexões da
+Comissão que o elaborou, que culminaram em escolhas racionais de caminhos
+considerados adequados, à luz dos cinco critérios acima referidos, à obtenção de
+uma sentença que resolva o conflito, com respeito aos direitos fundamentais e no
+menor tempo possível, realizando o interesse público da atuação da lei material.
+Em suma, para a elaboração do Novo CPC, identificaram-se os avanços
+incorporados ao sistema processual preexistente, que deveriam ser conservados.
+
+Estes foram organizados e se deram alguns passo
+[/PAGINA 12]
+
+[PAGINA 13]
+s à frente, para deixar expressa
+a adequação das novas regras à Constituição Federal da República, com um
+sistema mais coeso, mais ágil e capaz de gerar um processo civil mais célere e
+mais justo.
+A Comissão de Juristas
+Brasília, 8 de junho de 2010.
+
+1
+2
+3
+4
+5
+6
+_______________
+Essencial que se faça menção a efetiva satisfação, pois, a partir da dita terceira fase
+metodológica do direito processual civil, o processo passou a ser visto como
+instrumento, que deve ser idôneo para o reconhecimento e a adequada concretização
+de direitos.
+Isto é, aquelas que regem, eminentemente, as relações das partes entre si, entre elas e
+o juiz e, também, entre elas e terceiros, de que são exemplos a imparcialidade do juiz,
+o contraditório, a demanda, como ensinam CAPPELLETTI e VIGORITI (I diritti
+costituzionali delle parti nel processo civile italiano. Rivista di diritto processuale, II
+serie, v. 26, p. 604-650, Padova, Cedam, 1971, p. 605).
+Os princípios e garantias processuais inseridos no ordenamento constitucional, por
+conta desse movimento de “constitucionalização do processo”, não se limitam, no
+dizer de LUIGI PAOLO COMOGLIO, a “reforçar do exterior uma mera ‘reserva
+legislativa’ para a regulamentação desse método [em referência ao processo como
+método institucional de resolução de conflitos sociais], mas impõem a esse último, e à
+sua disciplina, algumas condições mínimas de legalidade e retidão, cuja eficácia é
+potencialmente operante em qualquer fase (ou momento nevrálgico) do processo”
+(Giurisdizione e processo nel quadro delle garanzie costituzionali. Studi in onore di
+Luigi Montesano, v. II, p. 87-127, Padova, Cedam, 1997, p. 92).
+É o que explica, com a clareza que lhe é peculiar, BARBOSA MOREIRA: “Querer
+que o processo seja efetivo é querer que desempenhe com eficiência o papel que lhe
+compete na economia do ordenamento jurídico. Visto que esse papel é instrumental em
+relação ao direito substantivo, também se costuma falar da instrumentalidade do
+processo. Uma noção conecta-se com a outra e por assim dizer a implica. Qualquer
+instrumento será bom na medida em que sirva de modo prestimoso à consecução dos
+fins da obra a que se ordena; em outras palavras, na medida em que seja efetivo. Vale
+dizer: será efetivo o processo que constitua instrumento eficiente de realização do
+direito material” (Por um processo socialmente efetivo. Revista de Processo. São
+Paulo, v. 27, nº 105, p. 183-190, jan./mar. 2002, p. 181).
+SÁLVIO DE FIGUEIREDO TEIXEIRA, em texto emblemático sobre a nova ordem
+trazida pela Constituição Federal de 1988, disse, acertadamente, que, apesar de suas
+vicissitudes, “nenhum texto constitucional valorizou tanto a ‘Justiça’, tomada aqui a
+palavra não no seu conceito clássico de ‘vontade constante e perpétua de dar a cada
+um o que é seu’, mas como conjunto de instituições voltadas para a realização da paz
+social” (O aprimoramento do processo civil como garantia da cidadania. In:
+FIGUEIREDO TEIXEIRA, Sálvio. As garantias do cidadão na Justiça. São
+[/PAGINA 13]
+
+[PAGINA 14]
+Paulo:
+Saraiva, 1993. p. 79-92, p. 80).
+Atentando para a advertência, acertada, de que não o processo, além de produzir um
+resultado justo, precisa ser justo em si mesmo, e portanto, na sua realização, devem
+
+7
+8
+9
+10
+11
+12
+ser observados aqueles standards previstos na Constituição Federal, que constituem
+desdobramento da garantia do due process of law (DINAMARCO, Cândido.
+Instituições de direito processual civil, v. 1. 6. ed. São Paulo: Malheiros, 2009).
+Lembrando, com BARBOSA MOREIRA, que “não se promove uma sociedade mais
+justa, ao menos primariamente, por obra do aparelho judicial. É todo o edifício, desde
+as fundações, que para tanto precisa ser revisto e reformado. Pelo prisma jurídico, a
+tarefa básica inscreve-se no plano do direito material” (Por um processo socialmente
+efetivo, p. 181).
+Trata-se, portanto, de mais um passo decisivo para afastar os obstáculos para o acesso
+à Justiça, a que comumente se alude, isto é, a duração do processo, seu alto custo e a
+excessiva formalidade.
+Hoje, costuma-se dizer que o processo civil constitucionalizou-se. Fala-se em modelo
+constitucional do processo, expressão inspirada na obra de Italo Andolina e Giuseppe
+Vignera, Il modello costituzionale del processo civile italiano: corso di lezioni
+(Turim: Giapicchelli, 1990). O processo há de ser examinado, estudado e
+compreendido à luz da Constituição e de forma a dar o maior rendimento possível aos
+seus princípios fundamentais.
+O Novo CPC prevê expressamente que, antecedida de contraditório e produção de
+provas, haja decisão sobre a desconsideração da pessoa jurídica, com o
+redirecionamento da ação, na dimensão de sua patrimonialidade, e também sobre a
+consideração dita inversa, nos casos em que se abusa da sociedade, para usá-la
+indevidamente com o fito de camuflar o patrimônio pessoal do sócio. Essa alteração
+está de acordo com o pensamento que, entre nós, ganhou projeção ímpar na obra de J.
+LAMARTINE CORRÊA DE OLIVEIRA. Com efeito, há três décadas, o brilhante
+civilista já advertia ser essencial o predomínio da realidade sobre a aparência, quando
+“em verdade [é] uma outra pessoa que está a agir, utilizando a pessoa jurídica como
+escudo, e se é essa utilização da pessoa jurídica, fora de sua função, que está tornando
+possível o resultado contrário à lei, ao contrato, ou às coordenadas axiológicas” (A
+dupla crise da pessoa jurídica. São Paulo: Saraiva, 1979, p. 613).
+Que, antes de ser expressamente incorporado à Constituição Federal em vigor (art. 5º,
+inciso LXXVIII), já havia sido contemplado em outros instrumentos normativos
+estrangeiros (veja-se, por exemplo, o art. 111, da Constituição da Itália) e convenções
+internacionais (Convenção Europeia e Pacto de San Jose da Costa Rica). Trata-se,
+portanto, de tendência mundial.
+Afinal, a celeridade não é um valor que deva ser perseguido a qualquer custo. “Para
+muita gente, na matéria, a rapidez constitui o valor por excelência, quiçá o único.
+Seria fácil invocar aqui um rol de citações de autores famosos, ap
+[/PAGINA 14]
+
+[PAGINA 15]
+ostados em
+estigmatizar a morosidade processual. Não deixam de ter razão, sem que isso implique
+– nem mesmo, quero crer, no pensamento desses próprios autores – hierarquização
+
+13
+14
+15
+16
+rígida que não reconheça como imprescindível, aqui e ali, ceder o passo a outros
+valores. Se uma justiça lenta demais é decerto uma justiça má, daí não se segue que
+uma justiça muito rápida seja necessariamente uma justiça boa. O que todos devemos
+querer é que a prestação jurisdicional venha ser melhor do que é. Se para torná-la
+melhor é preciso acelerá-la, muito bem: não, contudo, a qualquer preço” (BARBOSA
+MOREIRA, José Carlos. O futuro da justiça: alguns mitos. Revista de Processo, v.
+102, p. 228-237, abr./jun. 2001, p. 232).
+Os ingleses dizem que os jurisdicionados não podem ser tratados “como cães, que só
+descobrem que algo é proibido quando o bastão toca seus focinhos” (BENTHAM
+citado por R. C. CAENEGEM, Judges, Legislators & Professors, p. 161).
+“O homem necessita de segurança para conduzir, planificar e conformar autônoma e
+responsavelmente a sua vida. Por isso, desde cedo se consideravam os princípios da
+segurança jurídica e da proteção à confiança como elementos constitutivos do Estado
+de Direito. Esses dois princípios – segurança jurídica e proteção da confiança – andam
+estreitamente associados, a ponto de alguns autores considerarem o princípio da
+confiança como um subprincípio ou como uma dimensão específica da segurança
+jurídica. Em geral, considera-se que a segurança jurídica está conexionada com
+elementos objetivos da ordem jurídica – garantia de estabilidade jurídica, segurança
+de orientação e realização do direito – enquanto a proteção da confiança se prende
+mais com os componentes subjetivos da segurança, designadamente a calculabilidade
+e previsibilidade dos indivíduos em relação aos efeitos dos actos” (JOSÉ JOAQUIM
+GOMES CANOTILHO. Direito constitucional e teoria da constituição. Almedina,
+Coimbra, 2000, p. 256).
+Os alemães usam a expressão princípio da “proteção”, acima referida por Canotilho
+(ROBERT ALEXY e RALF DREIER, Precedent in the Federal Republic of Germany,
+in Interpreting Precedents, A Comparative Study, Coordenação NEIL
+MACCORMICK e ROBERT SUMMERS, Dartmouth Publishing Company, p. 19).
+Comentando os principais vetores da reforma sofrida no processo civil alemão na
+última década, BARBOSA MOREIRA alude ao problema causado pelo excesso de
+recursos no processo civil: “Pôr na primeira instância o centro de gravidade do
+processo é diretriz política muito prestigiada em tempos modernos, e numerosas
+iniciativas reformadoras levam-na em conta. A rigor, o ideal seria que os litígios
+fossem resolvidos em termos finais mediante um único julgamento. Razões conhecidas
+induzem as leis processuais a abrirem a porta a reexames. A multiplicação desmedida
+dos meios tendentes a propiciá-los, entretanto, acarreta o prolongamento indesejável
+do feito, aumenta-lhe o custo, favorece a chicana e, em muitos casos, gera para os
+tribunais superiores excess
+[/PAGINA 15]
+
+[PAGINA 16]
+iva carga de trabalho. Convém, pois, envidar esforços para
+que as partes se deem por satisfeitas com a sentença e se abstenham de impugná-la”
+(Breve notícia sobre a reforma do processo civil alemão. Revista de Processo. São
+
+17
+18
+19
+20
+Paulo, v. 28, nº 111, p. 103-112, jul./set. 2003, p. 105).
+O número de recursos previstos na legislação processual civil é objeto de reflexão e
+crítica, há muitos anos, na doutrina brasileira. EGAS MONIZ DE ARAGÃO, por
+exemplo, em emblemático trabalho sobre o tema, já indagou de forma contundente:
+“há demasiados recursos no ordenamento jurídico brasileiro? Deve-se restringir seu
+cabimento? São eles responsáveis pela morosidade no funcionamento do Poder
+Judiciário?” Respondendo tais indagações, o autor conclui que há três recursos que
+“atendem aos interesses da brevidade e certeza, interesses que devem ser ponderados
+– como na fórmula da composição dos medicamentos – para dar adequado remédio às
+necessidades do processo judicial”: a apelação, o agravo e o extraordinário, isto é,
+recurso especial e recurso extraordinário (Demasiados recursos? Revista de Processo.
+São Paulo, v. 31, nº 136, p. 9-31, jun. 2006, p. 18).
+A preocupação com essa possibilidade não é recente. ALFREDO BUZAID já aludia a
+ela, advertindo que há uma grande diferença entre as decisões adaptadas ao contexto
+histórico em que proferidas e aquelas que prestigiam interpretações contraditórias da
+mesma disposição legal, apesar de iguais as situações concretas em que proferidas.
+Nesse sentido: “Na verdade, não repugna ao jurista que os tribunais, num louvável
+esforço de adaptação, sujeitem a mesma regra a entendimento diverso, desde que se
+alterem as condições econômicas, políticas e sociais; mas repugna-lhe que sobre a
+mesma regra jurídica deem os tribunais interpretação diversa e até contraditória,
+quando as condições em que ela foi editada continuam as mesmas. O dissídio
+resultante de tal exegese debilita a autoridade do Poder Judiciário, ao mesmo passo
+que causa profunda decepção às partes que postulam perante os tribunais”
+(Uniformização de Jurisprudência. Revista da Associação dos Juízes do Rio Grande do
+Sul, 34/139, jul. 1985).
+No direito alemão a figura se chama Musterverfahren e gera decisão que serve de
+modelo (Muster) para a resolução de uma quantidade expressiva de processos em que
+as partes estejam na mesma situação, não se tratando necessariamente, do mesmo
+autor nem do mesmo réu (RALF-THOMAS WITTMANN. Il “contenzioso di massa”
+in Germania, in GIORGETTI ALESSANDRO e VALERIO VALLEFUOCO, Il
+Contenzioso di massa in Italia, in Europa e nel mondo, Milão: Giuffrè, 2008, p. 178).
+Tais medidas refletem, sem dúvida, a tendência de coletivização do processo, assim
+explicada por RODOLFO DE CAMARGO MANCUSO: “Desde o último quartel do
+século passado, foi tomando vulto o fenômeno da ‘coletivização’ dos conflitos, à
+medida que, paralelamente, se foi reconhecendo a inaptidão do processo civil clássico
+para instrumentalizar essas megacontrovérsias, própria
+[/PAGINA 16]
+
+[PAGINA 17]
+s de uma conflitiva sociedade
+de massas. Isso explica a proliferação de ações de cunho coletivo, tanto na
+Constituição Federal (arts. 5º, XXI; LXX, ‘b’; LXXIII; 129, III) como na legislação
+processual extravagante, empolgando segmentos sociais de largo espectro:
+
+21
+22
+23
+24
+consumidores, infância e juventude; deficientes físicos; investidores no mercado de
+capitais; idosos; torcedores de modalidades desportivas, etc. Logo se tornou evidente
+(e premente) a necessidade da oferta de novos instrumentos capazes de recepcionar
+esses conflitos assim potencializado, seja em função do número expressivo (ou mesmo
+indeterminado) dos sujeitos concernentes, seja em função da indivisibilidade do objeto
+litigioso, que o torna insuscetível de partição e fruição por um titular exclusivo” (A
+resolução de conflitos e a função judicial no Contemporâneo Estado de Direito. São
+Paulo: Revista dos Tribunais, 2009, p. 379-380).
+A criação de condições para realização da transação é uma das tendências observadas
+no movimento de reforma que inspirou o processo civil alemão. Com efeito, explica
+BARBOSA MOREIRA que “já anteriormente, por força de uma lei de 1999, os
+órgãos legislativos dos ‘Lander’ tinham sido autorizados, sob determinadas
+circunstâncias, a exigirem, como requisito de admissibilidade da ação, que se
+realizasse prévia tentativa de conciliação extrajudicial. Doravante, nos termos do art.
+278, deve o tribunal, em princípio, levar a efeito a tentativa, ordenando o
+comparecimento pessoal de ambas as partes. O órgão judicial discutirá com elas a
+situação, poderá formular-lhes perguntas e fazer-lhes observações. Os litigantes serão
+ouvidos pessoalmente e terá cada qual a oportunidade de expor sua versão do
+litígio...” (Breves notícias sobre a reforma do processo civil alemão, p. 106).
+Predomina na doutrina a opinião de que a origem do amicus curiae está na Inglaterra,
+no processo penal, embora haja autores que afirmem haver figura assemelhada já no
+direito romano (CÁSSIO SCARPINELLA BUENO, Amicus curiae no processo civil
+brasileiro, Ed. Saraiva, 2006, p. 88). Historicamente, sempre atuou ao lado do juiz, e
+sempre foi a discricionariedade deste que determinou a intervenção desta figura,
+fixando os limites de sua atuação. Do direito inglês, migrou para o direito americano,
+em que é, atualmente, figura de relevo digno de nota (CÁSSIO SCARPINELLA
+BUENO, ob. cit., p. 94 e seguintes).
+Tal possibilidade, rigorosamente, já existia no CPC de 1973, especificamente no
+procedimento comum sumário (art. 278, parágrafo 1º) e em alguns procedimentos
+especiais disciplinados no Livro IV, como, por exemplo, as ações possessórias (art.
+922), daí por que se afirmava, em relação a estes, que uma de suas características
+peculiares era, justamente, a natureza dúplice da ação. Contudo, no Novo Código, o
+que era excepcional se tornará regra geral, em evidente benefício da economia
+processual e da ideia de efetividade da tutela jurisdicional.
+EGAS MONIZ DE ARAGÃO, comentando a transição do C
+[/PAGINA 17]
+
+[PAGINA 18]
+ódigo de 1939 para o
+Código de 1973, já chamava a atenção para a necessidade de refletir sobre o grande
+número de procedimentos especiais que havia no primeiro e foi mantido, no segundo
+diploma. Nesse sentido: “Ninguém jamais se preocupou em investigar se é necessário
+ou dispensável, se é conveniente ou inconveniente oferecer aos litigantes essa pletora
+
+25
+26
+27
+28
+de procedimentos especiais; ninguém jamais se preocupou em verificar se a existência
+desses inúmeros procedimentos constitui obstáculo à ‘efetividade do processo’, valor
+tão decantado na atualidade; ninguém jamais se preocupou em pesquisar se a
+existência de tais e tantos procedimentos constitui estorvo ao bom andamento dos
+trabalhos forenses e se a sua substituição por outros e novos meios de resolver os
+mesmos problemas poderá trazer melhores resultados. Diante desse quadro é de
+indagar: será possível atingir os resultados verdadeiramente aspirados pela revisão do
+Código sem remodelar o sistema no que tange aos procedimentos especiais?”
+(Reforma processual: 10 anos. Revista do Instituto dos Advogados do Paraná. Curitiba,
+nº 33, p. 201-215, dez. 2004, p. 205).
+Ainda na vigência do Código de 1973, já não se podia afirmar que a maior parte desses
+procedimentos era efetivamente especial. As características que, no passado, serviram
+para lhes qualificar desse modo, após as inúmeras alterações promovidas pela
+atividade de reforma da legislação processual, deixaram de lhes ser exclusivas. Vários
+aspectos que, antes, somente se viam nos procedimentos ditos especiais, passaram,
+com o tempo, a se observar também no procedimento comum. Exemplo disso é o
+sincretismo processual, que passou a marcar o procedimento comum desde que
+admitida a concessão de tutela de urgência em favor do autor, nos termos do art. 273.
+Essa alteração contempla uma das duas soluções que a doutrina processualista
+colocava em relação ao problema da recorribilidade das decisões interlocutórias.
+Nesse sentido: “Duas teses podem ser adotadas com vistas ao controle das decisões
+proferidas pelo juiz no decorrer do processo em primeira instância: ou, a) não se
+proporciona recurso algum e os litigantes poderão impugná-las somente com o recurso
+cabível contra o julgamento final, normalmente a apelação, caso estes em que não
+incidirá preclusão sobre tais questões, ou, b) é proporcionado recurso contra as
+decisões interlocutórias (tanto faz que o recurso suba incontinente ao órgão superior
+ou permaneça retido nos autos do processo) e ficarão preclusas as questões nelas
+solucionadas caso o interessado não recorra” (ARAGÃO, E. M. Reforma processual:
+10 anos, p. 210-211).
+Essa trajetória, como lembra BARBOSA MOREIRA, foi, no curso das décadas,
+“complexa e sinuosa” (Novas vicissitudes dos embargos infringentes, Revista de
+Processo. São Paulo, v. 28, nº 109, p. 113-123, jul./ago. 2004, p. 113).
+Nesse sentido, “A existência de um voto vencido não basta por si só para justificar a
+criação de tal recurso; porque, por tal razão, se devia a
+[/PAGINA 18]
+
+[PAGINA 19]
+dmitir um segundo recurso de
+embargos toda vez que houvesse mais de um voto vencido; desta forma poderia
+arrastar-se a verificação por largo tempo, vindo o ideal de justiça a ser sacrificado
+pelo desejo de aperfeiçoar a decisão” (ALFREDO BUZAID, Ensaio para uma revisão
+do sistema de recursos no Código de Processo Civil. Estudos de direito. São Paulo:
+Saraiva, 1972, v. 1, p. 111).
+
+29
+30
+31
+32
+33
+34
+35
+CÂNDIDO DINAMARCO lembra que o próprio LIEBMAN, após formular tal
+condição da ação em aula inaugural em Turim, renunciou a ela depois que “a lei
+italiana passou a admitir o divórcio, sendo este o exemplo mais expressivo de
+impossibilidade jurídica que vinha sendo utilizado em seus escritos” (Instituições de
+direito processual civil. v. II, 6. ed. São Paulo: Malheiros, 2009, p. 309).
+Tratam da matéria, por exemplo, COMOGLIO, Luigi; FERRI, Corrado; TARUFFO,
+Michele. Lezioni sul processo civile. 4. ed. Bologna: Il Mulino, 2006. t. I e II;
+PICARDI, Nicola. Codice di procedura civile. 4. ed. Milão: Giuffrè, 2008. t. II;
+GIOLA, Valerio de; RASCHELLÀ, Anna Maria. I provvedimento d ́urgenza ex art.
+700 Cod. Proc. Civ. 2. ed. Experta, 2006.
+É conhecida a figura do référré francês, que consiste numa forma sumária de prestação
+de tutela, que gera decisão provisória, não depende necessariamente de um processo
+principal, não transita em julgado, mas pode prolongar a sua eficácia no tempo.
+Vejam-se arts. 488 e 489 do Nouveau Code de Procédure Civile francês.
+No processo civil inglês, há regra expressa a respeito dos “case management powers”.
+CPR 1.4. Na doutrina, v. NEIL ANDREWS, O moderno processo civil, São Paulo: RT,
+2009, item 3.14, p. 74. Nestas regras de gestão de processos, inspirou-se a Comissão
+autora do Anteprojeto.
+Para EGAS MONIZ DE ARAGÃO, a ausência de uma parte geral, no Código de 1973,
+ao tempo em que promulgado, era compatível com a ausência de sistematização, no
+plano doutrinário, de uma teoria geral do processo. E advertiu o autor: “não se
+recomendaria que o legislador precedesse aos doutrinadores, aconselhando a
+prudência que se aguarde o desenvolvimento do assunto por estes para, colhendo-lhes
+os frutos, atuar aquele” (Comentários ao Código de Processo Civil: v. II. 7. ed. Rio de
+Janeiro: Forense, 1991, p. 8). O profundo amadurecimento do tema que hoje se observa
+na doutrina processualista brasileira justifica, nessa oportunidade, a sistematização da
+teoria geral do processo, no novo CPC.
+CÂNDIDO DINAMARCO, por exemplo, sob a égide do Código de 1973, teceu críticas
+à redação do art. 47, por entender que “esse mal redigido dispositivo dá a impressão,
+absolutamente falsa, de que o litisconsórcio unitário seria modalidade do necessário”
+(Instituições de direito processual civil, v. II, p. 359). No entanto, explica, com
+inequívoca clareza, o processualista: “Os dois conceitos não se confundem nem se
+colocam em relação de gênero a espécie. A unitariedade não é espécie da
+necessariedade. Diz respeito ao ‘regime de tratamento’ dos litisconsortes, en
+[/PAGINA 19]
+
+[PAGINA 20]
+quanto
+esta é a exigência de ‘formação’ do litisconsórcio.”
+“O Código de Processo Civil dá a falsa ideia de que a troca de um sujeito pelo outro
+na condição de parte seja um fenômeno de substituição processual: o vocábulo
+‘substituição’ e a forma verbal ‘substituindo’ são empregadas na rubrica em que se
+situa o art. 48 e em seu § 1º. Essa impressão é falsa porque ‘substituição processual’ é
+
+36
+37
+a participação de um sujeito no processo, como autor ou réu, sem ser titular do
+interesse em conflito (art. 6º). Essa locução não expressa um movimento de entrada e
+saída. Tal movimento é, em direito, ‘sucessão’ – no caso, sucessão processual”
+(DINAMARCO, C. Instituições de direito processual civil, v. II, p. 281).
+Sobre o tema da arbitragem, veja-se: CARMONA, Carlos Alberto. Arbitragem e
+Processo um comentário à lei nº 9.307/96. 3. ed. São Paulo: Atlas, 2009.
+ALFREDO BUZAID, Exposição de motivos, Lei nº 5.869, de 11 de janeiro de 1973.
+
+Este Novo Código de Processo Civil Comentado foi elaborado com o
+objetivo de facilitar a atualização dos estudiosos do processo civil, principalmente
+dos profissionais da área jurídica (advogados, juízes, membros do Ministério
+Público, defensores públicos, professores e escrivães).
+Qualquer que seja o ramo do Direito, as inovações legislativas sempre
+causam certa preocupação à comunidade jurídica. Tratando-se de um Novo
+Código de Processo Civil, essa inquietação se torna ainda maior em razão da
+influência dessa legislação sobre o ordenamento jurídico em geral e, em
+particular, sobre o exercício e a efetivação das tutelas jurisdicionais.
+O que mudou? Por que mudou? Há correspondência na legislação revogada?
+Ainda persiste o entendimento jurisprudencial sobre o tema? Como devo proceder
+de agora em diante? Essas são perguntas que pululam na cabeça das pessoas que
+de uma forma ou de outra lidam com o Direito Processual Civil, seja nos
+tribunais, nas faculdades de Direito, seja na preparação para os concursos
+públicos.
+A obra tem a pretensão de facilitar a vida dos operadores do Direito,
+notadamente daqueles que diariamente se debruçam sobre casos concretos nos
+fóruns do nosso País. Ademais, este NCPC Comentado apresenta e explica
+diversas decisões que já foram proferidas após a entrada em vigor do Novo CPC
+e que ajudarão o leitor a compreender a interpretação conferida pelos tribunais
+superiores às novidades inseridas ao ordenamento jurídico processual.
+Primeiramente, procede-se à comparação entre a estrutura do Novo Código e
+
+a do CPC/1973. Em seguida, cada artigo da Lei nº 13.105/2015 (Novo CPC,
+NCPC ou CPC/2015) é cotejado com o correspondente dispositivo do CPC/1973,
+quando houver, possibilitando uma visão imediata das alterações e dos textos
+novos.
+As legendas coloridas visam auxiliar o leitor na identificação dos comandos
+normativos que foram alterados e daqueles que apresentam inovações ao sistema
+processual civil brasileiro. Os textos novos foram destacados em negrito e, em
+itálico, constam as modificações. Os texto
+[/PAGINA 20]
+
+[PAGINA 21]
+s que foram excluídos ou revogados
+estão devidamente tachados
+. À guisa de exemplo, transcreve-se o artigo 64.
+ 
+CPC/2015CPC/1973
+Art. 64. A incompetência, absoluta ou relativa,
+será alegada como questão preliminar de
+contestação.
+§ 1º A incompetência absoluta pode ser alegada
+em qualquer tempo e grau de jurisdição e deve ser
+declarada de ofício.
+§ 2º Após manifestação da parte contrária, o
+juiz decidirá imediatamente a alegação de
+incompetência.
+§ 3º Caso a alegação de incompetência seja
+acolhida, os autos serão remetidos ao juízo
+competente.
+§ 4º Salvo decisão judicial em sentido
+contrário, conservar-se-ão os efeitos de
+decisão proferida pelo juízo incompetente,
+até que outra seja proferida, se for o caso,
+pelo juízo competente.
+Art. 112. Argui-se, por meio de exceção, a
+incompetência relativa.
+Art. 113. A incompetência absoluta deve ser
+declarada de ofício e pode ser alegada, em
+qualquer tempo e grau de jurisdição,
+independentemente de exceção.
+[...]
+§ 2º Declarada a incompetência absoluta, somente
+os atos decisórios serão nulos, remetendo-se os
+autos ao juiz competente.
+ 
+Após dispositivos em confronto, encontra-se o respectivo comentário, no
+qual o autor, com a sua vivência como membro da Comissão de Juristas que
+elaborou o anteprojeto do Código, indica não só as mudanças operadas e as
+causas que levaram a tais alterações, mas, também, o modo como o operador
+
+jurídico deve proceder diante da inovação legislativa.
+Com relação aos novos institutos inseridos no sistema processual civil – tais
+como cooperação internacional, incidente de desconsideração da personalidade
+jurídica, intervenção do amicus curiae, conciliadores e mediadores judiciais, ação
+de dissolução parcial de sociedade, ações de família, homologação do penhor
+legal, regulação de avaria grossa, incidente de resolução de demandas repetitivas
+–, no intuito de proporcionar uma compreensão sistemática do tema, optou-se por
+um texto único ou, em certos casos, por um texto introdutório, seguindo-se os
+comentários artigo por artigo. Com idêntico desiderato, alguns dispositivos foram
+comentados conjuntamente – exemplificativamente, arts. 51 e 52.
+O desejo é que este NCPC Comentado possa minimizar as dificuldades
+experimentadas pelos acadêmicos, professores, concurseiros e profissionais da
+área jurídica. E mais: que sirva de motivação para o aprofundamento do estudo do
+Direito Processual Civil.
+Belo Horizonte, novembro de 2016.
+Elpídio Donizetti
+elpidio@elpidiodonizetti.com
+www.facebook.com.br/elpidiodonizetti
+@portalied
+
+Art.  =  Artigo
+CC ou CC/02  =  Lei nº 10.406, de 10/02/2002 – Código Civil
+CDC  =  Lei nº 8.078, de 11/09/1990 – Código de Defesa do
+Consumidor
+CF  =  Constituição Federal
+CLT  =  Decreto-lei nº 5.452, de 01/05/1943 – Consolidação das
+Leis do Trabalho
+CPC/1973  =  Lei nº 5.869, de 11/01/1973 – Código de Processo Civil
+de 1973
+CPC/2015,
+NCPC
+=  Lei nº 13.105, de 16/03/2015 – Novo Código de
+Processo Civil
+EC  =  Emenda Constitucional
+ENFAM  =  Escola Nacional de Formação e
+[/PAGINA 21]
+
+[PAGINA 22]
+Aperfeiçoamento de
+Magistrados
+FONAJE  =  Fórum Nacional de Juizados Especiais
+FONAJEF  =  Fórum Nacional dos Juizados Especiais Federais
+FPPC  =  Fórum Permanente de Processualistas Civis
+IRDR  =  Incidente de Resolução de Demandas Repetitivas
+LINDB  =  Decreto-lei nº 4.657, de 04/09/1942 – Lei de Introdução
+às Normas do Direito Brasileiro
+Min.  =  Ministro
+
+MP  =  Ministério Público
+PL  =  Projeto de Lei
+RE  =  Recurso Extraordinário
+Rel.  =  Relator
+REsp  =  Recurso Especial
+STF  =  Supremo Tribunal Federal
+STJ  =  Superior Tribunal de Justiça
+TJ  =  Tribunal de Justiça
+TRF  =  Tribunal Regional Federal
+v.g.  =  verbi gratia (expressão latina que significa “por
+exemplo”)
+
+PARTE GERAL
+LIVRO I
+DAS NORMAS PROCESSUAIS CIVIS
+TÍTULO ÚNICO
+DAS NORMAS FUNDAMENTAIS E DA APLICAÇÃO DAS NORMAS
+PROCESSUAIS
+Capítulo I – Das normas fundamentais do processo civil (arts. 1º a 12)
+Capítulo II – Da aplicação das normas processuais (arts. 13 a 15)
+LIVRO II
+DA FUNÇÃO JURISDICIONAL
+TÍTULO I
+DA JURISDIÇÃO E DA AÇÃO
+
+Arts. 16 a 20
+TÍTULO II
+DOS LIMITES DA JURISDIÇÃO NACIONAL E DA COOPERAÇÃO
+INTERNACIONAL
+Capítulo I – Dos limites da jurisdição nacional (arts. 21 a 25)
+Capítulo II – Da cooperação internacional (arts. 26 a 41)
+Seção I – Disposições gerais (arts. 26 e 27)
+Seção II – Do auxílio direto (arts. 28 a 34)
+Seção III – Da carta rogatória (arts. 35 e 36)
+Seção IV – Disposições comuns às seções anteriores (arts. 37 a 41)
+TÍTULO III
+DA COMPETÊNCIA INTERNA
+Capítulo I – Da competência (arts. 42 a 66)
+Seção I – Disposições gerais (arts. 42 a 53)
+Seção II – Da modificação da competência (arts. 54 a 63)
+Seção III – Da incompetência (arts. 64 a 66)
+Capítulo II – Da cooperação nacional (arts. 67 a 69)
+LIVRO III
+DOS SUJEITOS DO PROCESSO
+TÍTULO I
+DAS PARTES E DOS PROCURADORES
+Capítulo I – Da capacidade processual (arts. 70 a 76)
+Capítulo II – Dos deveres das partes e de seus procuradores (arts. 77 a 102)
+Seção I – Dos deveres (arts. 77 e 78)
+Seção II – Da responsabilidade das partes por dano processual (arts. 79 a 81)
+Seção III – Das despesas, dos honorários advocatícios e das multas (arts. 82 a
+97)
+Seção IV – Da gratuidade da justiça (arts. 98 a 102)
+Capítulo III – Dos procuradores (arts. 103 a 107)
+Capítulo IV – Da sucessão das partes e dos procuradores (arts. 108 a 112)
+TÍTULO II
+
+DO LITISCONSÓRCIO
+Arts. 113 a 118
+TÍTULO III
+DA INTERVENÇÃO DE TERCEIROS
+Capítulo I – Da assistência (arts. 119 a 124)
+Seção I – Disposições comuns (arts. 119 e 120)
+Seção II – Da assistência simples (arts. 121 a 123)
+Seção III – Da assistência litisconsorcial (art. 124)
+Capítulo II – Da denunciação da lide (arts. 125 a 129)
+Capítulo III – Do chamamento ao processo (arts. 130 a 132)
+Capítulo IV – Do incidente de desconsideração da personalidade jurídica (arts.
+133 a 137)
+Capítulo V – Do amicus curiae (art. 138)
+TÍTULO IV
+DO JUIZ E DOS AUXILIARES DA JUSTIÇA
+Capítulo I – Dos poderes, dos deveres e da responsabilidade do juiz (arts. 139 a
+143)
+Capítulo II – Dos impedimentos e da suspeição (arts.
+[/PAGINA 22]
+
+[PAGINA 23]
+144 a 148)
+Capítulo III – Dos auxiliares da justiça (arts. 149 a 175)
+Seção I – Do escrivão, do chefe de secretaria e do oficial de justiça (arts. 150
+a 155)
+Seção II – Do perito (arts. 156 a 158)
+Seção III – Do depositário e do administrador (arts. 159 a 161)
+Seção IV – Do intérprete e do tradutor (arts. 162 a 164)
+Seção V – Dos conciliadores e mediadores judiciais (arts. 165 a 175)
+TÍTULO V
+DO MINISTÉRIO PÚBLICO
+Arts. 176 a 181
+TÍTULO VI
+DA ADVOCACIA PÚBLICA
+Arts. 182 a 184
+
+TÍTULO VII
+DA DEFENSORIA PÚBLICA
+Arts. 185 a 187
+LIVRO IV
+DOS ATOS PROCESSUAIS
+TÍTULO I
+DA FORMA, DO TEMPO E DO LUGAR DOS ATOS PROCESSUAIS
+Capítulo I – Da forma dos atos processuais (arts. 188 a 211)
+Seção I – Dos atos em geral (arts. 188 a 192)
+Seção II – Da prática eletrônica de atos processuais (arts. 193 a 199)
+Seção III – Dos atos da parte (arts. 200 a 202)
+Seção IV – Dos pronunciamentos do juiz (arts. 203 a 205)
+Seção V – Dos atos do escrivão ou do chefe de secretaria (arts. 206 a 211)
+Capítulo II – Do tempo e do lugar dos atos processuais (arts. 212 a 217)
+Seção I – Do tempo (arts. 212 a 216)
+Seção II – Do lugar (art. 217)
+Capítulo III – Dos prazos (arts. 218 a 235)
+Seção I – Disposições gerais (arts. 218 a 232)
+Seção II – Da verificação dos prazos e das penalidades (arts. 233 a 235)
+TÍTULO II
+DA COMUNICAÇÃO DOS ATOS PROCESSUAIS
+Capítulo I – Disposições gerais (arts. 236 e 237)
+Capítulo II – Da citação (arts. 238 a 259)
+Capítulo III – Das cartas (arts. 260 a 268)
+Capítulo IV – Das intimações (arts. 269 a 275)
+TÍTULO III
+DAS NULIDADES
+Arts. 276 a 283
+TÍTULO IV
+DA DISTRIBUIÇÃO E DO REGISTRO
+
+Arts. 284 a 290
+TÍTULO V
+DO VALOR DA CAUSA
+Arts. 291 a 293
+LIVRO V
+DA TUTELA PROVISÓRIA
+TÍTULO I
+DAS DISPOSIÇÕES GERAIS
+Arts. 294 a 299
+TÍTULO II
+DA TUTELA DE URGÊNCIA
+Capítulo I – Disposições gerais (arts. 300 a 302)
+Capítulo II – Do procedimento da tutela antecipada requerida em caráter
+antecedente (arts. 303 e 304)
+Capítulo III – Do procedimento da tutela cautelar requerida em caráter
+antecedente (arts. 305 a 310)
+TÍTULO III
+DA TUTELA DA EVIDÊNCIA
+Art. 311
+LIVRO VI
+FORMAÇÃO, SUSPENSÃO E EXTINÇÃO DO PROCESSO
+TÍTULO I
+DA FORMAÇÃO DO PROCESSO
+Art. 312
+TÍTULO II
+DA SUSPENSÃO DO PROCESSO
+Arts. 313 a 315
+
+TÍTULO III
+DA EXTINÇÃO DO PROCESSO
+Arts. 316 e 317
+PARTE ESPECIAL
+LIVRO I
+DO PROCESSO DE CONHECIMENTO E DO CUMPRIMENTO DE
+SENTENÇA
+TÍTULO I
+DO PROCEDIMENTO COMUM
+Capítulo I – Das disposições gerais (art. 318)
+Capítulo II – Da petição inicial (arts. 319 a 331)
+Seção I – Dos requisitos da petição inicial (arts. 319 a 321)
+Seção II – Do pedido (arts. 322 a 329)
+Seção III – Do indeferimento da petição inicial (arts. 330 e 331)
+Capítulo III – Da improcedência liminar do pedido (art. 332)
+Capítulo IV – Da conversão da ação individual em ação coletiva (art. 333)
+Capítulo V – Da audiência de conciliação ou de mediação (art. 334)
+Capítulo VI – Da contestação (arts. 335 a 342)
+Capítulo VII – Da reconvenção (art. 343)
+Capítulo VIII – Da revelia (arts. 344 a 346)
+Capítulo IX – Das providências p
+[/PAGINA 23]
+
+[PAGINA 24]
+reliminares e do saneamento (arts. 347 a 353)
+Seção I – Da não incidência dos efeitos da revelia (arts. 348 e 349)
+Seção II – Do fato impeditivo, modificativo ou extintivo do direito do autor (art.
+350)
+Seção III – Das alegações do réu (arts. 351 a 353)
+Capítulo X – Do julgamento conforme o estado do processo (arts. 354 a 357)
+Seção I – Da extinção do processo (art. 354)
+Seção II – Do julgamento antecipado do mérito (art. 355)
+Seção III – Do julgamento antecipado parcial do mérito (art. 356)
+Seção IV – Do saneamento e da organização do processo (art. 357)
+Capítulo XI – Da audiência de instrução e julgamento (arts. 358 a 368)
+Capítulo XII – Das provas (arts. 369 a 484)
+Seção I – Disposições gerais (arts. 369 a 380)
+Seção II – Da produção antecipada da prova (arts. 381 a 383)
+
+Seção III – Da ata notarial (art. 384)
+Seção IV – Do depoimento pessoal (arts. 385 a 388)
+Seção V – Da confissão (arts. 389 a 395)
+Seção VI – Da exibição de documento ou coisa (arts. 396 a 404)
+Seção VII – Da prova documental (arts. 405 a 438)
+Subseção I – Da força probante dos documentos (arts. 405 a 429)
+Subseção II – Da arguição de falsidade (arts. 430 a 433)
+Subseção III – Da produção da prova documental (arts. 434 a 438)
+Seção VIII – Dos documentos eletrônicos (arts. 439 a 441)
+Seção IX – Da prova testemunhal (arts. 442 a 463)
+Subseção I – Da admissibilidade e do valor da prova testemunhal (arts. 442
+a 449)
+Subseção II – Da produção da prova testemunhal (arts. 450 a 463)
+Seção X – Da prova pericial (arts. 464 a 480)
+Seção XI – Da inspeção judicial (arts. 481 a 484)
+Capítulo XIII – Da sentença e da coisa julgada (arts. 485 a 508)
+Seção I – Disposições gerais (arts. 485 a 488)
+Seção II – Dos elementos e dos efeitos da sentença (arts. 489 a 495)
+Seção III – Da remessa necessária (art. 496)
+Seção IV – Do julgamento das ações relativas às prestações de fazer, de não
+fazer e de entregar coisa (arts. 497 a 501)
+Seção V – Da coisa julgada (arts. 502 a 508)
+Capítulo XIV – Da liquidação de sentença (arts. 509 a 512)
+TÍTULO II
+DO CUMPRIMENTO DA SENTENÇA
+Capítulo I – Disposições gerais (arts. 513 a 519)
+Capítulo II – Do cumprimento provisório da sentença que reconhece a
+exigibilidade de obrigação de pagar quantia certa (arts. 520 a 522)
+Capítulo III – Do cumprimento definitivo da sentença que reconhece a
+exigibilidade de obrigação de pagar quantia certa (arts. 523 a 527)
+Capítulo IV – Do cumprimento de sentença que reconheça a exigibilidade de
+obrigação de prestar alimentos (arts. 528 a 533)
+Capítulo V – Do cumprimento de sentença que reconheça a exigibilidade de
+obrigação de pagar quantia certa pela Fazenda Pública (arts. 534 e 535)
+Capítulo VI – Do cumprimento de sentença que reconheça a exigibilidade de
+obrigação de fazer, de não fazer ou de entregar coisa (arts. 536 a 538)
+
+Seção I – Do cumprimento de sentença que reconheça a exigibilidade de
+obrigação de fazer ou de não fazer (arts. 536 e 537)
+Seção II – Do cumprimento de sentença que reconheça a exigibilidade de
+obrigação de e
+[/PAGINA 24]
+
+[PAGINA 25]
+ntregar coisa (art. 538)
+TÍTULO III
+DOS PROCEDIMENTOS ESPECIAIS
+Capítulo I – Da ação de consignação em pagamento (arts. 539 a 549)
+Capítulo II – Da ação de exigir contas (arts. 550 a 553)
+Capítulo III – Das ações possessórias (arts. 554 a 568)
+Seção I – Disposições gerais (arts. 554 a 559)
+Seção II – Da manutenção e da reintegração de posse (arts. 560 a 566)
+Seção III – Do interdito proibitório (arts. 567 e 568)
+Capítulo IV – Da ação de divisão e da demarcação de terras particulares (arts.
+569 a 598)
+Seção I – Disposições gerais (arts. 569 a 573)
+Seção II – Da demarcação (arts. 574 a 587)
+Seção III – Da divisão (arts. 588 a 598)
+Capítulo V – Da ação de dissolução parcial de sociedade (arts. 599 a 609)
+Capítulo VI – Do inventário e da partilha (arts. 610 a 673)
+Seção I – Disposições gerais (arts. 610 a 614)
+Seção II – Da legitimidade para requerer o inventário (arts. 615 e 616)
+Seção III – Do inventariante e das primeiras declarações (arts. 617 a 625)
+Seção IV – Das citações e das impugnações (arts. 626 a 629)
+Seção V – Da avaliação e do cálculo do imposto (arts. 630 a 638)
+Seção VI – Das colações (arts. 639 a 641)
+Seção VII – Do pagamento das dívidas (arts. 642 a 646)
+Seção VIII – Da partilha (arts. 647 a 658)
+Seção IX – Do arrolamento (arts. 659 a 667)
+Seção X – Disposições comuns a todas as seções (arts. 668 a 673)
+Capítulo VII – Dos embargos de terceiro (arts. 674 a 681)
+Capítulo VIII – Da oposição (arts. 682 a 686)
+Capítulo IX –Da habilitação (arts. 687 a 692)
+Capítulo X – Das ações de família (arts. 693 a 699)
+Capítulo XI – Da ação monitória (arts. 700 a 702)
+Capítulo XII – Da homologação do penhor legal (arts. 703 a 706)
+Capítulo XIII – Da regulação de avaria grossa (arts. 707 a 711)
+
+Capítulo XIV – Da restauração de autos (arts. 712 a 718)
+Capítulo XV – Dos procedimentos de jurisdição voluntária (arts. 719 a 770)
+Seção I – Disposições gerais (arts. 719 a 725)
+Seção II – Da notificação e da interpelação (arts. 726 a 729)
+Seção III – Da alienação judicial (art. 730)
+Seção IV – Do divórcio e da separação consensuais, da extinção consensual
+de união estável e da alteração do regime de bens do matrimônio (arts.
+731 a 734)
+Seção V – Dos testamentos e dos codicilos (arts. 735 a 737)
+Seção VI – Da herança jacente (arts. 738 a 743)
+Seção VII – Dos bens dos ausentes (arts. 744 e 745)
+Seção VIII – Das coisas vagas (art. 746)
+Seção IX – Da interdição (arts. 747 a 758)
+Seção X – Das disposições comuns à tutela e à curatela (arts. 759 a 763)
+Seção XI – Da organização e da fiscalização das fundações (arts. 764 e 765)
+Seção XII – Da ratificação dos protestos marítimos e dos processos
+testemunháveis formados a bordo (arts. 766 a 770)
+LIVRO II
+DO PROCESSO DE EXECUÇÃO
+TÍTULO I
+DA EXECUÇÃO EM GERAL
+Capítulo I – Disposições gerais (arts. 771 a 777)
+Capítulo II – Das partes (arts. 778 a 780)
+Capítulo III – Da competência (arts. 781 e 782)
+Capítulo IV – Dos requisitos necessários para realizar qualquer execução (arts.
+783 a 788)
+Seção I – Do título executivo (ar
+[/PAGINA 25]
+
+[PAGINA 26]
+ts. 783 a 785)
+Seção II – Da exigibilidade da obrigação (arts. 786 a 788)
+Capítulo V – Da responsabilidade patrimonial (arts. 789 a 796)
+TÍTULO II
+DAS DIVERSAS ESPÉCIES DE EXECUÇÃO
+Capítulo I – Disposições gerais (arts. 797 a 805)
+Capítulo II – Da execução para a entrega de coisa (arts. 806 a 813)
+Seção I – Da entrega de coisa certa (arts. 806 a 810)
+
+Seção II – Da entrega de coisa incerta (arts. 811 a 813)
+Capítulo III – Da execução das obrigações de fazer ou de não fazer (arts. 814 a
+823)
+Seção I – Disposições comuns (art. 814)
+Seção II – Da obrigação de fazer (arts. 815 a 821)
+Seção III – Da obrigação de não fazer (arts. 822 e 823)
+Capítulo IV – Da execução por quantia certa (arts. 824 a 909)
+Seção I – Disposições gerais (arts. 824 a 826)
+Seção II – Da citação do devedor e do arresto (arts. 827 a 830)
+Seção III – Da penhora, do depósito e da avaliação (arts. 831 a 875)
+Subseção I – Do objeto da penhora (arts. 831 a 836)
+Subseção II – Da documentação da penhora, de seu registro e do depósito
+(arts. 837 a 844)
+Subseção III – Do lugar de realização da penhora (arts. 845 e 846)
+Subseção IV – Das modificações da penhora (arts. 847 a 853)
+Subseção V – Da penhora de dinheiro em depósito ou em aplicação
+financeira (art. 854)
+Subseção VI – Da penhora de créditos (arts. 855 a 860)
+Subseção VII – Da penhora das quotas ou das ações de sociedades
+personificadas (art. 861)
+Subseção VIII – Da penhora de empresa, de outros estabelecimentos e de
+semoventes (arts. 862 a 865)
+Subseção IX – Da penhora de percentual de faturamento de empresa (art.
+866)
+Subseção X – Da penhora de frutos e rendimentos de coisa móvel ou
+imóvel (arts. 867 a 869)
+Subseção XI – Da avaliação (arts. 870 a 875)
+Seção IV – Da expropriação de bens (arts. 876 a 903)
+Subseção I – Da adjudicação (arts. 876 a 878)
+Subseção II – Da alienação (arts. 879 a 903)
+Seção V – Da satisfação do crédito (arts. 904 a 909)
+Capítulo V – Da execução contra a Fazenda Pública (art. 910)
+Capítulo VI – Da execução de alimentos (arts. 911 a 913)
+TÍTULO III
+DOS EMBARGOS À EXECUÇÃO
+Arts. 914 a 920
+
+TÍTULO IV
+DA SUSPENSÃO E DA EXTINÇÃO DO PROCESSO DE EXECUÇÃO
+Capítulo I – Da suspensão do processo de execução (arts. 921 a 923)
+Capítulo II – Da extinção do processo de execução (arts. 924 e 925)
+LIVRO III
+DOS PROCESSOS NOS TRIBUNAIS E DOS MEIOS DE IMPUGNAÇÃO
+DAS DECISÕES JUDICIAIS
+TÍTULO I
+DA ORDEM DOS PROCESSOS E DOS PROCESSOS DE COMPETÊNCIA
+ORIGINÁRIA DOS TRIBUNAIS
+Capítulo I – Disposições gerais (arts. 926 a 928)
+Capítulo II – Da ordem dos processos no tribunal (arts. 929 a 946)
+Capítulo III – Do incidente de assunção de competência (art. 947)
+Capítulo IV – Do incidente de arguição de inconstitucionalidade (arts. 948 a 950)
+Capítulo V – Do conflito de competência (arts. 951 a 959)
+Capítulo VI – Da homologação de decisão estrangeira e da concessão do
+exequatur à carta rogatória (arts. 960 a 965)
+Capítulo VII – Da ação rescisória (arts. 966 a 975)
+Capítulo VIII – Do incidente de resolução de demandas repetitivas (arts.
+[/PAGINA 26]
+
+[PAGINA 27]
+976 a
+987)
+Capítulo IX – Da reclamação (arts. 988 a 993)
+TÍTULO II
+DOS RECURSOS
+Capítulo I – Disposições gerais (arts. 994 a 1.008)
+Capítulo II – Da apelação (arts. 1.009 a 1.014)
+Capítulo III – Do agravo de instrumento (arts. 1.015 a 1.020)
+Capítulo IV – Do agravo interno (art. 1.021)
+Capítulo V – Dos embargos de declaração (arts. 1.022 a 1.026)
+Capítulo VI – Dos recursos para o Supremo Tribunal Federal e para o Superior
+Tribunal de Justiça (arts. 1.027 a 1.044)
+Seção I – Do recurso ordinário (arts. 1.027 e 1.028)
+Seção II – Do recurso extraordinário e do recurso especial (arts. 1.029 a 1.041)
+Subseção I – Disposições gerais (arts. 1.029 a 1.035)
+
+Subseção II – Do julgamento dos recursos extraordinário e especial
+repetitivos (arts. 1.036 a 1.041)
+Seção III – Do agravo em recurso especial e extraordinário (art. 1.042)
+Seção IV – Dos embargos de divergência (arts. 1.043 e 1.044)
+LIVRO COMPLEMENTAR
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Arts. 1.045 a 1.072
+
+Índice Sistemático do Novo Código de Processo Civil
+Exposição de Motivos do Novo Código de Processo Civil
+Novo Código de Processo Civil Comentado
+Referências
+46
+
+47
+
+LIVRO I
+DAS NORMAS PROCESSUAIS CIVIS
+TÍTULO ÚNICO
+DAS NORMAS FUNDAMENTAIS E DA APLICAÇÃO
+DAS NORMAS PROCESSUAIS
+Capítulo I
+Das Normas Fundamentais do Processo Civil
+ 
+CPC/2015CPC/1973
+Art. 1º O processo civil será ordenado,
+disciplinado e interpretado conforme os
+valores e as normas fundamentais
+estabelecidos na Constituição da República
+Federativa do Brasil, observando-se as
+disposições deste Código.
+Não há correspondência.
+COMENTÁRIOS:
+Jurisdição, ação e processo. Provocada por meio da ação, a jurisdição vai
+atuar com vistas à definição, à realização e ao acautelamento dos direitos
+substanciais deduzidos pelos litigantes. Esse agir da jurisdição, contudo, não se
+dá de forma aleatória. Ele se opera por meio do processo, o qual, por sua vez,
+tem seus contornos definidos pelas normas jurídicas. Levando-se em conta o
+direito material subjacente, para efeitos didáticos, subdivide-se o processo em:
+48
+
+civil, penal, trabalhista e eleitoral. Pois bem, o processo civil será ordenado e
+disciplinado conforme as regras e os princípios previstos no Código de Processo
+Civil.
+Não se pode olvidar, entretanto, da supremacia da Constituição e da
+completude do ordenamento jurídico. O fato de o Código conter um arcabouço
+principiológico não afasta a aplicação de outros princípios insertos no
+ordenamento, notadamente daqueles extraídos da Constituição (explícita ou
+implicitamente).
+Por fim, não se pode esquecer de que, ao mencionar as “disposições deste
+Código”, o legislador incluiu também os precedentes judiciais. É que a partir do
+novo CPC não haverá mais dúvidas no sentido de que os entendimentos dos
+tribunais superiores também integrarão o rol das fontes formais do direito.
+ 
+CPC/2015CPC/1973
+Art. 2º O processo começa por iniciativa da parte e
+se desenvolve por impulso oficial, salvo as
+exceções previstas em lei.
+Art. 2º Nenhum juiz prestará a tutela
+[/PAGINA 27]
+
+[PAGINA 28]
+jurisdicional
+senão quando a parte ou o interessado a requerer,
+nos casos e forma legais.
+Art. 262. O processo civil começa por iniciativa da
+parte, mas se desenvolve por impulso oficial.
+COMENTÁRIOS:
+Princípios da demanda e do impuls o oficial. O art. 2º do CPC/2015
+manteve o preceito instituído no art. 262 do CPC/1973, o qual ratificava a
+necessidade de provocação da jurisdição para formação da relação jurídico-
+processual. Do ponto de vista instrumental, essa provocação é feita pela petição
+inicial. Ajuizada a ação, ou seja, protocolada a petição inicial, o processo segue o
+procedimento previsto em lei, cabendo ao juiz impulsionar os atos subsequentes.
+Ressalte-se que a não repetição do art. 2º do CPC/1973 não indica qualquer
+prejuízo, uma vez que a ideia nele inserida já era reproduzia pelo art. 262.
+Os fundamentos dessa norma, que deriva dos princípios da demanda e do
+impulso oficial, são resguardar não só a liberdade dos jurisdicionados de
+buscarem ou não a tutela de seus direitos e interesses, como também garantir a
+imparcialidade do magistrado.
+Exceções ao princípio da demanda. Há, no entanto, casos em que a lei
+49
+
+autoriza o juiz a iniciar, de ofício, o processo ou etapa dele. Por exemplo: (i)
+execução trabalhista (art. 872 da CLT); (ii) decretação de falência de empresa sob
+o regime de recuperação judicial (arts. 73 e 74 da Lei nº 11.101/2005). No
+CPC/2015 podem ser citados os seguintes exemplos de atuação ex officio do juiz:
+arts. 536 e 538, que autorizam o juiz a dar início ao cumprimento de sentença nas
+obrigações de fazer, de não fazer e de entregar coisa; art. 953, I, que trata do
+conflito de competência e insere o juiz como legitimado para suscitar o conflito;
+art. 977, I, que admite a instauração do IRDR (Incidente de Resolução de
+Demandas Repetitivas) pelo próprio juiz ou relator.
+Vale destacar que o novo CPC não repetiu a redação do art. 989 do
+CPC/1973, de modo que não mais se admite a instauração de inventário ex officio
+caso os legitimados não o façam no prazo legal.
+ 
+CPC/2015CPC/1973
+Art. 3º Não se excluirá da apreciação
+jurisdicional ameaça ou lesão a direito.
+§ 1º É permitida a arbitragem, na forma da
+lei.
+§ 2º O Estado promoverá, sempre que
+possível, a solução consensual dos conflitos.
+§ 3º A conciliação, a mediação e outros
+métodos de solução consensual de conflitos
+deverão ser estimulados por juízes,
+advogados, defensores públicos e membros
+do Ministério Público, inclusive no curso do
+processo judicial.
+Não há correspondência.
+COMENTÁRIOS:
+Princípio da inafastabilidade. O caput do artigo contempla o denominado
+princípio da inafastabilidade da jurisdição, também conhecido como princípio do
+acesso à Justiça, previsto no art. 5º, XXXV, da Constituição Federal. Segundo
+esse princípio, todos têm direito de buscar a tutela jurisdicional do Estado
+visando à solução de conflitos decorrentes da vida em sociedade. O Estado, a
+50
+
+quem a Constituição outorgou o poder de solucionar os litígios em caráter
+definitivo, não pode del
+[/PAGINA 28]
+
+[PAGINA 29]
+egar ou se recusar a exercer essa função.
+Vale salientar que a inafastabilidade se dá apenas nos casos de “ameaça ou
+lesão a direito”. O Judiciário não pode substituir a atividade privada ou os órgãos
+administrativos. Invocar a tutela jurisdicional do Estado para compelir uma
+instituição bancária a fornecer o extrato da conta-corrente sem ao menos ter
+procurado o caixa eletrônico ou o funcionário do banco caracteriza falta de
+interesse processual. O mesmo ocorre quando se pleiteia aposentadoria
+diretamente à justiça sem que tenha ocorrido prévia manifestação do instituto de
+previdência.
+1
+Zulmar Duarte destaca, contudo, que, “no Código, a ‘ameaça’ veio antes da
+‘lesão’. A inversão, além de lógica (a ameaça normalmente precede a lesão, ainda
+que instantaneamente), não deixa de chamar a atenção pelo prestígio assumido
+hodiernamente pela tutela de urgência”.
+2
+Juízo arbitral. A constitucionalidade da Lei da Arbitragem (nº 9.307/1996)
+já foi objeto de questionamento no STF, ao fundamento de que a faculdade que
+têm as partes de recorrerem a um juiz privado (árbitro) para solução dos litígios
+afrontava, entre outros, o princípio da inafastabilidade da jurisdição (CF, art. 5º,
+XXXV e LIII). O STF, por maioria, declarou a constitucionalidade da norma.
+Essa decisão do Supremo agora é ratificada pelo CPC/2015, que textualmente
+dispõe: “é permitida a arbitragem, na forma da lei” (§ 1º).
+Outros meios de solução dos litígios. O novo CPC não tem por foco
+exclusivamente o processo jurisdicional. O processo, na visão contemporânea, é
+policêntrico. Caminha para frente, no sentido da composição, seja pela outorga da
+sentença estatal, da sentença arbitral ou do acordo entre as partes. Na perspectiva
+do novo Código não se afigura correto falar em “meios alternativos” de solução
+de litígios para se referir à arbitragem, à conciliação e à mediação. Não mais se
+pode falar em relação de alternatividade entre o processo jurisdicional e os outros
+meios de solução consensual dos litígios. Todos, igualmente, são contemplados
+no novo Código e devem ser promovidos pelo Estado (§ 2º) e estimulados por
+juízes, advogados, defensores públicos e membros do Ministério Público,
+inclusive no curso do processo judicial (§ 3º).
+ 
+CPC/2015CPC/1973
+Art. 4º As partes têm o direito de obter em
+prazo razoável a solução integral do mérito,
+Não há correspondência.
+51
+
+incluída a atividade satisfativa.
+COMENTÁRIOS:
+Princípio da dur ação razoável do processo. O dispositivo traz para o
+ordenamento processual civil o princípio da duração razoável do processo, já
+positivado na Constituição Federal (art. 5º, LXXVIII)
+3
+ e na Convenção
+Americana de Direitos Humanos (art. 8, 1).
+4
+ O inciso II do art. 139 do CPC/2015
+também reforça esse princípio ao dispor que cabe ao juiz velar pela duração
+razoável do processo.
+A observância da duração razoável do processo comporta duas dimensões:
+uma intraprocessual, ligada ao dever de adequação do procedimento, conforme os
+contornos do direito material subjacente
+[/PAGINA 29]
+
+[PAGINA 30]
+, e outra extraprocessual, referente à
+organização da atividade jurisdicional como um todo. Diversas normas do
+CPC/2015 buscam a concretização desse princípio, a exemplo do art. 235.
+Sobre o parâmetro para se auferir a razoabilidade no que tange à duração do
+processo, é possível utilizar o disposto no art. 97-A da Lei nº 9.504/1997 (Lei
+das Eleições),
+5
+ mas sem esquecer de que algumas peculiaridades do caso concreto
+podem justificar eventual atraso.
+Princípio da primazia do julgamento do mérito. O dispositivo em
+comento também consagra o chamado princípio da primazia do julgamento do
+mérito, que pode ser sintetizado da seguinte forma: o julgador deve, sempre que
+possível, priorizar o julgamento do mérito, superando ou viabilizando a correção
+dos vícios processuais e, consequentemente, aproveitando todos os atos do
+processo. Outros dispositivos do novo CPC traduzem esse princípio: art. 6º; art.
+282 e §§; art. 317; art. 352; art. 488; art. 932, parágrafo único; e art. 1.029, § 3º.
+ 
+CPC/2015CPC/1973
+Art. 5º Aquele que de qualquer forma participa do
+processo deve comportar-se de acordo com a boa-
+fé.
+Art. 14. São deveres das partes e de todos aqueles
+que de qualquer forma participam do processo:
+[...]
+II – proceder com lealdade e boa-fé;
+COMENTÁRIOS:
+52
+
+Princípio da boa-fé processual. A conduta de todos os sujeitos
+processuais,
+6
+ e não somente das partes, deve seguir um padrão ético e objetivo de
+honestidade, diligência e confiança. Trata-se de exigência atrelada ao exercício do
+contraditório, uma vez que a efetiva participação das partes, em paridade de
+tratamento e faculdades, só se exaure quando essa participação observa os
+princípios da cooperação e da boa-fé processual.
+A boa-fé processual está intimamente ligada à boa-fé objetiva, comumente
+tratada no direito civil como princípio norteador das relações contratuais, mas que
+no sistema processual orienta a conduta das pessoas que, de qualquer forma,
+participam do processo. Como exemplo cite-se a situação em que o juiz verifica a
+existência de propósito protelatório do réu e, consequentemente, aplica-lhe a pena
+por litigância de má-fé (art. 80, VII, e art. 81 do CPC/2015).
+ 
+CPC/2015CPC/1973
+Art. 6º Todos os sujeitos do processo devem
+cooperar entre si para que se obtenha, em
+tempo razoável, decisão de mérito justa e
+efetiva.
+Não há correspondência.
+COMENTÁRIOS:
+Princípio da cooperação. A doutrina brasileira importou do direito europeu
+o princípio da cooperação (ou da colaboração), segundo o qual o processo seria o
+produto da atividade cooperativa triangular (entre o juiz e as partes).
+O dever de cooperação estaria voltado eminentemente para o magistrado, de
+modo a orientar sua atuação como agente colaborador do processo, inclusive
+como participante ativo do contraditório.
+Entretanto, não somente o juiz deve colaborar para a tutela efetiva, célere e
+adequada. Todos aqueles que atuam no processo (juiz, partes, oficial de justiça,
+advogados, Ministério Público etc.) têm o dever de colaborar para
+[/PAGINA 30]
+
+[PAGINA 31]
+que a prestação
+jurisdicional seja concretizada.
+Diante dessa nova realidade, torna-se necessário renovar mentalidades com o
+intuito de afastar o individualismo do processo, de modo que o papel de cada um
+dos operadores do direito seja o de cooperar com boa-fé numa eficiente
+administração da justiça. O processo deve, pois, ser um diálogo entre as partes e
+53
+
+o juiz, e não necessariamente um combate ou um jogo de impulso egoístico.
+O dever de cooperação, entretanto, encontra limites na natureza da atuação de
+cada uma das partes. O juiz atua com a marca da equidistância e da
+imparcialidade. Por outro lado, o dever do advogado é a defesa do seu
+constituinte. A rigor, não tem ele compromisso com a realização da justiça. Ele
+deverá empregar toda a técnica para que as postulações do seu cliente sejam
+aceitas pelo julgador. Essa é a baliza que deve conduzir o seu agir cooperativo.
+Sendo assim, meu caro leitor, retire da cabeça aquela imagem – falsamente
+assimilada por alguns com o advento do novo CPC – de juiz, autor e réu andando
+de mãos dadas pelas ruas e o advogado solicitando orientação ao juiz para redigir
+as peças processuais. Não obstante a apregoada cooperação, no fundo no fundo
+será cada um pra si, o que não impede que a lealdade e a boa-fé imperem nas
+relações processuais.
+À guisa de balizas para a atividade processual cooperativa, a doutrina
+estabeleceu alguns deveres, que são recíprocos, mas, até para que sirva de
+exemplo, devem ser efetivamente implementados pelo juiz na prática forense: (a)
+dever de esclarecimento: consiste na obrigação do juiz de esclarecer às partes
+eventuais dúvidas sobre as suas alegações, pedidos ou posições em juízo;
+7
+ (b)
+dever de consulta: representa a obrigação de o juiz ouvir previamente as partes
+sobre as questões de fato ou de direito que possam influenciar o julgamento da
+causa. Ele está, portanto, ligado ao princípio do contraditório, no qual se insere a
+possibilidade de as partes influenciarem no convencimento do magistrado; (c)
+dever de prevenção: cabe ao magistrado apontar as deficiências postulatórias das
+partes, para que possam ser supridas, por exemplo, por meio de emenda à petição
+inicial; (d) dever de auxílio: obrigação do juiz de auxiliar a parte a superar
+eventual dificuldade que lhe tolha o exercício de seus ônus ou deveres
+processuais; não cabe ao juiz, obviamente, suprir deficiência técnica da parte; (e)
+dever de correção e urbanidade: deve o magistrado adotar conduta adequada, ética
+e respeitosa em sua atividade judicante.
+O dever de consulta recebeu disposição própria no novo CPC, que estabelece
+a impossibilidade de o órgão jurisdicional, em qualquer grau de jurisdição,
+decidir com base em fundamento a respeito do qual não se tenha oportunizado a
+manifestação das partes, mesmo que a matéria possa ser reconhecida de ofício
+(art. 10).
+De acordo com o novo Código, não pode o juiz conhecer e levar em
+consideração no julgamento da causa circunstância sobre a qual as partes não
+puderam se manifest
+[/PAGINA 31]
+
+[PAGINA 32]
+ar, excetuando-se os casos de improcedência liminar (art.
+54
+
+332). Entretanto, como já dissemos, ao lado do princípio da cooperação e,
+consequentemente, do dever de consulta há o interesse público na correta
+formação e desenvolvimento do processo. Recomenda-se, então, que tudo se
+resolva caso a caso, devendo-se fazer a ponderação na análise de cada hipótese
+trazida aos autos. Estando indiscutivelmente configurada a questão de ordem
+pública capaz de levar à extinção do processo, qual a necessidade de levá-la à
+discussão? O moderno processo civil não comporta a forma pela forma, ou seja, o
+respeito ao procedimento sem que exista qualquer finalidade.
+ 
+CPC/2015CPC/1973
+Art. 7º É assegurada às partes paridade de
+tratamento em relação ao exercício de direitos
+e faculdades processuais, aos meios de
+defesa, aos ônus, aos deveres e à aplicação
+de sanções processuais, competindo ao juiz
+zelar pelo efetivo contraditório.
+Art. 125. O juiz dirigirá o processo conforme as
+disposições deste Código, competindo-lhe:
+I – assegurar às partes igualdade de tratamento;
+[...]
+ 
+COMENTÁRIOS:
+Princípio da paridade de “armas”. A paridade de tratamento, decorrência
+do princípio da isonomia e pressuposto essencial para a realização do
+contraditório em sua plenitude, já figurava no CPC/1973. A redação foi
+aperfeiçoada, de forma a ampliar a garantia aos jurisdicionados. Em vez de
+“igualdade de tratamento”, que passa a ideia de garantia meramente formal, o
+novo Código menciona “paridade de tratamento”, expressão que traduz a
+igualdade substancial e material.
+8
+ Por outro lado, o que antes constituía tão
+somente um “dever do juiz” transmudou-se para um dever do Estado.
+ 
+CPC/2015CPC/1973
+Art. 8º Ao aplicar o ordenamento jurídico, o
+juiz atenderá aos fins sociais e às exigências
+do bem comum, resguardando e
+promovendo a dignidade da pessoa humana
+e observando a proporcionalidade, a
+Não há correspondência.
+55
+
+razoabilidade, a legalidade, a publicidade e a
+eficiência.
+COMENTÁRIOS:
+Direcionamentos para a interpretação da legislação processual. O novel
+dispositivo, que em parte reproduz o texto do art. 5º da Lei de Introdução às
+Normas do Direito Brasileiro,
+9
+ estabelece as balizas do processo interpretativo a
+ser levado a efeito pelo juiz na aplicação da lei processual.
+Em decorrência da multiplicidade dos fatos, as normas jurídicas – e aqui me
+refiro principalmente às normas processuais – são cada vez mais abertas e
+indeterminadas. Cabe ao juiz, no momento da subsunção, completar a norma
+jurídica, de forma a aproximá-la da realidade fática e proporcionar às partes um
+processo judicial mais justo possível. Assim, segundo a linha adotada pelo
+legislador do novo Código, qualquer que seja a técnica utilizada para interpretação
+da lei (gramatical ou literal, lógica, sistemática, histórica e sociológica ou
+teleológica), na construção do provimento jurisdicional deve o juiz se orientar
+pelos valores indicados nesse dispositivo, aplicando o ordenamento em sua
+plenitude, considerando a
+[/PAGINA 32]
+
+[PAGINA 33]
+existência de regras, princípios e valores que norteiam
+o sistema jurídico.
+ 
+CPC/2015CPC/1973
+Art. 9º Não se proferirá decisão contra uma
+das partes sem que ela seja previamente
+ouvida.
+Parágrafo único. O disposto no caput não se
+aplica:
+I – à tutela provisória de urgência;
+II – às hipóteses de tutela da evidência
+previstas no art. 311, incisos II e III;
+III – à decisão prevista no art. 701.
+Não há correspondência.
+56
+
+COMENTÁRIOS:
+Contraditório material e contraditório substancial. O caput do
+dispositivo consagra, em princípio, o contraditório na sua dimensão estática (ou
+formal), uma vez que garante às partes o direito de ciência dos atos processuais e
+a faculdade de participar do processo. Nessa perspectiva, o contraditório se
+vincula ao direito de defesa, visto que garante “às partes a possibilidade bilateral,
+efetiva e concreta, de produzirem suas provas, de aduzirem suas razões, de
+recorrerem das decisões, de agirem, enfim, em juízo, para a tutela de seus direitos
+e interesses”.
+10
+A redação apresenta uma ampliação da noção de contraditório, permitindo a
+percepção de sua dimensão dinâmica (material ou substancial), a qual tem relação
+com a influência que as partes podem provocar na formação do convencimento do
+julgador. Diversos dispositivos do novo Código servem para instrumentalizar
+esse princípio, a exemplo do art. 115, que considera nula ou ineficaz – a depender
+da integração da parte à lide – a sentença de mérito, quando proferida sem a
+integração do contraditório.
+Contraditório diferido. O parágrafo único apresenta situações nas quais se
+admite que o contraditório seja postergado (contraditório diferido ou ulterior).
+Trata-se de exceções, visto que a regra é a realização do contraditório prévio à
+decisão jurisdicional. As hipóteses descritas tratam de cenários nos quais a
+prerrogativa de influência é mitigada para a garantia de outras prerrogativas
+fundamentais do processo. O inciso I remete à tutela provisória de urgência, que
+por sua própria natureza não comporta prévia cientificação da parte contrária, sob
+pena de ineficácia do provimento.
+O inciso II remete à denominada tutela da evidência, na qual o contraditório
+perde seu poder de real influência, visto que o direito é tão cristalino que a
+manifestação da parte contrária só atrasaria a conclusão do feito. Trataremos
+pontualmente sobre o tema nos comentários ao art. 311.
+Por fim, o inciso III se refere ao procedimento monitório, no qual se permite
+a emissão de mandado de pagamento, entrega de coisa ou obrigação de fazer,
+independentemente de prévia manifestação da parte contrária, quando a prova
+escrita apresentada pelo postulante for evidente.
+ 
+CPC/2015CPC/1973
+Art. 10. O juiz não pode decidir, em grau
+Não há correspondência.
+57
+
+algum de jurisdição, com base em
+fundamento a respeito do qual não se tenha
+dado às partes oportunidade de se
+manifestar, ainda que se trate de matéria
+sobre a qual deva decidir de ofício.
+COMENTÁRIOS:
+Contraditório prévio como regra. Mais uma vez o
+[/PAGINA 33]
+
+[PAGINA 34]
+legislador deixou
+explícita a consagração do direito ao contraditório na sua dimensão material,
+impondo, nesse caso, verdadeiro limite à atuação jurisdicional. A novidade está
+no fato de que o magistrado não poderá decidir questões subjacentes ao processo
+sem que haja verdadeiro diálogo entre as partes. E o dispositivo se aplica,
+inclusive, às matérias apreciáveis de ofício, impedindo que o magistrado, “em
+‘solitária unipotência’, aplique normas ou embase a decisão sobre fatos
+completamente estranhos à dialética defensiva de uma ou de ambas as partes”.
+11
+Numa análise superficial, o dispositivo poderá limitar a atuação do julgador,
+impedindo-o de decidir questões que seriam, sob sua visão unilateral, de evidente
+resolução. A reflexão, todavia, deve ser mais profunda. Os operadores do direito,
+no Brasil, devem perceber que, no âmbito do processo, mais vale uma questão
+bem discutida uma só vez do que várias questões mal elaboradas e mal
+resolvidas. Ademais, o dispositivo não afasta a possibilidade de o juiz conhecer
+de questões sem a necessária provocação das partes (ou seja, ex officio). O que o
+legislador pretende é que essas questões sejam submetidas ao contraditório
+prévio.
+Esse dispositivo é relativizado, por exemplo, pelo art. 332 do novo CPC,
+que permite ao juiz julgar liminarmente improcedente o pedido sem que haja
+citação da parte contrária. A propósito, diversos enunciados da Escola Nacional
+de Aperfeiçoamento de Magistrados (ENFAM) buscam, em síntese, suavizar a
+exigência do contraditório prevista nos arts. 9º e 10 do CPC/2015. Confira:
+Enunciado nº 02 – Não ofende a regra do contraditório do art. 10 do
+CPC/2015, o pronunciamento jurisdicional que invoca princípio, quando a
+regra jurídica aplicada já debatida no curso do processo é emanação daquele
+princípio.
+Enunciado nº 03 – É desnecessário ouvir as partes quando a manifestação não
+58
+
+puder influenciar na solução da causa.
+Enunciado nº 04 – Na declaração de incompetência absoluta não se aplica o
+disposto no art. 10, parte final, do CPC/2015.
+Enunciado nº 05 – Não viola o art. 10 do CPC/2015 a decisão com base em
+elementos de fato documentados nos autos sob o contraditório.
+Enunciado nº 06 – Não constitui julgamento surpresa o lastreado em
+fundamentos jurídicos, ainda que diversos dos apresentados pelas partes,
+desde que embasados em provas submetidas ao contraditório.
+Não se trata de enunciados vinculantes, mas podem indicar uma futura
+interpretação da regra por parte dos tribunais.
+ 
+CPC/2015CPC/1973
+Art. 11. Todos os julgamentos dos órgãos do
+Poder Judiciário serão públicos, e
+fundamentadas todas as decisões, sob pena
+de nulidade.
+Parágrafo único. Nos casos de segredo de
+justiça, pode ser autorizada a presença
+somente das partes, de seus advogados, de
+defensores públicos ou do Ministério Público.
+Não há correspondência.
+COMENTÁRIOS:
+Publicidade das decisões jurisdicionais. A publicidade é uma garantia
+jurídica do cidadão, na medida em que permite o controle dos atos judiciais por
+qu
+[/PAGINA 34]
+
+[PAGINA 35]
+alquer indivíduo integrante da sociedade. O art. 93, IX, da Constituição Federal
+dispõe que “todos os julgamentos dos órgãos do Poder Judiciário serão públicos,
+e fundamentadas todas as decisões, sob pena de nulidade [...]”. Verifica-se, por
+óbvio, que, além da observância ao princípio da publicidade, há a necessidade de
+serem fundamentadas todas as decisões judiciais. A propósito, a nova legislação
+estabelece parâmetros de fundamentação das decisões, conforme disposto no § 1º
+do art. 489, para o qual remetemos o leitor.
+O princípio da publicidade sofre restrições nos casos referentes à defesa da
+intimidade ou em razão de interesse social (art. 5º, LX, da CF/1988). Tais
+59
+
+diretrizes ganham regulamentação no art. 189 do CPC/2015 (substituto do art.
+155 do CPC/1973), que trata das hipóteses de tramitação processual em segredo
+de justiça. De toda forma, as restrições previstas na CF/1988 e no CPC/2015 não
+são oponíveis às partes e aos seus respectivos advogados.
+ 
+CPC/2015CPC/1973
+Art. 12. Os juízes e os tribunais atenderão,
+preferencialmente, à ordem cronológica de
+conclusão para proferir sentença ou acórdão
+(Redação dada pela Lei nº 13.256/2016).
+§ 1º A lista de processos aptos a julgamento
+deverá estar permanentemente à disposição
+para consulta pública em cartório e na rede
+mundial de computadores.
+§ 2º Estão excluídos da regra do caput:
+I – as sentenças proferidas em audiência,
+homologatórias de acordo ou de
+improcedência liminar do pedido;
+II – o julgamento de processos em bloco para
+aplicação de tese jurídica firmada em
+julgamento de casos repetitivos;
+III – o julgamento de recursos repetitivos ou
+de incidente de resolução de demandas
+repetitivas;
+IV – as decisões proferidas com base nos arts.
+485 e 932;
+V – o julgamento de embargos de declaração;
+VI – o julgamento de agravo interno;
+VII – as preferências legais e as metas
+estabelecidas pelo Conselho Nacional de
+Não há correspondência.
+60
+
+Justiça;
+VIII – os processos criminais, nos órgãos
+jurisdicionais que tenham competência
+penal;
+IX – a causa que exija urgência no
+julgamento, assim reconhecida por decisão
+fundamentada.
+§ 3º Após elaboração de lista própria,
+respeitar-se-á a ordem cronológica das
+conclusões entre as preferências legais.
+§ 4º Após a inclusão do processo na lista de
+que trata o § 1º, o requerimento formulado
+pela parte não altera a ordem cronológica
+para a decisão, exceto quando implicar a
+reabertura da instrução ou a conversão do
+julgamento em diligência.
+§ 5º Decidido o requerimento previsto no §
+4º, o processo retornará à mesma posição em
+que anteriormente se encontrava na lista.
+§ 6º Ocupará o primeiro lugar na lista prevista
+no § 1º ou, conforme o caso, no § 3º, o
+processo que:
+I – tiver sua sentença ou acórdão anulado,
+salvo quando houver necessidade de
+realização de diligência ou de
+complementação da instrução;
+II – se enquadrar na hipótese do art. 1.040,
+inciso II.
+COMENTÁRIOS:
+61
+
+Ordem cronológica de julgamento. A redação original do CPC/2015 (Lei
+nº 13.105/2015)
+[/PAGINA 35]
+
+[PAGINA 36]
+dispunha que os juízes e os tribunais deveriam obedecer à ordem
+cronológica de conclusão para proferir sentença ou acórdão. Tratava-se, portanto,
+de comando imperativo, que autorizava a “quebra” da ordem cronológica apenas
+nas hipóteses excepcionadas pelo próprio Código.
+A observância obrigatória da ordem cronológica gerou inúmeras discussões
+na doutrina, tão logo aprovada a redação da Lei nº 13.105/2015. O professor
+Fernando da Fonseca Gajardoni, por exemplo, chegou a defender a
+inconstitucionalidade do dispositivo, sob o argumento de que a regra violava o
+princípio da tripartição dos poderes (art. 2º da CF/1988), já que representava
+indevida intervenção do legislativo na atividade judiciária e inviabilizava a
+autogestão da magistratura.
+12
+Essa regra geral de gestão, criada pelo legislador do novo CPC, foi
+derrubada pela Lei nº 13.256/2016, que alterou a redação do art. 12 desse Código
+para estabelecer que a ordem cronológica de julgamentos deve ser seguida apenas
+em caráter preferencial.
+Do mesmo modo, o art. 153, direcionado ao escrivão e ao chefe de
+secretaria, prescreve que esses auxiliares do juízo deverão publicar e cumprir os
+pronunciamentos judiciais preferencialmente na ordem em que forem recebidos
+em cartório.
+Em suma, a regra que antes era cogente transmudou-se para uma mera
+norma programática, um ideal a ser perseguido. A regra anterior, em que pese ter
+sido uma louvável iniciativa na tentativa de evitar a preterição de processos,
+certamente acarretaria mais morosidade do que celeridade. Não há dúvida de que a
+escolha de qual processo terá prioridade não deve ficar ao arbítrio do juiz, sendo
+saudável existirem parâmetros mínimos para que haja alguma lógica na devolução
+dos autos pelo gabinete para o cartório. No entanto, exigir que o magistrado
+julgasse os processos conclusos a ele exatamente na ordem em que chegassem
+era, sem dúvida alguma, despropositado e contraproducente.
+Agora, com a nova redação, há tão somente uma sugestão para que o
+julgamento observe a ordem cronológica. Contudo, é importante ressaltar que o
+Código de 2015 continua inovador em relação ao seu antecessor. Isso porque,
+apesar de a ordem cronológica não se tratar de norma imperativa, constitui uma
+realidade que deve ser observada sempre que viável, até mesmo porque a lista de
+processos conclusos deve ser elaborada e divulgada pela internet e no próprio
+cartório – comando que persiste no § 1º do art. 12.
+Ressalte-se que essa lista será confeccionada por cada órgão jurisdicional
+62
+
+(vara, câmara, seção, tribunal, entre outros). A primeira lista de processos para
+julgamento será composta pelos processos conclusos no momento da entrada em
+vigor do novo CPC, observada a antiguidade da distribuição (art. 1.046, § 5º).
+Capítulo II
+Da Aplicação das Normas Processuais
+CPC/2015CPC/1973
+Art. 13. A jurisdição civil será regida pelas
+normas processuais brasileiras, ressalvadas
+as disposições específicas previstas em
+tratados, convenções ou acordos
+internacionais de que o B
+[/PAGINA 36]
+
+[PAGINA 37]
+rasil seja parte.
+Não há correspondência.
+COMENTÁRIOS:
+Normas processuais brasileiras e internacionais. O dispositivo trata da
+dimensão territorial da norma processual. Não há novidade, a não ser o fato de o
+Código ter positivado norma que está intimamente ligada ao direito internacional
+privado. A disposição atende a imperativo previsto na Constituição Federal,
+segundo o qual “os direitos e garantias expressos nesta Constituição não excluem
+outros decorrentes do regime e dos princípios por ela adotados, ou dos tratados
+internacionais em que a República Federativa do Brasil seja parte” (art. 5º, § 2º,
+da CF/1988).
+O Código ressalva a aplicação das normas processuais contidas em tratados,
+convenções ou acordos internacionais de que o Brasil seja parte. Para que tais
+atos possam integrar o conjunto de normas que regulam o agir da função
+jurisdicional no Brasil, é indispensável que tenham sido incorporados ao sistema
+normativo brasileiro. Em outras palavras, há que ter sido transformado em lei em
+sentido lato. Para tanto, não basta que o Brasil seja parte, isto é, que seja
+signatário. A incorporação ao ordenamento jurídico brasileiro pressupõe, além da
+assinatura do presidente da República (art. 84, VIII, da CF/1988), a aprovação
+pelo Congresso Nacional (art. 49, I, da CF/1988). Com essas providências, os
+tratados e as convenções internacionais adquirem status de lei ordinária,
+sujeitando-se, inclusive, ao controle de constitucionalidade. Apenas os tratados e
+63
+
+as convenções internacionais sobre direitos humanos, obedecidas as formalidades
+previstas no § 3º do art. 5º da CF/1988, têm status de emenda constitucional (§
+3º, art. 5º, da CF/1988).
+Em síntese, todos os processos que tramitam no território nacional devem
+observar as normas processuais civis estabelecidas pelo legislador pátrio (o CPC,
+especialmente), pois no nosso ordenamento tem vigência o princípio da
+territorialidade. Essa regra alcança todas as pessoas – nacionais ou estrangeiras –
+que participam de processo em curso na justiça brasileira. A jurisdição constitui
+uma das expressões da soberania nacional, daí por que a sua atuação é regrada
+quase exclusivamente pelo ordenamento jurídico pátrio. Deve-se ressalvar que,
+havendo necessidade da colheita de provas na justiça estrangeira, sobre esse ato
+em particular nada obsta que incida a lei do país ao qual se rogou a prática do
+ato.
+13
+Vale lembrar que a territorialidade da lei processual civil prevalecerá ainda
+que haja norma estrangeira de direito material a ser aplicada ao caso concreto. O
+art. 10 da LINDB, por exemplo, permite a aplicação das regras do país
+estrangeiro na hipótese de sucessão por morte ou por ausência, desde que as
+regras do outro país sejam mais favoráveis ao cônjuge ou aos filhos brasileiros.
+Nesse caso, aplicam-se as regras materiais do país do de cujus, mas o inventário
+tramitará em conformidade com a lei processual civil brasileira. O princípio da
+territorialidade, em certos casos, alcançará apenas as normas de
+[/PAGINA 37]
+
+[PAGINA 38]
+regência do
+processo, não alcançando o direito material.
+Para que os processos que tramitaram no exterior tenham validade no
+território nacional, a sentença proferida pelo órgão jurisdicional estrangeiro deve
+ser homologada perante o Superior Tribunal de Justiça, nos termos do art. 105, I,
+i, da Constituição Federal. Da mesma forma, para que as determinações judiciais
+vindas do exterior sejam cumpridas no Brasil é necessária a intervenção do STJ,
+que concederá o exequatur às cartas rogatórias.
+ 
+CPC/2015CPC/1973
+Art. 14. A norma processual não retroagirá e
+será aplicável imediatamente aos processos
+em curso, respeitados os atos processuais
+praticados e as situações jurídicas
+consolidadas sob a vigência da norma
+revogada.
+Não há correspondência.
+64
+
+COMENTÁRIOS:
+Irretroatividade da lei processual e aplicabilidade imediata. O
+dispositivo trata da dimensão temporal da norma processual. As disposições do
+Código não retroagirão, especialmente se a retroatividade alcançar a coisa julgada,
+o ato jurídico perfeito e o direito adquirido (CF, art. 5º, XXXVI). Com relação
+aos processos já extintos (com ou sem julgamento de mérito), sobre os quais
+operam os efeitos da imutabilidade material ou simplesmente decorrem da coisa
+julgada formal, a lei nova não se aplicará. Com referência aos processos que se
+iniciarem na vigência do novo Código, igualmente não haverá dificuldade na
+aplicação das normas processuais. O CPC/2015 regulará o processo na sua
+inteireza.
+A dificuldade reside na aplicação do novo Código aos processos em curso.
+Nesse caso, devem-se respeitar os atos processuais praticados e as situações
+jurídicas consolidadas sob a vigência da norma revogada (LINDB, art. 6
+o
+). Nesse
+ponto vigora o princípio do tempus regit actum, não tendo a lei nova aptidão para
+atingir os atos processuais já praticados.
+14
+Isolamento dos atos processuais. A modulação, no que tange à aplicação
+da lei, deve observar a teoria do isolamento dos atos processuais. Praticado o ato
+segundo a lei vigente no momento da sua prática, sobre ele recai a garantia
+inerente ao ato jurídico perfeito, o qual, inclusive, implica direito
+processualmente adquirido. Exemplo: se apresentou contestação segundo a lei
+vigente hoje, não poderá amanhã, ao fundamento de mudança da lei, decretar a
+revelia do réu, ao argumento de que não observou a regra prescrita na lei nova.
+No entanto, é preciso estabelecer a diferença entre um ato já praticado, que
+não pode ser atingido pela norma jurídica posterior, e um ato que ainda não foi
+praticado, mas que, por ocasião da entrada em vigor da lei nova, já estava em
+curso o prazo para a sua prática. A dificuldade na aplicação da lei nova ocorre
+nesses lapsos de transição entre uma e outra lei.
+O processo, do ponto de vista extrínseco, é constituído por uma sequência de
+atos processuais. Ajuizada a ação, por meio do protocolo da petição inicial, todos
+os atos das partes pressupõem comunicação – citação ou intimação. O réu é citado
+para apresentar contestação, qu
+[/PAGINA 38]
+
+[PAGINA 39]
+erendo. Da contestação o autor é intimado, para
+exercer a faculdade de formular a sua réplica e assim por diante. A rigor, a lei que
+deveria reger o ato a ser praticado é a lei do momento da comunicação para a
+prática desse novo ato do processo. Esse é o sentido da expressão tempus regit
+actum. Exemplifica-se. As partes foram intimadas do julgamento da apelação no
+65
+
+dia 15.03.2016, ainda, portanto, na vigência do Código de 1973. Como o acórdão
+reformou a sentença de mérito por maioria, de acordo com o art. 530 do
+CPC/1973 seriam cabíveis embargos infringentes. A intimação abre à parte a
+faculdade de praticar o ato subsequente, no caso a interposição de embargos
+infringentes, sob pena de operar o trânsito em julgado – este, no caso, o ônus da
+não interposição do recurso. Como a intimação ocorreu na vigência do Código de
+1973, a faculdade é para praticar o ato segundo a lei desse momento, ou seja, da
+intimação. Esta, no caso, é o marco, o divisor de águas. Pouco importa que o
+prazo tenha transcorrido quase integralmente na vigência da lei nova. Se a
+intimação se deu na vigência da lei velha, será ela que vai regular integralmente a
+prática do novo ato do processo – o que inclui o cabimento, a forma e o modo de
+contagem do prazo.
+Pode ocorrer de o ato – a sentença, no nosso exemplo – ser proferido na
+vigência da lei anterior, mas a intimação somente ser levada a efeito na vigência
+da lei nova. Aqui, mais uma vez, repete-se o que já foi dito. É a intimação que
+marca o início temporal para o exercício da faculdade de praticar o ato
+subsequente segundo a lei desse tempo (da intimação). Nesse caso, o ato deve
+seguir a lei nova e ser praticado no prazo estabelecido nessa lei.
+O marco da intimação para determinar se aplica uma ou outra regra torna a
+travessia mais precisa e segura. No entanto, doutrina e jurisprudência, levando em
+conta a instrumentalidade das formas e o dever de cooperação que deve presidir
+as relações entre o juiz e as partes, têm sido mais benevolentes com relação às
+formas e aos prazos, o que acarreta mais insegurança com relação ao direito
+intertemporal.
+Segundo essa linha interpretativa, caso a lei nova tenha ampliado o prazo
+para a prática de um ato processual – é o que ocorrerá na vigência do CPC/2015,
+em razão de a contagem de prazos ser em dias úteis –, ainda que a parte tenha
+sido intimada na vigência da lei velha, deverá prevalecer a norma que conceder
+maior prazo, seja na lei revogada ou na lei que está a entrar em vigor. A
+justificativa é que as partes não podem ser prejudicadas por uma eventual redução
+no prazo para a prática de determinado ato processual, porquanto adquiriram o
+direito de praticá-lo em prazo maior. Exemplificando: o novo Código
+uniformizou e ampliou os prazos recursais,
+15
+ uma vez que eles serão computados
+somente em dias úteis. Pergunta-se: se a parte foi intimada da sentença no dia
+15.03.2016, portanto na vigência do código revogado, qual será o prazo para
+recorrer? Quinze dias corridos ou dias úteis?
+[/PAGINA 39]
+
+[PAGINA 40]
+Na hipótese de ampliação do prazo processual, como não há prejuízo para os
+66
+
+litigantes, deve ser observado o prazo estabelecido na lei nova (vigente no
+momento da prática do ato), desde que ele ainda esteja em curso. Nesse ponto
+vale lembrar a lição de Pontes de Miranda, que justifica a aplicação do novo prazo
+(maior) por entender que não existe violação quando se estende, no tempo, a
+eficácia de um direito.
+16
+ O direito de praticar o ato subsequente – diz-se faculdade
+– começou a ter eficácia com a intimação, mas a abalizada doutrina ponteana
+autoriza a praticar o ato no maior prazo, ainda que a intimação tenha se dado na
+vigência da lei antiga e esta estabeleça prazo mais exíguo. Essa possibilidade de
+praticar o ato no maior prazo ou segundo uma ou outra forma somente é conferida
+no período de transição, isto é, o prazo se iniciou na vigência da lei revogada e se
+estendeu até o início da vigência da lei nova. Se o prazo se inicia e expira na
+vigência da lei revogada, segundo as regras dela (da lei revogada) deve-se praticar
+o ato. O mesmo se passa quando o prazo se inicia já na vigência da lei nova,
+hipótese em que o ato deve ser integralmente praticado segundo as regras em
+vigor.
+A mesma orientação ministrada quanto aos prazos vale para a forma dos atos
+processuais. Exemplo. A lei vigente no marco inicial do prazo para a contestação
+(art. 335) regulará a prática desse ato. Se o início do prazo foi marcado na
+vigência da lei revogada, a rigor, o réu, se for o caso, teria que apresentar exceção
+de incompetência, impugnar em apartado o valor da causa e os benefícios da
+assistência judiciária e apresentar a reconvenção em peça distinta. Ao revés, se o
+marco temporal do prazo ocorreu na vigência da nova lei, não só o prazo como a
+forma de apresentação da resposta deve obedecer a essa regra, o que equivale
+dizer que a contestação poderá conter as exceções e impugnações mencionadas,
+bem como a reconvenção.
+Entretanto, apesar de toda essa fundamentação, meu conselho é que você
+opte sempre pela forma mais penosa e rápida. Leve sempr e em conta a lei
+vigente no momento do marco inicial da contagem do prazo.
+17
+ Se o seu
+cliente foi citado (e o mandado foi juntado aos autos) um dia antes da entrada em
+vigor do novo Código, opte pelo prazo contínuo de quinze dias para recorrer e
+adote as fórmulas mais complexas – impugnação e reconvenção em separado.
+Nem mesmo o mais severo julgador deixará de reconhecer o seu esforço e, em
+homenagem à instrumentalidade das formas, admitir o ato praticado, ainda que
+ostente diverso entendimento.
+ 
+CPC/2015CPC/1973
+Art. 15. Na ausência de normas que regulem
+Não há correspondência.
+67
+
+processos eleitorais, trabalhistas ou
+administrativos, as disposições deste Código
+lhes serão aplicadas supletiva e
+subsidiariamente.
+COMENTÁRIOS:
+Aplicação supletiva e subsidiária da lei processual civil. O dispositivo
+reitera a já reconhecida função integrativa das normas de direito processual civil.
+Um exemplo de norma que complementa
+[/PAGINA 40]
+
+[PAGINA 41]
+o disposto no artigo em comento é o art.
+769
+18
+ da CLT.
+Sobre esse dispositivo, esclarecem Teresa Arruda Alvim Wambier, Maria
+Lúcia Lins Conceição, Leonardo Ferres da Silva Ribeiro e Rogério Licastro
+Torres de Mello:
+19
+O legislador disse menos do que queria. Não se trata somente de aplicar as
+normas processuais aos processos administrativos, trabalhistas e eleitorais
+quando não houver normas, nestes ramos do direito, que resolvam a situação.
+A aplicação subsidiária ocorre também em situações nas quais não há
+omissão. Trata-se, como sugere a expressão “subsidiária”, de uma
+possibilidade de enriquecimento, de leitura de um dispositivo sob outro viés,
+de extrair-se da norma processual eleitoral, trabalhista ou administrativa um
+sentido diferente, iluminado pelos princípios fundamentais do processo civil.
+A aplicação supletiva é que supõe omissão. Aliás, o legislador, deixando de
+lado a preocupação com a própria expressão, precisão da linguagem, serve-se
+das duas expressões. Não deve ter suposto que significam a mesma coisa, se
+não, não teria usado as duas. Mas como empregou também a mais rica, mais
+abrangente, deve o intérprete entender que é disso que se trata.
+O leitor irá notar que o dispositivo não trata do processual penal. Apesar
+disso, em razão do disposto no art. 3º do Código de Processo Penal (CPP),
+20
+ a
+aplicação subsidiária da lei processual civil continua a ser admitida.
+68
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+_______________
+Em julgado do Supremo Tribunal Federal, proferido sob a sistemática da repercussão
+geral  (RE  631.240/MG, julgado em 27.08.2014), ficou decidido que, em regra, o
+segurado/dependente somente pode propor a ação pleiteando a concessão do benefício
+previdenciário se anteriormente formulou requerimento administrativo e este foi
+negado. A exceção ocorre quando se pleiteia a revisão do benefício, hipótese na qual
+não se exige o prévio requerimento administrativo. Ressalte-se que esse entendimento
+da Suprema Corte não exige o exaurimento da via administrativa, apenas que o
+instituto de previdência tenha se negado a fornecer o benefício pleiteado.
+DUARTE, Zulmar; DELLORE, Luiz; GAJARDONI, Fernando; ROQUE, André
+Vasconcelos. Teoria geral do processo: comentários ao CPC de 2015 – Parte Geral.
+São Paulo: Forense, 2015, p. 14.
+“A todos, no âmbito judicial e administrativo são assegurados a razoável duração do
+processo e os meios que garantam a celeridade de sua tramitação.” Texto introduzido
+pela Emenda Constitucional n
+o
+ 45/2004.
+“Toda pessoa tem o direito a ser ouvida com as devidas garantias e dentro de um prazo
+razoável, por um juiz ou tribunal competente, independente e imparcial, estabelecido
+anteriormente por lei, na apuração de qualquer acusação penal formulada contra ela,
+ou para que se determinem os seus direitos ou obrigações de natureza civil, trabalhista,
+fiscal ou de qualquer outra natureza.”
+“Nos termos do inciso LXXVIII do art. 5º da Constituição Federal, considera-se
+duração razoável do processo que possa resultar em perda
+[/PAGINA 41]
+
+[PAGINA 42]
+de mandato eletivo o período
+máximo de 1 (um) ano, contado da sua apresentação à Justiça Eleitoral.”
+São sujeitos do processo: as partes, o juiz, o advogado, o defensor público, o membro
+do Ministério Público, o perito etc.
+GRASSI, Lúcio. Cognição processual civil: atividade dialética e cooperação
+intersubjetiva na busca da verdade real. Revista Dialética de Direito Processual, São
+Paulo: Dialética, n. 6, p. 50, 2003.
+“Impõe-se observar a isonomia material, tratando igualmente os iguais e
+desigualmente os desiguais. Por conta disso, eventuais distinções no tratamento de
+indivíduos posicionados de forma diferente no plano processual, longe de ofender a
+isonomia, prestigia sua dimensão material. Exemplos significativos disso são as
+prerrogativas outorgadas à Defensoria Pública (artigo 186), para a defesa dos
+hipossuficientes financeiramente” (DUARTE, Zulmar; DELLORE, Luiz;
+GAJARDONI, Fernando; ROQUE, André Vasconcelos. Teoria geral do processo:
+comentários ao CPC de 2015 – Parte Geral. São Paulo: Forense, 2015, p. 47).
+LINDB, art. 5º: “Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se
+dirige e às exigências do bem comum.”
+69
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+GRINOVER, Ada Pellegrini. O processo constitucional em marcha: contraditório e
+ampla defesa em cem Julgados do Tribunal de Alçada Criminal de São Paulo. São
+Paulo: Max Limonad, 1985, p. 11.
+THEODORO JR., Humberto; NUNES, Dierle. Uma dimensão que urge reconhecer ao
+contraditório no direito brasileiro: sua aplicação como garantia de influência, de não
+surpresa e de aproveitamento da atividade processual. Revista de Processo, São
+Paulo: Revista dos Tribunais, v. 168, fev. 2009.
+DUARTE, Zulmar; DELLORE, Luiz; GAJARDONI, Fernando; ROQUE, André
+Vasconcelos. Teoria geral do processo: comentários ao CPC de 2015 – Parte Geral.
+São Paulo: Forense, 2015, p. 75.
+Sendo necessária a colheita de provas no exterior, por exemplo, o art. 13 da LINDB
+permite a utilização das leis processuais de outro país. Para tanto, é preciso que a
+prova a ser colhida seja admitida no direito brasileiro.
+Fala-se também em sistema de isolamento dos atos processuais, pelo qual cada ato é
+considerado isoladamente, devendo a lei nova respeitar os atos processuais já
+realizados e consumados, atingindo apenas os atos posteriores.
+Exceto os embargos de declaração, cujo prazo é de cinco dias, todos os demais prazos
+são de quinze dias.
+PONTES DE MIRANDA, Francisco Cavalcanti. Comentários ao Código de
+Processo Civil. Rio de Janeiro: Forense, 1978. t. XVII, p. 40-46.
+Esse é o entendimento dos doutrinadores do Fórum Permanente de Processualistas
+Civis: “Os prazos processuais iniciados antes da vigência do CPC serão integralmente
+regulados pelo regime revogado” (Enunciado nº 267).
+CLT, art. 769. “Nos casos omissos, o direito processual comum será fonte subsidiária
+do direito processual do trabalho, exceto naquilo em que for incompatível com as
+normas deste Título.”
+Primeiros comentários ao Novo Código de Processo Civil. São
+[/PAGINA 42]
+
+[PAGINA 43]
+Paulo: Revista dos
+Tribunais, 2015, p. 75.
+“A lei processual penal admitirá interpretação extensiva e aplicação analógica, bem
+como o suplemento dos princípios gerais de direito.”
+70
+
+LIVRO II
+DA FUNÇÃO JURISDICIONAL
+TÍTULO I
+DA JURISDIÇÃO E DA AÇÃO
+ 
+CPC/2015CPC/1973
+Art. 16. A jurisdição civil é exercida pelos juízes e
+pelos tribunais em todo o território nacional,
+conforme as disposições deste Código.
+Art. 1º A jurisdição civil, contenciosa e voluntária,
+ é
+exercida pelos juízes, em todo o território nacional,
+conforme as disposições que este Código
+estabelece.
+COMENTÁRIOS:
+Jurisdição contenciosa e jurisdição volunt ária. O Código de 1973, em seu
+art. 1º, admite expressamente duas espécies de jurisdição: contenciosa e
+voluntária. O novo CPC não repete essa dicotomia.
+Uma leitura apressada do art. 16 poderia levar o intérprete a pensar que o
+CPC de 2015 aboliu essa peculiar modalidade da função jurisdicional, mas não é
+bem assim. Com algumas modificações, os procedimentos especiais de jurisdição
+voluntária continuam regulados no novo Código. Integram o Capítulo XV do
+Título III (Dos Procedimentos Especiais) do Livro I da Parte Especial (Do
+Processo de Conhecimento e do Cumprimento de Sentença). Os procedimentos de
+jurisdição voluntária encontram-se disciplinados nos arts. 719 a 770. Há pedidos
+que se processarão segundo um procedimento comum ou padrão (art. 725) e
+muitos outros para os quais há procedimentos típicos ou nominados (a partir do
+art. 726).
+A não referência, no art. 16, à dicotomia entre jurisdição voluntária x
+71
+
+jurisdição contenciosa tem a finalidade de mostrar que tanto os procedimentos de
+jurisdição contenciosa quanto os de jurisdição voluntária são jurisdicionais.
+A corrente dita clássica ou administrativista, capitaneada por Chiovenda,
+sustenta que a chamada jurisdição voluntária não constitui, na verdade, jurisdição,
+tratando-se de atividade eminentemente administrativa. No Brasil, o maior
+defensor dessa orientação foi Frederico Marques, para quem a jurisdição
+voluntária é materialmente administrativa e subjetivamente judiciária.
+21
+ Em
+síntese, nessa atividade o Estado-juízo se limita a integrar ou fiscalizar a
+manifestação de vontade dos particulares, agindo como administrador público de
+interesses privados. Não há composição de lide. E se não há lide, não há por que
+falar em jurisdição nem em partes, mas em interessados.
+Sustentam também que falta à jurisdição voluntária a característica da
+substitutividade, haja vista que o Poder Judiciário não substitui a vontade das
+partes, mas se junta aos interessados para integrar, dar eficácia a certo negócio
+jurídico. Por fim, concluem que, se não há lide nem jurisdição, as decisões não
+formam coisa julgada material. Para corroborar esse ponto de vista, invocam o
+art. 1.111 do CPC/1973, segundo o qual “a sentença poderá ser modificada, sem
+prejuízo dos efeitos já produzidos, se ocorrerem circunstâncias supervenientes”.
+Há, por outro lado, uma corrente que atribui à jurisdição vo
+[/PAGINA 43]
+
+[PAGINA 44]
+luntária a
+natureza de atividade jurisdicional. Essa orientação conta com a adesão de
+Calmon de Passos, Ovídio Baptista e Leonardo Greco. Segundo essa corrente –
+denominada jurisdicionalista –, não se afigura correta a afirmação de que não há
+lide na jurisdição voluntária. Com efeito, o fato de, em um primeiro momento,
+inexistir conflito de interesses não retira dos procedimentos de jurisdição
+voluntária a potencialidade de se criarem litígios no curso da demanda. Em outras
+palavras, a lide não é pressuposta, não vem narrada desde logo na inicial, mas
+nada impede que as partes se controvertam.
+Os defensores da corrente jurisdicionalista também advertem, de forma
+absolutamente correta, que não se pode falar em inexistência de partes nos
+procedimentos de jurisdição voluntária. A bem da verdade, no sentido material do
+vocábulo, parte não há, porquanto não existe conflito de interesses, ao menos em
+um primeiro momento. Entretanto, considerando a acepção processual do termo,
+não há como negar a existência de sujeitos parciais na relação jurídico-processual.
+Reforçando a tese de que a jurisdição voluntária tem natureza de função
+jurisdicional, Leonardo Greco esclarece que ela não se resume a solucionar
+litígios, mas também a tutelar interesses dos particulares, ainda que não haja
+litígio, desde que tal tarefa seja exercida por órgãos investidos das garantias
+72
+
+necessárias para exercer referida tutela com impessoalidade e independência.
+22
+Nesse ponto, com razão o eminente jurista. É que a função jurisdicional é, por
+definição, a função de dizer o direito por terceiro imparcial, o que abrange a tutela
+de interesses particulares sem qualquer carga de litigiosidade.
+Em suma, para a corrente jurisdicionalista, a jurisdição voluntária reveste-se
+de feição jurisdicional, pois: (a) a existência de lide não é fator determinante da
+sua natureza; (b) existem partes, no sentido processual do termo; (c) o Estado age
+como terceiro imparcial; (d) há coisa julgada.
+O novo CPC trilhou o caminho da corrente jurisdicionalista e “vitaminou” os
+procedimentos de jurisdição voluntária com a imutabilidade da coisa julgada. A
+não repetição do texto do art. 1.111 do CPC/1973 é proposital. A sentença não
+poderá ser modificada, o que, obviamente, não impede a propositura de nova
+demanda, com base em outro fundamento. A corrente administrativista está,
+portanto, superada.
+Essa constatação é corroborada pelo professor Fredie Didier, para quem, “se
+até mesmo decisões que não examinam o mérito se tornam indiscutíveis (art. 486,
+§ 1º), muito mais razão haveria para que decisões de mérito proferidas em sede de
+jurisdição voluntária também se tornassem indiscutíveis pela coisa julgada
+material”.
+23
+ 
+CPC/2015CPC/1973
+Art. 17. Para postular em juízo é necessário ter
+interesse e legitimidade.
+Art. 3º Para propor ou contestar ação é necessário
+ter interesse e legitimidade.
+COMENTÁRIOS:
+Extinção da categoria “condições da ação”. Segundo a concepção eclética,
+conquanto abstrato o direito
+[/PAGINA 44]
+
+[PAGINA 45]
+à ação, porque consiste no direito público subjetivo
+de invocar a tutela jurisdicional do Estado, sem qualquer preocupação quanto ao
+resultado, seu manejo ou nascimento pressupõe o preenchimento de certas
+condições, denominadas “condições da ação”, sem as quais o Estado se exime de
+prestar a tutela jurídica reclamada, isto é, extingue o processo sem resolução do
+mérito.
+O CPC de 1973 consagrou expressamente essa categoria no art. 267, VI, o
+qual autorizava a extinção do processo, sem resolução do mérito, quando não
+concorresse qualquer das seguintes condições da ação: possibilidade jurídica do
+73
+
+pedido, legitimidade das partes e interesse processual.
+No novo Código, entretanto, não há mais a referência à “possibilidade
+jurídica do pedido” como hipótese geradora da extinção do processo sem
+resolução do mérito, seja quando enquadrada como condição da ação ou como
+causa para o indeferimento da petição inicial. É que o CPC de 1973 também
+contemplava a possibilidade jurídica do pedido como uma das causas que
+geravam a inépcia da petição inicial e, consequentemente, o seu indeferimento
+(art. 295, parágrafo único, III, do CPC/1973). Essa causa de inépcia já era
+bastante discutida na doutrina, já que muitos estudiosos, inclusive Enrico Tulio
+Liebman,
+24
+ entendiam-na como causa que, se inexistente, levava à improcedência
+da pretensão deduzida em juízo. De acordo com a nova sistemática, consagra-se o
+entendimento de que a possibilidade jurídica do pedido é causa para resolução do
+mérito da demanda, e não simplesmente de sua inadmissibilidade.
+Com relação às outras “condições” – que no CPC/2015 devem ser tratadas
+como “pressupostos” –, o texto do novo art. 17 estabelece que “para postular em
+juízo é necessário interesse e legitimidade”. O art. 485, VI, por sua vez, prescreve
+que a ausência de qualquer dos dois requisitos, passíveis de serem conhecidos de
+ofício pelo magistrado, permite a extinção do processo sem resolução do mérito.
+Como se pode perceber, o Código não utiliza mais o termo “condições da ação”.
+A doutrina processual italiana já havia proposto o estudo em conjunto das
+condições da ação e dos pressupostos processuais, notadamente porque ambos
+deveriam ser considerados requisitos necessários para validar a relação processual
+em seu todo e para se chegar a uma decisão de mérito.
+Na essência, entretanto, tudo continua como antes. Apenas a possibilidade
+jurídica do pedido ganhou um upgrade. Deixou de ser uma mera condição da ação
+e passou a integrar o mérito. Ser ou não possível um direito, na perspectiva da
+pretensão formulada, é matéria que diz respeito ao mérito e como tal deve ser
+apreciada pelo juiz. Com referência ao interesse de agir e à legitimidade para a
+causa, estes continuam firmes e fortes como questões que devem anteceder o
+exame do mérito. Apenas perderam o cognome de “condições da ação”. Não se
+pode negar, contudo, que, com a supressão da “possibilidade jurídica do pedido”
+e também do sintomático abandono da terminologia “condiçõ
+[/PAGINA 45]
+
+[PAGINA 46]
+es da ação”, o novo
+Código afasta-se da teoria eclética, consagrando de vez a teoria abstrata do direito
+de ação.
+ 
+CPC/2015CPC/1973
+74
+
+Art. 18. Ninguém poderá pleitear direito alheio em
+nome próprio, salvo quando autorizado pelo
+ordenamento jurídico.
+Parágrafo único. Havendo substituição
+processual, o substituído poderá intervir
+como assistente litisconsorcial.
+Art. 6º Ninguém poderá pleitear, em nome
+próprio, direito alheio, salvo quando autorizado
+por lei.
+COMENTÁRIOS:
+Substituição processual. O artigo em comento repete a regra constante do
+art. 6º do CPC/1973, que possibilita a legitimação extraordinária (substituição
+processual) sempre que o ordenamento jurídico permitir que um terceiro defenda
+interesse alheio em nome próprio.
+O substituto intervém no processo na condição de assistente litisconsorcial
+(art. 124 do CPC/2015). Exemplo: o autor aliena ou cede o objeto litigioso.
+Nesse caso, para a preservação da legitimidade ordinária é de se admitir que o
+adquirente ou cessionário suceda a parte originária. Contudo, pode ocorrer de não
+haver essa sucessão, seja porque o adquirente não requereu a sucessão, seja
+porque a parte contrária com ela não aquiesceu. Nessa última hipótese, o autor
+originário continuará figurando no processo, embora não mais seja titular do
+direito material controvertido. Ele atuará como substituto processual, ou seja,
+atuará em nome próprio, defendendo interesse alheio (do adquirente). A sentença
+que vier a ser proferida no processo terá influência direta sobre o direito material
+de que o adquirente (substituído) afirma ser titular.
+No CPC/1973, apesar de não haver previsão expressa, já se entendia que
+esse tipo de intervenção tinha a natureza de assistência litisconsorcial (art. 54 do
+CPC/1973).
+ 
+CPC/2015CPC/1973
+Art. 19. O interesse do autor pode limitar-se à
+declaração:
+I – da existência, da inexistência ou do modo de
+ser de uma relação jurídica;
+Art. 4º O interesse do autor pode limitar-se à
+declaração:
+I – da existência ou da inexistência de relação
+jurídica;
+75
+
+II – da autenticidade ou da falsidade de
+documento.
+II – da autenticidade ou falsidade de documento.
+COMENTÁRIOS:
+Pretensão declaratória. O dispositivo aprimora a redação do CPC/1973 ao
+possibilitar o ajuizamento de ação declaratória
+25
+ para reconhecimento “do modo
+de ser” de uma relação jurídica. O conteúdo dessa expressão corresponde aos
+elementos da relação jurídica que não são essenciais para sua existência e
+validade. Trata-se, portanto, de elementos “acidentais”, que alteram os efeitos da
+relação jurídica.
+A controvérsia com relação a tais efeitos é causa de pedir que consubstancia
+uma ação declaratória, ainda que não se alcance a discussão acerca da existência
+ou inexistência da relação jurídica em si.
+ 
+CPC/2015CPC/1973
+Art. 20. É admissível a ação meramente
+declaratória, ainda que tenha ocorrido a violação
+do direito.
+Art. 4º [...]
+Parágrafo único. É admissível a ação declaratória,
+ainda que tenha ocorrido a violação do direito.
+COMENTÁRIOS:
+A
+[/PAGINA 46]
+
+[PAGINA 47]
+ção declaratória. Afigura-se alteração apenas na técnica legislativa. A ação
+declaratória que busca reconhecer a existência de uma violação do direito deixou
+de ser considerada, na técnica redacional da lei, uma exceção à regra geral
+(declaração de existência ou inexistência de uma relação jurídica). É, validamente,
+outra hipótese que justifica a tutela declaratória.
+Ação declaratória incidental. Oportuno salientar que o novo CPC não mais
+se refere à ação declaratória incidental (art. 470 c/c art. 5º, ambos do CPC/1973).
+Conforme veremos adiante, as questões prejudiciais, desde que observado o
+contraditório e preenchidos os pressupostos do art. 503, §§ 1º e 2º, submeter-se-
+ão à coisa julgada. Não haverá, portanto, necessidade de se propor uma ação
+incidental com o objetivo de ampliar os efeitos da coisa julgada, de forma a
+alcançar também a questão prejudicial.
+76
+
+TÍTULO II
+DOS LIMITES DA JURISDIÇÃO NACIONAL E DA
+COOPERAÇÃO INTERNACIONAL
+Capítulo I
+Dos Limites da Jurisdição Nacional
+ 
+CPC/2015CPC/1973
+Art. 21. Compete à autoridade judiciária brasileira
+processar e julgar as ações em que:
+I – o réu, qualquer que seja a sua nacionalidade,
+estiver domiciliado no Brasil;
+II – no Brasil tiver de ser cumprida a obrigação;
+III – o fundamento seja fato ocorrido ou ato
+praticado no Brasil.
+Parágrafo único. Para o fim do disposto no inciso I,
+considera-se domiciliada no Brasil a pessoa jurídica
+estrangeira que nele tiver agência, filial ou
+sucursal.
+Art. 88. É competente a autoridade judiciária
+brasileira quando:
+I – o réu, qualquer que seja a sua nacionalidade,
+estiver domiciliado no Brasil;
+II – no Brasil tiver de ser cumprida a obrigação;
+III – a ação se originar de fato ocorrido ou de fato
+praticado no Brasil.
+Parágrafo único. Para o fim do disposto no nº I,
+reputa-se domiciliada no Brasil a pessoa jurídica
+estrangeira que aqui tiver agência, filial ou
+sucursal.
+COMENTÁRIOS:
+Limites da jurisdição brasileira. Nos casos dos arts. 21 e 22, a
+competência da justiça brasileira é considerada concorrente porque não exclui a
+competência de outros países, cabendo ao interessado optar por propor a ação no
+Brasil ou em país igualmente competente, ou mesmo em ambos os lugares ao
+mesmo tempo, uma vez que o ajuizamento de ação perante tribunal estrangeiro
+“não induz litispendência e não obsta a que a autoridade judiciária brasileira
+conheça da mesma causa e das que lhe são conexas, ressalvadas as disposições
+em contrário de tratados internacionais e acordos bilaterais em vigor no Brasil”
+77
+
+(art. 24). Caso opte por demandar em outro país, a sentença estrangeira só
+produzirá efeitos no Brasil quando homologada pelo Superior Tribunal de Justiça,
+nos termos do art. 105, I, i, da Constituição Federal e do art. 961, caput, do
+CPC/2015.
+26
+As três hipóteses de competência da autoridade judiciária brasileira elencadas
+no art. 21 já estavam previstas no CPC/1973.
+ 
+CPC/2015CPC/1973
+Art. 22. Compete, ainda, à autoridade
+judiciária brasileira processar e julgar as
+ações:
+I
+[/PAGINA 47]
+
+[PAGINA 48]
+– de alimentos, quando:
+a) o credor tiver domicílio ou residência no
+Brasil;
+b) o réu mantiver vínculos no Brasil, tais
+como posse ou propriedade de bens,
+recebimento de renda ou obtenção de
+benefícios econômicos;
+II – decorrentes de relações de consumo,
+quando o consumidor tiver domicílio ou
+residência no Brasil;
+III – em que as partes, expressa ou
+tacitamente, se submeterem à jurisdição
+nacional.
+Não há correspondência.
+COMENTÁRIOS:
+Jurisdição corrente. O artigo em comento traz novas hipóteses de
+competência concorrente da autoridade jurisdicional brasileira. Na verdade,
+algumas das regras contidas nesse dispositivo são novidades apenas para o texto
+do Código de Processo Civil, porquanto já estavam dispostas em nosso
+ordenamento.
+78
+
+Ação de alimentos. O Brasil já havia ratificado a Convenção Interamericana
+sobre Obrigação Alimentar,
+27
+ a qual dispõe, em seu art. 8º, que a competência
+para conhecer das reclamações de alimentos pode ser, a critério do credor: (a) do
+juiz ou autoridade do Estado de domicílio ou residência habitual do credor; (b) do
+juiz ou autoridade do Estado de domicílio ou residência habitual do devedor; ou
+(c) do juiz ou autoridade do Estado com o qual o devedor mantiver vínculos
+pessoais, tais como posse de bens, recebimento de renda ou obtenção de
+benefícios econômicos.
+A positivação dessa regra na lei processual civil demonstra a preocupação do
+legislador em tornar mais efetivas as disposições relativas ao tema, possibilitando
+ao alimentando escolher demandar em local que melhor atenda às suas
+necessidades.
+Relações de consumo. Para facilitar a defesa dos direitos dos consumidores,
+o Código de Defesa do Consumidor contempla regra segundo a qual as ações de
+responsabilidade do fornecedor de produtos ou serviços podem ser propostas no
+domicílio do autor (art. 101, I, do CDC), o que não afasta a possibilidade de o
+consumidor optar pelo foro de eleição contratual, se este lhe for mais benéfico.
+28
+A regra estampada no CPC/2015 pode parecer uma repetição do que já se
+encontra positivado na norma consumerista, entretanto, o que a nova legislação
+fez foi reforçar a ideia de que os consumidores residentes ou domiciliados no
+Brasil, mas que não estão no território nacional no momento da contratação do
+produto ou serviço, ainda assim podem demandar contra o fornecedor por meio
+de ação proposta perante a justiça brasileira. Do mesmo modo, as contratações
+realizadas por intermédio de e-commerces podem ser discutidas no Brasil,
+evitando que o consumidor residente e domiciliado aqui venha a ser obrigado a se
+submeter a outro ordenamento jurídico que não lhe seja favorável.
+Eleição da jurisdição nacional. O inciso III permite a eleição da jurisdição
+brasileira em contratos internacionais. Nos tribunais brasileiros é vacilante a
+jurisprudência sobre a validade de cláusula de eleição de foro para o julgamento
+de litígios oriundos de contrato internacional,
+29
+ seja quando a cláusula de eleição
+visa atrair a jurisdição brasileira ou exclu
+[/PAGINA 48]
+
+[PAGINA 49]
+í-la. A regra agora é clara: as partes,
+expressa ou tacitamente, podem se submeter à jurisdição brasileira, como
+também, a contrario sensu, podem excluí-la. A exclusão, a propósito, é regulada
+pelo novo art. 25. Ressalvam-se, nessa hipótese, os casos de competência
+absoluta, cujas normas não podem ser derrogadas pela vontade das partes.
+ 
+CPC/2015CPC/1973
+79
+
+Art. 23. Compete à autoridade judiciária brasileira,
+com exclusão de qualquer outra:
+I – conhecer de ações relativas a imóveis situados
+no Brasil;
+II – em matéria de sucessão hereditária, proceder à
+confirmação de testamento particular, e ao
+inventário e à partilha de bens situados no Brasil,
+ainda que o autor da herança seja de nacionalidade
+estrangeira ou tenha domicílio fora do território
+nacional;
+III – em divórcio, separação judicial ou
+dissolução de união estável, proceder à
+partilha de bens situados no Brasil, ainda
+que o titular seja de nacionalidade
+estrangeira ou tenha domicílio fora do
+território nacional.
+Art. 89. Compete à autoridade judiciária brasileira,
+com exclusão de qualquer outra:
+I – conhecer de ações relativas a imóveis situados
+no Brasil;
+II – proceder a inventário e partilha de bens,
+situados no Brasil, ainda que o autor da herança
+seja estrangeiro e tenha residido fora do território
+nacional.
+COMENTÁRIOS:
+Competência exclusiva da jurisdição brasileira. Nos casos previstos nesse
+dispositivo, a sentença estrangeira não pode nem sequer ser homologada, pelo que
+não produz efeito algum no Brasil.
+30
+A alteração operada no inciso II teve por fim o aperfeiçoamento técnico,
+além de inserir nas hipóteses de competência exclusiva a confirmação de
+testamento particular (art. 737 do CPC/2015), o que já era entendimento firmado
+no âmbito doutrinário e jurisprudencial.
+O testamento particular está previsto no art. 1.876 do Código Civil. A sua
+confirmação constitui verdadeiro procedimento de jurisdição voluntária,
+porquanto tem por objetivo o reconhecimento de um direito preexistente e a
+análise da validade formal de um documento confeccionado pelo próprio testador.
+O inciso III ampliou as causas de partilha de bens situados no Brasil e, por
+conseguinte, as causas de competência exclusiva da jurisdição brasileira. De
+acordo com o dispositivo, a partilha de bens situados no Brasil, também se
+80
+
+decorrente de divórcio, separação judicial ou dissolução de união estável, será de
+competência exclusiva da jurisdição brasileira. A ação para pôr fim ao casamento
+ou à sociedade conjugal pode até ser julgada por órgão jurisdicional de outro país,
+mas a partilha dos bens competirá à jurisdição brasileira, ainda que o titular dos
+bens seja de nacionalidade estrangeira ou tenha domicílio fora do território
+nacional. A regra vem abarcar entendimento jurisprudencial já consolidado no
+Superior Tribunal de Justiça, segundo o qual não se admite a homologação de
+sentença estrangeira de divórcio quando este, além das disposições referentes ao
+casamento, contempla partilha de bens situados no Brasil.
+[/PAGINA 49]
+
+[PAGINA 50]
+31
+ 
+CPC/2015CPC/1973
+Art. 24. A ação proposta perante tribunal
+estrangeiro não induz litispendência e não obsta a
+que a autoridade judiciária brasileira conheça da
+mesma causa e das que lhe são conexas,
+ressalvadas as disposições em contrário de
+tratados internacionais e acordos bilaterais
+em vigor no Brasil.
+Parágrafo único. A pendência de causa perante
+a jurisdição brasileira não impede a
+homologação de sentença judicial
+estrangeira quando exigida para produzir
+efeitos no Brasil.
+Art. 90. A ação intentada perante tribunal
+estrangeiro não induz litispendência, nem obsta a
+que a autoridade judiciária brasileira conheça da
+mesma causa e das que lhe são conexas.
+COMENTÁRIOS:
+Ações concomitantes no Brasil e no estrangeiro. O dispositivo abarca o
+entendimento da doutrina e jurisprudência acerca do fenômeno da simultaneidade
+de ações em curso perante as justiças estrangeira e brasileira. Assentado estava e
+assim permanece: a ação proposta perante tribunal estrangeiro não induz
+litispendência. Ressalvam-se, contudo – e isso é que constitui novidade –, as
+disposições em contrário de tratados internacionais e acordos bilaterais em vigor
+no Brasil. Um exemplo é o Protocolo de Las Leñas, que tem eficácia no âmbito
+do Mercosul (art. 21).
+Homologação de sentença judicial estrangeira. Reafirma a regra contida
+81
+
+no caput, pois permite a homologação de uma decisão estrangeira mesmo quando
+existir processo pendente no Brasil. Nessa hipótese, havendo coisa julgada na
+decisão estrangeira, a ação idêntica em trâmite no Brasil deve ser extinta, sem
+resolução do mérito (art. 485, V). Ocorrendo o contrário (coisa julgada no Brasil
+e tramitação pendente na jurisdição estrangeira), obstada estará a homologação,
+por força do art. 963, IV, do CPC/2015.
+ 
+CPC/2015CPC/1973
+Art. 25. Não compete à autoridade judiciária
+brasileira o processamento e o julgamento
+da ação quando houver cláusula de eleição
+de foro exclusivo estrangeiro em contrato
+internacional, arguida pelo réu na
+contestação.
+§ 1º Não se aplica o disposto no caput às
+hipóteses de competência internacional
+exclusiva previstas neste Capítulo.
+§ 2º Aplica-se à hipótese do caput o art. 63, §§
+1º a 4º.
+Não há correspondência.
+COMENTÁRIOS:
+Cláusula de eleição de foro. No Brasil, embora já fosse permitida a escolha
+de foro nos contratos internos, ainda não havia previsão semelhante para os
+contratos internacionais. Agora, com a disposição contida no art. 25, concedeu-se
+caráter obrigatório à cláusula de eleição de foro.
+32
+ Assim, se houver no contrato
+internacional uma cláusula excluindo a jurisdição brasileira e elegendo o foro
+estrangeiro, a exclusão terá que ser respeitada pelo Poder Judiciário brasileiro.
+A inclusão dessa regra era necessária para que as partes pudessem ter certeza
+sobre o local do futuro litígio, já que, na maioria das vezes, autor e réu recorriam
+a jurisdições distintas para tentar solucionar uma mesma demanda. Prevalecem,
+agora, a autonomia da vontade e a liberdade de escolha, o que certamen
+[/PAGINA 50]
+

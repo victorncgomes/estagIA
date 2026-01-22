@@ -1,0 +1,54 @@
+{
+    "suite": "livramento",
+    "descricao": "Testes para matéria de livramento condicional",
+    "casos": [
+        {
+            "id": "liv-001",
+            "nome": "Livramento condicional - Deferimento primário",
+            "insumos": "Apenado primário com 1/3 da pena cumprida, bom comportamento, trabalho lícito assegurado. RSPE favorável.",
+            "orientacao": "Deferir livramento condicional",
+            "agrupador": "livramento",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "lapso_1_3",
+                "citacao_art83_cp"
+            ]
+        },
+        {
+            "id": "liv-002",
+            "nome": "Livramento - Indeferimento reincidente específico",
+            "insumos": "Apenado reincidente em crime doloso, requer livramento. Sem exame criminológico.",
+            "orientacao": "Indeferir - necessário exame criminológico",
+            "agrupador": "livramento",
+            "resultado_esperado": "indefere",
+            "criterios": [
+                "estrutura_completa",
+                "fundamentacao_exame_criminologico"
+            ]
+        },
+        {
+            "id": "liv-003",
+            "nome": "Livramento com condições especiais - Deferimento",
+            "insumos": "Apenado preenche requisitos objetivos e subjetivos. Tem emprego garantido. MP sugere condições.",
+            "orientacao": "Deferir com condições especiais",
+            "agrupador": "livramento",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "condicoes_livramento"
+            ]
+        }
+    ],
+    "metricas": {
+        "score_minimo": 75,
+        "estrutura_obrigatoria": [
+            "vistos",
+            "relatados",
+            "isso_posto",
+            "pri"
+        ],
+        "tamanho_minimo": 1500,
+        "tamanho_maximo": 8000
+    }
+}

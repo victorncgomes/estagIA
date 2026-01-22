@@ -1,0 +1,1786 @@
+{
+  "version": "1.0.0",
+  "dataExtracao": "2026-01-21T17:35:15.722Z",
+  "totalArquivos": 254,
+  "totalCaracteres": 1296452,
+  "arquivos": [
+    {
+      "arquivo": "Continuidade Delitiva- indefere criminoso habitual.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 4612,
+      "palavras": 716,
+      "outputFile": "decisoesvrep_Continuidade Delitiva- indefere criminoso habitual.txt"
+    },
+    {
+      "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 4346,
+      "palavras": 637,
+      "outputFile": "decisoesvrep_CORREGEDORIA - compartilhamento de provas ceme - deferimento.txt"
+    },
+    {
+      "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 4635,
+      "palavras": 663,
+      "outputFile": "decisoesvrep_CORREGEDORIA - compartilhamento de provas ceme - deferimento2.txt"
+    },
+    {
+      "arquivo": "decisao retificao data base nao usar preventiva ou progressao qd preso o apenado.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 7630,
+      "palavras": 1212,
+      "outputFile": "decisoesvrep_decisao retificao data base nao usar preventiva ou progressao qd preso o apenado.txt"
+    },
+    {
+      "arquivo": "Decisão - revoga extincao calcula limite trintenario.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2618,
+      "palavras": 433,
+      "outputFile": "decisoesvrep_Decisão - revoga extincao calcula limite trintenario.txt"
+    },
+    {
+      "arquivo": "embargos remicao (acolhe).odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 4491,
+      "palavras": 719,
+      "outputFile": "decisoesvrep_embargos remicao (acolhe).txt"
+    },
+    {
+      "arquivo": "erro material.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 8737,
+      "palavras": 1383,
+      "outputFile": "decisoesvrep_erro material.txt"
+    },
+    {
+      "arquivo": "HUGO SIMEONE pedido extinção de pena unificada.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3521,
+      "palavras": 584,
+      "outputFile": "decisoesvrep_HUGO SIMEONE pedido extinção de pena unificada.txt"
+    },
+    {
+      "arquivo": "Multa - Indefere Parcelamento (autoriza outro).odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3217,
+      "palavras": 505,
+      "outputFile": "decisoesvrep_Multa - Indefere Parcelamento (autoriza outro).txt"
+    },
+    {
+      "arquivo": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 3176,
+      "palavras": 489,
+      "outputFile": "decisoesvrep_MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.txt"
+    },
+    {
+      "arquivo": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 3100,
+      "palavras": 464,
+      "outputFile": "decisoesvrep_MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.txt"
+    },
+    {
+      "arquivo": "multa defere parcelamento.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 5459,
+      "palavras": 855,
+      "outputFile": "decisoesvrep_multa defere parcelamento.txt"
+    },
+    {
+      "arquivo": "RET - data base ultima prisao - defere.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 3615,
+      "palavras": 560,
+      "outputFile": "decisoesvrep_RET - data base ultima prisao - defere.txt"
+    },
+    {
+      "arquivo": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 4466,
+      "palavras": 675,
+      "outputFile": "decisoesvrep_RET - reconhecimento de detracao de monitoramento cautelar - indefere.txt"
+    },
+    {
+      "arquivo": "RET GEP  indefere pedido de 2_5 para resultado morte.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 9188,
+      "palavras": 1463,
+      "outputFile": "decisoesvrep_RET GEP  indefere pedido de 2_5 para resultado morte.txt"
+    },
+    {
+      "arquivo": "RET GEP -  APLICA ISOLADEMENTE a lei mais benefica 2023.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 55778,
+      "palavras": 8961,
+      "outputFile": "decisoesvrep_RET GEP -  APLICA ISOLADEMENTE a lei mais benefica 2023.txt"
+    },
+    {
+      "arquivo": "RET GEP - acordao aplica lei mais favoravel.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2937,
+      "palavras": 501,
+      "outputFile": "decisoesvrep_RET GEP - acordao aplica lei mais favoravel.txt"
+    },
+    {
+      "arquivo": "RET GEP - aplica lei mais benefica intefralmente23.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 26592,
+      "palavras": 4339,
+      "outputFile": "decisoesvrep_RET GEP - aplica lei mais benefica intefralmente23.txt"
+    },
+    {
+      "arquivo": "RET GEP - computo em dobro Curado - indefere.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1934,
+      "palavras": 320,
+      "outputFile": "decisoesvrep_RET GEP - computo em dobro Curado - indefere.txt"
+    },
+    {
+      "arquivo": "RET GEP - corrige erro material separacao delitos da pena.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3646,
+      "palavras": 645,
+      "outputFile": "decisoesvrep_RET GEP - corrige erro material separacao delitos da pena.txt"
+    },
+    {
+      "arquivo": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 23700,
+      "palavras": 3898,
+      "outputFile": "decisoesvrep_RET GEP - corrige erro na analise da progressao de regimeNOVO.txt"
+    },
+    {
+      "arquivo": "RET GEP - corrige erro no marco temporal hediondo art 76 cp.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1240,
+      "palavras": 219,
+      "outputFile": "decisoesvrep_RET GEP - corrige erro no marco temporal hediondo art 76 cp.txt"
+    },
+    {
+      "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 37919,
+      "palavras": 5922,
+      "outputFile": "decisoesvrep_RET GEP - corrige fraçoes distintas analise progressao.txt"
+    },
+    {
+      "arquivo": "RET GEP - crime praticado antes da lei de crimes hediondos nao reincidente.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3458,
+      "palavras": 524,
+      "outputFile": "decisoesvrep_RET GEP - crime praticado antes da lei de crimes hediondos nao reincidente.txt"
+    },
+    {
+      "arquivo": "RET GEP - defere data base ultima prisao.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2325,
+      "palavras": 379,
+      "outputFile": "decisoesvrep_RET GEP - defere data base ultima prisao.txt"
+    },
+    {
+      "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 2033,
+      "palavras": 329,
+      "outputFile": "decisoesvrep_ret gep - defere detracao por outro crime posterior.txt"
+    },
+    {
+      "arquivo": "RET GEP - defere fração 1_8 mulher.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1535,
+      "palavras": 259,
+      "outputFile": "decisoesvrep_RET GEP - defere fração 1_8 mulher.txt"
+    },
+    {
+      "arquivo": "RET GEP - defere novo calculo para data base progressao do aberto.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2197,
+      "palavras": 374,
+      "outputFile": "decisoesvrep_RET GEP - defere novo calculo para data base progressao do aberto.txt"
+    },
+    {
+      "arquivo": "Ret Gep - Deferir cumprimento de acordao.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2131,
+      "palavras": 351,
+      "outputFile": "decisoesvrep_Ret Gep - Deferir cumprimento de acordao.txt"
+    },
+    {
+      "arquivo": "RET GEP - desclassificacao 28 lei 11343 improcedente.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 6781,
+      "palavras": 1079,
+      "outputFile": "decisoesvrep_RET GEP - desclassificacao 28 lei 11343 improcedente.txt"
+    },
+    {
+      "arquivo": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 3775,
+      "palavras": 593,
+      "outputFile": "decisoesvrep_RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.txt"
+    },
+    {
+      "arquivo": "RET GEP - indefere detracao quando a data da prisao eh a data-base.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 6696,
+      "palavras": 1116,
+      "outputFile": "decisoesvrep_RET GEP - indefere detracao quando a data da prisao eh a data-base.txt"
+    },
+    {
+      "arquivo": "RET GEP - indefere extinção limitação trintenaria.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2924,
+      "palavras": 489,
+      "outputFile": "decisoesvrep_RET GEP - indefere extinção limitação trintenaria.txt"
+    },
+    {
+      "arquivo": "RET GEP - INDEFERE PEDIDO DE FRACOES DIVERSAS.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 9980,
+      "palavras": 1572,
+      "outputFile": "decisoesvrep_RET GEP - INDEFERE PEDIDO DE FRACOES DIVERSAS.txt"
+    },
+    {
+      "arquivo": "RET GEP - Indefere pedido de roubo nao ser hediondo.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2932,
+      "palavras": 451,
+      "outputFile": "decisoesvrep_RET GEP - Indefere pedido de roubo nao ser hediondo.txt"
+    },
+    {
+      "arquivo": "ret gep - indefere regressao para o semiaberto.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1705,
+      "palavras": 276,
+      "outputFile": "decisoesvrep_ret gep - indefere regressao para o semiaberto.txt"
+    },
+    {
+      "arquivo": "RET GEP - MANTEM 3_5 reincidente especifico.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1375,
+      "palavras": 215,
+      "outputFile": "decisoesvrep_RET GEP - MANTEM 3_5 reincidente especifico.txt"
+    },
+    {
+      "arquivo": "RET GEP - mantem artigo 35 11343_06 2_3.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1334,
+      "palavras": 221,
+      "outputFile": "decisoesvrep_RET GEP - mantem artigo 35 11343_06 2_3.txt"
+    },
+    {
+      "arquivo": "RET GEP - monitoramento cautelar como detracao indefere.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 5955,
+      "palavras": 891,
+      "outputFile": "decisoesvrep_RET GEP - monitoramento cautelar como detracao indefere.txt"
+    },
+    {
+      "arquivo": "RET GEP - pedido de detracao - indefere ja feita na gep.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 6666,
+      "palavras": 1099,
+      "outputFile": "decisoesvrep_RET GEP - pedido de detracao - indefere ja feita na gep.txt"
+    },
+    {
+      "arquivo": "RET GEP - pedido generico.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 2104,
+      "palavras": 311,
+      "outputFile": "decisoesvrep_RET GEP - pedido generico.txt"
+    },
+    {
+      "arquivo": "RET GEP - pedido generico2.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 3183,
+      "palavras": 497,
+      "outputFile": "decisoesvrep_RET GEP - pedido generico2.txt"
+    },
+    {
+      "arquivo": "RET GEP - RENCIDENCIA condição penal mesmo sentença primario .odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3927,
+      "palavras": 605,
+      "outputFile": "decisoesvrep_RET GEP - RENCIDENCIA condição penal mesmo sentença primario .txt"
+    },
+    {
+      "arquivo": "ret gep - retificacao de erro material.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 26325,
+      "palavras": 4310,
+      "outputFile": "decisoesvrep_ret gep - retificacao de erro material.txt"
+    },
+    {
+      "arquivo": "RET GEP data base pos alvara prisao provisoria.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 16287,
+      "palavras": 2651,
+      "outputFile": "decisoesvrep_RET GEP data base pos alvara prisao provisoria.txt"
+    },
+    {
+      "arquivo": "RET GEP defere 40_ converte pena e unifica.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 5979,
+      "palavras": 970,
+      "outputFile": "decisoesvrep_RET GEP defere 40_ converte pena e unifica.txt"
+    },
+    {
+      "arquivo": "RET GEP despacho monitoramento medida cautelar.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 917,
+      "palavras": 147,
+      "outputFile": "decisoesvrep_RET GEP despacho monitoramento medida cautelar.txt"
+    },
+    {
+      "arquivo": "RET GEP indefe pedido ausencia de interesse processual.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1412,
+      "palavras": 227,
+      "outputFile": "decisoesvrep_RET GEP indefe pedido ausencia de interesse processual.txt"
+    },
+    {
+      "arquivo": "RET GEP indefere trafico de drogas como crime comum.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 5664,
+      "palavras": 907,
+      "outputFile": "decisoesvrep_RET GEP indefere trafico de drogas como crime comum.txt"
+    },
+    {
+      "arquivo": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3287,
+      "palavras": 532,
+      "outputFile": "decisoesvrep_RET GEP mantem organização crimino e art 16 como crimes hediondos.txt"
+    },
+    {
+      "arquivo": "ret gep MP pede 2_5 crime anterior a lei.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 1062,
+      "palavras": 186,
+      "outputFile": "decisoesvrep_ret gep MP pede 2_5 crime anterior a lei.txt"
+    },
+    {
+      "arquivo": "RET GEP preclusao da materia percentual nao conhece.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 7783,
+      "palavras": 1271,
+      "outputFile": "decisoesvrep_RET GEP preclusao da materia percentual nao conhece.txt"
+    },
+    {
+      "arquivo": "RET GEP reforma UNIFICACAO com erro.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 2993,
+      "palavras": 519,
+      "outputFile": "decisoesvrep_RET GEP reforma UNIFICACAO com erro.txt"
+    },
+    {
+      "arquivo": "RET GEP retifica gep lei mais benefica.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 37853,
+      "palavras": 6159,
+      "outputFile": "decisoesvrep_RET GEP retifica gep lei mais benefica.txt"
+    },
+    {
+      "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 17052,
+      "palavras": 2799,
+      "outputFile": "decisoesvrep_RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.txt"
+    },
+    {
+      "arquivo": "Ret GEP- corrige erro material art 16 armas nao hediondo.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 4015,
+      "palavras": 667,
+      "outputFile": "decisoesvrep_Ret GEP- corrige erro material art 16 armas nao hediondo.txt"
+    },
+    {
+      "arquivo": "RET GEP- indefere 40_ por ser globalmente pior pro apenado.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 16197,
+      "palavras": 2689,
+      "outputFile": "decisoesvrep_RET GEP- indefere 40_ por ser globalmente pior pro apenado.txt"
+    },
+    {
+      "arquivo": "RET REGIME INDEFERE.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 4707,
+      "palavras": 722,
+      "outputFile": "decisoesvrep_RET REGIME INDEFERE.txt"
+    },
+    {
+      "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+      "categoria": "decisoesvrep",
+      "caracteres": 5665,
+      "palavras": 998,
+      "outputFile": "decisoesvrep_Retificação da GEP - indefere - defesa se equivoca na formula da progressao.txt"
+    },
+    {
+      "arquivo": "Retificação de GEP - indefere detração - data base primeira prisão.odt",
+      "categoria": "decisoesvrep",
+      "caracteres": 3213,
+      "palavras": 526,
+      "outputFile": "decisoesvrep_Retificação de GEP - indefere detração - data base primeira prisão.txt"
+    },
+    {
+      "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+      "categoria": "indulto",
+      "caracteres": 1391,
+      "palavras": 207,
+      "outputFile": "indulto_COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.txt"
+    },
+    {
+      "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+      "categoria": "indulto",
+      "caracteres": 718,
+      "palavras": 120,
+      "outputFile": "indulto_INDULTO - DESPACHO - ERRO INEXISTENTE.txt"
+    },
+    {
+      "arquivo": "INDULTO 1989 - INDEFERE.docx",
+      "categoria": "indulto",
+      "caracteres": 4749,
+      "palavras": 739,
+      "outputFile": "indulto_INDULTO 1989 - INDEFERE.txt"
+    },
+    {
+      "arquivo": "INDULTO 2022 - CONCEDENDO.docx",
+      "categoria": "indulto",
+      "caracteres": 3666,
+      "palavras": 589,
+      "outputFile": "indulto_INDULTO 2022 - CONCEDENDO.txt"
+    },
+    {
+      "arquivo": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.docx",
+      "categoria": "indulto",
+      "caracteres": 10966,
+      "palavras": 1738,
+      "outputFile": "indulto_INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.txt"
+    },
+    {
+      "arquivo": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+      "categoria": "indulto",
+      "caracteres": 3689,
+      "palavras": 598,
+      "outputFile": "indulto_INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..txt"
+    },
+    {
+      "arquivo": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+      "categoria": "indulto",
+      "caracteres": 6252,
+      "palavras": 1025,
+      "outputFile": "indulto_INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.txt"
+    },
+    {
+      "arquivo": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.docx",
+      "categoria": "indulto",
+      "caracteres": 12084,
+      "palavras": 1974,
+      "outputFile": "indulto_INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.txt"
+    },
+    {
+      "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+      "categoria": "indulto",
+      "caracteres": 6129,
+      "palavras": 1014,
+      "outputFile": "indulto_INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.txt"
+    },
+    {
+      "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+      "categoria": "indulto",
+      "caracteres": 10407,
+      "palavras": 1589,
+      "outputFile": "indulto_INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.txt"
+    },
+    {
+      "arquivo": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.docx",
+      "categoria": "indulto",
+      "caracteres": 4924,
+      "palavras": 814,
+      "outputFile": "indulto_INDULTO MULTA - INDEFERIMENTO PARECER DO MP.txt"
+    },
+    {
+      "arquivo": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.docx",
+      "categoria": "indulto",
+      "caracteres": 13619,
+      "palavras": 2256,
+      "outputFile": "indulto_INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.txt"
+    },
+    {
+      "arquivo": "ACORDAO - REFORMA ENEM.docx",
+      "categoria": "remicao",
+      "caracteres": 801,
+      "palavras": 122,
+      "outputFile": "remicao_ACORDAO - REFORMA ENEM.txt"
+    },
+    {
+      "arquivo": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+      "categoria": "remicao",
+      "caracteres": 3196,
+      "palavras": 508,
+      "outputFile": "remicao_AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.txt"
+    },
+    {
+      "arquivo": "AGRAVO ENEM.docx",
+      "categoria": "remicao",
+      "caracteres": 2981,
+      "palavras": 450,
+      "outputFile": "remicao_AGRAVO ENEM.txt"
+    },
+    {
+      "arquivo": "ENCCEJA PARCIAL.docx",
+      "categoria": "remicao",
+      "caracteres": 7278,
+      "palavras": 1155,
+      "outputFile": "remicao_ENCCEJA PARCIAL.txt"
+    },
+    {
+      "arquivo": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+      "categoria": "remicao",
+      "caracteres": 3891,
+      "palavras": 580,
+      "outputFile": "remicao_ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.txt"
+    },
+    {
+      "arquivo": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+      "categoria": "remicao",
+      "caracteres": 5191,
+      "palavras": 825,
+      "outputFile": "remicao_ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.txt"
+    },
+    {
+      "arquivo": "ESTUDO DUPLICIDADE INDEFERE.docx",
+      "categoria": "remicao",
+      "caracteres": 5870,
+      "palavras": 889,
+      "outputFile": "remicao_ESTUDO DUPLICIDADE INDEFERE.txt"
+    },
+    {
+      "arquivo": "ESTUDO EJA - REGULAR.docx",
+      "categoria": "remicao",
+      "caracteres": 2201,
+      "palavras": 357,
+      "outputFile": "remicao_ESTUDO EJA - REGULAR.txt"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA COMPLETO.docx",
+      "categoria": "remicao",
+      "caracteres": 5132,
+      "palavras": 813,
+      "outputFile": "remicao_ESTUDO ENCCEJA COMPLETO.txt"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.docx",
+      "categoria": "remicao",
+      "caracteres": 7713,
+      "palavras": 1235,
+      "outputFile": "remicao_ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.txt"
+    },
+    {
+      "arquivo": "ESTUDO ENCCEJA PARCIAL.docx",
+      "categoria": "remicao",
+      "caracteres": 5990,
+      "palavras": 931,
+      "outputFile": "remicao_ESTUDO ENCCEJA PARCIAL.txt"
+    },
+    {
+      "arquivo": "ESTUDO ENEM INDEFERE.docx",
+      "categoria": "remicao",
+      "caracteres": 5370,
+      "palavras": 848,
+      "outputFile": "remicao_ESTUDO ENEM INDEFERE.txt"
+    },
+    {
+      "arquivo": "ESTUDO ENEM INDEFERE2.docx",
+      "categoria": "remicao",
+      "caracteres": 5691,
+      "palavras": 893,
+      "outputFile": "remicao_ESTUDO ENEM INDEFERE2.txt"
+    },
+    {
+      "arquivo": "ESTUDO ESTUDOS DIVERSOS INDEFERE.docx",
+      "categoria": "remicao",
+      "caracteres": 15861,
+      "palavras": 2494,
+      "outputFile": "remicao_ESTUDO ESTUDOS DIVERSOS INDEFERE.txt"
+    },
+    {
+      "arquivo": "ESTUDO LIMITADOR DE HORAS.docx",
+      "categoria": "remicao",
+      "caracteres": 3674,
+      "palavras": 599,
+      "outputFile": "remicao_ESTUDO LIMITADOR DE HORAS.txt"
+    },
+    {
+      "arquivo": "modelo completo remicao.docx",
+      "categoria": "remicao",
+      "caracteres": 31937,
+      "palavras": 4906,
+      "outputFile": "remicao_modelo completo remicao.txt"
+    },
+    {
+      "arquivo": "MULTA DEFERE PARCELAMENTO.docx",
+      "categoria": "remicao",
+      "caracteres": 2381,
+      "palavras": 365,
+      "outputFile": "remicao_MULTA DEFERE PARCELAMENTO.txt"
+    },
+    {
+      "arquivo": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.docx",
+      "categoria": "remicao",
+      "caracteres": 3040,
+      "palavras": 469,
+      "outputFile": "remicao_REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.txt"
+    },
+    {
+      "arquivo": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+      "categoria": "remicao",
+      "caracteres": 3781,
+      "palavras": 592,
+      "outputFile": "remicao_REMICAO LEITURA DEFERE DE ACORDO COM MP.txt"
+    },
+    {
+      "arquivo": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).docx",
+      "categoria": "remicao",
+      "caracteres": 4417,
+      "palavras": 710,
+      "outputFile": "remicao_TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).txt"
+    },
+    {
+      "arquivo": "TRABALHO.docx",
+      "categoria": "remicao",
+      "caracteres": 2092,
+      "palavras": 328,
+      "outputFile": "remicao_TRABALHO.txt"
+    },
+    {
+      "arquivo": "RET - data base 1 prisao.docx",
+      "categoria": "retificacao",
+      "caracteres": 1828,
+      "palavras": 318,
+      "outputFile": "retificacao_RET - data base 1 prisao.txt"
+    },
+    {
+      "arquivo": "RET - Feminicidio privilegiado - indefere.docx",
+      "categoria": "retificacao",
+      "caracteres": 11120,
+      "palavras": 1694,
+      "outputFile": "retificacao_RET - Feminicidio privilegiado - indefere.txt"
+    },
+    {
+      "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+      "categoria": "retificacao",
+      "caracteres": 3223,
+      "palavras": 448,
+      "outputFile": "retificacao_RET - indefere monalisa pedido sem fundamentacao.txt"
+    },
+    {
+      "arquivo": "RET - Modificacao regime prisional revisao criminal indefere.odt",
+      "categoria": "retificacao",
+      "caracteres": 4107,
+      "palavras": 640,
+      "outputFile": "retificacao_RET - Modificacao regime prisional revisao criminal indefere.txt"
+    },
+    {
+      "arquivo": "RET - pedido retificacao generico - indefere.docx",
+      "categoria": "retificacao",
+      "caracteres": 1332,
+      "palavras": 205,
+      "outputFile": "retificacao_RET - pedido retificacao generico - indefere.txt"
+    },
+    {
+      "arquivo": "RET GEP - crime hediondo resultado morte 50 porcento.odt",
+      "categoria": "retificacao",
+      "caracteres": 3597,
+      "palavras": 566,
+      "outputFile": "retificacao_RET GEP - crime hediondo resultado morte 50 porcento.txt"
+    },
+    {
+      "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+      "categoria": "retificacao",
+      "caracteres": 17052,
+      "palavras": 2799,
+      "outputFile": "retificacao_RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.txt"
+    },
+    {
+      "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+      "categoria": "retificacao",
+      "caracteres": 3323,
+      "palavras": 508,
+      "outputFile": "retificacao_retificacao de guia - indulto fracao e remicao.txt"
+    },
+    {
+      "arquivo": "ACÓRDÃO - CUMPRIMENTOS.odt",
+      "categoria": "old",
+      "caracteres": 1388,
+      "palavras": 227,
+      "outputFile": "old_ACÓRDÃO - CUMPRIMENTOS.txt"
+    },
+    {
+      "arquivo": "ADAPTAÇÃO DE REGIME PARA O INTERIOR.odt",
+      "categoria": "old",
+      "caracteres": 2458,
+      "palavras": 385,
+      "outputFile": "old_ADAPTAÇÃO DE REGIME PARA O INTERIOR.txt"
+    },
+    {
+      "arquivo": "Adequação de regime - preventiva em outro processo - mantem indeferimento.odt",
+      "categoria": "old",
+      "caracteres": 867,
+      "palavras": 124,
+      "outputFile": "old_Adequação de regime - preventiva em outro processo - mantem indeferimento.txt"
+    },
+    {
+      "arquivo": "ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.docx",
+      "categoria": "old",
+      "caracteres": 2479,
+      "palavras": 386,
+      "outputFile": "old_ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.txt"
+    },
+    {
+      "arquivo": "ADVOGADO RENUNCIOU POREM NÃO JUNTOU NOTIFICAÇÃO.docx",
+      "categoria": "old",
+      "caracteres": 691,
+      "palavras": 109,
+      "outputFile": "old_ADVOGADO RENUNCIOU POREM NÃO JUNTOU NOTIFICAÇÃO.txt"
+    },
+    {
+      "arquivo": "anotacoes progressao regional.docx",
+      "categoria": "old",
+      "caracteres": 11554,
+      "palavras": 1763,
+      "outputFile": "old_anotacoes progressao regional.txt"
+    },
+    {
+      "arquivo": "anotações progressao indeferimento.odt",
+      "categoria": "old",
+      "caracteres": 11804,
+      "palavras": 1796,
+      "outputFile": "old_anotações progressao indeferimento.txt"
+    },
+    {
+      "arquivo": "ANULAÇÃO decisão prescrição.odt",
+      "categoria": "old",
+      "caracteres": 2589,
+      "palavras": 412,
+      "outputFile": "old_ANULAÇÃO decisão prescrição.txt"
+    },
+    {
+      "arquivo": "anulação decisão unificação.odt",
+      "categoria": "old",
+      "caracteres": 1954,
+      "palavras": 318,
+      "outputFile": "old_anulação decisão unificação.txt"
+    },
+    {
+      "arquivo": "AUTORIZA TRANSFERENCIA OUTRO ESTADO.odt",
+      "categoria": "old",
+      "caracteres": 1970,
+      "palavras": 310,
+      "outputFile": "old_AUTORIZA TRANSFERENCIA OUTRO ESTADO.txt"
+    },
+    {
+      "arquivo": "autorização de viagem.odt",
+      "categoria": "old",
+      "caracteres": 4133,
+      "palavras": 647,
+      "outputFile": "old_autorização de viagem.txt"
+    },
+    {
+      "arquivo": "BUSCAR OBITO.docx",
+      "categoria": "old",
+      "caracteres": 385,
+      "palavras": 54,
+      "outputFile": "old_BUSCAR OBITO.txt"
+    },
+    {
+      "arquivo": "Certidão de LANÇAMENTO DE DADOS.odt",
+      "categoria": "old",
+      "caracteres": 2118,
+      "palavras": 328,
+      "outputFile": "old_Certidão de LANÇAMENTO DE DADOS.txt"
+    },
+    {
+      "arquivo": "CERTIDÕES.odt",
+      "categoria": "old",
+      "caracteres": 5538,
+      "palavras": 875,
+      "outputFile": "old_CERTIDÕES.txt"
+    },
+    {
+      "arquivo": "COMUNICAÇÃO ELETRÔNICA.odt",
+      "categoria": "old",
+      "caracteres": 382,
+      "palavras": 61,
+      "outputFile": "old_COMUNICAÇÃO ELETRÔNICA.txt"
+    },
+    {
+      "arquivo": "comutação requisito objetivo indeferimento.odt",
+      "categoria": "old",
+      "caracteres": 1462,
+      "palavras": 253,
+      "outputFile": "old_comutação requisito objetivo indeferimento.txt"
+    },
+    {
+      "arquivo": "comutação.odt",
+      "categoria": "old",
+      "caracteres": 1830,
+      "palavras": 303,
+      "outputFile": "old_comutação.txt"
+    },
+    {
+      "arquivo": "Continuidade Delitiva- indefere criminoso habitual.odt",
+      "categoria": "old",
+      "caracteres": 4612,
+      "palavras": 716,
+      "outputFile": "old_Continuidade Delitiva- indefere criminoso habitual.txt"
+    },
+    {
+      "arquivo": "Controle das Horas - R2 - Março 2023.docx",
+      "categoria": "old",
+      "caracteres": 2148,
+      "palavras": 173,
+      "outputFile": "old_Controle das Horas - R2 - Março 2023.txt"
+    },
+    {
+      "arquivo": "CORREÇÃO DE FRAÇÃO - DEFERINDO.docx",
+      "categoria": "old",
+      "caracteres": 28817,
+      "palavras": 4411,
+      "outputFile": "old_CORREÇÃO DE FRAÇÃO - DEFERINDO.txt"
+    },
+    {
+      "arquivo": "Curso SEEU.odt",
+      "categoria": "old",
+      "caracteres": 2152,
+      "palavras": 321,
+      "outputFile": "old_Curso SEEU.txt"
+    },
+    {
+      "arquivo": "Decisão - Falta Grave sancao coletiva nao homologa.odt",
+      "categoria": "old",
+      "caracteres": 1905,
+      "palavras": 301,
+      "outputFile": "old_Decisão - Falta Grave sancao coletiva nao homologa.txt"
+    },
+    {
+      "arquivo": "decisão erro material.odt",
+      "categoria": "old",
+      "caracteres": 2730,
+      "palavras": 444,
+      "outputFile": "old_decisão erro material.txt"
+    },
+    {
+      "arquivo": "decisão extinção de punibilidade por prescrição executoria.odt",
+      "categoria": "old",
+      "caracteres": 2221,
+      "palavras": 383,
+      "outputFile": "old_decisão extinção de punibilidade por prescrição executoria.txt"
+    },
+    {
+      "arquivo": "decisão reconsideração de regressão provisoria novo crime.odt",
+      "categoria": "old",
+      "caracteres": 2477,
+      "palavras": 400,
+      "outputFile": "old_decisão reconsideração de regressão provisoria novo crime.txt"
+    },
+    {
+      "arquivo": "decisão reconsideração regre prov fuga.odt",
+      "categoria": "old",
+      "caracteres": 1967,
+      "palavras": 307,
+      "outputFile": "old_decisão reconsideração regre prov fuga.txt"
+    },
+    {
+      "arquivo": "Decisão reconsideração regressão.odt",
+      "categoria": "old",
+      "caracteres": 3794,
+      "palavras": 562,
+      "outputFile": "old_Decisão reconsideração regressão.txt"
+    },
+    {
+      "arquivo": "decisão regressão nao cumpriu  a punição.odt",
+      "categoria": "old",
+      "caracteres": 3062,
+      "palavras": 458,
+      "outputFile": "old_decisão regressão nao cumpriu  a punição.txt"
+    },
+    {
+      "arquivo": "DECISÃO REMIÇÃO DEFERIDO TRABALHO, INDEFERIDO ESTUDO.odt",
+      "categoria": "old",
+      "caracteres": 2068,
+      "palavras": 340,
+      "outputFile": "old_DECISÃO REMIÇÃO DEFERIDO TRABALHO, INDEFERIDO ESTUDO.txt"
+    },
+    {
+      "arquivo": "decisão retificação da gep guia provisória indeferida.odt",
+      "categoria": "old",
+      "caracteres": 3808,
+      "palavras": 571,
+      "outputFile": "old_decisão retificação da gep guia provisória indeferida.txt"
+    },
+    {
+      "arquivo": "decisão transferencia cpjc.odt",
+      "categoria": "old",
+      "caracteres": 536,
+      "palavras": 88,
+      "outputFile": "old_decisão transferencia cpjc.txt"
+    },
+    {
+      "arquivo": "decisão transferencia regime fechado.odt",
+      "categoria": "old",
+      "caracteres": 817,
+      "palavras": 119,
+      "outputFile": "old_decisão transferencia regime fechado.txt"
+    },
+    {
+      "arquivo": "declinio de ceara mirim p regional.docx",
+      "categoria": "old",
+      "caracteres": 2662,
+      "palavras": 414,
+      "outputFile": "old_declinio de ceara mirim p regional.txt"
+    },
+    {
+      "arquivo": "DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.docx",
+      "categoria": "old",
+      "caracteres": 945,
+      "palavras": 146,
+      "outputFile": "old_DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.txt"
+    },
+    {
+      "arquivo": "defere pedido de prontuario medico.odt",
+      "categoria": "old",
+      "caracteres": 1880,
+      "palavras": 276,
+      "outputFile": "old_defere pedido de prontuario medico.txt"
+    },
+    {
+      "arquivo": "deixo de homologar falta grave celular.odt",
+      "categoria": "old",
+      "caracteres": 2653,
+      "palavras": 408,
+      "outputFile": "old_deixo de homologar falta grave celular.txt"
+    },
+    {
+      "arquivo": "Desclassifica art. 16 para o 12 da Lei 10.826.docx",
+      "categoria": "old",
+      "caracteres": 7453,
+      "palavras": 1296,
+      "outputFile": "old_Desclassifica art. 16 para o 12 da Lei 10.826.txt"
+    },
+    {
+      "arquivo": "desclassificao 16 para 14 com 2 processos.odt",
+      "categoria": "old",
+      "caracteres": 5428,
+      "palavras": 925,
+      "outputFile": "old_desclassificao 16 para 14 com 2 processos.txt"
+    },
+    {
+      "arquivo": "despacho certifique-se.odt",
+      "categoria": "old",
+      "caracteres": 179,
+      "palavras": 26,
+      "outputFile": "old_despacho certifique-se.txt"
+    },
+    {
+      "arquivo": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+      "categoria": "old",
+      "caracteres": 637,
+      "palavras": 99,
+      "outputFile": "old_despacho desconto de remição já feita em progressão anterior retificação gep.txt"
+    },
+    {
+      "arquivo": "despacho determinando extinção do processo e abrindo novo PEC.odt",
+      "categoria": "old",
+      "caracteres": 329,
+      "palavras": 47,
+      "outputFile": "old_despacho determinando extinção do processo e abrindo novo PEC.txt"
+    },
+    {
+      "arquivo": "despacho monitoramento.odt",
+      "categoria": "old",
+      "caracteres": 595,
+      "palavras": 88,
+      "outputFile": "old_despacho monitoramento.txt"
+    },
+    {
+      "arquivo": "despacho não tem comprovação de dolo do dano do equipamento.odt",
+      "categoria": "old",
+      "caracteres": 207,
+      "palavras": 32,
+      "outputFile": "old_despacho não tem comprovação de dolo do dano do equipamento.txt"
+    },
+    {
+      "arquivo": "despacho oficiar.odt",
+      "categoria": "old",
+      "caracteres": 273,
+      "palavras": 42,
+      "outputFile": "old_despacho oficiar.txt"
+    },
+    {
+      "arquivo": "despacho pad.odt",
+      "categoria": "old",
+      "caracteres": 434,
+      "palavras": 65,
+      "outputFile": "old_despacho pad.txt"
+    },
+    {
+      "arquivo": "despacho proravel progressão.odt",
+      "categoria": "old",
+      "caracteres": 289,
+      "palavras": 43,
+      "outputFile": "old_despacho proravel progressão.txt"
+    },
+    {
+      "arquivo": "despacho reiterando ofício.odt",
+      "categoria": "old",
+      "caracteres": 208,
+      "palavras": 32,
+      "outputFile": "old_despacho reiterando ofício.txt"
+    },
+    {
+      "arquivo": "despacho reiteração de ofício urgencia.odt",
+      "categoria": "old",
+      "caracteres": 194,
+      "palavras": 31,
+      "outputFile": "old_despacho reiteração de ofício urgencia.txt"
+    },
+    {
+      "arquivo": "despacho transferencia apenado semiaberto.odt",
+      "categoria": "old",
+      "caracteres": 165,
+      "palavras": 27,
+      "outputFile": "old_despacho transferencia apenado semiaberto.txt"
+    },
+    {
+      "arquivo": "despacho transferencia regime fechado.odt",
+      "categoria": "old",
+      "caracteres": 77,
+      "palavras": 12,
+      "outputFile": "old_despacho transferencia regime fechado.txt"
+    },
+    {
+      "arquivo": "despacho vista ao mp progressão.odt",
+      "categoria": "old",
+      "caracteres": 289,
+      "palavras": 43,
+      "outputFile": "old_despacho vista ao mp progressão.txt"
+    },
+    {
+      "arquivo": "diversos.odt",
+      "categoria": "old",
+      "caracteres": 4493,
+      "palavras": 693,
+      "outputFile": "old_diversos.txt"
+    },
+    {
+      "arquivo": "EMBARGO DE DECLRARAÇÃO conhece e nega provimento.odt",
+      "categoria": "old",
+      "caracteres": 1782,
+      "palavras": 281,
+      "outputFile": "old_EMBARGO DE DECLRARAÇÃO conhece e nega provimento.txt"
+    },
+    {
+      "arquivo": "embargo declaracao acordao lei mais benefica.odt",
+      "categoria": "old",
+      "caracteres": 2839,
+      "palavras": 463,
+      "outputFile": "old_embargo declaracao acordao lei mais benefica.txt"
+    },
+    {
+      "arquivo": "Embargo declaracao inobservancia do acordao de ret guia.odt",
+      "categoria": "old",
+      "caracteres": 753,
+      "palavras": 122,
+      "outputFile": "old_Embargo declaracao inobservancia do acordao de ret guia.txt"
+    },
+    {
+      "arquivo": "embargos e retificação.odt",
+      "categoria": "old",
+      "caracteres": 7946,
+      "palavras": 1217,
+      "outputFile": "old_embargos e retificação.txt"
+    },
+    {
+      "arquivo": "ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.odt",
+      "categoria": "old",
+      "caracteres": 1388,
+      "palavras": 225,
+      "outputFile": "old_ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.txt"
+    },
+    {
+      "arquivo": "extinção punitiva.odt",
+      "categoria": "old",
+      "caracteres": 2610,
+      "palavras": 426,
+      "outputFile": "old_extinção punitiva.txt"
+    },
+    {
+      "arquivo": "FALTA GRAVE - PAD E NOVO CRIME.odt",
+      "categoria": "old",
+      "caracteres": 3709,
+      "palavras": 576,
+      "outputFile": "old_FALTA GRAVE - PAD E NOVO CRIME.txt"
+    },
+    {
+      "arquivo": "FALTA GRAVE - PAD.odt",
+      "categoria": "old",
+      "caracteres": 3183,
+      "palavras": 487,
+      "outputFile": "old_FALTA GRAVE - PAD.txt"
+    },
+    {
+      "arquivo": "homologação e manter regimr.odt",
+      "categoria": "old",
+      "caracteres": 2870,
+      "palavras": 452,
+      "outputFile": "old_homologação e manter regimr.txt"
+    },
+    {
+      "arquivo": "homologação falta grave drogas.odt",
+      "categoria": "old",
+      "caracteres": 2228,
+      "palavras": 348,
+      "outputFile": "old_homologação falta grave drogas.txt"
+    },
+    {
+      "arquivo": "homologação falta grave fuga.odt",
+      "categoria": "old",
+      "caracteres": 3685,
+      "palavras": 561,
+      "outputFile": "old_homologação falta grave fuga.txt"
+    },
+    {
+      "arquivo": "INCOMPETENCIA , APENADO EM LIBERDADE.odt",
+      "categoria": "old",
+      "caracteres": 1172,
+      "palavras": 187,
+      "outputFile": "old_INCOMPETENCIA , APENADO EM LIBERDADE.txt"
+    },
+    {
+      "arquivo": "Indefere indulto 2013 e 2014 severino dorgival.odt",
+      "categoria": "old",
+      "caracteres": 2235,
+      "palavras": 373,
+      "outputFile": "old_Indefere indulto 2013 e 2014 severino dorgival.txt"
+    },
+    {
+      "arquivo": "indefrimento doença prisão domiciliar.odt",
+      "categoria": "old",
+      "caracteres": 2896,
+      "palavras": 440,
+      "outputFile": "old_indefrimento doença prisão domiciliar.txt"
+    },
+    {
+      "arquivo": "INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.odt",
+      "categoria": "old",
+      "caracteres": 12150,
+      "palavras": 1928,
+      "outputFile": "old_INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.txt"
+    },
+    {
+      "arquivo": "indulto indeferimento decreto 8615.odt",
+      "categoria": "old",
+      "caracteres": 1701,
+      "palavras": 288,
+      "outputFile": "old_indulto indeferimento decreto 8615.txt"
+    },
+    {
+      "arquivo": "inicial multa completo.odt",
+      "categoria": "old",
+      "caracteres": 2046,
+      "palavras": 320,
+      "outputFile": "old_inicial multa completo.txt"
+    },
+    {
+      "arquivo": "juisprudencia nova LC.odt",
+      "categoria": "old",
+      "caracteres": 3872,
+      "palavras": 595,
+      "outputFile": "old_juisprudencia nova LC.txt"
+    },
+    {
+      "arquivo": "JUSTIFICATIVA DE FALTA.odt",
+      "categoria": "old",
+      "caracteres": 9415,
+      "palavras": 1475,
+      "outputFile": "old_JUSTIFICATIVA DE FALTA.txt"
+    },
+    {
+      "arquivo": "MODELOS DE UNIFICAÇÃO.odt",
+      "categoria": "old",
+      "caracteres": 11544,
+      "palavras": 1836,
+      "outputFile": "old_MODELOS DE UNIFICAÇÃO.txt"
+    },
+    {
+      "arquivo": "MODELOS FALTA MÉDIA.odt",
+      "categoria": "old",
+      "caracteres": 2346,
+      "palavras": 357,
+      "outputFile": "old_MODELOS FALTA MÉDIA.txt"
+    },
+    {
+      "arquivo": "PEDIDO ADMINISTRATIVO - NEGANDO.docx",
+      "categoria": "old",
+      "caracteres": 3225,
+      "palavras": 489,
+      "outputFile": "old_PEDIDO ADMINISTRATIVO - NEGANDO.txt"
+    },
+    {
+      "arquivo": "pedido de escolta tratamento de suade.odt",
+      "categoria": "old",
+      "caracteres": 1146,
+      "palavras": 171,
+      "outputFile": "old_pedido de escolta tratamento de suade.txt"
+    },
+    {
+      "arquivo": "PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.docx",
+      "categoria": "old",
+      "caracteres": 4204,
+      "palavras": 660,
+      "outputFile": "old_PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.txt"
+    },
+    {
+      "arquivo": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+      "categoria": "old",
+      "caracteres": 3427,
+      "palavras": 570,
+      "outputFile": "old_Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.txt"
+    },
+    {
+      "arquivo": "PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.docx",
+      "categoria": "old",
+      "caracteres": 2811,
+      "palavras": 428,
+      "outputFile": "old_PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.txt"
+    },
+    {
+      "arquivo": "PRAZO ADAPTAÇÃO NO REGIME PARA PROGRESSÃO.odt",
+      "categoria": "old",
+      "caracteres": 2324,
+      "palavras": 367,
+      "outputFile": "old_PRAZO ADAPTAÇÃO NO REGIME PARA PROGRESSÃO.txt"
+    },
+    {
+      "arquivo": "PRECRIÇÃO - punitiva.odt",
+      "categoria": "old",
+      "caracteres": 8704,
+      "palavras": 1341,
+      "outputFile": "old_PRECRIÇÃO - punitiva.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Concurso material- Continuidade delitiva.odt",
+      "categoria": "old",
+      "caracteres": 7465,
+      "palavras": 1194,
+      "outputFile": "old_PRESCRIÇÃO - Concurso material- Continuidade delitiva.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).odt",
+      "categoria": "old",
+      "caracteres": 1715,
+      "palavras": 285,
+      "outputFile": "old_PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).odt",
+      "categoria": "old",
+      "caracteres": 5774,
+      "palavras": 918,
+      "outputFile": "old_PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Fuga - Menor de 21a - Primário.odt",
+      "categoria": "old",
+      "caracteres": 6941,
+      "palavras": 1142,
+      "outputFile": "old_PRESCRIÇÃO - Fuga - Menor de 21a - Primário.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+      "categoria": "old",
+      "caracteres": 10440,
+      "palavras": 1641,
+      "outputFile": "old_PRESCRIÇÃO - Fuga - Unificação - 6 processos.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Nunca iniciou - Medida de Segurança.odt",
+      "categoria": "old",
+      "caracteres": 4268,
+      "palavras": 671,
+      "outputFile": "old_PRESCRIÇÃO - Nunca iniciou - Medida de Segurança.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Nunca iniciou - Primário - Maior de 21a.odt",
+      "categoria": "old",
+      "caracteres": 5574,
+      "palavras": 890,
+      "outputFile": "old_PRESCRIÇÃO - Nunca iniciou - Primário - Maior de 21a.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+      "categoria": "old",
+      "caracteres": 8729,
+      "palavras": 1382,
+      "outputFile": "old_PRESCRIÇÃO - Unificação - Continuidade delitiva.txt"
+    },
+    {
+      "arquivo": "PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.odt",
+      "categoria": "old",
+      "caracteres": 16048,
+      "palavras": 2499,
+      "outputFile": "old_PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.txt"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR  - INDEFERIMENTOS.odt",
+      "categoria": "old",
+      "caracteres": 7465,
+      "palavras": 1107,
+      "outputFile": "old_PRISÃO DOMICILIAR  - INDEFERIMENTOS.txt"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - CONCEDENDO.docx",
+      "categoria": "old",
+      "caracteres": 2323,
+      "palavras": 345,
+      "outputFile": "old_PRISÃO DOMICILIAR - CONCEDENDO.txt"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.docx",
+      "categoria": "old",
+      "caracteres": 1784,
+      "palavras": 270,
+      "outputFile": "old_PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.txt"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - mãe de menores.odt",
+      "categoria": "old",
+      "caracteres": 3250,
+      "palavras": 509,
+      "outputFile": "old_PRISÃO DOMICILIAR - mãe de menores.txt"
+    },
+    {
+      "arquivo": "PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.docx",
+      "categoria": "old",
+      "caracteres": 2999,
+      "palavras": 459,
+      "outputFile": "old_PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.txt"
+    },
+    {
+      "arquivo": "prisão domiciliar reconsideração.odt",
+      "categoria": "old",
+      "caracteres": 2278,
+      "palavras": 357,
+      "outputFile": "old_prisão domiciliar reconsideração.txt"
+    },
+    {
+      "arquivo": "prisão domiciliar.odt",
+      "categoria": "old",
+      "caracteres": 4343,
+      "palavras": 661,
+      "outputFile": "old_prisão domiciliar.txt"
+    },
+    {
+      "arquivo": "Progressao - indefere - liderança facção comunicacao e periculosidade.odt",
+      "categoria": "old",
+      "caracteres": 7794,
+      "palavras": 1196,
+      "outputFile": "old_Progressao - indefere - liderança facção comunicacao e periculosidade.txt"
+    },
+    {
+      "arquivo": "progressao com DATA.odt",
+      "categoria": "old",
+      "caracteres": 3714,
+      "palavras": 554,
+      "outputFile": "old_progressao com DATA.txt"
+    },
+    {
+      "arquivo": "progressao de regime - indefere - ausencia subjetivo.odt",
+      "categoria": "old",
+      "caracteres": 8833,
+      "palavras": 1332,
+      "outputFile": "old_progressao de regime - indefere - ausencia subjetivo.txt"
+    },
+    {
+      "arquivo": "progressao de regime - indefere- acc regular ma.odt",
+      "categoria": "old",
+      "caracteres": 4126,
+      "palavras": 669,
+      "outputFile": "old_progressao de regime - indefere- acc regular ma.txt"
+    },
+    {
+      "arquivo": "progressao de regime indeferimento sem subjetivo.odt",
+      "categoria": "old",
+      "caracteres": 7513,
+      "palavras": 1131,
+      "outputFile": "old_progressao de regime indeferimento sem subjetivo.txt"
+    },
+    {
+      "arquivo": "PROGRESSAO DE REGIME SEMIABERTO- DEFERE.odt",
+      "categoria": "old",
+      "caracteres": 2741,
+      "palavras": 402,
+      "outputFile": "old_PROGRESSAO DE REGIME SEMIABERTO- DEFERE.txt"
+    },
+    {
+      "arquivo": "progressao indefere laudo criminologico.odt",
+      "categoria": "old",
+      "caracteres": 5212,
+      "palavras": 790,
+      "outputFile": "old_progressao indefere laudo criminologico.txt"
+    },
+    {
+      "arquivo": "Progressao INDEFERIMENTO periculosidade no crime.odt",
+      "categoria": "old",
+      "caracteres": 33482,
+      "palavras": 5205,
+      "outputFile": "old_Progressao INDEFERIMENTO periculosidade no crime.txt"
+    },
+    {
+      "arquivo": "progresso de regime - indefere - prisao preventiva em outro processo.odt",
+      "categoria": "old",
+      "caracteres": 5702,
+      "palavras": 851,
+      "outputFile": "old_progresso de regime - indefere - prisao preventiva em outro processo.txt"
+    },
+    {
+      "arquivo": "PROGRESSÃO - reabilitação após sanção disciplinar.odt",
+      "categoria": "old",
+      "caracteres": 4354,
+      "palavras": 671,
+      "outputFile": "old_PROGRESSÃO - reabilitação após sanção disciplinar.txt"
+    },
+    {
+      "arquivo": "RECLUSÃO + DETENÇÃO SIMPLES.docx",
+      "categoria": "old",
+      "caracteres": 4892,
+      "palavras": 767,
+      "outputFile": "old_RECLUSÃO + DETENÇÃO SIMPLES.txt"
+    },
+    {
+      "arquivo": "RECLUSÃO + RECLUSÃO SIMPLES.docx",
+      "categoria": "old",
+      "caracteres": 1854,
+      "palavras": 295,
+      "outputFile": "old_RECLUSÃO + RECLUSÃO SIMPLES.txt"
+    },
+    {
+      "arquivo": "RECONSIDERAÇÃO - Pecúlio - NEY PEREIRA.odt",
+      "categoria": "old",
+      "caracteres": 1800,
+      "palavras": 267,
+      "outputFile": "old_RECONSIDERAÇÃO - Pecúlio - NEY PEREIRA.txt"
+    },
+    {
+      "arquivo": "RECONSIDERAÇÃO - regressão provisória.odt",
+      "categoria": "old",
+      "caracteres": 2113,
+      "palavras": 320,
+      "outputFile": "old_RECONSIDERAÇÃO - regressão provisória.txt"
+    },
+    {
+      "arquivo": "RECONSIDERAÇÃO - unificação de penas (petição louca).odt",
+      "categoria": "old",
+      "caracteres": 2647,
+      "palavras": 420,
+      "outputFile": "old_RECONSIDERAÇÃO - unificação de penas (petição louca).txt"
+    },
+    {
+      "arquivo": "REFORMA DE DECISÃO ANTERIOR - ERRO MATERIAL.odt",
+      "categoria": "old",
+      "caracteres": 2508,
+      "palavras": 375,
+      "outputFile": "old_REFORMA DE DECISÃO ANTERIOR - ERRO MATERIAL.txt"
+    },
+    {
+      "arquivo": "REFORMA DE UNIFICAÇÕES.docx",
+      "categoria": "old",
+      "caracteres": 4321,
+      "palavras": 704,
+      "outputFile": "old_REFORMA DE UNIFICAÇÕES.txt"
+    },
+    {
+      "arquivo": "REGRESSAO cancelamento.odt",
+      "categoria": "old",
+      "caracteres": 1543,
+      "palavras": 230,
+      "outputFile": "old_REGRESSAO cancelamento.txt"
+    },
+    {
+      "arquivo": "REGRESSAO DEFINITIVA  rompimento e novo crime.odt",
+      "categoria": "old",
+      "caracteres": 12750,
+      "palavras": 1884,
+      "outputFile": "old_REGRESSAO DEFINITIVA  rompimento e novo crime.txt"
+    },
+    {
+      "arquivo": "REGRESSÃO CABULOSA.odt",
+      "categoria": "old",
+      "caracteres": 1264,
+      "palavras": 194,
+      "outputFile": "old_REGRESSÃO CABULOSA.txt"
+    },
+    {
+      "arquivo": "regressão indeferido - aplicação de falta media.odt",
+      "categoria": "old",
+      "caracteres": 1912,
+      "palavras": 296,
+      "outputFile": "old_regressão indeferido - aplicação de falta media.txt"
+    },
+    {
+      "arquivo": "regressão por novo crime.odt",
+      "categoria": "old",
+      "caracteres": 2389,
+      "palavras": 373,
+      "outputFile": "old_regressão por novo crime.txt"
+    },
+    {
+      "arquivo": "regressão regime fechado.odt",
+      "categoria": "old",
+      "caracteres": 3182,
+      "palavras": 505,
+      "outputFile": "old_regressão regime fechado.txt"
+    },
+    {
+      "arquivo": "Remição ENEM.odt",
+      "categoria": "old",
+      "caracteres": 11890,
+      "palavras": 1873,
+      "outputFile": "old_Remição ENEM.txt"
+    },
+    {
+      "arquivo": "remição estudo enem e ensino superior.odt",
+      "categoria": "old",
+      "caracteres": 8073,
+      "palavras": 1286,
+      "outputFile": "old_remição estudo enem e ensino superior.txt"
+    },
+    {
+      "arquivo": "remição- deferimento trabalho, indeferimento estudo.odt",
+      "categoria": "old",
+      "caracteres": 1397,
+      "palavras": 224,
+      "outputFile": "old_remição- deferimento trabalho, indeferimento estudo.txt"
+    },
+    {
+      "arquivo": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+      "categoria": "old",
+      "caracteres": 1936,
+      "palavras": 317,
+      "outputFile": "old_RET GEP mantem organização crimino e art 16 como crimes hediondos.txt"
+    },
+    {
+      "arquivo": "RETIFICADA DA GEP 1 - data-base.odt",
+      "categoria": "old",
+      "caracteres": 2668,
+      "palavras": 429,
+      "outputFile": "old_RETIFICADA DA GEP 1 - data-base.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DA GEP - indefere - estupro - hediondo.odt",
+      "categoria": "old",
+      "caracteres": 3505,
+      "palavras": 549,
+      "outputFile": "old_RETIFICAÇÃO DA GEP - indefere - estupro - hediondo.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.odt",
+      "categoria": "old",
+      "caracteres": 2467,
+      "palavras": 396,
+      "outputFile": "old_RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DA GEP - novo entendimento data-base.odt",
+      "categoria": "old",
+      "caracteres": 3725,
+      "palavras": 575,
+      "outputFile": "old_RETIFICAÇÃO DA GEP - novo entendimento data-base.txt"
+    },
+    {
+      "arquivo": "retificação da GEP 1 - 8 mãe.odt",
+      "categoria": "old",
+      "caracteres": 2103,
+      "palavras": 345,
+      "outputFile": "old_retificação da GEP 1 - 8 mãe.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.odt",
+      "categoria": "old",
+      "caracteres": 8615,
+      "palavras": 1397,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.odt",
+      "categoria": "old",
+      "caracteres": 2280,
+      "palavras": 382,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.odt",
+      "categoria": "old",
+      "caracteres": 1018,
+      "palavras": 156,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE E DETRAÇÃO - DEFERE.odt",
+      "categoria": "old",
+      "caracteres": 1045,
+      "palavras": 170,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - DATA-BASE E DETRAÇÃO - DEFERE.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+      "categoria": "old",
+      "caracteres": 1768,
+      "palavras": 295,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.txt"
+    },
+    {
+      "arquivo": "RETIFICAÇÃO DE GEP - FRAÇÃO MULHER - DEFERE - PROGRESSÃO.odt",
+      "categoria": "old",
+      "caracteres": 5701,
+      "palavras": 913,
+      "outputFile": "old_RETIFICAÇÃO DE GEP - FRAÇÃO MULHER - DEFERE - PROGRESSÃO.txt"
+    },
+    {
+      "arquivo": "retificação de guia - data base progressão e redução da pena.odt",
+      "categoria": "old",
+      "caracteres": 1731,
+      "palavras": 293,
+      "outputFile": "old_retificação de guia - data base progressão e redução da pena.txt"
+    },
+    {
+      "arquivo": "Retificação de Guia - Frações das Penas.odt",
+      "categoria": "old",
+      "caracteres": 2250,
+      "palavras": 350,
+      "outputFile": "old_Retificação de Guia - Frações das Penas.txt"
+    },
+    {
+      "arquivo": "retificação de guia - indefere cumprida a pena em prisão domiciliar.odt",
+      "categoria": "old",
+      "caracteres": 990,
+      "palavras": 160,
+      "outputFile": "old_retificação de guia - indefere cumprida a pena em prisão domiciliar.txt"
+    },
+    {
+      "arquivo": "retificação de guia 2-5 3-5.odt",
+      "categoria": "old",
+      "caracteres": 5757,
+      "palavras": 918,
+      "outputFile": "old_retificação de guia 2-5 3-5.txt"
+    },
+    {
+      "arquivo": "REVOGAÇÃO DE REGRESSÃO DECRETADA ANTES DO INÍCIO DO CUMPRIMENTO.odt",
+      "categoria": "old",
+      "caracteres": 2420,
+      "palavras": 394,
+      "outputFile": "old_REVOGAÇÃO DE REGRESSÃO DECRETADA ANTES DO INÍCIO DO CUMPRIMENTO.txt"
+    },
+    {
+      "arquivo": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.docx",
+      "categoria": "old",
+      "caracteres": 3578,
+      "palavras": 561,
+      "outputFile": "old_REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.txt"
+    },
+    {
+      "arquivo": "REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.odt",
+      "categoria": "old",
+      "caracteres": 1669,
+      "palavras": 262,
+      "outputFile": "old_REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.txt"
+    },
+    {
+      "arquivo": "REVOGAÇÃO OU REFORMA DE DECISÕES.odt",
+      "categoria": "old",
+      "caracteres": 10308,
+      "palavras": 1621,
+      "outputFile": "old_REVOGAÇÃO OU REFORMA DE DECISÕES.txt"
+    },
+    {
+      "arquivo": "revogcao progressao.odt",
+      "categoria": "old",
+      "caracteres": 1161,
+      "palavras": 187,
+      "outputFile": "old_revogcao progressao.txt"
+    },
+    {
+      "arquivo": "ROSIVANIA DA SILVA.odt",
+      "categoria": "old",
+      "caracteres": 1145,
+      "palavras": 164,
+      "outputFile": "old_ROSIVANIA DA SILVA.txt"
+    },
+    {
+      "arquivo": "TEXTOS PARA DECISÕES.docx",
+      "categoria": "old",
+      "caracteres": 2014,
+      "palavras": 312,
+      "outputFile": "old_TEXTOS PARA DECISÕES.txt"
+    },
+    {
+      "arquivo": "transferencia regime aberto.odt",
+      "categoria": "old",
+      "caracteres": 584,
+      "palavras": 100,
+      "outputFile": "old_transferencia regime aberto.txt"
+    },
+    {
+      "arquivo": "TRANSFERÊNCIAS - DESPACHOS.docx",
+      "categoria": "old",
+      "caracteres": 918,
+      "palavras": 134,
+      "outputFile": "old_TRANSFERÊNCIAS - DESPACHOS.txt"
+    },
+    {
+      "arquivo": "UNIFICADA +  RECLUSAO + RECLUSAO.docx",
+      "categoria": "old",
+      "caracteres": 2259,
+      "palavras": 358,
+      "outputFile": "old_UNIFICADA +  RECLUSAO + RECLUSAO.txt"
+    },
+    {
+      "arquivo": "UNIFICADA + RECLUSÃO + DETENÇÃO.docx",
+      "categoria": "old",
+      "caracteres": 4710,
+      "palavras": 737,
+      "outputFile": "old_UNIFICADA + RECLUSÃO + DETENÇÃO.txt"
+    },
+    {
+      "arquivo": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.docx",
+      "categoria": "old",
+      "caracteres": 2897,
+      "palavras": 457,
+      "outputFile": "old_UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.txt"
+    },
+    {
+      "arquivo": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.docx",
+      "categoria": "old",
+      "caracteres": 2261,
+      "palavras": 358,
+      "outputFile": "old_UNIFICADA ^M RECLUSAO ^M RECLUSAO.txt"
+    },
+    {
+      "arquivo": "UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.odt",
+      "categoria": "old",
+      "caracteres": 5247,
+      "palavras": 832,
+      "outputFile": "old_UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.txt"
+    },
+    {
+      "arquivo": "unificação.odt",
+      "categoria": "old",
+      "caracteres": 1355,
+      "palavras": 212,
+      "outputFile": "old_unificação.txt"
+    }
+  ]
+}

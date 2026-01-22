@@ -1,0 +1,1737 @@
+[META]
+TITULO: Código Penal Comentado
+AUTOR: Guilherme de Souza Nucci
+ANO: 2017
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 701-750
+ARQUIVO_ORIGINAL: #Código Penal Comentado (2017) - Guilherme de Souza Nucci.pdf
+CITACAO_ABNT: NUCCI, Guilherme de Souza. Código Penal Comentado. São Paulo: Forense, 2017.
+[/META]
+
+[PAGINA 701]
+prorrogado:
+“Prorrogação  do  período  probatório  até  o  julgamento  definitivo  –  Desnecessidade  de  decisão  judicial  em  tal  sentido  –  Posterior
+condenação  do  réu  por  sentença  irrecorrível  com  novo  sursis  –  Causa  obrigatória  de  revogação  do  benefício  –  Extinção  da
+punibilidade inocorrente – Inteligência dos arts. 81 e 82” (STF, RT 619/401); “Prorrogação automática – Beneficiário que veio a
+ser  processado  por  outro  delito  durante  o  período  probatório  –  Irrelevância  de  ter  a  notícia  chegado  aos  autos  após  o  decurso
+daquele – Impossibilidade de o juiz declarar extinta automaticamente a punibilidade pelo vencimento do estágio de prova do sursis
+sob  alegação  de  não  haver  declaração  judicial  de  prorrogação  ou  revogação  e  sem  atender  a  requisição  do  Ministério  Público  de
+certidão relativa ao andamento do segundo processo instaurado contra o sentenciado, sob pena de negativa de vigência dos arts. 67
+da Lei 7.210/84, e 81, § 2.º, do CP, c/c seu inciso I e c/c também o art. 82” (STF, RT 645/372); “Se, durante o período probatório
+do sursis, o réu é definitivamente condenado pela prática de crime doloso, dá-se automaticamente a revogação do benefício. Não
+importa  que  o  juiz  só  venha  a  declarar  a  revogação  depois  de  expirado  o  prazo  de  prova,  já  que  a  mesma  ocorre  de  forma
+automática, com o trânsito em julgado da sentença condenatória” (STJ, 5.
+a
+ T., rel. Edson Vidigal, Lex 86/357). Idem: RSTJ 2/604,
+out.  1989.  “Pena  –  Extinção  pelo  decurso  do  prazo  do  sursis  –  Inadmissibilidade  –  Cometimento  de  novo  crime  no  período  de
+prova – Prorrogação obrigatória – Recurso provido para cassar o despacho que julgou extinta a pena” (JTJ 110/483, 111/523). Há,
+no entanto, posição em sentido contrário: STJ: “É inadmissível a revogação do sursis, quando já expirado o prazo da concessão do
+benefício, ainda que, durante o período, o réu tenha sido condenado em decisão irrecorrível” (HC 5.762-SP, 5.
+a
+ T., rel. Cid Fláquer
+Scartezzini, 09.09.1997, v.u., RT 749/618). No tocante à descoberta do descumprimento de condições após o término do prazo do
+sursis,  a  maioria  dos  julgados  tem  desconsiderado  a  falha,  alegando  que  caberia  ao  juiz  da  execução  e  ao  Ministério  Público
+
+fiscalizar  o  cumprimento  no  tempo  correto.  Por  isso,  permite-se  a  extinção  da  punibilidade.  No  entanto,  há  posição  em  sentido
+contrário:  TJMS:  “1.  A  consequência  da  revogação  do  ‘sursis’  da  pena  é  o  cumprimento  da  reprimenda  privativa  de  liberdade
+imposta no édito condenatório que se encontrava suspensa diante do preenchimento dos requisitos constantes no art. 77 do Código
+Penal. Na hipótese, o apenado descumpriu deliberadamente a condição do § 1.º do art. 78 do Código Penal (prestação de serviços à
+comunidade),  bem  como  deixou  de  informar  ao  Juízo  sua  mudança  de  endereço,  o  que  impossibilitou  a  realização  de  audiência
+admonitória,
+[/PAGINA 701]
+
+[PAGINA 702]
+sendo de rigor a revogação da suspensão condicional da pena, nos termos do art. 81, III, do Código Penal). 2. Ainda
+que ocorra o transcurso do período de prova, o descumprimento de quaisquer das condições impostas é suficiente para a revogação
+da benesse legal, pois a extinção da punibilidade somente ocorre após certificado o cumprimento das obrigações estabelecidas. 3.
+Recurso conhecido e não provido” (AE 20160020002570, 3.
+a
+ C. Crim., rel. Humberto Adjunto Ulhôa, j. 04.02.2016, v.u.).
+Capítulo V
+DO LIVRAMENTO CONDICIONAL
+1-2
+1.  Conceito  de  livramento  condicional  e  aspectos  históricos:  trata-se  de  um  instituto  de  política  criminal,
+destinado a permitir a redução do tempo de prisão com a concessão antecipada e provisória da liberdade do condenado, quando é
+cumprida  pena  privativa  de  liberdade,  mediante  o  preenchimento  de  determinados  requisitos  e  a  aceitação  de  certas  condições.
+Data  da  França  a  origem  histórica  do  livramento  condicional,  instituído  pelo  juiz  Benneville,  com  o  nome  de  “liberação
+preparatória”  (1846).  Ensina  F
+REDERICO  MARQUES,  citando  Roberto  Lyra,  ser  o  livramento  a  última  etapa  do  sistema
+penitenciário progressivo, tendo sido idealizado na França e praticado, sobretudo, na Inglaterra, propagando-se por toda a Europa,
+em  especial  na  Alemanha  e  na  Suíça.  No  direito  brasileiro,  iniciou  sua  trajetória  no  Código  Penal  de  1890  (arts.  50  a  52),
+regulamentado pelos Decretos 16.665, de 6 de novembro de 1924, e 4.577, de 5 de setembro de 1922 (Tratado de direito penal, v.
+3).  Convém  citar  parte  da  Exposição  de  Motivos  do  Código  de  1940,  ainda  atual  para  a  matéria:  “O  livramento  condicional  é
+restituído  à  sua  verdadeira  função.  Faz  ele  parte  de  um  sistema  penitenciário  (sistema progressivo)  que  é  incompatível  com  as
+penas  de  curta  duração.  Não  se  trata  de  um  benefício  que  se  concede  por  simples  espírito  de  generosidade,  mas  de  uma  medida
+finalística, entrosada, num plano de política criminal. O Decreto 24.351, de 6 de junho de 1934, tornando possível a concessão do
+livramento  condicional  aos  ‘condenados  por  uma  ou  mais  penas  de  mais  de  um  ano’,  cedeu  a  razões  de  equidade,  mas,  é  força
+reconhecê-lo,  desatendeu  à  verdadeira  finalidade  desse  instituto.  É  esta  a  última  etapa  de  um  gradativo  processo  de  reforma  do
+criminoso.  Pressupõe  um  indivíduo  que  se  revelou  desajustado  à  vida  em  sociedade,  de  modo  que  a  pena  imposta,  além  do  seu
+caráter aflitivo (ou retributivo),  deve  ter  o  fim  de  corrigir, de readaptar  o  condenado.  Como  derradeiro  período  de  execução  da
+pena pelo sistema progressivo, o livramento condicional é a antecipação de liberdade ao sentenciado, a título precário, a fim de que
+se  possa  averiguar  como  ele  se  vai  portar  em  contato,  de  novo,  com  o  meio  social.  Esse  período  de  experiência  tem  de  ser
+r
+[/PAGINA 702]
+
+[PAGINA 703]
+elativamente longo sob pena de resultar ilusório”.
+2. Natureza jurídica: é medida penal restritiva da liberdade de locomoção, que se constitui num benefício ao condenado e,
+portanto,  faz  parte  de  seu  direito  subjetivo,  integrando  um  estágio  do  cumprimento  da  pena.  Não  se  trata  de  um  incidente  da
+execução, porque a própria Lei de Execução Penal não o considerou como tal (vide Título VII – Dos Incidentes de Execução: Das
+conversões, Do excesso ou desvio, Da anistia e do indulto). Opiniões não destoantes: H
+UNGRIA também o vê como um direito do
+sentenciado – logo, é um benefício; SILVA FRANCO diz não ser incidente da execução, apesar de, na forma, ser um benefício e, no
+conteúdo,  medida  penal  com  características  e  propriedades  típicas,  sendo  providência  de  política  criminal  (antecipação  da
+liberdade) e medida penal alternativa da privação da liberdade; R
+EALE JÚNIOR, DOTTI, ANDREUCCI e PITOMBO esclarecem ser
+uma medida penal restritiva de liberdade, vale dizer, uma forma de expiar a pena de reclusão ou de detenção em meio livre – ainda
+assim,  um  benefício;  M
+IRABETE  e  NORONHA  ensinam  que  é  concessão  antecipada  da  liberdade  mediante  determinados
+pressupostos e condições – portanto, um benefício; e FREDERICO MARQUES sustenta tratar-se de um direito público subjetivo de
+liberdade penal que a lei concede ao condenado. Destoando dessas vozes, está o posicionamento de DAMÁSIO, que diz tratar-se de
+medida penal de caráter repressivo e preventivo, restritiva da liberdade, não sendo um benefício, nem incidente da execução, nem
+direito público subjetivo do condenado, mas forma de execução da pena. Na jurisprudência: TJMG: “O livramento condicional é
+benefício  da  execução  que  visa  à  reinserção  do  apenado  no  meio  social  com  verdadeira  antecipação  da  liberdade,  que  deve  ser
+concedida,  desde  que  preenchidos  os  requisitos  legais”  (AgExec.  Penal  1.0231.13.030996-7/003-MG,  3.
+a
+  C.  Crim.,  rel.  Paulo
+Cézar Dias, 07.05.2015).
+Requisitos do livramento condicional
+Art. 83. O juiz poderá conceder livramento condicional
+3-4
+ ao condenado
+5
+ a pena privativa de liberdade igual
+ou superior a 2 (dois) anos,
+6
+ desde que:
+
+I  –  cumprida  mais  de  1/3  (um  terço)  da  pena  se  o  condenado  não  for  reincidente  em  crime  doloso  e  tiver
+bons antecedentes;
+7-7-A
+II – cumprida mais da 1/2 (metade) se o condenado for reincidente em crime doloso;
+8-8-B
+III – comprovado comportamento satisfatório durante a execução da pena,
+9
+  bom  desempenho  no  trabalho
+que lhe foi atribuído
+10
+ e aptidão para prover à própria subsistência mediante trabalho honesto;
+11-11-A
+IV – tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+12
+V  –  cumpridos  mais  de  dois  terços  da  pena,  nos  casos  de  condenação  por  crime  hediondo,  prática  de
+tortura,  tráfico  ilícito  de  entorpecentes  e  drogas  afins,  tráfico  de  pessoas  e  terrorismo,  se  o  apenado  não  for
+[/PAGINA 703]
+
+[PAGINA 704]
+reincidente específico em crimes dessa natureza.
+13-15
+Parágrafo único. Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa,
+a  concessão  do  livramento  ficará  também  subordinada  à  constatação  de  condições  pessoais  que  façam
+presumir que o liberado não voltará a delinquir.
+16-18-B
+3. Duração do livramento: é o tempo restante da pena privativa de liberdade a ser cumprida. Exemplo: condenado a 12
+anos  de  reclusão,  o  sentenciado  obtém  livramento  condicional  ao  atingir  5  anos  de  cumprimento  da  pena.  O  tempo  do  benefício
+será de 7 anos.
+4. Livramento condicional e habeas corpus: o habeas corpus não é meio idôneo para discutir a concessão ou não do
+livramento  condicional,  que  necessita  de  uma  série  de  procedimentos  especiais,  incompatíveis  com  o  regime  célere  do  remédio
+constitucional.  Nessa  linha:  “Habeas  corpus  –  Livramento  condicional  –  Exigibilidade  de  análise  aprofundada  de  requisitos
+objetivos  e  subjetivos  –  Inadmissibilidade  nos  estreitos  limites  do  instituto  –  Não  conhecimento”  (JTJ  142/364).  Idem:  JTJ
+144/309, 165/353,   118/548,   120/579,   120/585;   TJSP:   HC   238.492-3-SP,   1.
+a
+   C.,   rel.   Jarbas   Mazzoni,   15.09.1997,   v.u.
+Excepcionalmente, pode o tribunal conceder livramento condicional, por meio do habeas corpus, caso o indeferimento do juiz seja
+manifestamente  ilegal  e  todos  os  documentos  necessários  para  verificar  o  seu  cabimento  estejam  presentes  nos  autos:  “Habeas
+corpus  –  Livramento  condicional  –  Traficante  de  entorpecentes  –  Impetração  perfeitamente  instruída  com  os  documentos
+necessários ao julgamento – Requisitos objetivos e subjetivos preenchidos – Possibilidade, assim, de sua apreciação nos estreitos
+limites do instituto – Pedido conhecido” (JTJ 119/516).
+5. Egresso: é o sentenciado que foi beneficiado pelo livramento condicional, possuindo essa denominação enquanto durar o
+seu período de prova (art. 26, II, LEP).
+6. Requisito  objetivo  da  quantidade  de  pena  fixada  na  sentença:  exige--se  que  seja  igual  ou  superior  a  2  anos.
+Afinal, penas inferiores a dois anos, que não tenham merecido o sursis, também não fazem jus ao livramento, mas, se cumpridas a
+contento, podem ser convertidas, durante a execução, por restritivas de direitos (art. 180, LEP).
+7. Requisito objetivo do tempo de pena cumprida: o condenado primário (em crime doloso) e com bons antecedentes
+faz  jus  ao  livramento  condicional,  após  cumprir  1/3  da  pena.  Houve  uma  lacuna  lamentável  no  tocante  ao  primário  que  possua
+maus  antecedentes.  Não  se  pode  incluí-lo  com  perfeita  adequação  nem  neste  dispositivo,  nem  no  próximo,  que  cuida  do
+reincidente. Surgiram duas posições: a) na falta de expressa previsão, deve ser adotada a posição mais favorável ao condenado,
+ou seja, o primário, com maus antecedentes, pode receber o livramento quando completar 1/3 da pena. São as posições
+[/PAGINA 704]
+
+[PAGINA 705]
+de R
+EALE
+JÚNIOR, SILVA FRANCO e DAMÁSIO. Nesse sentido: STJ: “Ao condenado primário, com maus antecedentes, incide o inciso I do
+art. 83 do Código Penal, razão pela qual sobressai o direito do paciente ao livramento condicional simples, exigindo-se, além dos
+requisitos objetivos e subjetivos, o cumprimento de 1/3 da pena. A liberdade do cidadão deve vir sempre expressa em lei, não se
+podendo  dar  interpretação  ampla  às  regras  restritivas  de  direitos  em  detrimento  do  réu”  (HC  23.300-RJ,  rel.  Gilson  Dipp,
+16.10.2003, DJ 24.11.2003, p. 333). Vide, ainda: STJ: “No caso de paciente primário, de maus antecedentes, como o Código não
+contemplou tal hipótese, ao tratar do prazo para concessão do livramento condicional, não se admite a interpretação em prejuízo do
+réu,  devendo  ser  aplicado  o  prazo  de  um  terço.  O  paciente  primário  com  maus  antecedentes  não  pode  ser  equiparado  ao
+reincidente, em seu prejuízo. Precedentes” (HC 102.278/RJ, 6.
+a
+ T., rel. Jane Silva, 03.04.2008); HC 39.741-RJ, 5.
+a
+ T., rel. Arnaldo
+Esteves  Lima,  21.06.2005,  v.u.,  DJ  22.08.2005,  p.  310;  TJBA:  “Para  a  concessão  de  livramento  condicional  a  réu  primário,
+possuidor  de  maus  antecedentes,  ante  a  falta  de  previsão  legal,  como  requisito  objetivo,  exige-se  o  cumprimento  de  um  terço  da
+sanção  imposta,  a  teor  do  disposto  no  artigo  83,  inciso  I,  do  Código  Penal.  Recurso  provido  para  conceder  ao  Requerente  o
+benefício  do  livramento  condicional”  (AgExec.  03018156120118050000,  2.
+a
+  C.,  rel.  Carlos  Roberto  Santos  Araújo,  11.10.2012,
+v.u.); b) deve-se fazer a adequação por exclusão. Não se encaixando no primeiro dispositivo, que, expressamente, exige os bons
+antecedentes, somente lhe resta o segundo. Assim, o primário com maus antecedentes deve cumprir metade da pena para pleitear o
+livramento  condicional.  Nesse  sentido:  “Benefício  pretendido  –  Acusado  portador  de  maus antecedentes  –  Prazo  mínimo  para  o
+
+cumprimento da pena igual ao estabelecido para o reincidente – Art. 83, I, in fine, e II, do Código Penal” (JTJ 135/481, grifamos).
+Idem:  STJ:  6.
+a
+  T.,  RSTJ  14/224.  É  a  posição  que  adotamos,  pois  o  art.  83,  I,  exige  “duplo  requisito”  e  é  expresso  acerca  da
+impossibilidade de concessão do livramento com 1/3 da pena a quem possua maus antecedentes.
+7-A. Efeito da unificação: quando o condenado possui mais de uma condenação, todas são enviadas ao juízo universal das
+execuções penais, cabendo ao magistrado unificá-las, para o correto estabelecimento do regime e da forma de cumprimento. Por
+isso,  pode  ser  incabível  considerar  alguém  primário,  para  fins  de  contagem  do  prazo  de  concessão  do  livramento  condicional,
+fazendo-o  individualmente,  ou  seja,  processo  por  processo  na  execução  penal.  Afinal,  se  a  pena  é  unificada  (todas  são
+transformadas em uma), disso resulta a avaliação da sua derradeira condenação. Como regra, nesse
+[/PAGINA 705]
+
+[PAGINA 706]
+caso, o condenado já não era
+primário ou tinha antecedente criminal. Excepcionalmente, pode-se ter o sentenciado primário, quando suas práticas criminosas e
+consequentes condenações ocorrem quase ao mesmo tempo. Mesmo unificada a pena, o preso deve ser considerado primário para
+o  cálculo  do  livramento  condicional.  Na  jurisprudência:  TJMG:  “Após  a  unificação  das  penas,  não  há  mais  a  possibilidade  de
+fracionamento para fins de reconhecimento da situação de primário referente a uma das guias de execução, separadamente. Tendo
+em  vista  que  o  recorrente,  no  momento  de  sua  última  condenação,  já  possuía  duas  outras  condenações  transitadas  em  julgado,
+caracterizada está a reincidência, a qual repercute sobre todas as reprimendas em execução, devendo-se cumprir mais de 2/3 (dois
+terços) da pena decorrente do crime hediondo, art. 83, V, CP, e mais da metade da reprimenda oriunda dos delitos comuns, art. 83,
+II,  CP,  para  receber  o  livramento  condicional”  (AgExec.  Penal  1.0704.13.006592-0/001-MG,  1.
+a
+  C.  Crim.,  rel.  Silas  Vieira,
+26.06.2015); “Após a soma ou unificação de penas, a execução criminal dessas passa a ser uma unidade, de modo que quaisquer
+fatores  advindos  de  uma  são  estendidos  às  outras,  seja  em  desfavor  do  réu,  como  no  caso  da  definição  de  novo  regime  de
+cumprimento  de  pena,  seja  em  seu  favor,  de  acordo  com  o  quantum  da  pena  aplicado  e  as  circunstâncias  judiciais  do  art.  59  do
+Código Penal” (AgExec. Penal 1.0704.13.006859-3/001-MG, 6.
+a
+ C. Crim., rel. Jaubert Carneiro Jaques, 02.06.2015).
+8. Requisito objetivo do tempo de pena cumprido:  para  o  reincidente  em  crime doloso  exige-se  o  cumprimento  de
+pelo  menos  metade  da  pena.  Analisou-se,  no  item  anterior,  que  nesta  hipótese  também  se  encaixa  o  primário  com  maus
+antecedentes.
+8-A. Falta  grave  e  requisito  objetivo  do  tempo:  a  ocorrência  de  falta  grave,  diversamente  do  que  ocorre  com  a
+progressão de regime, não interrompe o prazo para a obtenção do livramento condicional. Inexiste previsão legal para tanto. Por
+óbvio,  poderá  o  juiz  analisar  o  contexto  da  falta  grave  no  tocante  ao  requisito  subjetivo,  concernente  ao  comportamento
+satisfatório. Na jurisprudência: STJ: “A prática de falta grave não interrompe o prazo para a obtenção de livramento condicional.
+Aplica-se,  nessa  situação,  o  entendimento  consagrado  na  Súmula  441  do  STJ”  (REsp  1.364.192-RS,  3.
+a
+  S.,  rel.  Sebastião  Reis
+Júnior, 12.02.2014, Informativo  546);  “O  cometimento  de  falta  disciplinar  de  natureza  grave  não  tem  o  condão  de  interromper  o
+prazo  para  a  concessão  do  benefício  do  livramento  condicional,  a  teor  da  Súmula  441,  desta  Corte”  (HC  291.197-SP,  5.
+a
+ T., rel.
+Moura  Ribeiro,  10.06.2014);  “a  falta  disciplinar  de  natureza  grave  não  interfere  no  lapso  necessário  à  obtenção  do  livramento
+condicional  (...)”  (HC
+[/PAGINA 706]
+
+[PAGINA 707]
+290.552-SP,  5.
+a
+  T.,  rel.  Marco  Aurélio  Bellizze,  19.08.2014,  v.u.).  TJSP:  “Agravo  de  Execução  Penal.
+Pedido  de  livramento  condicional.  Presentes  o  requisito  temporal  e  bom  comportamento  carcerário.  Indeferimento  do  pedido  de
+livramento  condicional,  sob  o  argumento  de  que  o  cometimento  de  falta  grave  interrompe  a  contagem  do  lapso  temporal  para  a
+obtenção  do  benefício.  Decisão  que  merece  reforma.  Efeito  interruptivo  que,  nesta  hipótese,  não  se  verifica.  Precedentes
+jurisprudenciais.  Súmula  nº  441  do  STJ.  Reabilitação,  ademais,  expressamente  constante  do  prontuário.  Preenchimento  dos
+requisitos definidos no art. 83 do CP para a concessão do livramento. Agravo provido” (0086586-55.2014.8.26.0000-Itapetininga,
+13
+a
+ C.D.C., rel. De Paula Santos, 23.04.2015, v.u.); “Habeas Corpus. Execução penal. Falta disciplinar de natureza grave. Perda
+dos dias remidos e reinício da contagem do tempo de cumprimento de pena para fins de benefícios. Ilegalidade do decisum no que
+tange ao livramento condicional, para o qual o cometimento de falta grave não interrompe o prazo para sua obtenção. Reinício da
+contagem  do  período  aquisitivo  apenas  para  obtenção  da  progressão  e  da  remição.  Precedentes.  Inteligência  da  Súmula  441  do
+STJ. Ordem concedida em parte, tão somente para afastar a interrupção do tempo relativamente ao livramento condicional” (HC
+990.10.502047-0, 16.
+a
+ C., rel. Almeida Toledo, 11.01.2011, v.u.).
+8-B. Desnecessidade  de  progressão  de  regime:  o  livramento  condicional  é  benefício  totalmente  independente  da
+progressão  de  regimes.  Quem  ingressa  no  regime  fechado  não  é  obrigado  a,  primeiro,  passar  para  o  semiaberto  para,  depois,
+pleitear  o  livramento.  Pode  cumprir  o  período  fixado  neste  art.  83,  no  regime  fechado,  solicitando  diretamente  a  liberdade
+condicional,  desde  que  preencha  os  seus  requisitos  objetivos  e  subjetivos.  Na  jurisprudência:  TJSP:  “Agravo  de  execução  penal.
+Pedido de progressão de regime e de livramento condicional. Progressão concedida pelo Juízo a quo, mas com indeferimento do
+pedido  de  livramento  condicional,  sob  o  argumento  de  que  deve  o  sentenciado  passar  pelo  regime  intermediário.  Exigência
+indevida.  Preenchimento  dos  requisitos  definidos  no  art.  83  do  Código  Penal  para  a  concessão  do  livramento.  Benefício  não
+condicionado  à  prévia  progressão  de  regime  prisional.  Agravo  provido”  (7016376-97.2013.8.26.0482-Presidente  Prudente,  13
+a
+
+C.D.C.,  rel.  De  Paula  Santos,  07.05.2015,  v.u.);  “Condicionamento  do  livramento  condicional  à  prévia  progressão  de  regime.
+Inocorrência.  Agravo  desprovido”  (0080601-08.2014.8.26.0000-Presidente  Prudente,  10
+a
+  C.D.C.,  rel.  Rachid  Vaz  de  Almeida,
+19.03.2015, v.u.).
+9. Requisito  subjetivo  do  comportamento  satisfatório:  neste  caso,  o  comportamento  diz  respeito  à  vida  do
+sen
+[/PAGINA 707]
+
+[PAGINA 708]
+tenciado após a condenação. Exigia-se, antes de Reforma Penal de 1984, que houvesse bom comportamento, passou-se, depois,
+a demandar apenas conduta satisfatória. Portanto, uma ou outra falta que viesse a ser cometida poderia ser relevada pelo juiz. São
+faltas graves: incitar ou participar de movimento para subverter a ordem ou a disciplina; fugir; possuir, indevidamente, instrumento
+capaz  de  ofender  a  integridade  física  de  outrem;  provocar  acidente  de  trabalho;  descumprir,  no  regime  aberto,  as  condições
+impostas; não observar os deveres previstos nos incs. II e V do art. 39 da Lei de Execução Penal, ou seja, obediência ao servidor e
+respeito  a  qualquer  pessoa  com  quem  deva  relacionar-se  e  execução  do  trabalho,  das  tarefas  e  das  ordens  recebidas;  ter  em  sua
+posse,  utilizar  ou  fornecer  aparelho  telefônico,  de  rádio  ou  similar,  que  permita  a  comunicação  com  outros  presos  ou  com  o
+ambiente  externo.  Sobre  a  análise  do  comportamento:  STJ:  “Segundo  a  jurisprudência  desta  Corte  de  Justiça,  a  prática  de  falta
+grave pela apenada no curso da execução penal – no caso, a fuga do estabelecimento prisional – constitui motivo suficiente para
+denegar  a  concessão  do  livramento  condicional,  por  ausência  do  preenchimento  do  requisito  subjetivo  previsto  no  art.  83  do
+Código  Penal.  Na  hipótese,  apesar  de  estarem  presentes  os  aspectos  objetivos,  verifica-se  que  a  paciente  não  preencheu  os
+subjetivos, pois não comprovou comportamento satisfatório durante a execução da pena, faltando-lhe o pressuposto do inciso III
+do artigo 83 do Código Penal. 5. Habeas corpus não conhecido” (HC 285687-SP, 5.
+a
+  T.,  rel.  Gurgel  de  Faria,  26.05.2015,  v.u.);
+“para  a  concessão  de  livramento  condicional,  a  avaliação  da  satisfatoriedade  do  comportamento  do  executado  não  pode  ser
+limitada a um período absoluto e curto de tempo. Embora não se possa inviabilizar a concessão do livramento condicional apenas
+porque durante a execução penal o condenado cometeu uma falta grave, o comportamento de um recluso do sistema penitenciário
+há de ser aferido em sua inteireza, por todo o período em que esteve cumprindo sua pena. Cingir o ‘comprovado comportamento
+satisfatório  durante  a  execução  da  pena’,  conforme  demanda  o  art.  83,  III,  do  CP,  apenas  a  um  curto  período  de  tempo  que
+anteceda a análise do pedido implica dispensar o magistrado – especialmente o que está em permanente contato com a realidade
+dos  presídios  –  de  usar  seu  tirocínio,  sua  experiência  e  as  informações  de  que  dispõe  nos  autos  para  avaliar  o  merecimento  do
+benefício  pretendido  pelo  interno.  O  poder  discricionário  do  juízo  da  execução  penal  não  pode  ser  restringido  a  ponto  de
+transformar  a  avaliação  subjetiva  em  um  simples  cálculo  aritmético”  (REsp  1.325.182-DF,  rel.  Rogerio  Schietti  Cruz,  j.
+20.02.2014); “Não se verifica constrangimen
+[/PAGINA 708]
+
+[PAGINA 709]
+to ilegal em hipótese na qual a Corte a quo revoga livramento condicional concedido
+em primeira instância com base no não preenchimento do requisito subjetivo, com fundamento no histórico de faltas graves, dentre
+elas  uma  fuga  ocorrida  em  11  de  setembro  de  2009,  com  recaptura  somente  após  quase  dois  anos,  bem  como  no  fato  de  que,
+anteriormente  beneficiado  com  saída  temporária,  não  teria  retornado  ao  estabelecimento  prisional”  (HC  283.714-SP,  6.
+a
+  T.,  rel.
+Marilza  Maynard,  05.08.2014).  TJSP:  “Livramento  condicional.  Incabível.  Agravante  condenado  por  delitos  graves,  tendo,  em
+cárcere, cometido faltas disciplinares de natureza grave, demonstrando, assim, não estar empenhado em absorver adequadamente a
+terapêutica prisional, não preenchendo o requisito subjetivo, especialmente em relação ao art. 83, parágrafo único, do CP. Negado
+provimento ao recurso” (7003198-81.2013.8.26.0482-Presidente Prudente, 5
+a
+ C.D.C., rel. Sérgio Ribas, 12.03.2015, v.u.). TJMG:
+“Não preenche o requisito subjetivo para a concessão do livramento condicional e da progressão de regime o reeducando que, no
+curso da execução criminal, pratica faltas graves e infrações administrativas” (AgExec. Penal 1.0521.11.009902-0/001-MG, 4.
+a
+ C.
+Crim., rel. Amauri Pinto Ferreira, 03.06.2015); “O cometimento de falta grave pelo agravante, embora não interrompa o prazo para
+obtenção  do  livramento  condicional,  afasta  o  preenchimento  do  requisito  subjetivo,  previsto  no  art.  83,  III,  do  CP,  obstando,
+portanto, a concessão da referida benesse. In casu, o agravante, em gozo do benefício da saída temporária, não retornou à Unidade
+Prisional na data determinada, ficando foragido por quase sete anos, frustrando, portanto, a execução da pena. Não provimento ao
+agravo” (AgExec. Penal 1.0209.06.055270-7/001-MG, 1.
+a
+ C. Crim., rel. Kárin Emmerich, 19.05.2015); “A prática de falta grave
+correspondente  à  fuga  do  sistema  prisional,  durante  o  cumprimento  da  reprimenda,  inviabiliza  a  concessão  do  benefício  do
+livramento  condicional,  por  demonstrar  que  o  reeducando  não  possui  comportamento  satisfatório,  conforme  temos  do  art.  83,
+inciso  III,  do  Código  Penal”  (AgExec.  Penal  1.0702.13.077830-2/001-MG,  1.
+a
+  C.  Crim.,  rel.  Silas  Vieira,  31.03.2015).
+Atualmente,  após  a  edição  da  Lei  10.792/2003,  entendemos  que  se  passou  novamente  a  exigir  bom  comportamento  carcerário,
+pois  no  art.  112,  §  2.º,  da  Lei  de  Execução  Penal  (Lei  7.210/84),  faz-se  referência  ao  caput,  no  qual  está  previsto  o  referido
+requisito.  Conforme  nossa  posição:  TJMG:  “Para  a  concessão  da  progressão  de  regime  exige-se  o  preenchimento  de  requisito
+objetivo – cumprimento de lapso temporal – e, ainda, requisitos subjetivos, com comprovação de bom comportamento carcerário,
+nos  termos  do  art.  112,  da  LEP  e  art.  83,  III,  do  Código  Penal”  (AgExec.  Penal  1.0521.08.071394-9/0
+[/PAGINA 709]
+
+[PAGINA 710]
+01-MG,  4.
+a
+  C.  Crim.,  rel.
+Amauri Pinto Ferreira, 07.05.2015, grifamos).
+10. Requisito  subjetivo  do  bom  desempenho  no  trabalho:  salvo  nos  estabelecimentos  penitenciários  onde  não
+
+houver  possibilidade  do  condenado  trabalhar,  a  ausência  das  atividades  laboristas  é  um  impedimento  à  concessão  do  livramento
+condicional. Já se teve oportunidade de analisar que o trabalho, durante a execução da pena, não é forçado, mas é obrigatório. Por
+isso,  torna-se  importante  verificar,  no  parecer  da  Comissão  Técnica  de  Classificação,  a  parte  referente  ao  diretor  de  produção  e
+atividade  laborterápica,  ou  seja,  se  o  seu  parecer  é  favorável  ou  não.  Na  jurisprudência:  TJRJ:  “Para  concessão  do  livramento
+condicional deve ser apreciado o comportamento do reeducando durante todo o período de execução de pena, mediante análise de
+sua  conduta  carcerária  pelo  tempo  integral  em  que  permaneceu  sob  custódia,  consoante  norma  do  art.  83,  III,  do  CP”  (AE
+0026007-94.2015.8.12.0001, 2.
+a
+ C. Crim., rel. Luiz Gonzaga Mendes Marques, j. 28.09.2015, v.u.).
+11. Requisito  subjetivo  da  aptidão  para  trabalho  honesto:  esse  requisito  vem  contido  no  parecer  da  Comissão
+Técnica  de  Classificação  ou  no  exame  criminológico,  demonstrando,  por  meio  da  análise  da  personalidade  do  condenado,  se  ele
+está apto ou não a desempenhar, fora do presídio, uma atividade honesta. Há sentenciados que vivem de ilusão, não assumem em
+momento  algum  o  crime  que  cometeram,  creem  que  são  injustiçados  pela  sociedade  e  insistem  em  dizer  que  não  têm  qualquer
+projeto para o futuro. Ora, sob esse prisma psicológico, é possível auferir a sua inaptidão para trabalho honesto. É evidente que não
+se exige do preso a demonstração potencial de que terá um emprego ao sair da cadeia, pois seria altamente improvável conseguir
+prova idônea disso.
+11-A. Livramento condicional para estrangeiro: nada impede seja concedido, inclusive para manter a plena igualdade
+com  os  brasileiros.  Argumenta-se,  para  negá-lo,  não  poder  o  estrangeiro  trabalhar,  legalmente,  no  país,  ou  ainda  a  existência  de
+decreto  de  expulsão.  Ora,  se  o  Executivo  resolver  expulsar  o  estrangeiro,  durante  o  cumprimento  da  pena,  cuida-se  de  decisão
+discricionária sua (ver a nota 34, infra), devendo ser cumprida. Entretanto, caso a decisão de expulsão se dê após o cumprimento
+da pena, nada impede seja o sentenciado colocado em livramento condicional. E mais: se a expulsão ocorrerá após o cumprimento
+total da pena, cabe ao Governo providenciar um atestado de regularidade para o estrangeiro poder trabalhar legalmente enquanto
+isso.  Não  há  sentido  o  Judiciário  buscar  suprir  a  falha  do  Executivo.  Outro  ponto  interessante  diz  respeito  ao  caso  em  que  o
+procedimento  de  expulsão  nem  mesmo  teve  início,  ou  seja,  o  Executivo  não  sabe  da  condenação  do  estrangeiro.  Nessa  hipót
+[/PAGINA 710]
+
+[PAGINA 711]
+ese,
+cabe  ao  juiz,  ao  conceder  o  livramento  condicional  (se  já  não  o  fez  antes,  por  ocasião  da  decisão  condenatória),  comunicar  o
+Ministério  da  Justiça  para  as  providências  cabíveis.  Em  suma,  o  condenado  estrangeiro,  com  bom  comportamento,  cumprido  os
+mesmos  requisitos  que  o  brasileiro,  tem  direito  ao  livramento  condicional.  Ver,  ainda,  o  nosso  Tratado  Jurisprudencial  e
+Doutrinário – Direito Penal, questão 59. Na jurisprudência: TJSP: “Agravo em Execução – Tráfico de entorpecentes – Livramento
+condicional – Pedido deferido pela Juíza da Execução – Requisitos objetivo e subjetivo preenchidos – Sentenciada estrangeira sem
+decreto  de  expulsão  –  Compatibilidade  entre  a  condição  de  estrangeira  e  a  concessão  do  livramento  condicional  –  Mantida  a
+sentença – Agravo improvido” (Ag 990.10.407163-1, 16.
+a
+ C., rel. Pedro Menin, 11.01.2011, v.u.).
+12. Requisito objetivo da reparação do dano: é preciso que o sentenciado tenha reparado o prejuízo causado à vítima,
+salvo  a  efetiva  demonstração  de  que  não  pôde  fazê-lo,  em  face  de  sua  precária  situação  econômica.  Há  muitos  condenados  que,
+pelo  próprio  exame  realizado  pela  Comissão  Técnica  de  Classificação  e  por  serem  defendidos  pela  Defensoria  Pública,  são
+evidentemente  pessoas  pobres,  de  modo  que  fica  dispensada  a  prova  de  reparação  do  dano.  Ademais,  por  vezes,  inexiste  dano
+material  (como  se  dá  no  caso  de  tráfico  de  drogas,  cujo  bem  jurídico  tutelado  é  a  saúde  pública)  ou,  mesmo  que  haja,  não  é
+demonstrado, nem apurado durante a instrução do processo onde se deu a condenação. Conferir: TJMG: “1. A reparação do dano,
+para  concessão  do  livramento  condicional,  prevista  no  art.  83,  VI,  do  CP,  não  pode  ser  exigida  quando  não  houver  apuração  do
+quantum a ser reparado” (AgExec. Penal 1.0071.07.031403-5/002-MG, 6.
+a
+ C. Crim., rel. Denise Pinho da Costa Val, 16.06.2015).
+Leva-se, também, em conta o desaparecimento da vítima ou seu desinteresse pelo ressarcimento.
+13. Crimes hediondos e equiparados: para os crimes hediondos (homicídio em atividade típica de grupo de extermínio
+ou  qualificado;  latrocínio;  extorsão  com  resultado  morte;  extorsão  mediante  sequestro,  inclusive  na  forma  qualificada;  estupro,
+inclusive na forma qualificada; estupro de vulnerável, inclusive na forma qualificada; epidemia com resultado morte; genocídio e
+falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais) e equiparados (prática de
+tortura,  tráfico  ilícito  de  entorpecentes  e  terrorismo),  previstos  na  Lei  8.072/90,  aos  quais  se  associa  o  tráfico  de  pessoas  (Lei
+13.344/2016), é necessário cumprir 2/3 da pena, salvo se for reincidente específico, que não terá direito ao livramento condicional.
+Há três  posições  acerca  da  reincidência  específica:  a)  quem  torna  a  praticar  qualquer  dos  crimes
+[/PAGINA 711]
+
+[PAGINA 712]
+previstos  na  Lei  dos  Crimes
+Hediondos  (ex.:  latrocínio  +  tráfico  ilícito  de  entorpecentes);  b)  quem  torna  a  praticar  crime  da  mesma  natureza,  ou  seja,  que
+protege o mesmo bem jurídico (ex.: extorsão mediante sequestro + latrocínio); c) quem torna a praticar o mesmo tipo penal (ex.:
+estupro  +  estupro).  Neste  caso,  já  que  a  lei  não  definiu  o  que  vem  a  ser  reincidência  específica,  cremos  ser  mais  adequada  a
+primeira posição, pois todos os delitos da Lei 8.072/90 receberam o mesmo tratamento, de modo que a sua reiteração é igualmente
+perniciosa  à  sociedade.  Em  contrário,  sustentando  dever  ser  o  mesmo  tipo  penal,  conferir  a  posição  de  M
+ARCELO  FORTES
+BARBOSA: “Em resumo, só haverá reincidência específica se o réu praticar outro latrocínio, incidindo novamente no art. 157, § 3.º,
+
+do Código Penal, após o trânsito em julgado da primeira condenação por fato idêntico” (Latrocínio, p. 48).
+13-A. Associação  para  o  tráfico  (art.  35,  Lei  11.343.2006):  a  maior  parte  da  doutrina  e  da  jurisprudência  não
+considera esse delito como hediondo. Entretanto, há julgados, especialmente, do STJ, considerando aplicável o disposto no art. 44,
+parágrafo  único,  da  Lei  11.343/2006,  que  menciona  ser  cabível  livramento  condicional  quando  cumpridos  2/3  da  pena  aos
+infratores  dos  artigos  33,  caput  e  §  1.
+o
+,  e  34  a  37.  Abrange  o  crime  de  associação  para  o  tráfico,  independentemente  de  ser
+qualificado como equiparado a hediondo. Desse modo, argumenta-se que regra especial (art. 44, parágrafo único, Lei 11.343/2006)
+afasta a norma geral (art. 83, I e II, CP). Conferir: STJ: “Não obstante o delito de associação ao tráfico de drogas não integrar o rol
+dos delitos hediondos ou a ele equiparados, persiste a necessidade de cumprimento de 2/3 da pena para a obtenção do livramento
+condicional, por força do disposto no parágrafo único do art. 44 da Lei n. 11.343/2006, por se tratar de regra determinada pela lei
+especial,  que  se  sobrepõe  a  regra  geral  (art.  83  do  CP).  Precedentes”  (HC  325.890-RS,  5.
+a
+  T.,  rel.  Ribeiro  Dantas,  14.06.2016,
+v.u.).
+14. Concessão  do  livramento  condicional  ao  condenado  por  crime  hediondo:  como  já  foi  mencionado  linhas
+acima,  é  possível  a  concessão  de  livramento  condicional  ao  condenado  por  crime  hediondo,  salvo  em  se  tratando  de  reincidente
+específico. Na jurisprudência: TJMG: “Inviável a concessão de livramento condicional ao apenado reincidente específico em crime
+equiparado a hediondo, consoante vedação expressa do artigo 83, V, do Código Penal” (AgExec. Penal 1.0231.14.029939-8/001-
+MG, 7.
+a
+ C. Crim., rel. Paulo Calmon Nogueira da Gama, 18.06.2015, v.u.).
+15. Constitucionalidade da proibição do livramento ao reincidente específico: não há óbice algum em se proibir
+a concessão de algum benefício a condenado considerado reincidente em delitos da mesma natureza, o que demonstra sua maior
+pericul
+[/PAGINA 712]
+
+[PAGINA 713]
+osidade e falta de condições de convívio em sociedade.
+16. Exame  de  cessação  da  periculosidade:  por  ocasião  da  Reforma  Penal  de  1984,  aboliu-se  o  sistema  do  duplo
+binário, que impunha ao condenado perigoso pena e medida de segurança, de modo que ele somente seria liberado, ao término de
+sua pena, caso cessasse a sua periculosidade. Entretanto, no tocante ao livramento condicional, manteve-se a análise desse aspecto
+da  personalidade  do  sentenciado.  Para  que  obtenha  o  benefício,  é  preciso  demonstrar  estar  cessada  a  sua  periculosidade;  do
+contrário,  não  poderá  sair  em  liberdade  condicional.  Trata-se  de  uma  prognose  –  juízo  de  periculosidade  que  se  projeta  sobre  o
+futuro,  para  prever  se  restaram  elementos  criminógenos  que  façam  prever  futuras  reincidências  (A
+LTAVILLA, Psicologia
+judiciária,  v.  2,  p.  403).  É  a  “quase  certeza”  de  que,  voltando  à  sociedade,  não  tornará  a  delinquir.  Nesse  contexto,  prevalece  o
+preceito in dubio pro societate. Aos condenados por crimes violentos ou com grave ameaça à pessoa, tal exame é indispensável.
+Sobre a modificação introduzida pela Lei 10.792/2003 ao art. 112, § 2.º, da Lei 7.210/84, consultar a nota 18-A a seguir.
+17. Parecer  do  Conselho  Penitenciário:  segundo  o  art.  131  da  Lei  de  Execução  Penal,  é  indispensável  o  parecer  do
+Conselho  Penitenciário.  Entretanto,  o  juiz  não  fica,  em  tese,  vinculado  nem  ao  referido  parecer,  nem  à  opinião  do  Ministério
+Público, podendo decidir de acordo com seu livre convencimento. O mais importante, nesse contexto, é a avaliação da Comissão
+Técnica de Classificação (ou exame criminológico), porque se trata da visualização real do comportamento do condenado durante
+a  execução  da  pena.  O  magistrado  não  acompanha  o  preso  no  seu  cotidiano,  de  modo  que  está  impossibilitado  de  desmentir  o
+parecer da mencionada Comissão, a não ser que possua elementos concretos, o que é bastante difícil. Ver a nota 18-A seguinte.
+18. Livramento condicional cautelar: trata-se de uma hipótese surgida na Vara das Execuções Penais de São Paulo, por
+conta  do  posicionamento  de  alguns  magistrados  interessados  em  obter  uma  forma  intermediária  para  libertar  o  réu,  sem  a
+necessidade  de  transferi-lo  para  o  desacreditado  regime  aberto,  na  modalidade  de  albergue  domiciliar  –  onde  inexiste  qualquer
+fiscalização  eficaz  –  e  não  desejando  aguardar,  por  longo  período,  o  parecer,  por  vezes  demorado,  do  Conselho  Penitenciário.
+Assim, concede-se o livramento condicional cautelar, colocando o sentenciado em liberdade, aguardando-se o referido parecer. Se
+for positivo, pode-se consolidar o benefício anteriormente deferido na forma antecipada através do poder geral de cautela do juiz;
+sendo negativo, pode-se revogar o benefício, fazendo o liberado retornar ao regime de onde saiu. Essa hipótese perdeu sua força
+porque os próprios sentenciados ing
+[/PAGINA 713]
+
+[PAGINA 714]
+ressaram com agravo em execução para evitar o livramento condicional, a fim de alcançar o
+regime aberto, cumprindo em casa (prisão albergue domiciliar).
+18-A. Exame criminológico, parecer da Comissão Técnica de Classificação e do Conselho Penitenciário:
+continuam  viáveis  e  exigíveis,  desde  que  presentes  as  circunstâncias  descritas  no  parágrafo  único  do  art.  83.  O  condenado  por
+crime  doloso,  cometido  com  violência  ou  grave  ameaça  à  pessoa,  para  auferir  o  benefício  do  livramento  condicional,  deve  ser
+submetido  a  avaliação  psicológica,  demonstrando,  então,  condições  pessoais  que  façam  presumir  que  não  tornará  a  delinquir.
+Houve a introdução do § 2.º ao art. 112 da Lei de Execução Penal (Lei 7.210/84), nos seguintes termos: “Idêntico procedimento
+será  adotado  na  concessão  de  livramento  condicional,  indulto  e  comutação  de  penas,  respeitados  os  prazos  previstos  nas  normas
+vigentes”. Ora, o art. 112, caput, menciona que a progressão de regime se dará quando o condenado tiver cumprido ao menos um
+
+sexto  da  pena  e  ostentar  bom  comportamento  carcerário,  comprovado  pelo  diretor  do  estabelecimento  prisional.  Poderia,  num
+primeiro  momento,  o  disposto  no  mencionado  §  2.º  do  art.  112  dar  a  entender  que  bastaria,  para  a  concessão  do  livramento
+condicional, o atestado de boa conduta carcerária, embora seja interpretação errônea. Note-se que a Lei 10.792/2003, que trouxe a
+alteração ao art. 112, não modificou o disposto no parágrafo único do art. 83, que exige o exame criminológico para quem pretenda
+conseguir livramento condicional, desde que autor de crime doloso violento, bem como não alterou o disposto no art. 131 da Lei
+de Execução Penal (Lei 7.210/84), prevendo ser a concessão do livramento submetida às condições do art. 83 e parágrafo único,
+com parecer prévio do MP e do Conselho Penitenciário. Assim, quanto à alteração legislativa, deve-se entender que a nova lei (Lei
+10.792/2003)  trouxe  apenas  uma  modificação  ao  art.  83:  falava-se,  no  inciso  III,  que  era  necessário  demonstrar  comportamento
+satisfatório durante a execução da pena (o que é demonstrado pelo atestado de conduta carcerária da direção do presídio); passa-se
+agora  a  exigir  bom  comportamento  carcerário,  voltando-se  à  redação  anterior  à  reforma  de  1984.  Logo,  trata-se  de  lei  penal
+prejudicial, que somente pode ser aplicada aos crimes cometidos após o dia 2 de dezembro de 2003, data em que passou a vigorar a
+Lei 10.792/2003. O condenado, portanto, que possuir comportamento satisfatório, ou seja, regular, por crime cometido após essa
+data, não mais pode obter livramento condicional. Este benefício passa a ser utilizado pelos que possuírem bom comportamento.
+Súmula vinculante 26: “Para efeito de progressão de regime no cumprimento de pena por crime hediondo, ou equiparado, o juízo
+da  execução  observará  a  inconstitucionalidade  do  art.  2.º  da  Lei  8.072,  de
+[/PAGINA 714]
+
+[PAGINA 715]
+25  de  julho  de  1990,  sem  prejuízo  de  avaliar  se  o
+condenado  preenche,  ou  não,  os  requisitos  objetivos  e  subjetivos  do  benefício,  podendo  determinar,  para  tal  fim,  de  modo
+fundamentado, a realização de exame criminológico”. Embora a referida Súmula cuide da progressão de regime, torna-se evidente
+a  aceitação  da  permanência  e  possibilidade  de  realização  do  exame  criminológico,  pelo  STF,  para  o  recebimento  de  benefícios,
+durante a execução penal. Portanto, quando for pleiteado o livramento condicional, em especial, nos quadros de crimes hediondos,
+pode o magistrado determinar a realização do mencionado exame, para auxiliar à formação do seu convencimento. Conferir: STJ:
+“I – Para a concessão do benefício do livramento condicional, deve o acusado preencher os requisitos de natureza objetiva (lapso
+temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112 da LEP, com redação dada pela Lei 10.792/2003,
+podendo  o  Magistrado,  excepcionalmente,  determinar  a  realização  do  exame  criminológico,  diante  das  peculiaridades  da  causa,
+desde  que  o  faça  em  decisão  concretamente  fundamentada  (cf.  HC  88052-DF,  rel.  Min.  Celso  de  Mello,  DJ  28.04.2006).
+(Precedentes).  II  –  Dessa  forma,  muito  embora  a  nova  redação  do  art.  112  da  Lei  de  Execução  Penal  não  mais  exija  o  exame
+criminológico, esse pode ser realizado, se o Juízo da Execução, diante das peculiaridades da causa, assim o entender, servindo de
+base para o deferimento ou indeferimento do pedido (Precedentes desta Corte e do Pretório Excelso/Informativo STF 439). III –
+Evidenciado, in  casu,  que  o  Juízo  de  1.º  grau  dispensou  a  realização  do  exame  criminológico,  concedendo  o  benefício  do
+livramento condicional ao paciente, não é permitido ao e. Tribunal ad quem reformar esta decisão, e, por conseguinte, determinar
+prévia  oitiva  do  Conselho  Penitenciário,  sem  a  devida  fundamentação,  ou  condicionar  o  benefício  a  requisitos  que  não  os
+constantes  no  texto  legal.  (Precedentes)”  (HC  93.416-SP,  5.
+a
+  T.,  rel.  Felix  Fischer,  21.02.2008,  v.u.,  grifamos).  TJSP:  “Ao
+contrário do que estão entendendo os nobres impetrantes, a abolição do exame criminológico pela Lei 10.792/2003, que alterou o
+art. 112 da Lei de Execução Penal, não exonerou o juiz do exame desse requisito. Cuida-se de requisito de grande importância para
+a  concessão  do  livramento  condicional,  porque  está  relacionado  com  a  ausência  ou  cessação  da  periculosidade  do  condenado.  O
+juiz  não  pode  correr  o  risco  de  colocar  em  liberdade  sentenciado  que  ainda  denota  propensão  para  o  crime  e  que  irá  colocar  em
+perigo a ordem pública. O magistrado poderá formar a sua convicção com base nos elementos de prova trazidos para a instrução
+do  pedido  de  livramento  condicional  ou  com  os  dados  do  próprio  processo  de  execução”  (HC  464.483-3/9,  4.
+a
+  C.,  rel.  Hélio
+[/PAGINA 715]
+
+[PAGINA 716]
+de
+Freitas, 30.11.2004, v.u.). TJMG: “1. Embora a redação dada ao art. 112 da Lei 10.792/2003 tenha eliminado a obrigatoriedade do
+exame  criminológico  para  fins  de  concessão  de  benesses,  tais  como  a  progressão  de  regime  e  o  livramento  condicional,  não
+impediu, todavia, que o magistrado, diante do caso concreto, dele se valesse para aquilatar o mérito subjetivo do apenado. 2. Não
+basta, para a obtenção de livramento condicional e para a progressão de regime, o preenchimento dos requisitos de ordem objetiva.
+Necessário  prova  do  satisfatório  comportamento  durante  a  execução  da  pena.  3.  Ao  condenado  por  crime  doloso,  praticado  com
+violência  ou  grave  ameaça  à  pessoa,  como  na  hipótese  dos  autos,  a  concessão  do  livramento  condicional  ficará  subordinada
+também  à  constatação  de  condições  pessoais  que  façam  presumir  que  esse,  quando  liberado,  não  voltará  a  delinquir,  tal  como
+estabelece  o  art.  83,  parágrafo  único,  do  CP.  4.  Não  preenchidos  os  requisitos  de  ordem  subjetiva  não  se  defere  o  livramento
+condicional  ou  a  progressão  de  regime”  (AgExec.  Penal  1.0521.11.006853-8/001-MG,  3.
+a
+  C.  Crim.,  rel.  Fortuna  Grion,
+24.02.2015, v.u.).
+18-B. Avaliação  do  parecer  da  Comissão  Técnica  de  Classificação  ou  do  exame  criminológico:  o  juiz  não
+está  adstrito  ao  conteúdo  do  parecer,  seja  ele  favorável  ou  desfavorável  à  concessão  do  livramento  condicional.  Entretanto,  para
+contrapor-se ao conteúdo do parecer (ou do exame criminológico), deve apresentar fundamentos consistentes, extraídos das provas
+dos autos. Por outro lado, demanda cautela a avaliação dos comentários feitos pelos profissionais integrantes da Comissão Técnica
+de Classificação, ou seja, o assistente social não pode substituir-se ao psicológico, nem este ao psiquiatra. Cada qual deve emitir
+
+sua  opinião  fundada  em  seus  próprios  conhecimentos.  Do  contrário,  pode-se  ignorar  a  conclusão  atingida.  Confira-se:  STJ:  “A
+Turma  concedeu  a  ordem  de  habeas corpus  para  deferir  ao  paciente  o  livramento  condicional.  No  caso  dos  autos,  negou-se  o
+livramento  condicional  com  base  na  percepção  subjetiva  de  assistente  social  que  não  tem  razões  suficientes  para  convalidar  os
+motivos  de  indeferimento  daquele  benefício  pelas  instâncias  ordinárias.  Anotou-se  que  a  assistente  social  não  poderia  falar  do
+ponto  de  vista  psicológico;  no  máximo  poderia  expor  as  condições  de  moradia,  ambiente  etc.  Essa  referência  pouco  positiva  da
+assistente  social  também  não  é  suficiente  para  tirar  do  paciente  a  perspectiva  da  liberdade  condicional”  (HC  138.498-RS,  5.
+a
+ T.,
+rel. Nilson Naves, 15.10.2009, v.u.).
+Soma de penas
+Art. 84. As penas que correspondem a infrações diversas devem somar-se para efeito do livramento.
+19
+19. Soma das penas para efeito de livramento: é possível que o condenado possua penas fracion
+[/PAGINA 716]
+
+[PAGINA 717]
+adas, nenhuma igual
+ou superior a dois anos, de modo que lhe seria impossível obter o livramento condicional, conforme disposição do art. 83, caput.
+Entretanto, pode-se realizar a soma das penas, o que é medida salutar de política criminal, para que o sentenciado possa atingir a
+liberdade antes do término de sua pena. Por outro lado, é fundamental somar-se as penas para atingir o quantum total e cabível no
+âmbito do cômputo dos prazos para a concessão do benefício. Na jurisprudência: STJ: “1. Havendo pluralidade de condenações, as
+penas devem ser unificadas, realizando-se o cálculo do livramento condicional sobre o montante obtido, nos termos do art. 84 do
+CP. 2. Reconhecida a reincidência, o apenado passa a ostentar a condição de reincidente, gerando efeitos, de imediato, no cálculo
+dos  futuros  benefícios  da  execução  criminal,  inclusive  quanto  à  incidência  da  fração  de  1/2  para  a  concessão  do  livramento
+condicional  (art.  83,  II,  do  CP).  Não  há  falar  na  aplicação  concomitante  do  patamar  de  1/3  para  a  execução  de  pena  aplicada  ao
+tempo em que era primário e de 1/2 para as demais execuções. 3. Recurso especial provido” (REsp 1492726-RS, 6.
+a
+ T., rel. Nefi
+Cordeiro, 14.04.2015, v.u.); “Não se pode cogitar da aplicação de 1/3 (um terço) para a execução de pena de crime que ao tempo
+de seu cometimento o réu ostentava primariedade reconhecida na sentença e da aplicação de ½ (metade) para as demais execuções
+de  crimes  comuns,  para  fins  de  concessão  do  benefício  do  livramento  condicional.  No  caso  dos  autos,  somam-se  as  penas  dos
+crimes  (crimes  comuns)  e  aplica-se  a  fração  de  1/2  (metade)  sobre  a  totalidade  da  pena,  pois  o  paciente  é  reincidente”  (HC
+306936-RS,  6.
+a
+  T.,  rel.  Maria  Thereza  de  Assis  Moura,  24.02.2015,  v.u.);  “Consoante  entendimento  desta  Corte,  para  fins  de
+cálculo do benefício do livramento condicional, as penas que correspondem a infrações diversas devem ser somadas, nos termos
+do  art.  84  do  Código  Penal.  O  requisito  objetivo  para  a  concessão  de  livramento  condicional  ao  apenado  reincidente  em  crime
+doloso,  previsto  no  art.  83,  II,  do  Código  Penal,  aplica-se  ao  total  das  reprimendas  impostas,  sendo  irrelevante  a  existência  de
+execuções penais anteriores em que o réu era primário para fins de abrandamento do cálculo. Precedentes” (HC 307878-RS, 5.
+a
+ T.,
+rel.  Gurgel  de  Faria,  24.02.2015,  v.u.).  TJPR:  “1.  O  início  da  contagem  do  prazo  para  obtenção  do  benefício  do  livramento
+condicional  será  a  do  início  do  cumprimento  da  primeira  pena  em  espécie,  atendendo  ao  artigo  84  do  Código  Penal,  bem  como
+entendimento  fixado  por  esta  Câmara.  (Art.  84.  As  penas  que  correspondem  a  infrações  diversas  devem  somar-se  para  efeito  do
+livramento). 2. O início da contagem do prazo para a obtenção do benefício da progressão de regime será a data da última prisão,
+conforme
+[/PAGINA 717]
+
+[PAGINA 718]
+entendimento  fixado  por  esta  3.
+a
+  Câmara,  salvo  se,  no  caso  em  questão,  o  sentenciado  tenha  sido  beneficiado  pela
+liberdade  provisória;  nesta  hipótese  a  data  será  a  do  início  do  cumprimento  da  última  pena”  (AE  1514905-0,  3.
+a
+  C.  Crim.,  rel.
+Kennedy  Josue  Greca  de  Mattos,  j.  11.08.2016,  v.u.).  TJRS:  “Registrando  o  apenado  cinco  condenações,  sendo  considerado
+reincidente  em  uma  delas,  despropositado  o  entendimento  de  que  deve  ser  observada  (ao  propósito  de  obter  livramento
+condicional) a fração de um terço da pena, relativamente a cada uma das condenações (ao argumento de que a reincidência deve
+ser considerada somente naquelas em que foi a agravante reconhecida), porquanto a reincidência tem caráter pessoal e, nos termos
+da regra posta no art. 84 do Código Penal, as sanções decorrentes de infrações diversas devem ser somadas ao efeito de concessão
+do benefício precitado. O livramento condicional está sujeito ao atendimento dos requisitos postos no art. 83 do Código Penal (Lei
+da Execução Penal, art. 131), o que, tratando-se de apenado reincidente, leva à exigência de cumprimento da metade da totalidade
+da pena imposta para concessão do referido benefício” (Ag 70064626666-RS, 1.
+a
+ C. Crim., rel. Honório Gonçalves da Silva Neto,
+10.06.2015, v.u.); “Para fins de livramento condicional, em havendo várias condenações, devem as penas ser somadas, realizando-
+se  sobre  o  total  o  cálculo  para  verificação  do  requisito  temporal  para  a  concessão  do  benefício.  Art.  84,  CP.  E  sendo  o  apenado
+reincidente em crime doloso, deve ele cumprir metade de sua pena para fruir desse benefício, conforme prevê o art. 83, inc. II, do
+CP.  A  condição  de  reincidência,  uma  vez  adquirida  pelo  agente,  estende-se  sobre  o  total  da  pena  em  cumprimento,  não  se
+justificando a consideração isolada de cada condenação, tampouco a aplicação concomitante de percentuais diferentes para umas e
+outras  reprimendas.  No  caso,  o  apenado  é  reincidente  e,  segundo  se  infere  da  sua  guia  da  execução  penal,  somente  ultimará  o
+requisito  objetivo  do  beneplácito  em  02.07.2016.  Agravo  provido”  (Ag  70064341571-RS,  8.
+a
+  C.  Crim.,  rel.  Dálvio  Leite  Dias
+Teixeira,  13.05.2015,  v.u.).  “Para  fins  de  concessão  do  livramento  condicional,  devem  ser  as  penas  unificadas,  elaborando-se,
+
+contudo, o cálculo em separado para os crimes comuns e os crimes hediondos, somadas as penas dos crimes diversos, nos termos
+do  art.  84  do  CP.  No  momento  em  que  se  agrupa  as  penas  dos  crimes  comuns,  não  há  como  se  considerar  o  apenado  primário
+apenas porque em um destes crimes ele foi considerado primário, porquanto não há fracionamento das execuções para o cálculo do
+referido benefício. Por consequência, incabível – para fins de concessão do livramento condicional – a aplicação da fração 1/3 para
+a execução da pena de crime que à época em que foi com
+[/PAGINA 718]
+
+[PAGINA 719]
+etido o apenado ostentava primariedade e a aplicação da fração 1/2 para
+as demais execuções de crimes comuns” (Ag 70063425664-RS, 7.
+a
+ C. Crim., rel. José Conrado Kurtz de Souza, 07.05.2015, v.u.).
+Especificações das condições
+Art. 85. A sentença especificará as condições a que fica subordinado o livramento.
+20-21
+20. Condições  obrigatórias  para  o  livramento  condicional:  são  as  seguintes:  a)  obter  ocupação  lícita,  dentro  de
+prazo razoável, se for apto ao trabalho. Nesse caso, o juiz deve ter redobrado bom senso, pois pessoas sem qualquer condenação
+têm  encontrado  dificuldades  para  arranjar  um  emprego,  quanto  mais  o  sentenciado  em  liberdade  condicional;  b)  comunicar  ao
+juízo sua ocupação periodicamente; c) não mudar do território da comarca do Juízo da Execução, sem prévia autorização (art. 132,
+§ 1.º, LEP).
+21. Condições facultativas para o livramento condicional:  são  elas:  a)  não  mudar  de  residência  sem  comunicação
+ao  juiz  e  à  autoridade  incumbida  da  observação  cautelar  e  de  proteção;  b)  recolher-se  à  habitação  em  horário  fixado;  c)  não
+frequentar determinados lugares (art. 132, § 2.º, LEP).
+Revogação do livramento
+21-A-21-B
+Art. 86.  Revoga-se  o  livramento,
+22
+  se  o  liberado  vem  a  ser  condenado  a  pena  privativa  de  liberdade,  em
+sentença irrecorrível:
+I – por crime cometido durante a vigência do benefício;
+23-24
+II – por crime anterior, observado o disposto no art. 84 deste Código.
+25-26
+21-A. Revogabilidade  do  livramento  condicional:  é  da  sua  própria  essência  poder  ser  revogado  a  qualquer  tempo,
+tendo  em  vista  que  se  cuida  de  uma  antecipação  da  liberdade,  submetida  a  rigorosos  requisitos  para  sua  manutenção.  A
+NÍBAL
+BRUNO, nesse contexto, ensina que “o livramento condicional é um ensaio de libertação em que se põe à prova a capacidade do
+condenado  para  a  reintegração  na  vida  livre  sem  perigo  para  a  ordem  de  Direito.  Assim,  é  por  sua  própria  natureza  revogável”
+(Das penas, p. 200). Na jurisprudência: STJ: “A decisão de revogação do benefício de livramento condicional, nos casos elencados
+no  art.  86  do  CP,  carece  de  maiores  fundamentações,  pois  é  obrigatória.  Precedentes”  (HC  89916-RJ,  6.
+a
+  T.,  rel.  Nefi  Cordeiro,
+26.05.2015, v.u.).
+21-B. Suspensão  cautelar  do  livramento  condicional:  é  viável,  não  necessitando  da  prévia  oitiva  do  condenado.
+Afinal, cuida-se de medida cautelar, tão logo o juiz tome conhecimento de causa propícia à revogação, desde que a repute grave e
+sólida  em  primeira  análise.  Conferir:  STJ:  “A  suspensão  cautelar  do  livramento  condicional  sem  a  prévia  oitiva  do  reeducando,
+diferentemente  da  revogação,  não  constitui  ofensa  às  garantias  constitucionais  da  ampla  defesa  e  do  contraditório,  posto  que
+somente  ocorre  uma  postergação  e  não  uma  supressão  do  ato,  que  será  realizado  por  ocasião  da  revogação  do  benefício.
+Precedentes
+[/PAGINA 719]
+
+[PAGINA 720]
+desta  Corte”  (HC  261.079/SP,  6.
+a
+  T.,  rel.  Maria  Thereza  de  Assis  Moura,  22.04.2014).  TJRS:  “A  suspensão  do
+livramento  condicional  resulta  da  regra  contida  no  art.  145  da  Lei  de  Execução  Penal  e  deve  perdurar  até  o  julgamento  da  ação
+penal  instaurada  em  decorrência  da  prática  pelo  apenado,  no  curso  da  execução  da  pena,  de  fato  definido  como  crime  doloso.  A
+prática  de  fato  definido  como  crime  no  curso  de  livramento  condicional  não  caracteriza  falta  grave,  senão  que  a  suspensão  do
+benefício  –  enquanto  tramitar  o  processo  criminal  daí  resultante  –  e,  sobrevindo  o  trânsito  em  julgado  de  eventual  sentença
+condenatória,  sua  revogação,  nos  termos  da  regra  posta  no  artigo  86,  inciso  I,  do  Código  Penal”  (Ag  70064587348-RS,  1.
+a
+  C.
+Crim., rel. Honório Gonçalves da Silva Neto, 10.06.2015, m.v.); “A prática de fato definido como crime no curso do livramento
+condicional  constitui  infração  ao  benefício,  em  relação  a  qual  caberá,  conforme  o  caso,  suspensão  e  eventual  revogação  do
+benefício  (art.  145  da  LEP  e  art.  86  do  CP).  A  suspensão  do  benefício  deve  perdurar  até  que  transite  em  julgado  a  decisão  no
+processo-crime  respectivo,  momento  em  que,  caso  sobrevenha  condenação,  o  benefício  será  revogado  (artigo  86,  inc.  I,  do  CP).
+Precedentes” (Ag 70057616112-RS, 2.
+a
+ C. Crim., rel. José Ricardo Coutinho Silva, 21.05.2015, v.u.).
+22. Prévia oportunidade de defesa: para a revogação, é sempre indispensável ouvir, antes, o liberado, permitindo-lhe o
+direito  de  ampla  defesa.  Nesse  sentido:  TJRS:  “Os  artigos  86  e  87  do  Código  Penal  preveem  as  hipóteses  de  revogação  do
+livramento condicional. No caso, está-se diante de revogação facultativa, pois inexistente condenação à pena privativa de liberdade
+
+transitada  em  julgado.  Embora  haja  notícia  de  que  o  reeducando  descumpriu  as  condições  impostas  na  decisão  que  deferiu  o
+benefício, é imprescindível, a fim de garantir o contraditório e a ampla defesa, a prévia oitiva do apenado, conforme preceitua o
+artigo  143  da  LEP.  Não  respeitada  a  previsão  legal,  deve  ser  desconstituída  a  decisão  e  designada  data  para  manifestação  do
+agravante. Agravo provido” (Ag 70064180797-RS, 1.
+a
+ C. Crim., rel. Jayme Weingartner Neto, 29.04.2015, v.u.); “O Código Penal
+prevê,  em  seu  artigo  86,  inciso  II,  que  o  livramento  condicional  será  revogado  quando  o  liberado  vier  a  ser  condenado  à  pena
+privativa de liberdade, por sentença transitada em julgado, por crime anterior à concessão do benefício. Contudo, o artigo 143 da
+Lei de Execução Penal exige a oitiva prévia do apenado para fins de revogação do benefício. A não observância dessa disposição
+legal acarreta a nulidade da decisão, diante da ofensa aos princípios do contraditório e da ampla defesa” (Ag 70059222810-RS, 8.
+a
+C. Crim., rel. José Luiz John
+[/PAGINA 720]
+
+[PAGINA 721]
+dos Santos, 28.01.2015, v.u.); “O art. 112 e seu parágrafo 2.º, da Lei de Execução Penal, enunciam
+que  a  decisão  do  Juízo  acerca  do  livramento  condicional  será  sempre  precedida  pela  manifestação  do  Ministério  Público  e  da
+defesa.  Além  disso,  mais  específico  é  o  art.  143  da  Lei  de  Execução  Penal,  que  dispõe  que  a  revogação  será  decretada  a
+requerimento do Ministério Público, mediante representação do Conselho Penitenciário, ou, de ofício, pelo Juiz, ouvido o liberado.
+Não  tendo  sido  aprazada  audiência  de  justificação,  houve  violação  ao  contraditório.  Parecer  do  Ministério  Público  pelo
+reconhecimento da nulidade. Acolhida a preliminar defensiva e anulada a decisão atacada” (Ag 70056275548, 3.
+a
+ C., rel. Diogenes
+Vicente  Hassan  Ribeiro,  19.12.2013).  TJMG:  “Para  a  revogação  do  livramento  condicional  é  necessária  a  observância  da  ampla
+defesa,  respeitando,  pois,  o  contraditório  e  o  devido  processo  legal”  (HC  10000130841620000,  7.
+a
+  C.,  rel.  Cássio  Salomé,
+28.11.2013).
+23. Condenação  por  crime  cometido  durante  o  curso  do  livramento:  o  juiz  pode  ordenar  a  prisão  do  liberado,
+suspendendo  o  livramento,  ouvidos  o  Ministério  Público  e  o  Conselho  Penitenciário,  até  final  decisão  da  Justiça.  Nessa  linha  a
+jurisprudência: STJ: “É possível mandar recolher o liberado de imediato quando o imponham as circunstâncias para depois ouvi-lo
+a respeito” (RT 668/332). A revogação somente ocorrerá em caso de condenação irrecorrível (art. 145, LEP). Assim acontecendo,
+não se decreta extinta a pena enquanto não passar em julgado a sentença que deu causa à suspensão (art. 89, CP). Não se admite,
+como  causa  de  revogação  obrigatória,  o  cometimento  de  contravenção  penal,  ainda  que  resulte  em  pena  privativa  de  liberdade
+(como  a  prisão  simples).  Ainda:  TJMG:  “A  condenação  do  liberado  por  crime  cometido  no  período  de  prova,  se  transitada  em
+julgado,  enseja  a  revogação  obrigatória  do  livramento  condicional,  nos  termos  do  art.  86  do  Código  Penal”  (AgExec.  Penal
+1.0521.09.080700-4/002-MG, 3.
+a
+ C. Crim., rel. Paulo Cézar Dias, 09.06.2015). TJRS: “Tendo em vista que o advento de sentença
+penal condenatória transitada em julgado é causa obrigatória de revogação do livramento condicional, consoante dispõe o art. 86,
+inciso  I,  do  Código  Penal,  é  despicienda  a  prévia  oitiva  do  apenado  em  audiência  de  justificação”  (AE  70057340853-RS,  7.
+a
+ C.
+Crim., rel. José Conrado Kurtz de Souza, j. 16.04.2014, v.u.). Consultar, ainda, a nota 29 infra.
+23-A. Crime cometido antes da liberação, mas após a concessão do livramento condicional: não dá margem
+à suspensão e à revogação do benefício. A lei é clara ao determinar que é causa de revogação do livramento condicional a prática
+de crime durante a vigência do benefício. Portanto, ainda que o condenado tenha cometido o delito após a concessão do benefício,
+mas an
+[/PAGINA 721]
+
+[PAGINA 722]
+tes da efetiva liberação, não pode ocasionar a revogação.
+24.  Decisão  da  revogação  do  livramento,  em  decorrência  de  condenação,  prescinde  de  fundamentação: em  razão  de
+expressa previsão legal, não há necessidade de o magistrado motivar sua decisão.
+25. Condenação  definitiva  por  crime  anterior  ao  livramento:  nesse  caso,  a  revogação  somente  se  dará  se  a  pena
+recebida, somada àquela que permitiu o livramento, torne incompatível o gozo da antecipação da liberdade. Ex.: o réu, condenado
+a  10  anos,  tendo  cumprido  4  anos,  obtém  livramento  condicional.  Posteriormente,  faltando  ainda  6  anos,  é  condenado  a  15,  por
+outro  crime,  cometido  antes  do  benefício.  Sua  pena  total  é  de  25  anos,  de  modo  que  se  torna  incompatível  receber  livramento
+condicional tendo cumprido somente 4 anos, ou seja, menos de 1/5 da pena. Referência: TJMG: “Nos termos do artigo 86, I, do
+Código  Penal  brasileiro,  inviável  a  revogação  do  livramento  condicional  quando  o  novo  crime  perpetrado  não  tenha  ocorrido
+durante  a  vigência  do  benefício”  (AgExec.  Penal  1.0231.13.031576-6/001-MG,  7.
+a
+  C.  Crim.,  rel.  Paulo  Calmon  Nogueira  da
+Gama, 29.01.2015, v.u.).
+26. Livramento insubsistente:  quando  o  condenado  foge  do  presídio  após  a  concessão  do  livramento  condicional,  mas
+antes  da  cerimônia  obrigatória  determinada  pelo  art.  137  da  Lei  de  Execução  Penal,  não  é  caso  de  revogação,  mas  de  torná-lo
+insubsistente.
+Revogação facultativa
+Art.  87.  O  juiz  poderá,  também,  revogar  o  livramento,  se  o  liberado  deixar  de  cumprir  qualquer  das
+obrigações  constantes  da  sentença,
+27-28
+  ou  for  irrecorrivelmente  condenado,  por  crime  ou  contravenção,  a
+pena que não seja privativa de liberdade.
+29
+
+27. Falta  de  cumprimento  das  obrigações  fixadas:  o  juiz  pode  revogar  o  benefício,  devendo,  sempre  que  for
+possível,  além  de  ouvir  antes  o  liberado,  fazer  nova  advertência,  reiterando-lhe  as  condições  estabelecidas  ou  até  mesmo
+agravando tais condições (art. 140, parágrafo único, LEP). Na jurisprudência: STJ: “O livramento condicional deve ser revogado
+caso  o  apenado  venha  a  praticar  novo  crime  durante  o  período  de  prova  (revogação  obrigatória),  hipótese  em  que  se  exige  o
+trânsito  em  julgado  da  condenação  (art.  86  do  CP),  ou  caso  descumpra  injustificadamente  as  condições  impostas  (revogação
+facultativa)  (art.  87  do  CP).  Havendo  descumprimento  injustificado  das  condições  impostas  na  sentença,  não  configura
+constrangimento ilegal a revogação facultativa do livramento condicional, na hipótese em que houve a intimação do paciente para
+apresentar  suas  justificativas,  assegurando-lhe  o  exercício  do  contraditório  e  da  ampla  defesa.  4.  Habeas corpus  não  conhecido”
+(HC 197168-SP, 5.
+a
+ T., rel. Gurgel de Faria, 05.03.2015, v.u.).
+28. Revogação  do  livramento  baseado  na  perda  d
+[/PAGINA 722]
+
+[PAGINA 723]
+os  dias  remidos:  impossibilidade.  Não  há  que  se  confundir  a
+falta grave durante a execução da pena privativa de liberdade para o efeito de provocar a perda dos dias remidos com as causas de
+revogação do livramento condicional.
+29. Condenação por crime ou contravenção à pena de multa ou restritiva de direitos: a lei não faz referência à
+prisão  simples,  de  modo  que,  em  tese,  essa  modalidade  de  pena  não  permitiria  a  revogação  do  benefício.  Nessa  hipótese,  no
+entanto,  deve  prevalecer  o  prudente  critério  do  juiz,  pois  uma  condenação  por  contravenção  penal,  cometida  durante  o  prazo  do
+livramento, pode ser grave, permitindo a revogação (porte de arma branca, por exemplo) ou não (perturbação do sossego abusando
+de instrumentos sonoros). Lembremos que, para haver coerência com o art. 86, I (causas de revogação obrigatória), é preciso que o
+delito  ou  contravenção,  de  onde  se  originou  a  pena  restritiva  de  direitos  ou  multa,  deve  ser  praticado  durante  a  vigência  do
+livramento. Na jurisprudência: TJRS: “Em se tratando de condenação anterior à concessão da benesse, à pena restritiva de direitos,
+ou seja, não privativa de liberdade, incide, na espécie, o disposto no art. 87 do CP, hipótese de revogação facultativa do livramento
+condicional.  No  ponto,  destaca-se  que,  embora  o  referido  dispositivo  legal  não  faça  expressa  referência  às  penas  de  multa  e
+restritivas de direitos, mas sim à ‘pena que não seja privativa de liberdade’, certo é que estas não são penas privativas de liberdade,
+ainda que a segunda somente seja aplicada como substituição da pena corporal. Assim, inviável que se restrinja a aplicação do art.
+87  do  CP  tão  somente  à  pena  de  multa,  de  forma  prejudicial  ao  apenado  e  de  forma  contrária  ao  próprio  texto  legal.  Decisão
+agravada mantida” (Ag 70064013568-RS, 8.
+a
+ C. Crim., rel. Isabel de Borba Lucas, 29.04.2015, v.u.).
+Efeitos da revogação
+Art. 88. Revogado o livramento, não poderá ser novamente concedido, e, salvo quando a revogação resulta
+de condenação por outro crime anterior àquele benefício, não se desconta na pena o tempo em que esteve
+solto o condenado.
+30-30-A
+30. Efeitos da revogação: são os seguintes: a) réu condenado por crime (e não contravenção) cometido anteriormente à
+concessão do livramento condicional, cujo montante da pena não permita que continue em liberdade, pode obter novo livramento,
+e o período em que esteve no gozo do benefício é computado como cumprimento de pena (art. 728 do CPP: “Se a revogação for
+motivada por infração penal anterior à vigência do livramento, computar-se-á no tempo da pena o período em que esteve solto o
+liberado, sendo permitida, para a concessão de novo livramento, a soma do tempo das duas penas”); b) réu condenado por crime (e
+não  contravenção)  cometido  durante  a  vigência  do  livramento  não  pode  obter  novo  livramento,  e  o  tempo  em  que  ficou  em
+liberdade é desprezado para fins de
+[/PAGINA 723]
+
+[PAGINA 724]
+cumprimento de pena. Em tese, poderá obter livramento condicional na segunda condenação;
+c) réu perde o benefício do livramento porque descumpriu as condições impostas ou foi condenado por crime ou contravenção a
+pena de multa ou restritiva de direitos durante o prazo do livramento: não pode mais obter livramento quanto a esta pena e não se
+computa   o   tempo   em   que   esteve   solto   como   cumprimento   da   pena.   Na   jurisprudência:   TJRS:   “Não   há   falar   em
+inconstitucionalidade dos artigos 88 do CP e 142 da LEP, uma vez que o livramento condicional trata-se de benefício incentivador
+ao  apenado  que  preencher  os  requisitos  necessários,  para  que  possa  ver  extinta  sua  reprimenda  depois  de  cumprido  determinado
+período de prova, em substituição à reprimenda privativa de liberdade, não se constituindo, entretanto, tal período de prova como
+efetivo cumprimento de pena, tampouco podendo como tal ser considerado. Precedentes da Corte e do STJ” (Ag 70059212282-RS,
+2
+a
+ C. Crim., rel. José Antônio Cidade Pitrez, 26.03.2015, v.u.); “Impossibilidade de concessão de novo livramento condicional na
+hipótese  de  ter  ocorrido  anterior  revogação  por  descumprimento  de  condições.  Art.  88,  CP.  Improvido  o  recurso”  (Ag
+70064668924-RS,  8.
+a
+  C.  Crim.,  rel.  Dálvio  Leite  Dias  Teixeira,  24.06.2015,  v.u.);  “A  superveniência  de  nova  condenação
+definitiva, durante o gozo do benefício do livramento condicional, quando diz com crime praticado durante a benesse, impede que
+o período de prova seja considerado como pena cumprida – art. 88, do CP, e art. 141 da LEP. Hipótese na qual o apenado recebeu
+o  benefício  na  data  de  30.09.2013,  restando  suspenso  em  16.05.2014,  em  face  da  notícia  de  prisão  flagrante  por  novo  delito  de
+
+coação  durante  o  processo.  Revogação  em  01.04.2015,  pela  notícia  do  trânsito  em  julgado  na  nova  condenação.  Magistrada
+singular  que  mandou  não  computar  na  pena  o  tempo  pelo  qual  o  sentenciado  esteve  no  benefício,  em  conformidade  com  os
+comandos  legais  respectivos.  Decisão  mantida”  (Ag  70065015521-RS,  8.
+a
+  C.  Crim.,  rel.  Fabianne  Breton  Baisch,  24.06.2015,
+v.u.);  “As  consequências  da  revogação  limitam-se  à  inviabilidade  de  nova  concessão  do  benefício  e  à  impossibilidade  de
+computar-se  o  período  em  que  esteve  solto  o  condenado  como  de  cumprimento  de  pena  (diploma  legal  precitado,  art.  88).  Isso
+porque, na realidade, o liberado condicionalmente encontra-se solto, estando sujeito, tão somente, às consequências previstas nas
+normas  legais  que  instituíram  o  benefício,  não  aquelas  atinentes  à  execução  da  pena”  (Ag  70063207872-RS,  1.
+a
+  C.  Crim.,  rel.
+Honório Gonçalves da Silva Neto, 11.02.2015, v.u.).
+30-A. Oitiva  do  liberado:  em  função  da  ampla  defesa,  parece-nos  indispensável  ouvir  o  condenado,  antes  de  revogar
+definitivamente o livramento condicional, mesmo em cas
+[/PAGINA 724]
+
+[PAGINA 725]
+o de outra condenação. No entanto, a jurisprudência não tem seguido essa
+direção:  TJMG:  “1.  O  cometimento  de  novo  crime  (com  condenação  transitada  em  julgado)  durante  o  gozo  do  livramento
+condicional  é  causa  inexorável  de  revogação  do  benefício,  e  é  inútil  e  desnecessária  a  oitiva  do  executando  antes  da  decisão
+revogadora. 2. A revogação do livramento condicional impõe que não se compute como tempo de pena cumprida o lapso temporal
+em que o condenado ficou em liberdade” (AE 10059080134691001-MG, 1.
+a
+ C. Crim., rel. Walter Luiz, j. 21.05.2013, v.u.).
+Extinção
+Art.  89.  O  juiz  não  poderá  declarar  extinta  a  pena,  enquanto  não  passar  em  julgado  a  sentença  em
+processo a que responde o liberado, por crime cometido na vigência do livramento.
+31-31-A
+31. Prorrogação automática do prazo do livramento: quando o condenado estiver respondendo a processo por crime
+cometido  durante  a  vigência  do  benefício,  prorroga-se  automaticamente  o  período  a  fim  de  se  constatar  se  não  era  o  caso  de
+revogação  obrigatória  (art.  86,  I,  CP).  Em  sendo  condenado  definitivamente,  o  livramento  será  revogado  com  as  consequências
+fixadas  no  art.  88.  Na  jurisprudência:  TJSP:  “Agravo  em  execução  –  Interposição  visando  reforma  da  decisão  que  revogou  o
+livramento condicional – Impossibilidade – Prática de outro crime na vigência do período de prova, prorrogado automaticamente,
+tendo o Juízo a quo revogado o livramento, com a notícia de sentença condenatória transitada em julgado – Ato em consonância
+com  os  artigos  145  e  146  da  LEP  e  art.  89,  do  CP  –  Negado  provimento  ao  agravo”  (0012374-29.2015.8.26.0000-Sorocaba,  3
+a
+C.D.C., rel. Ruy Alberto Leme Cavalheiro, 09.06.2015, v.u.); “Agravo em execução. Revogação de livramento condicional ante o
+cometimento  de  novo  delito.  Intenta  o  agravante  seja  declarada  a  extinção  da  pena,  tendo  em  vista  o  decurso  do  prazo  sem  que
+houvesse  prorrogação  expressa.  Impossibilidade.  Com  a  prática  do  novo  delito,  a  prorrogação  do  período  de  prova  é  medida
+automática, estendendo-se até o trânsito em julgado do processo em que responde pelo delito superveniente. Vedação expressa ao
+magistrado  para  que  declare  extinta  a  punibilidade  –  art.  89  do  Código  Penal.  Agravo  improvido”  (7002154-28.2015.8.26.0071-
+Bauru, 1
+a
+  C.D.C.,  rel.  Péricles  Piza,  08.06.2015,  v.u.);  “Agravo  em  execução  –  Livramento  condicional  –  Prática  de  novo  crime
+durante  o  período  de  provas  –  Prorrogação  –  Necessidade:  com  a  prática  de  novo  delito,  fica  o  juiz  impedido  pelo  art.  89  do
+Código Penal de declarar a extinção das penas e, portanto, fica automaticamente prorrogado o prazo do livramento condicional, até
+que  o  novo  delito  seja  definitivamente  julgado.  Agravo  provido”  (0003094-34.2015.8.26.0000-Ta-quarituba,  2.
+a
+  C.D.C.,  rel.  J.
+Martins, 01.06.2015, v.u.); “A ex
+[/PAGINA 725]
+
+[PAGINA 726]
+tinção da pena não pode ser declarada quando, no curso do livramento condicional, o sentenciado
+pratica   novo   delito,   ante   a   ocorrência   de   prorrogação   automática,   nos   termos   do   artigo   89   do   Código   Penal”   (Ag
+01257168620138260000, 4.
+a
+ C., rel. Willian Campos, 29.07.2014); “Prática de nova infração penal durante o período de prova do
+livramento condicional acarreta a prorrogação automática do prazo, isto é, a prorrogação independe de declaração do Magistrado,
+sob pena de tornar inócua a regra contida no artigo 89 do Código Penal. Entendimento doutrinário e precedente desta Câmara” (Ag
+00248564320148260000,  3.
+a
+  C.,  rel.  Cesar  Mecchi  Morales,  12.08.2014).  TJRJ:  “Agravado  que,  em  gozo  de  livramento
+condicional,  pratica  novo  crime  durante  o  período  de  prova.  Decisão  que  suspende  o  benefício  após  a  vigência  do  período.  A
+prática  de  novo  ilícito  penal  durante  o  período  de  prova  é  causa  obrigatória  de  suspensão  e  posterior  revogação  do  benefício.
+Prorrogação automática do prazo do livramento condicional. Decisão declaratória de suspensão do livramento condicional. Efeitos
+retroativos  à  data  do  cometimento  do  novo  delito.  Impossibilidade  de  ser  decretada  a  extinção  da  pena  do  agravado.  Recurso
+provido”  (Ag  00044119620148190000,  2.
+a
+  C.,  rel.  Antonio  José  Ferreira  Carvalho,  11.03.2014).  Em contrário:  STF:  “A  Turma
+concedeu, de ofício, habeas corpus para declarar extinta a pena privativa de liberdade objeto do livramento condicional deferido
+ao  paciente,  cujo  período  de  prova  findara  em  data  anterior  à  da  sentença  condenatória  relativa  a  segundo  delito.  (...)  Quanto  à
+questão  de  fundo,  aplicou-se  o  entendimento  firmado  pela  Corte  no  sentido  de  que  se  considera  extinta  a  pena  privativa  de
+liberdade com o término do período de livramento condicional se não houve a sua revogação nem a suspensão cautelar do curso do
+benefício por decisão judicial. Precedentes citados: HC 81.879-SP (DJU de 20.09.2002) e RHC 85.287-RJ (DJU de 08.04.2005)”
+(HC  88.610-RJ,  1.
+a
+  T.,  rel.  Ricardo  Lewandowski,  05.06.2007,  v.u.,  Informativo  470).  STJ:  “Inexistindo  suspensão  cautelar  do
+
+livramento condicional, o transcurso do respectivo prazo, sem revogação, implica a extinção da pena, diante da impossibilidade de
+prorrogação automática do período de prova. Precedentes” (AgRg no HC 277.161, 6.
+a
+ T., rel. Sebastião Reis Júnior, 01.10.2013);
+“Segundo  a  jurisprudência  do  Superior  Tribunal  de  Justiça,  expirado  o  prazo  do  livramento  condicional  sem  suspensão  ou
+prorrogação, a pena é automaticamente extinta, sendo ilegal a sua revogação posterior ante a constatação do cometimento de delito
+durante  o  período  de  prova.  Precedentes.  Ressalva  de  entendimento  do  relator”  (HC  251.284-SP,  5.
+a
+  T.,  rel.  Marco  Aurélio
+Bellizze, 04.06.2013, m.v.). Da mesma Corte: “Embora em julgamentos anteriore
+[/PAGINA 726]
+
+[PAGINA 727]
+s a Relatora tenha entendido que, em obediência
+ao  comando  do  art.  89  do  Código  Penal,  não  há  como  se  reconhecer  a  extinção  da  pretensão  punitiva  estatal  no  caso  de
+cometimento de novo crime pelo condenado em liberdade condicional, sobretudo quando há prisão em flagrante, a jurisprudência
+majoritária desta Quinta Turma é no sentido contrário, vedando a revogação do benefício se o Juiz da Execução não determina a
+suspensão ainda no período de prova. Precedentes” (RO em HC 16.383-RJ, 5.
+a
+ T., rel. Laurita Vaz, 23.11.2004, v.u., Bol.  AASP
+2.433). TJMG: “Escoado o prazo do livramento condicional sem a demonstração de que tenha sido instaurada ação penal contra o
+executado  por  crime  superveniente,  deve  ser  extinta  a  pena  respectiva,  ex  vi  do  art.  146  da  Lei  de  Execução  Penal”  (AE
+1.0000.06.438993-5/001(1), 4.
+a
+ C. Crim., rel. Delmival de Almeida Campos, j. 27.09.2006, v.u.).
+31-A. Suspensão cautelar como garantia e necessidade: tendo em vista o posicionamento adotado pelos Tribunais
+Superiores  (STF  e  STJ),  conforme  exposto  na  nota  anterior,  de  que  o  livramento  condicional,  se  não  for  suspenso  ou  revogado,
+antes do término do período de prova, considera-se extinto, mesmo que o condenado tenha cometido crime durante a sua vigência,
+recomenda-se  aos  juízes  que  suspendam  cautelarmente  o  benefício,  determinando  o  recolhimento  do  sentenciado  ao  cárcere,  tão
+logo tenham notícia de causa apta à revogação. Se os magistrados da execução não o fizerem, crendo que o período do livramento
+será automaticamente prorrogado, poderão levar o caso à extinção da punibilidade. Noutros termos, segundo pensamos, o período
+do  livramento  condicional  deve  ser  prorrogado  automaticamente,  assim  que  o  sentenciado  comete  novo  delito  durante  sua
+vigência.  Portanto,  somente  se  houvesse  condenação  efetiva,  deveria  o  livramento  ser  revogado.  Mas  assim  não  é  a  posição  dos
+Tribunais  Superiores.  Diante  disso,  para  evitar  que  o  sentenciado  cometa  uma  infração  penal  durante  o  período  de  livramento
+condicional  e,  mesmo  desse  modo,  nada  lhe  ocorra,  é  fundamental  que  o  juiz  das  execuções  penais  suspenda  cautelarmente  o
+benefício, independentemente da oitiva prévia do condenado (ver a nota 21-B supra). Na jurisprudência: TJRS: “O art. 89 do CP e
+art. 145 da LEP possibilitam a suspensão do benefício do livramento condicional até o trânsito em julgado do processo que apura a
+prática de fato definido como crime imputada ao apenado” (Ag 70063936207-RS, 1.
+a
+ C. Crim., rel. Julio Cesar Finger, 29.04.2015,
+v.u.).
+Art. 90. Se até o seu término o livramento não é revogado, considera--se extinta
+32
+ a pena privativa de liberdade.
+33-35
+32. Natureza  da  decisão  que  considera  extinta  a  pena:  é  declaratória,  pois  a  própria  lei  estabelece  que,  findo  o
+livramento, sem revogação, “considera-se extinta a pena”. Lembre-se que, caso o condenado esteja
+[/PAGINA 727]
+
+[PAGINA 728]
+respondendo por novo delito,
+cometido durante o prazo do livramento, está automaticamente prorrogado o seu término (art. 89). Porém, consultar a nota 31-A
+supra. No entanto, fora a hipótese do cometimento de crime, o advento de outras causas de revogação não serve para prorrogar o
+período  do  livramento.  Dessa  forma,  o  ideal  é  que,  constatada  a  falha  do  sentenciado,  em  qualquer  sentido,  o  juiz  suspenda
+cautelarmente  o  benefício;  se  não  o  fizer,  ao  fim  do  período,  ocorrerá  a  extinção  da  punibilidade,  sem  viabilidade  de  revogação.
+Conferir a posição pela extinção: STJ: “Consoante entendimento consolidado nesta Corte Superior, não ocorrendo o sobrestamento
+durante o período de prova, descabida é a sua revogação posterior, devendo ser declarada a extinção da pena, nos termos do art. 90
+do Código Penal. (...) Ordem concedida de ofício para cassar o aresto hostilizado e restabelecer a decisão proferida pelo Juízo da
+Execução que declarou extinta a pena privativa de liberdade imposta ao paciente nos Autos n. 28.282/2008, da 9.
+a
+ Vara Criminal
+da  comarca  da  Capital/SP,  em  virtude  de  seu  integral  cumprimento”  (HC  290526-SP,  5.
+a
+  T.,  rel.  Jorge  Mussi,  10.03.2015,  v.u.).
+TJRJ: “Encerrado o curso do livramento condicional sem revogação considera-se extinta a pena privativa de liberdade, nos exatos
+termos do artigo 90 do Código Penal, já que a mera prática do delito não tem o condão de prorrogar de forma automática o curso
+do  livramento,  o  qual  somente  se  suspende  ou  se  revoga  por  expressa  determinação  judicial.  Precedentes  do  STJ  e  STF”  (AE
+0022007-64.2012.8.19.0000, 2.
+a
+ C. Crim., rel. Paulo de Oliveira Lanzellotti Baldez, j. 18.09.2012, v.u.). TJMG: “Não é possível a
+suspensão do  benefício  do  livramento  condicional,  depois  de  extinta  a  punibilidade  do  apenado.  Cabe  ao  Ministério  Público
+fiscalizar  o  cumprimento  da  pena,  manifestando-se  oportunamente  sobre  eventuais  faltas  cometidas  pelo  apenado  durante  o
+período de prova, pois depois de transcorrido o prazo do livramento condicional, sem que tenha havido revogação, nos termos do
+artigo  90  do  Código  Penal,  considera-se  extinta  a  punibilidade”  (AgExec.  Penal  1.0035.09.159827-2/002-MG,  6.
+a
+  C.  Crim.,  rel.
+Denise  Pinho  da  Costa  Val,  02.06.2015).  Em  posição  diferenciada,  pois  o  crime  é  cometido  após  o  término  do  prazo:  TJSP:
+“Livramento condicional – Cometimento de novo delito após o término do curso do período de prova – Ausência da suspensão do
+benefício durante a sua vigência – Extinção da pena pelo cumprimento – Possibilidade – Aplicação do artigo 90 do Código Penal –
+Posicionamento  jurisprudencial  do  STJ  –  Agravo  não  provido”  (AE  7001420-91.2016.8.26.0637,  15.
+a
+  C.  D.  Crim.,  rel.  Ricardo
+
+Sale Júnior, j. 11.08.2016, v.u.).
+33. Livramento  condicional  para  estrangeiro:   é   controversa   a   possibilidade   de   estrangeiro   obter   livramento
+condi
+[/PAGINA 728]
+
+[PAGINA 729]
+cional. Posicionava-se, majoritariamente, a jurisprudência no sentido negativo. A única forma de romper essa barreira era o
+estrangeiro provar ter visto permanente no Brasil, endereço fixo e demonstrar, por certidão, não ter sido expulso: STF: RT 630/377,
+RT  629/393.  Idem  com  a  seguinte  ementa:  TJSP:  “Livramento  condicional  –  Benefício  negado  –  Envolvimento  em  grave  delito,
+com decreto de expulsão condicionado ao cumprimento das penas a que condenado no Brasil – Presunção de nocividade social –
+Irrelevância do preenchimento dos requisitos do art. 83 e parágrafo único do CP – Pena que deve ser integralmente executada” (RT
+619/323).  Essa  corrente  tornou-se  minoritária,  em  particular  nos  Tribunais  Superiores  (STF  e  STJ).  Costuma-se  alegar  que,  sem
+vínculo  com  o  País  e  se  estiver  sob  a  perspectiva  de  ser  expulso  por  causa  do  crime  cometido,  nada  obrigaria  o  sentenciado  a
+cumprir as condições do seu benefício. Por isso, o ideal seria cumprir sua pena em regime fechado para, depois, deixar o território
+nacional.  O  argumento  peca,  em  primeiro  lugar,  por  desigualar  brasileiros  e  estrangeiros,  ofendendo  o  princípio  da  dignidade  da
+pessoa humana. Pouco importa se o estrangeiro, em gozo do livramento condicional, pode ser expulso e não cumprir mais a pena,
+afinal,  mesmo  estando  em  regime  fechado,  conforme  o  critério  discricionário  do  Poder  Executivo,  ele  pode  ser  expulso  (sem
+cumprir  a  pena).  Então,  se  preenchidos  os  requisitos  do  art.  83,  deve  ser  concedido  o  livramento  condicional  também  ao
+estrangeiro. Essa é, atualmente, a posição que nos convence, pelos motivos já expostos. Há que se ressaltar a existência de algumas
+hipóteses em que há tratado firmado pelo Brasil e país estrangeiro, para que este cumpra a decisão prolatada por juiz brasileiro (e
+vice-versa).  É  o  caso  de  condenados  provenientes  do  Canadá,  Argentina  e  Chile,  uma  vez  que  tais  países  possuem  tratado
+específico  com  o  Brasil  para  a  troca  de  presos,  razão  pela  qual  a  sentença  condenatória  brasileira  pode  ser  reconhecida  nesses
+lugares, valendo, então, o cumprimento do livramento condicional no exterior.
+34. Expulsão  do  estrangeiro  antes  do  cumprimento  da  pena:  é  possível,  diante  do  preceituado  pelo  Estatuto  do
+Estrangeiro,  pois  constitui  ato  discricionário  do  Presidente  da  República.  Entretanto,  se  o  Presidente  determinar  a  expulsão
+somente  após  a  sentença  condenatória  ser  cumprida,  é  viável  até,  antes  disso,  colocar  o  preso  em  livramento  condicional,
+aguardando-se o seu término para haver a referida expulsão.
+35. Competência  para  concessão  do  livramento  condicional:  cabe  ao  juiz  das  execuções  penais  do  lugar  onde  o
+preso cumpre pena, mesmo que ele esteja em outra unidade da Federação. Ver: STJ: RT 655/355; RSTJ 13/74.
+Capítulo VI
+DOS EFEITOS DA CONDENAÇÃO
+1
+1. Conceito e natureza jurídica
+[/PAGINA 729]
+
+[PAGINA 730]
+dos efeitos da condenação:  são  os  efeitos  secundários  ou  acessórios  da  sentença.
+Como  ensina  F
+REDERICO  MARQUES,  “ao  lado  dos  efeitos  que  a  condenação  produz  como  ato  jurídico,  consequências  dela
+derivam  como  fato  ou  acontecimento  jurídico.  A  sentença  condenatória,  de  par  com  seus  efeitos  principais,  tem  o  que  alguns
+denominam efeitos ‘reflexos e acessórios’, ou efeitos indiretos, que são consequência dos efeitos principais, ou efeitos da sentença
+como fato jurídico”. O efeito principal da sentença condenatória é fixar a pena. Outros efeitos podem daí advir: são os secundários,
+que  não  devem  ser  confundidos  com  as  antigas  penas acessórias,  extintas  por  ocasião  da  Reforma  Penal  de  1984.  Entretanto,  é
+indiscutível que alguns dos chamados “efeitos da condenação” – especialmente os do art. 92 do Código Penal – ganharam ares de
+penas acessórias camufladas. Dessa opinião comunga J
+AIR LEONARDO LOPES (Curso de direito penal, p. 249). As extintas penas
+acessórias  –  definidas  pela  doutrina  como  “sanção  especial,  de  natureza  complementar,  expressiva  de  restrições  impostas  à
+capacidade  jurídica  do  condenado”  (cf.  B
+ENTO  DE FARIA,  citado  por  FREDERICO MARQUES, Tratado  de  direito  penal,  v.  3)  –
+eram as seguintes: “perda de função pública, eletiva ou de nomeação”, “interdições de direitos” e “publicação da sentença” (art. 67
+do  Código  Penal  de  1940).  Dentre  as  interdições  de  direitos  estava  a  “incapacidade  para  o  exercício  do  pátrio  poder,  tutela  ou
+curatela”.  Ora,  quem  conferir  a  relação  dos  efeitos  da  condenação  prevista  no  art.  92  do  Código  Penal  atual  pode  notar,  com
+clareza  meridiana,  que  lá  estão  as  antigas  “penas  acessórias”,  agora  com  o  nome  de  “efeitos  da  condenação”.  Dir-se-ia  que  as
+penas  acessórias  diferem  dos  efeitos  da  condenação  porque  estes,  ao  menos  no  caso  do  art.  92,  como  se  vai  analisar,  são
+facultativos. Ocorre que as penas acessórias, segundo vários julgados do STF da época, também não decorriam automaticamente
+da  sentença  condenatória,  merecendo  ser  impostas  e  fundamentadas  pelos  magistrados.  Outros  poderiam  dizer  que  a  diferença
+concentra-se  no  fato  de  as  penas  acessórias  dependerem  das  principais  e  sua  aplicação  estar  jungida  à  graduação  que  a  sentença
+tenha dado à pena privativa de liberdade. Assim também muitos dos efeitos da condenação (vide, no art. 92, o inciso I, a e b, que
+trata do quantum da pena, bem como o inciso II, que menciona o tipo de pena privativa de liberdade necessário). As antigas penas
+acessórias apenas ganharam melhor denominação jurídica. De fato, os efeitos do art. 92 são, como dizem R
+EALE JÚNIOR, DOTTI,
+ANDREUCCI  e  PITOMBO,  “sanções  jurídicas,  visando  a  consequências  outras  que  não  de  caráter  penal.  Não  guardam  cunho
+retributivo.  Estão  presididos  pela  finalidade  de  prevenção,  na  medida
+[/PAGINA 730]
+
+[PAGINA 731]
+em  que  inviabilizam  a  manutenção  de  situações  que
+
+propiciam  a  prática  do  fato  delituoso,  assim  o  desestimulando”  (Penas  e  medidas  de  segurança  no  novo  Código,  p.  259).  Nesse
+prisma, é mais apropriado falar em “efeitos da condenação” do que em “penas acessórias”, além de se evitar sempre a impressão
+de estar o Estado conferindo ao condenado duas penalidades pelo mesmo fato – a principal e a acessória –, num abrigo ilógico para
+o malfadado bis in idem.  Apesar  da  alteração  da  nomenclatura,  embora  mantidas  no  sistema  penal,  não  faltam  críticos  para  sua
+existência. Ensina J
+AIR LEONARDO LOPES  que  elas  “não  educam,  nem  corrigem,  porque  não  têm  mobilidade  na  execução;  elas
+não  estimulam,  porque  humilham  o  condenado  no  seio  da  sua  família  (incapacidade  para  o  exercício  do  pátrio  poder  ou  da
+autoridade  marital),  no  seio  da  sociedade  (suspensão  dos  direitos  políticos),  no  meio  do  grupo  profissional  (incapacidade  para  a
+profissão ou atividade). Elas acompanham o condenado, silenciosamente, como uma sombra negra, que não o ajuda, que não lhe
+desperta outro sentimento senão o da própria inferioridade” (tese de concurso, Da reabilitação no direito penal, in Curso de direito
+penal, p. 250).
+Efeitos genéricos e específicos
+2
+Art. 91. São efeitos da condenação:
+I  –  tornar  certa  a  obrigação  de  indenizar  o  dano  causado  pelo  crime;
+3
+  II  –  a  perda  em  favor  da  União,
+ressalvado o direito do lesado ou de terceiro de boa-fé:
+a)  dos  instrumentos  do  crime,  desde  que  consistam  em  coisas  cujo  fabrico,  alienação,  uso,  porte  ou
+detenção constitua fato ilícito;
+4
+b)  do  produto  do  crime  ou  de  qualquer  bem  ou  valor  que  constitua  proveito  auferido  pelo  agente  com  a
+prática do fato criminoso.
+4-A-4-D
+§  1.º  Poderá  ser  decretada  a  perda  de  bens  ou  valores  equivalentes  ao  produto  ou  proveito  do  crime
+quando estes não forem encontrados ou quando se localizarem no exterior.
+4-E
+§ 2.º Na hipótese do § 1.º, as medidas assecuratórias previstas na legislação processual poderão abranger
+bens ou valores equivalentes do investigado ou acusado para posterior decretação de perda.
+4-F
+2. Efeitos  penais  e  extrapenais  da  sentença  penal  condenatória:  a  sentença  condenatória  produz  efeitos
+secundários de duas ordens: a) penais (tais como impedir ou revogar o sursis, revogar o livramento condicional ou a reabilitação,
+lançar o nome do réu no rol dos culpados, propiciar a reincidência etc.); b) extrapenais (cuja atuação se dá fora do âmbito penal),
+subdividindo-se em genéricos e específicos, previstos nos arts. 91 e 92 do Código Penal.
+3. Efeito genérico de tornar certa a obrigação de reparar o dano: trata-se de efeito automático, que não necessita
+ser expressamente pronunciado pelo juiz na sentença condenatória e destina-se a formar título executivo judicial para a propositura
+da ação civil ex delicto. Vale mencionar o seguinte
+[/PAGINA 731]
+
+[PAGINA 732]
+alerta de F
+REDERICO MARQUES:  “Se  a  sentença  penal  reconhece  que  o  fato
+típico não é ilícito em virtude da ocorrência de uma das justificativas do art. 23 do Código Penal, ilicitude também não existe no
+Direito  Civil,  e  isto  em  face  do  próprio  artigo  do  Código  Civil,  que  exclui  a  antijuridicidade  do  ato  danoso  quando  há  legítima
+defesa, exercício regular de um direito e o estado de necessidade (art. 160, ns. I, II) [atual art. 188, I e II]. Todavia, apesar de no
+estado de necessidade o ato agressivo se considerar lícito, eximido não se encontra seu autor de indenizar os prejuízos causados.
+Vigora  aí  o  princípio,  segundo  expõe  Alceu  Cordeiro  Fernandes,  de  que,  ‘embora  lícito  o  ato,  isto  é,  praticado  de  conformidade
+com  o  direito,  cria,  não  obstante,  para  o  agente  a  obrigação  de  indenizar,  por  isso  que  causa  dano,  diminui  o  patrimônio  de
+outrem’.  (...)  A  aplicação  dos  arts.  1.519  e  1.520  [atuais  arts.  929  e  930]  do  Código  Civil,  depois  de  absolvido  criminalmente  o
+acusado em virtude do estado de necessidade, não significa violação do art. 65 do Código de Processo Penal. O juiz civil aceitou,
+como  não  poderia  deixar  de  acontecer,  o  que  reconheceu  o  juiz  penal;  todavia,  mesmo  em  estado  de  necessidade,  mesmo
+praticando  um  ato  lícito,  o  causador  do  prejuízo  deve  repará-lo,  porque  assim  o  determina  o  Código  Civil”  (Tratado  de  direito
+penal, v. III, p. 377). Nesse caso, a sentença penal faz nascer o título executório, sem mais discussão sobre a culpa (an debeatur),
+restando  a  análise  do  valor  da  indenização  (quantum  debeatur).  Após  a  reforma  introduzida  pela  Lei  11.719/2008,  tornou-se
+possível,  também,  a  fixação,  na  sentença  condenatória,  de  valor  mínimo  para  a  indenização  civil  em  decorrência  da  prática  da
+infração  penal  (art.  387,  IV,  CPP).  Sob  outro  prisma,  a  sentença  absolutória  não  serve  de  título  executivo,  aplicando-se-lhe,
+entretanto, o disposto nos arts. 64 e 66 do Código de Processo Penal. Quando houver anistia, permanece o dever de indenização na
+esfera  cível.  No  caso  de  prescrição  da  pretensão  executória,  mantém  a  sentença  a  sua  força  de  título  executório,  o  mesmo  não
+ocorrendo  com  a  prescrição  da  pretensão  punitiva.  Nesta  situação,  deve  a  vítima  discutir,  no  cível,  a  culpa  do  réu.  Na
+jurisprudência: TJMG: “A reparação dos danos causados à vítima, nos termos do art. 91, I, CP, e art. 387, IV, do CPP, enquanto
+efeito  genérico  e  obrigatório  da  sentença  penal  condenatória,  não  se  confunde  com  a  indenização  paga  pelo  seguro  obrigatório
+DPVAT,  não  podendo  por  este  ser  substituído”  (Ap.  Crim.  1.0287.12.007496-1/001-MG,  7.
+a
+ C. Crim., rel. Agostinho Gomes de
+
+Azevedo, 07.05.2015).
+4. Efeito genérico da perda em favor do Estado dos instrumentos do crime, desde que bens e valores de
+origem ilícita: é a hipótese
+[/PAGINA 732]
+
+[PAGINA 733]
+do confisco, também automática, sem necessidade de ser declarada pelo juiz na sentença, largamente
+utilizada  na  antiguidade  como  pena  total  ou  parcial.  Nessa  época,  no  entanto,  terminava  atingindo  inocentes,  como  a  família  do
+réu,  que  perdia  bens  licitamente  adquiridos  por  força  de  uma  condenação  que  não  deveria  passar  da  pessoa  do  criminoso.  Era
+medida  desumana  e  injusta,  até  que,  hoje,  não  mais  se  admite  o  confisco  atingindo  terceiros  não  participantes  do  delito  (art.  5.º,
+XLV, CF). Os efeitos da condenação não mais se relacionam com essa modalidade de pena odiosa, porque só afetam instrumentos
+usados  para  a  prática  do  delito  ou  o  produto  conseguido  pela  atividade  criminosa,  nada  possuindo  de  aberrante.  Os  instrumentos
+que podem ser confiscados pelo Estado são os ilícitos, vale dizer, aqueles cujo porte, uso, detenção, fabrico ou alienação é vedado.
+Ex.: armas de uso exclusivo do Exército ou utilizadas sem o devido porte; documentos falsos; máquinas de fabrico de dinheiro etc.
+Nesse sentido: STJ: “O confisco é disciplinado no art. 91, do Código Penal, como forma de expropriação, em favor do Estado, dos
+instrumentos e produtos de crime, com a finalidade de assegurar a indisponibilidade dos bens ilícitos utilizados para a prática da
+infração ou que tenham sido angariados com a conduta ilícita” (REsp 1.316.694-PR, 5.
+a
+ T., rel. Regina Helena Costa, 17.12.2013).
+Sobre  os  requisitos  para  segurar  ou  liberar  o  bem:  TRF-4.
+a
+  Reg.:  “1.  A  restituição  da  coisa  apreendida  pode  ser  deferida  se
+preenchidos  os  requisitos:  a)  a  inaplicabilidade  da  pena  de  perdimento  (art.  91,  II,  do  Código  Penal);  b)  se  não  houver  mais
+interesse  sobre  o  bem  na  instrução  da  ação  penal  (art.  118,  Código  de  Processo  penal);  c)  se  tiver  sido  demonstrada  de  plano  a
+propriedade pelo requerente (art. 120, Código de Processo Penal). 2. Havendo indícios de que o bem apreendido constitua proveito
+de  crime,  não  pode  ser  restituído  por  ainda  interessar  ao  feito,  ante  a  possibilidade  de  sobre  ele  recair  a  pena  de  perdimento.  3.
+Também a falta de comprovação acerca da origem lícita do bem constitui motivo para o indeferimento do pedido de desbloqueio.
+4.  Apelação  criminal  improvida”  (Ap.  5032320-93.2015.404.7000,  8.
+a
+  T.,  rel.  João  Pedro  Gebran  Neto,  j.  30.09.2015,  v.u.).
+Conferir ainda: TJRS: “Os bens e valores apreendidos só podem ser restituídos, mesmo depois de transitar em julgado a sentença
+absolutória final ou de extinta a punibilidade pelo cumprimento dos benefícios despenalizadores, se forem lícitos e pertencerem ao
+lesado  ou  a  terceiro  de  boa-fé.  Hipótese  dos  autos  em  que  as  máquinas  caça-níqueis  não  possuem  outra  finalidade  a  não  ser  a
+exploração de jogos de azar, vedada pelo ordenamento jurídico vigente. Interpretação consentânea com o disposto nos artigos 91,
+II, a  e  b,  do  CP  e
+[/PAGINA 733]
+
+[PAGINA 734]
+120  e  seguintes  do  CPP”  (Recurso  Crime  71005274147-RS,  Turma  Recursal  Criminal,  rel.  Lourdes  Helena
+Pacheco  da  Silva,  17.06.2015,  v.u.).  Não  cabe  para  instrumentos  de  uso  e  porte  lícitos:  cadeira,  automóvel,  faca  de  cozinha  etc.
+Exemplo interessante é encontrado na jurisprudência, autorizando a liberação do dinheiro, na esfera penal, apreendido em tentativa
+de  evasão  de  divisas  (sujeito  é  preso  em  revista  feita  pela  Polícia  Federal,  buscando  sair  do  Brasil  com  R$  30.000,00  em  moeda
+nacional rumo ao Paraguai), por não se tratar de coisa ilícita (TRF-4.
+a
+ Região, Ap. 1999.70.02.004110-8-PR, 7.
+a
+ T., rel. Vladimir
+Freitas,  30.04.2002,  v.u.).  Como  exceção,  pode-se  mencionar  o  confisco  especial  previsto  na  Lei  de  Drogas,  que  recai  sobre
+veículos, embarcações, aeronaves e quaisquer outros meios de transporte, assim como os maquinismos, utensílios, instrumentos e
+objetos de qualquer natureza, utilizados para a prática dos crimes definidos nesta Lei, após a sua regular apreensão. Assim: TRF,
+1.
+a
+  Região:  “Tudo  que  for  utilizado,  mormente  no  cenário  dos  crimes  relativos  a  substâncias  entorpecentes,  deve  ser  confiscado
+pelo  Estado  (Nucci)”  (ACR  0005299-38.2006.4.01.3700-MA,  4.
+a
+  T.,  rel.  Mário  César  Filho,  11.05.2010,  v.u.).  A  Constituição
+Federal também menciona o confisco de glebas usadas para a cultura de plantas psicotrópicas, sem pagamento de qualquer tipo de
+indenização (art. 243). Conferir ainda: TJPI: “Segundo a previsão do art. 91, inciso II, do CP, a perda dos instrumentos e produtos
+do  crime  de  tráfico  ilícito  de  entorpecentes,  em  favor  da  União,  é  efeito  automático  da  condenação.  No  caso,  o  perdimento  dos
+bens  em  questão  foi  decretado  como  efeito  da  condenação,  de  forma  fundamentada  pelo  magistrado  de  1º  grau,  nos  termos  dos
+arts.  60,  §  2.º,  e  63,  §  1.º,  da  Lei  11.343/2006,  sendo  irretocável  o  julgado”  (AC  201400010078190-PI,  2.
+a
+  C.  Especializada
+Criminal,  rel.  Erivan  José  da  Silva  Lopes,  13.05.2015  ,  v.u.).  TJMG:  “Estando  as  provas  dos  autos  a  indicar  que  o  automóvel
+conduzido pelo réu era utilizado como ferramenta para a perpetuação do tráfico de drogas, incabível a restituição deste bem, sendo
+que, neste caso, a sua perda em favor da União consiste em efeito da decisão condenatória, nos termos do art. 91, II, ‘a’, do CP”
+(Ap. Crim. 1.0024.14.072384-2/001-MG, 6.
+a
+ C. Crim., rel. Jaubert Carneiro Jaques, 07.04.2015); “Havendo provas a indicar que a
+quantia arrecada em poder do réu foi proveniente do exercício do tráfico de drogas, incabível a restituição do aludido valor, sendo
+que, neste caso, a sua perda em favor da União consiste em efeito da decisão condenatória, nos termos do art. 91, II, ‘b’, do CP”
+(Ap.  Crim.  1.0686.12.016157-1/001-MG,  6.
+a
+  C.  Crim.,  rel.  Jaubert  Carneiro  Jaques,  27.01.2015).  TJRS:  “E  melhor  sorte  não
+assiste à defesa d
+[/PAGINA 734]
+
+[PAGINA 735]
+os apelantes, quando ao pleito subsidiário de restituição do automóvel apreendido quando do flagrante, eis que,
+apesar  de  o  veículo  estar  registrado  no  nome  da  companheira  do  réu  Everton,  restou  evidenciado,  nos  autos,  que  o  bem  era
+utilizado  exclusivamente  por  Everton,  para  fins  de  narcotráfico,  não  possuindo  sua  companheira  sequer  Carteira  de  Habilitação,
+devendo ser mantida a declaração de perdimento do veículo em favor da União, nos termos do artigo 91, inciso II, alínea ‘a’, do
+Código Penal, e dos artigos 62 e 63, ambos da Lei n.º 11.343/2006” (Ap. Crim. 70060544491-RS, 2.
+a
+ C. Crim., rel. José Antônio
+Cidade Pitrez, 26.03.2015, v.u.). Sobre o terceiro de boa-fé: TJMG: “Entendendo-se que há prova insatisfatória quanto à ciência da
+
+utilização ilegal do automóvel por parte do apelante, do veículo utilizado na atividade ilícita e, sendo terceiro de boa-fé, entende-se
+pelo  afastamento  do  perdimento  do  veículo,  com  base  no  artigo  91,  II,  do  CPB  c/c  art.  119  do  CPP.  Veículo  utilizado  para
+transporte de substância tida como entorpecente deve permanecer apreendido até conclusão do processo e, como no caso em tela,
+se  já  recebeu  sentença,  ainda  que  houvesse  o  trânsito  em  julgado,  a  perda  do  veículo  em  favor  da  união,  artigo  91,  I,  do  Código
+Penal, não pode ser aplicado, visto que, no corpo do referido dispositivo legal consta, claramente, ‘ressalvado o terceiro de boa--
+fé’” (Ap. Crim. 1.0394.14.001133-6/001-MG, 1.
+a
+ C. Crim., rel. Walter Luiz, 24.03.2015).
+4-A. Produto e proveito do crime: quanto ao produto do delito, trata-se daquilo que foi diretamente conquistado com a
+prática delituosa, tal como o dinheiro subtraído do banco ou a coleção de armas retirada de um colecionador. Além do produto, é
+possível que o delinquente converta em outros bens ou valores o que auferiu por conta do crime, dando margem ao confisco. Nesse
+caso, fala-se no proveito do crime. Ex.: o apartamento adquirido com o dinheiro roubado do estabelecimento bancário. Em ambas
+as  situações,  a  perda  é  automática,  decorrente  de  mera  sentença  condenatória  em  face  de  quem  possuía  o  produto  ou  proveito,
+independentemente de ter o julgador se manifestado a respeito. Na jurisprudência: STJ: “O fato de o recorrente ter sido condenado
+apenas por crime de formação de quadrilha não constitui óbice lógico ao perdimento de bem – efeito da condenação nos termos do
+art. 91, II, b, do Código Penal –, uma vez que o ganho obtido com a atividade ilícita, de forma direta ou indireta, constitui ‘proveito
+auferido com o crime’, consequentemente, passível de confisco, nos termos da lei penal” (AgRg no AREsp 204.234-PR, 6.
+a
+ T., rel.
+Sebastião Reis  Júnior,  01.10.2013).  TJSC:  “Pleito  pela  restituição  dos  bens  apreendidos.  Impossibilidade.  Perdimento  dos
+automóveis  em  favor  da  união  [produto  de  furto].  Efeito  automático  da  condenação.  Inteligência  do  art.  91,  II,  ‘A’  e  ‘B’,
+[/PAGINA 735]
+
+[PAGINA 736]
+do CP. Ausência, ademais, de demonstração da origem lícita dos bens. Ônus da defesa (art. 156 do CPP)” (AC 2014.050936-7-SC,
+4.
+a
+ C. Crim., rel. Newton Varella Júnior, 05.03.2015, v.u.). TJPE: “Ainda que não tenha havido deliberação expressa na sentença
+acerca da perda em favor da União da quantia em dinheiro apreendida, decorrente de proveito auferido com a mercancia proscrita
+que o réu vinha desenvolvendo em sua residência, trata--se de efeito automático da condenação, nos termos do art. 91, inciso II,
+alínea ‘b’, do Código Penal, inviabilizando a sua devolução ao réu, inclusive porque não logrou o mesmo êxito em demonstrar a
+origem lícita” ( AC 0000005-88.2009.8.17.0250-PE, 3
+a
+ C. Crim., rel. Nivaldo Mulatinho de Medeiros Correia Filho, 17.04.2015,
+v.u.).
+4-B. Efeito da contravenção penal: o art. 91, II, a e b, CP, não fala na possibilidade de confisco no caso de contravenção
+penal,  pois  utiliza  a  palavra  crime  (instrumentos  do  crime  e  produto  do  crime),  mas  a  jurisprudência  majoritária  prevê  a
+possibilidade  de  esse  efeito  da  condenação  ser  usado  no  contexto  das  contravenções  penais.  Onde  está  escrito  “crime”  leia-se
+“infração  penal”.  Trata-se,  de  fato,  da  interpretação  mais  sintonizada  com  a  finalidade  da  norma  penal.  Nessa  ótica:  STJ:
+“Contravenção penal – Porte ilegal de arma – Confisco – Legalidade da medida. O porte ilegal de arma justifica o seu confisco,
+como efeito da condenação pronunciada. Aplicação do art. 91, II, a, CP, c/c o art. 1.º da Lei das Contravenções Penais. Embargos
+conhecidos e recebidos” (Emb. Div. em REsp 79.484-SP, 3.
+a
+ S., rel. Cid Flaquer Scartezzini, 26.11.1997, v.u. [acórdão proferido,
+cuidando  de  porte  ilegal  de  arma,  quando  ainda  o  fato  era  considerado  contravenção  penal]).  Outro  precedente  do  Superior
+Tribunal de Justiça baseia-se no art. 1.º da Lei de Contravenções Penais (“Aplicam-se às contravenções as regras gerais do Código
+Penal, sempre que a presente Lei não disponha de modo diverso”) para aceitar o confisco da arma no caso de contravenção penal:
+REsp 87.971-SP, 6.
+a
+ T., rel. Vicente Leal, 14.12.1999, v.u., DJ 14.02.2000, p. 80 [vide a observação ao acórdão anterior].
+4-C. Medidas  para  alcançar  o  produto  e  o  proveito  do  crime:  como  regra,  o  produto  do  crime  é  objeto  de
+apreensão.  Assim  ocorre  quando  a  polícia,  verificando  que  o  agente  esconde  em  sua  casa  o  dinheiro  levado  de  um  banco,  por
+exemplo, consegue mandado de busca e apreensão, invadindo o local para apropriar-se do produto do crime. Entretanto, no tocante
+ao  proveito  do  delito,  não  cabe  proceder  à  apreensão,  pois  normalmente  já  foi  convertido  em  bens  diversos,  móveis  ou  imóveis,
+que  possuem  a  aparência  de  coisas  de  origem  lícita.  O  delinquente  que,  empregando  o  dinheiro  subtraído  do  banco,  compra
+imóveis e carros, v.g.,  deve  ter  esses  bens  sequestrados.  Utiliza-se,  então,  a  medida  assecurat
+[/PAGINA 736]
+
+[PAGINA 737]
+ória  prevista  nos  arts.  125  e  132  do
+Código de Processo Penal. Confira-se, a respeito, o nosso Código de Processo Penal comentado, notas aos arts. 125 a 144. E mais:
+não se devem confundir a apreensão do produto do crime e o sequestro do proveito do delito com outras medidas assecuratórias,
+que são a hipoteca legal, para tornar indisponíveis bens imóveis, e o arresto, que o Código de Processo Penal também denomina
+sequestro,  para  impedir  a  disposição  dos  bens  mó-veis.  Nessas  hipóteses,  tem-se  por  fim  tomar  bens  do  patrimônio  lícito  do
+criminoso, a fim de garantir a indenização à vítima ou ao Estado.
+4-D. Efeitos específicos, porém obrigatórios: em leis penais especiais, podemos encontrar alguns efeitos da sentença
+condenatória,  que  são  gerados  obrigatoriamente,  vale  dizer,  por  força  de  lei,  não  necessitando  nem  mesmo  constar  da  decisão
+judicial. Exemplo disso é o disposto no art. 244-A da Lei 8.069/90 (Estatuto da Criança e do Adolescente): “Submeter criança ou
+adolescente, como tais definidos no caput do art. 2.º desta Lei, à prostituição ou à exploração sexual: Pena – reclusão de 4 (quatro)
+a 10 (dez) anos, e multa. § 1.º Incorrem nas mesmas penas o proprietário, o gerente ou o responsável pelo local em que se verifique
+
+a submissão de criança ou adolescente às práticas referidas no caput deste artigo. § 2.º Constitui efeito obrigatório da condenação
+a cassação da licença de localização e de funcionamento do estabelecimento” (grifamos).
+4-E. Confisco de bens lícitos como forma de compensação: a medida assecuratória de sequestro tem por finalidade
+apreender  o  produto  ou  o  proveito  do  crime;  entretanto,  por  vezes,  o  agente  do  delito  oculta  tais  bens  (móveis  ou  imóveis),
+inclusive desviando-os ao exterior. A inviabilidade de localizá-los levou à alteração da lei, propiciando ao Estado sequestrar bens
+lícitos  do  criminoso  como  forma  de  compensação.  Portanto,  tornando-se  indisponíveis  os  valores  encontrados,  ainda  que  lícitos,
+obriga-se  o  condenado  a  optar  entre  perdê-los  ou  indicar  o  paradeiro  dos  valores  desviados.  Exemplo:  o  sentenciado  desvia  a
+quantia de quinhentos mil reais, transferindo-a para o exterior. Assim sendo, pode o Estado providenciar o sequestro de um imóvel
+do réu – de valor equivalente – como forma de compensação.
+4-F. Sequestro: é a medida assecuratória adequada para tornar indisponíveis os bens móveis e imóveis, que representam o
+produto  ou  o  proveito  do  crime.  Por  isso,  deve-se  utilizá-la  para  captar  os  valores  lícitos  do  acusado,  na  medida  em  que  serão
+posteriormente compensados.
+Art. 92. São também efeitos da condenação:
+I – a perda de cargo, função pública ou mandato eletivo:
+a) quando aplicada pena privativa de liberdade por tempo igual ou superior a um ano, nos crimes praticados
+com abuso de poder ou violação de dever para com a administração pública;
+5-5-A
+b) quando for aplicada pena privativa de liberdade
+[/PAGINA 737]
+
+[PAGINA 738]
+por tempo superior a 4 (quatro) anos nos demais casos;
+5-B
+II – a incapacidade para o exercício do pátrio poder, tutela ou curatela, nos crimes dolosos, sujeitos à pena
+de reclusão, cometidos contra filho, tutelado ou curatelado;
+6-6-A
+III – a inabilitação para dirigir veículo, quando utilizado como meio para a prática de crime doloso.
+7
+Parágrafo  único.  Os  efeitos  de  que  trata  este  artigo  não  são  automáticos,  devendo  ser  motivadamente
+declarados na sentença.
+5. Efeito específico da perda de cargo, função pública ou mandato eletivo: trata-se de efeito não automático, que
+precisa  ser  explicitado  na  sentença,  respeitados  os  seguintes  pressupostos:  a)  nos  crimes  praticados  com  abuso  de  poder  ou
+violação do dever para com a Administração Pública, quando a pena aplicada for igual ou superior a 1 ano; b) nos demais casos,
+quando a pena for superior a 4 anos. Nesse sentido: STJ: “Este Superior Tribunal de Justiça firmou sua jurisprudência no sentido
+de que a perda do cargo público não é efeito automático da condenação ainda quando a pena é superior a quatro anos, requisitando
+motivação expressa nos termos do parágrafo único do art. 92 do Código Penal, existente no presente caso” (REsp 1383921-RN, 6.
+a
+T., rel. Maria Thereza de Assis Moura, 16.06.2015, v.u.); “O Tribunal local expressamente ressaltou que a conduta de supressão de
+documentos  públicos,  no  exercício  de  função  pública,  inclusive  de  chefia,  amolda-se  à  figura  de  abuso  de  poder  ou  violação  de
+dever  para  com  a  Administração  Pública.  A  declaração  da  perda  do  cargo  público,  nestes  termos,  está  fundamentada  no
+reconhecimento da presença dos requisitos subjetivos e objetivos previstos no art. 92, I, ‘a’, do Código Penal” (AgRg no AREsp
+526332-MS, 5.
+a
+ T., rel. Leopoldo de Arruda Raposo, 16.04.2015, v.u.); “A perda do cargo público prevista no art. 92, inciso I, do
+Código  Penal  não  constitui  efeito  automático  da  condenação,  razão  pela  qual,  para  a  sua  imposição,  é  necessária  a  devida
+motivação, a teor do disposto no parágrafo único do mesmo dispositivo, bem como no art. 93, inciso IX, da Constituição Federal.
+Precedentes”  (HC  185.343-PA,  5.
+a
+  T.,  rel.  Laurita  Vaz,  15.10.2013).  Cargo público  é  o  cargo  criado  por  lei,  com  denominação
+própria,  número  certo  e  remunerado  pelos  cofres  do  Estado  (Estatuto  dos  Funcionários  Públicos  Civis  da  União),  vinculando  o
+servidor à administração estatutariamente; função pública é a atribuição que o Estado impõe aos seus servidores para realizarem
+serviços nos três Poderes, sem ocupar cargo ou emprego. Há dispositivo especial na Lei 7.716/89, que dispõe sobre o racismo, a
+respeito da perda do cargo para o servidor público que incidir nas penas dessa lei (“Art. 16. Constitui efeito da condenação a perda
+do cargo ou função pública, para o servidor público, e a suspensão do funcionamento do estabelecimento particular por prazo não
+superior a 3 (três) m
+[/PAGINA 738]
+
+[PAGINA 739]
+eses”). Quanto ao mandato eletivo, a Constituição Federal trata do assunto no art. 15: “É vedada a cassação de
+direitos políticos, cuja perda ou suspensão só se dará nos casos de: (...) III – condenação criminal transitada em julgado, enquanto
+durarem seus efeitos” (vide, ainda, o art. 55, IV e VI, da CF, tratando da perda do mandato por condenação criminal). Ressalte-se,
+no  entanto,  que,  nesse  caso  –  condenação  criminal  –,  cabe  à  Câmara  dos  Deputados  ou  ao  Senado  Federal,  tratando-se  de
+parlamentar federal, através de voto secreto e por maioria absoluta, mediante provocação da Mesa ou de partido político, garantida
+a  ampla  defesa,  decidir  pela  perda  do  mandato  (art.  55,  §  2.º,  CF).  Na  realidade,  há  duas  posições:  a)  seguir  o  art.  15,  III,  CF,
+afirmando que o parlamentar condenado, com os direitos políticos suspensos, não pode exercer o mandato, que se supõe perdido
+em face da decisão judicial, sem necessidade de votação pelo Congresso; b) seguir o disposto pelo art. 55, § 2.º, CF, que é norma
+especial  em  relação  ao  referido  art.  15,  razão  pela  qual,  mesmo  diante  de  decisão  judicial,  impondo  a  perda  do  mandato,  deve
+
+haver  votação  pela  Casa  Legislativa  competente  (Senado  ou  Câmara,  conforme  o  caso).  Esta  última,  como  já  expusemos,  é  a
+posição  que  defendemos.  Atualmente,  embora  o  STF  esteja  dividido,  prevalece  também  a  segunda.  Conferir:  STF:  “O  Plenário
+condenou  senador  (prefeito  à  época  dos  fatos  delituosos),  bem  assim  o  presidente  e  o  vice-presidente  de  comissão  de  licitação
+municipal pela prática do crime descrito no art. 90 da Lei 8.666/93 [‘Art. 90. Frustrar ou fraudar, mediante ajuste, combinação ou
+qualquer  outro  expediente,  o  caráter  competitivo  do  procedimento  licitatório,  com  o  intuito  de  obter,  para  si  ou  para  outrem,
+vantagem decorrente da adjudicação do objeto da licitação: Pena – detenção, de 2 (dois) a 4 (quatro) anos, e multa’] à pena de 4
+anos, 8 meses e 26 dias de detenção em regime inicial semiaberto. Fixou-se, por maioria, multa de R$ 201.817,05 ao detentor de
+cargo  político,  e  de  R$  134.544,07  aos  demais  apenados,  valores  a  serem  revertidos  aos  cofres  do  município.  Determinou--se  –
+caso  estejam  em  exercício  –  a  perda  de  cargo,  emprego  ou  função  pública  dos  dois  últimos  réus.  Entendeu-se,  em  votação
+majoritária, competir ao Senado Federal deliberar sobre a eventual perda do mandato parlamentar do ex-prefeito (CF, art. 55, VI
+e  §  2.º).  Reconheceu-se,  também  por  maioria,  a  data  deste  julgamento  como  causa  interruptiva  da  prescrição.  Ademais,
+considerado  o  empate  na  votação,  o  Tribunal  absolveu  os  sócios  dirigentes  das  empresas  envolvidas  nas  licitações  em  questão,
+denunciados  pelo  mesmo  crime.  Absolveu,  outrossim,  os  sócios  não  detentores  do  cargo  de  gerência  das  empresas  no  tocante  a
+essa imputação. Além disso,
+[/PAGINA 739]
+
+[PAGINA 740]
+por decisão majoritária, absolveu todos os acusados no tocante ao crime de quadrilha (CP: ‘Art. 288.
+Associarem-se  mais  de  três  pessoas,  em  quadrilha  ou  bando,  para  o  fim  de  cometer  crimes:  Pena  –  reclusão,  de  um  a  três  anos’
+[atual  redação  dada  pela  Lei  12.850/2013:  ‘Art.  288.  Associarem-se  3  (três)  ou  mais  pessoas,  para  o  fim  específico  de  cometer
+crimes:  Pena  –  reclusão,  de  1  (um)  a  3  (três)  anos’]).  A  inicial  narrava  suposto  esquema  articulado  com  o  propósito  de  burlar
+licitações  municipais,  perpetrado  durante  o  mandato  do  então  prefeito”  (AP  565/RO,  Plenário,  rel.  Min.  Cármen  Lúcia,  07  e
+08.08.2013, m.v., Informativo 714; grifo nosso).
+5-A. Imposição de penas alternativas à prisão:  não  se  elimina  a  viabilidade  de  perda  do  cargo,  função  ou  mandato.
+Afinal,  a  lei  menciona,  apenas,  a  condenação  a  pena  privativa  de  liberdade  igual  ou  superior  a  um  ano,  por  crime  funcional.
+Eventuais benefícios penais, visando ao não cumprimento da pena em regime carcerário, não afeta o efeito da condenação. Nessa
+visão: STJ: “No tocante à perda do cargo público, tem-se que não há incompatibilidade entre a substituição da pena privativa de
+liberdade e a imposição da penalidade de perda do cargo, levando-se em conta que o requisito objetivo a ser atendido nesse último
+caso  diz  respeito  tão  somente  à  quantidade  de  pena  imposta,  que  deve  ser  superior  a  1  (um)  ano,  sem  que  se  exija  a  efetiva
+privação da liberdade” (AgRg no REsp 1.346.879-SC, 5.
+a
+ T., rel. Marco Aurélio Bellizze, 26.11.2013).
+5-B. Perda de emprego público e aposentadoria: emprego público é o posto criado por lei na estrutura hierárquica da
+Administração Pública, com denominação e padrão de vencimentos próprios, embora seja ocupado por servidor que possui vínculo
+contratual,  sob  a  regência  da  CLT  (ex.:  escrevente  judiciário  contratado  pelo  regime  da  CLT).  Segundo  nos  parece,  em
+interpretação extensiva e sistemática, deve-se envolver o ocupante de emprego público no art. 92. Afinal, se a condenação criminal
+permite a perda do cargo e da função, logicamente deve-se abranger o emprego público, cuja diferença única existente com o cargo
+é que o ocupante deste é submetido a regime estatutário, enquanto o ocupante de emprego público é submetido a regime contratual
+(CLT).  A  aposentadoria,  que  é  o  direito  à  inatividade  remunerada,  não  é  abrangida  pelo  disposto  no  art.  92.  A  condenação
+criminal, portanto, somente afeta o servidor ativo, ocupante efetivo de cargo, emprego, função ou mandato eletivo. Caso já tenha
+passado à inatividade, não mais estando em exercício, não pode ser afetado por condenação criminal, ainda que esta advenha de
+fato  cometido  quando  ainda  estava  ativo.  Se  for  cabível,  a  medida  de  cassação  da  aposentadoria  deve  dar--se  na  órbita
+administrativa, não sendo atribuição do juiz criminal. Nessa ótica: STJ: “
+[/PAGINA 740]
+
+[PAGINA 741]
+O efeito da condenação relativo à perda de cargo público,
+previsto no art. 92, inciso I, alínea b, do Código Penal, não se aplica ao servidor público inativo, uma vez que ele não ocupa cargo
+e  nem  exerce  função  pública.  O  rol  do  art.  92  do  Código  Penal  é  taxativo,  não  sendo  possível  a  ampliação  ou  flexibilização  da
+norma, em evidente prejuízo do réu, restando vedada qualquer interpretação extensiva ou analógica dos efeitos da condenação nele
+previstos.  Configurando  a  aposentadoria  ato  jurídico  perfeito,  com  preenchimento  dos  requisitos  legais,  é  descabida  sua
+desconstituição, desde logo, como efeito extrapenal específico da sentença condenatória; não se excluindo, todavia, a possibilidade
+de cassação da aposentadoria nas vias administrativas, em procedimento próprio, conforme estabelecido em lei” (REsp 1.317.487-
+MT, 5.
+a
+ T., rel. Laurita Vaz, 07.08.2014).
+6. Efeito específico da incapacidade para o poder familiar, tutela ou curatela: trata-se de efeito não automático e
+permanente, que necessita ser declarado na sentença condenatória. É aplicável aos condenados por crimes dolosos, sujeitos à pena
+de  reclusão,  cometidos  contra  filho,  tutelado  ou  curatelado.  Pouco  interessa,  nesse  caso,  qual  o  montante  da  pena  aplicada,
+importando  somente  tratar-se  de  crime  sujeito  a  pena  de  reclusão.  Embora  seja  de  aplicação  rara,  ou  por  esquecimento  do
+magistrado  ou  porque  este  se  convence  de  sua  inutilidade  no  campo  reeducativo  e  pedagógico  (lembremos  que  o  efeito  é
+permanente, podendo fomentar o descrédito do pai ou da mãe no lar em relação ao filho, mesmo após cumprida a pena), o fato é
+que a lei civil também prevê uma forma de suspensão (e não perda) do poder familiar em caso de condenação. Dispõe o art. 1.637,
+
+parágrafo  único,  do  Código  Civil  que  “suspende-se  igualmente  o  exercício  do  poder  familiar  ao  pai  ou  à  mãe  condenados  por
+sentença irrecorrível, em virtude de crime cuja pena exceda a 2 (dois) anos de prisão”. Note-se que, nesta hipótese, pouco interessa
+se  o  delito  é  apenado  com  reclusão  ou  detenção  (fala-se  somente  em  prisão)  ou  mesmo  se  tem  o  crime  como  vítima  o  filho.  O
+fundamento é a prisão efetiva, em regime incompatível com o exercício do poder familiar (ex.: aquele que está em regime fechado
+não tem condições de cuidar do filho).
+6-A. Alcance da incapacidade para o exercício do poder familiar, da tutela ou da curatela: embora não esteja
+expresso no Código Penal, parece-nos que a mais lógica aplicação do dispositivo deva dizer respeito ao filho ofendido pela prática
+criminosa e não a todos os descendentes do infrator. Não se deve fazer uma interpretação extensiva neste caso, pois injustificável.
+O  pai  que  agredir  um  de  seus  seis  filhos,  por  exemplo.  Condenado  por  lesão  corporal  grave  a  uma  pena  de  um  ano  de  reclusão,
+pode o juiz determinar a incapacidade para o exercício do poder familiar em
+[/PAGINA 741]
+
+[PAGINA 742]
+relação àquela vítima. Os outros cinco filhos podem
+perfeitamente continuar sob sua tutela. Por vezes, há um problema social envolvendo o crime e imaginemos que os referidos seis
+filhos  somente  tenham  o  pai;  caso  perdesse  o  poder  familiar  no  tocante  a  todos,  haveria  o  Judiciário  de  encontrar  um  tutor  para
+todos eles, quando, em verdade, o contexto da agressão ficou circunscrito a um único filho. Não é demais ressaltar que pode haver
+entre  pai  e  determinado  descendente  uma  discórdia  permanente  e  localizada  com  agressões  do  primeiro  contra  o  segundo,  mas
+jamais contra os demais filhos. Qual a razão de determinar a incapacidade para o exercício do poder familiar em relação a todos? O
+mesmo  se  diga  do  tutor  (ou  curador)  de  determinada  pessoa.  Praticado  um  crime  apenado  com  reclusão  contra  o  tutelado
+(curatelado), pode o juiz determinar a incapacitação para aquela tutela (curatela) e não para outras situações, que podem até advir
+no futuro. Não pode a pena ou seus efeitos envolver casos ou pessoas não abrangidas pela conduta criminosa ou a ela relacionadas.
+7. Efeito específico da inabilitação para dirigir veículo: trata-se de efeito não automático, que precisa ser declarado
+na sentença condenatória e somente pode ser utilizado quando o veículo for usado como meio para a prática de crime doloso. A
+nova legislação de trânsito não alterou este efeito da condenação, pois, no caso presente, o veículo é usado como instrumento de
+delito  doloso,  nada  tendo  a  ver  com  os  crimes  culposos  de  trânsito.  Como  lembra  F
+REDERICO  MARQUES,  “quem  usa  do
+automóvel,  intencionalmente,  para  matar  ou  ferir  alguém,  não  está  praticando  um  ‘delito  do  automóvel’,  mas  servindo-se  desse
+veículo para cometer um homicídio doloso, ou crime de lesão corporal também dolosa” (Tratado de direito penal, v. 4). Convém
+mencionar, ainda, o caso verdadeiro, narrado por Basileu Garcia, de certo indivíduo que, com ódio de um guarda que várias vezes
+o havia multado por excesso de velocidade, vendo-o, certo dia, em serviço na rua, atropelou-o. Destaca o mestre paulista como o
+veículo  pode  ser  não  só  um  meio  para  a  prática  de  crimes  dolosos,  mas,  ainda,  de  delitos  qualificados  pela  insídia  (citação  de
+A
+LMEIDA JÚNIOR  e  COSTA JÚNIOR, Lições  de  medicina  legal,  p.  257).  Na  jurisprudência:  STJ:  “Incide  o  efeito  específico  da
+condenação previsto no art. 92, inciso III, do CP, quando o descaminho é praticado mediante a utilização de veículo no qual foram
+escondidas  as  mercadorias  clandestinamente  introduzidas  no  território  nacional,  porquanto  demonstrada,  de  maneira  concreta,  a
+imprescindibilidade  de  tal  medida  e  a  necessidade  de  se  inibir  a  prática  de  tais  crimes”  (AgRg  no  REsp  1493677-PR,  5.
+a
+ T., rel.
+Leopoldo de Arruda Raposo, 16.06.2015, v.u.); “Demonstrado pelo acórdão recorrido que o agravante conduziu veículo automotor
+como meio para a prá
+[/PAGINA 742]
+
+[PAGINA 743]
+tica de crime doloso, justificada, nos termos do inc. III do art. 92 do Código Penal, a aplicação da penalidade
+de inabilitação para dirigir” (AE AgRg no REsp 1454565, 6.
+a
+ T., rel. Ericson Maranho, j. 07.05.2015, v.u.).
+Capítulo VII
+DA REABILITAÇÃO
+Reabilitação
+1
+Art.  93.  A  reabilitação  alcança  quaisquer  penas  aplicadas  em  sentença  definitiva,  assegurando  ao
+condenado o sigilo dos registros sobre seu processo e condenação.
+2
+Parágrafo  único.  A  reabilitação  poderá,  também,  atingir  os  efeitos  da  condenação,  previstos  no  art.  92
+deste Código, vedada reintegração na situação anterior, nos casos dos incisos I e II do mesmo artigo.
+1. Conceito de reabilitação:  é  a  declaração  judicial  de  reinserção  do  sentenciado  ao  gozo  de  determinados  direitos  que
+foram atingidos pela condenação. Ou, como ensinam R
+EALE JÚNIOR, DOTTI, ANDREUCCI e PITOMBO, “é uma medida de Política
+Criminal,  consistente  na  restauração  da  dignidade  social  e  na  reintegração  no  exercício  de  direitos,  interesses  e  deveres,
+sacrificados  pela  condenação”  (Penas  e  medidas  de  segurança  no  novo  Código,  p.  263).  Antes  da  Reforma  Penal  de  1984,  era
+causa  extintiva  da  punibilidade  (art.  108,  VI,  CP  de  1940);  atualmente  é  instituto  autônomo  que  tem  por  fim  estimular  a
+regeneração.
+2. Crítica ao instituto: tal como foi idealizado e de acordo com o seu alcance prático, trata-se, em verdade, de instituto de
+
+pouquíssima  utilidade.  Suas  metas  principais  são  garantir  o  sigilo  dos  registros  sobre  o  processo  e  a  condenação  do  sentenciado,
+bem como proporcionar a recuperação de direitos perdidos por conta dos efeitos da condenação. Ocorre que, no art. 202 da Lei de
+Execução  Penal,  consta  que,  “cumprida  ou  extinta  a  pena,  não  constarão  da  folha  corrida,  atestados  ou  certidões  fornecidas  por
+autoridade  policial  ou  por  auxiliares  da  Justiça,  qualquer  notícia  ou  referência  à  condenação,  salvo  para  instruir  processo  pela
+prática de nova infração penal ou outros casos expressos em lei”. Portanto, o sigilo já é assegurado pela referida norma, logo após
+o cumprimento ou extinção da pena. Por outro lado, poder-se-ia argumentar com a recuperação de direitos perdidos em virtude dos
+efeitos da condenação, mas o próprio Código reduz a aplicação ao art. 92, III (“inabilitação para dirigir veículo, quando utilizado
+como meio para a prática de crime doloso”). Os autores da Reforma Penal de 1984 buscam justificar a importância da reabilitação
+dizendo  que  vai  além  do  preceituado  no  art.  202  da  LEP,  pois  restaura  a  “dignidade,  ofendida  pela  mancha  da  condenação,
+restaurando ao condenado o seu prestígio social” (Penas e medidas de segurança no novo Código, p. 268). Com a devida vênia,
+nem  o  condenado  tem  interesse  nessa  declaração  de  reinserção social,  que  quase  nenhum  efeito  prático  possui,  como  também
+dificilmente o prestígio social é recupera
+[/PAGINA 743]
+
+[PAGINA 744]
+do, pelos próprios costumes da sociedade e diante da atitude neutra e, por vezes, hostil do
+Estado frente ao condenado. Pode até ser que seja resgatado, mas não será por intermédio da reabilitação e sim pela nova postura
+adotada  pelo  sentenciado  após  o  cumprimento  da  sua  pena.  E  diz,  com  razão,  J
+AIR  LEONARDO  LOPES:  “Nenhum  condenado
+quererá sujeitar-se a chamar a atenção sobre a própria condenação, depois de dois anos do seu cumprimento ou depois de extinta a
+punibilidade,  quando  já  vencidos  os  momentos  mais  críticos  da  vida  do  egresso  da  prisão,  que  são,  exatamente,  aqueles  dos
+primeiros anos de retorno à vida em sociedade, durante os quais teria enfrentado as maiores dificuldades e talvez a própria rejeição
+social, se dependesse da reabilitação, e não lhe tivesse sido assegurado o sigilo da condenação por força do art. 202 da LEP. (...) Se
+alguém se der ao luxo de pesquisar em qualquer comarca, tribunal ou mesmo nos repertórios de jurisprudência qual o número de
+pedidos  de  reabilitação  julgados,  terá  confirmação  da  total  indiferença  pela  declaração  judicial  preconizada”  (Curso  de  direito
+penal, p. 252). Assim não parece a T
+OURINHO FILHO,  que  defende  a  utilidade  do  instituto,  chamando  a  atenção  para  o  seguinte
+aspecto:  menciona  que  o  art.  202  da  Lei  de  Execução  Penal  assegura  o  sigilo  dos  dados  referentes  a  condenações  anteriores  de
+maneira  mais  branda  do  que  o  faz  a  reabilitação.  Para  chegar  a  tal  conclusão,  refere-se  à  parte  final  do  art.  202,  dizendo  que  o
+sigilo  pode  ser  rompido  “para  instruir  processo  pela  prática  de  nova  infração  penal  ou  outros  casos  expressos  em  lei”,  servindo,
+pois, não somente para processos criminais, mas, também, para concursos públicos, inscrição na OAB e fins eleitorais. No caso de
+ser concedida a reabilitação, argumenta, somente o juiz poderia quebrar o sigilo instaurado, como se vê do disposto no art. 748 do
+Código  de  Processo  Penal  (Código  de  Processo  Penal  comentado,  v.  2,  p.  489-490).  Não  nos  parece  tenha  razão.  A  Lei  de
+Execução Penal é lei mais recente, disciplinando exatamente o mesmo assunto, razão pela qual, nesse prisma, revogou o disposto
+no  Código  de  Processo  Penal.  Portanto,  reabilitado  ou  não,  os  dados  constantes  da  folha  de  antecedentes  do  condenado  serão
+exibidos  sempre  que  houver  requisição  judicial  ou  para  outros  fins  previstos  em  lei.  Demonstre-se  o  nosso  ponto  de  vista  pela
+realidade. Não há interesse algum por parte de condenados de requerer a sua reabilitação, pois não veem vantagem alguma nisso,
+até  porque  os  concursos  públicos  e  demais  órgãos  do  Estado,  quando  autorizados  por  lei,  continuam,  normalmente,  a  requisitar
+certidões de inteiro teor a respeito dos antecedentes do sentenciado, o que é perfeitamente viável.
+Art. 94. A reabilitação poderá ser requerida,
+3
+ decorridos 2 (dois) anos do dia
+[/PAGINA 744]
+
+[PAGINA 745]
+em que for extinta, de qualquer
+modo,  a  pena  ou  terminar  sua  execução,
+4-4-A
+  computando-se  o  período  de  prova  da  suspensão  e  o  do
+livramento condicional,
+5
+ se não sobrevier revogação, desde que o condenado:
+6
+I – tenha tido domicílio no País no prazo acima referido;
+II – tenha dado, durante esse tempo, demonstração efetiva e constante
+de bom comportamento público e privado;
+III – tenha ressarcido o dano causado pelo crime ou demonstre a absoluta impossibilidade de o fazer, até o
+dia do pedido, ou exiba documento que comprove a renúncia da vítima ou novação da dívida.
+7
+Parágrafo único. Negada a reabilitação, poderá ser requerida, a qualquer tempo, desde que o pedido seja
+instruído com novos elementos comprobatórios dos requisitos necessários.
+8-9
+3.  Competência  para  a  concessão  de  reabilitação:  é  do  juiz  da  condenação,  nos  termos  do  art.  743  do  Código  de
+Processo Penal, nessa parte não revogado. A Lei de Execução Penal, nada tendo disposto a respeito do tema, não transferiu ao juiz
+da  execução  a  competência  para  tratar  da  reabilitação.  No  mesmo  sentido  está  a  posição  de  C
+ARLOS  FREDERICO  COELHO
+NOGUEIRA (Efeitos da condenação, reabilitação e medidas de segurança, p. 138).
+4. Reabilitação em porções:  ocorreria  a  reabilitação  em porções  caso  o  sentenciado  fosse,  aos  poucos,  se  reabilitando
+após o cumprimento ou a extinção de cada uma de suas várias penas, o que é inadmissível. Deve, primeiro, cumprir todas as penas
+e somente depois pedir a reabilitação.
+
+4-A. Desnecessidade  em  face  de  transação  no  JECRIM:  não  há  o  que  rever,  pois  a  transação  não  resulta  em
+condenação; houve um acordo, cujas consequências são inócuas para todos os fins, exceto para que o agente receba novamente o
+mesmo favor legal. Na jurisprudência: TJSP: “Conforme os artigos 93 e 94 do Código Penal e 743 do Código de Processo Penal, a
+reabilitação é instituto que visa a exclusão de apontamentos atinentes à condenação imposta, de forma a ser condição indeclinável
+a  existência  de  sentença  condenatória  definitiva,  o  que  não  ocorre  nos  autos.  No  caso,  aceita  transação  penal,  devidamente
+cumprida,  sendo  decretada  sua  extinção,  sem  efeitos  em  desfavor  do  beneficiário.  Aplicação  do  artigo  76  da  Lei  9.099/95.  Não
+necessidade  de  ‘reabilitação’.  Ausência  de  interesse.  Carência  de  ação.  Recurso  conhecido  e,  no  mérito,  dado  provimento,  com
+extinção sem julgamento de mérito, com determinação” (REEX 0779185-52.2009.8.26.0577, 8.
+a
+ C. D. Crim., rel. Alcides Malossi
+Junior, j. 18.08.2016, v.u.).
+5. Prazo para ser requerida: pode ser pedida 2 anos após a extinção ou término da pena, incluindo nesse período o prazo
+do sursis ou do livramento condicional, se não houver revogação. Ex.: o condenado a uma pena de um ano de reclusão recebe a
+suspensão condicional da pena pelo prazo de dois anos. Findo o sursis sem revogação, o juiz declara extinta a pena. O sentenciado
+[/PAGINA 745]
+
+[PAGINA 746]
+pode,  de  imediato,  pedir  a  reabilitação,  pois  decorreram  os  dois  anos  necessários.  Entretanto,  se  não  receber  a  suspensão
+condicional da pena e cumprir um ano de reclusão em regime aberto, somente após dois anos da extinção da sua pena poderá pedir
+a  reabilitação.  No  primeiro  caso,  levou  2  anos  para  poder  requerer  o  benefício;  no  segundo,  foi  obrigado  a  aguardar  3  anos.
+Lembre-se  que  a  extinção  da  pena  pode  se  dar  não  somente  pelo  seu  cumprimento,  mas  por  qualquer  outra  forma:  prescrição,
+indulto, abolitio criminis  etc.  Outra  nota  que  merece  destaque  é  a  seguinte:  caso  o  sursis  ou  o  livramento  condicional  tenham
+prazos maiores que 2 anos, é natural que o condenado tenha de esperar o final para requerer a reabilitação.
+6. Compatibilidade dos dispositivos do Código de Processo Penal: a reabilitação é tratada no Título IV, Capítulo
+II  (arts.  743  a  750),  do  Código  de  Processo  Penal,  não  estando  revogados  os  dispositivos  compatíveis  com  o  Código  Penal  de
+1984,  até  porque  a  Lei  de  Execução  Penal  não  cuidou  do  tema.  Na  mesma  ótica:  C
+ARLOS  FREDERICO  COELHO  NOGUEIRA
+(Efeitos  da  condenação,  reabilitação  e  medidas  de  segurança,  p.  138).  Assim,  mantém-se  o  art.  744  do  CPP,  que  exige,  para
+instruir o pedido de reabilitação, os seguintes documentos: a) certidões de antecedentes do condenado das comarcas onde residiu
+durante  os  2  anos  posteriores  à  extinção  da  pena;  b)  atestados  de  autoridades  policiais  ou  outros  documentos  que  mostrem  ter
+residido  nas  comarcas  indicadas  e  mantido  bom  comportamento;  c)  atestados  de  bom  comportamento  fornecidos  por  pessoas  a
+cujo serviço tenha estado. O bom comportamento deve seguir durante todo o processo de reabilitação, e não somente no período de
+2 anos necessário para fazer o pedido; d) outros documentos que provem sua regeneração; e) prova de ter ressarcido o dano ou não
+poder fazê-lo. Não mais tem aplicação o art. 743 do CPP, exigindo 4 a 8 anos após a execução da pena ou da medida de segurança
+detentiva para ingressar com o pleito de reabilitação.
+7. Reparação do dano à vítima: há quem entenda que, não encontrada a vítima, deve a reparação do dano ser consignada
+em juízo, o que não é efetivamente o espírito da lei. O critério de reparação do dano deve ser amplo e flexível, ainda que possa
+abranger atualização monetária, quando for o caso. Quando o crime não causar prejuízo – o que pode ocorrer em alguns casos, v.g.,
+alguns crimes de perigo –, não há que se exigir tal requisito do condenado. Na jurisprudência: TJMG: “Não estando preenchidos
+todos os requisitos legais para a reabilitação, uma vez que o condenado não comprovou o ressarcimento do dano nem a absoluta
+impossibilidade de fazê-lo, a renúncia da vítima ou a novação da vítima, a sentença não pode ser confirmada. Inteligência do artigo
+94, III, do Código Penal e artigo 744, V, do Código de Processo Pen
+[/PAGINA 746]
+
+[PAGINA 747]
+al” (Reexame Necessário-Cr 1.0480.14.008169-0/001-MG, 3.
+a
+C.  Crim.,  rel.  Maria  Luíza  de  Marilac,  10.02.2015).  TJSP:  “Reabilitação  criminal  –  Benefício  indeferido  em  primeiro  grau,  por
+falta  de  preenchimento  do  requisito  previsto  no  artigo  94,  inciso  III,  do  Código  Penal  –  Pleito  de  reforma  da  decisão  –
+Acolhimento  –  Inexigibilidade  da  reparação  do  dano  ou  da  comprovação  da  impossibilidade  de  fazê-lo,  quando  já  se  operou  a
+prescrição da pretensão ressarcitória na esfera civil – Reabilitação deferida – Precedentes deste Tribunal e do Superior Tribunal de
+Justiça” (Ap. 0008219-96.2001.8.26.0606, 3.
+a
+ C. D. Crim., rel. Cesar Mecchi Morales, j. 18.08.2015, v.u.).
+8. Indeferimento da reabilitação: neste ponto, está revogado o art. 749 do Código de Processo Penal, que exigia o prazo
+mínimo de dois anos para renovar o pleito. Aliás, da decisão denegatória da reabilitação cabe apelação. Por outro lado, quando o
+juiz  a  conceder,  segundo  o  disposto  no  art.  746  do  CPP,  cabe  recurso  de  ofício.  Algumas  vozes  entendem  revogada  essa  norma,
+sem que haja, no entanto, qualquer motivo a tanto. Outras modalidades de recurso de ofício subsistem normalmente no Código de
+Processo Penal, de forma que inexiste razão para a revogação no caso da reabilitação. Assim: “O advento da Constituição Federal
+de  1988  em  nada  afetou  o  recurso  ex officio  criminal,  que  deve  ser  interposto,  ou  assim  considerado,  nos  casos  expressamente
+previstos em leis ordinárias. (...) Contudo, não revogou os recursos necessários ou obrigatórios previstos em leis ordinárias (arts.
+574, I e II; 746 do CPP; e 7.º da Lei 1.521, de 26.12.1951)” (RT 691/328). Idem: J. Cabral Netto (Recurso ex officio, RT 692/242);
+Carlos Frederico Coelho Nogueira (Efeitos da condenação, reabilitação e medidas de segurança, p. 139).
+
+9. Prescrição e reabilitação:  a  prescrição  da  pretensão  punitiva,  porque  afasta  o  jus puniendi  do  Estado,  não  permite  o
+pedido de reabilitação. Entretanto, a prescrição da pretensão executória, que somente tem o condão de evitar a aplicação da sanção
+principal decorrente da decisão condenatória, permite a reabilitação.
+Art. 95. A reabilitação será revogada, de ofício ou a requerimento do Ministério Público, se o reabilitado for
+condenado, como reincidente,
+10
+ por decisão definitiva, a pena que não seja de multa.
+11
+10. Reabilitação  e  reincidência:  são  institutos  totalmente  diferentes,  embora  possuam  conexões:  a)  a  reabilitação  não
+extingue  a  condenação  anterior  para  efeito  de  reincidência,  de  modo  que  o  reabilitado,  cometendo  novo  crime,  pode  tornar-se
+reincidente; b) a reincidência pode servir para revogar a reabilitação.
+11. Caráter  pessoal  da  reabilitação:  a  reabilitação  é  pessoal  e  não  pode  ser  requerida  por  sucessores  ou  herdeiros,
+diferentemente da revisão criminal.
+
+Título VI
+Das medidas de segurança
+1
+1. Conceito: trata-se de uma esp
+[/PAGINA 747]
+
+[PAGINA 748]
+écie de sanção penal, com caráter preventivo e curativo, visando a evitar que o autor de um
+fato havido como infração penal, inimputável ou semi-imputável, mostrando periculosidade, torne a cometer outro injusto e receba
+tratamento adequado. J
+AIR LEONARDO LOPES conceitua: “É o meio empregado para a defesa social e o tratamento do indivíduo
+que comete crime e é considerado inimputável” (Curso de direito penal, p. 252). E FREDERICO MARQUES ensina: “É providência
+ditada  pela  defesa  do  bem  comum  e  baseada  no  juízo  de  periculosidade,  que,  no  tocante  aos  inimputáveis,  substitui  o  juízo  de
+reprovação consubstanciado na culpabilidade”. Em posição análoga ao conceito que fornecemos acima estão os posicionamentos
+de P
+IERANGELI e ZAFFARONI, sustentando ser a medida de segurança uma forma de pena, pois, sempre que se tira a liberdade do
+homem, por uma conduta por ele praticada, na verdade o que existe é uma pena. Toda privação de liberdade, por mais terapêutica
+que seja, para quem a sofre não deixa de ter um conteúdo penoso. Assim, pouco importa o nome dado e sim o efeito gerado (Da
+tentativa, p. 29). É a postura majoritária. Para L
+UIZ VICENTE CERNICCHIARO e ASSIS TOLEDO, no entanto, em visão minoritária,
+a  medida  de  segurança  é  instituto  de  caráter  “puramente  assistencial  ou  curativo”,  não  sendo  nem  mesmo  necessário  que  se
+submeta  ao  princípio  da  legalidade  e  da  anterioridade  (Princípios  básicos  de  direito  penal,  p.  41).  Seria  medida  pedagógica  e
+terapêutica, ainda que restrinja a liberdade.
+Espécies de medidas de segurança
+2
+Art. 96. As medidas de segurança são:
+I  –  internação  em  hospital  de  custódia  e  tratamento  psiquiátrico  ou,  à  falta,  em  outro  estabelecimento
+adequado;
+3-3-A
+II – sujeição a tratamento ambulatorial.
+4
+Parágrafo único. Extinta a punibilidade, não se impõe medida de segurança nem subsiste a que tenha sido
+imposta.
+5
+2. Sistemas  de  aplicação  da  pena  e  da  medida  de  segurança:  antes  da  Reforma  Penal  de  1984,  prevalecia  o
+sistema do duplo binário, vale dizer, o juiz podia aplicar pena mais medida de segurança. Quando o réu praticava delito grave e
+violento,  sendo  considerado  perigoso,  recebia  pena  e  medida  de  segurança.  Assim,  terminada  a  pena  privativa  de  liberdade,
+continuava detido até que houvesse o exame de cessação de periculosidade. Na prática, poderia ficar preso in-+9definidamente, o
+que se afigurava profundamente injusto – afinal, na época do delito, fora considerado imputável, não havendo sentido para sofrer
+dupla penalidade. A designação – duplo binário – advém da expressão italiana doppio binario, que significa duplo trilho ou dupla
+via,  como  esclarece  R
+ENÉ  ARIEL  DOTTI  (Visão  geral  da  medida  de  segurança,  p.  310).  Atualmente,  prevalecendo  o  sistema
+vicariante  (“que  faz  as  vezes  de  outra  coisa”),  o  juiz  somente  pode  aplicar  pena  ou  medida  de  segurança.  Caso  o  réu  seja
+considerado  imputá
+[/PAGINA 748]
+
+[PAGINA 749]
+vel  à  época  do  crime,  receberá  pena;  se  for  inimputável,  caberá  medida  de  segurança.  Explica  D
+OTTI  que  a
+adoção  do  sistema  do  binário  único  foi  a  melhor  opção  para  evitar  um  paradoxo:  “Se  uma  das  finalidades  da  pena  de  prisão  é
+ressocializar  ou  reeducar  o  infrator,  sob  o  pálio  da  prevenção  especial,  como  se  justificar  um  complemento  que  pressupõe  a
+periculosidade,  ainda  persistente?  Trata-se  de  uma  contradictio  in  adjecto  e,  portanto,  a  negação  de  um  dos  objetivos  da  pena,
+assim declarados em textos constitucionais e leis ordinárias” (ob. cit., p. 311). Em oposição à abolição do sistema do duplo binário,
+confira-se a posição de C
+ARLOS FREDERICO COELHO NOGUEIRA: “Em matéria de medidas de segurança, a sociedade e cada um
+de  nós  estaremos  totalmente  desprotegidos  pela  nova  Parte  Geral  do  Código  Penal.  (...)  Não  poderá  mais  ser  declarada  a
+periculosidade  de  réus  imputáveis,  por  mais  selvagens  e  revoltantes  os  crimes  por  eles  praticados.  Apenas  porque,  mentalmente,
+
+são sãos.  Numa  época  em  que  a  sociedade  clama  por  segurança,  dilui-se  a  repressão  de  crimes  comuns,  incentivando-se  o
+incremento da criminalidade violenta” (Efeitos da condenação, reabilitação e medidas de segurança, p. 142).
+3. Internação  em  hospital  de  custódia  e  tratamento  psiquiátrico:  é  a  obrigação  de  permanecer  internado  em
+hospital ou manicômio judiciário, sujeito a tratamento médico interno.
+3-A. Concorrência  com  a  Lei  10.216/2001:  dispõe  o  art.  2.º,  parágrafo  único,  da  referida  Lei:  “são  direitos  da  pessoa
+portadora de transtorno mental: I – ter acesso ao melhor tratamento do sistema de saúde, consentâneo às suas necessidades; II – ser
+tratada  com  humanidade  e  respeito  e  no  interesse  exclusivo  de  beneficiar  sua  saúde,  visando  alcançar  sua  recuperação  pela
+inserção  na  família,  no  trabalho  e  na  comunidade;  III  –  ser  protegida  contra  qualquer  forma  de  abuso  e  exploração;  IV  –  ter
+garantia de sigilo nas informações prestadas; V – ter direito à presença médica, em qualquer tempo, para esclarecer a necessidade
+ou  não  de  sua  hospitalização  involuntária;  VI  –  ter  livre  acesso  aos  meios  de  comunicação  disponíveis;  VII  –  receber  o  maior
+número  de  informações  a  respeito  de  sua  doença  e  de  seu  tratamento;  VIII  –  ser  tratada  em  ambiente  terapêutico  pelos  meios
+menos invasivos possíveis; IX – ser tratada, preferencialmente, em serviços comunitários de saúde mental”. Na sequência, o art. 4.º
+preceitua:  “a  internação,  em  qualquer  de  suas  modalidades,  só  será  indicada  quando  os  recursos  extra-hospitalares  se  mostrarem
+insuficientes.  §  1.º  O  tratamento  visará,  como  finalidade  permanente,  a  reinserção  social  do  paciente  em  seu  meio.  §  2.º  O
+tratamento  em  regime  de  internação  será  estruturado  de  forma  a  oferecer  assistênci
+[/PAGINA 749]
+
+[PAGINA 750]
+a  integral  à  pessoa  portadora  de  transtornos
+mentais,  incluindo  serviços  médicos,  de  assistência  social,  psicológicos,  ocupacionais,  de  lazer,  e  outros.  §  3.º  É  vedada  a
+internação de pacientes portadores de transtornos mentais em instituições com características asilares, ou seja, aquelas desprovidas
+dos recursos mencionados no § 2.º e que não assegurem aos pacientes os direitos enumerados no parágrafo único do art. 2.º”. No
+art. 6.º, parágrafo único, consta: “são considerados os seguintes tipos de internação psiquiátrica: I – internação voluntária: aquela
+que  se  dá  com  o  consentimento  do  usuário;  II  –  internação  involuntária:  aquela  que  se  dá  sem  o  consentimento  do  usuário  e  a
+pedido de terceiro; e III – internação compulsória: aquela determinada pela Justiça”. Finalmente, o art. 9.º dispõe que “a internação
+compulsória  é  determinada,  de  acordo  com  a  legislação  vigente,  pelo  juiz  competente,  que  levará  em  conta  as  condições  de
+segurança  do  estabelecimento,  quanto  à  salvaguarda  do  paciente,  dos  demais  internados  e  funcionários”.  A  Lei  10.216/2001  não
+revogou, nem modificou o disposto no Código Penal, no tocante aos inimputáveis (ou semi-imputáveis), autores do injusto penal,
+que recebem medida de segurança. Em primeiro lugar, a mencionada Lei tem caráter civil – e não penal. Destina-se a regular as
+internações  voluntárias,  involuntárias  e  judiciais  no  âmbito  cível.  Em  segundo,  os  direitos  expostos  nessa  Lei  são  perfeitamente
+compatíveis com o escopo da Lei de Execução Penal. Quer-se a cura da pessoa sujeita à medida de segurança, devendo-se respeitar
+os  seus  direitos  como  paciente  em  tratamento,  seja  internado  ou  em  liberdade.  Por  outro  lado,  atualmente,  a  imposição  de
+internação  ou  tratamento  ambulatorial  tem  obedecido  o  critério  médico  e  não  somente  o  texto  legal  do  art.  97  deste  Código.  Em
+suma, a Lei 10.216/2001 concorre com o cenário das medidas de segurança, previstas e disciplinadas no Código Penal e na Lei de
+Execução  Penal,  não  havendo  colidência,  mas  simples  composição  de  seus  dispositivos.  Nesse  sentido:  TJSP,  Ap.  0059084-
+93.2011.8.26.0050, 2.
+a
+ C., rel. Antonio Luiz Pires Neto, 24.03.2014, v.u.
+4. Tratamento ambulatorial: é a submissão do sujeito a tratamento médico externo, ou seja, não necessita ficar internado,
+embora esteja obrigado a comparecer com relativa frequência ao médico.
+5. Extinção  de  punibilidade:  é  natural  que  o  advento  de  alguma  das  causas  de  extinção  da  punibilidade  provoque  a
+cessação da aplicação da medida de segurança, pois nada mais existe a punir, uma vez que se encontra finda a pretensão punitiva
+do Estado. Assim, como exemplo, caso ocorra a prescrição da pretensão punitiva, porque entre a data do recebimento da denúncia
+e  a  data  da  sentença  transcorreu  tempo  suficiente  para  a  prescrição  da  pena  em  abstrato,  o  juiz  não  impõe  me
+[/PAGINA 750]
+

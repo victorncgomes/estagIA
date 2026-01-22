@@ -1,0 +1,2616 @@
+[META]
+TITULO: Direito-Administrativo-32ed
+AUTOR: Maria Sylvia Zanella
+ANO: N/A
+EDICAO: 32
+EDITORA: Atlas
+PAGINAS: 901-950
+ARQUIVO_ORIGINAL: #Direito-Administrativo-32ed - 2019 - Maria Sylvia Zanella.pdf
+CITACAO_ABNT: ZANELLA, Maria Sylvia. Direito-Administrativo-32ed. 32. ed..
+[/META]
+
+[PAGINA 901]
+l na esfera federal); adoção obrigatória; autenticidade
+por meio de certificado digital emitido pelo ICP – Chaves Públicas,
+nos  termos  da  Medida  Provisória  2.200-2,  de  24-8-01);  o  ato
+considera-se  praticado  no  dia  e  hora  do  recebimento  pelo  sistema
+informatizado (art. 7º); direito de vista exercido eletronicamente ou
+por acesso à cópia do documento; observância das normas da Lei de
+Acesso  à  Informação  –  Lei  nº  12.527/11  para  proteger  o  sigilo;
+juntada  de  documentos  por  meio  eletrônico  (art.  11);  considerados
+originais os documentos nato-digitais assinados eletronicamente (art.
+2º, II, a, e 10); dois tipos de documentos: cópia simples (enviados
+digitalizados ou resultantes de digitalização de cópia autenticada em
+cartório  ou  administrativamente  ou  de  cópia  simples) e  cópia
+autenticada  administrativamente  (resultantes  da  digitalização  de
+originais);  implantação  no  prazo  de  dois  anos);  observância  dos
+requisitos de validade dos atos administrativos.
+12.  Princípios do processo administrativo: arts. 37 da CF e 2º da
+Lei de Processo Administrativo federal e normas da LINDB.
+a)  publicidade: direito de acesso ao processo (mais amplo que no
+processo  judicial);  não  se  confunde  com  o  direito  de  vista;
+
+restrição ao direito de acesso apenas nos casos de sigilo previstos
+na CF (art. 5º, XXXIII e LX); aplicação do princípio nos arts. 2º,
+parágrafo único, V e X, e 3º, II, da LPA;
+b)   oficialidade:  atuação ex  officio  da  Administração  para  a
+instauração, para a instrução e para a revisão do processo (arts.
+2º, parágrafo único, XII, 5º, 29 e 65 da LPA); presente no poder
+de autotutela consagrado pela Súmula 473 do STF;
+c)  obediência à forma e aos procedimentos: menos rígido do
+que  no  processo  judicial  (princípio  do  informalismo);  maiores
+exigências  formais  nos  processos  que  envolvem  interesses  dos
+particulares (disciplinar, tributário, licitatório); art. 2º, VIII e IX, e
+22 da LPA;
+d)   gratuidade:  art.  2º,  parágrafo  único,  XI,  da  LPA;
+impossibilidade  de  cobrança  de  despesas  processuais  para
+propositura de recursos (Súmula 373, do STJ, e Súmula vinculante
+21, do STF);
+e)  ampla defesa e contraditório: arts. 5º, LV, e 41, § 1º, da CF;
+2º, parágrafo único, X, e 3º, II, III e IV, da LPA; contraditório
+exige: 1. notificação dos atos processuais à parte interessada; 2.
+exame das provas constantes do processo; 3. direito de assistir à
+inquirição de testemunhas; 4. direito de apresentar defesa escrita;
+assistência facultativa de advogado (art. 3º e Súmula Vinculante
+nº 5, do STF), exigência de intimação (art. 26, 27, 28, 39, 44, 62,
+da LPA); Súmula Vinculante nº 3, do STF, sobre contraditório e
+ampla defesa nos processos do Tribunal de Contas da União;
+f)   atipicidade:  nem  sempre  existe  tipicidade  na  definição  das
+infrações  administrativas  (ex.:  Lei  de  Licitações  e  estatutos  dos
+servidores públicos); definições equiparáveis às normas penais em
+branco;  in
+[/PAGINA 901]
+
+[PAGINA 902]
+existência  de  discricionariedade  na  escolha  da  pena:
+necessidade  de  motivação  adequada  diante  dos  fatos  apurados;
+
+maioria da doutrina defende a aplicação do princípio da tipicidade
+nos processos administrativos, embora a legislação nem sempre o
+observe;
+g)   pluralidade  de  instâncias:  decorrente  da  organização
+hierárquica  (possibilidade  de  recorrer  às  instâncias  superiores);
+limitação  a  três  instâncias  na  LPA,  salvo  disposição  legal  em
+contrário  (art.  57);  possibilidade  de:  1)  alegar  em  instância
+superior o que não foi arguido de início; 2) reexaminar matéria de
+fato; 3) produzir novas provas; inexistência da pluralidade quando
+a  decisão  partiu  da  autoridade  administrativa,  hipótese  em  que
+cabe pedido de reconsideração;
+h)   economia  processual:  exigências  formais  devem  ser
+adequadas  e  proporcionais  ao  fim  que  se  pretende  atingir;
+aproveitamento  dos  atos  processuais:  admite  o  saneamento
+quando se tratar de nulidade sanável;
+i)   participação  popular:  inerente  ao  Estado  de  Direito
+Democrático (art. 1º e preâmbulo da CF); participação na gestão:
+aplicação nos arts. 10, 187, 194, VII, 198, III, 204, II, 206, VI, e
+216, § 1º, da CF; participação no controle: arts. 5º, XXXIII e
+LXXI, 74, § 2º, 103-B, § 7º, e 130-A, § 5º, da CF; instrumentos de
+participação na LPA (arts. 31, 32, 33), na Lei de Licitações (art.
+39) e na legislação das agências reguladoras.
+13. Processo administrativo disciplinar
+– Sistemas:
+a) hierárquico  (o  poder  disciplinar  é  exercido  pelo  superior
+hierárquico;  utilizado  para  faltas  leves  ou  para  a  aplicação  da
+verdade sabida);
+b)    de jurisdição  completa  (a  decisão  cabe  a  um  órgão  de
+jurisdição segundo procedimento jurisdicional);
+
+c)   misto  ou  de jurisdição  moderada  (a  apuração  é  feita  por
+órgãos, com função opinativa, sendo a pena aplicada por superior
+hierárquico;  mantém  certo  grau  de  discricionariedade  na
+verificação dos fatos e na escolha da pena aplicável; é o sistema
+adotado no direito brasileiro).
+– Meios  de  apuração:  processo  administrativo  disciplinar,
+sindicância e verdade sabida.
+– Processo  administrativo  disciplinar:  obrigatório  para
+demissão  do  servidor  estável  (art.  41  da  CF)  e  outras  penas,
+conforme o Estatuto de cada esfera de governo. É realizado por
+comissões  disciplinares,  que  constituem  órgãos  estranhos  ao
+relacionamento  entre  o  servidor  e  o  superior  hierárquico,
+garantindo maior imparcialidade.
+– Fases:  a) instauração  (feita  pela  autoridade  competente, ex
+officio, por meio de portaria, contendo o nome dos indiciados, a
+infração  e  indicação  dos  dispositivos  legais  infringidos);  b)
+instrução  com  observância  dos  princípios  da  oficialidade  e  do
+contraditório; permissão ao indiciado para assistir à inquirição das
+testemunhas  e  reperguntar;  c) defesa,  com  direito  de  vista  aos
+indiciados  e  notificação  para  apresentação  da  defesa  escrita,
+pe
+[/PAGINA 902]
+
+[PAGINA 903]
+ssoalmente ou por meio de advogado; na falta de defesa, tem
+que  ser  indicado  outro  servidor,  de  preferência  bacharel  em
+direito; Súmula Vinculante nº 5, do STF (não obrigatoriedade de
+defesa técnica por advogado) d) relatório (descrição dos fatos e
+das  provas  colhidas,  além  de  proposta  de  absolvição  ou  de
+aplicação  de  penalidade;  peça  opinativa,  não  vinculante  para  a
+autoridade  competente  para  decidir);  e  e) decisão,  a  qual  pode
+acolher a sugestão do relatório (que equivalerá à motivação) ou
+rejeitar,  com  nova  motivação;  reexame  do  processo,  com
+possibilidade  de  anular  e  pedir  novas  diligências  (princípio  da
+
+oficialidade). Cabimento de pedido de reconsideração e recurso
+hierárquico, além do pedido de revisão.
+– Sindicância:  meio  sumário  de  apuração  de  infrações,  cabível
+para penas mais leves, como repreensão e suspensão (nos termos
+da  legislação  estatutária),  e  como  fase  preliminar  ao  processo
+administrativo disciplinar, quando não haja elementos suficientes
+para sua instauração.
+
+1
+2
+3
+4
+7
+5
+6
+_________________
+A Lei nº 11.917/06 acrescentou os arts. 64-A e 64-B (comentados no capítulo 17 (item 17.3.2.2),
+que tratam, respectivamente, da alegação de violação de súmula vinculante em recurso interposto
+na  esfera  administrativa,  e  da  reclamação  administrativa  fundada  em  violação  de  súmula
+vinculante.  A  Lei  nº  12.008/09  incluiu  o  art.  69-A,  sobre  tramitação  preferencial  dos
+procedimentos  que  envolvam  idosos,  deficientes  e  portadores  de  moléstias  especificadas  no
+dispositivo.
+Sobre  o  tema:  DI  PIETRO,  Maria  Sylvia  Zanella.  A  lei  de  processo  administrativo:  sua  ideia
+matriz e âmbito de aplicação. In: NOHARA, Irene Patrícia; MORAES FILHO, Marco Antonio
+Praxedes de. Processo Administrativo: temas polêmicos da Lei nº 9.784/99.  São  Paulo:  Atlas,
+2011, p. 185-201. O STJ vem entendendo que a Lei nº 9.784/99 tem aplicação subsidiária aos
+Estados  e  Municípios  que  não  tenham  lei  própria  de  processo  administrativo  (AgRg  no  REsp
+1.092.202/DF 2008/0212281-9; AgReg no RMS 25.979/GO).
+A  respeito  dos  processos  relativos  a  aplicação  de  multas  de  trânsito,  o  STJ  decidiu  que  “é
+indispensável a efetivação de duas notificações no procedimento administrativo adotado para a
+imposição de multas de trânsito: a) a primeira poderá ser feita pelo correio, quando for o caso de
+autuação  à  distância  ou  por  equipamento  eletrônico,  correspondendo  à  notificação  relativa  à
+lavratura do auto de infração, exceto nas hipóteses de flagrante, quando a notificação do infrator se
+realiza  em  sua  presença;  b)  a  segunda  deverá  ocorrer  após  julgada  a  subsistência  do  auto  de
+infração com a imposição da penalidade” (REsp 942180/RS, Rel. Min. Herman Benjamin, DJ 24-
+9-07, p. 286).
+O Conselho Federal da Ordem dos Advogados do Brasil, por vislumbrar incompatibilidade entre a
+Súmula Vinculante nº 5 e o art. 5º, LV, da Constituição, teve a
+[/PAGINA 903]
+
+[PAGINA 904]
+iniciativa de propor o cancelamento
+da Súmula, com fundamento na competência prevista no art. 103-A, § 2º, da Constituição.
+Cf. Guilherme de Souza Nucci. Código Penal Comentado, 2000, p. 11.
+Sobre essa reclamação administrativa, v. item 17.3.2.2.
+Pela Súmula 611, o STJ consagrou o entendimento de que “desde que devidamente motivada e
+com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo
+disciplinar  com  base  em  denúncia  anônima,  em  face  do  poder-dever  de  autotutela  imposto  à
+Administração”.
+
+
+
+15.1DELIMITAÇÃO DO TEMA
+Quando se fala em responsabilidade do Estado, está-se cogitando dos três
+tipos de funções pelas quais se reparte o poder estatal: a administrativa, a
+jurisdicional  e  a  legislativa.  Fala-se,  no  entanto,  com  mais  frequência,  de
+responsabilidade resultante de comportamentos da Administração Pública, já
+que, com relação aos Poderes Legislativo e Judiciário, essa responsabilidade
+incide em casos excepcionais.
+Trate-se  de  dano  resultante  de  comportamentos  do  Executivo,  do
+Legislativo ou do Judiciário, a responsabilidade é do Estado, pessoa jurídica;
+por isso é errado falar em responsabilidade da Administração Pública, já que
+esta não tem personalidade jurídica, não é titular de direitos e obrigações na
+ordem civil. A capacidade é do Estado e das pessoas jurídicas públicas ou
+privadas que o representam no exercício de parcela de atribuições estatais. E
+a responsabilidade é sempre civil, ou seja, de ordem pecuniária.
+A  referência  à  responsabilidade extracontratual  é  necessária  para
+restringir o tema tratado neste capítulo a essa modalidade de responsabilidade
+civil,  ficando  excluída  a  responsabilidade contratual,  que  se  rege  por
+princípios  próprios,  analisados  no  capítulo  referente  aos  contratos
+administrativos.
+A responsabilidade patrimonial pode decorrer de atos jurídicos, de atos
+ilícitos,  de  comportamentos  materiais  ou  de  omissão  do  Poder  Público.  O
+essencial é que haja um dano causado a terceiro por comportamento omissivo
+ou comissivo de agente do Estado.
+Ao contrário do direito privado, em que a responsabilidade exige sempre
+um ato ilícito (contrário à lei), no direito administrativo ela pode decorrer de
+atos ou comportamentos que, embora lícitos, causem a pessoas determinadas
+ônus maior do que o imposto aos demais membros da coletividade.
+Pode-se,  portanto,  dizer  que a  responsabilidade  extracontratual  do
+
+Estado corresponde à obrigação de reparar danos causados a terceiros
+em decorrência de comportamentos comissivos ou omissivos, materiais
+ou jurídicos, lícitos ou ilícitos, imputáveis aos agentes públicos.
+
+15.2
+1.
+2
+•
+•
+3.
+•
+•
+EVOLUÇÃO
+O  tema  da  responsabilidade  civil  do  Estado  tem  recebido  tratamento
+diverso  no  tempo  e  no  espaço;  inúmeras  teorias  têm  sido  elaboradas,
+inexistindo dentro de um mesmo direito uniformidade de regime jurídico que
+abranja  todas  as  hipóteses.  Em  alguns  sistemas,  como  o  an
+[/PAGINA 904]
+
+[PAGINA 905]
+glo-saxão,
+prevalecem  os  princípios  de  direito  privado;  em  outros,  como  o  europeu-
+continental,  adota-se  o  regime  publicístico.  A  regra  adotada,  por  muito
+tempo,  foi  a  da irresponsabilidade;  caminhou-se,  depois,  para  a
+responsabilidade subjetiva, vinculada à culpa, ainda hoje aceita em várias
+hipóteses;  evoluiu-se,  posteriormente,  para  a  teoria  da responsabilidade
+objetiva, aplicável, no entanto, diante de requisitos variáveis de um sistema
+para outro, de acordo com normas impostas pelo direito positivo.
+As várias teorias que serão analisadas são adotadas preferencialmente no
+sistema europeu-continental, graças, em especial, ao trabalho jurisprudencial
+do Conselho de Estado francês. Em outros direitos, filiados ao sistema anglo-
+saxão, a orientação é diversa e não será aqui aprofundada, por não exercer
+grande influência no direito brasileiro.
+As teorias sobre o tema compreendem:
+teoria da irresponsabilidade;
+teorias civilistas;
+teoria dos atos de impérios e de gestão; e
+teoria da culpa civil ou da responsabilidade subjetiva;
+teorias publicistas;
+teoria da culpa administrativa ou culpa do serviço público; e
+teoria  do  risco  integral  ou  administrativo  ou  teoria  da
+
+15.2.1
+responsabilidade objetiva.
+Antes de analisar cada uma dessas teorias, cabe assinalar que existe muita
+divergência de terminologia entre os autores, o que torna difícil a colocação
+da  matéria;  o  que  alguns  chamam  de  culpa  civil  outros  chamam  de  culpa
+administrativa;  alguns  consideram  como  hipóteses  diversas  a  culpa
+administrativa  e  o  acidente  administrativo;  alguns  subdividem  a  teoria  do
+risco em duas modalidades, risco integral e risco administrativo.
+Teoria da irresponsabilidade
+A teoria da irresponsabilidade foi adotada na época dos Estados absolutos
+e repousava fundamentalmente na ideia de soberania:  o  Estado  dispõe  de
+autoridade incontestável perante o súdito; ele exerce a tutela do direito, não
+podendo, por isso, agir contra ele; daí os princípios de que o rei não pode
+errar (the king can do no wrong; le roi ne peut mal faire) e o de que “aquilo
+que agrada ao príncipe tem força de lei” (quod principi placuit habet legis
+vigorem). Qualquer responsabilidade atribuída ao Estado significaria colocá-
+lo no mesmo nível que o súdito, em desrespeito a sua soberania.
+Essa teoria logo começou a ser combatida, por sua evidente injustiça; se o
+Estado deve tutelar o direito, não pode deixar de responder quando, por sua
+ação  ou  omissão,  causar  danos  a  terceiros,  mesmo  porque,  sendo  pessoa
+jurídica, é titular de direitos e obrigações.
+Os  Estados  Unidos  e  a  Inglaterra  abandonaram  a  teoria  da
+irresponsabilidade, por meio do Federal Tort Claim Act, de 1946, e Crown
+Proceeding Act, de 1947, respectivamente.
+Nos Estados Unidos, em grande parte dos casos, o particular pode acionar
+diretamente  o  funcionário,  admitindo-se,  em  algumas  hipóteses,  a
+responsabilidade direta do Estado, porém, desde que haja
+[/PAGINA 905]
+
+[PAGINA 906]
+culpa, apurada da
+mesma  maneira  e  tão  amplamente  como  a  de  um  particular  em  iguais
+circunstâncias. Trata-se de responsabilidade subjetiva.
+
+15.2.2
+Na  Inglaterra,  a  partir  do Crown  Proceeding  Act,  a  Coroa  passou  a
+responder por danos causados por seus funcionários ou agentes, desde que
+haja  infração  daqueles  deveres  que  todo  patrão  tem  em  relação  aos  seus
+prepostos  e  também  daqueles  deveres  que  toda  pessoa  comum  tem  em
+relação  à  propriedade.  A  responsabilidade,  no  entanto,  não  é  total,  porque
+sofre limitações, não se aplicando aos entes locais nem às empresas estatais.
+Teorias civilistas
+Foi  no  século  XIX  que  a  tese  da  irresponsabilidade  ficou  superada.
+Porém, ao admitir-se, inicialmente, a responsabilidade do Estado, adotavam-
+se os princípios do Direito Civil, apoiados na ideia de culpa; daí falar-se em
+teoria civilista da culpa.
+Numa  primeira  fase,  distinguiam-se,  para  fins  de  responsabilidade,  os
+atos de império e os atos de gestão. Os primeiros seriam os praticados pela
+Administração  com  todas  as  prerrogativas  e  privilégios  de  autoridade  e
+impostos  unilateral  e  coercitivamente  ao  particular  independentemente  de
+autorização  judicial,  sendo  regidos  por  um  direito  especial,  exorbitante  do
+direito comum, porque os particulares não podem praticar atos semelhantes;
+os segundos seriam praticados pela Administração em situação de igualdade
+com  os  particulares,  para  a  conservação  e  desenvolvimento  do  patrimônio
+público  e  para  a  gestão  de  seus  serviços;  como  não  difere  a  posição  da
+Administração e a do particular, aplica-se a ambos o direito comum.
+Essa  distinção  foi  idealizada  como  meio  de  abrandar  a  teoria  da
+irresponsabilidade do monarca por prejuízos causados a terceiros. Passou-se a
+admitir  a  responsabilidade  civil  quando  decorrente  de  atos  de  gestão  e  a
+afastá-la nos prejuízos resultantes de atos de império. Distinguia-se a pessoa
+do Rei (insuscetível de errar – the king can do no wrong), que praticaria os
+atos de império, da pessoa do Estado, que praticaria atos de gestão, através
+de seus prepostos.
+Surgiu,  no  entanto,  grande  oposição  a  essa  teoria,  quer  pelo
+
+15.2.3
+reconhecimento da impossibilidade de dividir-se a personalidade do Estado,
+quer pela própria dificuldade, senão impossibilidade, de enquadrar-se como
+atos  de  gestão  todos  aqueles  praticados  pelo  Estado  na  administração  do
+patrimônio público e na prestação de seus serviços.
+Embora abandonada a distinção entre atos de império e de gestão, muitos
+autores   continuaram   apegados   à   doutrina   civilista,   aceitando   a
+responsabilidade  do  Estado  desde  que  demonstrada  a  culpa.  Procurava-se
+equiparar a responsabilidade do Estado à do patrão, ou comitente, pelos atos
+dos  empregados  ou  prepostos.  Era  a teoria  da  culpa  civil  ou  da
+responsabilidade subjetiva.
+A  doutrina  civilista  serviu  de  inspiração  ao  artigo
+[/PAGINA 906]
+
+[PAGINA 907]
+15  do  Código  Civil
+Brasileiro (de 1916), que consagrou a teoria da responsabilidade subjetiva do
+Estado.
+Teorias publicistas
+O primeiro passo no sentido da elaboração de teorias de responsabilidade
+do Estado segundo princípios do direito público foi dado pela jurisprudência
+francesa,  com  o  famoso  caso  Blanco,  ocorrido  em  1873:  a  menina  Agnès
+Blanco, ao atravessar uma rua da cidade de Bordeaux, foi colhida por uma
+vagonete da Cia. Nacional de Manufatura do Fumo; seu pai promoveu ação
+civil  de  indenização,  com  base  no  princípio  de  que  o  Estado  é  civilmente
+responsável  por  prejuízos  causados  a  terceiros,  em  decorrência  de  ação
+danosa de seus agentes. Suscitado conflito de atribuições entre a jurisdição
+comum e o contencioso administrativo, o Tribunal de Conflitos decidiu que a
+controvérsia deveria ser solucionada pelo tribunal administrativo, porque se
+tratava  de  apreciar  a  responsabilidade  decorrente  de  funcionamento  do
+serviço  público.  Entendeu-se  que  a  responsabilidade  do  Estado  não  pode
+reger-se pelos princípios do Código Civil, porque se sujeita a regras especiais
+que variam conforme as necessidades do serviço e a imposição de conciliar
+os direitos do Estado com os direitos privados.
+
+A partir daí começaram a surgir as teorias publicistas da responsabilidade
+do Estado: teoria da culpa do serviço ou da culpa administrativa e teoria do
+risco, desdobrada, por alguns autores, em teoria do risco administrativo e
+teoria do risco integral.
+A teoria da culpa do serviço, também chamada de culpa administrativa,
+ou teoria do acidente administrativo, procura desvincular a responsabilidade
+do  Estado  da  ideia  de  culpa  do  funcionário.  Passou  a  falar  em  culpa  do
+serviço público.
+Distinguia-se, de um lado, a culpa individual do funcionário, pela qual ele
+mesmo respondia, e, de outro, a culpa anônima do serviço público; nesse
+caso, o funcionário não é identificável e se considera que o serviço funcionou
+mal; incide, então, a responsabilidade do Estado.
+Essa  culpa  do  serviço  público  ocorre  quando:  o  serviço  público  não
+funcionou  (omissão),  funcionou  atrasado  ou  funcionou  mal.  Em  qualquer
+dessas  três  hipóteses,  ocorre  a  culpa  (faute)  do  serviço  ou  acidente
+administrativo, incidindo a responsabilidade do Estado independentemente de
+qualquer apreciação da culpa do funcionário.
+Sem abandonar essa teoria, o Conselho de Estado francês passou a adotar,
+em determinadas hipóteses, a teoria do risco, que serve de fundamento para
+a responsabilidade objetiva do Estado.
+Essa  doutrina  baseia-se  no  princípio  da  igualdade  de  todos  perante  os
+encargos sociais e encontra raízes no artigo 13 da Declaração dos Direitos do
+Homem, de 1789, segundo o qual “para a manutenção da força pública e para
+as despesas de administração é indispensável uma contribuição comum que
+deve ser dividida entre os cidadãos de acordo com as suas possibilidades”. O
+princípio  significa  que,  assim  como
+[/PAGINA 907]
+
+[PAGINA 908]
+os  benefícios  decorrentes  da  atuação
+estatal  repartem-se  por  todos,  também  os  prejuízos  sofridos  por  alguns
+membros da sociedade devem ser repartidos. Quando uma pessoa sofre um
+ônus  maior  do  que  o  suportado  pelas  demais,  rompe-se  o  equilíbrio  que
+necessariamente deve haver entre os encargos sociais; para restabelecer esse
+
+equilíbrio,  o  Estado  deve  indenizar  o  prejudicado,  utilizando  recursos  do
+erário.
+Nessa teoria, a ideia de culpa é substituída pela de nexo de causalidade
+entre  o  funcionamento  do  serviço  público  e  o  prejuízo  sofrido  pelo
+administrado. É indiferente que o serviço público tenha funcionado bem ou
+mal,  de  forma  regular  ou  irregular.  Constituem  pressupostos  da
+responsabilidade objetiva do Estado: (a) que seja praticado um ato lícito ou
+ilícito, por agente público; (b) que esse ato cause dano específico (porque
+atinge apenas um ou alguns membros da coletividade) e anormal  (porque
+supera  os  inconvenientes  normais  da  vida  em  sociedade,  decorrentes  da
+atuação estatal); (c) que haja um nexo de causalidade entre o ato do agente
+público e o dano.
+É  chamada  teoria  da responsabilidade  objetiva,  precisamente  por
+prescindir da apreciação dos elementos subjetivos (culpa ou dolo); é também
+chamada teoria  do  risco,  porque  parte  da  ideia  de  que  a  atuação  estatal
+envolve  um  risco  de  dano,  que  lhe  é  inerente.  Causado  o  dano,  o  Estado
+responde como se fosse uma empresa de seguro em que os segurados seriam
+os contribuintes que, pagando os tributos, contribuem para a formação de um
+patrimônio coletivo (cf. Cretella Júnior, 1970, v. 8, p. 69-70).
+O  Código  Civil  acolheu  expressamente  a  teoria  da  responsabilidade
+objetiva, ligada à ideia de risco. Em consonância com o artigo 927, parágrafo
+único, “haverá obrigação de reparar o dano, independentemente de culpa, nos
+casos especificados em lei, ou quando a atividade normalmente desenvolvida
+pelo  autor  do  dano  implicar,  por  sua  natureza,  risco  para  os  direitos  de
+outrem”.
+Segundo Hely Lopes Meirelles (2003:623), a teoria do risco compreende
+duas  modalidades:  a  do  risco administrativo  e  a  do risco  integral;  a
+primeira admite (e a segunda não) as causas excludentes da responsabilidade
+do Estado: culpa da vítima, culpa de terceiros ou força maior.
+No entanto, durante muito tempo, aqui no direito brasileiro, grande parte
+
+da  doutrina  não  fazia  distinção,  considerando  as  duas  expressões  –  risco
+integral  e  risco  administrativo  –  como  sinônimas  ou  falando  em  risco
+administrativo  como  correspondente  ao  acidente  administrativo.  Mesmo
+alguns autores que falavam em teoria do risco integral admitiam as causas
+excludentes da responsabilidade.
+Yussef Said Cahali (1995:40), criticando a distinção feita por Hely Lopes
+Meirelles, diz que “a distinção entre risco administrativo e risco integral
+não é ali estabelecida em função de uma distinção conceitual ou ontológica
+entre as du
+[/PAGINA 908]
+
+[PAGINA 909]
+as modalidades de risco pretendidas, mas simplesmente em função
+das consequências irrogadas a uma outra modalidade: o risco administrativo
+é  qualificado  pelo  seu efeito  de  permitir  a  contraprova  de  excludente  de
+responsabilidade, efeito  que  seria  inadmissível  se  qualificado  como  risco
+integral,  sem  que  nada  seja  enunciado  quanto  à  base  ou  natureza  da
+distinção”.  E  acrescenta  que  “deslocada  a  questão  para  o  plano  da
+causalidade,  qualquer  que  seja  a  qualificação  atribuída  ao  risco  –  risco
+integral,  risco  administrativo,  risco  proveito  –  aos  tribunais  se  permite
+exclusão  ou  atenuação  daquela  responsabilidade  do  Estado  quando  fatores
+outros, voluntários ou não, tiverem prevalecido ou concorrido como causa na
+verificação do dano injusto”.
+Portanto,  não  é  demais  repetir  que  as  divergências  são  mais
+terminológicas, quanto à maneira de designar as teorias, do que de fundo.
+Todos parecem concordar em que se trata de responsabilidade objetiva, que
+implica averiguar se o dano teve como causa o funcionamento de um serviço
+público,  sem  interessar  se  foi  regular  ou  não.  Todos  também  parecem
+concordar  em  que  algumas  circunstâncias  excluem  ou  diminuem  a
+responsabilidade do Estado.
+Ocorre que, diante de normas que foram sendo introduzidas no direito
+brasileiro, surgiram hipóteses em que se aplica a teoria do risco integral, no
+sentido  que  lhe  atribuiu  Hely  Lopes  Meirelles,  tendo  em  vista  que  a
+responsabilidade  do  Estado  incide  independentemente  da  ocorrência  das
+
+circunstâncias  que  normalmente  seriam  consideradas  excludentes  de
+responsabilidade. É o que ocorre nos casos de danos causados por acidentes
+nucleares (art. 21, XXIII, d, da Constituição Federal), disciplinados pela Lei
+nº 6.453, de 17-10-77; e também na hipótese de danos decorrentes de atos
+terroristas,  atos  de  guerra  ou  eventos  correlatos,  contra  aeronaves  de
+empresas aéreas brasileiras, conforme previsto nas Leis nºs 10.309, de 22-11-
+01, e 10.744, de 9-10-03.
+Também o Código Civil previu algumas hipóteses de risco integral nas
+relações obrigacionais, conforme artigos 246, 393 e 399.
+
+15.3DIREITO POSITIVO BRASILEIRO
+A  teoria  da  irresponsabilidade  do  Estado  não  foi  acolhida  pelo  direito
+brasileiro; mesmo não havendo normas legais expressas, os nossos tribunais e
+doutrinadores sempre repudiaram aquela orientação.
+As Constituições de 1824 e 1891 não continham disposição que previsse
+a  responsabilidade  do  Estado;  elas  previam  apenas  a  responsabilidade  do
+funcionário em decorrência de abuso ou omissão praticados no exercício de
+suas funções.
+Nesse período, contudo, havia leis ordinárias prevendo a responsabilidade
+do  Estado,  acolhida  pela  jurisprudência  como  sendo solidária  com  a  dos
+funcionários;  era  o  caso  dos  danos  causados  por  estrada  de  ferro,  por
+colocação de linhas telegráficas, pelos serviços de correio.
+Com  o  Código  Civil,  promulgad
+[/PAGINA 909]
+
+[PAGINA 910]
+o  em  1916,  entende-se  que  teria  sido
+adotada a teoria civilista da responsabilidade subjetiva, à vista do disposto em
+seu  artigo  15:  “as  pessoas  jurídicas  de  direito  público  são  civilmente
+responsáveis  por  atos  de  seus  representantes  que  nessa  qualidade  causem
+danos  a  terceiros,  procedendo  do  modo  contrário  ao  direito  ou  faltando  a
+dever  prescrito  por  lei,  salvo  direito  regressivo  contra  os  causadores  do
+dano”.
+A  expressão procedendo  de  modo  contrário  ao  direito  ou  faltando  a
+dever prescrito por lei conduzia à ideia de que deveria ser demonstrada a
+culpa do funcionário para que o Estado respondesse. No entanto, a redação
+imprecisa  do  dispositivo  permitiu  que  alguns  autores  defendessem,  na
+vigência desse dispositivo, a teoria da responsabilidade objetiva.
+A Constituição de 1934 acolheu o princípio da responsabilidade solidária
+entre Estado e funcionário. Nos termos de seu artigo 171, os funcionários são
+responsáveis solidariamente com a Fazenda Nacional, Estadual ou Municipal,
+por  quaisquer  prejuízos  decorrentes  de  negligência,  omissão  ou  abuso  no
+
+exercício  de  seus  cargos.  A  mesma  norma  se  repetiu  no  artigo  158  da
+Constituição de 1937.
+Com a Constituição de 1946 é que se adotou a teoria da responsabilidade
+objetiva.  De  acordo  com  seu  artigo  194,  “as  pessoas  jurídicas  de  direito
+público  interno  são  civilmente responsáveis  pelos  danos  que  seus
+funcionários,  nessa  qualidade,  causem  a  terceiros”.  Pelo  parágrafo  único,
+“caber-lhes-á  ação  regressiva  contra  os  funcionários  causadores  do  dano,
+quando tiver havido culpa destes”.
+A Constituição de 1967 repete a norma em seu artigo 105, acrescentando,
+no parágrafo único, que a ação regressiva cabe em caso de culpa ou dolo,
+expressão não incluída no preceito da Constituição anterior. Na Emenda nº 1,
+de 1969, a norma foi mantida no artigo 107.
+A Constituição de 1988, no artigo 37, § 6º, determina que “as pessoas
+jurídicas de direito público e as de direito privado prestadoras de serviços
+públicos  responderão  pelos  danos  que  seus  agentes,  nessa  qualidade,
+causarem a terceiros, assegurado o direito de regresso contra o responsável
+nos casos de dolo ou culpa”.
+O Código Civil de 2002 não repete a norma do artigo 15 do Código Civil
+de 1916. Determina, no artigo 43, que “as pessoas jurídicas de direito público
+interno  são  civilmente  responsáveis  por  atos  de  seus  agentes  que  nessa
+qualidade causem danos a terceiros, ressalvado direito regressivo contra os
+causadores de dano, se houver, por parte destes, culpa ou dolo”.
+De certa forma, está atrasado em relação à norma constitucional, tendo
+em  vista  que  não  faz  referência  às  pessoas  jurídicas  de  direito  privado
+prestadoras de serviço público.
+Entende-se  que,  a  partir  da  Constituição  de  1946,  ficou  consagrada  a
+teoria da responsabilidade objetiva do Estado; parte-se da ideia de que, se o
+dispositivo  só  exige  cul
+[/PAGINA 910]
+
+[PAGINA 911]
+pa  ou  dolo  para  o  direito  de  regresso  contra  o
+funcionário,  é  porque  não  quis  fazer  a  mesma  exigência  para  as  pessoas
+jurídicas.
+
+1.
+2.
+3.
+No  dispositivo  constitucional  estão  compreendidas  duas  regras:  a  da
+responsabilidade objetiva do Estado e a da responsabilidade subjetiva do
+agente público.
+A regra da responsabilidade objetiva exige, segundo o artigo 37, § 6º, da
+Constituição:
+que  o  ato  lesivo  seja  praticado  por  agente  de  pessoa  jurídica  de
+direito público (que são as mencionadas no art. 41 do Código Civil)
+ou pessoa jurídica de direito privado prestadora de serviço público (o
+que  inclui  empresas  públicas,  sociedades  de  economia  mista,
+fundações   governamentais   de   direito   privado,   cartórios
+extrajudiciais,  bem  como  qualquer  entidade  com  personalidade
+jurídica  de  direito  privado,  inclusive  as  do  terceiro  setor,  que
+recebam  delegação  do  Poder  Público,  a  qualquer  título,  para  a
+prestação do serviço público);
+que as entidades de direito privado prestem serviço público, o que
+exclui as entidades da administração indireta que executem atividade
+econômica  de  natureza  privada;  as  que  prestam  serviço  público
+respondem objetivamente, nos termos do dispositivo constitucional,
+quando  causem  dano  decorrente  da  prestação  de  serviço  público;
+mesmo  as  concessionárias  e  permissionárias  de  serviço  público  e
+outras  entidades  privadas  somente  responderão  objetivamente  na
+medida  em  que  os  danos  por  elas  causados  sejam  decorrentes  da
+prestação de serviço público;
+que seja causado dano a terceiros, em decorrência da prestação de
+serviço  público;  aqui  está  o  nexo  de  causa  e  efeito;  como  o
+dispositivo  constitucional  fala  em terceiros,  é  inaceitável  o
+entendimento adotado pelo Supremo Tribunal Federal, pelo voto do
+Ministro Carlos Velloso,
+1
+ no sentido de que a responsabilidade só é
+objetiva se o dano for causado ao usuário do serviço público; se for
+
+4.
+5.
+causado a terceiro, a responsabilidade é subjetiva (RE-262.651, 2ª
+turma, e RE-302.622-4, 2ª turma); em julgado posterior, no entanto,
+o STF retomou o seu entendimento anterior, favorável à existência
+de responsabilidade objetiva decorrente de dano causado a terceiro,
+independentemente da qualidade de usuário de serviço público;
+2
+ não
+poderia ser outra a interpretação, tendo em vista que o dispositivo,
+ao falar em danos causados a terceiros, não distingue entre o usuário
+e o não usuário; em consequência, não pode o intérprete fazê-lo, sob
+pena, inclusive, de derrogar o princípio da repartição dos encargos
+sociais e a ideia de risco que é inerente a grande parte das atribuições
+do Estado;
+que o dano seja causado por agente das aludidas pessoas jurídicas, o
+que   abrange   todas   as   categorias,   de   agentes políticos,
+administrativos  ou particulares  em  colaboração  com  a
+Administração, sem interessar o título sob o qual prestam o serviço;
+que o agente, ao causar o dano, aj
+[/PAGINA 911]
+
+[PAGINA 912]
+a nessa qualidade; não basta ter a
+qualidade de agente público, pois, ainda que o seja, não acarretará a
+responsabilidade estatal se, ao causar o dano, não estiver agindo no
+exercício de suas funções.
+Segundo alguns doutrinadores, o Estado só responde objetivamente se o
+dano decorrer de ato antijurídico, o que deve ser entendido em seus devidos
+termos.  Ato  antijurídico  não  pode  ser  entendido,  para  esse  fim,  como  ato
+ilícito, pois é evidente que a licitude ou ilicitude do ato é irrelevante para fins
+de  responsabilidade  objetiva;  caso  contrário,  danos  decorrentes  de  obra
+pública,  por  exemplo,  ainda  que  licitamente  realizada,  não  seriam
+indenizados  pelo  Estado.  Somente  se  pode  aceitar  como  pressuposto  da
+responsabilidade objetiva a prática de ato antijurídico se este, mesmo sendo
+lícito,  for  entendido  como  ato  causador  de  dano anormal  e específico  a
+determinadas pessoas, rompendo o princípio da igualdade de todos perante os
+
+encargos  sociais.  Por  outras  palavras,  ato  antijurídico,  para  fins  de
+responsabilidade objetiva do Estado, é o ato ilícito e o ato lícito que cause
+dano anormal e específico.
+Exemplo típico de ato lícito que enseja a responsabilidade civil do Estado
+encontra-se no artigo 188, combinado com os artigos 929 e 930 do Código
+Civil.  O  artigo  188  estabelece que  “não  constituem  atos  ilícitos:  I  –  os
+praticados  em  legítima  defesa  ou  no  exercício  regular  de  um  direito
+reconhecido; II – a deterioração ou destruição da coisa alheia, ou a lesão a
+pessoa, a fim de remover perigo iminente”. Neste último caso enquadra-se
+inteiramente a atuação do Estado quando, no exercício do poder de polícia,
+provoca danos com o objetivo de remover perigo iminente. Nos termos do
+parágrafo  único  do  mesmo  dispositivo,  “no  caso  do  inciso  II,  o  ato  será
+legítimo  somente  quando  as  circunstâncias  o  tornarem  absolutamente
+necessário,  não  excedendo  os  limites  do  indispensável  para  a  remoção  do
+perigo”.
+Não obstante a licitude dos atos praticados com base no artigo 188, inciso
+II, o Código Civil não afasta a responsabilidade civil de quem os praticou.
+Pelo artigo 929, “se a pessoa lesada, ou o dono da coisa, no caso do inciso II
+do  art.  188,  não  forem  culpados  do  perigo,  assistir-lhes-á  direito  à
+indenização  do  prejuízo  que  sofreram”.  Vale  dizer  que  incide  a
+responsabilidade civil do Estado, com a excludente de culpa da pessoa lesada
+ou do dono da coisa.
+Além disso, o artigo 930 determina que “no caso do inciso II do art. 188,
+se o perigo ocorrer por culpa de terceiro, contra este terá o autor do dano ação
+regressiva para haver a importância que tiver ressarcido ao lesado”. Mais uma
+vez, a conclusão é a de que incide a responsabilidade civil do Estado, sem
+possibilidade de invocar a culpa de terceiro, a não ser para contra este exercer
+o  direito  de  regresso.  Pelo  parágrafo  único  do  artigo  930,  “a  mesma  ação
+competirá contra aquele em d
+[/PAGINA 912]
+
+[PAGINA 913]
+efesa de quem se causou o dano (art. 188, inciso
+I)”. Isto é, no caso de danos decorrentes de prática de atos em legítima defesa
+
+ou no exercício regular de um direito reconhecido, a responsabilidade civil
+incide, apesar da licitude do ato, cabendo direito de regresso contra aquele em
+defesa de quem se causou o dano.
+
+15.4CAUSAS EXCLUDENTES E ATENUANTES DA
+RESPONSABILIDADE
+Sendo  a  existência  do  nexo  de  causalidade  o  fundamento  da
+responsabilidade civil do Estado, esta deixará de existir ou incidirá de forma
+atenuada quando o serviço público não for a causa do dano ou quando estiver
+aliado a outras circunstâncias, ou seja, quando não for a causa única. Além
+disso, nem sempre os tribunais aplicam a regra do risco, socorrendo-se, por
+vezes, da teoria da culpa administrativa ou culpa anônima do serviço público.
+São  apontadas  como causas  excludentes  da  responsabilidade  a força
+maior, a culpa da vítima e a culpa de terceiros. Como causa atenuante, é
+apontada a culpa concorrente da vítima.
+Existe toda uma controvérsia sobre as diferenças entre força maior e caso
+fortuito. O Código Civil parece identificar os dois conceitos, no artigo 393,
+parágrafo  único,  ao  estabelecer  que  “o  caso  fortuito  ou  de  força  maior
+verifica-se  no  fato  necessário,  cujos  efeitos  não  era  possível  evitar  ou
+impedir”.
+Sem  maiores  aprofundamentos  sobre  a  controvérsia,  temos  entendido,
+desde  a  primeira  edição  deste  livro,  que força  maior  é  acontecimento
+imprevisível,  inevitável  e  estranho  à  vontade  das  partes,  como  uma
+tempestade, um terremoto, um raio. Não sendo imputável à Administração,
+não pode incidir a responsabilidade do Estado; não há nexo de causalidade
+entre o dano e o comportamento da Administração.
+Já  o caso  fortuito  –  que  não  constitui  causa  excludente  da
+responsabilidade do Estado – ocorre nos casos em que o dano seja decorrente
+de ato humano ou de falha da Administração; quando se rompe, por exemplo,
+uma  adutora  ou  um  cabo  elétrico,  causando  dano  a  terceiros,  não  se  pode
+falar em força maior, de modo a excluir a responsabilidade do Estado.
+No entanto, mesmo ocorrendo motivo de força maior, a responsabilidade
+
+do Estado poderá ocorrer se, aliada à força maior, ocorrer omissão do Poder
+Público  na  realização  de  um  serviço.  Por  exemplo,  quando  as  chuvas
+provocam  enchentes  na  cidade,  inundando  casas  e  destruindo  objetos,  o
+Estado  responderá  se  ficar  demonstrado  que  a  realização  de  determinados
+serviços de limpeza dos rios ou dos bueiros e galerias de águas pluviais teria
+sido suficiente para impedir a enchente.
+Porém,  neste  caso,  entende-se  que  a  responsabilidade  não  é objetiva,
+porque decorrente do mau funcionamento do serviço público; a omissão na
+prestação do serviço tem levado à aplicação da teoria da culpa do serviço
+público (faute du service); é a culpa anônima, não individualizada; o dano
+não  decorreu  de  atuação  de  agente  público,  mas  de omiss
+[/PAGINA 913]
+
+[PAGINA 914]
+ão  do  poder
+público.
+A mesma regra se aplica quando se trata de ato de terceiros, como é o
+caso  de  danos  causados  por  multidão  ou  por  delinquentes;  o  Estado
+responderá  se  ficar  caracterizada  a  sua  omissão,  a  sua  inércia,  a  falha  na
+prestação  do  serviço  público.  Nesta  hipótese,  como  na  anterior,  é
+desnecessário  apelar  para  a  teoria  do  risco  integral;  a culpa  do  serviço
+público, demonstrada pelo seu mau funcionamento, não funcionamento ou
+funcionamento  tardio  é  suficiente  para  justificar  a  responsabilidade  do
+Estado.
+Quando  houver  culpa  da  vítima,  há  que  se  distinguir  se  é  sua  culpa
+exclusiva ou concorrente com a do Poder Público; no primeiro caso, o Estado
+não responde; no segundo, atenua-se a responsabilidade, que se reparte com a
+da vítima. Essa solução, que já era defendida e aplicada pela jurisprudência,
+está hoje consagrada no Código Civil, cujo artigo 945 determina que “se a
+vítima  tiver  concorrido  culposamente  para  o  evento  danoso,  a  sua
+indenização  será  fixada  tendo-se  em  conta  a  gravidade  de  sua  culpa  em
+confronto com a do autor do dano”. E, em matéria de transporte, o artigo 738,
+parágrafo  único,  estabelece  que  “se  o  prejuízo  sofrido  pela  pessoa
+transportada  for  atribuível  à  transgressão  de  normas  e  instruções
+
+regulamentares, o juiz reduzirá equitativamente a indenização, na medida em
+que a vítima houver concorrido para a ocorrência do dano”; nesse caso, não
+ocorre  a  excludente  de  culpa  da  vítima,  mas  apenas  a  mitigação  da
+responsabilidade do transportador; o Código Civil tratou dessa hipótese como
+sendo de culpa concorrente.
+3
+A culpa  de  terceiro  também  tem  sido  apontada  como  excludente  de
+responsabilidade.  No  entanto,  nem  sempre  é  essa  a  solução  diante  de
+inovações introduzidas pelo Código Civil de 2002.
+Conforme  demonstrado  no  item  15.3,  no  caso  de  deterioração  ou
+destruição  de  coisa  alheia  ou  lesão  a  pessoa,  a  fim  de  remover  perigo
+iminente (conforme previsto no artigo 188, II, do Código Civil), a regra é a
+de  que  incide  a  responsabilidade  de  quem  praticou  tais  atos.  Essa
+responsabilidade se exclui com a invocação da culpa da vítima (art. 929), mas
+não se exclui com a culpa de terceiro, contra o qual é possível ser exercido o
+direito de regresso (art. 930).
+Em matéria de transporte de pessoas, o Superior Tribunal de Justiça, pela
+Súmula  187,  já  havia  fixado  o  entendimento  de  que  “a  responsabilidade
+contratual do transportador, pelo acidente com o passageiro, não é ilidida por
+culpa de terceiro, contra o qual tenha ação regressiva”.
+E  o  Código  Civil,  no  artigo  735,  do  mesmo  modo,  determina  que  “a
+responsabilidade contratual do transportador por acidente com o passageiro
+não é elidida por culpa de terceiro, contra o qual tem ação regressiva”.
+O Código Civil de 2002 avançou no âmbito do direito público ao trazer
+algumas normas referentes ao transporte exer
+[/PAGINA 914]
+
+[PAGINA 915]
+cido por meio de autorização,
+permissão ou concessão. Com estas duas últimas expressões, está abrangendo
+as permissionárias e concessionárias de serviços de transportes. De acordo
+com  o  artigo  731,  esse  tipo  de  transporte  rege-se  pelas  normas
+regulamentares e pelo que for estabelecido nos atos de autorização, permissão
+e concessão, “sem prejuízo do disposto neste Código”.
+E  foi  precisamente  a  propósito  da  responsabilidade  das  empresas
+
+transportadoras  de  pessoas  que  o  Código  Civil  incluiu  normas  relevantes
+sobre  excludentes  de  responsabilidade,  que  escapam  ao  entendimento
+anteriormente adotado (cf. Alice Gonzáles Borges, 2006:28-31).
+Pelo artigo 734, a única causa excludente é a força maior, sendo nula
+qualquer  cláusula  excludente  de  responsabilidade.  Além  disso,  conforme
+visto, a culpa de terceiro não exclui a responsabilidade do transportador, pois
+este responde pelo prejuízo e tem ação de regresso contra o terceiro causador
+do  dano  (art.  735).  E  a  culpa  da  vítima  não  exclui  a  responsabilidade  do
+transportador, pois apenas constitui causa atenuante de responsabilidade; pelo
+artigo 738, parágrafo único, “o juiz reduzirá equitativamente a indenização,
+na medida em que a vítima houver concorrido para a ocorrência do dano”.
+
+15.5RESPONSABILIDADE DO ESTADO POR OMISSÃO
+Existe controvérsia a respeito da aplicação ou não do artigo 37, § 6º, da
+Constituição  às  hipóteses  de  omissão  do  Poder  Público,  e  a  respeito  da
+aplicabilidade, nesse caso, da teoria da responsabilidade objetiva. Segundo
+alguns, a norma é a mesma para a conduta e a omissão do Poder Público;
+segundo outros, aplica-se, em caso de omissão, a teoria da responsabilidade
+subjetiva, na modalidade da teoria da culpa do serviço público. Na realidade,
+a diferença  entre as  duas  teorias é  tão pequena  que  a discussão  perde  um
+pouco do interesse, até porque ambas geram para o ente público o dever de
+indenizar.
+Alguns, provavelmente preocupados com as dificuldades, para o terceiro
+prejudicado,  de  obter  ressarcimento  na  hipótese  de  se  discutir  o  elemento
+subjetivo,  entendem  que  o  dispositivo  constitucional  abarca  os  atos
+comissivos e omissivos do agente público. Desse modo, basta demonstrar que
+o prejuízo sofrido teve um nexo de causa e efeito com o ato comissivo ou
+com a omissão. Não haveria que se cogitar de culpa ou dolo, mesmo no caso
+de omissão.
+Para  outros,  a  responsabilidade,  no  caso  de  omissão,  é  subjetiva,
+aplicando-se a teoria da culpa do serviço público ou da culpa anônima do
+serviço  público  (porque  é  indiferente  saber  quem  é  o  agente  público
+responsável).  Segundo  essa  teoria,  o  Estado  responde  desde  que  o  serviço
+público (a) não funcione, quando deveria funcionar; (b) funcione atrasado; ou
+(c) funcione mal. Nas duas primeiras hipóteses, tem-se a omissão danosa.
+Com algumas nuances referentes aos fundamentos, pode-se mencionar,
+entre outros que adotam a teoria da responsab
+[/PAGINA 915]
+
+[PAGINA 916]
+ilidade subjetiva em caso de
+omissão,  José  Cretella  Júnior  (1970,  v.  8:210),  Yussef  Said  Cahali
+(1995:282-283),  Álvaro  Lazzarini  (RTJSP  117/16),  Oswaldo  Aranha
+Bandeira de Mello (1979, vol. II:487), Celso Antônio Bandeira de Mello (RT
+552/14). É a corrente a que também me filio. A maioria da doutrina, contudo,
+
+parece  pender  para  a  aplicação  da  teoria  da  responsabilidade  objetiva  do
+Estado, em casos de sua omissão.
+No dizer de José Cretella Júnior (1970, v. 8:210),
+“a omissão configura a culpa in omittendo ou in vigilando. São casos de
+inércia, casos de não atos. Se cruza os braços ou se não vigia, quando
+deveria agir, o agente público omite-se, empenhando a responsabilidade
+do Estado por inércia ou incúria do agente. Devendo agir,  não  agiu.
+Nem como o bonus pater familiae, nem como bonus administrator. Foi
+negligente.  Às  vezes  imprudente  ou  até  imperito.  Negligente,  se  a
+solércia o dominou; imprudente, se confiou na sorte; imperito, se não
+previu a possibilidade de concretização do evento. Em todos os casos,
+culpa, ligada à ideia de inação, física ou mental”.
+No  caso  de  omissão  do  Poder  Público  os  danos  em  regra  não  são
+causados por agentes públicos. São causados por fatos da natureza ou fatos de
+terceiros. Mas poderiam ter sido evitados ou minorados se o Estado, tendo o
+dever de agir, se omitiu.
+Isto significa dizer que, para a responsabilidade decorrente de omissão,
+tem que haver o dever de agir por parte do Estado e a possibilidade de agir
+para  evitar  o  dano.  A  lição  supratranscrita,  de  José  Cretella  Júnior,  é
+incontestável. A culpa está embutida na ideia de omissão. Não há como falar
+em responsabilidade objetiva em caso de inércia do agente público que tinha
+o dever de agir e não agiu, sem que para isso houvesse uma razão aceitável.
+A dificuldade da teoria diz respeito à possibilidade de agir; tem que se
+tratar de uma conduta que seja exigível da Administração e que seja possível.
+Essa possibilidade só pode ser examinada diante de cada caso concreto. Tem
+aplicação, no caso, o princípio da reserva do possível, que constitui aplicação
+do  princípio  da  razoabilidade:  o  que  seria  razoável  exigir  do  Estado  para
+impedir o dano.
+
+A  esse  respeito,  Juan  Carlos  Cassagne  (citado  por  Flávio  de  Araújo
+Willeman, 2005:122) ensina que “a chave para determinar a falta de serviço
+e, consequentemente, a procedência da responsabilidade estatal por um ato
+omissivo se encontra na configuração ou não de uma omissão antijurídica.
+Esta última se perfila só quando seja razoável esperar que o Estado atue em
+determinado  sentido  para  evitar  os  danos  às  pessoas  ou  aos  bens  dos
+particulares.  Pois  bem,  a  configuração  de  dita omissão antijurídica  requer
+que o Estado ou suas entidades descumpram uma obrigação legal expressa ou
+implícita (art. 186 do Cód. Civil) tal como são as vinculadas com o exercício
+da  polícia  administrativa,  descumprimento  que  possa  achar-se  imposto
+t
+[/PAGINA 916]
+
+[PAGINA 917]
+ambém por outras fontes jurídicas”.
+Por  outras  palavras,  enquanto  no  caso  de  atos  comissivos  a
+responsabilidade incide nas hipóteses de atos lícitos ou ilícitos, a omissão tem
+que ser ilícita para acarretar a responsabilidade do Estado.
+Por  essa  razão,  acolhemos  a  lição  daqueles  que  aceitam  a  tese  da
+responsabilidade  subjetiva  nos  casos  de  omissão  do  Poder  Público.  Com
+Celso  Antônio  Bandeira  de  Mello  (2008:996),  entendemos  que,  nessa
+hipótese,  existe  uma presunção de culpa  do  Poder  Público.  O  lesado  não
+precisa fazer a prova de que existiu a culpa ou dolo. Ao Estado é que cabe
+demonstrar  que  agiu  com  diligência,  que  utilizou  os  meios  adequados  e
+disponíveis e que, se não agiu, é porque a sua atuação estaria acima do que
+seria  razoável  exigir;  se  fizer  essa  demonstração,  não  incidirá  a
+responsabilidade.
+Na  jurisprudência  também  existe  a  mesma  controvérsia  a  respeito  da
+responsabilidade subjetiva ou objetiva em caso de omissão do Poder Público.
+Mesmo  no  Supremo  Tribunal  Federal  existem  acórdãos  nos  dois  sentidos.
+Pela responsabilidade objetiva, citem-se os acórdãos da 1ª Turma, proferidos
+no RE-109.615-2-RJ, tendo como Relator o Ministro José Celso de Mello (j.
+28-5-96, v. u.), e RE-170.014-9-SP, sendo Relator o Ministro Ilmar Galvão
+(j. 31-10-97, v. u.). Pela responsabilidade subjetiva, os acórdãos da 2ª Turma,
+
+proferidos no RE-180.602-8-SP, sendo Relator o Ministro Marco Aurélio (j.
+15-12-98, v. u.) e RE-170.147-1-SP, sendo Relator o Ministro Carlos Velloso
+(j. 12-12-97, v. u.). Sobre a análise da evolução do pensamento do Supremo
+Tribunal  Federal  a  respeito  da  responsabilidade  por  omissão,  confira-se
+Luciano Ferraz (2006:210-212).
+Ainda  quanto  à  responsabilidade  do  Estado  por  omissão,  o  Supremo
+Tribunal  Federal  vinha  exigindo,  para  a  caracterização  do  nexo  de
+causalidade,  a teoria  do  dano  direto  e  imediato.  Serve  como  exemplo
+acórdão envolvendo indenização devida a vítimas de homicídios praticados
+por  fugitivos  de  penitenciárias;  a  Corte  vinha  reconhecendo  a
+responsabilidade do Estado quando não há rompimento da cadeia causal (ou
+seja,  quando  existe  ligação  direta  entre  causa  e  dano),  mas  elide  tal
+responsabilidade quando já se tenham passado “meses” da fuga, por falta de
+nexo causal.
+4
+ A teoria do dano direto e imediato, expressamente mencionada
+em  acórdão  do  STF,
+5
+  citando  Agostinho  Alvim,  “só  admite  o  nexo  de
+causalidade quando o dano é efeito necessário de uma causa, o que abarca o
+dano  direto  e  imediato  sempre,  e,  por  vezes,  o  dano  indireto  e  remoto,
+quando,  para  a  produção  deste,  não  haja  concausa  sucessiva.  Daí  dizer
+Agostinho  Alvim:  ‘os  danos  indiretos  ou  remotos  não  se  excluem,  só  por
+isso; em regra, não são indenizáveis, porque deixam de ser efeito necessário,
+pelo aparecimento de concausas. Suposto não existam estas, aqueles danos
+são indenizáveis”.
+Esse
+[/PAGINA 917]
+
+[PAGINA 918]
+entendimento, que vinha sendo adotado reiteradamente, parece estar
+se alterando, no sentido de aceitar um alargamento da responsabilidade do
+Estado, independentemente da aplicação da teoria do dano direto e imediato.
+Em dois julgados pelo menos, o Supremo Tribunal Federal deu mostras de
+caminhar nesse sentido.
+No primeiro caso, considerou-se a omissão do Estado em cumprir a Lei
+de Execução Penal como causa suficiente para responsabilizá-lo pelo crime
+de estupro cometido por fugitivo de penitenciária. Nas palavras do relator,
+
+Min. Joaquim Barbosa, “tal omissão do Estado constituiu, na espécie, o fator
+determinante que propiciou ao infrator a oportunidade para praticar o crime
+de estupro contra menor de doze anos de idade, justamente no período em
+que deveria estar recolhido à prisão. Está configurado o nexo de causalidade,
+uma vez que se a lei de execução penal tivesse sido corretamente aplicada, o
+condenado  dificilmente  teria  continuado  a  cumprir  a  pena  nas  mesmas
+condições (regime aberto), e, por conseguinte, não teria tido a oportunidade
+de evadir-se pela oitava vez e cometer o bárbaro crime de estupro”.
+6
+No  segundo  caso,  o  Supremo  Tribunal  Federal  reconheceu  a
+responsabilidade  do  Estado  por  danos  causados  em  razão  da  falta  de
+policiamento ostensivo em locais de alta periculosidade,
+7
+ deixando de lado,
+inclusive, o princípio da reserva do possível que costuma ser invocado em
+situações semelhantes.
+
+15.6
+1.
+2.
+3.
+1.
+2.
+3.
+RESPONSABILIDADE DO ESTADO POR DANOS
+DECORRENTES DE LEIS E REGULAMENTOS
+Existem divergências a respeito da incidência ou não de responsabilidade
+civil do Estado em decorrência de atos e omissões do Poder Legislativo e do
+Poder Regulamentar.
+Vários argumentos já foram invocados em defesa da irresponsabilidade:
+o Poder Legislativo atua no exercício da soberania, podendo alterar,
+revogar, criar ou extinguir situações, sem qualquer limitação que não
+decorra da própria Constituição;
+o Poder Legislativo edita normas gerais e abstratas dirigidas a toda a
+coletividade;  os  ônus  delas  decorrentes  são  iguais  para  todas  as
+pessoas  que  se  encontram  na  mesma  situação,  não  quebrando  o
+princípio da igualdade de todos perante os ônus e encargos sociais;
+os  cidadãos  não  podem  responsabilizar  o  Estado  por  atos  de
+parlamentares por eles mesmos eleitos.
+A isso, responde-se que:
+mesmo  exercendo  parcela  da  soberania,  o  Legislativo  tem  que  se
+submeter à Constituição, de modo que acarreta responsabilidade do
+Estado quando edita leis inconstitucionais;
+nem sempre a lei produz efeitos gerais e abstratos, de modo que o
+Estado  deve  responder  por  danos  causados  por  leis  que  atinjam
+pessoas   determinadas,   mesmo   que   se   trate   de   normas
+constitucionais;
+ao  terceiro  argumento,  responde-se  que  a  eleição  do  parlamentar
+implica delegação para fazer leis constitucionais.
+
+a)
+b)
+c)
+d)
+Atualmente, aceita-se a responsabilidade do Estado por atos legislativos
+pelo menos nas s
+[/PAGINA 918]
+
+[PAGINA 919]
+eguintes hipóteses:
+leis inconstitucionais;
+atos  normativos  do  Poder  Executivo  e  de  entes  administrativos
+com  função  normativa,  com  vícios  de  inconstitucionalidade  ou
+ilegalidade;
+leis de efeitos concretos, constitucionais ou inconstitucionais;
+omissão no poder de legislar e regulamentar.
+Com  relação  às leis  inconstitucionais,  a  tese  da  responsabilidade  do
+Estado é aceita, entre outros, por Amaro Cavalcanti (1957:313), Guimarães
+Menegale  (1957:50),  Cretella  Júnior  (1970,  v.  8:253),  Diógenes  Gasparini
+(1995:593),  Juary  C.  Silva  (1985:292),  Lúcia  Valle  Figueiredo  (2004:287-
+288), Yussef Said Cahali (1996:520), Odete Medauar (2001:438). É a tese
+que adotamos.
+Existe decisão nesse sentido do Supremo Tribunal Federal, com voto do
+Ministro Celso de Mello (RE 153.464, JSTF 189/14, Lex Editora), no qual
+são  citados  vários  precedentes  em  que  aquela  Corte  decidiu  no  mesmo
+sentido.
+Juary  Silva  coloca  o  tema  da  responsabilidade  do  Estado  de  forma
+unitária, que abrange atos dos três poderes. O fundamento que ele aponta,
+nos três casos é o “princípio do Estado de Direito, vale dizer, o da plena
+submissão de toda a atividade estatal ao Direito, concebendo-se este como
+criado pelo Estado, senão como algo que se coloca acima do Estado”.
+Na  lição  de  Amaro  Cavalcanti,  referida  por  Celso  de  Mello  no  voto
+referido,  “declarada  uma  lei  inválida  ou  inconstitucional  por  decisão
+judiciária,  um  dos  efeitos  da  decisão  deve  ser  logicamente  o  de  obrigar  a
+União, o Estado ou Município a reparar o dano causado ao indivíduo cujo
+direito  fora  lesado  –  quer  restituindo-se-lhe  aquilo  que  indevidamente  foi
+
+exigido  do  mesmo,  como  sucede  nos  casos  de  impostos,  taxas  ou  multa
+inconstitucionais,  quer  satisfazendo-se  os  prejuízos provavelmente  sofridos
+pelo indivíduo com a execução da lei suposta”.
+A  responsabilidade  por  leis  inconstitucionais  depende  da  prévia
+declaração do vício pelo STF, conforme, aliás, consta expressamente da lição
+de Amaro Cavalcanti.
+O mesmo entendimento adotado em relação às leis inconstitucionais pode
+ser  adotado,  pelos  mesmos  fundamentos,  para  os  regulamentos do  Poder
+Executivo e para os atos normativos das agências reguladoras e de outros
+entes  que  exerçam  competência  normativa  no  âmbito  da  Administração
+Pública, não só quando sejam inconstitucionais, mas também quando sejam
+ilegais,  por  exorbitarem  dos  limites  de  sua  competência  regulamentar,
+contrariando normas de hierarquia superior. Só que, no caso de ilegalidade,
+não  há  necessidade  de  prévia  apreciação  judicial.  A  indenização  pode  ser
+pleiteada,  tendo  por  fundamento  a  ilegalidade  do  ato  normativo  do  Poder
+Executivo ou dos entes reguladores. É o ensinamento, que endossamos, de
+Yussef Said Cahali (1995:661), que faz a seguinte distinção:
+“a) Se o decreto regulamentar é ilegal, consequente de abuso do
+poder regulamentar, por ultrapassado o limi
+[/PAGINA 919]
+
+[PAGINA 920]
+te de atribuição que a
+lei havia delegado ao Poder Executivo, os danos que dele resultam
+para o particular podem ser reclamados desde logo, questionando-
+se incidentalmente a legalidade do decreto;
+b)  Se  o  decreto  regulamentar  se  ajusta  aos  parâmetros  da
+atribuição  que  a  lei  havia  delegado  ao  Poder  Executivo,  neste
+caso, decreto e lei se complementam, de tal modo que a pretensão
+indenizatória do particular prejudicado, se fundada em pretendida
+inconstitucionalidade  do  decreto,  mais  se  condiciona  ao
+reconhecimento e declaração da inconstitucionalidade desta pelo
+tribunal   competente,   como   dano   provocado   por   lei
+
+inconstitucional.”
+Pela  mesma  razão,  os  atos  normativos  das  agências  reguladoras,  se
+inconstitucionais,  têm  que  ter  esse  vício  declarado  pelo  órgão  judicial
+competente, antes que se pleiteie indenização pelos danos deles decorrentes.
+Já os prejuízos decorrentes de atos normativos ilegais podem ser pleiteados
+desde logo, na mesma ação em que se pede o reconhecimento da ilegalidade,
+tendo  em  vista  que  o  juízo  de  ilegalidade  não  está  sujeito  às  mesmas
+exigências impostas ao juízo de inconstitucionalidade.
+8
+Com  relação  às leis  de  efeitos  concretos  (também  chamadas  de  leis
+materialmente administrativas), que atingem pessoas determinadas, incide a
+responsabilidade do Estado, porque, como elas fogem às características da
+generalidade e abstração inerentes aos atos normativos, acabam por acarretar
+ônus não suportado pelos demais membros da coletividade. A lei de efeito
+concreto, embora promulgada pelo Legislativo, com obediência ao processo
+de  elaboração  das  leis,  constitui,  quanto  ao  conteúdo,  verdadeiro  ato
+administrativo, gerando, portanto, os mesmos efeitos que este quando cause
+prejuízo ao administrado, independentemente de considerações sobre a sua
+constitucionalidade ou não. Incide, nesse caso, o princípio da repartição dos
+encargos sociais, como fundamento da responsabilidade civil do Estado.
+Vale  dizer  que,  em  se  tratando  de  lei  de  efeitos  concretos,  aceita-se  a
+responsabilidade do Estado mesmo que ela seja constitucional. É também a
+opinião de José Cretella Júnior (1970, v. 8:255-261), para quem “o Estado
+responde civilmente pelos danos que o ato legislativo cause a um ou a um
+número restritíssimo de administrados”. Lembra ele que às vezes o próprio
+legislador insere na lei um dispositivo atenuante, prevendo uma indenização
+pelo dano.
+Yussef Said Cahali (1995:674), citando a doutrina estrangeira e nacional
+existente sobre o assunto, mostra que “a lei, produto da vontade soberana do
+órgão  competente,  perfeita  constitucionalmente,  pode  causar  um dano
+
+injusto  aos  particulares”.  Menciona,  como  situações  mais  frequentemente
+discutidas  na  doutrina:  o  caso  em  que  o  particular  desfruta  de  certas
+vantagens  econômicas  asseguradas  por  um  ato  legislativo,  e  sendo  este
+modificado ou revogado, resulta para ele a supressão o
+[/PAGINA 920]
+
+[PAGINA 921]
+u diminuição daquelas
+vantagens; também a hipótese em que o Estado estabelece a seu benefício um
+monopólio industrial ou comercial de certa atividade, que assim fica interdita
+aos particulares, sofrendo aqueles que a exerciam a sua privação.
+Ainda o mesmo autor transcreve acórdão do Tribunal de Alçada Civil de
+São Paulo, em que foi acolhida a tese de responsabilidade do Estado por lei
+estadual que criou a reserva florestal do Vale do Paraíba, afetando totalmente
+o  direito  de  propriedade  do  autor.  Nesse  acórdão  foi  feita  com  precisão  a
+diferença entre limitação administrativa e o sacrifício que decorre da lei para
+pessoas  determinadas;  no  primeiro  caso,  o  princípio  da  solidariedade
+determina que todos os componentes do grupo social têm o dever de suportar
+um sacrifício gratuito em benefício da coletividade; no segundo caso, quando
+o sacrifício passa a ser particular, surge o direito à indenização.
+Em resumo, quando se trata de lei de efeito concreto, a responsabilidade
+civil do Estado em nada difere da responsabilidade por atos da Administração
+Pública.
+Do mesmo modo, o Poder Executivo e outros órgãos administrativos com
+função normativa, bem como as agências reguladoras, muitas vezes baixam
+regulamentos, resoluções, portarias, para disciplinar situações concretas. São
+atos  administrativos  quanto  ao  aspecto  formal,  mas  com  conteúdo  de  atos
+administrativos  com  efeitos  jurídicos  concretos.  Nesse  caso,  incide  a
+responsabilidade civil objetiva, com base no artigo 37, § 6º, da Constituição,
+fundado  no  princípio  da  repartição,  entre  todos,  dos  encargos  impostos  a
+alguns membros da coletividade.
+Quanto à omissão  do  legislador,  a  Constituição  prevê  os  remédios  da
+ação  direta  de  inconstitucionalidade  por  omissão  de  medida  para  tornar
+efetiva norma constitucional (art. 103, § 2º) e o mandado de injunção, sempre
+
+que a falta de norma regulamentadora torne inviável o exercício dos direitos e
+liberdades  constitucionais  e  das  prerrogativas  inerentes  à  nacionalidade,  à
+soberania e à cidadania (art. 5º, LXXI).
+O  pressuposto  do  mandado  de  injunção  é  a  omissão  de  norma
+regulamentadora, que pode ser de natureza regulamentar ou legal e ser de
+competência  de  qualquer  das  autoridades,  órgãos  e  pessoas  jurídicas  que
+compõem os três Poderes do Estado, inclusive da administração indireta. É o
+que se deduz dos artigos 102, I, q, e 105, I, h, da Constituição, que fixam a
+competência do Supremo Tribunal Federal e do Superior Tribunal de Justiça,
+respectivamente,  para  julgar  os  mandados  de  injunção,  em  função  da
+autoridade que se omitiu.
+Mas não há dúvida (porque assim decidiu o Supremo Tribunal Federal)
+de  que  a  omissão  da  norma  pode  ensejar  a  responsabilidade  por  perdas  e
+danos. No caso julgado no Mandado de Injunção 283-DF, sendo relator o
+Ministro Sepúlveda Pertence, tratava-se de omissão do Congresso Nacional
+em disciplinar a matéria do art. 8º do ADCT (RTJ 13
+[/PAGINA 921]
+
+[PAGINA 922]
+5-03, p. 882; DJU de 22-
+4-94, p. 8.925; e DJU de 1º-7-94, p. 17.495). A decisão foi no sentido de
+reconhecer  a  responsabilidade  do  Congresso  Nacional  (ou  seja,  da  União)
+pelos danos decorrentes da omissão legislativa. Na parte final da ementa do
+acórdão consta o deferimento do mandado de injunção para:
+“a) declarar em mora o legislador com relação à ordem de legislar
+contida  no  art.  8,  par.  3,  ADCT,  comunicando-o  ao  Congresso
+Nacional e à Presidência da República; b) assinar o prazo de 45
+dias,  mais  15  dias  para  a  sanção  presidencial,  a  fim  de  que  se
+ultime o processo legislativo da lei reclamada; c) se ultrapassado o
+prazo  acima,  sem  que  esteja  promulgada  a  lei,  reconhecer  ao
+impetrante  a  faculdade  de  obter,  contra  a  União,  pela  via
+processual adequada, sentença líquida de condenação a reparação
+constitucional  devida,  pelas  perdas  e  danos  que  se  arbitrem;  d)
+
+declarar que, prolatada a condenação, a superveniência de lei não
+prejudica  a  coisa  julgada,  que,  entretanto,  não  impedirá  o
+impetrante de obter os benefícios da lei posterior, nos pontos em
+que lhe for mais favorável”.
+Solução  diferente  foi  adotada  em  outras  hipóteses  em  que  o  Supremo
+Tribunal Federal não reconheceu o dever de indenizar diante da inércia do
+Executivo em iniciar a revisão geral dos vencimentos, prevista no artigo 37,
+X,  da  Constituição.
+9
+  A  diversidade de  tratamento  diante  da  omissão  do
+legislador mostra a insegurança do Poder Judiciário em relação à matéria, ou
+talvez a sua resistência em invadir matéria legislativa que envolve o servidor
+público.
+A mesma solução adotada no MI-283-DF é cabível se a omissão danosa
+for do Chefe do Poder Executivo, que deixe de regulamentar norma legal,
+tornando inviável o exercício dos direitos e liberdades constitucionais e das
+prerrogativas inerentes à nacionalidade, à soberania e à cidadania.
+
+15.7
+1.
+2.
+3.
+4.
+RESPONSABILIDADE DO ESTADO POR ATOS
+JURISDICIONAIS
+Com  relação  aos  atos  praticados  pelo  Poder  Judiciário  no  exercício  da
+função jurisdicional, também existem divergências doutrinárias.
+Os que refutam essa responsabilidade alegam que:
+o Poder Judiciário é soberano;
+os juízes têm que agir com independência no exercício das funções,
+sem o temor de que suas decisões possam ensejar a responsabilidade
+do Estado;
+o magistrado não é funcionário público;
+a indenização por dano decorrente de decisão judicial infringiria a
+regra  da  imutabilidade  da  coisa  julgada,  porque  implicaria  o
+reconhecimento de que a decisão foi proferida com violação da lei.
+Com  relação  à  soberania,  o  argumento  seria  o  mesmo  para  os  demais
+Poderes; a soberania é do Estado e significa a inexistência de outro poder
+acima dele; ela é una, aparecendo nítida nas relações externas com outros
+Estados.  Os  três  Poderes  –  Executivo,  Legislativo  e  Judiciário  –  não  são
+soberanos,  porque  devem  obediência  à  lei,  em  especial  à  Constituição.  Se
+fosse
+[/PAGINA 922]
+
+[PAGINA 923]
+aceitável  o  argumento  da  soberania,  o  Estado  também  não  poderia
+responder por atos praticados pelo Poder Executivo, em relação aos quais não
+se contesta a responsabilidade.
+A ideia de independência do Judiciário também é inaceitável para o fim
+de excluir a responsabilidade do Estado, porque se trata de atributo inerente a
+cada um dos Poderes. O mesmo temor de causar dano poderia pressionar o
+Executivo e o Legislativo.
+Quanto a não ser o juiz funcionário público, o argumento não é aceitável
+
+no  direito  brasileiro,  em  que  ele  ocupa  cargo  público  criado  por  lei  e  se
+enquadra no conceito legal dessa categoria funcional. Ainda que se entenda
+ser  ele  agente  político,  é  abrangido  pela  norma  do  artigo  37,  §  6º,  da
+Constituição  Federal,  que  emprega  precisamente  o  vocábulo agente  para
+abranger  todas  as  categorias  de  pessoas  que,  a  qualquer  título,  prestam
+serviços ao Estado.
+O  argumento  mais  forte  é  o  que  entende  que  o  reconhecimento  de
+responsabilidade  do  Estado  por  ato  jurisdicional  acarreta  ofensa  à  coisa
+julgada.
+No direito brasileiro, a força da coisa julgada sofre restrições na medida
+em que se admite a ação rescisória e a revisão criminal.
+Neste último caso, dúvida inexiste quanto à responsabilidade do Estado,
+prevista no artigo 630 do CPP e, agora, no artigo 5º, LXXV, da Constituição:
+“o Estado indenizará o condenado por erros judiciários, assim como o que
+ficar preso além do tempo fixado na sentença”.
+As  divergências  que  ocorrem  abrangem  outras  hipóteses  que  não  a  de
+revisão criminal provida. Nos casos em que a ação rescisória não soluciona o
+assunto, ou porque prescreveu, ou porque foi julgada improcedente, a decisão
+se  torna  imutável.  A  admitir-se  a  indenização  por  dano  decorrente  da
+sentença, estar-se-ia infringindo a regra da imutabilidade da coisa julgada;
+esta  tem  em  seu  bojo  uma presunção  de  verdade  que  não  admite
+contestação.
+Edmir  Netto  de  Araujo  (1981:137-143),  mostrando  as  divergências
+doutrinárias  a  respeito  do  assunto,  coloca  de  modo  adequado  a  questão,
+dizendo que “uma coisa é admitir a incontrastabilidade da coisa julgada, e
+outra é erigir essa qualidade como fundamento para eximir o Estado do dever
+de  reparar  o  dano”.  Acrescenta  que  “o  que  se  pretende  é  possibilitar  a
+indenização ao prejudicado, no caso de erro judiciário, mesmo que essa coisa
+julgada não possa, dado o lapso prescricional, ser mais modificada”.
+Com  efeito,  o  fato  de  ser  o  Estado  condenado  a  pagar  indenização
+
+decorrente  de  dano  ocasionado  por  ato  judicial  não  implica  mudança  na
+decisão  judicial.  A  decisão  continua  a  valer  para  ambas  as  partes;  a  que
+ganhou e a que perdeu continuam vinculadas aos efeitos da coisa julgada, que
+permanece inatingível. É o Estado que terá que responder pelo prejuízo que a
+decisão  imutável  ocasionou  a  uma  das  partes,  em  decorrência  de  erro
+judiciário.
+A própria presu
+[/PAGINA 923]
+
+[PAGINA 924]
+nção de verdade atribuída às decisões judiciais aparece
+enfraquecida  num  sistema  judiciário  como  o  nosso,  em  que  o  precedente
+judiciário não tem força vinculante para os magistrados; são comuns decisões
+contrárias e definitivas a respeito da mesma norma legal; uma delas afronta,
+certamente, a lei.
+A jurisprudência brasileira, como regra, não aceita a responsabilidade do
+Estado por atos jurisdicionais, o que é lamentável porque podem existir erros
+flagrantes não só em decisões criminais, em relação às quais a Constituição
+adotou a tese da responsabilidade, como também nas áreas cível e trabalhista.
+Pode até ocorrer o caso em que o juiz tenha decidido com dolo ou culpa; não
+haveria como afastar a responsabilidade do Estado. Mas, mesmo em caso de
+inexistência  de  culpa  ou  dolo,  poderia  incidir  essa  responsabilidade,  se
+comprovado o erro da decisão.
+Maria Emília Mendes Alcântara (1986:75-79) menciona várias hipóteses
+em  que  o  ato  jurisdicional  deveria  acarretar  a  responsabilidade  do  Estado:
+prisão  preventiva  decretada  contra  quem  não  praticou  o  crime,  causando
+danos morais; a não concessão de liminar nos casos em que seria cabível, em
+mandado de segurança, fazendo perecer o direito; retardamento injustificado
+de  decisão  ou  de  despacho  interlocutório,  causando  prejuízo  à  parte.  A
+própria concessão de liminar ou de medida cautelar em casos em que não
+seriam cabíveis pode causar danos indenizáveis pelo Estado. Apenas para o
+caso  de  dolo,  fraude,  recusa,  omissão,  retardamento  injustificado  de
+providências  por  parte  do  juiz,  o  artigo  133  do  CPC  prevê  a  sua
+responsabilidade pessoal por perdas e danos. O artigo 143 do CPC de 2015
+
+determina, de forma análoga, que “o juiz responderá, civil e regressivamente,
+por perdas e danos quando: I – no exercício de suas funções, proceder com
+dolo ou fraude; II – recusar, omitir ou retardar, sem justo motivo, providência
+que  deva  ordenar  de  ofício  ou  a  requerimento  da  parte”.  Nos  termos  do
+parágrafo  único,  “as  hipóteses  previstas  no  inciso  II  somente  serão
+verificadas depois que a parte requerer ao juiz que determine a providência e
+o requerimento não for apreciado no prazo de 10 (dez) dias”.
+As garantias de que se cerca a magistratura no direito brasileiro, previstas
+para assegurar a independência do Poder Judiciário, em benefício da Justiça,
+produziram a falsa ideia de intangibilidade, inacessibilidade e infalibilidade
+do  magistrado,  não  reconhecida  aos  demais  agentes  públicos,  gerando  o
+efeito oposto de liberar o Estado de responsabilidade pelos danos injustos
+causados àqueles que procuram o Poder Judiciário precisamente para que seja
+feita justiça.
+Merece  menção  uma  importante  decisão  do  STF  que  pode  significar
+mudança  de  orientação  da  jurisprudência  no  que  diz  respeito  à
+responsabilidade do Estado por atos judiciais. Trata-se de acórdão proferido
+no Recurso Extraordinário 228.977/SP, em que foi Relator
+[/PAGINA 924]
+
+[PAGINA 925]
+o Ministro Néri da
+Silveira,  julgado  em  5-3-02  (DJU  de  12-4-02).  Nele  se  decidiu  que  a
+autoridade  judicial  não  tem  responsabilidade  civil  pelos  atos  jurisdicionais
+praticados, devendo a ação ser proposta contra a Fazenda Estadual, a qual
+tem o direito de regresso contra o magistrado responsável, nos casos de dolo
+ou culpa.
+Com  relação  a  atos  judiciais  que  não  impliquem  exercício  de  função
+jurisdicional, é cabível a responsabilidade do Estado, sem maior contestação,
+porque se trata de atos administrativos, quanto ao seu conteúdo.
+Cabe  lembrar  que  o  CPC  de  2015  prevê  a  responsabilidade  dos
+integrantes das funções essenciais à Justiça, de forma semelhante à do artigo
+143, para os membros da Magistratura. Trata-se dos artigos 181, 184 e 187,
+que  preveem  a  responsabilidade  dos  membros  do  Ministério  Público,  da
+
+Advocacia Pública e da Defensoria Pública, respectivamente, quando agirem
+com  dolo  ou  fraude  no  exercício  de  suas  funções.  Tais  dispositivos  não
+afastam  a  responsabilidade  objetiva  da  pessoa  jurídica  a  que  forem
+vinculados, prevista no artigo 37, § 6º, da Constituição. Apenas reforçam a
+norma que já decorre do dispositivo constitucional: como agentes públicos,
+respondem  em  ação  regressiva,  quando  agirem  com  dolo  ou  fraude.  Vale
+dizer que sua responsabilidade é subjetiva.
+
+15.8REPARAÇÃO DO DANO
+A  reparação  de  danos  causados  a  terceiros  pode  ser  feita  no  âmbito
+administrativo,  desde  que  a  Administração  reconheça  desde  logo  a  sua
+responsabilidade  e  haja  entendimento  entre  as  partes  quanto  ao  valor  da
+indenização.
+Caso contrário, o prejudicado deverá propor ação de indenização contra a
+pessoa jurídica que causou o dano.
+Pelo artigo 37, § 6º, da Constituição Federal, quem responde perante o
+prejudicado é a pessoa jurídica causadora do dano, a qual tem o direito de
+regresso contra o seu agente, desde que este tenha agido com dolo ou culpa.
+Não obstante a clareza do dispositivo, muita controvérsia tem gerado na
+doutrina e na jurisprudência. As principais divergências giram em torno da
+aplicação, a essa hipótese, do artigo 70, III, do CPC (art. 125, II, do novo
+CPC),  que  determina  seja  feita  a denunciação da lide  “àquele  que  estiver
+obrigado,  pela  lei  ou  pelo  contrato,  a  indenizar,  em  ação  regressiva,  o
+prejuízo do que perder a demanda”.
+Contrários  à  denunciação  à  lide,  merecem  menção  os  ensinamentos  de
+Celso  Antônio  Bandeira  de  Mello  (2008:1019),  Lúcia  Valle  Figueiredo
+(1994: 177), Vicente Greco Filho (Justitia, v. 94, p. 9-17), Weida Zancaner
+(1981:64-65).  Os  principais  argumentos  contra  a  denunciação  são  os
+seguintes: (a) são diversos os fundamentos da responsabilidade do Estado e
+do servidor; (b) essa diversidade de fundamento retardaria injustificadamente
+a solução do conflito, pois se estaria, com a denunciação à lide, introduzindo
+outra lide no bojo da lide entre vítima e Estado; (c) o inciso II
+[/PAGINA 925]
+
+[PAGINA 926]
+I do artigo 70
+do CPC refere-se ao garante, o que não inclui o servidor, no caso da ação
+regressiva prevista no dispositivo constitucional.
+Yussef Said Cahali (1995:186) faz, no entanto, uma distinção entre duas
+hipóteses, e que nos parece relevante para o deslinde da questão:
+
+1.
+2.
+de um lado, a hipótese em que a ação é proposta contra a pessoa
+jurídica com fundamento exclusivo na responsabilidade objetiva do
+Estado ou na falha anônima do serviço, sem individualizar o agente
+causador  do  dano:  neste  caso,  se  a  pessoa  jurídica  fizesse  a
+denunciação  da  lide,  estaria  incluindo  novo  fundamento  não
+invocado pelo autor, ou seja, a culpa ou dolo do funcionário; nas
+palavras de Cahali, seria “imoral e despropositado pretender servir-
+se  do  mesmo  processo  instaurado  pelo  ofendido  para  inovar  a
+fundamentação da ação, recuperar de terceiro aquilo que já deveria
+ter pago, na composição do dano sofrido pela vítima; e visto que só
+este  pagamento  efetivamente  realizado  legitima  a  pretensão
+fazendária regressiva contra o funcionário culpado, resta-lhe apenas
+a ação direta de regresso para o reembolso”;
+de  outro  lado,  há  a  hipótese  em  que  a  pretensão  indenizatória  é
+deduzida com fundamento em ato doloso ou culposo do funcionário;
+aqui, então, deve ser feita a denunciação da lide ao funcionário, com
+aplicação do artigo 70, III, do CPC (agora 125, II, no novo Código),
+que  em  nada  contraria  a  Constituição;  antes,  pelo  contrário,  visa
+disciplinar  o  direito  de  regresso  assegurado  ao  responsável  direto
+pelo pagamento da indenização. Aceitando essa doutrina, citem-se
+acórdãos in RT 526/221, RT 500/103. O mesmo autor admite, ainda,
+que a ação seja proposta ao mesmo tempo contra o funcionário e a
+pessoa  jurídica,  constituindo  um litisconsórcio  facultativo;  ou
+apenas  contra  o  funcionário,  hipótese  também  admitida  por  Celso
+Antônio  Bandeira  de  Mello  (1992:358);  para  ele,  o  dispositivo
+constitucional  “visa  proteger  o administrado,  oferecendo-lhe  um
+patrimônio solvente e a possibilidade da responsabilidade objetiva
+em  muitos  casos.  Daí  não  se  segue  que  haja  restringido  sua
+possibilidade de proceder contra quem lhe causou dano. Sendo um
+dispositivo protetor do administrado, descabe extrair dele restrições
+
+1.
+2.
+ao lesado”.
+Quanto  à  possibilidade  de  litisconsórcio,  Cahali  menciona  acórdão  do
+STF (in RT 544/260), em que o Tribunal Pleno entendeu que propositura da
+ação  ao  mesmo  tempo contra  a  Administração  e  o  funcionário  não  traz
+qualquer prejuízo a um ou a outro e mais se coaduna com os princípios que
+disciplinam a matéria. “Isto porque a Administração, sobre não poder nunca
+isentar  de  responsabilidade  seus  servidores,  vez  que  não  possui
+disponibilidade  sobre  o  patrimônio  público,  não  se  prejudica  com  a
+integração do funcionário na lide, já que a confissão dos fatos alegados pelo
+autor,  por  parte  do  funcionário,  afetava  apenas  sua  defesa,
+[/PAGINA 926]
+
+[PAGINA 927]
+e  não  a  da
+Administração, cuja responsabilidade se baseia no risco administrativo.”
+Em resumo:
+quando  se  trata  de  ação  fundada  na  culpa  anônima  do  serviço  ou
+apenas  na  responsabilidade  objetiva  decorrente  do  risco,  a
+denunciação não cabe, porque o denunciante estaria incluindo novo
+fundamento na ação: a culpa ou dolo do funcionário, não arguida
+pelo autor;
+quando  se  trata  de  ação  fundada  na  responsabilidade  objetiva  do
+Estado, mas com arguição de culpa do agente público, a denunciação
+da lide é cabível como também é possível o litisconsórcio facultativo
+(com citação da pessoa jurídica e de seu agente) ou a propositura da
+ação diretamente contra o agente público.
+Na esfera federal, a Lei nº 4.619, de 28-4-65, estabelece normas sobre a
+ação regressiva da União contra seus agentes, atribuindo a sua titularidade
+aos  Procuradores  da  República.  Tem-se  que  entender  que  a  competência,
+hoje, é dos Advogados da União, a quem cabe a representação judicial da
+União, conforme artigo 131 da Constituição Federal. A propositura da ação é
+obrigatória  em  caso  de  condenação  da  Fazenda  Pública,  devendo  o  seu
+
+ajuizamento dar-se no prazo de 60 dias a contar da data em que transitar em
+julgado a sentença condenatória.
+A  Lei  nº  8.112/90  determina,  no  artigo  122,  §  2º  que,  “tratando-se  de
+dano causado a terceiros, responderá o servidor perante a Fazenda Pública,
+em  ação  regressiva”,  afastando  quer  a  denunciação  à  lide  quer  o
+litisconsórcio.  Também  o  Supremo  Tribunal  Federal  vem  decidindo  que  a
+ação  deve  ser  proposta  contra  a pessoa  jurídica  e  não  contra  o  agente
+público, nem mesmo em litisconsórcio.
+10
+No  Estado  de  São  Paulo,  a  Lei  nº  10.177,  de  30-12-98,  que  regula  o
+processo administrativo no âmbito da Administração Pública Estadual, prevê
+um “procedimento de reparação de danos” na esfera administrativa (arts. 65
+e 66).
+O  interessado  deve  requerer  a  indenização,  indicando  o  montante
+atualizado da indenização pretendida; a decisão incumbe ao Procurador-Geral
+do  Estado  ou  ao  dirigente  de  entidade  descentralizada;  acolhido  o  pedido,
+total  ou  parcialmente,  será  feita,  em  15  dias,  a  inscrição,  em  registro
+cronológico,  do  valor  atualizado  do  débito,  intimando-se  o  interessado;  a
+ausência de manifestação expressa do interessado, em 10 dias, contados da
+intimação, implicará concordância com o valor inscrito; caso não concorde
+com esse valor, poderá, no mesmo prazo, apresentar desistência, cancelando-
+se a inscrição e arquivando-se os autos. Os débitos inscritos até 1º de julho
+serão pagos até o último dia útil do exercício seguinte, à conta de dotação
+orçamentária  específica.  Nas  indenizações  pagas  não  incidirão  juros,
+honorários advocatícios ou qualquer outro acréscimo.
+A mesma lei estabelece normas sobre a reparação do dano pelo agente
+público  responsável  (arts.  67  a  70).  O  artigo  67  exige  que,  em  caso  de
+condena
+[/PAGINA 927]
+
+[PAGINA 928]
+ção definitiva do Estado ao ressarcimento de danos, deverá o fato ser
+comunicado ao Procurador-Geral do Estado, no prazo de 15 dias, pelo órgão
+encarregado  de  oficiar  no  feito,  sob  pena  de  responsabilidade.  Recebida  a
+comunicação,  o  Procurador-Geral  do  Estado,  no  prazo  de  10  dias,
+
+determinará  a  instauração  de  procedimento  administrativo  para  apurar  a
+responsabilidade civil de agente público, por culpa ou dolo. Se a indenização
+foi  paga  administrativamente,  o  Procurador-Geral  do  Estado  instaurará  de
+ofício o procedimento para apuração de responsabilidade de agente público.
+Comprovada  a  responsabilidade,  será  intimado  o  agente  para,  em  30  dias,
+recolher  aos  cofres  públicos  o  valor  do  prejuízo  suportado  pela  Fazenda,
+atualizado  monetariamente.  Vencido  esse  prazo,  sem  pagamento,  será
+proposta, de imediato, a respectiva ação judicial para cobrança do débito.
+Quanto à prescrição, o artigo 1º-C, acrescentado à Lei nº 9.494, de 10-9-
+97,  pela  Medida  Provisória  nº  2.180-35,  de  24-8-01,  estabelece  que
+“prescreverá  em  cinco  anos  o  direito  de  obter  indenização  dos  danos
+causados  por  agentes  de  pessoas  jurídicas  de  direito  público  e  de  pessoas
+jurídicas de direito privado prestadoras de serviços públicos”. Vale dizer que
+a prescrição quinquenal contra a Fazenda Pública, nesse caso, estendeu-se às
+pessoas  jurídicas  de  direito  privado  prestadoras  de  serviços  públicos,
+expressão  que  abrange  não  só  as  entidades  integrantes  da  Administração
+Indireta, como também as concessionárias, permissionárias ou autorizatárias
+de  serviços  ou  qualquer  entidade  privada  que  preste  serviço  público  a
+qualquer título.
+11
+RESUMO
+1. Conceito: é a obrigação de reparar danos causados a terceiros em
+decorrência  de  comportamentos  comissivos  ou  omissivos,  materiais
+ou jurídicos, lícitos ou ilícitos, imputáveis aos agentes públicos.
+– É responsabilidade do Estado  (e  não  da  Administração  Pública),
+resultante de comportamentos de qualquer dos três Poderes do Estado.
+É extracontratual,  porque  exclui  a  responsabilidade  contratual,
+regida por princípios próprios.
+2.  Evolução:  tema  que  recebeu  tratamento  diverso  no  tempo  e  no
+espaço,  às  vezes  prevalecendo  o  direito  privado  (como  no  direito
+
+anglo-saxão), outras vezes, o regime jurídico publicístico (como no
+sistema europeu continental). Várias teorias neste último sistema, que
+inspirou o direito brasileiro:
+a) Teoria  da  irresponsabilidade:  adotada  na  época  do  Estado
+absolutista: the king can do no wrong, significando que o Estado
+dispõe  de  autoridade  incontestável  sobre  os  súditos;  a
+responsabilização do Estado colocaria o príncipe no mesmo nível
+do súdito. Estados Unidos e Inglaterra abandonaram a teoria da
+irresponsabilidade por meio do Federal Tort Claim Act, de 1946,
+e Crown Proceeding Act, de 1947, respectivamente.
+b) Teorias civilistas: duas fases: (i) teoria dos atos de im
+[/PAGINA 928]
+
+[PAGINA 929]
+pério e
+de  gestão  e  (ii) teoria  da  culpa  civil  ou  da responsabilidade
+subjetiva.
+– Atos  de  império  são  os  praticados  pela  Administração  com
+todas  as  prerrogativas  de  autoridade  e  impostos  unilateral  e
+coercitivamente  ao  particular;  por  esses  atos  o  Estado  não
+responde;  e atos  de  gestão  são  os  praticados  em  situação  de
+igualdade   com   os   particulares,   para   a   conservação   e
+desenvolvimento do patrimônio público e para a gestão de seus
+serviços; sendo igual a situação, rege-se a responsabilidade pelo
+direito comum. Essa teoria distingue a pessoa do Rei (que pratica
+atos  de  império)  e  a pessoa  do  Estado  (que  pratica  atos  de
+gestão).
+– Teoria da culpa civil: resultou da superação da distinção entre
+atos de império e de gestão. Passou-se a aceitar a responsabilidade
+do Estado desde que demonstrada a culpa do funcionário. Essa
+teoria abrandou a da irresponsabilidade e serviu de inspiração ao
+art. 15 do CC de 2016.
+c) Teorias publicistas: passaram a aplicar princípios do direito
+público. Tem inspiração no famoso caso BLANCO, ocorrido em
+
+1873, no qual se entendeu que a responsabilidade do Estado não
+pode reger-se por princípios do CC, e sim a regras especiais de
+direito público.
+– Modalidades:
+c.1) Teoria  da  culpa  do  serviço  público  ou  teoria  da  culpa
+administrativa ou teoria do acidente administrativo: leva em
+consideração, não a culpa do funcionário, mas a culpa anônima
+do  serviço  público  (faute):  o  serviço  público  não  funcionou,
+funcionou mal ou funcionou atrasado. O Estado responde.
+c.2) Teoria  do  risco,  que  serve  de  fundamento  para  a
+responsabilidade objetiva do Estado, baseada no princípio da
+igualdade de todos perante os encargos sociais: se uma pessoa
+sofre um ônus maior do que o suportado pelos demais, rompe-se o
+equilíbrio  que  deve  haver  entre  os  encargos  sociais,  devendo  o
+Estado  indenizar  o  prejudicado  utilizando  recursos  do  erário.
+Substituição  da  culpa  pelo nexo  de  causalidade  entre  o
+funcionamento  do  serviço  público  e  o  prejuízo  sofrido  pelo
+administrado. Pressupostos: (i) que seja praticado um ato lícito ou
+ilícito  por  agente  público;  (ii)  que  esse  ato  cause  um dano
+específico (que atinge um ou alguns membros da comunidade) e
+anormal  (que  supera  os  inconvenientes  normais  da  vida  em
+sociedade);  e  (iii)  que  haja  nexo  de  casualidade  entre  o  ato  do
+agente público e o dano.
+– Teoria adotada no art. 927, parágrafo único, do novo CC.
+– Modalidades:  risco  administrativo  (admite  as  causas
+excludentes  da  responsabilidade)  e risco integral  (não  admite).
+Exemplos de risco integral no direito brasileiro: danos causados
+por acidentes  nucleares  (art.  21,  XXIII, d,  da  CF);  e  danos
+decorrentes  de atos  de  terrorismo,  atos  de  guerra  ou  eventos
+correlatos, contra aeronaves de empresas aéreas (Leis nos 10.309,
+
+de 22-11-01, e 10.744, de 9-10-02); hipóteses dos arts. 246, 393 e
+399 do CC.
+3.
+[/PAGINA 929]
+
+[PAGINA 930]
+Direito positivo brasileiro
+(i) Teoria da irresponsabilidade: nunca adotada.
+(ii)  CF  de  1824  e  1891: responsabilidade  do  funcionário  por
+abuso ou omissão no exercício de suas funções. Período em que
+leis  ordinárias  previam  responsabilidade  do  Estado,  que  a
+jurisprudência considerava solidária com o funcionário.
+(iii) CC de 1916, art. 15: responsabilidade subjetiva.
+(iv)  CF  de  1934: responsabilidade  solidária  entre  Estado  e
+funcionário. Baseada na culpa.
+(v)  CF  de  1946: responsabilidade  objetiva  do  Estado,  com
+direito  de  regresso  contra  os  funcionários  causadores  do  dano,
+quando tiver havido culpa destes.
+(vi) CF de 1967: mesma regra, com inclusão do dolo, ao lado da
+culpa.
+(vii) CF de 1988, art. 37, § 6º, mesma regra, estendida às pessoas
+de  direito  privado  prestadoras  de  serviço  público.  Previsão  de
+ação regressiva contra o responsável nos casos de dolo ou culpa.
+Responsabilidade   objetiva   das   pessoas   jurídicas   e
+responsabilidade subjetiva do agente.
+(viii) CC de 2002, art. 43: responsabilidade objetiva das pessoas
+jurídicas de direito público.
+– Pressupostos  da  responsabilidade  objetiva:  a)  ato  lesivo
+praticado por agente de pessoa jurídica de direito público (as do
+art.  41  do  CC)  e  de pessoa  jurídica  de  direito  privado
+prestadora  de  serviço  público;  b) dano  causado  a  terceiros
+(nexo de causalidade); c) dano causado por agente público de
+qualquer  categoria  (político,  administrativo  ou  particular  em
+
+colaboração com a Administração); d) dano causado por agente,
+agindo nesta qualidade.
+– O ato lesivo pode ser lícito ou ilícito; é antijurídico no sentido
+de que causa dano anormal e específico.
+4. Causas excludentes de responsabilidade:
+a) força maior: acontecimento imprevisível, inevitável e estranho
+à  vontade  das  partes;  difere  do caso fortuito  (que  não  é  causa
+excludente),  porque  este  ocorre  nos  casos  em  que  o  dano  seja
+decorrente  de  ato  humano  ou  de  falha  da  Administração;  se  a
+força maior estiver aliada à omissão do Poder Público ou a ato
+de terceiros, incide a responsabilidade subjetiva do Estado;
+b) culpa da vítima: se for exclusiva, exclui a responsabilidade do
+Estado; se for concorrente com a do Poder Público, atenua a
+responsabilidade (arts. 945 e 738, parágrafo único, do CC);
+c) culpa  de  terceiros:  exclui  a  responsabilidade.  Exceções:  art.
+188, II, e 930 do CC; em matéria de transportes de pessoas: art.
+734 do CC (só admite a força maior como excludente); Súmula
+187,  do  STJ:  “a  responsabilidade contratual  do  transportador,
+pelo acidente com o passageiro, não é ilidida por culpa de terceiro,
+contra o qual tenha ação regressiva”; mesma solução no art. 735
+do CC.
+5.  Responsabilidade  do  Estado  por  omissão:  divergências
+doutrinárias e jurisprudenciais quanto à aplicação da regra do art. 37,
+§  6º,  da  CF;  parte  da  doutrina  entende  que,  no  caso,  a
+responsabilidade  é  subjetiva;  para  outros,  é objetiva.
+[/PAGINA 930]
+
+[PAGINA 931]
+Minha
+opinião: a responsabilidade é subjetiva, porque exige o dever de agir
+por parte do Estado e a possibilidade de agir; a culpa está embutida
+na  ideia  de  omissão;  enquanto  a  responsabilidade  objetiva  pode
+decorrer de ato lícito, a omissão tem que ser ilícita.
+
+– Entendimento do STF quanto à exigência da teoria do dano direto
+e  imediato  para  caracterização  do  nexo  de  causalidade;  tendência
+atual para alargar a responsabilidade do Estado, independentemente
+da aplicação dessa teoria.
+6.  Responsabilidade  do  Estado  por  danos  decorrentes  de  leis  e
+regulamentos
+a) argumentos contrários: (i) o Legislativo atua no exercício da
+soberania;  (ii)  as  leis  e  regulamentos  dirigem-se  a  todos
+igualmente,  não  causando  dano  anormal  e  específico;  (iii)  os
+cidadãos  não  podem  responsabilizar  o  Estado  por  atos  de
+parlamentares que eles elegeram;
+b) argumentos  favoráveis:  (i)  o  Legislativo,  embora  soberano,
+tem  que  respeitar  a  Constituição,  respondendo  por  atos
+inconstitucionais;  (ii)  nem  sempre  a  lei  produz  efeitos  gerais,
+devendo  o  Estado  responder  pelas  que  prejudiquem  pessoas
+determinadas;  (iii)  a  eleição  do  parlamentar  implica  delegação
+para fazer leis constitucionais.
+–  Hipóteses  de  responsabilidade  por  atos  legislativos:  (a) leis
+inconstitucionais, depois de assim declaradas pelo STF; (b) leis
+de efeitos concretos ou leis materialmente administrativas, que
+atingem pessoas determinadas, equivalendo, quanto ao conteúdo,
+a verdadeiros atos administrativos; são leis, quanto à forma, mas
+são atos  administrativos,  quanto  ao  conteúdo;  nesse  caso,  o
+Estado responde, mesmo que as leis sejam constitucionais. Mesma
+solução para os atos normativos do Poder Executivo.
+–  Responsabilidade  por omissão  do  legislador:  ação  de
+inconstitucionalidade  por  omissão  (art.  103,  §  2º,  da  CF)  e
+mandado de injunção (art. 5º, LXXI, da CF); responsabilidade
+por perdas e danos (julgados do STF nesse sentido).
+7. Responsabilidade do Estado por atos jurisdicionais
+
+a) argumentos contrários: (i) o Poder Judiciário é soberano; (ii)
+os juízes têm que agir com independência, sem temor de causar
+responsabilidade do Estado; (iii) o magistrado não é funcionário
+público; (iv) a indenização por dano decorrente de decisão judicial
+infringiria o princípio da coisa julgada;
+b) argumentos favoráveis: (i) a soberania é do Estado e não de
+cada Poder; (ii) a independência é atributo de todos os Poderes;
+(iii)  mesmo  que  não  seja  funcionário  público,  o  juiz  entra  na
+categoria de agente público, no sentido amplo do art. 37, § 6º, da
+CF.
+– Ideia de coisa julgada: sofre restrições na medida em que se
+admite a ação rescisória e a revisão criminal, esta última dando
+ensejo à responsabilidade do Estado (arts. 5º, LXXV, da CF, e 630
+do  CPP).  Em  outras  hipóteses  que  não  a  da  revisão  criminal
+provida,  a  aceitação  de  indenização  por  dano  decorrente  da
+sentença infringiria a imutabi
+[/PAGINA 931]
+
+[PAGINA 932]
+lidade da coisa julgada, porque esta
+tem  uma presunção  de  verdade  que  não  admite  contestação.
+Resposta a esse argumento: o fato de o Estado ser condenado a
+pagar  indenização  por  dano  resultante  de  sentença  não  implica
+mudança  na  decisão  judicial. Jurisprudência:  como  regra,  não
+aceita a responsabilidade por ato judicial, entendendo que quem
+responde é o juiz que atue com dolo ou fraude, e não o Estado
+(art. 143 do CPC). Existência de uma decisão judicial em que se
+reconheceu a responsabilidade do Estado (RE 228.977/SP).
+– Atos  judiciais  que  não  impliquem  exercício  da  função
+jurisdicional: é cabível a responsabilidade do Estado.
+8. Reparação do dano: se não possível na esfera administrativa, é
+cabível  ação  judicial  proposta  contra  a pessoa  jurídica,  que  tem
+direito de regresso contra o agente causador do dano.
+– Denunciação à lide (art. 125, II, do CPC): divergências quanto
+
+ao cabimento ou não. Argumentos contrários: (i) são diversos os
+fundamentos  da  responsabilidade  do  Estado  e  do  agente;  (ii)  a
+denunciação  à  lide  retardaria  o  andamento,  porque  introduziria
+outra lide no bojo do processo; (iii) o dispositivo do CPC refere-se
+ao garante, o que não inclui o servidor.
+Distinção  necessária:  na  ação  proposta  com  fundamento
+exclusivo  na  responsabilidade  objetiva  do  Estado  ou  na  culpa
+anônima  do  serviço,  não  cabe  a  denunciação,  porque  o  autor
+estaria incluindo novo fundamento não invocado pelo autor; se a
+pretensão  for  deduzida  com  fundamento  na  culpa  ou  dolo  do
+agente, cabe a denunciação, porque o argumento já foi introduzido
+pelo próprio autor.
+–  Possibilidade  de litisconsórcio  facultativo  entre  Estado  e
+agente público.
+– Ação  judicial  diretamente  contra  o  agente:  possibilidade
+aceita pela doutrina, mas rejeitada pelo STF (RE 327.904/SP).
+– Lei  nº  4.619,  de  28-4-65:  normas  sobre  ação  regressiva  da
+União contra seus agentes.
+– Lei nº 8.112/90: afasta a denunciação à lide e o litisconsórcio
+(art. 122, § 2º).
+– Lei  nº  10.177,  de  30-12-98,  do  Estado  de  São  Paulo  (lei
+estadual de processo administrativo): procedimento de reparação
+de dano, na esfera administrativa (arts. 65 e 66).
+9.  Prescrição:  é  de  cinco  anos  para  obter  indenização  dos  danos
+causados  por  agentes  de  pessoas  jurídicas  de  direito  público  e  de
+direito privado prestadoras de serviços públicos (art. 1º-C da Lei nº
+9.494, de 10-9-97.
+
+1
+3
+7
+8
+2
+4
+5
+6
+_________________
+O STF possui interessante precedente a respeito do alcance da expressão “terceiros”, constante do
+art. 37, § 6º, da Constituição (curiosamente tendo como relator o próprio Min. Carlos Velloso): “O
+entendimento  do  Supremo  Tribunal  Federal  é  no  sentido  de  que  descabe  ao  intérprete  fazer
+distinções  quanto  ao  vocábulo  ‘terceiro’  contido  no  §  6º  do  art.  37  da  Constituição  Federal,
+devendo o Estado responder pelos danos causados por seus agentes qualquer que seja a vítima,
+se
+[/PAGINA 932]
+
+[PAGINA 933]
+rvidor público ou não” (AI-AgR 473381/AP, Relator Min. Carlos Velloso, Julgamento em 20-9-
+05).
+RE 591874/MS, rel. Min. Ricardo Lewandowski, j. 26-8-09, DJe nº 237.
+De  acordo  com  o  magistério  de  Heleno  Taveira  Torres,  citado  no  julgamento  do  REsp
+1014520/DF, do STJ (Rel. para o acórdão Min. Luiz Fux, DJe 1º-7-09), “a definição dos níveis de
+participação da vítima nem sempre é muito clara, de modo que, na prática, tem-se admitido a
+mesma como excludente apenas nos casos de completa eliminação de conduta estatal. Nos casos
+em  que  existam  dúvidas  sobre  tal  inexistência,  resolve-se  pela  responsabilização  exclusiva  do
+Estado”. Adotando esse entendimento, o STJ assentou a responsabilidade do Estado pelo suicídio
+de militar que, depressivo, teve acesso a armas da corporação, pondo em risco não apenas a sua
+própria existência, mas a vida de terceiros.
+RE-573.595-AgR, Rel. Min. Eros Grau, julgamento em 24-6-08, DJ de 15-8-08.
+Mencionado no Informativo 329, do STF, com citação a ensinamento de Agostinho Alvim.
+RE 409.203, Rel. para o acórdão Min. Joaquim Barbosa, julgamento em 7-3-06, DJ de 20-4-07).
+O Estado de Pernambuco foi condenado a pagar todas as despesas necessárias à realização de
+cirurgia de implante de Marcapasso Diafragmático Muscular (MDM) ao agravante. Segundo o
+Informativo  nº  502,  “entendeu-se  que  restaria  configurada  uma  grave  omissão,  permanente  e
+reiterada,  por  parte  do  Estado  de  Pernambuco,  por  intermédio  de  suas  corporações  militares,
+notadamente por parte da polícia militar, em prestar o adequado serviço de policiamento ostensivo,
+nos locais notoriamente passíveis de práticas criminosas violentas, o que também ocorreria em
+diversos  outros  Estados  da  Federação.  Em  razão  disso,  o  cidadão  teria  o  direito  de  exigir  do
+Estado, o qual não poderia se demitir das consequências que resultariam do cumprimento do seu
+dever  constitucional  de  prover  segurança  pública,  a  contraprestação  da  falta  desse  serviço.
+Ressaltou-se que situações configuradoras de falta de serviço podem acarretar a responsabilidade
+civil  objetiva  do  Poder  Público,  considerado  o  dever  de  prestação  pelo  Estado,  a  necessária
+existência de causa e efeito, ou seja, a omissão administrativa e o dano sofrido pela vítima, e que,
+no caso, estariam presentes todos os elementos que compõem a estrutura dessa responsabilidade”
+(STA 223-AgR, Rel. para o acórdão Min. Celso de Mello, julgamento em 14-4-08).
+O STF já decidiu que “a intervenção estatal na economia, mediante regulamentação e regulação de
+setores econômicos, faz-se com respeito aos princípios e fundamentos da Ordem Econômica. CF,
+art. 170. O princípio da livre iniciativa é fundamento da República e da Ordem Econômica: CF,
+
+9
+10
+11
+art. 1º, IV; art. 170. Fixação de preços em valores abaixo da realidade e em desconformidade com
+a  legislação  aplicável  ao  setor:  empecilho  ao  livre  exercício  da  atividade  econômica,  com
+desrespeito  ao  p
+[/PAGINA 933]
+
+[PAGINA 934]
+rincípio  da  livre  iniciativa.  Contrato  celebrado  com  instituição  privada  para  o
+estabelecimento de levantamentos que serviriam de embasamento para a fixação dos preços, nos
+termos da lei. Todavia, a fixação dos preços acabou realizada em valores inferiores. Essa conduta
+gerou danos patrimoniais ao agente econômico, vale dizer, à recorrente: obrigação de indenizar
+por parte do poder público: CF, art. 37, § 6º” (RE 422.941, Rel. Min. Carlos Velloso, julgamento
+em 6-12-05, DJ de 24-3-06).
+“Revisão  geral  anual  de  vencimentos.  Competência  privativa  do  poder  executivo.  Dever  de
+indenizar. Impossibilidade. Agravo regimental ao qual se nega provimento. Não compete ao Poder
+Judiciário deferir pedido de indenização no tocante à revisão geral anual de servidores, por ser
+atribuição privativa do Poder Executivo” (RE 548.967-Agr, Rel. Min. Cármen Lúcia, julgamento
+em 20-11-07, DJ de 8-2-08). No mesmo sentido: RE 529.489-Agr, Rel. Min. Joaquim Barbosa,
+julgamento em 27-11-07, DJ de 1º-2-08; RE 561.361-AgR, Rel. Min. Cármen Lúcia, julgamento
+em 20-11-07, DJ de 8-2-08; RE 547.020 AgR, Rel. Min. Ricardo Lewandowski, julgamento em 6-
+11-07, DJ de 16-2-08.
+No RE 327.904/SP, rel. Min. Carlos Ayres Britto (DJ 8-9-06), entendeu o STF que o § 6º do art.
+37 da Constituição consagra dupla garantia:  “uma,  em  favor  do  particular,  possibilitando-lhe
+ação indenizatória contra a pessoa jurídica de direito público, ou de direito privado que preste
+serviço público, dado que bem maior, praticamente certa, a possibilidade de pagamento do dano
+objetivamente  sofrido.  Outra  garantia,  no  entanto,  em  prol  do  servidor  estatal,  que  somente
+responde  administrativa  e  civilmente  perante  a  pessoa  jurídica  a  cujo  quadro  funcional  se
+vincular”. No mesmo sentido foi a decisão proferida no RE 344.133, em que foi relator o Min.
+Marco  Aurélio;  segundo  consta  do  Informativo  519,  o  STF  “deu  provimento  a  recurso
+extraordinário  para  assentar  a  carência  de  ação  de  indenização  por  danos  morais  ajuizada  em
+desfavor de diretor de universidade federal que, nessa qualidade, supostamente teria ofendido a
+honra e a imagem de subordinado ... Enfatizou-se, no ponto, que o ora recorrido ingressara com
+ação em face do recorrente, cidadão. Desse modo, pouco importaria que o ato praticado por este
+último tivesse considerado certa qualificação profissional. De outro lado, reputou-se violado o § 6º
+do art. 37 da CF, haja vista que a ação por danos causados pelo agente deve ser ajuizada contra a
+pessoa de direito público e as pessoas de direito privado prestadoras de serviços públicos, o que,
+no caso, evidenciaria a ilegitimidade passiva do recorrente” (julgamento em 9-9-08, DJe nº 216).
+Sobre prescrição quinquenal, v. item 17.5.3.
+
+
+
+16.1
+1.
+EVOLUÇÃO
+Já no Direito Romano se fazia referência aos bens públicos, constando da
+divisão das coisas apresentadas por Caio e Justiniano nas Institutas. Falava-
+se, então, em res nullius, como coisas extr
+[/PAGINA 934]
+
+[PAGINA 935]
+a commercium, dentre as quais se
+incluíam  as res communes  (mares,  portos,  estuários,  rios,  insuscetíveis  de
+apropriação  privada),  as res publicae  (terras,  escravos,  de  propriedade  de
+todos  e  subtraídas  ao  comércio  jurídico)  e res universitatis  (fórum,  ruas,
+praças públicas).
+As res publicae pertenciam ao povo.
+Na Idade Média, ensina Cretella Júnior (1984:24) que “sob o domínio dos
+bárbaros,  repartem-se  as  terras  conquistadas  entre  o  rei  e  os  soldados,
+deixando-se  uma  parte  aos  vencidos  (allodium).  A  parte  que  coube  aos
+soldados combatentes, dada primeiro como prêmio por tempo determinado
+(beneficium),  passou  depois  a vitalícia  e,  finalmente,  a hereditária,
+originando o ‘feudo’”. Quer dizer que, nessa época, os bens públicos eram
+considerados  propriedade  do  rei,  e  não  mais  do  povo,  como  ocorria  no
+Direito Romano. No entanto, logo foi formulada outra teoria que, com base
+nos textos romanos, voltava a atribuir ao povo a propriedade desses bens,
+reconhecendo  ao  rei  apenas  o  exercício  do poder  de  polícia  sobre  os
+mesmos.
+Enquanto se considerou o bem como propriedade da Coroa, não houve
+distinção de regime jurídico segundo as várias espécies de bens. No entanto,
+quando se passou à segunda teoria, que fala em poder de polícia do rei, foram
+dados os primeiros passos no sentido de uma classificação. Assim é que, já
+nos séculos XVII e XVIII, alguns autores consideravam duas categorias de
+bens públicos:
+as coisas  públicas,  que  eram  afetadas  ao  uso  público,  como  os
+cursos  d’água,  rios,  estradas  etc.;  sobre  tais  bens  o  rei  não  tinha
+
+2.
+direito de propriedade, mas apenas um direito de guarda ou poder de
+polícia;
+os bens integrados no domínio da coroa, sobre os quais o monarca
+detinha a propriedade.
+Com o Estado Moderno e o desenvolvimento da ideia de Estado como
+pessoa  jurídica,  este  assumiu  a  propriedade  dos  bens  públicos,  em
+substituição ao príncipe.
+
+16.2
+I      –
+II     –
+CLASSIFICAÇÃO
+Não houve, de início, uma classificação dos bens públicos. No Código
+Civil de Napoleão, de 1804, apenas se declarava que certos bens, como rios,
+estradas  etc.,  eram  insuscetíveis  de  propriedade  privada.  Segundo  alguns,
+estaria aí o germe da divisão dos bens em duas grandes categorias: os do
+domínio público e os do domínio privado do Estado.
+Deve-se, no entanto, a Pardessus a primeira classificação: para ele, existe,
+de  um  lado,  o domínio  nacional,  suscetível  de  apropriação  privada  e
+produtor de renda; e, de outro, o domínio público, consagrado, por natureza,
+ao  uso  de  todos  e  ao  serviço  geral,  sendo  inalienável,  imprescritível  e
+insuscetível de servidão.
+Distinção semelhante foi adotada por Proudhon, que divide os bens em
+duas  categorias,  que  ainda  hoje  se  adotam  no  direito  francês:  os bens  de
+domínio público e os bens do domínio privado do Estado.
+Na  Itália,  distingue-se  o demanio  (domínio  público),  que  corresponde
+aos bens de uso
+[/PAGINA 935]
+
+[PAGINA 936]
+comum do povo, e os bens patrimoniais, que se subdividem
+em bens do patrimônio disponível e bens do patrimônio indisponível.
+No direito brasileiro, a primeira classificação metódica dos bens públicos,
+ainda hoje subsistente, foi feita pelo Código Civil de 1916, sendo pobre, antes
+disso, a doutrina a respeito do assunto.
+O Código Civil adotou terminologia própria, peculiar ao direito brasileiro,
+não seguindo o modelo estrangeiro, onde é mais comum a bipartição dos bens
+públicos, conforme o regime jurídico adotado.
+No artigo 66, o Código fazia uma divisão tripartite, distinguindo:
+os  bens  de  uso  comum  do  povo,  tais  como  mares,  rios,
+estradas, ruas, e praças;
+os de uso especial, tais como edifícios ou terrenos aplicados a
+
+III    –
+I      –
+II     –
+III    –
+serviço ou estabelecimento federal, estadual ou municipal;
+os dominicais, isto é, os que constituem o patrimônio da União,
+dos Estados ou dos Municípios, como objeto de direito pessoal
+ou real de cada uma dessas entidades.
+O Código Civil de 2002 mantém a mesma classificação, porém deixando
+claro  que  se  incluem  entre  os  bens  públicos  os  pertencentes  às  pessoas
+jurídicas de direito público. Nos termos do artigo 99, “são bens públicos:
+os de uso comum do povo, tais como rios, mares, estradas, ruas
+e praças;
+os de uso especial, tais como edifícios ou terrenos destinados a
+serviço ou estabelecimento da administração federal, estadual,
+territorial ou municipal, inclusive os de suas autarquias;
+os  dominicais,  que  constituem  o  patrimônio  das  pessoas
+jurídicas de direito público, como objeto de direito pessoal, ou
+real, de cada uma dessas entidades”.
+O critério dessa classificação é o da destinação ou afetação dos bens: os
+da  primeira  categoria  são  destinados,  por natureza  ou  por lei,  ao  uso
+coletivo; os da segunda ao uso da Administração, para consecução de seus
+objetivos, como os imóveis onde estão instaladas as repartições públicas, os
+bens móveis utilizados na realização dos serviços públicos (veículos oficiais,
+materiais de consumo, navios de guerra), as terras dos silvícolas, os mercados
+municipais, os teatros públicos, os cemitérios públicos; os da terceira não têm
+destinação pública definida, razão pela qual podem ser aplicados pelo Poder
+Público, para obtenção de renda; é o caso das terras devolutas, dos terrenos
+de marinha, dos imóveis não utilizados pela Administração, dos bens móveis
+que se tornem inservíveis.
+No entanto, pelo parágrafo único do artigo 99 do Código Civil de 2002,
+
+1.
+2.
+“não  dispondo  a  lei  em  contrário,  consideram-se  dominicais  os  bens
+pertencentes  às  pessoas  jurídicas  de  direito  público  a  que  se  tenha  dado
+estrutura de direito privado”. A redação do dispositivo permite concluir que,
+nesse caso, a destinação do bem é irrelevante, pois, qualquer que seja ela, o
+bem se inclui como dominical só pelo fato de pertencer a pessoa jurídica de
+direito público a que se tenha dado estrutura de direito privado, a menos que
+a  lei
+[/PAGINA 936]
+
+[PAGINA 937]
+disponha  em  sentido  contrário.  Vale  dizer  que  a  lei  instituidora  da
+pessoa  jurídica  pode  estabelecer  a  categoria  dos  bens,  consoante  a  sua
+destinação.
+Pelos  termos  do  artigo  99,  já  se  nota  um  ponto  comum  –  destinação
+pública – nas duas primeiras modalidades (bens de uso comum do povo e
+bens de uso especial), e que as diferencia da terceira, sem destinação pública.
+Por  essa  razão,  sob  o aspecto  jurídico,  pode-se  dizer  que  há  duas
+modalidades de bens públicos:
+os do domínio público do Estado, abrangendo os de uso comum do
+povo e os de uso especial;
+os do domínio privado do Estado, abrangendo os bens dominicais.
+Quando  se  estuda  esse  tema,  no  direito  estrangeiro,  verifica-se  que  os
+autores tratam, em geral, em capítulos à parte, dos bens do domínio público e
+dos  bens  do  domínio  privado,  precisamente  pela  diversidade  de  regimes
+jurídicos que os caracteriza.
+No  direito  brasileiro,  nem  sempre  se  nota  a  mesma  preocupação.
+Principalmente quando se trata da transferência de uso de bens públicos aos
+particulares, cuida-se dos vários institutos como se fossem os mesmos para as
+várias  modalidades,  quando,  na  realidade,  existem  sensíveis  diferenças,
+principalmente no direito positivo federal.
+Cretella Júnior (1984:21), referindo-se ao domínio público e ao domínio
+privado  da  Administração,  preocupa-se  em  ressaltar  a  diversidade  dos
+
+respectivos  regimes  jurídicos,  ao  afirmar  que,  “junto  a  relações  jurídicas
+reais, que coincidem substancialmente com as que se passam entre os sujeitos
+particulares e as coisas que lhes pertencem, outras existem submetidas a um
+regime especial, distinto, portanto, do comum”.
+Outra classificação dos bens públicos é a que constava do Regulamento
+do  Código  de  Contabilidade  Pública  da  União,  aprovado  pelo  Decreto  nº
+15.783,  de  8-11-22  (revogado  pelo  Decreto  de  25-4-91).  Embora
+empregando, no artigo 803, a mesma terminologia utilizada no artigo 66 do
+Código Civil anterior, fazia melhor distinção, no artigo 807, chamando os
+bens  de  uso  especial  de patrimoniais  indisponíveis  e,  os  dominicais,  de
+patrimoniais disponíveis. Daí já resultava mais clara a natureza alienável
+dos bens dominicais e a inalienabilidade dos demais, que são indisponíveis,
+ou por se destinarem ao uso coletivo ou por estarem destinados ao uso direto
+ou indireto da Administração, para consecução de seus fins.
+Essa classificação seguia a do direito italiano e baseava-se no critério da
+natureza, patrimonial ou não, do bem. Os de uso comum não são suscetíveis
+de valoração patrimonial, de avaliação econômica; os demais têm um valor
+patrimonial; só que uns (os de uso especial ou do patrimônio indisponível)
+são  inalienáveis,  por  terem  afetação  pública;  os  outros  (dominicais  ou  do
+patrimônio disponível) são alienáveis, por não terem igual afetação.
+Os bens públicos ainda podem ser classificados, quanto à titularidade, em
+federais, estaduais e munic
+[/PAGINA 937]
+
+[PAGINA 938]
+ipais.
+
+16.3
+16.3.1
+1.
+2.
+3.
+BENS DO DOMÍNIO PÚBLICO DO ESTADO
+Conceito
+A expressão domínio público é equívoca, no sentido de que admite vários
+significados:
+em  sentido  muito  amplo,  é  utilizada  para  designar  o  conjunto  de
+bens  pertencentes  às  pessoas  jurídicas  de  direito  público  interno,
+políticas  e  administrativas  (União,  Estados,  Municípios,  Distrito
+Federal, Territórios e autarquias);
+em  sentido  menos  amplo,  utilizado  na  referida  classificação  do
+direito francês, designa os bens afetados a um fim público, os quais,
+no direito brasileiro, compreendem os de uso comum do povo e os
+de uso especial;
+em  sentido  restrito,  fala-se  em  bens  do  domínio  público  para
+designar  apenas  os  destinados  ao  uso  comum  do  povo,
+correspondendo  ao demanio  do  direito  italiano;  como  não  eram
+considerados,  por  alguns  autores,  como  pertencentes  ao  poder
+público, dizia-se que estavam no domínio público; o seu titular seria,
+na realidade, o povo.
+Usaremos, aqui, a expressão no segundo sentido assinalado abrangendo
+os bens de uso comum do povo e os de uso especial. Embora a designação de
+“bens do domínio público” não seja perfeita, porque pode dar a ideia de bens
+cujo uso pertence a toda a coletividade, preferimos utilizá-la como forma de
+contrapor  o  regime  jurídico  dos  bens  de  uso  comum  e  de  uso  especial,
+submetidos ao direito público, ao regime dos bens do domínio privado do
+Estado (bens dominicais), que é parcialmente público e parcialmente privado.
+Com efeito, embora a classificação adotada pelo Código Civil abranja três
+
+1.
+2.
+3.
+4.
+modalidades de bens, quanto ao regime jurídico existem apenas duas.
+Com  relação  aos  bens  de  uso  comum  e  de  uso  especial,  não  existe
+diferença  de  regime  jurídico,  pois  ambos  estão  destinados  a  fins  públicos;
+essa destinação pode ser inerente à própria natureza dos bens (como ocorre
+com os rios, estradas, praças, ruas) ou pode decorrer da vontade do poder
+público, que afeta determinado bem ao uso da Administração para realização
+de atividade que vai beneficiar a coletividade, direta ou indiretamente.
+Segundo  a  definição  de  Cretella  Júnior  (1984:29),  bens  do  domínio
+público são “o conjunto das coisas móveis e imóveis de que é detentora a
+Administração, afetados quer a seu próprio uso, quer ao uso direto ou indireto
+da coletividade, submetidos a regime jurídico de direito público derrogatório
+e exorbitante do direito comum”.
+Estão presentes nessa definição os seguintes elementos:
+conjunto de bens móveis e imóveis;
+a  ideia  de pertinência  à  Administração  (diríamos  melhor  o
+“Estado”), que afasta a tese de que o poder público não exerce sobre
+os bens públicos o direito de propriedade;
+a afetação  ao  uso  coletivo  ou  ao  uso  da  Administração,  que
+representa  um  traço  distintivo  entre  os  bens  dessa  categoria  e  os
+dominicais; aliás, esse traço revela a maior abrangência do vocábulo
+bem  no  direito  público,  em  relação  ao
+[/PAGINA 938]
+
+[PAGINA 939]
+direito  privado;  neste,
+interessam  as  coisas  suscetíveis  de  avaliação  econômica  e  que
+possam ser objeto de posse ou propriedade exclusiva pelo homem;
+no Direito Administrativo, os bens têm sentido mais amplo, porque
+abrangem  não  apenas  as  coisas  que  podem  ser  objeto  de  posse  e
+propriedade exclusivas, mas também aquelas que são destinadas ao
+uso coletivo ou ao uso do próprio poder público;
+regime jurídico de direito público, derrogatório e exorbitante do
+direito  comum,  não  se  aplicando  a  essas  modalidades  de  bens  os
+
+16.3.2
+institutos regidos pelo direito privado.
+Natureza jurídica
+Muitas controvérsias já se lavraram a respeito da natureza do direito das
+pessoas públicas sobre os bens do domínio público.
+No século XIX, boa parte da doutrina, partindo da ideia de propriedade,
+própria do Direito Civil, entendia que as pessoas públicas não tinham sobre
+esses bens um direito de propriedade. Proudhon, por exemplo, apegado ao
+conceito romano de propriedade como direito exclusivo, entendia que os bens
+afetados ao uso de todos não apresentava essa característica de exclusividade.
+Para Ducroq, faltavam os três atributos: uso, fruto e disponibilidade.
+Essa  tese  justificava-se,  em  suas  origens,  como  uma  reação  contra  as
+teorias elaboradas à época das monarquias absolutas, que atribuíam à coroa a
+propriedade  de  todos  os  bens  públicos  e  que  eram  consideradas  perigosas
+para  a  proteção  do  patrimônio  público.  Posteriormente,  a  mesma  tese  foi
+retomada por outros autores que viam no domínio público um conjunto de
+bens insuscetíveis de propriedade (Ducroq e Berthélemy) ou que negavam, de
+modo geral, a existência do direito de propriedade (Leon Duguit e Gaston
+Jèze).  Construíram-se,  assim,  diversas  teorias  que  explicam  o  poder  do
+Estado  sobre  os  bens  do  domínio  público  como  sendo  os  de  depósito,  de
+administração, de soberania, de polícia, de guarda etc.
+Na época contemporânea, no início deste século, os autores, liderados por
+Maurice  Hauriou,  passaram  a  afirmar  a  tese  da  propriedade  administrativa
+sobre o domínio público, mas uma propriedade regida pelo direito público.
+Ela  tem  pontos  de  semelhança  e  de  diferença  com  a  propriedade  privada:
+assim é que a Administração exerce sobre os bens do domínio público os
+direitos de usar ou de autorizar a sua utilização por terceiros; o de gozar,
+percebendo os respectivos frutos, naturais ou civis; o de dispor, desde que o
+bem  seja  previamente  desafetado,  ou  seja,  desde  que  o  bem  perca  a  sua
+destinação pública. Por outro lado, a Administração sofre certas restrições
+
+16.3.3
+também impostas ao particular (como transcrição no Registro de Imóveis),
+além  de  outras  próprias  do  direito  público  (como  as  normas  sobre
+competência, forma, motivo, finalidade etc.); e dispõe de prerrogativas que
+o particular não tem, como poder de polícia que exerce sobre seus bens.
+Em razão disso, foram afastadas as doutrinas que viam
+[/PAGINA 939]
+
+[PAGINA 940]
+na propriedade do
+Estado um direito de propriedade privada ou que negavam a existência desse
+direito em relação aos bens do domínio público. Passou-se a adotar a tese da
+propriedade  pública;  esta,  segundo  Hauriou,  não  é,  em  sua  essência,
+diferente da propriedade privada, mas a existência da afetação dos bens lhe
+imprime características particulares.
+Modalidades
+São  bens  do  domínio  público  os  de  uso  comum  do  povo  e  os  de  uso
+especial.  Consideram-se  bens  de uso  comum  do  povo  aqueles  que,  por
+determinação  legal  ou  por  sua  própria  natureza,  podem  ser  utilizados  por
+todos  em  igualdade  de  condições,  sem  necessidade  de  consentimento
+individualizado por parte da Administração.
+Dentre  eles,  citem-se  as  ruas,  praças,  estradas,  águas  do  mar,  rios
+navegáveis, ilhas oceânicas.
+Bens de uso especial são todas as coisas, móveis ou imóveis, corpóreas
+ou incorpóreas, utilizadas pela Administração Pública para realização de suas
+atividades e consecução de seus fins.
+A expressão uso especial, para designar essa modalidade de bem, não é
+muito feliz, porque se confunde com outro sentido em que é utilizada, quer
+no direito estrangeiro, quer no direito brasileiro, para indicar o uso privativo
+de  bem  público  por  particular  e  também  para  abranger  determinada
+modalidade de uso comum sujeito a maiores restrições, como pagamento de
+pedágio e autorização para circulação de veículos especiais.
+É mais adequada a expressão utilizada pelo direito italiano e pelo antigo
+
+Código de Contabilidade Pública, ou seja, bens do patrimônio indisponível;
+por aí se ressaltar o caráter patrimonial do bem (ou seja, a sua possibilidade
+de ser economicamente avaliado) e a sua indisponibilidade, que resulta, não
+da natureza do bem, mas do fato de estar ele afetado a um fim público.
+Quando se fala que o bem de uso especial está afetado à realização de um
+serviço, como o faz o artigo 99, II, do Código Civil, tem-se que entender a
+expressão serviço  em  sentido  amplo,  para  abranger  toda  atividade  de
+interesse geral exercida sob autoridade ou sob fiscalização do poder público;
+nem  sempre  se  destina  ao  uso direto  da  Administração,  podendo  ter  por
+objeto  o  uso  por  particular,  como  ocorre  com  o  mercado  municipal,  o
+cemitério, o aeroporto, a terra dos silvícolas etc. Para alguns autores, esse tipo
+de bem não utilizado diretamente pela Administração não se enquadra em
+qualquer  das  categorias  previstas  no  Código  Civil.  É  o  pensamento,  por
+exemplo, de Raimundo Nonato Fernandes, que chama a atenção para o fato
+de que nessa modalidade conjugam-se vários tipos de usos: o uso comum do
+povo  e  o  uso  especial  da  Administração  (repartições  e  serviços
+administrativos ali instalados) e o uso exclusivo de particulares (RDA 118/1).
+No  entanto,  a  dificuldade  se  contorna  se  se  der  ao  vocábulo serviço o
+sentido  amplo,  já  referido,  e  desde  que  se  leve  em  conta  que,  quanto  ao
+regime  jur
+[/PAGINA 940]
+
+[PAGINA 941]
+ídico,  esses  bens  em  nada  diferem  daqueles  utilizados  direta  e
+exclusivamente pela Administração para execução dos serviços públicos.
+São exemplos de bens de uso especial os imóveis onde estão instaladas
+repartições públicas, os bens móveis utilizados pela Administração, museus,
+bibliotecas,  veículos  oficiais,  terras  dos  silvícolas,  cemitérios  públicos,
+aeroportos, mercados e agora, pela nova Constituição, as terras devolutas ou
+arrecadadas pelos Estados, por ações discriminatórias, necessárias à proteção
+dos ecossistemas naturais.
+Os bens de uso comum do povo e de uso especial (da mesma forma, aliás,
+que  os  dominicais)  repartem-se  entre  União,  Estados,  Municípios,  Distrito
+Federal e Territórios.
+
+16.3.4
+Na Constituição Federal existe a especificação dos bens da União (art.
+20) e dos Estados (art. 26), sem distinguir a natureza dos bens. Também o
+Decreto-lei nº 9.760, de 5-9-46, que dispõe sobre os bens imóveis da União,
+indica aqueles que pertencem à União (art. 1º). No que diz respeito às águas
+públicas,  o  Código  de  Águas  (Decreto  nº  24.643,  de  10-7-34)  também  as
+reparte entre União, Estados e Municípios (art. 29).
+Regime jurídico
+Em razão de sua destinação ou afetação a fins públicos, os bens de uso
+comum  do  povo  e  os  de  uso  especial  estão  fora  do  comércio  jurídico  de
+direito  privado;  vale  dizer  que,  enquanto  mantiverem  essa  afetação,  não
+podem  ser  objeto  de  qualquer  relação  jurídica  regida  pelo  direito  privado,
+como  compra  e  venda,  doação,  permuta,  hipoteca,  penhor,  comodato,
+locação,  posse ad usucapionem  etc.  Se  isto  já  não  decorresse  da  própria
+afetação desses bens, a conclusão seria a mesma pela análise dos artigos 100,
+102 e 1.420 do Código Civil. O primeiro estabelece a inalienabilidade dos
+bens  de  uso  comum  do  povo  e  dos  bens  de  uso  especial,  enquanto
+conservarem a sua qualificação, na forma que a lei determinar. O segundo
+determina que os bens públicos não estão sujeitos a usucapião; e o terceiro
+estabelece que só os bens que se podem alienar poderão ser dados em penhor,
+anticrese ou hipoteca. A tudo isso, acrescente-se o artigo 100 da Constituição
+Federal,  que  exclui  a  possibilidade  de  penhora  de  bens  públicos,  ao
+estabelecer processo especial de execução contra a Fazenda Pública.
+São, portanto, características dos bens das duas modalidades integrantes
+do domínio público do Estado a inalienabilidade e, como decorrência desta,
+a imprescritibilidade,  a impenhorabilidade  e  a impossibilidade  de
+oneração.
+A  inalienabilidade,  no  entanto,  não  é  absoluta,  a  não  ser  com  relação
+àqueles  bens  que,  por  sua  própria  natureza,  são  insuscetíveis  de  valoração
+patrimonial,  como  os  mares, praias,  rios  navegáveis;  os  que  sejam
+
+inalienáveis  em  decorrência  de  destinação  legal  e  sejam  suscetíveis  de
+valoração patrimonial podem perder o caráter de inalienabilidade, desde que
+percam a destinação pública, o que oc
+[/PAGINA 941]
+
+[PAGINA 942]
+orre pela desafetação, definida, por
+José  Cretella  Júnior  (1984:160-161)  como  o  “fato  ou  a  manifestação  de
+vontade  do  poder  público  mediante  a  qual  o  bem  do  domínio  público  é
+subtraído à dominialidade pública para ser incorporado ao domínio privado,
+do Estado ou do administrado”.
+Também  a  alienabilidade  não  é  absoluta,  pois  aqueles  que  têm  esse
+caráter, por não terem qualquer destinação pública (os bens dominicais ou
+bens  do  domínio  privado  do  Estado)  podem  perdê-la  pelo  instituto  da
+afetação,  definida,  pelo  mesmo  autor  (1984:152),  como  “o  fato  ou
+pronunciamento  do  Estado  que  incorpora  uma  coisa  à  dominialidade  da
+pessoa jurídica” ou, por outras palavras, o ato ou o fato pelo qual um bem
+passa da categoria de bem do domínio privado do Estado para a categoria de
+bem do domínio público.
+Pelos  conceitos  de  afetação  e  desafetação,  verifica-se  que  uma  e  outra
+podem  ser expressas  ou tácitas.  Na  primeira  hipótese,  decorrem  de  ato
+administrativo  ou  de  lei;  na  segunda,  resultam  de  atuação  direta  da
+Administração,  sem  manifestação  expressa  de  sua  vontade,  ou  de  fato  da
+natureza. Por exemplo, a Administração pode baixar decreto estabelecendo
+que  determinado  imóvel,  integrado  na  categoria  dos  bens  dominicais,  será
+destinado  à  instalação  de  uma  escola;  ou  pode  simplesmente  instalar  essa
+escola no prédio, sem qualquer declaração expressa. Em um e outro caso, o
+bem  está  afetado  ao  uso  especial  da  Administração,  passando  a  integrar  a
+categoria de bem de uso especial. A operação inversa também pode ocorrer,
+mediante declaração expressa ou pela simples desocupação do imóvel, que
+fica sem destinação.
+Não há uniformidade de pensamento entre os doutrinadores a respeito da
+possibilidade de a desafetação decorrer de um fato (desafetação tácita) e não
+de uma manifestação de vontade (desafetação expressa); por exemplo, um rio
+
+que seca ou tem seu curso alterado; um incêndio que provoca a destruição
+dos livros de uma biblioteca ou das obras de um museu. Alguns acham que
+mesmo nesses casos seria necessário um ato de desafetação. Isto, no entanto,
+constitui excesso de formalismo se se levar em consideração o fato de que o
+bem  se  tornou  materialmente  inaproveitável  para  o  fim  ao  qual  estava
+afetado.
+O que é inaceitável é a desafetação pelo não uso, ainda que prolongado,
+como,  por  exemplo,  no  caso  de  uma  rua  que  deixa  de  ser  utilizada.  Em
+hipótese como essa, torna-se necessário um ato expresso de desafetação, pois
+inexiste  a  fixação  de  um  momento  a  partir  do  qual  o  não  uso  pudesse
+significar  desafetação.  Sem  essa  restrição,  a  cessação  da  dominialidade
+pública poderia ocorrer arbitrariamente, em prejuízo do interesse coletivo.
+
+16.4
+16.4.1
+BENS DO DOMÍNIO PRIVADO DO ESTADO OU BENS
+DOMINICAIS
+Conceito
+Os bens do domínio privado do Estado, chamados bens dominicais pelo
+Código  Civil,  e  bens  do  patrimônio
+[/PAGINA 942]
+
+[PAGINA 943]
+disponível  pelo  antigo  Código  de
+Contabilidade Pública, foram definidos legalmente como “os que constituem
+o patrimônio da União, dos Estados ou Municípios, como objeto de direito
+pessoal ou real de cada uma dessas entidades” (art. 66, III, do Código Civil
+de 1916).
+O Código Civil de 2002, no artigo 99, III, mantém o conceito, alterando-o
+apenas para deixar claro que são titulares de bens dominicais todas as pessoas
+jurídicas  de  direito  público.  Estabelece  o  dispositivo  que  os  mesmos
+“constituem  o  patrimônio  das  pessoas  jurídicas  de  direito  público,  como
+objeto de direito pessoal, ou real, de cada uma delas”.
+Além  disso,  o  parágrafo  único  determina  que  “não  dispondo  a  lei  em
+contrário, consideram-se dominicais os bens pertencentes às pessoas jurídicas
+de  direito  público  a  que  se  tenha  dado  estrutura  de  direito  privado”.
+Conforme visto no item 10.2.2, tais pessoas poderiam ser as fundações de
+direito  público  que,  não  obstante  dotadas  de  personalidade  pública,  têm  a
+mesma estrutura das fundações privadas.
+O Código de Contabilidade os definia como “os bens do Estado, qualquer
+que seja a sua proveniência, dos quais se possa efetuar a venda, permuta ou
+cessão, ou com os quais se possam fazer operações financeiras em virtude de
+disposições legais especiais de autorização” (art. 810).
+Segundo Cretella Júnior (1984:336), dominical é vocábulo bem formado,
+designando  o  tipo  de  coisa  ou  bem  que  pertence  ao dominus,  senhor  ou
+proprietário. Por isso mesmo, ele usa a expressão para designar “a parcela de
+bens que pertence ao Estado em sua qualidade de proprietário”.
+
+16.4.2
+1.
+2.
+Características
+Tradicionalmente,  apontam-se  as  seguintes  características  para  os  bens
+dominicais:
+comportam  uma função  patrimonial  ou financeira,  porque  se
+destinam a assegurar rendas ao Estado, em oposição aos demais bens
+públicos,  que  são  afetados  a  uma  destinação  de  interesse  geral;  a
+consequência  disso  é  que  a  gestão  dos  bens  dominicais  não  era
+considerada  serviço  público,  mas  uma  atividade  privada  da
+Administração;
+submetem-se  a  um  regime  jurídico  de  direito  privado,  pois  a
+Administração Pública age, em relação a eles, como um proprietário
+privado.
+As duas características já se alteraram sensivelmente.
+Hoje  já  se  entende  que  a  natureza  desses  bens  não  é  exclusivamente
+patrimonial;  a  sua  administração  pode  visar,  paralelamente,  a  objetivos  de
+interesse geral. Com efeito, os bens do domínio privado são frequentemente
+utilizados como sede de obras públicas e também cedidos a particulares para
+fins  de  utilidade  pública.  Por  exemplo,  no  direito  brasileiro,  é  prevista  a
+concessão de direito real de uso para fins de urbanização, industrialização,
+cultivo  e  também  a  sua  cessão,  gratuita  ou  onerosa,  para  fins  culturais,
+recreativos, esportivos. E mesmo quando esses bens não são utilizados por
+terceiros  ou  diretamente  pela  Administr
+[/PAGINA 943]
+
+[PAGINA 944]
+ação,  podem  ser  administrados  no
+benefício  de  todos,  como  as  terras  públicas  onde  se  situem  florestas,
+mananciais ou recursos naturais de preservação permanente.
+Além disso, a própria administração financeira constitui objetivo apenas
+imediato, pois, em uma perspectiva mais ampla, atende a fins de interesse
+geral.
+Esse novo modo de encarar a natureza e função dos bens dominicais leva
+
+16.4.3
+alguns  autores  a  considerar  a  sua  administração  como  serviço  público  sob
+regime de gestão privada. O duplo aspecto dos bens dominicais justifica a sua
+submissão a regime jurídico de direito privado parcialmente derrogado
+pelo direito público.
+Regime jurídico
+Comparando os bens do domínio público com os do domínio privado do
+Estado, pode-se traçar a seguinte regra básica quanto ao regime jurídico a que
+se submetem: os primeiros, ao direito público, e, os segundos, no silêncio da
+lei,  ao  direito  privado.  O  mesmo  pensamento  encontra-se  em  Pontes  de
+Miranda  (1954,  v.  2:136):  “na  falta  de  regras  jurídicas  sobre  os  bens
+dominicais, incidem as de direito privado, ao passo que, na falta de regras
+jurídicas sobre bens públicos stricto sensu (os de uso comum e os de uso
+especial), são de atender-se os princípios gerais de direito público”.
+Se  nenhuma  lei  houvesse  estabelecido  normas  especiais  sobre  essa
+categoria de bens, seu regime jurídico seria o mesmo que decorre do Código
+Civil para os bens pertencentes aos particulares. Sendo alienáveis, estariam
+inteiramente  no  comércio  jurídico  de  direito  privado  (art.  101);  em
+consequência, poderiam ser objeto de usucapião e de direitos reais, inclusive
+os de garantia (art. 1.420); como também poderiam ser objeto de penhora e
+de contratos como os de locação, comodato, permuta, arrendamento.
+No entanto, o fato é que as normas do direito civil aplicáveis aos bens
+dominicais  sofreram  inúmeros  “desvios”  ou  derrogações  impostos  por
+normas publicísticas.
+Em primeiro lugar, o artigo 100 da Constituição, que estabelece processo
+especial de execução contra a Fazenda Pública, excluindo, implicitamente, a
+penhora sobre qualquer tipo de bem público pertencente à União, Estados,
+Municípios e respectivas autarquias.
+Com  relação  ao usucapião,  depois  de  larga  divergência  doutrinária  e
+
+jurisprudencial, o Decreto nº 22.785, de 31-5-33, veio expressamente proibi-
+lo,  seguindo-se  norma  semelhante  no  Decreto-lei  nº  710,  de  17-9-38  e,
+depois, no Decreto-lei nº 9.760, de 5-9-46 (este último concernente apenas
+aos  bens  imóveis  da  União).  O  STF,  pela  Súmula  nº  340,  consagrou  o
+entendimento de que “desde a vigência do Código Civil, os bens dominicais,
+como os demais bens públicos, não podem ser adquiridos por usucapião”. No
+entanto, tem havido exceções, como a prevista nas Constituições de 1934,
+1937 e 1946, que previam o chamado usucapião pro  labore, cujo objetivo
+era assegurar o direito de propriedade àquele que cultivasse a terra com o
+próprio  traba
+[/PAGINA 944]
+
+[PAGINA 945]
+lho  e  o  de  sua  família;  a  Constituição  de  1967  não  mais
+contemplou essa modalidade de usucapião, porém valorizava ainda o trabalho
+produtivo do homem do campo, permitindo que lei federal estabelecesse as
+condições de legitimação de posse e de preferência para aquisição, até 100
+ha,  de  terras  públicas  por  aqueles  que  as  tornassem  produtivas  com  o  seu
+trabalho e o de sua família (art. 164 da redação original, e art. 171, após a
+Emenda Constitucional nº 1, de 1969). As condições para essa legitimação
+estão contidas nos artigos 29 a 31 da Lei nº 6.383, de 7-12-76. A legitimação
+difere  do  usucapião  porque,  neste,  a  posse  dá  direito  à  aquisição,  pura  e
+simples,  do  imóvel  pelo  simples  decurso  do  tempo;  naquela,  a  posse  dá
+direito de preferência para aquisição do imóvel pelo valor histórico, desde
+que comprovados os requisitos legais.
+Embora  não  mais  previsto  na  Constituição,  havia  até  recentemente  o
+usucapião especial disciplinado pela Lei nº 6.969, de 10-12-81, que incidia
+sobre terras devolutas situadas na área rural, após o período de cinco anos de
+posse ininterrupta e sem oposição, além de outros requisitos anteriormente
+estabelecidos para o usucapião pro labore: morada e cultivo da terra com o
+próprio  trabalho,  inexistência  de  outro  imóvel  de  que  seja  proprietário  o
+interessado, área não superior a 25 ha.
+A  Constituição  de  1988,  lamentavelmente,  proibiu  qualquer  tipo  de
+usucapião de imóvel público, quer na zona urbana (art. 183, § 3º), quer na
+
+área rural (art. 191, parágrafo único), com o que revogou a Lei nº 6.969/81,
+na parte relativa aos bens públicos. Essa proibição constitui um retrocesso
+por retirar do particular que cultiva a terra um dos instrumentos de acesso à
+propriedade pública, precisamente no momento em que se prestigia a função
+social da propriedade.
+A  Constituição  também  não  fala  mais  em  legitimação  de  posse;  mas
+também  não  a  proíbe,  razão  pela  qual  o  instituto  continua  a  existir,  com
+fundamento na legislação ordinária que o disciplina.
+Com relação à instituição de direitos reais de garantia sobre os bens
+dominicais,  formaram-se  duas  correntes,  uma  entendendo  impossível  essa
+oneração,  tendo  em  vista  a  impenhorabilidade  desses  bens,  e  a  outra
+considerando-a  possível  e  enquadrando-a  como  uma  das  espécies  de
+execução forçada contra a Fazenda Pública.
+À primeira corrente pertence, entre outros, Hely Lopes Meirelles; a seu
+ver (2003:515), “não importa, por igual, o fim a que se destine a garantia real.
+Desde  que  os  bens  públicos  das  entidades  estatais  são  insuscetíveis  de
+penhora, sendo a penhora consectário legal da execução para a satisfação do
+crédito,  objeto  da  garantia  real,  ressalta  a  impossibilidade  de  constituir-se
+penhor  ou  hipoteca  sobre  bens  e  rendas  públicas  de  qualquer  natureza  ou
+procedência. Para a garantia de empréstimo, há o recurso à emissão de títulos
+e outros mais, post
+[/PAGINA 945]
+
+[PAGINA 946]
+os à disposição da Administração pelo direito financeiro,
+sem  necessidade  de  o  Estado  recorrer  a  institutos  de  direito  civil,  que
+impliquem execução direta sobre os bens vinculados à dívida”.
+Em  posição  contrária,  coloca-se  Seabra  Fagundes  (1984:168),  que  cita
+como hipótese de execução coativa contra o Estado aquela em que este seja
+condenado  como  devedor  de  crédito,  com  garantia  real,  pignoratícia  ou
+hipotecária. “Uma vez que o Estado aquiesce em firmar penhor ou hipoteca,
+em  benefício  de  credor  seu  abre  mão,  ao  fazê-lo,  da  inalienabilidade
+reconhecida  aos  seus  bens.  É  de  notar,  porém  que  essa  renúncia  à
+inalienabilidade  peculiar  dos  bens  públicos  nem  sempre  é  possível.  Só  os
+
+1.
+2.
+bens dominicais, que são facultativamente alienáveis, podem ser gravados de
+ônus real.”
+Diante, porém, do direito positivo brasileiro, essa tese não é defensável,
+pois  o  processo  de  execução  contra  a  Fazenda  Pública  obedece  a  normas
+próprias estabelecidas no artigo 100 da Constituição Federal (repetidas nos
+arts.  730  e  731  do  CPC  e  disciplinadas  no  art.  910  do  novo  CPC)  e  que
+excluem qualquer possibilidade de penhora de bem público, seja qual for a
+sua  modalidade.  Não  poderia  a  Fazenda  Pública,  nem  mesmo  com
+autorização legislativa, abrir mão da impenhorabilidade com que a própria
+Constituição quis proteger os bens públicos de qualquer natureza.
+Além dessas restrições, que abrangem os bens públicos em geral, devem
+ser  assinaladas  algumas  normas  restritivas  previstas  na  Constituição  e  na
+legislação ordinária, concernindo à utilização de bens dominicais:
+A Constituição, no art. 188, §§ 1º e 2º, exige prévia aprovação do
+Congresso Nacional para a alienação ou cessão de terras públicas
+com área superior a 2.500 ha, exceto para fins de reforma agrária. Na
+Constituição anterior, essa exigência se fazia para áreas superiores a
+3.000  ha;  agora,  o  artigo  51  das  Disposições  Transitórias  da
+Constituição determina que Comissão mista do Congresso Nacional,
+nos três anos a contar da data da sua promulgação, reveja todas as
+doações, vendas e concessões de terras públicas com área superior a
+3.000  ha,  realizadas  no  período  de  1º-1-62  a  31-12-87;  quanto  às
+vendas, a revisão se fará com base em critério de legalidade (§ 1º) e
+quanto às concessões e doações, com base em critérios de legalidade
+e conveniência do interesse público (§ 2º); comprovada a ilegalidade
+ou havendo interesse público, as terras reverterão ao patrimônio da
+União, Estados, Distrito Federal ou Municípios (§ 3º).
+Com relação às terras tradicionalmente ocupadas pelos índios, o
+artigo  231  da  Constituição  estabelece  a  sua  inalienabilidade  e
+imprescritibilidade  e  assegura  aos  silvícolas  o  direito  de  posse
+
+3.
+permanente e usufruto exclusivo das riquezas do solo, rios e lagos,
+exigindo autorização do Congresso Nacional para o aproveitamento
+dos recursos hídricos e riquezas minerais, ouv
+[/PAGINA 946]
+
+[PAGINA 947]
+idas as comunidades
+afetadas  e  ficando-lhes  assegurada  participação  nos  resultados  da
+lavra.  O  §  6º  do  mesmo  dispositivo  considera  nulos  os  atos  que
+tenham  por  objeto  a  ocupação,  o  domínio  e  a  posse  das  aludidas
+terras ou a exploração das riquezas naturais do solo, dos rios e dos
+lagos nelas existentes, ressalvado  relevante  interesse  público  da
+União.
+Em  relação  aos  interesses  indígenas,  parece  que  houve  um
+retrocesso,  pois  a  Constituição  veio  permitir  a  exploração  de
+recursos naturais por terceiros, mediante autorização do Congresso
+Nacional, conforme artigo 49, XVI, e artigo 231, § 3º, e deixou em
+aberto  a  possibilidade  de  utilização  pela  União,  por  motivo  de
+relevante  interesse  público,  segundo  o  que  dispuser  a  lei
+complementar. Na Constituição anterior não havia tais normas.
+Restrições  são  também  estabelecidas  para  a faixa  de  fronteira,
+como tal definida a faixa interna de 150 km de largura, paralela à
+linha  divisória  terrestre  do  território  nacional,  considerada
+fundamental  para  defesa  do  Território  Nacional,  nos  termos  do
+artigo 20, § 2º, da Constituição Federal. Na legislação ordinária, a
+matéria está disciplinada pela Lei nº 6.634, de 2-5-79.
+O artigo 91, § 1º, III, da Constituição confere ao Conselho de
+Defesa Nacional competência para propor os critérios e condições de
+utilização de áreas indispensáveis à segurança do Território Nacional
+e opinar sobre seu efetivo uso, especialmente na faixa de fronteira e
+nas  relacionadas  com  a  preservação  e  a  exploração  dos  recursos
+naturais de qualquer tipo.
+A  respeito  da  faixa  de  fronteira,  o  STF,  pela  Súmula  nº  477,
+fixou  o  entendimento  de  que  “as  concessões  de  terras  devolutas
+
+4.
+situadas na faixa de fronteira, feitas pelos Estados, autorizam apenas
+o  uso,  permanecendo  o  domínio  com  a  União,  ainda  que  se
+mantenha inerte ou tolerante em relação aos posseiros”.
+A Lei nº 6.634/79, que sob certos aspectos precisa ser adaptada à
+Constituição,  contém  algumas  restrições:  as  empresas  que  atuam
+nessa área e que se dediquem às indústrias de interesse da Segurança
+Nacional  ou  às  atividades  de  pesquisa,  lavra,  exploração  e
+aproveitamento  de  recursos  naturais  (salvo  aqueles  de  imediata
+aplicação na construção civil) ou a colonização e loteamentos rurais
+terão  que  ter  51%  do  capital  pertencente  a  brasileiros,  2/3  de
+trabalhadores  brasileiros  e  a  administração  entregue  à  maioria  de
+brasileiros, aos quais se assegurarão os poderes predominantes (art.
+3º).
+A  exploração  e  a  pesquisa  no mar  territorial  e  na plataforma
+continental estão sujeitas às normas estabelecidas pela Lei nº 8.617,
+de 4-1-93, que prevê três faixas: (a) o mar territorial, na faixa de 12
+milhas  marítimas  de  largura,  onde  é  possível  o  “direito  de
+passagem  inocente”,  assim  considerado  “desde  que  não  seja
+prejudicial à paz, à boa ordem ou à segurança do Brasil,
+[/PAGINA 947]
+
+[PAGINA 948]
+devendo ser
+contínua e rápida” (arts. 1º a 3º); (b) a zona contígua, na faixa de 12
+a 24 milhas marítimas, na qual o Brasil deverá tomar as medidas de
+fiscalização  necessárias  para  “evitar  as  infrações  às  leis  e
+regulamentos aduaneiros, fiscais, de imigração ou sanitários, no seu
+território ou no seu mar territorial”, bem como “reprimir as infrações
+às leis e aos regulamentos no seu território ou no seu mar territorial”
+(arts. 4º e 5º); (c) zona econômica exclusiva, na faixa entre 12 e 200
+milhas  marítimas,  na  qual  o  Brasil  tem  o  “direito  exclusivo  de
+regulamentar  a  investigação  científica  marinha,  a  proteção  e
+preservação do meio marinho, bem como a construção, operação e
+uso de todos os tipos de ilhas artificiais, instalações e estruturas”; a
+
+5.
+a)
+b)
+c)
+6.
+7.
+exploração  científica  marinha  na  zona  econômica  exclusiva  só
+poderá  ser  conduzida  por  outros  Estados  com  o  consentimento
+prévio do Governo brasileiro (art. 8º e parágrafo único).
+Com relação às terras públicas situadas na zona rural, o artigo 94
+do Estatuto da Terra veda contrato de arrendamento ou parceria
+para sua exploração, permitindo-os excepcionalmente quando:
+razões de segurança nacional o determinarem;
+áreas  de  núcleos  de  colonização  pioneira,  na  sua  fase  de
+implantação, forem organizadas para fins de demonstração;
+forem  motivo  de  posse  pacífica  e  a  justo  título,  reconhecida  pelo
+poder público, antes da vigência da lei.
+Posteriormente, a Lei nº 4.947, de 6-4-66, veio criar exceção a
+essa  regra,  consentindo  na permissão, a  título  precário,  da
+utilização  de  terras  públicas  sob  qualquer  das  formas  de  uso
+temporário previstas na Lei nº 4.504, o que abrange arrendamento e
+parceria.
+Ainda quanto aos imóveis rurais, não se aplicam as disposições
+sobre ocupação previstas nos artigos 127 a 133 do Decreto-lei nº
+9.760, de 5-9-46,
+1
+ conforme artigo 32 da Lei nº 6.383, de 7-12-76
+(que  dispõe  sobre  processo  discriminatório  de  terras  devolutas  da
+União).
+O  Decreto-lei  nº  9.760  proíbe,  no  artigo  203,  que  fora  dos  casos
+expressos  em  lei,  as terras devolutas  sejam  alienadas  ou  cedidas
+senão a título oneroso.
+Restrições quanto à alienação de bens públicos são impostas pela Lei
+nº  8.666,  de  21-6-93,  cujo  artigo  17  exige  prévia  avaliação,
+demonstração  de  interesse  público,  licitação  (salvo  nos  casos
+expressamente  indicados  no  dispositivo)  e  autorização  legislativa,
+quando se trate de bens imóveis (ver item 9.5). A Lei nº 13.240, de
+
+8.
+30-12-15, dispõe sobre a administração, a alienação, a transferência
+de  gestão  de  imóveis  da  União  e  seu  uso  para  a  constituição  de
+fundos, contendo normas sobre aforamento, ocupação, transferência,
+aos  Municípios,  da  gestão  de  determinadas  categorias  de  bens
+imóveis da União, em especial as praias marítimas urbanas, inclusive
+as áreas de bens de uso comum com exploração econômica.
+Pelo  artigo  225,  §  5º,  da  Constituição,
+[/PAGINA 948]
+
+[PAGINA 949]
+são  indisponíveis  as  terras
+devolutas ou arrecadadas pelos Estados, por ações discriminatórias,
+necessárias à proteção dos ecossistemas naturais.
+
+16.5
+16.5.1
+ALIENAÇÃO
+Alienação dos bens de uso comum e de uso especial
+De acordo com o artigo 67 do Código Civil de 1916, os bens públicos das
+três categorias “só perderão a inalienabilidade, que lhes é peculiar, nos casos
+e na forma que a lei prescrever”.
+Pela redação do artigo 100 do novo Código Civil, “os bens públicos de
+uso comum e os de uso especial são inalienáveis, enquanto conservarem a sua
+qualificação, na forma que a lei determinar”. E, pelo artigo 101, “os bens
+dominicais podem ser alienados, observadas as exigências da lei”. A nova
+redação  está  em  consonância  com  entendimento  que  desde  longa  data  era
+adotado pela doutrina e jurisprudência.
+Com  relação  aos  bens  de  uso  comum  e  de  uso  especial,  nenhuma  lei
+estabelece a possibilidade de alienação; por estarem afetados a fins públicos,
+estão fora do comércio jurídico de direito privado, não podendo ser objeto de
+relações jurídicas regidas pelo Direito Civil, como compra e venda, doação,
+permuta, hipoteca, locação, comodato. Para serem alienados pelos métodos
+de direito privado, têm de ser previamente desafetados, ou seja, passar
+para a categoria de bens dominicais, pela perda de sua destinação pública.
+Vale dizer que a inalienabilidade não é absoluta.
+No entanto, é possível a alienação por meio de institutos publicísticos.
+Dizer  que  um  bem  está  fora  do comércio  jurídico  significa  excluí-lo  do
+comércio  jurídico  de  direito  privado,  mas  não  do  comércio  jurídico  de
+direito  público,  caso  contrário  ficaria  a  Administração  impedida  de  extrair
+dos  bens  do  domínio  público  toda  a  sua  potencialidade  de  utilização,  em
+consonância  com  a  função  social  que  é  inerente  à  própria  natureza  da
+propriedade pública.
+Esse  aspecto  é  realçado  por  Marcello  Caetano  (1969,  v.  2:825),  ao
+afirmar que “quando se diz que uma coisa está no comércio jurídico ou é
+
+16.5.2
+juridicamente comerciável, quer-se exprimir a suscetibilidade dessa coisa
+ser objeto de direitos individuais. As coisas fora do comércio não podem, por
+sua natureza ou por disposição legal, ser objeto de posse, nem sobre elas se
+podem fazer quaisquer contratos”. Acrescenta que “as coisas públicas estão
+fora do comércio jurídico privado, o que significa serem insuscetíveis de
+redução à propriedade particular, inalienáveis, imprescritíveis, impenhoráveis
+e não oneráveis pelos modos de direito privado, enquanto coisas públicas”.
+Mas, continua o autor, “considerando agora a situação das coisas públicas à
+luz das normas do direito público, vemos que podem ser objeto de direito de
+propriedade  por  parte  das  pessoas  coletivas  (propriedade  pública)  e
+transferidas entre elas (transferências do domínio ou mutações dominiais);
+e  admitem  a  criação  dos  direitos  reais  administrativos  e  de  direitos
+administrativos  de  nat
+[/PAGINA 949]
+
+[PAGINA 950]
+ureza  obrigacional  em  benefício  dos  particulares
+(concessões) transmissíveis de uns a outros na forma da lei”.
+O mesmo ensinamento encontra-se em Otto Mayer (1951, v. 3:154).
+Isto quer dizer que os bens de uso comum e de uso especial, enquanto
+mantiverem essa natureza, podem ser objeto de alienação de uma entidade
+pública para outra, segundo normas de direito público. Essa transferência se
+dá normalmente por lei. Se perderem essa natureza, pela desafetação, tornam-
+se disponíveis pelos métodos do direito privado.
+Alienação dos bens dominicais
+Os bens dominicais, não estando afetados a finalidade pública específica,
+podem  ser  alienados  por  meio  de  institutos  do  direito  privado  (compra  e
+venda, doação, permuta) ou do direito público (investidura, legitimação de
+posse e retrocessão, esta última objeto de análise no capítulo concernente à
+desapropriação).
+Tais bens estão, portanto, no comércio jurídico de direito privado e de
+direito público.
+
+Na esfera federal, os requisitos para alienação constam do artigo 17 da
+Lei nº 8.666, de 21-6-93, a qual exige demonstração de interesse público,
+prévia avaliação, licitação e autorização legislativa, este último requisito
+somente  exigível  quando  se  trate  de  bem  imóvel.  A  inobservância  dessas
+exigências  invalida  a  alienação.  A  Lei  nº  9.636,  de  15-5-98,  exige  para
+alienação de bens imóveis da União autorização do Presidente da República
+(art. 23). Normas sobre alienação de bens imóveis da União constam também
+da Lei nº 13.240, de 30-12-15.
+Além  disso,  a  Lei  nº  8.666  estabelece  algumas  normas  especiais,
+conforme a natureza, móvel ou imóvel, do bem.
+Para os bens imóveis, a forma de licitação adotada é a concorrência (arts.
+17, I, e 23, § 3º), ressalvada a hipótese prevista no artigo 19; ela é, no entanto,
+dispensável nos casos previstos no artigo 17, inciso I, da Lei nº 8.666, de 21-
+6-93  (já  analisados  no  item  9.5).  Às  hipóteses  previstas  nesse  dispositivo,
+pode-se acrescentar outra em que a licitação é incompatível com a própria
+natureza do instituto: a retrocessão.
+Quando  se  trata  de bens  móveis,  a  autorização  legislativa  não  é
+necessária e a modalidade de licitação a ser utilizada é o leilão (art. 22, § 5º).
+2
+Na  hipótese  de  alienação  realizada  por  institutos  do  direito  privado,
+observam-se as normas do Código Civil, parcialmente derrogadas pelo direito
+público,  no  que  diz  respeito  às  exigências  de  procedimento,  forma,
+motivação, competência, finalidade.
+Com relação aos institutos de direito público, a licitação não é necessária,
+porque  inexiste  competição;  é  o  que  ocorre  com  a investidura,  a
+retrocessão, a legitimação de posse e a legitimação fundiária.
+A investidura vem definida no artigo 17, § 3º, da Lei nº 8.666/93, com a
+redação alterada pela Lei nº 9.648/98, como: “I – alienação aos proprietários
+de imóveis lindeiros de área remanescente ou resultante de obra pública, área
+esta que se tornar inaproveitável isolada
+[/PAGINA 950]
+

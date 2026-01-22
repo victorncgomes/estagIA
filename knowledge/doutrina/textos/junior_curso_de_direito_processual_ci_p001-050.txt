@@ -1,0 +1,4157 @@
+[META]
+TITULO: Curso de Direito Processual Civ
+AUTOR: Humberto Theodoro Junior
+ANO: N/A
+EDICAO: N/A
+EDITORA: Forense
+PAGINAS: 1-50
+ARQUIVO_ORIGINAL: Curso de Direito Processual Civ - Humberto Theodoro Junior.pdf
+CITACAO_ABNT: JUNIOR, Humberto Theodoro. Curso de Direito Processual Civ.
+[/META]
+
+[PAGINA 1]
+DADOS DE COPYRIGHT
+Sobre a obra:
+A presente obra é disponibilizada pela equipe Le Livros e seus diversos parceiros,
+com o objetivo de oferecer conteúdo para uso parcial em pesquisas e estudos
+acadêmicos, bem como o simples teste da qualidade da obra, com o fim
+exclusivo de compra futura.
+É expressamente proibida e totalmente repudiável a venda, aluguel, ou quaisquer
+uso comercial do presente conteúdo
+Sobre nós:
+O Le Livros e seus parceiros disponibilizam conteúdo de dominio publico e
+propriedade intelectual de forma totalmente gratuita, por acreditar que o
+conhecimento e a educação devem ser acessíveis e livres a toda e qualquer
+pessoa. Você pode encontrar mais obras em nosso site: LeLivros.site ou em
+qualquer um dos sites parceiros apresentados neste link.
+"Quando o mundo estiver unido na busca do conhecimento, e não mais lutando
+por dinheiro e poder, então nossa sociedade poderá enfim evoluir a um novo
+nível."
+
+
+
+
+
+
+
+■
+■
+■
+■
+ 
+A EDITORA FORENSE se responsabiliza pelos vícios do produto no que
+concerne à sua edição (impressão e apresentação a fim de possibilitar ao
+consumidor bem manuseá-lo e lê-lo). Nem a editora nem o autor assumem
+qualquer responsabilidade por eventuais danos ou perdas a pessoa ou bens,
+decorrentes do uso da presente obra.
+Todos os direitos reservados. Nos termos da Lei que resguarda os direitos
+autorais, é proibida a reprodução total ou parcial de qualquer forma ou por
+qualquer  meio,  eletrônico  ou  mecânico,  inclusive  através  de  processos
+xerográficos, fotocópia e gravação, sem permissão por escrito do autor e do
+editor.
+Direitos exclusivos para o Brasil na língua portuguesa
+Copyright © 2015 by
+EDITORA FORENSE LTDA.
+Uma editora integrante do GEN | Grupo Editorial Nacional
+Travessa do Ouvidor, 11 – Térreo e 6º andar – 20040-040 – Rio de Janeiro –
+RJ
+Tel.: (21) 3543-0770 – Fax: (21) 3543-0896
+forense@grupogen.com.br | www.grupogen.com.br
+O  titular  cuja  obra  seja  fraudulentamente  reproduzida,  divulgada  ou  de
+qualquer  forma  utilizada  poderá  requerer  a  apreensão  dos  exemplares
+reproduzidos ou a suspensão da divulgação, sem prejuízo da indenização
+cabível (art. 102 da Lei n. 9.610, de 19.02.1998).
+Quem vender, expuser à venda, ocultar, adquirir, distribuir, tiver em depósito
+ou utilizar obra ou fonograma reproduzidos com fraude, com a finalidade de
+vender, obter ganho, vantagem, proveito, lucro direto ou indireto, para si ou
+para outrem, será solidariamente responsável com o contrafator, nos termos
+dos artigos precedentes, respondendo como contrafatores o importador e o
+distribuidor em caso de reprodução no exterior (art. 104 da Lei n. 9.610/98).
+1ª edição – 1985
+56ª edição – 2015
+Capa: Danilo Oliveira
+Produção digital: Geethik
+
+■CIP – Brasil. Catalogação na fonte.
+Sindicato Nacional dos Editores de Livros, RJ.
+T289c
+Theodoro Júnior, Humberto.
+Curso de Direito Processual Civil – Teoria geral do direito processual
+civil, processo de conhecimento e procedimento comum – vol. I / Humberto
+Theodoro Júnior. 5
+[/PAGINA 1]
+
+[PAGINA 2]
+6. ed. rev., atual. e ampl. – Rio de Janeiro: Forense, 2015.
+Bibliografia
+ISBN 978-85-309-6068-1
+1. Processo civil. 2. Processo civil – Brasil. I. Título.
+CDU: 347.9
+347.9(81)
+/341.46/
+
+ 
+ 
+ 
+ 
+ 
+A meus pais,
+ 
+HUMBERTO THEODORO GOMES
+e
+ZENÓBIA FRATTARI GOMES,
+ 
+ 
+a homenagem da mais profunda
+gratidão pela lição de vida que,
+sabiamente, me prestaram e
+continuam a prestar;
+e
+a tentativa modesta de externar
+o verdadeiro afeto filial, em pálida
+retribuição pelo irresgatável carinho
+com que sempre me cercaram.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+Índice da Matéria
+Apresentação da 56ª Edição
+TEORIA GERAL DO DIREITO PROCESSUAL CIVIL
+Parte I – Noções Fundamentais
+Capítulo I – Conceito, História e Fontes do Direito Processual Civil
+§ 1º Direito Processual Civil
+Noções gerais
+Definição
+Natureza
+Relações com outros ramos do Direito
+Objetivo
+Novos rumos do direito processual civil
+Universalidade dos problemas do processo moderno
+ 
+§ 2º História do Direito Processual Civil
+Origens
+Evolução: mundo clássico. Grécia
+O processo civil romano
+Processo comum
+O processo civil moderno (fase científica)
+Esquema histórico-evolutivo do processo civil do século XIX ao século XXI
+Direito processual civil brasileiro
+Regulamento nº 737
+Códigos estaduais
+Códigos unitários
+O Código de 1973
+As reformas do Código de 1973 e a evolução do direito processual civil
+A constante busca da efetividade da tutela jurisdicional
+
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+36.1.
+36.2.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+O Novo Código de Processo Civil
+ 
+§ 3º Fontes do Direito Processual Civil
+Noções gerais
+Lei processual
+A Constituição e os tratados
+Doutrina e jurisprudência
+A lei processual no tempo
+A lei processual no espaço
+Interpretação das leis processuais
+Capítulo II – Princípios e Normas Fundamentais do Processo Civil
+§ 4º Princípios Informativos do Direito Processual
+Noções gerais: princípios universais
+Princípios informativos e normas fundamentais do processo
+Princípio do devido processo legal
+Processo legal e processo justo
+Direito e processo: instrumentalidade efetiva e celeridade procedimental
+Princípio da verdade real
+Princípio da recorribilidade e do duplo grau de jurisdição
+Princípio da oralidade
+Processo justo e oralidade
+Processo justo e humanização da prestação jurisdicional
+Princípio da economia processual
+Princípio da duração razoável do processo
+Princípio da eventualidade ou da preclusão
+ 
+§ 5º Normas Fundamentais do Processo Civil
+Noções introdutórias
+Fonte imediata do direito processual civil (art. 1º)
+Coexistência dos princípios inquisitivo e dispositivo (art. 2º)
+Princípio da demanda
+Acesso à Justiça (art. 3º)
+Meios alternativos de composição de litígios: arbitragem (art. 3º, § 1º)
+Meios alternativos de composição de conflitos: solução consensual (art. 3º,
+§§ 2º e 3º)
+Duração razoável do processo e celeridade de sua tramitação (art. 4º)
+
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64
+[/PAGINA 2]
+
+[PAGINA 3]
+.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+Boa-fé (art. 5º)
+Princípio da cooperação (art. 6º)
+Princípio do processo justo e efetivo
+Contraditório efetivo (arts. 7º, 9º e 10)
+Princípio da legalidade (art. 8º)
+Boa-fé e dignidade da pessoa humana (arts. 5º e 8º)
+Princípios informativos da Administração Pública: princípio da eficiência
+(art. 8º)
+Publicidade e fundamentação das decisões judiciais (art. 11)
+Princípio da isonomia e repulsa ao tratamento privilegiado (art. 12)
+ 
+§ 6º Aplicação das Normas Processuais
+Legislação de regência da jurisdição civil (art. 13)
+Legislação estadual concorrente
+Aplicação imediata da lei processual (art. 14)
+Função subsidiária do Código de Processo Civil (art. 15)
+Capítulo III – Da Função Jurisdicional
+§ 7º Jurisdição, Processo e Ação
+Imperatividade da ordem jurídica
+Justiça privada e justiça pública
+As instituições básicas do sistema processual civil (jurisdição, processo e
+ação)
+ 
+§ 8º Jurisdição
+Jurisdição
+Jurisdição, função e efetividade
+Características da jurisdição
+Imparcialidade e disponibilidade
+Objetivo da jurisdição
+Efetividade da tutela jurisdicional
+Princípios fundamentais
+Jurisdição civil
+Jurisdição contenciosa e jurisdição voluntária
+Substitutivos da jurisdição
+A evolução da jurisdição individual para a jurisdição coletiva
+Panorama global do aprimoramento da jurisdição, na evolução do Estado
+
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+de Direito
+ 
+§ 9º Processo
+Conceito
+A importância da definição e estabilização do objeto do processo
+Processo e procedimento
+Características do procedimento
+Autonomia do processo
+Espécies de processo
+Funções do processo
+Independência dos processos
+Tutela ordinária e tutelas diferenciadas
+Tutela ordinária e tutela de urgência
+Tutela sancionatória e tutela inibitória
+Pressupostos processuais
+Os pressupostos processuais e a nulidade do processo
+ 
+§ 10. Ação
+O monopólio estatal da justiça
+A ação: direito subjetivo à prestação jurisdicional
+Autonomia do direito de ação
+A evolução do conceito de ação
+Prestação jurisdicional e tutela jurisdicional
+A constitucionalização do direito de ação. Restauração do conceito de ação
+de direito material
+Condições da ação
+Enumeração e conceituação das condições da ação
+Condições da ação estatuídas pelo Código de Processo Civil
+Limites temporais da apreciação das condições de ação
+Inter-relacionamento entre pressupostos processuais, condições da ação e
+mérito da causa
+Classificação das ações
+Ação e pretensão
+Ação e pretensão nos planos material e processual
+Ação e causa
+Elementos identificadores da causa
+Cumulação de ações
+
+106.
+107.
+108.
+109.
+110.
+111.
+112.
+113.
+114.
+115.
+116.
+117.
+118.
+119.
+120.
+121.
+122.
+123.
+124.
+125.
+126.
+127.
+A defesa do réu
+Espécies de resposta
+Capítulo IV – Elementos e Efeitos do Processo
+§ 11. Elementos do Processo
+Visão dinâmica e estática do processo
+A relação processual
+Classificação dos elementos do processo
+ 
+§ 12. Efeitos da Rel
+[/PAGINA 3]
+
+[PAGINA 4]
+ação Processual
+Noções gerais
+Direitos processuais
+Obrigações processuais
+Deveres processuais
+Ônus processuais
+Parte II – Competência
+Capítulo V – Limites da Jurisdição Nacional
+§ 13. Noções Gerais
+Conceito
+Distribuição da competência
+Classificação da competência
+ 
+§ 14. Competência Internacional
+Noções gerais
+Espécies de competência internacional
+Competência concorrente e litispendência
+ 
+§ 15. Cooperação Internacional
+Noções gerais
+Modalidades de cooperação
+Do auxílio direto
+Da carta rogatória
+Das disposições comuns ao auxílio direto e à carta rogatória
+ 
+§ 16. Competência Interna
+Noções gerais
+
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
+137.
+138.
+139.
+140.
+141.
+142.
+143.
+144.
+145.
+146.
+147.
+148.
+149.
+150.
+151.
+152.
+153.
+154.
+155.
+156.
+Competência em matéria civil
+Competência da Justiça Federal
+Competência das Justiças Estaduais
+ 
+§ 17. Critérios de Determinação da Competência Interna
+Generalidades
+Competência do foro e competência do juiz
+Divisão da competência do foro
+Cumulatividade de juízos competentes
+Competência por distribuição
+Perpetuatio iurisdictionis
+ 
+§ 18. Competência em razão do valor da causa e em razão da matéria
+Competência em razão do valor da causa
+Competência em razão da matéria
+ 
+§ 19. Competência Funcional
+Conceito
+Classificação
+Casos de competência funcional por graus de jurisdição
+Casos de competência funcional pelo objeto do juízo
+ 
+§ 20. Competência Territorial
+Conceito
+Foro comum
+Foros subsidiários ou supletivos
+Foros especiais
+Ações reais imobiliárias
+Foro da sucessão hereditária e da ausência
+Foro da União, dos Estados e do Distrito Federal
+Foros ratione personae
+Foro das pessoas jurídicas
+Foro dos Estados e Municípios
+Foros ratione loci em matéria de obrigações
+Foro relativo à arbitragem
+Foro do idoso
+Foro central e foros distritais ou regionais
+
+157.
+158.
+159.
+160.
+161.
+162.
+163.
+164.
+165.
+166.
+167.
+168.
+169.
+170.
+171.
+172.
+173.
+174.
+175.
+176.
+177.
+178.
+179.
+180.
+181.
+182.
+ 
+§ 21. Modificações da Competência
+Competência absoluta e competência relativa
+Prorrogação de competência
+Prorrogação legal. Conexão e continência
+Modalidades de conexão
+Continência
+Intensidade da conexão
+Efeito prático da conexão
+Efeito prático da continência
+Prevenção
+A prevenção em caso de continência de ações
+A conexidade e a competência absoluta
+Oportunidade da reunião das ações conexas
+Outros casos de prorrogação legal
+Conexão entre ação penal e ação civil
+Prorrogação voluntária
+Derrogação de foros especiais instituídos por leis de ordem pública
+Prorrogação de competência em caso de foro de eleição ajustado em
+contrato de adesão
+Prorrogação de competência no âmbito da Justiça Federal
+ 
+§ 22. Declaração de Incompetência
+Verificação de competência
+Alegação de incompetência
+Foro de eleição e declinação de competência
+ 
+§ 23. Conflito de Competência
+Noções gerais
+Conflito de competência e arguição incidental de incompetência
+Procedimento do conflito
+Efeitos do conflito
+ 
+§ 24. Cooperação Nacional
+Noções gerais
+Parte III – Sujeitos do Proces
+[/PAGINA 4]
+
+[PAGINA 5]
+so
+
+183.
+184.
+185.
+186.
+187.
+188.
+189.
+190.
+191.
+192.
+193.
+194.
+195.
+196.
+197.
+198.
+199.
+200.
+201.
+202.
+203.
+204.
+205.
+206.
+207.
+208.
+209.
+210.
+211.
+212.
+213.
+Capítulo VI – Partes e Procuradores
+§ 25. Partes
+Partes
+Nomenclatura
+Substituição processual
+Sucessão de parte e alienação do bem litigioso
+Capacidade processual
+Massas patrimoniais personalizadas
+Capacidade processual das pessoas casadas
+Curatela especial
+Representação das pessoas jurídicas e das pessoas formais
+Incapacidade processual e irregularidade de representação
+ 
+§ 26. Deveres e Direitos das Partes e Procuradores
+Deveres
+Ato atentatório à dignidade da justiça
+Responsabilidade das partes por dano processual
+Direitos
+Direito especial dos litigantes idosos e portadores de doenças graves
+ 
+§ 27. Despesas e Multas
+Ônus financeiro do processo
+Antecipação das despesas
+Autor residente fora do Brasil (cautio pro expensis)
+A sucumbência e as obrigações financeiras do processo
+Ressalvas aos efeitos da sucumbência
+Extinção do processo por perda do objeto
+Sucumbência recíproca
+Realização da obrigação de pagar as despesas processuais
+Multas
+Honorários de advogado
+Honorários sucumbenciais e direito autônomo do advogado
+Inclusão dos honorários advocatícios no ressarcimento de perdas e danos
+Honorários do curador especial
+Cabimento da verba sucumbencial de honorários
+Inoperância da sucumbência
+Fixação dos honorários
+
+214.
+215.
+216.
+217.
+218.
+219.
+220.
+221.
+222.
+223.
+224.
+225.
+226.
+227.
+228.
+229.
+230.
+231.
+232.
+233.
+234.
+235.
+236.
+237.
+238.
+239.
+240.
+241.
+242.
+Critérios de fixação de honorários nas ações de que participe a Fazenda
+Pública
+Alguns casos especiais de fixação de honorários
+Execução dos honorários de sucumbência
+Exigência dos honorários sucumbenciais e encargos moratórios
+Assistência judiciária (gratuidade da justiça)
+Assistência judiciária e atos notariais ou registrais
+Procedimento para obtenção da assistência judiciária
+Regime especial de intimação da Defensoria Pública
+Revogação do benefício
+ 
+§ 28. Advogados
+Capacidade de postulação
+O mandato judicial
+Revogação e renúncia do mandato
+Direitos e deveres
+ 
+§ 29. Sucessão das Partes e dos Procuradores
+Sucessão de parte
+Sucessão do advogado
+Capítulo VII – Pluralidade de Partes
+§ 30. Litisconsórcio
+Pluralidade de partes
+Classificações
+Espécies de litisconsórcio
+Sistema do Código
+Casos legais de litisconsórcio
+Litisconsórcio necessário e litisconsórcio unitário
+Precisão do sistema litisconsorcial instituído pelo novo Código
+Litisconsórcio necessário ativo e passivo
+Mobilidade da posição processual do litisconsorte necessário
+Litisconsórcio necessário não observado na propositura da ação
+Citação do litisconsorte necessário ordenada pelo juiz
+Litisconsórcio facultativo unitário
+Litisconsórcio facultativo recusável
+Posição de cada litisconsorte no processo
+
+243.
+244.
+245.
+246.
+247.
+248.
+249.
+250.
+251.
+252.
+253.
+254.
+255.
+256.
+257.
+258.
+259.
+260.
+261.
+262.
+263.
+264.
+265.
+266.
+267.
+268.
+269.
+270.
+271.
+Autonomia dos litisconsortes para os atos p
+[/PAGINA 5]
+
+[PAGINA 6]
+rocessuais
+ 
+§ 31. Intervenção de Terceiros
+Conceito
+Classificações
+ 
+§ 32. Assistência
+Conceito
+Pressupostos da intervenção
+Assistência simples e assistência litisconsorcial
+Cabimento e oportunidade da intervenção assistencial
+Procedimento
+Poderes e ônus processuais do assistente simples e litisconsorcial
+Encargos do assistente e limites de sua atuação
+Recursos
+A assistência e a coisa julgada
+Assistência provocada
+Assistência atípica ou negociada
+Assistência de legitimado coletivo em ação de natureza individual
+O recurso de terceiro prejudicado
+ 
+§ 33. Denunciação da Lide
+Conceito
+Denunciação da lide em outros sistemas jurídicos
+Responsabilidade civil do Estado e direito regressivo contra o funcionário
+causador do dano
+Obrigatoriedade da denunciação da lide
+Casos de não cabimento da denunciação da lide
+Objetivo do incidente
+Legitimação
+Procedimento
+Efeitos da denunciação da lide
+Cumprimento da sentença que acolhe a denunciação
+Recursos
+Execução da sentença
+Denunciações sucessivas
+ 
+
+272.
+273.
+274.
+275.
+276.
+277.
+278.
+279.
+280.
+281.
+282.
+283.
+284.
+285.
+286.
+287.
+288.
+289.
+290.
+291.
+292.
+293.
+294.
+295.
+296.
+297.
+298.
+§ 34. Chamamento ao Processo
+Conceito
+Casos de admissibilidade do incidente
+Procedimento
+Chamamento ao processo nas ações do consumidor
+O chamamento ao processo em caso de seguro de responsabilidade civil
+ 
+§ 35. Incidente de Desconsideração da Personalidade Jurídica
+A desconsideração da personalidade jurídica
+A desconsideração inversa da personalidade jurídica
+Procedimento do incidente de desconsideração da personalidade jurídica
+Efeitos da desconsideração da personalidade jurídica
+Prevenção contra a fraude
+ 
+§ 36. Amicus Curiae
+Conceito
+Natureza jurídica
+Procedimento da intervenção
+Poderes do amicus curiae
+Deslocamento de competência
+Custas e honorários processuais
+Capítulo VIII – Do Juiz e dos Auxiliares da Justiça
+§ 37. Organização Judiciária
+O Poder Judiciário brasileiro
+Duplo grau de jurisdição
+Jurisdição extraordinária
+Competência
+Disciplina da magistratura
+ 
+§ 38. Órgãos Judiciários
+Juízes
+Requisitos de atuação do juiz
+Garantias da magistratura
+Poderes e deveres procedimentais do juiz
+Outros poderes e deveres do juiz, no plano decisório
+Atividade criativa do juiz
+
+299.
+300.
+301.
+302.
+303.
+304.
+305.
+306.
+307.
+308.
+309.
+310.
+311.
+312.
+313.
+314.
+315.
+316.
+317.
+318.
+319.
+320.
+321.
+322.
+323.
+324.
+325.
+Uma advertência sobre o garantismo processual e o ativismo judicial
+Responsabilidade do juiz
+Garantia de imparcialidade do juiz
+Casuísmo legal
+Juiz-testemunha
+Exclusão do juiz suspeito ou impedido
+Procedimento da alegação de impedimento e de suspeição
+Impedimento ou suspeição de outros sujeitos processuais
+ 
+§ 39. Auxiliares da Justiça
+O juízo
+Escrivão ou chefe de secretaria
+Oficial de justiça
+Perito
+Depositário e administrador
+Intérprete e tradutor
+Dos conciliadores e mediadores judiciais
+Outros auxiliares eventuais
+Capítulo IX – Sujeitos Especiais do Processo
+§ 40. O Ministério Público
+Conceito
+Funções
+Natureza
+Ministério Público co
+[/PAGINA 6]
+
+[PAGINA 7]
+mo parte
+Ministério Público como custos legis
+Ausência do Ministério Público no processo
+Órgãos do Ministério Público
+Princípios e garantias
+Responsabilidade civil dos membros do Ministério Público
+ 
+§ 41. Da Advocacia Pública
+Conceito, funções e prerrogativas
+Responsabilidade civil dos membros da Advocacia Pública dos entes
+federados
+ 
+§ 42. Da Defensoria Pública
+
+326.
+327.
+328.
+329.
+330.
+331.
+332.
+333.
+334.
+335.
+336.
+337.
+338.
+339.
+340.
+341.
+342.
+343.
+344.
+345.
+346.
+347.
+348.
+349.
+350.
+351.
+352.
+353.
+Conceito, funções e prerrogativas
+Responsabilidade civil dos membros da Defensoria Pública
+Parte IV – Atos Processuais
+Capítulo X – Fatos Jurídicos Processuais
+§ 43. Atos Processuais
+Conceito
+Características e natureza dos atos processuais
+Agentes
+Atos do processo e atos do procedimento
+Classificação dos atos processuais
+Forma dos atos processuais
+Publicidade
+Meios de expressão
+Os negócios jurídicos processuais
+Calendário para a prática de atos processuais
+O uso de sistema de transmissão de dados. Fac-símile ou outro similar
+O grande programa de implantação do processo eletrônico no Brasil
+A prática eletrônica de atos processuais no novo Código de Processo Civil
+O processo eletrônico nos Tribunais Superiores
+ 
+§ 44. Atos da Parte
+Conceito e classificação
+Eficácia dos atos das partes
+Petições e autos suplementares
+Cotas marginais e interlineares nos autos
+ 
+§ 45. Atos do Juiz
+Atividade processual do juiz
+Atos decisórios
+Definições legais
+Decisão interlocutória
+Despachos
+Sentença
+Atos não decisórios
+Forma dos atos decisórios
+ 
+
+354.
+355.
+356.
+357.
+358.
+359.
+360.
+361.
+362.
+363.
+364.
+365.
+366.
+367.
+368.
+369.
+370.
+371.
+372.
+373.
+374.
+375.
+376.
+377.
+378.
+379.
+380.
+§ 46. Atos do Escrivão ou do Chefe de Secretaria
+Documentação e comunicação dos atos processuais
+Autuação
+Termos processuais
+Forma dos termos
+Capítulo XI – O Ato Processual no Tempo e no Espaço
+§ 47. O Tempo e o Lugar dos Atos Processuais
+O tempo
+Feriados e férias forenses
+Processos que correm nas férias
+Férias e recesso forense
+O lugar
+ 
+§ 48. Prazos
+Disposições gerais
+Classificação
+Natureza dos prazos
+Interpretação e aplicação das regras sobre prazo
+O curso dos prazos
+Contagem dos prazos: termo inicial
+Contagem dos prazos no processo eletrônico
+Prazos para recurso
+Ciência inequívoca
+Termo final
+Preclusão
+Prazos para as partes
+Prazos para o juiz e seus auxiliares
+Prazos para o Ministério Público, Fazenda Pública e Defensoria Pública
+Verificação dos prazos e penalidades: prazos dos serventuários
+Inobservância de prazo da parte
+Inobservância dos prazos do juiz
+Capítulo XII – O Intercâmbio Processual
+§ 49. Atos de Comunicação Processual e Atos Fora da Circunscrição Territorial
+do Juízo
+Intercâmbio processual
+
+381.
+382.
+383.
+384.
+385.
+386.
+387.
+388.
+389.
+390.
+391.
+392.
+393.
+394.
+395.
+396.
+397.
+398.
+399.
+400.
+401.
+402.
+403.
+404.
+405.
+406.
+407.
+408.
+409.
+410.
+411.
+412.
+Forma dos atos de comunicação
+A comunicação eletrônica
+Atos processuais fora dos limites territoriais do juízo: cartas de ordem,
+pre
+[/PAGINA 7]
+
+[PAGINA 8]
+catórias e rogatórias
+Requisitos das cartas
+Cumprimento das cartas
+Cartas urgentes
+Custas nas cartas
+Cartas rogatórias
+ 
+§ 50. Citação
+Conceito
+Suprimento da citação
+Destinatário da citação inicial
+Local da citação
+Impedimento legal de realização da citação
+Modos de realizar a citação
+Citação por oficial de justiça
+Citação com hora certa
+Citação pelo correio
+Citação por edital
+Citação por meio eletrônico
+Responsabilidade do promovente da citação-edital
+Efeitos da citação
+Litispendência
+Litigiosidade
+Mora
+Prescrição
+Antecipação do efeito interruptivo da prescrição
+A força de interpelação reconhecida à citação
+ 
+§ 51. Intimações
+Conceito
+Forma
+Intimação pelo escrivão ou oficial de justiça
+Aperfeiçoamento da intimação
+Intimação em audiência
+
+413.
+414.
+415.
+416.
+417.
+418.
+419.
+420.
+421.
+422.
+423.
+424.
+425.
+426.
+427.
+428.
+429.
+430.
+431.
+432.
+433.
+434.
+435.
+436.
+437.
+438.
+Intimação por edital ou com hora certa
+Efeitos da intimação
+Capítulo XIII
+§ 52. Nulidade
+Conceito
+Espécies de vícios do ato processual
+Atos inexistentes
+Noção de nulidade
+Atos absolutamente nulos
+Atos relativamente nulos
+Nulidade do processo e nulidade do ato processual
+Sistema de nulidades do Código
+Nulidades cominadas pelo Código
+Nulidades da citação e intimação
+Arguição das nulidades
+Momento da arguição
+Decretação de nulidade
+Efeitos da decretação
+Capítulo XIV – Outros Atos Processuais
+§ 53. Registro, Distribuição e Valor da Causa
+Noções introdutórias
+Registro
+Distribuição
+Distribuição por dependência
+Distribuição por dependência como medida de coibição à má-fé processual
+Valor da causa
+Impugnação ao valor da causa
+Parte V – TUTELA PROVISÓRIA
+Capítulo XV – Tutela de urgência e tutela da evidência
+§ 54. Noções Gerais
+Introdução
+Tutelas de urgência e da evidência
+Tentativa doutrinária de fixar uma unidade ontológica entre todas as tutelas
+sumárias provisórias
+
+439.
+440.
+441.
+442.
+443.
+444.
+445.
+446.
+447.
+448.
+449.
+450.
+451.
+452.
+453.
+454.
+455.
+456.
+457.
+458.
+459.
+460.
+461.
+462.
+463.
+464.
+465.
+466.
+467.
+468.
+469.
+A abolição da ação cautelar
+A visão unitária da tutela de urgência
+Da fungibilidade à unificação das tutelas de urgência
+Traços comuns entre a tutela de urgência e a tutela da evidência
+Regras comuns a todas as tutelas provisórias
+Capítulo XVI – Tutelas de Urgência (I)
+§ 55. Classificação, Características, Requisitos, Iniciativa, Forma e Conteúdo
+Classificação das tutelas provisórias cautelares
+Requisitos da tutela provisória de urgência
+O fumus boni iuris
+O periculum in mora
+Reversibilidade
+Perigo de dano reverso
+Fungibilidade das tutelas de urgência
+Necessidade de fundamentação adequada
+Medida liminar inaudita altera parte
+Limitações especiais às liminares contra atos do Poder Público
+Comprovação dos requisitos da medida liminar
+Distinção entre liminar e medida de urgência
+Liminar nem sempre corresponde à cautelaridade
+Contracautela
+Oportunidade da tutela de urgência
+Iniciativa da tutela de urgência e da evidência
+Medidas cautelares nominadas e medidas cautelares inominadas
+[/PAGINA 8]
+
+[PAGINA 9]
+Poder discricionário na tutela de urgência genérica
+Forma e conteúdo das tutelas de urgência
+A discricionariedade do poder geral de prevenção e a escolha da medida
+Aplicação prática de medidas inominadas
+Limites do poder geral de cautela
+Capítulo XVII – Tutelas de Urgência (II)
+§ 56. Competência e Procedimentos da Tutela de Urgência
+Competência
+Os procedimentos das tutelas de urgência
+Tutela de urgência incidental
+Tutela de urgência antecedente
+
+470.
+471.
+472.
+473.
+474.
+475.
+476.
+477.
+478.
+479.
+480.
+481.
+482.
+483.
+484.
+485.
+486.
+487.
+488.
+489.
+490.
+491.
+492.
+ 
+§ 57. Competência e Procedimentos da Tutela de Urgência Conservativa
+Antecedente
+Petição inicial
+Lide e seu fundamento
+Exposição sumária do direito que se visa assegurar
+Perigo na demora de prestação da tutela jurisdicional
+Outros requisitos da petição inicial
+Despacho da petição inicial e a citação do réu
+A defesa do réu
+Prazo para o autor deduzir o pedido principal
+Inobservância do prazo de dedução do pedido principal
+Indeferimento da medida: dedução do pedido principal e possibilidade de
+formação de coisa julgada
+Procedimento de dedução do pedido principal
+Impossibilidade de renovar a medida conservativa que perdeu a eficácia
+ 
+§ 58. Procedimento da Tutela de Urgência Satisfativa Antecedente
+Reafirmação da distinção entre tutela satisfativa e tutela conservativa
+Legitimação
+Processos que comportam a antecipação de tutela satisfativa
+Antecipação de tutela satisfativa e as diversas modalidades de sentença de
+mérito
+Tutela de urgência satisfativa: procedimento especial dos arts. 303 e 304 do
+NCPC
+Detalhamento do procedimento destinado a obter possível estabilização da
+medida satisfativa
+Defesa do sujeito passivo da medida de urgência da medida de urgência
+satisfativa antecedente
+Pedido de reconsideração
+Esquema do procedimento da tutela urgente satisfativa antecedente, no rito
+adequado à estabilização da medida provisória
+Esquema do procedimento da tutela urgente satisfativa antecedente sem a
+perspectiva de estabilização da medida liminar
+ 
+§ 59. Estabilização da Tutela de Urgência Satisfativa Antecedente
+O sistema de estabilização adotado pelo Código de 2015
+
+493.
+494.
+495.
+496.
+497.
+498.
+499.
+500.
+501.
+502.
+503.
+504.
+505.
+506.
+507.
+508.
+509.
+510.
+511.
+512.
+513.
+Propositura da ação principal depois de ocorrida a estabilização da tutela
+provisória satisfativa
+Prazo para ajuizamento da ação de cognição plena
+ 
+§ 60. Normas Comuns às Tutelas Urgentes
+Extinção das tutelas de urgência antecedentes
+Responsabilidade civil pela tutela de urgência
+Capítulo XVIII – Tutela Da Evidência
+§ 61. Regime Particular da Tutela da Evidência
+Tutela da evidência
+Oportunidade e conteúdo da tutela da evidência
+Legitimação
+O casuísmo legal da tutela da evidência
+Capítulo XIX – Força das Medidas Provisórias
+§ 62. Decisão e Cumprimento das Medidas Provisórias
+Julgamento da pretensão à tutela provisória
+Cumprimento das medidas de urgência
+Mandamentalidade das medidas de tutela sumária
+Execução das medidas urgentes s
+[/PAGINA 9]
+
+[PAGINA 10]
+atisfativas
+Execução das medidas definidas com base na tutela da evidência
+Provisoriedade do cumprimento de todas as decisões deferidoras das tutelas
+sumárias
+Capítulo XX – Medidas Cautelares Nominadas
+§ 63. Regime do Novo CPC
+Introdução
+Arresto
+Sequestro
+Arresto e sequestro
+Arrolamento de bens
+Registro de protesto contra alienação de bens
+Outras medidas cautelares tradicionais
+Parte VI – Instauração, Crise e Fim do Processo
+Capítulo XXI – Formação, Suspensão e Extinção do Processo
+
+514.
+515.
+516.
+517.
+518.
+519.
+520.
+521.
+522.
+523.
+524.
+525.
+526.
+527.
+528.
+529.
+530.
+531.
+532.
+533.
+534.
+535.
+536.
+§ 64. Introdução
+Noções gerais
+ 
+§ 65. Formação do Processo
+O processo
+Sujeitos da relação jurídico-processual
+Início do processo
+Formação gradual da relação processual
+Estabilização do processo
+Alteração do pedido
+Alterações subjetivas
+ 
+§ 66. Suspensão do Processo
+Conceito
+Os casos de suspensão do processo
+Suspensão por morte ou perda de capacidade processual
+Suspensão por convenção das partes
+Suspensão em razão de arguição de impedimento ou suspeição do juiz
+Suspensão por prejudicialidade
+Prejudicialidade e conexão
+Suspensão pela admissão de incidente de resolução de demandas repetitivas
+Suspensão pela discussão em juízo de questão decorrente de acidentes e
+fatos da navegação da competência do tribunal marítimo
+Suspensão por motivo de força maior
+Outros casos legais de suspensão
+Férias e suspensão do processo
+Suspensão por necessidade de verificação de fato delituoso na justiça
+criminal
+ 
+§ 67. Extinção do Processo
+Encerramento da relação processual
+Sentenças definitivas e terminativas
+PARTE ESPECIAL – Processo de Conhecimento
+Parte VII – Processo e Procedimento
+Capítulo XXII – Procedimento Comum e Procedimentos Especiais
+
+537.
+538.
+539.
+540.
+541.
+542.
+543.
+544.
+545.
+546.
+547.
+548.
+549.
+550.
+551.
+552.
+553.
+554.
+555.
+556.
+557.
+558.
+559.
+560.
+561.
+562.
+563.
+564.
+565.
+566.
+§ 68. Processo e Procedimentos de Cognição
+Processo
+Procedimento
+Procedimentos no processo de cognição
+Procedimentos especiais: jurisdição contenciosa e jurisdição voluntária
+Esquema do procedimento comum
+Fases do procedimento comum
+Fase postulatória
+Fase saneadora
+Fase instrutória
+Fase decisória
+Adequação do procedimento
+ 
+§ 69. Procedimento Sumário
+Introdução
+Causas de rito sumário
+Elenco das causas sujeitas ao procedimento sumário
+Outras causas de procedimento sumário
+Indisponibilidade do rito sumário
+O procedimento
+A petição inicial e seu despacho
+A citação e a resposta do réu
+Audiência de conciliação
+Audiência de instrução e julgamento
+Revelia
+Declaratória incidental, intervenção de terceiros, litisconsórcio e assistência
+Parte VIII – Procedimento Comum
+Capítulo XXIII – Fase de Postulação
+§ 70. Petição Inicial
+Fases do procedimento comum
+Petição inicial
+Requisitos da petição inicial
+Despacho da petição inicial
+Casos de indeferimento da petição inicial
+Extensão do indeferimento
+Improcedência liminar do pedido
+
+567.
+568.
+569.
+570.
+571.
+572.
+573.
+574.
+575.
+576.
+577.
+578.
+579.
+580.
+581
+[/PAGINA 10]
+
+[PAGINA 11]
+.
+582.
+583.
+584.
+585.
+586.
+587.
+588.
+589.
+590.
+591.
+592.
+593.
+594.
+595.
+596.
+Intimação da sentença prima facie
+Recurso contra o julgamento prima facie
+Preservação do contraditório e ampla defesa
+Efeitos do despacho da petição inicial
+ 
+§ 71. O Pedido
+Petição inicial
+Pedido
+Requisitos do pedido
+Pedido em ação relacionada com contratos de empréstimos, financiamento
+ou alienação de bens
+Pedido concludente
+Pedido genérico
+Pedido cominatório
+Pedido alternativo
+Pedidos subsidiários
+Pedido de prestações periódicas
+Pedido de prestação indivisível
+Pedidos cumulados
+Espécies de cumulação de pedidos
+Interpretação do pedido
+Pedidos implícitos
+Aditamento e modificação do pedido
+ 
+§ 72. A audiência de conciliação ou de mediação
+Introdução
+Audiência preliminar de conciliação ou de mediação
+Prazo para a contestação
+ 
+§ 73. A Resposta do Réu
+A defesa do réu
+A resposta do réu
+Espécies de defesa
+Defesa processual
+Defesa de mérito
+Reconvenção
+Síntese
+
+597.
+598.
+599.
+600.
+601.
+602.
+603.
+604.
+605.
+606.
+607.
+608.
+609.
+610.
+611.
+612.
+613.
+614.
+615.
+616.
+617.
+618.
+619.
+620.
+621.
+622.
+ 
+§ 74. Contestação
+Conceito
+Conteúdo e forma da contestação
+Ônus da defesa especificada
+Preliminares da contestação
+Conhecimento ex officio das preliminares
+Alegação de ilegitimidade ad causam
+Alegação de incompetência do juízo
+Alegação de abusividade da cláusula de eleição de foro
+Réplica ou impugnação do autor
+ 
+§ 75. Reconvenção
+Conceito
+Contestação reconvencional: uma inovação do novo Código de Processo
+Civil
+Pressupostos da reconvenção
+Reconvenção e compensação
+Procedimento
+Reconvenção sem contestação
+Extinção do processo principal
+ 
+§ 76. Revelia e Reconhecimento do Pedido
+Revelia
+Os efeitos da revelia
+Alteração do pedido
+Reconhecimento da procedência do pedido
+Capítulo XXIV – Fase de Saneamento
+§ 77. Providências Preliminares
+Conceito
+Réplica do autor
+Revelia e provas
+Intervenção do Ministério Público
+Ação declaratória incidental
+Outras providências preliminares
+ 
+
+623.
+624.
+625.
+626.
+627.
+628.
+629.
+630.
+631.
+632.
+633.
+634.
+635.
+636.
+637.
+638.
+639.
+640.
+641.
+642.
+643.
+644.
+645.
+646.
+647.
+648.
+649.
+650.
+§ 78. Julgamento Conforme O Estado do Processo
+Conceito
+Extinção do processo
+Julgamento antecipado do mérito
+Julgamento antecipado parcial do mérito
+Liquidação e execução da decisão antecipada parcial
+Procedimento e recurso do julgamento parcial antecipado
+ 
+§ 79. Saneamento e Organização do Processo
+Decisão de saneamento
+Cabimento
+Conteúdo
+Direito de esclarecimentos sobre a decisão de saneamento
+Formas da decisão de saneamento
+Capítulo XXV
+§ 80. Audiência de Instrução e Julgamento
+Audiência
+Características da audiência
+Atos preparatórios
+Adiamento da audiência
+Antecipação de audiência
+Conciliação
+Procedimento da conciliação
+Instrução e julgamento
+Documentação da audiência
+Capítulo XXVI – Fase Probatória
+§ 81. A Prova
+Conceito
+Direito fundamental à prova
+Características da prova
+Objeto da prova
+Finalidade e destinatário da prova
+Prova e verdade
+Valoração da prova
+Sistema legal da valor
+[/PAGINA 11]
+
+[PAGINA 12]
+ização da prova
+
+651.
+652.
+653.
+654.
+655.
+656.
+657.
+658.
+659.
+660.
+661.
+662.
+663.
+664.
+665.
+666.
+667.
+668.
+669.
+670.
+671.
+672.
+673.
+674.
+675.
+676.
+677.
+678.
+679.
+680.
+681.
+O sistema do Código
+Poder de instrução do juiz
+Iniciativa probatória do juiz e democracia
+Garantismo processual e ativismo judicial
+ 
+§ 82. Ônus da Prova
+Ônus da prova
+Ônus da prova: natureza
+Os dois aspectos do ônus da prova
+Sistema legal do ônus da prova
+Conflito de versões sobre o fato constitutivo do direito do autor
+Iniciativa probatória do juiz e ônus legal da prova
+Distribuição estática do ônus da prova
+Distribuição dinâmica do ônus da prova
+Justificativa da redistribuição dinâmica do ônus da prova
+O emprego da técnica da distribuição dinâmica não é discricionário
+Procedimento a observar para alterar o regime legal do ônus probatório
+Teoria do ônus dinâmico da prova e garantismo processual
+Ônus dinâmico da prova e contraditório
+A distribuição dinâmica do ônus da prova e as provas difíceis
+Ônus da prova nas ações do consumidor
+Convenção sobre ônus da prova
+ 
+§ 83. Meios de Prova
+Meios de prova
+Prova por presunção
+Presunção legal e ficção legal
+Regras de experiência comum e conhecimento privado do juiz
+Procedimento probatório
+Instrução por meio de carta
+Dever de colaboração com a Justiça
+Prova emprestada
+Boa-fé e prova
+ 
+§ 84. Da Produção Antecipada da Prova
+Noções introdutórias
+Antecipação de prova
+
+682.
+683.
+684.
+685.
+686.
+687.
+688.
+689.
+690.
+691.
+692.
+693.
+694.
+695.
+696.
+697.
+698.
+699.
+700.
+701.
+702.
+703.
+704.
+705.
+706.
+707.
+708.
+709.
+Cabimento
+Oportunidade
+Objeto da antecipação de prova
+Competência
+Procedimento
+Sentença
+Valoração da prova antecipada
+Eficácia
+Medida inaudita altera parte
+Despesas processuais
+Destino dos autos
+Capítulo XXVII – Meios Legais de Prova
+§ 85. Ata Notarial
+Conceito
+Natureza da ata notarial
+Necessidade de requerimento da parte interessada
+Falsidade da ata
+Exemplos de fatos registráveis em ata notarial
+ 
+§ 86. Depoimento Pessoal
+Conceito
+Sanção decorrente do ônus de prestar depoimento pessoal
+Legitimação para o depoimento
+Objeto do depoimento pessoal
+Procedimento
+ 
+§ 87. Confissão
+Conceito
+Requisitos da confissão
+Classificações
+Efeitos da confissão
+Indivisibilidade da confissão
+Valor da confissão extrajudicial
+ 
+§ 88. Exibição de Documento ou Coisa
+Conceito
+
+710.
+711.
+712.
+713.
+714.
+715.
+716.
+717.
+718.
+719.
+720.
+721.
+722.
+723.
+724.
+725.
+726.
+727.
+728.
+729.
+730.
+731.
+732.
+733.
+734.
+735.
+736.
+737.
+738.
+739.
+740.
+Oportunidade da medida
+Legitimação
+Procedimento e efeitos da exibição requerida contra a parte
+Procedimento e consequências da exibição requerida contra terceiro
+ 
+§ 89. Prova Documental
+Conceito
+Força probante dos documentos
+Documentos públicos
+Reprodução de documentos públicos
+Documentos particulares
+Valor probante do documento particular
+Telegramas, cartas, registros domésticos
+Livros empresariais
+Documentos arquivados em meio eletromagnético
+Reprodução de documentos particulares
+Reproduções mecânicas de coisas ou fatos
+Documentos vicia
+[/PAGINA 12]
+
+[PAGINA 13]
+dos em sua forma
+Falsidade documental
+Espécies de falsidade
+Ônus da prova
+A arguição de falsidade
+Procedimento do incidente de falsidade
+Facultatividade do incidente de falsidade
+Produção da prova documental
+Desentranhamento de documentos
+ 
+§ 90. Documentos Eletrônicos
+Noção introdutória
+Documento eletrônico
+Regime legal
+Documento eletrônico não certificado
+ 
+§ 91. Prova Testemunhal
+Conceito
+Valor probante das testemunhas
+Inadmissibilidade da prova testemunhal
+
+741.
+742.
+743.
+744.
+745.
+746.
+747.
+748.
+749.
+750.
+751.
+752.
+753.
+754.
+754.1.
+754.2.
+754.3.
+754.4.
+754.5.
+754.6.
+754.7.
+754.8.
+754.9.
+754.10.
+754.11.
+755.
+756.
+757.
+Direitos e deveres da testemunha
+A produção da prova testemunhal
+ 
+§ 92. Prova Pericial
+Conceito
+Admissibilidade da perícia
+O perito
+O procedimento da prova pericial
+Valor probante da perícia
+Nova perícia
+ 
+§ 93. Inspeção Judicial
+Conceito
+Procedimento
+Capítulo XXVIII – Fase Decisória
+§ 94. Noções Introdutórias
+Conceito de processo
+Conteúdo e finalidade do processo
+ 
+§ 95. Sentença (I)
+Definição legal e classificação doutrinária
+Sentença terminativa: extinção do processo sem julgamento do mérito
+Indeferimento da inicial
+Abandono da causa
+Ausência de pressupostos processuais
+Perempção
+Litispendência e coisa julgada
+Condições da ação
+Perda do objeto
+Convenção de arbitragem
+Desistência da ação
+Intransmissibilidade da ação
+Confusão entre autor e réu
+Efeito da extinção do processo sem julgamento do mérito
+Iniciativa da extinção do processo
+Saneamento do processo, quando o defeito for suprível
+
+758.
+759.
+759.1.
+759.2.
+759.3.
+759.4.
+759.5.
+759.6.
+759.7.
+760.
+761.
+762.
+763.
+764.
+765.
+766.
+767.
+768.
+769.
+770.
+771.
+772.
+773.
+774.
+775.
+776.
+777.
+778.
+Juízo de retratação
+ 
+§ 96 Sentença (II)
+Extinção do processo com resolução de mérito
+Acolhimento ou rejeição do pedido
+Prescrição e decadência
+A prescrição e os diversos tipos de ação
+Reconhecimento da procedência do pedido pelo réu
+Transação
+Retratação e rescisão de transação
+Renúncia à pretensão
+Natureza da sentença definitiva
+Função da sentença definitiva
+Preferência da sentença definitiva sobre a terminativa
+Função da sentença terminativa
+ 
+§ 97. Estrutura e Formalidades da Sentença
+Conteúdo da sentença
+Relatório
+Motivação
+Dispositivo da sentença
+Condições formais da sentença
+Clareza
+Precisão
+A precisão da sentença no caso de obrigação de pagar quantia certa
+Sentença condenatória ilíquida
+A precisão da sentença que tenha por objeto obrigação de fazer ou não
+fazer
+Extensão das regras de tutela às obrigações de fazer e não fazer aos deveres
+de natureza não obrigacional
+Regras especiais de tutela às obrigações de entrega de coisa
+Regra especial de tutela específica às obrigações de declaração de vontade
+(modalidade de obrigação de fazer)
+Regras especiais de tutela das obrigações de quantia certa
+ 
+§ 98. Publicação, interpretação e correção da sentença
+Publicação e intimação da sentença
+
+779.
+780.
+781.
+782.
+783.
+784.
+785.
+786.
+787.
+788.
+789.
+790.
+791.
+792.
+793.
+794.
+795.
+795.1
+795.2.
+796.
+797
+[/PAGINA 13]
+
+[PAGINA 14]
+.
+798.
+799.
+800.
+801.
+802.
+803.
+804.
+805.
+806.
+Efeitos da publicação
+Correção e integração da sentença
+Princípio da demanda e princípio da congruência
+Nulidade da sentença ultra petita, citra petita e extra petita
+Interpretação da sentença
+ 
+§ 99. Classificação das Sentenças
+Classificações
+Sentenças declaratórias
+Sentenças condenatórias
+Sentença constitutiva
+Momento de eficácia da sentença
+Multiplicidade de efeitos da sentença
+ 
+§ 100. Efeitos da Sentença
+Conceito
+Entrega da prestação jurisdicional
+Classificação das sentenças quanto aos efeitos
+Hipoteca judiciária
+Outros efeitos secundários da sentença
+Duplo grau de jurisdição (remessa ex officio ou reexame necessário)
+Julgamento da remessa necessária
+Exclusões da remessa necessária
+ 
+§ 101. Coisa Julgada
+A conceituação de coisa julgada no novo Código
+Sentença, efeitos e coisa julgada
+Coisa julgada administrativa
+Coisa julgada total e parcial
+Coisa julgada formal e material
+Terminologia do julgamento de mérito
+Fundamento da autoridade da coisa julgada
+Arguição da coisa julgada
+Dimensões possíveis da exceção de coisa julgada
+Efeitos positivos e negativos da coisa julgada
+Preclusão
+ 
+
+807.
+808.
+808.1.
+808.2.
+808.3.
+808.4.
+808.5.
+808.6.
+808.7.
+808.8.
+809.
+810.
+811.
+812.
+813.
+814.
+815.
+816.
+817.
+818.
+819.
+820.
+821.
+822.
+823.
+824.
+825.
+826.
+827.
+828.
+829.
+830.
+§ 102. Limites da Coisa Julgada
+Limites objetivos
+Motivos da sentença
+Motivo e ratio decidendi
+Revisão do mito de que só o dispositivo da sentença passa em
+julgado
+Tendência do direito comparado e a posição do novo CPC
+Processo civil espanhol
+Processo civil da Federação Russa
+Processo civil português
+Processo civil italiano
+Síntese
+Verdade dos fatos
+Questões prejudiciais
+Questões implicitamente resolvidas
+A eficácia preclusiva da coisa julgada
+Limites subjetivos
+Expansão dos limites subjetivos para além das partes do processo
+Limites subjetivos da coisa julgada e obrigações solidárias
+Coisa julgada nas ações coletivas
+Relações jurídicas de trato continuado e outros casos de rejulgamentos
+Limites temporais da coisa julgada
+Extensão da coisa julgada ao terceiro adquirente do bem litigioso
+Execução forçada e coisa julgada
+Capítulo XXIX – Título Judicial Ilíquido
+§ 103. Liquidação da Sentença Condenatória Genérica
+Sentença ilíquida
+Execução da sentença ilíquida
+Liquidação de sentença declaratória e de outros títulos judiciais
+Casos de iliquidez da sentença
+Natureza jurídica da liquidação da sentença
+A liquidação e os honorários advocatícios
+Limites da liquidação
+Contraditório
+Liquidez parcial da sentença
+Liquidação por iniciativa do vencido
+
+831.
+832.
+833.
+834.
+835.
+836.
+837.
+838.
+839.
+840.
+841.
+842.
+843.
+Recursos
+Liquidação frustrada
+ 
+§ 104. Procedimentos da Liquidação
+Procedimentos possíveis
+Liquidação por cálculo
+Cálculo com base em dados ainda não juntados aos autos
+Memória de cálculo a cargo da parte beneficiária da assistência judiciária
+Liquidação por arbitramento
+Liquidação pelo procedimento comum
+A indisponibilidade do rito da liquidação
+R
+[/PAGINA 14]
+
+[PAGINA 15]
+escisão da decisão liquidatória
+Capítulo XXX – Cumprimento da Sentença
+§ 105. Disposições gerais
+Introdução
+Custas e encargos do cumprimento de sentença
+Regras gerais disciplinadoras do cumprimento das sentenças
+ 
+Bibliografia
+Índice Onomástico
+Índice Alfabético de Assuntos
+Índice dos Fluxogramas
+
+1.
+(a)
+(b)
+(c)
+(d)
+2.
+(a)
+(b)
+1.
+(a)
+(b)
+2.
+3.
+Apresentação da 56ª Edição
+O Curso,  para  esta  nova  edição,  foi  completamente  reescrito,  a  fim  de
+amoldar-se ao regime do Código de Processo Civil de 2015 (Lei nº 13.105, de 16
+de março de 2015), que entrará em vigência dentro de um ano de sua publicação
+(Diário Oficial de 17.03.2015).
+A distribuição dos temas procurou, quanto possível, respeitar a adotada pelo
+novo diploma processual brasileiro. O plano da obra é o seguinte:
+Volume I
+Teoria geral do processo civil:
+Parte geral do CPC;
+Síntese da história do direito processual de origem românica;
+Evolução do processo civil brasileiro;
+Fontes, princípios e categorias básicas do direito processual civil.
+Processo de conhecimento e procedimento comum.
+ 
+Volume II
+Procedimentos Especiais:
+Codificados (de jurisdição contenciosa e de jurisdição voluntária);
+De legislação extravagante.
+ 
+Volume III
+Execução forçada:
+Cumprimento da sentença;
+Execução dos títulos extrajudiciais.
+Processos nos tribunais.
+Recursos.
+
+4.Direito intertemporal.
+ 
+Ao longo do texto, e à medida que se citaram, pela primeira vez, os artigos
+do Código de 2015, foram feitas, em rodapé, notas de correspondência com os
+dispositivos do Código anterior.
+O Código de Processo Civil de 1973 foi identificado, na maioria das vezes,
+pela sigla CPC/1973; e o atual, pela abreviatura NCPC, ou pelo título resumido de
+Novo  Código.  Os  artigos  citados  sem  explicitação  de  fonte  referem-se,  quase
+sempre, ao Novo Código de Processo Civil, podendo, algumas vezes, referirem-
+se a outra lei antes mencionada no próprio parágrafo do texto em que a remissão
+se deu.
+Em  linhas  gerais,  o  novo  Curso  se  empenha  em  ressaltar  a
+constitucionalização  do  processo,  levada  a  cabo  pelo  moderno  Estado
+Democrático de Direito, no qual a meta perseguida é, antes de tudo, a efetividade
+da  tutela  jurisdicional  e  a  presteza  de  sua  promoção  pelo  Poder  Judiciário.
+Valoriza-se, sempre, o processo justo, em função muito mais da observância de
+seus  princípios  fundamentais  do  que  da  simples  serviência  às  regras
+procedimentais  da  lei  comum.  A  forma,  naturalmente,  continua  significativa,
+mas  sua  real  relevância  só  se  mantém  enquanto  garantia  das  normas
+fundamentais  presentes  na  ordem  constitucional,  a  que  se  vincula  o  devido
+processo  legal.  Daí  a  importância,  constantemente  ressaltada,  de  que  o
+aprendizado e a aplicação da nova lei processual se façam, com predominância,
+segundo o viés do acesso à justiça assegurado pela Constituição.
+O Autor
+Maio/2015
+
+
+
+1.
+Parte I
+Noções Fundamentais
+Capítulo I
+CONCEITO, HISTÓRIA E FONTES DO DIREITO PROCESSUAL CIVIL
+§
+[/PAGINA 15]
+
+[PAGINA 16]
+1º DIREITO PROCESSUAL CIVIL
+Sumário: 1. Noções gerais. 2. Definição. 3. Natureza. 4. Relações
+com  outros  ramos  do  Direito. 5.  Objetivo.  6.  Novos  rumos  do
+direito  processual  civil. 7.  Universalidade  dos  problemas  do
+processo moderno.
+Noções gerais
+Impossível a vida em sociedade sem uma normatização do comportamento
+humano.  Daí  surgir  o  Direito  como  conjunto  das  normas  gerais  e  positivas,
+disciplinadoras da vida social.
+Contudo,  não  basta  traçar  a  norma  de  conduta.  O  equilíbrio  e  o
+desenvolvimento sociais só ocorrem se a observância das regras jurídicas fizer-
+se obrigatória.
+Assim, o Estado não apenas cuida de elaborar as leis, mas, especificamente,
+institui meios de imposição coativa do comando expresso na norma.
+Por  outro  lado,  diante  da  complexidade  com  que  se  travam  as  relações
+sociais, é impossível evitar conflitos de interesse entre os cidadãos, ou entre estes
+e o próprio Estado, a respeito da interpretação dos direitos subjetivos e da fiel
+aplicação do direito objetivo aos casos concretos.
+Para manter o império da ordem jurídica e assegurar a paz social, o Estado
+não tolera a justiça feita pelas próprias mãos dos interessados. Divide, pois, suas
+funções  soberanas,  de  molde  a  atender  a  essa  contingência,  em  atividades
+administrativas, legislativas e jurisdicionais.
+A função administrativa diz respeito à gestão ordinária dos serviços públicos
+
+2.
+e  compete  ao  Poder  Executivo.  A legislativa  consiste  em  traçar,  abstrata  e
+genericamente, as normas de conduta que formam o direito objetivo, e cabe ao
+Poder Legislativo. A terceira é a jurisdição, que incumbe ao Poder Judiciário, e
+que vem a ser a missão pacificadora do Estado, exercida diante das situações
+litigiosas.  Por  meio  dela,  o  Estado  dá  solução  às lides  ou litígios,  que  são  os
+conflitos  de  interesse,  caracterizados  por  pretensões  resistidas,  tendo  como
+objetivo imediato a aplicação da lei ao caso concreto, e como missão mediata
+“restabelecer a paz entre os particulares e, com isso, manter a da sociedade”.
+1
+Para cumprir essa tarefa, o Estado utiliza método próprio, que é o processo,
+que  recebe  denominação  de  civil,  penal,  trabalhista,  administrativo  etc.,
+conforme o ramo do direito material perante o qual se instaurou o conflito de
+interesses.
+Para regular esse método de composição dos litígios, cria o Estado normas
+jurídicas  que  formam  o direito  processual,  também  denominado formal  ou
+instrumental, por servir de forma ou instrumento de atuação da vontade concreta
+das  leis  de  direito material  ou substancial,  que  há  de  solucionar  o  conflito  de
+interesses estabelecido entre as partes, sob a forma de lide.
+Definição
+Na  verdade,  ou  na  essência,  o  direito  processual  é  um  só,  porquanto  a
+função jurisdicional é única, qualquer que seja o direito material debatido, sendo,
+por isso mesmo, comuns a todos os seus ramos os princípios fundamentais da
+jurisdição e do processo.
+2
+C
+[/PAGINA 16]
+
+[PAGINA 17]
+onveniências de ordem prática, no entanto, levam o legislador a agrupar as
+normas processuais em códigos ou leis especializadas, conforme a natureza das
+regras aplicáveis à solução dos conflitos, e daí surgem as divisões que individuam
+o  direito  processual  civil,  o  direito  processual  penal,  o  direito  processual  do
+trabalho etc.
+Diante desse quadro, o Direito Processual Civil pode ser definido como o
+ramo  da  ciência  jurídica  que  trata  do  complexo  das  normas  reguladoras  do
+exercício da jurisdição civil.
+3
+Vê-se, logo, que não pode o direito processual civil confundir-se com uma
+simples parcela do direito material, devendo ser afastada a antiga denominação
+de direito adjetivo, por designadora de uma dependência que a ciência jurídica
+moderna repele peremptoriamente.
+
+3.
+4.
+A  autonomia  do  direito  processual  civil,  diante  do  direito  substancial,  é
+inegável  e  se  caracteriza  por  total  diversidade  de  natureza  e  de  objetivos.
+Enquanto  o  direito  material  cuida  de  estabelecer  as  normas  que  regulam  as
+relações jurídicas entre as pessoas, o processual visa a regulamentar uma função
+pública estatal. Seus princípios, todos ligados ao direito público a que pertence,
+são  totalmente  diferentes,  portanto,  daqueles  outros  que  inspiram  o  direito
+material, quase sempre de ordem privada.
+Contudo,  não  apenas  as  questões  de  direito  civil  são  solucionadas  pelo
+processo civil, mas também as de direito comercial e até as de direito público
+não penal que não caibam a outros ramos especializados do direito processual.
+Funciona  o  direito  processual  civil,  então,  como  principal  instrumento  do
+Estado para o exercício do Poder Jurisdicional. Nele se encontram as normas e
+princípios básicos que subsidiam os diversos ramos do direito processual, como
+um todo,
+4
+ e sua aplicação faz-se, por exclusão, a todo e qualquer conflito não
+abrangido  pelos  demais  processos,  que  podem  ser  considerados especiais,
+enquanto o civil seria o geral.
+Natureza
+O direito processual civil pertence ao grupo das disciplinas que formam o
+Direito Público, pois regula o exercício de parte de uma das funções soberanas
+do Estado, que é a jurisdição.
+Não se pode deixar de consignar que, mesmo quando o conflito de interesses
+é eminentemente privado, há no processo sempre um interesse público, que é o
+da pacificação social e o da manutenção do império da ordem jurídica, mediante
+realização da vontade concreta da lei.
+Relações com outros ramos do Direito
+O  Direito,  sem  embargo  de  sua  divisão  em  ramos  autônomos,
+caracterizados por métodos, objetivos e princípios próprios, forma um conjunto
+maior, que tem em comum o destino de regular a convivência social. Por essa
+razão,  por  mais  que  sejam  considerados  autônomos  os  seus  ramos,  haverá
+sempre entre eles alguma intercomunicação, algum traço comum e até mesmo
+alguma dependência em certos ângulos ou assuntos.
+Assim,  o  direito  processual  civil  mantém  estreita
+[/PAGINA 17]
+
+[PAGINA 18]
+s  relações  com  o  direito
+constitucional, não apenas derivadas da hegemonia que cabe a esse ramo sobre
+todos os demais, mas principalmente porque, cuidando o processo de uma função
+
+soberana do Estado, será na Constituição que estarão localizados os atributos e
+limites dessa mesma função. Além disso, a Constituição traça regras sobre os
+direitos  individuais  que  falam  de  perto  ao  direito  processual,  como  a  do
+tratamento igualitário das partes do processo (art. 5º, I); a que assegura a todos o
+direito  de  submeter  toda  e  qualquer  lesão  de  direitos  à  apreciação  do  Poder
+Judiciário  (art.  5º,  XXXV);  a  que  proclama  a  intangibilidade  da  coisa  julgada
+(art. 5º, XXXVI); as que proíbem a prisão por dívidas (art. 5º, LXVII), os juízos
+de exceção (art. 5º, XXXVII) e as provas ilícitas (art. 5º, LVI); as que garantem o
+devido processo legal (art. 5º, LIV), o contraditório e ampla defesa (art. 5º, LV), o
+juiz  natural  (art.  5º,  LIII),  a  razoável  duração  do  processo  e  os  meios  para
+assegurar  a  celeridade  de  sua  tramitação  (art.  5º,  LXXVIII,  acrescido  pela
+Emenda Constitucional nº 45, de 08.12.2004) etc.
+Por  outro  lado,  traça  a  Constituição  as  normas  a  serem  observadas  na
+composição  dos  órgãos  judiciários,  fixando-lhes  a  competência  e  regulando
+matérias pertinentes ao seu funcionamento.
+Muitas  são  as  relações  entre  o  direito  processual  civil  e  o  direito
+administrativo, pois não raras vezes os órgãos judiciários são chamados a praticar
+atos de natureza administrativa, e ambos os ramos se acham ligados ao direito
+público. Assim, os auxiliares do juiz exercem, no processo, função pública, como
+a  de  depositário,  administrador  etc.  Outras  vezes,  os  serventuários  praticam
+irregularidades  na  conduta  processual,  passíveis  de  sanções  ou  penalidades
+funcionais.  Essas  matérias  exigem  tratamento  de  regras  que  o  direito
+administrativo regula, em estreita correlação com o direito processual civil.
+Muito  íntimas  são  as  relações  do  direito  processual  civil  com  os  demais
+ramos do processo, como o processual penal, o trabalhista, o administrativo etc.,
+porquanto são apenas variações de um ramo maior, que é o direito processual.
+Tanto  assim  que,  modernamente,  se  registra  uma  tendência  entre  os
+doutrinadores  em  estudar  a  teoria  geral  do  processo,  nela  englobando  os
+princípios que são comuns a todos os seus diversos ramos.
+O  direito  penal  também  se  entrelaça  com  o  direito  processual  civil,  pois
+várias ilicitudes praticadas no curso do processo configuram delitos punidos pelo
+Código Penal, como o falso testemunho, a falsa perícia, a apropriação indébita do
+depositário judicial etc., havendo, mesmo, todo um capítulo destinado à repressão
+dos crimes contra a administração da justiça (arts. 338 a 359 do Código de 1940).
+Finalmente, são bastante íntimas as relações do direito processual civil com
+o direito privado, pois o direito comer
+[/PAGINA 18]
+
+[PAGINA 19]
+cial e o direito civil são os que fornecem as
+regras materiais que o juiz deve aplicar na composição da maioria dos litígios
+
+5.
+que  lhe  são  submetidos  a  julgamento.  Não  raras  vezes,  o  direito  privado,  ao
+regular seus institutos, traça exigências que deverão ser observadas nos processos
+que eventualmente surjam em torno deles. Outras regras se situam em terrenos
+fronteiriços, como, por exemplo, as que dizem respeito às provas e solenidades
+necessárias à validade dos atos jurídicos, as pertinentes à falência e à insolvência
+civil. Muitas vezes, outrossim, é o direito privado que determina a incidência do
+direito processual civil, delimitando aquilo que o juiz cível deve apreciar e aquilo
+que  deverá  tocar  a  outros  órgãos  jurisdicionais,  como  ocorre  nas  questões
+derivadas de atos ilícitos.
+Objetivo
+Segundo  os  partidários  da  antiga  corrente  civilista,  em  que  o  direito
+processual civil seria apenas um apêndice do direito material, o objetivo visado
+pelo  processo  consubstanciar-se-ia  na  reação  do  próprio  direito  individual  ou
+subjetivo ameaçado ou lesado contra a agressão sofrida. Da autonomia do direito
+processual,  no  entanto,  surgiu  a  concepção  doutrinária  que  vê  nesse  ramo  do
+direito o fim de resguardar a própria ordem jurídica, de modo que, ao pacificar
+os  litígios,  o  órgão  jurisdicional  cumpre  função  eminentemente  pública,
+assegurando o império da lei e da paz social.
+Embora seja inegável o objetivo imediato do direito processual de manter a
+autoridade  da  ordem  jurídica,  cabe-lhe,  no  plano  constitucional,  a  missão  de
+atuar  na  proteção  aos  direitos  individuais,  de  modo  que  o  acesso  ao  processo
+constitui,  ele  mesmo,  uma  garantia  fundamental  (CF,  art.  5º,  XXXV).  Já  se
+chegou a defender o entendimento de que ao Estado, quando aplicasse o direito
+processual civil, não interessaria com quem estaria a razão, mas apenas definir
+qual a vontade concreta da lei, diante da situação litigiosa.
+É  de  se  ponderar,  todavia,  que,  além  da  neutra  função  de  sentenciar  e
+definir os conflitos, o Estado Democrático, ao vedar a justiça privada, assume o
+dever, perante os titulares de direito subjetivo violado ou ameaçado, de prestar-
+lhes a necessária tutela jurídica. Para essa tutela concreta, serve-se o Estado do
+processo, de sorte que, embora a garantia de acesso ao processo seja, de início,
+indiferente à prévia comprovação do direito material da parte, não o é quando,
+enfim, soluciona o conflito travado entre os litigantes. É que, então, aquele que
+comprovar a necessidade da proteção jurídica estatal para restaurar sua legítima
+situação de direito será o beneficiado com o provimento propiciador da efetiva
+tutela jurisdicional.
+Embora seja científico, no plano puramente processual, o entendimento de
+
+6.
+que  o  processo  e  o  regulamento  normativo  que  o  disciplina  atuam  com
+autonomia  diante  do  direito  material  invocado  pelo  promovente  da  atividade
+ju
+[/PAGINA 19]
+
+[PAGINA 20]
+risdicional,  este  não  pode  ser  o  único  ângulo  com  que  se  há  de  analisar  a
+prestação realizada pelo Estado-juiz. Na ordem global, enraizada sobretudo nas
+bases constitucionais, há um dever de tutela, que é de acesso amplo e de caráter
+cívico, que vem a ser a garantia fundamental de que nenhum direito subjetivo
+violado  ou  ameaçado  ficará  privado  do  acesso  à  tutela  da  Justiça  (CF,  art.  5º,
+XXXV). O estudo moderno do direito processual não pode deixar de registrar
+essa conexão importantíssima, no Estado de Direito Democrático, entre a ordem
+jurídico-constitucional e o direito processual.
+Há, em suma, um direito processual que em sua estrutura ordinária merece
+ser tratado como um ramo independente do direito material. Há, de outro lado,
+um  direito  processual  que  serve  à  Constituição,  e  que,  ao  fazê-lo,  não  pode
+continuar  sendo  enfocado  como  autônomo.  Já,  então,  é  utilizado  com  o  nítido
+objetivo de tutelar a situação jurídico-material subjetiva em situação de crise, ou
+seja, de lesão ou ameaça. É simplesmente o instrumento de realização do direito
+material atingido por agressão ou ameaça ilícita.
+Um dos grandes entrelaçamentos (e talvez o maior) do direito constitucional
+com o direito processual registra-se na presença atuante, e sempre crescente, dos
+princípios constitucionais como orientadores da hermenêutica e da aplicação do
+direito em juízo. Dentre eles, sobressai, como fator inconteste de aprimoramento
+ético da prestação jurisdicional, o moderno princípio da proporcionalidade, cuja
+observância  permite  o  balizamento  de  incidência  de  todos  os  princípios  e
+garantias fundamentais, ensejando a harmonização entre eles. Por esse princípio
+– destaca Arruda Alvim –, “afasta-se o sacrifício excessivo ou desnecessário a
+direitos fundamentais que, numa determinada circunstância, possam entrar em
+colisão com outros, de igual hierarquia, mas que se revelem menos importantes
+no caso específico”.
+5
+Novos rumos do direito processual civil
+Nas  últimas  décadas,  o  estudo  do  processo  civil  desviou  nitidamente  sua
+atenção  para  os  resultados  a  serem  concretamente  alcançados  pela  prestação
+jurisdicional.  Muito  mais  do  que  com  os  clássicos  conceitos  tidos  como
+fundamentais ao direito processual, a doutrina tem-se ocupado com remédios e
+medidas que possam redundar em melhoria dos serviços forenses. Ideias, como
+a de instrumentalidade e a de efetividade, passaram a dar a tônica do processo
+
+contemporâneo. Fala-se mesmo de “garantia de um processo justo”, mais do que
+de um “processo legal”, colocando no primeiro plano ideias éticas em lugar do
+estudo sistemático apenas das formas e solenidades do procedimento.
+Toda uma grande reforma se fez, nos últimos anos, nos textos do Código de
+Processo  Civil  de  1973,  com  o  confessado  propósito  de  desburocratizar  o
+procedimento  e  acelerar  o  resultado  da  prestação  jurisdicional.  Legislação
+extravagante  também  cuidou  de  criar  a
+[/PAGINA 20]
+
+[PAGINA 21]
+ções  novas  e  remédios  acauteladores
+visando  a  ampliar  o  espectro  da  tutela  jurisdicional,  de  modo  a  melhor
+concretizar  a  garantia  de  amplo  e  irrestrito  acesso  à  justiça,  tornado  direito
+fundamental  pelas  Constituições  democráticas,  tanto  em  nosso  país  como  no
+direito comparado. Até a própria Constituição foi emendada para acrescer no rol
+dos direitos fundamentais a garantia de uma duração razoável para o processo e
+o  emprego  de  técnicas  de  aceleração  da  prestação  jurisdicional  (CF,  art.  5º,
+LXXVIII, com o texto da EC nº 45, de 08.12.2004).
+Paralelamente  à  visão  técnica  do  funcionamento  da  justiça  oficial
+(fortemente inspirada em métodos forjados para enfrentar a contenciosidade),
+ganha terreno, no fim do século XX e início do século atual, a preocupação dos
+cientistas  do  direito  processual  com  a  implantação,  a  par  dos  tradicionais,  de
+novos métodos de composição de litígios, cuja motivação seria mais a procura da
+paz social do que propriamente a imposição autoritária da vontade fria da lei.
+Fala-se,  nesse  sentido,  na  criação  de  novas  vertentes  para  certos  tipos  de
+prestação  jurisdicional,  que  enriqueceriam  o  processo  com  instrumentos
+capacitados a realizar a justiça que Cappelletti chama de coexistencial. Em lugar
+de contar apenas com a força da autoridade legal do juiz, as partes poderiam,
+muitas vezes, obter melhores resultados na solução de seus conflitos, recorrendo
+à experiência e à técnica de pessoas capacitadas a promover a mediação e a
+conciliação, e chegando, assim, a resultados práticos mais satisfatórios do que os
+decretados pela justiça tradicional.
+Esses novos ares do processo já saíram das lições doutrinárias e começaram
+a  fazer  presença  significativa  tanto  na  reestruturação  do  processo  contencioso
+codificado de 1973 como na instituição de novos organismos de pacificação de
+conflitos (v.g., a atual regulamentação do juízo arbitral, feita pela Lei nº 9.307, de
+23.09.1996).
+Os  juizados  de  pequenas  causas  ou  juizados  especiais  prestigiados  pela
+Constituição  de  1988  são  exemplos  notáveis  de  órgãos  judiciários  concebidos
+para,  precipuamente,  conduzir  as  partes  à  conciliação,  valendo-se  não  só  da
+figura clássica do juiz estatal, mas também de conciliadores e juízes leigos, além
+
+7.
+de acenar para a possibilidade de encaminhar a solução, alternativamente, para
+julgamentos arbitrais (Leis n
+os
+ 9.099, de 26.09.1995, e 10.259, de 12.07.2001).
+No  entanto,  não  é  apenas  nesses  juizados  especiais  que  a  influência  da
+justiça  coexistencial  tem-se  manifestado.  No  próprio  processo  contencioso
+codificado  de  1973,  reformas  importantes  se  deram,  por  exemplo,  com  a
+instituição no procedimento ordinário da audiência preliminar, cujo objetivo é a
+tentativa de solução conciliatória, antes de passar-se à instrução da causa (art.
+331), e com a admissão da figura do conciliador para auxiliar o juiz durante a
+trami
+[/PAGINA 21]
+
+[PAGINA 22]
+tação  do  procedimento  sumário  (art.  277,  §  1º).  Registra-se,  ainda,  a
+existência de projeto em debate na área legislativa que cuida da regulamentação
+da  mediação  e  de  sua  observância  sistemática,  fora  ou  dentro  do  processo
+judicial.
+A valorização do papel da mediação e da conciliação dentro da atividade
+jurisdicional  se  faz  presente  de  maneira  mais  expressiva  no  Novo  Código  de
+Processo  Civil,  que,  além  de  prevê-las  como  instrumentos  de  pacificação  do
+litígio,  cuida  de  incluir  nos  quadros  dos  órgãos  auxiliares  da  justiça  servidores
+especializados  para  o  desempenho  dessa  função  especial  e  até  mesmo  de
+disciplinar a forma de sua atuação em juízo (arts. 165 a 175).
+6
+Aos poucos vai-se encaminhando para processos e procedimentos em que o
+objetivo maior é a solução justa e adequada dos conflitos jurídicos, e que, de
+fato,  possam  reduzir  as  tensões  sociais,  valorizando  a  pacificação  e  a
+harmonização dos litigantes, em lugar de propiciar a guerra judicial em que só
+uma das partes tem os louros da vitória e à outra somente resta o amargor da
+sucumbência.
+Universalidade dos problemas do processo moderno
+Esse intenso movimento reformador não é fenômeno isolado do processo
+brasileiro.  Todo  o  mundo  ocidental  de  raízes  romanísticas  tem  procurado
+modernizar  o  ordenamento  positivo  processual  seguindo  orientação  mais  ou
+menos  similar,  cuja  preocupação  dominante  é  a  de  superar  a  visão  liberal
+herdada  do  século  XIX,  excessivamente  individualista  e  pouco  atenta  ao
+resultado  prático  da  resposta  jurisdicional.  A  nova  orientação,  dominada  pelos
+ares do Estado Social de Direito, assume compromisso, a um só tempo, com a
+celeridade  processual  e  com  uma  justiça  mais  humana  a  ser  proporcionada
+àqueles que clamam pela tutela jurídica.
+Vários  são  os  expedientes  a  que  recorrem  os  legisladores  reformistas,
+
+podendo-se  ressaltar,  no  entanto,  a  recorrente  perseguição  a  duas  metas:  a
+desburocratização  do  processo,  para  reduzir  sua  duração  temporal,  e  a
+valorização  de  métodos  alternativos  de  solução  de  conflito,  dentre  os  quais  se
+destaca a conciliação (seja judicial ou extrajudicial).
+Na Itália, por exemplo, além de várias alterações no texto de seu Código de
+Processo  Civil,  até  a  Constituição  foi  revista  para  que  restasse  proclamado  o
+direito de todos a um “processo justo”. Declara, nessa ordem de ideias, o art. 111
+da Carta italiana, na dicção remodelada em 1999, que “a jurisdição é praticada
+mediante o justo processo regulado pela lei”, e que “todo processo se desenvolve
+no contraditório entre as partes, em condições de paridade, diante de juiz neutro
+(‘terzo’) e imparcial”, e ainda que “a lei lhe assegurará uma duração razoável”.
+7
+Diante  da  patente  incapacidade  do  sistema  institucional  para,  a  contento,
+fazer frente à demanda social de justiça, o direito positivo italiano insere em seu
+CPC e
+[/PAGINA 22]
+
+[PAGINA 23]
+em leis extravagantes a previsão e o estímulo de meios alternativos de
+resolução de conflitos, como a conciliação, cuja tentativa, a requerimento dos
+interessados,  o  juiz  deverá  “provocar”,  na  audiência  designada  para
+comparecimento  das  partes  (novo  art.  185  do  CPC  italiano).  Nas  relações  de
+trabalho, há previsão de tentativa de conciliação em caráter obrigatório, podendo
+ocorrer  judicialmente,  por  via  sindical  ou  administrativa.  Outras  previsões
+legislativas  de  tentativa  de  conciliação  referem-se  aos  conflitos  societários
+(facultativa)  e  agrários  (obrigatória)  e  às  causas  de  separação  e  divórcio
+(também necessária).
+8
+Na  França,  relata  Roger  Perrot,  trava-se  uma  luta  há  meio  século  para
+modernizar a justiça e o processo, com “uma única e mesma preocupação, a de
+aceleração  da  justiça”.  Informa,  outrossim,  que  a  fluidez  do  processo  civil
+francês tem sido favorecida pela “solução alternativa dos litígios”, que o direito
+positivo estimula por meio da conciliação e da mediação. De duas maneiras o
+problema é enfrentado: a) incluindo-se entre as funções do juiz “a missão de
+conciliar as partes” (Novo CPC francês, art. 21); b) instituindo, em todo órgão
+judicial, a figura de um elemento auxiliar do juiz, denominado conciliador, que
+atua preventivamente, para evitar a instauração do processo, e também durante
+seu curso, para tentar conduzir as partes a encerrá-lo de forma consensual. Com
+a  introdução  do  meio  alternativo  de  conciliação,  o  direito  processual  francês,
+segundo  Roger  Perrot,  busca  atender  à  ideia  de  que,  na  atualidade,  “o
+jurisdicionado aspira a uma justiça mais simples, menos solene, mais próxima de
+suas preocupações quotidianas, àquilo que numa palavra se denomina justiça de
+
+proximidade”.
+9
+Não tem sido diferente a história recente do direito processual alemão. As
+reformas do ZPO ocorridas ao longo do século XX compreenderam, acima de
+tudo, medidas “destinadas a descongestionar os tribunais”, reforçando, por outro
+lado, os poderes do juiz na busca do esclarecimento em torno da verdade. Já no
+século XXI, uma grande reforma, consumada em 2001, voltou-se, entre outras
+matérias, para o incremento das soluções conciliatórias do litígio, tanto judiciais
+como  extrajudiciais,  tornando  obrigatória  a  respectiva  tentativa  em  vários
+casos.
+10
+
+8.
+9.
+§ 2º HISTÓRIA DO DIREITO PROCESSUAL CIVIL
+Sumário: 8. Origens. 9. Evolução: mundo clássico. Grécia. 10. O
+processo civil romano. 11. Processo comum. 12. O processo civil
+moderno  (fase  científica). 13.  Esquema  histórico-evolutivo  do
+processo civil do século XIX ao século XXI. 14. Direito processual
+civil brasileiro. 15. Regulamento nº 737. 16. Códigos estaduais. 17.
+Códigos  unitários. 18.  O  Código  de  1973. 19.  As  reformas  do
+Código  de  1973  e  a  evolução  do  direito  processual  civil. 20.  A
+constante busca da efetividade da tutela jurisdicional. 21. O Novo
+Código de Processo Civil.
+Origens
+Desd
+[/PAGINA 23]
+
+[PAGINA 24]
+e o momento em que, em antigas eras, se chegou à conclusão de que
+não  deviam  os  particulares  fazer  justiça  pelas  próprias  mãos  e  que  os  seus
+conflitos  deveriam  ser  submetidos  a  julgamento  de  autoridade  pública,  fez-se
+presente a necessidade de regulamentar a atividade da administração da Justiça.
+E, desde então, surgiram as normas jurídicas processuais.
+As primeiras normas se referiam apenas à aplicação das sanções penais e à
+composição  dos  litígios  civis.  Contudo,  com  o  tempo,  a  par  da  solução  dos
+conflitos  de  interesse  (litígios),  foi-se  confiando  aos  órgãos  judiciários  outras
+funções conexas que correspondiam à tutela de interesses de pessoas desvalidas
+ou incapazes, como as interdições, as curatelas, as ausências etc., e a fiscalização
+de  certos  atos,  como  a  extinção  de  usufruto  e  fideicomisso,  a  sucessão causa
+mortis etc.
+Nos primeiros casos, passou-se a ver a chamada jurisdição contenciosa com
+a função pacificadora de compor os litígios; e, nos últimos, a jurisdição voluntária
+ou graciosa,  de  natureza  administrativa  e  cuidando  de  interesses  privados
+merecedores de um tratamento especial por parte do Estado.
+Evolução: mundo clássico. Grécia
+Foi,  sem  dúvida,  a  partir  do  mundo  clássico  greco-romano  que  o  direito
+processual  civil  passou  a  ganhar  foros  científicos,  desvinculando-se  de
+
+10.
+preconceitos religiosos e superstições.
+Muito  pouco,  contudo,  se  sabe  a  respeito  do  processo  grego.  Pelo  que  se
+apura na Retórica de Aristóteles, em matéria de prova, predominavam princípios
+elevados, que faziam classificar os meios de convicção como lógicos e alheios a
+preconceitos religiosos e outros fanatismos.
+O processo observava a oralidade, e o princípio dispositivo aparecia como
+regra dominante, tocando o ônus da prova às partes e só excepcionalmente se
+permitia a iniciativa do juiz em questões probatórias.
+Conheciam-se as provas testemunhais e documentais. Faziam-se restrições
+ao  testemunho  de  mulheres  e  crianças.  Dava-se  grande  importância  aos
+documentos,  especialmente  em  matéria  mercantil.  O  juramento  era,
+inicialmente, muito valorizado, mas perdeu prestígio na época clássica.
+O mais importante, contudo, era o respeito à livre apreciação da prova pelo
+julgador, que exercia uma crítica lógica e racional, sem se ater a valorações
+legais prévias em torno de determinadas espécies de prova.
+Por  isso,  lembra  Mittermaier,  que  o  sistema  de  prova  testemunhal  grego
+superou, em muito, o que vigorou na Europa durante a Idade Média e até pelo
+menos no século XVI.
+11
+O processo civil romano
+O processo romano, que foi muito influenciado pelo grego, mormente no
+tocante à livre apreciação das provas, em sua fase primitiva, tratava o juiz como
+um  árbitro,  que  decidia  com  critério  pessoal,  em  tudo  o  que  a  lei  não  previa
+solução específica.
+Logo,  no  entanto,  se  admitiu  que  a  tarefa  do  julgador  era  uma  função
+derivada  da  sober
+[/PAGINA 24]
+
+[PAGINA 25]
+ania  do  Estado  e  o  processo  passou  a  ser  tido  como  “um
+instrumento  de  certeza  e  de  paz  indispensável”,  tendo  a  sentença  valor
+unicamente perante as partes da relação processual e devendo fundar-se apenas
+nas provas produzidas.
+12
+A evolução do direito processual romano deu-se por meio de três fases que
+foram sintetizadas por Sergio Bermudes, com rara felicidade, aproximadamente
+nos termos que se seguem:
+a) Período primitivo:
+O período mais antigo, que se costuma denominar legis actiones, e que vai
+
+da fundação de Roma até o ano de 149 a.C.
+Nessa fase, as partes só podiam manipular as ações da lei, que eram em
+número de cinco. O procedimento era excessivamente solene e obedecia a um
+ritual em que se conjugavam palavras e gestos indispensáveis. Bastava, às vezes,
+o  equívoco  de  uma  palavra  ou  um  gesto  para  que  o  litigante  perdesse  a
+demanda.
+13
+Desenvolvia-se  o  procedimento  oralmente,  compreendendo  duas  fases:
+uma,  perante  o  magistrado,  que  concedia  a  ação  da  lei  e  fixava  o  objeto  do
+litígio; e, outra, perante cidadãos, escolhidos como árbitros, aos quais cabiam a
+coleta das provas e a prolação da sentença. Não havia advogados e as partes
+postulavam pessoalmente.
+b) Período formulário:
+O segundo período recebeu a denominação de formulário.
+Com o avanço do Império Romano por grandes territórios, surgiram novas e
+complexas  relações  jurídicas,  cujas  soluções  não  mais  se  comportavam  nos
+acanhados limites das legis actiones.
+Aboliram-se,  por  isso,  as  ações  da  lei,  ficando  o  magistrado  autorizado  a
+conceder fórmulas de ações que fossem aptas a compor toda e qualquer lide que
+se lhe apresentasse.
+O procedimento, em linhas gerais, era o mesmo da fase das legis actiones: o
+magistrado examinava a pretensão do autor e ouvia o réu. Quando concedia a
+ação, entregava ao autor uma fórmula escrita, encaminhando-o ao árbitro para
+julgamento. Já, então, havia intervenção de advogados, e os princípios do livre
+convencimento do juiz e do contraditório das partes eram observados.
+A sentença, embora proferida por árbitros privados, tinha sua observância
+imposta pelo Estado às partes.
+c) Fase da cognitio extraordinaria:
+A  terceira  fase  do  processo  romano  é  a  da cognitio  extraordinaria,  que
+vigorou entre o ano 200 e o ano 565 de nossa era.
+Nessa fase do Império Romano, a função jurisdicional passou a ser privativa
+de funcionários do Estado, desaparecendo os árbitros privados.
+O  procedimento  assumiu  a  forma  escrita,  compreendendo  o  pedido  do
+autor,  a  defesa  do  réu,  a  instrução  da  causa,  a  prolação  da  sentença  e  sua
+execução.
+
+11.
+Conhecia-se a citação por funcionário público e admitiam-se recursos. O
+Estado utilizava coação para executar suas sentenças.
+Foi dessa fase que surgiram os germes do processo civil moderno.
+Processo comum
+Após  a  queda  do  Império  Romano,  houve,  além  da  dominação  militar  e
+política dos povos germânicos, a imposição de seus costumes e
+[/PAGINA 25]
+
+[PAGINA 26]
+de seu direito.
+Aconteceu,  porém,  que  os  germânicos,  também  chamados bárbaros,
+possuíam noções jurídicas muito rudimentares e, com isso, o direito processual
+europeu sofreu enorme retrocesso na marcha ascensional encetada pela cultura
+romana.
+A  princípio,  nem  mesmo  uniformidade  de  critérios  existia,  pois,  entre  os
+dominadores, cada grupo étnico se regia por um rudimento próprio e primitivo de
+justiça, segundo seus costumes bárbaros.
+Numa segunda etapa, houve enorme exacerbação do fanatismo religioso,
+levando os juízes a adotar absurdas práticas na administração da Justiça, como os
+“juízos de Deus”, os “duelos judiciais” e as “ordálias”. Acreditava-se, então, que
+a  divindade  participava  dos  julgamentos  e  revelava  sua  vontade  por  meio  de
+métodos cabalísticos.
+O processo era extremamente rígido (formal), e os meios de prova eram
+restritos às hipóteses legais, nenhuma liberdade cabendo ao juiz, que tão somente
+verificava a existência da prova. O valor de cada prova e a sua consequência
+para  o  pleito  já  vinham  expressamente  determinados  pelo  direito  positivo.  A
+prova, portanto, deixara de ser o meio de convencer o juiz da realidade dos fatos
+para  transformar-se  num  meio  rígido  de fixação  da  própria  sentença.  O  juiz
+apenas reconhecia sua existência.
+O processo bárbaro era acusatório e tinha início por acusação do autor, que
+se considerava ofendido. O ônus da prova cabia ao acusado.
+Na realidade, não se buscava a verdade real ou material, mas contentava-se
+com a mera verdade formal, isto é, a que se manifestava por meios artificiais e,
+geralmente, absurdos,  baseados  na  crença  da  intervenção  divina  nos
+julgamentos.
+Os procedimentos eram, no dizer de Jeremias Bentham, autênticos jogos de
+azar ou cenas de bruxaria, e, em vez de julgamentos lógicos, eram confiados a
+exorcistas e verdugos.
+14
+
+12.
+Esse sistema processual perdurou por vários séculos, até fase bem adiantada
+da Idade Média.
+No entanto, paralelamente ao processo civil bárbaro (que não se distinguia
+do  penal),  a  Igreja  Católica  preservava  as  instituições  do  direito  romano,
+adaptando-as ao direito canônico.
+Com as Universidades (século XI), o gosto pelo estudo do direito romano
+reapareceu  e  com  ele  surgiram  os  glosadores  que  cotejavam  as  instituições
+bárbaras com as clássicas.
+Da fusão de normas e institutos do direito romano, do direito germânico e do
+direito canônico apareceu o direito comum, e com ele o processo comum,  que
+vigorou desde o século XI até o século XVI, encontrando-se vestígios seus até
+hoje nas legislações processuais do Ocidente.
+O processo comum era escrito, lento e excessivamente complicado.
+Expandiu-se,  não  obstante,  por  toda  a  Europa  e  dele  se  extraíram  os
+caracteres gerais que, aperfeiçoados, vieram a inspirar o processo moderno.
+A  prova  e  a  sentença  voltaram  a  inspirar-se  no  sistema  romano,  mas
+admitia-se  a  eficácia erga  omnes  da  coisa  julgada,  por  influência  do  direi
+[/PAGINA 26]
+
+[PAGINA 27]
+to
+germânico. De inspiração canônica foi a adoção do processo sumário, com que
+se procurava eliminar alguns formalismos.
+15
+Embora  fossem  abolidas  as  “ordálias”  e  os  “juízos  de  Deus”,  as  torturas
+foram preservadas como meios de obtenção da verdade no processo até o século
+XIX. E prevaleceu, também, o império da tarifa legal da prova, inclusive em
+processo criminal, até fins do século XVIII, quando se fizeram ouvir os protestos
+de Beccaria, Montesquieu, Voltaire etc.
+A  partir  da  Revolução  Francesa,  retomou-se  o  conceito  de  livre
+convencimento  do  juiz  e  procurou-se  eliminar  os  resquícios  da  tarifa  legal  de
+provas, primeiro no processo penal e, mais tarde, no processo civil.
+O processo civil moderno (fase científica)
+Apenas no século XX é que se conseguiu desvencilhar o processo civil das
+provas  tarifadas,  ou  seja,  do  sistema  de  provas  pré-valorizadas  pelo  direito
+positivo.
+Considera-se iniciada a fase moderna ou científica do direito processual civil
+a  partir  do  momento  em  que  se  outorgaram  poderes  ao  juiz  para  apreciar  a
+prova  de  acordo  com  as  regras  da  crítica  sadia  e  para  produzir ex  officio  as
+
+13.
+provas que se impuserem para o objetivo de alcançar a justiça em sua decisão,
+deixando, assim, de ser o magistrado simples espectador da vitória do litigante
+mais hábil.
+16
+Com isso, operou-se uma reaproximação do processo civil e do processo
+penal, retornando-se no primeiro ao princípio da oralidade, e reconhecendo-se,
+ainda, outros princípios importantes, como o caráter público, de interesse geral,
+que  existe  na  jurisdição  civil,  suplantando  os  próprios  interesses  privados  das
+partes em litígio.
+O processo civil passou, então, a ser visto como instrumento de pacificação
+social e de realização da vontade da lei e apenas secundariamente como remédio
+tutelar dos interesses particulares.
+Daí a concentração de maiores poderes nas mãos do juiz, para produção e
+valoração das provas e para imprimir maior celeridade e dinamismo aos atos
+processuais.
+Essa concepção prevalece hoje na quase unanimidade dos Códigos europeus
+e  da  América  Latina,  inclusive  nos  últimos  dois  Códigos  de  Processo  Civil
+brasileiros (de 1973 e de 2015).
+Esquema histórico-evolutivo do processo civil do século XIX ao
+século XXI
+Esquematicamente,  a  evolução  do  sistema  de  direito  processual,  ocorrida
+entre os séculos XIX e XXI, pode ser assim resumida:
+a) Século XIX: o estado mínimo imaginado pelo ideal do liberalismo refletia
+sobre  o  processo,  reduzindo  a  participação  do  juiz  no  seu  comando  desde  a
+formação  e  desenvolvimento  da  relação  processual  até  a  formulação  do
+provimento jurisdicional. Dominado pela supremacia da liberdade das partes, o
+andamento  da  marcha  processual  e  a  instrução  probatória  ficavam  sob  a
+dependência da vontade dos sujeitos do litígio. O processo era “coisa das partes”
+e  ao  juiz  cabia  apenas  assistir  ao  duelo  travado  entre  elas.  O
+[/PAGINA 27]
+
+[PAGINA 28]
+predomínio  do
+privatismo era notório: o destino do processo era determinado basicamente pelas
+partes e não pelo juiz.
+b)  Século  XX:  O  Estado  Social  publicizou  o  processo  civil,  de  modo  a
+conferir ao juiz o comando efetivo do processo, em nome do interesse público na
+pacificação  dos  conflitos  jurídicos.  Ao  juiz  se  atribuiu  o  poder  de, ex  officio,
+dirigir o andamento do processo e assumir a iniciativa da prova. Registrou-se, ao
+
+14.
+lado do incremento dos poderes do juiz, a exacerbação da autonomia do direito
+processual  diante  do  direito  substancial,  a  ponto  de  quase  olvidar-se  o  caráter
+instrumental  do  processo,  tornando  a  técnica  procedimental  um  fim  em  si
+mesma.  Esse  estágio,  portanto,  caracterizou-se  pela  hipertrofia  da  ciência
+processual,  afastando,  quase  sempre,  o  seu  estudo  dos  problemas  vividos  pelo
+direito material.
+c) Século XXI: O neoconstitucionalismo do Estado Democrático de Direito
+manteve a natureza publicística do processo. O seu caráter instrumental, porém,
+passou a ser visto dentro de outro prisma: em vez de isolar-se o direito processual,
+o mais importante passou a ser a sua intervinculação com o direito material, já
+que  teria  sempre  de  lembrar  que  a  função  básica  do  processo  não  era  outra
+senão a de dar efetividade à tutela dos direitos subjetivos substanciais lesados ou
+ameaçados (CF, art. 5º, XXXV). Acima de tudo, impôs-se a constitucionalização
+do processo, mediante inserção dos seus princípios básicos no rol dos direitos e
+garantias individuais. Procedem-se, com isso, à evolução da garantia do devido
+processo legal para o processo justo.  Realizou-se,  enfim,  a  democratização  do
+processo: o juiz continua titular do poder de definir a solução do litígio, mas não
+poderá fazê-lo isolada e autoritariamente. As partes, numa nova concepção do
+contraditório,  terão  o  direito  de  influir  efetivamente  no iter  de  formação  do
+provimento judicial. O contraditório deixa de ser um diálogo entre as partes para
+sujeitar também o juiz. Trata-se da inserção do processo judicial no plano da
+democracia  participativa,  em  que  os  atos  de  poder  não  ficam  restritos  à
+deliberação dos representantes da soberania popular, mas podem se legitimar,
+também, pela participação direta dos cidadãos em sua conformação. O processo,
+no  atual  Estado  Democrático  de  Direito,  realiza  seu  mister  pacificador  pelo
+regime cooperativo,  em  que  as  partes,  tanto  como  o  juiz,  participam
+efetivamente da formação do ato de autoridade destinado a compor o conflito
+jurídico levado à apreciação do Poder Judiciário.
+Direito processual civil brasileiro
+A  independência  brasileira  encontrou-nos  sob  o  regime  jurídico  das
+Ordenações do Reino.
+Por decreto imperial foram mantidas em vigor as normas processuais das
+Ordenações Filipinas e das leis portuguesas extravagantes posteriores, em tudo
+que não contrariasse a soberania brasileira.
+Essa legislação, que provinh
+[/PAGINA 28]
+
+[PAGINA 29]
+a de Felipe I e datava de 1603, encontrava suas
+fontes históricas no direito romano e no direito canônico.
+
+a)
+b)
+c)
+a)
+b)
+c)
+d)
+e)
+15.
+O  processo  era  escrito  e  desenvolvia-se  por  fases,  paralisando  ao  fim  de
+cada uma delas, e se desenrolava por exclusiva iniciativa das partes.
+Suas  principais  características  consistiam  na  observância  dos  seguintes
+princípios,
+17
+ consagrados pelo Livro III das Ordenações Filipinas:
+forma  escrita,  de  sorte  que  só  o  que  estava  escrito  nos  autos  era
+considerado pelo juiz;
+havia  atos  em  segredo  de  Justiça:  as  partes  não  participavam  da
+inquirição  de  testemunhas  e  tinham  que  usar  embargos  de  contradita
+para provar motivos de suspeita;
+observava-se o princípio dispositivo em toda plenitude: autor e réu eram
+donos do processo, cuja movimentação era privilégio dos litigantes.
+ 
+Além disso, o processo dividia-se em várias fases e compreendia diversas
+audiências:
+após o pedido e a citação, realizava-se a primeira audiência, que era de
+acusação  da  citação  e  oferecimento  do  libelo  do  autor.  Iniciava-se,
+então, o prazo de contestação;
+se ocorresse a revelia, outra audiência era realizada para sua acusação;
+a  prova  ficava  exclusivamente  a  cargo  da  parte,  e  o  juiz  só  tomava
+conhecimento de fato provado nos autos se alegado pelas partes;
+os recursos contra decisões interlocutórias tinham efeito suspensivo;
+ao fim de cada fase, o processo paralisava, à espera de impulso da parte.
+“O juiz, numa expressiva imagem, funcionava como um relógio, a que a
+parte, de quando em quando, desse corda para alguns minutos.”
+18
+Regulamento nº 737
+Em 1850, logo após a elaboração do Código Comercial, o Brasil editou o
+Regulamento nº 737, o primeiro Código Processual nacional, que se destinava,
+porém, apenas a regular o processamento das causas comerciais.
+Posteriormente, já na era republicana, e depois que Ribas havia consolidado
+em 1876 a legislação formal civil, o Regulamento nº 737 foi estendido também
+aos feitos civis, por força do Regulamento nº 763, de 1890.
+
+a)
+b)
+c)
+16.
+17.
+Embora  as  opiniões  da  época  divergissem  sobre  o  valor  jurídico  do
+Regulamento nº 737, forçoso reconhecer que, “examinado serenamente, em sua
+própria perspectiva histórica”, o Regulamento foi marco admirável de evolução
+na técnica processual, “especialmente no que toca à economia e simplicidade do
+procedimento”.
+19
+Suas principais melhorias podem ser assim resumidas:
+tornou pública a inquirição;
+suprimiu  as  exceções  incidentes,  limitando-as  à  incompetência,  à
+suspeição, à ilegitimidade de parte, à litispendência e à coisa julgada;
+permitiu ao juiz, em matéria de prova, conhecer do fato demonstrado,
+sem embargo da ausência de referência das partes.
+ 
+Conservou, no entanto, a acusação da citação e a assinação em audiência do
+prazo de prova.
+Códigos estaduais
+A Constituição Republicana de 1891 estabeleceu a dicotomia entre a Justiça
+Federal  e  a  Estadual,  bem  como  entre  o  poder  de
+[/PAGINA 29]
+
+[PAGINA 30]
+legislar  sobre  processos.
+Elaboraram-se, então, o direito processual da União (Consolidação preparada por
+Higino  Duarte  Pereira,  aprovada  pelo  Decreto  nº  3.084,  de  1898)  e  os  vários
+códigos estaduais de Processo Civil, quase todos simples adaptações do figurino
+federal, por falta de preparo científico dos legisladores para renovar e atualizar o
+direito processual pátrio.
+20
+  Apenas  no  Código  da  Bahia  e  no  de  São  Paulo  se
+notou  a  presença  de  inovações  inspiradas  no  moderno  direito  processual
+europeu.
+21
+Códigos unitários
+Diante do fracasso do sistema de esfacelamento do direito processual em
+códigos estaduais, a Constituição de 1934 instituiu o processo unitário, atribuindo à
+União a competência para legislar a respeito (art. 5º, XIX, a).
+Depois da implantação do regime forte de 1937, o Governo encarregou uma
+comissão de elaborar o Código Nacional de Processo Civil, que, entretanto, não
+conseguiu ultimar seu trabalho, em razão de divergências insuperáveis entre seus
+
+18.
+I –
+II –
+III –
+IV –
+V –
+membros.
+Pedro  Batista  Martins,  um  dos  membros  da  referida  comissão,  elaborou,
+individualmente, o projeto, que, aprovado pelo Ministro Francisco Campos, foi
+transformado em lei pelo Governo (Decreto-Lei nº 1.608, de 1939) e que entrou
+em vigor a partir de 1º de março de 1940.
+Coexistiam no Código “uma parte geral moderna, fortemente inspirada nas
+legislações alemã, austríaca, portuguesa e nos trabalhos de revisão legislativa da
+Itália,  e  uma  parte  especial  anacrônica,  ora  demasiadamente  fiel  ao  velho
+processo lusitano, ora totalmente assistemática”.
+22
+Dizia-se, com razão, que dois espíritos coabitavam o Código, formando uma
+parte  geral  impregnada  de  ideias  novas,  enquanto  as  que  tratavam  dos
+procedimentos  especiais,  dos  recursos  e  da  execução  se  ressentiam  “de  um
+execrável ranço medieval”.
+23
+Depois de uma década de estudos e debates, ocorreu, em 1973, a reforma
+do  Código  de  1939,  baseada  em  anteprojeto  redigido  pelo  Ministro  Alfredo
+Buzaid  e  revisto  por  uma  comissão  formada  pelos  juristas  José  Frederico
+Marques, Luiz Machado Guimarães e Luís Antônio de Andrade.
+O Código de 1973
+O Código de Processo Civil brasileiro de 1973 (Lei nº 5.869, de 11.01.1973,
+com alterações das Leis n
+os
+ 5.925, de 01.10.1973; 6.314, de 16.12.1975; 6.246, de
+07.10.1975; 6.355, de 08.09.1976, e demais leis modificativas ulteriores) compõe-
+se de cinco livros, assim intitulados:
+Do processo de conhecimento.
+Do processo de execução.
+Do processo cautelar.
+Dos procedimentos especiais.
+Das disposições gerais e transitórias.
+Por meio desse estatuto processual, não se procedeu a uma simples reforma
+de  nossa  legislação  formal;  operou-se  uma  grande  atualização,  criando-se,
+realmente,  um  código  novo,  e  assinalou-se  uma  nova  etapa  na  evolução  do
+direito processual entre nós.
+Inspirado nos padrões mais atualizados do direito europeu, o Código Buzaid
+
+19.
+consagrou a tríplice divi
+[/PAGINA 30]
+
+[PAGINA 31]
+são do processo civil, recomendada pela melhor doutrina,
+em “processo de conhecimento”, “processo de execução” e “processo cautelar”,
+correspondentes às três modalidades distintas com que o Estado presta a tutela
+jurisdicional.
+No primeiro livro, que serviu de parte geral para todo o Código, tratou-se da
+matéria pertinente ao Órgão Judicial, às partes e procuradores, disciplinaram-se
+a  competência  e  os  atos  processuais,  regulando-se  o  procedimento  comum
+(ordinário e sumário), os meios de prova, a sentença, a coisa julgada, os recursos
+e a tramitação dos processos nos tribunais.
+No  Livro  II,  o  Código  deu  forma  sistemática  à  execução,  eliminando  a
+distinção entre ação executiva e ação executória, passando a existir somente a
+execução forçada, seja o título judicial (sentença) ou extrajudicial (documentos
+públicos e particulares com força executiva). Aboliu-se, também, o inadequado e
+ineficiente  instituto  do  concurso  de  credores,  que  era  simples  incidente  da
+execução  singular,  substituindo-o  pela  insolvência  civil,  sob  a  forma  de  uma
+autêntica  falência  do  devedor  civil,  com  o  que  se  eliminou  um  injustificado
+tratamento discriminatório que se fazia entre o comerciante e o devedor civil, em
+matéria de insolvência.
+No Livro III, com grande avanço, mesmo diante dos códigos europeus, o
+Estatuto de 1973 deu regulamentação autônoma e completa ao processo cautelar,
+em bases realmente científicas.
+No Livro IV, procurou o Código não só reduzir o número de procedimentos
+especiais,  como  separar  os  procedimentos  de  jurisdição  contenciosa  dos  de
+jurisdição  voluntária,  adotando  para  os  últimos  um  procedimento  geral  ou
+comum, de grande utilidade prática. Conferiu ao juiz, outrossim, poderes para
+apreciar  e  decidir  os  pedidos  não  contenciosos,  sem  se  ater  à  observância  do
+critério  de  legalidade  estrita,  “podendo  adotar  em  cada  caso  a  solução  que
+reputar mais conveniente ou oportuna” (art. 1.109).
+O último Livro continha, em 10 artigos, as disposições finais e transitórias, o
+que  demonstrou,  da  parte  do  legislador,  certa  avareza  no  trato  de  questão
+transcendental, como é a do direito intertemporal. O conflito de leis no tempo, na
+passagem  de  um  Código  a  outro,  ficou,  assim,  confiado  quase  por  inteiro  à
+doutrina e à jurisprudência.
+As reformas do Código de 1973 e a evolução do direito
+processual civil
+
+O direito processual civil tradicional se apresentava com marcante caráter
+individual. O direito de ação, suas condições e pressupostos revelavam-se, dentro
+da  estrutura  original  do  Código  de  Processo  Civil,  como  institutos  criados  e
+disciplinados para atender apenas a pessoa do autor e a pessoa do réu. Tudo se
+desenvolvia à luz da individualidade de um sujeito ativo e um sujeito passivo.
+Com  a  socialização  do  direito  constitucional,  principalmente  após  as  duas
+grandes  guerras,  sentiu-se  na  seara  do  processo  a  imperiosa  necessid
+[/PAGINA 31]
+
+[PAGINA 32]
+ade  de
+adaptar-se  às  novas  concepções  que  valorizavam  o  social  e  revelavam  a
+existência  de  direitos  coletivos  e  difusos  até  então  nem  sequer  pensados  pelo
+direito processual.
+Atento à orientação de Cappelletti, que reclamava uma revisão dos rumos
+do direito processual, o legislador brasileiro dos últimos anos cuidou de renovar o
+ordenamento jurídico formal, não só ampliando a assistência judiciária, como
+criando  novos  remédios  de  nítido  feitio  social  e  coletivo,  como  a  ação  civil
+pública, o mandado de segurança coletivo e os juizados especiais de pequenas
+causas.
+Por  outro  lado,  o  texto  do  Código  de  Processo  Civil  de  1973  sofreu,  nos
+últimos anos, várias reformas, todas com um só e principal objetivo: acelerar a
+prestação jurisdicional, tornando-a mais econômica, mais desburocratizada, mais
+flexível e mais efetiva no alcance de resultados práticos para os jurisdicionados.
+Podem  citar-se,  nesse  estágio  legislativo,  como  medidas  inovadoras  de
+grande  repercussão:  a  tutela  antecipatória,  a  nova  roupagem  do  agravo  de
+instrumento,
+24
+ o reforço da executividade das obrigações de fazer e não fazer, a
+outorga de autoexequibilidade a todas as sentenças condenatórias (inclusive as
+relativas  à  obrigação  de  quantia  certa),  a  ampliação  dos  títulos  executivos,  a
+racionalização do procedimento sumário, a criação da ação monitória etc.
+Desse  conjunto  de  novos  institutos  implantados  no  bojo  da  codificação
+processual de 1973 surgiu uma nova estrutura para o processo civil, na qual se
+anulava, em grande parte, a antiga e rígida dicotomia da prestação jurisdicional
+em processo de conhecimento e processo de execução. Graças a remédios como
+a antecipação de tutela e a ação monitória, a atividade executiva não era mais
+privilégio da execução forçada e o processo de conhecimento não ficava mais
+restrito apenas à tarefa de acertamento da situação litigiosa. Sem depender da
+actio iudicati, o juiz ficou autorizado a tomar, de imediato, medidas satisfativas do
+direito subjetivo material do litigante, em casos de urgência, ainda no curso do
+processo  de  conhecimento.  A  jurisdição,  em  princípio,  poderia  ser
+
+20.
+desempenhada  com  toda  amplitude  sem  depender  da  coisa  julgada  e  da
+execução de sentença, em seus moldes tradicionais. Simplesmente desapareceu
+a execução de sentença como ação separada da ação de acertamento do direito
+do  credor.  Em  lugar  da  antiga actio  iudicati,  implantou-se  o  mecanismo  do
+cumprimento  da  sentença  como  simples  continuidade  do  processo  em  que  a
+condenação  foi  sentenciada.  A  execução  se  inseriu  nos  atos  do  ofício  do  juiz
+sentenciante. Sem solução de continuidade, as medidas de cumprimento forçado
+da sentença passaram a ser praticadas numa única relação processual. Em nome
+da  efetividade  do  processo,  o  juiz  moderno  se  investiu  nos  poderes  do  pretor
+romano, quando decretava os interditos, antes do julgamento de
+[/PAGINA 32]
+
+[PAGINA 33]
+finitivo da causa.
+Nosso  processo  civil,  assim,  assumiu,  em  caráter  geral,  o  feitio  interdital,
+reclamando  de  seus  operadores  uma  profunda  revisão  e  readequação  das
+posturas interpretativas clássicas.
+A constante busca da efetividade da tutela jurisdicional
+As reformas por que passou o direito processual civil, entre nós, refletiram
+uma  tomada  de  posição  universal  cujo  propósito  é  abandonar  a  preocupação
+exclusiva  com  conceitos  e  formas  “para  dedicar-se  à  busca  de  mecanismos
+destinados  a  conferir  à  tutela  jurisdicional  o  grau  de  efetividade  que  dela  se
+espera”.
+25
+  Hoje,  o  que  empolga  o  processualista  comprometido  com  o  seu
+tempo é o chamado “processo de resultados”. Tem-se a plena consciência de que
+o  processo,  como  instrumento  estatal  de  solução  de  conflitos  jurídicos,  “deve
+proporcionar, a quem se encontra em situação de vantagem no plano jurídico-
+substancial,  a  possibilidade  de  usufruir  concretamente  dos  efeitos  dessa
+proteção”.
+26
+Em vez de fixar-se na excessiva independência outrora proclamada para o
+direito processual, a ciência atual empenha-se na aproximação do processo ao
+direito material. A técnica processual não pode continuar sendo vista como um
+fim em si ou um valor em si mesma. Sem embargo de sua autonomia em face
+dos diversos ramos do direito, a função reservada ao direito processual não vai
+além  da  instrumentalização  das  regras  substanciais  existentes  no  ordenamento
+jurídico, quando estas se deparam com a crise de sua inobservância in concreto.
+Estudar  processo,  sem  comprometê-lo  com  sua  finalidade  institucional,
+representa obra especulativa, divorciada dos grandes valores e interesses que à
+ordem jurídica compete preservar e realizar. O resultado esperado da técnica
+processual há de se operar no campo das relações jurídicas substanciais. É na
+
+produção desses resultados, em nível satisfatório, que se poderá definir a maior
+ou menor efetividade do processo.
+Instrumentalismo e efetividade são ideias que se completam na formação
+do ideário do processualismo moderno. Para ser efetivo no alcance das metas de
+direito  substancial,  o  processo  tem  de  assumir  plenamente  sua  função  de
+instrumento. Há de se encontrar na sua compreensão e no seu uso a técnica que
+se  revele  mais  adequada  para  que  o  instrumento  produza  sempre  o  resultado
+almejado:  “a  solução  das  crises  verificadas  no  plano  do  direito  material  é  a
+função  do  processo”,
+27
+  de  sorte  que,  quanto  mais  adequado  for  para
+proporcionar tutela aos direitos subjetivos de natureza substancial, mais efetivo
+será o desempenho da prestação estatal operada por meio da técnica processual.
+A  técnica  processual,  por  sua  vez,  reclama  a  observância  das  formas
+(procedimentos), mas estas se justificam apenas enquanto garantias do adequado
+debate  em  contraditório  e  com  ampla  defesa.  Não  podem  descambar  para  o
+formalismo  doentio  e  abusivo,  e
+[/PAGINA 33]
+
+[PAGINA 34]
+mpregado  não  para  cumprir  a  função
+pacificadora do processo, mas para embaraçá-la e protelá-la injustificadamente.
+Efetivo,  Efetivo,  portanto,  é  o  processo  justo,  ou  seja,  aquele  que,  com  a
+celeridade  possível,  mas  com  respeito  à  segurança  jurídica  (contraditório  e
+ampla  defesa),  “proporciona  às  partes  o  resultado  desejado  pelo  direito
+material”.
+28
+  É  antiga,  mas  nunca  se  cansa  de  repeti-la,  a  clássica  lição  de
+Chiovenda,  segundo  a  qual  o  processo  tem  de  dar  ao  litigante,  tanto  quanto
+possível, tudo o que tem direito de obter segundo as regras substanciais.
+29
+No  momento  histórico  em  que  se  busca  por  constantes  reformas  do
+procedimento, todas preocupadas com o processo justo, a efetiva tutela do direito
+material, reclama do intérprete e aplicador do direito processual civil renovado
+um cuidado mais acentuado com o caráter realmente instrumental do processo,
+para evitar os inconvenientes do recrudescimento da tecnocracia forense, a qual,
+uma  vez  exacerbada,  frustraria  por  completo  as  metas  reformistas  do  direito
+positivo.
+Muito séria é a advertência, entre outros, de Flávio Luiz Yarshell, para quem,
+“é hora de revigorar a ideia de fungibilidade, quer em matéria recursal, quer em
+relação aos diferentes remédios ou meios de impugnação. A hora é de ter clara a
+ideia de que o processo não é, e não pode ser, um caminho repleto de armadilhas
+e de surpresas. A hora é de ponderação e de prestigiar a boa-fé e a segurança da
+relação, que, via processo, se estabelece entre o cidadão e o Estado”.
+30
+
+21.
+Exemplo que merece ser acatado encontra-se na jurisprudência do STJ, que
+tem  repugnado  a  rejeição  de  apreciação  do  mérito,  sempre  que  baseada  em
+exacerbação do formalismo processual. Na ótica daquela Corte, “a razoabilidade
+exige que o Direito Processual não seja fonte de surpresas, sobretudo quando há
+amplo  dissenso  doutrinário  sobre  os  efeitos  da  lei  nova.  O  processo  deve
+viabilizar, tanto quanto possível, a resolução de mérito”,
+31
+ e não se perder em
+questiúnculas que o desviem de sua missão institucional, frustrando as esperanças
+daqueles que clamam pelo acesso à justiça assegurado pela Constituição.
+O Novo Código de Processo Civil
+A sequência do movimento reformador culminou em 2010 com a submissão
+ao Congresso Nacional do Projeto de um novo Código de Processo Civil (Projeto
+Legislativo  nº  166/2010,  de  iniciativa  da  Presidência  do  Senado  Federal).  Sua
+tramitação,  após  votação  de  Substitutivo  da  Câmara  dos  Deputados  (Projeto
+Legislativo  8.046/2010),  concluiu-se  em  17.12.2014,  quando  se  aprovou  no
+Senado o texto que veio a constituir na Lei 13.105, de 16.03.2015.
+Muito se discutia sobre a conveniência, ou não, de dotar o País de uma nova
+codificação, tendo em vista o reconhecimento, pela maioria, da boa qualidade
+técnica do Código de 1973. No entanto, a frequência com que este vinha sendo
+submetido a constantes emendas acabou po
+[/PAGINA 34]
+
+[PAGINA 35]
+r gerar, nos últimos tempos, um clima
+social de desconfiança, com sérias repercussões sobre o sentimento de segurança
+jurídica  em  torno  da  prestação  jurisdicional  civil  entre  nós.  Era,  de  fato,
+aconselhável  que  fosse  aplacado  o  verdadeiro  furor  renovativo  com  que  se
+comandava  a  onda  de  reformas  parciais  da  última  lei  processual  civil.  Nessa
+quadra, venceu a ideia de que a adoção de um novo Código, além de incorporar
+ao direito positivo institutos instrumentais modernos, realizaria a relevante tarefa
+de  pôr  cobro  ao  ambiente  desagregador  implantado  pela  onda  cada  vez  mais
+intensa e desordenada de emendas pontuais.
+A Comissão de Juristas, nomeada pela Presidência do Senado, orientou-se,
+na elaboração do Anteprojeto, pelos princípios universalmente preconizados para
+as leis processuais, que aspirem a dotar o Estado Democrático de Direito de um
+processo justo, e que se apresentam, na ordem constitucional, como a garantia a
+todos de acesso a uma tutela jurisdicional efetiva. Como tal, entende-se aquela
+que,  a  par  de  viabilizar  a  composição  dos  conflitos  com  total  adequação  aos
+preceitos do direito material,
+32
+ o faça dentro de um prazo razoável e sob método
+presidido  pelas  exigências  da economia  processual,  sempre  assegurando  aos
+
+LIVRO I –
+LIVRO II –
+LIVRO III –
+LIVRO IV –
+LIVRO V –
+LIVRO VI –
+litigantes o contraditório e a ampla defesa (CF, art. 5º, LXXVIII).
+33
+A  propósito  do  ideário  do processo  justo,  prevalece  na  consciência  da
+civilização de nosso tempo a concepção de que um Código moderno, republicano
+e  democrático,  há  de  observar  um  “modelo  social  de  processo”,  que  esteja
+atento  às  exigências  da  instrumentalidade,  da  efetividade  e  da  presteza  na
+promoção  da  tutela  aos  direitos  subjetivos  em  crise.  Em  tal  modelo,  como  é
+inegável, não podem merecer guarida as espertezas do litigante no manejo das
+puras técnicas procedimentais e argumentativas como a causa do resultado da
+disputa  travada  em  juízo.  Para  o  processo  justo  (aquele  exigido  pelo  Estado
+Democrático de Direito), o mais importante é que o processo seja construído e
+manejado “para possibilitar a descoberta da verdade dos fatos”, de maneira que
+só ganhe a causa a “parte que tiver a verdade do seu lado”, esta e não a outra é a
+“parte que tem razão” e que, por isso, terá sua situação jurídica protegida pelo
+provimento  judicial.
+34
+  A  par  disso,  o  caráter  democrático  desse  moderno
+processo jurisdicional reside numa concepção inovadora do contraditório que não
+mais se limita a uma simples bilateralidade de audiência, mas que confere aos
+litigantes o direito de participar efetivamente na formação do provimento judicial
+que haverá de compor o conflito estabelecido entre eles. O processo deixa de ser
+“coisa apenas do juiz” ou “coisa apenas das partes”, para se tornar obra conjunta
+de todos os sujeitos processuais, fruto de uma empresa compartilhada entre todos
+eles. Foram es
+[/PAGINA 35]
+
+[PAGINA 36]
+ses os critérios a que recorreram os encarregados da redação da
+peça que se converteu no Projeto Legislativo nº 166/2010 do Senado (atual Lei nº
+13.105/2015).
+No afã de melhor sistematizar o processo, facilitando a compreensão e a
+aplicação das normas em grande parte inovadoras, a Nova Codificação adotou
+uma  Parte  Geral  e  procedeu  a  uma  divisão  de  matérias  diferente  da  que
+prevalecia no Código de 1973. Desdobrou-se, pois, da seguinte maneira:
+PARTE GERAL, composta dos seguintes Livros:
+Das normas processuais civis;
+Da função jurisdicional;
+Dos sujeitos do processo;
+Dos atos processuais;
+Da tutela provisória;
+Formação, suspensão e extinção do processo.
+ 
+
+LIVRO I –
+LIVRO II –
+LIVRO III –
+PARTE ESPECIAL, dividida nos seguintes Livros:
+Do  processo  de  conhecimento  e  do  cumprimento  de
+sentença;
+Do processo de execução;
+Dos processos nos tribunais e dos meios de impugnação das
+decisões judiciais;
+LIVRO COMPLEMENTAR – Das disposições finais e transitórias.
+I – Principais inovações do CPC de 2015:
+Na  Parte  Geral,  o  Novo  Código  dispensou  grande  atenção  à
+constitucionalização do processo, dedicando seus 12 artigos iniciais para definir
+aquilo que denominou de Normas Fundamentais do Processo Civil, entre as quais
+merecem  especial  destaque  os  princípios  do  contraditório  sem  surpresas;  da
+cooperação  entre  partes  e  juiz  na  atividade  de  formulação  do  provimento
+jurisdicional;  da  sujeição  de  todos  os  participantes  do  processo  ao
+comportamento de acordo com a boa-fé; da duração razoável do processo; da
+dignidade  da  pessoa  humana;  da  eficiência  da  prestação  a  cargo  do  Poder
+Judiciário;  da  submissão  do  próprio  juiz  ao  contraditório;  da  fundamentação
+adequada  das  decisões  judiciais;  da  vedação  de  privilégios  da  ordem  de
+julgamento das causas. Dentre as normas fundamentais figura também a que
+estimula  a  prática  da  justiça  coexistencial  (juízo  arbitral,  conciliação  e
+mediação).
+Ainda  na  Parte  Geral,  procedeu-se  a  unificação  das  tutelas  provisórias
+(cautelar, antecipatória e da evidência). Não há mais regimes separados para as
+medidas conservativas e satisfativas, estando todas submetidas a um tratamento
+único, com dispensa de formação de processo próprio, para transformarem-se
+em objeto de simples incidente do procedimento destinado à resolução do mérito
+da causa.
+Mesmo quando a medida urgente for requerida em caráter antecedente, não
+haverá  dois  processos  em  autos  apartados.  A  petição  inicial  da  demanda
+principal, quando posteriormente vier a ser formulada, será apresentada dentro
+dos próprios autos em que se deu trâmite à medida de urgência antecedente. Um
+único processo, portanto, será utilizado, quando necessário, para a apreciação dos
+pleitos de urgência e de mérito (arts. 292 a 308).
+O Novo Código dividiu a matéria das tutelas provisórias em três Títulos:
+
+a)
+b)
+c)
+o Título I contém Disposições Gerais,  observáveis  tanto  nas  tutelas  de
+urgência,
+[/PAGINA 36]
+
+[PAGINA 37]
+como nas de evidência;
+o  Título  II,  que  trata  dos  procedimentos  da  Tutela  de  Urgência,
+desdobra-se em dois Capítulos: o primeiro cuida da Tutela  Antecipada
+Requerida  em  Caráter  Antecedente;  o  segundo,  da Tutela  Cautelar
+Requerida em Caráter Antecedente; e
+o Título III cuida da Tutela da Evidência.
+ 
+Uma  outra  grande  inovação,  inspirada  nos  direitos  francês,  italiano  e
+português, consistiu no incidente que permite a estabilização da medida urgente
+satisfativa, dispensando o aforamento da pretensão principal, se assim convier às
+partes.  Com  isso,  torna-se  viável  a  manutenção  da  liminar,  como  regulação
+sumária  e  provisória  do  litígio,  sem  limitação  de  tempo,  mas  sem  atingir  a
+autoridade da coisa julgada (art. 304).
+Dois  problemas  que  vinham  desafiando  a  sistemática  do  Código  de  1973
+foram enfrentados e disciplinados pelo NCPC: o incidente da desconsideração da
+personalidade jurídica, que passa a contar com um procedimento especial (arts.
+133 a 137), e o incidente de resolução de demandas repetitivas (arts. 976 a 987).
+No  campo  do  processo  de  conhecimento,  no  intuito  de  simplificar  o
+procedimento,  aboliram-se  a  nomeação  à  autoria  e  as  exceções  de
+incompetência,  suspeição  e  impedimento,  mediante  inclusão  da  matéria  nas
+preliminares da contestação. A reconvenção passou a figurar como capítulo da
+contestação. O procedimento sumário foi abolido, de modo que, não sendo caso
+de  procedimento  especial,  todas  as  demandas  se  submeterão  a  um  único
+procedimento qualificado como comum.
+Em matéria de instrução probatória, a principal novidade é a possibilidade
+de o juiz alterar a regra geral do ônus da prova mediante o sistema excepcional
+das cargas dinâmicas. Também as partes foram autorizadas a inverter o ônus da
+prova por meio de convenção, quando a demanda versar sobre direito disponível,
+e desde que não torne excessivamente difícil o exercício do direito afetado.
+Com base na política de valorização da jurisprudência, os casos de rejeição
+liminar  da  demanda  foram  ampliados,  de  modo  a  permiti-la  sempre  que  o
+pedido contrariar súmulas ou acórdãos do STF e do STJ, bem como entendimento
+firmado em incidente de resolução de demandas repetitivas ou de assunção de
+competência,  e  ainda  quando  afrontar  norma  jurídica  extraída  de  dispositivo
+expresso de ato normativo. Por último, a medida será ainda cabível quando, em
+
+se tratando de direito local, o pedido contrariar súmula de Tribunal de Justiça (art.
+332).
+No  sistema  recursal,  aboliram-se  o  agravo  retido  e  os  embargos
+infringentes, adotando-se para o agravo de instrumento o critério casuístico. O
+juízo de admissibilidade será único e competirá ao tribunal ad quem, como regra
+geral. Ampliaram-se os casos de admissibilidade dos embargos de declaração. O
+regime dos recursos extraordinário e especial foi aprimorado para facilitar sua
+fungibilidade e para combater a chamada “jurisprudência defensiva
+[/PAGINA 37]
+
+[PAGINA 38]
+”, que vinha
+dificultando exageradamente o acesso aos tribunais superiores.
+A  área  de  cabimento  da  ação  rescisória  foi  ampliada  para  compreender
+alguns casos de sentença terminativa.
+Vários procedimentos especiais foram eliminados, como, por exemplo, as
+ações de usucapião, de depósito, de nunciação de obra nova, de prestação de
+contas,  que,  doravante,  se  processarão  segundo  o  procedimento  comum.
+Acresceram-se, todavia, alguns procedimentos especiais novos, como a ação de
+dissolução parcial de sociedade, a ação de regulação de avaria grossa e as ações
+de família.
+A execução forçada sofreu apenas modificações pontuais. Mantém o Novo
+Código as duas vias de execução atualmente existentes: a do “cumprimento das
+sentenças” (arts. 513 a 538) e a da “execução dos títulos extrajudiciais” (arts. 771
+a  925).  Aquela  como  incidente  do  processo  em  que  a  sentença  tiver  sido
+pronunciada (Título II, Livro I, da Parte Especial), e esta como ação executiva
+autônoma (Livro II da Parte Especial).
+II – Visão geral do Novo CPC:
+Esteve atento o legislador à advertência da moderna processualística de que,
+para se pensar numa ampla e verdadeira reforma de nosso processo civil, urge,
+antes de tudo, mudar essa ótica deformadora do verdadeiro papel reservado à
+prestação  jurisdicional.  É  preciso,  urgentemente,  substituí-la  pela  objetiva  e
+singela busca da justa e adequada realização do direito material na solução do
+conflito deduzido em juízo.
+Não  é  pela  teoria  científica  que  complica  e  tumultua  o  procedimento
+judicial,  mas  sim  pelo  espírito  objetivo  capaz  de  hierarquizar  os  valores
+constitucionais  e  processuais,  segundo  a  escala  de  priorização  dos  resultados
+práticos  delineados  pela  lei,  e,  acima  de  tudo,  pelos  direitos  e  garantias
+fundamentais, que se pode imaginar a implantação bem-sucedida do processo
+justo.  O  teorismo  obstaculiza  ou  dificulta  o  acesso  à  justiça,  enquanto  o
+
+procedimentalismo despretensioso, prático e objetivo o facilita e o viabiliza.
+O excesso de técnicas, na verdade, favorece muito mais uma concepção
+pragmática do processo (isto é, aquela que não dispensa grande relevância ao seu
+resultado prático). No entanto, o enfoque objetivo centrado, sobretudo, nos efeitos
+concretos da tutela propiciada pelo processo aos direitos materiais ameaçados ou
+lesados  é  o  que,  de  forma programática,  realmente  se  empenha,  longe  do
+teorismo estéril, na persecução dos fins sociais do processo justo.
+É,  destarte,  uma  regulamentação  nova,  compromissada  com  a
+instrumentalidade, adequada à realização plena e efetiva do direito material em
+jogo no litígio, singela, clara, transparente e segura quanto ao procedimento o que
+se pode esperar de um novo Código, que seja superior às vaidades do tecnicismo
+e que seja concebido com firmeza, objetividade e coerência com o programa
+moderno  do processo justo,  que,  enfim,  os  órgãos  encarregados  da  prestação
+jurisdicional  se  pr
+[/PAGINA 38]
+
+[PAGINA 39]
+eparem,  convenientemente,  para  pô-lo  em  prática,  com
+fidelidade à letra, ao espírito e aos propósitos da reforma.
+Nessa linha de preocupação, Kazuo Watanabe exalta a excelência de um
+ensaio recente da autoria de Paulo Eduardo Alves da Silva, no qual se destaca a
+mudança de enfoque que o autor fez “no estudo dos problemas que afetam a
+justiça  e  o  processo,  desviando  o  ponto  fundamental  da  análise  para  o modus
+operandi  do  sistema  de  justiça,  e  não  mais  para  a  interpretação,  aplicação  e
+alteração das leis processuais”.
+35
+Muito me apraz recomendar a leitura da preciosa obra, cuja relevância, na
+opinião do Professor Watanabe, “está não apenas nas informações, constatações
+e  estudos  nela  contidos,  mas  principalmente  no  fato  de  representar  uma
+importante contribuição ao aperfeiçoamento das práticas de gestão da justiça e
+do  processo  judicial”,
+36
+  fornecendo  dados  de  direito  local  e  comparado  que,
+certamente, provocarão o interesse dos pesquisadores empenhados nos estudos
+relacionados à melhoria do sistema de justiça de nosso país.
+O Novo CPC acha-se estruturado e aparelhado para cumprir a missão de
+um  processo  justo  capaz  de  realizar  a  tutela  efetiva  dos  direitos  materiais
+ameaçados ou lesados, sem apego ao formalismo anacrônico e de acordo com
+os princípios constitucionais democráticos que regem e asseguram o pleno acesso
+de todos ao Poder Judiciário.
+
+22.
+§ 3º FONTES DO DIREITO PROCESSUAL CIVIL
+Sumário: 22. Noções gerais. 23. Lei processual. 24. A Constituição
+e os tratados. 25. Doutrina e jurisprudência. 26. A lei processual no
+tempo. 27. A lei processual no espaço. 28. Interpretação das leis
+processuais.
+Noções gerais
+As fontes do Direito Processual Civil são as mesmas do direito em geral, isto
+é, a lei e os costumes, como fontes imediatas, e a doutrina e jurisprudência, como
+fontes mediatas. Em razão do caráter público do direito processual, é a lei, sem
+dúvida, sua principal fonte. Não obstante, não raros são os problemas que surgem
+no curso dos processos que não encontram solução direta na lei, mas que o juiz
+tem de resolver. Daí o recurso obrigatório aos costumes judiciais, à doutrina e à
+jurisprudência como remédios adequados à superação de tais impasses.
+Mesmo diante de textos legais expressos, não é pequena a contribuição da
+jurisprudência  para  fixação  dos  conceitos  básicos  do  direito  processual.  A
+incoerência  do  legislador,  a  obscuridade  dos  textos  normativos,  a  imprecisão
+terminológica,  como  falhas  naturais  de  toda  criação  humana,  são
+frequentemente superadas pelo trabalho criativo e aperfeiçoador da doutrina e da
+jurisprudência. E o mais importante é o trabalho de ir promovendo a criação de
+novas concepções que inspiram remodelação das normas jurídicas expressas, a
+par  de  consolidar  os  costumes  judiciais  que  são,  na  prática,  produto  da
+jurisprudência assentada.
+Diante, principalmente, do prestígio que o direito moderno vem dispensando
+à força
+[/PAGINA 39]
+
+[PAGINA 40]
+normativa das decisões judiciais, por meio das súmulas vinculantes e do
+encargo  conferido  aos  tribunais  de  preencher in  concreto  os  conceitos  vagos
+(conceitos  jurídicos  indeterminados  e  cláusulas  gerais
+37
+),  cada  vez  mais
+utilizados pelo legislador, impossível é recusar à jurisprudência a qualidade de
+fonte do direito.
+38
+Com efeito, se a Constituição já admitia que o Supremo Tribunal Federal
+extraísse de seus julgados súmulas com força normativa capaz de vincular todos
+
+23.
+a)
+b)
+os  órgãos  do  Poder  Judiciário  e  da  Administração  Pública  (CF,  art.  103-A)  e,
+ainda,  que  o  Código  de  Processo  Civil  de  1973  permitia  tanto  ao  Supremo
+Tribunal  Federal  como  ao  Superior  Tribunal  de  Justiça,  diante  de  causas
+repetitivas,  decidir  um  recurso  paradigma  com  força  de  prejudicar  todos  os
+demais que versassem sobre o mesmo tema (CPC/1973, art. 543-C, § 7º), tornou-
+se evidente que nosso direito positivo reconhecia aos precedentes judiciais uma
+força criativa, que lhes atribuía, em boa proporção, o papel de “importante fonte
+de direito”, sem embargo de nossas tradições romanísticas ligadas à civil law.
+39
+Registre-se  que,  além  desses  casos  de  precedentes vinculantes  ou
+obrigatórios, havia outros em que a jurisprudência atuava com força obstativa de
+recursos, permitindo fosse negado seguimento às impugnações manifestadas em
+contrariedade  aos  precedentes,  sobretudo  àqueles  emanados  dos  Tribunais
+Superiores (CPC/1973, arts. 475, § 3º; 518, § 1º; 544, §§ 3º e 4º; e 557).
+40
+Havia,  finalmente,  os precedentes  persuasivos,  que,  sem  obrigar
+cogentemente os juízes a adotá-los em suas sentenças, atuavam, porém, como
+expressão  de  “solução  racional  e  socialmente  adequada”
+41
+  prestigiada  pela
+elevada autoridade do órgão de que promanavam.
+42
+O Novo Código de Processo Civil vai muito além e encaminha-se para uma
+aproximação maior com a common law, estendendo o dever de submissão ao
+precedente,  principalmente  àquele  dos  tribunais  superiores,  como  regra  geral,
+sem limitar-se às súmulas qualificadas como vinculantes (art. 926).
+43
+Lei processual
+Lei processual civil é a que regula o processo civil.
+44
+ Não é apenas a que
+regula a forma, os modos e os termos do desenvolvimento da relação processual
+ou da tramitação do processo em juízo. Seu objeto compreende o complexo de
+tudo  o  que  concerne  ao  exercício  da  jurisdição  civil,  de  modo  que  nele  se
+entreveem:
+regras  de  organização estática  da  jurisdição,  como  a  distribuição  de
+atribuições  entre  os  componentes  dos  órgãos  judiciários,  horário  de
+funcionamento dos serviços forenses, competência de juízes e auxiliares
+etc.;
+regras  sobre  a  forma  e  a  dinâmica  do  exercício  da  ação  em  juízo
+
+c)
+(procedimento); e
+normas  e  princípios  gerais  ou  específicos  de  interpretação  e
+equacionamento  da  função  jurisdicional  e  do  exercício  do  direito  de
+ação, como as condições e os pressupostos processua
+[/PAGINA 40]
+
+[PAGINA 41]
+is, a definição dos
+ônus e as faculdades das partes no processo, os meios e os ônus de prova
+permitidos  e  os  meios  de  harmonizar  o  direito  processual  com  outras
+normas  jurídicas  estranhas  ao  Código,  além  de  solucionar  conflitos
+intertemporais de normas.
+45
+ 
+Nos países civilizados, o processo civil está modernamente compilado sob a
+forma  de  Código,  o  que  não  evita,  contudo,  a  coexistência  de  inúmeras  leis
+extravagantes  cuidando  paralelamente  de  temas  ligados  ao  mesmo  ramo
+jurídico.
+Assim,  Lei  Processual  Civil  é  toda  aquela  que  disciplina  a  função
+jurisdicional  desenvolvida  pelos  juízes  e  tribunais,  quando  convocados  pelos
+titulares de interesses jurídicos em conflito na órbita civil lato sensu.
+O Código é a lex generalis que regula exaustivamente os procedimentos nele
+contidos. Exerce, também, a tarefa suplementar de preencher subsidiariamente
+as lacunas das leis extravagantes que regulam a tutela jurisdicional confiada a
+procedimentos e juízos especiais.
+Entre nós, o Código de Processo Civil em vigor consta da Lei nº 13.105, com
+vigência programada para 17 de março de 2016.
+Existem  leis  especiais  regulando,  entre  outros,  os  procedimentos  da
+recuperação judicial e falência (Lei nº 11.101/2005), das desapropriações (Dec.-
+Lei nº 3.365/1941), dos mandados de segurança (Lei nº 12.016/2009), das ações
+de alimentos (Lei nº 5.478/1968), das discriminatórias de terras devolutas (Lei nº
+6.383/1976), da ação popular (Lei nº 4.717/1965), da busca e apreensão de bens
+alienados fiduciariamente (Dec.-Lei nº 911/1969) etc.
+Sendo,  outrossim,  o  Brasil  uma  República  Federativa,  cabe  aos  Estados-
+membros o poder de organizar a Justiça em seus respectivos Territórios. Para
+tanto, compete-lhes a elaboração de leis de natureza processual, por se referirem
+também à função jurisdicional.
+46
+Cada Estado possui, assim, uma organização judiciária que é estabelecida
+por lei local, mediante proposta do Tribunal de Justiça.
+Pode  haver  conflito  entre  as  leis  processuais  federais  e  as  estaduais  de
+
+24.
+organização  judiciária,  caso  em  que  deve  prevalecer  a  legislação  da  União,
+salvo, é claro, o caso de inconstitucionalidade desta por invasão de competência
+privativa do Estado-membro.
+47
+A Constituição e os tratados
+Na atual concepção do Estado Democrático de Direito, o processo não é
+regido apenas pelas leis processuais propriamente ditas. Há toda uma sistemática
+normativa dentro da Constituição que inclui o acesso à Justiça e os mecanismos
+do devido processo legal (processo justo) entre os direitos fundamentais (direitos
+do homem).
+Uma  vez  que  a  Constituição  considera  de  aplicação  imediata  todas  as
+normas definidoras dos “direitos e garantias fundamentais” (CF, art. 5º, § 1º), os
+princípios  que  regem  o  processo  dentro  da  ordem  constitucional  assumem  a
+categoria  de normas  jurídicas  e,  por  isso,  integram  o  direito  processual,
+independentemente  de  qualquer
+[/PAGINA 41]
+
+[PAGINA 42]
+regulamentação.  O  acesso  à  Justiça  e  a
+tramitação  do  processo  têm,  por  isso,  de  observar  não  só  as  leis  processuais
+comuns,  mas  as  regras  e  os  princípios  soberanamente  fixados  na  Constituição
+(NCPC, art. 1º).
+Prevê, outrossim, a Constituição que os “direitos e garantias” nela expressos
+não são taxativos, pois neles se incluem, também, “outros decorrentes do regime
+e dos princípios por ela adotados” (princípios constitucionais implícitos); e, ainda,
+os direitos do homem assegurados em tratados internacionais  em  que  o  Brasil
+seja parte (CF, art. 5º, § 2º).
+Com essa nova dimensão da legalidade, não só a Constituição é fonte de
+normas processuais, mas também os tratados internacionais. A estes reconhece-
+se um status superior ao das normas internas infraconstitucionais, capaz, portanto,
+de  acarretar  a  revogação  de  leis  locais  incompatíveis  com  a  convenção
+internacional.
+48
+  Nessa  ordem  de  ideias,  o  Supremo  Tribunal  Federal  decidiu
+afastar o cabimento de prisão civil do depositário infiel, expressamente previsto
+pelo Código de Processo Civil de 1973 (art. 904, parágrafo único), tendo em vista
+a  sua  incompatibilidade  com  o  compromisso  assumido  pelo  Brasil  no  “Pacto
+Internacional  dos  Direitos  Civis  e  Políticos”  (art.  11)  e  na  “Convenção
+Americana sobre Direitos Humanos” (art. 7º, n. 7), nos quais se baniu a “prisão
+por dívida” (RE 349.703/RS, cit.).
+Nesse sentido, o Novo Código é expresso em declarar que “a jurisdição civil
+será  regida  pelas  normas  processuais  brasileiras,  ressalvadas  as  disposições
+
+25.
+específicas previstas em tratados, convenções ou acordos internacionais de que o
+Brasil  seja  parte”  (art.  13).
+49
+  Ademais,  foi  criado  um  capítulo  novo  para
+disciplinar a cooperação internacional para facilitar o exercício da jurisdição que
+ultrapasse os limites do território nacional (arts. 26 a 41).
+50
+Pode-se,  em  síntese,  afirmar  que,  no  Estado  Democrático  de  Direito
+brasileiro  atual,  fontes  legais  diretas  ou  imediatas  do  direito  processual  são  a
+Constituição, os tratados internacionais e as leis infraconstitucionais.
+Doutrina e jurisprudência
+A doutrina e a jurisprudência são importantes fontes do direito processual
+civil, seja para a elaboração das normas jurídicas, seja para a solução do litígio
+que se apresenta ao Poder Judiciário.
+A teoria jus-humanista normativa, formulada por Ricardo Sayeg e Wagner
+Balera,  e  exposta  por  Thiago  Lopes  Matsushita,
+51
+  entende  o  direito  como  a
+síntese  do  conhecimento  humano  juridicamente  manifestado.  Segundo  essa
+teoria, a decisão “mais justa é aquela que acontece da intersecção do texto com
+o  metatexto  e  o  intratexto  que,  em  outras  palavras,  quer  dizer  que  é  da
+interconexão  entre  o  direito  positivo  com  os  direitos  humanos  e  o  realismo
+jurídico é que se chegará à decisão que trará a verdade”.
+52
+O jus-humanismo normativo, segundo a doutrina invocada, divide a norm
+[/PAGINA 42]
+
+[PAGINA 43]
+a
+em três dimensões – direito positivo, direito natural e realismo jurídico –, que não
+podem  ser  analisadas  de  maneira  isolada  ou  estanque.  Pelo  contrário,  esses
+conjuntos  devem  estar  em  constante  interação,  viabilizando  a  construção  e  a
+aplicação do ordenamento jurídico à realidade social. É justamente a partir da
+integração desses três círculos que o direito se cria, transforma e evolui.
+A doutrina e a jurisprudência integram a dimensão do realismo jurídico. Sob
+a  ótica  da  teoria  jusnaturalista,  a  doutrina  não  é  vista  como  mera  atividade
+descritiva.  Na  verdade,  ela  participa  efetivamente  da  aplicação  do  direito,  na
+medida  em  que  o  estudo  do  ordenamento  jurídico  e  da  sociedade  auxilia  a
+interpretação e a integração das leis. “El legislador, al regular una materia, puede
+hacerlo entrando en contradicción de decisiones. La doctrina actúa disolviéndola
+o,  al  menos,  revelando  que  existe  y  ofreciendo  las  distintas  posibilidades
+alternativas  que  ofrecen  los  preceptos  que  entran  en  colisión  (...)  La  doctrina
+viene en ayuda de todos estos problemas, introduce la racionalidad del sistema,
+que  es  coherencia  y  armonía  entre  sus  partes,  y  disuelve  de  esta  forma  las
+
+imperfecciones”.
+53
+O  relevante  papel  da  doutrina  como  fonte  do  direito  fica  evidente  ao  se
+verificar a constante utilização das teses desenvolvidas pelos estudiosos para a
+solução das ações levadas ao Poder Judiciário.
+De  igual  forma,  não  se  discute  a  importância  da  jurisprudência  para  o
+direito  contemporâneo.  Os  tribunais  vêm,  cada  vez  mais,  interpretando  o
+ordenamento  de  forma  a  dar  maior  efetividade  aos  direitos  humanos,  mais
+especificamente, à dignidade da pessoa humana.
+54
+A  doutrina  e  a  jurisprudência,  enquanto  componentes  da  dimensão  do
+realismo  jurídico  e  interagindo  com  o  direito  positivo  e  o  direito  natural,
+participam  da  produção  das  normas  e  da  própria  ciência  jurídica.  Tal
+manifestação  é  que,  afinal,  nos  permite  retirar  “do  campo  da  doutrina  ou  da
+própria  jurisprudência  hipóteses  e  casos  práticos  que  demonstram  a
+aplicabilidade na esfera do direito do jus-humanismo normativo, enquanto teoria
+que  se  define  por  entender  o  direito  como  ‘síntese  do  conhecimento  humano
+juridicamente manifestado’”.
+55
+Nessa linha de pensamento, merece registro a tendência jusfilosófica que
+foge  do  dualismo  direito-moral  para  conceber  uma  visão  unitária,
+sociologicamente, na qual ética e direito seriam espécies de um mesmo gênero,
+o que impediria afastar do ordenamento jurídico os valores fundamentais, por
+exemplo, da justiça e da dignidade da pessoa humana.
+56
+No direito positivo contemporâneo, a força da jurisprudência como fonte
+normativa  deixou  de  ser  especulação  doutrinária  e  assumiu  corpo  dentro  da
+própria ordem jurídica legislada. É a Constituição mesma que estabelece força
+vinculante  para  d
+[/PAGINA 43]
+
+[PAGINA 44]
+ecisões  do  Supremo  Tribunal  Federal,  no  controle  de
+constitucionalidade,  e  é  a  lei  processual  ordinária  que  autoriza  julgamento  de
+recursos  com  fundamento  na  jurisprudência  dominante.  Por  último,  esse
+processo dinâmico de aproximação de nosso sistema jurídico ao dos precedentes
+do common law culminou com o advento das súmulas vinculantes (CF, art. 103-A,
+EC  45/2004),  dando  as  verdadeiras  dimensões  ao  papel  da  jurisprudência  na
+ordem jurídica democrática.
+57
+ Em tal contexto, “revela-se impossível negar o
+caráter primário das fontes jurisprudenciais, consolidadas em precedentes, como
+normas jurídicas em si mesmas”.
+58
+Sem dúvida, o vigente sistema processual brasileiro elevou a jurisprudência
+
+26.
+à categoria de fonte de direito. Não cabe, data venia, atribuir-lhe, em caráter
+absoluto,  a  qualificação  de  fonte  primária,  em  total  equiparação  à  lei.  É  que
+continua sendo, no Estado de Direito, fundamental o princípio da legalidade que
+consagra  a  primazia  da  lei,  entre  os  direitos  do  homem,  como  freio  ao
+autoritarismo  do  Poder  Público  (CF,  art.  5º,  II).  Embora  seja  certo  que  a
+jurisprudência pode atingir em seus julgados, e em determinadas circunstâncias,
+força vinculativa erga omnes, seus precedentes só podem ser construídos a partir
+da  lei  ou  do  direito  positivo lato sensu.  Jamais  poderão  eles  funcionar  como
+mecanismo de revogação da lei ou de abstração de sua existência. É sempre a
+partir da aplicação da lei que, dentro de quadros fáticos concretos, pode surgir o
+precedente  com  autoridade  geral,  de  sorte  que  na  sua  origem  estará  sempre
+alguma regra ou princípio ditado pela lei ou pelo sistema adotado pelo direito
+positivo. A atividade jurisdicional criativa é limitada à otimização da lei, e não ao
+seu afastamento ou desprezo.
+O uso abusivo desse poder jurisprudencial tem conduzido à adoção de certas
+liberdades que não merecem estímulo, e, ao contrário, hão de ser coibidas, em
+nome das garantias fundamentais do Estado Democrático de Direito. Adverte a
+melhor e mais consciente doutrina que há uma exigência urgente de se bater pela
+restauração  do  “respeito  ao  primado  da  lei  e  o  consequente  e  efetivo
+cumprimento das decisões judiciais pelos juízes e pelo próprio Estado”.
+59
+É sempre lembrada e atual a advertência de Calamandrei no sentido de que
+o Estado de Direito exige juízes que julguem em conformidade com a lei, e não
+juízes  que,  a  pretexto  de  aplicar  a  Constituição,  deem  à  lei  interpretação
+inteiramente  incompatível  com  o  seu  próprio  enunciado.
+60
+  E  essa  sujeição
+aplica-se  indistintamente  ao  direito  material  e  ao  processual,  como  preconiza
+Greco.
+61
+Em suma, sendo a lei no Estado de Direito a fonte realmente primária e
+suprema do direito, a jurisprudência só pode ser vista como fonte também do
+direito, enquanto interpretar e aplicar a lei e os princípios que a informam. E
+será, portanto, dentro dessa perspectiva que s
+[/PAGINA 44]
+
+[PAGINA 45]
+e estabelecerão os precedentes e as
+súmulas dos tribunais, como fontes complementares do direito.
+A lei processual no tempo
+Toda lei, como criação humana, é sujeita a um princípio e um fim, isto é, a
+um começo de vigência e a um momento de cessação de eficácia.
+
+As  leis  processuais  não  diferem  das  demais,  em  questão  de  vigência,
+subordinando-se às regras comuns da Lei de Introdução às normas do Direito
+Brasileiro, ex  Lei  de  Introdução  ao  Código  Civil  Brasileiro  (Dec.-Lei  nº
+4.657/1942).
+Assim começam a vigorar após a publicação, respeitada a vacatio legis de
+45 dias, se outro prazo não for especificamente estatuído (art. 1º do Dec.-Lei nº
+4.657).
+Não sendo temporária (casos em que o prazo de vigência consta da própria
+lei), os diplomas legais de natureza processual sujeitam-se ao disposto no art. 2º
+da Lei de Introdução, conservando-se em vigor até que outra lei os modifique ou
+os revogue.
+Não  há,  pois,  perda  de  vigência  por  desuso  ou  em  razão  de  costume.  Só
+outra lei pode revogar ou modificar a anterior.
+Há quem afirme o caráter retroativo das leis de processo, tendo em vista sua
+incidência  imediata,  inclusive  sobre  os  processos  em  curso.  Como  explica
+Amaral  Santos,  “encarregou-se  a  doutrina  contemporânea  de  demonstrar  o
+engano em que incide esta afirmação”.
+62
+Na verdade, a lei que se aplica em questões processuais é a que vigora no
+momento da prática do ato formal, e não a do tempo em que o ato material se
+deu.
+Também a lei processual respeita o direito adquirido, o ato jurídico perfeito
+e a coisa julgada (CF, art. 5º, XXXVI, e Lei de Introdução, art. 6º).
+Mesmo  quando  a  lei  nova  atinge  um  processo  em  andamento,  nenhum
+efeito  tem  sobre  os  fatos  ou  atos  ocorridos  sob  o  império  da  lei  revogada.
+Alcança o processo no estado em que se achava no momento de sua entrada em
+vigor, mas respeita os efeitos dos atos já praticados, que continuam regulados
+pela lei do tempo em que foram consumados.
+63
+ Se, por exemplo, a lei nova não
+mais considera título executivo um determinado documento particular, mas se a
+execução já havia sido proposta ao tempo da lei anterior, a execução forçada
+terá prosseguimento normal sob o império ainda da norma revogada.
+Em  suma:  as  leis  processuais  são  de  efeito  imediato  perante  os  feitos
+pendentes, mas não são retroativas, pois só os atos posteriores à sua entrada em
+vigor é que se regularão por seus preceitos.
+64
+ Tempus regit actum.
+Deve-se, pois, distinguir, para aplicação da lei processual nova, quanto aos
+processos:
+
+a)
+b)
+c)
+27.
+28.
+exauridos: nenhuma influência sofrem;
+pendentes: são atingidos, mas respeita-se o efeito dos atos já praticados;
+futuros: seguem totalmente a lei nova.
+ 
+Sobre  conflito  intertemporal  de  leis  processuais,  deve-se  consultar  a
+excelente monografia O Novo Direito Processual Civil e os Feitos Pendentes, do
+Prof. Galeno Lacerda (Edição Forense).
+A lei processual no espaço
+É universalmente aceito o princípio
+[/PAGINA 45]
+
+[PAGINA 46]
+da territorialidade das leis processuais,
+ou seja, o juiz apenas aplica ao processo a lei processual do local onde exerce a
+jurisdição.
+65
+Esse princípio decorre da natureza da função jurisdicional que está ligada à
+soberania do Estado, de modo que, dentro de cada Território, só podem vigorar as
+próprias leis processuais, não sendo admissível, outrossim, a pretensão de fazer
+incidir suas normas jurisdicionais perante tribunais estrangeiros.
+O princípio da territorialidade vem expressamente esposado pelo art. 13 do
+Código de Processo Civil, que declara que “a jurisdição civil será regida pelas
+normas processuais brasileiras, ressalvadas as disposições específicas previstas
+em tratados, convenções ou acordos internacionais de que o Brasil seja parte”.
+66
+Somente  com  relação  às  provas,  seus  meios  e  ônus  de  produção,  é  que
+prevalecerá  a  lei  estrangeira,  quando  o  negócio  jurídico  material  tiver  sido
+praticado em território alienígena, mesmo que a demanda seja ajuizada no Brasil
+(Lei de Introdução, art. 13).
+67
+Embora prevaleça o sistema probatório do local em que se deu o fato, não
+se permite ao juiz brasileiro admitir “provas que a lei brasileira desconheça” (art.
+13, in fine, da Lei de Introdução).
+Interpretação das leis processuais
+Aplicam-se ao direito processual as normas comuns de hermenêutica legal.
+No  entanto,  especialmente,  deve-se  valorizar,  na  aplicação  do  direito
+instrumental,  a  regra  contida  no  art.  5º  da  Lei  de  Introdução,  que  manda  ao
+aplicador da lei atender “aos fins sociais a que ela se dirige e às exigências do
+bem comum” (Decreto-Lei nº 4.657/1942). A norma em questão foi incorporada
+
+pelo NCPC entre aquelas qualificadas como “Normas Fundamentais do Processo
+Civil” (art. 8º).
+Embora se encontrem tanto normas cogentes (a maioria) como dispositivas
+no campo do Direito Processual Civil, o importante é reconhecer que a forma não
+deve  obrigatoriamente  prevalecer  sobre  o fundo  e,  assim,  os  preceitos  de
+procedimento  hão  de  ser  encarados  como normas  de  conveniência  e
+interpretados  sempre  com  a  maior  liberalidade  possível,  como  recomenda
+Schönke.
+68
+Em outras palavras, “as leis processuais não hão de ser um obstáculo que
+frustre o direito material da parte. A inobservância de normas processuais, que
+por si seriam necessárias, pode não ser prejudicial, se sua obediência no caso
+concreto só se manifesta em consequência de mero trâmite procedimental, sem
+nenhuma significação.
+O  que  interessa  ao  direito  processual  de  hoje  é  uma  resolução  justa  e
+imparcial; a utilização das normas de procedimento não deve ser um obstáculo
+no caminho da pronta realização do verdadeiro direito”.
+69
+O fim último do processo não é outro senão o da pacificação social por meio
+da justa composição do litígio.
+70
+Nessa ordem de ideias, são várias as normas do Código de Processo Civil a
+respeito das nulidades, onde se estatui que, “quando a lei prescrever determinada
+forma, o juiz considerar
+[/PAGINA 46]
+
+[PAGINA 47]
+á válido o ato, se realizado de outro modo, lhe alcançar a
+finalidade” (art. 277).
+71
+ Ou ainda que, mesmo reconhecendo a nulidade ou a
+falta de certos atos, o juiz não determinará a sua repetição ou suprimento, quando
+não houver prejuízo para a parte (art. 282, § 1º).
+72
+A mesma orientação é também observada no preceito que determina ao juiz
+não pronunciar a nulidade quando puder decidir o mérito a favor da parte a quem
+a declaração de nulidade pudesse aproveitar (art. 282, § 2º).
+73
+Finalmente,  é  expresso  o  Código  em  afirmar  que  “o  erro  de  forma  do
+processo  acarreta  unicamente  a  anulação  dos  atos  que  não  possam  ser
+aproveitados,  devendo  ser  praticados  os  que  forem  necessários,  a  fim  de  se
+observarem as prescrições legais” (art. 283).
+74
+A livre interpretação e a liberal aplicação dos preceitos procedimentais não
+devem, contudo, chegar aos extremos de desprezar a relevância e o valor que as
+normas  formais  desempenham  no  campo  do  direito,  como  instrumentos
+
+consagrados de segurança jurídica.
+A fiel interpretação das normas processuais deverá, portanto, ser encontrada
+à  luz  dos  princípios  informativos  que  estruturam  o  processo  em  sua  missão
+específica dentro da ciência jurídica.
+Na  verdade  e  em  regra  geral,  as  normas  processuais  devem  ser  havidas
+como absolutas e imperativas, não cabendo às partes a faculdade de renunciar
+livremente  aos  procedimentos,  garantias  e  benefícios  legais.  Como  regra,
+portanto, os procedimentos traçados em lei hão de ser obedecidos rigorosamente,
+pois  não  é  dado  nem  às  partes  nem  aos  órgãos  judiciais  criar  ritos  ou
+procedimentos  não  previstos  em  lei,  ou  desprezar,  sem  razão  relevante,  os
+trâmites legais.
+75
+O  que  importa  é  evitar  a  anulação  pura  e  simples,  de  modo  que  o  juiz
+deverá fazer a adaptação dos procedimentos irregularmente eleitos pela parte
+àqueles recomendados pela lei (art. 283)
+76
+  e,  uma  vez  atingido  o  objetivo  do
+processo, mesmo por procedimento irregular, nenhuma nulidade será decretada,
+sem que tenha havido prejuízo para os litigantes.
+Por outro lado, a função do juiz é apenas a de aplicador do ordenamento
+jurídico, e não a de legislador ou de reformador da legislação existente. Assim,
+cabe-lhe,  no  processamento  e  julgamento  da  lide,  aplicar  as  normas  legais.
+Somente quando não encontrar texto expresso de lei, é que lhe será permitido
+socorrer-se  da  analogia,  dos  costumes  e  dos  princípios  gerais  do  direito,  para
+preenchimento  da  lacuna  do  ordenamento  jurídico  (art.  4º,  Dec.-Lei  nº
+4.657/1942). Com a constitucionalização do processo, os princípios fundamentais
+adquiriram força de norma igual à da lei em sentido estrito, de modo que sua
+aplicação  independe  de  lacuna  do  ordenamento  legal.  Cabe,  portanto,  ao  juiz
+contemporâneo aplicar simultaneamente a lei e os princípios gerais de ordem
+constitucional. Apenas os princípios ordinários, que se extraem dos pr
+[/PAGINA 47]
+
+[PAGINA 48]
+óprios textos
+de lei, é que não derrogam as regras editadas pelo legislador infraconstitucional,
+pela razão de que é a lei que tem a força de afastá-los, e não vice-versa.
+Andrioli lembra três princípios que, finalmente, devem sempre inspirar o
+intérprete das leis processuais, diante de sua aplicação ao caso concreto, e que
+são os seguintes:
+(1º) a tutela jurisdicional dos direitos subjetivos é normalmente reservada
+aos órgãos do Estado; são, pois, excepcionais as hipóteses em que se permite a
+autotutela privada ou unilateral;
+(2º) o processo deve conceder à parte a mesma utilidade que esta poderia
+
+conseguir por meio da norma substancial; excepcionais são os casos em que a
+prestação jurisdicional não coincide com a prestação de direito material;
+(3º)  o  processo  de  cognição  visa  a  concluir  com  um  pronunciamento  de
+mérito;  excepcional  é  a  hipótese  de  extinguir-se  por  inobservância  formal  de
+regras procedimentais.
+77
+
+1
+2
+4
+5
+7
+8
+9
+10
+11
+3
+6
+12
+_________
+CARNELUTTI,  Francesco. Istituzioni  del  processo  civile  italiano.  5.  ed.
+Roma: Società Editrici del Foro Italiano, 1956, v. I, p. 3.
+CHIOVENDA. Giuseppe. Instituições de direito processual civil. 3. ed. trad.
+brasileira, São Paulo: Saraiva, 1969, v. I, n. 11, p. 37.
+CHIOVENDA, Giuseppe. Op. cit., loc. cit.
+NCPC:  “Na  ausência  de  normas  que  regulem  processos  eleitorais,
+trabalhistas  ou  administrativos,  as  disposições  deste  Código  lhes  serão
+aplicadas supletiva e subsidiariamente”.
+Arruda Alvim conclui seu pensamento sobre o tema, observando que se pode
+afirmar que, em juízo, “o princípio da proporcionalidade termina por orientar
+tanto a interpretação das normas jurídicas como, também, o controle de sua
+validade – e, porque não dizer, de sua constitucionalidade – em determinadas
+situações.  E,  no  contexto  atual  da constitucionalização  do  direito  e  da
+disseminação dos conceitos jurídicos indeterminados, a utilização do princípio
+da  proporcionalidade  revela-se  de  crucial  importância  na  atividade
+interpretativa do julgador” (Arruda ALVIM. Processo e Constituição. Revista
+Forense, Rio de Janeiro, v. 408, p. 83-84, mar.-abr. 2010).
+CPC/1973, sem correspondência.
+Na ideia de processo justo insere-se, além do compromisso com a ordem
+jurídica  substancial  e  com  os  valores  e  princípios  constitucionais,  um
+compromisso com valores éticos, como “correção”, “equidade” e “justiça
+procedimental”  (COMOGLIO,  Luigi  Paolo.  Il  “giusto  processo”  civile  in
+Italia e in Europa. Revista de Processo.  São  Paulo:  RT,  v.  116,  p.  154-158,
+jul./ago. 2004).
+COMOGLIO, Luigi Paolo; FERRI, Corrado; TARUFFO, Michele. Lezioni sul
+processo civile. 4. ed. Bologna: Il Mulino, 2006, v. II, p. 13-23.
+PERROT, Roger. O processo civil francês na véspera do século XXI. Revista
+Forense,  v.  342,  p.  161-168,  abr./mai./jun.  de  1998  (trad.  de  Barbosa
+Moreira).
+PRÜTTING, Hanns. Nuevas tendencias en el proceso civil alemán. Gênesis –
+Revista de Direito Processual
+[/PAGINA 48]
+
+[PAGINA 49]
+Civil, n. 41, p. 201-208, jan./jun. 2007.
+COSTA, Sergio. Manuale di diritto processuale civile.  4.  ed.  Torino:  UTET,
+1973, n. 15.
+CARNELUTTI, Francesco. Op. cit., I, p. 3.
+
+14
+16
+17
+19
+20
+21
+24
+25
+28
+13
+15
+18
+22
+23
+26
+27
+AMARAL SANTOS, Moacyr. Primeiras linhas de direito processual civil. 3.
+ed. São Paulo: Max Limonad, 1971, v. I, n. 33, p. 61.
+COSTA,  Lopes  da. Manual  elementar  de  direito  processual  civil.  Rio  de
+Janeiro: Forense, 1956, n. 56, p. 57.
+CARNELUTTI, Francesco. Op. cit., I, n. 100, p. 97.
+ECHANDIA,  Hernando  Devis. Compendio  de  derecho  procesal.  Bogotá:
+ABC, 1974, v. I, n. 7, p. 7.
+COSTA, Lopes da. Op. cit., n. 48, p. 52; CINTRA, Araújo; GRINOVER, Ada
+Pellegrini; DINAMARCO, Cândido R. Teoria geral do processo.  São  Paulo:
+RT, 1974, n. 39, p. 71.
+COSTA, Lopes da. Op. cit., n. 48, p. 52.
+CINTRA, Araújo; GRINOVER, Ada; DINAMARCO, Cândido. Op. cit., n. 40,
+p. 73.
+BERMUDES, Sergio. Comentários ao Cód. Proc. Civ.  São  Paulo:  RT,  1975,
+vol. VII, n. 7, p. 35.
+CINTRA, Araújo; GRINOVER, Ada; DINAMARCO, Cândido. Op. cit., n. 41,
+p. 74.
+BERMUDES, Sergio. Op. cit., n. 7, p. 35-36.
+BERMUDES, Sergio. Op. cit., n. 7, p. 36.
+Outra inovação relevante se deu no texto atual do Código de Processo Civil
+para substituir o agravo de instrumento pelo agravo nos próprios autos  nos
+casos  de  inadmissão  do  recurso  extraordinário  ou  especial  no  tribunal  de
+origem (Lei nº 12.322, de 09.09.2010, que alterou o art. 544 do CPC, com
+vacatio legis de 90 dias a contar da publicação que se deu no Diário Oficial do
+dia 10.09.2010).
+BEDAQUE,  José  Roberto  dos  S. Efetividade  do  processo  e  técnica
+processual: tentativa de compatibilização. Tese para concurso de Professor
+Titular, USP, São Paulo, 2005, p. 13.
+BEDAQUE, José Roberto dos S. Op. cit., p. 13.
+BEDAQUE, José Roberto dos S. Op. cit., p. 16.
+BEDAQUE, José Roberto dos S. Op. cit., p. 45. Segundo Barbosa Moreira, o
+processo deve assegurar à parte vitoriosa o gozo da específica utilidade a que
+faz  jus  segundo  o  ordenamento,  com  o  mínimo  de  dispêndio  de  energia
+(Efetividade do processo e técnica processual. Temas de direito processual,
+Sexta  Série,  1997,  p.  18).  O  aspecto  positivo  da  instrumentalidade  “é
+
+29
+30
+31
+32
+caracterizado pela preocupação em extrair do processo, como instrumento, o
+máximo de proveito quanto à obtenção dos resultados propostos (os escopos
+do  sistema)”  (DINAMARCO,  Cândido  Rangel. A  instrumentalidade  do
+processo. 5. ed. São Paulo: Malheiros, 1996, p. 319). No seu aspecto negativo,
+o princípio da instrumentalidade alerta para o fato de que o processo “não é
+um  fim  em  si  mesmo  e  não  deve,  na  prática  cotidiana,  ser  guindado  à
+condição de fonte geradora de direitos. Os sucessos do processo não devem
+ser tais que superem ou contrariem os desígnios do direito material, do qual
+ele  é  também  um  instrumento”  (CINTRA,  Antonio  Carlos  de  A.;
+GRINOVER,  Ada  Pellegrini;  DINAMARCO,  Cândido. Teoria  geral  do
+processo. 22. ed
+[/PAGINA 49]
+
+[PAGINA 50]
+. São Paulo: Malheiros, 2006, n. 12, p. 47-48).
+“O processo deve dar, quanto for possível, praticamente, a quem tenha um
+direito, tudo aquilo e exatamente aquilo que ele tenha direito de conseguir”
+(CHIOVENDA, Giuseppe. Instituições de direito processual civil. 3. ed. São
+Paulo: Saraiva, 1969, v. I, n. 12, p. 46). Para Proto Pisani, a instrumentalidade
+do  processo  preconiza  sua  justificação  indicativa  da  resposta  que,  caso  a
+caso, o legislador deveria dar para assegurar uma tutela jurisdicional efetiva
+às específicas necessidades de tutela (Lezioni di diritto processuale civile. 3.
+ed. Napoli: Jovene Editore, 1991, p. 34).
+YARSHELL,  Flávio  Luiz.  Alterações  na  legislação  processual  e  segurança
+jurídica. Carta forense,  n.  50,  p.  6,  jul./2007.  É  de  Ives  Gandra  da  Silva
+Martins a advertência, também no mesmo rumo, de que a pouca atenção do
+julgador aos reais propósitos da nova roupagem do direito processual pode
+redundar num certo desalento, diante da “possibilidade de resultarem inúteis
+as medidas de aprimoramento da legislação processual, se o Poder Judiciário
+não estiver comprometido em aplicá-las com razoabilidade” (Razoabilidade
+das decisões judiciais. Carta forense, n. 50, p. 3, jul./2007).
+STJ, 3ª Turma, REsp 1.185.390/SP, Rel. Min. Nancy Andrighi, ac. 27.08.2013,
+DJe 05.09.2013.
+A Exposição dos Motivos do Anteprojeto ressalta a lição de Barbosa Moreira,
+segundo  a  qual,  “querer  que  o  processo  seja  efetivo  é  querer  que
+desempenhe  com  eficiência  o  papel  que  lhe  compete  na  economia  do
+ordenamento  jurídico.  Visto  que  esse  papel  é  instrumental  em  relação  ao
+direito  substantivo,  também  se  costuma  falar  da  instrumentalidade  do
+processo. Uma noção conecta-se com a outra e por assim dizer a implica.
+Qualquer instrumento será bom na medida em que sirva de modo prestimoso
+à  consecução  dos  fins  da  obra  a  que  se  ordena;  em  outras  palavras,  na
+
+33
+34
+35
+37
+38
+36
+medida em que seja efetivo. Vale dizer: será efetivo o processo que constitua
+instrumento  eficiente  da  realização  do  direito  material”  (Por  um  processo
+socialmente efetivo. Revista de Processo,  São  Paulo,  v.  27,  n.  105,  p.  181,
+jan./mar. 2002).
+É  um  verdadeiro  truísmo  a  proclamação  a  todo  instante  reiterada  de  que
+justiça tardonha não é justiça, mas rematada e evidente injustiça. Por isso, a
+Exposição  de  Motivos,  atenta  à  lição  de  Cândido  Dinamarco,  reitera  a
+advertência,  que  presidiu  à  confecção  do  Anteprojeto,  de  que  o  processo,
+“além  de  produzir  um  resultado  justo,  precisa  ser  justo  em  si  mesmo,  e
+portanto, na sua realização, devem ser observados aqueles standards previstos
+na  Constituição  Federal,  que  constituem  desdobramento  do due  process  of
+law” (Instituições de direito processual civil.  16.  ed.  São  Paulo:  Malheiros,
+2009, apud Exposição de Motivos do Anteprojeto do novo Código de Processo
+Civil. Brasília, Senado Federal, 2010, nota 6).
+SOUZ
+[/PAGINA 50]
+

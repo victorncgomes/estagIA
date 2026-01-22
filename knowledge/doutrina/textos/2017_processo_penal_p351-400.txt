@@ -1,0 +1,1877 @@
+[META]
+TITULO: Processo Penal
+AUTOR: 2017
+ANO: N/A
+EDICAO: N/A
+EDITORA: Método
+PAGINAS: 351-400
+ARQUIVO_ORIGINAL: Processo Penal -  Norberto Avena - 2017 .pdf
+CITACAO_ABNT: 2017. Processo Penal.
+[/META]
+
+[PAGINA 351]
+(“se
+ouvido  o  Ministério  Público,  for  aceita  a  declinatória,  o  feito  será  remetido  ao  juízo  competente,  onde,  ratificados  os
+atos anteriores, o processo prosseguirá”). Este, a propósito, é o entendimento de Guilherme de Souza Nucci ao observar
+que  “quando  o  feito  é  encaminhado  a  juízo  diverso,  em  decorrência  de  incompetência  territorial  (relativa),  cabe  ao
+magistrado a ratificação dos atos instrutórios e a renovação dos decisórios”
+7
+. Não obstante este entendimento, a verdade
+é que a jurisprudência do STF vem admitindo a ratificação dos atos decisórios, desimportando, para tanto, se praticados
+por órgão jurisdicional absoluta ou relativamente incompetente
+8
+.
+
+b)
+7.2.4.4
+7.2.5
+O juízo a que foram encaminhados os autos do processo principal, por força da procedência da exceção, não se
+considera competente para o processo: se o magistrado a que foram encaminhados os autos do processo criminal, por
+força da procedência da exceção de incompetência, não concordar com este desiderato, entendendo não ser competente
+o juízo perante o qual atua e sim aquele em que, originariamente, foi distribuída a ação penal, deverá suscitar conflito
+negativo de competência junto ao órgão próprio do tribunal a que vinculado.
+Declaração de ofício pelo juiz
+Refere  o  art.  109  do  CPP  que,  “se  em  qualquer  fase  do  processo  o  juiz  reconhecer  motivo  que  o  torne  incompetente,
+declará-lo-á  nos  autos,  haja  ou  não  alegação  da  parte,  prosseguindo-se  na  forma  do  artigo  anterior”.  O  dispositivo  em  questão
+não diferencia a natureza da incompetência, vale dizer, se absoluta ou relativa, o que, como já dissemos, encontra razão no fato
+de tal distinção ser fruto de construção doutrinária e jurisprudencial surgida após a edição do Código de Processo Penal.
+Ora, tratando-se de incompetência absoluta – ratione materiae e ratione personae –, que dispensa a arguição por meio de
+exceção,  não  há  dúvida  de  que  é  possível  a  aplicação  literal  do  dispositivo  supracitado,  pois  a  nulidade  absoluta,  como  regra,
+permite declaração ex officio pelo juiz.
+Na hipótese de incompetência relativa – ratione loci –, que se constitui no objeto da exceção de incompetência, entendiam
+alguns  doutrinadores  que,  a  despeito  do  caráter  relativo  da  nulidade  daí  decorrente,  poderia  o  magistrado  reconhecê-la  pela
+própria iniciativa. Tal posição, contudo, encontra-se absolutamente superada, tendo em vista que o STJ, por meio da Súmula 33,
+consolidou-se no sentido de que “a incompetência relativa não pode ser declarada de ofício”.
+Exceção de litispendência
+
+7.2.5.1
+•
+•
+•
+7.2.5.2
+1)
+Considerações gerais
+Trata-se  de  exceção  de  natureza peremptória,  sendo  cabível  na  hipótese  de  tramitarem,  no  mesmo  juízo  ou  em  juízos
+diversos, duas ou mais ações contra o mesmo réu, envolvendo o mesmo fato. Em suma, é oponível quando houver ações penais
+idênticas em andamento, o que pressupõe:
+Igualdade de sujeito passivo:
+[/PAGINA 351]
+
+[PAGINA 352]
+as  duas  ou  mais  ações  deverão  ter  sido  movidas  contra  o  mesmo  réu,  não  importando  a
+circunstância de uma delas ter sido iniciada pelo Ministério Público e a outra pelo particular. Sinale-se que, neste último
+enfoque, há divergências, alguns apontando a necessidade de que as ações tenham sido ajuizadas pelo mesmo autor para
+que haja litispendência.
+Identidade de causa de pedir: respeita ao fato imputado, que deve ser o mesmo em ambas as ações penais, ainda que a
+capitulação atribuída em cada um dos processos seja distinta.
+Igualdade de pedido: o pedido é o de condenação, inerente a qualquer ação penal, salvo nas hipóteses em que, mediante
+incidente de insanidade mental instaurado  no  curso  do  inquérito  policial,  tenha  ficado  evidenciada  a  inimputabilidade
+do acusado ao tempo da infração penal. Nesse último caso, a inicial não deverá conter pedido de condenação, mas sim o
+de  absolvição  com  aplicação  de  medida  de  segurança  (art.  386,  parágrafo  único,  III,  do  CPP  c/c  o  art.  97  do  CP).
+Considerando que a medida de segurança possui natureza sancionatória, entendemos que pode ser oposta a exceção de
+litispendência na hipótese de responder o réu a processo em que postulada, por exemplo, sua condenação, quando, pelo
+mesmo  fato,  já  esteja  ele  respondendo  a  outro  processo,  no  qual  realizado  pedido  de  absolvição  com  imposição  de
+medida de segurança.
+Levando-se em conta que a litispendência é situação de absoluta ilegalidade, pois importa em mais de uma acusação sobre o
+mesmo fato, esta exceção poderá ser arguida por qualquer dos sujeitos processuais, impondo-se, para o seu reconhecimento pelo
+juiz, a prévia oitiva da outra parte.
+Não  é  possível  cogitar  do  ingresso  de  exceção  de  litispendência  quando  se  tratar  de  duplicidade  de  inquéritos  policiais,
+ainda  que  sejam  idênticos  os  fatos  em  apuração.  Dessa  forma,  caso  haja,  em  curso,  dois  inquéritos  distintos  visando  à
+investigação  do  mesmo  fato  criminoso,  a  solução  a  ser  adotada  pelo  investigado  apenas  poderá  ser  a  impetração  de  habeas
+corpus ou de mandado de segurança, conforme seja ou não o crime investigado punido com prisão (Súmula 693 do STF). Neste
+caso, a impetração das mencionadas ações autônomas terá o objetivo de trancar o andamento de um dos inquéritos, em face do
+constrangimento ilegal decorrente da dupla investigação policial acerca da mesma conduta.
+Processo junto ao qual deve ser arguida a exceção de litispendência. Prazo
+Quanto ao processo junto ao qual deverá ser suscitada a exceção em exame, há duas posições:
+Primeira:  A  exceção  deverá  ser  arguida  em  relação  ao  segundo  processo  instaurado,  independentemente  de  ele  se
+encontrar,  eventualmente,  em  estágio  procedimental  mais  adiantado  do  que  o  primeiro  ou  de  ser  mais  favorável  ao
+acusado. Este é o entendimento do STF: “Os institutos da litispendência e da coisa julgada direcionam à insubsistência do
+segun
+[/PAGINA 352]
+
+[PAGINA 353]
+do processo e da segunda sentença proferida, sendo imprópria a prevalência do que seja mais favorável ao acusado”
+9
+.
+Segunda:  O  critério  a  ser  observado  deverá  ser  o  da  prevenção,  o  que  importa  em  considerar  que  o  processo  a  ter
+seguimento  deverá  ser  aquele  que  tramita  junto  ao  juízo  que  tenha  se  tornado  prevento  pela  prática  de  qualquer  ato  de
+jurisdição. Sob essa ótica, a exceção será ajuizada em relação ao processo remanescente.
+No  tocante  à  oportunidade  em  que  deve  ser  suscitada,  a  litispendência  não  está  sujeita  a  prazo  peremptório,  visto  que
+importa em nulidade absoluta. Assim, poderá ser arguida em qualquer tempo, desde que antes da sentença.
+E  se  for  detectada  a  duplicidade  de  ações  penais  após  a  prolação  de  sentença  no  processo  que  produziu  a
+litispendência, porém antes do trânsito em julgado? Neste caso, a mácula deve ser alegada em preliminar de recurso contra
+essa  decisão  e  não  mediante  exceção.  Lembre-se:  exceção  é  questão  incidental.  Deve,  portanto,  incidir  no  processo,  ou  seja,
+surgir entre o marco inicial (denúncia ou queixa) e o marco final (sentença) do processo.
+E  se  constatada  a  duplicidade  após  o  trânsito  em  julgado  da  sentença  proferida  no  processo  que  gerou  a
+litispendência?  Nesta  hipótese,  não  se  estará  diante  de  litispendência,  tendo  em  vista  a  inexistência  de  duas  ações  penais  em
+curso. Uma delas, pelo menos, já terá sido extinta. Levando em conta que as exceções constituem meio de defesa, a providência
+correta a ser adotada dependerá do caso concreto. Logo:
+Se a sentença transitada em julgado for condenatória, resta à defesa buscar desconstituí-lo por meio de habeas corpus,
+observada a restrição da Súmula 693 do STF, ou revisão criminal (art. 648, VI, do CPP) sob o pálio da nulidade (art.
+
+2)
+7.2.5.3
+7.2.5.4
+7.2.6
+7.2.6.1
+•
+•
+•
+•
+•
+•
+626 do CPP).
+Se  foi  exarada  sentença  absolutória,  mesmo  que  se  trate  do  processo  que  produziu  a  litispendência,  deverá  a  defesa
+buscar validar essa decisão, pois não há como ser desconstituída. Logo, o processo validamente instaurado e ainda em
+curso é que deverá ser extinto, mediante ingresso de exceção, não de litispendência, mas sim de coisa julgada.
+Procedimento
+A exceção de litispendência seguirá o procedimento estabelecido para a exceção de incompetência (art. 110 do CPP). Será
+oposta junto ao juiz da causa principal, o qual mandará autuá-la em apartado (art. 111, 1.ª parte, do CPP), decidindo após oitiva
+da outra parte e do Ministério Público (caso não seja este o próprio propositor), nos termos do art. 110 do CPP. No decorrer da
+tramitação  da  exceção,  não  haverá  suspensão  do  processo  criminal  (art.  111,  2.ª  parte,  do  CPP).  Sua  procedência  implica  a
+extinção  do  processo  junto  ao  qual  fora  deduzida.  Por  outro  lado,  se  julgada  improcedente,  persistirão  tramitando  ambos  os
+processos ajuizados.
+Declaração de of
+[/PAGINA 353]
+
+[PAGINA 354]
+ício pelo juiz
+O reconhecimento de ofício pelo juiz acerca da ocorrência de litispendência no processo é possível, uma vez que se trata de
+nulidade de ordem absoluta. Destarte, constatando o juiz que preside um dos processos que outro há em andamento e que assim
+deva  permanecer,  poderá,  agindo  ex  officio,  determinar  a  extinção  do  remanescente  sob  o  fundamento  da  ocorrência  de
+litispendência.
+Exceção de ilegitimidade de parte
+Considerações gerais
+Refere-se,  primordialmente,  à  ilegitimidade ad  causam,  ou  seja,  à  titularidade  do  direito  de  ação  (polo  ativo)  e  à
+capacidade para figurar como réu (polo passivo) na relação processual.
+Exemplos:
+Denúncia oferecida pelo Ministério Público em crime de ação penal privada (ilegitimidade ad causam ativa);
+Queixa ajuizada pelo ofendido em crime de ação penal pública antes de esgotar o prazo do promotor de justiça para o
+oferecimento de denúncia (ilegitimidade ad causam ativa);
+Denúncia movida contra indivíduo menor de 18 anos de idade à época do fato (ilegitimidade ad causam passiva).
+Processo  criminal  instaurado  contra  pessoa  inocente,  que  teve  seus  documentos  furtados  e  que  estão  sendo  utilizados
+indevidamente  por  terceiro  na  prática  de  crimes  (TJSP,  HC  3964323400,  3.ª  Câmara  de  Direito  Criminal,  r.
+12.04.2002).
+Independentemente desta finalidade precípua da exceção de ilegitimidade, qual seja, apreciar questões afetas à ilegitimatio
+ad causam,  majoritariamente  tem-se  considerado  possível  o  seu  ingresso  também  em  hipóteses  de  ilegitimatio ad processum,
+relativa esta à capacidade necessária para a prática de atos de natureza processual.
+Exemplos:
+Representação oferecida por quem não é o representante legal da vítima de crime de ação penal condicionada;
+Querelante menor que outorga procuração a advogado para intentar queixa-crime.
+Tratando-se  de  exceção  de  ilegitimidade  ad  causam,  terá  natureza  peremptória,  implicando  seu  reconhecimento  em
+nulidade desde o início da ação (art. 564, II, do CPP).
+Por  outro  lado,  sendo  hipótese  de  exceção  de  ilegitimidade  ad  processum,  esta  poderá  ser  tanto  dilatória  quanto
+peremptória,  tudo  dependendo  da  natureza  e  gravidade  do  vício  detectado  no  caso  concreto.  Assim,  a  ilegitimidade  de  quem
+oferece  a  representação  no  lugar  da  vítima  menor  em  crime  de  ação  pública  condicionada  poderá,  em  determinadas
+circunstâncias,  não  ser  declarada,  em  face  do  que  dispõe  o  art.  568  do  CPP.  Ocorrendo  esta  situação,  a  exceção  terá  assumido
+caráter dilatório.  Já  a  queixa-crime  ajuizada  pelo  querelante  menor  é  insanável,  em  face  da  gravidade  do  vício  de  origem
+existente, conduzindo à extinção do processo. Neste último caso, a exceção de ilegitimidade terá assumido caráter peremptório.
+À  semelhança  do  que  ocorre  em  relação  à  exceção  de  incompetência  do  juízo,  também  a  exceção  de  ilegitimidade  será
+oposta  peran
+[/PAGINA 354]
+
+[PAGINA 355]
+te  o  juiz  da  causa  principal,  não  possuindo  efeito  suspensivo  (art.  111  do  CPP).  A  sua  procedência  importará  na
+extinção do processo, salvo se, tratando-se de ilegitimidade ad processum, não for reconhecida em face da incidência do citado
+art. 568 do CPP. Por outro lado, se julgada improcedente, o processo em relação ao qual foi deduzida continuará tramitando.
+
+7.2.6.2
+7.2.6.3
+7.2.6.4
+7.2.7
+7.2.7.1
+•
+•
+•
+ Prazo
+O reconhecimento da ilegitimidade provoca a nulidade processual e, por isso, não se sujeita à preclusão. Destarte, pode ser
+arguida em qualquer tempo pelos interessados.
+Procedimento
+A exceção de ilegitimidade de parte seguirá o mesmo procedimento da exceção de incompetência (art. 110 do CPP). Será
+oposta junto ao juiz da causa principal, o qual mandará autuá-la em apartado (art. 111 do CPP), decidindo após a oitiva da outra
+parte e do Ministério Público (caso não seja este o próprio propositor), nos termos do art. 110 do CPP. No decorrer da tramitação
+da exceção, não haverá suspensão do processo criminal (art. 111 do CPP).
+A  procedência  da  exceção  de  ilegitimidade  importará  em  extinção  do  processo,  salvo  se,  tratando-se  de  ilegitimidade  ad
+processum,  ocorra  o  saneamento  na  forma  do  citado  art.  568  do  CPP.  Por  outro  lado,  se  julgada  improcedente,  persistirão
+tramitando ambos os processos ajuizados.
+Declaração de ofício pelo juiz
+Não  há  óbice  a  que  seja  a  ilegitimidade  reconhecida  ex officio  pelo  juiz.  Ocorrendo  essa  constatação  na  fase  anterior  à
+instauração da relação processual penal, deverá o magistrado rejeitar a denúncia ou a queixa, na forma do art. 395, II, do CPP
+(falta  de  pressuposto  processual).  Tratando-se  de  verificação  posterior  à  instauração  do  processo,  poderá  o  juiz  anular  e
+extinguir o processo com base no art. 564, II, do CPP. O mesmo poderá ser feito se, no decorrer da instrução, constatar o juiz
+que  o  réu  era  menor  de  18  anos  ao  tempo  da  ação  ou  omissão,  caso  em  que  deverá  extinguir  o  processo.  Havendo  corréus
+imputáveis no mesmo processo, este seguirá em relação a eles.
+Exceção de coisa julgada
+Considerações gerais – natureza, prazo e procedimento
+É exceção de natureza peremptória,  que  tem  seu  fundamento  remoto  na  circunstância  de  que  ninguém  pode  ser  punido
+mais de uma vez pelo mesmo fato. Logo, poderá ser deduzida quando se encontrar em tramitação processo criminal por fato já
+decidido  em  outro  processo  por  sentença  transitada  em  julgado.  Difere,  absolutamente,  da  exceção  de  litispendência,  pois  esta
+pressupõe  a  coexistência  de  dois  ou  mais  processos  idênticos  em  andamento,  enquanto  aquela  se  justifica  na  existência  de  um
+processo em andamento e outro já extinto definitivamente com julgamento de mérito.
+Não se fala em exceção de coisa julgada na fase das investigações policiais, pois ainda não há processo. Se for instaurado
+procedimento  investigatório  para  apura
+[/PAGINA 355]
+
+[PAGINA 356]
+ção  de  fato  que  já  foi  objeto  de  sentença  transitada  em  julgado,  os  caminhos  para  o
+respectivo trancamento serão o habeas corpus ou o mandado de segurança, sempre se observando os termos da Súmula 693 do
+STF.
+O  acolhimento  da  exceção  de  coisa  julgada  pressupõe  identidade  de  ações,  o  que  abrange igualdade  de  sujeito  no  polo
+passivo da relação processual, identidade de causa de pedir e igualdade de pedido (v. item 7.2.5.1).
+Igualdade  de  sujeito  passivo:  as  ações  deverão  ter  sido  movidas  contra  o  mesmo  réu,  não  importando  a  condição  do
+sujeito  ativo.  Deste  modo,  pode  ser  alegada  a  coisa  julgada,  ainda  que  uma  das  ações  penais  tenha  sido  iniciada  pelo
+Ministério Público e a outra pelo particular.
+Identidade de causa de pedir: respeita ao fato imputado, que deve ser o mesmo em ambas as ações penais, ainda que a
+capitulação (artigo) atribuída em cada um dos processos seja distinta.
+Igualdade de pedido: o pedido é o de condenação, inerente a qualquer ação penal, salvo nas hipóteses em que, mediante
+incidente  de  insanidade  mental  instaurado  no  curso  do  inquérito  policial,  tenha  ficado  evidenciada  a  inimputabilidade
+do acusado ao tempo da infração penal. Nesse último caso, a inicial não deverá conter pedido de condenação, mas sim o
+de  absolvição  com  aplicação  de  medida  de  segurança  (art.  386,  parágrafo  único,  III,  do  CPP  c/c  o  art.  97  do  CP).
+Considerando que a medida de segurança possui natureza sancionatória, entendemos que pode ser oposta a exceção de
+coisa  julgada  na  hipótese  de  responder  o  réu  a  processo  em  que,  por  exemplo,  esteja  sendo  buscada  sua  condenação,
+quando, pelo mesmo fato, já tiver sido ele absolvido com imposição de medida de segurança.
+A exceção de coisa julgada não está sujeita à preclusão. Destarte, pode ser arguida em qualquer tempo pelos interessados,
+desde que antes da sentença. Como já mencionamos, as exceções (lato sensu) possuem natureza de questões incidentais (incidem
+ao processo), e não poderão ser admitidas na fase posterior à sentença proferida na lide principal a que se dirigem. De qualquer
+
+7.2.7.2
+1)
+2)
+forma,  se  implicarem  nulidade  absoluta  (a  violação  à  coisa  julgada  importa  nessa  espécie  de  nulidade),  nada  impede  que  a
+matéria seja arguida em grau de recurso como preliminar, ou mesmo em revisão criminal visando à desconstituição de sentença
+condenatória.
+Quanto ao procedimento, de acordo com os arts. 110 e 111 do CPP, a exceção de coisa julgada observará as disposições
+relativas  à  tramitação  da  exceção  de  incompetência.  Será  oposta  junto  ao  juiz  da  causa  principal,  o  qual  mandará  autuá-la  em
+apartado, decidindo após a oitiva da outra parte e do Ministério Público, caso não seja este o próprio propositor. No decorrer de
+sua tramitação, não haverá suspensão do processo criminal. Sua procedência importará em extinção do processo. Por outro lado,
+se julgada improced
+[/PAGINA 356]
+
+[PAGINA 357]
+ente, persistirá o feito em andamento.
+Nada impede o juiz de reconhecer ex officio a ocorrência de coisa julgada, pois ninguém pode responder processo criminal
+por  fato  já  decidido.  Assim,  constatando  o  magistrado  que  já  existe  decisão  a  respeito  do  fato  atribuído,  deverá  extinguir  o
+processo.
+ Coisa julgada formal, coisa julgada material e coisa soberanamente julgada
+Considerando  a  natureza  da  coisa  julgada  e  os  efeitos  que  este  instituto  é  capaz  de  produzir  em  processos  distintos,
+estabelece-se a seguinte classificação:
+a)  Coisa  julgada  formal:  é  a  imutabilidade  da  decisão  judicial  provocada  pela  sua  natureza  irrecorrível,  ou  pela  não
+interposição  do  recurso  cabível  no  prazo  legal,  ou  pelo  esgotamento  de  todas  as  vias  impugnativas  possíveis.  A  coisa  julgada
+formal  não  produz  nenhum  reflexo  em  relações  processuais  futuras,  ainda  que  versem  sobre  o  mesmo  fato  e  o  mesmo  sujeito
+passivo.  Traduz-se  como  um  fenômeno  puramente  processual,  não  envolvendo  ou  decorrendo,  necessariamente,  do  exame  de
+aspectos atinentes ao mérito. Acarreta, simplesmente, a impossibilidade de ser revista a decisão judicial que a gerou. Tendo em
+vista este contexto e considerando a ausência de projeção de seus efeitos em outros processos, descabe a sua arguição por meio
+de exceção de coisa julgada.
+Exemplo:
+A rejeição da queixa-crime oferecida pelo querelante em delito de ação penal pública, pelo fato de ainda não ter se
+esgotado  o  prazo  do  Ministério  Público  para  oferecimento  de  denúncia  (art.  395,  II,  do  CPP).  Tal  decisão,  uma  vez
+transitada  em  julgado,  fará  coisa  julgada  formal,  tornando-se  definitiva.  Caso  o  Ministério  Público  não  venha  a  propor  a
+denúncia no lapso que lhe é facultado por lei, poderá o mesmo  querelante  intentar  outra  queixa,  relativamente  ao  mesmo
+réu e com a imputação do mesmo fato. A decisão anterior de rejeição, enfim, não impede o (re)exercício da ação penal.
+Ressaltamos que, ao se dizer que a coisa julgada formal não implica a análise de mérito da ação penal, isto significa apenas
+que  o  mérito  não  é  determinante  na  sua  produção.  Entretanto,  hipóteses  existem  em  que  a  decisão,  apesar  de  produzir  tão
+somente coisa julgada formal, ingressa em aspectos de mérito. Portanto, não é a presença ou a ausência de enfoques relativos ao
+mérito o critério distintivo da natureza da coisa julgada produzida pela decisão.
+Exemplos:
+A decisão de impronúncia prevista no art. 414 do CPP é fundamentada na ausência de indícios de autoria ou de prova
+da  materialidade  do  fato.  Não  sendo  oportunamente  impugnada  por  meio  de  apelação,  essa  decisão  importará  em
+arquivamento definitivo do processo, que, em hipótese alguma, poderá ser reaberto. Se, porém, surgirem novas provas
+enquanto não for extinta a punibilidade, o mesmo réu poderá ser novamente denunciado pelo mesmo crime, iniciando-
+se,  então,
+[/PAGINA 357]
+
+[PAGINA 358]
+outro  processo.  Como  se  vê,  a  coisa  julgada,  por  ser  unicamente  formal,  atinge  apenas  a  demanda  em  que
+proferida  a  decisão  que  a  gerou,  não  obstando  o  ajuizamento  de  outra  ação  penal  caso  novos  elementos  de  convicção
+assim  o  autorizarem.  A  par  disto,  deve-se  lembrar  que  a  impronúncia,  resultando  da  conclusão  do  juiz  no  sentido  da
+inexistência  de  indícios  de  autoria  ou  de  prova  de  materialidade  do  fato,  pressupõe  o  ingresso  do  magistrado  em
+questões  atinentes  ao  mérito.  Sem  embargo,  a  coisa  julgada  decorrente  desta  espécie  de  decisão  não  se  projeta  em
+relação  à  futura  ação  penal  que  venha  a  ser  ajuizada  em  face  do  que  dispõe  o  art.  414,  parágrafo  único,  do  CPP,  ao
+estatuir que, “enquanto não extinta a punibilidade, poderá, em qualquer tempo, ser instaurado processo contra o réu, se
+houver novas provas”.
+A decisão de pronúncia prevista no art. 413 do CPP, por meio da qual o juiz admite a imputação feita ao réu de um
+crime doloso contra a vida. Tratando-se de um juízo provisório de acusação, a pronúncia produz apenas coisa julgada
+formal,  pois  não  apenas  a  classificação  do  crime  nela  estabelecida  está  sujeita  à  modificação  pelos  jurados  (v.g.,  ao
+desclassificarem  um  crime  de  homicídio  qualificado  para  homicídio  simples),  como  também  poderá  ser  alterada  pela
+superveniência  de  fato  novo,  conforme  regra  expressa  no  art.  421,  §  1.º,  do  CPP  (v.g.,  de  tentativa  de  homicídio  para
+homicídio consumado, em razão da morte superveniente da vítima em decorrência do fato descrito na denúncia). Não
+
+1)
+2)
+obstante,  não  se  pode  deixar  de  constatar  nessa  ordem  de  decisão  um  enfrentamento  de  mérito,  ainda  que  superficial,
+pois  o  magistrado,  ao  proferi--la,  examina  a  presença  de  indícios  de  autoria,  de  prova  de  materialidade  do  crime
+imputado,   de   evidências   quanto   à   presença   ou   não   de   qualificadoras,   entre   vários   outros   aspectos   que,
+indiscutivelmente, estão associados ao mérito da causa.
+b) Coisa julgada material: é a imutabilidade dos efeitos substanciais da sentença de mérito e, ao contrário da coisa julgada
+formal,  produz  reflexos  em  relações  processuais  distintas  que  envolvam  o  mesmo  fato  e  o  mesmo  réu.  Tendo  em  vista  esta
+natureza  que  lhe  é  própria,  apenas  a  coisa  julgada  material  poderá  ser  objeto  de  exceção  de  coisa  julgada.  Malgrado  a
+diferença  entre  os  dois  institutos,  não  se  pode  deixar  de  reconhecer  que  há  relação  entre  ambos,  na  medida  em  que,  para  que
+ocorra a coisa julgada material, é necessário, antes, que ocorra a coisa julgada formal, ou seja, a preclusão de todos os recursos
+possíveis.
+Exemplos:
+A rejeição da denúncia sob o fundamento da atipicidade. Contemple-se a hipótese em que determinado indivíduo seja
+denunciado  pelo  Ministério  Público  sob  o  fundamento  de  ter
+[/PAGINA 358]
+
+[PAGINA 359]
+obtido  vantagem  ilícita  em  prejuízo  alheio,  ao  emitir
+cheque  pré-datado  sem  suficiente  provisão  de  fundos  em  poder  do  sacado.  Conclusa  a  inicial  ao  magistrado,  este
+resolve rejeitar a peça acusatória, entendendo tratar-se de mero ilícito civil e não de uma infração penal (art. 395, III, do
+CPP – falta de justa causa para a ação penal). Tal decisão, evidentemente, poderá ser modificada em eventual recurso
+que  venha  a  ser  interposto  pelo  parquet.  Caso  esgotem-se  as  vias  impugnativas,  a  rejeição  da  denúncia  fará  coisa
+julgada  formal,  impedindo  sua  modificação  no  mesmo  processo.  Não  obstante,  também  produzirá  coisa  julgada
+material,  pois  não  poderá,  mais  tarde,  em  outra  denúncia,  o  mesmo  fato  ser  atribuído  ao  mesmo  réu  pelo  Ministério
+Público.
+A rejeição da queixa-crime em razão da prescrição do fato nela atribuído (art. 395, III, do CPP – falta de justa causa
+para a ação penal).  Preclusas  as  vias  impugnativas,  esta  decisão  torna-se  imodificável  nos  autos  em  que  exarada  em
+face  da  coisa  julgada  formal.  Entretanto,  além  da  coisa  julgada  formal,  o  deci sum  também  produzirá  coisa  julgada
+material,  obstaculizando  que  outra  queixa  venha  a  ser  deduzida  relativamente  ao  mesmo  fato,  pois  este  já  foi
+considerado prescrito em pronunciamento judicial anterior transitado em julgado. E esta conclusão não se altera mesmo
+na  hipótese  em  que  se  venha  a  reconhecer  como  equivocada  a  decisão  que,  reconhecendo  a  prescrição  do  crime
+imputado, deixou de acolher a queixa intentada.
+c)  Coisa  soberanamente  julgada:  a  coisa  soberanamente  julgada  consiste  em  uma  variante  da  coisa  julgada  material  e,
+assim como nesta última, poderá ser objeto de arguição por meio da exceção de coisa julgada. Ocorre em hipóteses nas quais
+a decisão, ao tornar-se imutável pela coisa julgada formal, não apenas reflete em eventual relação processual futura envolvendo
+o mesmo réu e o mesmo fato (coisa julgada material), como também é irrescindível. O decisum,  neste  caso,  jamais  poderá  ser
+desconstituído, ainda que nulo, injusto ou manifestamente ilegal.
+Exemplo:
+Sentença  absolutória  criminal.  Esta,  uma  vez  transitada  em  julgado,  torna-se  definitiva,  não  importando  que,
+posteriormente ao esgotamento ou preclusão dos recursos possíveis (coisa julgada formal), venham a ser descobertas novas
+provas que incriminem o réu. Devido à soberania da coisa julgada material produzida por esta ordem de decisão, nenhum
+outro  processo  poderá  ser  ajuizado  contra  o  mesmo  réu  e  pelo  mesmo  crime  pelo  qual  absolvido.  Ainda  que  nula  a
+sentença absolutória, não poderá ela ser desconstituída por meio de revisão criminal.
+Devemos  observar  que  tal  situação  não  ocorre  em  relação  à  sentença  condenatória,  que  somente  produzirá  coisa
+soberanamente julgada para impedir que seja agravada a situação do condenado, mas não para obstar s
+[/PAGINA 359]
+
+[PAGINA 360]
+eja ele beneficiado pelo
+reconhecimento de atenuantes e minorantes, ou, quem sabe, até absolvido.
+Exemplo:
+Sentença  condenatória  criminal:  Considere-se  que  determinado  indivíduo  seja  condenado,  por  delito  de  lesões
+corporais seguidas de morte, a pena de cinco anos de reclusão, tornando-se esta decisão imutável em razão do não ingresso
+de  qualquer  recurso  pelas  partes  (formando-se,  portanto,  coisa  julgada  formal).  Na  hipótese  de  serem  descobertas,
+posteriormente,  novas  provas  contra  o  réu,  evidenciando  que  possuía  ele  o  dolo  de  matar  no  momento  da  conduta,  em
+razão  do  fato  estar  soberanamente  julgado,  nada  poderá  ser  feito  visando  à  desconstituição  da  decisão  condenatória  e  ao
+ingresso de novo processo criminal contra o mesmo autor para imputar-lhe o crime de homicídio. Não obstante, vindo a ser
+descoberta  uma  nulidade  processual  ou  provas  de  inocência  do  réu,  será  possível  o  ingresso  de  revisão  criminal  para  a
+
+7.2.7.3
+rescisão da sentença condenatória e, até mesmo, a absolvição do réu condenado. Em suma, a decisão condenatória, nesta
+hipótese, terá produzido coisa soberanamente julgada apenas para impedir qualquer medida que agrave a situação do réu,
+mas não para obstar-lhe benefícios ou até mesmo a absolvição diante do surgimento posterior de provas de sua inocência.
+Atente-se, para melhor visualizar as diferenças quanto aos institutos referidos, ao seguinte gráfico:
+A exceção de coisa julgada e os limites objetivos e subjetivos
+O estudo relativo aos limites objetivos da coisa julgada tem por fim determinar quais as partes da sentença que produzem
+coisa julgada material. Para essa definição, utiliza-se o art. 110, § 2.º, do CPP, o qual estabelece que a exceção de coisa julgada
+somente poderá ser oposta em relação ao fato principal que tiver sido objeto da sentença. Ora, por fato principal compreende-se
+a imputação feita ao réu, vale dizer, aquela que se possa concluir a partir da descrição incorporada à denúncia ou queixa-crime,
+independentemente da capitulação jurídica (artigo de lei) que lhe tenha sido atribuída. Logo, não fazem parte do fato principal e,
+consequentemente, não estão abrigados pela coisa julgada material, por exemplo, determinadas circunstâncias do crime, como a
+narrativa genérica do contexto fático em que ocorreu.
+Por outro lado, os limites subjetivos da coisa julgada  dizem  respeito  à  imutabilidade  da  decisão  em  relação  aos  sujeitos
+processuais.  O  problema  relativo  a  esta  vertente  é  resolvido  por  meio  do  art.  506  do  CPC/2015,  estabelecendo  este  que  “a
+sentença  faz  coisa  julgada  às  partes  entre  as  quais  é  dada,  não  prejudicando  terceiros”.  Transpondo-se  esta  disciplina  para  o
+processo penal, infere-se que a regra, então, é a de que a decisão produza coisa julgada apenas em relação ao responsável pela
+infração  que,  devidamente  processado,  tenha  sido  definitivamente  condenado  ou  absolvido.  Tal
+[/PAGINA 360]
+
+[PAGINA 361]
+situação,  aliás,  decorre  do
+imperativo  constitucional  do  contraditório,  o  qual  exige  que  seja  alcançado  pela  autoridade  da  coisa  julgada  apenas  aquele  a
+quem tenha sido oportunizado apresentar alegações e produzir provas no intuito de formar o convencimento do juiz
+
+7.2.7.4
+–
+–
+A disciplina do art. 506 do CPC/2015 (A sentença faz coisa julgada às partes entre as quais é dada, não
+prejudicando terceiros.) substituiu a do art. 472, 1.ª parte, do revogado CPC/1973 (“A sentença faz coisa
+julgada às partes entre as quais é dada, não beneficiando, nem prejudicando terceiros. [...] A alteração
+verificada  entre  um  e  outro  (supressão,  no  primeiro,  da  expressão  “não  beneficiando...  terceiros”
+adéqua-se  perfeitamente  ao  sistema  processual  penal  em  vigor,  que,  conforme  se  verá  adiante,  em
+dadas  circunstâncias,  admite  que  terceiro,  mesmo  não  sendo  réu,  beneficie-se  com  decisão  penal
+favorável ao acusado na ação penal que lhe tenha sido movida.
+Independentemente  desta  normatização,  qual  seja,  a  de  que  a  coisa  julgada  não  beneficia  nem  prejudica  terceiros,  há
+situações  em  que,  excepcionalmente,  os  efeitos  da  sentença  poderão  estender-se  a  pessoas  que  não  tenham  figurado  no  polo
+passivo da relação processual, sendo-lhes facultado, na hipótese de virem a ser processadas criminalmente, arguirem a exceção
+de coisa julgada como óbice ao prosseguimento do feito.
+Ilustra-se:
+Suponha-se  que  João  seja  denunciado  por  furto  qualificado  pelo  concurso  de  pessoas,  praticado  no  interior  de  uma
+residência,  visto  que  de  lá,  em  conjunto  com  terceira  pessoa  não  identificada  no  inquérito,  subtraiu  determinada  coisa
+alheia móvel. Neste interregno, a autoridade policial, que prosseguira nas investigações para descobrir o suposto comparsa
+de João, chega à pessoa de Pedro, encaminhando o resultado dessas novas investigações a juízo. Considere-se, porém, que,
+a esse tempo, já tenha sido João absolvido por decisão transitada em julgado, sob o fundamento da atipicidade da conduta,
+em face das provas surgidas no curso do processo no sentido de que, na verdade, foi a vítima quem, espontaneamente, lhe
+doou o objeto tido como furtado, sendo que Pedro apenas o ajudou no seu transporte. Neste contexto, caso Pedro venha a
+ser  processado  pelo  mesmo  fato,  poderá  arguir,  em  seu  benefício,  a  exceção  de  coisa  julgada,  visto  que  a  ausência  de
+tipicidade da conduta que praticou com João já foi decidida por meio de sentença imutável. Isto ocorre em face de ter sido
+João  absolvido  por  motivo  relacionado  ao  fato  que  lhe  foi  imputado  em  si  e  não  à  sua  pessoa.  A  solução  seria  bem
+diferente caso a absolvição de João ocorresse por motivo pessoal, v.g.,  a  ausência  de  provas  de  que  ele  tenha  concorrido
+para  a  infração  penal.  Neste  caso,  nada  impediria  o  ajuizamento  posterior  de  ação  penal  contra  Pedro,  sem  que  pudesse
+este o
+[/PAGINA 361]
+
+[PAGINA 362]
+por, em seu favor, a exceção em exame.
+Para esta interpretação, contribui a exegese a contrario sensu do art. 580 do CPP, que, tratando de situação simétrica, refere
+que, “no caso de concurso de agentes (CP, art. 29), a decisão do recurso interposto por um dos réus, se fundado em motivos que
+não sejam de caráter exclusivamente pessoal, aproveita aos demais” (grifamos); e também colabora, igualmente por simetria, a
+previsão  do  art.  1.005  do  CPC/2015,  relativo  ao  chamado  litisconsorte  unitário,  ao  preceituar  que  o  recurso  interposto  por  um
+dos litisconsortes a todos aproveita, salvo se distintos ou opostos os seus interesses.
+Exceção de coisa julgada no concurso formal de crimes
+Por  concurso  formal  compreende-se  a  hipótese  em  que  o  agente,  mediante  uma  ação  ou  omissão,  pratica  dois  ou  mais
+crimes, idênticos ou não.
+Haverá concurso  formal  próprio  quando  dois  ou  mais  crimes  decorrerem  de  uma  mesma  conduta,  sem  que  haja
+diversidade de desígnios ou de vontades em relação a cada um deles. Assim ocorre nos crimes culposos, na hipótese de conduta
+imprudente,  negligente  ou  imperita  do  agente  que  produzir  diversos  resultados;  e,  também,  na  hipótese  de  aberratio ictus  (art.
+73, § 2.º, do CP), vale dizer, quando o agente, visando a determinado resultado, causa além deste, que constitui o seu objetivo,
+um outro a título de culpa. Em ambos os casos, a teor do art. 70, 1.ª parte, do CP, considerar-se-á apenas a pena cominada a um
+dos crimes resultantes da conduta, fazendo-se incidir, sobre ela, o acréscimo de um sexto até a metade (sistema da exasperação
+da pena).
+Por outro lado, haverá concurso formal impróprio quando o agente pratica dois ou mais crimes mediante uma só conduta,
+praticada  esta  com  pluralidade  de  desígnios  (ou  pluralidade  de  vontades).  Essa  espécie  de  concurso  só  é  possível  quando  o
+agente deseja (dolo direto) todos os resultados ou aceita o risco de produzi-los (dolo eventual).
+Exemplo de concurso formal próprio em crimes culposos: Manoel, dirigindo em excesso de velocidade, vem a colidir
+contra outro veículo, matando os três caroneiros que o acompanhavam.
+Exemplo de concurso formal próprio na hipótese de “aberratio ictus”: Mário, desejando matar Joaquim, atinge-o com um
+disparo que, por acidente, também acerta Maria, causando a morte dos dois.
+
+–
+7.2.7.5
+7.2.7.6
+Exemplo de concurso formal impróprio: indivíduo, desejando matar seus dois inimigos, atropela-os, simultaneamente, no
+exato  momento  em  que  atravessam  uma  via  pública.  Neste  caso,  como  havia  desígnios  autônomos  em  relação  a  cada
+conduta, dispõe o art. 70, 2.ª parte, do CP que as penas correspondentes aos crimes distintos serão somadas (sistema do
+cúmulo material).
+No tocante à amplitude da coisa julgada material na hipótese de concurso formal de crimes (próprio ou impróprio), tem-se
+compreendido que o instituto apenas poderá ser invocado como matéria de defesa na hipótese em que a sente
+[/PAGINA 362]
+
+[PAGINA 363]
+nça proferida em
+relação  ao  crime  decidido  tenha  sido  absolutória.  Contudo,  se  houve,  em  relação  àquele  delito,  veredicto  condenatório,  nada
+obsta a propositura de ação penal em relação ao crime remanescente.
+Exemplo:
+João foi denunciado, processado e julgado pela morte de Pedro, transitando em julgado essa decisão. Posteriormente,
+é  descoberto  que  o  mesmo  tiro  que  matou  Pedro  causou,  por  acidente,  a  morte  de  um  transeunte,  Mário,  que  também
+restou  atingido  pelo  projétil,  sendo,  até  então,  desconhecido  o  autor  desse  disparo.  Poderia  o  segundo  resultado,
+descoberto apenas em momento posterior ao julgamento do primeiro, ser objeto de novo processo?
+No caso exposto, apenas será possível o ajuizamento de ação penal contra João pelo resultado que vitimou Mário se, quanto
+a  Pedro,  tiver  sido  condenatória  a  sentença.  Agora,  se  foi  João  absolvido  pelo  tiro  que  desferiu  contra  Pedro,  neste  caso  será
+inviável nova ação penal imputando-se a mesma ação, ainda que com resultado diverso.
+Exceção de coisa julgada no crime continuado
+Com previsão no art. 71 do CP, há crime continuado quando o agente, mediante mais de uma ação ou omissão, comete dois
+ou mais crimes da mesma espécie, de tal forma que, pelas condições de tempo, lugar e forma de execução, devem os posteriores
+ser considerados como continuação do primeiro.
+No que concerne à relação entre essa modalidade criminosa e a exceção de coisa julgada, o questionamento que se impõe
+respeita à solução jurídica a ser conferida na hipótese de ter sido o indivíduo condenado em processos distintos, constatando-se
+posteriormente, já na fase da execução das penas atribuídas por sentenças diversas, que todos foram perpetrados em condições
+tais que autorizariam o reconhecimento do crime continuado. Neste caso, independentemente do trânsito em julgado ocorrido em
+relação  à  decisão  proferida  em  cada  um  dos  processos  penais  a  que  respondeu  o  condenado,  faculta-se  ao  juiz  da  execução
+aplicar o instituto da unificação das penas, que nada mais é do que a incidência do art. 71 do CP na fase executória da pena.
+Assim,  verificando  tratar-se,  efetivamente,  de  hipóteses  que  permitem  o  reconhecimento  do  crime  continuado,  caberá  ao
+magistrado valer-se da pena mais elevada, exasperando-a segundo os parâmetros fracionários definidos no precitado art. 71 do
+CP (1/6 a 2/3).
+Considere-se, para ilustrar, a seguinte situação:
+Determinada  pessoa  é  processada  e  julgada  por  um  crime  de  furto,  sendo-lhe  fixada  pena  de  dois anos  de  reclusão,
+operando-se  o  respectivo  trânsito  em  julgado.  Entretanto,  em  momento  posterior,  vem  a  ser  condenada  em  processos
+distintos, por outros três furtos, sendo-lhe impostas, por sentenças igualmente definitivas, penas de um ano e quatro meses
+no  primeiro,  um ano  no  segundo  e  um  ano  e  oito  meses  no  terceiro.  Somadas  as  penas  impostas  nas  quatro  sentenças
+penais,
+[/PAGINA 363]
+
+[PAGINA 364]
+ter-se-á o total de seis anos de prisão a serem cumpridos. Encontrando-se a cumprir pena, constata seu defensor a
+possibilidade de que tenham sido os crimes cometidos em continuidade delitiva, situação esta que importaria em redução
+substancial de pena caso tivesse respondido a um só processo criminal pelos quatro delitos.
+Neste exemplo, supondo-se que a exasperação sobre a maior das quatro penas impostas (dois anos) venha a ocorrer no grau
+máximo, resultaria a pena final em três anos e quatro meses (2 anos = 24 meses x 2/3 = 1 ano e 4 meses 
+ 2 anos + 1 ano e 4
+meses  =  3  anos  e  4  meses),  reprimenda  esta  inferior,  portanto,  aos  seis  anos  que  originariamente  resultaram  da  soma  então
+realizada.
+Exceção de coisa julgada nos crimes permanentes
+Crime permanente  é  aquele  cuja  consumação  se  protrai  no  tempo.  Trata-se  de  um  único  crime,  sendo  sua  consumação
+prolongada por vontade do sujeito ativo. É o que ocorre, por exemplo, no crime de sequestro (art. 148 do CP). Tomando por base
+esse  delito,  imagine-se  que  determinada  pessoa  permaneça  sequestrada  durante  várias  semanas,  sendo  o  local  do  cativeiro
+modificado de tempos em tempos, abrangendo regiões pertencentes a comarcas distintas. Processado e sentenciado o agente por
+
+7.2.7.7
+7.2.8
+7.2.8.1
+7.2.8.2
+7.2.8.3
+decisão  transitada  em  julgado  em  uma  dessas  comarcas,  não  poderá  ser  novamente  acionado  pelo  mesmo  delito  em  qualquer
+outra, em face da coisa julgada material que se operou com o trânsito em julgado da primeira decisão.
+Exceção de coisa julgada nos crimes habituais
+Por crimes  habituais  compreendem-se  aqueles  que  não  se  consumam  com  a  prática  de  um  só  ato  típico,  exigindo,  ao
+contrário, a reiteração da conduta. Exemplo de crime habitual é o curandeirismo, que apenas se tem por configurado diante da
+comprovação de várias práticas relacionadas ao tratamento de pessoas por meio de métodos cientificamente questionáveis. Ora,
+denunciado  e  julgado  o  agente  por  essa  forma  de  crime,  não  poderá,  posteriormente,  voltar  a  ser  acionado  por  qualquer  das
+condutas que incorporaram o primeiro processo, em razão da coisa julgada material.
+Pode  ocorrer,  entretanto,  que,  após  ter  sido  denunciado,  torne  o  agente  a  exercer  a  prática  ilegal  de  métodos  de  cura,
+iniciando  um  novo  ciclo  de  condutas  que,  por  não  integrarem  a  relação  anterior,  poderão,  então,  ser  objeto  de  outro  processo
+criminal.
+Formas  de  impugnação  da  decisão  judicial  proferida  nas  exceções  de  suspeição,
+incompetência, litispendência, ilegitimidade de parte e coisa julgada
+Procedência e improcedência da exceção de suspeição
+Conforme  já  examinamos  anteriormente,  a  exceção  de  suspeição  do  juiz  não  é  decidida  pelo  próprio  magistrado  excepto.
+Este  pode,  sem  dúvida,  acolhê-la  e  afastar-se  do  processo,  enviando-o  ao  magistrado  substituto.  Caso  não  o  faça,  deverá
+encaminhar  a  exce
+[/PAGINA 364]
+
+[PAGINA 365]
+ção  ao  órgão  competente  do  tribunal  ao  qual  está  vinculado,  que  julgará  procedente  ou  improcedente  a
+exceção.  Destarte,  o  recurso  cabível  em  relação  a  tais  resultados  dependerá  do  órgão  julgador  da  exceção,  o  que  é  previsto  no
+regimento  interno  de  cada  pretório.  Como,  normalmente,  a  exceptio suspicionis  é  decidida  por  uma  câmara  dos  Tribunais  de
+Justiça  ou  por  uma  turma  dos  Tribunais  Regionais  Federais,  a  respectiva  decisão  poderá  ser  atacada  por  meio  dos  recursos
+especial e extraordinário.
+Procedência e improcedência das exceções de incompetência, litispendência, ilegitimidade de
+parte e coisa julgada
+Na hipótese de procedência  destas  exceções,  será  cabível  a  interposição  de  recurso  em  sentido  estrito,  fundamentado  no
+art. 581, III, do CPP.
+Como  a  previsão  do  recurso  em  sentido  estrito  é  limitada  à  hipótese  de  procedência,  no  caso  de  improcedência caberá a
+impetração de habeas corpus, se o crime imputado for punido com prisão, ou de mandado de segurança, se o delito atribuído for
+punido com pena não privativa da liberdade (v.g., porte de drogas para consumo pessoal, que não tem previsão de pena privativa
+de liberdade na Lei 11.343/2006). Essa diferenciação, como já vimos, ocorre em razão do teor da Súmula 693 do STF, proibindo
+a impetração de habeas corpus no âmbito de processos criminais em que não seja cominada pena privativa de liberdade ao delito
+apurado.
+Reconhecimento ex officio pelo juiz da incompetência do juízo, litispendência, ilegitimidade de
+parte e coisa julgada
+Em relação ao reconhecimento ex officio da incompetência do juízo, é oponível recurso em sentido estrito fundamentado
+no  art.  581,  II,  do  CPP,  que  se  refere  à  decisão  do  magistrado  que  “concluir  pela  incompetência  do  juízo”.  A  hipótese  não  se
+confunde  com  a  prevista  no  art.  581,  III  do  mesmo  Código,  pois  este  inciso  contempla  o  cabimento  do  RSE  em  relação  ao
+julgamento de procedência da exceção de incompetência (e das demais exceções, salvo a de suspeição), isto é, àquela deduzida
+pela parte interessada.
+Não  havendo  previsão  de  RSE  em  relação  à  decisão  judicial  que,  ex  officio,  reconhece  a  ocorrência  de  litispendência,
+ilegitimidade de parte e coisa julgada, duas alternativas se apresentam:
+Primeira:  importando  todas  estas  situações  em  extinção  prematura  do  procedimento,  a  decisão  do  magistrado  poderá
+ser  apelável  por  força  do  disposto  no  art.  593,  II,  do  CPP,  que  trata  da  apelação  contra  “as  decisões  definitivas  ou  com
+força  de  definitivas”  (decisões  que  provocam  a  extinção  do  procedimento  ou  põem  termo  a  uma  fase  do  processo)  nos
+casos “não previstos no capítulo anterior” (o “capítulo anterior” refere-se ao RSE).
+Segunda: considerando que a litispendência, a ilegitimidade de parte e a coisa julgada importam em nulidade absoluta
+do processo junto ao qual declaradas,
+[/PAGINA 365]
+
+[PAGINA 366]
+uma vez reconhecidas, justificam o cabimento de recurso em sentido estrito fulcrado
+
+7.2.8.4
+7.3
+7.3.1
+no  art.  581,  XIII,  do  CPP,  dispondo  sobre  o  cabimento  dessa  via  impugnativa  contra  a  decisão  que,  de  ofício  ou  a
+requerimento dos interessados, anular o processo no todo ou em parte.
+Exceções: gráfico esquematizado
+ CONFLITO DE JURISDIÇÃO (ARTS. 113 A 117 DO CPP)
+Considerações gerais
+Conforme  se  infere  do  art.  114  do  CPP,  surge  conflito de jurisdição  toda  vez  que  duas  ou  mais  autoridades  judiciárias
+pretenderem oficiar no mesmo processo (conflito positivo) ou recusarem-se a nele atuar (conflito negativo).
+
+7.3.2
+7.3.3
+•
+•
+7.3.4
+Doutrinariamente,  tem-se  diferenciado  conflito  de  jurisdição  de  conflito  de  competência,  afirmando-se  que  ocorre  o
+primeiro  quando  existe  divergência  entre  órgãos  de  jurisdições  distintas  (exemplos:  Justiça  Comum  e  Justiça  Federal,  Justiça
+Comum do Estado de Santa Catarina e Justiça Comum do Estado do Paraná) e, o segundo, quando a divergência surgir entre
+dois ou mais órgãos da mesma justiça (exemplos:  juiz  da  Comarca  de  Canoas  e  juiz  da  Comarca  de  São  Leopoldo,  ambos  da
+Justiça  Comum  do  Estado  do  Rio  Grande  do  Sul).  Sob  o  ponto  de  vista  técnico,  compreendemos  imprópria  tal  distinção.  Na
+verdade,  entendemos  imprópria  a  expressão  conflito  de  jurisdição  utilizada  pelo  legislador,  porque  todo  o  juiz  regularmente
+investido possui jurisdição,  assim  compreendido  o  poder  que  lhe  é  conferido  para  declarar  o  direito.  Logo,  não  podem  existir
+jurisdições  em  conflito,  mas  sim  competências  em  conflito,  discutindo-se,  então,  quem,  dentre  todos  os  juízes  investidos  de
+jurisdição,  poderá  declarar  o  direito  em  determinado  caso  concreto.  Independentemente  dessa  crítica  que  fizemos,  a  verdade  é
+que, no plano da doutrina, a diferenciação é feita, devendo ser observada em sede de concursos públicos voltados à área jurídica.
+Por outro lado, quando se tratar de disputa entre autoridades judiciárias e administrativas, ou somente entre autoridades
+administrativas,  haverá  conflito  de  atribuições.  Assim,  se  um  promotor  de  justiça  de  Santa  Cruz  do  Sul,  por  exemplo,  não
+oferece denúncia em um determinado inquérito policial, requerendo sua remessa ao promotor da comarca vizinha de Rio Pardo,
+caso  este  entenda  também  não  possuir  atribuições,  deverá  suscitar  conflito  negativo  de  atribuições,  a  ser  dirimido  pelo
+procurador-geral de justiça.
+Legitimidade
+Segundo  a  norma  do  art.  115  do  CPP,  o  conflito  de  jurisdição  (e  isto  se  aplica,  igualmente,  ao  conflito  de  competência)
+poderá ser suscitado pelas partes interessadas (autor e réu) e pelo órgão do Ministério Público junto a qualquer dos juízes
+em dissídio, bem como pelos próprios juízes ou tribunais envolvidos. Observe-se que não há incoerência na referência expressa
+ao Ministério Público, a
+[/PAGINA 366]
+
+[PAGINA 367]
+qual se justifica na intenção do legislador em deixar claro que o parquet poderá suscitar o conflito tanto
+quando  estiver  posicionado  na  condição  de  parte  do  processo  como  na  hipótese  de  encontrar-se  exercendo  o  papel  de  custos
+legis.
+Forma e oportunidade
+O  conflito  de  jurisdição  (e  de  competência)  sempre  decorrerá  de  manifestação  escrita  circunstanciada,  deduzida  pelos
+legitimados   perante   o   órgão   competente   para   dirimi-lo,   expondo-se   os   fundamentos   e   acostando-se   a   documentação
+comprobatória pertinente. Se realizado pelas partes (querelante, Ministério Público ou réu) ou pelo custos legis, assume a forma
+de requerimento; se, ao contrário, provocado pelos juízes ou tribunais, toma a forma de representação (art. 116 do CP). Quanto à
+diferença entre um e outro, tem-se que o requerimento insere um pedido feito ao Tribunal competente para que decida sobre a
+controvérsia, dirimindo o conflito existente. Já a representação não contém, propriamente, um pedido, mas sim uma exposição
+das  razões  pelas  quais  o  suscitante  considera-se  competente  ou  incompetente  para  o  exame  de  determinado  processo,  a  fim  de
+que o Tribunal delibere a respeito.
+Tanto o requerimento como a representação, em princípio, devem ser autuados em apartado, com remessa destes autos ao
+Órgão  competente  para  julgamento  do  conflito.  Ressalva-se  desta  regra  o  conflito  negativo  suscitado  pelos  próprios  juízes  ou
+tribunais, que deverá ser realizado nos próprios autos do processo criminal.
+Relativamente  à  oportunidade  de  arguição,  tudo  depende  da  natureza  da  incompetência  que  provocou  o  deslocamento  do
+processo (conflito negativo) ou a dupla pretensão de nele oficiar (conflito positivo). Logo:
+Tratando-se de incompetência relativa (territorial), o conflito deverá, em regra, ser suscitado nos prazos assinalados
+pelo art. 571 do CPP, sob pena de preclusão. Discordamos, neste enfoque, de Mirabete, que considera como prazo fatal,
+para  a  defesa,  o  momento  da  defesa  prévia  (agora  tratada,  no  procedimento  comum  –  art.  396-A  do  CPP  –,  como
+resposta à acusação).
+Sendo hipótese de incompetência absoluta (em razão da matéria ou da pessoa), em tese, pode o conflito ser suscitado
+em qualquer tempo, já que tal ordem de incompetência não está sujeita a prazos preclusivos. Diz-se “em tese” porque é
+preciso  ressalvar  a  situação  versada  na  Súmula  59  do  STJ,  dispondo  que  “não  há  conflito  de  competência  se  já  existe
+sentença  com  trânsito  em  julgado,  proferida  por  um  dos  juízos  conflitantes”.  Logo,  se  em  um  deles  já  existe  decisão
+transitada em julgado, não se pode mais cogitar da ocorrência de conflito de competência a ser dirimido pelos tribunais.
+Procedimento
+O  procedimento  em  si  é  bastante  simples:  o  requerimento  ou  a  representação  deverá  ser  endereçada  ao  Presidente  do
+
+7.3.5
+(a)
+(b)
+(c)
+Tribunal  competente  para  a  solução  do
+[/PAGINA 367]
+
+[PAGINA 368]
+impasse,  sendo  que  este  procederá  à  distribuição  (caso  não  deva  ele  próprio  funcionar
+como relator). Uma vez distribuído o conflito, sendo positivo, poderá ser determinada a suspensão do processo pelo relator (art.
+116, § 2.º, do CPP). A seguir, expedida ou não essa ordem, serão requisitadas informações das autoridades envolvidas, as quais
+deverão ser prestadas no prazo assinalado (art. 116, § 3.º, do CPP). Recebidas tais informações e depois de ouvido o Ministério
+Público,  será  julgado  o  conflito,  salvo  se  houver  necessidade  de  alguma  diligência  instrutória  (art.  116,  §§  4.º  e  5.º,  do  CPP),
+encaminhando-se, após, as cópias necessárias à execução da decisão às autoridades em conflito (art. 116, § 6.º, do CPP).
+Decidindo o conflito, o Tribunal definirá o juiz competente.
+  Distinção  entre  conflito  de  competência/jurisdição  e  conflito  de  atribuições  no  caso
+concreto
+Questão  importante  refere-se  ao  momento  em  que  deixa  de  existir  conflito  de  atribuições  para  surgir  conflito  de
+competência ou de jurisdição, ou vice-versa. Imagine-se que um promotor de justiça de Guaratinguetá não ofereça denúncia
+em  determinado  inquérito  policial,  requerendo  sua  remessa  ao  promotor  da  comarca  de  Jacareí,  sendo  esta  manifestação
+acolhida pelo juiz. Considere-se, neste mesmo caso, que o juiz a que foram encaminhados os autos, Jacareí, também acolhendo
+manifestação  do  Ministério  Público  que  lá  oficia,  venha  a  entender  não  ser  competente  para  o  feito,  compreendendo  que  tal
+deveria  ocorrer  junto  ao  foro  a  que  inicialmente  foi  distribuído  o  procedimento  investigatório,  ou  seja,  Guaratinguetá.  Nessa
+hipótese, houve:
+Conflito negativo de jurisdição entre os juízes de Guaratinguetá e de Jacareí?
+Conflito negativo de atribuições entre os promotores de Guaratinguetá e de Jacareí?
+Conflito negativo de atribuições entre o promotor de Guaratinguetá e o juiz de Jacareí?
+Há, basicamente, três posições:
+1.ª)  A  hipótese  é  de  conflito  negativo  de  atribuições  entre  os  promotores  de  Guaratinguetá  e  de  Jacareí,  visto  que
+surgiu antes da instauração da relação processual penal: para os defensores dessa linha de pensamento, o simples fato de o
+juiz, no âmbito do inquérito policial, enviar os respectivos autos, a requerimento do Ministério Público, para outro órgão judicial
+não implica negar a sua competência, consubstanciando-se esse encaminhamento em um simples despacho de mero expediente.
+Tanto  é  que  o  art.  109  do  CPP  permite  que  o  juiz  declare  sua  incompetência  “em  qualquer  fase  do  processo”,  não  havendo
+referência  ao  inquérito  policial.  Destarte,  quando  realiza  tal  encaminhamento,  procede  o  juiz  a  uma  atividade  meramente
+administrativa  e  sem  nenhum  caráter  jurisdicional.  Neste  sentido,  a  decisão  do  Conflito  de  Jurisdição  163/RJ,  do  Tribunal  de
+Justiça do Rio de Janeiro, entendendo-se que, “inexistindo denúncia,
+[/PAGINA 368]
+
+[PAGINA 369]
+não tendo sido instaurada a ação penal, não há conflito de
+competência de juízes, mas conflito de atribuições do MP, que será decidido pela douta Procuradoria-Geral de Justiça”.
+2.ª) A hipótese caracteriza conflito negativo de competência entre os juízes de Guaratinguetá e de Jacareí, pois estes,
+ao  acolherem  as  manifestações  dos  promotores  que  atuam  nas  respectivas  varas,  judicializaram  as  posições  externadas
+nos pareceres do Ministério Público: entende-se que o momento em que é suscitado o conflito – antes ou depois da instauração
+da relação processual penal – mostra-se indiferente. Assim, quando dois agentes do Ministério Público promovem no sentido da
+incompetência  do  juízo  para  o  processo  e  julgamento  de  um  fato  delituoso,  deixando,  em  razão  disso,  de  oferecer  denúncia,  o
+conflito não se estabelece entre eles, mas entre os juízes que acolherem suas promoções conflitantes. Trata-se, pois, de conflito
+de  jurisdição,  e  não  de  conflito  de  atribuições,  a  ser  dirimido  no  âmbito  do  Poder  Judiciário.  Neste  sentido,  em  diversas
+oportunidades  pronunciou-se  o  STF,  acrescentando  que,  “se  juízes  de  comarcas  situadas  em  Estados-membros  diversos,
+acolhendo manifestações dos respectivos membros do Ministério Público, decidem no sentido da incompetência dos seus Juízos,
+o que se configura é conflito de jurisdição, e não de atribuições entre órgãos do Ministério Público de Estados diferentes” (RTJ
+166/401, Rel. Min. Maurício Corrêa).
+3.ª)  A  hipótese  poderá  caracterizar  tanto  conflito  de  competência  como  conflito  de  atribuições,  dependendo  da
+situação  caracterizada  no  caso  concreto:  para  esta  orientação,  a  qual  perfilhamos,  para  que  se  possa  definir  se  a  hipótese
+caracteriza conflito de competência ou conflito de atribuições, será necessário considerar a natureza do pronunciamento do juiz
+diante  da  manifestação  do  promotor-recusante.  Logo,  se  o  magistrado  ingressa  no  mérito  da  questão  relativa  à  competência,
+compartilhando do pensamento ministerial, e encaminha o feito a outro juízo, caso lá haja discordância com esse entendimento,
+o  conflito  que  surge  é  o  de  competência.  Agora,  se,  diante  da  promoção  do  Ministério  Público,  limitar-se  o  magistrado  a
+encaminhar os autos do inquérito a outro juízo, sem nenhum pronunciamento de caráter jurisdicional, limitando-se, por exemplo,
+a  um  simples  “acolho  o  parecer  do  Ministério  Público”,  o  conflito  que  poderá  se  estabelecer  na  hipótese  de  não  aceitação  do
+
+•
+•
+7.3.6
+7.3.7
+inquérito pelo juízo ao qual foi encaminhado será o de atribuições. Portanto, em relação ao caso ilustrado:
+Suponha-se que o juiz de direito de Guaratinguetá, concordando com a arguição declinatória do Ministério Público, tenha
+reconhecido  a  incompetência  daquele  juízo  e  determinado,  ato  contínuo,  a  remessa  dos  autos  à  comarca  de  Jacareí.
+Nesta  hipótese,  caso  o  promotor  de  Jacareí
+[/PAGINA 369]
+
+[PAGINA 370]
+entenda  no  sentido  da  competência  do  juízo  de  Guaratinguetá,  em  vez  de
+suscitar  conflito  negativo  de  atribuições,  deverá  manifestar-se  perante  o  juiz  da  vara  a  que  fora  distribuído  o
+procedimento policial no sentido de que seja suscitado conflito de competência.
+Imagine-se, agora, que não tenha ocorrido pronunciamento explícito do juízo de Guaratinguetá sobre a incompetência
+desse foro, limitando-se a mero despacho de acolhimento do parecer do Ministério Público, ordenando, ato contínuo, a
+remessa  do  feito  à  comarca  de  Jacareí.  Nesta  situação  a  recusa  do  promotor  de  Jacareí  exigirá  que  ele  próprio  suscite
+conflito negativo de atribuições em relação à manifestação do promotor de Guaratinguetá.
+Essa última orientação tem sido adotada pelo STF, compreendendo esta Corte que, se o Poder Judiciário não foi provocado
+a definir a competência de nenhum de seus Órgãos, apenas atendendo a requerimento do Ministério Público para fazer chegar o
+feito  a  outro  juízo  sem  exarar  qualquer  ato  de  conteúdo  jurisdicional,  tem-se  configurado  conflito  de  atribuições  e  não  de
+competência (Pet. 3.631/SP, DJ 07.03.2008).
+Avocatória
+Conforme estabelece o art. 117 do CPP, “o STF, mediante avocatória, restabelecerá a sua jurisdição, sempre que exercida
+por qualquer dos juízes ou tribunais inferiores”. Pois bem, se o STF considerar-se competente para deliberar sobre processo que
+tramita  em  instância  inferior  (juízos  de  1ª  Instância  ou  Tribunais),  poderá  avocá-lo,  ou  seja,  trazer  para  si  a  decisão  sobre  a
+demanda.  Justifica-se  a  previsão  incorporada  ao  dispositivo  pelo  fato  de  que  não  existe  um  órgão  superior  que  possa  resolver
+eventuais conflitos envolvendo o STF. Destarte, no surgimento desta ordem de impasse, limitar-se-á o Pretório Excelso a avocar
+o processo e julgamento da causa.
+Como a avocatória era prevista na Carta Política anterior e não mais está presente na atual Constituição, há quem entenda
+que  tal  instituto  teria  sido  extinto.  Neste  aspecto,  compartilhamos  do  entendimento  contrário,  vale  dizer,  no  sentido  de  que
+persiste em vigor a avocatória, não restando prejudicada pela omissão no texto constitucional atual, eis que, quando prevista no
+art.  119,  I,  o,  da  antiga  Carta,  possuía  outra  conotação,  não  sendo  restrita  à  matéria  de  competência,  tal  como  hoje  o  é.  Cabe
+ressaltar, também, que há forte entendimento no sentido de que a faculdade de avocar, além do STF, estende-se igualmente ao
+STJ em relação a processos de sua competência originária
+10
+.
+Competência para a decisão sobre os conflitos de competência e jurisdição
+O art. 116, caput, do CPP, ao tratar do conflito de jurisdição, refere-se apenas ao “tribunal competente” para julgá-lo, sem
+estabelecer  regras  expressas  sobre  a  forma  de  definição  dessa  competência.  Destarte,  tal  normatização  deverá  ser  buscada  na
+Constituição  Federal,  nas  Constituições
+[/PAGINA 370]
+
+[PAGINA 371]
+Estaduais,  nas  leis  processuais,  nas  leis  de  organização  judiciária  e  nos  regimentos
+internos de cada tribunal.
+Situação semelhante ocorre em relação aos conflitos de atribuições.
+Em síntese, e abstraindo regramentos próprios de cada Estado da Federação nas respectivas Constituições, leis e regimentos
+internos,  pode-se  estabelecer  o  seguinte  esquema  geral  de  competências,  segundo  o  conflito  estabelecido  e  considerando-se  as
+situações mais comuns:
+* C.C.R. = CÂMARAS DE COORDENAÇÃO E REVISÃO
+CONFLITO DE COMPETÊNCIA OU JURISDIÇÃOCOMPETÊNCIA PARA DECISÃO
+Conflitos  entre  o  Superior  Tribunal  de  Justiça  e  quaisquer  outros
+tribunais  (exceto  o  STF). Exemplo:  conflito  entre  o  STJ  e  o  STM  ou
+entre o STJ e o Tribunal de Justiça de Pernambuco.
+Conflitos  entre  Tribunais  Superiores  (exceto  o  STF)  e  qualquer
+outro tribunal. Exemplo: conflito entre o STM e o Tribunal de Justiça de
+São Paulo.
+Conflito entre Tribunais Superiores (exceto o STF). Exemplo: conflito
+Supremo Tribunal Federal (art. 102,
+I, o, da CF)
+
+entre o STM e o TSE.
+Observação:  Por  Tribunais Superiores  compreendem-se  o  Superior
+Tribunal  de  Justiça,  o  Superior  Tribunal  Militar,  o  Tribunal  Superior
+Eleitoral  e  o  Tribunal  Superior  do  Trabalho.  Embora  o  STF  também
+seja  um  Tribunal  Superior,  exclui-se  da  regra  em  exame,  pois
+eventuais conflitos envolvendo-o são resolvidos pela avocatória.
+Conflitos  envolvendo  quaisquer  tribunais,  exceto  os  referidos  no
+item supra.  Exemplo:  conflito  entre  os  Tribunais  de  Justiça  do  Rio
+Grande do Sul e de Santa Catarina.
+Conflitos   envolvendo   tribunal   e   juízes   a   ele   não   vinculados.
+Exemplo:  conflito  entre  Tribunal  de  Justiça  do  Rio  Grande  do  Sul  e
+Turma   Recursal   do   Juizado   Especial   Criminal   do   mesmo   Estado.
+Observe-se que a Turma Recursal do JEC não se vincula a Tribunal de
+Justiça, até porque este último não é grau recursal do primeiro.
+Conflitos  entre  juízes  vinculados  a  tribunais  diversos. Exemplos:
+conflito entre Juiz Federal vinculado ao TRF da 1.ª Região e Juiz Federal
+vinculado  ao  TRF  da  4.ª  Região  e  conflito  entre  Juiz  Federal  vinculado
+ao TRF da 1.ª Região e Juiz Estadual investido na jurisdição federal da
+4.ª  Região.  Neste  último  caso,  se  houver  conflito  entre  juiz  federal
+vinculado a Tribunal Regional Federal da uma região e juiz estadual que,
+investido  da  jurisdição  federal,  esteja  vinculado  a  Tribunal  Regional
+Federal  de  outra  região,  a  competência  para  julgar  o  conflito  será  do
+STJ, não incidindo a Súmula 3 desse Tribunal.
+Superior  Tribunal  de  Justiça  (art.
+105, I, d, da CF)
+Conflitos  entre  juízes  federais  vinculados  aos  Tribunais  Regionais
+Federais. Exemplo: conflito entre Juiz Federal da 2.ª Vara e Juiz Federal
+da  3.ª  Vara,  ambos  vinculados  ao  Tribunal  Regional  Federal  da  4.ª
+Região.
+Tribunais  Regionais  Federais  (art.
+108, I, e, da CF)
+Conflito
+[/PAGINA 371]
+
+[PAGINA 372]
+entre  juiz  federal  e  juiz  estadual  investido  na  jurisdição
+federal. A hipótese tem pertinência com a exegese da Súmula 3 do STJ,
+dispondo  que  “compete  ao  tribunal  regional  federal  dirimir  conflito  de
+competência  verificado,  na  respectiva  região,  entre  juiz  federal  e  juiz
+estadual  investido  de  jurisdição  federal”.  Esse  verbete,  na  atualidade,
+perdeu bastante de sua relevância em matéria criminal. Isso porque sua
+aplicação    era    restrita    à    hipótese    de    tráfico    internacional    de
+entorpecentes,  praticado  em  comarca  que  não  fosse  sede  da  justiça
+federal,  em  razão  do  que  dispunha  o  art.  27  da  Lei  6.368/1976,
+permitindo a delegação da competência federal para o âmbito da justiça
+estadual. Entretanto, com a vigência da Lei 11.343/2006, estabeleceu o
+art.  70  desse  diploma  que  “o  processo  e  o  julgamento  dos  crimes
+previstos   nos   arts.   33   a   37   desta   Lei,   se   caracterizado   ilícito
+transnacional,  são  da  competência  da  Justiça  Federal”.  Portanto,  pela
+nova lei, é consagrado que não pode a Justiça Comum Estadual julgar o
+tráfico  internacional  de  drogas,  como  era  facultado  sob  a  égide  da  Lei
+6.368/1976.
+Conflitos  entre  juízes  Estaduais  vinculados  ao  mesmo  Tribunal  de
+Justiça. Exemplo: conflito entre Juiz Estadual de Jacareí e Juiz Estadual
+de Guaratinguetá.
+Tribunais de Justiça Estaduais
+(art. 101 da LC 35/1979)
+Conflitos  entre  juiz  do  juízo  comum  e  juiz  do  juizado  especial
+criminal
+Tribunais  de  Justiça  dos  Estados,
+no  âmbito  da  justiça  estadual;  e
+dos  Tribunais  Regionais  Federais,
+no âmbito da justiça federal.
+
+Conflitos  entre  juiz  do  juízo  comum  e  juiz  do  juizado  especial
+criminal
+(O   STJ,   no   julgamento   do   CC
+107.635/PR,        em        17.03.2010,
+cancelou     a     Súmula     348     que
+dispunha  sobre  a  competência  do
+STJ para dirimir tais conflitos)
+11
+Conflitos entre juízes eleitorais do mesmo Estado.Tribunais  Regionais  Eleitorais  (art.
+29, I, b, do Código Eleitoral)
+Conflitos    entre    Tribunais    Regionais    Eleitorais    de    Estados
+diferentes.
+Conflitos entre juízes eleitorais de Estados diferentes.
+Tribunal  Superior  Eleitoral  (art.  22,
+I, d, do Código Eleitoral)
+Impasses envolvendo o Supremo Tribunal Federal e qualquer outro
+Tribunal.
+Observação: Não é admissível conflito entre o STF e qualquer outro
+Tribunal,  pois  inexiste  um  órgão  superior  ao  Pretório  Excelso  para
+solucioná-lo.  A  questão  resolve-se,  então,  pela  avocatória  (art.  117
+do CPP).
+Não  se  estabelece  conflito  nesse
+caso
+Conflitos entre Promotores de Justiça de um mesmo Estado.Procurador-Geral   de   Justiça   (art.
+10, X, da Lei 8.625/1993)
+Conflitos  entre  órgãos  do  Ministério  Público  Estadual  de  Estados-
+membros diferentes.
+Observação:  Revisando  sua  posição  anterior,  passou  o  STF  a
+entender  ser  sua,  e  não  do  STJ,  a  competência  originária  para  o
+processo  e
+[/PAGINA 372]
+
+[PAGINA 373]
+julgamento  dos  conflitos  de  atribuições  entre  órgãos  do
+Ministério  Público  de  Estados-membros  distintos  (Pet  3.631/  SP,  DJ
+07.03.2008).
+Supremo Tribunal Federal (art. 102,
+I, f, da CF)
+Conflitos entre órgãos do Ministério Público Federal e do Ministério
+Público Estadual.
+Observação:  Revisando  seu  entendimento  anterior,  consagrou-se  o
+STJ  no  sentido  de  que  esse  tribunal  “não  possui  competência  para
+julgar   conflito   de   atribuição   entre   Ministério   Público   Estadual   e
+Ministério Público Federal, pois o caso não se amolda a qualquer das
+hipóteses  previstas  no  art.  105,  I,  g,  da  CF”  (STJ,  CAt  163/ES,  DJ
+23.06.2008),  pertencendo  ao  STF  essa  incumbência.  No  Excelso
+Pretório,  idêntica  orientação  é  agasalhada  (STF,  ACO  1.058/CE,  DJ
+23.05.2008)
+Supremo Tribunal Federal (art. 102,
+I, f, da CF)
+Conflito  entre  membros  de  ramos  diferentes  do  Ministério  Público
+da União.
+Observação:  Por  “ramos  diferentes  do  Ministério  Público  da  União”
+compreendem-se  aqueles  previstos  no  Título  II  da  LC  75/1993:
+Ministério  Público  Federal  (abrangendo  as  funções  do  Ministério
+Público junto ao STF, STJ, TRF, Juízes Federais, Tribunais e Juízes
+Eleitorais), Ministério Público do Trabalho, Ministério Público Militar e
+Ministério Público do Distrito Federal.
+Procurador-Geral da República
+(art. 26, VII, da LC 75/1993)
+Conflitos entre órgãos do Ministério Público Federal.
+Observação:  o  Ministério  Público  Federal  é  um  ramo  do  Ministério
+Público  da  União,  assim  como  o  é  o  Ministério  Público  Militar,  o
+Ministério  Público  do  Trabalho  e  o  Ministério  Público  do  Distrito
+Federal.
+C.C.R.     do     Ministério     Público
+Federal
+(art. 62, VII, da LC 75/1993)
+
+7.4
+7.4.1
+Conflito entre membros do Ministério Público do Trabalho.
+Observação:  O  Ministério  Público  do  Trabalho  é  um  ramo  do
+Ministério  Público  da  União,  assim  como  o  é  o  Ministério  Público
+Federal,  o  Ministério  Público  Militar  e  o  Ministério  Público  do  Distrito
+Federal.  Por  isso,  a  competência  para  dirimir  o  conflito  entre  seus
+membros  é  simétrica  à  competência  para  dirimir  o  conflito  entre  os
+membros do Ministério Público Federal.
+C.C.R.   do   Ministério   Público   da
+Justiça do Trabalho
+(art. 103, VI, da LC 75/1993)
+Conflito entre membros do Ministério Público Militar Federal.
+Observação:  O  Ministério  Público  Militar  é  um  ramo  do  Ministério
+Público  da  União,  assim  como  o  é  o  Ministério  Público  Federal,  o
+Ministério  Público  do  Trabalho  e  o  Ministério  Público  do  Distrito
+Federal.  Por  isso,  a  competência  para  dirimir  o  conflito  entre  seus
+membros  é  simétrica  à  competência  para  dirimir  o  conflito  entre  os
+membros do Ministério Público Federal.
+C.C.R.   do   Ministério   Público   da
+Justiça Militar
+(art. 136, VI, da LC 75/1993)
+Conflito entre membros do Ministério Público do Distrito Federal.
+Observação:  O  M
+[/PAGINA 373]
+
+[PAGINA 374]
+inistério  Público  do  Distrito  Federal  é  um  ramo  do
+Ministério  Público  da  União,  assim  como  o  é  o  Ministério  Público
+Federal, o Ministério Público do Trabalho e o Ministério Público Militar
+Federal.  Por  isso,  a  competência  para  dirimir  o  conflito  entre  seus
+membros  é  simétrica  à  competência  para  dirimir  o  conflito  entre  os
+membros do Ministério Público Federal.
+C.C.R.   do   Ministério   Público   do
+Distrito Federal
+(art. 171, VIII, da LC 75/1993)
+Conflito  entre  membros  do  Ministério  Público  Eleitoral  do  mesmo
+Estado-membro.
+Observação:  A  despeito  da  competência  legalmente  estabelecida
+para  dirimir  essa  forma  de  conflito,  comumente  essa  atribuição  é
+delegada ao Procurador Regional Eleitoral junto a cada Estado.
+Procurador-Geral da República
+(art. 75, III, da LC 75/1993)
+RESTITUIÇÃO DAS COISAS APREENDIDAS (ARTS. 118 A 124 DO CPP)
+Considerações gerais
+Coisas apreendidas, para efeitos da regulamentação do Capítulo V, Título VI, Livro I, do CPP, são aquelas que, presentes
+os  requisitos  necessários  e  observadas  as  formalidades  exigidas  pela  lei  ou  pela  Constituição  Federal,  foram  retiradas  do  local
+em que se encontravam ou do poder de quem as detinha, em face da importância que apresentam na elucidação do crime.
+Como regra geral, depois de cumprida a finalidade dessa apreensão, deverão tais objetos ser restituídos a quem de direito.
+Não  obstante,  por  exceção,  há  situações  em  que  esta  restituição  é  vinculada  a  determinadas  condições  ou  até  mesmo  não  é
+facultada, o que pode se justificar em motivos de diversas ordens como a espécie delituosa, a natureza do objeto em questão, o
+momento em que deduzida a pretensão de restituição ou a condição de quem o reclama.
+Como exemplo de hipótese em que a restituição é condicionada, refere o art. 60, § 3.º, da Lei 11.343/2006 (Lei de Drogas)
+que “nenhum  pedido  de  restituição  será  conhecido  sem  o  comparecimento  pessoal  do  acusado,  podendo  o  juiz  determinar  a
+prática de atos necessários à conservação de bens, direitos ou valores”. Outro caso encontra-se previsto no art. 4.º, § 3.º, da Lei
+9.613/1998  (Lei  da  Lavagem  de  Capitais,  alterada  pela  Lei  12.683/2012),  dispondo  que  “nenhum  pedido  de  liberação  será
+conhecido sem o comparecimento pessoal do acusado ou de interposta pessoa a que se refere o caput deste artigo, podendo o
+juiz determinar a prática de atos necessários à conservação de bens, direitos ou valores (...)”. Em ambos os casos, como se vê,
+a lei vincula a efetiva devolução da coisa aprendida ao comparecimento pessoal das pessoas mencionadas, não bastando que o
+interessado se faça representar pelo defensor ou por outro procurador.
+Por outro lado, a restituição é vedada e, consequentemente, deverá ser indeferida pela autoridade policial ou judiciária nos
+seguintes casos:
+
+a) Quando, não havendo sentença que transita em julgado, o objeto apreendido interessar à investigação policial o
+[/PAGINA 374]
+
+[PAGINA 375]
+u
+à  instrução  processual  penal: trata-se  da  previsão  inserida  no  art.  118  do  CPP,  vedando  a  devolução  de  coisas  que  ainda
+apresentem relevância ao processo. Muito embora se refira o citado dispositivo às coisas que “interessarem ao processo”, resta
+evidente que a proibição alcança, igualmente, os objetos que relevem à investigação policial, não sendo intenção do legislador,
+portanto, limitar a proibição de restituição apenas à fase judicial propriamente dita. Até porque é óbvio que, se a finalidade do
+inquérito  policial  é  servir  de  base  para  a  futura  denúncia  ou  queixa  (peças  iniciais  do  processo  criminal),  o  fato  de  um  bem
+apreendido  importar  ao  inquérito  acarreta,  por  questão  de  coerência,  relevância  ao  processo.  Assim,  o  veículo  furtado,  no  qual
+foi encontrada vítima de homicídio provocado por arma de fogo, não poderá ser restituído ao legítimo proprietário antes de ser
+devidamente  periciado  pelo  órgão  competente  em  busca  de  impressões  digitais,  vestígios  de  pólvora,  resíduos  de  sangue  etc.
+Também  o  revólver  pertencente  ao  réu  para  alvejar  determinada  pessoa,  ainda  que  se  trate  de  arma  legal,  não  poderá  ser
+restituído ao legítimo dono antes de realizada a perícia a que alude o art. 171 do CPP.
+b) Quando se tratar de instrumentos de crime cujo fabrico, alienação, uso, porte ou detenção constitua fato ilícito;
+de produtos de crime; e, por fim, de qualquer bem ou valor que constitua produto auferido pelo agente com a prática do
+fato criminoso:  neste  caso,  incide  o  art.  119  do  CPP,  dispondo  que  “as  coisas  a  que  se  referem  os  arts.  74  e  100  do  CP  não
+poderão ser restituídas, mesmo depois de transitar em julgado a sentença final, salvo se pertencerem ao lesado ou a terceiro de
+boa-fé”.  As  referências  aos  dispositivos  74  e  10  do  CP  são  as  pertinentes  à  antiga  Parte  Geral  daquele  diploma.  Com  o  atual
+regramento,  introduzido  pela  Lei  7.209/1984,  os  artigos  citados  do  Estatuto  Repressivo  passaram  a  corresponder  ao  art.  91,  II,
+“a”  e  “b”,  os  quais  estabelecem,  como  efeito  automático  e  obrigatório  da  sentença  penal  condenatória  definitiva,  “a  perda,  em
+favor da União, ressalvado o direito do lesado ou de terceiro de boa-fé: a) dos instrumentos do crime, desde que consistam em
+coisas cujo fabrico, alienação, uso, porte ou detenção, constitua fato ilícito; b) do produto do crime ou de qualquer bem ou valor
+que constitua proveito auferido com a prática do fato criminoso”.
+b.1) Quanto aos instrumentos do crime (art. 91, II, a, do CP), o óbice à restituição existirá apenas quando se tratar de
+objeto proibido ou que se encontre em situação de ilegalidade no momento da prática da conduta típica, já que o art. 91, II, “a”,
+do  CP  é  taxativo  quando  condiciona  a  proibição  de  restituição  a  que  sejam  coisas  cujo  “fabrico,  alienação,  porte,  uso  ou
+detenção constituam fatos ilícitos”
+[/PAGINA 375]
+
+[PAGINA 376]
+.
+A título de ilustração, imaginem-se três hipóteses distintas:
+Exemplo 1:  determinado  indivíduo  que,  utilizando-se  de  um  revólver  registrado  em  seu  nome,  porém  sem  o  devido
+porte legal (autorização para que alguém possa trazer consigo, fora de casa, arma de fogo), venha a matar alguém em via
+pública, sendo condenado por decisão transitada em julgado. Ora, no momento do crime, a arma encontrava-se em situação
+ilegal em face da ausência do porte, não podendo, então, ser restituída ao acusado.
+Exemplo 2: considere-se, agora, a hipótese de que esse mesmo autor tivesse cometido a conduta descrita, possuindo o
+registro e o porte legal da arma utilizada. Neste caso, com o trânsito em julgado da sentença, nada impedirá a restituição do
+revólver  aos  familiares  do  condenado  ou  a  ele  próprio  (nesse  último  caso,  apenas  depois,  é  claro,  de  cumprida  eventual
+pena privativa de liberdade que lhe tenha sido imposta).
+Exemplo 3:  suponha-se,  agora,  que  a  arma  utilizada  pelo  autor  se  tratasse  de  objeto  furtado  de  terceiro  de  boa-fé.
+Nesse  caso,  prefalada  arma  encontrava-se  em  situação  de  ilegalidade  quando  desferido  o  disparo,  pois  furtada.  Não
+obstante,  tratando-se  de  bem  pertencente  a  outrem,  poderá  ser  restituída  ao  legítimo  titular,  pois  o  art.  91,  II,  do  CP
+ressalva do confisco a hipótese em que o instrumento do crime pertença a terceiro de boa-fé.
+b.2) Quanto ao produto do crime (art. 91, II, b, 1.ª parte, do CP), trata-se do bem diretamente obtido a partir da prática
+delituosa,  como,  por  exemplo,  o  carro  furtado,  a  joia  roubada.  Esse  tipo  de  objeto,  evidentemente,  não  pode  ser  restituído  ao
+autor  do  crime.  Todavia,  sendo  conhecido  o  legítimo  dono,  a  este  o  bem  poderá  ser  devolvido.  Não  o  sendo,  operar-se-á  o
+confisco em favor da União.
+b.3) Quanto aos bens adquiridos com o produto do fato criminoso (art. 91, II, b, 2.ª parte, do CP), por uma questão de
+coerência, prevê o legislador a sua perda como efeito da condenação. Evita-se, com isto, que venha o indivíduo a locupletar-se
+com  a  renda  obtida  com  a  prática  do  crime  (ou  da  contravenção,  conforme  se  tem  entendido  por  interpretação  extensiva).
+Contemple-se,  então,  a  hipótese  em  que  o  acusado,  funcionário  público,  tenha  se  apropriado  de  altos  valores  pertencentes  ao
+erário,  adquirindo  patrimônio  com  essa  verba.  Estes  bens,  evidenciada  a  origem  ilícita  da  verba  utilizada  para  a  aquisição,
+deverão ser confiscados, o que pode ser alcançado de duas formas, conforme tenha ou não ocorrido o sequestro de bens no curso
+do inquérito policial ou da ação penal:
+
+•
+•
+Se houve o sequestro: trata-se o sequestro de medida assecuratória destinada à constrição de bens móveis ou imóveis
+adquiridos com o produto da infração penal (art. 125 do CPP). Esgotado que venha a ser o procedimento do sequestro e
+não logrando o titular do bem sequestrado demonstrar q
+[/PAGINA 376]
+
+[PAGINA 377]
+ue a respectiva aquisição ocorreu com verba lícita, operar-se-á a
+venda judicial, destinando-se o produto ao ressarcimento da vítima do delito praticado, com reversão de eventual saldo
+à União Federal (art. 133, caput, e parágrafo único, do CPP).
+Se não houve o sequestro: neste caso, o confisco dos bens adquiridos com o produto do crime poderá ser alcançado por
+meio  da  forma  prevista  no  art.  122  do  CPP,  ao  dispor  que  “sem  prejuízo  do  disposto  nos  arts.  120  e  133,  decorrido  o
+prazo de 90 (noventa) dias, após o trânsito em julgado da sentença condenatória, o juiz decretará, se for o caso, a perda,
+em  favor  da  União,  das  coisas  apreendidas  (art.  74,  II,  ‘a’  e  ‘b’,  do  CP)  e  ordenará  que  sejam  vendidas  em  leilão
+público”. Como já se viu alhures, a referência ao art. 74 do CP, na atualidade, concerne ao art. 91, II, “a” e “b”, do CP.
+Portanto,  o  art.  122  do  CPP,  em  linhas  gerais,  está  dispondo  que,  se  não  tiver  ocorrido  o  procedimento  prévio  do
+sequestro, o confisco dos bens adquiridos com a prática criminosa poderá ocorrer mediante a forma prevista no aludido
+dispositivo,  devendo-se,  para  tanto,  aguardar  o  prazo  de  90  (noventa)  dias  após  o  trânsito  em  julgado  da  condenação,
+prazo  no  qual  eventuais  interessados  poderão  reclamar  a  coisa  (art.  122,  caput,  do  CPP).  Não  havendo  reclamação,
+determinará  o  magistrado  a  perda  do  bem  em  favor  da  União,  ordenando  que  seja  vendido  em  leilão,  sendo  o  valor
+recolhido  ao  Tesouro  Nacional.  Evidentemente,  se,  neste  interregno,  comparecer  lesado  ou  terceiro  de  boa-fé
+comprovando  o  direito  sobre  a  coisa  alienada,  a  ele  será  repassado  o  valor  apurado  com  o  leilão  (art.  122,  parágrafo
+único, do CPP).
+c)  Quando  houver  dúvida  sobre  o  legítimo  direito  do  reclamante:  a  restituição  de  qualquer  objeto  apreendido  exige
+certeza quanto à legitimidade de quem o reclama para recebê-lo, conforme se deflui do art. 120, caput, do CPP: “A restituição,
+quando  cabível,  poderá  ser  ordenada  pela  autoridade  policial  ou  juiz,  mediante  termo  nos  autos,  desde  que  não  exista  dúvida
+quanto ao direito do reclamante”. Havendo essa dúvida, faculta o Código a produção de provas, no juízo criminal, visando saná-
+la  (art.  120,  §  1.º).  Se,  a  despeito  das  provas  produzidas,  persistir  incerto  o  direito  de  quem  está  reclamando  a  devolução  do
+objeto apreendido, a solução será o encaminhamento do interessado à esfera cível, para que lá, por meio de ação própria e dos
+meios pertinentes, obtenha a prova de que a coisa apreendida realmente é sua ou de quem legalmente representa.
+Pode ocorrer que, durante o inquérito policial ou no curso da ação penal, sejam apreendidos objetos cuja ilicitude não seja
+comprovada, vale dizer, que não se apure tratarem-se de produtos de crime, instrumentos de crime ou coisas adquiridas com o
+
+7.4.2
+7.4.2.1
+7.4.2.2
+produto da infração
+[/PAGINA 377]
+
+[PAGINA 378]
+penal. Sendo assim, não incide o disposto no art. 91, II, “a” e “b”, do Código Penal, o que impede sejam tais
+objetos confiscados em favor da União. Diante dessa situação, prevê o Código de Processo Penal que se aguarde a fluência do
+prazo  de  90  dias,  contados  do  trânsito  em  julgado  da  sentença  final,  seja  ela  absolutória  ou  condenatória.  Não  comparecendo,
+neste caso, qualquer interessado comprovando a titularidade dos bens, serão eles vendidos em leilão, depositando-se o numerário
+obtido à disposição do juízo de ausentes, seguindo-se, de resto, a disciplina dos arts. 744 e 745 do CPC/2015.
+A  disciplina  dos  arts.  744  e  745  do  CPC/2015  modifica  o  regramento  dos  arts.  1.159  a  1.169  do
+revogado  CPC/1973.  Na  verdade,  em  que  pesem  as  semelhanças  entre  uma  normatização  e  outra,  o
+novo  diploma  processual  civil  é  mais  simples,  mais  claro  e  mais  eficaz,  inclusive  porque  contempla  o
+chamamento do ausente a entrar na posse de seus bens mediante editais publicados na rede mundial
+de  computadores,  no  sítio  do  tribunal  a  que  estiver  vinculado  e  na  plataforma  de  editais  do  Conselho
+Nacional  de  Justiça,  sendo  que,  apenas  não  havendo  sítio  eletrônico,  é  que  a  publicação  far-se-á  no
+órgão oficial e na imprensa da comarca.
+Pedido de restituição e incidente de restituição
+Embora  o  Código  não  seja  totalmente  explícito,  existe  diferença  entre  o  pedido  de  restituição  propriamente  dito  e  o
+incidente de restituição, visto que são formas distintas de postular, no âmbito penal, a devolução de um bem que se encontra
+sob apreensão.
+Pedido de restituição
+O pedido de restituição é um procedimento bastante simples. Poderá ser formulado tanto à autoridade policial no curso do
+inquérito  quanto  ao  juiz  no  curso  do  processo  criminal.  É  inserido  nos  próprios  autos  do  inquérito  ou  do  processo  e  pode  ser
+deferido pelo delegado de polícia ou pelo magistrado, desde que as coisas a serem restituídas não mais interessem ao processo
+(art. 118 do CPP), que não se trate de objetos que a lei proíbe a restituição (art. 119 do CPP) e que não haja dúvida quanto ao
+direito do reclamante (art. 120 do CPP). Aplica-se àquelas hipóteses em que a propriedade da coisa apreendida é indiscutível e se
+encontra demonstrável de plano. Exemplo: o carro furtado, que veio a ser apreendido pela autoridade policial em uma garagem,
+onde  aguardava  o  desmanche.  Com  a  simples  apresentação  do  comprovante  de  propriedade  e  de  documento  de  identidade,
+poderá o veículo ser restituído ao legítimo dono, mediante lavratura de termo ou auto de restituição.
+ Incidente de restituição
+O incidente de restituição, opostamente, é procedimento instaurado em hipóteses específicas, previstas em lei, justificando-
+se na necessidade de produção de provas do direito à restituição. Somente pode ser desencadeado por determinação judicial, o
+que poderá ocorrer ex officio, mediante provocação
+[/PAGINA 378]
+
+[PAGINA 379]
+da autoridade policial (no curso do inquérito) ou da própria parte interessada
+(no curso do inquérito ou do processo). Autuado em apartado, o incidente é cabível em duas hipóteses:
+a) Existência de dúvida quanto ao direito de quem pede a devolução: em relação a esta hipótese, estabelece o art. 120, §
+1.º, do CPP que o pedido de restituição autuar-se-á em apartado, assinando-se ao requerente o prazo de cinco dias para a prova,
+sendo  que,  em  tal  caso,  só  o  juiz  criminal  poderá  decidir  o  incidente.  Como  se  vê,  nesta  hipótese  o  incidente  de  restituição
+surge a partir de um pedido de restituição, no âmbito do qual foi constatada a dúvida em relação ao direito de quem requereu a
+devolução da coisa apreendida.
+Exemplo 1:  No  curso  de  inquérito  policial,  o  suposto  titular  de  coisa  apreendida  formula  ao  delegado  o  respectivo
+pedido de restituição. Tendo em vista o disposto no art. 120, caput, do CPP, esse pedido é juntado ao inquérito policial,
+seguindo  concluso  ao  delegado  para  decisão.  Percebendo  a  autoridade  policial  que  não  está  comprovado  o  direito  do
+postulante,  deverá  desentranhar  o  pedido  do  inquérito  e  encaminhá-lo  a  juízo  para  que  lá  seja  instaurado  o  incidente  de
+restituição (art. 120, § 1.º, do CPP).
+Exemplo 2: No curso de processo criminal,  determinada  pessoa  realiza  ao  juiz  o  pedido de restituição  de  objeto  que
+está apreendido. Juntado esse pleito ao processo, na forma do art. 120, caput, do CPP, constata o magistrado que não há
+elementos que comprovem ser o reclamante o proprietário da coisa. Nesta hipótese, caberá ao juiz desentranhar o pedido
+do processo,  autuando-o  em  apartado  sob  a  forma  de  incidente  de  restituição,  procedendo,  ato  contínuo,  conforme  o
+disposto no art. 120, § 1.º, do CPP.
+
+7.4.3
+7.4.4
+b) Quando os bens reclamados tiverem sido apreendidos em poder de terceiro de boa-fé: Sendo requerida a devolução
+de coisa que foi apreendida em poder de terceiro de boa-fé, determina a lei que este terceiro seja “intimado para alegar e provar o
+seu  direito,  em  prazo  igual  e  sucessivo  ao  do  reclamante,  tendo  um  e  outro  dois  dias  para  arrazoar”.  A  redação  confusa  do
+dispositivo  enseja  dúvidas  quanto  ao  procedimento  a  ser  seguido.  Pensamos  que  deve  ser  interpretado  da  seguinte  forma:
+postulada  a  restituição  da  coisa,  deve  o  terceiro  ser  intimado  para,  querendo,  alegar  seu  direito.  Ato  contínuo,  faculta-se  a
+produção  de  provas  ao  reclamante  e  ao  terceiro,  sucessivamente,  e,  ao  final,  abre-se  o  prazo  de  dois  dias  a  cada  um  para
+apresentação  de  alegações.  Justifica-se,  aqui,  o  incidente  na  possibilidade  de  que  ocorra  litígio  entre  a  vítima,  acusado  ou
+respectivos  familiares  e  o  terceiro  que  tenha  adquirido  o  bem  de  boa-fé.  Na  verdade,  esta  segunda  hipótese  de  incidente,  na
+atualidade, tem sua aplicação questionável, pois sua maior motivação
+[/PAGINA 379]
+
+[PAGINA 380]
+residia nas normas incorporadas ao antigo Código Civil de
+1916, que asseguravam direitos de permanência com o bem ao terceiro de boa-fé, caso o tivesse adquirido em situação tal que
+não pudesse avaliar a procedência criminosa.
+Em  ambos  os  casos  citados  –  dúvida  sobre  o  direito  do  reclamante  e  coisa  apreendida  em  poder  de  terceiro  de  boa-fé  –,
+pode  ocorrer  de  a  instrução,  realizada  no  juízo  penal  visando  à  produção  de  provas  para  a  definição  da  titularidade  do  bem
+reclamado,  não  permitir  ao  juiz  formar  a  convicção  quanto  a  quem  seja  o  seu  legítimo  proprietário.  Afinal,  os  procedimentos
+regrados no art. 120, §§ 1.º e 2.º, são bastante simples, descabendo sua utilização quando a complexidade da questão demandar
+ampla  dilação  probatória.  Neste  caso,  então,  o  bem  permanecerá  apreendido  no  juízo  criminal,  devendo  as  partes  discutir  no
+juízo civil esta questão. Ocorrendo esta situação, apenas depois do trânsito em julgado da decisão na esfera cível é que o objeto
+reclamado poderá ser liberado pelo magistrado criminal a quem tiver sido considerado seu legítimo titular. Este, a propósito, o
+sentido do art. 120, § 4.º, do CPP, ao dispor que, persistindo a dúvida quanto à titularidade da coisa apreendida, o juiz remeterá
+as partes para o juízo cível.
+Sendo perecível a coisa apreendida, o art. 120, § 5.º do CPP faculta ao juiz determinar seja ela avaliada e vendida em leilão
+público, depositando-se o valor auferido à disposição do juízo ou entregue ao terceiro que detinha a coisa, se for pessoa idônea,
+mediante  termo  de  responsabilidade.  O  intuito  do  legislador  é  óbvio:  evitar  que  a  coisa  se  deteriore  em  face  do  tempo  levado
+para a definição de sua titularidade. Tal procedimento – leilão – mostra-se ainda mais justificável no caso de as partes terem sido
+encaminhadas ao juízo cível para discussão de seus direitos sobre o bem.
+Oitiva prévia do Ministério Público
+Reza o art. 120, § 3.º, do CPP que, sobre o pedido de restituição, será sempre ouvido o Ministério Público. Como se vê, não
+distingue o Código de Processo Penal tenha o pedido sido feito perante a autoridade policial ou judiciária, impondo-se, pois, em
+ambas as hipóteses, pelos termos da lei, a prévia manifestação do Parquet.
+A  questão,  todavia,  é  bastante  delicada  quando  se  trata  de  pedido  de  restituição  feito  à  autoridade  policial  no  curso  do
+inquérito.  É  que,  na  prática,  não  ocorre  tal  oitiva  prévia  do  Ministério  Público,  procedendo  o  próprio  delegado  de  polícia  à
+devolução do bem apreendido, se for o caso, independentemente de submeter o pedido à prévia manifestação ministerial.
+Cremos  que  a  solução  do  impasse  há  de  passar  pelo  bom  senso.  Tratando--se,  pois,  os  objetos  apreendidos  de  simples
+produtos de crime (v.g., o relógio furtado), deve-se abstrair a formalidade prevista no art. 120, § 3.º, do CPP, facultando-se ao
+próprio  delegado  de  políci
+[/PAGINA 380]
+
+[PAGINA 381]
+a,  mediante  termo  nos  autos  do  inquérito,  proceder  à  restituição  independentemente  de  qualquer
+remessa prévia ao Ministério Público. Agora, sendo hipótese de instrumento de crime ou de coisa utilizada na prática delituosa
+com  relevância  na  elucidação  do  crime,  não  deve  nem  pode  a  autoridade  policial  proceder  à  respectiva  devolução  sem  antes
+obter o aval ministerial, uma vez que o Ministério Público é o autor da ação penal pública e o interessado direto em angariar o
+maior número de provas possíveis. Trata-se, nesta hipótese, de evitar o agir isolado da autoridade policial com potencial prejuízo
+ao desiderato do processo.
+Ressalte-se  que  este  impasse  relacionado  à  necessidade  de  oitiva  do  Ministério  Público  antes  da  restituição  existe,  tão
+somente,  quando  se  tratar  de  pedido  de  restituição  endereçado  à  autoridade  policial  no  curso  do  inquérito.  Sendo  o  caso  de
+procedimento  judicializado,  é  indiscutível  que  a  oitiva  do  Ministério  Público  sempre  será  obrigatória,  não  importando  se  a
+hipótese é de pedido ou de incidente de restituição.
+Impugnação  da  decisão  acerca  do  deferimento  e  do  indeferimento  do  pedido  de
+restituição e do incidente de restituição
+Não há previsão expressa de recurso em relação à decisão do juiz que resolve (defere ou indefere) a restituição de coisas
+apreendidas. No entanto, desde muito tempo, os tribunais têm aceito cabimento de apelação alicerçada no art. 593, II, do CPP.
+Tendo em vista essa orientação e considerando que, segundo a Súmula 267 do STF, não cabe mandado de segurança contra ato
+
+7.4.5
+judicial passível de recurso ou correição, vinha-se entendendo impróprio o uso do mandamus para o insurgimento da parte que
+se sentisse prejudicada com aquela decisão. Entretanto, cremos que esse entendimento, na atualidade, deva ser repensado, pois,
+com  a  vigência  da  Lei  12.016,  de  07.08.2009,  revogando  a  Lei  1.533/1951,  passou-se  a  estabelecer  que  não  se  concederá
+mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo. Logo, entendemos que,
+diante  da  nova  regulamentação  do  mandamus,  o  Verbete  267  do  STF  deve  ser  interpretado  no  sentido  de  que,  agora,  será
+possível  o  uso  mandado  de  segurança  contra  decisão  judicial  sujeita  a  recurso,  desde  que  este  não  tenha  efeito  suspensivo e,
+portanto, não seja hábil a evitar a ocorrência de dano irreparável. Neste contexto, e levando em conta que a apelação alicerçada
+no  art.  593,  II,  do  CPP  não  tem  previsão  de  efeito  suspensivo,  não  vislumbramos  nenhum  óbice  ao  manejo  do  mandado  de
+segurança contra a decisão judicial que definir a restituição de coisa apreendida que esteja sendo reclamada. Quanto à opção por
+uma e outra via impugnativa, tudo dependerá do caso concreto: havendo a necessidade de exame aprofundado da prova, deverá a
+parte  optar  pela  apelação.  Caso  contrário,  poderá
+[/PAGINA 381]
+
+[PAGINA 382]
+valer-se  do  mandado  de  segurança.  E  quanto  à  correição  parcial?  Também
+não resta proibida, reservada, porém, às hipóteses de arbitrariedade, ilegalidade do magistrado (error in procedendo).
+Tratando-se, por outro lado, de ato do delegado de polícia que indeferiu o pedido de restituição, sempre compreendemos
+que não há como subtrair do prejudicado o direito de impetrar, perante o juiz, mandado de segurança para buscar a restituição
+do objeto ilegalmente ou injustamente apreendido, posição esta, aliás, agasalhada por parcela da jurisprudência. Nesse sentido:
+“Nada impede que o sujeito o qual obteve bem de sua propriedade apreendido por autoridade policial utilize a via do mandado
+de  segurança  para  correção  de  injustiça,  desde  que  esteja  configurado  na  hipótese  constrangimento  ilegal,  ou  seja,  violação  de
+direito  líquido  e  certo”  (TRF  da  2.ª  Região,  Apelação  2002.51.10009869-7,  j.  18.05.2005).  Agora,  contra  o  deferimento  de
+restituição levado a efeito pelo delegado, compreendemos possíveis tanto um novo pedido de busca e apreensão ao juiz quanto
+o próprio mandamus.
+DECISÃOPEDIDO DE RESTITUIÇÃOINCIDENTE DE RESTITUIÇÃO
+Deferimento     da     restituição
+pelo    delegado    na    fase    do
+inquérito policial
+Facultada   a   formulação   de   novo
+pedido de busca e apreensão ao juiz.
+Possível,  também,  a  impetração  de
+mandado      de      segurança,      por
+exemplo,    pelo    Ministério    Público
+visando  à  tutela  do  direito  líquido  e
+certo   da   sociedade   em   face   da
+restituição     indevida     de     objeto
+relevante   às   investigações   ou   ao
+processo.
+Prejudicada     a     possibilidade     de
+decisão  do  delegado  no  âmbito  de
+incidente  de  restituição,  pois  apenas
+o juiz pode resolvê-lo, nos termos do
+art. 120, §§ 1.º e 2.º, do CPP.
+Indeferimento   pelo   delegado
+na fase do inquérito policial
+Facultada  a  impetração  de  mandado
+de segurança perante o juiz.
+Deferimento  ou  indeferimento
+pelo  juiz  na  fase  do  processo
+criminal
+Cabível  apelação  alicerçada  no  art.  593,  II,  do  CPP.  Também  é  possível  a
+impetração  de  mandado  de  segurança,  com  base  na  Lei  12.016/2009.  A
+correição  parcial  não  resta  inviabilizada,  reservada  às  hipóteses  de  error  in
+procedendo (ilegalidade).
+Esquema ilustrativo das possibilidades envolvendo a restituição de coisas apreendidas
+
+7.5
+7.5.1
+•
+•
+•
+•
+1)
+2)
+ MEDIDAS ASSECURATÓRIAS (ARTS. 125 A 144 DO CPP)
+Considerações gerais
+A prática de uma infração penal, além de determinar o surgimento da pretensão punitiva do Estado, pode causar um dano
+patrimonial à vítima, gerando, consequentemente, o direito ao respectivo ressarcimento, que poderá ser alcançado:
+Voluntariamente, vale dizer, quando o ofensor, independentemente de ação judicial, decide ressarcir o dano patrimonial
+causado com a prática do fato criminoso;
+No  âmbito  dos  Juizados  Especiais  Criminais,  quando  se  tratar  de  infração  de  menor  potencial  ofensi
+[/PAGINA 382]
+
+[PAGINA 383]
+vo,  por  meio  do
+instituto da composição dos danos cíveis (art. 74 da Lei 9.099/1995);
+Mediante aceitação de proposta da suspensão condicional do processo a que alude o art. 89 da Lei 9.099/1995, em que é
+condição obrigatória a reparação do dano cível;
+Por meio de busca e apreensão, quando apreendidos os produtos do crime.
+Não alcançada a composição do prejuízo por meio de nenhuma destas formas, resta ao lesado a via judicial, utilizando-se,
+para  tanto,  do  direito  de  ação  como  forma  de  constranger  o  autor  do  dano  à  reparação  civil.  Neste  caso,  faculta-lhe  a  lei  duas
+opções:
+Aguardar o trânsito em julgado da sentença penal condenatória para, depois, executá-la no juízo cível com fundamento
+nos arts. 63 do CPP; 515, VI, do CPC 2015; e 91, I, do CP. Trata-se da ação de execução ex delicto.
+Ajuizar,  imediatamente,  ação  de  indenização  na  esfera  cível,  com  fundamento  no  art.  64  do  CPP,  para  obter  o  título
+executivo hábil à reparação de seu prejuízo. Trata-se, neste caso, da ação civil ex delicto.
+Pois  bem,  se  a  opção  tiver  sido  pela  primeira  das  medidas  citadas  (ação  de  execução  ex delicto,  alicerçada  no  art.  63  do
+CPP), não poderá o interessado se utilizar do Código de Processo Civil para segurar o patrimônio do autor do crime e impedir
+que se desfaça ele de seus bens antes do término da ação penal. Isto porque, no regramento desse diploma, as tutelas cautelares
+pressupõem a existência de uma ação principal já em andamento ou a ser ajuizada no máximo em trinta dias após a efetivação da
+cautela  conforme  prevê  o  art.  308,  caput,  1.ª  parte,  do  CPC/2015.  E  nada  disso  quer  o  lesado  que,  como  sobredito,  está
+
+7.5.2
+7.5.2.1
+a)
+b)
+c)
+aguardando transitar em julgado a decisão na esfera penal.
+Neste contexto, então, surgem as medidas assecuratórias como verdadeiras ações cautelares contempladas no Código de
+Processo Penal, visando assegurar que a vítima terá como recompor seu prejuízo por meio do patrimônio do réu caso este não
+promova o ressarcimento de forma espontânea, bem como a garantir que o condenado perderá todos os bens adquiridos com o
+produto da prática delituosa.
+Medidas assecuratórias,  portanto,  são  ações  de  natureza  cautelar,  previstas  nos  arts.  125  a  144  do
+CPP,  que  têm  como  objetivo  garantir  que  se  efetivem  os  efeitos  extrapenais  obrigatórios  da  sentença
+penal  condenatória  previstos  no  art.  91,  incs.  I  e  II,  b,  2.ª  parte,  do  CP,  quais  sejam,  tornar  certa  a
+obrigação do réu em indenizar a vítima pelos danos causados com o crime e conduzir à perda dos bens
+que tiver o condenado adquirido com o proveito da infração.
+A ação de execução ex delicto e a ação civil ex delicto
+A compreensão dos temas relativos à ação de execução ex delicto e à ação civil ex delicto são pressupostos necessários ao
+estudo das medidas assecuratórias. No presente tópico, abordaremos o assunto resumidamente, apenas com o fim de introduzir a
+análise d
+[/PAGINA 383]
+
+[PAGINA 384]
+as ações cautelares criminais.
+De qualquer forma, dada a relevância, aconselhamos o leitor a compulsar, previamente, o Capítulo 6  deste  livro,  em  que
+tratada a matéria pertinente a citadas ações com maior profundidade.
+Ação de execução ex delicto
+A ação de execução ex delicto está prevista no art. 63 do CPP, que dispõe:
+Art. 63.  Transitada  em  julgado  a  sentença  condenatória,  poderão  promover-lhe  a  execução,  no  juízo
+cível, para o efeito da reparação do dano, o ofendido, seu representante legal ou seus herdeiros.
+Independentemente  dessa  previsão,  há,  como  já  dissemos  e  repetimos,  outros  dispositivos  que,  contemplados  fora  do
+Código  de  Processo  Penal,  também  fundamentam  essa  demanda.  É  o  caso  do  art.  91,  I,  do  CP,  estabelecendo  como  efeito  da
+sentença  penal  condenatória  tornar  certa  a  obrigação  de  reparar  o  dano,  e  do  art.  515,  VI,  do  CPC/2015,  este  dispondo  que  a
+sentença penal condenatória transitada em julgado é título executivo judicial.
+Diante  desses  regramentos,  é  conclusivo  que  a  regra  da  independência  entre  a  responsabilidade  civil  e  a  responsabilidade
+penal, incorporada ao art. 935 do Código Civil, não é aplicável quando se está diante de sentença criminal condenatória trânsita
+em  julgado.  Bem  ao  contrário.  Condenado  o  réu  na  esfera  penal  por  decisão  definitiva,  estará  obrigado  a  indenizar  eventuais
+danos  patrimoniais  que  tenha  provocado  ao  ofendido  como  consequência  da  infração  penal,  não  havendo  ele  como  se  furtar  a
+essa obrigação. Neste caso, a única discussão que poderá surgir respeita ao valor do dano indenizável, o que deverá ser arbitrado,
+definitivamente, no âmbito cível, mediante ação de liquidação.
+Aspecto importante diz respeito ao art. 387, IV, do CPP, estabelecendo que, na sentença penal condenatória, o magistrado
+fixará  valor  mínimo  para  reparação  dos  danos  causados  pela  infração,  considerando  os  prejuízos  sofridos  pelo  ofendido.  A
+partir  dessa  disciplina  e  tendo  em  vista  o  que  dispõe  o  art.  63,  parágrafo  único,  do  CPP,  depreende-se  que,  após  o  trânsito  em
+julgado da sentença penal condenatória, terá o ofendido as seguintes alternativas:
+Promover, incontinenti, a ação de execução da sentença condenatória no juízo cível pelo valor fixado na sentença penal;
+Providenciar a liquidação da sentença condenatória no juízo cível para apuração do dano efetivamente sofrido e, somente
+após, ingressar com a ação de execução da sentença penal;
+Adotar  ambas  as  providências  concomitantemente,  ou  seja,  execução  da  sentença  penal  pelo  valor  nela  fixado,  e,  ao
+mesmo  tempo,  ingresso  de  pedido  de  liquidação  da  mesma  sentença  na  órbita  cível  para  quantificar  o  dano  efetivo
+visando à posterior execução da diferença entre o valor apurado na liquidação civil e aquele que foi fixado na sentença
+penal.
+Note-se  que  a  execução  da  sentença  condenatória  apena
+[/PAGINA 384]
+
+[PAGINA 385]
+s  pode  ser  proposta  contra  o  condenado,  pois  só  ele  foi  parte  no
+processo  penal.  Quanto  a  terceiros  (responsável  legal,  herdeiros,  coautor  excluído  da  denúncia),  a  responsabilização  civil
+dependerá do ingresso de ação ordinária cível, alicerçada no art. 64 do CPP, sob pena de violação às garantias do contraditório e
+
+7.5.2.2
+a)
+b)
+•
+•
+•
+da ampla defesa.
+Como já dissemos (item 7.5.1), pode ocorrer que, no período em que aguarda o trânsito em julgado da ação penal, venha o
+ofendido  a  recear  que  o  réu  se  desfaça  de  seus  bens.  Neste  caso,  presentes  os  requisitos  legais,  poderá  ele  deduzir,  no  juízo
+criminal, as medidas assecuratórias previstas nos arts. 125 a 144 do CPP (sequestro, arresto ou hipoteca legal) para evitar que o
+autor  da  prática  criminosa  reste  sem  bens  para  responder  pelos  danos  patrimoniais  que  causou  quando  for  movida  a  ação  de
+execução.
+Observação importante: A nomenclatura “ação de execução ex delicto” perde espaço, no CPC/2015,
+para  a  chamada  “ação  de  cumprimento  de  sentença  penal  condenatória”.  Isso  ocorre  em  razão  dos
+termos incorporados ao art. 515, § 1.º, do CPC/2015, que modificou parcialmente o regramento do
+art. 475-N, parágrafo único, do revogado CPC/1973:
+Art.  475-N,  parágrafo  único,  do  CPC/1973:  “São  títulos  executivos  judiciais  [...]  II  –  a  sentença  penal
+condenatória transitada em julgado; [...] Parágrafo único: Nos casos dos incisos II, IV e VI, o mandado
+inicial  (art.  475-J)  incluirá  a  ordem  de  citação  do  devedor,  no  juízo  civil,  para  liquidação  ou  execução,
+conforme o caso”.
+Art. 515 do CPC/2015: “São títulos executivos judiciais, cujo cumprimento dar--se-á de acordo com os
+artigos  previstos  neste  Título:  [...]  VI  –  a  sentença  penal  condenatória  transitada  em  julgado  [...].  §  1.º
+Nos casos dos incisos VI a IX, o devedor será citado no juízo cível para o cumprimento da sentença
+ou para a liquidação no prazo de quinze dias [...]”.
+ Ação civil ex delicto
+O art. 64 do CPP, que cuida da ação civil ex delicto, dispõe:
+Art.  64.  Sem  prejuízo  do  disposto  no  artigo  anterior,  a  ação  para  ressarcimento  do  dano  poderá  ser
+proposta no juízo cível, contra o autor do crime e, se for caso, contra o responsável civil.
+Parágrafo único.  Intentada  a  ação  penal,  o  juiz  da  ação  civil  poderá  suspender  o  curso  desta,  até  o
+julgamento definitivo daquela.
+Esta modalidade de ação, tal como a examinada no tópico anterior, também objetiva o ressarcimento do dano ao ofendido.
+Contudo, dela se diferencia nos seguintes aspectos:
+Seu ingresso não pressupõe o trânsito em julgado de sentença condenatória na esfera criminal, podendo ser ajuizada pelo
+ofendido contra o ofensor em seguida à prática do crime. O ajuizamento desta demanda independe, até mesmo, de já ter
+sido ingressada a ação penal;
+Pode ser ingressada tanto contra o autor do crime como em relação ao responsável ou corresponsável civi
+[/PAGINA 385]
+
+[PAGINA 386]
+l pela reparação
+patrimonial à vítima.
+Cabe ressaltar que a opção por esta via nem sempre antecipa à vítima a sua reparação em relação ao término da ação penal.
+Isso porque o art. 64, parágrafo único, do CPP, prevê a faculdade de o juiz cível suspender o prosseguimento da ação civil até o
+julgamento  definitivo  da  ação  penal.  Esta  suspensão,  porém,  não  será  discricionária,  apenas  podendo  ocorrer  quando  o
+magistrado perceber, até mesmo pelos termos incorporados à contestação, que há a possibilidade de ser o réu absolvido no juízo
+criminal por uma das causas que, por expressa disposição legal, fazem coisa julgada no cível, quais sejam:
+Art. 386, I, do CPP – Absolvição sob o fundamento de que está provada a inexistência do fato imputado no processo
+criminal. A coisa julgada cível decorre do que dispõe o art. 935, 2.ª parte, do Código Civil.
+Art. 386, IV, do CPP – Absolvição sob o fundamento de que está provado que o réu não concorreu para a infração penal.
+Assim como no caso anterior, a coisa julgada cível, aqui, também é consequência do que estabelece o art. 935, 2.ª parte,
+do Código Civil.
+Art. 386, VI, 1.ª parte  –  Absolvição  sob  o  fundamento  de  que  está  provada  a  ocorrência  de  excludentes  de  ilicitude  –
+legítima  defesa,  estado  de  necessidade,  exercício  regular  de  direito  e  estrito  cumprimento  do  dever  legal.  A  coisa
+julgada cível, neste caso, provém da regra expressa do art. 65 do CPP.
+Optando  o  ofendido  por  buscar  o  ressarcimento  de  seu  prejuízo  por  meio  da  ação  civil  ex  delicto,  as  medidas
+
+7.5.2.3
+assecuratórias  como  forma  de  resguardo  do  patrimônio  do  réu  perderão  bastante  de  sua  importância.  Isso  porque,  havendo
+intenção de ingresso de ação civil de conhecimento ou já tendo esta sido instaurada, bastará ao ofendido propor, antecedente ou
+incidentalmente,  uma  das  tutelas  cautelares  previstas  no  Código  de  Processo  Civil,  mais  rápidas  e  mais  eficazes  do  que  as
+medidas assecuratórias previstas no Código de Processo Penal, para impedir que venha o réu a desfazer-se de seu patrimônio e
+tornar-se insolvente enquanto se aguarda o deslinde da lide cível.
+O CPC/2015 diferencia a tutela provisória de urgência da tutela provisória de evidência, dispondo ainda
+que a primeira poderá ser requerida em caráter antecedente ou incidental: Perceba-se:
+Art. 294: A tutela provisória pode fundamentar-se em urgência ou evidência.
+Parágrafo único: A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter
+antecedente ou incidental.
+Art.   300:   A   tutela   de   urgência   será   concedida   quando   houver   elementos   que   evidenciem   a
+probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Art.  311:  A  tutela  da  evidência  será  concedida,  independentemente  da  demonstração  de  perigo  de
+dano  ou  de  risco  ao  resultado  útil  do  processo,  quando:  I  –  ficar  caracterizado  o  abuso  do  dir
+[/PAGINA 386]
+
+[PAGINA 387]
+eito  de
+defesa  ou  o  manifesto  propósito  protelatório  da  parte;  II  –  as  alegações  de  fato  puderem  ser
+comprovadas  apenas  documentalmente  e  houver  tese  firmada  em  julgamento  de  casos  repetitivos  ou
+em súmula vinculante; III – se tratar de pedido reipersecutório fundado em prova documental adequada
+do  contrato  de  depósito,  caso  em  que  será  decretada  a  ordem  de  entrega  do  objeto  custodiado,  sob
+cominação  de  multa;  IV  –  a  petição  inicial  for  instruída  com  prova  documental  suficiente  dos  fatos
+constitutivos  do  direito  do  autor,  a  que  o  réu  não  oponha  prova  capaz  de  gerar  dúvida  razoável.
+Parágrafo único. Nas hipóteses dos incisos II e III, o juiz poderá decidir liminarmente.
+Breve esquema das formas judiciais de reparação do dano
+
+7.5.3
+7.5.3.1
+7.5.3.2
+ Sequestro de bens imóveis (arts. 125 a 133 do CPP)
+Considerações gerais
+Trata-se da primeira medida assecuratória regulada pelo Código de Processo Penal, devendo ser ingressada perante o juízo
+criminal, visando à indisponibilidade de bens imóveis havidos pelo investigado ou pelo réu com o proveito extraído da infração
+penal (art. 125 do CPP). Exemplo: imóveis adquiridos pelo réu com valores provenientes do desvio de verbas públicas.
+Ao mesmo tempo em que impede o enriquecimento ilícito do imputado, o sequestro assegura que se operem os dois efeitos
+extrapenais  da  sentença  condenatória  transitada  em  julgado,  previstos  no  art.  91,  I  e  II,  b,  2.ª  parte,  do  CP,  quais  sejam:
+reparação do dano causado pela infração penal e perda dos bens adquiridos com o produto da prática criminosa.
+Não se aplicam ao sequestro as restrições consagradas na Lei 8.009/1990, que dispõe sobre a impenhorabilidade de certos
+bens. Isto ocorre porque, de acordo com o art. 3.º, VI, daquele diploma, as normas lá previstas não incidem em relação a bens
+adquiridos com o produto do crime.
+Outra  questão  refere-se  ao  sequestro  de  bem  de  terceiro  que  o  tenha  adquirido  (título  oneroso)  do  réu,  quando  houver
+fortes evidências de que este o comprou com o proveito do crime. Ocorre que, embora haja previsão desta possibilidade nos arts.
+125 e 130, II, do CPP, não há como negar que a aplicação irrestrita destes dispositivos é fator de elevada insegurança jurídica,
+além  de  produzir  efeito  devastador  sobre  as  relações  negociais.  Diante  disso,  entende  a  jurisprudência  majoritária  que,  “se
+demonstrada, à saciedade, a lisura do adquirente de imóvel pertencente ao réu, é de rigor o levantamento da constrição judicial
+efetuada sobre a res”
+12
+. Isto quer dizer que, embora sequestrável o bem do terceiro adquirente, a não comprovação de sua má-fé
+nessa aquisição deve implicar, necessariamente, levantamento do sequestro, liberando-se o bem.
+Fases
+Pode ser ingressado tanto no curso do processo criminal propriamente dito como na fase anterior a este.
+
+7.5.3.3
+7.5.3.4
+7.5.3.5
+1.
+2.
+3.
+Observe-se que o art. 127 do CPP, ao dispor sobre
+[/PAGINA 387]
+
+[PAGINA 388]
+o momento em que pode ser determinado o sequestro, refere que tal pode
+ocorrer em qualquer fase do processo ou ainda antes de oferecida a denúncia ou a queixa. Não exige o legislador, portanto, a
+existência de inquérito policial, como ocorre, por exemplo, em relação ao incidente de insanidade mental, em que a existência,
+no mínimo, de inquérito é pressuposto para instauração, ex vi do art. 149, § 1.º, do CPP. Dessa forma, conclui-se que o sequestro
+pode  ser  requerido  antes  da  existência  formal  de  processo  e  ainda  que  não  haja  inquérito,  bastando  que  elementos  aportem  ao
+pedido,  possibilitando  ao  magistrado  a  decretação  da  medida.  Exemplo:  postulação  feita  pelo  Ministério  Público  com  base  em
+documentos obtidos no curso de investigação criminal realizada no âmbito da Promotoria de Justiça.
+ Requisito indispensável
+O  ingresso  da  medida  não  requer  prova  plena,  mas  exige  indícios  veementes  de  que  o  bem  sequestrado  tenha  sido
+adquirido com o produto da infração penal (art. 126 do CPP). É o caso, por exemplo, de indivíduo que, logo após a prática de um
+crime, tenha adquirido patrimônio em valor equivalente ao que se locupletou com o fato criminoso, sem ter rendas que dessem
+suporte  a  tal  aquisição  e,  ainda,  omitindo  o  bem  da  declaração  de  bens  junto  à  Receita  Federal.  Fernando  Capez,  comentando
+esse pressuposto, refere que “a expressão ‘indícios veementes’ significa mais do que meros indícios, mas menos do que prova
+plena, já que nessa fase vigora o princípio do in dubio pro societate. Podemos entender como tal a probabilidade séria de que o
+bem tenha proveniência ilícita”
+13
+.
+Legitimidade
+De  acordo  com  o  art.  127  do  CPP,  o  sequestro  pode  ser  ordenado  pelo  juiz ex  officio.  Podem,  também,  requerê-lo  o
+Ministério  Público,  o  ofendido,  seu  representante  legal  (se  incapaz)  ou  seus  herdeiros  (se  morto).  Faculta  o  legislador,
+ainda, à autoridade policial representar ao juiz pela necessidade de sua decretação na fase investigatória. Mais recentemente, o
+art.  3.º-A  da  Lei  1.579/1952,  introduzido  pela  Lei  13.367/2016,  conferiu  ao  presidente  de  Comissão  Parlamentar  de
+Inquérito,  por  deliberação  desta,  “solicitar,  em  qualquer  fase  a  investigação,  ao  juízo  criminal  competente,  medida  cautelar
+necessária, quando se verificar a existência de indícios veementes da proveniência ilícita de bens”.
+Defesa
+No sequestro, a defesa a ser realizada pela pessoa que teve o bem constrito deve ocorrer por meio de embargos, a serem
+opostos na forma dos arts. 129 e 130 do CPP. Independente dessa previsão, o Código de Processo Penal não estabelece qual o
+momento em que deve ser dada ciência à pessoa atingida pela medida quanto ao gravame incidente sobre seu patrimônio. Como
+é consolidado o entendimento de que o sequestro deve ser realizado inaudita altera parte, isto é, sem o conhecimento prévio do
+titular  do  bem  sobre  o  qual  deve  recair,  p
+[/PAGINA 388]
+
+[PAGINA 389]
+redomina  a  orientação  de  que  esta  ciência  deve  ocorrer  logo  após  a  inscrição  do
+sequestro no registro imobiliário.
+Pois  bem,  efetivado  o  sequestro,  inscrita  esta  medida  no  registro  de  imóveis  e  cientificado  quanto  a  ela  o  proprietário  do
+bem gravado, três situações podem ocorrer:
+O  sequestro  incide  sobre  bem  imóvel  de  propriedade  de  terceiro:  Pode  acontecer  que,  por  equívoco,  o  sequestro
+atinja  bem  imóvel  ou  parcela  de  bem  imóvel  pertencente  a  terceiro  estranho  a  qualquer  negócio  com  o  agente  da
+infração, vale dizer, que não o tenha adquirido do indiciado ou réu após a prática do delito. É o caso do cônjuge meeiro,
+do sócio, do condômino, do lindeiro etc. Nesta hipótese, faculta-se a este terceiro opor os embargos do art. 129 do CPP,
+os  quais  não  se  confundem  com  os  embargos  previstos  no  art.  130,  II,  do  mesmo  diploma,  que  são  deduzidos  pelo
+terceiro  de  boa-fé  que  adquiriu  o  bem  que  o  indiciado  ou  réu,  por  sua  vez,  teria  adquirido  com  o  produto  da  infração
+penal. Tais embargos – do art. 129 – devem ser julgados desde logo pelo juiz criminal e, se considerados procedentes,
+importam  desoneração  imediata  do  bem.  Veja-se  que  ao  terceiro  incumbe  o  ônus  da  prova  dos  fatos  que  alegar  nos
+embargos.
+O sequestro incide sobre bem imóvel de propriedade do réu ou indiciado: neste caso, os embargos a serem opostos
+estão  previstos  no  art.  130,  I,  do  CPP,  estabelecendo  a  própria  lei  o  único  argumento  que  pode  ser  utilizado  como
+defesa, qual seja o de que o bem tenha sido adquirido de forma lícita. Incumbe ao embargante não apenas alegar, mas
+também  comprovar  a  licitude  da  verba  utilizada  para  aquisição  do  bem  sequestrado,  operando-se,  então,  hipótese  de
+inversão  do  ônus  da  prova.  Há  segmento  doutrinário  que  considera  inconstitucional  tal  inversão,  sob  o  argumento  de
+que viola a presunção de inocência. Não concordamos com essa orientação tendo em vista a circunstância de que, sendo
+legítima a aquisição do bem, não há dificuldade alguma e muito menos prejuízo para o investigado ou réu em explicar a
+origem dos valores utilizados na sua aquisição
+14
+.
+O sequestro incide sobre bem de terceiro que o adquiriu de boa-fé: trata-se, nesta situação, dos embargos previstos
+
+no  art.  130,  II,  do  CPP,  por  meio  dos  quais  o  terceiro  de  boa-fé  que  teve  o  seu  bem  sequestrado  poderá  alegar  (e,
+efetivamente,  não  lhe  restará  outra  defesa)  que,  ao  comprar  o  bem  do  investigado  ou  réu,  desconhecia  que  este,
+inicialmente,  tinha-o  adquirido  com  verbas  ilícitas.  Diferentemente  dos  embargos  opostos  pelo  próprio  réu,  o  terceiro
+adquirente que sustenta boa-fé não precisa comprová-la, bastando, repita-se, alegá-la. Destarte, vigora, aqui, o princípio
+geral  das  provas  segundo  o  qual  o  ônus  da  prova  incumbe  a  quem  alega,  obrigando  a  quem  requereu  a  medid
+[/PAGINA 389]
+
+[PAGINA 390]
+a
+comprovar a má-fé do terceiro. Não realizada esta comprovação, o gravame deve ser levantado pelo magistrado.
+Ressalte-se,  quanto  a  estes  dois  últimos  embargos  –  opostos  pelo  imputado  e  pelo  terceiro  de  boa-fé  –,  que  somente
+poderão ser julgados após o trânsito em julgado da sentença condenatória eventualmente proferida no processo criminal movido
+contra o réu, nos termos do art. 130, parágrafo único, do CPP. Até lá, o bem deve permanecer constrito, salvo a possibilidade,
+quanto ao terceiro de boa-fé (não o próprio indiciado ou réu), de prestar caução, na forma prevista no art. 131, II, do CPP.
+Por outro lado, no tocante ao prazo para tais embargos serem opostos, mais uma vez omite-se o Código de Processo Penal.
+Surgiram, então, duas posições:
+Primeira: efetivado o sequestro, deve o titular do bem constrito ser intimado dessa medida. Para os defensores dessa
+posição, os embargos tratados no art. 130 devem ser ingressados até o trânsito em julgado da sentença penal condenatória,
+visto que o parágrafo único deste dispositivo proíbe que sejam julgados tais embargos antes deste momento.
+Segunda:  com  a  inscrição  do  sequestro,  o  titular  do  bem  gravado  deverá  ser  citado  acerca  da  constrição  operada.  Os
+adeptos  desta  corrente  equiparam  os  embargos  do  art.  130  a  uma  contestação,  considerando,  portanto,  que  devem  ser
+propostos  no  prazo  de  cinco  dias,  por  analogia  ao  prazo  estipulado  pelo  art.  306  do  CPC/2015  para  a  contestação  das
+cautelares previstas nesse diploma.
+Embora  plausível  a  primeira  orientação,  compreendemos,  na  atualidade,  como  correta  a  segunda,  revisando,  com  isso,
+nossa orientação anterior. Isso porque ditos embargos possibilitam a produção de prova. Ora, se opostos às vésperas do trânsito
+em  julgado  da  sentença  condenatória  ainda  for  necessário  realizar  fase  instrutória,  a  cautelar  de  sequestro  terá  sua  tramitação
+prolongada,  retardando  o  ressarcimento  da  vítima  quanto  aos  danos  sofridos  pelo  crime,  o  que,  como  vimos,  é  um  dos  fins  do
+sequestro.
+E quanto aos embargos do art. 129 do CPP? Não há divergências, devendo ser aplicada, por analogia, a regra do art. 675,
+caput,  do  CPC/2015,  dispondo  que  estes  “podem  ser  opostos  a  qualquer  tempo  no  processo  de  conhecimento  enquanto  não
+transitada  em  julgado  a  sentença  e,  no  cumprimento  de  sentença  ou  no  processo  de  execução,  até  5  (cinco)  dias  depois  da
+adjudicação, da alienação por iniciativa particular ou da arrematação, mas sempre antes da assinatura da respectiva carta”.
+
+7.5.3.6
+a)
+b)
+ A apelação e o mandado de segurança como formas de insurgência em relação à decisão de
+sequestro de bens
+Embora o Código de Processo Penal estabeleça os embargos como forma de insurgimento em relação ao sequestro, têm a
+jurisprudência e a doutrina consolidadas admitido, também, o uso do mandado de segurança e da apelação prevista no art. 593,
+II, do CPP co
+[/PAGINA 390]
+
+[PAGINA 391]
+m esse mesmo objetivo. Neste passo, qual deverá ser o critério de opção do indivíduo atingido em seu patrimônio
+pelo  gravame?  A  resposta  a  esta  pergunta  condiciona-se  à  verificação  da  existência  ou  não,  em  poder  do  prejudicado  pela
+medida, de provas capazes de conduzir ao seu levantamento, e, em caso positivo, da qualidade dessas provas. Assim:
+Opção  pelo  mandado  de  segurança:  Havendo  elementos  que  apontem,  com  absoluta  certeza,  que  o  sequestro
+determinado  viola  o  direito  líquido  e  certo  do  proprietário  em  ter  seu  patrimônio  livre  e  desembaraçado,  a  medida
+adequada será o mandado de segurança, pois, além de admitir a concessão de medida liminar, possui tramitação rápida.
+Além disso, o cabimento do writ na espécie não infringe o art. 5.º, II, da Lei 12.016/2009, visto que a apelação cabível
+contra o sequestro de bens fundamenta-se no art. 593, II, do CPP, a qual não possui previsão legal de efeito suspensivo.
+Exemplo:  Sequestro  de  bem  adquirido  antes  da  infração  penal  pela  qual  está  sendo  o  indivíduo  investigado  ou
+processado.  Possuindo  o  titular  a  comprovação  da  época  da  aquisição,  poderá  impetrar,  imediatamente,  o  mandamus
+para obter o levantamento da constrição.
+Opção pela apelação: Havendo provas de que o bem foi adquirido licitamente, mas que não sejam ostensivas a ponto de
+justificar  o  ingresso  de  mandado  de  segurança  –  provas,  enfim,  que  demandem  exame  aprofundado  para  formação  da
+convicção do julgador quanto à veracidade dos argumentos expendidos pelo insurgente –, deverá o prejudicado apelar
+da  decisão  que  ordenar  o  sequestro.  Exemplo:  Contemple-se  a  hipótese  de  que  o  acusado  tenha  adquirido  um  imóvel
+após a prática de crime patrimonial pelo qual está sendo processado. Considere-se, ainda, que esse bem venha a sofrer,
+no  curso  do  processo,  sequestro  por  ordem  do  juiz  criminal.  Não  obstante,  em  seu  poder,  detém  o  réu  elementos  que
+comprovam a origem lícita do numerário utilizado na referida aquisição, uma vez que parte do valor foi retirado de três
+contas  bancárias  preexistentes  ao  crime  objeto  do  processo  penal  e,  outra  parte,  obtida  com  a  venda  de  um  imóvel
+
+c)
+7.5.3.7
+7.5.3.8
+havido de herança, com a alienação de um veículo e com dinheiro recebido de terceiro como quitação de dívida. Em tal
+caso, a prova da aquisição lícita, em tese, existe. Entretanto, sua constatação depende de exame aprofundado e detido
+dos elementos trazidos, o qual não se admite na via estreita do mandado de segurança, justificando-se, assim, o uso da
+apelação.
+Opção  pelos  embargos:  Não  havendo  provas  de  aquisição  lícita  do  bem,  sendo,  ainda,  necessária  sua  produção,  o
+correto  é  o  manejo  dos  embargos  contemplados  no  Código  de  Processo  Penal,  os  quais  admitem  ampla  produção
+probatória, v.g., oitiva de testemunhas, perícias, requisição e juntada de documentos etc.
+Procedimento
+Intentada a
+[/PAGINA 391]
+
+[PAGINA 392]
+medida perante o juízo criminal, será autuada em apartado, decidindo o juiz de plano e sem a oitiva do titular
+do bem (inaudita altera parte).
+Entendendo  ausentes  os  indícios  veementes  de  que  o  bem  fora  adquirido  com  o  produto  do  crime  ou  insubsistentes  os
+argumentos  incorporados  ao  requerimento  de  sequestro,  poderá  o  magistrado  indeferir  liminarmente  o  pedido,  ou  designar
+audiência de justificação, facultando ao requerente produzir prova oral e documental acerca dos fatos que alega.
+Caso, porém, compreenda o juiz estarem presentes os requisitos legais, decretará o sequestro, ordenando, no caso de bem
+imóvel, sua inscrição no Registro Imobiliário, ato que o torna indisponível (inalienável) – veja-se que a medida não priva o uso
+do  bem  nem  mesmo  o  proveito  de  seus  frutos.  Logo,  se  o  réu  reside  no  bem  sequestrado,  nele  poderá  continuar  até  que  haja
+eventual  venda  judicial.  Por  outro  lado,  se  o  bem  é  locado  ou  arrendado,  poderá,  igualmente,  seu  proprietário  continuar
+percebendo os respectivos frutos.
+A partir daí, embora o Código de Processo Penal não seja explícito, segue-se a citação do titular do bem sequestrado, que
+poderá  opor  embargos.  Tratan-do-se  dos  embargos  previstos  no  art.  129  do  CPP,  são  estes  julgados  imediatamente  após  a
+produção  das  provas  requeridas,  implicando  sua  procedência  em  levantamento  da  medida.  Se,  opostamente,  for  o  caso  dos
+embargos contemplados no art. 130 do mesmo diploma, após a fase probatória, são estes suspensos para aguardar o julgamento
+da  ação  penal.  Neste  último  caso,  transitando  em  julgado  sentença  criminal  absolutória,  ocorrerá  o  levantamento  do  sequestro
+(art. 131, III, do CPP), ficando prejudicado o julgamento dos embargos. Se, contudo, transitar em julgado sentença condenatória,
+serão  os  embargos  decididos  pelo  juiz  criminal.  A  procedência  libera  o  bem.  Já  a  improcedência  acarreta  a  determinação  pelo
+juízo criminal dos atos tendentes à venda judicial do bem sequestrado na forma do art. 133 do CPP.
+Levantamento
+O  levantamento  do  sequestro,  que  significa  a  perda  da  eficácia  da  medida,  dar-se-á  em  quatro  hipóteses,  previstas  no  art.
+131 do CPP:
+1. Não ajuizamento da ação penal em 60 dias. Sendo a medida deferida na fase anterior ao ajuizamento da denúncia ou
+da  queixa,  dispõe  o  Ministério  Público  ou  o  ofendido  do  prazo  de  60  dias  para  ingresso  da  ação  penal.  Referindo  a  lei  que  tal
+prazo é contado da data em que ficar concluída a diligência, consideramos que seu dies a quo dá-se com o registro imobiliário da
+constrição, nos termos do art. 128 do CPP.
+2.  Caução  pelo  terceiro  de  boa-fé.  Atente-se  que  a  lei  não  faculta  ao  indiciado  ou  réu  prestar  caução  para  fins  de
+levantamento antecipado do sequestro (isto é, antes do julgamento de eventuais embargos). Ao contrário: a prestação de caução é
+permitida  apenas  ao  ter
+[/PAGINA 392]
+
+[PAGINA 393]
+ceiro  (de  boa-fé,  logicamente)  que  tenha  adquirido  o  bem.  Quanto  ao  valor  da  caução,  estabelece  o
+dispositivo que deve ser o bastante para assegurar o disposto no art. 74, II, “b”, 2.ª parte, do Código Penal, que, na atualidade,
+corresponde ao art. 91, II, “b”, 2.ª parte, do mesmo Estatuto, referindo-se ao efeito da condenação de perda dos bens adquiridos
+com o proveito da infração penal. Ora, conquanto o art. 131, II, do CPP, a partir da remissão ao referido dispositivo do Código
+Penal,  sugira  que  a  caução  deve  ter  valor  equivalente  ao  do  bem  sequestrado,  é  certo  que  tal  exigência,  em  muitos  casos,
+inviabilizará a prestação da garantia. Por isso, compreendemos que, embora o valor do bem não possa ser desprezado na fixação
+do montante da caução, esta deve legar em consideração, também, a condição econômica de quem deva prestá-la.
+3.  Extinção  da  punibilidade  transitada  em  julgado.  Trata-se,  especialmente,  das  situações  elencadas  no  art.  107  do
+Código  Penal,  sem  prejuízo  de  outras  hipóteses  previstas  na  legislação  especial.  Apesar  de  o  art.  131,  III,  do  CPP  não  ser
+específico, deve-se lembrar que o sequestro possui dois objetivos primordiais: um, assegurar que se cumpra o efeito extrapenal
+da condenação previsto no art. 91, I, do Código Penal (reparação do prejuízo financeiro sofrido pela vítima do crime), e, dois,
+fazer cumprir o efeito extrapenal da condenação contemplado no art. 91, II, “b”, 2.ª parte, do CP (perda, em favor da União, dos
+bens  adquiridos  com  o  produto  da  infração  penal,  ressalvado  direito  do  lesado  e  de  terceiro  de  boa-fé).  Neste  viés,
+compreendemos  que  as  causas  extintivas  da  punibilidade  que  autorizam  o  levantamento  do  sequestro  são,  unicamente,  aquelas
+que,  além  da  pena,  elidem  os  referidos  efeitos  extrapenais  da  sentença  condenatória  transitada  em  julgado.  Tome-se,  como
+
+7.5.3.9
+7.5.3.10
+•
+exemplo,  a  prescrição  da  pretensão  executória.  Neste  caso,  a  extinção  da  punibilidade  prejudicará  tão  somente  a  aplicação  da
+pena, como efeito penal principal da sentença, permanecendo intactos os efeitos penais secundários e os efeitos extrapenais da
+condenação, inclusive a obrigação de indenizar. Logo, tal causa extintiva não pode implicar no levantamento do sequestro.
+4. Sentença absolutória transitada em julgado. Não importam os fundamentos da absolvição, dentre os elencados no art.
+386  do  CPP.  Sendo  o  acusado  absolvido  por  decisão  transitada  em  julgado,  opera-se  o  levantamento  do  sequestro.  A  razão  da
+regra é simples: como dissemos na nota anterior, o sequestro tem por fim efetivas os efeitos da sentença condenatória transitada
+em  julgado  previstos  no  art.  91,  I  e  II,  b,  do  CP.  Ora,  se  transita  em  julgado  sentença  absolutória,  tais  efeitos  não  se  operam,
+deixando de ser justificável a manutenção da constrição.
+Embora a lei contemple quatro hipóteses (distribuí
+[/PAGINA 393]
+
+[PAGINA 394]
+das em três incisos) de levantamento do sequestro, percebe-se que nada
+refere quanto ao julgamento de eventuais embargos que tenham sido opostos pelo titular do bem sequestrado. Apesar do silêncio
+do legislador a respeito, é evidente que a procedência dos embargos opostos como forma de defesa, quer do terceiro, quer do
+investigado ou do réu, também acarreta o levantamento. Não fosse assim, qual seria a finalidade dessa forma de intervenção? Na
+verdade, essa omissão do legislador tem como justificativa o fato de que, à época em que editado o Código de Processo Penal, o
+êxito  dos  embargos  opostos  pelo  terceiro  de  boa-fé  assegurava-lhe  apenas  o  direito  de  receber  eventual  resíduo  que,  após
+ressarcimento  da  vítima  do  crime,  viesse  a  sobrar  das  verbas  alcançadas  por  meio  do  leilão  ou  da  praça  da  coisa  sequestrada.
+Tanto é que o art. 133, parágrafo único, ao tratar do dinheiro obtido com a venda de bens sequestrados, refere que este reverterá
+para a União Federal o que não couber ao lesado (vítima do crime) ou ao terceiro de boa-fé. Na atualidade, porém, contemplada
+a  boa-fé  inclusive  em  nível  de  Constituição  Federal,  consolidou-se  a  jurisprudência  no  sentido  de  que  é  inconstitucional  este
+regramento  introduzido  no  Código  de  Processo  Penal  pelo  legislador  de  1941.  Portanto,  não  se  evidenciando  que  o  terceiro
+adquirente do bem comprado pelo réu com o produto do ilícito agiu de má-fé, a procedência de seus embargos (art. 130, II, do
+CPP),  tal  como  dos  embargos  opostos  pelo  réu  sob  o  argumento  de  aquisição  com  verbas  lícitas  (art.  130,  I,  do  CPP)  e  dos
+embargos do terceiro não adquirente (art. 129 do CPP), importará em levantamento do sequestro, restando à vítima, neste caso,
+buscar ressarcir o seu prejuízo mediante a constrição de outros bens do réu, com uso da medida própria – hipoteca legal (art. 134
+do CPP) ou arresto (art. 137 do CPP).
+Por tudo isso, é possível acrescentar, além das quatro causas de levantamento do sequestro previstas nos três incisos do art.
+131 do CPP, a procedência dos embargos, quer sejam os previstos no art. 129 do CPP, quer sejam os catalogados no art. 130, I e
+II, do mesmo diploma.
+Finalização
+Transitando em julgado a sentença penal condenatória, serão julgados os embargos deduzidos na forma do art. 130, I e II, e
+parágrafo único, do CPP. A procedência libera o bem. A improcedência acarreta a determinação pelo juízo criminal dos atos
+tendentes à venda judicial do bem sequestrado na forma do art. 133 do CPP.
+Realizada a venda judicial, o dinheiro apurado será utilizado para ressarcimento do dano causado à vítima pela prática da
+infração penal, e o que sobrar, encaminhado à União Federal, conforme reza o art. 133, parágrafo único, do CPP.
+Lembre-se  que,  com  a  alteração  introduzida  ao  art.  387  do  CPP  pela  Lei  11.719/2008,  na  sentença  condenatória  o  juiz
+criminal  fixará  um  valor  mínimo  a  título  de  indenização  à
+[/PAGINA 394]
+
+[PAGINA 395]
+vítima.  Independentemente  dessa  fixação,  que  já  garante  à  vítima,
+após  a  venda  judicial  do  bem  sequestrado,  o  direito  de  obter  o  repasse  do  valor  correspondente,  poderá  ela,  ainda,  diante  da
+sentença  penal  condenatória  transitada  em  julgado,  liquidá-la  na  esfera  cível  para  a  apuração  do  dano  efetivamente  sofrido  e,
+após, habilitar-se no juízo criminal visando ao recebimento do valor remanescente em relação ao que foi apurado em liquidação
+e  ao  que  foi  obtido  com  a  venda  judicial  (deduzindo-se,  por  óbvio,  eventual  repasse  já  realizado  por  conta  do  valor  mínimo
+arbitrado  na  sentença  penal).  Omitindo-se  o  ofendido  nessa  providência  e  havendo  valores  à  sua  disposição  em  face  da  venda
+judicial operada, deverá o juiz criminal, a nosso ver, intimá-lo para que, em prazo judicialmente fixado, comprove o ingresso de
+pedido  de  liquidação  da  sentença  condenatória  penal  na  esfera  cível,  sob  pena  de,  não  o  fazendo,  ser  o  valor  existente  em
+decorrência da venda judicial revertido em favor da União Federal, nos termos do referido art. 133, parágrafo único, do CPP.
+ Observações importantes sobre o sequestro do bem imóvel
+Trata-se  o  sequestro  de  medida  que  possui  determinadas  peculiaridades,  as  quais,  pela  importância,  não  podem  ser
+esquecidas. Consistem:
+O sequestro é medida que, por si, pode implicar satisfação do dano cível causado à vítima, não exigindo desta qualquer
+outra  providência  que  não  a  liquidação  da  sentença  penal  condenatória  transitada  em  julgado.  Basta  atentar  ao  que
+dispõe o art. 133, parágrafo único, do CPP, ao estabelecer que, com o dinheiro da venda judicial do bem sequestrado,
+
+•
+•
+•
+•
+•
+•
+–
+–
+–
+7.5.3.11
+ressarcir-se-á a vítima do crime.
+Trata-se  de  medida  que  tem  início  e  fim  no  juízo  criminal.  Não  passará,  jamais,  pela  jurisdição  do  juízo  cível,
+resolvendo-se, integralmente, na esfera penal.
+Pode incidir   sobre   qualquer   bem   imóvel,   ainda   aqueles   referidos   na   Lei   8.009/1990,   que   dispõe   sobre   a
+impenhorabilidade de bens. É que, essa mesma lei, em seu art. 3.º, VI, exclui da impenhorabilidade os bens que tenham
+sido adquiridos com o proveito do crime. Assim, nada obsta, v.g., o sequestro do único imóvel residencial pertencente
+ao réu.
+O sequestro, como já vimos, atinge apenas o poder de disposição (alienação), não impedindo o uso do bem sequestrado
+nem que sejam auferidos os respectivos frutos, como, por exemplo, o valor decorrente do aluguel ou do arrendamento.
+A  medida  é  deferida  inaudita  altera  parte  pelo  juiz,  vale  dizer,  sem  a  necessidade  de  oitiva  prévia  da  pessoa  cujo
+patrimônio  será  atingido  pela  constrição.  Evidentemente,  embora  não  prevista  em  lei  e  sendo  desaconselhável  esta
+oitiva  (pela  possibilidade  de  o  acusado,  ciente  da  pretensão  do  autor  da  medida  de  onerar  seu  bem,  vendê-lo  antes  a
+terceiro de boa-f
+[/PAGINA 395]
+
+[PAGINA 396]
+é), não resta a mesma proibida, caso entenda o juiz necessária à formação de seu convencimento.
+Lembre-se:  na  hipótese  do  seu  deferimento,  o  sequestro  admite  defesa por meio de embargos.  Possível,  contudo,  ao
+prejudicado,  optar  pelas  vias  da  apelação  ou  do  mandado  de  segurança,  na  esteira  de  consolidada  jurisprudência.
+Relativamente ao indeferimento, reputamos possível a apelação, com fundamento no art. 593, II, do CPP.
+Considerando  que  o  sequestro  requer  a  existência  de  indícios  veementes  de  que  o  bem  foi  adquirido  com  a  prática
+criminosa, caso entenda insuficientes os elementos apresentados, faculta-se ao juiz:
+Indeferir, de plano, o requerimento de sequestro;
+Notificar  a  parte  requerente  para  que  complemente  a  documentação  acostada  ao  pedido  (v.g.,  na  hipótese  em  que
+houver alusão a determinada evidência que, não obstante, não instruiu o requerimento);
+Determinar ele próprio a produção de prova para a obtenção dos indícios veementes de que a aquisição do bem se deu
+com o produto do crime, providência esta que se justifica não apenas na circunstância de que o juiz pode determinar
+o sequestro ex officio (art. 127 do CPP), como também na regra do art. 156, I, do CPP, que lhe possibilita ordenar,
+mesmo  antes  de  intentada  a  ação  penal,  a  produção  de  provas  consideradas  urgentes  e  relevantes,  observando  a
+necessidade, a adequação e a proporcionalidade da medida.
+ Roteiro prático das fases que compõem o sequestro de bem imóvel
+Tendo  em  vista  a  complexidade  do  tema,  para  facilitar-lhe  a  compreensão,  apresentamos,  a  seguir,  um  roteiro  básico,
+incorporando os principais acontecimentos processuais envolvendo o pedido, a tramitação e a finalização do sequestro de bens
+imóveis.
+
+7.5.3.12
+•
+•
+•
+ Sequestro de bem móvel (arts. 132 e 133 do CPP)
+Ao  sequestro  de  bens  móveis  aplicam-se,  mutatis mutandis,  as  mesmas  regras  já  examinadas  em  relação  ao  sequestro  de
+bens imóveis. Logo:
+Destina-se a bens adquiridos com o produto da infração penal;
+É cabível em qualquer fase do processo ou ainda antes de oferecida a denúncia ou a queixa;
+Pode  ser  postulado  pelo  Ministério  Público,  pela  vítima,  seu  representante  legal  ou  herdeiros  e,  na  fase  do  inquérito
+
+•
+•
+•
+•
+•
+•
+•
+7.5.3.13
+7.5.4
+7.5.4.1
+policial, mediante representação do delegado de polícia. Mais recentemente, a Lei 13.367/2016, introduzindo o art. 3.º-
+A  à  Lei  1.579/1952,  conferiu  legitimidade  para  requerer  judicialmente  a  medida,  também,  ao  presidente  de  Comissão
+Parlamentar de Inquérito, por deliberação desta;
+Admite, igualmente, embargos como defesa, sob todas as formas previstas nos arts. 129 e 130 do CPP;
+As hipóteses de levantamento são aquelas arroladas no art. 131, além, obviamente, da procedência dos embargos;
+Assim como ocorre em relação ao sequestro de bem imóvel, exige a presença de indícios veementes de aquisição ilícita;
+É medida de alçada do magistrado crimina
+[/PAGINA 396]
+
+[PAGINA 397]
+l e por ele determinada de forma inaudita altera parte;
+Por fim, no tocante ao procedimento, é ele constante do esquema elaborado em relação aos bens de natureza imobiliária.
+Em verdade, como peculiaridades do sequestro de bem móvel, e que, em termos de características, distingue-o do sequestro
+de bem imóvel, encontram-se apenas as seguintes:
+Tratando-se de bem móvel, não há falar-se, obviamente, em inscrição da medida em Registro Imobiliário. Havendo
+órgão  próprio  de  registro  como,  por  exemplo,  veículos  (passíveis  de  inscrição  no  Detran)  e  semoventes  (sujeitos  à
+comunicação  às  inspetorias  veterinárias  regionais),  é  feita  a  devida  comunicação  pelo  juiz  criminal  quanto  à
+inalienabilidade  determinada,  sem  prejuízo  de  o  bem  ficar  em  condição  de  depósito,  que  pode  ser  tanto  do  próprio
+proprietário  como  de  terceiro.  Não  existindo,  contudo,  órgão  registral  ou  cadastral  próprio,  apenas  a  situação  de
+depósito do bem é estabelecida pelo magistrado.
+A medida somente é viável quando não for possível a busca e apreensão, conforme se observa do art. 132 do CPP, ao
+dispor que o cabimento é residual em relação à medida prevista no Capítulo XI, do Título VII, do Código de Processo
+Penal.  Em  outras  palavras,  o  sequestro  de  bem  móvel  dar-se-á  em  relação  às  coisas  adquiridas  com  o  provento  da
+prática  criminosa  (produto  indireto  do  ilícito).  Ao  contrário,  a  busca  e  apreensão  terá  lugar  para  as  coisas  obtidas
+diretamente  por  meios  criminosos  e  instrumentos  do  crime  (produto  direto  do  ilícito).  Por  exemplo,  se  alguém  se
+apropria  indevidamente  de  valor  que  não  lhe  pertence  e  com  esse  dinheiro  adquire  um  carro,  a  medida  correta  é  o
+sequestro. Agora, se for o caso de um carro que fora furtado e depois localizado em uma garagem, a medida cabível é a
+busca, pois o veículo, nesse caso, é o produto direto do ilícito.
+ Sequestro de bens ou valores equivalentes (art. 91, § 2.º, do CP)
+O art. 91, II, letra b, do Código Penal estabelece, como efeito automático e obrigatório da sentença condenatória transitada
+em julgado, a perda, em favor da União Federal, ressalvado o direito do lesado ou de terceiro de boa-fé, do produto do crime
+ou de qualquer bem ou valor que constitua proveito auferido pelo agente com a prática do fato criminoso.
+Considerando que podem surgir dificuldades em rastrear o produto ou os proventos do crime, estabelece o art. 91, § 1.º, do
+Código Penal (introduzido pela Lei 12.694, de 24.07.2012) que, no caso de não localização destes bens ou de se localizarem eles
+no exterior, poderá o juiz decretar a perda de bens ou valores equivalentes ao produto ou proveito do crime.
+Ora, na medida em que existe esta possibilidade, torna-se necessário assegurar que precitados bens ou valores equivalentes
+estejam à disposição. Para este fim, determinou o art. 91, § 2.º, do Código Penal (acrescentado pela Lei 12.694, de 24.07.2012)
+que as  medidas
+[/PAGINA 397]
+
+[PAGINA 398]
+assecuratórias  previstas  na  legislação  processual  poderão  abranger  bens  ou  valores  equivalentes  do
+investigado ou acusado, para posterior decretação da perda.
+Logicamente, tratando-se do produto do crime, a medida cabível é a busca e apreensão, ex vi do art. 240, § 1.º, alínea b, 2.ª
+parte, do CPP (“coisas obtidas por meios criminosos”). Tratando-se, porém, de proveito da infração penal, entendendo-se como
+tal os bens adquiridos com o produto do crime, a medida assecuratória cabível será o sequestro contemplado nos arts. 125 a 133
+do CPP.
+Em  suma,  podem  ser  sequestrados  os  próprios  bens  adquiridos  com  o  produto  do  crime.  Não  sendo  estes  encontrados  ou
+localizando-se no exterior, podem ser sequestrados bens ou valores lícitos equivalentes pertencentes ao investigado ou acusado.
+Hipoteca legal (arts. 134 a 144 do CPP)
+Considerações gerais
+Trata-se de direito real de garantia que incide sobre bens imóveis lícitos pertencentes ao réu (arts. 134 e 135 do CPP), não
+podendo  atingir  patrimônio  registrado  em  nome  de  terceiro.  Alerta-se  que  existe  entendimento  no  sentido  de  que  é  possível  a
+especialização  do  patrimônio  do  terceiro,  se  este  for  corresponsável  civil,  caso  em  que  o  procedimento  servirá  como
+preparatório ou incidental para o processo de conhecimento condenatório, uma vez que o terceiro responsável não é parte no
+processo penal
+15
+.
+Sendo lícita a origem dos bens sujeitos à hipoteca, pergunta-se: Qual a finalidade desta medida assecuratória? A resposta é
+
+7.5.4.2
+7.5.4.3
+7.5.4.4
+simples: visa assegurar que o acusado tenha patrimônio disponível para responder à futura ação de execução ex delicto (art. 63
+do  CPP)  que  lhe  venha  a  ser  proposta  pelo  ofendido.  Afinal,  não  possuindo  ação  civil  de  indenização  (art.  64  do  CPP)  em
+andamento e não sendo a sua intenção ajuizá-la de imediato, não poderá o ofendido valer-se das tutelas cautelares previstas no
+Código  de  Processo  Civil,  pois  estas  ou  são  incidentais  (nesse  caso  a  ação  de  indenização  já  deveria  estar  ajuizada)  ou  são
+antecedentes (caso em que estaria obrigado a ajuizar a ação civil no prazo máximo de 30 dias contados da efetivação da cautela,
+sob pena de perda de eficácia).
+Ilustra-se:
+Considere-se  que  a  vítima  de  uma  infração  penal,  que  se  encontra  aguardando  o  trânsito  em  julgado  de  sentença
+condenatória criminal em relação ao réu, descubra que este se encontra praticando atos de disposição de seu patrimônio, a
+fim de tornar-se insolvente. Diante desta realidade, outra alternativa não lhe restará a não ser proceder ao pedido imediato
+de hipoteca legal de bens imóveis pertencentes ao acusado para garantir a existência de patrimônio capaz de responder, na
+ocasião do ajuizamento da ação de execução ex delicto, pelo prejuízo causado em razão da prática criminosa.
+Importante:  assim  como  ocorre  no  sequestro,  também  a  hipoteca  não  está  sujeita  às  restrições  da  imp
+[/PAGINA 398]
+
+[PAGINA 399]
+enhorabilidade  que
+incidem  sobre  o  bem  de  família  e  que  constam  da  Lei  8.009/1990.  Isto  ocorre  porque  o  art.  3.º,  VI,  dessa  Lei  exclui  dessa
+impenhorabilidade  os  bens  que  se  destinem  à  execução  de  sentença  penal  condenatória  a  ressarcimento,  indenização  ou
+perdimento de bens. Nesse sentido: “A hipoteca legal poderá recair sobre bem imóvel gravado como bem de família, a teor do
+contido no art. 3.º, VI, da Lei 8.009/90” (TRF, 4.ª Região, ACR 5.045 PR 2005.70.00.005045-3, j. 04.07.2007).
+Fases
+A despeito da redação equivocada do art. 134 do CPP (refere-se a indiciado), seu requerimento é possível, unicamente, na
+fase judicial, tendo em vista que incide sobre os bens que não são suspeitos de aquisição ilícita. Reforça essa posição o fato de
+que  o  citado  art.  134  refere-se,  unicamente,  ao  cabimento  da  hipoteca  em  qualquer  fase  do  processo,  não  mencionando  a
+possibilidade  dessa  cautelar  no  momento  anterior  à  fase  judicial,  ao  contrário  do  que  ocorre  com  o  art.  127  do  CPP,  que,
+pertinente ao sequestro, contempla sua possibilidade em qualquer fase do processo ou ainda antes de oferecida a denúncia ou a
+queixa.
+Independentemente  dessa  nossa  posição,  que  espelha  a  orientação  majoritária,  é  certo  que  alguns  tribunais  já  entenderam
+possível a especialização da hipoteca antes do início da ação penal. “Não há necessidade, para hipoteca legal sobre bens do autor
+do delito, que a denúncia tenha sido oferecida e recebida. O art. 134 do CPP refere-se a indiciado, exigindo para a efetivação da
+medida unicamente a certeza da infração e indícios suficientes de autoria” (RT 588/292).
+Requisitos indispensáveis
+Os  pressupostos  da  hipoteca  legal  são  dois:  prova  da  materialidade  do  fato  imputado  (em  relação  ao  qual  se  pretenderá,
+mais  tarde,  o  ressarcimento  do  dano  cível  causado)  e  indícios  de  autoria  (art.  134  do  CPP).  Na  verdade,  é  totalmente
+desnecessária  essa  previsão,  pois,  se  a  hipoteca  é  possível  unicamente  na  fase  judicial,  tais  requisitos  são  presumidamente
+existentes, visto que, do contrário, não poderia ocorrer o recebimento da denúncia ou da queixa-crime.
+Dessa  forma,  requisito  que,  efetivamente,  deverá  ser  demonstrado  ao  juiz  criminal  como  conditio  sine  qua  non  para  que
+ordene ele a hipoteca legal de bens do réu é o periculum in mora, vale dizer, o justo receio de que, diante da demora do processo
+criminal, o réu possa tornar-se insolvente, desfazendo-se de seu patrimônio antes do trânsito em julgado da condenação.
+Legitimidade
+De  acordo  com  o  art.  134  do  CPP,  a  especialização  de  bens  em  hipoteca  poderá  ser  requerida  pelo  ofendido,  o  que  se
+estende, obviamente, ao seu representante legal e a seus herdeiros. Esta limitação à legitimidade estatuída no artigo em exame
+ocorre não apenas em razão da circunstância de que a hipoteca atinge patrimônio imóvel de natureza lícita do réu, com
+[/PAGINA 399]
+
+[PAGINA 400]
+o também
+em razão de seu fim primordial, qual seja garantir o êxito de futura execução da sentença condenatória que venha a ser intentada.
+Ora, sendo a vítima do crime lesada em seu patrimônio a maior interessada no ressarcimento de seu prejuízo, nada mais correto
+do que ser sua, também, a legitimidade principal para postular a constrição do patrimônio do acusado.
+Quanto ao Ministério Público, de acordo com o art. 142 do CPP, a legitimação ocorrerá em apenas dois casos: quando a
+vítima,  pobre,  requerer,  formalmente,  que  promova  o  pedido  de  hipoteca  legal  em  seu  nome,  caso  em  que  estará  agindo  o
+Ministério  Público  como  substituto  processual;  e,  também,  quando  houver  interesse  da  Fazenda  Pública,  como  nos  casos  de
+crimes de sonegação fiscal. Lembre-se de que, no primeiro caso citado (Ministério Público agindo como substituto processual da
+
+7.5.4.5
+7.5.4.6
+vítima  pobre),  a  jurisprudência  condiciona  a  constitucionalidade  do  agir  ministerial  à  inexistência  de  Defensoria  Pública
+organizada na Comarca, pois, existindo este Órgão, será sua a competência para atender os necessitados (art. 134 da CF).
+Por fim, cabe frisar que, ao contrário do que ocorre em relação ao sequestro, na hipoteca legal é vedado ao juiz decretar a
+medida ex officio,  também  não  sendo  facultado  ao  delegado  de  polícia,  na  fase  do  inquérito,  oferecer  representação  visando  a
+esse fim.
+Defesa
+Não  há  previsão  legal  de  uma  defesa  específica  quanto  ao  mérito  da  hipoteca  legal,  ao  contrário  do  que  ocorre  com  o
+sequestro,  relativamente  ao  qual  o  Código  de  Processo  Penal  faculta  a  oposição  de  embargos  (arts.  129  e  130).  Não  se  prevê,
+enfim, um momento específico em que possa o réu manifestar-se ao juízo no sentido de que seja desnecessária a hipoteca de seus
+bens, alegando, por exemplo, que não existe risco iminente de alienação de seu patrimônio. A única defesa facultada por lei ao
+réu (impugnação também assegurada ao requerente) consiste na possibilidade de impugnar a perícia realizada para a avaliação
+dos bens a serem hipotecados e do dano a ser indenizado à vítima. Obviamente, atingidos os bens, quota-parte ideal ou meação
+de  terceiros  estranhos  à  relação  vítima x réu,  nada  impede  se  utilize  o  prejudicado,  que  indevidamente  tenha  sofrido  hipoteca
+sobre seu patrimônio, da via dos embargos de terceiro previstos no Código de Processo Civil para restaurar o status quo ante.
+ Procedimento
+O pedido de hipoteca legal deve ser feito por meio de petição fundamentada junto ao juízo penal. Neste requerimento, deve
+o postulante demonstrar a presença dos pressupostos da medida, descrever os bens imóveis a serem hipotecados e estimar o valor
+do dano cível sofrido e dos bens do réu que pretende hipotecar. Esta última providência – estimativa de valores – justifica-se na
+circunstância  de  que  o  juiz  apenas  deverá  hipotecar  os  bens  cujo  valor  seja  necessário  para  assegurar
+[/PAGINA 400]
+
