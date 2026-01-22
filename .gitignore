@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Arquivos grandes - Doutrina (PDFs)
+knowledge/doutrina/*.pdf
+knowledge/doutrina/**/*.pdf
+
+# Arquivos temporários
+temp_*.txt
