@@ -12,5 +12,25 @@
       "multiplicadorTamanho": 1.3
     },
     "mudancas": []
+  },
+  {
+    "iteracao": 2,
+    "data": "2026-01-22T18:32:00.000Z",
+    "caso": "ret-005-data-base-falta-grave",
+    "materia": "retificacao",
+    "licoes_aprendidas": [
+      "NUNCA mencionar nome de promotor/promotora - usar apenas 'Ministério Público'",
+      "NUNCA mencionar nome de defensor/advogado - usar apenas 'Defensoria' ou 'Defesa'",
+      "Decisão homologatória de falta grave tem natureza DECLARATÓRIA, não constitutiva",
+      "Súmula 534 STJ: data-base reinicia do COMETIMENTO da falta, não da decisão",
+      "Art. 112, §6º LEP: prática da falta interrompe prazo, não a homologação",
+      "NÃO dividir texto em tópicos explícitos (DO RELATÓRIO, DA FUNDAMENTAÇÃO)",
+      "Estrutura fluida, linguagem erudita e técnica"
+    ],
+    "regras_anti_alucinacao_reforçadas": [
+      "proibido_nome_promotor",
+      "proibido_nome_defensor",
+      "proibido_divisao_topicos"
+    ]
   }
 ]

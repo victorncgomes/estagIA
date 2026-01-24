@@ -1,0 +1,806 @@
+{
+  "versao": "art489-v1.0.0",
+  "dataExecucao": "2026-01-23T02:47:20.068Z",
+  "criterios": {
+    "relatorio": 40,
+    "fundamentacao": 65,
+    "dispositivo": 40,
+    "antiAlucinacao": 45,
+    "total": 190
+  },
+  "totalCasos": 29,
+  "totalSucesso": 29,
+  "taxaGlobal": "100.0",
+  "mediaGlobal": "149.5",
+  "percentGlobal": "78.7",
+  "suites": [
+    {
+      "suite": "indulto",
+      "casos": [
+        {
+          "id": "ind-001",
+          "nome": "Indulto 2024 - Deferimento requisitos preenchidos",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1234,
+          "tempo": 3418,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X). O Ministério Público manifestou-se (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do preenchimento dos requisitos para a concessão de indulto, nos termos do Decreto nº 12.338/2024.\n\nConsta nos autos que "
+        },
+        {
+          "id": "ind-002",
+          "nome": "Indulto - Indeferimento crime violento",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "30/40",
+            "fundamentacao": "40/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 1522,
+          "tempo": 3938,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto natalino formulado pelo apenado, condenado por latrocínio (art. 157, §3º, II CP).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto natalino formulado pelo apenado, condenado por latrocínio, buscando a extinção da sua punibilidade.\n\nCon"
+        },
+        {
+          "id": "ind-003",
+          "nome": "Comutação - Deferimento 1/3",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1489,
+          "tempo": 3471,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X), com manifestação favorável do Ministério Público (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto formulado pelo apenado, considerando o cumprimento de 1/3 da pena, sua reincidência e "
+        },
+        {
+          "id": "ind-004",
+          "nome": "Indulto - Indeferimento falta grave",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 879,
+          "tempo": 2332,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X). O Ministério Público manifestou-se sobre o pedido (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto formulado pelo apenado.\n\nConsta nos autos que o apenado praticou falta grave, consist"
+        }
+      ],
+      "resumo": {
+        "total": 4,
+        "sucesso": 4,
+        "taxa": "100.0",
+        "mediaScore": "146.3",
+        "mediaPercent": "76.8"
+      }
+    },
+    {
+      "suite": "livramento",
+      "casos": [
+        {
+          "id": "liv-001",
+          "nome": "Livramento condicional - Deferimento primário",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1516,
+          "tempo": 3638,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, conforme se depreende dos autos (evento X.X).\nO Ministério Público manifestou-se favoravelmente ao pleito.\nRelatados.\n\nCinge-se a presente demanda à análise dos requisitos para a concessão do livramento condicional ao"
+        },
+        {
+          "id": "liv-002",
+          "nome": "Livramento - Indeferimento reincidente específico",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1472,
+          "tempo": 2594,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado. (evento X.X)\nO Ministério Público manifestou-se pelo indeferimento do pedido. (evento X.X)\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de livramento condicional formulado pelo apenado.\n\nConsta nos aut"
+        },
+        {
+          "id": "liv-003",
+          "nome": "Livramento com condições especiais - Deferimento",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1946,
+          "tempo": 4209,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, referente ao processo de execução penal em epígrafe (evento X.X).\nO Ministério Público manifestou-se favoravelmente à concessão do benefício, sugerindo a fixação de condições específicas (evento X.X).\nRelatados.\n\nCing"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "151.7",
+        "mediaPercent": "80.0"
+      }
+    },
+    {
+      "suite": "multa",
+      "casos": [
+        {
+          "id": "mul-001",
+          "nome": "Multa - Deferimento parcelamento máximo",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1338,
+          "tempo": 2853,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de parcelamento da pena de multa formulado pelo apenado (evento X.X).\n\nO Ministério Público manifestou-se favoravelmente ao pedido (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de parcelamento da pena de multa imposta ao apenado, c"
+        },
+        {
+          "id": "mul-002",
+          "nome": "Multa - Indeferimento execução fiscal",
+          "sucesso": true,
+          "totalGeral": 160,
+          "percentual": 84,
+          "nivelAtingido": 4,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "55/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "30/45"
+          },
+          "problemas": [
+            "❌ Súmula citada não verificável"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)"
+          ],
+          "tamanho": 1512,
+          "tempo": 3678,
+          "preview": "Vistos, etc.\n\nTrata-se de requerimento formulado pelo Ministério Público pugnando pela conversão da pena de multa em pena privativa de liberdade, em razão do inadimplemento por parte do apenado (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de conversão da pena de "
+        },
+        {
+          "id": "mul-003",
+          "nome": "Multa - Deferimento desconto em folha",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1816,
+          "tempo": 4218,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de autorização para desconto da pena de multa diretamente do pecúlio do apenado, formulado pelo próprio apenado (evento X.X).\n\nO Ministério Público manifestou-se favoravelmente ao pedido (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à possibilidade de descon"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "156.7",
+        "mediaPercent": "82.7"
+      }
+    },
+    {
+      "suite": "prisao_domiciliar",
+      "casos": [
+        {
+          "id": "dom-001",
+          "nome": "Prisão domiciliar - Deferimento gestante",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "40/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 1457,
+          "tempo": 3658,
+          "preview": "Vistos, etc.\nTrata-se de pedido de prisão domiciliar formulado por [nome da apenada], gestante de 7 meses, em cumprimento de pena privativa de liberdade em regime [regime da pena], pelo cometimento de crime sem violência (evento X.X).\nInterveio o Ministério Público (evento X.X).\nRelatados.\n\nCinge-se"
+        },
+        {
+          "id": "dom-002",
+          "nome": "Prisão domiciliar - Indeferimento crime hediondo",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 1318,
+          "tempo": 3560,
+          "preview": "Vistos, etc.\nTrata-se de pedido de prisão domiciliar formulado por [nome da apenada], condenada por tráfico de drogas, sob a alegação de ser mãe de filho menor (evento X.X).\nInterveio o Ministério Público (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de concessão d"
+        },
+        {
+          "id": "dom-003",
+          "nome": "Prisão domiciliar - Deferimento idoso enfermo",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1618,
+          "tempo": 3554,
+          "preview": "Vistos, etc.\nTrata-se de pedido de prisão domiciliar formulado por [nome do apenado], apenado de 72 anos, em razão de doença grave, conforme laudo médico anexado (evento X.X).\nInterveio o Ministério Público (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de concessão"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "153.3",
+        "mediaPercent": "81.0"
+      }
+    },
+    {
+      "suite": "progressao",
+      "casos": [
+        {
+          "id": "pro-001",
+          "nome": "Progressão regime fechado para semiaberto - Deferimento",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Incluir parágrafo de conclusão antes do dispositivo"
+          ],
+          "tamanho": 1146,
+          "tempo": 2742,
+          "preview": "Vistos, etc.\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X).\nO SEEU identificou o cumprimento do requisito objetivo e a unidade prisional atestou bom comportamento carcerário.\nO Ministério Público opinou favoravelmente.\nRelatados.\n\nCinge-se a presente demanda à anális"
+        },
+        {
+          "id": "pro-002",
+          "nome": "Progressão - Indeferimento falta grave recente",
+          "sucesso": true,
+          "totalGeral": 160,
+          "percentual": 84,
+          "nivelAtingido": 3,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "40/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)"
+          ],
+          "tamanho": 1098,
+          "tempo": 3077,
+          "preview": "Vistos, etc.\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X).\nO Ministério Público manifestou-se após a análise do pedido.\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de progressão de regime formulado pelo apenado.\n\nConsta nos autos que o apenado busca "
+        },
+        {
+          "id": "pro-003",
+          "nome": "Progressão crime hediondo - Deferimento com 2/5",
+          "sucesso": true,
+          "totalGeral": 160,
+          "percentual": 84,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "40/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 950,
+          "tempo": 2426,
+          "preview": "Vistos, etc.\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X).\nO Ministério Público manifestou-se favoravelmente ao pedido (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de progressão de regime formulado pelo apenado. Consta nos autos que o ap"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "156.7",
+        "mediaPercent": "82.3"
+      }
+    },
+    {
+      "suite": "remicao",
+      "casos": [
+        {
+          "id": "rem-001",
+          "nome": "Remição por estudo - Deferimento ENEM",
+          "sucesso": true,
+          "totalGeral": 140,
+          "percentual": 74,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "30/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 1382,
+          "tempo": 3342,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de remição por participação no ENEM formulado pelo apenado (evento X.X).\n\nO Representante do Serviço de Perícias (RSPE) manifestou-se favoravelmente ao pedido (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de remição da pena em razão da pa"
+        },
+        {
+          "id": "rem-002",
+          "nome": "Remição por estudo - Indeferimento sem acréscimo intelectual",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1491,
+          "tempo": 3692,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de remição por curso de culinária básica (4h) formulado pelo apenado (evento X.X).\n\nManifestação do Ministério Público pelo indeferimento (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à possibilidade de remição da pena em razão da participação do apenado em "
+        },
+        {
+          "id": "rem-003",
+          "nome": "Remição por trabalho - Deferimento",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "30/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 937,
+          "tempo": 2581,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de remição pelo trabalho formulado pelo apenado (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de remição da pena pelo trabalho, em virtude da comprovação de 180 dias laborados na cozinha do presídio.\n\nConsta nos autos atestado da direção "
+        },
+        {
+          "id": "rem-004",
+          "nome": "Remição por leitura - Deferimento parcial",
+          "sucesso": true,
+          "totalGeral": 140,
+          "percentual": 74,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "20/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Incluir parágrafo de conclusão antes do dispositivo"
+          ],
+          "tamanho": 1426,
+          "tempo": 3289,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de remição por leitura formulado pelo apenado (evento X.X).\n\nO Ministério Público manifestou-se (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de remição da pena pelo estudo, especificamente através da apresentação de resenhas de obras lit"
+        },
+        {
+          "id": "rem-005",
+          "nome": "Remição ENCCEJA - Indeferimento mesmo fato gerador",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1370,
+          "tempo": 3632,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de remição da pena em razão da aprovação no ENCCEJA 2022, formulado pelo apenado (evento X.X). Consta que o apenado já obteve remição pelo mesmo exame em momento anterior. O Ministério Público manifestou-se (evento X.X).\n\nRelatados.\n\nCinge-se a presente demanda à pos"
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 5,
+        "taxa": "100.0",
+        "mediaScore": "145.0",
+        "mediaPercent": "76.4"
+      }
+    },
+    {
+      "suite": "retificacao",
+      "casos": [
+        {
+          "id": "ret-001",
+          "nome": "Retificação de data-base - Deferimento",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 956,
+          "tempo": 2385,
+          "preview": "Vistos, etc.\nTrata-se de pedido de retificação da data-base formulado pela Defesa do apenado. (evento X.X)\nOpinou o Ministério Público. (evento X.X)\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de retificação da data-base para fins de progressão de regime.\n\nConsta nos autos que o cálc"
+        },
+        {
+          "id": "ret-002",
+          "nome": "Retificação - Indeferimento prescrição intercorrente",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1644,
+          "tempo": 3819,
+          "preview": "Vistos, etc.\nTrata-se de pedido de retificação formulado pela Defesa do apenado, em razão de alegação de ocorrência de prescrição intercorrente (evento X.X).\nOpinou o Ministério Público pelo indeferimento do pedido (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise da ocorrência de pres"
+        },
+        {
+          "id": "ret-003",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1331,
+          "tempo": 3550,
+          "preview": "Vistos, etc.\nTrata-se de pedido de unificação de penas formulado pelo apenado. (evento X.X)\nOpinou o Ministério Público. (evento X.X)\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de unificação de penas do apenado, que possui duas condenações não unificadas, visando o correto cá"
+        },
+        {
+          "id": "ret-004",
+          "nome": "Detração - Deferimento prisão preventiva",
+          "sucesso": true,
+          "totalGeral": 135,
+          "percentual": 71,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "30/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 996,
+          "tempo": 2970,
+          "preview": "Vistos, etc.\nTrata-se de pedido de detração formulado pelo apenado. (evento X.X)\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de detração formulado pelo apenado, em razão do período em que permaneceu preso preventivamente antes da condenação.\nConsta nos autos que o apenado permaneceu "
+        },
+        {
+          "id": "ret-005",
+          "nome": "Retificação data-base após falta grave - Súmula 534 STJ",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)"
+          ],
+          "tamanho": 1347,
+          "tempo": 3172,
+          "preview": "Vistos, etc.\nTrata-se de pedido de retificação da data-base para progressão de regime formulado pela Defesa do apenado. (evento X.X)\nO Ministério Público manifestou-se... (evento X.X)\nRelatados.\n\nCinge-se a presente demanda à análise da correta data-base para fins de progressão de regime do apenado."
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 5,
+        "taxa": "100.0",
+        "mediaScore": "145.0",
+        "mediaPercent": "76.2"
+      }
+    },
+    {
+      "suite": "saida_temporaria",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "trabalho_externo",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "unificacao",
+      "casos": [
+        {
+          "id": "uni-001",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Incluir parágrafo de conclusão antes do dispositivo"
+          ],
+          "tamanho": 1860,
+          "tempo": 4100,
+          "preview": "Vistos, etc.\nTrata-se de pedido de unificação de penas formulado pelo apenado, visando a correta contagem de benefícios (evento X.X).\nO Ministério Público manifestou-se favoravelmente ao pedido de unificação.\nRelatados.\n\nCinge-se a presente demanda à análise da possibilidade de unificação das penas "
+        },
+        {
+          "id": "uni-002",
+          "nome": "Revogação de unificação - Crime posterior",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1325,
+          "tempo": 3041,
+          "preview": "Vistos, etc.\nTrata-se de pedido de revogação da unificação de penas formulado pelo Ministério Público (evento X.X), em razão de novo crime cometido pelo apenado durante a execução.\nRelatados.\n\nCinge-se a presente demanda à análise da necessidade de revogação da unificação de penas anteriormente real"
+        },
+        {
+          "id": "uni-003",
+          "nome": "Unificação - Indeferimento penas incompatíveis",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1401,
+          "tempo": 3087,
+          "preview": "Vistos, etc.\nTrata-se de pedido de unificação de pena privativa de liberdade com pena restritiva de direitos formulado pelo apenado (evento X.X). O Ministério Público opinou pelo indeferimento do pleito.\nRelatados.\n\nCinge-se a presente demanda à possibilidade de unificação de pena privativa de liber"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "148.3",
+        "mediaPercent": "78.0"
+      }
+    }
+  ]
+}

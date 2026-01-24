@@ -144,49 +144,156 @@ export async function buscarPorFonte(fonte: 'SEEU' | 'DOCX' | 'OLD'): Promise<Mo
     });
 }
 
+// Cache para estatísticas reais
+let realStatsCache: TemplateStats | null = null;
+let modelosReaisCache: ModeloCompleto[] | null = null;
+
+// Tipo para os modelos do índice completo
+export interface ModeloCompleto {
+    arquivo: string;
+    nome: string;
+    pasta: string;
+    agrupador: string;
+    resultado: string;
+    formato: string;
+    tamanho_chars: number;
+    tem_fillin: boolean;
+    campos_fillin: string[];
+    estrutura: {
+        tem_vistos: boolean;
+        tem_relatados: boolean;
+        tem_isso_posto: boolean;
+        tem_pri: boolean;
+        tem_cabecalho: boolean;
+    };
+    arquivo_texto: string;
+    conteudo_preview: string;
+    data_extracao: string;
+}
+
+interface ModelosIndex {
+    meta: {
+        versao: string;
+        descricao: string;
+        dataGeracao: string;
+        totalModelos: number;
+        estatisticas: {
+            total: number;
+            sucesso: number;
+            falha: number;
+            por_agrupador: Record<string, number>;
+        };
+    };
+    modelos: ModeloCompleto[];
+}
+
 /**
- * Obter estatísticas do banco de templates
+ * Carregar modelos reais do índice JSON
+ */
+export async function carregarModelosReais(): Promise<ModeloCompleto[]> {
+    if (modelosReaisCache) {
+        return modelosReaisCache;
+    }
+
+    try {
+        const module = await import('../knowledge/decisoes/modelos_completos_index.json') as { default: ModelosIndex };
+        modelosReaisCache = module.default.modelos || [];
+        return modelosReaisCache;
+    } catch (error) {
+        console.error('[TemplateService] Erro ao carregar modelos:', error);
+        return [];
+    }
+}
+
+/**
+ * Obter modelos por agrupador
+ */
+export async function getModelosPorAgrupador(agrupadorId: string): Promise<ModeloCompleto[]> {
+    const modelos = await carregarModelosReais();
+    return modelos.filter(m => m.agrupador === agrupadorId);
+}
+
+/**
+ * Obter estatísticas do banco de templates (síncrono - usa cache ou dados padrão)
  */
 export function getTemplateStats(): TemplateStats {
-    // Estatísticas reais do banco
+    if (realStatsCache) {
+        return realStatsCache;
+    }
+
+    // Estatísticas padrão baseadas no índice v3.0.0 (256 modelos)
     return {
-        total: 484,
+        total: 256,
         porTipo: {
-            decisao: 455,
-            despacho: 28,
-            sentenca: 1,
+            decisao: 230,
+            despacho: 20,
+            sentenca: 6,
         },
         porFonte: {
-            SEEU: 290,
-            DOCX: 53,
-            OLD: 141,
+            SEEU: 0,
+            DOCX: 79,
+            OLD: 177, // 175 ODT + 2 DOC
         },
         porAgrupador: [
-            { nome: 'agravo', total: 48, porTipo: { decisao: 48, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 48, DOCX: 0, OLD: 0 } },
-            { nome: 'progressao', total: 42, porTipo: { decisao: 42, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 28, DOCX: 0, OLD: 14 } },
-            { nome: 'retificacao', total: 42, porTipo: { decisao: 42, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 26, DOCX: 0, OLD: 16 } },
-            { nome: 'regressao', total: 36, porTipo: { decisao: 36, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 25, DOCX: 0, OLD: 11 } },
-            { nome: 'outros', total: 35, porTipo: { decisao: 35, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 11, DOCX: 0, OLD: 24 } },
-            { nome: 'unificacao', total: 26, porTipo: { decisao: 26, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 14, DOCX: 0, OLD: 12 } },
-            { nome: 'remicao', total: 39, porTipo: { decisao: 39, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 14, DOCX: 21, OLD: 4 } },
-            { nome: 'despachos', total: 14, porTipo: { decisao: 0, despacho: 14, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 14 } },
-            { nome: 'indulto', total: 27, porTipo: { decisao: 27, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 11, DOCX: 12, OLD: 3 } },
-            { nome: 'prescricao', total: 15, porTipo: { decisao: 15, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 2, DOCX: 0, OLD: 13 } },
-            { nome: 'livramento', total: 17, porTipo: { decisao: 17, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 17, DOCX: 0, OLD: 0 } },
-            { nome: 'faltaGrave', total: 12, porTipo: { decisao: 12, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 6, DOCX: 0, OLD: 6 } },
-            { nome: 'prisaoDomiciliar', total: 11, porTipo: { decisao: 11, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 3, DOCX: 0, OLD: 8 } },
-            { nome: 'monitoramento', total: 14, porTipo: { decisao: 14, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 13, DOCX: 0, OLD: 1 } },
-            { nome: 'incompetencia', total: 14, porTipo: { decisao: 14, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 11, DOCX: 0, OLD: 3 } },
-            { nome: 'transferencia', total: 13, porTipo: { decisao: 13, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 9, DOCX: 0, OLD: 4 } },
-            { nome: 'comutacao', total: 7, porTipo: { decisao: 7, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 5, DOCX: 0, OLD: 2 } },
-            { nome: 'embargos', total: 4, porTipo: { decisao: 4, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 1, DOCX: 0, OLD: 3 } },
-            { nome: 'adequacaoRegime', total: 4, porTipo: { decisao: 4, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 1, DOCX: 0, OLD: 3 } },
-            { nome: 'medidaSeguranca', total: 8, porTipo: { decisao: 8, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 8, DOCX: 0, OLD: 0 } },
-            { nome: 'multa', total: 9, porTipo: { decisao: 9, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 6, DOCX: 3, OLD: 0 } },
-            { nome: 'faltaMedia', total: 4, porTipo: { decisao: 4, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 3, DOCX: 0, OLD: 1 } },
+            { nome: 'retificacao', total: 75, porTipo: { decisao: 70, despacho: 5, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 20, OLD: 55 } },
+            { nome: 'outros', total: 33, porTipo: { decisao: 30, despacho: 3, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 5, OLD: 28 } },
+            { nome: 'remicao', total: 27, porTipo: { decisao: 25, despacho: 2, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 21, OLD: 6 } },
+            { nome: 'progressao', total: 18, porTipo: { decisao: 18, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 2, OLD: 16 } },
+            { nome: 'indulto', total: 17, porTipo: { decisao: 17, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 12, OLD: 5 } },
+            { nome: 'unificacao', total: 15, porTipo: { decisao: 15, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 6, OLD: 9 } },
+            { nome: 'falta', total: 11, porTipo: { decisao: 11, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 11 } },
+            { nome: 'reconsideracao', total: 9, porTipo: { decisao: 9, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 2, OLD: 7 } },
+            { nome: 'prescricao', total: 8, porTipo: { decisao: 8, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 8 } },
+            { nome: 'transferencia', total: 7, porTipo: { decisao: 5, despacho: 2, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 7 } },
+            { nome: 'regressao', total: 7, porTipo: { decisao: 7, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 7 } },
+            { nome: 'prisao_domiciliar', total: 7, porTipo: { decisao: 7, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 3, OLD: 4 } },
+            { nome: 'multa', total: 6, porTipo: { decisao: 6, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 4, OLD: 2 } },
+            { nome: 'despacho', total: 5, porTipo: { decisao: 0, despacho: 5, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 5 } },
+            { nome: 'vrep', total: 4, porTipo: { decisao: 4, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 4, OLD: 0 } },
+            { nome: 'extincao', total: 3, porTipo: { decisao: 3, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 3 } },
+            { nome: 'embargos', total: 2, porTipo: { decisao: 2, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 2 } },
+            { nome: 'monitoramento', total: 1, porTipo: { decisao: 1, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 1 } },
+            { nome: 'livramento', total: 1, porTipo: { decisao: 1, despacho: 0, sentenca: 0 }, porFonte: { SEEU: 0, DOCX: 0, OLD: 1 } },
         ],
     };
 }
+
+/**
+ * Inicializa o cache de estatísticas (chamar ao iniciar a aplicação)
+ */
+export async function initTemplateStatsAsync(): Promise<TemplateStats> {
+    const modelos = await carregarModelosReais();
+
+    // Agrupar modelos por agrupador
+    const porAgrupadorMap = new Map<string, { total: number }>();
+
+    for (const modelo of modelos) {
+        const agrupador = modelo.agrupador || 'outros';
+        const stats = porAgrupadorMap.get(agrupador) || { total: 0 };
+        stats.total++;
+        porAgrupadorMap.set(agrupador, stats);
+    }
+
+    // Converter para array ordenado
+    const porAgrupador: AgrupadorStats[] = Array.from(porAgrupadorMap.entries())
+        .map(([nome, stats]) => ({
+            nome,
+            total: stats.total,
+            porTipo: { decisao: stats.total, despacho: 0, sentenca: 0 },
+            porFonte: { SEEU: 0, DOCX: stats.total, OLD: 0 },
+        }))
+        .sort((a, b) => b.total - a.total);
+
+    realStatsCache = {
+        total: modelos.length,
+        porTipo: { decisao: modelos.length, despacho: 0, sentenca: 0 },
+        porFonte: { SEEU: 0, DOCX: modelos.length, OLD: 0 },
+        porAgrupador,
+    };
+
+    return realStatsCache;
+}
+
 
 /**
  * Obter nome amigável do agrupador

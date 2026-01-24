@@ -1,8 +1,8 @@
 /**
- * estagIA - Regeneração de Embeddings com Conteúdo Completo
+ * estagIA - Regeneração de Embeddings v2.0
  * 
- * Gera embeddings baseados no CONTEÚDO COMPLETO dos modelos (não apenas nome)
- * Isso permite busca semântica muito mais precisa
+ * Gera embeddings para TODOS os 256 modelos do novo índice
+ * Usa modelos_completos_index.json (v3.0.0)
  * 
  * Uso: node scripts/regenerateEmbeddings.cjs
  * 
@@ -12,46 +12,105 @@
 const fs = require('fs');
 const path = require('path');
 
+// Carregar .env e .env.local manualmente
+function loadEnv() {
+    const envFiles = ['.env', '.env.local'];
+    for (const envFile of envFiles) {
+        const envPath = path.join(__dirname, '..', envFile);
+        if (fs.existsSync(envPath)) {
+            const content = fs.readFileSync(envPath, 'utf-8');
+            for (const line of content.split('\n')) {
+                const trimmed = line.trim();
+                if (trimmed && !trimmed.startsWith('#')) {
+                    const eqIndex = trimmed.indexOf('=');
+                    if (eqIndex > 0) {
+                        const key = trimmed.slice(0, eqIndex).trim();
+                        const value = trimmed.slice(eqIndex + 1).trim().replace(/^["']|["']$/g, '');
+                        if (!process.env[key]) {
+                            process.env[key] = value;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+loadEnv();
+
 // Configuração
-const KNOWLEDGE_DIR = path.join(__dirname, '..', 'knowledge');
-const MODELOS_INDEX = path.join(KNOWLEDGE_DIR, 'decisoes', 'modelos_completos_index.json');
-const TEXTOS_DIR = path.join(KNOWLEDGE_DIR, 'decisoes', 'textos_completos');
-const OUTPUT_FILE = path.join(KNOWLEDGE_DIR, 'embeddings_modelos_v2.json');
+const GEMINI_API_KEY = process.env.VITE_GEMINI_API_KEY || process.env.GEMINI_API_KEY || '';
+const EMBEDDING_ENDPOINT = 'https://generativelanguage.googleapis.com/v1beta/models/text-embedding-004:embedContent';
+const KNOWLEDGE_PATH = path.join(__dirname, '..', 'knowledge');
+const DECISOES_PATH = path.join(KNOWLEDGE_PATH, 'decisoes');
+const OUTPUT_PATH = path.join(KNOWLEDGE_PATH, 'embeddings_cache.json');
 
-// Configuração da API
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
-const EMBEDDING_MODEL = 'text-embedding-004';
-const EMBEDDING_DIM = 768;
-const MAX_TEXT_LENGTH = 8000; // Limite de caracteres para embedding
-
-// Delay entre requisições para evitar rate limit
+// Delay entre chamadas para respeitar rate limit
 const DELAY_MS = 100;
 
 /**
- * Gera embedding via Gemini API
+ * Gera embedding para um texto
  */
-async function generateEmbedding(text) {
-    const truncatedText = text.substring(0, MAX_TEXT_LENGTH);
+async function getEmbedding(text) {
+    if (!GEMINI_API_KEY || !text || text.trim().length < 10) {
+        return null;
+    }
 
-    const response = await fetch(
-        `https://generativelanguage.googleapis.com/v1beta/models/${EMBEDDING_MODEL}:embedContent?key=${GEMINI_API_KEY}`,
-        {
+    try {
+        const response = await fetch(`${EMBEDDING_ENDPOINT}?key=${GEMINI_API_KEY}`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                model: `models/${EMBEDDING_MODEL}`,
-                content: { parts: [{ text: truncatedText }] }
+                model: 'models/text-embedding-004',
+                content: { parts: [{ text: text.slice(0, 1500) }] }
             })
-        }
-    );
+        });
 
-    if (!response.ok) {
-        const error = await response.text();
-        throw new Error(`Gemini API error: ${response.status} - ${error}`);
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error(`Erro API: ${response.status} - ${errorText.slice(0, 100)}`);
+            return null;
+        }
+
+        const data = await response.json();
+        return data.embedding?.values || null;
+    } catch (error) {
+        console.error('Erro:', error.message);
+        return null;
+    }
+}
+
+/**
+ * Carrega índice completo de modelos (v3.0.0)
+ */
+function loadModelosIndex() {
+    const indexPath = path.join(DECISOES_PATH, 'modelos_completos_index.json');
+    if (!fs.existsSync(indexPath)) {
+        console.error('Índice de modelos não encontrado:', indexPath);
+        return { modelos: [], meta: {} };
     }
 
-    const data = await response.json();
-    return data.embedding.values;
+    return JSON.parse(fs.readFileSync(indexPath, 'utf-8'));
+}
+
+/**
+ * Carrega conteúdo de texto de um modelo
+ */
+function loadModeloContent(modelo) {
+    // Tenta carregar do arquivo de texto
+    if (modelo.arquivo_texto) {
+        const textPath = path.join(DECISOES_PATH, 'textos_completos', modelo.arquivo_texto);
+        if (fs.existsSync(textPath)) {
+            return fs.readFileSync(textPath, 'utf-8').slice(0, 2000);
+        }
+    }
+
+    // Fallback: usa preview do índice
+    if (modelo.conteudo_preview) {
+        return modelo.conteudo_preview;
+    }
+
+    // Último fallback: usa nome + agrupador
+    return `${modelo.nome || ''} ${modelo.agrupador || ''}`;
 }
 
 /**
@@ -61,144 +120,120 @@ async function main() {
     console.log('='.repeat(60));
     console.log('📚 estagIA - Regeneração de Embeddings v2.0');
     console.log('='.repeat(60));
-    console.log('');
 
-    // Verificar API key
-    let apiKey = process.env.GEMINI_API_KEY;
-
-    if (!apiKey) {
-        // Tentar ler do .env do backend
-        const envPath = path.join(__dirname, '..', 'backend', '.env');
-        if (fs.existsSync(envPath)) {
-            const envContent = fs.readFileSync(envPath, 'utf-8');
-            const match = envContent.match(/GEMINI_API_KEY=([^\r\n]+)/);
-            if (match) {
-                apiKey = match[1].trim();
-            }
-        }
-    }
-
-    if (!apiKey) {
+    if (!GEMINI_API_KEY) {
         console.error('❌ GEMINI_API_KEY não configurada');
-        console.log('   Configure a variável de ambiente ou adicione ao backend/.env');
+        console.log('Configure no arquivo .env: VITE_GEMINI_API_KEY=sua_chave');
         process.exit(1);
     }
-
-    console.log(`🔑 API Key encontrada: ${apiKey.substring(0, 10)}...`);
 
     // Carregar índice de modelos
-    if (!fs.existsSync(MODELOS_INDEX)) {
-        console.error('❌ Índice de modelos não encontrado:', MODELOS_INDEX);
-        console.log('   Execute primeiro: node scripts/extractDocxComplete.cjs');
-        process.exit(1);
-    }
+    const { modelos, meta } = loadModelosIndex();
+    console.log(`\n📋 ${modelos.length} modelos no índice (v${meta?.versao || '?'})`);
 
-    const indice = JSON.parse(fs.readFileSync(MODELOS_INDEX, 'utf-8'));
-    console.log(`📋 Carregados ${indice.modelos.length} modelos do índice`);
-
-    // Carregar embeddings existentes (se houver)
-    let embeddingsCache = {};
-    if (fs.existsSync(OUTPUT_FILE)) {
-        try {
-            embeddingsCache = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf-8'));
-            console.log(`📦 Cache existente: ${Object.keys(embeddingsCache).length} embeddings`);
-        } catch (e) {
-            console.log('⚠️ Erro ao ler cache, recriando...');
+    // Estatísticas por agrupador
+    if (meta?.estatisticas?.por_agrupador) {
+        console.log('\n🏷️ Por agrupador:');
+        const sorted = Object.entries(meta.estatisticas.por_agrupador)
+            .sort((a, b) => b[1] - a[1]);
+        for (const [agr, count] of sorted.slice(0, 6)) {
+            console.log(`   ${agr}: ${count}`);
+        }
+        if (sorted.length > 6) {
+            console.log(`   ... e mais ${sorted.length - 6} agrupadores`);
         }
     }
 
-    const stats = {
-        total: indice.modelos.length,
-        processados: 0,
-        cache_hit: 0,
-        erros: 0
-    };
+    // Carregar cache existente
+    let cache = {};
+    if (fs.existsSync(OUTPUT_PATH)) {
+        cache = JSON.parse(fs.readFileSync(OUTPUT_PATH, 'utf-8'));
+        console.log(`\n📦 Cache existente: ${Object.keys(cache).length} embeddings`);
+    }
 
-    const newEmbeddings = {};
+    // Processar modelos
+    let processados = 0;
+    let erros = 0;
+    let pulados = 0;
+    const startTime = Date.now();
 
-    // Processar cada modelo
-    for (const modelo of indice.modelos) {
-        const arquivoTexto = modelo.arquivo_texto;
-        const textoPath = path.join(TEXTOS_DIR, arquivoTexto);
+    console.log('\n🔄 Processando modelos...\n');
 
-        // Verificar se já existe no cache
-        if (embeddingsCache[modelo.arquivo] && embeddingsCache[modelo.arquivo].embedding) {
-            newEmbeddings[modelo.arquivo] = embeddingsCache[modelo.arquivo];
-            stats.cache_hit++;
+    for (let i = 0; i < modelos.length; i++) {
+        const modelo = modelos[i];
+        const key = modelo.arquivo;
+
+        // Pular se já está no cache
+        if (cache[key] && cache[key].embedding) {
+            pulados++;
             continue;
         }
 
-        // Ler conteúdo
-        if (!fs.existsSync(textoPath)) {
-            console.log(`⚠️ Arquivo não encontrado: ${arquivoTexto}`);
-            stats.erros++;
-            continue;
-        }
+        // Carregar conteúdo
+        const conteudo = loadModeloContent(modelo);
+        const textoParaEmbed = `${modelo.nome} ${modelo.agrupador} ${modelo.resultado || ''} ${conteudo}`.slice(0, 1500);
 
-        const conteudo = fs.readFileSync(textoPath, 'utf-8');
+        // Gerar embedding
+        const progress = `[${i + 1}/${modelos.length}]`;
+        const nomeResumido = modelo.nome.slice(0, 40).padEnd(40);
+        process.stdout.write(`${progress} ${nomeResumido}`);
 
-        console.log(`📄 [${stats.processados + 1}/${indice.modelos.length}] ${modelo.nome.substring(0, 50)}...`);
+        const embedding = await getEmbedding(textoParaEmbed);
 
-        try {
-            // Gerar embedding
-            const embedding = await generateEmbedding(conteudo);
-
-            newEmbeddings[modelo.arquivo] = {
+        if (embedding) {
+            cache[key] = {
                 nome: modelo.nome,
                 agrupador: modelo.agrupador,
-                resultado: modelo.resultado,
-                tamanho: conteudo.length,
+                resultado: modelo.resultado || 'indefinido',
+                pasta: modelo.pasta,
                 embedding: embedding,
-                conteudo_preview: conteudo.substring(0, 300).replace(/\n/g, ' '),
+                tamanho: embedding.length,
                 gerado_em: new Date().toISOString()
             };
+            processados++;
+            console.log(' ✅');
+        } else {
+            erros++;
+            console.log(' ❌');
+        }
 
-            stats.processados++;
+        // Rate limiting
+        await new Promise(r => setTimeout(r, DELAY_MS));
 
-            // Delay para evitar rate limit
-            await new Promise(resolve => setTimeout(resolve, DELAY_MS));
-
-            // Salvar periodicamente
-            if (stats.processados % 10 === 0) {
-                fs.writeFileSync(OUTPUT_FILE, JSON.stringify(newEmbeddings, null, 2), 'utf-8');
-                console.log(`   💾 Checkpoint salvo (${stats.processados} embeddings)`);
-            }
-
-        } catch (error) {
-            console.error(`   ❌ Erro: ${error.message}`);
-            stats.erros++;
+        // Salvar periodicamente (a cada 20 modelos)
+        if ((processados + erros) % 20 === 0) {
+            fs.writeFileSync(OUTPUT_PATH, JSON.stringify(cache, null, 2));
+            console.log(`\n   💾 Checkpoint: ${Object.keys(cache).length} embeddings salvos\n`);
         }
     }
 
     // Salvar final
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(newEmbeddings, null, 2), 'utf-8');
+    fs.writeFileSync(OUTPUT_PATH, JSON.stringify(cache, null, 2));
 
-    // Relatório
-    console.log('\n');
-    console.log('='.repeat(60));
+    const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+
+    console.log('\n' + '='.repeat(60));
     console.log('📊 RELATÓRIO FINAL');
     console.log('='.repeat(60));
-    console.log(`\n✅ Processados: ${stats.processados}`);
-    console.log(`📦 Cache hits: ${stats.cache_hit}`);
-    console.log(`❌ Erros: ${stats.erros}`);
-    console.log(`💾 Total embeddings: ${Object.keys(newEmbeddings).length}`);
-    console.log(`📁 Salvo em: ${OUTPUT_FILE}`);
-
-    // Estatísticas por agrupador
-    const porAgrupador = {};
-    for (const [arquivo, data] of Object.entries(newEmbeddings)) {
-        if (!porAgrupador[data.agrupador]) {
-            porAgrupador[data.agrupador] = 0;
-        }
-        porAgrupador[data.agrupador]++;
-    }
-
-    console.log('\n🏷️ Por agrupador:');
-    for (const [agrupador, count] of Object.entries(porAgrupador).sort((a, b) => b[1] - a[1])) {
-        console.log(`   ${agrupador}: ${count}`);
-    }
-
+    console.log(`\n✅ Processados nesta execução: ${processados}`);
+    console.log(`⏭️ Pulados (já em cache): ${pulados}`);
+    console.log(`❌ Erros: ${erros}`);
+    console.log(`📦 Total no cache: ${Object.keys(cache).length}`);
+    console.log(`⏱️ Tempo: ${elapsed}s`);
+    console.log(`\n💾 Cache salvo em: ${OUTPUT_PATH}`);
     console.log('='.repeat(60));
+
+    // Estatísticas do cache
+    const cacheStats = {};
+    for (const item of Object.values(cache)) {
+        const agr = item.agrupador || 'outros';
+        cacheStats[agr] = (cacheStats[agr] || 0) + 1;
+    }
+
+    console.log('\n🏷️ Embeddings por agrupador:');
+    for (const [agr, count] of Object.entries(cacheStats).sort((a, b) => b[1] - a[1])) {
+        console.log(`   ${agr}: ${count}`);
+    }
 }
 
 main().catch(console.error);

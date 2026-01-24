@@ -2,11 +2,11 @@
  * Modal de Jurisprudência - estagIA
  * Exibe e permite busca nas jurisprudências do TJRN
  * 
- * @version 1.0.0
+ * @version 1.1.0 - Melhorias de contraste e navegação
  */
 
 import React, { useState, useEffect, useMemo } from 'react';
-import { X, Search, Scale, User, Calendar, FileText, ChevronRight, ArrowLeft, Copy, Check } from 'lucide-react';
+import { X, Search, Scale, User, Calendar, FileText, ChevronRight, ArrowLeft, Copy, Check, Loader2 } from 'lucide-react';
 import {
     searchJurisprudencia,
     getJurisprudenciaStats,
@@ -25,19 +25,41 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
     const [results, setResults] = useState<Jurisprudencia[]>([]);
     const [selectedItem, setSelectedItem] = useState<Jurisprudencia | null>(null);
     const [copied, setCopied] = useState(false);
+    const [loading, setLoading] = useState(false);
 
     const stats = useMemo(() => getJurisprudenciaStats(), []);
     const classes = useMemo(() => getClassesDisponiveis(), []);
 
+    // Resetar estado quando abre o modal
+    useEffect(() => {
+        if (isOpen) {
+            setSelectedItem(null);
+            setSearchTerm('');
+            setSelectedClasse('');
+            // Carregar resultados iniciais
+            setLoading(true);
+            setTimeout(() => {
+                setResults(searchJurisprudencia('', 100));
+                setLoading(false);
+            }, 100);
+        }
+    }, [isOpen]);
+
     // Buscar ao digitar
     useEffect(() => {
-        const filtered = searchJurisprudencia(searchTerm, 100);
-        if (selectedClasse) {
-            setResults(filtered.filter(j => j.classe === selectedClasse));
-        } else {
-            setResults(filtered);
-        }
-    }, [searchTerm, selectedClasse]);
+        if (!isOpen) return;
+        setLoading(true);
+        const timer = setTimeout(() => {
+            const filtered = searchJurisprudencia(searchTerm, 100);
+            if (selectedClasse) {
+                setResults(filtered.filter(j => j.classe === selectedClasse));
+            } else {
+                setResults(filtered);
+            }
+            setLoading(false);
+        }, 200);
+        return () => clearTimeout(timer);
+    }, [searchTerm, selectedClasse, isOpen]);
 
     // Copiar texto
     const handleCopy = async (text: string) => {
@@ -52,30 +74,32 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
         <div className="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50 p-4">
             <div className="bg-white rounded-2xl shadow-2xl w-full max-w-5xl max-h-[90vh] overflow-hidden flex flex-col">
 
-                {/* Header */}
-                <div className="bg-gradient-to-r from-amber-600 to-amber-700 text-white px-6 py-4 flex items-center justify-between">
+                {/* Header - Melhor contraste com fundo mais escuro */}
+                <div className="bg-gradient-to-r from-amber-700 to-amber-800 text-white px-6 py-4 flex items-center justify-between">
                     <div className="flex items-center gap-3">
                         {selectedItem && (
                             <button
                                 onClick={() => setSelectedItem(null)}
                                 className="p-1.5 hover:bg-white/20 rounded-lg transition-colors"
+                                title="Voltar à lista"
                             >
                                 <ArrowLeft size={20} />
                             </button>
                         )}
-                        <Scale size={24} />
+                        <Scale size={24} className="text-amber-200" />
                         <div>
-                            <h2 className="text-xl font-bold">
-                                {selectedItem ? 'Detalhes da Jurisprudência' : 'Jurisprudência TJRN'}
+                            <h2 className="text-xl font-bold text-white">
+                                {selectedItem ? 'Detalhes da Jurisprudência' : 'Jurisprudência'}
                             </h2>
-                            <p className="text-amber-100 text-sm">
-                                {stats.total} acórdãos de execução penal
+                            <p className="text-amber-200 text-sm font-medium">
+                                {stats.total.toLocaleString()} acórdãos • TJRN, STF, STJ
                             </p>
                         </div>
                     </div>
                     <button
                         onClick={onClose}
                         className="p-2 hover:bg-white/20 rounded-lg transition-colors"
+                        title="Fechar"
                     >
                         <X size={20} />
                     </button>
@@ -172,10 +196,16 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
 
                         {/* Lista */}
                         <div className="flex-1 overflow-y-auto">
-                            {results.length === 0 ? (
+                            {loading ? (
+                                <div className="flex flex-col items-center justify-center py-12 text-amber-600">
+                                    <Loader2 size={40} className="animate-spin" />
+                                    <p className="mt-3 text-sm text-slate-500">Buscando jurisprudências...</p>
+                                </div>
+                            ) : results.length === 0 ? (
                                 <div className="flex flex-col items-center justify-center py-12 text-slate-400">
                                     <Scale size={48} strokeWidth={1} />
                                     <p className="mt-2">Nenhuma jurisprudência encontrada</p>
+                                    <p className="text-xs mt-1">Tente outro termo de busca</p>
                                 </div>
                             ) : (
                                 <div className="divide-y divide-slate-100">

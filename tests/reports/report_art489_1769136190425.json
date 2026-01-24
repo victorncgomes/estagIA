@@ -1,0 +1,121 @@
+{
+  "versao": "art489-v1.0.0",
+  "dataExecucao": "2026-01-23T02:43:10.424Z",
+  "criterios": {
+    "relatorio": 40,
+    "fundamentacao": 65,
+    "dispositivo": 40,
+    "antiAlucinacao": 45,
+    "total": 190
+  },
+  "totalCasos": 4,
+  "totalSucesso": 4,
+  "taxaGlobal": "100.0",
+  "mediaGlobal": "150.0",
+  "percentGlobal": "78.9",
+  "suites": [
+    {
+      "suite": "indulto",
+      "casos": [
+        {
+          "id": "ind-001",
+          "nome": "Indulto 2024 - Deferimento requisitos preenchidos",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "30/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1244,
+          "tempo": 3759,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X). O Ministério Público manifestou-se (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do preenchimento dos requisitos para a concessão de indulto, nos termos do Decreto nº 12.338/2024.\n\nConsta nos autos que "
+        },
+        {
+          "id": "ind-002",
+          "nome": "Indulto - Indeferimento crime violento",
+          "sucesso": true,
+          "totalGeral": 150,
+          "percentual": 79,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "30/40",
+            "fundamentacao": "40/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas",
+            "⚠️ Usar termos genéricos: \"Ministério Público\", \"Defesa\", \"apenado\""
+          ],
+          "tamanho": 1382,
+          "tempo": 4242,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto natalino formulado pelo apenado, condenado por latrocínio (art. 157, §3º, II CP).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto natalino formulado pelo apenado, condenado por latrocínio.\n\nConsta nos autos que o apenado foi condenado"
+        },
+        {
+          "id": "ind-003",
+          "nome": "Comutação - Deferimento 1/3",
+          "sucesso": true,
+          "totalGeral": 145,
+          "percentual": 76,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "25/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [
+            "❌ Falta citação de legislação (LEP, CP, etc.)"
+          ],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1413,
+          "tempo": 3057,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X), com manifestação favorável do Ministério Público (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto formulado pelo apenado, considerando o cumprimento de 1/3 da pena, a reincidência e o "
+        },
+        {
+          "id": "ind-004",
+          "nome": "Indulto - Indeferimento falta grave",
+          "sucesso": true,
+          "totalGeral": 155,
+          "percentual": 82,
+          "nivelAtingido": 2,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "35/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Nível 3+ recomenda citação de jurisprudência/súmulas"
+          ],
+          "tamanho": 1306,
+          "tempo": 2858,
+          "preview": "Vistos, etc.\nTrata-se de pedido de indulto formulado pelo apenado (evento X.X). O Ministério Público manifestou-se sobre o pedido (evento X.X).\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de indulto formulado pelo apenado, o qual possui registro de falta grave.\n\nConsta nos autos que "
+        }
+      ],
+      "resumo": {
+        "total": 4,
+        "sucesso": 4,
+        "taxa": "100.0",
+        "mediaScore": "150.0",
+        "mediaPercent": "79.0"
+      }
+    }
+  ]
+}

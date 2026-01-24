@@ -10,12 +10,15 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import {
     X, Search, FileText, ChevronRight, Copy, Check, ArrowLeft, Eye,
-    BookOpen, Scale, GraduationCap, ScrollText, Database
+    BookOpen, Scale, GraduationCap, ScrollText, Database, Loader2, ChevronLeft
 } from 'lucide-react';
+import KindleReader from '../readers/KindleReader';
+import JurisprudenciaViewer from '../readers/JurisprudenciaViewer';
 import { getTemplateStats, AGRUPADORES } from '../../services/templateService';
 import {
     getIndexStats, getLegislacaoIndex, getDoutrinaIndex,
     categorizarLeis, categorizarLivros,
+    getLegislacaoTexto, getDoutrinaTexto, listarArquivosDoutrina, extrairPaginasDoArquivo,
     type LeiIndex, type LivroIndex, type IndexStats
 } from '../../services/knowledge/indexService';
 
@@ -52,6 +55,14 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
     const [livros, setLivros] = useState<LivroIndex[]>([]);
     const [categoriaLivroSelecionada, setCategoriaLivroSelecionada] = useState<string | null>(null);
     const [livroSelecionado, setLivroSelecionado] = useState<LivroIndex | null>(null);
+
+    // Estado para visualização de texto
+    const [textoLei, setTextoLei] = useState<string>('');
+    const [textoDoutrina, setTextoDoutrina] = useState<string>('');
+    const [loadingTexto, setLoadingTexto] = useState(false);
+    const [modoLeitura, setModoLeitura] = useState(false);
+    const [arquivoDoutrinaSelecionado, setArquivoDoutrinaSelecionado] = useState<string>('');
+    const [paginaAtual, setPaginaAtual] = useState(0);
 
     const templateStats = useMemo(() => getTemplateStats(), []);
 
@@ -102,6 +113,12 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
     }, [templateStats, searchTerm]);
 
     const handleBack = () => {
+        if (modoLeitura) {
+            setModoLeitura(false);
+            setTextoLei('');
+            setTextoDoutrina('');
+            return;
+        }
         if (activeTab === 'modelos') {
             setAgrupadorSelecionado(null);
         } else if (activeTab === 'legislacao') {
@@ -120,11 +137,62 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
         setCategoriaLivroSelecionada(null);
         setLivroSelecionado(null);
         setSearchTerm('');
+        setModoLeitura(false);
+        setTextoLei('');
+        setTextoDoutrina('');
+        setPaginaAtual(0);
     };
 
     const handleTabChange = (tab: TabId) => {
         resetSelection();
         setActiveTab(tab);
+    };
+
+    // Carregar texto da lei
+    const carregarTextoLei = async (lei: LeiIndex, tipo: 'vigor' | 'historico' = 'vigor') => {
+        setLoadingTexto(true);
+        try {
+            const texto = await getLegislacaoTexto(lei.id, tipo);
+            setTextoLei(texto);
+            setModoLeitura(true);
+        } catch (error) {
+            console.error('Erro ao carregar texto:', error);
+            setTextoLei('Erro ao carregar o texto da lei.');
+        } finally {
+            setLoadingTexto(false);
+        }
+    };
+
+    // Carregar texto da doutrina
+    const carregarTextoDoutrina = async (livro: LivroIndex, arquivo?: string) => {
+        setLoadingTexto(true);
+        try {
+            const arquivos = listarArquivosDoutrina(livro);
+            const arquivoParaCarregar = arquivo || arquivos[0];
+            if (arquivoParaCarregar) {
+                setArquivoDoutrinaSelecionado(arquivoParaCarregar);
+                const indice = arquivos.indexOf(arquivoParaCarregar);
+                setPaginaAtual(indice >= 0 ? indice : 0);
+                const texto = await getDoutrinaTexto(livro.id, arquivoParaCarregar);
+                setTextoDoutrina(texto);
+                setModoLeitura(true);
+            }
+        } catch (error) {
+            console.error('Erro ao carregar texto:', error);
+            setTextoDoutrina('Erro ao carregar o texto do livro.');
+        } finally {
+            setLoadingTexto(false);
+        }
+    };
+
+    // Navegação entre páginas da doutrina
+    const navegarPaginaDoutrina = async (direcao: 'anterior' | 'proxima') => {
+        if (!livroSelecionado) return;
+        const arquivos = listarArquivosDoutrina(livroSelecionado);
+        const novoIndice = direcao === 'proxima' ? paginaAtual + 1 : paginaAtual - 1;
+        if (novoIndice >= 0 && novoIndice < arquivos.length) {
+            await carregarTextoDoutrina(livroSelecionado, arquivos[novoIndice]);
+        }
     };
 
     const formatBytes = (bytes: number) => {
@@ -167,7 +235,7 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
                         <div>
                             <h2 className="text-xl font-bold text-slate-800 flex items-center gap-2">
                                 <Database size={24} className="text-primary" />
-                                Banco de Conhecimento
+                                Base de Conhecimento
                             </h2>
                             <p className="text-sm text-slate-500">
                                 {stats && `${stats.modelos.total} modelos • ${stats.legislacao.total} leis • ${stats.doutrina.total} livros • ${stats.jurisprudencia.total} julgados`}
@@ -365,16 +433,53 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
                                 </div>
 
                                 <div className="flex gap-3">
-                                    <button className="px-4 py-2 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors flex items-center gap-2">
-                                        <BookOpen size={16} />
+                                    <button
+                                        onClick={() => carregarTextoLei(leiSelecionada, 'vigor')}
+                                        disabled={loadingTexto}
+                                        className="px-4 py-2 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors flex items-center gap-2 disabled:opacity-50"
+                                    >
+                                        {loadingTexto ? <Loader2 size={16} className="animate-spin" /> : <BookOpen size={16} />}
                                         Ver Texto Vigente
                                     </button>
                                     {leiSelecionada.arquivoHistorico && (
-                                        <button className="px-4 py-2 bg-slate-100 text-slate-700 rounded-lg hover:bg-slate-200 transition-colors flex items-center gap-2">
+                                        <button
+                                            onClick={() => carregarTextoLei(leiSelecionada, 'historico')}
+                                            disabled={loadingTexto}
+                                            className="px-4 py-2 bg-slate-100 text-slate-700 rounded-lg hover:bg-slate-200 transition-colors flex items-center gap-2 disabled:opacity-50"
+                                        >
                                             <ScrollText size={16} />
                                             Ver Trechos Revogados
                                         </button>
                                     )}
+                                </div>
+                            </div>
+                        </div>
+                    )}
+
+                    {/* Leitor de Texto - Legislação */}
+                    {activeTab === 'legislacao' && modoLeitura && textoLei && (
+                        <div className="h-full flex flex-col">
+                            <div className="bg-emerald-50 border-b border-emerald-200 px-6 py-3 flex items-center justify-between">
+                                <div className="flex items-center gap-3">
+                                    <ScrollText size={20} className="text-emerald-600" />
+                                    <div>
+                                        <h3 className="font-semibold text-slate-800">{leiSelecionada?.apelido}</h3>
+                                        <p className="text-xs text-slate-500">{leiSelecionada?.titulo}</p>
+                                    </div>
+                                </div>
+                                <button
+                                    onClick={() => navigator.clipboard.writeText(textoLei)}
+                                    className="flex items-center gap-1.5 px-3 py-1.5 bg-white border border-slate-200 rounded-lg text-sm text-slate-600 hover:bg-slate-50"
+                                >
+                                    <Copy size={14} />
+                                    Copiar
+                                </button>
+                            </div>
+                            <div className="flex-1 overflow-auto bg-amber-50/30">
+                                <div className="max-w-4xl mx-auto px-8 py-6">
+                                    <pre className="whitespace-pre-wrap font-serif text-base text-slate-800 leading-relaxed" style={{ fontFamily: 'Georgia, serif' }}>
+                                        {textoLei}
+                                    </pre>
                                 </div>
                             </div>
                         </div>
@@ -494,26 +599,41 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
                                     </button>
                                 </div>
 
-                                <button className="px-4 py-2 bg-violet-600 text-white rounded-lg hover:bg-violet-700 transition-colors flex items-center gap-2">
-                                    <BookOpen size={16} />
+                                <button
+                                    onClick={() => carregarTextoDoutrina(livroSelecionado)}
+                                    disabled={loadingTexto || !livroSelecionado.arquivosTexto?.length}
+                                    className="px-4 py-2 bg-violet-600 text-white rounded-lg hover:bg-violet-700 transition-colors flex items-center gap-2 disabled:opacity-50"
+                                >
+                                    {loadingTexto ? <Loader2 size={16} className="animate-spin" /> : <BookOpen size={16} />}
                                     Ver Texto Completo
                                 </button>
                             </div>
                         </div>
                     )}
 
-                    {/* Tab: Jurisprudência - Placeholder */}
+                    {/* Leitor de Texto - Doutrina (KindleReader Premium) */}
+                    {activeTab === 'doutrina' && modoLeitura && textoDoutrina && livroSelecionado && (
+                        <KindleReader
+                            titulo={livroSelecionado.titulo}
+                            autor={livroSelecionado.autor}
+                            texto={textoDoutrina}
+                            paginaAtual={paginaAtual}
+                            totalPaginas={listarArquivosDoutrina(livroSelecionado).length}
+                            paginasLabel={(() => {
+                                const paginas = extrairPaginasDoArquivo(arquivoDoutrinaSelecionado);
+                                return paginas ? `Páginas ${paginas.inicio} - ${paginas.fim}` : undefined;
+                            })()}
+                            onClose={() => setModoLeitura(false)}
+                            onAnterior={() => navegarPaginaDoutrina('anterior')}
+                            onProxima={() => navegarPaginaDoutrina('proxima')}
+                            loading={loadingTexto}
+                        />
+                    )}
+
+                    {/* Tab: Jurisprudência */}
                     {activeTab === 'jurisprudencia' && (
-                        <div className="text-center py-12 text-slate-400">
-                            <Scale size={64} className="mx-auto mb-4 opacity-50" />
-                            <h3 className="text-lg font-semibold text-slate-600 mb-2">Jurisprudência</h3>
-                            <p>{stats?.jurisprudencia.total.toLocaleString()} julgados indexados</p>
-                            <p className="text-sm mt-2">
-                                Tribunais: {stats?.jurisprudencia.tribunais.join(', ')}
-                            </p>
-                            <p className="text-sm mt-4 text-slate-500">
-                                Interface de navegação em desenvolvimento
-                            </p>
+                        <div className="h-full">
+                            <JurisprudenciaViewer />
                         </div>
                     )}
                 </div>

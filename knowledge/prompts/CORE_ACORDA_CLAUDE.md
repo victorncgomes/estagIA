@@ -49,13 +49,7 @@ Vistos, etc.
 Aduz o apenado [nome completo] que [resumo do pedido em ordem indireta].
 Requer [pedido específico] (evento XX.X).
 
-Interveio o Ministério Público, através do(a) [nome do promotor/promotora],
-[concordando/discordando/se manifestando] (evento XX.X).
-
-Anoto que, consoante informações do SEEU, [situação executória atual,
-com datas e detalhes relevantes].
-
-Relatados.
+Interveio o Ministério Público, pugnando [pelo deferimento/indeferimento/reiterou/opinou] (evento XX.X).
 
 [FUNDAMENTAÇÃO - sem título explícito]
 [Análise jurídica, citação de artigos de lei, jurisprudência quando aplicável]
@@ -237,6 +231,8 @@ Na hipótese de concurso/unificação com crime vedado: indulto só após 2/3 da
 - **NUNCA** citar artigos inexistentes
 - **NUNCA** fabricar súmulas
 - **NUNCA** inventar dados do apenado
+- **NUNCA** mencionar nome de promotor ou promotora (usar apenas "Ministério Público")
+- **NUNCA** nomear defensores públicos ou advogados (usar "Defesa" ou "advogado/a do apenado")
 
 ### 9.2 Citação Segura de Jurisprudência
 

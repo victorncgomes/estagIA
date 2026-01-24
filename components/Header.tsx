@@ -1,23 +1,34 @@
-import React, { useState } from 'react';
-import { Settings, Library, User, ToggleLeft, Database, Check, ChevronDown, Scale, BookOpen, Gavel } from 'lucide-react';
+import React, { useState, useEffect } from 'react';
+import { Settings, Library, User, ToggleLeft, Database, Check, ChevronDown, Scale, BookOpen, Gavel, ScrollText, GraduationCap } from 'lucide-react';
 import { getProvidersStatus, getAvailableProviders } from '../services/ai';
 import { useStore } from '../store';
 import MinutasModal from './modals/MinutasModal';
 import JurisprudenciaModal from './modals/JurisprudenciaModal';
+import BancoConhecimentoModal from './modals/BancoConhecimentoModal';
 import { getTotalJurisprudencias } from '../services/jurisprudencia';
+import { getIndexStats, type IndexStats } from '../services/knowledge/indexService';
+import { getTemplateStats } from '../services/templateService';
 
 const Header: React.FC = () => {
   const [showSettings, setShowSettings] = useState(false);
   const [showMinutas, setShowMinutas] = useState(false);
   const [showMinutasModal, setShowMinutasModal] = useState(false);
   const [showJurisprudenciaModal, setShowJurisprudenciaModal] = useState(false);
+  const [showBancoModal, setShowBancoModal] = useState(false);
   const [showProfile, setShowProfile] = useState(false);
+  const [stats, setStats] = useState<IndexStats | null>(null);
 
   const jurisprudenciaCount = getTotalJurisprudencias();
+  const templateStats = getTemplateStats();
 
   const providersStatus = getProvidersStatus();
   const availableProviders = getAvailableProviders();
   const { batchMode, setBatchMode } = useStore();
+
+  // Carregar estatísticas ao montar o componente
+  useEffect(() => {
+    getIndexStats().then(setStats);
+  }, []);
 
   const enabledCount = availableProviders.length;
 
@@ -58,14 +69,14 @@ const Header: React.FC = () => {
 
         <div className="h-6 w-px bg-slate-200 mx-1"></div>
 
-        {/* Banco de Modelos - Dropdown Menu */}
+        {/* Base de Conhecimento - Dropdown Menu */}
         <div className="relative">
           <button
             onClick={() => setShowMinutas(!showMinutas)}
             className="flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-primary px-3 py-2 rounded-md hover:bg-slate-50 transition-colors"
           >
             <Database size={18} />
-            Banco de Modelos
+            Base de Conhecimento
             <ChevronDown size={14} />
           </button>
 
@@ -77,23 +88,23 @@ const Header: React.FC = () => {
               >
                 <Library size={16} className="text-primary" />
                 <span className="flex-1 text-left">Modelos de Decisão</span>
-                <span className="text-xs bg-primary/10 text-primary px-2 py-0.5 rounded-full font-bold">484</span>
+                <span className="text-xs bg-primary/10 text-primary px-2 py-0.5 rounded-full font-bold">{templateStats.total}</span>
               </button>
               <button
-                disabled
-                className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-slate-400 cursor-not-allowed"
+                onClick={() => { setShowBancoModal(true); setShowMinutas(false); }}
+                className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-slate-700 hover:bg-slate-50 transition-colors"
               >
-                <Scale size={16} />
+                <ScrollText size={16} className="text-emerald-600" />
                 <span className="flex-1 text-left">Legislação</span>
-                <span className="text-xs bg-slate-100 text-slate-400 px-2 py-0.5 rounded">Em breve</span>
+                <span className="text-xs bg-emerald-100 text-emerald-700 px-2 py-0.5 rounded-full font-bold">{stats?.legislacao.total || 0}</span>
               </button>
               <button
-                disabled
-                className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-slate-400 cursor-not-allowed"
+                onClick={() => { setShowBancoModal(true); setShowMinutas(false); }}
+                className="w-full flex items-center gap-3 px-4 py-2.5 text-sm text-slate-700 hover:bg-slate-50 transition-colors"
               >
-                <BookOpen size={16} />
+                <GraduationCap size={16} className="text-violet-600" />
                 <span className="flex-1 text-left">Doutrina</span>
-                <span className="text-xs bg-slate-100 text-slate-400 px-2 py-0.5 rounded">Em breve</span>
+                <span className="text-xs bg-violet-100 text-violet-700 px-2 py-0.5 rounded-full font-bold">{stats?.doutrina.total || 0}</span>
               </button>
               <button
                 onClick={() => { setShowJurisprudenciaModal(true); setShowMinutas(false); }}
@@ -212,6 +223,12 @@ const Header: React.FC = () => {
       <JurisprudenciaModal
         isOpen={showJurisprudenciaModal}
         onClose={() => setShowJurisprudenciaModal(false)}
+      />
+
+      {/* Modal Banco de Conhecimento (Legislação e Doutrina) */}
+      <BancoConhecimentoModal
+        isOpen={showBancoModal}
+        onClose={() => setShowBancoModal(false)}
       />
     </header>
   );

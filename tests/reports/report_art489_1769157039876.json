@@ -1,0 +1,94 @@
+{
+  "versao": "art489-v1.0.0",
+  "dataExecucao": "2026-01-23T08:30:39.875Z",
+  "criterios": {
+    "relatorio": 40,
+    "fundamentacao": 65,
+    "dispositivo": 40,
+    "antiAlucinacao": 45,
+    "total": 190
+  },
+  "totalCasos": 3,
+  "totalSucesso": 3,
+  "taxaGlobal": "100.0",
+  "mediaGlobal": "168.3",
+  "percentGlobal": "88.6",
+  "suites": [
+    {
+      "suite": "progressao",
+      "casos": [
+        {
+          "id": "pro-001",
+          "nome": "Progressão regime fechado para semiaberto - Deferimento",
+          "sucesso": true,
+          "totalGeral": 165,
+          "percentual": 87,
+          "nivelAtingido": 3,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "50/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "40/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)",
+            "⚠️ Citação doutrinária sem autor conhecido da lista permitida"
+          ],
+          "tamanho": 1427,
+          "tempo": 4338,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X).\n\nO Ministério Público manifestou-se favoravelmente à progressão.\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de progressão de regime.\n\nConsta nos autos que o apenado, primário, já cumpriu 1"
+        },
+        {
+          "id": "pro-002",
+          "nome": "Progressão - Indeferimento falta grave recente",
+          "sucesso": true,
+          "totalGeral": 170,
+          "percentual": 89,
+          "nivelAtingido": 3,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "50/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)"
+          ],
+          "tamanho": 1337,
+          "tempo": 3116,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X). O Ministério Público manifestou-se desfavoravelmente ao pedido.\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de progressão de regime.\n\nConsta nos autos que o apenado pleiteia a progressão de"
+        },
+        {
+          "id": "pro-003",
+          "nome": "Progressão crime hediondo - Deferimento com 2/5",
+          "sucesso": true,
+          "totalGeral": 170,
+          "percentual": 89,
+          "nivelAtingido": 3,
+          "resumo": {
+            "relatorio": "35/40",
+            "fundamentacao": "50/65",
+            "dispositivo": "40/40",
+            "antiAlucinacao": "45/45"
+          },
+          "problemas": [],
+          "sugestoes": [
+            "⚠️ Incluir referência a eventos (evento X.X)"
+          ],
+          "tamanho": 1190,
+          "tempo": 2926,
+          "preview": "Vistos, etc.\n\nTrata-se de pedido de progressão de regime formulado pelo apenado (evento X.X).\n\nO Ministério Público manifestou-se favoravelmente ao pedido.\n\nRelatados.\n\nCinge-se a presente demanda à análise do pedido de progressão de regime.\n\nConsta nos autos que o apenado, primário, já cumpriu 2/5 "
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "168.3",
+        "mediaPercent": "88.3"
+      }
+    }
+  ]
+}

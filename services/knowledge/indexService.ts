@@ -315,3 +315,91 @@ export function clearIndexCache(): void {
     doutrinaCache = null;
     jurisprudenciaCache = null;
 }
+
+// Cache para textos carregados
+const textoLegislacaoCache: Map<string, string> = new Map();
+const textoDoutrinaCache: Map<string, string> = new Map();
+
+/**
+ * Carrega o texto de uma lei (versão em vigor)
+ * @param leiId ID da lei (ex: 'codigo_penal', 'lep')
+ * @param tipo 'vigor' ou 'historico'
+ */
+export async function getLegislacaoTexto(leiId: string, tipo: 'vigor' | 'historico' = 'vigor'): Promise<string> {
+    const cacheKey = `${leiId}_${tipo}`;
+
+    if (textoLegislacaoCache.has(cacheKey)) {
+        return textoLegislacaoCache.get(cacheKey)!;
+    }
+
+    try {
+        const sufixo = tipo === 'vigor' ? 'em_vigor' : 'historico_revogado';
+        const arquivo = `${leiId}_${sufixo}.txt`;
+
+        // Importar o arquivo de texto dinamicamente
+        const response = await fetch(`/knowledge/legislacao/${arquivo}`);
+        if (!response.ok) {
+            throw new Error(`Arquivo não encontrado: ${arquivo}`);
+        }
+
+        const texto = await response.text();
+        textoLegislacaoCache.set(cacheKey, texto);
+        return texto;
+    } catch (error) {
+        console.error('[IndexService] Erro ao carregar texto da legislação:', error);
+        return `Erro ao carregar o texto da lei. Verifique se o arquivo existe.`;
+    }
+}
+
+/**
+ * Carrega o texto de um livro de doutrina
+ * @param livroId ID do livro
+ * @param arquivoTexto Nome específico do arquivo de texto (opcional)
+ */
+export async function getDoutrinaTexto(livroId: string, arquivoTexto?: string): Promise<string> {
+    const cacheKey = `${livroId}_${arquivoTexto || 'all'}`;
+
+    if (textoDoutrinaCache.has(cacheKey)) {
+        return textoDoutrinaCache.get(cacheKey)!;
+    }
+
+    try {
+        // Carregar o arquivo de texto especificado ou o primeiro disponível
+        const arquivo = arquivoTexto || `${livroId}_p0001-0050.txt`;
+
+        const response = await fetch(`/knowledge/doutrina/textos/${arquivo}`);
+        if (!response.ok) {
+            throw new Error(`Arquivo não encontrado: ${arquivo}`);
+        }
+
+        const texto = await response.text();
+        textoDoutrinaCache.set(cacheKey, texto);
+        return texto;
+    } catch (error) {
+        console.error('[IndexService] Erro ao carregar texto da doutrina:', error);
+        return `Erro ao carregar o texto do livro. Verifique se o arquivo existe.`;
+    }
+}
+
+/**
+ * Lista os arquivos de texto disponíveis para um livro
+ */
+export function listarArquivosDoutrina(livro: LivroIndex): string[] {
+    return livro.arquivosTexto || [];
+}
+
+/**
+ * Extrai número da página do nome do arquivo de doutrina
+ * Ex: "2017_curso_de_direito_processual_pe_2017_p0051-0100.txt" -> { inicio: 51, fim: 100 }
+ */
+export function extrairPaginasDoArquivo(nomeArquivo: string): { inicio: number; fim: number } | null {
+    const match = nomeArquivo.match(/_p(\d+)-(\d+)\.txt$/i);
+    if (match) {
+        return {
+            inicio: parseInt(match[1], 10),
+            fim: parseInt(match[2], 10),
+        };
+    }
+    return null;
+}
+

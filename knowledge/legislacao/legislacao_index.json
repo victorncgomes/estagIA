@@ -2,7 +2,7 @@
   "meta": {
     "descricao": "Índice de legislações com links para atualização automática",
     "versao": "1.2.0",
-    "ultimaAtualizacao": "2026-01-21T10:22:47.350Z",
+    "ultimaAtualizacao": "2026-01-23T09:18:32.778Z",
     "instrucoes": "Execute o comando 'atualizar legislação' para sincronizar o conteúdo com as fontes oficiais",
     "totalLeis": 36
   },
@@ -16,7 +16,7 @@
       "arquivoHistorico": "codigo_penal_historico_revogado.txt",
       "tamanhoVigor": 307067,
       "trechosRevogados": 943,
-      "ultimaAtualizacao": "2026-01-21T10:09:41.854Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:13.235Z"
     },
     {
       "id": "codigo_processo_penal",
@@ -27,7 +27,7 @@
       "arquivoHistorico": "cpp_historico_revogado.txt",
       "tamanhoVigor": 385959,
       "trechosRevogados": 737,
-      "ultimaAtualizacao": "2026-01-21T10:14:21.233Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:15.827Z"
     },
     {
       "id": "codigo_processo_civil",
@@ -38,7 +38,7 @@
       "arquivoHistorico": "cpc_historico_revogado.txt",
       "tamanhoVigor": 576925,
       "trechosRevogados": 28,
-      "ultimaAtualizacao": "2026-01-21T10:14:23.923Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:18.509Z"
     },
     {
       "id": "constituicao_federal",
@@ -47,9 +47,9 @@
       "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
       "arquivoVigor": "cf88_em_vigor.txt",
       "arquivoHistorico": "cf88_historico_revogado.txt",
-      "tamanhoVigor": 704299,
-      "trechosRevogados": 769,
-      "ultimaAtualizacao": "2026-01-21T10:14:26.729Z"
+      "tamanhoVigor": 704355,
+      "trechosRevogados": 770,
+      "ultimaAtualizacao": "2026-01-23T09:17:21.283Z"
     },
     {
       "id": "lei_crimes_hediondos",
@@ -60,7 +60,7 @@
       "arquivoHistorico": "hediondos_historico_revogado.txt",
       "tamanhoVigor": 11757,
       "trechosRevogados": 23,
-      "ultimaAtualizacao": "2026-01-21T10:14:28.805Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:23.354Z"
     },
     {
       "id": "lei_drogas",
@@ -71,7 +71,7 @@
       "arquivoHistorico": "Lei_11_343_historico_revogado.txt",
       "tamanhoVigor": 81332,
       "trechosRevogados": 73,
-      "ultimaAtualizacao": "2026-01-21T10:11:44.930Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:25.471Z"
     },
     {
       "id": "estatuto_desarmamento",
@@ -82,7 +82,7 @@
       "arquivoHistorico": "desarmamento_historico_revogado.txt",
       "tamanhoVigor": 39257,
       "trechosRevogados": 203,
-      "ultimaAtualizacao": "2026-01-21T10:14:30.932Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:27.592Z"
     },
     {
       "id": "lei_organizacao_criminosa",
@@ -93,7 +93,7 @@
       "arquivoHistorico": "orcrim_historico_revogado.txt",
       "tamanhoVigor": 36473,
       "trechosRevogados": 6,
-      "ultimaAtualizacao": "2026-01-21T10:14:33.005Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:29.909Z"
     },
     {
       "id": "codigo_civil",
@@ -104,7 +104,7 @@
       "arquivoHistorico": "codigo_civil_historico_revogado.txt",
       "tamanhoVigor": 658320,
       "trechosRevogados": 328,
-      "ultimaAtualizacao": "2026-01-21T10:14:35.774Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:32.675Z"
     },
     {
       "id": "indulto_2025",
@@ -115,7 +115,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 27202,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:14:37.850Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:34.747Z"
     },
     {
       "id": "indulto_2024",
@@ -126,7 +126,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 27106,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:14:39.921Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:36.814Z"
     },
     {
       "id": "indulto_2023",
@@ -137,7 +137,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 20518,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:14:41.989Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:38.879Z"
     },
     {
       "id": "indulto_2022",
@@ -148,7 +148,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 9489,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:14:44.047Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:40.950Z"
     },
     {
       "id": "indulto_2021",
@@ -159,7 +159,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 7057,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:19:50.308Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:43.018Z"
     },
     {
       "id": "lei_maria_penha",
@@ -170,7 +170,7 @@
       "arquivoHistorico": "maria_penha_historico_revogado.txt",
       "tamanhoVigor": 117994,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:19:52.470Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:45.141Z"
     },
     {
       "id": "lei_juizados_especiais",
@@ -181,7 +181,7 @@
       "arquivoHistorico": "juizados_historico_revogado.txt",
       "tamanhoVigor": 39918,
       "trechosRevogados": 13,
-      "ultimaAtualizacao": "2026-01-21T10:19:54.542Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:47.215Z"
     },
     {
       "id": "lei_tortura",
@@ -192,7 +192,7 @@
       "arquivoHistorico": null,
       "tamanhoVigor": 2604,
       "trechosRevogados": 1,
-      "ultimaAtualizacao": "2026-01-21T10:19:56.613Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:49.285Z"
     },
     {
       "id": "lei_crimes_ambientais",
@@ -203,7 +203,7 @@
       "arquivoHistorico": "crimes_ambientais_historico_revogado.txt",
       "tamanhoVigor": 44380,
       "trechosRevogados": 43,
-      "ultimaAtualizacao": "2026-01-21T10:19:58.686Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:51.360Z"
     },
     {
       "id": "lei_execucao_penal",
@@ -214,7 +214,7 @@
       "arquivoHistorico": "lep_historico_revogado.txt",
       "tamanhoVigor": 105757,
       "trechosRevogados": 68,
-      "ultimaAtualizacao": "2026-01-21T10:20:00.844Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:53.553Z"
     },
     {
       "id": "lei_execucao_fiscal",
@@ -225,7 +225,7 @@
       "arquivoHistorico": "execucao_fiscal_historico_revogado.txt",
       "tamanhoVigor": 23689,
       "trechosRevogados": 6,
-      "ultimaAtualizacao": "2026-01-21T10:20:02.915Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:55.620Z"
     },
     {
       "id": "lei_lavagem_dinheiro",
@@ -236,7 +236,7 @@
       "arquivoHistorico": "lavagem_historico_revogado.txt",
       "tamanhoVigor": 37530,
       "trechosRevogados": 87,
-      "ultimaAtualizacao": "2026-01-21T10:20:04.983Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:57.697Z"
     },
     {
       "id": "eca",
@@ -247,7 +247,7 @@
       "arquivoHistorico": "eca_historico_revogado.txt",
       "tamanhoVigor": 242716,
       "trechosRevogados": 214,
-      "ultimaAtualizacao": "2026-01-21T10:20:07.271Z"
+      "ultimaAtualizacao": "2026-01-23T09:17:59.967Z"
     },
     {
       "id": "codigo_transito",
@@ -258,7 +258,7 @@
       "arquivoHistorico": "ctb_historico_revogado.txt",
       "tamanhoVigor": 326565,
       "trechosRevogados": 558,
-      "ultimaAtualizacao": "2026-01-21T10:20:09.743Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:02.437Z"
     },
     {
       "id": "lei_contravencoes",
@@ -269,7 +269,7 @@
       "arquivoHistorico": "contravencoes_historico_revogado.txt",
       "tamanhoVigor": 25665,
       "trechosRevogados": 30,
-      "ultimaAtualizacao": "2026-01-21T10:20:11.812Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:04.501Z"
     },
     {
       "id": "lei_abuso_autoridade",
@@ -280,7 +280,7 @@
       "arquivoHistorico": "abuso_autoridade_historico_revogado.txt",
       "tamanhoVigor": 25881,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:20:13.875Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:06.560Z"
     },
     {
       "id": "lei_crimes_financeiros",
@@ -291,7 +291,7 @@
       "arquivoHistorico": "crimes_financeiros_historico_revogado.txt",
       "tamanhoVigor": 11977,
       "trechosRevogados": 1,
-      "ultimaAtualizacao": "2026-01-21T10:20:15.930Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:08.621Z"
     },
     {
       "id": "lei_antitruste",
@@ -302,7 +302,7 @@
       "arquivoHistorico": "antitruste_historico_revogado.txt",
       "tamanhoVigor": 99784,
       "trechosRevogados": 6,
-      "ultimaAtualizacao": "2026-01-21T10:20:18.046Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:10.744Z"
     },
     {
       "id": "lei_crimes_tributarios",
@@ -313,7 +313,7 @@
       "arquivoHistorico": "crimes_tributarios_historico_revogado.txt",
       "tamanhoVigor": 12915,
       "trechosRevogados": 36,
-      "ultimaAtualizacao": "2026-01-21T10:20:20.110Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:12.806Z"
     },
     {
       "id": "cdc",
@@ -324,7 +324,7 @@
       "arquivoHistorico": "cdc_historico_revogado.txt",
       "tamanhoVigor": 83652,
       "trechosRevogados": 0,
-      "ultimaAtualizacao": "2026-01-21T10:20:22.228Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:14.915Z"
     },
     {
       "id": "lgpd",
@@ -335,7 +335,7 @@
       "arquivoHistorico": "lgpd_historico_revogado.txt",
       "tamanhoVigor": 95278,
       "trechosRevogados": 69,
-      "ultimaAtualizacao": "2026-01-21T10:22:31.702Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:17.086Z"
     },
     {
       "id": "codigo_penal_militar",
@@ -346,7 +346,7 @@
       "arquivoHistorico": "cpm_historico_revogado.txt",
       "tamanhoVigor": 190002,
       "trechosRevogados": 245,
-      "ultimaAtualizacao": "2026-01-21T10:22:34.073Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:19.451Z"
     },
     {
       "id": "codigo_processo_penal_militar",
@@ -357,7 +357,7 @@
       "arquivoHistorico": "cppm_historico_revogado.txt",
       "tamanhoVigor": 317185,
       "trechosRevogados": 86,
-      "ultimaAtualizacao": "2026-01-21T10:22:36.474Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:21.898Z"
     },
     {
       "id": "lei_licitacoes",
@@ -368,7 +368,7 @@
       "arquivoHistorico": "licitacoes_historico_revogado.txt",
       "tamanhoVigor": 278526,
       "trechosRevogados": 44,
-      "ultimaAtualizacao": "2026-01-21T10:22:38.736Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:24.168Z"
     },
     {
       "id": "estatuto_servidores",
@@ -379,7 +379,7 @@
       "arquivoHistorico": "estatuto_servidores_historico_revogado.txt",
       "tamanhoVigor": 154713,
       "trechosRevogados": 495,
-      "ultimaAtualizacao": "2026-01-21T10:22:41.002Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:26.437Z"
     },
     {
       "id": "codigo_tributario_nacional",
@@ -390,7 +390,7 @@
       "arquivoHistorico": "ctn_historico_revogado.txt",
       "tamanhoVigor": 108132,
       "trechosRevogados": 1,
-      "ultimaAtualizacao": "2026-01-21T10:22:43.122Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:28.548Z"
     },
     {
       "id": "codigo_eleitoral",
@@ -401,7 +401,7 @@
       "arquivoHistorico": "eleitoral_historico_revogado.txt",
       "tamanhoVigor": 226702,
       "trechosRevogados": 5,
-      "ultimaAtualizacao": "2026-01-21T10:22:45.349Z"
+      "ultimaAtualizacao": "2026-01-23T09:18:30.776Z"
     }
   ]
 }

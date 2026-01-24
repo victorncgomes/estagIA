@@ -91,7 +91,8 @@ export const ANTI_ALUCINACAO = {
         'Dividir texto em "DO RELATÓRIO", "DA FUNDAMENTAÇÃO", "DO DISPOSITIVO"',
         'Inventar jurisprudência, súmulas ou temas repetitivos',
         'Criar números de processos falsos',
-        'Mencionar nome de promotor ou promotoria',
+        'NUNCA mencionar nome de promotor/promotora (use apenas "Ministério Público" ou "MP")',
+        'NUNCA mencionar nome de defensor/defensora ou advogado/advogada (use apenas "Defesa")',
         'Usar negrito ou itálico para ênfase',
         'Usar listas ou bullet points na decisão',
         'Repetir jurisprudência citada pelas partes (exceto súmulas vinculantes)',
@@ -100,7 +101,7 @@ export const ANTI_ALUCINACAO = {
         'MISTURAR MATÉRIAS (ex: falar de progressão em decisão de remição)',
         'GERAR DECISÃO SOBRE MATÉRIA DIFERENTE DA ESPECIFICADA',
     ],
-    regra: 'Na dúvida, use apenas a lei. Lei você tem certeza.',
+    regra: 'Na dúvida, use apenas a lei. Lei você tem certeza. NUNCA cite nomes de promotores ou defensores.',
     citacaoObrigatoria: `TODA citação de doutrina DEVE seguir o formato:
 "[TEXTO DA CITAÇÃO]" (AUTOR. Título da Obra. Cidade: Editora, Ano, p. XX).
 Exemplo: "A execução penal não se resume ao mero cumprimento da pena" (NUCCI, Guilherme. Manual de Processo Penal. São Paulo: RT, 2020, p. 445).

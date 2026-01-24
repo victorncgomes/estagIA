@@ -1,0 +1,884 @@
+{
+  "versao": "2.0.0",
+  "dataExecucao": "2026-01-23T02:26:59.061Z",
+  "totalCasos": 29,
+  "totalSucesso": 29,
+  "taxaGlobal": "100.0",
+  "mediaGlobal": "96.0",
+  "suites": [
+    {
+      "suite": "indulto",
+      "casos": [
+        {
+          "id": "ind-001",
+          "nome": "Indulto 2024 - Deferimento requisitos preenchidos",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Completa aderência aos critérios de avaliação.",
+            "Fundamentação jurídica sólida e adequada ao caso.",
+            "Estrutura textual impecável."
+          ],
+          "sugestoes": [],
+          "tamanho": 1684,
+          "tempo": 6019,
+          "preview": "Vistos etc.\n\nTrata-se de análise para concessão de indulto ao apenado, primário, que cumpre pena por crime não hediondo. O SEEU (Sistema Eletrônico de Execução Unificado) identificou o apenado como possível beneficiário do indulto, tendo em vista o c"
+        },
+        {
+          "id": "ind-002",
+          "nome": "Indulto - Indeferimento crime violento",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica",
+            "Adequação da decisão ao caso concreto",
+            "Boa estrutura textual"
+          ],
+          "sugestoes": [
+            "Poderia citar o decreto de indulto específico para o ano em questão, se disponível, para maior precisão."
+          ],
+          "tamanho": 1937,
+          "tempo": 7106,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de indulto natalino formulado pelo apenado, condenado por latrocínio (art. 157, §3º, II do Código Penal), atualmente em cumprimento de pena privativa de liberdade. O Ministério Público manifestou-se pelo indeferimento "
+        },
+        {
+          "id": "ind-003",
+          "nome": "Comutação - Deferimento 1/3",
+          "sucesso": true,
+          "score_total": 75,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 20,
+            "adequacao": 15,
+            "qualidade": 15,
+            "anti_alucinacao": 5
+          },
+          "problemas": [
+            "Não cita o artigo específico do CP ou LEP que trata do indulto, apenas o art. 187 da LEP (que trata de outros assuntos).",
+            "A decisão defere INDULTO, quando o insumo pedia COMUTAÇÃO. Isso é um erro grave de adequação à matéria.",
+            "Não inventa nomes ou números de processo, mas não usa termos genéricos como 'Defesa'."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Linguagem jurídica adequada.",
+            "Citação de súmula pertinente."
+          ],
+          "sugestoes": [
+            "Corrigir a decisão para tratar de comutação, conforme o insumo.",
+            "Citar o artigo correto do CP ou LEP que trata do indulto/comutação.",
+            "Usar termos genéricos como 'Defesa' em vez de 'A Defesa'."
+          ],
+          "tamanho": 1672,
+          "tempo": 7295,
+          "preview": "Vistos etc.\n\nTrata-se de análise acerca da possibilidade de concessão de indulto ao apenado, que cumpre pena privativa de liberdade, atualmente em regime [informar o regime], conforme identificação realizada pelo SEEU. O Ministério Público manifestou"
+        },
+        {
+          "id": "ind-004",
+          "nome": "Indulto - Indeferimento falta grave",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 23,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 17
+          },
+          "problemas": [
+            "Poderia citar o número do artigo do decreto presidencial específico.",
+            "Poderia ter usado 'requerente' em vez de 'apenado' em alguns trechos para soar menos repetitivo."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica adequada e coerente.",
+            "Análise correta dos requisitos para o indulto.",
+            "Linguagem formal e jurídica apropriada."
+          ],
+          "sugestoes": [
+            "Citar o número do artigo específico do decreto presidencial que impede a concessão do indulto devido à falta grave.",
+            "Variar a linguagem para evitar repetições (ex: usar 'requerente' em vez de 'apenado' em alguns trechos)."
+          ],
+          "tamanho": 1433,
+          "tempo": 6673,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de indulto formulado pelo apenado, o qual cumpre pena privativa de liberdade. O Ministério Público manifestou-se pelo indeferimento do pedido, considerando a existência de falta grave. A Defesa, por sua vez, pugnou pel"
+        }
+      ],
+      "resumo": {
+        "total": 4,
+        "sucesso": 4,
+        "taxa": "100.0",
+        "mediaScore": "91.3"
+      }
+    },
+    {
+      "suite": "livramento",
+      "casos": [
+        {
+          "id": "liv-001",
+          "nome": "Livramento condicional - Deferimento primário",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 23,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 17
+          },
+          "problemas": [
+            "Poderia citar o artigo 83, inciso I do Código Penal de forma mais completa, mencionando as alíneas.",
+            "Poderia ser mais genérico ao se referir aos documentos comprobatórios, evitando menção direta a 'declaração acostada aos autos'."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica adequada e coerente.",
+            "Análise correta dos requisitos para o livramento condicional.",
+            "Linguagem formal e jurídica apropriada."
+          ],
+          "sugestoes": [
+            "Detalhar um pouco mais a fundamentação jurídica, especificando as alíneas do inciso I do artigo 83 do Código Penal.",
+            "Ser mais genérico ao se referir aos documentos comprobatórios."
+          ],
+          "tamanho": 1522,
+          "tempo": 6953,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, sob o argumento de que preenche os requisitos legais para a concessão do benefício. O Ministério Público manifestou-se favoravelmente ao pedido. A Defesa pugnou pelo de"
+        },
+        {
+          "id": "liv-002",
+          "nome": "Livramento - Indeferimento reincidente específico",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não inventa números de processo: -5 (Não há menção a números de processo, mas poderia haver)"
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citação de legislação pertinente.",
+            "Adequação da decisão ao caso concreto, analisando corretamente os requisitos para o livramento condicional.",
+            "Linguagem formal e adequada ao contexto jurídico."
+          ],
+          "sugestoes": [
+            "Embora não seja obrigatório, a citação de jurisprudência relevante poderia fortalecer ainda mais a fundamentação."
+          ],
+          "tamanho": 1807,
+          "tempo": 6645,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, sob o argumento de cumprimento dos requisitos necessários à concessão do benefício. O Ministério Público manifestou-se pelo indeferimento, ante a ausência de exame crim"
+        },
+        {
+          "id": "liv-003",
+          "nome": "Livramento com condições especiais - Deferimento",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Completa adequação à matéria",
+            "Boa fundamentação jurídica",
+            "Estrutura completa e correta",
+            "Linguagem formal e adequada"
+          ],
+          "sugestoes": [],
+          "tamanho": 1876,
+          "tempo": 5970,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, sob o argumento de que preenche os requisitos objetivos e subjetivos necessários à concessão do benefício. O Ministério Público manifestou-se favoravelmente ao pedido, "
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "96.7"
+      }
+    },
+    {
+      "suite": "multa",
+      "casos": [
+        {
+          "id": "mul-001",
+          "nome": "Multa - Deferimento parcelamento máximo",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 23,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 17
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citações relevantes.",
+            "Adequação da decisão ao caso concreto.",
+            "Boa estrutura textual e linguagem jurídica."
+          ],
+          "sugestoes": [
+            "Poderia citar o artigo específico da LEP que trata do parcelamento da multa (art. 169).",
+            "Poderia mencionar o valor da multa para melhor contextualização."
+          ],
+          "tamanho": 1803,
+          "tempo": 6560,
+          "preview": "Vistos etc.\n\nTrata-se de pedido formulado pelo apenado, alegando hipossuficiência, requerendo o parcelamento da pena de multa imposta. Informa que sua renda é de um salário mínimo e propõe o parcelamento em 12 vezes. O Ministério Público manifestou-s"
+        },
+        {
+          "id": "mul-002",
+          "nome": "Multa - Indeferimento execução fiscal",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Fundamentação jurídica completa e atualizada",
+            "Adequação perfeita à matéria",
+            "Estrutura formal correta",
+            "Linguagem jurídica adequada"
+          ],
+          "sugestoes": [],
+          "tamanho": 1309,
+          "tempo": 5617,
+          "preview": "Vistos etc.\n\nTrata-se de manifestação do Ministério Público requerendo a conversão da pena de multa em pena privativa de liberdade, em razão do inadimplemento por parte do apenado.\n\nA Defesa não se manifestou nos autos.\n\nRelatados.\n\nA pretensão minis"
+        },
+        {
+          "id": "mul-003",
+          "nome": "Multa - Deferimento desconto em folha",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Poderia ter usado termos genéricos para 'apenado' e 'presídio'."
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citação de legislação pertinente.",
+            "Análise adequada dos requisitos e da matéria.",
+            "Linguagem formal e tamanho adequado."
+          ],
+          "sugestoes": [
+            "Poderia citar jurisprudência específica sobre o tema do desconto da multa no pecúlio, se houver.",
+            "Usar termos genéricos para 'apenado' e 'presídio' para evitar qualquer possibilidade de alucinação."
+          ],
+          "tamanho": 2292,
+          "tempo": 7711,
+          "preview": "Vistos etc.\n\nTrata-se de pedido formulado pelo apenado, que, laborando no estabelecimento prisional, requer o desconto da pena de multa diretamente do seu pecúlio. O apenado busca, com isso, quitar seus débitos com a Justiça de forma mais célere, dem"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "96.7"
+      }
+    },
+    {
+      "suite": "prisao_domiciliar",
+      "casos": [
+        {
+          "id": "dom-001",
+          "nome": "Prisão domiciliar - Deferimento gestante",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não inventa nomes de pessoas: OK",
+            "Não inventa números de processo: OK",
+            "Usa termos genéricos (\"Ministério Público\", \"Defesa\"): OK"
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citação da legislação pertinente.",
+            "Adequação da decisão ao caso concreto, considerando a situação da apenada.",
+            "Boa estrutura textual e linguagem jurídica adequada."
+          ],
+          "sugestoes": [
+            "Poderia citar alguma jurisprudência específica sobre a aplicação analógica do art. 318 do CPP na execução penal, embora a fundamentação já seja suficiente."
+          ],
+          "tamanho": 1784,
+          "tempo": 6912,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de prisão domiciliar formulado pela apenada, gestante de 7 meses, condenada por crime sem violência. Alega a impossibilidade de permanecer no regime prisional em razão da gravidez e da necessidade de cuidados específic"
+        },
+        {
+          "id": "dom-002",
+          "nome": "Prisão domiciliar - Indeferimento crime hediondo",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usou termos genéricos para Ministério Público e Defesa."
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica",
+            "Adequação à matéria",
+            "Boa estrutura"
+          ],
+          "sugestoes": [
+            "Poderia usar termos genéricos para Ministério Público e Defesa."
+          ],
+          "tamanho": 1401,
+          "tempo": 5255,
+          "preview": "Vistos etc.\nTrata-se de pedido de prisão domiciliar formulado pela apenada, condenada por tráfico de drogas, sob o argumento de ser mãe de filho menor. Alega a necessidade de estar presente para cuidar do filho. O Ministério Público manifestou-se pel"
+        },
+        {
+          "id": "dom-003",
+          "nome": "Prisão domiciliar - Deferimento idoso enfermo",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica",
+            "Adequação à matéria",
+            "Boa estrutura"
+          ],
+          "sugestoes": [
+            "Poderia citar súmulas ou jurisprudência específica sobre o tema, se houver."
+          ],
+          "tamanho": 1863,
+          "tempo": 5721,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de prisão domiciliar formulado pelo apenado, alegando, em síntese, ser pessoa idosa, contando com 72 anos de idade, e portador de doença grave, conforme laudo médico anexado aos autos. Requereu, assim, a concessão da p"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "95.0"
+      }
+    },
+    {
+      "suite": "progressao",
+      "casos": [
+        {
+          "id": "pro-001",
+          "nome": "Progressão regime fechado para semiaberto - Deferimento",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usou termos genéricos para Ministério Público e Defesa."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica completa e adequada.",
+            "Análise correta dos requisitos para progressão.",
+            "Linguagem formal e tamanho adequado."
+          ],
+          "sugestoes": [
+            "Poderia usar termos genéricos como 'Ministério Público' e 'Defesa' para evitar qualquer risco de alucinação."
+          ],
+          "tamanho": 1637,
+          "tempo": 6368,
+          "preview": "Vistos etc.\n\nTrata-se de análise do pedido de progressão de regime formulado pelo apenado, sob o argumento de ter cumprido o requisito objetivo de 1/6 da pena, sendo primário e ostentando bom comportamento carcerário, conforme atestado nos autos. O R"
+        },
+        {
+          "id": "pro-002",
+          "nome": "Progressão - Indeferimento falta grave recente",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Fundamentação jurídica completa e adequada",
+            "Estrutura formal correta",
+            "Adequação da decisão ao caso concreto"
+          ],
+          "sugestoes": [],
+          "tamanho": 1322,
+          "tempo": 5171,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de progressão de regime formulado pelo apenado. Consta nos autos que o apenado praticou falta grave, homologada há 6 meses, consistente no uso de aparelho celular. O Ministério Público manifestou-se pelo indeferimento "
+        },
+        {
+          "id": "pro-003",
+          "nome": "Progressão crime hediondo - Deferimento com 2/5",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Estrutura completa e correta.",
+            "Fundamentação jurídica sólida com citação de legislação pertinente.",
+            "Adequação da decisão ao caso concreto, analisando os requisitos objetivos e subjetivos.",
+            "Qualidade textual adequada, com linguagem formal e tamanho apropriado.",
+            "Ausência de alucinações."
+          ],
+          "sugestoes": [],
+          "tamanho": 1213,
+          "tempo": 5384,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de progressão de regime formulado pelo apenado, sob o argumento de que preenche os requisitos necessários para a concessão do benefício. O Ministério Público manifestou-se favoravelmente ao pleito. A Defesa não apresen"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "98.3"
+      }
+    },
+    {
+      "suite": "remicao",
+      "casos": [
+        {
+          "id": "rem-001",
+          "nome": "Remição por estudo - Deferimento ENEM",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não houve menção ao nome do apenado, o que dificulta a identificação do processo. Sugere-se incluir o número do processo."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica completa e adequada.",
+            "Análise correta dos requisitos para a remição.",
+            "Linguagem formal e jurídica apropriada."
+          ],
+          "sugestoes": [
+            "Incluir o número do processo para facilitar a identificação do caso."
+          ],
+          "tamanho": 1759,
+          "tempo": 6594,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de remição da pena pelo estudo, formulado pelo apenado, em razão da participação no Exame Nacional do Ensino Médio (ENEM). Alega que obteve nota acima da média, conforme comprovado nos autos. O Relatório Social e de Ps"
+        },
+        {
+          "id": "rem-002",
+          "nome": "Remição por estudo - Indeferimento sem acréscimo intelectual",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não mencionou a Defesa não se manifestar, o que não é um erro, mas poderia ser omitido para evitar qualquer impressão de alucinação."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica completa e adequada.",
+            "Análise correta dos requisitos para a remição.",
+            "Linguagem formal e concisa."
+          ],
+          "sugestoes": [
+            "Poderia citar jurisprudência específica sobre a necessidade de acréscimo intelectual significativo para a remição por estudo.",
+            "Omitir a informação de que a Defesa não se manifestou, pois não é essencial para a decisão e pode gerar dúvidas."
+          ],
+          "tamanho": 1396,
+          "tempo": 6126,
+          "preview": "Vistos etc.\n\nTrata-se de pedido de remição de pena formulado pelo apenado, em razão da conclusão de curso de culinária básica, com carga horária de 4 horas. O Ministério Público manifestou-se pelo indeferimento do pedido, sob o argumento de que o ref"
+        },
+        {
+          "id": "rem-003",
+          "nome": "Remição por trabalho - Deferimento",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Fundamentação jurídica completa e adequada",
+            "Estrutura da decisão bem definida",
+            "Adequação total à matéria",
+            "Linguagem jurídica formal e correta",
+            "Ausência de alucinações"
+          ],
+          "sugestoes": [],
+          "tamanho": 931,
+          "tempo": 5189,
+          "preview": "Vistos etc.\n\nO apenado comprova, por meio de atestado da direção do presídio, o labor de 180 dias na cozinha da unidade prisional (documento anexo).\n\nRelatados.\n\nA remição da pena pelo trabalho é um direito do apenado, previsto no artigo 126 da Lei d"
+        },
+        {
+          "id": "rem-004",
+          "nome": "Remição por leitura - Deferimento parcial",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usa termos genéricos (\"Ministério Público\", \"Defesa\")"
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica",
+            "Adequação à matéria",
+            "Boa estrutura"
+          ],
+          "sugestoes": [
+            "Usar termos genéricos como 'Ministério Público' e 'Defesa' ao invés de 'O Ministério Público' e 'A Defesa'."
+          ],
+          "tamanho": 1578,
+          "tempo": 6180,
+          "preview": "Vistos etc.\n\nO apenado pleiteia a remição da pena por meio da apresentação de resenhas de obras literárias, juntando comprovantes de leitura e as respectivas resenhas. Foram apresentadas 5 resenhas, sendo 3 aprovadas e 2 reprovadas por insuficiência."
+        },
+        {
+          "id": "rem-005",
+          "nome": "Remição ENCCEJA - Indeferimento mesmo fato gerador",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usou termos genéricos para Ministério Público e Defesa."
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica",
+            "Adequação à matéria",
+            "Boa estrutura",
+            "Qualidade textual adequada"
+          ],
+          "sugestoes": [
+            "Poderia usar termos genéricos como 'Ministério Público' e 'Defesa' em vez de 'O Ministério Público' e 'A Defesa'."
+          ],
+          "tamanho": 1439,
+          "tempo": 6195,
+          "preview": "Vistos etc.\n\nAgrava o apenado da decisão que indeferiu o pedido de remição em razão da participação no ENCCEJA de 2022, sob o argumento de que já obteve remição pelo mesmo exame. Alega que a participação demonstra esforço ressocializador.\n\nO Ministér"
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 5,
+        "taxa": "100.0",
+        "mediaScore": "96.0"
+      }
+    },
+    {
+      "suite": "retificacao",
+      "casos": [
+        {
+          "id": "ret-001",
+          "nome": "Retificação de data-base - Deferimento",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não mencionou o nome do apenado, mas poderia ter usado 'reeducando' ou 'executado' para dar mais contexto."
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citação de legislação e jurisprudência.",
+            "Estrutura completa e adequada.",
+            "Linguagem formal e concisa."
+          ],
+          "sugestoes": [
+            "Poderia mencionar o nome do apenado usando um termo genérico como 'reeducando' ou 'executado' para dar mais contexto, sem revelar o nome real."
+          ],
+          "tamanho": 1534,
+          "tempo": 6687,
+          "preview": "Vistos etc.\nTrata-se de execução penal em que a Defesa requer a retificação da data-base para a progressão de regime, alegando que o cálculo atual está considerando a data da sentença condenatória, e não a data da última prisão do apenado.\nO Ministér"
+        },
+        {
+          "id": "ret-002",
+          "nome": "Retificação - Indeferimento prescrição intercorrente",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 23,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 17
+          },
+          "problemas": [
+            "Poderia citar a LEP (Lei de Execução Penal) para fortalecer a fundamentação.",
+            "O Ministério Público se manifestou nos autos"
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica adequada ao caso.",
+            "Linguagem formal e concisa."
+          ],
+          "sugestoes": [
+            "Citar a LEP para complementar a fundamentação.",
+            "Revisar a afirmação de que o Ministério Público não se manifestou nos autos, se for o caso."
+          ],
+          "tamanho": 1441,
+          "tempo": 5829,
+          "preview": "Vistos etc.\nTrata-se de incidente de execução penal em que a Defesa alega a ocorrência de prescrição intercorrente da pretensão executória, requerendo a extinção da punibilidade do apenado. O Ministério Público não se manifestou nos autos. A Defesa a"
+        },
+        {
+          "id": "ret-003",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usou termos genéricos para Ministério Público e Defesa."
+          ],
+          "pontos_fortes": [
+            "Boa fundamentação jurídica com citação de legislação e súmula.",
+            "Estrutura completa e adequada.",
+            "Linguagem formal e concisa."
+          ],
+          "sugestoes": [
+            "Poderia ter usado termos genéricos para Ministério Público e Defesa."
+          ],
+          "tamanho": 2284,
+          "tempo": 7447,
+          "preview": "Vistos etc.\nTrata-se de pedido de unificação de penas formulado pelo apenado, sob o argumento de que possui duas condenações não unificadas, o que estaria prejudicando o cálculo correto de seus benefícios na execução penal. O apenado busca a unificaç"
+        },
+        {
+          "id": "ret-004",
+          "nome": "Detração - Deferimento prisão preventiva",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Estrutura completa e correta",
+            "Fundamentação jurídica adequada com citação do artigo 42 do CP",
+            "Adequação da decisão ao pedido de detração",
+            "Qualidade textual boa, com linguagem formal e tamanho adequado",
+            "Não há alucinações"
+          ],
+          "sugestoes": [],
+          "tamanho": 1210,
+          "tempo": 5746,
+          "preview": "Vistos etc.\nTrata-se de pedido de detração formulado pelo apenado, sob o argumento de que permaneceu preso preventivamente por 180 dias antes da condenação, requerendo o abatimento desse período na pena total a ser cumprida. O Ministério Público mani"
+        },
+        {
+          "id": "ret-005",
+          "nome": "Retificação data-base após falta grave - Súmula 534 STJ",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Fundamentação jurídica completa e adequada ao caso.",
+            "Estrutura da decisão segue o padrão esperado.",
+            "Qualidade textual excelente."
+          ],
+          "sugestoes": [],
+          "tamanho": 1898,
+          "tempo": 6545,
+          "preview": "Vistos etc.\nTrata-se de incidente de execução penal em que a Defesa requer a retificação da guia de execução penal, alegando que a data-base para a progressão de regime deve ser alterada para a data do cometimento da falta grave, qual seja, 13/08/202"
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 5,
+        "taxa": "100.0",
+        "mediaScore": "97.0"
+      }
+    },
+    {
+      "suite": "saida_temporaria",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "trabalho_externo",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "unificacao",
+      "casos": [
+        {
+          "id": "uni-001",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Completa adequação à matéria",
+            "Boa fundamentação jurídica",
+            "Estrutura completa e correta",
+            "Linguagem jurídica adequada"
+          ],
+          "sugestoes": [],
+          "tamanho": 2151,
+          "tempo": 6629,
+          "preview": "Vistos etc.\nTrata-se de pedido de unificação de penas formulado pelo apenado, visando a correta contagem dos prazos para benefícios da execução penal. O apenado possui duas condenações em processos distintos, cujas guias de recolhimento encontram-se "
+        },
+        {
+          "id": "uni-002",
+          "nome": "Revogação de unificação - Crime posterior",
+          "sucesso": true,
+          "score_total": 100,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 20
+          },
+          "problemas": [],
+          "pontos_fortes": [
+            "Boa estrutura",
+            "Fundamentação jurídica completa e adequada",
+            "Linguagem formal e concisa",
+            "Decisão alinhada com o pedido e a orientação"
+          ],
+          "sugestoes": [],
+          "tamanho": 1206,
+          "tempo": 5584,
+          "preview": "Vistos etc.\nTrata-se de manifestação do Ministério Público requerendo a revogação da unificação de penas anteriormente realizada, em virtude da superveniência de nova condenação por crime cometido durante o curso da execução penal.\nA Defesa não se ma"
+        },
+        {
+          "id": "uni-003",
+          "nome": "Unificação - Indeferimento penas incompatíveis",
+          "sucesso": true,
+          "score_total": 95,
+          "detalhes": {
+            "estrutura": 20,
+            "fundamentacao": 25,
+            "adequacao": 20,
+            "qualidade": 15,
+            "anti_alucinacao": 15
+          },
+          "problemas": [
+            "Não usa termos genéricos para o Ministério Público e Defesa."
+          ],
+          "pontos_fortes": [
+            "Boa estrutura da decisão.",
+            "Fundamentação jurídica adequada e coerente.",
+            "Adequação da decisão à matéria tratada.",
+            "Qualidade textual boa."
+          ],
+          "sugestoes": [
+            "Poderia citar jurisprudência específica sobre a impossibilidade de unificação de penas com regimes incompatíveis para fortalecer a argumentação.",
+            "Usar termos genéricos para o Ministério Público e Defesa."
+          ],
+          "tamanho": 1211,
+          "tempo": 5592,
+          "preview": "Vistos etc.\nTrata-se de pedido de unificação de penas formulado pelo apenado, visando à unificação da pena privativa de liberdade com a pena restritiva de direitos. O Ministério Público manifestou-se pelo indeferimento do pedido.\nRelatados.\nA unifica"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0",
+        "mediaScore": "98.3"
+      }
+    }
+  ]
+}

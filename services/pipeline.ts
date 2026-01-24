@@ -51,7 +51,7 @@ const buildCaseContext = () => {
     context += `## DISPOSITIVO INDICADO\n${guidance.device}\n\n`;
   }
 
-  context += `## PARÂMETROS\n- Prolixidade: ${guidance.prolixity}/5\n- Perfil de estilo: ${guidance.profile}\n`;
+  context += `## PARÂMETROS\n- Profundidade Jurídica: ${guidance.profundidadeJuridica}/6\n- Perfil de estilo: ${guidance.profile}\n`;
 
   return context;
 };
@@ -158,22 +158,23 @@ export const runPipeline = async () => {
       status: 'pending',
     });
 
-    // Construir prompt de escrita com nível de prolixidade
-    const prolixityGuide = {
-      1: 'Seja extremamente conciso. Máximo 3 parágrafos. Apenas o essencial.',
-      2: 'Seja breve. Fundamentação curta e direta.',
-      3: 'Prolixidade padrão. Fundamentação adequada sem excessos.',
-      4: 'Seja detalhado. Explore os argumentos com mais profundidade.',
-      5: 'Seja exaustivo. Cite toda a jurisprudência relevante e desenvolva longamente.',
-    }[guidance.prolixity] || '';
+    // Construir prompt de escrita com nível de profundidade jurídica
+    const profundidadeGuide = {
+      1: 'Nível Telegráfico: Direto ao ponto, sem fundamentação jurídica detalhada. Ideal para despachos simples.',
+      2: 'Nível Padrão: Pesquisa na base de modelos do magistrado. Modo recomendado.',
+      3: 'Nível Normativo: Inclui citações de legislação aplicável (LEP, CP, CPP).',
+      4: 'Nível Doutrinário: Adiciona referências doutrinárias da base local.',
+      5: 'Nível Tribunais: Pesquisa jurisprudência em sites .jus.br (STJ, STF, TJs).',
+      6: 'Nível Ampliado: Pesquisa completa na internet. Requer revisão rigorosa.',
+    }[guidance.profundidadeJuridica] || '';
 
     // Usa o buildWritingSystemPrompt do Core Baltazar (conhecimento completo do juiz)
     const corePrompt = buildWritingSystemPrompt(selectedMatter || 'BENEFÍCIO');
 
     const writingPrompt = `${corePrompt}
 
-## NÍVEL DE PROLIXIDADE: ${guidance.prolixity}/5
-${prolixityGuide}
+## NÍVEL DE PROFUNDIDADE JURÍDICA: ${guidance.profundidadeJuridica}/6
+${profundidadeGuide}
 
 ## DADOS VALIDADOS DO CASO
 Com base nos dados validados abaixo, redija a decisão judicial completa:

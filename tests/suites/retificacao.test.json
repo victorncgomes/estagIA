@@ -49,6 +49,23 @@
                 "estrutura_completa",
                 "calculo_detracao"
             ]
+        },
+        {
+            "id": "ret-005",
+            "nome": "Retificação data-base após falta grave - Súmula 534 STJ",
+            "insumos": "Defesa requer correção da data-base de progressão. SEEU usa data da decisão homologatória (22/04/2025), mas deve usar data do cometimento da falta grave (13/08/2024). Aplicar Súmula 534 STJ.",
+            "orientacao": "Deferir retificação conforme Súmula 534 STJ. Natureza declaratória da decisão homologatória. Data-base = data do cometimento da falta.",
+            "agrupador": "retificacao",
+            "resultado_esperado": "defere",
+            "criterios": [
+                "estrutura_completa",
+                "menciona_sumula_534",
+                "menciona_art_112_lep",
+                "nao_menciona_nome_promotor",
+                "nao_menciona_nome_defensor",
+                "fundamentacao_natureza_declaratoria"
+            ],
+            "caso_completo": "casos/ret-005-data-base-falta-grave.json"
         }
     ],
     "metricas": {

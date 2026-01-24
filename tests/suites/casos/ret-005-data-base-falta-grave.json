@@ -1,0 +1,88 @@
+{
+    "id": "ret-005-data-base-falta-grave",
+    "nome": "Retificação de Data-Base após Falta Grave - Súmula 534 STJ",
+    "data_criacao": "2026-01-22T18:32:00.000Z",
+    "materia": "retificacao",
+    "agrupador": "retificacao",
+    "resultado_esperado": "defere",
+    "descricao": "Caso de retificação de GEP para correção da data-base para progressão de regime. Secretaria utilizou a data da decisão homologatória de falta grave (22/04/2025) ao invés da data do cometimento da falta (13/08/2024 - data da recaptura). Deve ser aplicada a Súmula 534 do STJ.",
+    "insumos": {
+        "processo": "0001990-35.2009.8.20.0145",
+        "apenado": "JOSÉ MARIA DE SOUZA",
+        "regime_atual": "Fechado",
+        "pena_total": "12 anos de reclusão",
+        "crime": "Art. 121, §2º, I, III e IV do CP (homicídio qualificado)",
+        "data_fato": "21/08/2000",
+        "transito_julgado": "21/11/2000",
+        "fracao_progressao": "1/6",
+        "fracao_livramento": "2/3",
+        "falta_grave": {
+            "tipo": "Fuga e novo crime",
+            "data_cometimento": "13/08/2024",
+            "data_decisao_homologatoria": "22/04/2025",
+            "evento_decisao": "74.1"
+        },
+        "peticao_defesa": {
+            "evento": "89.1",
+            "pedido": "Retificação da data-base de 22/04/2025 para 13/08/2024",
+            "fundamento": "Súmula 534 do STJ - data-base deve ser a do cometimento da falta"
+        },
+        "manifestacao_mp": {
+            "evento": "92.1",
+            "posicao": "Favorável ao deferimento",
+            "jurisprudencia_citada": "Agravo de Execução Penal 0808651-33.2022.822.0000 TJ-RO"
+        }
+    },
+    "prompt_usuario": "va no meu drive e busque pelo arquivo acorda claude. em seguida, com as instruções que ali constam, atuando como um assessor juridico do juiz henrique baltazar vilar dos santos, da 1a vara regional de execução penal da comarca de natal, faça uma minuta de decisao, nos seguintes termos: vistos, etc. Trata-se de retificação de guia proposta pela defesa do apenado, requerendo xxxxxxxxxx (evento xxxx) Instado a se manifestar, o Ministério Público anuiu com o pedido (evento xxx) #### não precisa falar o nome do promotor, nem da promotoria, nem do defensor #####",
+    "orientacoes_explicitas": [
+        "NÃO mencionar nome de promotor, promotoria ou defensor",
+        "Citar todos os processos, datas da infração, trânsito, crimes, penas e percentuais",
+        "Processos separados por parágrafo",
+        "Acolher posicionamento das partes",
+        "Buscar jurisprudências atuais nos sites STF/STJ",
+        "Linguagem técnica e erudita",
+        "NÃO dividir em tópicos (do relatório, da fundamentação, do dispositivo)",
+        "Estrutura fluida, estilo do Juiz Henrique Baltazar",
+        "NÃO alucinar ou inventar julgados",
+        "Adaptar fontes jornalísticas para linguagem técnica judicial"
+    ],
+    "resultado_esperado_texto": "Vistos etc.\n\nTrata-se de retificação de guia de execução penal proposta pela Defensoria Pública, requerendo a correção da data-base para progressão de regime, para que seja fixada em 13/08/2024, data do cometimento da falta grave, e não 22/04/2025, data da decisão homologatória (evento 89.1).\n\nInstado a se manifestar, o Ministério Público anuiu com o pedido (evento 92.1).\n\nAnoto que cumpre o apenado uma pena de 12 (doze) anos de reclusão, em razão da condenação cadastrada no processo nº 0000071-08.2000.8.20.0151, pela prática do crime do art. 121, §2º, incisos I, III e IV, do Código Penal (homicídio qualificado), com data do fato em 21/08/2000, trânsito em julgado em 21/11/2000, fração de 1/6 (um sexto) para progressão de regime e 2/3 (dois terços) para livramento condicional.\n\nAinda, consta dos autos que foi proferida decisão homologatória de falta grave em 22/04/2025 (evento 74.1), mesma data que consta no SEEU como data-base para fins de concessão dos benefícios executórios.\n\nRelatados.\n\nCinge-se a presente demanda em definir qual o marco temporal adequado para fixação da data-base destinada à aferição do requisito objetivo para progressão de regime quando reconhecida a prática de falta grave pelo apenado: se a data da decisão judicial que homologou a infração disciplinar ou a data em que efetivamente ocorreu o cometimento da falta.\n\nA Lei de Execução Penal, com a redação conferida pela Lei nº 13.964/2019, estabelece no art. 112, §6º: \"A prática de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente\".\n\nO dispositivo legal é expresso ao determinar que a prática da falta grave interrompe o prazo para progressão, devendo o reinício da contagem ter como base a pena remanescente. A redação normativa não deixa margem para interpretação diversa: o evento interruptivo é a prática da falta, e não o seu reconhecimento judicial posterior.\n\nA decisão que homologa a falta grave possui natureza meramente declaratória. O ato jurisdicional limita-se a certificar e formalizar situação fática pretérita, não constituindo o fato em si. A infração disciplinar produz seus efeitos jurídicos desde o momento de sua consumação, independentemente do pronunciamento judicial que vier a reconhecê-la.\n\nEstabelecer o marco temporal na data da decisão homologatória implicaria penalizar duplamente o apenado: primeiro, pelas consequências legais inerentes à falta grave; segundo, pelo tempo de tramitação do procedimento administrativo e judicial. Tal interpretação afronta os princípios da razoabilidade e da proporcionalidade.\n\nA matéria encontra-se consolidada na Súmula 534 do Superior Tribunal de Justiça: \"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração\".\n\nNo caso concreto, as faltas graves (fuga e cometimento de novo crime) ocorreram em 13/08/2024. Esta é a data-base que deve ser observada.\n\nIsso posto, julgo procedente o pedido e mando retificar a GEP para fixar a data-base para concessão dos benefícios executórios em 13/08/2024.\n\nP.R.I.\n\nAtualize-se o atestado de penas.",
+    "criterios_avaliacao": {
+        "estrutura": {
+            "tem_vistos": true,
+            "tem_relatados": true,
+            "tem_isso_posto": true,
+            "tem_pri": true,
+            "sem_divisao_topicos": true
+        },
+        "conteudo": {
+            "menciona_processo": true,
+            "menciona_crime": true,
+            "menciona_pena": true,
+            "menciona_fracoes": true,
+            "menciona_sumula_534": true,
+            "menciona_art_112_lep": true,
+            "nao_menciona_nome_promotor": true,
+            "nao_menciona_nome_defensor": true
+        },
+        "fundamentacao": {
+            "natureza_declaratoria_decisao": true,
+            "dies_a_quo_cometimento_falta": true,
+            "principio_razoabilidade": true
+        }
+    },
+    "pontos_chave": [
+        "Súmula 534 STJ: falta grave interrompe prazo, reinicia do cometimento",
+        "Art. 112, §6º LEP: prática da falta interrompe prazo",
+        "Decisão homologatória tem natureza declaratória, não constitutiva",
+        "Data-base correta: 13/08/2024 (cometimento da falta)",
+        "Data incorreta no SEEU: 22/04/2025 (decisão homologatória)"
+    ],
+    "erros_a_evitar": [
+        "Mencionar nome da promotora (Yvellise Nery da Costa)",
+        "Mencionar nome do defensor (Francisco de Paula Leite Sobrinho)",
+        "Dividir texto em 'DO RELATÓRIO', 'DA FUNDAMENTAÇÃO', 'DO DISPOSITIVO'",
+        "Inventar jurisprudência",
+        "Usar linguagem informal ou jornalística"
+    ]
+}

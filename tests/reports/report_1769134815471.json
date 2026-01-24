@@ -1,0 +1,626 @@
+{
+  "dataExecucao": "2026-01-23T02:20:15.470Z",
+  "totalCasos": 29,
+  "totalSucesso": 16,
+  "taxaGlobal": "55.2",
+  "suites": [
+    {
+      "suite": "indulto",
+      "casos": [
+        {
+          "id": "ind-001",
+          "nome": "Indulto 2024 - Deferimento requisitos preenchidos",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3949,
+          "tamanho": 1669,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1669,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos.\n\nTrata-se de análise acerca da possibilidade de concessão de indulto ao apenado, primário, que cumpre pena por crime não hediondo, conforme identificado no Sistema Eletrônico de Execução Unifi"
+        },
+        {
+          "id": "ind-002",
+          "nome": "Indulto - Indeferimento crime violento",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4019,
+          "tamanho": 2031,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 2031,
+            "tamanho_ok": true
+          },
+          "preview": "**Vistos.**\n\nTrata-se de pedido de indulto natalino formulado por apenado condenado por latrocínio (art. 157, §3º, II, do Código Penal), buscando os benefícios do Decreto Presidencial de indulto.\n\n**R"
+        },
+        {
+          "id": "ind-003",
+          "nome": "Comutação - Deferimento 1/3",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3639,
+          "tamanho": 1781,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1781,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos.\n\nTrata-se de análise acerca do pedido de comutação de pena formulado em favor do apenado, considerando o disposto no Decreto Presidencial nº [Número do Decreto Presidencial], manifestando-se o"
+        },
+        {
+          "id": "ind-004",
+          "nome": "Indulto - Indeferimento falta grave",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3510,
+          "tamanho": 1719,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1719,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos.\n\nTrata-se de análise de pedido de indulto formulado por apenado que cumpre pena privativa de liberdade, cuja defesa alega preenchimento dos requisitos para a concessão do benefício, não obstan"
+        }
+      ],
+      "resumo": {
+        "total": 4,
+        "sucesso": 4,
+        "taxa": "100.0"
+      }
+    },
+    {
+      "suite": "livramento",
+      "casos": [
+        {
+          "id": "liv-001",
+          "nome": "Livramento condicional - Deferimento primário",
+          "sucesso": true,
+          "score": 85,
+          "tempo": 5104,
+          "tamanho": 2756,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 75,
+            "tamanho": 2756,
+            "tamanho_ok": true
+          },
+          "preview": "```\nVistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado [Nome do Apenado], condenado nos autos do processo nº [Número do Processo] à pena de [Pena Total] por [Crime]. Aleg"
+        },
+        {
+          "id": "liv-002",
+          "nome": "Livramento - Indeferimento reincidente específico",
+          "sucesso": true,
+          "score": 85,
+          "tempo": 3014,
+          "tamanho": 1501,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 75,
+            "tamanho": 1501,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado, reincidente em crime doloso. Alega o sentenciado ter preenchido os requisitos objetivos para a obtenção do benefício, "
+        },
+        {
+          "id": "liv-003",
+          "nome": "Livramento com condições especiais - Deferimento",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4817,
+          "tamanho": 2517,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 2517,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de livramento condicional formulado pelo apenado [Nome do Apenado], que cumpre pena neste Juízo. Informa a defesa que o reeducando preenche os requisitos objetivos e su"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0"
+      }
+    },
+    {
+      "suite": "multa",
+      "casos": [
+        {
+          "id": "mul-001",
+          "nome": "Multa - Deferimento parcelamento máximo",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4660,
+          "tamanho": 1728,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1728,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de parcelamento da pena de multa imposta ao apenado, referente ao processo de execução penal nº [Número do Processo, se houver], alegando hipossuficiência financeira e "
+        },
+        {
+          "id": "mul-002",
+          "nome": "Multa - Indeferimento execução fiscal",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4699,
+          "tamanho": 1383,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1383,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos, etc.\n\nTrata-se de manifestação do Ministério Público requerendo a conversão da pena de multa em pena privativa de liberdade, em razão do inadimplemento por parte do apenado.\n\nRelatados.\n\nAduz "
+        },
+        {
+          "id": "mul-003",
+          "nome": "Multa - Deferimento desconto em folha",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4740,
+          "tamanho": 1978,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1978,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de requerimento formulado pelo apenado, empregado no estabelecimento prisional, pugnando pelo desconto do valor da pena de multa diretamente de seu pecúlio.\n\nRelatados.\n\nA questã"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0"
+      }
+    },
+    {
+      "suite": "prisao_domiciliar",
+      "casos": [
+        {
+          "id": "dom-001",
+          "nome": "Prisão domiciliar - Deferimento gestante",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 4850,
+          "tamanho": 2561,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 2561,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de prisão domiciliar formulado por [Nome da Apenada], apenada gestante de 7 meses, em razão de sua condição de gravidez (documentos anexos). A defesa alega que a manute"
+        },
+        {
+          "id": "dom-002",
+          "nome": "Prisão domiciliar - Indeferimento crime hediondo",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3272,
+          "tamanho": 1502,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1502,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de prisão domiciliar formulado por [NOME DA APENADA], condenada por tráfico de drogas, sob a alegação de ser mãe de filho menor de idade.\n\nRelatados.\n\nA Lei nº 13.769/2"
+        },
+        {
+          "id": "dom-003",
+          "nome": "Prisão domiciliar - Deferimento idoso enfermo",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 5278,
+          "tamanho": 2919,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 2919,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de prisão domiciliar formulado por [Nome do Apenado], apenado de 72 anos de idade, sob o argumento de ser portador de doença grave, conforme laudo médico anexado aos au"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 3,
+        "taxa": "100.0"
+      }
+    },
+    {
+      "suite": "progressao",
+      "casos": [
+        {
+          "id": "pro-001",
+          "nome": "Progressão regime fechado para semiaberto - Deferimento",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 2794,
+          "tamanho": 1222,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 75,
+            "tamanho": 1222,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nO SEEU (Sistema Eletrônico de Execução Unificada) identificou que o apenado preenche o requisito objetivo para progressão de regime, qual seja, o cumprimento de 1/6 da pena, conforme ates"
+        },
+        {
+          "id": "pro-002",
+          "nome": "Progressão - Indeferimento falta grave recente",
+          "sucesso": false,
+          "score": 30,
+          "tempo": 2064,
+          "tamanho": 700,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 50,
+            "tamanho": 700,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos etc.\n\nApenado requer progressão de regime.\nO Ministério Público opinou pelo indeferimento.\n\nÉ o relatório.\n\nA Lei de Execução Penal, em seu art. 112, dispõe sobre os requisitos objetivo e s"
+        },
+        {
+          "id": "pro-003",
+          "nome": "Progressão crime hediondo - Deferimento com 2/5",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 3218,
+          "tamanho": 1182,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 75,
+            "tamanho": 1182,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nO SEEU identificou que o apenado preenche o requisito objetivo para a progressão de regime, informando a unidade prisional sobre o bom comportamento carcerário do apenado.\n\nO Ministério P"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 0,
+        "taxa": "0.0"
+      }
+    },
+    {
+      "suite": "remicao",
+      "casos": [
+        {
+          "id": "rem-001",
+          "nome": "Remição por estudo - Deferimento ENEM",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3592,
+          "tamanho": 1887,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1887,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos, etc.\n\nO apenado pleiteia a remição de sua pena, fundamentando o pedido em sua participação e desempenho no Exame Nacional do Ensino Médio (ENEM), alcançando nota superior à média. O Relatório "
+        },
+        {
+          "id": "rem-002",
+          "nome": "Remição por estudo - Indeferimento sem acréscimo intelectual",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 3051,
+          "tamanho": 1498,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 75,
+            "tamanho": 1498,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos, etc.\n\nRequer o apenado a remição da pena em virtude da realização de curso de culinária básica, com carga horária de 4 horas (evento X). O Ministério Público manifestou-se pelo indeferimen"
+        },
+        {
+          "id": "rem-003",
+          "nome": "Remição por trabalho - Deferimento",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 1724,
+          "tamanho": 599,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 75,
+            "tamanho": 599,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos, etc.\n\nO apenado comprova 180 (cento e oitenta) dias de trabalho na cozinha do presídio, conforme atestado da direção anexo aos autos.\n\nRelatados.\n\nConsiderando que, nos termos do art. 126 "
+        },
+        {
+          "id": "rem-004",
+          "nome": "Remição por leitura - Deferimento parcial",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3076,
+          "tamanho": 1341,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1341,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos etc.\n\nO apenado pleiteia remição da pena por meio da apresentação de resenhas de obras literárias, juntando comprovantes de aprovação em 3 (três) resenhas e reprovação em 2 (duas) (eventos "
+        },
+        {
+          "id": "rem-005",
+          "nome": "Remição ENCCEJA - Indeferimento mesmo fato gerador",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 2736,
+          "tamanho": 1170,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": false,
+            "estrutura_score": 75,
+            "tamanho": 1170,
+            "tamanho_ok": false
+          },
+          "preview": "```\nVistos etc.\n\nO apenado pleiteia remição da pena em razão da aprovação no ENCCEJA de 2022 (evento X.1).\n\nRelatados.\n\nO pedido não merece prosperar. Conforme consta nos autos, o apenado já obteve re"
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 1,
+        "taxa": "20.0"
+      }
+    },
+    {
+      "suite": "retificacao",
+      "casos": [
+        {
+          "id": "ret-001",
+          "nome": "Retificação de data-base - Deferimento",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 2707,
+          "tamanho": 1298,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1298,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nTrata-se de execução penal em que a defesa pugna pela retificação da data-base para progressão de regime, pleiteando que seja considerada a data da última prisão do apenado, em detrimento"
+        },
+        {
+          "id": "ret-002",
+          "nome": "Retificação - Indeferimento prescrição intercorrente",
+          "sucesso": false,
+          "score": 45,
+          "tempo": 2679,
+          "tamanho": 983,
+          "detalhes": {
+            "vistos": true,
+            "relatados": false,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 75,
+            "tamanho": 983,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nTrata-se de incidente de execução penal em que a defesa do apenado alega a ocorrência de prescrição intercorrente, requerendo a extinção da punibilidade.\n\nAnalisando os autos, verifico qu"
+        },
+        {
+          "id": "ret-003",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3591,
+          "tamanho": 1576,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1576,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nTrata-se de execução penal em que o apenado postula a unificação de suas penas, alegando possuir duas condenações distintas, ainda não unificadas, o que estaria prejudicando o correto cál"
+        },
+        {
+          "id": "ret-004",
+          "nome": "Detração - Deferimento prisão preventiva",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3096,
+          "tamanho": 1363,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1363,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nTrata-se de pedido de retificação da Guia de Execução Penal (GEP) formulado pelo apenado, em que pleiteia o reconhecimento do período de 180 (cento e oitenta) dias em que permaneceu preso"
+        },
+        {
+          "id": "ret-005",
+          "nome": "Retificação data-base após falta grave - Súmula 534 STJ",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3440,
+          "tamanho": 1486,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1486,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nTrata-se de incidente de execução penal em que a defesa requer a retificação da data-base para fins de progressão de regime, alegando que o Sistema Eletrônico Unificado de Execução Penal "
+        }
+      ],
+      "resumo": {
+        "total": 5,
+        "sucesso": 1,
+        "taxa": "20.0"
+      }
+    },
+    {
+      "suite": "saida_temporaria",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "trabalho_externo",
+      "casos": [],
+      "resumo": {
+        "total": 0,
+        "sucesso": 0
+      }
+    },
+    {
+      "suite": "unificacao",
+      "casos": [
+        {
+          "id": "uni-001",
+          "nome": "Unificação de penas - Deferimento",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3155,
+          "tamanho": 1286,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1286,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nTrata-se de requerimento de unificação de penas formulado pelo apenado, sob o argumento de possuir duas condenações em processos distintos, buscando a unificação para fins de contagem de "
+        },
+        {
+          "id": "uni-002",
+          "nome": "Revogação de unificação - Crime posterior",
+          "sucesso": true,
+          "score": 100,
+          "tempo": 3630,
+          "tamanho": 1559,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1559,
+            "tamanho_ok": true
+          },
+          "preview": "Vistos etc.\n\nO Ministério Público requer a revogação da unificação de penas anteriormente realizada, sob o argumento de que o apenado cometeu novo crime durante a execução penal, o que ensejaria a nec"
+        },
+        {
+          "id": "uni-003",
+          "nome": "Unificação - Indeferimento penas incompatíveis",
+          "sucesso": false,
+          "score": 60,
+          "tempo": 3154,
+          "tamanho": 1392,
+          "detalhes": {
+            "vistos": true,
+            "relatados": true,
+            "isso_posto": true,
+            "pri": true,
+            "estrutura_score": 100,
+            "tamanho": 1392,
+            "tamanho_ok": false
+          },
+          "preview": "Vistos etc.\n\nCuida-se de pleito do apenado, em que requer a unificação de pena privativa de liberdade com restritiva de direitos. O Ministério Público, em sua manifestação, opinou pelo indeferimento d"
+        }
+      ],
+      "resumo": {
+        "total": 3,
+        "sucesso": 1,
+        "taxa": "33.3"
+      }
+    }
+  ]
+}

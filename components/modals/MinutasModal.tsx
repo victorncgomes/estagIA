@@ -4,47 +4,42 @@
  * Base unificada - sem distinção de fonte
  */
 
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useEffect } from 'react';
 import { X, Search, FileText, ChevronRight, Copy, Check, ArrowLeft, Eye } from 'lucide-react';
-import { getTemplateStats, AGRUPADORES } from '../../services/templateService';
+import { getTemplateStats, AGRUPADORES, getModelosPorAgrupador, type ModeloCompleto } from '../../services/templateService';
 
 interface MinutasModalProps {
     isOpen: boolean;
     onClose: () => void;
 }
 
-// Dados mockados dos modelos para visualização
-// TODO: Integrar com banco real de modelos
-const MODELOS_EXEMPLO: Record<string, Array<{ id: string, nome: string, preview: string }>> = {
-    progressao: [
-        { id: 'prog_1', nome: 'Progressão primário - deferimento', preview: 'Trata-se de pedido de progressão de regime formulado pelo sentenciado...' },
-        { id: 'prog_2', nome: 'Progressão primário - indeferimento subjetivo', preview: 'Ante o exposto, indefiro o pedido de progressão de regime...' },
-        { id: 'prog_3', nome: 'Progressão reincidente - deferimento', preview: 'O apenado preenche os requisitos objetivos e subjetivos...' },
-        { id: 'prog_4', nome: 'Progressão hediondo - deferimento', preview: 'Considerando o preenchimento dos requisitos do art. 112...' },
-        { id: 'prog_5', nome: 'Progressão mulher gestante', preview: 'Tratando-se de apenada gestante, aplica-se o disposto...' },
-    ],
-    regressao: [
-        { id: 'reg_1', nome: 'Regressão por falta grave', preview: 'Diante da homologação da falta grave, determino a regressão...' },
-        { id: 'reg_2', nome: 'Regressão cautelar', preview: 'Havendo fundada suspeita de prática de crime doloso...' },
-        { id: 'reg_3', nome: 'Regressão por fuga', preview: 'O apenado empreendeu fuga do estabelecimento prisional...' },
-    ],
-    agravo: [
-        { id: 'agr_1', nome: 'Agravo - manutenção da decisão', preview: 'Mantenho a decisão agravada por seus próprios fundamentos...' },
-        { id: 'agr_2', nome: 'Agravo - reconsideração parcial', preview: 'Diante das razões expendidas, reconsidero parcialmente...' },
-    ],
-    outros: [
-        { id: 'out_1', nome: 'Despacho de mero expediente', preview: 'Vista ao Ministério Público para manifestação...' },
-        { id: 'out_2', nome: 'Ciência de alvará', preview: 'Cientifico a parte sobre a expedição de alvará...' },
-    ],
-};
-
 const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
     const [searchTerm, setSearchTerm] = useState('');
     const [agrupadorSelecionado, setAgrupadorSelecionado] = useState<string | null>(null);
-    const [modeloSelecionado, setModeloSelecionado] = useState<{ id: string, nome: string, preview: string } | null>(null);
+    const [modeloSelecionado, setModeloSelecionado] = useState<ModeloCompleto | null>(null);
+    const [modelosDoAgrupador, setModelosDoAgrupador] = useState<ModeloCompleto[]>([]);
+    const [loadingModelos, setLoadingModelos] = useState(false);
     const [copied, setCopied] = useState(false);
 
     const stats = useMemo(() => getTemplateStats(), []);
+
+    // Carregar modelos do agrupador selecionado
+    useEffect(() => {
+        if (agrupadorSelecionado) {
+            setLoadingModelos(true);
+            getModelosPorAgrupador(agrupadorSelecionado)
+                .then(modelos => {
+                    setModelosDoAgrupador(modelos);
+                    setLoadingModelos(false);
+                })
+                .catch(() => {
+                    setModelosDoAgrupador([]);
+                    setLoadingModelos(false);
+                });
+        } else {
+            setModelosDoAgrupador([]);
+        }
+    }, [agrupadorSelecionado]);
 
     // Filtrar agrupadores
     const agrupadorsFiltrados = useMemo(() => {
@@ -68,15 +63,9 @@ const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
         return agrupadorsFiltrados.reduce((acc, ag) => acc + ag.total, 0);
     }, [agrupadorsFiltrados]);
 
-    // Modelos do agrupador selecionado
-    const modelosDoAgrupador = useMemo(() => {
-        if (!agrupadorSelecionado) return [];
-        return MODELOS_EXEMPLO[agrupadorSelecionado] || [];
-    }, [agrupadorSelecionado]);
-
     const handleCopy = () => {
         if (modeloSelecionado) {
-            navigator.clipboard.writeText(modeloSelecionado.preview);
+            navigator.clipboard.writeText(modeloSelecionado.conteudo_preview);
             setCopied(true);
             setTimeout(() => setCopied(false), 2000);
         }
@@ -89,6 +78,7 @@ const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
             setAgrupadorSelecionado(null);
         }
     };
+
 
     if (!isOpen) return null;
 
@@ -174,22 +164,22 @@ const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
                                     </button>
                                 </div>
                                 <div className="bg-white rounded-lg p-4 border border-slate-200 font-mono text-sm text-slate-700 whitespace-pre-wrap">
-                                    {modeloSelecionado.preview}
-                                    {'\n\n'}
-                                    [... conteúdo completo do modelo ...]
-                                    {'\n\n'}
-                                    Este é um exemplo de como o conteúdo do modelo será exibido.
-                                    Na implementação final, o texto completo do modelo será carregado do banco de dados.
+                                    {modeloSelecionado.conteudo_preview}
                                 </div>
                             </div>
                         </div>
                     ) : agrupadorSelecionado ? (
                         /* Lista de modelos do agrupador */
                         <div className="space-y-2">
-                            {modelosDoAgrupador.length > 0 ? (
+                            {loadingModelos ? (
+                                <div className="text-center py-12 text-slate-400">
+                                    <div className="animate-spin w-8 h-8 border-2 border-primary border-t-transparent rounded-full mx-auto mb-4"></div>
+                                    <p>Carregando modelos...</p>
+                                </div>
+                            ) : modelosDoAgrupador.length > 0 ? (
                                 modelosDoAgrupador.map((modelo) => (
                                     <button
-                                        key={modelo.id}
+                                        key={modelo.arquivo}
                                         onClick={() => setModeloSelecionado(modelo)}
                                         className="w-full p-4 bg-white border border-slate-200 rounded-xl hover:border-primary hover:shadow-md transition-all text-left group"
                                     >
@@ -202,7 +192,7 @@ const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
                                                     {modelo.nome}
                                                 </h3>
                                                 <p className="text-sm text-slate-500 mt-1 line-clamp-2">
-                                                    {modelo.preview}
+                                                    {modelo.conteudo_preview}
                                                 </p>
                                             </div>
                                             <div className="flex items-center gap-2 text-slate-400 group-hover:text-primary">
@@ -215,8 +205,8 @@ const MinutasModal: React.FC<MinutasModalProps> = ({ isOpen, onClose }) => {
                             ) : (
                                 <div className="text-center py-12 text-slate-400">
                                     <FileText size={48} className="mx-auto mb-4 opacity-50" />
-                                    <p>Modelos em processo de integração</p>
-                                    <p className="text-sm mt-2">Os modelos deste agrupador estão sendo processados</p>
+                                    <p>Nenhum modelo encontrado neste agrupador</p>
+                                    <p className="text-sm mt-2">Os modelos podem estar em outro agrupador</p>
                                 </div>
                             )}
                         </div>

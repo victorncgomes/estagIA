@@ -41,8 +41,7 @@ Processo nº [NUMERO_PROCESSO]`,
     relatorio: `Aduz o apenado [NOME_COMPLETO] que [resumo do pedido em ordem indireta].
 Requer [pedido específico] (evento XX.X).
 
-Interveio o Ministério Público, através do(a) [nome do promotor/promotora],
-[concordando/discordando/se manifestando] (evento XX.X).
+Interveio o Ministério Público, pugnando [pelo deferimento/indeferimento] (evento XX.X).
 
 Anoto que, consoante informações do SEEU, [situação executória atual].`,
 
@@ -326,6 +325,8 @@ export const ANTI_ALUCINACAO = {
         'Inventar dados do apenado',
         'Inventar nomes de ministros',
         'Citar notícias como fundamento',
+        'Mencionar nome de promotor/promotora (usar apenas "Ministério Público")',
+        'Mencionar nome de defensor/advogado (usar apenas "Defesa")',
     ],
     permitido: [
         'Citação genérica: "A jurisprudência do STJ consolidou-se..."',
@@ -333,7 +334,7 @@ export const ANTI_ALUCINACAO = {
         'Citação de temas repetitivos conhecidos',
         'Usar apenas a lei quando em dúvida',
     ],
-    regra: 'Na dúvida, use apenas a lei. Lei você tem certeza.',
+    regra: 'Na dúvida, use apenas a lei. Lei você tem certeza. NUNCA cite nomes de promotores ou defensores.',
 };
 
 // ============================================
@@ -361,7 +362,7 @@ ${ESTRUTURA.cabecalho}
 - Nome completo do apenado na primeira menção
 - Resumo do pedido em ordem indireta
 - Indicação do evento entre parênteses (evento XX.X)
-- Manifestação do MP com nome do promotor
+- Manifestação do MP (NUNCA mencionar nome de promotor, usar apenas "Ministério Público")
 - "Anoto que, consoante informações do SEEU, [situação]"
 
 ### TRANSIÇÃO:

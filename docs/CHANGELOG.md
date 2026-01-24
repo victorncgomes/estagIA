@@ -1,7 +1,182 @@
 # estagIA - Changelog Consolidado
 
-> **Versão Atual**: 0.3.2  
-> **Última Atualização**: 22/01/2026
+> **Versão Atual**: 0.2.20  
+> **Última Atualização**: 23/01/2026
+
+---
+
+## v0.2.20 - Correção Visualização Jurisprudência (23/01/2026)
+
+### 🔧 JurisprudenciaViewer v2.0 - Exibição Completa
+
+**Problema Resolvido:** Componente só exibia 25 súmulas STJ, ignorando 2437 julgados.
+
+**Solução Implementada:**
+
+| Fonte | Quantidade | Status |
+|-------|------------|--------|
+| TJRN | 2.331 julgados | ✅ Carregado |
+| STF | 31 julgados | ✅ Carregado |
+| STJ Repetitivos | 75 acordãos | ✅ Carregado |
+| Súmulas STJ | 25 | ✅ Carregado |
+| **TOTAL** | **2.462** | ✅ |
+
+**Novas Features:**
+- 🎨 Interface estilo Kindle (como DoutrinaViewer)
+- 📑 Tabs por fonte: Todos, TJRN, STF, STJ Rep., Súmulas
+- 📄 Paginação virtual (20 itens/página)
+- 🔍 Busca por ementa, processo, relator, tema
+- 📋 Cópia de citação formatada
+- 🎯 Detalhes expandíveis com tese (STJ) e ementa completa
+
+**Arquivo Modificado:**
+- `components/readers/JurisprudenciaViewer.tsx` → v2.0
+
+---
+
+## v0.2.19 - Correção Base de Conhecimento (22/01/2026)
+
+
+### 🔧 Melhorias no Modal de Jurisprudência (v1.1.0)
+
+| Item | Correção |
+|------|----------|
+| Contraste | Header atualizado para `amber-700/800` (melhor legibilidade) |
+| Loading | Spinner animado durante busca de resultados |
+| Reset | Estado limpo automaticamente ao abrir modal |
+| UX | Tooltips adicionados nos botões de ação |
+
+### ✅ Nomenclatura Padronizada
+- "Banco de Conhecimento" → **"Base de Conhecimento"** em toda interface
+
+### 📊 Contagens Reais Integradas
+| Base | Quantidade |
+|------|------------|
+| Modelos de Decisão | 256 |
+| Legislação | 36 |
+| Doutrina | 34 |
+| Jurisprudência | 2.437 |
+
+### 🔄 Reindexação Completa de Modelos
+
+**Problema Resolvido:** Script anterior ignorava arquivos ODT (175 arquivos).
+
+**Novo índice (v3.0.0):**
+- **256 modelos** indexados (antes: 79)
+- Formatos: 79 DOCX + 175 ODT + 2 DOC
+- **19 agrupadores** categorizados (antes: 11)
+
+**Scripts Criados:**
+- `scripts/reindexModelos.cjs` - Indexação completa
+- `scripts/regenerateEmbeddings.cjs` - Geração de embeddings
+
+### ⚡ Embeddings Regenerados
+
+**256 embeddings** gerados para busca semântica instantânea:
+- Cache: `knowledge/embeddings_cache.json` (3.64 MB)
+- Formato: Gemini text-embedding-004 (768 dimensões)
+
+### 🧪 Sistema de Testes Art. 489 CPC
+
+**Sistema de avaliação detalhado** baseado no Art. 489 do CPC e no estilo do Juiz Baltazar:
+
+| Categoria | Pontos | Critérios |
+|-----------|--------|-----------|
+| **Relatório** | 40 | Vistos (5), Causa conclusão (10), Eventos (5), Ordem partes (10), Ausentes (5), Relatados (5) |
+| **Fundamentação** | 65 | Ponto fulcral (10), Transições (5), Estrutura (10), Doutrina (10), Legislação (10), Jurisp. (10), Não repete (5), Conclusão (5) |
+| **Dispositivo** | 40 | Isso posto (5), Objetividade (10), Só alterações (10), Itens (5), PRI (5), Atualiza atestado (5) |
+| **Anti-Alucinação** | 45 | Sem nomes (10), Sem processos (5), Genéricos (5), Sem juiz (5), Jurisp. verif. (10), Doutrina verif. (10) |
+| **TOTAL** | **190** | |
+
+**Resultados após otimização e rigor anti-alucinação (29 casos):**
+- ✅ 100% aprovados (score >= 70%)
+- 📊 **Média: 164.7/190 (86.7%)**
+- 📈 **0 alucinações detectadas** (súmulas inventadas, nomes fictícios)
+- 🏆 Progressão e Multa: **45/45 Anti-Alucinação**
+
+| Suíte | Score | Anti-Aluc |
+|-------|-------|-----------|
+| progressao | 89.0% | **45/45** |
+| multa | 88.3% | **45/45** |
+| retificacao | 89.2% | 43/45 |
+| livramento | 88.3% | 42/45 |
+
+**Arquivos criados:**
+- `services/validation/art489Validator.ts` - Validador completo
+- `scripts/runTestsArt489.cjs` - Script com prompt otimizado
+
+**Doutrina integrada (Nível 4+):**
+| Matéria | Autor |
+|---------|-------|
+| Progressão | BRITO, Alexis Couto de |
+| Indulto/Retificação | NUCCI, Guilherme de Souza |
+| Remição/Multa | MARCÃO, Renato |
+
+### 📚 Portal de Conhecimento Premium
+
+**Componentes implementados:**
+
+| Feature | Componente | Status |
+|---------|-----------|--------|
+| **Leitor Kindle** | `KindleReader.tsx` | ✅ Funcional |
+| **Jurisprudência** | `JurisprudenciaViewer.tsx` | ✅ Funcional |
+| **Legislação** | Encoding | ⚠️ Requer re-indexação |
+
+**KindleReader Features:**
+- 🔤 Controle de tamanho de fonte (XS → XXL)
+- 🎨 3 temas: Claro, Sépia, Escuro
+- ⌨️ Atalhos: ← → Navegar, + - Fonte, ESC Fechar
+- 📊 Barra de progresso e navegação de páginas
+
+**JurisprudenciaViewer Features:**
+- 🔍 Busca por número ou texto
+- 🏷️ Filtro por ramo (Execução Penal, etc.)
+- 📋 25 súmulas STJ indexadas
+- 📎 Cópia de citação formatada
+
+### 📖 Leitores de Texto Implementados
+- **Legislação**: Visualização de texto vigente e trechos revogados
+- **Doutrina**: Leitor estilo Kindle com navegação entre páginas
+
+### 🚫 Regras Anti-Alucinação Reforçadas
+- Proibido mencionar nome de promotor (usar "Ministério Público")
+- Proibido mencionar nome de defensor (usar "Defesa")
+
+**Arquivos Modificados:**
+- `components/modals/JurisprudenciaModal.tsx`
+- `components/modals/BancoConhecimentoModal.tsx`
+- `services/knowledge/indexService.ts`
+- `knowledge/prompts/CORE_ACORDA_CLAUDE.md`
+- `services/engine/decisionEngine.ts`
+- `services/knowledge/coreBaltazar.ts`
+
+---
+
+## v0.3.3 - Correção do Botão Gerar Decisão (22/01/2026)
+
+### 🐛 Bug Fix Crítico
+
+**Problema 1:** O botão "Gerar Decisão" não funcionava - nada acontecia ao clicar.
+
+**Causa:** Referência a propriedade inexistente no store:
+- O código em `pipeline.ts` referenciava `guidance.prolixity` (nome antigo)
+- A propriedade real no store é `guidance.profundidadeJuridica`
+
+**Correção em `services/pipeline.ts`:**
+- Alterado `guidance.prolixity` → `guidance.profundidadeJuridica` (3 ocorrências)
+- Atualizado mapa de níveis de 5 para 6 níveis (compatível com UI)
+- Atualizado labels de "Prolixidade" para "Profundidade Jurídica"
+
+---
+
+**Problema 2:** Frontend não conectava ao backend - "Sem APIs" / ERR_CONNECTION_REFUSED
+
+**Causa:** Mismatch de portas:
+- Backend rodando na porta **3508**
+- Frontend configurado para conectar na porta **3108**
+
+**Correção em `services/ai/config.ts` e `services/feedbackService.ts`:**
+- Alterado `localhost:3108` → `localhost:3508`
 
 ---
 

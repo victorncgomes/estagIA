@@ -9,7 +9,7 @@ import express from 'express';
 import cors from 'cors';
 
 const app = express();
-const PORT = process.env.PORT || 3108;
+const PORT = process.env.PORT || 3508;
 
 // Origens permitidas (local + produção)
 const ALLOWED_ORIGINS = [
