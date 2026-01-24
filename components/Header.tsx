@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
-import { Settings, Library, User, ToggleLeft, Database, Check, ChevronDown, Scale, BookOpen, Gavel, ScrollText, GraduationCap } from 'lucide-react';
+import { Settings, Library, User, ToggleLeft, Database, Check, ChevronDown, Scale, BookOpen, Gavel, ScrollText, GraduationCap, BarChart3 } from 'lucide-react';
 import { getProvidersStatus, getAvailableProviders } from '../services/ai';
 import { useStore } from '../store';
 import MinutasModal from './modals/MinutasModal';
 import JurisprudenciaModal from './modals/JurisprudenciaModal';
 import BancoConhecimentoModal from './modals/BancoConhecimentoModal';
+import CostDashboard from './admin/CostDashboard';
 import { getTotalJurisprudencias } from '../services/jurisprudencia';
 import { getIndexStats, type IndexStats } from '../services/knowledge/indexService';
 import { getTemplateStats } from '../services/templateService';
@@ -16,6 +17,7 @@ const Header: React.FC = () => {
   const [showJurisprudenciaModal, setShowJurisprudenciaModal] = useState(false);
   const [showBancoModal, setShowBancoModal] = useState(false);
   const [showProfile, setShowProfile] = useState(false);
+  const [showCostDashboard, setShowCostDashboard] = useState(false);
   const [stats, setStats] = useState<IndexStats | null>(null);
 
   const jurisprudenciaCount = getTotalJurisprudencias();
@@ -41,7 +43,7 @@ const Header: React.FC = () => {
           className="h-8"
         />
         <span className="text-xs font-medium text-slate-400 border border-slate-200 px-2 py-0.5 rounded-full">
-          v0.1.1
+          v0.2.22
         </span>
 
         {/* Status APIs */}
@@ -117,6 +119,16 @@ const Header: React.FC = () => {
             </div>
           )}
         </div>
+
+        {/* Admin Dashboard Button */}
+        <button
+          onClick={() => setShowCostDashboard(true)}
+          className="flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-purple-600 px-3 py-2 rounded-md hover:bg-purple-50 transition-colors"
+          title="Dashboard Admin"
+        >
+          <BarChart3 size={18} />
+          <span className="hidden lg:inline">Admin</span>
+        </button>
 
         {/* Settings - Dropdown */}
         <div className="relative">
@@ -230,6 +242,11 @@ const Header: React.FC = () => {
         isOpen={showBancoModal}
         onClose={() => setShowBancoModal(false)}
       />
+
+      {/* Dashboard de Custos Admin */}
+      {showCostDashboard && (
+        <CostDashboard onClose={() => setShowCostDashboard(false)} />
+      )}
     </header>
   );
 };

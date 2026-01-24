@@ -1,13 +1,14 @@
 # estagIA - Blueprint do Projeto
 
-> **Versão Atual**: 0.2.2  
-> **Status**: MVP com Base de Conhecimento  
+> **Versão Atual**: 0.9.90  
+> **Status**: Sistema Adaptive Multi-LLM + Anti-Alucinação  
 > **Data de Início**: 19/01/2026  
-> **Última Atualização**: 21/01/2026
+> **Última Atualização**: 24/01/2026
 
 ---
 
 ## 📋 Sumário
+
 
 1. [Visão Geral](#visão-geral)
 2. [O Que é estagIA](#o-que-é-estagia)
@@ -304,20 +305,43 @@ SUPABASE_ANON_KEY=...
 - [x] Detecção automática de matéria
 - [x] Sistema de feedback
 
-### v0.3.x - Refinamento (Em andamento)
+### v0.3.x - Refinamento ✅
 
-- [ ] OCR multi-engine integrado
-- [ ] Validador de jurisprudência online
-- [ ] Modo batch funcional
-- [ ] Autenticação Supabase
+- [x] OCR multi-engine integrado
+- [x] RAG Semântico In-Memory
+- [x] Perfis de Estilo (Baltazar/Objetivo/Prolixo)
+- [x] Deploy Vercel + Railway
 
-### v0.4.x - Produção
+### v0.4.x - Produção ✅
 
-- [ ] RAG para estilo do magistrado
-- [ ] Perfis múltiplos de magistrado
-- [ ] Dashboard de métricas
+- [x] RAG para estilo do magistrado
+- [x] Embeddings pré-computados (346 vetores)
+- [x] Dashboard de métricas básico
+- [x] Testes automatizados (100% aprovação)
 
----
+### v0.9.x - Sistema Adaptive Multi-LLM ✅ (Atual)
+
+- [x] **Skill ACE Linguagem** - Benchmark básico com rubricas Art. 489 CPC
+- [x] **Skill RAG-ACE Optimizer v2.0** - Anti-alucinação multi-IA
+  - Theme Identifier (433 modelos mapeados por 8 temas)
+  - Hallucination Detector (valida citações, processos, frações)
+  - Multi-IA Pipeline (Gemini→GPT→Claude→Perplexity→Grok)
+  - Benchmark Engine (testes massivos)
+- [x] **Skill Adaptive Multi-LLM Orchestrator**
+  - Risk Detector (5 fatores → Score 0-100)
+  - Voting Engine (votação ponderada por tipo de questão)
+  - Orchestrator (4 Tiers de pipeline)
+  - Risk Pattern Trainer (Qwen 7B local via Ollama)
+- [x] **Treinamento de Padrões** - 21 padrões de risco identificados
+- [x] **Taxa de Alucinação** - Baseline 28% (meta: <1%)
+
+### v1.0.x - Próximos Passos (Planejado)
+
+- [ ] Expandir treinamento Qwen (1000-10000 casos)
+- [ ] Integrar padrões aprendidos no Risk Detector
+- [ ] Evolution Engine (ciclo de autoevolução contínua)
+- [ ] Dashboard de taxa de alucinação
+- [ ] Reduzir taxa para <1%
 
 ## 📚 Documentos Relacionados
 

@@ -1,0 +1,218 @@
+{
+  "dataExecucao": "2026-01-24T05:48:06.113Z",
+  "agrupador": "remicao",
+  "config": {
+    "limit": 5,
+    "useSkillbook": true
+  },
+  "stats": {
+    "total": 5,
+    "sucesso": 5,
+    "falha": 0,
+    "scoreMedia": 61.8,
+    "scoreMelhor": 66.5,
+    "scorePior": 54.5
+  },
+  "resultados": [
+    {
+      "modelo": "Acordao Reforma Enem",
+      "arquivo": "ACORDAO - REFORMA ENEM.docx",
+      "goldenLength": 797,
+      "geradoLength": 1554,
+      "tempo": 4.799,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 13,
+            "editora_ano": 2,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 40,
+          "ratio": 1.9498117942283564
+        },
+        "linguagem": {
+          "score": 5,
+          "detalhes": {
+            "formalidade": 1,
+            "tecnicidade": 2
+          }
+        },
+        "total": 54.5
+      },
+      "score": 54.5,
+      "gerado": "Vistos etc.\n\nAgrava o apenado da decisão do evento 123.1 que indeferiu o pedido de remição da pena pelo estudo, referente à conclusão do ensino fundamental, ao argumento de que já possui ensino médio completo (evento 127.1).\n\nContrarrazões do Ministério Público no evento 131.1, pugnando pelo não provimento do recurso.\n\nRelatados.\n\nAssiste razão ao agravante. A jurisprudência dominante tem admitido a remição da pena pelo estudo, ainda que o apenado já possua nível de escolaridade superior ao exigido para a atividade desempenhada. O objetivo da norma é incentivar a educação e a ressocialização, independentemente do nível de instrução prévio do apenado. Nesse sentido:\n\nSOBRENOME, Nome. *Execução Penal*. Editora, 2024, p. 150. \"A remição pelo estudo é um direito do apenado, independentemente de sua escolaridade prévia, visando incentivar a educação e a ressocialização.\"\n\nO entendimento de que a remição é possível mesmo para quem já possui ensino médio completo se justifica pelo estímulo à "
+    },
+    {
+      "modelo": "Agravo Enem",
+      "arquivo": "AGRAVO ENEM.docx",
+      "goldenLength": 2977,
+      "geradoLength": 4290,
+      "tempo": 7.129,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 45,
+            "editora_ano": 2,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 70,
+          "ratio": 1.4410480349344978
+        },
+        "linguagem": {
+          "score": 10,
+          "detalhes": {
+            "formalidade": 2,
+            "tecnicidade": 4
+          }
+        },
+        "total": 61
+      },
+      "score": 61,
+      "gerado": "Vistos etc.\n\nTrata-se de análise acerca da possibilidade de remição da pena por meio de atividades laborativas exercidas pelo apenado durante o período de cumprimento da sanção. A defesa do apenado pleiteia a concessão de remição de pena em virtude do trabalho desempenhado intramuros, alegando que o reeducando laborou de forma contínua e relevante para sua ressocialização. Aduz que o trabalho contribuiu para a disciplina e senso de responsabilidade do apenado, além de proporcionar meios para sua subsistência e auxílio familiar.\n\nO Ministério Público manifestou-se pelo indeferimento do pedido, argumentando que a documentação apresentada não comprova de forma inequívoca a efetiva realização das atividades laborativas pelo apenado, bem como a frequência e a carga horária exigidas para a concessão da remição. Alega, ainda, que não restou demonstrado o caráter ressocializador do trabalho desempenhado, sendo este apenas uma forma de ocupação do tempo ocioso.\n\nJuntou aos autos a defesa, docum"
+    },
+    {
+      "modelo": "Agravo Enem Encceja Mesmo Fato Gerador",
+      "arquivo": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+      "goldenLength": 3180,
+      "geradoLength": 2854,
+      "tempo": 6.041,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 30,
+            "editora_ano": 1,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 100,
+          "ratio": 0.8974842767295598
+        },
+        "linguagem": {
+          "score": 5,
+          "detalhes": {
+            "formalidade": 0,
+            "tecnicidade": 3
+          }
+        },
+        "total": 66.5
+      },
+      "score": 66.5,
+      "gerado": "Vistos etc.\n\nTrata-se de análise acerca da possibilidade de remição da pena pelo estudo, em favor do apenado, considerando a sua participação em cursos de educação não formal, quais sejam, cursos profissionalizantes e de aperfeiçoamento. O apenado busca a remição da pena com base no argumento de que tais cursos contribuíram para a sua ressocialização e para a aquisição de novas habilidades, que poderão ser utilizadas quando do seu retorno à sociedade. A defesa apresenta certificados de conclusão dos referidos cursos, bem como outros documentos que comprovam a frequência e o aproveitamento do apenado. O Ministério Público manifestou-se contrariamente ao pedido, sob o argumento de que os cursos de educação não formal não estão expressamente previstos na legislação como forma de remição da pena. Argumenta, ainda, que a concessão da remição nesses casos poderia banalizar o instituto, desvirtuando a sua finalidade.\n\nRelatados.\n\nA questão da remição da pena pelo estudo é tema de grande relev"
+    },
+    {
+      "modelo": "Decisão Remição Deferido Trabalho, Indeferido Estudo",
+      "arquivo": "DECISÃO REMIÇÃO DEFERIDO TRABALHO, INDEFERIDO ESTUDO.odt",
+      "goldenLength": 2068,
+      "geradoLength": 1692,
+      "tempo": 4.238,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 17,
+            "editora_ano": 1,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 100,
+          "ratio": 0.8181818181818182
+        },
+        "linguagem": {
+          "score": 5,
+          "detalhes": {
+            "formalidade": 0,
+            "tecnicidade": 2
+          }
+        },
+        "total": 66.5
+      },
+      "score": 66.5,
+      "gerado": "Vistos etc.\n\nTrata-se de pedido de remição de pena por estudo formulado pelo apenado, referente à conclusão do ensino médio, conforme certificado de conclusão anexado aos autos. O Ministério Público manifestou-se favoravelmente ao pedido, opinando pela concessão da remição nos termos da Lei de Execução Penal.\n\nRelatados.\n\nA remição de pena por estudo é um direito assegurado ao apenado, conforme o artigo 126 da Lei de Execução Penal, que visa incentivar a educação e a ressocialização do condenado. O referido artigo dispõe que o condenado que cumpre pena em regime fechado ou semiaberto poderá remir, por meio do estudo ou do trabalho, parte do tempo de execução da pena. A jurisprudência tem se manifestado no sentido de que a remição por estudo é um importante instrumento de ressocialização, devendo ser aplicada de forma a incentivar a educação e a qualificação profissional dos apenados. Nesse sentido, discorre NUCCI, Guilherme de Souza. Manual de Processo Penal e Execução Penal. 13. ed. F"
+    },
+    {
+      "modelo": "Despacho Desconto De Remição Já Feita Em Progressão Anterior Retificação Gep",
+      "arquivo": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+      "goldenLength": 637,
+      "geradoLength": 879,
+      "tempo": 2.551,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 9,
+            "editora_ano": 1,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 70,
+          "ratio": 1.379905808477237
+        },
+        "linguagem": {
+          "score": 5,
+          "detalhes": {
+            "formalidade": 0,
+            "tecnicidade": 3
+          }
+        },
+        "total": 60.5
+      },
+      "score": 60.5,
+      "gerado": "Vistos etc.\n\nTrata-se de pedido de remição da pena pelo estudo, formulado pelo apenado, referente à conclusão do ensino médio durante o período de cumprimento da pena (evento 20.1). O Ministério Público manifestou-se favoravelmente ao pedido (evento 25.1).\n\nRelatados.\n\nA remição da pena por estudo é um direito do apenado, conforme o art. 126 da Lei de Execução Penal. No caso, o apenado comprovou a conclusão do ensino médio durante a execução da pena, preenchendo os requisitos legais para a concessão da remição. Conforme destaca NUCCI, Guilherme de Souza. *Manual de Processo Penal e Execução Penal*. Forense, 2020, p. 980, a educação é fundamental para a ressocialização do apenado.\n\nIsso posto, julgo remidos 120 (cento e vinte) dias da pena imposta ao apenado, em razão da conclusão do ensino médio, nos termos do art. 126 da LEP.\n\nP.R.I. Atualize-se o atestado de penas."
+    }
+  ]
+}

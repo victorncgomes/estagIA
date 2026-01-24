@@ -1,12 +1,17 @@
 /**
  * estagIA - Backend Proxy Server
  * Proxy seguro para chamadas de API de IA
- * @version 0.1.1
+ * @version 1.0.0 - Com Token Tracking
  */
 
 import 'dotenv/config';
 import express from 'express';
 import cors from 'cors';
+import tracker, { API_PRICING } from './tokenTracker.js';
+
+// Configuração do Ollama (Llama local)
+const OLLAMA_URL = 'http://localhost:11434';
+const LLAMA_MODEL = 'llama3.1:8b';
 
 const app = express();
 const PORT = process.env.PORT || 3508;
@@ -57,7 +62,11 @@ app.get('/', (req, res) => {
             'POST /api/anthropic',
             'POST /api/grok',
             'POST /api/perplexity',
-            'POST /api/openai'
+            'POST /api/openai',
+            'GET /api/admin/usage',
+            'GET /api/admin/usage/summary',
+            'GET /api/admin/usage/daily',
+            'GET /api/admin/usage/requests'
         ]
     });
 });
@@ -78,6 +87,11 @@ app.post('/api/gemini', async (req, res) => {
         });
 
         const data = await response.json();
+
+        // Track usage
+        const inputText = JSON.stringify(contents);
+        const outputText = data?.candidates?.[0]?.content?.parts?.[0]?.text || '';
+        tracker.track('gemini', inputText, outputText, 'system', { model });
 
         if (!response.ok) {
             return res.status(response.status).json(data);
@@ -109,6 +123,11 @@ app.post('/api/anthropic', async (req, res) => {
 
         const data = await response.json();
 
+        // Track usage
+        const inputText = JSON.stringify(messages) + (system || '');
+        const outputText = data?.content?.[0]?.text || '';
+        tracker.track('anthropic', inputText, outputText, 'system', { model });
+
         if (!response.ok) {
             return res.status(response.status).json(data);
         }
@@ -138,6 +157,11 @@ app.post('/api/grok', async (req, res) => {
 
         const data = await response.json();
 
+        // Track usage
+        const inputText = JSON.stringify(messages);
+        const outputText = data?.choices?.[0]?.message?.content || '';
+        tracker.track('grok', inputText, outputText, 'system', { model });
+
         if (!response.ok) {
             return res.status(response.status).json(data);
         }
@@ -166,6 +190,11 @@ app.post('/api/perplexity', async (req, res) => {
         });
 
         const data = await response.json();
+
+        // Track usage
+        const inputText = JSON.stringify(messages);
+        const outputText = data?.choices?.[0]?.message?.content || '';
+        tracker.track('perplexity', inputText, outputText, 'system', { model });
 
         if (!response.ok) {
             return res.status(response.status).json(data);
@@ -201,6 +230,11 @@ app.post('/api/openai', async (req, res) => {
 
         const data = await response.json();
 
+        // Track usage
+        const inputText = JSON.stringify(messages);
+        const outputText = data?.choices?.[0]?.message?.content || '';
+        tracker.track('openai', inputText, outputText, 'system', { model });
+
         if (!response.ok) {
             return res.status(response.status).json(data);
         }
@@ -209,6 +243,64 @@ app.post('/api/openai', async (req, res) => {
     } catch (error) {
         console.error('OpenAI proxy error:', error);
         res.status(500).json({ error: error.message });
+    }
+});
+
+// ============================================
+// PROXY PARA LLAMA LOCAL (Tier 0 - Custo $0)
+// ============================================
+app.post('/api/llama', async (req, res) => {
+    try {
+        const { prompt, system, model, max_tokens, temperature } = req.body;
+
+        const selectedModel = model || LLAMA_MODEL;
+        const inputContent = (system || '') + prompt;
+
+        const response = await fetch(`${OLLAMA_URL}/api/generate`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                model: selectedModel,
+                prompt: prompt,
+                system: system || '',
+                stream: false,
+                options: {
+                    temperature: temperature || 0.3,
+                    num_predict: max_tokens || 2000,
+                },
+            }),
+        });
+
+        if (!response.ok) {
+            const errorText = await response.text();
+            console.error('Ollama error:', errorText);
+            return res.status(response.status).json({ error: 'Llama local error', details: errorText });
+        }
+
+        const data = await response.json();
+
+        // Track usage (custo $0 para local)
+        tracker.track({
+            api: 'llama',
+            inputTokens: data.prompt_eval_count || Math.round(inputContent.length / 4),
+            outputTokens: data.eval_count || Math.round((data.response || '').length / 4),
+            userId: req.headers['x-user-id'] || 'anonymous',
+        });
+
+        res.json({
+            response: data.response,
+            model: selectedModel,
+            usage: {
+                prompt_tokens: data.prompt_eval_count || 0,
+                completion_tokens: data.eval_count || 0,
+                total_tokens: (data.prompt_eval_count || 0) + (data.eval_count || 0),
+            },
+            cost: 0, // Llama local é gratuito
+            tier: 0,
+        });
+    } catch (error) {
+        console.error('Llama proxy error:', error);
+        res.status(500).json({ error: error.message, details: 'Verifique se Ollama está rodando (ollama serve)' });
     }
 });
 
@@ -304,9 +396,59 @@ app.get('/api/decisoes-validadas', (req, res) => {
 });
 
 // ============================================
+// ADMIN - USAGE TRACKING
+// ============================================
+
+// Resumo completo de uso
+app.get('/api/admin/usage', (req, res) => {
+    const summary = tracker.getSummary();
+    res.json(summary);
+});
+
+// Resumo simplificado
+app.get('/api/admin/usage/summary', (req, res) => {
+    const summary = tracker.getSummary();
+    res.json({
+        totals: summary.totals,
+        today: summary.today,
+        projectedMonthlyCost: summary.projectedMonthlyCost,
+        avgDailyCost: summary.avgDailyCost,
+    });
+});
+
+// Uso por dia (para gráficos)
+app.get('/api/admin/usage/daily', (req, res) => {
+    const days = parseInt(req.query.days) || 30;
+    const dailyUsage = tracker.getDailyUsage(days);
+    res.json(dailyUsage);
+});
+
+// Requests recentes (auditoria)
+app.get('/api/admin/usage/requests', (req, res) => {
+    const limit = parseInt(req.query.limit) || 50;
+    const requests = tracker.getRecentRequests(limit);
+    res.json(requests);
+});
+
+// Tabela de preços
+app.get('/api/admin/pricing', (req, res) => {
+    res.json(API_PRICING);
+});
+
+// Reset de dados (apenas para dev)
+app.post('/api/admin/usage/reset', (req, res) => {
+    if (process.env.NODE_ENV === 'production') {
+        return res.status(403).json({ error: 'Não permitido em produção' });
+    }
+    tracker.reset();
+    res.json({ success: true, message: 'Dados de uso resetados' });
+});
+
+// ============================================
 // HEALTH CHECK
 // ============================================
 app.get('/api/health', (req, res) => {
+    const usage = tracker.getSummary();
     res.json({
         status: 'ok',
         providers: {
@@ -317,6 +459,11 @@ app.get('/api/health', (req, res) => {
             openai: !!API_KEYS.openai,
         },
         decisoesValidadas: decisoesValidadas.length,
+        usage: {
+            totalCost: usage.totals.totalCost.toFixed(4),
+            totalRequests: usage.totals.requestCount,
+            todayCost: usage.today.cost.toFixed(4),
+        },
         timestamp: new Date().toISOString(),
     });
 });

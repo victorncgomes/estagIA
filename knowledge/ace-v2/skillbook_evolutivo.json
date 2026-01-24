@@ -1,0 +1,115 @@
+{
+    "version": "2.0.0",
+    "createdAt": "2026-01-24T00:20:00.000Z",
+    "lastUpdate": "2026-01-24T00:20:00.000Z",
+    "stats": {
+        "testsRun": 0,
+        "averageScore": 0,
+        "bestScore": 0,
+        "taxaAlucinacao": 100,
+        "versao": 1
+    },
+    "temas": {
+        "remicao": {
+            "rag_config": {
+                "max_modelos": 3,
+                "max_juris": 2,
+                "max_tokens": 15000,
+                "ordem_contexto": [
+                    "legislacao",
+                    "modelo",
+                    "jurisprudencia"
+                ]
+            },
+            "hallucination_patterns": [],
+            "anti_hallucination_rules": [
+                "NUNCA citar autor sem verificar na base de conhecimento",
+                "SEMPRE usar formato ABNT para citações",
+                "NÃO inventar números de processo"
+            ],
+            "score": 0,
+            "testes": 0,
+            "versao": 1
+        },
+        "progressao": {
+            "rag_config": {
+                "max_modelos": 3,
+                "max_juris": 2,
+                "max_tokens": 15000,
+                "ordem_contexto": [
+                    "legislacao",
+                    "modelo",
+                    "jurisprudencia"
+                ]
+            },
+            "hallucination_patterns": [],
+            "anti_hallucination_rules": [
+                "SEMPRE verificar fração correta para tipo de crime",
+                "NUNCA confundir primário com reincidente"
+            ],
+            "score": 0,
+            "testes": 0,
+            "versao": 1
+        },
+        "livramento": {
+            "rag_config": {
+                "max_modelos": 2,
+                "max_juris": 2,
+                "max_tokens": 12000,
+                "ordem_contexto": [
+                    "legislacao",
+                    "modelo"
+                ]
+            },
+            "hallucination_patterns": [],
+            "anti_hallucination_rules": [
+                "VERIFICAR pena total mínima de 2 anos",
+                "CALCULAR fração correta para tipo de crime"
+            ],
+            "score": 0,
+            "testes": 0,
+            "versao": 1
+        },
+        "indulto": {
+            "rag_config": {
+                "max_modelos": 3,
+                "max_juris": 1,
+                "max_tokens": 12000,
+                "ordem_contexto": [
+                    "legislacao",
+                    "modelo"
+                ]
+            },
+            "hallucination_patterns": [],
+            "anti_hallucination_rules": [
+                "SEMPRE citar decreto correto do indulto",
+                "VERIFICAR requisitos objetivos e subjetivos"
+            ],
+            "score": 0,
+            "testes": 0,
+            "versao": 1
+        }
+    },
+    "global_rules": [
+        {
+            "id": "GR001",
+            "rule": "Estrutura Art. 489 CPC obrigatória: Vistos, Relatório, Fundamentação, Dispositivo",
+            "confidence": 1.0,
+            "addedAt": "2026-01-24"
+        },
+        {
+            "id": "GR002",
+            "rule": "Citações doutrinárias APENAS da base de conhecimento fornecida",
+            "confidence": 1.0,
+            "addedAt": "2026-01-24"
+        },
+        {
+            "id": "GR003",
+            "rule": "Números de processo devem seguir formato CNJ: NNNNNNN-DD.AAAA.J.TT.OOOO",
+            "confidence": 1.0,
+            "addedAt": "2026-01-24"
+        }
+    ],
+    "learned_patterns": [],
+    "evolution_history": []
+}

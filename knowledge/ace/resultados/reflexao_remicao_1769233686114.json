@@ -1,0 +1,166 @@
+{
+  "dataAnalise": "2026-01-24T06:37:13.840Z",
+  "benchmarkRef": "2026-01-24T05:48:06.113Z",
+  "agrupador": "remicao",
+  "statsOriginal": {
+    "total": 5,
+    "sucesso": 5,
+    "falha": 0,
+    "scoreMedia": 61.8,
+    "scoreMelhor": 66.5,
+    "scorePior": 54.5
+  },
+  "analises": [
+    {
+      "modelo": "Acordao Reforma Enem",
+      "score": 54.5,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        }
+      ],
+      "pontosFracos": [
+        {
+          "categoria": "tamanho",
+          "descricao": "Texto muito longo (195% do golden)",
+          "score": 40
+        }
+      ],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": [
+        {
+          "categoria": "tamanho",
+          "acao": "Reduzir verbosidade, focar no essencial"
+        }
+      ]
+    },
+    {
+      "modelo": "Agravo Enem",
+      "score": 61,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        },
+        {
+          "categoria": "linguagem",
+          "descricao": "Linguagem técnico-jurídica adequada",
+          "score": 10
+        }
+      ],
+      "pontosFracos": [
+        {
+          "categoria": "tamanho",
+          "descricao": "Texto muito longo (144% do golden)",
+          "score": 70
+        }
+      ],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": [
+        {
+          "categoria": "tamanho",
+          "acao": "Reduzir verbosidade, focar no essencial"
+        }
+      ]
+    },
+    {
+      "modelo": "Agravo Enem Encceja Mesmo Fato Gerador",
+      "score": 66.5,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        },
+        {
+          "categoria": "tamanho",
+          "descricao": "Tamanho adequado (90% do golden)",
+          "score": 100
+        }
+      ],
+      "pontosFracos": [],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": []
+    },
+    {
+      "modelo": "Decisão Remição Deferido Trabalho, Indeferido Estudo",
+      "score": 66.5,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        },
+        {
+          "categoria": "tamanho",
+          "descricao": "Tamanho adequado (82% do golden)",
+          "score": 100
+        }
+      ],
+      "pontosFracos": [],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": []
+    },
+    {
+      "modelo": "Despacho Desconto De Remição Já Feita Em Progressão Anterior Retificação Gep",
+      "score": 60.5,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        }
+      ],
+      "pontosFracos": [
+        {
+          "categoria": "tamanho",
+          "descricao": "Texto muito longo (138% do golden)",
+          "score": 70
+        }
+      ],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": [
+        {
+          "categoria": "tamanho",
+          "acao": "Reduzir verbosidade, focar no essencial"
+        }
+      ]
+    }
+  ],
+  "padroesExtraidos": [],
+  "antipadroesAgrupados": [],
+  "recomendacoesGerais": []
+}

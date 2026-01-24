@@ -1,0 +1,29 @@
+{
+  "timestamp": "2026-01-24T05:10:31.064Z",
+  "model": "llama3.1:8b",
+  "result": {
+    "success": true,
+    "response": "**DECISÃO JUDICIAL**\n\nVistos, etc.\n\nRelatório: O presente processo tem por objeto o pedido de remição de pena formulado pelo apenado João da Silva, que requereu a dedução de 60 dias do seu tempo de cumprimento da pena. Conforme relatórios técnicos anexados ao processo, João da Silva teve acesso a biblioteca institucional e lêu 4 obras literárias de relevância cultural, com aprovação dos seus relatórios.\n\nO Ministério Público manifestou-se favoravelmente à solicitação do apenado, considerando que o cumprimento da pena se torna mais eficaz quando associado a atividades culturais e educativas, contribuindo para a ressocialização do condenado.\n\nFundamento: O art. 126 da Lei de Execução Penal (LEP) estabelece que \"o preso tem direito à remição da pena por tempo de leitura de obras literárias ou científicas, desde que aprovadas pelo juiz ou pela autoridade administrativa competente\". Além disso, o mesmo dispositivo legal prevê que \"a remição será concedida mediante requerimento do preso, com anuência do juiz ou da autoridade administrativa competente\".\n\nIsso posto,\n\n**DISPOSITIVO**\n\nDeferir o pedido de remição de pena formulado pelo apenado João da Silva, deduzindo 60 dias do seu tempo de cumprimento da pena, considerando que as condições previstas no art. 126 da LEP foram atendidas.\n\nP.R.I.\n\n**FIM DA DECISÃO**\n\nEspero que este modelo didático tenha ajudado a ilustrar como redigir uma decisão judicial de deferimento de remição por leitura, seguindo a estrutura padrão brasileira.",
+    "duration": 31924,
+    "tokens": {
+      "input": 280,
+      "output": 410
+    }
+  },
+  "validation": {
+    "checks": {
+      "hasVistos": true,
+      "hasRelatados": false,
+      "hasIssoPosto": true,
+      "hasPRI": true,
+      "hasArt126": true,
+      "hasLEP": true,
+      "minLength": true,
+      "maxLength": true
+    },
+    "score": 7,
+    "maxScore": 8,
+    "percentage": 88,
+    "passed": true
+  }
+}

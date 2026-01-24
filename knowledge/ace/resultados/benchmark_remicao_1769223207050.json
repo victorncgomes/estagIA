@@ -1,0 +1,98 @@
+{
+  "dataExecucao": "2026-01-24T02:53:27.048Z",
+  "agrupador": "remicao",
+  "config": {
+    "limit": 2,
+    "useSkillbook": true
+  },
+  "stats": {
+    "total": 2,
+    "sucesso": 2,
+    "falha": 0,
+    "scoreMedia": 60.25,
+    "scoreMelhor": 66.5,
+    "scorePior": 54
+  },
+  "resultados": [
+    {
+      "modelo": "Acordao Reforma Enem",
+      "arquivo": "ACORDAO - REFORMA ENEM.docx",
+      "goldenLength": 797,
+      "geradoLength": 1322,
+      "tempo": 4.014,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 10,
+            "editora_ano": 2,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 40,
+          "ratio": 1.658720200752823
+        },
+        "linguagem": {
+          "score": 0,
+          "detalhes": {
+            "formalidade": 1,
+            "tecnicidade": 1
+          }
+        },
+        "total": 54
+      },
+      "score": 54,
+      "gerado": "Vistos etc.\n\nAgrava o apenado contra a decisão do evento 123.1, que indeferiu o pedido de remição da pena em razão da aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA). Alega o agravante que a aprovação no ENCCEJA demonstra esforço e dedicação, justificando a remição. (evento 129.1).\n\nO Ministério Público apresentou contrarrazões, pugnando pelo não provimento do agravo (evento 133.1).\n\nRelatados.\n\nA irresignação do agravante não merece prosperar. A remição da pena por estudo pressupõe a efetiva demonstração de que o apenado está vinculado a alguma modalidade de ensino e que obteve aproveitamento. A mera aprovação no ENCCEJA, por si só, não garante a remição, especialmente se já houve prévia conclusão do ensino médio. A jurisprudência do Superior Tribunal de Justiça (STJ) tem se manifestado no sentido de que não se pode cumular benefícios pelo mesmo fato gerador. A respeito, LOPES JR., Aury. *Direito Processual Penal*. Saraiva, 2020, p. 789.\n\nIs"
+    },
+    {
+      "modelo": "Agravo Enem",
+      "arquivo": "AGRAVO ENEM.docx",
+      "goldenLength": 2977,
+      "geradoLength": 2378,
+      "tempo": 4.896,
+      "metricas": {
+        "estrutura": {
+          "score": 100,
+          "detalhes": {
+            "vistos": true,
+            "relatorio": true,
+            "fundamentacao": true,
+            "dispositivo": true
+          }
+        },
+        "citacoes": {
+          "score": 20,
+          "detalhes": {
+            "formato_autor": 20,
+            "editora_ano": 4,
+            "pagina": 1
+          }
+        },
+        "tamanho": {
+          "score": 100,
+          "ratio": 0.7987907289217333
+        },
+        "linguagem": {
+          "score": 5,
+          "detalhes": {
+            "formalidade": 0,
+            "tecnicidade": 3
+          }
+        },
+        "total": 66.5
+      },
+      "score": 66.5,
+      "gerado": "Vistos etc.\n\nTrata-se de análise acerca da possibilidade de remição da pena pelo estudo, em virtude da aprovação do apenado em exame do ENCCEJA no ano de 2024, para fins de obtenção do certificado de conclusão do ensino fundamental. A defesa alega que o apenado se dedicou aos estudos de forma assídua e obteve a aprovação no referido exame, o que demonstra seu esforço na busca pela ressocialização (evento 152.1).\n\nO Ministério Público se manifestou favoravelmente ao pedido de remição, considerando o comprovante de aprovação no ENCCEJA e o efetivo estudo realizado pelo apenado (evento 158.1).\n\nRelatados.\n\nA remição da pena por estudo é um importante instrumento de ressocialização, previsto no art. 126 da Lei de Execução Penal (LEP). A norma possibilita a redução da pena privativa de liberdade em razão do estudo ou trabalho, incentivando o apenado a buscar novas oportunidades e a desenvolver habilidades que o auxiliarão em sua reinserção social.\n\nO § 1º do art. 126 da LEP estabelece que a"
+    }
+  ]
+}

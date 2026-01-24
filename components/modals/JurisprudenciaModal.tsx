@@ -11,6 +11,8 @@ import {
     searchJurisprudencia,
     getJurisprudenciaStats,
     getClassesDisponiveis,
+    getRelatoresDisponiveis,
+    getTotalJurisprudencias,
     Jurisprudencia
 } from '../../services/jurisprudencia';
 
@@ -22,13 +24,17 @@ interface JurisprudenciaModalProps {
 export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaModalProps) {
     const [searchTerm, setSearchTerm] = useState('');
     const [selectedClasse, setSelectedClasse] = useState<string>('');
+    const [selectedRelator, setSelectedRelator] = useState<string>('');
     const [results, setResults] = useState<Jurisprudencia[]>([]);
     const [selectedItem, setSelectedItem] = useState<Jurisprudencia | null>(null);
     const [copied, setCopied] = useState(false);
     const [loading, setLoading] = useState(false);
+    const [displayLimit, setDisplayLimit] = useState(50);
 
     const stats = useMemo(() => getJurisprudenciaStats(), []);
     const classes = useMemo(() => getClassesDisponiveis(), []);
+    const relatores = useMemo(() => getRelatoresDisponiveis(), []);
+    const totalDisponivel = useMemo(() => getTotalJurisprudencias(), []);
 
     // Resetar estado quando abre o modal
     useEffect(() => {
@@ -36,10 +42,12 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
             setSelectedItem(null);
             setSearchTerm('');
             setSelectedClasse('');
-            // Carregar resultados iniciais
+            setSelectedRelator('');
+            setDisplayLimit(50);
+            // Carregar resultados iniciais (sem limite fixo)
             setLoading(true);
             setTimeout(() => {
-                setResults(searchJurisprudencia('', 100));
+                setResults(searchJurisprudencia('', 5000));
                 setLoading(false);
             }, 100);
         }
@@ -49,17 +57,20 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
     useEffect(() => {
         if (!isOpen) return;
         setLoading(true);
+        setDisplayLimit(50); // Reset ao mudar filtros
         const timer = setTimeout(() => {
-            const filtered = searchJurisprudencia(searchTerm, 100);
+            let filtered = searchJurisprudencia(searchTerm, 5000);
             if (selectedClasse) {
-                setResults(filtered.filter(j => j.classe === selectedClasse));
-            } else {
-                setResults(filtered);
+                filtered = filtered.filter(j => j.classe === selectedClasse);
             }
+            if (selectedRelator) {
+                filtered = filtered.filter(j => j.relator === selectedRelator);
+            }
+            setResults(filtered);
             setLoading(false);
         }, 200);
         return () => clearTimeout(timer);
-    }, [searchTerm, selectedClasse, isOpen]);
+    }, [searchTerm, selectedClasse, selectedRelator, isOpen]);
 
     // Copiar texto
     const handleCopy = async (text: string) => {
@@ -177,11 +188,21 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
                                 <select
                                     value={selectedClasse}
                                     onChange={(e) => setSelectedClasse(e.target.value)}
-                                    className="px-4 py-2.5 border border-slate-200 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none bg-white text-sm"
+                                    className="px-3 py-2.5 border border-slate-200 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none bg-white text-sm"
                                 >
                                     <option value="">Todas as classes</option>
                                     {classes.map(c => (
                                         <option key={c} value={c}>{c}</option>
+                                    ))}
+                                </select>
+                                <select
+                                    value={selectedRelator}
+                                    onChange={(e) => setSelectedRelator(e.target.value)}
+                                    className="px-3 py-2.5 border border-slate-200 rounded-lg focus:ring-2 focus:ring-amber-500 focus:border-amber-500 outline-none bg-white text-sm max-w-[200px]"
+                                >
+                                    <option value="">Todos os relatores</option>
+                                    {relatores.map(r => (
+                                        <option key={r} value={r}>{r}</option>
                                     ))}
                                 </select>
                             </div>
@@ -208,57 +229,75 @@ export default function JurisprudenciaModal({ isOpen, onClose }: JurisprudenciaM
                                     <p className="text-xs mt-1">Tente outro termo de busca</p>
                                 </div>
                             ) : (
-                                <div className="divide-y divide-slate-100">
-                                    {results.map((item) => (
-                                        <button
-                                            key={item.id}
-                                            onClick={() => setSelectedItem(item)}
-                                            className="w-full text-left px-6 py-4 hover:bg-slate-50 transition-colors group"
-                                        >
-                                            <div className="flex items-start gap-4">
-                                                <div className="flex-1 min-w-0">
-                                                    <div className="flex items-center gap-2 mb-1">
-                                                        <span className="font-mono text-sm font-medium text-slate-800">
-                                                            {item.processo}
-                                                        </span>
-                                                        {item.classe && (
-                                                            <span className="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded">
-                                                                {item.classe}
+                                <>
+                                    <div className="divide-y divide-slate-100">
+                                        {results.slice(0, displayLimit).map((item) => (
+                                            <button
+                                                key={item.id}
+                                                onClick={() => setSelectedItem(item)}
+                                                className="w-full text-left px-6 py-4 hover:bg-slate-50 transition-colors group"
+                                            >
+                                                <div className="flex items-start gap-4">
+                                                    <div className="flex-1 min-w-0">
+                                                        <div className="flex items-center gap-2 mb-1">
+                                                            <span className="font-mono text-sm font-medium text-slate-800">
+                                                                {item.processo}
                                                             </span>
-                                                        )}
+                                                            {item.classe && (
+                                                                <span className="text-xs bg-amber-100 text-amber-700 px-2 py-0.5 rounded">
+                                                                    {item.classe}
+                                                                </span>
+                                                            )}
+                                                        </div>
+                                                        <p className="text-sm text-slate-600 line-clamp-2 mb-2">
+                                                            {item.ementa || item.textoResumo?.substring(0, 200)}...
+                                                        </p>
+                                                        <div className="flex items-center gap-4 text-xs text-slate-400">
+                                                            {item.relator && (
+                                                                <span className="flex items-center gap-1">
+                                                                    <User size={12} />
+                                                                    {item.relator}
+                                                                </span>
+                                                            )}
+                                                            {item.dataJulgamento && (
+                                                                <span className="flex items-center gap-1">
+                                                                    <Calendar size={12} />
+                                                                    {item.dataJulgamento}
+                                                                </span>
+                                                            )}
+                                                            {item.tipo && (
+                                                                <span className="flex items-center gap-1">
+                                                                    <FileText size={12} />
+                                                                    {item.tipo}
+                                                                </span>
+                                                            )}
+                                                        </div>
                                                     </div>
-                                                    <p className="text-sm text-slate-600 line-clamp-2 mb-2">
-                                                        {item.ementa || item.textoResumo.substring(0, 200)}...
-                                                    </p>
-                                                    <div className="flex items-center gap-4 text-xs text-slate-400">
-                                                        {item.relator && (
-                                                            <span className="flex items-center gap-1">
-                                                                <User size={12} />
-                                                                {item.relator}
-                                                            </span>
-                                                        )}
-                                                        {item.data && (
-                                                            <span className="flex items-center gap-1">
-                                                                <Calendar size={12} />
-                                                                {item.data}
-                                                            </span>
-                                                        )}
-                                                        {item.tipo && (
-                                                            <span className="flex items-center gap-1">
-                                                                <FileText size={12} />
-                                                                {item.tipo}
-                                                            </span>
-                                                        )}
-                                                    </div>
+                                                    <ChevronRight
+                                                        size={20}
+                                                        className="text-slate-300 group-hover:text-amber-500 transition-colors mt-1"
+                                                    />
                                                 </div>
-                                                <ChevronRight
-                                                    size={20}
-                                                    className="text-slate-300 group-hover:text-amber-500 transition-colors mt-1"
-                                                />
-                                            </div>
-                                        </button>
-                                    ))}
-                                </div>
+                                            </button>
+                                        ))}
+                                    </div>
+                                    {/* Botão Carregar Mais */}
+                                    {displayLimit < results.length && (
+                                        <div className="p-4 border-t border-slate-200 bg-slate-50">
+                                            <button
+                                                onClick={() => setDisplayLimit(prev => prev + 50)}
+                                                className="w-full py-2.5 bg-amber-600 hover:bg-amber-700 text-white font-medium rounded-lg transition-colors"
+                                            >
+                                                Carregar mais ({Math.min(50, results.length - displayLimit)} de {results.length - displayLimit} restantes)
+                                            </button>
+                                        </div>
+                                    )}
+                                    {displayLimit >= results.length && results.length > 50 && (
+                                        <div className="p-4 border-t border-slate-200 bg-slate-50 text-center text-sm text-slate-500">
+                                            ✓ Todos os {results.length} resultados carregados
+                                        </div>
+                                    )}
+                                </>
                             )}
                         </div>
                     </>

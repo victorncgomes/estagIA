@@ -10,7 +10,7 @@
 import React, { useState, useMemo, useEffect } from 'react';
 import {
     X, Search, FileText, ChevronRight, Copy, Check, ArrowLeft, Eye,
-    BookOpen, Scale, GraduationCap, ScrollText, Database, Loader2, ChevronLeft
+    BookOpen, Scale, GraduationCap, ScrollText, Database, Loader2, ChevronLeft, Hash
 } from 'lucide-react';
 import KindleReader from '../readers/KindleReader';
 import JurisprudenciaViewer from '../readers/JurisprudenciaViewer';
@@ -28,13 +28,14 @@ interface BancoConhecimentoModalProps {
 }
 
 // Tabs disponíveis
-type TabId = 'modelos' | 'legislacao' | 'doutrina' | 'jurisprudencia';
+type TabId = 'modelos' | 'legislacao' | 'doutrina' | 'jurisprudencia' | 'temas';
 
 const TABS: Array<{ id: TabId; label: string; icon: React.ElementType; color: string }> = [
     { id: 'modelos', label: 'Modelos', icon: FileText, color: 'text-primary' },
     { id: 'legislacao', label: 'Legislação', icon: ScrollText, color: 'text-emerald-600' },
     { id: 'doutrina', label: 'Doutrina', icon: GraduationCap, color: 'text-violet-600' },
     { id: 'jurisprudencia', label: 'Jurisprudência', icon: Scale, color: 'text-amber-600' },
+    { id: 'temas', label: 'Por Tema', icon: Hash, color: 'text-rose-600' },
 ];
 
 const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen, onClose }) => {
@@ -634,6 +635,63 @@ const BancoConhecimentoModal: React.FC<BancoConhecimentoModalProps> = ({ isOpen,
                     {activeTab === 'jurisprudencia' && (
                         <div className="h-full">
                             <JurisprudenciaViewer />
+                        </div>
+                    )}
+
+                    {/* Tab: Temas Indexados */}
+                    {activeTab === 'temas' && (
+                        <div className="space-y-6">
+                            <div className="bg-rose-50 border border-rose-200 rounded-xl p-4 mb-6">
+                                <div className="flex items-center gap-3 mb-2">
+                                    <Hash size={24} className="text-rose-600" />
+                                    <div>
+                                        <h3 className="font-semibold text-slate-800">Indexação Temática</h3>
+                                        <p className="text-sm text-slate-600">
+                                            Todos os itens da base foram indexados por tema/agrupador para facilitar a busca contextual.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                                {[
+                                    { tema: 'remicao', label: 'Remição', icon: '⏱️', desc: 'Trabalho, estudo, leitura' },
+                                    { tema: 'progressao', label: 'Progressão', icon: '📈', desc: 'Mudança de regime' },
+                                    { tema: 'livramento', label: 'Livramento', icon: '🔓', desc: 'Condicional' },
+                                    { tema: 'indulto', label: 'Indulto', icon: '🎁', desc: 'Decretos presidenciais' },
+                                    { tema: 'falta_grave', label: 'Falta Grave', icon: '⚠️', desc: 'Disciplinar' },
+                                    { tema: 'unificacao', label: 'Unificação', icon: '🔗', desc: 'Soma de penas' },
+                                    { tema: 'retificacao', label: 'Retificação', icon: '📝', desc: 'GEP, cálculos' },
+                                    { tema: 'saida_temporaria', label: 'Saída Temporária', icon: '🚶', desc: 'Art. 122-125' },
+                                    { tema: 'prisao_domiciliar', label: 'Domiciliar', icon: '🏠', desc: 'Art. 117, 318' },
+                                    { tema: 'detracao', label: 'Detração', icon: '⬇️', desc: 'Art. 42 CP' },
+                                    { tema: 'trabalho_externo', label: 'Trabalho Externo', icon: '👷', desc: 'Art. 36-37' },
+                                    { tema: 'regressao', label: 'Regressão', icon: '📉', desc: 'Regime mais gravoso' },
+                                ].map(({ tema, label, icon, desc }) => (
+                                    <div
+                                        key={tema}
+                                        className="bg-white border border-slate-200 rounded-xl p-4 hover:border-rose-400 hover:shadow-md transition-all cursor-pointer"
+                                    >
+                                        <div className="flex items-start justify-between mb-2">
+                                            <span className="text-2xl">{icon}</span>
+                                            <span className="text-xs bg-rose-100 text-rose-700 px-2 py-0.5 rounded">
+                                                indexado
+                                            </span>
+                                        </div>
+                                        <h4 className="font-semibold text-slate-800">{label}</h4>
+                                        <p className="text-xs text-slate-500 mt-1">{desc}</p>
+                                    </div>
+                                ))}
+                            </div>
+
+                            <div className="bg-slate-100 rounded-lg p-4 text-center">
+                                <p className="text-sm text-slate-600">
+                                    📊 <strong>1.534</strong> itens indexados em <strong>14</strong> temas
+                                </p>
+                                <p className="text-xs text-slate-400 mt-1">
+                                    Indexação realizada em 24/01/2026 via Qwen 7B + palavras-chave
+                                </p>
+                            </div>
                         </div>
                     )}
                 </div>

@@ -1,0 +1,4237 @@
+{
+  "version": "2.0.0",
+  "generatedAt": "2026-01-24T03:24:51.691Z",
+  "temasCount": 8,
+  "temas": {
+    "remicao": {
+      "keywords": [
+        "remição",
+        "remicao",
+        "estudo",
+        "trabalho",
+        "leitura",
+        "art. 126",
+        "art. 127",
+        "remir",
+        "dias remidos"
+      ],
+      "agrupadores": [
+        "remicao"
+      ],
+      "modelos": {
+        "count": 34,
+        "items": [
+          {
+            "idx": 48,
+            "arquivo": "Adequação de regime - preventiva em outro processo - mantem indeferimento.odt",
+            "nome": "Adequação De Regime Preventiva Em Outro Processo Mantem Indeferimento",
+            "tamanho": 867,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 128,
+            "arquivo": "ACORDAO - REFORMA ENEM.docx",
+            "nome": "Acordao Reforma Enem",
+            "tamanho": 797,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 129,
+            "arquivo": "AGRAVO ENEM.docx",
+            "nome": "Agravo Enem",
+            "tamanho": 2977,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 130,
+            "arquivo": "AGRAVO - ENEM ENCCEJA MESMO FATO GERADOR.docx",
+            "nome": "Agravo Enem Encceja Mesmo Fato Gerador",
+            "tamanho": 3180,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 131,
+            "arquivo": "DECISÃO REMIÇÃO DEFERIDO TRABALHO, INDEFERIDO ESTUDO.odt",
+            "nome": "Decisão Remição Deferido Trabalho, Indeferido Estudo",
+            "tamanho": 2068,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 132,
+            "arquivo": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+            "nome": "Despacho Desconto De Remição Já Feita Em Progressão Anterior Retificação Gep",
+            "tamanho": 637,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 133,
+            "arquivo": "embargos remicao (acolhe).odt",
+            "nome": "Embargos Remicao (acolhe)",
+            "tamanho": 4492,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 134,
+            "arquivo": "ENCCEJA PARCIAL.docx",
+            "nome": "Encceja Parcial",
+            "tamanho": 7276,
+            "resultado": "parcial",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 135,
+            "arquivo": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+            "nome": "Estudo Ausencia Acréscimo Intelectual Indefere",
+            "tamanho": 5189,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 136,
+            "arquivo": "ESTUDO DUPLICIDADE INDEFERE.docx",
+            "nome": "Estudo Duplicidade Indefere",
+            "tamanho": 5866,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 137,
+            "arquivo": "ESTUDO EJA - REGULAR.docx",
+            "nome": "Estudo Eja Regular",
+            "tamanho": 2199,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 138,
+            "arquivo": "ESTUDO ENCCEJA COMPLETO.docx",
+            "nome": "Estudo Encceja Completo",
+            "tamanho": 5130,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 139,
+            "arquivo": "ESTUDO ENCCEJA DESCONTANDO DIAS REMIDOS.docx",
+            "nome": "Estudo Encceja Descontando Dias Remidos",
+            "tamanho": 7711,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 140,
+            "arquivo": "ESTUDO ENCCEJA PARCIAL.docx",
+            "nome": "Estudo Encceja Parcial",
+            "tamanho": 5988,
+            "resultado": "parcial",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 141,
+            "arquivo": "ESTUDO ENEM INDEFERE.docx",
+            "nome": "Estudo Enem Indefere",
+            "tamanho": 5367,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 142,
+            "arquivo": "ESTUDO ENEM INDEFERE2.docx",
+            "nome": "Estudo Enem Indefere2",
+            "tamanho": 5688,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 143,
+            "arquivo": "ESTUDO ESTUDOS DIVERSOS INDEFERE.docx",
+            "nome": "Estudo Estudos Diversos Indefere",
+            "tamanho": 15854,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 144,
+            "arquivo": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+            "nome": "Estudo Indefere Ead Sem Previa Integracao Ao Projeto Politico Pedagogico",
+            "tamanho": 3887,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 145,
+            "arquivo": "ESTUDO LIMITADOR DE HORAS.docx",
+            "nome": "Estudo Limitador De Horas",
+            "tamanho": 3672,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 146,
+            "arquivo": "modelo completo remicao.docx",
+            "nome": "Modelo Completo Remicao",
+            "tamanho": 31807,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 147,
+            "arquivo": "remição- deferimento trabalho, indeferimento estudo.odt",
+            "nome": "Remição Deferimento Trabalho, Indeferimento Estudo",
+            "tamanho": 1397,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 148,
+            "arquivo": "Remição ENEM.odt",
+            "nome": "Remição Enem",
+            "tamanho": 11893,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 149,
+            "arquivo": "remição estudo enem e ensino superior.odt",
+            "nome": "Remição Estudo Enem E Ensino Superior",
+            "tamanho": 8074,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 150,
+            "arquivo": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+            "nome": "Remicao Leitura Defere De Acordo Com Mp",
+            "tamanho": 3779,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 151,
+            "arquivo": "REMICAO LEITURA - PRESIDIO NAO LOCALIZOU RELATORIO - INDEFERE.docx",
+            "nome": "Remicao Leitura Presidio Nao Localizou Relatorio Indefere",
+            "tamanho": 3036,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 152,
+            "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+            "nome": "Retificacao De Guia Indulto Fracao E Remicao",
+            "tamanho": 3307,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 153,
+            "arquivo": "TRABALHO.docx",
+            "nome": "Trabalho",
+            "tamanho": 2090,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 154,
+            "arquivo": "TRABALHO E ESTUDO (CURSO PROFISSIONALIZANTE).docx",
+            "nome": "Trabalho E Estudo (curso Profissionalizante)",
+            "tamanho": 4415,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 155,
+            "arquivo": "decisão retificação da gep guia provisória indeferida.odt",
+            "nome": "Decisão Retificação Da Gep Guia Provisória Indeferida",
+            "tamanho": 3808,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 180,
+            "arquivo": "RET GEP - defere novo calculo para data base progressao do aberto.odt",
+            "nome": "Ret Gep Defere Novo Calculo Para Data Base Progressao Do Aberto",
+            "tamanho": 2197,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 201,
+            "arquivo": "RET GEP - pedido generico.docx",
+            "nome": "Ret Gep Pedido Generico",
+            "tamanho": 2088,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 208,
+            "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+            "nome": "Ret Indefere Monalisa Pedido Sem Fundamentacao",
+            "tamanho": 3207,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 216,
+            "arquivo": "RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.odt",
+            "nome": "Retificação Da Gep Indeferimento Pedido Unif. Pena Remanescente",
+            "tamanho": 2467,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 222,
+            "arquivo": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+            "nome": "Retificação De Gep Dias Remidos Defere",
+            "tamanho": 1770,
+            "resultado": "defere",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 5,
+        "artigos": [
+          "LEP_Art126",
+          "LEP_Art127",
+          "LEP_Art128",
+          "LEP_Art129",
+          "LEP_Art130"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "progressao": {
+      "keywords": [
+        "progressão",
+        "progressao",
+        "regime",
+        "semiaberto",
+        "aberto",
+        "fechado",
+        "fração",
+        "art. 112"
+      ],
+      "agrupadores": [
+        "progressao",
+        "vrep"
+      ],
+      "modelos": {
+        "count": 173,
+        "items": [
+          {
+            "idx": 1,
+            "arquivo": "despacho não tem comprovação de dolo do dano do equipamento.odt",
+            "nome": "Despacho Não Tem Comprovação De Dolo Do Dano Do Equipamento",
+            "tamanho": 207,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 5,
+            "arquivo": "EMBARGO DE DECLRARAÇÃO conhece e nega provimento.odt",
+            "nome": "Embargo De Declraração Conhece E Nega Provimento",
+            "tamanho": 1782,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 12,
+            "arquivo": "despacho pad.odt",
+            "nome": "Despacho Pad",
+            "tamanho": 434,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 13,
+            "arquivo": "FALTA GRAVE - PAD.odt",
+            "nome": "Falta Grave Pad",
+            "tamanho": 3191,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 14,
+            "arquivo": "FALTA GRAVE - PAD E NOVO CRIME.odt",
+            "nome": "Falta Grave Pad E Novo Crime",
+            "tamanho": 3710,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 15,
+            "arquivo": "homologação falta grave drogas.odt",
+            "nome": "Homologação Falta Grave Drogas",
+            "tamanho": 2228,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 16,
+            "arquivo": "homologação falta grave fuga.odt",
+            "nome": "Homologação Falta Grave Fuga",
+            "tamanho": 3685,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 17,
+            "arquivo": "JUSTIFICATIVA DE FALTA.odt",
+            "nome": "Justificativa De Falta",
+            "tamanho": 9432,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 18,
+            "arquivo": "MODELOS FALTA MÉDIA.odt",
+            "nome": "Modelos Falta Média",
+            "tamanho": 2346,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 20,
+            "arquivo": "regressão indeferido - aplicação de falta media.odt",
+            "nome": "Regressão Indeferido Aplicação De Falta Media",
+            "tamanho": 1912,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 21,
+            "arquivo": "comutação.odt",
+            "nome": "Comutação",
+            "tamanho": 1830,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 22,
+            "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+            "nome": "Comutação Da Pena E Crime Violento Impedimento",
+            "tamanho": 1387,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 23,
+            "arquivo": "comutação requisito objetivo indeferimento.odt",
+            "nome": "Comutação Requisito Objetivo Indeferimento",
+            "tamanho": 1462,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 32,
+            "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+            "nome": "Indulto E Comutação 2024 Indefere Orcrim Ou Facção",
+            "tamanho": 10398,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 33,
+            "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+            "nome": "Indulto E Comutação Decreto De 2017 Ausencia Requisito Objetivo",
+            "tamanho": 6121,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 34,
+            "arquivo": "indulto indeferimento decreto 8615.odt",
+            "nome": "Indulto Indeferimento Decreto 8615",
+            "tamanho": 1701,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 35,
+            "arquivo": "INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.odt",
+            "nome": "Indulto Indeferimento Multiplos Crimes",
+            "tamanho": 12153,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 38,
+            "arquivo": "REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.odt",
+            "nome": "Revogação Livramento Condicional + Unificação",
+            "tamanho": 1669,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 43,
+            "arquivo": "multa defere parcelamento.docx",
+            "nome": "Multa Defere Parcelamento",
+            "tamanho": 5455,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 46,
+            "arquivo": "ACÓRDÃO - CUMPRIMENTOS.odt",
+            "nome": "Acórdão Cumprimentos",
+            "tamanho": 1388,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 47,
+            "arquivo": "ADAPTAÇÃO DE REGIME PARA O INTERIOR.odt",
+            "nome": "Adaptação De Regime Para O Interior",
+            "tamanho": 2459,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 48,
+            "arquivo": "Adequação de regime - preventiva em outro processo - mantem indeferimento.odt",
+            "nome": "Adequação De Regime Preventiva Em Outro Processo Mantem Indeferimento",
+            "tamanho": 867,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 49,
+            "arquivo": "ADEQUAÇÃO DO CUMPRIMENTO DA PENA NO REGIME SEMIABERTO.docx",
+            "nome": "Adequação Do Cumprimento Da Pena No Regime Semiaberto",
+            "tamanho": 2475,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 51,
+            "arquivo": "autorização de viagem.odt",
+            "nome": "Autorização De Viagem",
+            "tamanho": 4135,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 53,
+            "arquivo": "Certidão de LANÇAMENTO DE DADOS.odt",
+            "nome": "Certidão De Lançamento De Dados",
+            "tamanho": 2119,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 55,
+            "arquivo": "COMUNICAÇÃO ELETRÔNICA.odt",
+            "nome": "Comunicação Eletrônica",
+            "tamanho": 382,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 58,
+            "arquivo": "CORREÇÃO DE FRAÇÃO - DEFERINDO.docx",
+            "nome": "Correção De Fração Deferindo",
+            "tamanho": 28807,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 60,
+            "arquivo": "decisão erro material.odt",
+            "nome": "Decisão Erro Material",
+            "tamanho": 2730,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 61,
+            "arquivo": "declinio de ceara mirim p regional.docx",
+            "nome": "Declinio De Ceara Mirim P Regional",
+            "tamanho": 2641,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 62,
+            "arquivo": "DECLINIO DE COMPETÊNCIA DE MEDIDA DE SEGURANÇA RESTRITIVA.docx",
+            "nome": "Declinio De Competência De Medida De Segurança Restritiva",
+            "tamanho": 941,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 63,
+            "arquivo": "defere pedido de prontuario medico.odt",
+            "nome": "Defere Pedido De Prontuario Medico",
+            "tamanho": 1881,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 66,
+            "arquivo": "diversos.odt",
+            "nome": "Diversos",
+            "tamanho": 4519,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 67,
+            "arquivo": "homologação e manter regimr.odt",
+            "nome": "Homologação E Manter Regimr",
+            "tamanho": 2870,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 68,
+            "arquivo": "INCOMPETENCIA , APENADO EM LIBERDADE.odt",
+            "nome": "Incompetencia , Apenado Em Liberdade",
+            "tamanho": 1173,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 72,
+            "arquivo": "PRECRIÇÃO - punitiva.odt",
+            "nome": "Precrição Punitiva",
+            "tamanho": 8706,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 73,
+            "arquivo": "RECLUSÃO + DETENÇÃO SIMPLES.docx",
+            "nome": "Reclusão + Detenção Simples",
+            "tamanho": 4890,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 74,
+            "arquivo": "RECLUSÃO + RECLUSÃO SIMPLES.docx",
+            "nome": "Reclusão + Reclusão Simples",
+            "tamanho": 1852,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 75,
+            "arquivo": "REFORMA DE DECISÃO ANTERIOR - ERRO MATERIAL.odt",
+            "nome": "Reforma De Decisão Anterior Erro Material",
+            "tamanho": 2508,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 76,
+            "arquivo": "REVOGAÇÃO OU REFORMA DE DECISÕES.odt",
+            "nome": "Revogação Ou Reforma De Decisões",
+            "tamanho": 10310,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 77,
+            "arquivo": "ROSIVANIA DA SILVA.odt",
+            "nome": "Rosivania Da Silva",
+            "tamanho": 1145,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 80,
+            "arquivo": "decisão extinção de punibilidade por prescrição executoria.odt",
+            "nome": "Decisão Extinção De Punibilidade Por Prescrição Executoria",
+            "tamanho": 2221,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 81,
+            "arquivo": "PRESCRIÇÃO - Concurso material- Continuidade delitiva.odt",
+            "nome": "Prescrição Concurso Material Continuidade Delitiva",
+            "tamanho": 7468,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 82,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (1)",
+            "tamanho": 1715,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 83,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (2)",
+            "tamanho": 5859,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 86,
+            "arquivo": "PRESCRIÇÃO - Nunca iniciou - Primário - Maior de 21a.odt",
+            "nome": "Prescrição Nunca Iniciou Primário Maior De 21a",
+            "tamanho": 5575,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 87,
+            "arquivo": "indefrimento doença prisão domiciliar.odt",
+            "nome": "Indefrimento Doença Prisão Domiciliar",
+            "tamanho": 2896,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 88,
+            "arquivo": "prisão domiciliar.odt",
+            "nome": "Prisão Domiciliar",
+            "tamanho": 4344,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 89,
+            "arquivo": "PRISÃO DOMICILIAR - CONCEDENDO.docx",
+            "nome": "Prisão Domiciliar Concedendo",
+            "tamanho": 2321,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 91,
+            "arquivo": "PRISÃO DOMICILIAR  - INDEFERIMENTOS.odt",
+            "nome": "Prisão Domiciliar Indeferimentos",
+            "tamanho": 7484,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 92,
+            "arquivo": "PRISÃO DOMICILIAR - mãe de menores.odt",
+            "nome": "Prisão Domiciliar Mãe De Menores",
+            "tamanho": 3250,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 93,
+            "arquivo": "PRISÃO DOMICILIAR - PRORROGAÇÃO - INDEFERIMENTO.docx",
+            "nome": "Prisão Domiciliar Prorrogação Indeferimento",
+            "tamanho": 2995,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 94,
+            "arquivo": "anotações progressao indeferimento.odt",
+            "nome": "Anotações Progressao Indeferimento",
+            "tamanho": 11812,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 95,
+            "arquivo": "anotacoes progressao regional.docx",
+            "nome": "Anotacoes Progressao Regional",
+            "tamanho": 11463,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 96,
+            "arquivo": "Decisao - PROGRESSAO - reanalise indefere.doc",
+            "nome": "Decisao Progressao Reanalise Indefere",
+            "tamanho": 17003,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 97,
+            "arquivo": "despacho proravel progressão.odt",
+            "nome": "Despacho Proravel Progressão",
+            "tamanho": 289,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 98,
+            "arquivo": "despacho vista ao mp progressão.odt",
+            "nome": "Despacho Vista Ao Mp Progressão",
+            "tamanho": 289,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 99,
+            "arquivo": "PRAZO ADAPTAÇÃO NO REGIME PARA PROGRESSÃO.odt",
+            "nome": "Prazo Adaptação No Regime Para Progressão",
+            "tamanho": 2324,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 100,
+            "arquivo": "progressao com DATA.odt",
+            "nome": "Progressao Com Data",
+            "tamanho": 3735,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 101,
+            "arquivo": "progressao de regime - indefere- acc regular ma.odt",
+            "nome": "Progressao De Regime Indefere Acc Regular Ma",
+            "tamanho": 4127,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 102,
+            "arquivo": "progressao de regime - indefere - ausencia subjetivo.odt",
+            "nome": "Progressao De Regime Indefere Ausencia Subjetivo",
+            "tamanho": 8835,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 103,
+            "arquivo": "progressao de regime indeferimento sem subjetivo.odt",
+            "nome": "Progressao De Regime Indeferimento Sem Subjetivo",
+            "tamanho": 7515,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 104,
+            "arquivo": "PROGRESSAO DE REGIME SEMIABERTO- DEFERE.odt",
+            "nome": "Progressao De Regime Semiaberto Defere",
+            "tamanho": 2741,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 105,
+            "arquivo": "progressao indefere laudo criminologico.odt",
+            "nome": "Progressao Indefere Laudo Criminologico",
+            "tamanho": 5213,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 106,
+            "arquivo": "Progressao - indefere - liderança facção comunicacao e periculosidade.odt",
+            "nome": "Progressao Indefere Liderança Facção Comunicacao E Periculosidade",
+            "tamanho": 7796,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 107,
+            "arquivo": "progressao indefere subjetivo faltas graves.doc",
+            "nome": "Progressao Indefere Subjetivo Faltas Graves",
+            "tamanho": 25789,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 108,
+            "arquivo": "Progressao INDEFERIMENTO periculosidade no crime.odt",
+            "nome": "Progressao Indeferimento Periculosidade No Crime",
+            "tamanho": 33497,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 109,
+            "arquivo": "PROGRESSÃO - reabilitação após sanção disciplinar.odt",
+            "nome": "Progressão Reabilitação Após Sanção Disciplinar",
+            "tamanho": 4355,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 110,
+            "arquivo": "progresso de regime - indefere - prisao preventiva em outro processo.odt",
+            "nome": "Progresso De Regime Indefere Prisao Preventiva Em Outro Processo",
+            "tamanho": 5727,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 111,
+            "arquivo": "revogcao progressao.odt",
+            "nome": "Revogcao Progressao",
+            "tamanho": 1161,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 112,
+            "arquivo": "decisão reconsideração de regressão provisoria novo crime.odt",
+            "nome": "Decisão Reconsideração De Regressão Provisoria Novo Crime",
+            "tamanho": 2477,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 113,
+            "arquivo": "decisão reconsideração regre prov fuga.odt",
+            "nome": "Decisão Reconsideração Regre Prov Fuga",
+            "tamanho": 1967,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 114,
+            "arquivo": "Decisão reconsideração regressão.odt",
+            "nome": "Decisão Reconsideração Regressão",
+            "tamanho": 3795,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 115,
+            "arquivo": "PEDIDO DE RECONSIDERAÇÃO - INDEFERIMENTO.docx",
+            "nome": "Pedido De Reconsideração Indeferimento",
+            "tamanho": 4202,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 116,
+            "arquivo": "PEDIDOS DE RECONSIDERAÇÃO - INDEFERIMENTOS.docx",
+            "nome": "Pedidos De Reconsideração Indeferimentos",
+            "tamanho": 2803,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 117,
+            "arquivo": "prisão domiciliar reconsideração.odt",
+            "nome": "Prisão Domiciliar Reconsideração",
+            "tamanho": 2278,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 118,
+            "arquivo": "RECONSIDERAÇÃO - Pecúlio - NEY PEREIRA.odt",
+            "nome": "Reconsideração Pecúlio Ney Pereira",
+            "tamanho": 1800,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 119,
+            "arquivo": "RECONSIDERAÇÃO - regressão provisória.odt",
+            "nome": "Reconsideração Regressão Provisória",
+            "tamanho": 2115,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 120,
+            "arquivo": "RECONSIDERAÇÃO - unificação de penas (petição louca).odt",
+            "nome": "Reconsideração Unificação De Penas (petição Louca)",
+            "tamanho": 2647,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 121,
+            "arquivo": "decisão regressão nao cumpriu  a punição.odt",
+            "nome": "Decisão Regressão Nao Cumpriu A Punição",
+            "tamanho": 3062,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 122,
+            "arquivo": "REGRESSÃO CABULOSA.odt",
+            "nome": "Regressão Cabulosa",
+            "tamanho": 1264,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 123,
+            "arquivo": "REGRESSAO cancelamento.odt",
+            "nome": "Regressao Cancelamento",
+            "tamanho": 1543,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 124,
+            "arquivo": "REGRESSAO DEFINITIVA  rompimento e novo crime.odt",
+            "nome": "Regressao Definitiva Rompimento E Novo Crime",
+            "tamanho": 12753,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 125,
+            "arquivo": "regressão por novo crime.odt",
+            "nome": "Regressão Por Novo Crime",
+            "tamanho": 2389,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 126,
+            "arquivo": "regressão regime fechado.odt",
+            "nome": "Regressão Regime Fechado",
+            "tamanho": 3183,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 127,
+            "arquivo": "REVOGAÇÃO DE REGRESSÃO DECRETADA ANTES DO INÍCIO DO CUMPRIMENTO.odt",
+            "nome": "Revogação De Regressão Decretada Antes Do Início Do Cumprimento",
+            "tamanho": 2420,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 129,
+            "arquivo": "AGRAVO ENEM.docx",
+            "nome": "Agravo Enem",
+            "tamanho": 2977,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 132,
+            "arquivo": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+            "nome": "Despacho Desconto De Remição Já Feita Em Progressão Anterior Retificação Gep",
+            "tamanho": 637,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 135,
+            "arquivo": "ESTUDO AUSENCIA ACRÉSCIMO INTELECTUAL INDEFERE.docx",
+            "nome": "Estudo Ausencia Acréscimo Intelectual Indefere",
+            "tamanho": 5189,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 136,
+            "arquivo": "ESTUDO DUPLICIDADE INDEFERE.docx",
+            "nome": "Estudo Duplicidade Indefere",
+            "tamanho": 5866,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 141,
+            "arquivo": "ESTUDO ENEM INDEFERE.docx",
+            "nome": "Estudo Enem Indefere",
+            "tamanho": 5367,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 142,
+            "arquivo": "ESTUDO ENEM INDEFERE2.docx",
+            "nome": "Estudo Enem Indefere2",
+            "tamanho": 5688,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 144,
+            "arquivo": "ESTUDO - INDEFERE - EAD SEM PREVIA INTEGRACAO AO PROJETO POLITICO PEDAGOGICO.docx",
+            "nome": "Estudo Indefere Ead Sem Previa Integracao Ao Projeto Politico Pedagogico",
+            "tamanho": 3887,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 148,
+            "arquivo": "Remição ENEM.odt",
+            "nome": "Remição Enem",
+            "tamanho": 11893,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 149,
+            "arquivo": "remição estudo enem e ensino superior.odt",
+            "nome": "Remição Estudo Enem E Ensino Superior",
+            "tamanho": 8074,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 150,
+            "arquivo": "REMICAO LEITURA DEFERE DE ACORDO COM MP.docx",
+            "nome": "Remicao Leitura Defere De Acordo Com Mp",
+            "tamanho": 3779,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 152,
+            "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+            "nome": "Retificacao De Guia Indulto Fracao E Remicao",
+            "tamanho": 3307,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 155,
+            "arquivo": "decisão retificação da gep guia provisória indeferida.odt",
+            "nome": "Decisão Retificação Da Gep Guia Provisória Indeferida",
+            "tamanho": 3808,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 156,
+            "arquivo": "decisao retificao data base nao usar preventiva ou progressao qd preso o apenado.odt",
+            "nome": "Decisao Retificao Data Base Nao Usar Preventiva Ou Progressao Qd Preso O Apenado",
+            "tamanho": 7632,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 158,
+            "arquivo": "embargos e retificação.odt",
+            "nome": "Embargos E Retificação",
+            "tamanho": 7950,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 159,
+            "arquivo": "RET - data base 1 prisao.docx",
+            "nome": "Ret Data Base 1 Prisao",
+            "tamanho": 1822,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 163,
+            "arquivo": "RET GEP -  APLICA ISOLADEMENTE a lei mais benefica 2023.odt",
+            "nome": "Ret Gep Aplica Isolademente A Lei Mais Benefica 2023",
+            "tamanho": 55796,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 164,
+            "arquivo": "RET GEP - aplica lei mais benefica intefralmente23.odt",
+            "nome": "Ret Gep Aplica Lei Mais Benefica Intefralmente23",
+            "tamanho": 26600,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 165,
+            "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+            "nome": "Ret Gep Aplica O Pacote Anticrime Integralmente Em Razao De Novo Crime",
+            "tamanho": 17058,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 166,
+            "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+            "nome": "Ret Gep Aplica O Pacote Anticrime Integralmente Em Razao De Novo Crime",
+            "tamanho": 17058,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 168,
+            "arquivo": "Ret GEP- corrige erro material art 16 armas nao hediondo.odt",
+            "nome": "Ret Gep Corrige Erro Material Art 16 Armas Nao Hediondo",
+            "tamanho": 4016,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 170,
+            "arquivo": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+            "nome": "Ret Gep Corrige Erro Na Analise Da Progressao De Regimenovo",
+            "tamanho": 23708,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 171,
+            "arquivo": "RET GEP - corrige erro no marco temporal hediondo art 76 cp.odt",
+            "nome": "Ret Gep Corrige Erro No Marco Temporal Hediondo Art 76 Cp",
+            "tamanho": 1240,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 172,
+            "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+            "nome": "Ret Gep Corrige Fraçoes Distintas Analise Progressao",
+            "tamanho": 37885,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 173,
+            "arquivo": "RET GEP - crime hediondo resultado morte 50 porcento.odt",
+            "nome": "Ret Gep Crime Hediondo Resultado Morte 50 Porcento",
+            "tamanho": 3598,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 174,
+            "arquivo": "RET GEP - crime praticado antes da lei de crimes hediondos nao reincidente.odt",
+            "nome": "Ret Gep Crime Praticado Antes Da Lei De Crimes Hediondos Nao Reincidente",
+            "tamanho": 3459,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 175,
+            "arquivo": "RET GEP data base pos alvara prisao provisoria.odt",
+            "nome": "Ret Gep Data Base Pos Alvara Prisao Provisoria",
+            "tamanho": 16292,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 176,
+            "arquivo": "RET GEP defere 40_ converte pena e unifica.odt",
+            "nome": "Ret Gep Defere 40 Converte Pena E Unifica",
+            "tamanho": 5980,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 177,
+            "arquivo": "RET GEP - defere data base ultima prisao.odt",
+            "nome": "Ret Gep Defere Data Base Ultima Prisao",
+            "tamanho": 2325,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 178,
+            "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+            "nome": "Ret Gep Defere Detracao Por Outro Crime Posterior",
+            "tamanho": 2026,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 179,
+            "arquivo": "RET GEP - defere fração 1_8 mulher.odt",
+            "nome": "Ret Gep Defere Fração 1 8 Mulher",
+            "tamanho": 1535,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 180,
+            "arquivo": "RET GEP - defere novo calculo para data base progressao do aberto.odt",
+            "nome": "Ret Gep Defere Novo Calculo Para Data Base Progressao Do Aberto",
+            "tamanho": 2197,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 184,
+            "arquivo": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+            "nome": "Ret Gep Fracao 3 5 Para Todos Os Crimes Hediondos Reincidente Especifico",
+            "tamanho": 3771,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 185,
+            "arquivo": "RET GEP indefe pedido ausencia de interesse processual.odt",
+            "nome": "Ret Gep Indefe Pedido Ausencia De Interesse Processual",
+            "tamanho": 1412,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 186,
+            "arquivo": "RET GEP- indefere 40_ por ser globalmente pior pro apenado.odt",
+            "nome": "Ret Gep Indefere 40 Por Ser Globalmente Pior Pro Apenado",
+            "tamanho": 16202,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 189,
+            "arquivo": "RET GEP  indefere pedido de 2_5 para resultado morte.odt",
+            "nome": "Ret Gep Indefere Pedido De 2 5 Para Resultado Morte",
+            "tamanho": 9220,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 191,
+            "arquivo": "RET GEP - Indefere pedido de roubo nao ser hediondo.odt",
+            "nome": "Ret Gep Indefere Pedido De Roubo Nao Ser Hediondo",
+            "tamanho": 2933,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 192,
+            "arquivo": "ret gep - indefere regressao para o semiaberto.odt",
+            "nome": "Ret Gep Indefere Regressao Para O Semiaberto",
+            "tamanho": 1705,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 194,
+            "arquivo": "RET GEP - MANTEM 3_5 reincidente especifico.odt",
+            "nome": "Ret Gep Mantem 3 5 Reincidente Especifico",
+            "tamanho": 1375,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 195,
+            "arquivo": "RET GEP - mantem artigo 35 11343_06 2_3.odt",
+            "nome": "Ret Gep Mantem Artigo 35 11343 06 2 3",
+            "tamanho": 1334,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 199,
+            "arquivo": "ret gep MP pede 2_5 crime anterior a lei.odt",
+            "nome": "Ret Gep Mp Pede 2 5 Crime Anterior A Lei",
+            "tamanho": 1062,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 201,
+            "arquivo": "RET GEP - pedido generico.docx",
+            "nome": "Ret Gep Pedido Generico",
+            "tamanho": 2088,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 203,
+            "arquivo": "RET GEP preclusao da materia percentual nao conhece.odt",
+            "nome": "Ret Gep Preclusao Da Materia Percentual Nao Conhece",
+            "tamanho": 7799,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 204,
+            "arquivo": "RET GEP reforma UNIFICACAO com erro.odt",
+            "nome": "Ret Gep Reforma Unificacao Com Erro",
+            "tamanho": 2994,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 205,
+            "arquivo": "RET GEP - RENCIDENCIA condição penal mesmo sentença primario .odt",
+            "nome": "Ret Gep Rencidencia Condição Penal Mesmo Sentença Primario",
+            "tamanho": 3931,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 206,
+            "arquivo": "RET GEP retifica gep lei mais benefica.odt",
+            "nome": "Ret Gep Retifica Gep Lei Mais Benefica",
+            "tamanho": 37874,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 207,
+            "arquivo": "ret gep - retificacao de erro material.odt",
+            "nome": "Ret Gep Retificacao De Erro Material",
+            "tamanho": 26335,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 208,
+            "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+            "nome": "Ret Indefere Monalisa Pedido Sem Fundamentacao",
+            "tamanho": 3207,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 209,
+            "arquivo": "RET - Modificacao regime prisional revisao criminal indefere.odt",
+            "nome": "Ret Modificacao Regime Prisional Revisao Criminal Indefere",
+            "tamanho": 4108,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 210,
+            "arquivo": "RET - pedido retificacao generico - indefere.docx",
+            "nome": "Ret Pedido Retificacao Generico Indefere",
+            "tamanho": 1328,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 211,
+            "arquivo": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+            "nome": "Ret Reconhecimento De Detracao De Monitoramento Cautelar Indefere",
+            "tamanho": 4462,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 212,
+            "arquivo": "RET REGIME INDEFERE.odt",
+            "nome": "Ret Regime Indefere",
+            "tamanho": 4708,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 213,
+            "arquivo": "retificação da GEP 1 - 8 mãe.odt",
+            "nome": "Retificação Da Gep 1 8 Mãe",
+            "tamanho": 2103,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 214,
+            "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+            "nome": "Retificação Da Gep Indefere Defesa Se Equivoca Na Formula Da Progressao",
+            "tamanho": 5653,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 215,
+            "arquivo": "RETIFICAÇÃO DA GEP - indefere - estupro - hediondo.odt",
+            "nome": "Retificação Da Gep Indefere Estupro Hediondo",
+            "tamanho": 3506,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 217,
+            "arquivo": "RETIFICAÇÃO DA GEP - novo entendimento data-base.odt",
+            "nome": "Retificação Da Gep Novo Entendimento Data Base",
+            "tamanho": 3725,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 218,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Alcance Do Req. Obj Indefere",
+            "tamanho": 8629,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 219,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.odt",
+            "nome": "Retificação De Gep Data Base Defere",
+            "tamanho": 2280,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 220,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE E DETRAÇÃO - DEFERE.odt",
+            "nome": "Retificação De Gep Data Base E Detração Defere",
+            "tamanho": 1046,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 222,
+            "arquivo": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+            "nome": "Retificação De Gep Dias Remidos Defere",
+            "tamanho": 1770,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 223,
+            "arquivo": "RETIFICAÇÃO DE GEP - FRAÇÃO MULHER - DEFERE - PROGRESSÃO.odt",
+            "nome": "Retificação De Gep Fração Mulher Defere Progressão",
+            "tamanho": 5702,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 225,
+            "arquivo": "retificação de guia 2-5 3-5.odt",
+            "nome": "Retificação De Guia 2 5 3 5",
+            "tamanho": 5758,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 226,
+            "arquivo": "retificação de guia - data base progressão e redução da pena.odt",
+            "nome": "Retificação De Guia Data Base Progressão E Redução Da Pena",
+            "tamanho": 1731,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 227,
+            "arquivo": "Retificação de Guia - Frações das Penas.odt",
+            "nome": "Retificação De Guia Frações Das Penas",
+            "tamanho": 2250,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 228,
+            "arquivo": "retificação de guia - indefere cumprida a pena em prisão domiciliar.odt",
+            "nome": "Retificação De Guia Indefere Cumprida A Pena Em Prisão Domiciliar",
+            "tamanho": 990,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 230,
+            "arquivo": "AUTORIZA TRANSFERENCIA OUTRO ESTADO.odt",
+            "nome": "Autoriza Transferencia Outro Estado",
+            "tamanho": 1970,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 231,
+            "arquivo": "decisão transferencia cpjc.odt",
+            "nome": "Decisão Transferencia Cpjc",
+            "tamanho": 536,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 232,
+            "arquivo": "decisão transferencia regime fechado.odt",
+            "nome": "Decisão Transferencia Regime Fechado",
+            "tamanho": 817,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 233,
+            "arquivo": "despacho transferencia apenado semiaberto.odt",
+            "nome": "Despacho Transferencia Apenado Semiaberto",
+            "tamanho": 165,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 234,
+            "arquivo": "despacho transferencia regime fechado.odt",
+            "nome": "Despacho Transferencia Regime Fechado",
+            "tamanho": 77,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 235,
+            "arquivo": "transferencia regime aberto.odt",
+            "nome": "Transferencia Regime Aberto",
+            "tamanho": 584,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 236,
+            "arquivo": "TRANSFERÊNCIAS - DESPACHOS.docx",
+            "nome": "Transferências Despachos",
+            "tamanho": 908,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 238,
+            "arquivo": "ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.odt",
+            "nome": "Erro Material Em Unificação Correção",
+            "tamanho": 1388,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 240,
+            "arquivo": "MODELOS DE UNIFICAÇÃO.odt",
+            "nome": "Modelos De Unificação",
+            "tamanho": 11609,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 241,
+            "arquivo": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+            "nome": "Prescrição Fuga Unificação 6 Processos",
+            "tamanho": 10443,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 242,
+            "arquivo": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+            "nome": "Prescrição Unificação Continuidade Delitiva",
+            "tamanho": 8732,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 243,
+            "arquivo": "PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.odt",
+            "nome": "Prescrição Unificação Prescrição De Um Processo Continuação Do Outro",
+            "tamanho": 16053,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 244,
+            "arquivo": "REFORMA DE UNIFICAÇÕES.docx",
+            "nome": "Reforma De Unificações",
+            "tamanho": 4301,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 245,
+            "arquivo": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.docx",
+            "nome": "Revogação De Unificação Em Razão De Acórdão",
+            "tamanho": 3568,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 246,
+            "arquivo": "unificação.odt",
+            "nome": "Unificação",
+            "tamanho": 1355,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 247,
+            "arquivo": "UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.odt",
+            "nome": "Unificação – Reclusão + Detenção + Restritiva De Direitos",
+            "tamanho": 5251,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 248,
+            "arquivo": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.docx",
+            "nome": "Unificada ^m Reclusao ^m Reclusao",
+            "tamanho": 2257,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 249,
+            "arquivo": "UNIFICADA + RECLUSÃO + DETENÇÃO.docx",
+            "nome": "Unificada + Reclusão + Detenção",
+            "tamanho": 4706,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 250,
+            "arquivo": "UNIFICADA +  RECLUSAO + RECLUSAO.docx",
+            "nome": "Unificada + Reclusao + Reclusao",
+            "tamanho": 2257,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 251,
+            "arquivo": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.docx",
+            "nome": "Unificada Reclusão + Reclusão +resttritiva De Direitos",
+            "tamanho": 2895,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 252,
+            "arquivo": "Continuidade Delitiva- indefere criminoso habitual.odt",
+            "nome": "Continuidade Delitiva Indefere Criminoso Habitual",
+            "tamanho": 4613,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 253,
+            "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento.docx",
+            "nome": "Corregedoria Compartilhamento De Provas Ceme Deferimento",
+            "tamanho": 4340,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 254,
+            "arquivo": "CORREGEDORIA - compartilhamento de provas ceme - deferimento2.docx",
+            "nome": "Corregedoria Compartilhamento De Provas Ceme Deferimento2",
+            "tamanho": 4631,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 255,
+            "arquivo": "erro material.odt",
+            "nome": "Erro Material",
+            "tamanho": 8741,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 2,
+        "artigos": [
+          "LEP_Art112",
+          "CP_Art33"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "livramento": {
+      "keywords": [
+        "livramento",
+        "condicional",
+        "art. 83",
+        "soltura",
+        "liberdade condicional"
+      ],
+      "agrupadores": [
+        "livramento"
+      ],
+      "modelos": {
+        "count": 11,
+        "items": [
+          {
+            "idx": 38,
+            "arquivo": "REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.odt",
+            "nome": "Revogação Livramento Condicional + Unificação",
+            "tamanho": 1669,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 69,
+            "arquivo": "juisprudencia nova LC.odt",
+            "nome": "Juisprudencia Nova Lc",
+            "tamanho": 3872,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 94,
+            "arquivo": "anotações progressao indeferimento.odt",
+            "nome": "Anotações Progressao Indeferimento",
+            "tamanho": 11812,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 120,
+            "arquivo": "RECONSIDERAÇÃO - unificação de penas (petição louca).odt",
+            "nome": "Reconsideração Unificação De Penas (petição Louca)",
+            "tamanho": 2647,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 170,
+            "arquivo": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+            "nome": "Ret Gep Corrige Erro Na Analise Da Progressao De Regimenovo",
+            "tamanho": 23708,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 175,
+            "arquivo": "RET GEP data base pos alvara prisao provisoria.odt",
+            "nome": "Ret Gep Data Base Pos Alvara Prisao Provisoria",
+            "tamanho": 16292,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 195,
+            "arquivo": "RET GEP - mantem artigo 35 11343_06 2_3.odt",
+            "nome": "Ret Gep Mantem Artigo 35 11343 06 2 3",
+            "tamanho": 1334,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 201,
+            "arquivo": "RET GEP - pedido generico.docx",
+            "nome": "Ret Gep Pedido Generico",
+            "tamanho": 2088,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 209,
+            "arquivo": "RET - Modificacao regime prisional revisao criminal indefere.odt",
+            "nome": "Ret Modificacao Regime Prisional Revisao Criminal Indefere",
+            "tamanho": 4108,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 210,
+            "arquivo": "RET - pedido retificacao generico - indefere.docx",
+            "nome": "Ret Pedido Retificacao Generico Indefere",
+            "tamanho": 1328,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 221,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Livramento Condicional Indefere",
+            "tamanho": 1018,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 8,
+        "artigos": [
+          "CP_Art83",
+          "CP_Art84",
+          "CP_Art85",
+          "CP_Art86",
+          "CP_Art87",
+          "CP_Art88",
+          "CP_Art89",
+          "CP_Art90"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "indulto": {
+      "keywords": [
+        "indulto",
+        "comutação",
+        "comutacao",
+        "decreto",
+        "graça",
+        "natalino"
+      ],
+      "agrupadores": [
+        "indulto"
+      ],
+      "modelos": {
+        "count": 18,
+        "items": [
+          {
+            "idx": 21,
+            "arquivo": "comutação.odt",
+            "nome": "Comutação",
+            "tamanho": 1830,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 22,
+            "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+            "nome": "Comutação Da Pena E Crime Violento Impedimento",
+            "tamanho": 1387,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 23,
+            "arquivo": "comutação requisito objetivo indeferimento.odt",
+            "nome": "Comutação Requisito Objetivo Indeferimento",
+            "tamanho": 1462,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 24,
+            "arquivo": "Indefere indulto 2013 e 2014 severino dorgival.odt",
+            "nome": "Indefere Indulto 2013 E 2014 Severino Dorgival",
+            "tamanho": 2235,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 25,
+            "arquivo": "INDULTO 1989 - INDEFERE.docx",
+            "nome": "Indulto 1989 Indefere",
+            "tamanho": 4745,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 26,
+            "arquivo": "INDULTO 2022 - CONCEDENDO.docx",
+            "nome": "Indulto 2022 Concedendo",
+            "tamanho": 3658,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 27,
+            "arquivo": "INDULTO 2022 - INDEFERIMENTOS POR NÃO ATENDER AO DECRETO.docx",
+            "nome": "Indulto 2022 Indeferimentos Por Não Atender Ao Decreto",
+            "tamanho": 10962,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 28,
+            "arquivo": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+            "nome": "Indulto 2023 Deferimento De Uma Das Penas.",
+            "tamanho": 3684,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 29,
+            "arquivo": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+            "nome": "Indulto 2024 Crime Patrimonial Deferindo",
+            "tamanho": 6248,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 30,
+            "arquivo": "INDULTO 2024 - NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES.docx",
+            "nome": "Indulto 2024 Não Se Enquadra Em Nenhuma Das Hipóteses",
+            "tamanho": 12082,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 31,
+            "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+            "nome": "Indulto Despacho Erro Inexistente",
+            "tamanho": 714,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 32,
+            "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+            "nome": "Indulto E Comutação 2024 Indefere Orcrim Ou Facção",
+            "tamanho": 10398,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 33,
+            "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+            "nome": "Indulto E Comutação Decreto De 2017 Ausencia Requisito Objetivo",
+            "tamanho": 6121,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 34,
+            "arquivo": "indulto indeferimento decreto 8615.odt",
+            "nome": "Indulto Indeferimento Decreto 8615",
+            "tamanho": 1701,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 35,
+            "arquivo": "INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.odt",
+            "nome": "Indulto Indeferimento Multiplos Crimes",
+            "tamanho": 12153,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 36,
+            "arquivo": "INDULTO MULTA - INDEFERIMENTO PARECER DO MP.docx",
+            "nome": "Indulto Multa Indeferimento Parecer Do Mp",
+            "tamanho": 4920,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 37,
+            "arquivo": "INDULTO PENA DE MULTA 2023 - INDEFERIMENTO.docx",
+            "nome": "Indulto Pena De Multa 2023 Indeferimento",
+            "tamanho": 13615,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 152,
+            "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+            "nome": "Retificacao De Guia Indulto Fracao E Remicao",
+            "tamanho": 3307,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 1,
+        "artigos": [
+          "CF_Art84_XII"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "retificacao": {
+      "keywords": [
+        "retificação",
+        "retificacao",
+        "erro material",
+        "correção",
+        "GEP",
+        "guia"
+      ],
+      "agrupadores": [
+        "retificacao"
+      ],
+      "modelos": {
+        "count": 95,
+        "items": [
+          {
+            "idx": 8,
+            "arquivo": "despacho determinando extinção do processo e abrindo novo PEC.odt",
+            "nome": "Despacho Determinando Extinção Do Processo E Abrindo Novo Pec",
+            "tamanho": 329,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 19,
+            "arquivo": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+            "nome": "Pedido Para Desclassicar Do Art. 16 Para O Art. 14 Arma Com Num Raspada Indefere",
+            "tamanho": 3422,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 31,
+            "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+            "nome": "Indulto Despacho Erro Inexistente",
+            "tamanho": 714,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 46,
+            "arquivo": "ACÓRDÃO - CUMPRIMENTOS.odt",
+            "nome": "Acórdão Cumprimentos",
+            "tamanho": 1388,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 53,
+            "arquivo": "Certidão de LANÇAMENTO DE DADOS.odt",
+            "nome": "Certidão De Lançamento De Dados",
+            "tamanho": 2119,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 58,
+            "arquivo": "CORREÇÃO DE FRAÇÃO - DEFERINDO.docx",
+            "nome": "Correção De Fração Deferindo",
+            "tamanho": 28807,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 60,
+            "arquivo": "decisão erro material.odt",
+            "nome": "Decisão Erro Material",
+            "tamanho": 2730,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 68,
+            "arquivo": "INCOMPETENCIA , APENADO EM LIBERDADE.odt",
+            "nome": "Incompetencia , Apenado Em Liberdade",
+            "tamanho": 1173,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 75,
+            "arquivo": "REFORMA DE DECISÃO ANTERIOR - ERRO MATERIAL.odt",
+            "nome": "Reforma De Decisão Anterior Erro Material",
+            "tamanho": 2508,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 97,
+            "arquivo": "despacho proravel progressão.odt",
+            "nome": "Despacho Proravel Progressão",
+            "tamanho": 289,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 98,
+            "arquivo": "despacho vista ao mp progressão.odt",
+            "nome": "Despacho Vista Ao Mp Progressão",
+            "tamanho": 289,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 132,
+            "arquivo": "despacho desconto de remição já feita em progressão anterior retificação gep.odt",
+            "nome": "Despacho Desconto De Remição Já Feita Em Progressão Anterior Retificação Gep",
+            "tamanho": 637,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 152,
+            "arquivo": "retificacao de guia - indulto fracao e remicao.docx",
+            "nome": "Retificacao De Guia Indulto Fracao E Remicao",
+            "tamanho": 3307,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 155,
+            "arquivo": "decisão retificação da gep guia provisória indeferida.odt",
+            "nome": "Decisão Retificação Da Gep Guia Provisória Indeferida",
+            "tamanho": 3808,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 156,
+            "arquivo": "decisao retificao data base nao usar preventiva ou progressao qd preso o apenado.odt",
+            "nome": "Decisao Retificao Data Base Nao Usar Preventiva Ou Progressao Qd Preso O Apenado",
+            "tamanho": 7632,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 157,
+            "arquivo": "Embargo declaracao inobservancia do acordao de ret guia.odt",
+            "nome": "Embargo Declaracao Inobservancia Do Acordao De Ret Guia",
+            "tamanho": 753,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 158,
+            "arquivo": "embargos e retificação.odt",
+            "nome": "Embargos E Retificação",
+            "tamanho": 7950,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 159,
+            "arquivo": "RET - data base 1 prisao.docx",
+            "nome": "Ret Data Base 1 Prisao",
+            "tamanho": 1822,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 160,
+            "arquivo": "RET - data base ultima prisao - defere.docx",
+            "nome": "Ret Data Base Ultima Prisao Defere",
+            "tamanho": 3608,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 161,
+            "arquivo": "RET - Feminicidio privilegiado - indefere.docx",
+            "nome": "Ret Feminicidio Privilegiado Indefere",
+            "tamanho": 11088,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 162,
+            "arquivo": "RET GEP - acordao aplica lei mais favoravel.odt",
+            "nome": "Ret Gep Acordao Aplica Lei Mais Favoravel",
+            "tamanho": 2940,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 163,
+            "arquivo": "RET GEP -  APLICA ISOLADEMENTE a lei mais benefica 2023.odt",
+            "nome": "Ret Gep Aplica Isolademente A Lei Mais Benefica 2023",
+            "tamanho": 55796,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 164,
+            "arquivo": "RET GEP - aplica lei mais benefica intefralmente23.odt",
+            "nome": "Ret Gep Aplica Lei Mais Benefica Intefralmente23",
+            "tamanho": 26600,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 165,
+            "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+            "nome": "Ret Gep Aplica O Pacote Anticrime Integralmente Em Razao De Novo Crime",
+            "tamanho": 17058,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 166,
+            "arquivo": "RET GEP- aplica o pacote anticrime integralmente em razao de novo crime.odt",
+            "nome": "Ret Gep Aplica O Pacote Anticrime Integralmente Em Razao De Novo Crime",
+            "tamanho": 17058,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 167,
+            "arquivo": "RET GEP - computo em dobro Curado - indefere.odt",
+            "nome": "Ret Gep Computo Em Dobro Curado Indefere",
+            "tamanho": 1934,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 168,
+            "arquivo": "Ret GEP- corrige erro material art 16 armas nao hediondo.odt",
+            "nome": "Ret Gep Corrige Erro Material Art 16 Armas Nao Hediondo",
+            "tamanho": 4016,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 169,
+            "arquivo": "RET GEP - corrige erro material separacao delitos da pena.odt",
+            "nome": "Ret Gep Corrige Erro Material Separacao Delitos Da Pena",
+            "tamanho": 3649,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 170,
+            "arquivo": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+            "nome": "Ret Gep Corrige Erro Na Analise Da Progressao De Regimenovo",
+            "tamanho": 23708,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 171,
+            "arquivo": "RET GEP - corrige erro no marco temporal hediondo art 76 cp.odt",
+            "nome": "Ret Gep Corrige Erro No Marco Temporal Hediondo Art 76 Cp",
+            "tamanho": 1240,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 172,
+            "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+            "nome": "Ret Gep Corrige Fraçoes Distintas Analise Progressao",
+            "tamanho": 37885,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 173,
+            "arquivo": "RET GEP - crime hediondo resultado morte 50 porcento.odt",
+            "nome": "Ret Gep Crime Hediondo Resultado Morte 50 Porcento",
+            "tamanho": 3598,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 174,
+            "arquivo": "RET GEP - crime praticado antes da lei de crimes hediondos nao reincidente.odt",
+            "nome": "Ret Gep Crime Praticado Antes Da Lei De Crimes Hediondos Nao Reincidente",
+            "tamanho": 3459,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 175,
+            "arquivo": "RET GEP data base pos alvara prisao provisoria.odt",
+            "nome": "Ret Gep Data Base Pos Alvara Prisao Provisoria",
+            "tamanho": 16292,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 176,
+            "arquivo": "RET GEP defere 40_ converte pena e unifica.odt",
+            "nome": "Ret Gep Defere 40 Converte Pena E Unifica",
+            "tamanho": 5980,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 177,
+            "arquivo": "RET GEP - defere data base ultima prisao.odt",
+            "nome": "Ret Gep Defere Data Base Ultima Prisao",
+            "tamanho": 2325,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 178,
+            "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+            "nome": "Ret Gep Defere Detracao Por Outro Crime Posterior",
+            "tamanho": 2026,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 179,
+            "arquivo": "RET GEP - defere fração 1_8 mulher.odt",
+            "nome": "Ret Gep Defere Fração 1 8 Mulher",
+            "tamanho": 1535,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 180,
+            "arquivo": "RET GEP - defere novo calculo para data base progressao do aberto.odt",
+            "nome": "Ret Gep Defere Novo Calculo Para Data Base Progressao Do Aberto",
+            "tamanho": 2197,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 181,
+            "arquivo": "Ret Gep - Deferir cumprimento de acordao.odt",
+            "nome": "Ret Gep Deferir Cumprimento De Acordao",
+            "tamanho": 2131,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 182,
+            "arquivo": "RET GEP - desclassificacao 28 lei 11343 improcedente.docx",
+            "nome": "Ret Gep Desclassificacao 28 Lei 11343 Improcedente",
+            "tamanho": 6748,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 183,
+            "arquivo": "RET GEP despacho monitoramento medida cautelar.odt",
+            "nome": "Ret Gep Despacho Monitoramento Medida Cautelar",
+            "tamanho": 917,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 184,
+            "arquivo": "RET GEP - fracao 3 5 para todos os crimes hediondos reincidente especifico.docx",
+            "nome": "Ret Gep Fracao 3 5 Para Todos Os Crimes Hediondos Reincidente Especifico",
+            "tamanho": 3771,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 185,
+            "arquivo": "RET GEP indefe pedido ausencia de interesse processual.odt",
+            "nome": "Ret Gep Indefe Pedido Ausencia De Interesse Processual",
+            "tamanho": 1412,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 186,
+            "arquivo": "RET GEP- indefere 40_ por ser globalmente pior pro apenado.odt",
+            "nome": "Ret Gep Indefere 40 Por Ser Globalmente Pior Pro Apenado",
+            "tamanho": 16202,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 187,
+            "arquivo": "RET GEP - indefere detracao quando a data da prisao eh a data-base.odt",
+            "nome": "Ret Gep Indefere Detracao Quando A Data Da Prisao Eh A Data Base",
+            "tamanho": 6698,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 188,
+            "arquivo": "RET GEP - indefere extinção limitação trintenaria.odt",
+            "nome": "Ret Gep Indefere Extinção Limitação Trintenaria",
+            "tamanho": 2924,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 189,
+            "arquivo": "RET GEP  indefere pedido de 2_5 para resultado morte.odt",
+            "nome": "Ret Gep Indefere Pedido De 2 5 Para Resultado Morte",
+            "tamanho": 9220,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 190,
+            "arquivo": "RET GEP - INDEFERE PEDIDO DE FRACOES DIVERSAS.odt",
+            "nome": "Ret Gep Indefere Pedido De Fracoes Diversas",
+            "tamanho": 10016,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 191,
+            "arquivo": "RET GEP - Indefere pedido de roubo nao ser hediondo.odt",
+            "nome": "Ret Gep Indefere Pedido De Roubo Nao Ser Hediondo",
+            "tamanho": 2933,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 192,
+            "arquivo": "ret gep - indefere regressao para o semiaberto.odt",
+            "nome": "Ret Gep Indefere Regressao Para O Semiaberto",
+            "tamanho": 1705,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 193,
+            "arquivo": "RET GEP indefere trafico de drogas como crime comum.odt",
+            "nome": "Ret Gep Indefere Trafico De Drogas Como Crime Comum",
+            "tamanho": 5679,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 194,
+            "arquivo": "RET GEP - MANTEM 3_5 reincidente especifico.odt",
+            "nome": "Ret Gep Mantem 3 5 Reincidente Especifico",
+            "tamanho": 1375,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 195,
+            "arquivo": "RET GEP - mantem artigo 35 11343_06 2_3.odt",
+            "nome": "Ret Gep Mantem Artigo 35 11343 06 2 3",
+            "tamanho": 1334,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 196,
+            "arquivo": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+            "nome": "Ret Gep Mantem Organização Crimino E Art 16 Como Crimes Hediondos",
+            "tamanho": 3288,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 197,
+            "arquivo": "RET GEP mantem organização crimino e art 16 como crimes hediondos.odt",
+            "nome": "Ret Gep Mantem Organização Crimino E Art 16 Como Crimes Hediondos",
+            "tamanho": 1936,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 198,
+            "arquivo": "RET GEP - monitoramento cautelar como detracao indefere.docx",
+            "nome": "Ret Gep Monitoramento Cautelar Como Detracao Indefere",
+            "tamanho": 5919,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 199,
+            "arquivo": "ret gep MP pede 2_5 crime anterior a lei.odt",
+            "nome": "Ret Gep Mp Pede 2 5 Crime Anterior A Lei",
+            "tamanho": 1062,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 200,
+            "arquivo": "RET GEP - pedido de detracao - indefere ja feita na gep.odt",
+            "nome": "Ret Gep Pedido De Detracao Indefere Ja Feita Na Gep",
+            "tamanho": 6668,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 201,
+            "arquivo": "RET GEP - pedido generico.docx",
+            "nome": "Ret Gep Pedido Generico",
+            "tamanho": 2088,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 202,
+            "arquivo": "RET GEP - pedido generico2.docx",
+            "nome": "Ret Gep Pedido Generico2",
+            "tamanho": 3164,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 203,
+            "arquivo": "RET GEP preclusao da materia percentual nao conhece.odt",
+            "nome": "Ret Gep Preclusao Da Materia Percentual Nao Conhece",
+            "tamanho": 7799,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 204,
+            "arquivo": "RET GEP reforma UNIFICACAO com erro.odt",
+            "nome": "Ret Gep Reforma Unificacao Com Erro",
+            "tamanho": 2994,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 205,
+            "arquivo": "RET GEP - RENCIDENCIA condição penal mesmo sentença primario .odt",
+            "nome": "Ret Gep Rencidencia Condição Penal Mesmo Sentença Primario",
+            "tamanho": 3931,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 206,
+            "arquivo": "RET GEP retifica gep lei mais benefica.odt",
+            "nome": "Ret Gep Retifica Gep Lei Mais Benefica",
+            "tamanho": 37874,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 207,
+            "arquivo": "ret gep - retificacao de erro material.odt",
+            "nome": "Ret Gep Retificacao De Erro Material",
+            "tamanho": 26335,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 208,
+            "arquivo": "RET - indefere monalisa pedido sem fundamentacao.docx",
+            "nome": "Ret Indefere Monalisa Pedido Sem Fundamentacao",
+            "tamanho": 3207,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 209,
+            "arquivo": "RET - Modificacao regime prisional revisao criminal indefere.odt",
+            "nome": "Ret Modificacao Regime Prisional Revisao Criminal Indefere",
+            "tamanho": 4108,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 210,
+            "arquivo": "RET - pedido retificacao generico - indefere.docx",
+            "nome": "Ret Pedido Retificacao Generico Indefere",
+            "tamanho": 1328,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 211,
+            "arquivo": "RET - reconhecimento de detracao de monitoramento cautelar - indefere.docx",
+            "nome": "Ret Reconhecimento De Detracao De Monitoramento Cautelar Indefere",
+            "tamanho": 4462,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 212,
+            "arquivo": "RET REGIME INDEFERE.odt",
+            "nome": "Ret Regime Indefere",
+            "tamanho": 4708,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 213,
+            "arquivo": "retificação da GEP 1 - 8 mãe.odt",
+            "nome": "Retificação Da Gep 1 8 Mãe",
+            "tamanho": 2103,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 214,
+            "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+            "nome": "Retificação Da Gep Indefere Defesa Se Equivoca Na Formula Da Progressao",
+            "tamanho": 5653,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 215,
+            "arquivo": "RETIFICAÇÃO DA GEP - indefere - estupro - hediondo.odt",
+            "nome": "Retificação Da Gep Indefere Estupro Hediondo",
+            "tamanho": 3506,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 216,
+            "arquivo": "RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.odt",
+            "nome": "Retificação Da Gep Indeferimento Pedido Unif. Pena Remanescente",
+            "tamanho": 2467,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 217,
+            "arquivo": "RETIFICAÇÃO DA GEP - novo entendimento data-base.odt",
+            "nome": "Retificação Da Gep Novo Entendimento Data Base",
+            "tamanho": 3725,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 218,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Alcance Do Req. Obj Indefere",
+            "tamanho": 8629,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 219,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.odt",
+            "nome": "Retificação De Gep Data Base Defere",
+            "tamanho": 2280,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 220,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE E DETRAÇÃO - DEFERE.odt",
+            "nome": "Retificação De Gep Data Base E Detração Defere",
+            "tamanho": 1046,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 221,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Livramento Condicional Indefere",
+            "tamanho": 1018,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 222,
+            "arquivo": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+            "nome": "Retificação De Gep Dias Remidos Defere",
+            "tamanho": 1770,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 223,
+            "arquivo": "RETIFICAÇÃO DE GEP - FRAÇÃO MULHER - DEFERE - PROGRESSÃO.odt",
+            "nome": "Retificação De Gep Fração Mulher Defere Progressão",
+            "tamanho": 5702,
+            "resultado": "defere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 224,
+            "arquivo": "Retificação de GEP - indefere detração - data base primeira prisão.odt",
+            "nome": "Retificação De Gep Indefere Detração Data Base Primeira Prisão",
+            "tamanho": 3214,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 225,
+            "arquivo": "retificação de guia 2-5 3-5.odt",
+            "nome": "Retificação De Guia 2 5 3 5",
+            "tamanho": 5758,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 226,
+            "arquivo": "retificação de guia - data base progressão e redução da pena.odt",
+            "nome": "Retificação De Guia Data Base Progressão E Redução Da Pena",
+            "tamanho": 1731,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 227,
+            "arquivo": "Retificação de Guia - Frações das Penas.odt",
+            "nome": "Retificação De Guia Frações Das Penas",
+            "tamanho": 2250,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 228,
+            "arquivo": "retificação de guia - indefere cumprida a pena em prisão domiciliar.odt",
+            "nome": "Retificação De Guia Indefere Cumprida A Pena Em Prisão Domiciliar",
+            "tamanho": 990,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 229,
+            "arquivo": "RETIFICADA DA GEP 1 - data-base.odt",
+            "nome": "Retificada Da Gep 1 Data Base",
+            "tamanho": 2668,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 237,
+            "arquivo": "anulação decisão unificação.odt",
+            "nome": "Anulação Decisão Unificação",
+            "tamanho": 1954,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 238,
+            "arquivo": "ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.odt",
+            "nome": "Erro Material Em Unificação Correção",
+            "tamanho": 1388,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 239,
+            "arquivo": "HUGO SIMEONE pedido extinção de pena unificada.odt",
+            "nome": "Hugo Simeone Pedido Extinção De Pena Unificada",
+            "tamanho": 3522,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 244,
+            "arquivo": "REFORMA DE UNIFICAÇÕES.docx",
+            "nome": "Reforma De Unificações",
+            "tamanho": 4301,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 246,
+            "arquivo": "unificação.odt",
+            "nome": "Unificação",
+            "tamanho": 1355,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 247,
+            "arquivo": "UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.odt",
+            "nome": "Unificação – Reclusão + Detenção + Restritiva De Direitos",
+            "tamanho": 5251,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 255,
+            "arquivo": "erro material.odt",
+            "nome": "Erro Material",
+            "tamanho": 8741,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 0,
+        "artigos": []
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "unificacao": {
+      "keywords": [
+        "unificação",
+        "unificacao",
+        "penas",
+        "soma",
+        "art. 111",
+        "art. 75"
+      ],
+      "agrupadores": [
+        "unificacao"
+      ],
+      "modelos": {
+        "count": 51,
+        "items": [
+          {
+            "idx": 2,
+            "arquivo": "despacho oficiar.odt",
+            "nome": "Despacho Oficiar",
+            "tamanho": 273,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 7,
+            "arquivo": "Decisão - revoga extincao calcula limite trintenario.odt",
+            "nome": "Decisão Revoga Extincao Calcula Limite Trintenario",
+            "tamanho": 2618,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 12,
+            "arquivo": "despacho pad.odt",
+            "nome": "Despacho Pad",
+            "tamanho": 434,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 18,
+            "arquivo": "MODELOS FALTA MÉDIA.odt",
+            "nome": "Modelos Falta Média",
+            "tamanho": 2346,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 19,
+            "arquivo": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+            "nome": "Pedido Para Desclassicar Do Art. 16 Para O Art. 14 Arma Com Num Raspada Indefere",
+            "tamanho": 3422,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 22,
+            "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+            "nome": "Comutação Da Pena E Crime Violento Impedimento",
+            "tamanho": 1387,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 25,
+            "arquivo": "INDULTO 1989 - INDEFERE.docx",
+            "nome": "Indulto 1989 Indefere",
+            "tamanho": 4745,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 26,
+            "arquivo": "INDULTO 2022 - CONCEDENDO.docx",
+            "nome": "Indulto 2022 Concedendo",
+            "tamanho": 3658,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 28,
+            "arquivo": "INDULTO 2023 - DEFERIMENTO DE UMA DAS PENAS..docx",
+            "nome": "Indulto 2023 Deferimento De Uma Das Penas.",
+            "tamanho": 3684,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 29,
+            "arquivo": "INDULTO 2024 - CRIME PATRIMONIAL - DEFERINDO.docx",
+            "nome": "Indulto 2024 Crime Patrimonial Deferindo",
+            "tamanho": 6248,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 31,
+            "arquivo": "INDULTO - DESPACHO - ERRO INEXISTENTE.docx",
+            "nome": "Indulto Despacho Erro Inexistente",
+            "tamanho": 714,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 32,
+            "arquivo": "INDULTO E COMUTAÇÃO 2024 - INDEFERE ORCRIM OU FACÇÃO.docx",
+            "nome": "Indulto E Comutação 2024 Indefere Orcrim Ou Facção",
+            "tamanho": 10398,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 33,
+            "arquivo": "INDULTO E COMUTAÇÃO - DECRETO DE 2017 - AUSENCIA REQUISITO OBJETIVO.docx",
+            "nome": "Indulto E Comutação Decreto De 2017 Ausencia Requisito Objetivo",
+            "tamanho": 6121,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 35,
+            "arquivo": "INDULTO - INDEFERIMENTO - MULTIPLOS CRIMES.odt",
+            "nome": "Indulto Indeferimento Multiplos Crimes",
+            "tamanho": 12153,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 38,
+            "arquivo": "REVOGAÇÃO LIVRAMENTO CONDICIONAL + UNIFICAÇÃO.odt",
+            "nome": "Revogação Livramento Condicional + Unificação",
+            "tamanho": 1669,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 41,
+            "arquivo": "MULTA AUTORIZA PARCELA 10 PORCENTO SAL MIN.docx",
+            "nome": "Multa Autoriza Parcela 10 Porcento Sal Min",
+            "tamanho": 3172,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 42,
+            "arquivo": "MULTA DEFERE MAXIMO PARCELAMENTO POSSIVEL.docx",
+            "nome": "Multa Defere Maximo Parcelamento Possivel",
+            "tamanho": 3096,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 43,
+            "arquivo": "multa defere parcelamento.docx",
+            "nome": "Multa Defere Parcelamento",
+            "tamanho": 5455,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 68,
+            "arquivo": "INCOMPETENCIA , APENADO EM LIBERDADE.odt",
+            "nome": "Incompetencia , Apenado Em Liberdade",
+            "tamanho": 1173,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 78,
+            "arquivo": "TEXTOS PARA DECISÕES.docx",
+            "nome": "Textos Para Decisões",
+            "tamanho": 2006,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 99,
+            "arquivo": "PRAZO ADAPTAÇÃO NO REGIME PARA PROGRESSÃO.odt",
+            "nome": "Prazo Adaptação No Regime Para Progressão",
+            "tamanho": 2324,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 111,
+            "arquivo": "revogcao progressao.odt",
+            "nome": "Revogcao Progressao",
+            "tamanho": 1161,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 120,
+            "arquivo": "RECONSIDERAÇÃO - unificação de penas (petição louca).odt",
+            "nome": "Reconsideração Unificação De Penas (petição Louca)",
+            "tamanho": 2647,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 147,
+            "arquivo": "remição- deferimento trabalho, indeferimento estudo.odt",
+            "nome": "Remição Deferimento Trabalho, Indeferimento Estudo",
+            "tamanho": 1397,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 155,
+            "arquivo": "decisão retificação da gep guia provisória indeferida.odt",
+            "nome": "Decisão Retificação Da Gep Guia Provisória Indeferida",
+            "tamanho": 3808,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 158,
+            "arquivo": "embargos e retificação.odt",
+            "nome": "Embargos E Retificação",
+            "tamanho": 7950,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 170,
+            "arquivo": "RET GEP - corrige erro na analise da progressao de regimeNOVO.odt",
+            "nome": "Ret Gep Corrige Erro Na Analise Da Progressao De Regimenovo",
+            "tamanho": 23708,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 172,
+            "arquivo": "RET GEP - corrige fraçoes distintas analise progressao.docx",
+            "nome": "Ret Gep Corrige Fraçoes Distintas Analise Progressao",
+            "tamanho": 37885,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 177,
+            "arquivo": "RET GEP - defere data base ultima prisao.odt",
+            "nome": "Ret Gep Defere Data Base Ultima Prisao",
+            "tamanho": 2325,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 185,
+            "arquivo": "RET GEP indefe pedido ausencia de interesse processual.odt",
+            "nome": "Ret Gep Indefe Pedido Ausencia De Interesse Processual",
+            "tamanho": 1412,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 204,
+            "arquivo": "RET GEP reforma UNIFICACAO com erro.odt",
+            "nome": "Ret Gep Reforma Unificacao Com Erro",
+            "tamanho": 2994,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 214,
+            "arquivo": "Retificação da GEP - indefere - defesa se equivoca na formula da progressao.docx",
+            "nome": "Retificação Da Gep Indefere Defesa Se Equivoca Na Formula Da Progressao",
+            "tamanho": 5653,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 216,
+            "arquivo": "RETIFICAÇÃO DA GEP - Indeferimento pedido unif. pena remanescente.odt",
+            "nome": "Retificação Da Gep Indeferimento Pedido Unif. Pena Remanescente",
+            "tamanho": 2467,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 221,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - LIVRAMENTO CONDICIONAL - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Livramento Condicional Indefere",
+            "tamanho": 1018,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 222,
+            "arquivo": "RETIFICAÇÃO DE GEP - DIAS REMIDOS- DEFERE.odt",
+            "nome": "Retificação De Gep Dias Remidos Defere",
+            "tamanho": 1770,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 227,
+            "arquivo": "Retificação de Guia - Frações das Penas.odt",
+            "nome": "Retificação De Guia Frações Das Penas",
+            "tamanho": 2250,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 237,
+            "arquivo": "anulação decisão unificação.odt",
+            "nome": "Anulação Decisão Unificação",
+            "tamanho": 1954,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 238,
+            "arquivo": "ERRO MATERIAL EM UNIFICAÇÃO - CORREÇÃO.odt",
+            "nome": "Erro Material Em Unificação Correção",
+            "tamanho": 1388,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 239,
+            "arquivo": "HUGO SIMEONE pedido extinção de pena unificada.odt",
+            "nome": "Hugo Simeone Pedido Extinção De Pena Unificada",
+            "tamanho": 3522,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 240,
+            "arquivo": "MODELOS DE UNIFICAÇÃO.odt",
+            "nome": "Modelos De Unificação",
+            "tamanho": 11609,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 241,
+            "arquivo": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+            "nome": "Prescrição Fuga Unificação 6 Processos",
+            "tamanho": 10443,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 242,
+            "arquivo": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+            "nome": "Prescrição Unificação Continuidade Delitiva",
+            "tamanho": 8732,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 243,
+            "arquivo": "PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.odt",
+            "nome": "Prescrição Unificação Prescrição De Um Processo Continuação Do Outro",
+            "tamanho": 16053,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 244,
+            "arquivo": "REFORMA DE UNIFICAÇÕES.docx",
+            "nome": "Reforma De Unificações",
+            "tamanho": 4301,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 245,
+            "arquivo": "REVOGAÇÃO DE UNIFICAÇÃO EM RAZÃO DE ACÓRDÃO.docx",
+            "nome": "Revogação De Unificação Em Razão De Acórdão",
+            "tamanho": 3568,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 246,
+            "arquivo": "unificação.odt",
+            "nome": "Unificação",
+            "tamanho": 1355,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 247,
+            "arquivo": "UNIFICAÇÃO – RECLUSÃO + DETENÇÃO + RESTRITIVA DE DIREITOS.odt",
+            "nome": "Unificação – Reclusão + Detenção + Restritiva De Direitos",
+            "tamanho": 5251,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 248,
+            "arquivo": "UNIFICADA ^M RECLUSAO ^M RECLUSAO.docx",
+            "nome": "Unificada ^m Reclusao ^m Reclusao",
+            "tamanho": 2257,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 249,
+            "arquivo": "UNIFICADA + RECLUSÃO + DETENÇÃO.docx",
+            "nome": "Unificada + Reclusão + Detenção",
+            "tamanho": 4706,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 250,
+            "arquivo": "UNIFICADA +  RECLUSAO + RECLUSAO.docx",
+            "nome": "Unificada + Reclusao + Reclusao",
+            "tamanho": 2257,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 251,
+            "arquivo": "UNIFICADA RECLUSÃO + RECLUSÃO +RESTTRITIVA DE DIREITOS.docx",
+            "nome": "Unificada Reclusão + Reclusão +resttritiva De Direitos",
+            "tamanho": 2895,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 2,
+        "artigos": [
+          "LEP_Art111",
+          "CP_Art75"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "falta_grave": {
+      "keywords": [
+        "falta",
+        "grave",
+        "disciplinar",
+        "sindicância",
+        "celular",
+        "fuga",
+        "art. 50"
+      ],
+      "agrupadores": [
+        "falta"
+      ],
+      "modelos": {
+        "count": 34,
+        "items": [
+          {
+            "idx": 9,
+            "arquivo": "extinção punitiva.odt",
+            "nome": "Extinção Punitiva",
+            "tamanho": 2612,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 10,
+            "arquivo": "Decisão - Falta Grave sancao coletiva nao homologa.odt",
+            "nome": "Decisão Falta Grave Sancao Coletiva Nao Homologa",
+            "tamanho": 1905,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 11,
+            "arquivo": "deixo de homologar falta grave celular.odt",
+            "nome": "Deixo De Homologar Falta Grave Celular",
+            "tamanho": 2653,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 12,
+            "arquivo": "despacho pad.odt",
+            "nome": "Despacho Pad",
+            "tamanho": 434,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 13,
+            "arquivo": "FALTA GRAVE - PAD.odt",
+            "nome": "Falta Grave Pad",
+            "tamanho": 3191,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 14,
+            "arquivo": "FALTA GRAVE - PAD E NOVO CRIME.odt",
+            "nome": "Falta Grave Pad E Novo Crime",
+            "tamanho": 3710,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 15,
+            "arquivo": "homologação falta grave drogas.odt",
+            "nome": "Homologação Falta Grave Drogas",
+            "tamanho": 2228,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 16,
+            "arquivo": "homologação falta grave fuga.odt",
+            "nome": "Homologação Falta Grave Fuga",
+            "tamanho": 3685,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 17,
+            "arquivo": "JUSTIFICATIVA DE FALTA.odt",
+            "nome": "Justificativa De Falta",
+            "tamanho": 9432,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 18,
+            "arquivo": "MODELOS FALTA MÉDIA.odt",
+            "nome": "Modelos Falta Média",
+            "tamanho": 2346,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 19,
+            "arquivo": "Pedido para desclassicar do art. 16 para o art. 14 - arma com num raspada - indefere.docx",
+            "nome": "Pedido Para Desclassicar Do Art. 16 Para O Art. 14 Arma Com Num Raspada Indefere",
+            "tamanho": 3422,
+            "resultado": "indefere",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 20,
+            "arquivo": "regressão indeferido - aplicação de falta media.odt",
+            "nome": "Regressão Indeferido Aplicação De Falta Media",
+            "tamanho": 1912,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 22,
+            "arquivo": "COMUTAÇÃO DA PENA E CRIME VIOLENTO - IMPEDIMENTO.docx",
+            "nome": "Comutação Da Pena E Crime Violento Impedimento",
+            "tamanho": 1387,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 39,
+            "arquivo": "despacho monitoramento.odt",
+            "nome": "Despacho Monitoramento",
+            "tamanho": 596,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 53,
+            "arquivo": "Certidão de LANÇAMENTO DE DADOS.odt",
+            "nome": "Certidão De Lançamento De Dados",
+            "tamanho": 2119,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 55,
+            "arquivo": "COMUNICAÇÃO ELETRÔNICA.odt",
+            "nome": "Comunicação Eletrônica",
+            "tamanho": 382,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 66,
+            "arquivo": "diversos.odt",
+            "nome": "Diversos",
+            "tamanho": 4519,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 69,
+            "arquivo": "juisprudencia nova LC.odt",
+            "nome": "Juisprudencia Nova Lc",
+            "tamanho": 3872,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 77,
+            "arquivo": "ROSIVANIA DA SILVA.odt",
+            "nome": "Rosivania Da Silva",
+            "tamanho": 1145,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 82,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (1)",
+            "tamanho": 1715,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 83,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (2)",
+            "tamanho": 5859,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 84,
+            "arquivo": "PRESCRIÇÃO - Fuga - Menor de 21a - Primário.odt",
+            "nome": "Prescrição Fuga Menor De 21a Primário",
+            "tamanho": 7024,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 90,
+            "arquivo": "PRISÃO DOMICILIAR - DOENÇA GRAVE - PRORROGAÇÃO.docx",
+            "nome": "Prisão Domiciliar Doença Grave Prorrogação",
+            "tamanho": 1780,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 94,
+            "arquivo": "anotações progressao indeferimento.odt",
+            "nome": "Anotações Progressao Indeferimento",
+            "tamanho": 11812,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 107,
+            "arquivo": "progressao indefere subjetivo faltas graves.doc",
+            "nome": "Progressao Indefere Subjetivo Faltas Graves",
+            "tamanho": 25789,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 109,
+            "arquivo": "PROGRESSÃO - reabilitação após sanção disciplinar.odt",
+            "nome": "Progressão Reabilitação Após Sanção Disciplinar",
+            "tamanho": 4355,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 113,
+            "arquivo": "decisão reconsideração regre prov fuga.odt",
+            "nome": "Decisão Reconsideração Regre Prov Fuga",
+            "tamanho": 1967,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 123,
+            "arquivo": "REGRESSAO cancelamento.odt",
+            "nome": "Regressao Cancelamento",
+            "tamanho": 1543,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 159,
+            "arquivo": "RET - data base 1 prisao.docx",
+            "nome": "Ret Data Base 1 Prisao",
+            "tamanho": 1822,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 192,
+            "arquivo": "ret gep - indefere regressao para o semiaberto.odt",
+            "nome": "Ret Gep Indefere Regressao Para O Semiaberto",
+            "tamanho": 1705,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 218,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - ALCANCE DO REQ. OBJ - INDEFERE.odt",
+            "nome": "Retificação De Gep Data Base Alcance Do Req. Obj Indefere",
+            "tamanho": 8629,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 219,
+            "arquivo": "RETIFICAÇÃO DE GEP - DATA-BASE - DEFERE.odt",
+            "nome": "Retificação De Gep Data Base Defere",
+            "tamanho": 2280,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 241,
+            "arquivo": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+            "nome": "Prescrição Fuga Unificação 6 Processos",
+            "tamanho": 10443,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 242,
+            "arquivo": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+            "nome": "Prescrição Unificação Continuidade Delitiva",
+            "tamanho": 8732,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 2,
+        "artigos": [
+          "LEP_Art50",
+          "LEP_Art52"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    },
+    "prescricao": {
+      "keywords": [
+        "prescrição",
+        "prescricao",
+        "extinção",
+        "extincao",
+        "punibilidade",
+        "art. 109",
+        "art. 110"
+      ],
+      "agrupadores": [
+        "prescricao",
+        "extincao"
+      ],
+      "modelos": {
+        "count": 17,
+        "items": [
+          {
+            "idx": 7,
+            "arquivo": "Decisão - revoga extincao calcula limite trintenario.odt",
+            "nome": "Decisão Revoga Extincao Calcula Limite Trintenario",
+            "tamanho": 2618,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 8,
+            "arquivo": "despacho determinando extinção do processo e abrindo novo PEC.odt",
+            "nome": "Despacho Determinando Extinção Do Processo E Abrindo Novo Pec",
+            "tamanho": 329,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 9,
+            "arquivo": "extinção punitiva.odt",
+            "nome": "Extinção Punitiva",
+            "tamanho": 2612,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 79,
+            "arquivo": "ANULAÇÃO decisão prescrição.odt",
+            "nome": "Anulação Decisão Prescrição",
+            "tamanho": 2589,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 80,
+            "arquivo": "decisão extinção de punibilidade por prescrição executoria.odt",
+            "nome": "Decisão Extinção De Punibilidade Por Prescrição Executoria",
+            "tamanho": 2221,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 81,
+            "arquivo": "PRESCRIÇÃO - Concurso material- Continuidade delitiva.odt",
+            "nome": "Prescrição Concurso Material Continuidade Delitiva",
+            "tamanho": 7468,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 82,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (1).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (1)",
+            "tamanho": 1715,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 83,
+            "arquivo": "PRESCRIÇÃO - Fuga - Maior de 21a - Primário (2).odt",
+            "nome": "Prescrição Fuga Maior De 21a Primário (2)",
+            "tamanho": 5859,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 84,
+            "arquivo": "PRESCRIÇÃO - Fuga - Menor de 21a - Primário.odt",
+            "nome": "Prescrição Fuga Menor De 21a Primário",
+            "tamanho": 7024,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 85,
+            "arquivo": "PRESCRIÇÃO - Nunca iniciou - Medida de Segurança.odt",
+            "nome": "Prescrição Nunca Iniciou Medida De Segurança",
+            "tamanho": 4269,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 86,
+            "arquivo": "PRESCRIÇÃO - Nunca iniciou - Primário - Maior de 21a.odt",
+            "nome": "Prescrição Nunca Iniciou Primário Maior De 21a",
+            "tamanho": 5575,
+            "resultado": "indefinido",
+            "matchType": "agrupador"
+          },
+          {
+            "idx": 178,
+            "arquivo": "ret gep - defere detracao por outro crime posterior.docx",
+            "nome": "Ret Gep Defere Detracao Por Outro Crime Posterior",
+            "tamanho": 2026,
+            "resultado": "defere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 188,
+            "arquivo": "RET GEP - indefere extinção limitação trintenaria.odt",
+            "nome": "Ret Gep Indefere Extinção Limitação Trintenaria",
+            "tamanho": 2924,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 239,
+            "arquivo": "HUGO SIMEONE pedido extinção de pena unificada.odt",
+            "nome": "Hugo Simeone Pedido Extinção De Pena Unificada",
+            "tamanho": 3522,
+            "resultado": "indefere",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 241,
+            "arquivo": "PRESCRIÇÃO - Fuga - Unificação - 6 processos.odt",
+            "nome": "Prescrição Fuga Unificação 6 Processos",
+            "tamanho": 10443,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 242,
+            "arquivo": "PRESCRIÇÃO - Unificação - Continuidade delitiva.odt",
+            "nome": "Prescrição Unificação Continuidade Delitiva",
+            "tamanho": 8732,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          },
+          {
+            "idx": 243,
+            "arquivo": "PRESCRIÇÃO - Unificação - Prescrição de um processo - Continuação do outro.odt",
+            "nome": "Prescrição Unificação Prescrição De Um Processo Continuação Do Outro",
+            "tamanho": 16053,
+            "resultado": "indefinido",
+            "matchType": "keyword"
+          }
+        ]
+      },
+      "jurisprudencia": {
+        "count": 0,
+        "items": []
+      },
+      "legislacao": {
+        "count": 11,
+        "artigos": [
+          "CP_Art109",
+          "CP_Art110",
+          "CP_Art111",
+          "CP_Art112",
+          "CP_Art113",
+          "CP_Art114",
+          "CP_Art115",
+          "CP_Art116",
+          "CP_Art117",
+          "CP_Art118",
+          "CP_Art119"
+        ]
+      },
+      "doutrina": {
+        "count": 8,
+        "items": [
+          {
+            "idx": 8,
+            "titulo": "Execução Penal",
+            "autor": "BRITO, Alexis Couto de",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 12,
+            "titulo": "Caderno Sistematizado de Execução Penal",
+            "autor": "CADERNOS SISTEMATIZADOS",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 15,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2019",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 16,
+            "titulo": "Curso de Execução Penal",
+            "autor": "2020",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 23,
+            "titulo": "Execucao penal e criminologia",
+            "autor": "Erick de Figueiredo Maia",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 24,
+            "titulo": "Execução Penal",
+            "autor": "2021",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 25,
+            "titulo": "Execução Penal",
+            "autor": "",
+            "relevancia": "alta"
+          },
+          {
+            "idx": 28,
+            "titulo": "Lei de Execução Penal para Concursos",
+            "autor": "Rogério Sanches Cunha",
+            "relevancia": "alta"
+          }
+        ]
+      },
+      "rag_config": {
+        "max_modelos": 3,
+        "max_juris": 0,
+        "max_doutrina": 1,
+        "ordem_contexto": [
+          "legislacao",
+          "modelo",
+          "jurisprudencia",
+          "doutrina"
+        ]
+      }
+    }
+  }
+}

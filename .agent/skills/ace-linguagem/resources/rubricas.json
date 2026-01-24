@@ -1,0 +1,97 @@
+{
+    "estruturaArt489": {
+        "peso": 0.40,
+        "descricao": "Estrutura formal conforme Art. 489 do CPC",
+        "criterios": {
+            "vistos": {
+                "pontos": 25,
+                "regex": "vistos\\s*(etc\\.?)?",
+                "descricao": "Contém 'Vistos etc.' ou similar"
+            },
+            "relatorio": {
+                "pontos": 25,
+                "regex": "relatados\\.?",
+                "descricao": "Contém 'Relatados.' marcando fim do relatório"
+            },
+            "fundamentacao": {
+                "pontos": 25,
+                "regex": "isso\\s*posto",
+                "descricao": "Contém 'Isso posto,' marcando início do dispositivo"
+            },
+            "dispositivo": {
+                "pontos": 25,
+                "regex": "p\\.?\\s*r\\.?\\s*i\\.?",
+                "descricao": "Contém 'P.R.I.' como fechamento"
+            }
+        }
+    },
+    "citacoesABNT": {
+        "peso": 0.30,
+        "descricao": "Citações em formato ABNT",
+        "criterios": {
+            "formato_autor": {
+                "pontos": 10,
+                "regex": "[A-Z][A-ZÁÉÍÓÚÂÊÎÔÛÃÕÇ]+,\\s*[A-Za-záéíóúâêîôûãõç]+",
+                "descricao": "Autor em formato SOBRENOME, Nome"
+            },
+            "obra_presente": {
+                "pontos": 10,
+                "descricao": "Título da obra presente"
+            },
+            "editora_ano": {
+                "pontos": 5,
+                "regex": "\\d{4}",
+                "descricao": "Ano de publicação presente"
+            },
+            "pagina": {
+                "pontos": 5,
+                "regex": "p\\.?\\s*\\d+",
+                "descricao": "Referência a página específica"
+            }
+        }
+    },
+    "tamanho": {
+        "peso": 0.20,
+        "descricao": "Proporção de tamanho em relação ao golden",
+        "ideal": {
+            "min": 0.70,
+            "max": 1.30
+        },
+        "aceitavel": {
+            "min": 0.50,
+            "max": 1.50
+        },
+        "pontuacao": {
+            "ideal": 100,
+            "aceitavel": 70,
+            "fora": 40
+        }
+    },
+    "linguagem": {
+        "peso": 0.10,
+        "descricao": "Qualidade da linguagem técnico-jurídica",
+        "criterios": {
+            "formalidade": {
+                "pontos": 5,
+                "indicadores": [
+                    "requer",
+                    "pugna",
+                    "aduz",
+                    "preleciona",
+                    "destarte"
+                ],
+                "descricao": "Uso de vocabulário formal jurídico"
+            },
+            "tecnicidade": {
+                "pontos": 5,
+                "indicadores": [
+                    "apenado",
+                    "reeducando",
+                    "execução penal",
+                    "LEP"
+                ],
+                "descricao": "Uso de termos técnicos da execução penal"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{"timestamp":"2026-01-24T04:33:56.757Z","caso":"train_1769229232938_8jtvan","risco":26.328212228947525,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T04:34:47.622Z","caso":"train_1769229284021_lukyvm","risco":12.943233237350885,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T04:34:51.504Z","caso":"train_1769229287622_gpr23y","risco":17.27096432978786,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T04:35:43.965Z","caso":"train_1769229339622_as47fc","risco":15.674325674325676,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T04:35:51.287Z","caso":"train_1769229347300_ivi3v2","risco":31.3771522595052,"alucinacoes":[{"tipo":"fracao_invalida","valor":"215/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T04:36:36.014Z","caso":"train_1769229392742_lsn7t2","risco":16.246804665922316,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:31:44.583Z","caso":"train_1769232702179_i63tx4","risco":31.209085032614443,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:32:38.245Z","caso":"train_1769232755058_2y98cm","risco":38.39820106364224,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:32:46.996Z","caso":"train_1769232758246_9m4lyv","risco":19.96003996003996,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:32:49.872Z","caso":"train_1769232766997_chs7gr","risco":8.531468531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/11","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:32:52.665Z","caso":"train_1769232769873_k2ztw4","risco":15.234765234765236,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:32:55.613Z","caso":"train_1769232772666_2n9a1g","risco":16.663336663336665,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/1984","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:33:01.954Z","caso":"train_1769232779010_ccxjts","risco":18.03514500205677,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:33:54.291Z","caso":"train_1769232831170_4wzqtu","risco":18.03514500205677,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:34:08.643Z","caso":"train_1769232846042_3b795r","risco":19.017287859199627,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"tratado de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:34:54.790Z","caso":"train_1769232891487_0m8tqq","risco":20.04144752306517,"alucinacoes":[{"tipo":"fracao_invalida","valor":"702/2018","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:35:28.370Z","caso":"train_1769232923092_0jolmt","risco":17.22894752306517,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:35:45.268Z","caso":"train_1769232942572_qasfbf","risco":15.674325674325676,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"tratado de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:36:01.065Z","caso":"train_1769232956628_baz0bo","risco":17.22894752306517,"alucinacoes":[{"tipo":"fracao_invalida","valor":"683/1940","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:36:07.291Z","caso":"train_1769232964254_k6r24w","risco":15.674325674325676,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"tratado de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:36:18.998Z","caso":"train_1769232976328_5vhpi9","risco":12.817182817182818,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"tratado de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:36:38.199Z","caso":"train_1769232994523_vf914m","risco":24.0662278897573,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:37:25.943Z","caso":"train_1769233041548_u06v6z","risco":8.531468531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"385/1976","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:37:35.225Z","caso":"train_1769233052164_36m0k6","risco":31.243168596109772,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:37:45.927Z","caso":"train_1769233063786_hkyezj","risco":17.549325674325676,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:37:58.766Z","caso":"train_1769233075885_48mrxm","risco":8.531468531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"318/75","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:38:19.248Z","caso":"train_1769233095826_zak0qa","risco":16.663336663336665,"alucinacoes":[{"tipo":"fracao_invalida","valor":"683/1940","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:38:55.298Z","caso":"train_1769233132506_9rj9ey","risco":23.11130046424164,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"tratado de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:39:18.656Z","caso":"train_1769233155109_e0lwhs","risco":10.406468531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/1984","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:39:23.666Z","caso":"train_1769233158656_z4s7q3","risco":8.531468531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"385/76","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:39:39.201Z","caso":"train_1769233176268_zpgr3g","risco":20.57190970793912,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:40:18.393Z","caso":"train_1769233215368_mmj9c3","risco":12.817182817182818,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/22","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:41:05.440Z","caso":"train_1769233262809_evxz0r","risco":27.714766850796263,"alucinacoes":[{"tipo":"fracao_invalida","valor":"210/84","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:41:15.071Z","caso":"train_1769233272821_opchdm","risco":34.51265646118588,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:41:17.982Z","caso":"train_1769233275072_vyj28r","risco":11.343968531468532,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T05:41:52.530Z","caso":"train_1769233309534_zzpsnz","risco":12.817182817182818,"alucinacoes":[{"tipo":"citacao_suspeita","termo":"manual de","gravidade":"media"}]}
+{"timestamp":"2026-01-24T05:42:03.979Z","caso":"train_1769233321434_seebek","risco":25.9684433213845,"alucinacoes":[{"tipo":"fracao_invalida","valor":"1/24","gravidade":"alta"}]}
+{"timestamp":"2026-01-24T06:38:39.960Z","caso":"train_1769236659935_lyhdq5","risco":15.629682817182818,"alucinacoes":[{"tipo":"resposta_vazia","gravidade":"alta"}]}

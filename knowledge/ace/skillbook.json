@@ -1,0 +1,80 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-01-23T23:49:00.000Z",
+  "lastUpdate": "2026-01-24T02:53:48.069Z",
+  "stats": {
+    "testsRun": 2,
+    "averageScore": 60.25,
+    "bestScore": 60.25,
+    "improvementRate": 0,
+    "lastImprovement": null
+  },
+  "skills": [
+    {
+      "id": "SK000",
+      "type": "helpful",
+      "category": "estrutura",
+      "pattern": "Iniciar relatório com contexto do apenado e situação processual antes de entrar no mérito",
+      "confidence": 0.9,
+      "examples": [],
+      "extractedFrom": "seed",
+      "addedAt": "2026-01-23"
+    },
+    {
+      "id": "SK001",
+      "type": "helpful",
+      "category": "estrutura",
+      "pattern": "Usar 'Vistos etc.' como abertura padrão das decisões",
+      "confidence": 0.95,
+      "examples": [],
+      "extractedFrom": "seed",
+      "addedAt": "2026-01-23"
+    },
+    {
+      "id": "SK002",
+      "type": "helpful",
+      "category": "citacoes",
+      "pattern": "Citar doutrina com autor no formato SOBRENOME, Nome seguido de título em itálico",
+      "confidence": 0.85,
+      "examples": [
+        "BALTAZAR JR., José Paulo. Sentencing and Criminal Execution Law..."
+      ],
+      "extractedFrom": "seed",
+      "addedAt": "2026-01-23"
+    }
+  ],
+  "antipatterns": [
+    {
+      "id": "AP000",
+      "type": "harmful",
+      "category": "citacoes",
+      "pattern": "Inventar citações doutrinárias não presentes na base de conhecimento",
+      "severity": "high",
+      "occurrences": 0,
+      "lastSeen": null
+    },
+    {
+      "id": "AP001",
+      "type": "harmful",
+      "category": "estrutura",
+      "pattern": "Omitir o marcador 'Relatados.' entre relatório e fundamentação",
+      "severity": "medium",
+      "occurrences": 0,
+      "lastSeen": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-01-24T02:53:48.068Z",
+      "agrupador": "remicao",
+      "score": 60.25,
+      "testsRun": 2,
+      "skillsCount": 3,
+      "updates": {
+        "skillsAdded": 0,
+        "skillsUpdated": 0,
+        "antipatternsAdded": 0
+      }
+    }
+  ]
+}

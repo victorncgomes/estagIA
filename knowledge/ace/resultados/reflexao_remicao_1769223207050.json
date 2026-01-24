@@ -1,0 +1,74 @@
+{
+  "dataAnalise": "2026-01-24T02:53:40.980Z",
+  "benchmarkRef": "2026-01-24T02:53:27.048Z",
+  "agrupador": "remicao",
+  "statsOriginal": {
+    "total": 2,
+    "sucesso": 2,
+    "falha": 0,
+    "scoreMedia": 60.25,
+    "scoreMelhor": 66.5,
+    "scorePior": 54
+  },
+  "analises": [
+    {
+      "modelo": "Acordao Reforma Enem",
+      "score": 54,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        }
+      ],
+      "pontosFracos": [
+        {
+          "categoria": "tamanho",
+          "descricao": "Texto muito longo (166% do golden)",
+          "score": 40
+        }
+      ],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": [
+        {
+          "categoria": "tamanho",
+          "acao": "Reduzir verbosidade, focar no essencial"
+        }
+      ]
+    },
+    {
+      "modelo": "Agravo Enem",
+      "score": 66.5,
+      "pontosFotes": [
+        {
+          "categoria": "estrutura",
+          "descricao": "Estrutura Art. 489 CPC completa",
+          "score": 100
+        },
+        {
+          "categoria": "citacoes",
+          "descricao": "Citações em formato adequado",
+          "score": 20
+        },
+        {
+          "categoria": "tamanho",
+          "descricao": "Tamanho adequado (80% do golden)",
+          "score": 100
+        }
+      ],
+      "pontosFracos": [],
+      "padroesExtraidos": [],
+      "antipadroesDetectados": [],
+      "recomendacoes": []
+    }
+  ],
+  "padroesExtraidos": [],
+  "antipadroesAgrupados": [],
+  "recomendacoesGerais": []
+}

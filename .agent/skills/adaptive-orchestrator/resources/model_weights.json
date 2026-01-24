@@ -1,0 +1,75 @@
+{
+    "weights": {
+        "claude-sonnet": {
+            "juridico": 1.5,
+            "redacao": 2.0,
+            "calculo": 1.2,
+            "fact_check": 1.5
+        },
+        "gpt-4o": {
+            "juridico": 1.3,
+            "redacao": 1.4,
+            "calculo": 1.4,
+            "fact_check": 1.3
+        },
+        "gemini-flash": {
+            "juridico": 1.0,
+            "redacao": 1.1,
+            "calculo": 1.1,
+            "fact_check": 1.0
+        },
+        "deepseek": {
+            "juridico": 0.9,
+            "redacao": 0.8,
+            "calculo": 1.8,
+            "fact_check": 1.0
+        },
+        "perplexity": {
+            "juridico": 1.0,
+            "redacao": 0.5,
+            "calculo": 0.7,
+            "fact_check": 1.5
+        },
+        "grok": {
+            "juridico": 0.8,
+            "redacao": 0.6,
+            "calculo": 0.8,
+            "fact_check": 1.3
+        },
+        "claude-opus": {
+            "juridico": 1.8,
+            "redacao": 1.8,
+            "calculo": 1.3,
+            "fact_check": 2.0
+        }
+    },
+    "thresholds": {
+        "tier1": {
+            "min": 0,
+            "max": 20
+        },
+        "tier2": {
+            "min": 21,
+            "max": 50
+        },
+        "tier3": {
+            "min": 51,
+            "max": 75
+        },
+        "tier4": {
+            "min": 76,
+            "max": 100
+        }
+    },
+    "costs": {
+        "tier1": 0.0005,
+        "tier2": 0.008,
+        "tier3": 0.018,
+        "tier4": 0.035
+    },
+    "approval_thresholds": {
+        "auto_approve": 99,
+        "recommend_review": 95,
+        "require_human": 90
+    }
+}

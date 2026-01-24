@@ -7,9 +7,9 @@
  * - Barra de progresso
  */
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import {
-    X, ChevronLeft, ChevronRight, Copy, BookOpen,
+    X, ChevronLeft, ChevronRight, Copy, BookOpen, Search,
     ZoomIn, ZoomOut, Sun, Moon, Coffee,
     Settings, Maximize2, Minimize2, Home
 } from 'lucide-react';
@@ -75,7 +75,11 @@ const KindleReader: React.FC<KindleReaderProps> = ({
     const [fontSizeIndex, setFontSizeIndex] = useState(2); // M = default
     const [showSettings, setShowSettings] = useState(false);
     const [isFullscreen, setIsFullscreen] = useState(false);
+    const [searchTerm, setSearchTerm] = useState('');
+    const [showSearch, setShowSearch] = useState(false);
+    const [matchCount, setMatchCount] = useState(0);
     const contentRef = useRef<HTMLDivElement>(null);
+    const searchInputRef = useRef<HTMLInputElement>(null);
 
     const currentTheme = THEMES[theme];
     const currentFont = FONT_SIZES[fontSizeIndex];
@@ -121,6 +125,33 @@ const KindleReader: React.FC<KindleReaderProps> = ({
             setIsFullscreen(false);
         }
     };
+
+    // Busca no texto com highlight
+    const textoComHighlight = useMemo(() => {
+        if (!searchTerm || searchTerm.length < 2) {
+            setMatchCount(0);
+            return texto;
+        }
+        const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+        const matches = texto.match(regex);
+        setMatchCount(matches?.length || 0);
+        return texto;
+    }, [texto, searchTerm]);
+
+    // Scroll para primeira ocorrência quando busca
+    useEffect(() => {
+        if (searchTerm.length >= 2 && contentRef.current) {
+            const highlight = contentRef.current.querySelector('.search-highlight');
+            highlight?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+    }, [searchTerm]);
+
+    // Foco no campo de busca quando abre
+    useEffect(() => {
+        if (showSearch && searchInputRef.current) {
+            searchInputRef.current.focus();
+        }
+    }, [showSearch]);
 
     return (
         <div className={`fixed inset-0 z-[100] flex flex-col ${currentTheme.bg} transition-colors duration-300`}>
@@ -175,8 +206,8 @@ const KindleReader: React.FC<KindleReaderProps> = ({
                         <button
                             onClick={() => setTheme('light')}
                             className={`p-2 rounded-lg transition-colors ${theme === 'light'
-                                    ? 'bg-yellow-100 text-yellow-600'
-                                    : `hover:bg-slate-500/10 ${currentTheme.accent}`
+                                ? 'bg-yellow-100 text-yellow-600'
+                                : `hover:bg-slate-500/10 ${currentTheme.accent}`
                                 }`}
                             title="Tema Claro"
                         >
@@ -185,8 +216,8 @@ const KindleReader: React.FC<KindleReaderProps> = ({
                         <button
                             onClick={() => setTheme('sepia')}
                             className={`p-2 rounded-lg transition-colors ${theme === 'sepia'
-                                    ? 'bg-amber-100 text-amber-600'
-                                    : `hover:bg-slate-500/10 ${currentTheme.accent}`
+                                ? 'bg-amber-100 text-amber-600'
+                                : `hover:bg-slate-500/10 ${currentTheme.accent}`
                                 }`}
                             title="Tema Sépia"
                         >
@@ -195,13 +226,52 @@ const KindleReader: React.FC<KindleReaderProps> = ({
                         <button
                             onClick={() => setTheme('dark')}
                             className={`p-2 rounded-lg transition-colors ${theme === 'dark'
-                                    ? 'bg-slate-700 text-slate-200'
-                                    : `hover:bg-slate-500/10 ${currentTheme.accent}`
+                                ? 'bg-slate-700 text-slate-200'
+                                : `hover:bg-slate-500/10 ${currentTheme.accent}`
                                 }`}
                             title="Tema Escuro"
                         >
                             <Moon size={18} />
                         </button>
+                    </div>
+
+                    {/* Busca */}
+                    <div className="flex items-center gap-1 border-l border-slate-500/20 pl-4">
+                        {showSearch ? (
+                            <div className="flex items-center gap-2">
+                                <input
+                                    ref={searchInputRef}
+                                    type="text"
+                                    placeholder="Buscar..."
+                                    value={searchTerm}
+                                    onChange={(e) => setSearchTerm(e.target.value)}
+                                    className={`px-3 py-1.5 rounded-lg text-sm w-48 border ${theme === 'dark'
+                                        ? 'bg-slate-800 border-slate-600 text-white'
+                                        : 'bg-white border-slate-300'
+                                        }`}
+                                    onKeyDown={(e) => e.key === 'Escape' && setShowSearch(false)}
+                                />
+                                {matchCount > 0 && (
+                                    <span className={`text-xs ${currentTheme.accent}`}>
+                                        {matchCount} encontrado(s)
+                                    </span>
+                                )}
+                                <button
+                                    onClick={() => { setShowSearch(false); setSearchTerm(''); }}
+                                    className={`p-1 rounded hover:bg-slate-500/10 ${currentTheme.accent}`}
+                                >
+                                    <X size={14} />
+                                </button>
+                            </div>
+                        ) : (
+                            <button
+                                onClick={() => setShowSearch(true)}
+                                className={`p-2 rounded-lg hover:bg-slate-500/10 transition-colors ${currentTheme.accent}`}
+                                title="Buscar no texto (Ctrl+F)"
+                            >
+                                <Search size={18} />
+                            </button>
+                        )}
                     </div>
 
                     {/* Ações */}
@@ -257,7 +327,18 @@ const KindleReader: React.FC<KindleReaderProps> = ({
                                 wordBreak: 'break-word'
                             }}
                         >
-                            {texto}
+                            {searchTerm.length >= 2 ? (
+                                <span
+                                    dangerouslySetInnerHTML={{
+                                        __html: texto.replace(
+                                            new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi'),
+                                            '<mark class="search-highlight bg-yellow-300 text-yellow-900 px-0.5 rounded">$1</mark>'
+                                        )
+                                    }}
+                                />
+                            ) : (
+                                texto
+                            )}
                         </article>
                     </div>
                 )}

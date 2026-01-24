@@ -171,7 +171,26 @@ export const runPipeline = async () => {
     // Usa o buildWritingSystemPrompt do Core Baltazar (conhecimento completo do juiz)
     const corePrompt = buildWritingSystemPrompt(selectedMatter || 'BENEFÍCIO');
 
+    // Instrução explícita sobre estrutura obrigatória (corrige omissão de Relatados.)
+    const estruturaObrigatoria = `
+## ESTRUTURA OBRIGATÓRIA DA DECISÃO
+Você DEVE seguir EXATAMENTE esta estrutura:
+1. Cabeçalho: PODER JUDICIÁRIO / TJRN / 1ª VARA REGIONAL DE EXECUÇÃO PENAL
+2. Número do processo
+3. "Vistos, etc." (em negrito)
+4. RELATÓRIO: "Aduz o apenado [nome]..." com eventos entre parênteses
+5. **OBRIGATÓRIO**: "Relatados." SOZINHO em parágrafo separado (marca transição)
+6. FUNDAMENTAÇÃO: Inicia direto (SEM título) após "Relatados."
+7. DISPOSITIVO: "Isso posto, [decisão]." 
+8. "P.R.I." com determinações
+9. Data por extenso e assinatura
+
+⚠️ CRÍTICO: A palavra "Relatados." deve aparecer SOZINHA em um parágrafo, marcando a transição entre relatório e fundamentação. NÃO omita este marcador!
+`;
+
     const writingPrompt = `${corePrompt}
+
+${estruturaObrigatoria}
 
 ## NÍVEL DE PROFUNDIDADE JURÍDICA: ${guidance.profundidadeJuridica}/6
 ${profundidadeGuide}

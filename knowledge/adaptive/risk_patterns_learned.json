@@ -1,0 +1,1806 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-01-24T05:42:03.983Z",
+  "padroes": {
+    "conflito_temporal+inedito": {
+      "fatores": [
+        "conflito_temporal",
+        "inedito"
+      ],
+      "total": 3,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232686867_2v9ng5",
+          "tema": "livramento",
+          "crime": "roubo",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 13,
+          "situacao_especial": {},
+          "complexidade": {
+            "caso_inedito": true,
+            "conflito_temporal": true
+          },
+          "caso_inedito": true,
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769233111110_v10esz",
+          "tema": "livramento",
+          "crime": "furto",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 20,
+          "situacao_especial": {},
+          "complexidade": {
+            "caso_inedito": true,
+            "conflito_temporal": true
+          },
+          "caso_inedito": true,
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769233312531_ouc181",
+          "tema": "remicao",
+          "crime": "furto",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 19,
+          "situacao_especial": {},
+          "complexidade": {
+            "caso_inedito": true,
+            "conflito_temporal": true
+          },
+          "caso_inedito": true,
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "baseline": {
+      "fatores": [],
+      "total": 49,
+      "alucinacoes": 7,
+      "taxa_alucinacao": 14.285714285714285,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232689335_8wz51o",
+          "tema": "livramento",
+          "crime": "furto",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 11,
+          "situacao_especial": {},
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232699528_m7lqoh",
+          "tema": "remicao",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 17,
+          "situacao_especial": {},
+          "complexidade": {
+            "unificacao_penas": true
+          },
+          "unificacao_penas": true
+        },
+        {
+          "id": "train_1769232726889_7otdlk",
+          "tema": "progressao",
+          "crime": "porte ilegal",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 13,
+          "situacao_especial": {},
+          "complexidade": {
+            "multiplas_leis": true
+          },
+          "multiplas_leis": true
+        }
+      ]
+    },
+    "decreto+gestante+tentativa": {
+      "fatores": [
+        "decreto",
+        "gestante",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232691535_o97gz5",
+          "tema": "progressao",
+          "crime": "porte ilegal",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 5,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "combinacao_leis": {
+      "fatores": [
+        "combinacao_leis"
+      ],
+      "total": 10,
+      "alucinacoes": 4,
+      "taxa_alucinacao": 40,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769232694213_p8ajob",
+          "tema": "falta_grave",
+          "crime": "roubo",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 16,
+          "situacao_especial": {},
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769232779010_ccxjts",
+          "tema": "unificacao",
+          "crime": "tráfico",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 9,
+          "situacao_especial": {},
+          "complexidade": {
+            "limite_trintenario": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "limite_trintenario": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769232781954_9d2vdm",
+          "tema": "livramento",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196",
+            "unificacao_penas": true
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196",
+          "unificacao_penas": true
+        }
+      ]
+    },
+    "combinacao_leis+decreto+pacote_anticrime": {
+      "fatores": [
+        "combinacao_leis",
+        "decreto",
+        "pacote_anticrime"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232697025_zyfvgt",
+          "tema": "progressao",
+          "crime": "porte ilegal",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "antes_pacote_anticrime": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769233270409_66t00f",
+          "tema": "livramento",
+          "crime": "receptação",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "doenca_grave": true,
+            "antes_pacote_anticrime": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "gestante+inedito+tentativa": {
+      "fatores": [
+        "gestante",
+        "inedito",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 100,
+      "tier_recomendado": 4,
+      "exemplos": [
+        {
+          "id": "train_1769232702179_i63tx4",
+          "tema": "progressao",
+          "crime": "homicídio",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 17,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "caso_inedito": true
+          },
+          "caso_inedito": true
+        }
+      ]
+    },
+    "tentativa": {
+      "fatores": [
+        "tentativa"
+      ],
+      "total": 6,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 16.666666666666664,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232704670_bap4gn",
+          "tema": "unificacao",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "tentativa": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232876924_dd84kh",
+          "tema": "livramento",
+          "crime": "receptação",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 14,
+          "situacao_especial": {
+            "tentativa": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769233019696_stc969",
+          "tema": "unificacao",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 7,
+          "situacao_especial": {
+            "tentativa": true
+          },
+          "complexidade": {
+            "limite_trintenario": true
+          },
+          "limite_trintenario": true
+        }
+      ]
+    },
+    "gestante+tentativa": {
+      "fatores": [
+        "gestante",
+        "tentativa"
+      ],
+      "total": 11,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 9.090909090909092,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232707839_t2vgyg",
+          "tema": "falta_grave",
+          "crime": "estelionato",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true,
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232710035_bpr443",
+          "tema": "indulto",
+          "crime": "roubo",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232712552_xlrlap",
+          "tema": "remicao",
+          "crime": "receptação",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 20,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "pacote_anticrime+tentativa": {
+      "fatores": [
+        "pacote_anticrime",
+        "tentativa"
+      ],
+      "total": 3,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232715023_6n0v7u",
+          "tema": "unificacao",
+          "crime": "roubo",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 6,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "tentativa": true,
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232798185_yzkw1e",
+          "tema": "progressao",
+          "crime": "roubo",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 6,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "tentativa": true,
+            "estrangeiro": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769233184502_qu89o8",
+          "tema": "remicao",
+          "crime": "homicídio",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 7,
+          "situacao_especial": {
+            "doenca_grave": true,
+            "antes_pacote_anticrime": true,
+            "tentativa": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "gestante": {
+      "fatores": [
+        "gestante"
+      ],
+      "total": 18,
+      "alucinacoes": 2,
+      "taxa_alucinacao": 11.11111111111111,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232718747_mwkwwu",
+          "tema": "indulto",
+          "crime": "roubo",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 6,
+          "situacao_especial": {
+            "gestante": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232749272_hnaugq",
+          "tema": "progressao",
+          "crime": "tráfico",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 4,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "gestante": true,
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232752126_dtwzip",
+          "tema": "progressao",
+          "crime": "receptação",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 18,
+          "situacao_especial": {
+            "doenca_grave": true,
+            "gestante": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "decreto": {
+      "fatores": [
+        "decreto"
+      ],
+      "total": 14,
+      "alucinacoes": 5,
+      "taxa_alucinacao": 35.714285714285715,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769232721211_h4r9xq",
+          "tema": "remicao",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 1,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232772666_2n9a1g",
+          "tema": "remicao",
+          "crime": "homicídio",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 1,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232775614_r14lt2",
+          "tema": "falta_grave",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 20,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "estrangeiro": true
+          },
+          "complexidade": {
+            "multiplas_leis": true
+          },
+          "multiplas_leis": true
+        }
+      ]
+    },
+    "conflito_temporal+pacote_anticrime": {
+      "fatores": [
+        "conflito_temporal",
+        "pacote_anticrime"
+      ],
+      "total": 5,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232724142_pbk4n8",
+          "tema": "remicao",
+          "crime": "tráfico",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 7,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "conflito_temporal": true
+          },
+          "multiplas_leis": true,
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769232733227_3lw60f",
+          "tema": "falta_grave",
+          "crime": "furto",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "conflito_temporal": true
+          },
+          "multiplas_leis": true,
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769232746546_mki9bw",
+          "tema": "falta_grave",
+          "crime": "porte ilegal",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 8,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "idoso": true,
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "conflito_temporal": true
+          },
+          "multiplas_leis": true,
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+decreto+gestante+pacote_anticrime": {
+      "fatores": [
+        "combinacao_leis",
+        "decreto",
+        "gestante",
+        "pacote_anticrime"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232738679_pq8rgn",
+          "tema": "remicao",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 19,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "gestante": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "multiplas_leis": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "combinacao_leis+inedito": {
+      "fatores": [
+        "combinacao_leis",
+        "inedito"
+      ],
+      "total": 1,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 100,
+      "tier_recomendado": 4,
+      "exemplos": [
+        {
+          "id": "train_1769232755058_2y98cm",
+          "tema": "remicao",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 7,
+          "situacao_especial": {
+            "idoso": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196",
+            "caso_inedito": true
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196",
+          "caso_inedito": true
+        }
+      ]
+    },
+    "decreto+gestante": {
+      "fatores": [
+        "decreto",
+        "gestante"
+      ],
+      "total": 2,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 50,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769232758246_9m4lyv",
+          "tema": "falta_grave",
+          "crime": "furto",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 14,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "gestante": true,
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232857519_1irw4r",
+          "tema": "falta_grave",
+          "crime": "receptação",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 9,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "gestante": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "decreto+pacote_anticrime+tentativa": {
+      "fatores": [
+        "decreto",
+        "pacote_anticrime",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232787249_4ulo2c",
+          "tema": "unificacao",
+          "crime": "estelionato",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 16,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "tentativa": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "limite_trintenario": true
+          },
+          "limite_trintenario": true
+        }
+      ]
+    },
+    "conflito_temporal": {
+      "fatores": [
+        "conflito_temporal"
+      ],
+      "total": 17,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 5.88235294117647,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232789773_e4p4zs",
+          "tema": "livramento",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 6,
+          "situacao_especial": {
+            "idoso": true,
+            "estrangeiro": true
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769232807109_r7773s",
+          "tema": "unificacao",
+          "crime": "tráfico",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 7,
+          "situacao_especial": {
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "unificacao_penas": true,
+            "conflito_temporal": true
+          },
+          "unificacao_penas": true,
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769232840174_fcdp23",
+          "tema": "livramento",
+          "crime": "roubo",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 9,
+          "situacao_especial": {},
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+gestante+tentativa": {
+      "fatores": [
+        "combinacao_leis",
+        "gestante",
+        "tentativa"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232813022_648gli",
+          "tema": "indulto",
+          "crime": "estelionato",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769232928371_rk3l6a",
+          "tema": "falta_grave",
+          "crime": "porte ilegal",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 20,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true,
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "multiplas_leis": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "gestante+pacote_anticrime": {
+      "fatores": [
+        "gestante",
+        "pacote_anticrime"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232819444_w67lc9",
+          "tema": "progressao",
+          "crime": "tráfico",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "gestante": true,
+            "antes_pacote_anticrime": true,
+            "idoso": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "combinacao_leis+gestante": {
+      "fatores": [
+        "combinacao_leis",
+        "gestante"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232822012_pp6mj9",
+          "tema": "indulto",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 19,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "gestante": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "decreto+tentativa": {
+      "fatores": [
+        "decreto",
+        "tentativa"
+      ],
+      "total": 3,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232860800_z29wbv",
+          "tema": "falta_grave",
+          "crime": "homicídio",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "tentativa": true,
+            "estrangeiro": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232894790_cfksjq",
+          "tema": "indulto",
+          "crime": "estelionato",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "tentativa": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "multiplas_leis": true
+          },
+          "multiplas_leis": true
+        },
+        {
+          "id": "train_1769233016812_wnxk92",
+          "tema": "indulto",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "tentativa": true,
+            "decreto_presidencial": "Decreto X/2025",
+            "doenca_grave": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "decreto+pacote_anticrime": {
+      "fatores": [
+        "decreto",
+        "pacote_anticrime"
+      ],
+      "total": 7,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232863322_md4ix0",
+          "tema": "progressao",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 19,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "unificacao_penas": true
+          },
+          "unificacao_penas": true
+        },
+        {
+          "id": "train_1769232978998_u1cbhm",
+          "tema": "indulto",
+          "crime": "receptação",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 17,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "decreto_presidencial": "Decreto X/2025",
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232988174_cgzzwk",
+          "tema": "remicao",
+          "crime": "furto",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 6,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "doenca_grave": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "unificacao_penas": true
+          },
+          "unificacao_penas": true
+        }
+      ]
+    },
+    "conflito_temporal+decreto": {
+      "fatores": [
+        "conflito_temporal",
+        "decreto"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232868241_0vihp8",
+          "tema": "unificacao",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "estrangeiro": true
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769233303996_gitt4c",
+          "tema": "progressao",
+          "crime": "tráfico",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "pacote_anticrime": {
+      "fatores": [
+        "pacote_anticrime"
+      ],
+      "total": 8,
+      "alucinacoes": 2,
+      "taxa_alucinacao": 25,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769232871364_oy6vak",
+          "tema": "unificacao",
+          "crime": "porte ilegal",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {}
+        },
+        {
+          "id": "train_1769232891487_0m8tqq",
+          "tema": "indulto",
+          "crime": "tráfico",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 17,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "unificacao_penas": true
+          },
+          "multiplas_leis": true,
+          "unificacao_penas": true
+        },
+        {
+          "id": "train_1769232903872_zsxt9y",
+          "tema": "livramento",
+          "crime": "homicídio",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 4,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {}
+        }
+      ]
+    },
+    "inedito": {
+      "fatores": [
+        "inedito"
+      ],
+      "total": 7,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 14.285714285714285,
+      "tier_recomendado": 2,
+      "exemplos": [
+        {
+          "id": "train_1769232910064_i8fysr",
+          "tema": "remicao",
+          "crime": "furto",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 18,
+          "situacao_especial": {
+            "doenca_grave": true,
+            "estrangeiro": true,
+            "idoso": true
+          },
+          "complexidade": {
+            "caso_inedito": true,
+            "unificacao_penas": true
+          },
+          "caso_inedito": true,
+          "unificacao_penas": true
+        },
+        {
+          "id": "train_1769232961066_vv8kq8",
+          "tema": "unificacao",
+          "crime": "roubo",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 7,
+          "situacao_especial": {},
+          "complexidade": {
+            "caso_inedito": true,
+            "limite_trintenario": true
+          },
+          "caso_inedito": true,
+          "limite_trintenario": true
+        },
+        {
+          "id": "train_1769232982230_re1b9a",
+          "tema": "indulto",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 19,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "idoso": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "caso_inedito": true
+          },
+          "multiplas_leis": true,
+          "caso_inedito": true
+        }
+      ]
+    },
+    "combinacao_leis+tentativa": {
+      "fatores": [
+        "combinacao_leis",
+        "tentativa"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769232973434_59ddxa",
+          "tema": "indulto",
+          "crime": "roubo",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 11,
+          "situacao_especial": {
+            "tentativa": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769233102508_1uj0hm",
+          "tema": "unificacao",
+          "crime": "homicídio",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "tentativa": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "conflito_temporal+decreto+gestante+inedito+pacote_anticrime": {
+      "fatores": [
+        "conflito_temporal",
+        "decreto",
+        "gestante",
+        "inedito",
+        "pacote_anticrime"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233013896_9dpf48",
+          "tema": "remicao",
+          "crime": "estelionato",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 19,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "gestante": true,
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "caso_inedito": true,
+            "conflito_temporal": true
+          },
+          "caso_inedito": true,
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "gestante+pacote_anticrime+tentativa": {
+      "fatores": [
+        "gestante",
+        "pacote_anticrime",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233033192_rhv5dh",
+          "tema": "falta_grave",
+          "crime": "tráfico",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 16,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "unificacao_penas": true,
+            "limite_trintenario": true
+          },
+          "unificacao_penas": true,
+          "limite_trintenario": true
+        }
+      ]
+    },
+    "conflito_temporal+decreto+pacote_anticrime": {
+      "fatores": [
+        "conflito_temporal",
+        "decreto",
+        "pacote_anticrime"
+      ],
+      "total": 3,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 33.33333333333333,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769233052164_36m0k6",
+          "tema": "remicao",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "primario",
+          "pena_anos": 18,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "conflito_temporal": true,
+            "multiplas_leis": true
+          },
+          "conflito_temporal": true,
+          "multiplas_leis": true
+        },
+        {
+          "id": "train_1769233116558_rpll31",
+          "tema": "unificacao",
+          "crime": "porte ilegal",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 8,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        },
+        {
+          "id": "train_1769233318914_ekyrq8",
+          "tema": "remicao",
+          "crime": "homicídio",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 1,
+          "situacao_especial": {
+            "idoso": true,
+            "decreto_presidencial": "Decreto X/2025",
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+inedito+pacote_anticrime": {
+      "fatores": [
+        "combinacao_leis",
+        "inedito",
+        "pacote_anticrime"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233070591_zl1pzt",
+          "tema": "livramento",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true
+          },
+          "complexidade": {
+            "caso_inedito": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "caso_inedito": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "gestante+inedito": {
+      "fatores": [
+        "gestante",
+        "inedito"
+      ],
+      "total": 2,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 50,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769233073299_9pa32y",
+          "tema": "indulto",
+          "crime": "porte ilegal",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "gestante": true
+          },
+          "complexidade": {
+            "limite_trintenario": true,
+            "caso_inedito": true
+          },
+          "limite_trintenario": true,
+          "caso_inedito": true
+        },
+        {
+          "id": "train_1769233272821_opchdm",
+          "tema": "livramento",
+          "crime": "furto",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 4,
+          "situacao_especial": {
+            "gestante": true,
+            "estrangeiro": true,
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "caso_inedito": true,
+            "limite_trintenario": true
+          },
+          "caso_inedito": true,
+          "limite_trintenario": true
+        }
+      ]
+    },
+    "combinacao_leis+conflito_temporal+gestante+tentativa": {
+      "fatores": [
+        "combinacao_leis",
+        "conflito_temporal",
+        "gestante",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233108230_df7s2k",
+          "tema": "remicao",
+          "crime": "estelionato",
+          "regime": "fechado",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "estrangeiro": true,
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196",
+            "conflito_temporal": true
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196",
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+decreto": {
+      "fatores": [
+        "combinacao_leis",
+        "decreto"
+      ],
+      "total": 2,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 50,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769233143938_yczzeb",
+          "tema": "falta_grave",
+          "crime": "furto",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769233262809_evxz0r",
+          "tema": "progressao",
+          "crime": "estelionato",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 1,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196",
+            "multiplas_leis": true
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196",
+          "multiplas_leis": true
+        }
+      ]
+    },
+    "decreto+inedito": {
+      "fatores": [
+        "decreto",
+        "inedito"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233152390_rlwx6a",
+          "tema": "indulto",
+          "crime": "tráfico",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 12,
+          "situacao_especial": {
+            "idoso": true,
+            "decreto_presidencial": "Decreto X/2025"
+          },
+          "complexidade": {
+            "unificacao_penas": true,
+            "caso_inedito": true
+          },
+          "unificacao_penas": true,
+          "caso_inedito": true
+        },
+        {
+          "id": "train_1769233250692_9blc6n",
+          "tema": "indulto",
+          "crime": "homicídio",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "idoso": true,
+            "decreto_presidencial": "Decreto X/2025",
+            "estrangeiro": true
+          },
+          "complexidade": {
+            "caso_inedito": true
+          },
+          "caso_inedito": true
+        }
+      ]
+    },
+    "combinacao_leis+decreto+gestante": {
+      "fatores": [
+        "combinacao_leis",
+        "decreto",
+        "gestante"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233179201_9klt11",
+          "tema": "indulto",
+          "crime": "roubo",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 8,
+          "situacao_especial": {
+            "gestante": true,
+            "decreto_presidencial": "Decreto X/2025",
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "limite_trintenario": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "limite_trintenario": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769233187855_6thpoi",
+          "tema": "livramento",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 15,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "doenca_grave": true,
+            "gestante": true
+          },
+          "complexidade": {
+            "unificacao_penas": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "unificacao_penas": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "conflito_temporal+gestante+tentativa": {
+      "fatores": [
+        "conflito_temporal",
+        "gestante",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233218394_lqatbq",
+          "tema": "livramento",
+          "crime": "tráfico",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "gestante": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "conflito_temporal": true
+          },
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+pacote_anticrime+tentativa": {
+      "fatores": [
+        "combinacao_leis",
+        "pacote_anticrime",
+        "tentativa"
+      ],
+      "total": 2,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233222267_hprmzg",
+          "tema": "livramento",
+          "crime": "estelionato",
+          "regime": "semiaberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 18,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "tentativa": true,
+            "doenca_grave": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        },
+        {
+          "id": "train_1769233265440_u62y2b",
+          "tema": "livramento",
+          "crime": "furto",
+          "regime": "semiaberto",
+          "reincidencia": "primario",
+          "pena_anos": 3,
+          "situacao_especial": {
+            "antes_pacote_anticrime": true,
+            "tentativa": true,
+            "idoso": true
+          },
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    },
+    "combinacao_leis+conflito_temporal": {
+      "fatores": [
+        "combinacao_leis",
+        "conflito_temporal"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233236199_mg00m0",
+          "tema": "falta_grave",
+          "crime": "tráfico",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 7,
+          "situacao_especial": {},
+          "complexidade": {
+            "combinacao_leis": true,
+            "tema_stj": "1196",
+            "conflito_temporal": true
+          },
+          "combinacao_leis": true,
+          "tema_stj": "1196",
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "conflito_temporal+gestante": {
+      "fatores": [
+        "conflito_temporal",
+        "gestante"
+      ],
+      "total": 2,
+      "alucinacoes": 1,
+      "taxa_alucinacao": 50,
+      "tier_recomendado": 3,
+      "exemplos": [
+        {
+          "id": "train_1769233245158_ojd35a",
+          "tema": "livramento",
+          "crime": "roubo",
+          "regime": "aberto",
+          "reincidencia": "reincidente_generico",
+          "pena_anos": 16,
+          "situacao_especial": {
+            "gestante": true
+          },
+          "complexidade": {
+            "conflito_temporal": true,
+            "multiplas_leis": true
+          },
+          "conflito_temporal": true,
+          "multiplas_leis": true
+        },
+        {
+          "id": "train_1769233321434_seebek",
+          "tema": "indulto",
+          "crime": "estelionato",
+          "regime": "aberto",
+          "reincidencia": "reincidente_especifico",
+          "pena_anos": 18,
+          "situacao_especial": {
+            "idoso": true,
+            "gestante": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "conflito_temporal": true
+          },
+          "multiplas_leis": true,
+          "conflito_temporal": true
+        }
+      ]
+    },
+    "combinacao_leis+decreto+pacote_anticrime+tentativa": {
+      "fatores": [
+        "combinacao_leis",
+        "decreto",
+        "pacote_anticrime",
+        "tentativa"
+      ],
+      "total": 1,
+      "alucinacoes": 0,
+      "taxa_alucinacao": 0,
+      "tier_recomendado": 1,
+      "exemplos": [
+        {
+          "id": "train_1769233286970_bvyjhx",
+          "tema": "indulto",
+          "crime": "receptação",
+          "regime": "fechado",
+          "reincidencia": "primario",
+          "pena_anos": 8,
+          "situacao_especial": {
+            "decreto_presidencial": "Decreto X/2025",
+            "antes_pacote_anticrime": true,
+            "tentativa": true
+          },
+          "complexidade": {
+            "multiplas_leis": true,
+            "combinacao_leis": true,
+            "tema_stj": "1196"
+          },
+          "multiplas_leis": true,
+          "combinacao_leis": true,
+          "tema_stj": "1196"
+        }
+      ]
+    }
+  }
+}

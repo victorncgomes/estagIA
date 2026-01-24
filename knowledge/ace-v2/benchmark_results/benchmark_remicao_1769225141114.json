@@ -1,0 +1,66 @@
+{
+  "tema": "remicao",
+  "dataInicio": "2026-01-24T03:25:14.773Z",
+  "config": {},
+  "testes": [
+    {
+      "caso_id": "caso_1769225114777_p20217ay5",
+      "reu": "Maria dos Santos",
+      "tempo": 3387,
+      "score": 62.3,
+      "tem_alucinacao": false,
+      "alucinacoes_count": 0,
+      "score_confianca": 100,
+      "decisao_length": 1048
+    },
+    {
+      "caso_id": "caso_1769225118680_bjrgk5buk",
+      "reu": "João da Silva",
+      "tempo": 2650,
+      "score": 62.3,
+      "tem_alucinacao": false,
+      "alucinacoes_count": 0,
+      "score_confianca": 100,
+      "decisao_length": 1224
+    },
+    {
+      "caso_id": "caso_1769225121844_etv5t4c24",
+      "reu": "Ana Pereira",
+      "tempo": 6959,
+      "score": 42.3,
+      "tem_alucinacao": true,
+      "alucinacoes_count": 9,
+      "score_confianca": 0,
+      "decisao_length": 3286
+    },
+    {
+      "caso_id": "caso_1769225129316_6t5i22osf",
+      "reu": "Carlos Souza",
+      "tempo": 7784,
+      "score": 37.3,
+      "tem_alucinacao": true,
+      "alucinacoes_count": 7,
+      "score_confianca": 0,
+      "decisao_length": 4356
+    },
+    {
+      "caso_id": "caso_1769225137609_j6swulyr9",
+      "reu": "José Oliveira",
+      "tempo": 2991,
+      "score": 62.8,
+      "tem_alucinacao": true,
+      "alucinacoes_count": 1,
+      "score_confianca": 85,
+      "decisao_length": 1547
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "sucesso": 5,
+    "falha": 0,
+    "alucinacoes": 3,
+    "taxa_alucinacao": 60,
+    "score_medio": 53.4
+  },
+  "dataFim": "2026-01-24T03:25:41.113Z"
+}

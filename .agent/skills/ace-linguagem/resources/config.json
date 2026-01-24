@@ -1,0 +1,48 @@
+{
+    "version": "1.0.0",
+    "defaults": {
+        "limit": 5,
+        "splitRatio": 0.8,
+        "epochs": 3,
+        "scoreAlvo": 75,
+        "provider": "gemini",
+        "model": "gemini-2.0-flash"
+    },
+    "agrupadores": [
+        "remicao",
+        "progressao",
+        "indulto",
+        "retificacao",
+        "unificacao",
+        "falta",
+        "prescricao"
+    ],
+    "modes": {
+        "quick": {
+            "description": "Teste rápido para validação",
+            "limit": 3,
+            "epochs": 1
+        },
+        "standard": {
+            "description": "Benchmark padrão",
+            "limit": 5,
+            "epochs": 3
+        },
+        "full": {
+            "description": "Benchmark completo",
+            "limit": 10,
+            "epochs": 5
+        },
+        "compare": {
+            "description": "Comparação baseline vs ACE",
+            "skipAdaptation": false,
+            "compareBaseline": true
+        }
+    },
+    "paths": {
+        "modelos": "knowledge/decisoes/modelos_completos_index.json",
+        "textos": "knowledge/decisoes/textos_completos",
+        "skillbook": "knowledge/ace/skillbook.json",
+        "resultados": "knowledge/ace/resultados"
+    }
+}
