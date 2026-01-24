@@ -1,7 +1,32 @@
 # estagIA - Changelog Consolidado
 
-> **Versão Atual**: 0.2.20  
+> **Versão Atual**: 0.2.21  
 > **Última Atualização**: 23/01/2026
+
+---
+
+## v0.2.21 - Auditoria Base de Conhecimento (23/01/2026)
+
+### 🔍 Auditoria Completa dos Modelos de Decisão
+
+**Problema Resolvido:** Modelos de progressão com resultado inconsistente (nome indicava "indefere" mas resultado = "indefinido").
+
+**Correções Aplicadas:**
+- "Decisao Progressao Reanalise Indefere" → resultado corrigido para `indefere`
+- "Progressao Indefere Subjetivo Faltas Graves" → resultado corrigido para `indefere`
+- Outros modelos de progressão com "indefere" no nome → corrigidos automaticamente
+
+**Scripts Criados:**
+- `scripts/auditKnowledge.cjs` - Auditoria geral da base
+- `scripts/auditProgressao.cjs` - Auditoria detalhada de progressão
+- `scripts/fixSpecificModels.cjs` - Correções específicas
+
+**Estatísticas da Auditoria:**
+| Métrica | Antes | Depois |
+|---------|-------|--------|
+| Total de modelos | 256 | 256 |
+| Modelos progressão "indefinido" | ~6 | ~3 |
+| Modelos progressão "indefere" | ~11 | ~14 |
 
 ---
 
